@@ -1,0 +1,316 @@
+[idsoftware.com]
+Login name: jcash     			In real life: John Cash
+Directory: /raid/nardo/jcash        	Shell: /bin/csh
+Last login Mon Oct 21 15:43 on ttyp3 from idtokay
+Plan:
+>>> Quake <<<
+
+8/1:
+*fixed names with spaces showing up as unconnected
+*added code to look for old clients that do names with spaces
+	incorrectly and handle that case
+
+
+8/7:
+*fixed the "Mod_NumForName: %s not found" bug
+
+
+8/8:
+*fixed getting stuck on start map with noexit on
+*fixed getting stuck on end map (must have a frag or time limit)
+*made it so when levels are advancing by limit you'll go through
+	all 4 episodes on a registered server
+
+
+8/9:
+*fixed it so dead players don't keep their stuff if the level changes
+*setting of crosshair is now saved on config.cfg
+*removed dumpscore and printclientscore from progs; they were unused
+
+
+8/12:
+*fixed so a CCREQ_RULE_INFO with an invalid name will not crash
+	the server
+
+
+8/14:
+*fixed using percent signs in a chat message would fault the server
+
+
+8/21:
+*progs fixes:
+	cells are no longer carried over to the start level
+	you could kill shub the wrong way; now you can't
+	fixed "killing" a secret door causing a host_error
+	cells are no longer picked up when you already have 100
+	if you discharge, cells are now removed before the backpack drops
+
+
+8/23:
+*first cut of IPX support for WinQuake
+*center rankings screen for high res
+*give blood
+*prep work for additional controller support
+
+
+8/26:
+*Fix the T1 (again)
+*crosshair was drawn wrong underwater at high res
+*doing restart or edict when a server wasn't running crashed
+
+
+8/27:
+*spaceball support
+
+
+8/28:
+*tuned spaceball support
+
+
+8/29:
+*assasin support
+
+8/30:
+*tuned assassin support
+*made "backup past 0" a developer message
+
+
+9/3:
+*exit to quake console instead of OS when a net game fails to load
+
+
+9/4:
+*added teamplay 2
+	you can hurt teamates (and yourself)
+	you lose 1 frag for killing a teamate
+*create code area for licensees
+*spaces were being added onto bindings when config.cfg was read
+*a binding to ";" is now written to config.cfg properly
+*unbound keys no longer written to config.cfg
+
+
+9/9:
+*severly limited what commands and vars can be changed remotely
+*showscores doesn't work in total full screen (no menu bar at all)
+*axe wasn't always aimed properly making hits/misses wrong
+*cycle weapon backwards
+*differentiate between ranking screens for death and level change
+	they are: end of level doesn't have anything at the bottom
+*picking up a weapon in a backpack should use normal changing rules
+*fixed incorrect "fell to his death" reports
+*fixed up obituaries; they can still be wrong, but a lot less often
+	mainly grenade deaths can be mis-reported
+*bitch at Sprint cuz they can't keep the damn internet connection up
+
+
+9/13:
+*make DYNAMIC_SIZE a param
+*dot dot
+*make winquake IPX work with DOS IPX
+*build 1.05 release (winded and DOS)
+
+
+9/18:
+*fixed a lockup when multiplayer was selected, but there
+	were no communications available
+*timeddemo was not showing the timings at the end
+*fixed progs so lightning gun is never considered your best
+	weapon when you are underwater
+*fixed not being able to bind the semicolon from the menu
+*made not being able to write a PCX file a warning instead
+	of a sys_error
+
+
+9/19-9/20:
+*New York City, Quake release party
+	311 (my clan) ripped Dark Requiem (with Tokay) to shreds
+		go see American's suddenly very quiet finger file
+			no more slams on 311	8-)
+		311 and Unholy Alliance still need to have a showdown
+			we both pulverized our opponents, but never got to play
+	real audio broadcast
+	drank stuff
+	ate stuff
+	signed stuff
+
+
+9/23:
+*fixed cd audio volume acting oddly with certain drives
+*update: American decides to slam 311 again; possible explanations
+	- he's in denial and really doesn't remember the beating they got
+	- he figures they might be able to win a "coolest t-shirt" match
+	- he confused our ages with the number of frags his clan's
+	  members got (under 21)
+	- "told Cash he looked too young to drink"
+		at my age that is NOT an insult :-)
+
+
+9/24:
+*fixed spawn/respawn telefrags
+	when spawning (or respawning) you it will now search and find
+		any open start spot, not just blindly go to the next one
+	you will only telefrag somebody if every single spot is occupied
+		in that case the last person in gets whacked; this keeps us
+		from getting right back into the rolling telefrags at the
+		start of a level and gives the first guys in a chance to get
+		off of the spots
+	teleporter telefrags have not been changed
+*notify what weapon picked up in backpack
+*don't print "player exited the level" in single player
+*added kick by number so people with "funny" names can be removed
+	Bane inadvertently assists with testing ;-)
+*bumped version number to 1.06
+*new GUS code: supports GUS Classic & fixes playback rate
+
+9/29:
+*fixed visiting exit level twice in a row (internal)
+*added noexit 2; same as noexit except you can exit the start level
+*fixed it so numeric addresses in the "connect to" box can be
+	followed by a colon and a port number
+*fixed the port number on the menus so it works
+*fixed the lightning gun discharge ghost problem
+
+
+10/2:
+*release 1.06
+
+
+10/3:
+*I hereby formally accept American's challange to a one on one DeathMatch.
+	The game rules:
+		we play at work, both on our blazingly fast P90s
+		version 1.06 and a dedicatd server
+		I get to pick the level; I'll give him advance notice
+			once I decide on the level
+		we both record demos of the match
+			we ought to get an audio recording of the match too ;-)
+		fraglimit 20
+		all other cvars standard for that level
+	date and time:
+		I'm going to Disney World next week, so after that
+			I'll try for that next week; no later than the second week
+		Neither of us are morning people, so I'd suggest a time
+			either late afternoon or later
+		Maybe really early the morning after ddt's bachelor party?!? ;-)
+*Timmy is back from vacation
+	He had a religious experience while in Europe; see if you figure out
+	which of these was it:
+		1) Visiting the Vatican
+		2) Seeing the Ferrari factory
+		3) Going to the nude beach in France
+
+
+10/4:
+Client side demos were broken?  DOH!!!  Believe it or not,
+	nobody had told me about that one ;-(
+
+
+10/5-10/11:
+I'm going to Disney World!  A week without the net or a decent
+	game of Quake....  aaargh!!!  Guess I'll survive ;-)
+
+10/28:
+Yes, I did come back from Disney World.
+	Tower of Terror - kicks ass!
+	Johnny (my 5 year old) rode evrything but Space Mountain
+		(too short) and Tower of Terror (too scary)
+	Joey (my 2 year old) ate evrything he could and got
+		a really good yank on Tigger's tail
+	Tropical Storms SUCK (first two days == very wet)
+Sorry for the lack of updates, but I've been working on Quake2
+	and, as you've probably noticed, we're not saying a whole lot
+	about it right now.  We're just trying not to go out
+	hyping it and later find out that we couldn't actually do
+	some of the stuff.
+Hi mom!
+Meanwhile back at the ranch...
+*fixed client side demos
+*fixed ipx for winquake on win95
+*fixed wrong total monster count
+	For all you progs programmers; look in monsters.qc
+	and remove the line "total_monsters = total_monsters + 1;"
+	in the function "swimmonster_start_go".
+*wrote CD Audio support for WinQuake
+Other "news"...
+No, American and I have *still* not done the match
+	We really are going to... really!  I'm just trying
+	to catch him when he's got a really bad hangover ;-)
+I've finally bought my "id car":
+	M3, Bright Red, 2 door, manual (of course)
+	Faster than American's MR2
+	Faster than Tim's Mustang
+	NOT as fast as any of the Carmack clan's cars
+	Did I mention it's faster than American's car? ;-)
+Got the new Marilyn Manson and KMFDM albumns
+	new music to annoy the wife and neighbors (hey, the kids like it!)
+Dentists are evil: "slight discomfort", yeah right
+
+10/29:
+Beware of idiots who are putting % in their names.  There's a problem
+	in the code that prints the obituaries (so-and-so killed so-and-so)
+	that can crash the server if a name has a % in it.  Thanks to
+	Zakk for sending me the info to find this one.
+
+10/30:
+There's a case where listen servers don't listen.  If you start
+	quake with "-listen" and then use the menu to start a multiplayer
+	game it will start but won't accept any players.  You can correct
+	it by doing "listen 1" from the console.
+Cool factoid: in German, Bright Red is "hellrot"
+
+11/1:
+*Sent off source to get the 1.06 Linux version done.
+Tim just got a Mortal Kombat II machine.  Productivity may suffer.
+
+11/3:
+My anniversary; 12 years today
+
+11/4:
+*fixed the lighning gun ammo bug
+	in player.qc, functions player_light1 and player_light2
+	change the line "if (!self.button0)" to
+	"if ((!self.button0) || (self.currentammo == 0))"
+	remember to do it both places!
+*fixed a bug with CDs with more than 32 tracks
+	Examples:	Marilyn Manson		Antichrist Superstar
+				Nine Inch Nails		Broken
+American is back from Mexico
+	time to finally play our match
+	now he wants to race too; wonder why ;-)
+My productivity won't suffer from having the MKII machine
+	I'd forgotten how bad I am at that game
+
+11/5:
+Joey's 2nd birthday; let the terrible twos begin
+Don't forget to vote...
+	I hope one of the choices is "None of the Above"
+	Bill "tax cut, retro tax increase, whatever" Clinton
+	Bob "Put down that pen!" Dole
+	Ross "Ears" Perot
+*voted
+	"None of the above" wasn't on the ballot
+	Wonder if anyone else wrote in Carmack?
+
+11/13:
+still alive, working on Quake2
+if you're using winded for servers, check out qhost/qview at
+	http://wasatchfault.com
+speaking of cool stuff, check out the Quake Comics at
+	http://www.webframes.com/quakecomics/
+
+11/15:
+thanks to Steve Otteson for today's "Cool German word of the day"
+	and to Dominik Volmer for correcting the spelling ;-)
+	Schutzfehlerverletzung - General Protection Fault
+
+
+-------------------------------------------------------------------
+John Cash (jcash@idsoftware.com) id Software
+
+Technical support: email support@idsoftware.com
+Latest info on id products: finger help@idsoftware.com
+Questions about id software: email help@idsoftware.com
+
+Official id anonymous FTP site: ftp.idsoftware.com
+Official id Web site: www.idsoftware.com
+-------------------------------------------------------------------

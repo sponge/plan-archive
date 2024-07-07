@@ -1,0 +1,1144 @@
+[idsoftware.com]
+Login name: help      			In real life: help
+Directory: /raid/nardo/help         	Shell: /bin/csh
+Never logged in.
+Project: To help you.
+Plan:
+Scabnabab.
+-------------------------------------------------------------------
+Here you will find updated info on DOOM, DOOM II, Heretic, and QUAKE.
+If there is something else you would like to see updates on please
+send mail to american@idsoftware.com.
+*IF YOU DO NOT SEE AN UPDATE ON SOMETHING, THAT MEANS THAT
+*THERE IS NOTHING TO UPDATE YOU ON. WHEN THERE IS NEW INFO
+*I WILL ADD IT IN HERE AS FAST AS I CAN.
+-------------------------------------------------------------------
+Want id stuff?
+
+The id WWW site is: www.idsoftware.com.
+The id ftp site is: ftp.idsoftware.com.
+The id fsp site is: fsp.idsoftware.com, port 21.
+-------------------------------------------------------------------
+Status of QUAKE---Updated: Tue, Dec 5th 11:15pm
+
+You can find screenshots of some of our Quake stuff
+on ftp.idsoftware.com in /idstuff/quake.
+
+All of you sorry losers who obviously can't figure
+out what "Don't send us mail" means finally got your
+way... Here is some sort of cheesy, lame-ass attempt
+at an update. Hope you're happy. You just wasted time
+we could have spent making Quake come out tomorrow. Now
+it will have to wait until Spring :)
+
+You all want to know why Quake is not going to be out
+until Spring... well, here it is: We are making it better.
+That is all there is to it. We refuse to release something
+that we are not going to have fun playing, because that
+means that you probably won't have fun playing it. We
+took a good look at where the game was going and decided
+to take it in some other direction. Yes, it will still be
+everything you ever wanted from the original Quake idea,
+minus some things we thought sucked, and plus some things
+that we think were missing from the old design.
+
+Things that work:
+Just about everything.
+
+Things we are working on:
+Speed, monsters, actual game play :), more
+weapons, figuring out some way to have all
+the people who send us mail bugging us about
+Quake run over by a truck. Joystick code,
+items, environmental hazards, etc...
+++++++++++++++++++++++++++++++++++
+
+Network Play:
+We have DeathMatch! (This is really why we are delaying the
+release... we have been playing DM too much.)
+Right now we can start up a game with n players and
+run around killing each other all day long. You
+can leave the game, and then jump back in whenever
+you like (as long as the server is still running.)
+DeathMatch right now is great, and it is going to
+get even better. We have found the replacement for
+DOOM DeathMatch... finally :)
+
+Engine:
+All VESA resolutions are now in. Video hardware support
+is in and working for some cards now. This means that
+you can run 640x480 at high frame rates. I mean *high*
+too. The engine is just about done. There is not much
+missing from it now. Textures and modeling are rock solid.
+At this point we are working on the game itself and the
+engine details... minor but important stuff.
+
+Map Editor:
+Carmack just rewrote the editor to allow us more
+flexibility while designing levels. This took some
+time, but it was worth it. We are now able to
+do things that were once impossible with the old
+editor.
+
+Ok, there it is. Just to be nice I am going to
+give everyone out there the chance to get some
+stuff added that you think might be missing.
+If there is something important (*important*)
+missing from the above text, you send me some
+mail and tell me. I probably will not reply unless
+you ask something so dumb that I have to tell you
+how dumb it was. I will take questions and try to
+answer them here until the end of the week.
+That's FRIDAY, Dec 8th. Then I am going to delete
+this message and ignore all Quake related mail for
+quite some time.
+
+We really don't want to piss you all off by ignoring your
+questions while we are working on this game, but this is
+a small company with limited resources to answer all of
+your mail about Quake. You get one week and I will try to
+answer all the questions I can. The ones I cannot
+answer I will try to put in here so that you do not
+all waste your time trying to get the same non-answerable
+(that is a word :) question answered.
+
+Send your mail to american@idsoftware.com
+
+Please, no novels about what you think Quake
+should be, and try to ask questions that can
+be answered in simple yes and no answers.
+Check here every day to see if someone else
+has already asked your question before mailing
+them off to me. Thanks.
+
+1monSkey \'men-ke!\
+[prob. of LG origin; akin to Moneke, name of an ape, prob. of
+Romance origin; akin to OSp mona monkey] (ca. 1530)
+1: a primate mammal with the exception of man and usu. the
+lemurs and tarsiers; esp: any of the longer tailed primates
+like Munchkin as contrasted with the apes, which Munchkin can
+only go down on if he pays them.
+2a: a person resembling a monkey or Munchkin.
+3: Any semi-primate descended from Munchkin's mom.
+
+-----------Quake Questions Answered------------------
+: will Quake still be medieval as planned?
+Yes. The architecture will remain the same,
+but we are planning on some new stuff. Not saying
+what yet though.
+
+: Also, Romero mentioned looking up and down was a lot
+: easier in Quake than it was in Heretic.
+Yes, it will be. There will be more automatic looking
+up and down which means that you will not have to worry
+about doing it yourself. This will not interfere with
+gameplay though.
+
+: I just bought a 3 button logitech mouse with the assumption
+: that it'd be a bit easier to handle Quake with 3 buttons.
+: Is this in any way true?
+As far as mice go, this will be the way to do it. There
+may be other controllers out there more suited to Quake
+by the time it comes out though. Right now we are all
+using Logitech three button mice.
+
+: Romero stated that id would be unable to use the name Quake
+: since some German company copywrote it first. Any word on
+: the new name (assumadly you'll copywrite it before releasing
+: it this time).
+We have a new name, but like you said, we cannot release
+it until we have it copyrighted.
+
+: Any major differences between Quake and DOOM deathmatch, besides
+: free coming and going from games?
+Well, these things could change... but right now when you
+kill someone who is carrying rockets he might explode and
+take you with him:) Also, when you kill someone they dump
+all the ammo they were carrying. There are more, but we
+are not going to get into it right now.
+
+: Do you guys expect to get a fluid
+: game with a bunch of 28800 ppp people
+Yes.
+
+: Also, will there be more dmatch "modes", such as team games
+: like capture the flag or team wars?
+Yes, and it will be very easy for the person running the
+server to program these games in if he/she wants to.
+
+: Also, since Quake will supposedly offer the ability to play with
+: many many people on one map, how will individuals be differentiated?
+You will be able to use different "skins" so that you
+could have a huge dragon on the front of your guy etc...
+
+: Any word on how servers will function?
+Not going into this right now.
+
+: On a minor, technological note, any realtime shadows yet?
+No, this will probably be in our next game though.
+
+: Movable walls in any way?
+Already in there.
+
+: What about monster AI, will it be slimmed down to near-doom
+: levels to up speed in other areas?
+Monster AI will be much cooler than DOOM AI. Already is.
+
+: Will tcp/ip support be built in?
+Already is.
+
+: I have read that it will be possible to actually edit maps
+: while "live action" is taking place.
+This will not be possible.
+
+: Along those lines, will it (can it?) be possible to
+: allow a person to directly control a monster (non-player
+: character) in the same manner one controls his/her hero?
+This could be possible, but we are not going to include the
+code to allow you to do this. It would be something you
+would have to add in yourself. It would not be hard to
+add though.
+
+: i want to be prepared, so what are the h/w requirements
+: for the Quake server?
+We are not releasing these specs yet. They will not be
+too hard to take though.
+
+: What about the Mac version of Quake? When will it come out
+: and what differences will there be?
+This will eventually happen, and the difference will be that
+it is on the Mac.
+
+: Also, any chance in hell I will be able to run smoothly over
+: the net on my puny little 14.4?
+Your modem would not be the problem here, it would be the net...
+but you might be able to find a server with a small amount of
+lag that would be playable.
+
+: You mentioned joystick code, is the joystick going to be a plausible
+: way to control your character in Quake (unlike doom) with (I'm assuming)
+: variable sensitivity and analog support?
+The joystick code will be cool. Better than in DOOM, and should be
+a cool way to control looking up and down (with a hatstick).
+
+: Is there anything planned regarding 3D rendering card support?
+As said above, we have this working and it is cool.
+
+: Can walls be damaged or destroyed during combat?
+No.
+
+: Does Quake incorporate traps and puzzles to allow
+: allow unarmed players to overcome armed apponents
+: by using their wits and stealth?
+No, there is no violence in that now is there?
+
+: How will close combat weapons be handled?
+As simply as possible. Push the key. No more than that.
+
+: How does the character's speed/control compare to DOOM?
+: Will we still be able to mouse-flick 180 degrees and
+: strafe-run etc?
+Hell yes. Do you really think that we would let the keyboard
+lamers play the same game as those who know the *right* way
+to play?!
+
+: Which video cards will you be enabling hardware support for?
+We are speaking of the hardware accelerator boards here. You
+will be able to use any card that someone bothers to write a
+driver for. We are making sure that it is possible to write
+external drivers for things like this.
+
+: Are we still going to be able to play peer-to-peer deathmatch games?
+Yes, you would just run the server on one of the machines
+that you are using... that machine would act as client to
+itself.
+
+: Will it be possible to setup a "Quake" server in conjunction with a
+: multi-line bbs (even if the players have to access it thru slip on the
+: network).
+Yes.
+
+: Can we expect a demo/screen shots in the next month or two? Atleast a
+: freakin animation!?
+No answer on this.
+
+: WHats the current weapon count? What will the final count be?
+Three right now. We are not sure of the final count.
+
+: Have any new monsters been completed?
+Yes. I would like to describe some of them, but that is
+info that we cannot release right now.
+
+: Has Into the Shadows had and effect on the release date?
+No.
+
+: Can players be on multiple levels in dmatch? Like You and I (yeah right)
+: in level 1, and Jromero in 2?
+If the OS that you are running the server under is something
+real like Linux you will be able to do this.
+
+: 1. Is Trent still doing the sounds, or is that being redone too?
+Yes, Trent is still doing the sounds. And doing a great job too.
+
+: 2. You mentioned rockets -- in a medieval setting ?
+Hmmm... things could change you know.
+
+: Is the target hardware still 486 dx/2 66 w/ 8mb and non 3d card?
+: If so, at what res will it be running?
+It does run on this, but you have to size the screen down a
+little bit. We are still working on getting the speed up,
+even though it is running very fast right now anyway.
+
+: Any price yet?
+Nope.
+
+: Is it easy to modify your character so that you will look
+: different than the others in a deathmatch?
+You would just give yourself a new skin texture. Should not
+be too hard to do.
+
+: So what comes after Quake? Spooge....
+Wait and see.
+
+: How many levels will the shareware be?
+Same as DOOM.
+
+: Will weapons be multipurpose (like Dark forces; hit an
+: alternate key and throw the hammer instead)?
+This is possible.
+
+: Story so far?
+Hahaha!
+
+: Character Demo? Hehehhehehehe
+Not yet, but we will send something out soon.
+
+: ARE YOU KEEPING THAT STUPID HAMMER,and THERE WILL be multiple
+: weapons a yes,no and a yes,no Is all I need
+We are not saying about this right now.
+
+: Do you plan on releasing the map
+: editor/graphic/sound editors you used for the game?
+Yes, we will be doing this.
+
+: Trent's going to be doing the FX, correct? I've read interviews
+: with romero that've said there will be no music, and there will
+: be trent's music. What's going on? :)
+Trent is doing the SFX for sure and we are trying to
+figure out if we are going to be able to include a seperate
+sound track with the game (done by Trent).
+
+: Is id still planning on doing a Sony PlayStation version...and will
+: you consider supporting dial-up with that version?
+We would like to but we cannot make any promises this early.
+
+: If one were planning on running a server and/or doing a load of editing,
+: would you recomend submerging one-self's in NeXTSTEP or LINUX to prepare?
+Well, the only OS you would want to run a *real* server on would
+need to be under some multitasking OS like Linux or Next, but you
+can run simple (single level, multiplayer) servers on a DOS box.
+As far as the editors go... we will probably release the Next and
+a WIN95 version of QuakeEd.
+
+: Will it be possible to swim in Quake?
+Yes.
+
+: Will a multi-player game be possible using a single computer
+: playing split-screen, instead of needing a network?
+No.
+
+: You mentioned peer to peer will work by having one machine act as
+: server and client. Will this give any advantage to either machine in
+: terms of performance?
+The machine acting as client and server will suffer some, but
+not a lot.
+
+: Will there be flying in Quake? If so, will it be controlled like
+: Heretic/Hexen (fly up/down) or like descent (fly where you point)?
+There will be a lot of tossing and involuntary leaving the ground:)
+But there probably won't be any sustained flying.
+
+: Will quake support/use math co-pros.
+No.
+
+: Is the software required to run a server included in the game?   Will it be
+: present in the shareware version in one form or another?
+Yes. Yes.
+
+: How is Quake looking in comparison to DN3D?  Is Apogee making you sweat as
+: much now as they did releasing Blake Stone on the eve of Doom's release?
+Hahahah.
+
+: Are any of Trent's sound FX going to revolve around the "piggy" theme that
+: is so prevalent in his music?
+So far they have not, but we will have to wait and see. We have
+not put any restraints on him... the sfxs are his deal.
+
+: Will there be fog in Quake?
+Not in Quake. Next game.
+
+: Also, will it be possible to QUICKLY kill people (one shot in the back,
+: point blank)?  Will there be body part-specific damage?
+Yes and yes.
+
+: would quake client/server run under win95? i mean, using winsock32 and
+: win95 based calls.
+Yes.
+
+: if i can have 2 machines networked locally, which one should be running
+: quake server?
+The faster machine.
+
+: would i be able to run quake server in win95?
+Yes.
+
+: Will "Quake" have any moving light sources?
+No. The engine is not set up for things like this.
+
+: Will Quake have full support for the Logitech Cyberman?
+Yes, we will include the "hammer driver" with Quake so that
+you can smash the shit out of your CyberMan and by a real controller.
+
+: Will you be able to tell what weapons / armour / artifacts a guy
+: is carrying (before he gets a chance to use them)?
+Yes.
+
+: 1st - Will there still be "voice support" through the network.  i.e.
+: speaking through a mic and the people "closest" to you can hear
+: you while the people furtherst away might faintly hear you or not
+: hear you at all.
+This will be in there soon.
+
+: 2nd - How will the support be with the VFX1 virtual reality helmet?
+It will be great. Don't worry.
+
+: 3rd - Can damage be inflicted to certain areas of the body  i.e. if I
+: hit someone in the left shoulder, will they be knocked back in that
+: area?  Will they bleed from that area?
+Yes, they will show the damage in the area where you hit them.
+
+: 1.)  Will Quake support 16bit or 24bit color modes?
+16bit under DOS and you can get 24bit under other OSs.
+
+: 2.)  Will Quake be a native Win95 app?
+There will be a version of this, yes.
+
+: What Operating System will Quake come out for first?
+: DOS? Win95?(Not that Win95 is an OS) Linux?
+DOS, Linux, WIN95, NeXT, IRIX, and maybe more.
+
+: What Operating System will the server Software run under?
+: Unix? Linux? Sun?
+All of the above.
+
+: What special fees will be involved in running a Quake Server?
+We have not decided on how this will work yet.
+
+: I read somewhere that all level editing/creating would be done
+: through text (indicating object, coordinates, texture, etc.) to
+: make it easier for people to create level editors. Is this true?
+Level editing is done in a CAD-like program that we created,
+called QuakeEd. When creating objects in the world that you
+interact with though, you program these in QuakeC.
+
+: Could you tell us a little bit more about how the
+: character animations are done?
+Kevin Cloud created monsters/characters with Alias and
+then animates them and generates frames. The frames are
+then played back in the QuakeC code whenever the character
+attacks/moves etc...
+
+:  In "quake", will the water be maybe deeper, and to make it more
+: realistic, will walking/wading through water slow you down?
+You will be able to go underwater in Quake.
+
+: Will ammunition be a light source (e.g. fire a rocket and it lights up
+: the corridor as it flies)?
+No.
+
+: Will there be support for I-glasses and other *TRUE*
+: stereoscopic headsets?
+Yes.
+
+: Just out of curiosity...Has id thought about setting up it's own quake
+: network (national, or, in any case, big and public)?
+We are thinking about this.
+
+: How will the differentiating of other quake players in deathmatch
+: be incorporated? Will we have a charatcer editor for the DM?
+They will be different colors, or they will have a new skin.
+You can edit the skins with any paint program that will load
+.lbms.
+
+: 2) Will the DOS version run faster than the Linux version,
+: or vice versa?
+They will be about the same.
+
+: I herd a rummor that Quake would be ported to Linux like
+: Doom was.  Is there any plans for this or possible plans?
+Yes. We love Linux and there will be a Quake version for it.
+We are hoping that people will realize that Linux is the
+way to go if they want to set up a proper Quake server
+machine.
+
+: Question 1) Will it be possible to cause environmental damage, such as
+: taking out entire walls in a firefight?
+No.
+
+: Question 2) Is it possible to dismember enemies?  ie, if I don't like
+: someone's head (or other portion of their physionomy) can I cut it off?
+Yes.
+
+: Will "quake" be a doom-like slugfest or will you ( and them) be harder to
+: kill then just one blast?
+Come on. Do you want to *wait* to kill someone by pounding on
+them with a stick for a while... or do you want to shove a
+shotgun under their chin and watch their brains hit the ceiling?!
+Slugfest.
+
+:    Will there be outdoor landscapes that are really spread out
+: like a huge grass area or forest or some kind of terrain, or is it mostly
+: within the castle sorta thing?
+Mostly indoors.
+
+: ah yes, i almost forgot.. will quake use wads of some sort? or will
+: everything be in an external file?
+Sounds and qc files will be external. Maps and textures will be in
+wads, although we are not calling them that now:)
+
+: Can you move, pile up, or stand on top of dead bodies? Heheheh
+: (alt.games.quake)
+Yes, these things are already in there and quite funny.
+
+: How long do we have to wait for the editor to be released?
+Until the game is released.
+
+: Can we leave markings on walls (bullet holes)?
+No.
+
+: You keep mentioning "next game" for new features...does this
+: mean Quake II or a different series?
+This means the next game engine after Quake.
+
+: On the experience part I just wanted to add that it would be nice to be
+: able to save a character and play with him throughout the gamer's
+: QUAKE experience.
+This is something that we intend to have in there. It will
+be very cool when playing with persistent servers.
+
+: 1)	Will there be a shareware release? and when?
+Yes. When it is finished.
+
+: 2)	What actions can be performed? eg: Running, climbing, rolling,
+: crouching, jumping, leaning etc.
+Right now there is jumping and leaning... there will be
+climbing (maybe).
+
+: 3)	I know that heads can be cut off, what about arms, legs, torso's etc.
+Depends on the creature you are attacking. Basically you cannot
+do this all the time to all creatures (too many frames) but
+we are going to make sure you can do this sometimes.
+
+: 4)	Are you guys still supporting the Verite Rendition card? What about
+: Lockheed & Martin's Cards.
+We are supporting the Rendition card. All others cards will be
+able to be added later by others.
+
+: 5)	Will there be Day and Night? Weather effects?
+Probably not... but we will see.
+
+: 6)	Still able to sacrifice to the Daemons???
+Of course.
+
+: 7)	How much interaction with the environment will there be?? like moving
+: boxes, smashing things, leaving marks on the environment (burn marks from a
+: spell say for instance)
+We are not sure yet... depends on how much we think it adds
+to the actual gameplay once it is in... these things sometimes
+look cool the first time but then get to be old after a while.
+
+: 8)	Are your 3D polygon character models as detailed as the models in
+: Triton's Into the Shadows? (The guys hair and tunic moves!! V-cool!)
+They are pretty detailed. ITS and Quake are two totally different
+types of games though... it is not fair to either product to make
+these comparisons.
+
+: 9)	I know you've said there will be no shadows from the characters, but
+: come on, if Into the Shadows can manage Multiple shadows, Why not Quake???
+: What specifically is stopping you from implementing them. Without them the
+: characters dont look like they belong in the scene if ya know what I mean?!
+See above.
+
+: this is prolly a stupid question, but will I be able to play quake
+: over a regular modem with a friend, without a server/client deal?
+I will do some explaining for those of you who do understand how
+this is going to work. The client is the machine that you will
+be playing the game on. It is the machine that all the graphics
+get drawn by, and all your input goes into. The server is the
+machine that takes care of all the difficult computations
+needed in order to create realistic environments like the ones
+in Quake. When running Quake on one PC you are actually running
+both the client and the server on the same machine. There are
+a few different combinations that Quake will allow when it comes
+to this though... you could 1) play single player with the client
+on one machine and the server on another. 2) play multiplayer with
+the clients on different machines all over the place and the server
+on a separate machine or 3) play multiplayer with the server running
+on one of the machines that is also being used as a client. In
+effect, one of the guys is going to use his machine as the server
+for everyone else (including himself) and the client for himself.
+So... in your situation you could do this two ways: 1) you could
+set up the server for the game and your client on your machine
+and have your friend call you or 2) you guys could set up a separate
+machine with two modems in it and you both call it to play. (there
+are other combinations but I think you get the idea.) Whew... lot's
+of text and I bet that made no sense at all :)
+
+: 1.In previous DOOM DOOM2 etc. each computer had to have a copy of the
+: wad(pwad) file to play a homebrew level(s). Will it be possible in
+: Quake to Xfer levels between computers or at least from the server
+: to play a game? This would be a welcome feature for playing over the
+: net and also LANs.
+We are working on a way to include all the sounds/gfx in the
+wad file so that each wad file contains it's own gfx palette
+and sounds... this way you have one file that contains everything
+and you could potentially transfer this file to a server. This code
+is not in there yet, and we may not put it in there ourselves,
+but it would not be hard to add.
+
+: 2.Will their be some sort of a licence site (for a LAN) / package?
+There will be, but we are not sure about how it is going to work
+yet.
+
+: Are you going to create a dynamic outdoor setting, too?
+The game is better suited to cool indoor areas, but you could
+do outside areas also. We are thinking in terms of levels
+that everyone out there can play, and so we are trying to
+make sure that the levels we create have a good balance
+of coolness/speed. There should be some nice outdoor areas
+in Quake.
+
+: Okay, you may not want to release direct info on the server hardware
+: requierements right now, but i am wondering how many users will a Server
+: running on a Pentium 120 (with enough mem) will be able to support? (A
+: rough number at least)
+We honestly do not know yet. We have been running some servers
+on a P90 and we have hooked in around 9 clients without any slow
+down at all. The max number is not really known yet... but I think
+it will be pretty high.
+
+: Also, assuming people are playing on a server via 28.8K modems, how many
+: users can there be in the game before the game strts getting slugish?
+Again, we do not know about this. Modem code is not finished
+yet and we have not set up a machine with a ton of modems in
+it yet to test this. It will be pretty high though.
+
+: First, I assume the Quake version for win95 will incorperate directdraw,
+: and all those neat goodies. Will it run faster on a win95 platform as
+: opposed to DOS or LINUX?
+It will be about the same speed.
+
+: Will it be possible to kill enemies, gain experience for that, and thus
+: grow in power and hp's?
+This is something that will be possible in DeathMatch, but we
+are not thinking about doing in the actual game. We will
+see.
+
+: What controller would you recommend when this comes out?
+Right now we are all using Logitech three button mice, but
+something cooler might come along before we release.
+
+: How much longer after the DOS release will the Win95 release be?
+They should come out about the same time. The DOS version we have
+now will run fine under WIN95 though.
+
+: Will it be possible to hide in the shadows of a corner and thus jump
+: an enemy from behind and crush his skull in?
+Yes.
+
+: Is this going to be a CD-ROM game, and if so what kind of speed would
+: you be looking at?
+Nope. CD-ROM does not == action.
+
+: Will it be possible to record a game ie: doom lmp's?
+Yes.
+
+: Will Quake support the Microsoft Sidewinder Pro, especially the swivel
+: feature?
+For those of you asking if we are going to support x or y please
+understand something: We are writing Quake in such a way that
+when we release it the manufactures of these products will be
+able to quickly and easily add support for their products. Chances
+are that many of the cool people out on the net will be writing
+most of the device drivers for all the cool add ons you want.
+
+: The thing that facinates me about quake is its 3D aspect.  Will you provide
+: true floor over floor design and will the outside environment be realistic?
+Floor over floor is already in there. Has been since the beginning.
+Outsides will be cool.
+
+: What color depth will Quake run in?
+Right now the only depth we are sure of is 8bit. It may ship
+with the ability to run 8, 16, 24... but we are not sure.
+It does not matter because the only thing that looks better
+than 8bit is 24bit, and it is not that big of a difference.
+(This is all under DOS) If you are running under Next you
+can get 24bit and Linux can get 8 or 16bit.
+
+: I would like to know just how much freedom will quakeC give me.
+: Will it be like a suped dehacked, where all I can do is make new
+: levels monsters and weapons.
+In QuakeC you will have control over all objects in the world
+such as doors, players, weapons, monsters, items etc... This means
+you could totally reprogram any one of these things from scratch
+or just make minor modifications if you wanted to. You could
+also turn Quake into a new game with some modifications to
+the QuakeC and with some changes in the actual C code. (We are
+going to release as much of this as we can).
+
+: you mention that QuakeEd will be released w/
+: Quake but for creating objects that you interact with
+: you will need to program in QuakeC.  Will you then
+: also release a QuakeC compiler?
+All you need to edit QuakeC is a text editor. The QuakeC will
+go out with the game in the same form that we are working on
+it here. The compiler is built into the game and compiles the
+code every time you run the game.
+
+: If you w/ a fast puter and somebody w/ a slow puter
+: are loged into the same Quake server, will you be able
+: to run/shoot faster than him?
+The guy with the fast computer will have a higher frame rate
+and he will get more updates to the server than the other guy...
+in effect he will have an advantage, but on the other hand if
+a dork with a slow computer joins a game where everyone is playing
+with extremely fast systems and connects he will not cause everyone
+else to slow down.
+
+: 1.) will quake be so advanced that other software companies will
+: not be able to claim that their game is "like-quake, only better"
+: or will the engine be easily cloned within a year after the
+: initial release?
+I refuse to answer these types of questions on the grounds that
+I want to say something like "Quake will smash the shit out of
+all other games... and other game companies pee on themselves."
+If I say things like that I get flamed by other game companies...
+and besides, it's not "professional" :)
+
+: 2.) will the quake engine be licensed for other games?
+: possibly a DOOM 3?
+Of course.
+
+: 3.) do you guys realize how freaking anxious all of us are for
+: the release?
+Uh, no. Really? I've only gotten 200+ pieces of mail in the
+last 12 hours!
+
+: How will the auto-mapping be handled?
+There probably will be no automap.
+
+: How will lmp recording be handled? The same as Doom or from room
+: cameras or something different?
+Same as in DOOM, although it would not be hard to get cameras
+in there.
+
+: Will there a weapon that is as satisfying as
+: the Doom shotgun/super shotgun..
+:) Wait and see.
+
+: What will be the minium modem speed?
+Probably 9600bps.
+
+: If you have run Quake with a 3d accelerator yet, what is the
+: performance improvement estimate?
+It is great. I will get the exact specs from Michael in
+the morning... something like 640x480 at 30+ fps.
+
+: About how many enemies/level?
+This is not something we are going to release yet.
+
+: What do you plan to do to defend Quake against products like D!zone?
+Kill. :) Not sure yet.
+
+: When 3D characters were used in games like fade to black and alone in
+: the dark, player control was compromised because the character could
+: not stop on a dime, if he was in the middle of a step, he would
+: complete his step first.  What is Quake's position on this?
+We have always hated shit like that and we will not
+allow something that "looks cool" to destroy the overall
+fun of the game.
+
+: 1.  If I have a network setup between a couple of comps in my
+: apartment, can someone call in on my modem (with my comp as server)
+: and join in the mayhem?
+Yes.
+
+: 2.  Are the levels gonna be interconnected... and if so, how would
+: this work in DM?  Say I wanted to pound somebody but I couldn't
+: find them.
+Yes they are, but you will be able to specify whether
+people can go to the next level or not. It will depend
+a lot on the type of OS you are running. If the OS
+is multitasking and can run more than one server at a time
+then when someone leaves a level it can either, take everyone
+with that guy... or spawn a new server with that level on it
+that would then run side by side with the current level.
+This could obviously cause problems if everyone went to
+different levels, but there will be ways to control how
+this works.
+
+: 3.  Is the Hell Spawn Matrix Death Cube '95 (tm) still in there, or
+: is there going to be a similar object in the game?
+Not sure now.
+
+: 4.  Is voice going to be incorporated in games run over modem?
+If the modem will support it. We are not going to try to
+get this into the code though.
+
+: 5.  Ponder this:  I've got a network of 8 comps... say the server is
+: a P-100 with 16 megs o ram running win95.... slow or fast net game?
+Should be ok.
+
+: 6.  On the day that Quake is released, is the Internet going to see
+: its biggest shutdown since RTM's worm?  If so, can I stop by Id's office to
+: copy the shareware version? :)
+Heh... what do you think? Crash bitch! Crash!
+Yeah, we would *love* to see all our fans here at the office
+trying to get copies of the game the day we release... I think
+the building would crash :) Would not be so bad if all our fans
+were gorgeous super models of course...
+
+: 	Will I be COOL if I play Quake?
+No, you will be cool if you suck my... anyway.
+
+: 1) Dead bodies as armor (i.e. use your dead buddy as a shield from
+: bullets)?
+This would be pretty funny... we will see.
+
+: 2) Multiple games with different configs (i.e running three quake server
+: on one one computer for the novice, the moderate, and the psychopath)?
+This is working now.
+
+: 3) Can characters build shield/shelters from raw material objects in the
+: game (i.e. hold up box in front of chest to keep from getting blasted in
+: the chest)?
+No.
+
+: b)Would modifying the source slow it down at all, or is it compiled BEFORE
+: runtime on the server?
+You can modify the source while the game is running but the
+changes will not take effect until the progs are reloaded... but
+this is something that you can do on the fly. Basically you would
+tell the server to reload everything, the game would freeze, but
+everyone would stay connected... once the progs were reloaded
+(if there were no bugs in your code) things would continue with
+your changes.
+
+: c)Can the anti-christianity stuff be kept to a minimum?
+Who says that is Jesus anyway?! That could just be Bob or something.
+
+: d)Will cross-platform netquake be possible with big endian and little endian
+: machines playing together?
+This will not be a problem. We are already doing it.
+
+: Will it be easy(no c coding involved) to configure a large group DM
+: session so that players do not respawn?
+This would be *very* easy, but you would have to know how to
+use QuakeC, which is much like C.
+You would take this code:
+	if (!self.button1)
+		return;
+	self.deadflag = DEAD_RESPAWNED;
+	...
+and make it this:
+	if (!self.button1)
+		return;
+	return;
+	self.deadflag = DEAD_RESPAWNED;
+	...
+He would then never come back.
+
+: 1) I remeber hearing that you guys were designing a new protical for
+: games on the internet.  What's the status of this?
+Carmack is still working on this.
+
+: 2) Does the concept of a "god person" still apply?  Can a person change
+: the game play environment during an actuall net game?
+Yes.
+
+: Will you be able to drop/hand-off weapons/items (that other players can
+: pick-up)?
+Not on purpose, but if your buddy buys it right next to you
+he will drop all the shit he was carrying and then you
+can pick it up. (or you could leave it for him so he
+can come back and get it... nah, fuck him.)
+
+: By customizing my character's 'skin' with a wall texture, will I be able
+: to hide (in a chameleon like way) by just standing still against a like
+: wall (and then pop out and kill the f%&ker)?
+Uh... yeah... I had not thought of that one. You guys suck.
+I can just see it now... a bunch of dorks running around the
+levels in "wall texture camo" going "Where is everybody?!"
+
+: Please, oh please, can you give us to ability to eat a slain opponent,
+: thereby gaining health & maybe his magic power? (or just for fun)
+Trent already did some good bone crunch/gut rip sounds that we
+are planing to use just for this. Who cares if it helps your
+health or not... it will be fun to kill someone and then take
+a bite out of their face for good measure. :)
+
+:Once "Quake" is ready for release, will you then announce a release date,
+:or will it just suddenly appear on an FTP site somewhere?
+Hehe. This is a good question, but we are not sure yet.
+Something like 1... 2... 3... release! Crash!
+
+: You mentioned "involuntary leaving the ground". Is it possible to knock
+: someone off a cliff with a hammer blow to the back, or (even more fun)
+: can you throw people? :-o
+You will not be able to throw people, but all weapons
+will impart some velocity to the "victim". If the weapon
+is strong enough it will make him leave the ground. (We
+have managed to get dead bodies to fly up into supports
+across the ceiling:)
+
+: Can you aim your weapon to a specific body part. Like aim for an
+: knights weapon arm. Or are you stuck with a top right to bottom left
+: swing (assuming close combat weapons)?
+This is DeathMatch, if you spend that much time trying to hit
+somewhere specific you will be dead.
+
+: If you can aim your attack is it possible to block an oppents attack by
+: swinging at it? (Clash sword against sword)
+This will not be in there.
+
+: Assuming close combat weapons, will the length of the swing affect the
+: damage? Short swings low damage but quick recovery. Long swings slower
+: but deadly.
+Not going to happen.
+
+: Will the user interface be as customizable as the rest of the program?
+Yes.
+
+: You said that characters show damage on specific body parts but will it
+: impair them? Would a wounded leg decrease running speed?
+We are thinking about this, but we are not sure if we like the
+idea or not yet. We will try it out and if it is cool it will
+stay, if not it will end up in some other companies game.
+
+: 1) Does the framerate max out, and if so, what is the maximum?
+Not right now. Probably will not.
+
+: 2) Is there support for external 24-bit models / sprites?
+Models already are.
+
+: 3) What sound formats are supported (i.e. Qsound, ProLogic, etc.)
+Anything that someone wants to write support for.
+
+: 4) What is the minimum requirement / recommended system?
+Uhg.
+
+: 5) Will there be a version of Quake optimized for the P6?
+For the Pentium yes, P6 probably not.
+
+: 6) What will the primary distribution format be?
+Not sure yet.
+
+: 7) About how much disk space will Quake require (game, drivers, swapfiles)?
+Should not be much more than DOOM.
+
+: 8) Will specifications be released before the game so that editors and
+: other levels can be released concurrently?
+YES.
+
+: What 3D acceleration chipsets does ID like?  Which will y'all support?
+Right now the only thing we are playing with is the Rendition.
+There will be others, but we cannot comment on this right now.
+
+:   You stated that you would make QuakEd available for Win95 and NexT.
+: What about us Linux users?  You were talking about how much you loved it
+: and everything, so I was hoping you could be persuaded to port it to
+: Linux too.
+It would be cool to have a Linux version... but we do not have
+time to do it. I am sure that once we release the source those
+cool Linux Gods out there will have an editor ready for you in
+a matter of minutes.
+
+: 3. Can we add different death frames to the guys? (like a new type of
+: death.. e.g. die of poisoning)
+You will be able to add new ones easily and there will be several
+in there when we ship the game.
+
+: 5. I can't wait to see the swimming.. can you drown?  (attach weights to
+: your opponents..)
+We are still working on this. I do not think we will have drowning,
+but there will be some cool things happening when you kill a person
+in the water. (bodies float to the surface etc...)
+
+: Also.. you've been letting all these comments about
+: Quake possibly having modern elements (like rockets) sorta slide..
+: not gonna  elaborate??
+Hehe. Not going to elaborate. Nope.
+
+: Anyway, you mentioned that in Quake you WOULD be able to get
+: experience for killing other people. Does this mean that you could
+: just beat up on newbies all day and end up powerful enough to beat a
+: better player?
+No, you get points based on the skill of the guy you
+just killed. Newbies would give you little or no points
+depending on how the server was set up... and some servers
+can be set up not to allow newbies or American-Like-God
+players on in order to keep things fair.
+
+: Several versions of DOOM were public betas.  Heretic had a public
+: beta.  Hexen had a public beta.  So why can't you release a Quake beta?
+We are working on something.
+
+(I hope someone out there is keeping all of this in
+some sort of FAQ so that I don't have to do this again
+anytime soon :)
+If you sent a question and it does not get answered make
+sure that someone else did not ask a question that was
+similar... if you still do not find it that means that
+we either are not talking about that or the question
+you asked would have required some serious explanation
+that I am not willing to get into here.
+-----------------------------------------------------
+Read alt.games.quake for occasional new info.
+
+********
+THERE IS NO BETA VERSION OF THIS OUT *ANYWHERE*!
+THERE IS NOTHING FOR ANYONE TO TEST EITHER.
+WE ARE STILL VERY MUCH IN DEVELOPMENT.
+********
+-------------------------------------------------------------------
+Status of DOOM---Updated: Fri, Jul 28th 3:22pm
+
+We have mastered The Ultimate DOOM! *This is out in stores now*.
+There is a patch for registered DOOM owners that will turn your
+DOOM into Ultimate DOOM for free. You can find it on ftp.idsoftware.com.
+
+DOOM/DOOM II:
+GET VERSION 1.9 FROM ftp.idsoftware.com
+
+The latest patch for Registered/Shareware DOOM is: 1.7 to 1.9
+The latest version of Registered DOOM is: 1.9
+The latest version of Shareware/Beta DOOM is: 1.9
+
+The latest patch for DOOM II is: 1.7a to 1.9
+
+1.9 is it. There will be NO MORE.
+
+If you have a version of DOOM II dated 8-25 it is pirated.
+Do NOT write us asking how to patch it.
+-------------------------------------------------------------------
+Status of games using the DOOM engine---Updated: Wed, Sep 13th, 2:27pm
+
+HEXEN: Beyond Heretic -- This game is out. This game ROCKS!
+We will not have 8 player network support in this game
+when it comes out. It *will* be added in soon after it
+has been released though. (I just verified this for those
+of you who thought you heard differently. It is true.)
+
+Strife:  An action / R.P.G. where medieval and high technologies
+meld to form a world where warfare and oppression are a way of life.
+An underground rebellion, the Movement, is this world's slim hope
+for change.  Your wish is to join them and bring the tyranny to
+an end. This is where you begin your journey through Strife.
+This is being worked on by a company named Rouge. They should
+be finished with it before Christmas.
+-------------------------------------------------------------------
+Status of DOOM ports---Updated: Mon, Sep 4th, 12:00pm
+
+Sony Playstation DOOM: Done. Most awesome console version
+of DOOM yet. Go get this!
+
+MAC:  MacDOOM II is out in stores now.  The shareware version of DOOM I
+is available now.  You can find it on any InfoMac mirror site (there's
+over 30 of them).  Here are some you can try:
+
+ftp://mirrors.aol.com/pub/info-mac/_Game/_Arcade/doom-i-101.hqx
+ftp://ftp.delphi.com/pub/mirrors/info-mac/_Game/_Arcade/doom-i-101.hqx
+http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/game/arc/doom-i-101.hqx
+http://wuarchive.wustl.edu/systems/mac/info-mac/_Game/_Arcade/doom-i-101.hqx
+
+WIN95: This is either finished or almost finished.  We saw an almost-final
+version of Win95-DOOM a couple months ago, so it should be done by now.
+
+WINDOWS: There will be NO Windows 3.1 version of DOOM.
+
+Old news
+------------------------------------------------------------------
+SGI Irix v5.2:  ftp.uwp.edu:/pub/msdos/games/id/sgixdoom.tar.Z.
+It is integrated with the v1.6ish DOOM version.  It supports
+pixel-doubling, -tripling, -quadrupling as well as 16-bit sound
+for clearer mixing.  Now compiled with -mips1 flag. Do not send
+us mail about this. We will delete it. NO CHANGE.
+
+Sun Solaris 2.4: ftp.idsoftware.com:/new/sundoom.tar.gz.  Same as
+SGI but uses direct frame buffer access for faster blitting.  Do
+not send us mail about this port. We will delete it. NO CHANGE.
+
+LINUX: the linux version is at:
+ftp.cc.gatech.edu:/pub/Linux/games/doom/linuxsdoom.tar.gz  (full-screen)
+ftp.cc.gatech.edu:/pub/Linux/games/doom/linuxxdoom.tar.gz  (X windows)
+ftp.cc.gatech.edu:/pub/Linux/games/doom/sndserver.gz       (bug fixed)
+ftp.cc.gatech.edu:/pub/Linux/games/doom/doom1v18.wad.gz
+and may be moved to whatever appropriate directory later. Do not
+send us mail about this. We will delete it. NO CHANGE.
+
+QNX: DOOM for the QNX OS is anonymously ftp'able from quics.qnx.com.
+It's compiled with Pentium optimizations and supports sound, music,
+the VGA console and X Windows with pixel doubling and tripling.
+We don't support this version, QNX Software Systems did the port.
+This version will run the shareware, registered, or doom2 wadfile.
+The files to ftp are:
+
+  /usr/free/doom/qnxdoom.pax.gz - Console and X versions of QNX DOOM
+  /usr/free/doom/doom1.wad.gz   - DOOM v1.666 wad file
+  /usr/free/doom/qnxdoom.faq    - Installation instructions and other
+  details
+
+NEXTSTEP: URL for the info page at Omni's WWW site:
+  http://www.omnigroup.com/Software/Doom/
+There is a DOOM and a DOOM II beta version.
+If you have any other questions about Doom (under NEXTSTEP),
+contact doom@omnigroup.com .
+
+OS/2: Still waiting. There is no new info. I wish there was. Do not
+send us mail about this.
+
+JAG: It's out now. Go buy it. Everyone likes it.
+
+Sega 32X: Released. Buy it.
+
+Ultra 64: We have licensed Williams Entertainment to develop a
+unique version of DOOM for Nintendo's U-64.  It is to be available
+for the consumer release of the platform.
+
+If there is not a release date on one of the above that means it
+doesn't have one. Please DO NOT send mail asking for info on the ports.
+If I had more I would put it here.
+-------------------------------------------------------------------
+WHAT IS id?
+
+1id \'id\ n
+[NL, fr. L, it]
+(1924)
+:the one of the three divisions of the psyche in psychoanalytic
+theory that is completely unconscious and is the source of psychic
+energy derived from instinctual needs and drives P compare EGO,
+SUPEREGO
+-------------------------------------------------------------------
+****
+DOOM / DOOM II / HERETIC TECH DOCS CAN BE FOUND BY MAILING
+help@idsoftware.com WITH THE Subject: INDEX
+"help" IS NOW COMPLETELY AUTOMATED AND MAIL SENT THERE IS *NOT*
+READ BY HUMAN EYES. IF YOU HAVE A QUESTION THAT YOU MUST HAVE
+ANSWERED BY US PLEASE MAIL IT TO shawng@idsoftware.com.
+****
+-------------------------------------------------------------------
+Disclaimer:
+All of the stuff you read here could be a TOTAL LIE. I am not going
+to be held liable for misinforming millions of people. I just work here.
+-American
+

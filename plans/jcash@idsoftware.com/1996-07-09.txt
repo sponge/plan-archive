@@ -1,0 +1,212 @@
+[idsoftware.com]
+Login name: jcash     			In real life: John Cash
+Directory: /raid/nardo/jcash        	Shell: /bin/csh
+Last login Mon Jul  8 11:30 on ttyp6 from iddrakken
+Plan:
+>>> Quake <<<
+When in Mesquite... do a work log!
+
+6/13:
+*not all players get score at end of deathmatch
+*connect while demo is running fails
+*connect/disconnect/connect again fails
+*Kevin's "beat on the keyboard while it's initializing" page fault
+*report error if ipx open socket fails
+*default strings for modems
+*work with John on network menus
+*make sure we have enough ipx sockets
+*ipx error 0xfc (request cancelled) on send starting a new server
+*make dropped datagram message developer mode only
+
+verify version checks are correct
+american's win95 tcp/ip problem
+one guy has to use -noudp or it "won't run"
+
+
+6/14:
+*internet play testing
+*play qtest1 under an assumed name for comparison
+*work with John on network menus (continued)
+*mike's machine at home didn't find cd audio tracks
+*system cvars will only report changes when they really do
+*modem play testing
+
+Win95 with dial-up networking only sometimes crashes unless -noipx???
+
+
+6/15:
+*direct connect serial play
+*work with John on network menus (continued)
+*reliable message stream shutting down during internet play
+*move ftp site to new location
+*save our local network address(es) so we can show them
+*remove some duplicate code in the Win95 TCP/IP code
+*drop stale datagrams
+
+
+6/16:
+*move www site to new location
+*make IPX send errors non-fatal
+*work on network menus
+
+
+6/17:
+*don't allow choosing save on menu if not in a game
+*make sure there's always room for 4 players so we can change from
+	single player to a listen server on the fly
+*write cd-rom readme file
+*check for Win95 giving back an text form IP address for the hostname
+*add hostname to config menu
+*deathmatch not set correctly from menu
+
+
+6/18:
+*fix FPCW problem under Nextstep that's causing cvars to get set incorrectly
+*add my 2 cents to the Win95 readme
+*don't show local game on search for games menu
+*update network readme file and add Win95 specifics
+*can't set max players when a game's already running
+*make player's name and colors saved cvars
+*change so if CD doesn't restart track on same track play request
+*serial setup menu
+*don't allow saves at intermission, if no server, or in a deathmatch
+*only list shareware levels on menu for shareware
+
+
+6/19:
+*read over all the readmes and look for stuff
+*review code
+*don't allow server's with no name
+*fix player name > 15 characters crash
+*fixed IPX checking AX instead of AL in receive error path
+*get the old ftp machine back online under it's new name
+
+
+6/20:
+*modem init string saved but not restored
+*change to always require selection of com port - safer this way
+*low-level recoverable serial messages flagged as developer
+*connect Satan to his new UPS
+*friendly fire
+
+
+6/21..6/23:
+*forget to update .plan file
+
+
+6/24:
+*Typing long hostname or modem init field in the menus causedcrashes
+*Under Win95 IPX can be detected but not functional, resulting in sys_error
+*If -nosound, got "S_LocalSound: can't cache" on every keypress in the menu
+*reliable message streamgetsstopped up, resulting in frag counts and talk
+	messages no longerbeing delivered, but game movement continues
+*The menu com port settings were getting saved & restored but not used
+*Direct serial connections did not work with slist
+*qlaunch.exe freqeuntly failed to execute on the first attempt
+*quakeudp.dllwas running out of buffers when running a server
+
+
+6/25:
+*team colors did not operate as documented
+*changelevel from client crashed
+*don't print name changes when they didn't really change
+
+
+6/26:
+*modem init didn't get done from menu
+*serial reliable stream was getting stalled
+*changelevel while demos running crashed
+*changelevel with no map left up loading screen
+*too long names could be entered from the console
+
+timelimit and fraglimit work in single player
+
+
+6/27:
+*waste time screwing around with lame ass hackers
+*work on menus
+*test & research serial problems
+
+
+6/28:
+*waste MORE time screwing around with lame ass hackers
+*work on menus
+*test & research serial problems
+
+
+6/29:
+*work on menus
+*work on serial code cleanup
+
+7/1:
+*work on menus (can you say "total rewrite"?)
+
+
+7/2:
+*menus, menus, menus
+
+
+7/3:
+*finsihed the menus; let 'em loose for internal testing
+	totally reorganized; easier to figure out
+	new cooler looking font
+	more graphic images for plaques and stuff
+	don't put menus over console text; use a clean console backdrop
+	no more ascii based crappy looking underlines; entry boxes instead
+	much more available without going to console: vid_mode, for example
+	player colors shown on a small player model
+*don't let a demo change occur while in the menus
+*remove net_speeds, it's not really there any more
+*quit taunts
+*fix bars around clients score on status bar
+*16550a lost transmit buffer empty interrupts
+*sometimes processing interrupts from com1 when using com2
+*com3/com4 support people can actually understand
+*failure to init sometimes; use the trick I learned
+
+see if anything more can be done about latency
+get releasable quit taunt and network help box text
+
+
+7/4:
+*name and colors didn't always go over to server at startup
+*interface fixed serial code to new menus
+*save serial/modem settings
+*cvar vid_nopageflip was being registered twice
+*make non-DOS versions work again with all the other changes
+*merge in Carmack's changes
+
+
+7/5:
+*re-enable color when testing video modes
+*don't execute a stopdemo when there wasn't a demo playing
+*could sometimes get a demo to start while a game was active
+*show map names below level select
+*boxes around all confirmations
+*kill center text when changing levels/demos
+*make standard VGA mode 13 be the safe default, the video card in
+	Kevin's machine can't handle 320x200 vesa
+*add tcp/ip and ipx addresses (if available) to status command's output
+
+7/8:
+*make dtr drop, pause, raise for modem init only
+*baud rate translations for modems (14400->19200, 28800->38400)
+*get latest versions of mpath files
+*filter modem responses for bad characters (disconnect noise)
+*remove killserver command; no longer used
+*say from console
+*help text for >4 players
+*return error on null socket
+
+update readme
+
+-------------------------------------------------------------------
+John Cash (jcash@idsoftware.com) id Software
+
+Technical support: email support@idsoftware.com
+Latest info on id products: finger help@idsoftware.com
+Questions about id software: email help@idsoftware.com
+
+Official id anonymous FTP site: ftp.idsoftware.com
+Official id Web site: www.idsoftware.com
+-------------------------------------------------------------------

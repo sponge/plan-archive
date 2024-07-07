@@ -1,0 +1,54 @@
+[idsoftware.com]
+Login name: american                    In real life: American McGee
+Directory: /raid/nardo/american         Shell: /bin/csh
+Never logged in.
+Project: Quake, World Domination
+Plan:
+Yes, that is my real name.
+
+Ok, when you saw Wolf you spooged on your own knees right?
+Then DOOM came out and you spooged all over yourself again,
+only this time more. "Wow!", you thought, "I didn't know I
+could spooge _that_ much!"
+Just wait till Quake, you'll be mopping spooge for days.
+
+We have completed quite a few small maps and
+several larger maps. Creating Quake maps is a lot more
+detailed than making DOOM maps. Since you have so many
+options now you spend a lot of time trying to figure out
+which of your cool ideas to use... instead of having to
+throw them away because the engine cannot handle what
+you want to do. Creating floors above floors is very cool
+and creates some really beautiful scenes. The lighting
+is a lot of fun... but if you are not careful you can
+spend way too much time just moving lights around to
+see what things look like:)
+I am also working on the doors/plats/buttons/triggers
+and weapon code. Creating doors and other simple objects
+is the game is a breeze. You simply create the model
+that you want to represent the object... write some
+code for when it is "touched" and "used" and then throw
+it into the map. Object like weapons are much the same.
+You just think of the type of weapon you want to have,
+figure out how to make it work, code it in, and then
+throw it into the map.
+btw: The maps we are working on are going to be very
+cool for DM. Quake maps will be small to medium in size
+because we have found that maps this size are more fun
+to play in single and multiplayer. There will be some
+larger maps... but in general we are trying to keep
+the sizes down.
+
+ftp.idsoftware.com      id "Official" anonymous FTP site.
+
+        -----------------------------------------------
+        For the latest info on DOOM, QUAKE and other id
+        news, FINGER help@idsoftware.com
+        -----------------------------------------------
+        Also, send mail to help@idsoftware.com to use
+        the automated help bot to get new info.
+        -----------------------------------------------
+        For tech support send mail to:
+        support@gtinteractive.com
+        -----------------------------------------------
+

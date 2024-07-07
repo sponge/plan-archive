@@ -1,0 +1,131 @@
+[idsoftware.com]
+Login name: jcash                       In real life: John Cash
+Directory: /raid/nardo/jcash            Shell: /bin/csh
+Last login Mon Mar 24 12:56 on ttyp5 from idtokay
+Plan:
+Busy, busy, busy workin' on Quake2.  I wish I could tell
+you about it, but I can't.
+
+For now, I'll introduce "the Cash diet" to the world.
+I'd never really formalized my secret diet before, but
+the guys and girls (w00p) in my clan dragged it out
+of me one night.  So here it is. [drumroll]
+
+The Cash Diet Plan
+==================
+What to eat:
+        Red meat
+                Lots of it.  Cooked rare or medium rare.
+                Burgers, steaks, meatballs.. whatever.
+                No steak sauce, but gravy or juice is good.
+        Fried stuff:
+                Mainly potato chips and french fries.
+                Not those lame baked ones; real ones with
+                salt and oil and fat (and flavor) and maybe
+                bbq, vinegar, or something hot/spicy.
+        Dessert
+                Good stuff, not that low fat/low calorie crap.
+                Whipped cream is a definite plus.  Important
+                note: you are not restricted to only one.
+                Feel free to start out with a dessert as a
+                pre-appetizer appetizer.
+        Appetizers
+                Loaded nachos, Buffalo wings, Onion rings.
+
+What to drink:
+        Non-diet soft drinks (preferably with high
+                levels of caffeine)
+        Real beer
+
+Snacks:
+        Yes, of course.  Anytime you want.  I find
+        a snack to be good right before or right
+        after exercising.  Contrary to what you might
+        be thinking, fruit is actually OK as a snack...
+        as long as you "wash it down" with a candy bar.
+
+Exercise:
+        Hey, what kind of diet doesn't include exercise?
+        This is the key to my diet.  There is only one
+        exercise that is aerobic, burns lots of calories,
+        and you'll actually enjoy doing.  As an added
+        bonus it can be singles, couples, or even teams.
+        I'm talking, of course, about good old fashioned
+        sex.  The more the better (but take it easy when
+        working out alone!)  BTW, here's where that
+        whipped cream on the desserts can come in handy.
+
+There you have it.  I think it'll catch on.. I mean,
+what is there not to like?
+
+So, I hear you thinking: sounds great, but does it
+really work?  Well, it does for me.  I'm 5'10" and
+weigh 125 pounds.  I eat what I want, when I want,
+and "work out" as often as possible (w00p!!!)
+
+Warning: There is one possible side effect of this
+diet...   ummm... I have two of 'em... both boys
+So practice safe dieting.
+
+
+
+QuakeC Tips
+-----------
+Don't use the chain field.  If you need to make a linked
+list, make your own link field.  chain gets written by
+some of the builtin functions (like findradius) so your
+list can get screwed.
+
+If you don't want an entity to touch things anymore, don't
+change it's .touch to SUB_Null.  Instead change it's .solid
+to SOLID_NOT.  Both ways work, but having the the entity
+still solid means that the engine must still go through all
+the steps of detecting collisions and calling the null
+function (IOW, it's slower).
+
+If an entity does not need to think then just do not update
+it's nextthink field.  Having a think function that really
+doesn't do anything is bad for the same reasons as the touch
+function in the previous tip.
+
+Do not have an entity think more often than is necessary.
+This is mainly to keep your prgs net friendly.  Let's say
+you have an entity that thinks every 0.05 seconds (20
+times per sec, the default max rate for a dedicated server).
+Yes, you could do some really cool stuff.  The problem is
+that you are potentially causing that entity to be updated
+in every single message from the client to the server; it
+depends on what you do in the think, but it quite likely.
+Remember: The bigger the messages, the more likely it is
+the clients will see lag.
+
+
+w00p list
+---------
+The Cash diet plan
+Female Quake players
+Girl Scout cookies
+        Samoas are the best.  Sorry, news dudes.
+        Thin Mints (and the peanut butter ones)
+        are good too, but Samoas rule.  They
+        give you more reason to "diet" ;-)
+
+llama list
+----------
+a minor bot rant:
+        complete bots are cool.  I mean bots that
+        try to play entirely by themselves with
+        absolutely no human input (Reaper style).
+
+        augmentation bots (aka proxy bots, like
+        the stooge bot) are NOT.  I am sick and
+        tired of lamers using these things and
+        trying to lie and saying they are not.
+        Those fools are giving llamas a bad name.
+
+--------------------
+
+John Cash
+
+jcash@idsoftware.com
+

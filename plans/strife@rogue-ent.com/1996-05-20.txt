@@ -1,0 +1,82 @@
+[rogue-ent.com]
+Login name: strife    			In real life: Strife by Rogue Entertainment
+Directory: /Users/strife            	Shell: /bin/csh
+On since May 20 18:21:02 on console 	66 days Idle Time
+Project: http://www.velocitygames.com/
+Plan:
+STRIFE is a role-playing oriented action game by Rogue Entertainment Inc.
+It uses an improved version of Doom's excellent engine to bring
+you an RPG style world.  the levels are seamlessly integrated to
+represent a single world of connected maps. you can go back to the town
+again and again to buy more ammo from the merchant.  or whatever.
+
+Strife-  An action / R.P.G. where medieval and high technologies combine
+to form a world where warfare and oppression are a way of life.  Your faith
+in the Order, a quasi-religious militant sect that serves as both spiritual
+and political masters for the people, has eroded into hatred and mistrust.
+You are one of the new breed, one of the few who are willing to fight for
+change against the Order.  There are others,  the underground rebellion, the
+Movement.  You've heard stories of how they've begun to strike back, and in
+large enough numbers to actually frighten the Order.  Your wish is to join
+with them, overthrow the Order and bring the tyranny to its end.  This is
+where you begin your journey through Strife.
+
+Gain glory as you discover new lands, complete challenging tasks...
+
+Cool Technical Advances:
+- 8 player simultaneous deathmatch!
+- Seamless connection of 31 different areas!
+- Teleporters to bring in assistance during fights!
+- Ability to talk to and interact with people in the Strife World.
+- Jump over objects!
+- Windows you can SEE through! (And break..... heheheh)
+- Remove that neck brace and look around!
+- Ability to improve your skills and abilities!
+- A story that you affect through your actions...
+
+Many awesome weapons and weapon enhancements!
+Tons more actors, robots, items, and missions.
+
+OnScreen realtime FRAG Counts with color coding,
+and death notices with customizable names.
+
+Release date:
+May 1996
+--------------------------------------------------
+Strife:  In a world where warfare reigns as the sport of Kings,
+and technology is the best weapon, change begins.
+
+----------
+12 May 96
+---------
+The complete version of Strife shipped to manufacturing two weeks ago,
+and should be available in stores on or about the 20th of May. We've
+recieved a early box copy and it looks good.
+
+There is an updater for a few items that didn't make it into the first
+CD printing, check the Velocity and Rogue web sites for it. It's
+available right now, and updates Strife to version 1.2.
+
+We've revised the system requirements a little, which may or may not be
+up to date on the various web sites. The current minimum is a 486DX2/66,
+with 8MB of free memory. The full install on your hard drive is
+about 60-70 MB. You can run a smaller install, if you're still in the
+stone age (like some of us), that only takes up about 35MB.
+
+Strife runs fine under Windows 95, but you had better have at least a
+16MB machine. Strife really wants about 7-8MB of FREE memory that it
+can use. You can physically run it on an 8MB machine under windows,
+but it will page like a monster, and will run like garbage.
+
+We are currently evaluating developing ports of Strife to other platforms.
+
+---------
+
+The Strife Demo is available on the internet at ftp.cdrom.com in
+the /pub/idgames/misc directory.
+
+Visit the Strife/Rogue Web pages at:
+http://www.velocitygames.com/
+
+Visit Rogue's Web page at:
+http://www.gamers.org/~rogue/

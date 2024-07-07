@@ -1,0 +1,29 @@
+[idsoftware.com]
+Login name: strife    			In real life: Strife by Rogue
+Directory: /nardo/strife            	Shell: /bin/csh
+Never logged in.
+Project: http://pages.prodigy.com/TX/jmonroe/strife.html
+Plan:
+19 May 95
+---------
+Tech Notes for those who've asked:
+	Strife will run under the same operating systems as Doom2.
+
+STRIFE is a role-playing oriented action game by Rogue Entertainment Inc.
+It uses an improved version of Doom's excellent engine to bring
+you an rpg style world.  the levels are seamlessly integrated to
+represent a single world of connected maps. you can go back to the town
+again and again to buy more ammo from the merchant.  or whatever.
+
+[more story when we get time...]
+
+tons more actors, robots, items, and yes, plot and missions.
+
+
+tenative release date:
+Fall '95 (This would be Fall in the USA)
+
+--------------------------------------------------
+Strife:  In a world where warfare reigns as the sport of Kings,
+and technology is the best weapon, change begins.
+

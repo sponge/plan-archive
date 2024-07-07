@@ -1,0 +1,53 @@
+[idsoftware.com]
+Login name: johnr                       In real life: Romero
+Directory: /raid/nardo/johnr            Shell: /bin/csh
+Never logged in.
+Project: Quake, The Ultimate DOOM, HEXEN:Beyond Heretic, Strife.
+Plan:
+Uh, no. I'm not dead. I don't wreck my cars or myself.
+
+LATEST QUAKE NEWS:
+
+Just for the record (8/4/95):
+* Quake is a total action game, not an RPG.
+* The external programming language is a C variant.
+* Looking around is now done properly with the mouse; keyboard-only
+        is, of course, supported with auto look up/down and, soon,
+        auto-aiming (keyboard only). You can set/unset any of these options.
+* The new style of mouse movement will set the standard for all future
+        action games; it's that amazing.
+* All options are totally changeable, while you play the game. You
+        want to increase your normal walking speed threshold to the running
+        speed threshold, no problem. (This means that you won't have to hold
+        down a 'RUN' key, it will always be running! The RUN key can be used
+        to slow you down if you want.) This works with any controller used
+        with Quake.     Everything can be changed in real time.
+
+Sony PSX DOOM: The very best version of DOOM on the planet. All music and
+sound effects have been totally trashed and new ones created. It feels like
+you are playing a movie.  This should really be Sony's flagship product. It
+should be out when the PSX is released.
+
+SNES DOOM: Will be out September 1st.
+
+Ultra64 DOOM (3?): The character models are completely amazing.
+
+MacUltimate DOOM: We're working on getting it done.
+
+Hexen: Beyond Heretic (H2): So damn cool. The very best game in the
+current crop of DOOM-clones.  It slams everything out there; very dark,
+very eerie and the audio/visual feedback is totally and completely immersive.
+Screen shots to be released soon.
+
+Strife: Screen shots to be released soon.
+
+---
++-------------------------------------------------------------------+
+| John Romero (romero@idsoftware.com) id Software                   |
+| Send questions about id software to help@idsoftware.com           |
+| ftp.idsoftware.com                Official id anonymous FTP site  |
+| www.idsoftware.com                Official id Web site            |
++-------------------------------------------------------------------+
+
+Oooooh, you're fingering me again.
+

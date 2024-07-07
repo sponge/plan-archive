@@ -1,0 +1,109 @@
+[idsoftware.com]
+Login name: help                        In real life: help desk
+Directory: /cthulhu/Users/help          Shell: /bin/csh
+Never logged in.
+Plan:
+Watch where you stick that!
+
+Here you will find updated info on DOOM, DOOM][, and QUAKE.
+If there is something else you would like to see updates on please
+send mail to american@idsoftware.com.
+>>>> IF YOU DON'T SEE ANY UPDATES THAT MEANS THAT THERE IS NOTHING
+>>>> TO UPDATE YOU ON. I WILL TRY TO MAKE NOTE OF THE IMPORTANT ITEMS,
+>>>> BUT I DON'T INTEND FOR THIS TO BE AN ID SOFTWARE DAILY JOURNAL.
+-------------------------------------------------------------------
+                Disclaimer:
+All of the stuff you read here could be a TOTAL LIE. I am not going
+to be held liable for misinforming millions of people. I just work here;)
+-American
+-------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>>>GT Interactive IS LEGIT. Everything you get from this is seen by
+>>>>us first. They will be the ones distributing DOOM ][. You can pre-
+order DOOM ][ from them.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Status of DOOM---Updated: Fri, Aug 26th 2:26pm
+
+The latest patch for Registered/Shareware DOOM is: 1.1 to 1.2
+The latest version of Registered DOOM is: 1.2
+The latest version of Shareware/Beta DOOM is: 1.6
+The next patch for Registered/Shareware DOOM will be: 1.666
+There will be no 1.7 patch -- 1.666 is the last one.
+
+There is NO version 1.3.
+There is a 1.6 beta.
+
+Please stop sending mail about 1.4 and 1.5. There are NO PATCHES
+to 1.4 or 1.5.
+You can stop sending mail about 1.6 now.
+We are aware of the IDKFA.
+We are aware of the sound code problems.
+We are aware of all of the other misc. bugs too.
+
+>>>>>There should be a patch out by the end of NEXT WEEK.
+>>>>>1.666 is the same as the EXE in DOOM ][. We are pretty
+>>>>>sure this is a stable version.
+-------------------------------------------------------------------
+
+Status of DOOM ][---Updated: Fri, Aug 26th 12:32pm
+
+DOOM ][ is finished!!!! We are sending out the masters TODAY!!!
+GT Interactive will be distributing DOOM ][. The offers from them
+are legit.
+
+-------------------------------------------------------------------
+
+Status of DOOM ports---Updated: Fri, Aug 26th 2:25pm
+
+OS/2: Still working, no dates yet. IBM guys are handling this.
+This is how this will work: You will be able to download the
+OS/2 version from most BBSs and ftp sites. It will work with
+your registered wad or the shareware one. NO CHANGE.
+
+SGI Irix v5.2:  ftp.uwp.edu:/pub/msdos/games/id/sgixdoom.tar.Z.
+It is integrated with the v1.6ish DOOM version.  It supports
+pixel-doubling, -tripling, -quadrupling as well as 16-bit sound
+for clearer mixing.  Now compiled with -mips1 flag.
+
+LINUX: Same as Irix version. Not finished yet. Out later, though.
+This will also be available from most ftp sites.
+
+JAG: Running very fast. We are doing this port in-house. Maps are
+being worked on now. They will be the same maps (minus some of the
+ones we did not like... plus a few new ones).
+
+MAC: We have found a team to do this. There is no release date. No
+development has begun. We just got some Power PCs to test the beta
+version on. It should be here soon. Please do NOT ask to test
+this. There is no more info on this at this time. NO CHANGE.
+
+WINDOWS: We just got a beta of this. Looks AWESOME. Still no
+release date. The MICROSOFT guys are working on this.
+
+NEXTSTEP: There is a version 1.2 available from cs.orst.edu. There will
+be a ver 1.6 available there as soon as we release the patch for
+the DOS version. This will be out next in-house port. Dave will be
+doing this and it will have sound when it's done, just like the SGI version.
+
+If there is not a release date on one of the above that means it
+doesn't have one. Please do not send mail asking for info on the ports.
+If I had more I would put it here.
+
+-------------------------------------------------------------------
+
+Status of QUAKE---Updated: Tue, Aug 9th 11:38am
+
+This will not be out until sometime next summer.
+John now has a simple (slow) engine running. It uses converted
+DOOM maps and runs them with flats for textures. It looks REALLY
+cool.
+Multi-player should go something like this:
+Someone owns a fast server somewhere. You dial in and join the
+game in progress. Ten or more people at a time can be in the world.
+You will not NEED a Pentium to play QUAKE. Everyone knows you don't
+need one for DOOM either... but it doesn't hurt anything.
+
+-------------------------------------------------------------------
+

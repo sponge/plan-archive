@@ -1,0 +1,227 @@
+[idsoftware.com]
+Login name: help      			In real life: help
+Directory: /nardo/help              	Shell: /bin/csh
+Never logged in.
+Plan:
+Finger in, finger out...
+-------------------------------------------------------------------
+Here you will find updated info on DOOM, DOOM II, Heretic, and QUAKE.
+If there is something else you would like to see updates on please
+send mail to american@idsoftware.com.
+>IF YOU DON'T SEE ANY UPDATES THAT MEANS THAT THERE IS NOTHING
+>TO UPDATE YOU ON. I WILL TRY TO MAKE NOTE OF THE IMPORTANT ITEMS,
+>BUT I DON'T INTEND FOR THIS TO BE AN ID SOFTWARE DAILY JOURNAL.
+-------------------------------------------------------------------
+Disclaimer:
+All of the stuff you read here could be a TOTAL LIE. I am not going
+to be held liable for misinforming millions of people. I just work here.
+-American
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Want id stuff?
+
+The id WWW site is: www.idsoftware.com.
+The id ftp site is: ftp.idsoftware.com.
+The id fsp site is: fsp.idsoftware.com, port 21.
+
+(they're both the same, but we prefer you use fsp, if you can)
+-------------------------------------------------------------------
+Status of DOOM---Updated: Wed, Jun 28th 11:55am
+
+We have mastered The Ultimate DOOM!  This is a special release of
+the original DOOM for retail with an ADDITIONAL FOURTH EPISODE
+titled "Thy Flesh Consumed".  The box also contains a validation
+for 5 free hours of DWANGO time (DOOM modem network play).  The DOOM
+box has been redesigned as to look unique in the stores next to all
+the original DOOM shareware boxes.
+
+We are planning an upgrade policy for registered DOOM owners to
+move up to The Ultimate DOOM. Please do NOT hassle us about how it
+will work!  We will tell you when we know.
+
+**The plan right now is that we are going to release a patch so
+**that if you own registered DOOM already you can upgrade to Thy
+**Flesh Consumed for free. This could change... but it probably won't.
+
+Status of Shareware DOOM:
+
+GET VERSION 1.9 FROM ftp.idsoftware.com
+
+The latest patch for Registered/Shareware DOOM is: 1.7 to 1.9
+The latest version of Registered DOOM is: 1.9
+The latest version of Shareware/Beta DOOM is: 1.9
+
+The latest patch for DOOM II is: 1.7a to 1.9
+
+1.9 is it. There will be NO MORE.
+-------------------------------------------------------------------
+Status of DOOM II---Updated: Fri, Jan 27th 4:05pm
+
+If you have a version dated 8-25 it is pirate. Do NOT write
+us asking how to patch it.
+-------------------------------------------------------------------
+Status of games using the DOOM engine---Updated: Mon, Jul 1st 4:39pm
+
+Heretic: Done with the patch. No thanks to Chris and Max bugging us.
+Download it now and be happy.
+
+Strife: Still working. No updates. I will try to put something in here
+soon about Strife.
+-------------------------------------------------------------------
+Status of DOOM The Movie---Updated Thu, Nov 3rd 1:35pm
+
+Still in the birth process. Many very cool people have shown
+interest in the project. There is no release date for the movie.
+Nothing new.
+-------------------------------------------------------------------
+Status of DOOM ports---Updated: Thu, Jun 1 1995 4:04pm
+
+OS/2: Still waiting. There is no new info. I wish there was. Do not
+send us mail about this.
+
+MAC: Lion Software is working on this right now. They are VERY close
+to having it finished. At the moment they are trying to get the DOS/
+MAC network code working. They are also working on optimizing the
+code to make it run faster. They should have everything ready to go
+in two weeks. DO NOT SEND ME MAIL ABOUT THIS. I *WILL* DELETE IT!
+
+WINDOWS: We just got a beta of this. Looks AWESOME. Still no
+release date. The Microsoft guys are working on this. NO CHANGE.
+THERE IS NO NEW INFO ABOUT THIS...
+
+SGI Irix v5.2:  ftp.uwp.edu:/pub/msdos/games/id/sgixdoom.tar.Z.
+It is integrated with the v1.6ish DOOM version.  It supports
+pixel-doubling, -tripling, -quadrupling as well as 16-bit sound
+for clearer mixing.  Now compiled with -mips1 flag. Do not send
+us mail about this. We will delete it. NO CHANGE.
+
+Sun Solaris 2.4: ftp.idsoftware.com:/new/sundoom.tar.gz.  Same as
+SGI but uses direct frame buffer access for faster blitting.  Do
+not send us mail about this port. We will delete it. NO CHANGE.
+
+LINUX: the linux version is at:
+ftp.cc.gatech.edu:/pub/Linux/games/doom/linuxsdoom.tar.gz  (full-screen)
+ftp.cc.gatech.edu:/pub/Linux/games/doom/linuxxdoom.tar.gz  (X windows)
+ftp.cc.gatech.edu:/pub/Linux/games/doom/sndserver.gz       (bug fixed)
+ftp.cc.gatech.edu:/pub/Linux/games/doom/doom1v18.wad.gz
+and may be moved to whatever appropriate directory later. Do not
+send us mail about this. We will delete it. NO CHANGE.
+
+QNX: DOOM for the QNX OS is anonymously ftp'able from quics.qnx.com.
+It's compiled with Pentium optimizations and supports sound, music,
+the VGA console and X Windows with pixel doubling and tripling.
+We don't support this version, QNX Software Systems did the port.
+This version will run the shareware, registered, or doom2 wadfile.
+The files to ftp are:
+
+  /usr/free/doom/qnxdoom.pax.gz - Console and X versions of QNX DOOM
+  /usr/free/doom/doom1.wad.gz   - DOOM v1.666 wad file
+  /usr/free/doom/qnxdoom.faq    - Installation instructions and other
+  details
+
+NEXTSTEP: URL for the info page at Omni's WWW site:
+  http://www.omnigroup.com/Software/Doom/
+There is a DOOM and a DOOM II beta version.
+If you have any other questions about Doom (under NEXTSTEP),
+contact doom@omnigroup.com .
+
+JAG: It's out now. Go buy it. Everyone likes it.
+Sega 32X: Released. Buy it.
+
+Ultra 64: We have licensed Williams Entertainment to develop a
+unique version of DOOM for Nintendo's U-64.  It is to be available
+for the consumer release of the platform.
+
+There will never be a port to these machines:
+Amiga, Sinclair 2000, Apple //gs, TRS-80.
+
+If there is not a release date on one of the above that means it
+doesn't have one. Please DO NOT send mail asking for info on the ports.
+If I had more I would put it here.
+*NOTE: Some of you are morons. When I ask you NOT to send me mail about
+*this stuff, I mean it. We get enough mail as it is... when you send
+*us mail about this it just slows us down. Don't be a moron.
+-------------------------------------------------------------------
+Status of QUAKE---Updated: Mon, Jun 26th 1:24pm
+
+********
+THERE IS NO BETA VERSION OF THIS OUT *ANYWHERE*!
+THERE IS NOTHING FOR ANYONE TO TEST RIGHT NOW EITHER.
+WE ARE STILL VERY MUCH IN DEVELOPMENT.
+********
+
+This will not be out until sometime in the Winter of '95.
+**That's THIS COMING CHRISTMAS for those of you who don't
+**understand what I mean. Like that Chris guy. Man, what a 'tard.
+Ok, ok... you guys wanted more.
+As of today the following things are working/semi-working:
+Network play
+Basic Engine
+Object Modeling
+Map Editor
+++++++++++++++++++++++++++++++++++
+
+Network Play:
+Server/Client code is functioning great. Set up a Quake server on
+a DOS, NeXT, Linux, or SGI etc... box. Once the server is running you
+get on another machine (DOS, NeXT, Linux, SGI, etc) and log into the
+server. A play window opens and you can see the other players, move
+around, quit out, get back in, etc... There is no DeathMatch yet, but
+this will be the first part of the game to be working... monsters etc,
+will be added in later.
+This is still the same. There have been no changes.
+
+Basic Engine:
+This is running pretty fast. In network mode it slows down somewhat,
+but this will be reversed soon. (Network will be faster than single
+player.) Right now we are using a part of DOOM map 1 1 to test the
+engine.
+This is running faster everyday. We are using other maps to test on
+now and things are looking very awesome.
+
+Object Modeling:
+Kevin created a model of a person that only consists of about 200
+polygons. This model looks surprisingly good... we had thought we
+would need more polygons per model to create the amount of detail
+we want. So far this is the only "thing" in the game. He does not
+animate, but it is still cool to watch him be "born". At the moment
+he is textured with the art from the CyberDemon.
+We have a couple of different monster and person models now.
+The all look very good.
+
+Map Editor:
+The map editor is completely finished. We have been working with
+it for a while now, creating new levels.
+
+**We will not be adding anything new to this for a while.
+There are MANY cool new things going into the game right now, but
+we do not want to give it all away just yet. We have been creating
+small test levels for the past few weeks, and these are looking
+awesome. The general game idea has started to solidify, but please
+do not write asking what it is.
+I will add some new stuff here when there is *a lot* more to add.
+
+Read alt.games.quake for occasional new info.
+-------------------------------------------------------------------
+WHAT IS id?
+
+1id \'id\ n
+[NL, fr. L, it]
+(1924)
+:the one of the three divisions of the psyche in psychoanalytic
+theory that is completely unconscious and is the source of psychic
+energy derived from instinctual needs and drives P compare EGO,
+SUPEREGO
+
+****
+DOOM / DOOM II / HERETIC TECH DOCS CAN BE FOUND BY MAILING
+help@idsoftware.com WITH THE Subject: INDEX
+"help" IS NOW COMPLETELY AUTOMATED AND MAIL SENT THERE IS *NOT*
+READ BY HUMAN EYES. IF YOU HAVE A QUESTION THAT YOU MUST HAVE
+ANSWERED BY US PLEASE MAIL IT TO shawng@idsoftware.com.
+****
+-------------------------------------------------------------------
+Here you have found updated info on DOOM, DOOM II, HERETIC and QUAKE.
+If there is something else you would like to see updates on please
+send mail to american@idsoftware.com.
+

@@ -1,0 +1,267 @@
+[idsoftware.com]
+Login name: help      			In real life: help desk
+Directory: /cthulhu/Users/help      	Shell: /bin/csh
+Never logged in.
+Plan:
+Oh, that feels good!
+
+Here you will find updated info on DOOM, DOOM][, and QUAKE.
+If there is something else you would like to see updates on please
+send mail to american@idsoftware.com.
+>>>> IF YOU DON'T SEE ANY UPDATES THAT MEANS THAT THERE IS NOTHING
+>>>> TO UPDATE YOU ON. I WILL TRY TO MAKE NOTE OF THE IMPORTANT ITEMS,
+>>>> BUT I DON'T INTEND FOR THIS TO BE AN ID SOFTWARE DAILY JOURNAL.
+-------------------------------------------------------------------
+		Disclaimer:
+All of the stuff you read here could be a TOTAL LIE. I am not going
+to be held liable for misinforming millions of people. I just work here.
+-American
+-------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+GT Interactive is id's distributor. The DOOM ][ offer is legitimate.
+You can still order from 1-800-IDGAMES if you like. DOOM ][ will be
+in stores October 10th.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Status of DOOM---Updated: Sat, Oct 29th 4:14pm
+
+The latest patch for Registered/Shareware DOOM is: 1.2 to 1.666
+The latest version of Registered DOOM is: 1.666
+The latest version of Shareware/Beta DOOM is: 1.666
+There is NO version 1.3.
+
+You can find 1.666 at ftp.uwp.edu in:
+/pub/incoming/id
+
+We are aware of some the minor sound bugs. 1.666 is the last
+OFFICIAL version of DOOM. We may release some small patches for the
+sound code in a few weeks. These will be aimed towards the PAS, Adlib,
+and MPU-401 problems. We appreciate bug reports on the experimental
+sound fixes, but we cannot promise further tech-support on this.
+We are aware of the map bug in 3-9.
+
+There will be a ver 1.7 for DOOM and DOOM ][. These should be out
+soon. These patches will fix map bugs, and some sound code problems.
+
+-------------------------------------------------------------------
+
+Status of DOOM ][---Updated: Nov 8th 5:58pm
+
+Out. Finished.
+
+WE ARE HAVING SOME PROBLEMS WITH THE PATCHES. THERE ARE _THREE_
+DIFFERENT VERSIONS OF DOOM ][ OUT RIGHT NOW. THERE ARE TWO 1.666'S
+AND A 1.7. THE TWO 1.666'S DO NOT APPEAR TO BE DIFFERENT AT STARTUP
+BUT THEY WILL HAVE DIFFERENT FILE CREATION DATES. WHAT WE ARE WORKING
+ON NOW IS ONE PATCH THAT WILL WORK ON ALL THREE VERSIONS. THIS SHOULD
+BE OUT SOON. IF YOU ARE HAVING PROBLEMS WITH THE PATCHES PLEASE
+DO NOT MAIL US. WE ARE AWARE OF THIS. WE ARE WORKING TO FIX IT.
+THERE SHOULD BE A NEW PATCH OUT NOV 11TH.
+
+-------------------------------------------------------------------
+
+NOTE TO GT CUSTOMERS:
+We are aware of how shitty GT has been to some of you guys. We have
+jumped all over them and made them cry. They should be contacting
+you with an apology and some sort of gift for getting the shaft.
+We realize how mad you are at them and we understand. Steps _are_ being
+taken to make sure this never happens again. We appreciate the support
+of everyone who buys our products.
+
+-------------------------------------------------------------------
+
+Status of games using the DOOM engine---updated Sat, Oct 29th 4:18pm
+
+Heretic: Won't be out Nov 1st. Wizards, magic weapons, and flying.
+Multi-player support will still be in this. We have been testing this.
+The multi-player is VERY cool. You can fly around the other guy and
+shoot him from the air... The maps are very slick and the monsters
+are very cool. There are some great weapons in the game also.
+Will be out before Christmas.
+
+Strife: Still working. No updates.
+-------------------------------------------------------------------
+
+Status of DOOM Movie---Updated Thu, Nov 3rd 1:35pm
+
+Still in the birth process. Many very cool people have shown
+interest in the project. There is no release date for the movie.
+
+-------------------------------------------------------------------
+
+Status of DOOM ports---Updated: Sat, Oct 29th 4:19pm
+
+QNX: DOOM for the QNX OS is anonymously ftp'able from quics.qnx.com.
+It's compiled with Pentium optimizations and supports sound, music,
+the VGA console and X Windows with pixel doubling and tripling.
+We don't support this version, QNX Software Systems did the port.
+This version will run the shareware, registered, or doom2 wadfile.
+The files to ftp are:
+
+
+  /usr/free/doom/qnxdoom.pax.gz - Console and X versions of QNX DOOM
+  /usr/free/doom/doom1.wad.gz   - DOOM v1.666 wad file
+  /usr/free/doom/qnxdoom.faq    - Installation instructions and other details
+
+
+OS/2: Still working, no dates yet. IBM guys are handling this.
+This is how this will work: You will be able to download the
+OS/2 version from most BBSs and ftp sites. It will work with
+your registered wad or the shareware one. NO CHANGE. STILL NO CHANGE.
+
+SGI Irix v5.2:  ftp.uwp.edu:/pub/msdos/games/id/sgixdoom.tar.Z.
+It is integrated with the v1.6ish DOOM version.  It supports
+pixel-doubling, -tripling, -quadrupling as well as 16-bit sound
+for clearer mixing.  Now compiled with -mips1 flag. Do not send
+us mail about this. We will delete it. NO CHANGE.
+
+LINUX: the linux version is at sunsite.unc.edu:/pub/Linux/Incoming
+and may be moved to whatever appropriate directory later. Do not
+send us mail about this. We will delete it. NO CHANGE.
+
+JAG: This is finished. It is being mastered. Will be out before
+Christmas. Mutli-player works between two Jags in the same room.
+NO CHANGE.
+
+MAC: We have found a team to do this. There is no release date.
+We just got some Power PCs to test the beta
+version on. It should be here soon. Please do NOT ask to test
+this. There is no more info on this at this time. NO CHANGE.
+
+WINDOWS: We just got a beta of this. Looks AWESOME. Still no
+release date. The MICROSOFT guys are working on this. NO CHANGE.
+
+NEXTSTEP: There is a version 1.2 available from cs.orst.edu. There
+will not be another patch until we send out the finished version.
+Omnigroup is working on a new NEXTSTEP release of
+DOOM with interceptor direct framebuffer access, sound,
+customizable controls, and lots of other features.
+A DOOM II release will also be available.
+URL for the info page at Omni's WWW site:
+  http://www.omnigroup.com/Software/Doom/
+
+Sega 32X: Like the Jag version. Sega is doing this one. Close to
+being finished. No release date. Maps are finished. NO CHANGE.
+
+If there is not a release date on one of the above that means it
+doesn't have one. Please DO NOT send mail asking for info on the ports.
+If I had more I would put it here.
+
+-------------------------------------------------------------------
+
+Status of QUAKE---Updated: Sat, Oct 29th 4:21pm
+
+This will not be out until sometime next summer.
+John now has a simple (slow) engine running. It uses converted
+DOOM maps and runs them with flats for textures. It looks REALLY
+cool.
+Ok, imagine this. You have a health thing and you don't need it.
+You meet someone in the game who has a nice weapon but is really
+low on health. You guys decide to exchange items. You don't really
+trust this guy so you bring along a friend and tell him to hide out
+somewhere with a bead on the other guy's head. You meet somewhere
+in the middle of a field and face off. You drop your health, he drops
+his weapon and you both strafe over the object of your desire. You
+start to back away (not turning your back on him) and suddenly decide
+you're going to whack this guy before he gets a chance to use that
+health. You move towards him and draw back with your hammer. He notices
+this and starts to duck, but it's too late. You smash him in the head
+and watch him fly down to the ground, landing on his side. You smash
+his still body a few more times and cause him to explode! Now you and
+your friend pick up all of the items your dead friend left on the
+ground. As you are walking off you pick up his severed head and put
+it in a bag. That will come in useful later... when you need something
+to sacrifice to a demon.
+
+John has a faster engine working now. Groundwork for network play
+has been finished. Looking VERY cool. For those of you who still
+have a wife, kids, a job, and a life after DOOM, this game is for YOU.
+You DOOM junkies will have a new fix...
+
+-------------------------------------------------------------------
+
+FAQ to help@idsoftware.com
+_*_*_*_*_*_*_*_*_*_*_*_*_*_
+
+WHAT IS iD?
+
+1id \'id\ n
+[NL, fr. L, it]
+(1924)
+:the one of the three divisions of the psyche in psychoanalytic
+theory that is completely unconscious and is the source of psychic
+energy derived from instinctual needs and drives P compare EGO,
+SUPEREGO
+
+_*_*_*_*_*_*_*_*_*_*_*_*_*_
+
+DOOM IS DOING SOME WIERD LOCK-UP THING! I HAVE TRIED EVERYTHING
+ELSE! NOW WHAT?!
+
+CMOS settings: Disable VIDEO SHADOW, HIDDEN REFRESH, & TURBO SWITCHING.
+Enable: HD1 BLOCK MODE. (Thanks to Todd Parsons for this one.)
+
+Video Cards: Diamond SpeedStar: Disable ZERO WAIT STATE.
+
+Set your bus speed to the slowest setting in your CMOS settings.
+
+_*_*_*_*_*_*_*_*_*_*_*_*_*_
+
+DOOM SAYS INSUFFICIENT DPMI MEMORY! WHAT DO I DO??
+
+If you have DOS ver 6.x do this--
+
+Restart the computer
+When you see the STARTING MS-DOS message hold down a SHIFT key
+Wait until a C: prompt appears
+Let go of the SHIFT key
+Run the game.
+
+If you have DOS 5.x or earlier(retch)--
+
+Put a BLANK disk in the A: drive.
+At the C: prompt type FORMAT A:/S and hit ENTER
+When the disk is finished being formatted restart the computer.
+Run the game.
+
+If this does not work you may not have enough memory.
+Run MEM and see what it reports. You need at least 3.3 MB TOTAL MEMORY
+FREE.
+_*_*_*_*_*_*_*_*_*_*_*_*_*_
+
+WHEN TRYING TO RUN A MODEM GAME THE MODEM JUST SITS THERE.
+IT NEVER EVEN DIALS OUT. NOW WHAT??
+
+Get ver 1.666.
+
+_*_*_*_*_*_*_*_*_*_*_*_*_*_
+
+NOVELL DOS 7 WILL NOT RUN DOOM. WHAT DO I DO??
+
+Novell DOS 7 required the following changes during software testing:
+
+1. Follow the default installation and reboot the system.
+2. At the C: prompt, type SETUP <ENTER>.
+3. Double click on DOS system and Memory Management. Then, double-click
+on Memory Manager.
+4. Click on configure <ENTER>.
+5. Select Extended memory reserved for non XMS-LIM applications.
+Type in the highest available memory. Make sure everything else in
+this screen is de-selected.
+6. Save the configuration and reboot the system.
+
+_*_*_*_*_*_*_*_*_*_*_*_*_*_
+
+I RUN THE GAME AND AFTER A WHILE MY GUY GOES NUTS. HE SPINS AROUND
+AND SHOOTS LIKE HE'S ON ACID OR SOMETHING. WHAT GIVES?? HAS HE GONE
+BLIND?!
+
+Get ver 1.666
+
+_*_*_*_*_*_*_*_*_*_*_*_*_*_
+
+Here you have found updated info on DOOM, DOOM][, and QUAKE.
+If there is something else you would like to see updates on please
+send mail to american@idsoftware.com.
+

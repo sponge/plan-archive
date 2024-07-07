@@ -1,0 +1,242 @@
+[idsoftware.com]
+Login name: help                        In real life: help desk
+Directory: /cthulhu/Users/help          Shell: /bin/csh
+Never logged in.
+Plan:
+Watch where you stick that!
+
+Here you will find updated info on DOOM, DOOM][, and QUAKE.
+If there is something else you would like to see updates on please
+send mail to american@idsoftware.com.
+>>>> IF YOU DON'T SEE ANY UPDATES THAT MEANS THAT THERE IS NOTHING
+>>>> TO UPDATE YOU ON. I WILL TRY TO MAKE NOTE OF THE IMPORTANT ITEMS,
+>>>> BUT I DON'T INTEND FOR THIS TO BE AN ID SOFTWARE DAILY JOURNAL.
+-------------------------------------------------------------------
+		Disclaimer:
+All of the stuff you read here could be a TOTAL LIE. I am not going
+to be held liable for misinforming millions of people. I just work here;)
+-American
+-------------------------------------------------------------------
+
+Status of DOOM---Updated: Thu, Aug 4th 5:52
+
+The latest patch for Registered/Shareware DOOM is: 1.1 to 1.2
+The latest version of Registered DOOM is: 1.2
+The latest version of Shareware/Beta DOOM is: 1.6
+The next patch for Registered/Shareware DOOM will be: 1.666
+There will be no 1.7 patch -- 1.666 is the last one.
+If we still have bugs after uploading v1.6, the next version
+will be 1.61.
+
+There is NO version 1.3.
+There is a 1.6 beta.
+
+>Please stop sending mail about 1.4 and 1.5. There are NO PATCHES
+>to 1.4 or 1.5.
+
+Version 1.6 is available from ftp.uwp.edu and infant2.sphs.indiana.edu.
+It is a beta shareware version. There is NO PATCH to 1.6.
+
+>1.6 is looking really good. There are still some minor problems
+>with the sound code but it does not look like anything too killer.
+>We are aware of the silly IDKFA thing. This was fixed in 2 seconds
+>AFTER we realized it was still in there;-)
+>We are aware of the -loadgame bug.
+>Keep the reports coming.
+>It looks like the REAL patch may be out very soon. Thanks for all
+>the comments and reports about the 1.6 Beta.
+
+-------------------------------------------------------------------
+
+Status of DOOM ][---Updated: Wed, Aug 3rd 1:27pm
+
+There are now about 32 levels finished.
+
+The new monsters are great. The Archvile (the guy who BFGs you and
+walks around waking up the dead) is working great. When he walks
+over someone he makes this wonderful backwards gibs sound and they
+leap up from the ground.
+
+DOOM ][ will be available from a store near you in October.
+You do not receive a discount for being a registered user.
+
+-------------------------------------------------------------------
+
+Status of DOOM ports---Updated: Tue, Aug 9th 11:55am
+
+OS/2: Still working, no dates yet. IBM guys are handling this.
+This is how this will work: You will be able to download the
+OS/2 version from most BBSs and ftp sites. It will work with
+your registered wad or the shareware one. NO CHANGE.
+
+SGI Irix v5.2:  ftp.uwp.edu:/pub/msdos/games/id/sgixdoom.tar.Z.
+It is integrated with the v1.6ish DOOM version.  It supports
+pixel-doubling, -tripling, -quadrupling as well as 16-bit sound
+for clearer mixing.  Now compiled with -mips1 flag.
+
+LINUX: Same as Irix version. Not finished yet. Out later, though.
+This will also be available from most ftp sites.
+
+JAG: Running very fast. Lighting is working now. This will be out
+later this summer probably September. We are doing this. There
+will be two new levels in the Jag version. The graphics are
+getting faster every day.
+
+MAC: We have found a team to do this. There is no release date. No
+development has begun. We just got some Power PCs to test the beta
+version on. It should be here soon. Please do NOT ask to test
+this. There is no more info on this at this time. NO CHANGE.
+
+WINDOWS: We just got a beta of this. Looks AWESOME. Still no release
+date. The MICROSOFT guys are working on this.
+
+NEXTSTEP: There is a version 1.2 available from cs.orst.edu. There will
+be a ver 1.6 available there as soon as we release the patch for
+the DOS version. This will be out next in-house port. Dave will be
+doing this and it will have sound when it's done, just like the SGI version.
+
+If there is not a release date on one of the above that means it
+doesn't have one. Please do not send mail asking for info on the ports.
+If I had more I would put it here.
+
+-------------------------------------------------------------------
+
+Status of QUAKE---Updated: Tue, Aug 9th 11:38am
+
+This will not be out until sometime next summer.
+John now has a simple (slow) engine running. It uses converted
+DOOM maps and runs them with flats for textures. It looks REALLY
+cool.
+Multi-player should go something like this:
+Someone owns a fast server somewhere. You dial in and join the
+game in progress. Ten or more people at a time can be in the world.
+You will not NEED a Pentium to play QUAKE. Everyone knows you don't
+need one for DOOM either... but it doesn't hurt anything.
+
+-------------------------------------------------------------------
+
+Status of Ferraris---Updated Tue, Aug 9th 11:39am
+(Don't blame me.  Y'all told us to write this.)
+
+This seems to change more than anything... I guess I'll keep
+track of it here.
+
+Who owns what: John Carmack has a 1985 328GTS and a 1988 Testarossa.
+Both of these are red. John Romero has a 1991 Testarossa. This is
+a cool yellow color.
+
+Carmack's 328GTS has one turbo running from 10-15 pounds of boost.
+This car has about 500hp. This is a very fast car.
+His Testarossa just had a turbo death job done on it. It now has
+TWO turbos, dual intercooling, and an all new engine control system.
+The TR produces from 700-800hp. This car makes the 328 feel slow.
+
+Romero has not done anything special to his TR. It is a cool yellow
+though.
+
+Aug 8th. While showing Shawn what REAL speed is Carmack breaks the
+input shaft on his TR. Back to the shop.
+
+For those who care:
+Sandy Peterson drives a 1985 Honda Civic 4 door... badly hail damaged.
+Shawn Green drives a 1983 Camaro soon to be a 3000GT VR4.
+American McGee drives a 1990 Honda CRX soon to be a 230hp turbo
+death Honda!!
+Adrian Carmack drives a Viper. Black. Nice.
+Kevin Cloud drives a 1993 Vette.
+Dave Taylor drives a 1985 Jag XJS with a Vette engine in it.
+Jay Wilbur drives a 1985 Toyota Celica.
+Donna Jackson drives a 1990 Mustang 5.0.
+
+-------------------------------------------------------------------
+
+FAQ to help@idsoftware.com
+_*_*_*_*_*_*_*_*_*_*_*_*_*_
+
+WHAT IS iD?
+
+1id \'id\ n
+[NL, fr. L, it]
+(1924)
+:the one of the three divisions of the psyche in psychoanalytic
+theory that is completely unconscious and is the source of psychic
+energy derived from instinctual needs and drives P compare EGO,
+SUPEREGO
+
+DOOM SAYS INSUFFICIENT DPMI MEMORY! WHAT DO I DO??
+
+If you have DOS ver 6.x do this--
+
+Restart the computer
+When you see the STARTING MS-DOS message hold down a SHIFT key
+Wait until a C: prompt appears
+Let go of the SHIFT key
+Run the game.
+
+If you have DOS 5.x or earlier(wretch)--
+
+Put a BLANK disk in the A: drive.
+At the C: prompt type FORMAT A:/S and hit ENTER
+When the disk is finished being formatted restart the computer.
+Run the game.
+
+If this does not work you may not have enough memory.
+Run MEM and see what it reports. You need at least 3.3 MB TOTAL MEMORY
+FREE.
+_*_*_*_*_*_*_*_*_*_*_*_*_*_
+
+WHEN TRYING TO RUN A MODEM GAME THE MODEM JUST SITS THERE.
+IT NEVER EVEN DIALS OUT. NOW WHAT??
+
+The SerSetup program initializes the modem too quickly.
+You will need to initialize the modem from the DOS prompt like this:
+
+ECHO AT Z M1 blah blah > COMx
+
+This will initialize the modem... you may get an error and an
+'ABORT, RETRY, FAIL' message... just keep RETRYing until it takes it.
+(If your friend has this problem he/she needs to do the same) Then do this:
+
+ECHO ATDT 555-2222 > COMx
+
+This will dial out to your friend. At your friends house he/she needs
+to do this:
+
+ECHO ATS0=1
+
+This will set him/her up for an auto-answer. When the phone rings and
+the modems connect, you both need to go into SETUP and select
+ALREADY CONNECTED. That's all there is to it.
+
+_*_*_*_*_*_*_*_*_*_*_*_*_*_
+
+NOVELL DOS 7 WILL NOT RUN DOOM. WHAT DO I DO??
+
+Novell DOS 7 required the following changes during software testing:
+
+1. Follow the default installation and reboot the system.
+2. At the C: prompt, type SETUP <ENTER>.
+3. Double click on DOS system and Memory Management. Then, double-click
+on Memory Manager.
+4. Click on configure <ENTER>.
+5. Select Extended memory reserved for non XMS-LIM applications.
+Type in the highest available memory. Make sure everything else in
+this screen is de-selected.
+6. Save the configuration and reboot the system.
+_*_*_*_*_*_*_*_*_*_*_*_*_*_
+
+I RUN THE GAME AND AFTER A WHILE MY GUY GOES NUTS. HE SPINS AROUND
+AND SHOOTS LIKE HE'S ON ACID OR SOMETHING. WHAT GIVES?? HAS HE GONE
+BLIND?!
+
+This is a bug in the software. There will be a patch out soon. This
+problem arises using a PS/2 style mouse and some keyboards. You
+can use the keyboard only or use a serial mouse until the patch is
+out. The patch will be sent to all registered users. You will also
+be able to D/L the patch from most ftp sites and BBS's.
+_*_*_*_*_*_*_*_*_*_*_*_*_*_
+
+Here you have found updated info on DOOM, DOOM][, and QUAKE.
+If there is something else you would like to see updates on please
+send mail to american@idsoftware.com.
+

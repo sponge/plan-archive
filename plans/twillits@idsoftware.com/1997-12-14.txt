@@ -1,0 +1,49 @@
+[idsoftware.com]
+Welcome to id Software's Finger Service V1.4!
+
+Name: Tim Willits
+Email: twillits@idsoftware.com
+Description: Designer
+Project: Quake 2
+Last Updated: 12/12/1997 14:10:00 (Central Standard Time)
+-------------------------------------------------------------------------------
+Hello -
+
+Now that Quake 2 is finished I thought I would update my .plan again.  I
+first want to thank John Romero for the great compliments he has given us
+on Quake 2. It really means a lot to me.  John has always been my design
+hero in a way. When I first got to id I shared an office with John and
+tried my hardest to design like him. The style and design techniques that
+you see in Quake 2 were heavily influenced by the things I learned from
+him.  There are two things I want to clarify from his .plan update.  The
+first one is that Paul Jaquays was the designer on the base secret level
+"train", not Brandon.  That was Paul's first real level he built for Quake
+2 and as a first time level it's simply amazing with its vertical scale
+and complexity.  Second, I would also like to add that Brandon did a ton
+of clean-up and monster placement work for the Waste unit and the Mine
+unit.  At id no one person does all the work on any given map.  Because
+the design of Quake 2 was so large and complex a team effort was needed to
+get everything finished. When you look at a list of names and maps you
+can't really understand everything that went into creating them. For
+example, the "security" map was originally started by me, it was later
+passed on to Christian to finish. After I realized that I needed to add a
+connection to "mintro" from it, I took it back to add an end.  When I was
+done with that it returned to Christian to add a basement area. Then the
+last day before we shipped I changed the top area again. As you can see I
+built its foundation, but Christian also added a ton of stuff to it.
+"Security" isn't the only map with such a long history - power1, mintro,
+hangar1 (especially), and hangar2 all have similar stories. The list of
+maps and names in Romero's .plan reflects the person who built the level's
+foundation but does not reflect all the clean-up and tweaking done by the
+others. If anyone has a question about a map feel free to ask any
+designer, chances are they did some work on it and can answer your
+question.
+
+I want to publicly thank and congratulate all the designers here that
+worked so hard to make such an awesome game. No one person could have done
+what the team did. We have become so strong as a team and I believe we
+work so wonderfully together that I can not wait until we get started on
+the mission pack.
+
+-Tim
+

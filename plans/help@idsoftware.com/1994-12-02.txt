@@ -1,0 +1,88 @@
+[idsoftware.com]
+Login name: help                        In real life: help desk
+Directory: /cthulhu/Users/help          Shell: /bin/csh
+Never logged in.
+Plan:
+Finger in, finger out...
+
+Here you will find updated info on DOOM, DOOM][, and QUAKE.
+If there is something else you would like to see updates on please
+send mail to american@idsoftware.com.
+>>>> IF YOU DON'T SEE ANY UPDATES THAT MEANS THAT THERE IS NOTHING
+>>>> TO UPDATE YOU ON. I WILL TRY TO MAKE NOTE OF THE IMPORTANT ITEMS,
+>>>> BUT I DON'T INTEND FOR THIS TO BE AN ID SOFTWARE DAILY JOURNAL.
+-------------------------------------------------------------------
+                Disclaimer:
+All of the stuff you read here could be a TOTAL LIE. I am not going
+to be held liable for misinforming millions of people. I just work here.
+-American
+-------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+GT Interactive is id's distributor. The DOOM ][ offer is legitimate.
+You can still order from 1-800-IDGAMES if you like.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[this is a partial copy of the complete update]
+
+-------------------------------------------------------------------
+
+Status of games using the DOOM engine---updated: Fri, Dec 2nd 12:58
+
+Heretic: You are running around in a DeathMatch with some ass chasing
+you with the Phoenix Rod (bad). You run across the Morph Ovum and pick
+it up. You let your "friend" follow you a little longer and then you
+turn around and use the Morph on him... Four little "eggs" fly out
+and a few hit him. He squawks and hits the floor as a chicken.
+Now he has no weapon (except that wimpy beak) and all you have to do
+is catch him, pop him with your Dragon Claw a few times and watch
+the feathers fly. You've never seen your friends so mad at being
+killed by you until you turn them into a chicken and make them
+die in a puff of feathers hehe... The game should be out in two weeks.
+
+-------------------------------------------------------------------
+
+Status of QUAKE---Updated: Fri, Dec 2nd 2:20pm
+
+This will not be out until sometime next Winter.
+Ok, ok... you guys wanted more.
+As of today the following things are working/semi-working:
+Network play
+Basic Engine
+Object Modeling
+Map Editor
+++++++++++++++++++++++++++++++++++
+Network Play:
+Server/Client code is functioning great. Set up a Quake server on
+a NeXT, Linux, or SGI box. Once the server is running you
+get on another machine (NeXT, Linux, SGI) and log into the server.
+A play window opens and you can see the other players, move around,
+quit out, get back in, etc... There is no DeathMatch yet, but this
+will be the first part of the game to be working... monsters etc, will
+be added in later.
+
+Basic Engine:
+This is running pretty fast. In network mode it slows down somewhat,
+but this will be reversed soon. (Network will be faster than single
+player.) Right now we are using a part of DOOM map 1 1 to test the
+engine.
+
+Object Modeling:
+Kevin created a model of a person that only consists of about 200
+polygons. This model looks surprisingly good... we had thought we
+would need more polygons per model to create the amount of detail
+we want. So far this is the only "thing" in the game. He does not
+animate, but it is still cool to watch him be "born". At the moment
+he is textured with the art from the CyberDemon.
+
+Map Editor:
+John also has a map editor in the works. At this point it looks
+somewhat like 3D studio, with a camera view and a top down view
+of the thing you are working on. You can add and subtract blocks
+of "material" from the view. These are the building blocks of the
+world... No, you will not be limited to blocks in the finished game.
+
+All of this will come together very soon to create one of the most
+awesome network/3D games in the world... if not the most awesome
+(Ok, who are we kidding? It will be the most awesome hehe.)
+

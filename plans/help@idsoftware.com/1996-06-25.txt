@@ -1,0 +1,201 @@
+[idsoftware.com]
+Login name: help      			In real life: help
+Directory: /raid/nardo/help         	Shell: /bin/csh
+Never logged in.
+Project: To help you.
+Plan:
+Last Information Update:  Jun 25th, 1996
+---------------------------------------
+
+QUAKE SHAREWARE IS *** OUT ***
+
+Check our web site for the mirrors where Quake Shareware can be
+located.
+
+-------------------------------------------------------------------
+Here you will find info on DOOM, DOOM II, Hexen, Heretic, and QUAKE.
+If there is something else you would like to see updates on please
+send mail to american@idsoftware.com.
+(Dont' mail me for tech support... send that to support@idsoftware.com)
+*IF YOU DO NOT SEE AN UPDATE ON SOMETHING, THAT MEANS THAT
+*THERE IS NOTHING TO UPDATE YOU ON.  WHEN THERE IS NEW INFO
+*I WILL ADD IT IN HERE AS FAST AS I CAN.
+-------------------------------------------------------------------
+Want id stuff?
+
+The id WWW site is: www.idsoftware.com.
+The id ftp site is: ftp.idsoftware.com.
+The id fsp site is: fsp.idsoftware.com, port 21.
+-------------------------------------------------------------------
+Status of QUAKE---Updated:  Tue, Jun 25th, 1996
+
+Quake Shareware Version 0.91 was released Sat Jun 22nd, and the first
+patch, to Version 0.92, was release Tue Jun 25th.  The patch to 0.92
+will include joystick support, fix some modem connect issues, and
+fix other various minor problems.
+
+Current solutions to common problems:
+
+Sound Not Working:  your BLASTER variable is probably not in your
+AUTOEXEC.BAT, or your sound card is not Sound Blaster 2.0 compatible.
+
+We will be adding more to this section in the next week.
+-----------------------------------------------------
+Read . . .
+
+rec.games.computer.quake.announce
+     Info/FAQ/announcement about Quake (Mod).
+rec.games.computer.quake.editing
+     Editing and hacking Quake-related files.
+rec.games.computer.quake.misc
+     General discussion about Quake.
+rec.games.computer.quake.playing
+     Playing Quake and user-created levels.
+rec.games.computer.quake.servers
+     Setup and maintenance of servers.
+
+. . . for occasional new info.
+-------------------------------------------------------------------
+Status of DOOM---Updated:  Fri, Jul 28th 3:22pm
+
+FINAL DOOM:
+Final DOOM will be released this summer.  This game picks up were
+DOOM II left off, with all new levels, this is the final chapter in
+DOOM saga.  You don't want to miss FINAL DOOM!
+
+We have mastered The Ultimate DOOM! *This is out in stores now*.
+There is a patch for registered DOOM owners that will turn your
+DOOM into Ultimate DOOM for free. You can find it on ftp.idsoftware.com.
+
+DOOM/DOOM II:
+GET VERSION 1.9 FROM ftp.idsoftware.com
+
+The latest patch for Registered/Shareware DOOM is: 1.7 to 1.9
+The latest version of Registered DOOM is: 1.9
+The latest version of Shareware/Beta DOOM is: 1.9
+
+The latest patch for DOOM II is: 1.7a to 1.9
+
+1.9 is it. There will be NO MORE.
+
+If you have a version of DOOM II dated 8-25 it is pirated.
+Do NOT write us asking how to patch it.
+
+Read . . .
+
+rec.games.computer.doom.announce
+     Info/FAQ/reviews about DOOM (Mod).
+rec.games.computer.doom.help
+     DOOM help service (new players welcome).
+rec.games.computer.doom.misc
+     Talking about DOOM and id Software.
+rec.games.computer.doom.playing
+     Playing DOOM and user-created levels.
+rec.games.computer.doom.editing
+     Editing and hacing DOOM-related files.
+
+. . . for occasional new info.
+-------------------------------------------------------------------
+Status of games using the DOOM engine---Updated:  Tue, Jun 25th, 1996.
+
+HEXEN:  Death Kings of the Dark Citadel -- The sequel to HEXEN: Beyond
+Heretic is in stores now!  3 New Hubs, 20 new levels and 8 player
+deathmatch, need we say more?
+
+HERETIC:  Shadows of the Serpent Riders -- You can find the Serpent
+Riders in stores now.
+-------------------------------------------------------------------
+Status of DOOM ports---Updated:  Tue, Jun 25th, 1996.
+
+Sony Playstation DOOM: Done. Most awesome console version
+of DOOM yet. Go get this!
+
+MAC:  MacDOOM II is out in stores now.  The shareware version of DOOM I
+is available now.  You can find it on any InfoMac mirror site (there's
+over 30 of them).  Here are some you can try:
+
+ftp://mirrors.aol.com/pub/info-mac/_Game/_Arcade/doom-i-101.hqx
+ftp://ftp.delphi.com/pub/mirrors/info-mac/_Game/_Arcade/doom-i-101.hqx
+http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/game/arc/doom-i-101.hqx
+http://wuarchive.wustl.edu/systems/mac/info-mac/_Game/_Arcade/doom-i-101.hqx
+
+WIN95:  This is finished and is close to being mastered, look for it
+in the future.
+
+WINDOWS: There will be NO Windows 3.1 version of DOOM.
+
+Old news
+------------------------------------------------------------------
+SGI Irix v5.2:  ftp.uwp.edu:/pub/msdos/games/id/sgixdoom.tar.Z.
+It is integrated with the v1.6ish DOOM version.  It supports
+pixel-doubling, -tripling, -quadrupling as well as 16-bit sound
+for clearer mixing.  Now compiled with -mips1 flag. Do not send
+us mail about this. We will delete it. NO CHANGE.
+
+Sun Solaris 2.4: ftp.idsoftware.com:/new/sundoom.tar.gz.  Same as
+SGI but uses direct frame buffer access for faster blitting.  Do
+not send us mail about this port. We will delete it. NO CHANGE.
+
+LINUX: the linux version is at:
+ftp.cc.gatech.edu:/pub/Linux/games/doom/linuxsdoom.tar.gz  (full-screen)
+ftp.cc.gatech.edu:/pub/Linux/games/doom/linuxxdoom.tar.gz  (X windows)
+ftp.cc.gatech.edu:/pub/Linux/games/doom/sndserver.gz       (bug fixed)
+ftp.cc.gatech.edu:/pub/Linux/games/doom/doom1v18.wad.gz
+and may be moved to whatever appropriate directory later. Do not
+send us mail about this. We will delete it. NO CHANGE.
+
+QNX: DOOM for the QNX OS is anonymously ftp'able from quics.qnx.com.
+It's compiled with Pentium optimizations and supports sound, music,
+the VGA console and X Windows with pixel doubling and tripling.
+We don't support this version, QNX Software Systems did the port.
+This version will run the shareware, registered, or doom2 wadfile.
+The files to ftp are:
+
+  /usr/free/doom/qnxdoom.pax.gz - Console and X versions of QNX DOOM
+  /usr/free/doom/doom1.wad.gz   - DOOM v1.666 wad file
+  /usr/free/doom/qnxdoom.faq    - Installation instructions and other
+  details
+
+NEXTSTEP: URL for the info page at Omni's WWW site:
+  http://www.omnigroup.com/Software/Doom/
+There is a DOOM and a DOOM II beta version.
+If you have any other questions about Doom (under NEXTSTEP),
+contact doom@omnigroup.com .
+
+OS/2: Still waiting. There is no new info. I wish there was. Do not
+send us mail about this.
+
+JAG: It's out now. Go buy it. Everyone likes it.
+
+Sega 32X: Released. Buy it.
+
+Ultra 64: We have licensed Williams Entertainment to develop a
+unique version of DOOM for Nintendo's U-64.  It is to be available
+for the consumer release of the platform.
+
+If there is not a release date on one of the above that means it
+doesn't have one. Please DO NOT send mail asking for info on the ports.
+If I had more I would put it here.
+-------------------------------------------------------------------
+WHAT IS id?
+
+1id \'id\ n
+[NL, fr. L, it]
+(1924)
+:the one of the three divisions of the psyche in psychoanalytic
+theory that is completely unconscious and is the source of psychic
+energy derived from instinctual needs and drives P compare EGO,
+SUPEREGO
+-------------------------------------------------------------------
+****
+DOOM / DOOM II / HERETIC TECH DOCS CAN BE FOUND BY MAILING
+help@idsoftware.com WITH THE Subject: INDEX
+"help" IS NOW COMPLETELY AUTOMATED AND MAIL SENT THERE IS *NOT*
+READ BY HUMAN EYES. IF YOU HAVE A QUESTION THAT YOU MUST HAVE
+ANSWERED BY US PLEASE MAIL IT TO support@idsoftware.com.
+****
+-------------------------------------------------------------------
+Disclaimer:
+All of the stuff you read here could be a TOTAL LIE. I am not going
+to be held liable for misinforming millions of people. I just work here.
+-American

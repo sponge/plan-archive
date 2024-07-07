@@ -1,0 +1,745 @@
+[idsoftware.com]
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 12/14/1997 20:53:35 (Central Standard Time)
+-------------------------------------------------------------------------------
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+December 14, 1997 (part 2)
+------------------
+
+For completeness I've run the benchmark at 800x600 on both the NVidia RIVA128
+AGP and on the Rendition V2200 AGP and stuck them in the earlier table.  It's
+pretty obvious from their numbers that the Rendition is pretty much fill
+limited whereas the NVidia is host-limited.  This is good news for NVidia since
+this means that tweaking their drivers will hopefully increase their numbers
+across the board.
+
+Just for grins I ran the Rendition V2200 at 1024x768....I'm impressed that it
+works at all, but I don't think people are going to be playing at that
+resolution with that performance anytime soon.
+
+And for those of you that are curious, the ATI Rage Pro 8MB MCD got 10.8 fps
+at 640x480 using their MCD on the Pentium II/200.  I'd have a hard time
+recommending the ATI Rage Pro for Quake2 to anyone, unless you're going to be
+running in software.  I suppose it would be adequate if you had one already,
+were running NT 4.0, and were willing to run at a low resolution.  I'm not
+sure what kind of performance gains they could realize with an ICD, but
+overall, I'd have to recommend just about any of the other boards we've
+tested over the Rage Pro.  HOWEVER, the Rage Pro does seem to have reasonable
+features, so performance seems to be their primary killer more than anything
+else.
+
+I'd also like to take the time to thank the hardware vendors that have been
+very helpful by providing frequent driver updates, supporting OpenGL
+publically, and by providing as many loaner boards as possible.  These
+companies include 3Dfx, NVidia, STB (specifically Chris Cox, who constantly
+provides us with tons of testing boards -- dude, you're the Man!), Texas
+Instruments (they provide us most of our Permedia2 boards), Rendition, and
+NEC/PowerVR.
+
+December 14, 1997
+------------------
+
+Okay, the questions have already started rolling in.  Some more data and
+commentary for you:
+
+- "SLI" means "scan-line interleaved", i.e. two Voodoo (or Voodoo2) chipsets
+running in parallel, each of which is processing every other scan line.  You
+can do this in a single board configuration (such as the Obsidian 100-4440)
+or you can do this with two boards connected by some ribbon cable.  Currently
+no consumer Voodoo boards support SLI out of the box, but supposedly Voodoo2
+boards WILL support SLI out of the box.
+
+- currently there is a throughput problem with the Voodoo2.  Well, it's not
+really a "problem", it's more like a bottleneck at around 67fps, which is very
+hard to classify as a "problem".  This means that having a Voodoo2 in an SLI
+configuration doesn't make much sense unless you want to run fast high
+resolution modes like 800x600.  Currently there is no significant difference
+in performance between an SLI and non-SLI Voodoo2 configuration when runnning
+at 640x480 or lower.  HOWEVER, if it turns out that they're artificially
+limited in throughput (poor drivers, early silicon, low-speed parts, whatever)
+then there is a chance that the SLI will make a difference -- although I have
+no idea why you'd need to run > 60fps.
+
+One possible explanation for the throughput problems is that Glide 2.x does not
+support strips and fans, and we rely on those heavily.  If Glide 3.x supports
+strips and fans (and their OpenGL supports this) then throughput could nearly
+double since it will utilize the Voodoo2's on-board triangle setup engine very
+effectively.
+
+- the 2D card used with the PCX2 was an NVidia RIVA128 PCI.
+
+- I have no idea what the pricing is going to be for Voodoo2, other than it is
+targeted at consumers, meaning that it probably won't cost thousands of
+dollars.
+
+- I have no idea when Voodoo2 will ship, so this may all be moot if they can't
+this thing out the door on time.
+
+- the RIVA128 still has lots of room for improvement, and I'm sure that with
+appropriate driver optimizations that they are going to get quite a bit
+faster.
+
+December 13, 1997 (part 2)
+------------------
+
+Every now and then a beast walks the landscape and devours all within its path,
+knowing no natural enemy.  These are the things of legend: Michael Jordan,
+Walter Payton, the great white shark, early Mike Tyson, and...
+
+3DFX, ca. 1997
+
+I've said this before and I'll say it again -- I left 3Dfx for a reason, and
+it didn't have anything to do with wanting to branch out and expand my
+horizons.  It had to do with the fact that I thought 3Dfx was confused and had
+a severe lack of management and direction.  So when I say good things about
+3Dfx, it's not because I love that company or anything -- sure, I have some
+stock in 3Dfx, but the amount I have is a pittance (I negotiated poorly for
+stock, and I left after only 1/4 of it vested), so I don't have a financial
+reason to like 3Dfx.
+
+If I say good things about 3Dfx, it's because their hardware rocks like no
+other hardware company can dream of.  I empathize with their situation --
+they make what is  arguably the single most important piece of consumer PC
+hardware since the SoundBlaster, and all we keep hearing about are all the
+"Voodoo Killers" that are gonna show up "any day now".  I cannot stress to
+the world what kind of an amazing achievement the Voodoo was/is -- it easily
+spanked it's nearest competitor by a factor of three, which is practically
+unheard of.  Typically when looking at performance claims between hardware
+it's impressive to see someone listed as "25% faster".  But THREE HUNDRED
+PERCENT?!
+
+That, my friends, is amazing.  And yet at times I STILL think people are
+constantly looking at the horizon wondering what's going to be the "Voodoo
+Killa", instead of appreciating the magnitude of what Scott Sellers, Gary
+Tarolli, and Jim Margeson accomplished.
+
+id had to hear the same noise after Quake when all the "Quake killers" were
+gonna show up and even the landscape....sure, there were pretty screenshots
+and big performance claims and projected release dates, but when it came down
+to it, the first Quake killer to ship was...Quake 2.
+
+It must be nice being a competitor of 3Dfx, since it's easy to aim for that
+plume of dust they're leaving in their trail.
+
+"So, what's the big deal?" you may ask.  Why the big 3Dfx Cheerleading all of
+a sudden?
+
+To answer that, let's just say "I ran the numbers".  But first, let us
+establish some things:
+
+1.  The test system, as I mentioned the other day, is a pretty big, macked
+out, p1mped up system from hell.  It's an HP Pavilion 8190 Pentium 2/300 with
+AGP, 6GB HDD, some kind of soundcard (disabled for testing), etc. etc.  A
+pretty nice system.  Oh, and 96MB of RAM.
+
+2.  Now, please do NOT send me mail whining that this system is not indicative
+of what everyone has.  I KNOW this already.  But if I test on a Pentium/200MMX,
+people are gonna complain that they don't know what kind of p1mped out new
+system to get, or they'll complain that my test system should match our
+minimum requirements.  If I test on a P5/133, people are gonna complain, once
+again, that they don't know what kind of NEW system to get, or they'll complain
+that I'm testing CPU performance, not hardware performance.
+
+3.  Yes, certain accelerators are very dependent on CPU performance.  If I had
+a P5/133, I would NOT get a PowerVR or a RIVA128 -- these two chipsets are
+real dependent on CPU performance, more so than their competitors.
+
+4.  A Pentium 2 was pretty much needed because I wanted to test AGP parts along
+with PCI parts.  Also, some chips like the RIVA128 are going out standard on a
+lot of Pentium 2 machines, so NVidia will have a (valid) argument that if I
+test a RIVA on a P90 that this is NOT typical of a RIVA in the field.
+
+So, I know I can't make everyone else happy, but I CAN make myself happy.  I'm
+sure other people will run the benchmarks on lower end systems and print their
+results, so all is not lost.
+
+5.  These numbers, and chipset opinions, are GOING TO BE DIFFERENT FROM THOSE
+OF GLQUAKE.  This may seem like common sense, but I KNOW some people are going
+to whine that the numbers are lower than GLQUAKE's, so please...don't.  Also,
+the performance dependencies of Quake2 are significantly different than that of
+GLQuake -- we have lots more triangles going on, and I believe a lot more
+textures.  This means that boards that work great with GLQuake (e.g. PowerVR
+PCX2) aren't so hot with Quake2, and vice versa (Permedia2 is arguably a better
+board for Quake2 than Quake because its triangle setup performance makes up for
+its poor fill-rate).
+
+Tests were run 640x480 and 512x384, fullscreen, at 16bpp resolution, with
+sound disabled, using "sync to retrace" disabled if at all possible.  Tests
+were run twice, and the best of the two scores was recorded.  I did not get
+a chance to test the ATI Rage Pro because I don't have NT installed -- all
+the more reason to see these guys support an ICD -- and I did not get a
+chance to test the Rendition V2100 boards since they don't seem to work with
+the V2200 software Rendition provided.  I used DEMOMAP DEMO1.DM2 to run
+the test.  I also did not exec ANY configs, since this can throw off figures
+if you inadvertently set "hand 2" or something.  All tests were performed
+under Win95 OSR 2.1 with no other applications running.  Occasionally I would
+run a test at higher resolution "just because".
+
+As a "control" number I ran the test in software, fullscreen, using DirectDraw
+on the Permedia2.
+
+No overclocking of any type was done, and I did not run any "tweaks".  I'm
+trying to represent the type of performance Joe User would get if he bought his
+system at CompUSA, grabbed some add-in board (if necessary), then went home
+and played.
+
+****************************************************
+* sorted alphabetically                            *
+****************************************************
+Board			Chipset			Resolution	FPS
+
+3Dfx Reference		3Dfx Voodoo Rush 6MB	640x480		18.2
+3Dfx Reference		3Dfx Voodoo Rush 6MB	512x384		22.9
+
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	1024x768	61.4
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	960x720		61.4
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	800x600		67.1
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	640x480		67.5
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	512x384		67.3
+
+3Dfx Reference		3Dfx Voodoo2 4/4/4	800x600		56.6
+3Dfx Reference		3Dfx Voodoo2 4/4/4	640x480		65.5
+3Dfx Reference		3Dfx Voodoo2 4/4/4	512x384		67.4
+
+3Dfx Reference		3Dfx Voodoo2 SLI 2/2/2	800x600		66.4
+3Dfx Reference		3Dfx Voodoo2 SLI 2/2/2	640x480		66.8
+3Dfx Reference		3Dfx Voodoo2 SLI 2/2/2	512x384		67.2
+
+3Dfx Reference		3Dfx Voodoo2 2/2/2	640x480		65.4
+3Dfx Reference		3Dfx Voodoo2 2/2/2	512x384		67.3
+
+Canopus Pure3D		3Dfx Voodoo 6MB		640x480		27.0
+Canopus Pure3D		3Dfx Voodoo 6MB		512x384		39.6
+
+Diamond Monster3D	3Dfx Voodoo 4MB		640x480		26.7
+Diamond Monster3D	3Dfx Voodoo 4MB		512x384		39.3
+
+Matrox M3D		PowerVR PCX2		800x600		17.3
+Matrox M3D		PowerVR PCX2		640x480		22.6
+Matrox M3D		PowerVR PCX2		512x384		27.0
+
+Quantum3D 100-4440	3Dfx Voodoo SLI 2/4/4	800x600		36.0
+Quantum3D 100-4440	3Dfx Voodoo SLI 2/4/4	640x480		47.4
+Quantum3D 100-4440	3Dfx Voodoo SLI 2/4/4	512x384		48.3
+
+Rendition Reference	Rendition V2200	AGP	1024x768	9.8
+Rendition Reference	Rendition V2200	AGP	800x600		16.9
+Rendition Reference	Rendition V2200	AGP	640x480		22.9
+Rendition Reference	Rendition V2200	AGP	512x384		31.0
+
+STB Velocity128		NVidia RIVA128 AGP	800x600		19.3
+STB Velocity128		NVidia RIVA128 AGP	640x480		22.9
+STB Velocity128		NVidia RIVA128 AGP	512x384		25.7
+
+STB Velocity128		NVidia RIVA128 PCI	800x600	
+STB Velocity128		NVidia RIVA128 PCI	640x480		19.4
+STB Velocity128		NVidia RIVA128 PCI	512x384		21.8
+
+STB ?			3DLabs Permedia2 AGP	640x480		17.0
+STB ?			3DLabs Permedia2 AGP	512x384(W)	17.2
+
+ref_soft					640x480		15.5
+ref_soft					320x240		33.2
+
+****************************************************
+* sorted by performance                            *
+****************************************************
+Board			Chipset			Resolution	FPS
+
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	640x480		67.5
+3Dfx Reference		3Dfx Voodoo2 4/4/4	512x384		67.4
+3Dfx Reference		3Dfx Voodoo2 2/2/2	512x384		67.3
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	512x384		67.3
+3Dfx Reference		3Dfx Voodoo2 SLI 2/2/2	512x384		67.2
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	800x600		67.1
+3Dfx Reference		3Dfx Voodoo2 SLI 2/2/2	640x480		66.8
+3Dfx Reference		3Dfx Voodoo2 SLI 2/2/2	800x600		66.4
+3Dfx Reference		3Dfx Voodoo2 4/4/4	640x480		65.5
+3Dfx Reference		3Dfx Voodoo2 2/2/2	640x480		65.4
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	1024x768	61.4
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	960x720		61.4
+
+3Dfx Reference		3Dfx Voodoo2 4/4/4	800x600		56.6
+
+Quantum3D 100-4440	3Dfx Voodoo SLI 2/4/4	512x384		48.3
+Quantum3D 100-4440	3Dfx Voodoo SLI 2/4/4	640x480		47.4
+
+Canopus Pure3D		3Dfx Voodoo 6MB		512x384		39.6
+Diamond Monster3D	3Dfx Voodoo 4MB		512x384		39.3
+Quantum3D 100-4440	3Dfx Voodoo SLI 2/4/4	800x600		36.0
+ref_soft									320x240			33.2
+Rendition Reference	Rendition V2200	AGP	512x384		31.0
+
+Canopus Pure3D		3Dfx Voodoo 6MB		640x480		27.0
+Matrox M3D		PowerVR PCX2		512x384		27.0
+Diamond Monster3D	3Dfx Voodoo 4MB		640x480		26.7
+STB Velocity128		NVidia RIVA128 AGP	512x384		25.7
+Rendition Reference	Rendition V2200	AGP	640x480		22.9
+STB Velocity128		NVidia RIVA128 AGP	640x480		22.9
+Matrox M3D		PowerVR PCX2		640x480		22.6
+3Dfx Reference		3Dfx Voodoo Rush 6MB	512x384		22.9
+STB Velocity128		NVidia RIVA128 PCI	512x384		21.8
+
+STB Velocity128		NVidia RIVA128 PCI	640x480		19.4
+STB Velocity128		NVidia RIVA128 AGP	800x600		19.3
+3Dfx Reference		3Dfx Voodoo Rush 6MB	640x480		18.2
+Matrox M3D		PowerVR PCX2		800x600		17.3
+STB ?			3DLabs Permedia2 AGP	512x384(W)	17.2
+STB ?			3DLabs Permedia2 AGP	640x480		17.0
+Rendition Reference	Rendition V2200	AGP	800x600		16.9
+ref_soft					640x480		15.5
+
+Rendition Reference	Rendition V2200	AGP	1024x768	9.8
+
+****************************************************
+* sorted by resolution then performance            *
+****************************************************
+
+Board			Chipset			Resolution	FPS
+
+3Dfx Reference		3Dfx Voodoo2 4/4/4	512x384		67.4
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	512x384		67.3
+3Dfx Reference		3Dfx Voodoo2 2/2/2	512x384		67.3
+3Dfx Reference		3Dfx Voodoo2 SLI 2/2/2	512x384		67.2
+Quantum3D 100-4440	3Dfx Voodoo SLI 2/4/4	512x384		48.3
+Canopus Pure3D		3Dfx Voodoo 6MB		512x384		39.6
+Diamond Monster3D	3Dfx Voodoo 4MB		512x384		39.3
+Rendition Reference	Rendition V2200	AGP	512x384		31.0
+Matrox M3D		PowerVR PCX2		512x384		27.0
+STB Velocity128		NVidia RIVA128 AGP	512x384		25.7
+3Dfx Reference		3Dfx Voodoo Rush 6MB	512x384		22.9
+STB Velocity128		NVidia RIVA128 PCI	512x384		21.8
+STB ?			3DLabs Permedia2 AGP	512x384(W)	17.2
+
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	640x480		67.5
+3Dfx Reference		3Dfx Voodoo2 SLI 2/2/2	640x480		66.8
+3Dfx Reference		3Dfx Voodoo2 4/4/4	640x480		65.5
+3Dfx Reference		3Dfx Voodoo2 2/2/2	640x480		65.4
+Quantum3D 100-4440	3Dfx Voodoo SLI 2/4/4	640x480		47.4
+Canopus Pure3D		3Dfx Voodoo 6MB		640x480		27.0
+Diamond Monster3D	3Dfx Voodoo 4MB		640x480		26.7
+Rendition Reference	Rendition V2200	AGP	640x480		22.9
+STB Velocity128		NVidia RIVA128 AGP	640x480		22.9
+Matrox M3D		PowerVR PCX2		640x480		22.6
+STB Velocity128		NVidia RIVA128 PCI	640x480		19.4
+3Dfx Reference		3Dfx Voodoo Rush 6MB	640x480		18.2
+STB ?			3DLabs Permedia2 AGP	640x480		17.0
+Intergraph Realizm	Intergraph Realizm	640x480		16.8
+ref_soft					640x480		15.5
+
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	800x600		67.1
+3Dfx Reference		3Dfx Voodoo2 SLI 2/2/2	800x600		66.4
+3Dfx Reference		3Dfx Voodoo2 4/4/4	800x600		56.6
+Quantum3D 100-4440	3Dfx Voodoo SLI 2/4/4	800x600		36.0
+STB Velocity128		NVidia RIVA128 AGP	800x600		19.3
+Matrox M3D		PowerVR PCX2		800x600		17.3
+Rendition Reference	Rendition V2200	AGP	800x600		16.9
+
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	1024x768	61.4
+Rendition Reference	Rendition V2200	AGP	1024x768	9.8
+
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	960x720		61.4
+
+ref_soft					320x240		33.2
+
+---------------------------------
+General Comments
+---------------------------------
+Let there be no doubt, there is no new sheriff in town, the current one just
+got a lot meaner.  Sure, the Voodoo2 4/4/4 SLI board isn't going to be that
+common -- but if you can afford one, you'll have performance at 1024x768 at
+almost DOUBLE the nearest 3Dfx competitor's performance at 512x384.
+
+How ya like them apples?
+
+Alright now, this is how this is gonna work.  First, all the news pages are
+going to post links, and eventually this plan file will be forwarded to all
+the appropriate people at all the various hardware companies.  All the people
+that are going to end up looking bad are going to bitch at me because of
+unfair comparisons, I didn't run on a slower machine, etc.  All the people
+that are looking good are going to end up bitching at me because I didn't
+make them look better.  Everyone is going to have nit picky gripes about
+miscellaneous crap, including, I'm sure:
+
+"we run faster in a window"
+"we run faster fullscreen"
+"we're scalable" (i.e. we need a faster CPU)
+"they're CPU dependent" (i.e. they suck on slower CPUs)
+"we support 24-bit"
+"they don't support 24-bit"
+"we have [insert feature here]"
+"we have better image quality"
+"you're using their beta drivers"
+"you're not using our beta drivers"
+
+---------------------------------
+3Dfx Voodoo
+---------------------------------
+image quality:			good (identical to Voodoo)
+performance:			very good
+price/performance:		good
+WinNT support:			yes
+full OpenGL ICD:		no
+
+notes:
+
+I've said it before and I'll say it again -- look at the scores, and realize
+just how long ago this chipset shipped.  I'm still in awe.
+
+I didn't have a 4/2/2 so that I could run at 800x600.  When I get that I will
+toss it into the mix.
+
+The Canopus didn't show any significant performance increase, but this is
+because I'm measuring OVERALL performance, and I'm NOT measuring transient
+spikes in performance (i.e. stuttering).  We're looking into ways of measuring
+framerate consistency in addition to measuring average framerate.  The Canopus
+is still definitely a better board than the Monster3D -- that extra 2MB will
+go a long way towards smoothing framerate, unfortunately that's simply not
+going to be quantified up very well under a TIMEDEMO benchmark.
+
+That Quantum3D had decent performance, but definitely not enough to justify
+the price.  Note that it didn't see a huge performance boost at 512x384 vs.
+640x480, indicating a throughput bottleneck of some type.
+
+---------------------------------
+3Dfx Voodoo2
+---------------------------------
+image quality:			good
+performance:			insane
+price/performance:		unknown
+WinNT support:			yes
+full OpenGL ICD:		no
+
+notes:
+
+OH MY GOD.
+
+Fine, there were some visual glitches, but this is a pre-production board with
+pre-production drivers, I imagine it's going to be a bit faster when it ships.
+I just hope they don't pull a Rendition and take 10 months to ship.  Notice
+that going to SLI doesn't really buy you that much except higher resolutions --
+they have so much fill rate that they are limited by throughput almost
+completely across the board.  On a the uber-Voodoo2 (4/4/4 SLI) there pretty
+much isn't a difference in performance when running from 512x385 to 1024x768.
+
+---------------------------------
+3Dfx Voodoo Rush
+---------------------------------
+image quality:			good (identical to Voodoo)
+performance:			okay
+price/performance:		poor
+WinNT support:			no
+full OpenGL ICD:		no
+
+notes:
+
+Setting gl_swapinterval did not result in any visible tearing, so either it is
+being ignored or they are triple buffering automatically (which would be cool).
+
+---------------------------------
+3DLabs Permedia2
+---------------------------------
+image quality:			poor (no MIP-mapping, no colored lighting)
+performance:			okay
+price/performance:		average
+WinNT support:			yes
+full OpenGL ICD:		yes
+
+notes:
+
+This board is perfectly adequate for games and level editing, although it
+won't excel at either.  They're missing some texture formats, have pretty
+icky image quality, and mediocre performance, however they do fully support
+OpenGL and they also work with Windows NT.  Oh, and they also support a
+full 8MB.
+
+---------------------------------
+Intergraph Realizm
+---------------------------------
+image quality:			excellent (32-bit ARGB, trilinear)
+performance:			poor
+price/performance:		very poor
+WinNT support:			yes
+full OpenGL ICD:		yes
+
+notes:
+
+This test was run on a Pentium Pro 200 instead of a Pentium II.  I'll rerun
+the tests when I get access to American's machine which is a Pentium II.  As
+you can see, the Realizm isn't the world's greatest performer, but it does
+have very nice image quality and integrates flawlessly with GDI under WinNT.
+
+---------------------------------
+NEC PowerVR PCX2
+---------------------------------
+image quality:			very poor (blocky, ugly, bad colored lighting)
+performance:			good
+price/performance:		good
+WinNT support:			no
+full OpenGL ICD:		no
+
+notes:
+
+Very CPU dependent performance, very bad image quality.  I'm amazed at what
+their driver writer has managed to squeeze out of this thing.
+
+---------------------------------
+NVidia RIVA128
+---------------------------------
+image quality:			poor (some sparkling, weird looking textures)
+performance:			good
+price/performance:		good
+WinNT support:			yes
+full OpenGL ICD:		yes
+
+notes:
+
+Very CPU dependent performance, image quality would have been much better
+if they had implemented per-pixel MIP mapping.  We got a good apples to apples
+comparison of PCI vs. AGP with this board, and the performance difference
+works out to about 18% faster for AGP.  I couldn't get 800x600 to work, but
+when I do I will put that number in -- I'll probably run a lot of these
+tests at 800x600 just to be complete.
+
+---------------------------------
+Rendition V2200
+---------------------------------
+image quality:			good (no per-pixel MIP mapping)
+performance:			good
+price/performance:		good
+WinNT support:			yes
+full OpenGL ICD:		yes
+
+Dammit, Rendition, when are you gonna ship this puppy?!  I am emphatically
+enthusiastic about this chipset, it's got great performance, and it's a fully
+integrated part that does 3D-in-a-window really well.  It looks great, has
+awesome image quality, a full feature set (except for per-pixel MIP mapping),
+and in general just rocks.
+
+These numbers are probably a little lower than they should be, since it looked
+like syncing to vertical retrace was enabled and I don't know how to disable
+sync on the V2200.
+
+But it ain't shipped yet. *sigh*
+
+December 13, 1997
+------------------
+
+Damn! Found a crappy bug with our GL_EXT_SWAPINTERVAL handling.  I have a chunk
+of code that basically does this:
+
+if ( gl_swapinterval->modified )
+{
+   UpdateSwapIntervalInTheDriver();
+   gl_swapinterval->modified = false;
+}
+
+This works fine, until someone changes the video mode -- this causes the entire
+OpenGL DLL to be unloaded, and when it's reloaded the swapinterval isn't set
+appropriately, so if I ever did this:
+
+]gl_swapinterval 0
+]gl_mode 2
+
+The value of "gl_swapinterval" would not be set after the mode switch.  Irk.
+
+I'm extremely glad I found this bug though, otherwise all my numbers on 3Dfx
+would have been suspect.  Whew.
+
+Any IHVs that have NOT implemented the swapinterval extension -- I'm BEGGING
+you to!  Please, it REALLY makes benchmarking a lot easier.
+
+December 12, 1997 (part 2)
+------------------
+
+Didn't get much done today, spent most of today messing around with a brand
+new HP Pavilion 8190 system.  Man, a few years ago computers like this simply
+didn't exist -- fast, well built, well designed, easy to setup, and cheap.  It
+comes with a big fat color poster showing how to put it together, and it has
+EVERYTHING included -- Pentium II 300MHz, 32MB RAM, fax/modem, ATI Rage Pro w/
+4MB of RAM (AGP), 6GB IDE HDD, the works.  And it cost $2700 w/o monitor.  Oh,
+it also has a DVD-ROM 2x driver, and it includes a nice set of Polk Audio
+speakers with a subwoofer.  Dig this -- the keyboard has CD-player controls
+on it, and you can hook up the modem so that your computer does voice mail and
+acts as a speakerphone.  Wow.
+
+The only thing missing was a network card, which was easily rectified by
+slapping an Intel EtherExpress Pro 10/100 PCI in there.  It took me over an
+hour to figure out that it was the "B" model, not the "A" or "C" model, and
+after that it was on the network.  The system only has Win95 OSR 2.1 installed,
+and I'm not going to risk angering the Gods of Computer Moodiness by installing
+Windows NT on it -- so no MCD scores (the only losses here will be Intel i740
+scores -- which we're not allowed to print anyway, and ATI Rage Pro MCD scores)
+but this isn't that big a deal, since MCD is officially dead-ola.
+
+So I stick in the Rendition V2200, and it finally came up and worked like a
+charm, and damn does it look GOOD.  Fast, good quality output, no glitches,
+no problems.  People are gonna dig it.  The PCX2, unfortunately, installed
+okay, but PVRGL.DLL wasn't loading. *sigh*
+
+Tests are going to be 640x480x16bpp, fullscreen only.  Benchmarking takes up
+WAY too much time, and as much as I'd like to get scores for P5/133, P5/200MMX,
+PPro/200, and P2/300, I only have time to do one system, and that's gonna
+be the high end.
+
+Here's the justification: I realize that the vast majority of users out there
+have lower end systems, but right now I'm trying to figure out which GRAPHICS
+ACCELERATOR is the best, not which SYSTEM is the best.  We all know that some
+accelerators are simply going to fall apart on low end systems -- the RIVA128
+and PCX2 both come to mind, since they are both heavily CPU limited.  But the
+fact is I want to determine what is the BEST Quake2 accelerator out there, and
+that means removing the CPU as a measuring parameter.
+
+So tomorrow I'm going to try and finish out all the scores and write something
+up.  Tonight I got V2200 and RIVA128 numbers, tomorrow I hope to do...well,
+everything else.
+
+December 12, 1997
+------------------
+
+Cyrix sent word to us that we were apparently NOT keeping the system in
+24-bit precision all the time (they also pointed out a bug where I was
+setting the FP control word to 807f instead of 087f...whoops).  So anyway
+I investigate this somewhat, and find that for some reason every time we
+call LoadLibrary that the FP control word gets reset to 027f!  What's up
+with that?  I'm not ruling out a bug on my end, but there's nothing
+obviously screwed up on our end, so maybe this is some known behaviour of
+LoadLibrary?
+
+Will investigate more.
+
+December 11, 1997 (part 3)
+------------------
+
+I will probably write up my lecture at UF and post it, so if you live in
+Burkina Faso (or Alabama, same thing :-) ) you don't have to drive all
+the way to see what mindless crap I ended up sputtering.
+
+A reminder: it will likely NOT be a technical discussion, it's going to
+cover mostly stuff about having a career in the computer industry.  At
+the end there will be a QA session where we can talk tech if you want, but
+the actual "Brian Standing In Front of a Crowd and Rambling" portion is NOT
+going to discuss coding, optimization, graphics, or anything like that (other
+than the parts that pertain to being successful).
+
+Think of it as a Tony Robbin's speech given by some half-Asian dude who works
+at id software.
+
+Today's Soundgarden lyrics:
+
+"Down in the hole,
+ Jesus tries to crack a smile,
+ beneath another shovel load"
+
+Anecdotal Rambling: The VAX
+
+Let me tell you about a pseudo-online subculture that existed before the
+Web was invented.  It was called "The VAX", and it resided in CSE 211 at the
+University of Florida.  It was a big ol' mainframe running DEC's multi-user
+operating system, VMS (5.4 if I recall), and you logged into it through one
+of a bunch of VT-220 terminals sitting in a HUGE computer room.  This was
+back when computers were networked using ArcNet, and the other half of the
+lab consisted of IBM PC XT machines with dual 5.25" floppy drives.
+
+There was actually more than one VAX -- there were MAPLE, PINE, ELM, and
+CEDAR.  But you only logged onto anything but MAPLE in the direst of
+emergencies since the other systems were so damn slow.  Any student with
+a valid ID could get a user account and 300 blocks of disk space (I think
+a block was 512 bytes, but I don't remember now).
+
+I messed around with the VAX quite a bit, learning some C programming, and
+I also learned a bit of DCL, a REXX-like scripting language.  But the
+interesting thing about the VAX was that it had a complete subculture of
+people with nicknames, process names, message boards, and utilities like
+ICQ ("send") and IRC ("phone").  These people were, invariably, freaks, and
+I was one of them.  The people that inhabited this system included SORROW,
+LIONESS, WINTERMUTE, SCRIB, CENOBITE, TIPMO, ENTERPRISE, JIAN, PETRA, RABBIT,
+INFINITY, TRUFFLE, and a host of others.  You could log in and run a command
+to see who was logged in and on what terminal ("J-11" would be someone on the
+11th terminal on Row J) and, if you were hard up, you could see if that person
+was a chick and if they were hot, and if so, you could start anonymously
+sending them messages to get to know them.  You could set your self into
+"nobroadcast" mode, meaning that people would not be able to send you a
+message, and you could also set your process name to some message that
+established how cool and deep you were.
+
+Pathetic, I know, but that's computer culture for you.
+
+Unfortunately, there just wasn't a whole lot to do on the VAX.  You could talk
+with others, but most of the time these were people that were sitting two rows
+away from you, so what was the point?  I used the VAX to learn programming and
+also because it was located centrally to all the classes that I was busy
+not attending. :-) It was also nice to send e-mail from the VAX -- this was
+back in 1990 when e-mail hadn't really become the ubiquitous thing it is today,
+so most of the time you ended up sending e-mail to people two seats away, but
+hey, it was pretty cool anyway.
+
+It was from a VAX account that I sent my very first e-mail to Michael Abrash
+as an id groupie.  Heh heh.
+
+Other VAXers would use it for its telnet capabilities to get into MUDs and
+MOOs; some would use it to telnet to the big IBM mainframe (NERDC) on campus
+or to the Unix workstations upstairs; yet others used it for FTP and GOPHER.
+
+The other interesting thing is that most of the VAXers were NOT hardcore
+computer freaks -- they were mostly people using it for social reasons, not
+because they were programmers.  The REAL hackers were hanging out on the third
+floor using Sun 3/60 and Sun 3/80 machines and, if you were REAL cool, a
+Sun SparcStation ("lightning" was the first one UF received, if I remember
+correctly).  See, REAL computer users used SunOS (and thought Solaris was the
+spawn of Satan).  The VAX was for rejects that didn't have the clout to get
+a Unix account...heh.
+
+I'll tell you, I really miss the good old days, back in college when you had
+few responsibilities but to pass the occasional class and mostly hang out
+with friends.  I used to hang out with my friends Oz and Taco until 6AM
+watching movies we'd seen a million times before.  We'd drink, party, talk
+about each other behind each other's backs, fall in love with each other's
+girlfriends, do stupid shit like that, and That Was Cool, because it was
+a part of growing up.  When your only responsibility was to survive until the
+next day and, hopefully, not get thrown out of school.  This was the brackish
+time between being a kid and being an adult -- being old enough to really
+really screw up, but young enough to recover.  Old enough to live away from
+the parents, but young enough that you didn't have big car payments or
+mortgage payments and it was really a trauma if your folks didn't pay for
+your car insurance.  Back when you were trying to create your own identity,
+but had the safety of your bedroom back "home" in case you created something
+that sucked.  Back when you were busy proving to each other that you really
+were independent, not just living away from home.
+
+Then one day you grow up, and "home" ISN'T where your parents are, and your
+old bedroom is now your Mom's den that has their new computer.  You find
+out that you have mortgage and car payments, and you actually make Big Life
+Decisions without even thinking about asking your parents approval.  You move
+across the continent without telling anyone or asking permission, and you
+suddenly have responsibilities.  You now have a job where if you screw up
+and don't finish your work you actually GET IN TROUBLE, as opposed to just
+failing and signing up for a new one by filling out the appropriate bubble
+sheet.
+
+Then one day it's no longer a big deal when you can buy booze, because everyone
+can tell you're over 21, then the next day you realize you're closer to 30 than
+you are to 20, and that punks in the mall don't even see you because you're
+An Adult now instead of One of Them.  People call you sir, and when you're smart
+and successful it's expected instead of "Oh wow, you are gonna go far someday",
+because you're now old enough where if you haven't made it, you may never make
+it.  You soon reach the point where you're no longer full of potential --
+you're either a loser or you're not.
+
+Growing up sounds fun when you're younger, but I'd give it all up to be back
+in school, broke and not giving a shit, staring at the universe around me in
+amazement and awe.
+
+Christ, alright, didn't mean to get all morose there....
+

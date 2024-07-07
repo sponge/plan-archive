@@ -1,0 +1,64 @@
+[idsoftware.com]
+Login name: jcash     			In real life: John Cash
+Directory: /raid/nardo/jcash        	Shell: /bin/csh
+Last login Sat Mar  1 17:38 on ttyp3 from idtokay
+Plan:
+The insurance company finally figured out my car was
+totalled (the guys at the shop knew it after about
+5 minutes).  I got a new M3 this weekend; black one
+this time - they didn't have any red ones and I didn't
+have time to wait for one.
+
+I checked out the client side bots last night.  Grrrrr.
+The R&D that went into them is cool, but the results
+are most definitely not.  I guess somebody wants us
+to have to take time off from Quake2 to stop this. <sigh>
+
+
+QuakeC Tips
+-----------
+Don't use the chain field.  If you need to make a linked
+list, make your own link field.  chain gets written by
+some of the builtin functions (like findradius) so your
+list can get screwed.
+
+If you don't want an entity to touch things anymore, don't
+change it's .touch to SUB_Null.  Instead change it's .solid
+to SOLID_NOT.  Both ways work, but having the the entity
+still solid means that the engine must still go through all
+the steps of detecting collisions and calling the null
+function (IOW, it's slower).
+
+If an entity does not need to think then just do not update
+it's nextthink field.  Having a think function that really
+doesn't do anything is bad for the same reasons as the touch
+function in the previous tip.
+
+Do not have an entity think more often than is necessary.
+This is mainly to keep your prgs net friendly.  Let's say
+you have an entity that thinks every 0.05 seconds (20
+times per sec, the default max rate for a dedicated server).
+Yes, you could do some really cool stuff.  The problem is
+that you are potentially causing that entity to be updated
+in every single message from the client to the server; it
+depends on what you do in the think, but it quite likely.
+Remember: The bigger the messages, the more likely it is
+the clients will see lag.
+
+
+w00p list
+---------
+M3's (red or black)
+Girl Scout cookies (Samoas)
+
+llama list
+----------
+anybody who uses a client side bot
+	(without making it *REALLY* obvious it's a bot)
+
+--------------------
+
+John Cash
+
+jcash@idsoftware.com
+

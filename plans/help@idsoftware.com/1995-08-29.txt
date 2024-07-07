@@ -1,0 +1,212 @@
+[idsoftware.com]
+Login name: help      			In real life: help
+Directory: /nardo/help              	Shell: /bin/csh
+Never logged in.
+Project: To help you.
+Plan:
+Your finger feels good.
+-------------------------------------------------------------------
+Here you will find updated info on DOOM, DOOM II, Heretic, and QUAKE.
+If there is something else you would like to see updates on please
+send mail to american@idsoftware.com.
+*IF YOU DO NOT SEE AN UPDATE ON SOMETHING, THAT MEANS THAT
+*THERE IS NOTHING TO UPDATE YOU ON. WHEN THERE IS NEW INFO
+*I WILL ADD IT IN HERE AS FAST AS I CAN.
+-------------------------------------------------------------------
+Want id stuff?
+
+The id WWW site is: www.idsoftware.com.
+The id ftp site is: ftp.idsoftware.com.
+The id fsp site is: fsp.idsoftware.com, port 21.
+-------------------------------------------------------------------
+Status of QUAKE---Updated: Tue, Aug 29 at 11:47pm
+
+Please do not send us mail about Quake. It just slows us down.
+Thanks.
+
+Well, we just got sprite 'models' animating with frame changes and rotational
+changes totally moved over to the client. The server is runnin' really well
+now!  There's a really cool Pain Barrier (and Health Field) that just looks
+great with animating and rotating sprites. Um, and yes, there are sprites in
+the game - for very good reason: there's not an amazing level of detail to
+be had in a total polygon environment.  Sprites are faster to render and
+besides, they make great torch holders!  They also look cool for magical
+effects!
+
+Programming the entities in the game is one of the most amazing and
+rewarding parts of Quake development.  You program in Quake-C (.qc) and the
+instant you save your file, you tell Quake to reload and compile it. It
+takes about 1 second.  Then, you get to see your changes implemented right
+then - and that's while you're programming in a C-like language! No compiler
+in the middle; instant execution.  Too cool for words.
+
+There. I just wanted to add something new for QuakeTalk. :)
+
+****
+You can find screenshots of some of our Quake stuff
+on ftp.idsoftware.com in /idstuff/quake. The file is quakepix.zip.
+By the way, Quake is an action game, not an RPG.
+****
+
+********
+THERE IS NO BETA VERSION OF THIS OUT *ANYWHERE*!
+THERE IS NOTHING FOR ANYONE TO TEST EITHER.
+WE ARE STILL VERY MUCH IN DEVELOPMENT.
+********
+
+This will not be out until sometime around this Christmas.
+
+Things that work:
+network play, mouse control
+sprite engine, sound, entity programming
+polygon engine, map editor
+
+Things we are working on:
+speed, speed, monsters, speed, maps
+sound effects w/help from Trent:)
+and a lot more.
+++++++++++++++++++++++++++++++++++
+
+Network Play:
+Server/Client code is functioning great. Set up a Quake server on
+a DOS, NeXT, Linux, or SGI etc... box. Once the server is running you
+get on another machine (DOS, NeXT, Linux, SGI, etc) and log into the
+server. A play window opens and you can see the other players, move
+around, quit out, get back in, etc... Deathmatch is working a little
+now and we can run around and shoot each other with fireballs.
+
+Engine:
+This is running very fast. We have completed some really great
+looking levels that we are running around in. The lighting is
+too good to believe. There are doors/plats/switches/etc... in
+the game now.
+
+Object Modeling:
+Kevin is working on creating the monsters/players and Michael
+is making them draw really fast. These are looking great. Sprites
+suck compared to proper models.
+
+Map Editor:
+The map editor is completely finished. We have been working with
+it for a while now, creating new levels.
+
+Please do not send us mail about Quake. It just slows us down.
+Thanks.
+
+Read alt.games.quake for occasional new info.
+-------------------------------------------------------------------
+Status of DOOM---Updated: Fri, Jul 28th 3:22pm
+
+We have mastered The Ultimate DOOM! *This is out in stores now*.
+There is a patch for registered DOOM owners that will turn your
+DOOM into Ultimate DOOM for free. You can find it on ftp.idsoftware.com.
+
+DOOM/DOOM II:
+GET VERSION 1.9 FROM ftp.idsoftware.com
+
+The latest patch for Registered/Shareware DOOM is: 1.7 to 1.9
+The latest version of Registered DOOM is: 1.9
+The latest version of Shareware/Beta DOOM is: 1.9
+
+The latest patch for DOOM II is: 1.7a to 1.9
+
+1.9 is it. There will be NO MORE.
+
+If you have a version of DOOM II dated 8-25 it is pirate.
+Do NOT write us asking how to patch it.
+-------------------------------------------------------------------
+Status of games using the DOOM engine---Updated: Fri, Jul 28th 3:24pm
+
+Heretic: Done with the patch.
+Strife: Still working. No updates.
+-------------------------------------------------------------------
+Status of DOOM ports---Updated: Fri, Jul 28th 3:26pm
+
+*There is not really anything new that I can add here.
+*I wish that there were. Everything is still pretty much
+*the same.
+
+OS/2: Still waiting. There is no new info. I wish there was. Do not
+send us mail about this.
+
+MAC: Lion Software is working on this right now. They are VERY close
+to having it finished. At the moment they are trying to get the DOS/
+MAC network code working. They are also working on optimizing the
+code to make it run faster. They should have everything ready to go
+in two weeks. DO NOT SEND ME MAIL ABOUT THIS. I *WILL* DELETE IT!
+
+WINDOWS: We just got a beta of this. Looks AWESOME. Still no
+release date. The Microsoft guys are working on this. NO CHANGE.
+THERE IS NO NEW INFO ABOUT THIS...
+
+SGI Irix v5.2:  ftp.uwp.edu:/pub/msdos/games/id/sgixdoom.tar.Z.
+It is integrated with the v1.6ish DOOM version.  It supports
+pixel-doubling, -tripling, -quadrupling as well as 16-bit sound
+for clearer mixing.  Now compiled with -mips1 flag. Do not send
+us mail about this. We will delete it. NO CHANGE.
+
+Sun Solaris 2.4: ftp.idsoftware.com:/new/sundoom.tar.gz.  Same as
+SGI but uses direct frame buffer access for faster blitting.  Do
+not send us mail about this port. We will delete it. NO CHANGE.
+
+LINUX: the linux version is at:
+ftp.cc.gatech.edu:/pub/Linux/games/doom/linuxsdoom.tar.gz  (full-screen)
+ftp.cc.gatech.edu:/pub/Linux/games/doom/linuxxdoom.tar.gz  (X windows)
+ftp.cc.gatech.edu:/pub/Linux/games/doom/sndserver.gz       (bug fixed)
+ftp.cc.gatech.edu:/pub/Linux/games/doom/doom1v18.wad.gz
+and may be moved to whatever appropriate directory later. Do not
+send us mail about this. We will delete it. NO CHANGE.
+
+QNX: DOOM for the QNX OS is anonymously ftp'able from quics.qnx.com.
+It's compiled with Pentium optimizations and supports sound, music,
+the VGA console and X Windows with pixel doubling and tripling.
+We don't support this version, QNX Software Systems did the port.
+This version will run the shareware, registered, or doom2 wadfile.
+The files to ftp are:
+
+  /usr/free/doom/qnxdoom.pax.gz - Console and X versions of QNX DOOM
+  /usr/free/doom/doom1.wad.gz   - DOOM v1.666 wad file
+  /usr/free/doom/qnxdoom.faq    - Installation instructions and other
+  details
+
+NEXTSTEP: URL for the info page at Omni's WWW site:
+  http://www.omnigroup.com/Software/Doom/
+There is a DOOM and a DOOM II beta version.
+If you have any other questions about Doom (under NEXTSTEP),
+contact doom@omnigroup.com .
+
+JAG: It's out now. Go buy it. Everyone likes it.
+
+Sega 32X: Released. Buy it.
+
+Ultra 64: We have licensed Williams Entertainment to develop a
+unique version of DOOM for Nintendo's U-64.  It is to be available
+for the consumer release of the platform.
+
+If there is not a release date on one of the above that means it
+doesn't have one. Please DO NOT send mail asking for info on the ports.
+If I had more I would put it here.
+-------------------------------------------------------------------
+WHAT IS id?
+
+1id \'id\ n
+[NL, fr. L, it]
+(1924)
+:the one of the three divisions of the psyche in psychoanalytic
+theory that is completely unconscious and is the source of psychic
+energy derived from instinctual needs and drives P compare EGO,
+SUPEREGO
+-------------------------------------------------------------------
+****
+DOOM / DOOM II / HERETIC TECH DOCS CAN BE FOUND BY MAILING
+help@idsoftware.com WITH THE Subject: INDEX
+"help" IS NOW COMPLETELY AUTOMATED AND MAIL SENT THERE IS *NOT*
+READ BY HUMAN EYES. IF YOU HAVE A QUESTION THAT YOU MUST HAVE
+ANSWERED BY US PLEASE MAIL IT TO shawng@idsoftware.com.
+****
+-------------------------------------------------------------------
+Disclaimer:
+All of the stuff you read here could be a TOTAL LIE. I am not going
+to be held liable for misinforming millions of people. I just work here.
+-American
+
