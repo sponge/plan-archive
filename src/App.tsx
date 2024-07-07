@@ -37,16 +37,25 @@ const App: Component = () => {
   );
 
   const [currentUser, setCurrentUser] = createSignal<string>('');
+  const [searchTerm, setSearchTerm] = createSignal<string>('');
 
   const filteredPlans = createMemo(() => {
-    if (!currentUser().length) return [];
+    if (!currentUser().length && !searchTerm().length) return [];
     const isUser = currentUser().includes('@');
     return Object.entries(plans())
       .filter(plan => isUser ? plan[0] == currentUser() : plan[0].includes(currentUser()))
       .map(plan => plan[1])
       .flat()
+      // FIXME: half-assed text search. look into fuse.js
+      .filter(plan => plan.contents.toLowerCase().includes(searchTerm().toLowerCase()))
       .sort((a, b) => a.time.localeCompare(b.time));
   })
+
+  // bit of a hack, shouldn't touch the dom like this
+  const setPlansVisible = (show: boolean) => {
+    document.querySelectorAll('.plans details')
+      .forEach(dom => { if (dom instanceof HTMLDetailsElement) dom.open = show })
+  }
 
   return (
     <main class="container">
@@ -68,6 +77,16 @@ const App: Component = () => {
       </aside>
 
       <main class="plans">
+        <nav>
+          <ul>
+            <li><strong>{filteredPlans().length} plans</strong></li>
+          </ul>
+          <ul>
+            <li><input type="search" placeholder="Search" onInput={val => setSearchTerm(val.target.value)} /></li>
+            <li><a href="#" onClick={[setPlansVisible, true]}>open all</a></li>
+            <li><a href="#" onClick={[setPlansVisible, false]}>close all</a></li>
+          </ul>
+        </nav>
         <For each={filteredPlans()}>
           {plan => <details open>
             <summary>{plan.by} - {plan.time}</summary>
