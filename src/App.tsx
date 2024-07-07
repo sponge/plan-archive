@@ -1,8 +1,9 @@
-import { For, ResourceFetcher, Suspense, createEffect, createMemo, createResource, createSignal, type Component } from 'solid-js';
+import { For, ResourceFetcher, createMemo, createResource, createSignal, type Component } from 'solid-js';
 
 import './App.css';
 
 type PlanIndex = Record<string, PlanFile[]>;
+type UserByDomainEntries = [string, string[]][];
 
 interface PlanFile {
   by: string
@@ -16,7 +17,6 @@ const App: Component = () => {
     const resp = await fetch('/plan-archive/plans.json');
     return resp.json();
   }
-
   const [plans] = createResource(fetchPlans, { initialValue: {} });
 
   const domains = createMemo(() => Object.keys(plans())
@@ -26,6 +26,15 @@ const App: Component = () => {
   );
 
   const users = createMemo(() => Object.keys(plans()).sort((a, b) => a.localeCompare(b)));
+
+  const usersByDomain = createMemo<UserByDomainEntries>(() => domains()
+    .map(domain => [
+      domain,
+      users()
+        .filter(user => user.endsWith(domain))
+        .map(user => user.replace('@' + domain, ''))
+    ])
+  );
 
   const [currentUser, setCurrentUser] = createSignal<string>('');
 
@@ -43,28 +52,27 @@ const App: Component = () => {
     <main class="container">
       <aside>
         <nav>
-          <h2>Domains</h2>
-          <ul>
-            <For each={domains()} fallback={<article aria-busy="true"></article>}>
-              {domain => <li><a href='#' onClick={[setCurrentUser, domain]}>{domain}</a></li>}
-            </For>
-          </ul>
-
           <h2>Users</h2>
-          <ul>
-            <For each={users()} fallback={<article aria-busy="true"></article>}>
-              {user => <li><a href='#' onClick={[setCurrentUser, user]}>{user}</a></li>}
-            </For>
-          </ul>
+          <For each={usersByDomain()} fallback={<article aria-busy="true"></article>}>
+            {domain => <details>
+              <summary>{domain[0]}</summary>
+              <ul>
+                <li><a href='#' onClick={[setCurrentUser, domain[0]]}>All</a></li>
+                <For each={domain[1]}>
+                  {user => <li><a href='#' onClick={[setCurrentUser, `${user}@${domain[0]}`]}>{user}</a></li>}
+                </For>
+              </ul>
+            </details>}
+          </For>
         </nav>
       </aside>
 
       <main class="plans">
         <For each={filteredPlans()}>
-          {plan => <div>
-            {plan.by} - {plan.time}
+          {plan => <details open>
+            <summary>{plan.by} - {plan.time}</summary>
             <article>{plan.contents}</article>
-          </div>}
+          </details>}
         </For>
       </main>
     </main>
