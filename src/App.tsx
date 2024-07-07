@@ -13,7 +13,7 @@ interface PlanFile {
 const App: Component = () => {
 
   const fetchPlans: ResourceFetcher<true, PlanIndex, unknown> = async () => {
-    const resp = await fetch('/plans.json');
+    const resp = await fetch('/plan-archive/plans.json');
     return resp.json();
   }
 
