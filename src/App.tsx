@@ -61,7 +61,10 @@ const App: Component = () => {
 
       <main class="plans">
         <For each={filteredPlans()}>
-          {plan => <article>{plan.contents}</article>}
+          {plan => <div>
+            {plan.by} - {plan.time}
+            <article>{plan.contents}</article>
+          </div>}
         </For>
       </main>
     </main>
