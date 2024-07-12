@@ -1,0 +1,6 @@
+GarageGames plan resource for Rick Overman
+Posted Monday January 14, 2002 at 4:07 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=1975
+
+It is very exciting for me to finally announce the launch of [b]Development Snapshots[/b] here at GarageGames.com.  This has been awhile in the making...while the surface interface to the site is quite simple, I have added a considerable amount of underlying support code to the site to make things like image handling and form processing much simpler.  We had been using PHP

@@ -1,0 +1,52 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: beau
+Plan modified: Fri Dec 04 13:48:50 1998
+
+You have reached Beau Anderson's .plan
+beau@ritual.com
+Artist - 3d Modeler/Texture/Animator/Skin guy
+
+12/4/98
+
+The Sin tools are out.  Check out The Node
+http://www.ritualistic.com/node/ to get started.
+Send any art related (textures/modeling/animation/skinning) 
+questions to me (beau@ritual.com) or Michael (mph@ritual.com)
+and we'll try and get you pointed in the right 
+direction.  
+
+The MAX exporters are pretty self explanatory.  Your
+model needs a .sam (animation file), an .sbm (texture
+coordinate info) file and a .tga for the skin.  We
+have per-face mapping so you can do the mapping right 
+in MAX if you want and then export the .sbm.  Check 
+the .def files in the paks for reference on how to 
+organize the model files for use in the game.
+
+Here's a sample .def file for the palmtree.
+ 
+SDEF
+path models/palmtree
+scale 1.0
+palmtree_base.tga
+palmtree_base.sbm
+palmtree_idle.sam
+
+You can spawn any model in the world and check it out
+with the following commands (you'll want to bind 
+these for easy access):
+
+VIEWSPAWN    (spawns the model)
+VIEWNEXT		   (advance a frame in the animation)
+VIEWPREV		   (back a frame)
+VIEWNEXTANIM		   (move to the next .sam in the .def)
+VIEWPREVANIM		   (back an anim)
+VIEWNEXTSKIN		   (move to the next .tga in the .def)
+VIEWSCALE 	   (float value for model scale)
+VIEWSCALEUP 		   (scale model up .1)
+VIEWSCALEDOWN		   (scale down .1)
+
+We'll try to get something better than this basic
+explanation up in the near future.

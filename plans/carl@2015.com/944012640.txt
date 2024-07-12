@@ -1,0 +1,304 @@
+Account Name:  20157
+Email address: carl@2015.com
+----------
+Welcome to da 2015 Finger Server: 
+"This little finger went wee wee wee, and got arrested cause he went in a public place."
+
+User name: carl
+Name: Carl Glave
+Nick: General WarT 
+Email: carl@2015.com
+Occupation: Programmer
+Projects: WOS CTF & ???? (my, what ever could it be?)
+
+\*********************************************************************
+     NOTE: Any views expressed herein supposedly do not actually     
+     reflect the official position of 2015 Inc. However, dispite     
+     these words being of my own views and opinions, you should      
+     agree with them anyway.                                         
+*********************************************************************/
+PS: All spelling errors are my own. If you don't like them or anything
+else in this .plan file, please forward all complaints to thewall@biteme.com
+
+<=====================================================================>
+Da Yakity Shmakity of Tuesday, Nov. 30, 1999
+----------------------------------------------
+
+Da busy nuts as Ritual managed some time to player WOS CTF a bit, and
+they didn't dislike it. In fact, they seemed to rather enjoy it. :)
+They've now got a server up and running it at:
+
+debugctf.ritual.com
+
+Go fourth and have fun everyone. That's an order!
+
+<=====================================================================>
+Da Yakity Shmakity of Saturday, Nov. 24, 1999
+----------------------------------------------
+
+We're STILL looking for another programmer, so if you're an
+experienced game programmer looking to spend half of your life writting
+code with a buncha cool guys, send your resume to vince@2015.com! You
+know you want to...
+
+A small note of interest that most should find quite amusing... it
+seems some people have actually tried emailing the "address" in the
+displaimer PS above... it seems some people just don't get jokes. :P
+
+BTW, I haven't said anything in a while, so... "anything"
+Ahh, that's better. :)
+
+<=====================================================================>
+Da Yakity Shmakity of Saturday, Sept. 26, 1999
+----------------------------------------------
+
+Alas, I attempted to get the beta out to the public today, but to no
+avail... Yae, the email gods did smite my feeble attempt at emailing
+the WOS CTF beta to good souls whom would spread it about for all
+the kind hearted, gun toating persons of the world. Fear not though,
+gentle brave ones, for I have not yet been broken asunder. Nay, I have
+yet to unlease apon the smitefull email gods the true fury of the
+weapon which doth wreak of pure, enlightened, Internet goodness. Seek
+thee out the gods of FTP, and call ye their might and fury apon those
+most smitefull of smiters, so that they might be smitten a non. These
+email gods, nay, these email demi-gods, shall wreak of self-pity, when
+the wrath of the FTP gods is brought down apon them...
+
+Oh yea... and modems SUCK!!!!
+
+<=====================================================================>
+Da Yakity Shmakity of Wednesday, Sept. 22, 1999
+-----------------------------------------------
+
+Woh shitchu, I just read the mentioning of WOS CTF and maps on
+Ritualistic and decided that I'd better update my .plan clearifying
+my... well, my plans on what I'm going to be doing.
+
+So, here's the low down. Please, please don't start sending maps in to
+me. Neither me nor my email account could handle it. What I've actually
+decided on (after having talked to Eutectik of course) is that I'm
+going to get the first public beta out the door this weekend.
+No, really, I mean it! All that's not actually taken care of is where
+bug reports are going to be directed to. Smack2's helping me out on
+this though, so there shouldn't be any worries. Everyone give him a
+big group hug of thank-you-ness. :)
+
+Now, about the maps... which are the reason I'm making sure to get the
+furst public beta out this weekend. It'll give all the mappers a good
+chance to play test their prospective WOS CTF maps with the real deal,
+and everyone else will be able to play and get bored of the few maps
+that I've converted as testing grounds. After a few weeks, I'll then
+have figured out how I'm going to take in map submissions, should
+hopefully have enough input for a second beta, and I'll be able to 
+start going through the user maps to pick out the ones that rock from
+here to high heaven for inclusion in the final release of WOS CTF.
+
+Hope that semi-important seeming rambling made sense to you, if not,
+I believe Hexagon is pretty good at translating my typed out mind
+melts... then again... I could be mistaken. :p
+
+<=====================================================================>
+Da Yakity Shmakity of Sunday, aug. 22, 1999
+---------------------------------------------
+
+Mark got the 1.06 source code to me right after releasing the 1.06
+patch, and WOS CTF is already proted to it. It didn't really talk all
+that long though, since most of the changes were in the exe. Anyway,
+I've already got it packed up and sent off for a bit more banging on,
+so it shouldn't be long now.
+
+There is one kink in my plan though, I've got some stuff that I'll
+probably have to be working on during the comming weekend or two, so
+it'll still be a few weeks till public release. But phyched about it
+anyway, cause it's almost ready! :)
+
+Thought of the day: Why aren't there massive amounts of people
+complaining about those "Got Milk?" adds? How politically correct can
+a public service announcement that promotes having large breasts really
+be? Not that I've got a problem with promoting such a thing, but often
+too much of a good thing can overall be a bad thing, and this is
+definatly an area where "just the right amount" is just right. Besides,
+where's the "Got Protein?" adds to balance things out?
+
+<=====================================================================>
+Da Yakity Shmakity of Saturday, jul. 31, 1999
+---------------------------------------------
+
+I got bored today and wanted to code something, but I didn't want to
+work on our current main project. Answer: add another feature to
+WOS CTF. :)
+
+Fresh on the menu today is "ghost stats restoration". What this allows
+is for someone to disconnect (or accidentally get disconnected) and
+then be able to reconnect with their score and last lap time restored.
+In CTF, your team and selected spawn rune (if the server is running
+with them) are also restored, allowing you to quickly get back into the
+action if you are inadvertently disconnected during the game.
+
+I was going to stop writting there, then remembered that I didn't end
+with anything witty, hip, or cool (pronounced l33t for those who are
+into that whole llama thing). But to hell with it, YOU guys never write
+anything witty for ME in my plan file, so screw it!
+
+<=====================================================================>
+Da Yakity Shmakity of Sunday, jul. 25, 1999
+---------------------------------------------
+
+Alright, so I lied about having all major code additions done..
+I didn't mean to. I was just sitting around with nothing to do but
+wait for the various misc things to be finished by the several
+wonderfully generous people I suckered, I mean politely asked, to
+do some stuff for me. So, I decided to add "one last feature" that
+had been suggested by someone (don't even remember who now) and
+seemed like a good idea.
+
+You can now set a "warm up time" for a server, both regular DM and CTF.
+You just set the cvar "resettime" to the number of seconds for warm up,
+and the server resets the time, scores, and players (making them
+respawn) so that people who take longer to reconnect to a server after
+a map change don't have to worry about P2 on a T1 equiped players
+already having captured their flag before they've even spawned. Another
+bonue is that it gives everyone some time to get oriented to the new
+map and get on the correct team before the game actually starts. And
+don't worry and the runes and flags, they're reset along with
+everything else. It's like reloading the map without the load time. ;)
+
+<=====================================================================>
+Da Yakity Shmakity of Saturday, jul. 24, 1999
+-------------------------------------------
+
+Thought I'd update everyone today since I probably won't be later on
+this weekend, and because I've finished everything that you would find
+at all interesting to read about. :p
+
+I got an early start on the weekend and have already finished off
+adding the final code addition: Spawn Runes. :) Server's can now
+specify to have all players spawn with a rune of their choice, making
+a kind of super powered CTF, hehe. I thought it was just a silly idea
+at first, but then I thought about times when the only five runes are
+all on the other team and the runless side's getting totally
+slaughtered. We'll see just how well it pans out when everyone gets a
+chance to play with it. Everyone could select a rune benifical to
+their role on the team and would kinda introduce a toned down version
+of having different character classes.
+
+Sorry about rambling on a bit much about it, but I'm just really
+psyched right now about how unexpectedly well I got the whole system
+working. :D
+
+All that's left is to get one last map WOSified (converted to WOSCTF),
+sound effects, a few rune models, and general clean up. After that,
+we're clear for take off. ;)
+
+<=====================================================================>
+Da Yakity Shmakity of Sunday, jul. 18, 1999
+-------------------------------------------
+
+Work on WOS CTF has been getting annoying... been doing alot of the
+crappy to do but quite necessary things like making and fixing up
+menus and level load screens for highg and low res. The odd thing is
+this, I was in the mood to do this stuff when the weekend started. I've
+snapped out of it and don't know what had come over, but it doesn't
+matter 'cause it's all finished now. *whew* |-)
+
+After I got the afore mentioned done, I started work in the new
+tech runes. I've got give two thumbs up to Ritual here, because it's
+been so ungodly easy to add in the new runes code! Woho! :) Anyway,
+the new runes that you can look forward to loving and/or hating are
+as follows:
+
+Fast Grapple - Makes you're grappling hook shoot out and real in much
+faster than normal. Also, you don't take falling damage. (found to be
+necessary after splatting myself against walls I grappled to several
+times while using this rune, hehe)
+
+Vampire - When you damage someone, you get some of the damage you dealt
+back as health. It was requested several times when I was taking
+suggestions, and it seems to be a nice counterpart to the empathy rune.
+
+Splash Shield - This rune will protect against splash damage, requiring
+the use if a bullet weapon to effectively kill the owner of it. It will
+still let about 1/10 of the damage through, but that's enough to make
+all explosives except the nuke (which still might be survived) pretty
+mush pointless.
+
+Ammo Vortex - This rune is best described as regeneration for you ammo.
+As long as you have this rune you will continually recieve more ammo
+for your current weapon. The speed that you recieve ammo at will depend
+on what weapon you're using, so the asault rifle would accumulate ammo
+like crazy, while the nuke would only get one ammo every several seconds.
+It'll also increase the max amount of ammo you can carry, just as regen
+increases your max amount of health.
+
+<=====================================================================>
+Da Yakity Shmakity of Sunday, jul. 11, 1999
+-------------------------------------------
+
+Small update on the status of Sin CTF. I've just finished two
+important additions to the code.
+
+First, the anti-nuke-zones in which a nuke ball can not explode to
+full potential, but it would still make a Thrall Ball jealous. These
+are going to be placed in the main flag holding bases of each CTF
+map to prevent whole-sale nuking of entire flag defense forces.
+It'll still take out anyone near it when it blows, but it won't be
+able to clear an entire flag room. Sorry nuke lovers, but you know
+this is necessary for game balance.
+
+Second, I've added a server cvar called ctf_runeflags which allows
+servers to dissable any and/or all runes in CTF games. In my
+collection of input on some good ideas for new runes, several stated
+that they'd love it if I removed a certain rune, mostly the empathy
+rune. I didn't want to totally remove a rune that many actually like,
+while ignoring the fact that other still disliked other runes, so I
+added this in to let everyone decide for themselves. It'll even
+make members of RHA (Rune Haters Annoymous) happy since they can
+easily just dissable all the rune.
+
+Before you ask: Yes, I'm working on a Sunday night, I have no life,
+and you all can bite me... so there! Or you can just sit there
+bewildered at how someone like me could like (let alone survive)
+this job while maintaining any semblance of mental or verbal
+coherance at all (although some would say that statment has
+questionable truth value) and just be thankfull that am and like
+doing this stuff. Good night, and this is Geneneral WarT's brain
+signing out saying, "WTF is going on here!?!"
+
+<=====================================================================>
+Da Yakity Shmakity of Tuesday, jul. 7, 1999
+-------------------------------------------
+
+Alright, I realize that I haven't updated my .plan in a while, and the
+previous state in which I left it apparently frightened many people as
+to the future of WOS CTF. Ritualistic and Sin Post have mentioned my
+responces to their inquries into this, but I thought I'd let you all
+know myself and add in some additional info as well... just because
+I can. ;)
+
+The first public beta will be released in just a few more weeks. It's
+not really all that long considering how long you've waited already. ;P
+I've still gotta clean up the code for the new runes, get the anti-nuke
+zones working just right (to prevent reckless nuking of flag rooms), get
+some arrangements going for test servers, and get someplace setup for
+bugs to be reported to. Whew...
+
+In other news, Mechwarrior 3, Descent 3, and Worms Armageddon (basically
+Worms 3) are all out, so get them all or suffer the conciquences!
+
+Also, never get a Squirrel as a house pet, cause it'll make a mess of
+the whole place.
+==========
+Account Name:  bigfour18
+Email address: carl@bigfourfoundries.com
+----------
+CustomerID: 11808
+==========
+Account Name:  horizon1
+Email address: carl@horizoneng.com
+----------
+CustomerID: 18224
+==========
+Account Name:  mktooling4
+Email address: carl@mktooling.com
+----------
+CustomerID: 9227

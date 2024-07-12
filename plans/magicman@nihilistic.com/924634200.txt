@@ -1,0 +1,42 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........magicman
+Full Name.........Steve Thoms
+Description.......Level Designer
+Home Directory....\\void\users\magicman
+Last NT Logon.....Tuesday, April 20, 1999 at 13:06
+
+==============================================================
+The views expressed here represent absolutely nothing. I mean,
+you do realize this is just a .plan file don't you?
+==============================================================
+
+4/21/99
+
+Can't wait for Quake3? Tired of midair railing 5 of your friends
+simultaneously? Need something fresh and exciting to occupy the
+time between refreshing your ftp sites checking for Q3:Arena? 
+Well, I have the answer for ya...a brand spanking new Quake DM 
+level. 
+
+Ok, it's not exactly brand new, but it's new to Quake. My second 
+level converted from Quake2 to Quake, The Frag Pipe.
+
+Get it here: 
+
+ftp.cdrom.com/pub/idgames2/levels/deathmatch/p-r/q1_q2dm3.zip
+
+
+And, in case you haven't seen it, my first conversion to Quake, 
+The Edge (released about 4 months ago), can be found in that 
+same directory:
+
+ftp.cdrom.com/pub/idgames2/levels/deathmatch/p-r/q1_q2dm1.zip
+
+
+Enjoy.
+
+
+-magicman
+(File last updated on Tue 20 Apr 1999 at 13:16)

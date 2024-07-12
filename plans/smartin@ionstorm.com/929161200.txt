@@ -1,0 +1,175 @@
+
+*** Ion Storm's Finger Server
+
+User name: smartin
+Plan modified: Sat Jun 12 01:17:40 1999
+
+=== Fri. 6-11-99 ===
+
+Rest in peace, DeForest Kelley.  We'll miss ya.
+
+
+=== Tues. 5-18-99 ===
+
+Tomorrow.  Tomorrow I find out if the sixteen-year wait
+was worthwhile.  Tomorrow.
+
+Tomorrow!
+
+LESS THAN TWENTY-FOUR FREAKIN' HOURS FROM NOW!
+
+Can you tell I'm excited?  :)
+
+
+=== Wed. 4-14-99 ===
+
+*pant* *pant* *pant* *pant*
+
+Whew.  I just emerged from the other side of Crunch Mode,
+bloodied but unbowed.
+
+Last week, we sent off the Alpha version of Deus Ex to
+Eidos and our Dallas office.  We all worked like dogs, but
+we made our deadline!  Deus Ex is no longer a glorified
+technology demo; now it's beginning to look like a game...
+
+The AI is starting to look good.  I've spent most of the
+last few weeks working on combat AI.  I've still got a lot
+of work left to do, mostly in the arcane realm of
+optimization.  I also need to differentiate the NPCs a bit
+more; right now, they all fight the same way (albeit with
+different weapons).  With luck, all of this will be done
+before E3.
+
+Speaking of E3...  I'll be there.  Look for the small,
+bearded man.  No, not Warren -- the *other* small bearded
+man.  The one with the thick Coke-bottle glasses, thinning
+hair, stooped posture, pasty skin... oh yeah, and the
+self-esteem problem.  :)
+
+
+=== Wed. 1-20-99 ===
+
+Hiya!
+
+Been a while since I updated my .plan, so this'll be a
+long one.
+
+The user interface library is now pretty much done, barring
+the usual tweaks and modifications I'm sure I'll make over
+the next year.
+
+This is not the same as saying the USER INTERFACE is done.
+For the next few months Albert Yarusso will be building the
+actual Deus Ex interface using the library I've written.
+All I did was program the underlying windows.
+
+Some of the features of the UI library:
+
+- Full support for both keyboard and mouse traversal
+
+- Text windows, pushbuttons, toggle buttons, radio buttons,
+  checkboxes, scrolling areas, and many of the other basic
+  controls of Windows
+
+- A list window with multi-column support, auto-sorting,
+  and single or multiple selection (this will be used in
+  Deus Ex when selecting augmentations, loading and saving
+  games, etc.)
+
+- A notepad-style window with text editing capability,
+  including full cursor movement, text selection,
+  cut-and-paste buffers, and undo/redo (this will be
+  used for Deus Ex's in-game notes and map annotation)
+
+- Viewport windows that can render a 3D scene from any angle,
+  and can be placed anywhere on the screen (imagine the
+  possibilities...)
+
+On February 1st I return to writing the game's artificial
+intelligence, and none too soon.  Writing the UI library was
+fun, but I'm *really* looking forward to getting my grubby
+little paws into the AI again.
+
+Sidebar:
+
+I overcame my addiction to Half-Life just in time to become
+addicted to Baldur's Gate.  If you're into RPGs at *all*,
+I can't recommend this one enough.  It's got its fair share
+of problems, but it's a remarkably stable product and it's
+a lot of fun to play.  I've logged over 150 hours on it, and
+I'm STILL not done.  Kudos to BioWare for a great game!
+
+
+=== Wed. 11-25-98 ===
+
+This probably won't make it to my .plan file in time, but just
+in case it does...  Happy Thanksgiving!
+
+I'm still working on the user interface.  Scrolling areas and
+lists are done, and they rock.  (Betcha won't hear THAT in
+future Deus Ex reviews!  :)  Now I'm in the process of adding
+some new features to the list widgets, fixing a couple of
+small bugs, and working on combo boxes.
+
+I've spent the last four nights staying up 'til 4am playing
+Half-Life.  This is the most addictive game I've played since
+1988, when I was hooked on the original Phantasy Star for the
+Sega Master System.  Half-Life is soooooo cool!  I'm in awe
+of the sheer amount of DETAIL they put into that game!
+
+Valve, I salute you!  Great job!
+
+The final episode of Babylon 5 is on tonight.  Should be
+a bittersweet departure for my favorite show.  Time to pull
+out the Kleenex...
+
+
+=== Fri. 10-30-98 ===
+
+Work continues apace.  Scrollbars and sliders are nearly done,
+and I should have scrolling areas working shortly thereafter.
+Then I get to work on other fun widget stuff like lists,
+checkboxes and combo boxes.  The UI is really starting to come
+together, but I've got miles to go before I sleep...
+
+Saw John Carpenter's Vampires today.  It wasn't bad -- lame-ish
+plot, but lots of decent acting and great one-liners.
+
+
+=== Thurs. 10-22-98 ===
+
+Had to put the UI on hold for a week while we integrated Deus Ex
+with the latest version of Unreal.  Unfortunately, we had lots of
+little niggling problems with the new version.  Now I get to work
+extra hours to put myself back on schedule.  Yayyy!
+
+Finished my Defensive Driving video course last night.  Aced the
+exam, but failed the personal questions section they give you to
+verify your identity.  I couldn't remember my previous phone
+number or whether I was registered to vote.  *sigh*  I take some
+small comfort in knowing that Einstein sometimes forgot his own
+address...
+
+But now at least I'll be a better driver.  Maybe when I'm on the
+highway I won't feel obliged to roar past the slow cars, like the
+big sixteen-wheelers or Warren's new STATION WAGON.
+
+
+=== Wed. 10-14-98 ===
+
+Yeah, like I have a plan.
+
+I've put the AI on hold for a while.  I've started working on the
+user interface library again, adding all those cool little widgets
+that Albert's been asking me for.  At this rate, by the time I'm
+done we'll have a windowing system in the Unreal engine that will
+rival Microsoft's.  :)
+
+Once the new widgets are done, I can concentrate full-time on the
+AI.  I can't wait.  Writing window code is fun, but I've got some
+kick-ass ideas for the AI that I'm dying to try out.
+
+As I'm fond of saying, I'm not a workaholic, I'm a hedonist with
+a fun job.
+

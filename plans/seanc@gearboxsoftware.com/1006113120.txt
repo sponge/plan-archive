@@ -1,0 +1,20 @@
+Login: seanc          			Name: Sean Cavanaugh
+Directory: /home/seanc              	Shell: /bin/bash
+Last login Mon Nov 12 13:30 (CST) on pts/4 from gbx-10-21.gearboxoffice.net
+No mail.
+Plan:
+Nov 17 2001
+
+Factoids:
+
+	I have now seen two reviews of Half-life for PlayStation 2 call the original Half-life for
+PC 4 years old.  The original came out in November of 1998, which makes it exactly three years old now.
+
+	The models made for Half-life Dreamcast and the Hi-Definition pack are not the same
+as the models in Half-life for PlayStation 2.  The Playstation 2 version has more detailed
+models.
+
+	Half-life is NOT based on Quake2.  There is little to no Quake 2 code in Half-life.
+All the work Valve did for Half-life was based on the Quake 1 code, of which whole sections
+were replaced entirely (skeletal animation model system, entity handling in C++ instead of QuakeC),
+and other sections given major rework (16 bit software rendering, EAX and A3D audio, networking).

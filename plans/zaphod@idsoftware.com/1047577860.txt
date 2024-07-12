@@ -1,0 +1,12 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: 
+Description: Programmer
+Project: 
+Last Updated: 03/13/2003 13:07:29 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+The Wolf master server ran out of virtual memory, I am in the process of restarting it.
+
+And it's back up

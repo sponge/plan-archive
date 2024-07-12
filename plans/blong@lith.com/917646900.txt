@@ -1,0 +1,59 @@
+
+*** Monolith Production's Finger Server
+
+User name: blong
+Plan modified: Fri Jan 29 15:32:57 1999
+
+1/29/99
+
+haven't updated in a while. so, here goes. i am working on something that is such a high fallootin secret that i don't even know what the hell it is. every morning a floppy disk is slid under my door full of source code, files like Something.cpp and SomethingElse.h. i just do whatever comes naturally. today i coded up CUhhSomethingManager. i had a little trouble with CUhhSomethingManger::DoThatOneThing(void *pSomeDataMaybe), but i think it will all work out in the end. 
+
+in all seriousness today was notable because i had a negative kloc rating. or i have one, so far. that's okay. sometimes you just have to hit ctrl-x more than you hit ctrl-v. 
+
+i just want to give a shout out to the subway down on market street. shout outs to Chiz-guy, the other dude, the old lady, and the cashier. i don't know who the hell you people are, and you don't know who i am, and it better stay that way, but i just wanted to thank you for making me such a delicious sandwich every day i eat there. with the exception of Chiz guy, who is a remarkably stingy bastard, the toppings are always heaped extra high, and the mustard and vinegar squirted with an amazing amount of vigor and generosity. i salute you all. except Chiz guy. my favorite thing about the subway crew is that everyday i come in and order the same thing, foot long veggie on white no cheese, and they always have to ask me what i want, when they know perfectly well what i want. such is the yoke of capitalist franchised labor. stay strong comrades. [secret hand gesture]
+
+current musical selections include but are not limited to: harriet the spy, young pioneers, and black flag.
+
+signed,
+blong (as it were)
+9/30/98
+
+got hit by a car today. while biking home for dinner. dislocated my shoulder, and popped it back into place right at the scene of the accident, just like that dude in those stupid movies. the lady was freaked out. i was too dazed to yell at her though. might be time to start one of those critical mass posses in kirkland. all in all it was a decent face plant but fortunately i am still pretty.
+
+remember to look both ways,
+brian
+
+
+
+9/5/98
+
+my week can be summed up very nicely with this. you know that the fetal position was assumed multiple times in the last five days. 
+
+gruntz is almost done. we are golden like spen's toof in ten days. well not golden in the duplication sense, but at least complete, and in a manner that might be likened to the brilliance of a golden object. damn. multiplayer is so f'in fun. and maddening. i love hearing toby scream like a girl over the speakerphone in anguish as we're battling it out. not that i don't do my fair share of anguished screaming, i just mute the phone before i do so to maintain the illusion of confidence. and whenever i get f'ed over, i just holler at lambert that there "must be some kind of damn bug!" 
+
+bye
+
+8/6/98
+
+well, we're definitely in the homestretch on gruntz now. lambert and i stared at thousands of lines of trace dumps today to track down a nasty out of sync in multiplay. finally got it (after an undisclosed number of hours). we have two testers on the team now, kelly and merlyn, so hopefully we should be identifying and squashing any remaining bugs in short order.  after that, it's game balancing, and then off to the labs for compatibility testing. not to say that they are not already here, but i can see many long nights in the future. my sweetie is not going to be happy. anyway, this is basically my first game i've worked on professionally, so it is really cool now that it is drawing to a close. 
+
+oh yeah, gruntz music -- best guddamn midi i've ever heard. i ALWAYS turn off music in a game if it's midi, but this stuff is the cat's ass, or whiskers, or however that expression goes. expect pleny of ambient goodness while you play.
+
+outtie,
+ron jeremy
+
+(btw, unwound @ the break room last saturday, anyone out there go? are seattlites too good to applaud for encores? wtf?)
+
+
+
+7/20/98
+
+i'm doing a couple of things on gruntz right now, the most important of which are the end-of-level statz screenz. it's a nice change from doing the net code; i get to display some visual creativity and play with the swank graphics engine, although so far it's been a lot of work just to get everything to fit on the screen without looking like a traffic wreck. i've also been getting into some mfc bizness, for tweaking the game dialogs, and have found it interesting enough to continue to learn about beyond what i needed to know to get the job done (actually, it took the aid of the mfc mailing list to accomplish that) -- picked up the blaszack book, etc.
+
+i have resolved to limit this plan file to solely reflect on the progress of gruntz and related goings on here at monolith for reasons that should be obvious to people that regularly hit finger.planetquake. so i nuked all the old stuff in this plan file. from now on, any personal info can be found at my homepage, http://members.tripod.com/~NutritiousTreat. at the moment, it's pretty F'in empty, just like any good personal web page should be.
+
+brian.
+
+
+
+

@@ -1,0 +1,6 @@
+Login: stephenb       			Name: Stephen Bahl
+Directory: /home/stephenb           	Shell: /bin/bash
+Last login Fri Jul 16 12:26 (CDT) on ttyp1 from t3-1-dlci16-100.adsl.directlink.net
+New mail received Fri Jul 16 12:50 1999 (CDT)
+     Unread since Fri Jul  9 16:11 1999 (CDT)
+No Plan.

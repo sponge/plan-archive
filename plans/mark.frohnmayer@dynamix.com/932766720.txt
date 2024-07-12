@@ -1,0 +1,94 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+--------------------------------------------------------------------------
+User Name: mark.frohnmayer     Plan Last Modified: 07/23/1999 15:52:36 PST
+
+Real Name: Mark Frohnmayer
+Nickname: Got Milk?
+Job: Lead Programmer
+Project: Tribes
+
+7.23.99
+
+The issues with 1.6 have been addressed and are in 
+testing.  Thanks for the quick feedback.
+
+...
+
+Having trouble debugging your scripts?  Tired of echoing
+out garbage to the console?  Well, you're in luck.
+
+A couple months ago, I offered up the challenge to Tinman
+to make a scripting language debugger for Tribes 2.  About
+a week later he finished a fully integrated remote debugger
+in the Tribes 2 engine, complete with breakpoints, variable
+watches and mouse-over variable support.  
+
+There were enough differences in the GUI code to prevent us
+from easily including the client side of the debugger
+into T1, but it was easy to integrate the server
+code back in.
+
+Below I've included the debugger protocol - hopefully some
+resourceful programmer out there will whip out a Win32 client
+over the weekend in time for the release next week. :)
+(Note, variable breakpoints aren't implemented in T1.)
+
+// call this in tribes to enable the debugger.
+// debuggerPort is the port the debugger connects to.
+
+dbgSetParams(debuggerPort, debuggerPassword);
+
+// when you connect the debugger sends:
+SENDPASS\r\n
+// send across the password followed by a newline
+
+// once connected and authorized, the debugger accepts the following commands
+// all commands should be terminated by \n or \r\n
+// all output is single-line terminated by \r\n
+
+// 'CEVAL console line' evaluate the console line
+//    output: none
+// 'BRKVARSET varName passct expr' set a breakpoint on a variable
+//    output: none
+// 'BRKVARCLR varName' clear a variable breakpoint
+//    output: none
+// 'BRKSET file line clear passct expr' set a breakpoint on the file,line
+//        expr must evaluate true 'passct' times for it to break and if 'clear' is true, it
+//        clear the breakpoint when hit
+//    output: none
+// 'BRKCLR file line' clear a breakpoint on the file,line
+//    output: none
+// 'BRKCLRALL' clear all breakpoints
+//    output: none
+// 'CONTINUE' continue execution
+//    output: 'RUNNING'
+// 'STEPIN' run until next statement
+//    output: 'RUNNING'
+// 'STEPOVER' run until next break <= current frame
+//    output: 'RUNNING'
+// 'STEPOUT' run until next break <= current frame - 1
+//    output: 'RUNNING'
+// 'EVAL tag frame expr' evaluate the expr in the console, on the frame'th stack frame
+//    output: 'EVALOUT tag exprResult'
+// 'FILELIST' list script files loaded
+//    output: 'FILELISTOUT file1 file2 file3 file4 ...'
+// 'BREAKLIST file' get a list of breakpoint-able lines in the file
+//    output: 'BREAKLISTOUT file skipBreakPairs skiplinecount breaklinecount skiplinecount breaklinecount ...'
+//
+// other output:
+//
+// when the debugger hits a breakpoint, it lists out:
+// 'BREAK file1 line1 fn1 file2 line2 fn2 file3 line3 fn3 file4 line4 fn4 etc.'
+//       where file1 line1 fn1 ... etc is the current call stack.
+// 'COUT output' output has been echoed to the console
+
+...
+
+And special thanks to Diane Lee and Wasif Azmat who sent the Tribes
+team 5 cases of Mirror Pond Pale Ale... can you say Beta application
+accepted? :)
+
+

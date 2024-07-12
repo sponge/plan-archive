@@ -1,0 +1,52 @@
+Login: dragon         			Name: Rick Brewer
+Directory: /home/dragon             	Shell: /sbin/nologin
+Never logged in.
+New mail received Wed Jan 19 18:20 2000 (CST)
+     Unread since Wed Jan 19 12:59 2000 (CST)
+Plan:
+
+
+
+
+^Drag0n^'s TalonFile
+
+
+
+
+
+
+
+WebMaster, QuakeWorld Central
+        -- Comments? e-mail me.
+
+        (Note: this .plan is in HTML: visit http://www.stomped.com/quake/finger to see
+        it all.)Tuesday, December 14, 1999 - mousewheels, micewheels, or meeseswheels (you decide)
+
+Alot of people have been having the same problem I had with binding commands to the logitech mouse wheel in Quake 2 and Quake 3 Arena. Here's what you need to do to get it all fixed up.
+
+1. snag this file from the logitech website: ftp://ftp.logitech.com/pub/TechSupport/MOUSE/Game_Whl.EXE
+
+
+(While you're at it, get the latest drivers, and install them first).
+
+2. Start Quake2/Quake 3 Arena.
+
+3. Go DIRECTLY to the bindings menu, bind the keys, exit the config menu, and quit the game IMMEDIATELY.
+
+4. Restart Quake2/Quake 3 Arena and play the game.
+
+*** Don't go back to the bindings menu, or you'll have to quit and start the whole process over again from step 2. ***
+
+
+I hope this helps some of you frustrated players out. The technical explination of what is happening is that the logitech driver has a persistant task called em_exec.exe that prevents Q2/Q3A from addressing the wheel properly. You CAN terminate the em_exec task, but that may cause you other problems when not playing the game(s).
+
+- ^D^
+
+
+
+Disclaimer:
+        All opinions in this planfile reflect my opinion and in no way represent those of stomped.com. Publication of any portion of this .plan without the permission of the author is expressly forbidden. Really. messing with it will bring forth a tumultuous assault by a tribe of rabid monkeys. That's all the fine type. I'm done now. Besides, don't you have something better to do than read the disclaimer?
+
+
+
+

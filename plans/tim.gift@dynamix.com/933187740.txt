@@ -1,0 +1,42 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-------------------------------------------------------------------
+User Name: tim.gift     Plan Last Modified: 07/28/1999 12:42:24 PST
+
+Real Name: Tim Gift
+Nickname: Slacker
+Job: Director/Lead
+Project: Starsiege Tribes
+
+7.28.99
+
+Put a few fixes into the current patch (should end up
+version 1.7); the elevator bugs (displacing deployables
+through floors, and player warping). No more flying
+through ceilings with vehicles, a few other misc.
+things. JohnA fixed a number of bug's in the scripts,
+and the palette problem should addressed (DaveM). The
+release notes will have the full list.  We'll hand a
+version to QA this afternoon so they can start testing.
+I hope this wraps up my TRIBES 1 work for a while.
+With the vacation, catching up on all the emails and
+the patch fixes, I haven't been doing much on TRIBES 2
+work for over a month.
+
+It looks like the TRIBESCon near Seattle is starting
+to pick up.  A few few people here are planning on
+going, and I'm thinking about tagging along for that
+one.  Could be fun :)  (I find it hard to resist
+a convention actually named after TRIBES, it's close
+proximity doesn't hurt either).
+
+(A correction to my last plan, I misspelled the name
+of our beer benefactor, Dyanne Lee,  sorry!).
+
+
+
+
+
+

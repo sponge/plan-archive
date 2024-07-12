@@ -1,0 +1,97 @@
+
+*** Ion Storm's Finger Server
+
+User name: chrisk
+Plan modified: Tue May 25 14:59:39 1999
+
+CONGRATULATIONS, RICH AND IIKKA (05/25/99):
+
+My hat's off to Rich "Zdim" Carlson and Iikka "Fingers" Keranen.  Congratulations, guys, on your appointment to the Thief 2 design team.  There's no doubt in my mind you guys will do great things.  ;-)
+
+- - - - -
+
+COME WORK FOR US (05/18/99):
+
+We are interested in hiring another level designer for the Daikatana team.  We want someone with hardcore mapping experience, be it amateur or professional.  If you're interested, please e-mail me and let me know what you've done.
+
+- - - - -
+
+MORE DEEP THOUGHTS, SATURDAY, 05/15/99:
+
+3-D Level Design, Lesson One:  "Remember to put some things in front of other things."
+
+It
+
+is
+
+so
+
+quiet
+
+here.
+
+Everyone's away at E3, and it's been eerily quiet.  Haven't had a lot of feedback from "the field."  I spoke briefly with Josh Jay, who spoke briefly to someone else who said, "Everyone's loving our booth."  YES!!!  Time for that six-pack!  ;-)
+
+Anyway, we're showing a lot of cool stuff at E3.  Lots of detail in the maps (improved aesthetic quality and improved gameflow throughout), meticulously scripted NPC's, super-cool models, detailed animations, volumetric fog, and chilling cinematics.  This entire team worked 'round the clock (literally; you should see Andrew Welch's e-mail messages when he's writing at 4:30 in the morning) to make E3 a success, and to push us light years closer to a solid, successful completion of the project.
+
+- - - - -
+
+QUICK, RANDOM NOTES FOR MONDAY, 05/10/99:
+
+Everyone's been working long hours in preparation for E3.  Lots of surprises in store.  And that's all I have to say about that.  ;-)
+
+Most of the mapping team has moved on to tweaking Episodes 3 and 4.  Iikka's re-building e3m7 from scratch, and is creating some of the most stunning architecture I've ever seen in a shooter.  Gothic is Iikka's favorite style, and it shows.  He's burning through this one hard, and doing a great job.
+
+They're ALL doing a great job.  KC, Larry, Bobby, and you know what... YOU'RE doing a great job!
+
+Oh!  Oh!  Cripes, how could I have forgotten to mention this (just goes to show, I need to get back in the swing of updating this thing):  John's been spending the lion's share of his time mapping.  Yeah!  ROCK HARD!  It's been hard for John to find the time because of that wacky "project leadership" thing he does so well... but I SWEAR, he's been making time to do some hardcore level design.  This is significant because, now more than ever, the game is taking on that "Romero feel."  The game had a lot of that back in January, when I first stepped on board, but it's undeniable at this point.  As I see more of John's direct influence on the game, I'm getting that cool, creepy feeling I had when I first played shareware Doom.  Or maybe I need a space heater.  You decide.
+
+Look both ways.  New subject coming up fast....
+
+For those who haven't tried it, you owe it to yourselves to check out Ridge Racer Type 4 for the PSX.  The game looks phenomenal, is super-fast and challenging, and it manages to retain much of the freewheeling arcade feel of the original.  
+
+What I find especially provocative about this installment of Ridge Racer is how various cultures are represented in the game by racing team managers.  The [female] manager of the French team is engaged to be married, but will leave her fiancى and marry you if you win the Grand Prix.  The Japanese team manager will RIDE YOUR ASS and dismiss you as a punk until you make it to the 3rd heat, at which point he'll offer you his undying loyalty.  The manager of the Italian team... umm... I forget what he does.  But it's the American team manager who cracks me up:  The guy's an ineffectual pencil-pusher whose team has suffered endless strings of defeats.  He lacks assertiveness when dealing with HIS boss (which means you usually wind up with underpowered cars because your team remains woefully underfunded), worries about how he appears to his subordinates, and will lavish you with praise if you finish a race in 2nd or 3rd place.  ("Second place!  Wow!  Great job!  I KNEW you could do it!"  Or something like that.)
+
+Somewhere in there is a lesson about how other cultures view us.  Or at least how the guys at Namco view us.  Or not.  Or maybe I need a space heater.  You decide.
+
+- - - - -
+
+QUICK NOTES FOR TUESDAY, 02/23/99:
+
+Super-quick update, as time is short, and the caffeine hasn't had its full effect yet.  The Mplayer demo is flat-out gorgeous.  Bobby, Iikka and Larry have done an incredible job on the maps, feeding off of one another's ideas to exponentially improve the environments with every build.  Great job, guys!
+
+KillCreek is taking some extra time to tweak e1m4, while I'm doing general touch-up on the first episode.  The rest of the team has moved on to Episode 2, and they're making quick progress.
+
+- - - - -
+
+QUICK NOTES FOR WEDNESDAY, 02/10/99:
+
+Tonight's plan is actually from 02/04.  It just took me a while to put it up because we're... um... trying to make a game or something [?].  So, without further ado, we hope you enjoy this very special edition of "The Best of Klie."
+
+- - - - - 
+
+Hey, there!  How ya doin', how ya doin', how ya doin'!  A warm-hearted Texas hello from... TEXAS!  The state that brought you [TEXAS JOKE OMITTED DUE TO RAMPANT STATE PRIDE, WHICH, I MIGHT ADD, IS MUCH DESERVED; THANK YOU].
+
+ANYWAY, it's 4:57 a.m., and my sleep schedule is getting weirder and weirder.  I find myself repeating certain words over and over.  And over.  But the pain... the sweat... the gut-breaking agony... it will all be worth it the day we ship This Century's Game, DAIKATANA!  Yessir!
+
+	...that... ...right there... ...was a beautiful moment... ...no, no, wait... ...that's not a tear... ...just... ...something in my eye...
+
+QUICK NOTES FOR THURSDAY, 02/04/99:
+
+Episode 1 core-architecture clean-up and lighting passes nearly complete.  Soon, most of this AWESOME MAP DESIGN TEAM will move on to episode 2.  I'll stay behind and continue detailing episode 1.  The team will forget about me, and will go on to lead productive lives without me.  I'll cry myself to sleep each night.  Alone.
+
+...sigh... ...I can't continue with this... ...it's just too... ...okay, well, maybe I can:
+
+Rich Carlson has been doing some architectural work, and major lighting work, on e1m1.  I'm amazed by the aesthetic sensibilities Rich brings to this map, which can only be described as stunning.
+
+Stevie Case wins this month's land-speed record, RE-creating e1m4 FROM SCRATCH!!!  It's NUTS, I tell you!  (Yes, this is a brand, spanking new e1m4; not to be confused with the old e1m4, which was discontinued due to... well, the official reason given was "a desire to make something better."  You know what they say: You can't make an omelet without breaking some eggs.)
+
+Bobby Pavlock and Larry Herring, in addition to refining e1m3 and e1m5, have been spanning the globe to bring you the finest in deathmatch entertainment.  They keep going on about some... oh, what's the phrase those kids use... some "tournament."  Bobby's like, "These deathmatch maps are going to KICK ASS," and Larry's like, "These deathmatch maps are going to KICK ASS," and "You get to play against John Romero [who, apparently, is some corporate bigshot around here; whoop-dee-doo]."  They WILL NOT SHUT UP!
+
+And last, but not least, this year's most eligible mapper (the ladies say he looks good in basic black), Iikka Keranen, has working his insane magic on e1m6 and e1m7.  I've never seen a mapper work so quickly and confidently.  And the stuff he produces is both captivating and frightening.  You'll see.  ;-)
+
+Ummmmmmmmmmm..... hmm.  How to wrap this up....  (oh, my, is it really 5:30 in the morning).
+
+Umm....
+
+...hey, look at the time!  Gotta go!  Bye!

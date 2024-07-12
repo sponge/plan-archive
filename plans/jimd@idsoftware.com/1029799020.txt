@@ -1,0 +1,77 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Jim Dose
+Email: 
+Description: Programmer
+Project: 
+Last Updated: 08/19/2002 17:36:13 (Central Standard Time)
+-------------------------------------------------------------------------------
+August 19, 2002
+---------------
+I'm still in shock as I write this and am pretty much at a loss for the appropriate
+words.  William Scarboro, whom I worked with at 3D Realms, died of a sever asthma
+attack on August 9.  His funeral was today at 1pm.  Here's the obituary: 
+http://www.legacy.com/dallasmorningnews/LegacySubPage2.asp?Page=LifeStory&PersonId=446857
+
+For those who didn't know William, he programmed the actors and weapons in Rise of the
+Triad, and he coded the renderer that was going to be used for Prey.  You can thank
+William for the /EKG (Engine Killing Gibs) cheat in ROTT, as well as the over the top
+weapon effects that most people remember from the game.
+
+William found humor in extreme or excessive demonstrations of power.  If he saw 
+anything that impressed him to some degree, it was "destructive", "sad", or "gone".  You
+sort of had to know his lingo to get what he was saying.
+
+For William, math was the ultimate expression of power.  He would call me up some nights to
+describe to me some new mathematical concept he'd read about.  In many ways, he helped me
+better understand the math involved in 3D engines.  Later, after he left the game industry,
+he became a fan of component programming and COM.  He would then call me up to talk about
+the "destructive" power of templates or other programming topic.
+
+William loved to laugh, and had a hard time stopping once you got him started.  Tom Hall
+was particularly effective at keeping William immobile on the ground in a fit of laughter.
+Some of my favorites stories from working at 3D Realms involve our efforts to amuse William,
+most revolve around inside jokes that you can only appreciate if you were there.
+
+This picture pretty much sums up how I remember William:
+http://www.3drealms.com/images/scarborobat.jpg
+
+Goodbye William.  I'm going to miss you.
+
+
+April 26, 2001
+--------------
+
+Just read on Slashdot that Sony plans to release a version of Linux for
+the PS2 (http://slashdot.org/article.pl?sid=01/04/26/1340202&mode=thread).
+This is great news!  It's always disappointed me that current consoles
+weren't programmable like some of the early systems were.  I first started
+programming on a Bally Arcade using the BASIC language cartridge that shipped
+with the system and later moved to an Atari 800 (though it wasn't really priced
+as a console).
+
+Consoles tend to be more friendly and less imposing than a PC.  While Linux
+is a bit more hefty than popping in a BASIC language cartridge, at least it's
+a start towards opening up consoles to the hobbyist programmer.  It also
+opens up the possibility of some really neat applications of the PS2 in the
+home.
+
+Of course, YABasic (in Europe) and Artdink's Basic Studio are also nice
+solutions.
+
+March 21, 2001
+--------------
+
+Robert came in today with a copy of Serious Sam by Croteam.  The game is
+a blast to play and to watch!  By the second level Duffy had 5 guys watching 
+over his shoulder (there probably would have been more, but half the
+company is out at CGDC).  For $20, Serious Sam is a total deal.
+
+Buy it!  I want to see more games from Croteam! :)
+
+
+March 19, 2001
+--------------
+
+Congratulations to the Tribes 2 team on going gold!  I'll be picking it up as
+soon as it hits the shelves! :)

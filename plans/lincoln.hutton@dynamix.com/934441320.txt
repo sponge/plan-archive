@@ -1,0 +1,56 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-------------------------------------------------------------------------
+User Name: lincoln.hutton     Plan Last Modified: 03/30/1999 16:58:01 PST
+
+Real Name: Lincoln Hutton
+Nickname: Missing
+Job: Tribes Programmer
+Email: lincoln.hutton@dynamix.com
+
+
+[3/30/99]
+
+We're working on improvements to our drone "AI" (we being
+Greg Lancaster and myself).  Our goal for mid-April is
+to have drones that can navigate reliably around a world
+that has a hand-built graph.  What we're working on is 
+still more what should be termed "skills" rather 
+than "AI" - once a fuller complement of basic skills 
+is in place, then we can think about building some 
+intelligent behavior out of them.  As mentioned before, 
+our drone behavior in Tribes I is pretty limited.  
+
+Should probably clarify - this is not for the Tribes I
+patch (sorry!), rather we're looking down the road.  
+
+
+[2/23/99]
+
+We've been testing out the drone code implemented for the 
+Tribes Training missions to make sure it works fine in a 
+multi-player setting (something it _doesn't_ do in the 
+original 1.0 release), and we have a simple example "bots 
+mod" we're making available as an illustration of how they 
+work.  Having drones in a multi-player game requires a 1.2 
+(or greater) version of the SERVER, but any client version 
+can join.  
+
+Probably should start off with some expectation management 
+here (bad news first).  The bot "AI" is pretty limited: 
+they follow scripted paths and fire at the closest enemy 
+that they have line-of-sight to.  They don't jet, make 
+strategic decisions, or even automatically avoid obstacles, 
+or obey commands (other than waypoint commands).  At this 
+point the term "drone" is more accurate.  They can be used 
+in missions as defensive patrols - running around the 
+perimeter of a base for example (which is what the drones 
+in the example do).  
+
+A fair amount of control of the drones IS possible from 
+script already and some clever scripting COULD probably 
+effect better AI.  The example mod can be used as a 
+starting point, plus a reference doc to the AI console 
+functions is just about done and will be posted.  

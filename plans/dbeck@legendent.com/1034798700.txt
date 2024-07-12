@@ -1,0 +1,63 @@
+If you're a Magic: the Gathering™ player or collector, take a look at my collection.  You can also search my collection.  If you have any comments or suggestions, e-mail me.  I'm looking to sell or trade the foils.
+
+2002-10-16
+Some time ago, Legend's finger server crashed with a hard drive failure and, until now, I haven't found the time to fix it.  Now the plan file service is restored, and I made some minor improvements to the behind-the-scenes functionality.
+
+2002-01-01
+Happy new year.
+
+2001-11-29
+I'm upgrading Legend's WoT servers to run on Windows 2000, as time permits.  It seems to be much more stable, as I have yet to see a server crash since being upgraded.
+
+2001-11-28
+I finally updated the plan list page so that it shows the proper update time.
+
+2000-05-03
+We played Unreal Tournament CTF in a Legend vs Epic game last night.  It was 8 vs 8 and it was the most intense game I've ever played.  The action was fast and furious.  Understandably, the Epic folks are very good at UT, and their level of play was amazing.  Good game, Epic.  I look forward to a rematch.
+
+2000-04-04
+I finally moved our web server to its new computer and connection.  Had to fiddle with finger stuff a bit to make it work.
+
+Wheel of Time multiplayer tip:
+If you pick up a bag that's full of tainted TA, Unravel or Aura of Unraveling will clean them up nicely.
+
+
+2000-03-10
+Today I moved all our WoT servers over to a dedicated connection.  Hopefully that will resolve any issues relating to bandwidth.
+Unfortunately, the IP addresses for all the servers had to change.  Legend WoT servers are now at the following addresses.
+    38.204.39.2:7777
+    38.204.39.2:7780
+    38.204.39.3:7777
+    38.204.39.4:7777
+    38.204.39.5:7777
+There will probably be two or three more servers added soon.
+
+Wheel of Time multiplayer tip:
+Lightning does massive damage to anyone nearby when used in water.  If you use an elemental shield (fire, air, or water) to protect yourself from lightning, you can kill several players in a water zone quickly without taking any damage yourself.
+Be warned, however, that some players who don't understand how this works may think you're cheating because it kills so quickly.
+
+
+1999-12-30
+Happy New Year.
+
+Wheel of Time multiplayer tip:
+If the only ter'angreal you have is Freeze, you can use Air Pulse to kill someone while they're frozen.  You have to get right up next to them.
+Dart doesn't do any damage to someone who's frozen.
+
+
+1999-12-06
+You can run a Wheel of Time multiplayer server without the CD.Run Wheel of Time and set up the server options using the Multiplayer menu, but don't launch the server. You'll need the CD for this step, but you only have to do it when you want to change the server settings. Alternatively, you can edit your WoT.ini file and change the settings manually.
+Exit the game.
+Open the MS-DOS prompt and change to your WheelOfTime\System directory.
+Type ucc server Arena_01.wot?game=WoT.giMPArena for an Arena server, or ucc server Battle2_01.wot?game=WoT.giMPBattle for a Citadel server.
+To shut down the server, select the UCC window and press Ctrl-C.
+You can change the map name in the command to the map you want to start with. The Battle2_*.wot series are two-team maps, Battle3_*.wot are three-team, and Battle4_*.wot are four-team maps.
+
+
+1999-11-24
+For those in the USA, Happy Thanksgiving.
+
+I finished up Legend's dynamic finger page today.
+
+Wheel of Time multiplayer tip:
+Be sure to pick up bags dropped by killed players.  Often enough, you'll get a fistful of ter'angreal.  When that happens, I usually take a moment to select the most useful in each hand, so they'll be at the ready in the heat of battle.

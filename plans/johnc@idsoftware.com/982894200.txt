@@ -1,0 +1,95 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: 
+Last Updated: 02/22/2001 21:02:26 (Pacific Standard Time)
+-------------------------------------------------------------------------------
+Feb 22, 2001
+------------
+I just got back from Tokyo, where I demonstrated our new engine 
+running under MacOS-X with a GeForce 3 card.  We had quite a bit of 
+discussion about whether we should be showing anything at all, 
+considering how far away we are from having a title on the shelves, so 
+we probably aren't going to be showing it anywhere else for quite
+a while.
+
+We do run a bit better on a high end wintel system, but the Apple
+performance is still quite good, especially considering the short amount
+of time that the drivers had before the event.  
+
+It is still our intention to have a simultaneous release of the next
+product on Windows, MacOS-X, and Linux.
+
+
+Here is a dump on the GeForce 3 that I have been seriously working 
+with for a few weeks now:
+
+The short answer is that the GeForce 3 is fantastic.  I haven't had such an
+impression of raising the performance bar since the Voodoo 2 came out, and
+there are a ton of new features for programmers to play with.
+
+Graphics programmers should run out and get one at the  earliest possible
+time.  For consumers, it will be a tougher call.  There  aren't any
+applications our right now that take proper advantage of it,  but you should
+still be quite a bit faster at everything than GF2, especially with
+anti-aliasing.  Balance that against whatever the price turns out to be.
+
+While the Radeon is a good effort in many ways, it has enough shortfalls 
+that I still generally call the GeForce 2 ultra the best card you can buy 
+right now, so Nvidia is basically dethroning their own product.
+
+It is somewhat unfortunate that it is labeled GeForce 3, because GeForce 
+2 was just a speed bump of GeForce, while GF3 is a major architectural 
+change.  I wish they had called the GF2 something else.
+
+The things that are good about it:
+
+Lots of values have additional internal precision, like texture coordinates 
+and rasterization coordinates.  There are only a few places where this 
+matters, but it is nice to be cleaning up.  Rasterization precision is about 
+the last thing that the multi-thousand dollar workstation boards still do 
+any better than the consumer cards.
+
+Adding more texture units and more register combiners is an obvious 
+evolutionary step.
+
+An interesting technical aside:  when I first changed something I was 
+doing with five single or dual texture passes on a GF to something that 
+only took two quad texture passes on a GF3, I got a surprisingly modest 
+speedup.  It turned out that the texture filtering and bandwidth was the 
+dominant factor, not the frame buffer traffic that was saved with more 
+texture units.  When I turned off anisotropic filtering and used 
+compressed textures, the GF3 version became twice as fast.
+
+The 8x anisotropic filtering looks really nice, but it has a 30%+ speed 
+cost.  For existing games where you have speed to burn, it is probably a 
+nice thing to force on, but it is a bit much for me to enable on the current 
+project.  Radeon supports 16x aniso at a smaller speed cost, but not in 
+conjunction with trilinear, and something is broken in the chip that 
+makes the filtering jump around with triangular rasterization 
+dependencies.
+
+The depth buffer optimizations are similar to what the Radeon provides, 
+giving almost everything some measure of speedup, and larger ones 
+available in some cases with some redesign.
+
+3D textures are implemented with the full, complete generality.  Radeon 
+offers 3D textures, but without mip mapping and in a non-orthogonal 
+manner (taking up two texture units).
+
+Vertex programs are probably the most radical new feature, and, unlike 
+most "radical new features", actually turn out to be pretty damn good.  
+The instruction language is clear and obvious, with wonderful features 
+like free arbitrary swizzle and negate on each operand, and the obvious 
+things you want for graphics like dot product instructions.
+
+The vertex program instructions are what SSE should have been.
+
+A complex setup for a four-texture rendering pass is way easier to 
+understand with a vertex program than with a ton of texgen/texture 
+matrix calls, and it lets you do things that you just couldn't do hardware 
+accelerated at all before.  Changing the model from fixed function data 
+like normals, colors, and texcoords to generalized attributes is very 
+important for future progress.<b

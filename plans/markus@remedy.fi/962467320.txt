@@ -1,0 +1,29 @@
+Username: markus                    In real life: Markus Maki           
+
+
+Plan:
+June 30th, 2000
+---------------
+In case anyone's interested, MadOnion.com's just released 
+a new update to 3DMark2000. The new 1.1 version fixes issues
+with for example Windows 2000 and detects new CPUs like Pentium 4
+and Duron. Available at www.madonion.com.
+
+Also, PC game developers, I recommend moving all of your programmers
+to developing on Win2k as soon as possible. Remedy & MO is not
+installing ANY Win9x computers anymore to people. Noticing 
+some bugs that cause a crash is much easier on Win2k. We
+do use for example boundschecker and other utils, but still
+there were few probs that didn't appear on Win98, only on
+Win2000. Ah well, just my two cents.
+
+Last thing, I wanted to thank the Texans for their hospitality
+during my holiday in Austin/Dallas last month, especially Terry,
+Scott, Steven & Jason and everybody at 3DR & G.o.D. Made my life
+a lot more fun especially since my ankle was sprained and made 
+walking painful for a few days.
+
+
+
+
+

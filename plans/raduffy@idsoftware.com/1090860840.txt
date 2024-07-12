@@ -1,0 +1,202 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Robert A. Duffy
+Email: 
+Description: Programmer
+Project: 
+Last Updated: 07/26/2004 12:48:39 (Central Standard Time)
+-------------------------------------------------------------------------------
+July.26.2004
+------------
+
+I've seen quite a few posts in the forums about "Ultra" quality and why we don't set this by default out of the box. I thought I would clarify a few of the reasons and also take the time to mention some of the hardware and software we found incredibly useful during the development of DOOM 3. 
+
+To put things in perspective, most production levels in DOOM 3 contain more media assets than all of Quake 3: Arena. When we started working on the memory foot print, our goal was a 256MB system. In most cases loading up an area of the game on a 256MB system works fine, the problems arise when you start to transition from one area to the next ( successive map loads ). Memory fragmentation starts to really work against us and it ultimately made it just not feasible for a reasonable play experience to support 256MB. 
+
+Two basic options make up the quality levels, sound diversity and image fidelity. 
+
+Sound diversity is effectively how many sounds we support per sound shader for a given "sound". There may be for instance, 7 different "bullet striking the wall" sounds for a given bullet. In low quality, we only use one sound for this vs randomly choosing between one of the seven available. When we started on memory optimization, most levels used between 80 and 100 megabytes of sound data. We made the choice to move to .OGG for quite a few sounds which effectively removed the problem for us.
+
+Image fidelity is dependent on what quality level we load the textures at.
+
+In Ultra quality, we load each texture; diffuse, specular, normal map at full resolution with no compression. In a typical DOOM 3 level, this can hover around a whopping 500MB of texture data. This will run on current hardware but obviously we cannot fit 500MB of texture data onto a 256MB card and the amount of texture data referenced in a give scene per frame ( 60 times a second ) can easily be 50MB+. This can cause some choppiness as a lot of memory bandwidth is being consumed. It does however look fantastic :-) and it is certainly playable on high end systems but due to the hitching that can occur we chose to require a 512MB Video card before setting this automatically. 
+
+High quality uses compression ( DXT1,3,5 ) for specular and diffuse and no compression for normal maps. This looks very very close to Ultra quality but the compression does cause some loss. This is the quality that for instance the PC Gamer review was played in. 
+
+Medium quality uses compression for specular, diffuse, and normal maps. This still looks really really good but compressing the normal maps can produce a few artifacts especially on hard angled or round edges. This level gets us comfortably onto 128MB video cards. 
+
+Low quality does everything medium quality does but it also downsizes textures over 512x512 and we downsize specular maps to 64x64 in this mode as well. This fits us onto a 64MB video card. 
+
+One thing of note on the normal map compression is that generally speaking if you DXT a normal map you get really crappy results. NVIDIA hardware supports palettized compression which yields good compression and normal maps retain hard and round edges really well. Unfortunately this compression does a poor job in other cases and you end up getting splotchy areas. ATI does not support the palettized compression so we needed a better solution. ATI had done some research on various methods of normal map compression and we ended swapping the red and alpha ( which is zero in the case of a normal map ) channels. This effectively allows the compression to do a much better job and is just one extra instruction in the fragment program to move the alpha channel into the red channel. The bottom line on what happens on each card is as follows.
+
+All modern NVIDIA and all ATI hardware use the compressed normal maps in Medium and Low qualities with the swizzled components.
+NV10/20 hardware ( GF4MX and GF3 ) uses palettized normal maps in Medium and Low qualities.
+
+Another question I have had multiple emails about, yes the game is capped at 60fps for normal game play. For render demos, like what was used for the HARD OCP stuff, we run those at full tilt which is why you will see > 60fps. 
+
+
+For the curious, here is a list of software/hardware we found useful during the development of DOOM 3.
+
+Incredibuild by Xoreax.
+Visual Assist by Whole Tomato Software
+Alienbrain by Avid ( formerly NXN )
+Visual Studio by Microsoft
+
+DOOM 3 was developed mostly on Dell and/or Alienware computers. Falcon also sent us a kick ass system that has been Tim's primary play system through most of the project. 
+
+The art team used a wide variety of tools ( they probably use other stuff too but this is what comes to mind ) 
+
+Maya
+Lightwave
+ZBrush
+3D Max
+Photoshop
+
+We saw a few bumps in the road during the project, we had a multiple ( simultaneous ) drive failure in our primary development server which effectively trashed the raid system and was not recoverable. This resulted in building a two IDE drive raid system on a Saturday morning so the team could keep working. So all of DOOM 3 development was housed in an old dev system with a $79 RAID card driving two 100GB drives for about a week. The end result of this was we went ahead and built two identical RAID 1/0 systems ( about a half a terabyte each ). This has been the configuration for the last 18 months or so. 
+
+We made the move to Alienbrain about two thirds into the project. It was a big change for everyone as no one but the programmers were used to having to "check something out" to work on it. Overall this was a big win for the project as it centralized everything into one application from an asset/code standpoint. Alienbrain like any major software system has a few gotchas but has performed very well and sustained our RAID running entirely out of drive space multiple times. 
+
+
+I hope everyone enjoys the game.
+
+
+
+
+
+
+
+
+April.30.2004
+-------------
+
+We are looking for a Tools Programmer. The position will be full time and will require relocating to the Dallas Texas area. Responsibilities will include the design and implementation of a wide variety of tools for game creation. Specific focus will be on level editing capabilities and game design and implementation mechanics. You will be required to work closely with the programming, design and art teams on the design of tools for DOOM 3 tech as well as future tech. 
+
+Requirements:
+-At least 5 years of extensive C and C++ experience. 
+-Extensive OpenGL experience.
+-Demonstrable experience with tool creation on a recent or current game. 
+-Excellent overall technical and communications skills. 
+-MFC experience is a plus but not strictly required.
+
+-International applicants will need to have a 4 year degree.
+
+Interested parties please send a cover letter and resume to raduffy@idsoftware.com
+
+
+
+
+
+
+April 4.0.2003
+--------------
+
+The Enemy Territory master server is down. ETA is a few hours before it is back up.
+
+
+
+
+September.9.2003
+----------------
+
+
+Updated setups for Q3 Linux 1.32 and RTCW Linux 1.41 are available in the anonymous ftp ( ftp://ftp.idsoftware.com ) and on the BitTorrent tracker ( http://zerowing.idsoftware.com/BT/ ).
+
+6eb06cb2c21f075f8cd63901d43ba7a3  linuxq3apoint-1.32b-2.x86.run 6edf02471da704ad4e9e365e474bcbc8  wolf-linux-1.41-2.x86.run
+
+IMPORTANT: This is NOT a new release, this is an update of the installer code to fix recent bugs related to text mode installation on glibc 2.3 systems. If you already have Q3 1.32b or RTCW 1.41 working on Linux, you don't need to download, the game binaries are strictly the same.
+
+
+
+
+November.21.2002
+----------------
+There is a new Linux Q3A 1.32b on the ftp. This is Linux client side only and is fully compatible with 1.32
+
+Changes:
+
+- Text mode install broken on glibc 2.3 (Debian Sid) http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=165358
+Current Debian Sid's glibc package break backwards compatibility with binaries compiled on older glibc and statically linked. This will cause the text mode setup to segfault.
+
+For now you can either:
+ - find a solution to run the graphical gtk-based setup
+ - roll back to glibc 2.2
+ - use an updated setup binary:
+   run the linux setup once, with the --keep option
+     (this will exand all the files to setup.tmp/)
+   get this updated setup file:
+     http://zerowing.idsoftware.com/linux/165358/setup
+   replace setup.tmp/setup.data/bin/Linux/x86/setup by the new one
+   cd to setup.tmp/ and run setup.sh 
+
+
+- Current NVidia drivers don't officially support glibc 2.3 systems This affects Debian Sid in particular, causing crashes during vid_restart The issue is related to the SMP build depending upon libpthreads 1.32b has both SMP and non-SMP binary. Use quake3-smp to launch the SMP version if you want to use it.
+
+
+- SMP and non-SMP builds:
+Default quake3 shortcut will spawn a non-SMP build. Use quake3-smp for an SMP-enabled run. From the feedback we got after the 1.32 release, 
+the SMP support as designed in the Quake III Arena technology isn't so much relevant anymore. It was designed for much lower CPU frequencies and lower AGP throughputs. Modern systems won't benefit from SMP. Since it didn't make much sense to remove the SMP binary, we have both now.
+
+
+- Fixing broken mouse on Suse:
+Starting with XFree 4.2, the event timestamps returned by the X server 
+are no longer matching gettimeofday. And there is currently no API in X 
+to provide easy synchronisation. 1.32 introduced improved event timing 
+by correcting event time with X server event timestamp (sub-frame timing). This worked fine with XFree 4.1, and no longer does. 1.32b adds a safe check to work again with XFree 4.2, but basically the input timing is back to 1.31 quality.
+
+Some new cvars related to the mouse control:
+in_dgamouse - not new, but be sure to have it set to 1 on any recent system in_subframe - completely disables sub-frame timing. If XFree 4.2
+  in_subframe 1 won't hurt, but it won't do anything either.
+in_nograb   - for mod developers. Set to 1 and run windowed, Q3 won't be
+  grabbing your mouse pointer (useful for debug breaks)
+
+
+
+
+October.24.2002
+---------------
+
+The Quake 3 Arena and Quake 3 Team Arena sdk's are up on our ftp.
+
+In idstuff/quake3/source
+
+Win32 - Q3A_TA_GameSource_132.exe
+Linux - linuxq3a-sdk-1.32.x86.run
+
+
+
+
+October.7.2002
+--------------
+
+The new Quake 3 Arena and Quake 3 Team Arena point release is up. Thanks to Timothee for getting all the fixes in and Tony and the crew at Even Balance for getting Punk Buster support in. A beta version of the Mac point release will be up soon but it will not authenticate properly with Punk Buster for a couple of weeks. 
+
+The release should be appearing on mirrors soon but here are the locations on our ftp. The auto-update system is also updated so you can auto-update or grab it here.
+
+
+ftp://ftp.idsoftware.com/idstuff/quake3/win32/q3pointrelease_132.exe
+ftp://ftp.idsoftware.com/idstuff/quake3/linux/linuxq3apoint-1.32.x86.run
+
+Here is a list of the general updates/fixes. 
+
+CHANGES 1.32
+
+
+General:
+
+- new network protocol, 68
+
+- network code:
+
+  improved fragmented messages handling
+
+  map change while client loads map no longer causes an 'Invalid .PK3' error
+
+  map_restart while client loads map no longer causes a reload
+
+  fixing donedl being ignored after autodl if map_restart'ed
+
+- the demo command has a list of compatible protocols, it will loop through 66 67 68
+
+  you can do '/demo four' and it will try four.dm_66 four.dm_67 four.dm_68
+
+  or you can explici

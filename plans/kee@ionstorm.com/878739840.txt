@@ -1,0 +1,20 @@
+Ion Storm
+
+User Name.........kee
+Full Name.........Kee Kimbrell
+Description.......Code Boy
+Last NT Logon.....Wednesday, November 05, 1997 at 09:50
+
+
+The whole gaming company has been living with this big pipe spewing out
+tons of sewage.
+
+To the entity that shut it off I can only offer the following:
+
+for (i = 0; i < MAXINT; i++)
+{
+    printf("THANK YOU!!!!!\n");
+}
+
+
+(File last updated on Wed 05 Nov 1997 at 10:16)

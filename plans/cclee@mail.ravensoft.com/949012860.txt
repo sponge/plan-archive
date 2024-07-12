@@ -1,0 +1,23 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Chia Chin Lee
+Email: cclee@mail.ravensoft.com
+Description: Sound / Music
+Project: General
+Last Updated: 01/27/2000 18:13:28 (Central Standard Time)
+-------------------------------------------------------------------------------
+When implemented correctly, 3D audio adds a new dimension to the players' perception of the game world.  The graphics combined with spatialized audio add realism and immerse the gamers.  It is currently one of the most powerful tools for the sound designer.
+
+Over the course of Soldier of Fortune, I've dealt with mixing for both A3D and EAX, as well as the default sound settings in the game.  The future of 3D audio is promising, but like any technology in its infancy, it contains a few quirks.  Many of these problems are due to divergence of features and standards found in different soundcards and drivers.  This divergence can make the sound designer's job difficult in achieving a good mix balance between all the soundcard chipsets.
+
+I would love to talk to other developers to discuss your experience with 3D audio.
+
+The problem is that I tweak all the audio under the Default sound settings, making sure that the attenuation, volume, EQ, etc, gel together as a whole.  Added on top of the mix is music.  This process can be quite arduous, especially in a non-linear medium such as games.
+
+After spending time to make sure the audio is perfect under Default sound, I switch to other 3D audio settings only to find the volume, attenuation, sound quality, etc, out of wack.  Although some of these issues are fixable, there are instances when changes in one area negatively alters other sounds.  In the end, I sometimes feel like I'm trying to make the "least broken" mix rather than the "best sounding" one.  
+
+Basically, 3D audio throws in a whole new dimension to the overall balance that "distorts" the raw sonic material I provide.  The only way to ensure the perfect mix is to design sounds that specifically cater to each unique type of audio implementation.  This is not currently a practical solution, unfortunately.
+
+I would love to hear your thoughts concerning this issue, and how you overcame these setbacks...or if you even encountered these problems.  :)
+
+I must also take a moment to thank Keith Charley (and his excellent Eagle tool for EAX) at Creative and Micah at Aureal for all their help in implementing the 3D audio in Soldier of Fortune.  They are working hard to cater to our needs and constantly solving problems for us.  Thank you guys!

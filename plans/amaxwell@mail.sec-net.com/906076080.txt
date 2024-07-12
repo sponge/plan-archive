@@ -1,0 +1,84 @@
+User:   amaxwell
+Read:   0
+Unread: 0
+Time:   Thu, 17 Sep 1998 18:48:17 -0700
+Plan:
+Well, it's been a week and a half since my last review, I apologize for
+that, but we've been busy as all hell. ;)  Let's get started shall we?
+
+   Over the last week and a half we've had a lot of stuff in the works, s=
+ome
+of it I can't talk about yet, but I'm going to talk about the cool stuff =
+I
+can talk about.
+
+  The first cool thing is the map editor.  I've mentioned this a bit in t=
+he
+past, but a lot more work has gone into it since then.   When I made maps
+before I'd get really annoyed at how hard it was to texture map stuff.  I
+shudder to think about it now, but suffice it to say it was a tedious and
+painstaking process and was the part I looked forward to the least.  That
+sucks for a lot of reasons, texturing is one of the most important parts =
+of
+making these maps.  The Geometry can be as cool as it comes, but without
+good texturing it's not going to matter.  After crying about it and
+commiserating about it with Ron we were saved.  Martin, one of our kick-a=
+ss
+code monkeys, has been working on the map editor, and he recently
+implemented a new method of texturing that is slick, easy, and still allo=
+ws
+for the detailed work that our old, tedious, lame system did.  Applying
+textures is still a long process, but the time it takes seems to have at
+least been halved now.  That's may more improvement then we'd hoped for s=
+o
+we're totally stoked.  Another cool thing that got added recently involve=
+d
+viewing the map in "solid" mode.  If you ever edited quake levels or if
+you've done some 3D modeling, you probably know what I mean.  I'm not a 3=
+D
+modeler, but I've created my share of quake maps in the past.  One thing
+that always annoyed me about solid mode was that you could barely
+distinguish angles.  In most quake and other fps level editors the solid
+mode has no shading.  Again Martin came to the rescue by adding an option=
+ to
+turn on a shading mode that allows you to clearly see each plane and poly=
+ of
+a piece of world geometry.  I never really thought about how much differe=
+nt
+makes "solid" mode.  It's so much slicker and usable now.  Suffice it to =
+say
+I feel like a kid who just got exactly what I wanted for my birthday. ;)
+
+  We've been fortunate with our programmers, if you ask me.  They are a
+seriously dedicated group of talented ass-kicking individuals, and I feel
+lucky to be able to work with them.
+
+  On the artwork side of things, we've added a bunch of new animations to
+the characters that make them feel even more life-like.   Derek Frost, ou=
+r
+Art Director, has been working on enhancing the custom portrait system an=
+d
+man it is looking amazing right now.  I love this point in the developmen=
+t
+of a game because everything clicks together and the game visibly evolves=
+ on
+a daily basis.  Of course, I'll be changing my tune the next time I have =
+to
+live in my office for days on end, but hey, that's the way the job works.=
+ ;)
+
+I guess that's it for the moment, but let me end this with a question, an=
+d
+it's a weird one=85  How exactly do _you_ think multiplayer will work in =
+this
+game?  Obviously I know exactly how it works, but I'm curious as to what =
+you
+expect.  I figured that since we hadn't said much about multiplayer yet i=
+t'd
+be a great time to ask this question=85
+
+Until next week=85
+
+- Adam "Wager" Maxwell
+- 09/17/98
+

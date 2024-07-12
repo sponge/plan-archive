@@ -1,0 +1,93 @@
+Login: ridah          			Name: Ryan Feltrin
+Directory: /home/ridah/             	Shell: dev/null
+Never logged in.
+No Mail.
+Plan:
+
+Ryan Feltrin
+ridah@frag.com
+
+Technology & AI Programmer, Gray Matter Studios.
+
+25-04-2000 (Anzac Day)
+-------------
+
+Easter Holidays are here, so it's time for a break from the usual work related stuff, and voice my humble opinions on a bunch of games I've checked out recently. I don't know why I'm doing this either, but here goes.
+
+
+Need For Speed: Porsche Unleashed:
+
+The beautiful game is back! Thank you EA for returning the franchise back to what was once known as the greatest racing game ever made. I can't help but think that this game would be the answer to Gran Turismo, had it not been restricted to a single manufacturer, and had more attention been paid to the "Evolution" mode.
+
+The physics engine is finely balanced between simulating the things that need to be simulated, and leaving out those that distract from the "fun factor". Hooking up a Logitech WingMan Formula Force, with a set of Takstar Feedback headphones, this game immerses like no other.
+
+My suggestion to EA, would be to open up the "Evolution" mode more like Gran Turismo, so you start with a bit of cash, and can choose what you want to do with it. Provide a big new & used market of cars to buy and sell, a bunch of races with varying prize money, and I would really like to see the ability to challenge street thugs to a one-on-one, with either a fixed amount or the cars up for grabs. Basically this would just mean providing a wider range of cars, and altering the interface.. the racing modes are already there.
+
+Final suggestion (plea?) is to release a patch so that traffic can be enabled in multiplayer racing. This was a MAJOR drawcard for the original game, and adds huge amounts to the replay factor, since you are forced to pay less attention to the road and surroundings, and more on the traffic. It's nice to see internet/IP support, but without traffic, she ain't what she used to be.
+
+
+Counter-Strike:
+
+This game rocks. It's hard to even attempt to think of it as a mod, but it's just amazing. A few balance issues prevent it from being my idea of a "perfect game", but that's no doubt a matter of opinion, and is nowhere near as strong as my admiration for it.
+
+My hat goes off to those associated with the project.
+
+
+NBA 2k (Dreamcast):
+
+Finally someone has stepped up and announced to the world that NBA Live is NOT the definative NBA game. Being a big hoops fan, I've tried every NBA game that's been released. Let me tell you, NBA 2k is the biggest step forward in a long time. NBA Drive 2000 (Microsoft) was a very good attempt, and my hat goes off to that team for going the simulation route. I would much rather see Drive 2000 evolve than the long stagnant Live series, however NBA 2K eclipses them all for both visuals and intensity.
+
+I'm not sure how long the affection will last, considering the arcadish influence, but the graphic detail is amazing, and the game is true to the NBA "experience", if short of recreating the "actual" game (like Drive 2000). I would recommend any hoops fans check this out at some stage.
+
+
+As a developer, a lot of my inspiration and drive comes from experiencing games the way I would like others to experience ours. These are fine examples of games that make being a developer that much more exciting.
+
+
+27-03-2000
+-------------
+
+Kingpin:
+
+I've gone and compiled a dedicated Linux Kingpin v1.21 binary set, it
+is available at:
+
+http://impact.frag.com/ridah/kptest/kpded-linux-glibc-i386-v120-to-v121-patch.zip
+
+Since Interplay have locked Kingpin at v1.21, I decided to roll back the changes
+and release a linux v1.21. This should be the final Kingpin release, assuming there
+are no issues with this Linux release.
+
+Why no Linux client release? I didn't have enough time to work on the Linux client since
+v1.20, so considering the only fixes since then are server-side only, it wouldn't
+make sense to release a new Linux client, only to have the existing problems get reported
+again. The v1.20 Linux client should be fully compatible with v1.21 servers, so if it works
+for you, you should be fine.
+
+The other remaining issue, is the lack of Linux compilables in the SDK, for the files
+that were omitted from the game source. I have placed these files, along with an example
+MAKEFILE in the following package:
+
+http://impact.frag.com/ridah/kptest/kingpinSDK-v121-navlib-linux-glibc-i386.zip
+
+The MAKEFILE included is the one I use to build the full source, so you'll need to
+modify it so that it only tries to build the game source.
+
+-------------
+
+In an effort to summarise the current (final?) Kingpin releases, here is a list of
+links to up-to-date versions and releases:
+
+Kingpin v1.21 Patch for Windows (patches any version below v1.21)
+http://impact.frag.com/ridah/kptest/kingpin_v121_patch.exe
+
+Kingpin v1.20 Patch for Linux:
+http://impact.frag.com/ridah/kptest/kingpin-1.20_glibc-i386-linux2.0.tar.gz
+
+Kingpin v1.20 for Linux to Kingpin Dedicated Server v1.21 for Linux Patch:
+http://impact.frag.com/ridah/kptest/kpded-linux-glibc-i386-v120-to-v121-patch.zip
+
+Kingpin SDK v1.21 for Windows/Linux (Linux requires addition package):
+http://impact.frag.com/ridah/kptest/Kingpin_SDK_121.zip
+
+Kingpin SDK v1.21 Additional Linux files
+http://impact.frag.com/ridah/kptest/kingpinSDK-v121-navlib-linux-glibc-i386.zip

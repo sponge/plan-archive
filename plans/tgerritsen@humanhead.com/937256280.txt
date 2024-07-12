@@ -1,0 +1,51 @@
+Welcome to Human Head Studios' Finger Service V1.6!
+
+Name: Tim Gerritsen
+Email: tgerritsen@humanhead.com
+Description: Business Development Director
+Project: All
+Web Page: Human Head Studios' Web SiteThis plan file is the opinion of the individual who writes it and does not reflect the opinions of the Human Head Studios.
+Last Updated: 09/13/1999 17:53:04 (Central Standard Time)
+-------------------------------------------------------------------------------
+I just wanted to write a little bit about ECTS.  Human Head was fortunate enough,
+through the good graces of G.O.D. to be able to go to the show and reveal the latest
+version of Rune to the world.
+
+We were in a backroom showing the game to invited press and salespeople only, and I have
+to say it was incredible.  First off, we were in a room with FAKK 2 and KISS: Psycho Circus
+which was strange enough in itself.  We had the best third party examples of the current
+front running engines all in the same room showing off their wares, and all three games
+were published by G.O.D..  This is something I think the press should touch on, since 
+all three games looked killer, and showed just what you can do with the current tech by
+modifying it to your own needs.  We've all substantially added to the base technologies
+and have come up with some unique ways to handle game play issues to match each of these
+engines' strengths.  (I still think our animation engine ruled, however. :) Sorry guys.)
+
+It was great to finally show off the game play of Rune, and have Ragnar running his paces
+in our ultra-detailed levels.  We showed a cave sequence with steam geysers, bubbling lakes
+of boiling mud, jumping platforms that sunk into the mud based on Ragnar's weight and some
+pretty satisfying combat with multitudes of Goblin warriors and the occasional TubeStriker
+that wanted to eat you for lunch.  We also showed an updated version of Thorstadt (not 
+'Orstaff' as one site reported), the city of the Dark Vikings that we first showed at GenCon.
+It now has particle-based torch and fireplace flames as well as some really subtle and moody
+sound effects. 
+
+Overall, Rune is really coming together in ways we didn't dream of before.  We've added 
+substantially to the Unreal technology base- particle animations, hierarchical skeletal
+animations, dynamic level of detailing, large mover handling and significant fixes to the
+Unreal Editor that we will easily stay competative by the time we come out.  Plus the 
+guys at Epic keep cranking out the improvements to the base technology, which has allowed
+us to really focus on how to put this great game tech into real game design.  We want Rune
+to really rock, and I think were really able to show off our potential for the first time to
+the world.
+
+The ECTS demo wouldn't have been possible, however, without the timely assistance of the gang
+down at The Playing Fields, an ultra-cool LAN game play bar in the Tottenham Court area
+of London.  If you are ever in London and itching to get some multiplayer action and a
+pint of some of England's best- they're the place to be!  Thanks to the gang of The 
+Playing Fields for the help and the free drinks on a hot Sunday afternoon in London.  
+
+Thanks also go out to Brandon Reinhart, who saved our butts by offering the assistance of 
+The Playing Fields, and for his coming to check us out at the right moment.  Thanks also to
+Mark Rein who gave his time and laptop to the cause.  Mark, you look great in front of the 
+purple Diablo.  That was my pick!

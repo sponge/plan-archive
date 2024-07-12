@@ -1,0 +1,20 @@
+Login: process        			Name: Brian Sutton
+Directory: /home/process            	Shell: /usr/local/bin/tcsh
+Last login Thu May  7 09:57 (CDT) on ttyp1 from invalid hostname
+New mail received Fri May 29 13:12 1998 (CDT)
+     Unread since Fri May 29 13:12 1998 (CDT)
+Plan:
+
+May 29th.
+
+Processed News Opens for Business
+---------------------------------
+
+http://www.processed.net - Go there now!
+
+Yep, this is the site I mentioned way back when, finally
+out on my own with a solo gaming news site. By pure
+coincidence, I ended up opening just as the 3.15 patch
+for Quake 2 came out, so I've got it mirrored there.
+
+As the church lady might say, "How convenient".

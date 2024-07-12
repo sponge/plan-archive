@@ -1,0 +1,21 @@
+
+*** Monolith Production's Finger Server
+
+User name: paulb
+Plan modified: Wed Jan 27 14:02:57 1999
+
+
+1/27/99
+Well here is the long overdue plan file update. Mostly since we cant fully talk about the game yet there isnt much worthy of a great plan update. I still get a lot of people asking for updates (Chris) and they never seem to stop (Chris).
+
+The secret game that we have been giving hints on (non-fps LithTech) and is very close to official press release and the first screenshots. The lawyers have been working to clear the tm issues up this week. Being almost 2000 its very difficult to name a product that doesnt somehow conflict with something already out there. St. John is working on some screens with the team and I think is ready to kill me. All of the screens that we have shown from our past games are legit. Its difficult to show screens of a game so early in development that makes the screens look how they should. I guess thats why you see many other people PhotoShop up some screens and make everything perfect and put things like shadows in there even if the game doesnt have them. After hitting F8 a million times looking for that perfect shot sometimes a mock screen sounds pretty good.
+
+Jeremy is acting as the PR tech side for LithTech and the other projects he is working on. If you have any tech questions that involve code samples ask him and not me. If it cant be done in HTML and VBScript then I have no idea what youre talking about. I know that he is setting up mailing lists for most of the popular subjects, Linux port I believe is one of them. If you are looking to do a big Shogo/Blood2/LithTech project it would be best to contact both of us.
+
+Still looking for some great Shogo mods out there. The Squishy vs Mecha is by far the best out now. Many people are looking to get at the B2 source this month and Im sure that some great mods and levels will come out of that. 
+
+Well since I dont have a lot of juicy info in this update I thought I would slip in a character pic from the secret game. Look for a press release this week.
+
+If you arent viewing this plan at http://plans.lith.com then you can see the image at http://plans.lith.com/image.gif
+
+

@@ -1,0 +1,28 @@
+Login: troy				Name: Trey Harrison
+Plan:
+---------
+May 28
+---------
+
+JESUS.
+
+In my classes this quarter (operating systems and programming languages)
+I learned a lot about Java. It is, for the most part, pretty nice.
+
+However I'd just like to say that JNI is absolutely disgusting and I
+cant wait until I finish abstracting the entire thing into an
+interface that is actually useable (not to mention readable).
+
+I'm using it in my final project for my programming languages class.
+
+The final project involves peaceful coexistence and presentation
+(and intercommunication) of programs running in different languages
+all at the same time. This project is a test/trial/experiment (running in
+Java) of my grand sceheme to replace HTML and web browsers and run several
+large companies out of business.
+
+More information will be available over the summer at www.openform.org,
+however none is there now since there I don't have a machine to handle it.
+
+Trey
+trey@u.washington.edu

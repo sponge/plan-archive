@@ -1,0 +1,53 @@
+Login: chrism         			Name: see pez
+Directory: /usr/home/chrism         	Shell: /usr/local/bin/tcsh
+Never logged in.
+Mail last read Wed Mar 22 00:21 2000 (CST)
+Plan:
+Ok Kyle, you want to perpetuate talk about nasty personal habbits?  I'll let everyone know about your nasty habbits if
+you're not careful.  :-)  
+
+It looks there might be an end in sight for this nasty mplayer no worky thing.  So keep your eyes here for updates on that.  
+
+Chris- 
+
+------------------------------------------- 
+
+AVP MAC-
+
+Oh man, get ready all you mac owners, Avp is only steps away from completion.  We've had a version up and running for a
+month now that grows more stable by the minute.  
+
+With this Mac version, there have been some speed increases we hope to translate over to the pc as well but no promises. 
+
+ 
+
+Chris- 
+
+------------------------------------------- 
+
+AVP MAC- 
+
+This has been a bit more work then originally intended. (Did I say that out loud?) What I meant to say was: 
+
+The Mac port is definitely coming it's just that with the new OpenGl support and some problems with texture memory support
+in Macs, Logicware has been slaving over cleaning up the code and fixing bugs. A version of the Mac was running a Mac World
+and that's the one they reviewed. It wasn't a completed port just a few levels. Anyway, just thought you'd want to know. We
+are getting constant updates from them and as soon as we have something worth mentioning, we will. :-) 
+
+P.S. I don't pick my nose, I blow it! 
+
+P.P.S. Maybe twice a week, unless i'm sick :-) 
+
+Chris- 
+
+------------------------------------------- 
+
+Bad news, We need to delay the screen shot contest for a couple weeks due to some corporate (BS) :-) However, we will come
+back with this and many other contests in the near future. 
+
+But I have sort of another contest in mind, have fans of AVP made any progress in creating level editors? Post your reply's
+in www.aliensversuspredator.com's forum 
+
+Chris- 
+
+------------------------------------------- 

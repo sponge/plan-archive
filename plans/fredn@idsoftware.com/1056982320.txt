@@ -1,0 +1,121 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Fred Nilsson
+Email: 
+Description: Animator
+Project: 
+Last Updated: 06/30/2003 10:48:33 (Central Standard Time)
+-------------------------------------------------------------------------------
+June 29th 2003
+
+It's been a long time since I've updated this thing.
+I just wanted to give you guys 2 things I/we've had laying around for a while.
+
+If some of you web-sites could put up mirrors.. that would be cool..
+
+First off, a new pro- map.    pro-q3tourney7.
+
+It was a map I found in our old Quake3 archives, but was cut for one reason or another.
+It had been started it long ago, but never finished it.. So I thought I'd give it a shot.
+I believe it was being made as an homage to the Edge from Q2.. So it does have a
+few similarities to that masterpiece which was q2dm1...
+
+I loved the layout, and it seemed like it would play really well with some item tweaks,
+and a few map adjustments..   Please excuse my non level designing skills, as it's not
+the prettiest map. ;|
+
+Oh, btw, Thanks to all the players who helped me figure out the "funnest" items/weapons.
+I tried to get feedback from alot of the top players, as I wanted it to play well.
+
+
+Here ya go..
+
+http://www.idsoftware.com/home/fredo/pro-q3tourney7.pk3      <--goes in your /baseq3
+
+
+Next up, a Team Arena map..  When we do find the time to play some Q3.. We usually still play
+our favorite space map..  q3tourney6_ctf, which later became mpq3tourney6, and has now evolved into
+mpteam9.    It's a bit larger, with 2 floors on each base, a couple new ways off the base, and we added
+a chaingun and a nailgun.  Also a kamikazee, invuln sphere, and the quad alternate out on the middle platform..
+
+It's really fun.. For any of you guys who still have Team Arena, give it a shot..
+Maybe we'll get some games going on it at qcon.. =) 
+We played ppl at E3 on it .. at Nvidia's booth.. It was fun.
+
+
+http://www.idsoftware.com/home/fredo/mpteam9.pk3    <--goes in your /missionpack
+
+
+Enjoy..
+
+
+-F
+
+
+
+Aug 14th 2001
+
+I had a great time at Qcon.. This was my first one.
+Many thanks to everyone who was involved.
+Tapper and friends.. even with the power problems.. You guys pulled through and got it all up again..
+Rhea and friends.. Thanx for running that tournament.. Everything seemed to go smoothly.
+Apple and Nvidia.. Thanx for the Team CTF tourney.. and the 2on2 smackdown.  Fun stuff..
+
+Speaking of...
+Here is the Team Arena Demo of our game against Abuse.. They beat PM in a way tense final
+and then got to play us.. =)
+
+ftp://ftp.idsoftware.com/idstuff/quake3/misc/abuse_vs_id_quakecon01.zip
+
+Unzip it and place it in your /missionpack/demos directory.
+If you don't have a demos directory under missionpack.. Create one...
+
+Such a close game...
+
+
+
+Congrats to Zero4..  You owned again..
+
+
+
+I'm looking forward to next year..
+
+
+-F
+
+
+
+
+Feb 1st 2001
+
+
+Ohhhh..  My first plan update.. =)
+Anyways.. I was just going to inform u
+guys that I've put up a few stills from
+the new IDlogo we did for Team Arena...
+
+Kenneth Scott, Seneca Menard and I were approached to do a new logo for
+Team Arena.. 
+
+It started with a brainstorm session..(ideas/sketches)
+Seneca then built/textured the models..
+I began setting up and animating.. and messing with lighting/fx..
+Seneca and I worked on it for about a week and half.. 
+It was a fun little project..
+
+I thought I'd post a few different stages.. 
+And then a few Hires renders...
+
+
+http://www.idsoftware.com/home/fredo/Heart1.jpg  is a rough sketch done by Kenneth Scott
+http://www.idsoftware.com/home/fredo/Heart2.jpg  is another rough sketch done by Seneca Menard
+http://www.idsoftware.com/home/fredo/Heart3.jpg  is the badass model that Senecea Built.. Look at all the detail...
+http://www.idsoftware.com/home/fredo/Heart4.jpg 
+http://www.idsoftware.com/home/fredo/Heart5.jpg    <-- Are a few hires renders
+http://www.idsoftware.com/home/fredo/Heart6.jpg 
+
+
+Enjoy..
+
+
+-F

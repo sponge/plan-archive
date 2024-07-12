@@ -1,0 +1,82 @@
+Account Name:  bryant
+Email address: bryant@finger.3drealms.com
+----------
+12:16 PM 8/9/99
+
+Tech Letter:
+
+A lot of people ask me how to get dos games installed in to
+windows 95 / 98. Well there are a few ways to do it. Although all are different. 
+
+The easy way:
+ Click on Start - Programs - MSDOS prompt. 
+
+Although this is the easy way, none of Apogee/3D Realms games are
+supported via this method, and a lot of times the game locks up or just will not run.
+
+Next way:
+
+ Click on START - Shutdown - Restart in MSDOS mode. 
+
+Although this is my preferred method of doing dos games, a lot of computer manufactures do not install any dos drivers into your computer so when you do this you do not have Sound, CDROM, or Mouse support. You only have what is installed on your main hard drive.  So for the Older games (Keen 1-3, Cosmo, ect.)  this is a good way of doing it, although for newer (Duke 3D, Shadow, TV)  Dos games this will not work.
+
+The Best Way:
+
+  Create a short cut that restarts your computer into DOS and loads all the drivers that you need. 
+
+This way is what the rest of my .plan will be on. 
+
+  To start out, you need all the dos drivers for your system. This includes the dos drivers for your Sound Card, Mouse and CDROM. There are so many sound cards I can not help you find the drivers for Sound card, although if you have a sound blaster or any card from Creative labs you can go to http://www.soundblaster.com and download them from there.  (For the rest of this file I will be using a Sound Blaster 16 as an example)
+
+ For your mouse you can search your hard drive for a dos mouse driver
+ (usually mouse.exe) or download one from the net. There is a lot of them out there and I can not tell you which one to choose, although the best way of doing this is for you to go to the web site of your mouse Manufacture and use the one that they recommend.
+
+ Your CDROM will be the same way although there is one place that I recommend:
+
+http://www.gankish.net/rumblesoft/  (then click on CDROM GOD)
+
+This is a link to the CDROM GOD. This is a boot disk that will install the dos drivers for your CDROM. This is a GREAT Util and every one should have this disk just incase. When you run it, copy over the drivers into a directory  that you can remember because we will need it later. 
+
+Now to make the ICON. Right Click on your Desktop. This is done by pressing the Right mouse button when your mouse is not in any window or over any Icon. Select "New" and then Select "Shortcut" A window will come up and ask you what the command line is. You will need to type in COMMAND Then the next window will ask what you want to call it. You can call it anything you want. (Mine is called "DOS GAMES")
+
+Now you will notice that there is a new Icon on your Desk top. This is the Icon that we just created and this is also the one that we are going to make restart your computer. 
+
+Right Click on the New Icon, and select Properties. Since we are going
+to make the computer restart The only thing that we have to worry
+about is the PROGRAM tab. Click on that and then select Advanced. Click on the one that states: MS-DOS mode. Then Check Specify a new MS-DOS Configuration. You will notice that the 2 boxes for your config.sys and Autoexec.bat are now available.
+
+Below is my Config.sys and Autoexec.bat that I use for dos games, Please remember that your drivers might be different and / or in a different location.
+
+Config.sys:
+DOS=HIGH,UMB
+Device=C:\WINDOWS\Himem.Sys
+Device=c:\windows\emm386.exe
+files=30
+buffers=20
+devicehigh=c:\cddos\hit-ide.sys /D:mscd001 
+
+
+The bottem line is the CDROM drive line. 
+
+Autoexec.bat:
+SET PROMPT=$p$g
+SET winbootdir=C:\WINDOWS
+SET LMOUSE=C:\MOUSE
+lh C:\logitech\mouse\MOUSE.EXE
+c:\cddos\mscdex.exe /D:mscd001 
+
+As you can see I use Logitech's mouse driver and again the last line is my CDROM Drive line. (I have the drivers for the CD in the c:\cddos\> directory) the /D:mscd001 stands for the name that you are giving your CDROM drive. I use the default (mscd001) this does not really matter UNLESS you have it as /D:CDROM DO not name your cdrom this. Change it to something else if this is what you have as it can and will cause problems. 
+
+I have left the Sound drivers out because mine will be different than yours, and there are so many ways to load sound drivers, you will need to refer to the install file that came with the DOS drivers that you downloaded in order to have them listed, although this is the screen that you will add them to. Once added click on "OK" then Click on "OK" again.
+
+Now you are ready to Click on the Icon and Run your Dos Program. It will ask you if you are sure that you want to restart in MSDOS mode, and once you press Ok you will be in dos with your sound cdrom and mouse all active.
+
+When you are done playing all you need to do is type in "EXIT" at the prompt and you will be taken back to windows. 
+
+
+Personal stuff: None  :) Been a slow couple of weeks
+
+Games that I am playing :
+ 
+  Single : Mech Warrior 3
+  Multi Player: Microsoft Hearts (Don't Ask) 

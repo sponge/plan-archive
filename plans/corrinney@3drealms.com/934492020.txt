@@ -1,0 +1,16 @@
+Account Name:  corrinney
+Email address: corrinney@finger.3drealms.com
+----------
+Mathematician Ms. Ingrid Daubechies "rocks" (to use the terminology of "our" industry" :) ).
+
+I was trying to find online on how to derive P3 and Q3 matrices of Daubechies basis for multiresolution surfaces, and accidentally found out the most useful basis function for progressive recomposition surfaces is developed by a woman mathematician.
+
+I "swear" I selected the basis function purely for its orthogonal property, not on the gender of the deriver. (It is as far as I know the only orthogonal basis.)
+
+I have been familiar with Daubechies basis function for a while, just as I have been familiar with the basis functions to recompose quadratic and cubic spline forms in n dimensions. I have encountered the name many times, because Daubechies is one of the 3 to 5 early important developers of nonuniform (non-Fourier) frequency decomposition.
+
+I just never knew the first name.
+
+Here she is. She looks nice and friendly too. And her math probably "kicks a**" (ditto on the terminology).
+
+http://www.princeton.edu/~icd/

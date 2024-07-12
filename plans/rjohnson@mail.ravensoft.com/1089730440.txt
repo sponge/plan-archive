@@ -1,0 +1,67 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Rick Johnson
+Email: rjohnson@ravensoft.com
+Description: Lead Programmer
+Project: Quake 4
+Nickname: Superfly
+Web Page: Rick's Web Site TurtleCam! mEATwagon Cult
+Last Updated: 07/13/2004 11:07:06 (Central Standard Time)
+-------------------------------------------------------------------------------
+7/13/2004
+ AI Programmer
+		This person will be responsible for assisting in the development of single player AI for a Doom3 based product.  This person will need to coordinate his/her own efforts with those of the animation department as well as to ensure proper level design and use of the AI.
+
+	Qualified applicants should be familiar with / demonstrate:
+		* Microsoft .NET 2003 / C / C++
+		* Various path finding methods
+		* Various AI approaches
+		* Very familiar with current trends in AI, its use in FPS, what makes AI look good / bad
+		* Quake3's entity system or AAS is desirable
+		* Experience in the game industry doing single AI or mods which demonstrate single player AI is desirable
+
+	Responsibilities will include:
+		* Implement new creatures through a combination of code and scripting
+		* Provide feedback to animators on animations or tweaks that are needed
+		* Provide feedback to designers to help ensure proper construction of levels and to diagnose issues
+
+	Applications should either email or mail resumes to:
+		Raven Software
+		C/O Rick Johnson
+		3 Point Place
+		Suite 1
+		Madison, WI 53719
+ 
+ rjohnson@ravensoft.com
+
+
+ User Interface ( UI ) Designer
+		This person will be responsible for both creating in-world UIs ( control panels, consoles, information panels, etc) as well as player interface menus for a Doom3 based product.  UI's will be written in a custom language that is part of the Doom3 engine.  Raven has constructed an integrated visual tool which assists the user in creating most UI functionality.
+
+	Qualified applicants should be familiar with / demonstrate:
+		* Adobe Photoshop 7.0
+		* Adobe Illustrator
+		* Quake3 / Doom3 style shaders / materials
+		* Quake3 UI ( .menu scripting format a plus )
+		* Strong visual layout and design skills, both in terms of visual appearance as well as functionality
+		* HTML, DHTML, ASP, JSP, Java Script, PHP, or Flash experience is desirable
+
+	Responsibilities will include:
+		* Fully concept out, draw, and implement UIs 
+		* Balance the visual appearance vs. rendering cost
+		* Script in functionality based on user input or other events
+
+	Applications should either email or mail resumes / portfolios to:
+		Raven Software
+		C/O Kevin Long
+		3 Point Place
+		Suite 1
+		Madison, WI 53719
+ 
+ klong@ravensoft.com
+
+	Portfolios will not be returned.
+
+5/28/2004
+ Technical Artist Position for Quake 4:
+      Raven Software is looking for a Technical Artist for the Quake 4 

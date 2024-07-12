@@ -1,0 +1,24 @@
+Login: designer       			Name: 
+Directory: /home/designer           	Shell: /bin/bash
+Never logged in.
+No mail.
+Plan:
+[Update: 06 March 2002 9:41 a.m. EST]
+
+Nothing is simple any more.
+
+I used to try and make levels for Quake 3. I couldn't grap the concept of curved surfaces and shaders. They just wouldn't come to me, at least not with the editing tools that were available when I last tried. It's too bad, because I used to love editing levels.
+
+The other day I found myself with a laptop (from work) that had Windows 2000 installed. On a whim, I loaded WinQuake onto it, and found my old Worldcraft CD and gave it a try. It ran beautifully. I was back in familiar territory, and I remembered many long days and nights of building Quake levels back in '98.
+
+The laptop got reassigned to a co-worker so I had to delete everything Quake-related from it. But for a few days, I was a younger kid on the forefront of a new gaming technology again.
+
+I miss the late nights spent playing NetQuake CTF with a bunch of regulars on a far-away server over a 28.8 modem connected at 21.6. I miss looking at the clock after a particularly exciting level and noticing that it's 5 a.m., and then remembering that I have an 8 a.m. class today. I miss long hours of IRC conversations with a bunch of abusive punks who were all as excited by being able to create new facets in gameplay as I was: Mike Wardwell, Mike Ruete, Yahn Bernier, Matthias Worch, Mattias Konradssen, Steve Fukuda, Steve Thoms, Wright Bagwell, and the myriad of others that I'm forgetting. I'm sure a few of these guys are still involved.
+
+Nothing's simple. The community that seemed cohesive and yet sprawling back then has fragmented more and more as games seem to pour out of the woodworks. Editing any game requires learning a million little things specific to the game. My trials and tribulations trying to close leaks and get the lighting just right seem like nothing.
+
+Do you remember that first cubical room you made? That first lift you added, and the pit with water or lava? Do you remember running in small circles, jumping at the walls, shooting at the ceiling in your tiny fullbright creation?
+
+I do.
+
+-- Ryan N. Freebern / rfreebern@corknut.org

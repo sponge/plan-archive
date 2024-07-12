@@ -1,0 +1,30 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: John Cash
+Email: jcash@idsoftware.com
+Description: Programmer
+Project: Quake 3 Arena
+Last Updated: 05/18/1999 15:37:52 (Central Standard Time)
+-------------------------------------------------------------------------------
+Q3TEST
+======
+
+IPX: The current build of Q3TEST's IPX support is broken.  I have
+fixed it for the next release.
+
+SOCKS: My early testing was using a Linux based SOCKS server.  I had
+to make a fix to work with Cisco's implementation; it seems I had a
+preliminary version of the RFC.  So if your one of the small handful
+of people using Cisco equipment to connect to the net , this
+should work for you in the next release.  I'm sure this will make Q3A
+work with other vendor's SOCKS servers too.  There is one more case
+where it isn't working (WSAEAFNOSUPPORT errors) that I'm looking into.  The
+username/password authentication has been added.
+
+To save on email... there is not a date set for the next release.
+
+--------------------
+
+John Cash
+jcash@idsoftware.com
+"Hellrot"

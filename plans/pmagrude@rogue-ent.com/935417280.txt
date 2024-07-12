@@ -1,0 +1,30 @@
+Login: pmagrude       			Name: Patrick Magruder
+Directory: /usr/users/pmagrude      	Shell: /usr/local/bin/tcsh
+Last login Mon Aug 23 10:53 (CDT) on ttyp0 from fireball
+New mail received Mon Aug 23 11:05 1999 (CDT)
+     Unread since Mon Aug 23 11:04 1999 (CDT)
+Mail forwarded to: "|exec /usr/local/bin/procmail"
+Plan:
+#include "stddisclaimer.h"
+8/23/1999
+
+Well, I have a question for you web designer types out there.  Is there a way to force a page to appear in a frameset of my choosing?  Let me rephrase this .. I know there is a way.  What is the "best" way to do it?  
+
+What I'm looking for is to:
+ 1) blow away any current frameset (frames within frames looks really bad)
+ 2) add my own frameset
+
+What I'm looking for is the ability to point people at subpages on our webpage, yet keep the navigation frame at the bottom, even if they linked in directly to the subpage.  Right now, the frame only shows up when you go to our "main" page .. which, of course, is really the frame definition html file.
+
+If someone out there has the relevant javascript/html chuck, please send it to me.
+
+Thanks!
+
+8/13/99
+It's Friday, the 13th.  How appropriate.
+
+Lots of cool new stuff from Rogue .. but hey, that's what we do.  You gotta check out our website at http://www.rogue-ent.com, featuring a complete makeover.  Hats off to Won, who did virtually all of the Art .. even though I did the HTML, it's just text without that excellent imagery!
+
+As to the Alice stuff, well, just wait and see.  Make sure to check out Electronic Art's site at http://alice.ea.com.
+
+Have a good one!

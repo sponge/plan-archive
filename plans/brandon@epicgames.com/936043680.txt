@@ -1,0 +1,43 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Mon Jul 26 18:59 (EDT) on ttyp4 from 216.27.43.207
+Mail forwarded to brandon@epicgames.com
+Mail last read Fri Aug 20 17:58 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Brandon "GreenMarine" Reinhart
+Unreal Team Programmer
+Epic MegaGames, Inc.
+
+Monday, August 30, 1999
+
+Answer for previous question:
+
+Three threads are normal, it seems.  Apparently posix threads spawns
+a third manager thread.  Good, I'm not going crazy :)  I got a couple
+emails berating me for not reading the LinuxThreads FAQ.  Had I known
+there was a FAQ, I would have read it ;)
+
+Question for Linux Gurus out there:
+
+If I create a new joinable thread (pthread_create) off of my main process,
+should the results show up in ps as two entries or three?  I'm only creating
+one additional thread to handle sound mixing, but I'm seeing three
+"UnrealTournament" entries in the process list.  Its weirding me out.  I'm
+pretty damn sure I'm only creating one process, so I wanted to make
+sure the ps results were correct.  (I would have expected two entries.)
+Chalk this one up to my newbiedom in the Linux world.
+
+Anyway, the Linux port is doing very well.  Sound code is done except for
+interpolating panning (right now panning is absolute and therefore very
+abrupt if the player is spinning quickly) and a crash that I'm having a hell
+of a time tracking down.  I just need to take a step back and dive back
+in with a fresh perspective.
+
+Other:
+
+Here is the Rock 'Em Sock 'Em Kitty Kat link presented in the spirit of
+Loonyboi's Link of the Day Day:
+
+http://www.hecklers.com/kitty/index.html

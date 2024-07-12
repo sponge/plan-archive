@@ -1,0 +1,43 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Todd Hollenshead
+Email: toddh@idsoftware.com
+Description: CEO
+Project: 
+Last Updated: 10/16/2000 20:14:12 (Pacific Standard Time)
+-------------------------------------------------------------------------------
+10/19/2000
+
+If you're a fan of games, you should definitely check this out:
+
+http://s1.amazon.com/exec/varzea/ts/promotion-glance/A30OSH1ELRXBN7/ref%3Da%5Fpr%5F13%5Fx/058-5809648-2895655
+
+Great and unique items for a wonderful cause.
+
+10/12/2000
+
+A new beta release is forthcoming.  We intend to release 1.25y within
+the next couple of hours.  There are a few things that should be
+mentioned in advance so that users can decide whether to download the
+release or not.  You should only download and install this release if 
+you are interested in providing feedback to id.  
+
+Please send all feedback and bug reports to bugs@idsoftware.com.
+
+The major change for this release is the physics code, which should
+make the game feel like 1.17.  We're looking for feedback from players
+specifically on this issue.  There are a number of other fixes, which
+are detailed in the readme.
+
+Mods based on 1.17 are not compatible with this release.  If you play 
+lots of mods, you may not want to download this release.  Mod authors 
+will need to update their mods once we upload the game code for the 
+final release before mods are playable with the new executable.
+
+Players should also be aware that we plan on releasing another update
+sometime next week once we've confirmed that the new physics changes
+are in place and working.  Therefore, players may prefer to wait until
+the final release before downloading.
+
+The release should start showing up on the usual mirrors and at
+http://www.quake3arena.com/news/index.html once it's out.

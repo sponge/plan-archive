@@ -1,0 +1,23 @@
+Login: aaronb         			Name: Fox Interactive
+Directory: /home/aaronb             	Shell: /nonexistent
+Last login Fri Jul  2 18:08 1999 (CDT) on ttyp1 from dunga.rogue-ent.
+New mail received Fri Feb  2 11:48 2001 (CST)
+     Unread since Thu Feb  1 19:22 2001 (CST)
+Plan:
+We are currently working on an update for NOLF. Extensive testing is being done to ensure that the update will address the following:
+*Note depending on time some or additional issues may be addressed. I'll keep you posted.
+
+Current issues being addressed:
+Crash on exit
+SP to MP crash
+"Memory" errors causing crashing and lag
+Dedicated server boot messages
+PlayerSummary not saving correctly after a Reset Inventory happens.
+Intelligence Item menu
+LPB Vehicle Kills
+Intelligence items can be photographed multiple times 
+Lag when hit by cyanide bullets and other caching issues
+
+One final note: There's also a possibility of additional multiplayer levels!! Keep checking for more updates.
+
+ApB 

@@ -1,0 +1,397 @@
+Welcome to Raven Software's Finger Service V1.5!
+
+Name: Dan Freed
+Email: dfreed@mail.ravensoft.com
+Description: Project Administrator
+Project: Heretic II
+Last Updated: 08/25/1998 17:09:04 (Central Standard Time)
+-------------------------------------------------------------------------------
+Daniell Pretender Freed
+
+8/25/98
+Alpha has come and gone for Heretic II.  We kind of just blew by it 
+and it was done before we hardly knew it was here, but that is the 
+way most of Heretic IIs development has been.  This project is going 
+along smoother (knock on wood) than any project that I have worked on 
+to date.  The team is working very hard to make sure that this game 
+will rock!
+
+A bunch of new skins have been implemented for the monsters.  They 
+are looking really great.  There is a bunch of new screenshots 
+cropping up from a press build of the game that we gave to a few 
+individuals recently.  Most of the sites that are posting new shots 
+are taking them from that build (normally I take most of the shots 
+and hand them out).  The point is that anyone that wants to see the 
+game shouldnt have a problem finding screenshots any longer.
+
+Soldier of Fortune is moving along faster than I thought possible.  
+They have several levels build architecturally already and are even 
+doing some scripting already.  It shouldnt be much more than a month 
+before an enemy makes a first appearance in the game.  We are playing 
+around with some realistic settings in the game, like realistic 
+falling damage.  It is a very different feel than most of other fps, 
+and it will take some getting used (if we keep it at all), but I 
+think the added feeling of realism could go a long way.  
+
+8/11/98
+
+The time has come to update my plan again.  So much is happening that 
+I dont know where to begin.  
+
+I recently made a trip to Ireland to show Heretic II to the European 
+press, buyers, and distributors.  It was a huge event that Activision 
+UK hosted in order to show all of the upcoming products for the next 
+6 - 8 months.  It went very well.  Heretic II was received with wide-
+open arms.  As far as I can estimate, everyone loved the product 
+across the board.  So, if anyone at the show is reading this, thank 
+you for your support and attendance at Activate 98.  You will not be 
+disappointed. 
+
+Last week I was at Gen Con, in Milwaukee.  That went extremely well. 
+We showed Heretic II, for the first time since E3, to the general 
+public.  Everyone was very excited about it.  I am convinced that if 
+you are still a doubter about Heretic II, when you play it you will 
+be converted.  A demo will be released in October some time.
+
+I want to thank everyone at Gen Con that I talked to, especially the 
+guys at AEG and White Wolf.  They know why they are cool, so I dont 
+need to clarify.
+
+SoF is moving right along.  Several levels have been built already, 
+and the new monster AI is nearing completion.  Our animators are 
+working on weapons right now and some secret stuff with the monsters 
+(more about this at a later date).  
+
+Project X is very close to announcement.  I know I have said this 
+before, but this time it is true. I am expecting to lock things in at 
+the end of August or the first part of September.  When this happens 
+we will be making a major announcement about it.
+
+7/20/98
+
+I just wanted to send out my thanks to Comp USA.  I just won their 
+most recent trivia contest. For 2nd prize I won a Quantum 3D Obsidian 
+S-12 Voodoo 2 card.  Very cool.  The best part is that they sent it 
+Fed Ex and I already have it.
+
+7/16/98
+
+On Saturday, August 8th, Jeff Butler, Mark Nelson, and Kevin Long are 
+going to be hanging out at the Heretic II/Activision booth at Gen Con.  
+All three of these guys have done tons of work in the paper and pencil 
+RPG world. Jeff and Mark are most noted probably for their work with 
+TSR.  Kevin Long worked as both an artist and a writer for Pallidium 
+Games.  So if you want to meet them, talk with them, or have them sign 
+anything (OK almost anything) just stop by the booth at Gen Con (that 
+is in Milwaukee Wisconsin).
+
+In case you dont know what Gen Con is, it is basically the E3 for the 
+RPG universe.  It is a huge convention hosted by TSR every year in 
+Milwaukee.  I think attendance was about 60,000 last year throughout 
+the weekend.  
+
+All three of these guys did work for Heretic.  Jeff and Mark have 
+actually done tons of work for the game.  Kevin has been working with 
+the Soldier of Fortune team for the most part, so he didnt have the 
+opportunity to do as much work but he has done some.  
+
+
+6/25/98
+Update time again.  I know that I havent updated this in a while but I 
+only do what I can.
+
+Heretic II
+We went on a media tour for Heretic II just recently.  It was in New 
+York and San Francisco.  I would have made it to both, but I ended up 
+in the hospital in NY for a day or so and I missed the SF part.  The 
+tour went well, and we are expecting to see some coverage in a lot of 
+the trade magazines in the near future.  There was a nice full-page 
+spread in Computer Gaming Worlds newest issue (August issue I think it 
+was).  They also put Heretic in a caption on the cover.  So if your 
+interested take a look.  Like I said it is a nice article.  The screen 
+shots are from the technology demo, but they are still very nice shots.
+
+Much of the game is falling into place now, as we creep up on our 
+deadlines.  Most of the levels have architecture now and lighting, and 
+many of them have appropriate textures.  The monsters are popping into 
+the game faster than I can keep up sometimes.  I must say that some of 
+these latest monsters look incredible.  We have a creature now that can 
+jump in and out of the water, and maneuver in either location 
+naturally.   
+
+Corvus himself is looking pretty good.  He now has the proper 
+animations for swimming underwater and for most of his acrobatics.
+
+Sorry I havent updated the Corvus journal in a while.  Things have 
+been very busy around here.  I really hope to get to it soon and then 
+do a couple of them quickly.
+
+Keep your eyes open for the official Heretic II page to go live soon.  
+It will have some very cool stuff on it that will not have been 
+available anywhere else before the sites debut.
+
+Soldier of Fortune
+Soldier of Fortune is looking really nice as well.  As you all probably 
+already know, they are doing hardware only and the effects that are 
+being coded right now are taking full advantage of that.  
+
+We are nearly finished with the design for SoF.  Just a few little 
+things to go over yet with Eric, Rick, and Scott.  I hope to have that 
+done next week. 
+
+Project X
+What can I say?  Not much, so I guess I will leave it at that.  I hope that we 
+will be announcing something within the next two months, but we will just have 
+to wait and see.
+
+6/1/98
+The frantic scramble to get ready for E3 is finally over and the show is now 
+over as 
+well.  For those of you that managed to make it to the show, thanks for stopping 
+by and 
+looking at Heretic.  For those of you that didnt make it to the show, you dont 
+know 
+what you missed.  Heretic was extremely well received by those that came by.  We 
+were 
+showing three levels of the game (basically the first hub, Silverspring).  
+Corvus has 
+his final skin in the game (for now) and he looks so good that Blues thought 
+that he 
+was bump mapped.  We had two monsters in the game; they were the plague Sidhe 
+and the 
+giant rats.  Both were working pretty well, as was the combat.  I think what 
+everyone 
+came back remembering about Heretic was the incredible animations that Corvus 
+had.  
+Everyone should give a round of applause to Brian Shubat, Jeff DeWitt (Corvuss 
+animators), Pat Lipo, and Bob Love (Corvuss programmers).  They did a great job 
+in 
+getting him to the state that he is at now.
+
+I will be working on a new journal entry for Corvus this week.  I am hoping that 
+I will 
+have it finished by the end of the week because I will be leaving for New York 
+and San 
+Francisco for a Heretic II press tour.  If I dont finish it in time, I will 
+post it 
+when I get back.
+
+Soldier of Fortune is making some progress.  E3 slowed down the production a 
+little, 
+since Eric Biessman went to the show with us, but everything continues to move 
+along 
+well with the project.  
+
+Project 3 at Raven is nearing preparation for announcement.  It will be maybe a 
+month 
+or so before the announcement will be made.
+
+What I remember from the show:
+
+A couple of things about the show stand out in my memory.  Some of them are 
+relevant 
+and some arent, but I will tell you all of them.  
+
+I remember having very sore feet, back, and wrists at the end of each day.  
+Anyone that 
+has spent 10  12 hours standing on a concrete floor that has only a layer of 
+carpet 
+over it will tell you how sore your feet will get.  My hands a wrists were sore 
+from 
+playing the game from a standing position.
+
+I remember seeing lots of models in tight clothes.  The Lara Croft model was 
+there (I 
+got my picture with her, being the geek that I am), as were several Metal Gear 
+Solid 
+models (whom I also struck up a cool pose with) and a Duke Nukem dude (this guy 
+was 
+really ripped, so I had to get a picture with him if for no other reason than 
+perspective).  There was also a Sailer Moon dancer, and countless other models 
+sponsoring various products.
+
+I met Gillian Anderson for about 2 seconds as she signed a post card.  I had to 
+wait 2 
+hours in line for a post card! Can you believe that?  They could have at least 
+had her 
+sign publicity photos of her.  
+
+I didnt meet Bret Farve, but Bob Love was gracious enough to stand in line, 
+while I 
+worked, to get a signed picture of him in all of his glorious action.  
+
+Games that stand out in my mind:
+
+The Half-Life demo looked sweet. They had a ton of cool scripted events going on 
+like a 
+guy trying to climb up a rope that turns out to be a monsters tongue.  He was 
+swallowed when he reached the top.  This looks like it is going to be a cool 
+game.
+
+Drakon, published by Psygnosis, looks like it is going to be cool.  It is a 3rd 
+person 
+fantasy game, but very different from Heretic. It doesnt seem to be action 
+oriented, 
+it seemed to be more geared towards an RPG.  Flying around on a dragons back 
+and using 
+it to fight was very cool to watch.  
+
+Duke Nukem Forever was running as a demo reel.  They had some cool stuff going 
+on like 
+fighting from the back of a moving truck.
+
+Trespasser is as good as the screen shots make it seem.  I didnt see any 
+gameplay, but 
+as a technology demo it looked awesome.
+
+Well if I think of anything else I will mention it later.
+
+5/11/98
+Well, someone has spilled the beans already and now as you all 
+probably know, one of our new projects is Soldier of Fortune.  
+The game is the official licensed product of the Soldier of 
+Fortune magazine, so it is going to be awesome.  Watch for more 
+information about the game, and you had better knock the dust off 
+of that assault rifle you smuggled home from Desert Storm, 
+because you are going to need it.
+
+5/7/98  B
+
+I just wanted to post to let everyone know that I have posted a 
+newer version of he Corvus Journal.  It is not a new entry, just 
+a cleaned up version of the other two entries.
+
+5/7/98
+
+Heretic II is moving along nicely towards E3.  The character has 
+a new skin and it looks pretty darn nice, although we are still 
+going to be doing more work on it to make it even better looking.  
+The software rendering is working, for the most part. It is still 
+a bit slow, but it looks pretty darn nice for running in 
+software.  The game is also now running on a V2x00 chip as well.  
+There is still some work to be done in supporting most of the 
+other 3d cards, but it looks really darn nice on the Thriller 3D. 
+I have been repeatedly impressed with these cards.  I hope that 
+more games start to support them, whether through Direct X, Open 
+GL, or their native drivers.  I have seen a few games that are 
+using Glide only, for their 3D acceleration, while this is great 
+for the frame rate of the game, they are missing a whole lot of 
+other chipsets out there that could run their game.  Anyway, 
+Heretic II is moving along nicely.
+
+Project Y and XXX are coming along through the design phase.  One 
+is nearing official announcement so keep your ears pealed.  I am 
+working on the design doc of this project currently.  When the 
+design reaches a level of stability, it will probably be 
+announced shortly thereafter.
+
+Ive been playing Might and Magic VI lately. What a great CRPG.  
+If you like CRPGs you really should give it a try.  I have been 
+addicted to it all week.  Ive also been playing Spec Ops during 
+my lunch.  This game isnt for everyone.  It is almost like a 
+flight sim, but instead of a plane, it is a simulation of Army 
+Rangers.  It is a lot of fun, just dont try to run through the 
+levels like a Quake 2 level.  I guarantee you will get 
+slaughtered doing this.
+
+Im reading Dune right now.  Yes I know, why havent I read it 
+before?  It is a long story, but Im reading it finally.  It is 
+an interesting book, but a little slow. Im also reading through 
+the new TSR game Alternity.  I am really impressed so far.  I 
+think I can say it is the best product that TSR has released in 
+several years.  Maybe the WoC buy out will really do them a lot 
+of good.
+
+4/27/98
+
+The Corvus Journal has been updated!  So enjoy.
+
+Project Y. Well you all know the story, Ill talk when we are good and 
+ready to talk.
+
+Heretic II.  There is an official Heretic II web ring now!  Very cool.  
+It is great that so many people are excited about the game. I know 
+there have been a few of you that are still worried about the 3pp, but 
+just give it time, you will come to see the error of your ways.  The 
+new character model is in and it looks pretty darn cool.  He has 
+several animations already and is well on the way to being ready for 
+E3.
+
+Did anyone see Merlin on NBC last night?  It was pretty cool.  I am 
+looking forward to seeing the rest of it tonight.  
+
+4/22/98
+
+Well, by know everyone probably already knows about the corporate 
+shuffle game that we have been playing that has resulted in the loss of 
+a couple of people.  Due to these changes I will be working on all of 
+the Raven projects as Project Administrator.  This will keep me busy to 
+say the least, but I hope that I will still be able to continue working 
+on the Corvus Journals.  My goal is to be as involved with all of the 
+projects as I have been with Heretic II.  This may not be possible, 
+even I only have so much time, but I am going to give it a shot.  I am 
+going to have a meeting with the big wigs around here and go over my 
+responsibilities to all of the teams.  This stuff will have to come 
+first, before the extra stuff.  Fear not though, if I dont have time 
+to keep the Corvus Journals coming often, I may be able to recruit some 
+help from some of the other Heretic II team members to write sections 
+of the journal and then I will just act as Editor and add my own 
+sections as often as I can.  
+
+Heretic II is moving along.  We are getting a bunch of animations in 
+for Corvus, and we are hoping that he will have a skin again, in the 
+next couple of days.  We are well on our way to 
+having a kick ass E3.
+
+I have been reading the message board at HexenWorld and am very happy 
+to see that so many people find the story in a game to be a very 
+important part of the game experience.  This has 
+been something that I have been concerned about in the past.  It seemed 
+for a while that no one cared about the story anymore.  It was all 
+about the action and then whatever crappy 
+story was tacked on after the fact was fine.  But, I am getting a 
+different take on it based 
+on what you are all talking about.  Story is no substitute for 
+gameplay, but the best games 
+all have a great story in them.  Yes, you can have a game without a 
+story, but it just isnt 
+as good of a game as it could have been.
+
+
+4/16/99
+
+Geese, I cant believe I havent updated in six days.  What the heck is 
+the matter with me?  I think my only excuse is that I have been writing 
+a lot lately and well um even I can only write so much.  As much as I 
+would like to be, I will probably never be Stephen King and pump out 
+several books a year.  Hell, I would be happy if I could just publish 
+one book, but that may happen sooner than I would expect.  As long as I 
+stay focused with my writing projects, who knows.
+
+I have been working on the cinematic scripts for Heretic II. The first 
+is finished, Im sure I will be re-writing them several times before we 
+give them to any voice actors.  I am also working on the next 
+installment of the Corvus journals.  I hope that everyone has read the 
+first one already.  Im doing an interview with Gamespot later today,so 
+you can probably expect some kind of preview on their site soon. 
+
+The project is making slow, but reasonable progress right now.  We got 
+started with a big bang, but things are settling in finally, a little 
+bit at least.
+
+Well, Ive got to go check on everyones progress.  Actually it is just 
+an excuse to not write something right now.  Are there any writers out 
+there?  You know what its like when you just cant seem to get 
+yourself to write a damn thing, no matter how hard you try.  I think 
+that sometimes I lack inspiration.  Maybe someone can give me something 
+that will inspire me.  Maybe Ill watch Blade Runner tonight, which 
+always inspires me.  If anyone has a better suggestion, please let me 
+know.
+
+4/10/98
+
+A blank page.  Nothing, in my mind, is more intimidating; yet somehow I get 
+myself to fill them everyday.  
+
+I just wanted to make a quick announcement that I am going to be on All Games 
+Network at 3 pm CT today.  They will be interviewing me on thei

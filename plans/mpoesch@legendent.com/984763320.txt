@@ -1,0 +1,40 @@
+Current Project: Unreal II, Technical Lead
+
+
+2001.03.16
+
+So... the PC Gamer cover has finally let out a bit of info... at last. :-)
+
+We had a few people from another internal team join our project last month.  Their arrival has been great for us -- helping to fill a couple holes in our team, and helping us to make progress in areas that have been unattended for far too long.  We've accumulated an awesome group of people!  I thought we had a talented bunch on Wheel of Time... but we've outdone ourselves this time around.  And the game will be that much better as a result!
+
+Just wanted to announce that we've added Sam Brown to our team.... 15 months ago!  Also... Hugh Riley has been creating awesome animations for our characters for over a year now!  If the exact reason for mentioning these guys isn't clear, then check out: 
+
+http://www.fgnonline.com/pc/news/17803.html
+
+Fortunately, I don't think anyone else was left out of the credits (as of the date of the interview).  Legend has always taken pride in ALL of the people who work on our projects, and we've always worked hard to make sure that everyone who has contributed to our projects is properly credited.  Ultimately, we'll be able to publish the "official credits" in the game and the game documentation... but, until then, I just wanted to post this errata to let Sam and Hugh know we haven't forgotten about them!
+
+
+2000.11.22
+
+We finally finished our final in-person interview yesterday.
+
+We won't be announcing anything until later next week -- once we've reviewed our options and notified all the applicants.
+
+A big thank you to everyone who has participated -- specifically, all the applicants who have put up with our rather arduous evaluation process, and all the sites that covered our announcements.
+
+
+2000.10.09
+
+The search for Unreal II game programmers is continuing to go well -- lots of talented candidates have applied.
+
+I want to focus on weapon coding for the next couple of days, so I will be procrastinating this round of evaluations until the end of the week -- there's still time to get your resume to me if you haven't applied already.
+
+We're looking for one or two top programmers with the following qualifications:
+- Demonstrated UnrealScript experience (mods, mutators, weapons, special effects, custom AI, etc.) is a must.
+- Interest in developing game-code: game-play scripting, AI, weapons, and everything game-play related is a must.
+- Experience in the game industry is a plus, but isn't required.
+- Ability to communicate effectively and work well with a team is a must.
+- Experience with C++ is a plus -- but, we will probably orient the majority of the tasks (80-90%) toward UnrealScript.
+- Must be willing to relocate to Northern Virginia -- about 30 miles west of Washington D.C.
+
+Send email with your resume and/or webpage with the subject "Resume: <your name here>" to me at mpoesch@legendent.com  (Warning: I'll immediately delete resumes that don't include the "Resume:" header -- being able to follow directions is also a requirement for the position! <g>)

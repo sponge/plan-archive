@@ -1,0 +1,88 @@
+Login: batfink        			Name: Toby Gladwell
+Directory: /home/batfink            	Shell: /bin/bash
+Never logged in.
+No mail.
+Plan:
+9/16/98
+
+Morning All !! A little update along with a cup of cawfee. Just finishing up some last things on Gruntz, mainly AI tweaks and some last Battlez thingz to make sure we have a tight game. For anyone who's wondering, Battlez is a you-vs-computer style game and differs somewhat from the single player. It has some elements of RTS's but without the usual build-everything-and-wait-and-wait-and-then-attack. Just create some gruntz and go attack someone. If it were just that simple. Hmmm, now I've run out of goo and where the hell is my goober strawz grunt ? Damn, he just got taken out by that gunhatz who gave my swordz a bloody babywalkerz...... :) All in all it's been a lot of fun working on Battlez, although I have to admit that getting beaten by your own AI is rather embarrasing... :P
+
+
+On other notes, Shogo is done and it looks AWESOME. Big Mechs, Big Guns, Big Sounds, Big Story, this game is BIG !!! Shouts out to the Shogo team for doing an incredible job.
+
+Go Gruntz !! Go Shogo !! Go Blood II !!
+
+L8R
+
+- Fink
+
+
+9/6/98
+
+All was night and nothing stirred. Except some gruntz. Lots and lots of gruntz. I see gruntz in my dreams now. Running all over the place playing around with...... Well, here we are close to the end of the project and I'm finishing up some last AI taskz and squashing dem bugz. Multiplayer/Battlez has really shone over the last few weeks and I'm sure it will be received well. 
+
+There seems to be a neverending stream of different strategies popping up in multiplayer. I'll bust down Brian with the phat Welderz/Toy combo (kudos to Kev for that one) and then finish up with my wingz move with the special fried rice. There is nothing better than hearing the low moan of 'oh no' over the speakerphone as Bri's gruntz blow themselves to bits.
+
+Doing the AI (and writing a fast pathfinder) has been a rather cool experience. The gruntz themselves have to deal with more than the regular RTS would normally have. Bridges, switches, holez and a variety of semi-puzzles make for an interesting piece of code.
+
+All of this of course would not have possible without 'wu-wah-woa-woa-wu-wah' which roughly turns out to be a cut from a low fidelity crew remix of a certain funky track out right now. :)
+
+- Fink
+
+
+4/20/98
+
+Letz see. What's been happening lately.. Well, Gruntz is coming along swimmingly with lotz of cool stuff (mental note - remember to go back to using 's' instead of 'z' at end of project..). Weather's good making for some mighty fine riding weather. Out there on the street bustin some phat knee dragging corners (straight through my jeans, skin and bone). I have to remember not to use words like 'dude', 'phat', 'fly' etc... (I'm British). I've been out here too long, it's getting a hold of me.. AGGGGHHHHHH. Anyway, I'm sure there are some readers that like stuff like Red Dwarf, pickled onions, crumpets, fags(yep - fags, try figure that one out and I'm not talking about the American version) and beer that you can't see thru... I must say tho it's nice when I hear someone yell 'bloody hell'. It makes me feel all warm and fuzzy.. Well, time to get back to work and jam to track 9 on the propellerheads CD DECKSANDDRUMSANDROCKANDROLL. Oh yes, for anyone into techno check out http://www.propellerheads.se and download Rebirth RB-338. It's a dual 303 with a drum machine. Pretty damn cool.
+
+Jolly good show chaps...
+
+Batfink
+
+
+3/8/98
+
+It's been a long time since I posted anything but there is something that I have been thinking about recently (in fact for quite a long time)... I'm wondering what it would take to have all the major 3D hardware manufacturers add a couple of simple things to their current implementations. Everyone's starting to rave and rant about how the next wave of chipsets will have geometry processing on board the chip. Great. I just wish that they would finish rasterization first. What I would love to see (and call me crazy if you like) is.... perspective correct gouraud shading. Most people have probably seen the visual artificats caused by clipping gouraud shaded polygons, it looks awful (but chipset manufacturers obviously think this is okay) not to mention those long polygons that stretch out into the distance. Why or why then does gouraud shading still suck ? How long will it be before we have a chipset that will do perspective shading ? How much effort would be needed to get people to listen ?  Is my argument petty ? well maybe but I think that there is still a considerable way to go before rasterization is taken care of.... let me know what you all think.. (batfink@lith.com)
+
+
+8/27/97
+
+           Batfink sez - lets talk muzak.. I went up to Tower
+Records last night and bought two of the best CD's that
+I've heard in a long time. They are - 'Vegas' by The Crystal
+Method (very chem's esque) and 'The Analogue Theater' by C.J. Bolland. Anyone who is remotely interested or into techno HAS to go and get these two CD's. They are quite simply AWESOME. Over the last few months (or is it years) my office has turned into the local niteclub as far as techno is concerned. Over the years I know there have been many converts here at monolith from **other music** to techno. All I need now is one of those funky spinning disco balls and I'll be good to go. Party at party@lith.com.
+
+          The formatting of my plan is probably all out of
+whack (again). Spen came in and explained it all but it
+seems like I have already forgotten. There's nothing quite
+like disjointed paragraphs and text that flies all over the 
+place.
+
+          Onto work stuff, there is some very trip stuff going on here right now like Blood II. It's looking real nice. The team
+is busting ass to create some awesome visuals and killer
+game play. Lots of other cool stuff is going on right now
+with a few new projects starting up that venture into lands
+unknown.. Who know's what lurks within the belly of the
+creature known as Monolith ?? (well, I do and a few others !!).
+
+          And so, this wraps up another edition of the Batfink editorial. Adieu to you and you..          
+
+
+8/13/97
+
+         Oh my, It looks like our little quake bet is starting to escalate somewhat. Could it end up something like this - Craig VS Thresh at the MGM Grand ?? Would thresh get so angry as to bite a chunk out of Craig's ear???? who knows....                                                                                                                                                                                     Well, amidst zooming around on my bike and getting  some sun, our *secret* project (mine and schlegel's) is crusing along. Part one of it will be done relatively shortly and released to the unsuspecting world. It's pretty late right now and crunch time is upon us. No sleep. No food. No other-stuff. Much caffeine.. In fact, the last relaxation I had was last sunday at seafair (for you non seattle-ites, seafair is a big event where zillions of boats go out on lake Washington, everyone watches the blue angels then parties like crazy). It was absolutely crazy out there on the lake, I can't actually remember how much beer we all ended up drinking but judging by the state of everyone when we got back, I think we all had fun. The day ended we only a few small accidents occuring which absolutely amazed me. We nearly ran some kid over on the water and  also accidentally wandered out into one of the hydro-plane exit lanes. The cops started shouting pretty loud.. I wonder why??                                                                                                        Played the latest build of the plasma pak tonight, -- AWESOME --, improving on  blood seemed like a tough task but once again our crack-commando squad of cool dudez and dudettes busted out the good stuff..                                                                                                                          Schlegel just wandered in and pointed me to a pretty funny story on www.ogr.com. I guess some dude killed Lord British in Ultima Online (a supposedly impossible task). You should take a look, it's pretty funny ( http://www.ogr.com ).                                                                                                                                                                    So, until we meet again, the is Batfink signing off for the night..
+
+Take care.. :)
+ 
+
+
+8/5/97
+
+My wings are like a shield of steel..... For all you folks out there who know what I'm talking about, meet me in half an hour for a few brewski's and some nostalgia.                                  Back to reality - Hello, I'm Toby Gladwell (AKA Batfink), a VP here at Monolith and one of the founders of the company. My first plan update is going to be pretty short, as it's rather late (or early depending on how you look at it). First of, I must complement the web doodz on the ease of use of the plan file system, There I was expecting to have to use a mass of html utilities to try and create something halfway ledgible and instead I get something totally easy to use. Cool.
+         I guess a brief background is in order. I'm from the UK and got into puters at an early age (been through the whole thing - Acorn, C64, Atari ST, Amiga, PC) and took up coding. My forte is in graphics (2D / 3D) which I have always had a passion for. That talent helped us (me and the other founders) get Monolith of the ground (some of you may have seen the RAGE engine demo... That was me - No flames please :). Since then (that was over 2 years ago) alot of hard work, sweat, game playing, broken bones and bottles of tabasco sauce have taken Monolith to where it is today (well maybe not the tabasco). 
+         I'm currently engaged in a project that I would love to talk about but cant (due to nda), but I can assure you that the end result will please a heck of alot of people out there! 
+        On a more social note, I must admit to having a rather large knowledge of good drinking establishments around the Seattle area (maybe this isn't a bad thing). The only thing lacking out here is a good techno club. I miss the music from the UK alot and grunge still seems to be hanging on by a hair.......
+         Well, time to move on. I will gather lots of coolness for my next plan updates - look forward to a nice debate about Direct3D and OpenGL and what exactly I think about that whole situation and maybe also debates about which is better - the Honda CBR600 F3 or the Yamaha YZF600R... :)
+
+
+
+ 

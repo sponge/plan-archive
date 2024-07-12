@@ -1,0 +1,15 @@
+User:   jason
+Read:   0
+Unread: 0
+Time:   Mon, 29 May 2000 19:38:54 -0700
+Plan:
+Our programming team has created a new technique for determining visiblity in realtime, which looks like it will be faster than BSPs and more versatile as well.  While no details can be given yet, it gives us confidence that we'll be able to gain the support of a major publisher for our game.
+
+On the art side, all geometry for the technology demo is completed, and we're in the process of texturing and lighting it.  Then we'll add objects and scripts and watch it come to life.
+
+There should be some interesting announcements coming soon....
+
+Jason McIntosh
+Ward Six Entertainment
+www.WardSix.com
+www.DawnOfDarkness.com

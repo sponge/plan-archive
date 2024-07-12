@@ -1,0 +1,6 @@
+Login: mike           			Name: Mike Wardwell
+Directory: /home/mike               	Shell: /bin/bash
+Never logged in.
+New mail received Sat Jul 24 05:18 1999 (CDT)
+     Unread since Fri Jul  9 15:55 1999 (CDT)
+No Plan.

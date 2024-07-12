@@ -1,0 +1,309 @@
+1999.04.07
+
+One of our loyal fans wrote to request that we update our plans.... so... OK:
+
+We all went to see "The Matrix" on Friday night.  TOTALLY COOL!  An absolute *must see* on the big screen with Dolby Digital.  Woooe!  I downloaded the trailer a few weeks ago, and watched it several times -- awesome work -- what's fascinating is that it didn't do anything to undermine the movie.  Often, all the good stuff is in the trailer, and when you see the movie, you realize there was nothing left.  I didn't even remember the trailer as I watched the movie...  I was totally immersed.  It was great to watch the trailer *after* seeing the movie, and realize how all the pieces fit together.  Incredible!  One of the only movies in the past couple years that I'd actually go back to the theater to see.
+
+
+
+1999.03.04
+
+Hi All!  Here's something to spread far and wide (see position description below).  We're looking to move as rapidly as possible with this position, so get your responses to Bob as quickly as possible.
+
+
+Legend has an immediate opening for a QA/Testing Manager in our Chantilly,
+VA (suburban Washington DC) office.
+
+The QA manager will be responsible for hiring and supervising two additional
+testers, with more to come in the future.  The manager will also be
+responsible for test plan development, regression testing management, unit
+test management, and requirements management.
+
+Requirements include:
+*  BS in CS or IS, or equivalent professional experience
+*  Excellent communication skills
+*  Extensive expeirence with PC games (FPS experience preferred)
+*  Formal testing experience preferred
+*  Industry experience preferred
+
+Perks:
+ *  Free soda
+ *  Play games for a living
+ *  Long hours working with a great team
+
+Please forward your resume to bbates@legendent.com
+
+
+
+1999.02.25
+
+OK.  Well, it's been a *long* day (since 2/10).  Here's the list!
+
+You Know You're Working Too Hard When:
+
+- You wake up, and resume typing the sentence that you interrupted when you fell asleep.
+
+- You feel guilty about taking your hands away from the keyboard and mouse -- to eat.
+
+- You feel like you need to stop wasting time -- any time you're away from the computer.
+
+- You hold your shaking arm out to your manager saying, "After typing continuously for 14 hours a day for the past week, I'm worried that CTS might interfere with my productivity."
+
+- Your manager calls you at work to tell you it's time to go home.
+
+- Your manager calls *his* manager to ask him to make sure you leave the office before 10:00pm.
+
+- You lie in bed at night staring at the ceiling, thinking about what you could be working on.
+
+- You look at the leaves on trees in Fall, and wonder how to optimize texture memory usage for all the colors and patterns that it would require to reproduce them in a 3D world.
+
+- When the check comes with the gratuity included in the total, you debate how, in Unreal, you might model automatic computation of the gratuity with a bAutoGratuity flag on the Actor.
+
+- You don't take time to visit the optometrist to get new contacts ...when the ones you're wearing are ten months old ...and they're disposable!
+
+- You're so tired that you don't notice that the frame rate has dropped from 40fps to 5fps due to all the changes you've made ...and, you don't notice because your tired eyes are blinking faster than the redraw.
+
+- The stack of Mountain Dew and Diet Coke cans around your desk has gotten so large that your coworkers can't find you.
+
+- You give up your plans to lobby for a 36 hour day when you realize it still wouldn't be enough if you had to factor in eating, bathing, sleep, etc.
+
+- The only time you're actually grateful for sleep is when you have a dream that helps solve a problem.
+
+- You get your daily 4 hours of sleep in 15 minute increments.
+
+- It becomes a major annoyance that coffee, soda, and high-carbohydrate junk food are not available as IVs.
+
+- This one's just for audio/dialog editors: You start to wonder how to edit out the clicks and pops you hear in your live conversations with people.
+
+- You start actually getting angry at hardware designers for not having developed a direct neural interface...which, of course leads to thoughts on designing one, which leads back to annoyance at the distraction, which leads back to...etc.
+
+- Your workstation routinely runs out of steam before you do.
+
+- You want to go to sleep, but it's time to start another day, and the rest of the house is just waking up.
+
+- You realize that the only thing keeping you awake is the cigarette that's burning it's away through your fingers.
+
+- You start talking to your computer more then to the rest of your family combined.
+
+- You go through the day thinking it's Friday, only to find out it's actually Thursday, but instead of being disappointed because you were ready for the weekend, you're thrilled that you gained an "extra" day to get more work done!
+
+- The compile finishes, but, when you open you eyes, you can't remember what you just fixed.
+
+- You get calluses on the palms of your hands from your Microsoft keyboard.
+
+- When you get in late, and you leave early, and you still spend more than 10 hours in the office.
+
+- You look out the window and see the sun on the horizon, so you get ready for bed, only to realize the sun is rising, not setting.
+
+Thanks to:
+- Thomas Clark
+- Scott Dalton
+- Andy Frazier
+- Millennium 2002
+- Ryan Ovrevik
+- James Parkman
+
+
+1999.02.10
+
+I've gone for too long without an update.  All sorts of *great* responses have come in regarding "You know you're working too hard when:" -- I just haven't had time to catch up.  ...There's bound to be irony somewhere in that statement. :)
+
+Here's my quote for today:
+"I don't understand the problem, but the solution seems to work well."
+
+I'll post the definitive "You Know You're Working Too Hard When" list tonight.
+
+
+1999.01.23 5:30pm
+
+OK.  Here's a couple new ones:
+- When you don't take time to visit the optometrist to get new contacts ...when the ones you're wearing are ten months old ...and they're disposable!
+- When you're so tired that you don't notice that the frame rate has dropped from 40fps to 5fps due to all the changes you've made ...and, you don't notice because your tired eyes are blinking faster than the redraw.
+- When the stack of Mountain Dew and Diet Coke cans around your desk has gotten so large that your coworkers can't find you.
+
+(I promise that these are all true -- I'm not making them up! )
+
+Keep the contributions coming -- maybe we can hit 20.
+
+
+1999.01.23
+
+Well, our finger server isn't working so well, but I'll spew anyway, just for the sake of posterity.  We had our weekly "Friday Night" dinner last night -- nine of us got together for dinner at the local Lone Star Steakhouse.  Standing outside in the drizzle waiting for a table, we talked about various stuff.  Several comments became the inspiration for what I'll affectionately title:
+
+Ten Things That Indicate You're Working Too Hard!
+(in no particular order)
+- When you feel guilty about taking your hands away from the keyboard and mouse -- to eat.
+- When you feel like you need to stop wasting time -- any time you're away from the computer.
+- When you hold your shaking arm out to your manager saying, "After typing continuously for 14 hours a day for the past week, I'm worried that CTS might interfere with my productivity."
+- When your manager calls you at work to tell you it's time to go home.
+- When your manager calls his manager to ask him to make sure you leave the office before 10:00pm.
+- When you lie in bed at night staring at the ceiling, thinking about what you could be working on.
+- When you look at the leaves on trees in Fall, and wonder how to optimize texture memory usage for all the colors and patterns that it would require to reproduce them in a 3D world.
+- When the check comes with the gratuity included in the total, you debate how, in Unreal, you might model automatic computation of the gratuity with a bAutoGratuity flag on the Actor.
+
+OK.  I guess it must not be that bad, I ran out of inspiration before I hit ten. ;)
+
+If you have experiences that lead to quotes like these, send them to me at mpoesch@legendent.com -- maybe we can finish the list.
+
+
+1999.01.08
+
+Yikes!  Over a month since the last update.  I guess it's been a busy month again.
+
+We're just about ready to switch over to 220 -- this merge has gone *really* smoothly.  I think I've finally got this down to a science.  (Knock on wood!)  With luck, Tim will be able to get the Legend-specific editor mods into the 221 or 222 release.  Keep your fingers crossed.
+
+By now, you've probably read somewhere else that we've been acquired by GT.  This should be really cool for everyone -- gamers, Legend, and GT alike.  Moving into our new office (an event that is completely unrelated to the acquisition), and losing our T1 line for a couple weeks have been a bigger shock than the transition in ownership! ;)  All the folks we're working with at GT are cool, and have treated Legend's employees with the greatest respect.  A pleasant change from past experiences with this sort of thing.
+
+As Glen mentioned, we're moving rapidly toward our Alpha target, so the pace is increasing further.  Fortunately, I've been able to delegate many of my technical tasks, and a few of my management responsibilities to other guys on the technical crew (Jim and Ryan).  This has really helped me to improve my focus on managing the technical team, and doing a few things well, instead of doing a crappy job on lots of stuff. ;)  Unfortunately, this means that I'm spending more and more of my life "managing" the team, and less and less doing the cool technical stuff.  Hmmmmm.  We're gonna have to work on our approach to future projects.
+
+The good news is that with the addition of Jess and David and Matthias, we've got a huge group of *REALLY* talented people.  With such rapid growth over the last eight months, it's been a bumpy ride, but we're improving communication throughout the company every day, and building an increasingly solid team.  It's really cool to like *all* the people through the company as co-workers, AND friends. :)
+
+For all you bouncing off of mpoesch@pdc.legendent.com, you can try mpoesch@legendent.com -- if I don't respond right away, don't take it personally, things are getting more and more hectic.  My bandwidth consumption is running at about 110% of capacity.
+
+
+
+1998.12.07
+
+How time flies... I actually escaped work long enough to enjoy Thanksgiving.  Watched a bunch of videos, played a few games... not Half-Life.  It's on my Christmas list. ;)
+
+Here's a blast from the past:
+
+Duane was leafing through his piles of paper and came across one that dates back to 1990.  Imagine the era if you can: 5.25" floppies... ever seen one?   How about one that only holds 360K!  So, the paper he found shows the disk budget for our first game, Spellcasting 101.  We had six 5.25" floppies, with 360K each.  That's right!  We ended up with a whopping 2,082,139 bytes for the ENTIRE game.  Oh... that included both color (EGA 640x350) graphics and black&white (CGA 640x200).  Without the CGA graphics, the whole game would fit onto a single high density 3.5" disk. :)
+
+As I said... how time flies!
+
+
+
+1998.11.25
+
+Ahhh.... time to take a break: eat turkey, code a little, hang out, code a little....  OK.  So, I'm not really going to take a break -- I'll probably work 20+ hours on Friday.  But, to misquote (probably) one of the other Unreal licensees (sorry, I can't remember who off hand), "Hey!  I'm not a workaholic.  I'm a hedonist with a fun job!"
+
+Yes.  It's getting fun again.  Cool mods to the engine and editor, cool features in the game, life getting back to "normal" -- only 60 hours/week.   Working at home makes it OK/fun/easy to work long hours.
+
+Once I get the latest stuff *fully* operational, maybe I'll send Glen a screenshot to post in his weekly update.  For now, I'll have to keep quiet. ;)
+
+Happy Thanksgiving!
+
+
+
+1998.11.19
+
+Hey Christina.  I tried to respond to your email to Glen, but your address is bouncing.  If you're still interested, you can contact me at mpoesch@legendent.com
+
+For everyone else: I handle Legend's recruiting for technical staff.  We're not actively hiring, but if you think you've got what it takes to build great games using the Unreal engine, I'd like to hear from you -- at least until my email box explodes.  I'm totally overloaded, so I may not be able to get back to you for a while.
+
+
+
+1998.11.10
+
+Scott summed it up:
+"Family, friends, and all trappings of your former life must be left behind, for this holy quest is something on which they cannot accompany you. With your new family, you must become one with your mission, for it is all that can save you from damnation."
+
+What a cool quote!  Somehow, I just don't see DeMarco and Lister shouting, "Way to go!  You guys really know how to manage!" ...on the other hand, the fact that we're all taking a certain glee in the insanity of our schedule must be a sign that our team dynamics aren't all bad.  (If you don't recognize DeMarco and Lister, check out the book "PeopleWare" -- it's a great book about managing software development teams.  But, I get the feeling they weren't writing about game development!)
+
+In the final three months of the Mission Critical schedule, all five members of the technical team were working 100+ hour weeks.  I "won" the company record with a week of more than 124.5 hours and a "day" that lasted more than 36 hours.  (Although, I think our level design team routinely breaks that record these days!)  In any case, when we put the finishing touches on the product, I swore several times that I'd *NEVER* repeat that schedule.
+
+We're working to strike a balance between the enthusiasm and drive that make a great game, and the long hours that cut into productivity and kill the team.  When Ryan reports that he watched the sun rise from his office -- twice in a row -- I figure we have a bit more balancing to do.  But, it's exciting to be working with such a dedicated and enthusiastic group of people!
+
+
+
+1998.10.16
+
+Got LOD actor mesh lighting operational in 2.5 hours flat last night. :)
+
+It's really cool to be able to add things like this so easily.  Here are some of the goodies we have:
+- LOD actor mesh lighting
+- SunLights (lights with 10x the normal radius -- great for outdoor environments)
+- Lens Flares (not to be mistaken with Coronas)
+- New BSP optimization code (with enhanced Portal bias)
+- Support for Quake-style climbable textures (prototype)
+- Multiple/dynamic skybox rendering
+- Zone-specific player footstep sounds (prototype for another project)
+- per-Zone occlusion and rendering
+
+Editor features included in 165 build of UnrealEd:
+- Vertex editing
+- Brush/actor selection using via bounding region (the default brush)
+- Brush/actor selection via group name with support for hierarchical semantics
+- Invert brush/actor selection state
+- Render filtering: depth clipping (wireframe only)
+- Render filtering: selected brushes (wireframe only)
+- Render filtering: off
+- Replace selected geometry with default brush
+- Replace selected actors with current class
+
+Editor features included in 216 build of UnrealEd:
+- Vertex editing transformations corrected (scale, rotation, and location)
+- Vertex editing grid-snapping improved (but still kinda flaky)
+- Stretch, scaling, skewing for selected brush(es)
+- "Transform | Transform permanently" fully implemented to transform all selected brushes (to recompute vertex locations and remove scale, rotation, and skew factors)
+- "Reset | Reset Pivot" for all selected brushes
+- New icon for SnapStretch (formerly SnapScale)
+- AUDIO IMPORT updates to make "Name=" parameter optional
+- FONT IMPORT updates to make "Name=" parameter optional
+- UnVisi.cpp code modified to move all regions without ZoneInfo actors to Zone 63.
+
+Editor/editing features not in Tim's build:
+- Hardware TexMem metrics (kbytes per frame)
+- Texture specific flat shading in polygon mode (for texture mapping debugging)
+- Player test light to force lightmap recomputation (and updated metrics)
+- Align vertices to grid for selected brushes
+- Scale and stretch selected brushes relative to a common origin
+
+Special thanks to Tim Sweeney for building a solid software architecture that made adding these enhancements so simple!
+
+
+Hey, check it out!  BitchX finally posted my reply to Mike Dussault -- http://www.gaminginsider.com/
+
+
+1998.10.13
+
+Checking out the Dm3-Unreal.zip mod, I ended up at a site that wasn't exactly
+related to Unreal.  I was reminded of one of my favorite quotes:
+
+>...
+>My favorite [hardware] ads are the ones that feature "videoconferencing."  
+>Stop! You're killing me!  I'd bet that for every executive who actually 
+>uses that stuff for corporate meetings, there are thousands of guys out 
+>there tugging themselves blind.
+>...
+
+- Alex St. John.  boot magazine Jul/Aug 98
+
+
+1998.10.8
+
+I took a minute to check out Dune 2000 on Saturday.  Great ambient music, and cool video -- as usual (I'm a real fan of Westwood's work).  The Dune2 experience brought into the C&C-style engine is a great combination.
+
+The one thing that left me nonplused was the style (or lack thereof) of the fonts.  I'd be curious to get the inside scoop on why they didn't spend more time on them.  Looking at the interfaces for Red Alert, and now Dune 2000, I've wondered if they used custom controls in MFC.  From Dave Theilan's presentations at the '96 and '97 Game Developer Conferences, it sounded like a pain in the ass to get them to work completely.  Even Enemy Nations (Dave's '97 release) suffered from a few lingering custom control bugs.
+
+So... I took a look through the Westwood catalog.  Now they have audio CDs for C&C and Red Alert.  :)  In case you haven't heard, I love all kinds of music (pop, rock, classical, movie soundtracks, game soundtracks, and more).  Jason (our GT Producer) got our team Unreal audio CDs.... although he was bummed the last time Ryan and I were out at Epic's office to talk with Tim.  He looked on in chagrin as Tim and Craig loaded us up with all sorts of Unreal goodies.  "How am I supposed to compete with this?" he asked in a pained voice.  I consoled Jason by dropping our latest project plan on him -- another 400 hours added to my task list. ;)  Fortunately, things are looking much better this week -- only about 1850 hours to go!  Although I love collecting (and playing) game CDs, they kill my productivity.  Audio CDs, on the other hand, are great for keeping me focused late into the night.  Hint-hint. 
+
+New CDs:
+Natalie Imbruglia, Left of the Middle
+Sarah McLachlan, fumbling towards ecstasy
+Nirvana, Nevermind
+Faith Hill, Faith
+ 
+I also want Sheryl Crow, and Shania Twain's new CDs.  hmmm.  Is there a pattern here? :)
+
+Movies watched:
+Born Yesterday
+Single White Female
+Double Team (hey, give me a break, I was working while I "watched" it.  )
+Awakenings
+Event Horizon
+U.S. Marshals
+
+Robin Williams is incredible.  I really hope that "What Dreams May Come" is as great as it looks.  I loved the his performance in "Good Will Hunting." (and everything else he's done so far!) ...I'm hearing "not so good" things about "What Dreams May Come".  Hmmmmmmm. :(
+
+Books read:
+Yeah right.
+
+
+P.S. Thanks to The Hound for trying to let people know our AI hiring campaign was over.  The deluge has calmed again...  if you emailed Glen (or me), and I haven't gotten back to you.  Sorry.  I should be able to respond to the emails within the next two weeks.
+
+
+1998.10.6
+
+I'll sec

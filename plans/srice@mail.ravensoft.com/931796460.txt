@@ -1,0 +1,50 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Scott Rice
+Email: srice@mail.ravensoft.com
+Description: Lead Artist
+Project: SoF
+Last Updated: 07/12/1999 13:13:49 (Central Standard Time)
+-------------------------------------------------------------------------------
+We on the SoF team are very excited by E3's response to the game.  It has been nearly a year that we've been busting our butts on the
+project, so the positive reaction feels great.  I'd like to thank some people in the art dept. for their contribution to the demo:  senior 
+animator Eric Turman for his technical innovations and animation skills that made the quality and quantity of anims possible, Jarrod 
+Showers for his huge contribution to the enemy animations and his brilliant animation of the weapons, Joe Koberstein for his 
+understanding of the GHOUL rendering system and fantastic gore effects, Gina Garren and Kevin Long for their unmatched texture and
+skin painting, Bobby Duncanson for his destroyable object models, and everyone else who contributed to Soldier of Fortune's success
+at E3.  I'd also like to thank all the programmers and designers on the project who have been the best teammates I've ever worked
+ with on a game.
+
+Here is an exerpt from a memo regarding SOF animation I sent out awhile ago.  Some people might find it interesting. . .
+
+The motion capture session in LA happened around Sept. 15.  I directed the shoot with Eric Turman's help.  It took a month and a half for
+ Eric and House of Moves to perfect a system that allowed us full control of the motion capture.  This was imperative because, in games, 
+the animation has to work together in real time--there is no cutting to hide the fact that anims dont match up like there is in movies and 
+animated cinematic sequences.  We have to be able to manipulate the motion capture. . .
+
+1)	to eliminate popping due to changes in body position
+2)	to exaggerate the movement so that it looks dynamic on a simple model and from distances
+3)	to fix the problems that occur when you go from 60 Hz to a 10 Hz (our game speed)
+
+Eric Turman's accomplishment of allowing "fully tweakable motion capture" was unprecedented according to House of Moves who 
+works with premier effects houses like Digital Domain, ILM, etc.   It took awhile to get working, but it was worth it!   I always say, even if we do 
+80% of what we planned on this game, it will still be light years ahead of what we have seen in first person shooters to date.
+
+Just wanted to congratulate Gil Gribb, Eric Turman and others on perfecting an animation work flow that is so streamlined that we have
+nearly all of the enemy animations complete for the entire game!  (and we are months away from release!)  We have applied roughly 
+420 animations to our models.  One of our animators (Jarrod Showers) applies as many as 6 per day!  Congratulations, guys.  Now
+we have extra time to spend on the vast cinematics for the game as well as perfecting the non-human enemies.
+
+I haven't updated my finger in awhile.  We've been so busy on SoF.  Everything is coming along great.  The art for the game is nearly 
+complete!
+
+Unfortunately, I must announce my departure from Raven come August 1st.  I've decided to pursue my film career in Austin, Texas.
+This will in no way hurt Soldier of Fortune as our art alpha date is August 1st.  Almost all of our work, barring tweaks, will
+be done by that date.  I want to say that the Soldier of Fortune team is the best group of people I've ever had the privilege of working 
+with.  I will miss Raven very much.  I also want to thank the guys at House of Moves, our motion capture house in L.A., who were a 
+joy to work with as well.
+
+Joe Koberstein, a tremendous leader in the art department, will take over my responsibilities for the last weeks of the project.  Eric
+Turman will continue his outstanding work as Senior Animator.  As work dwindles, most everyone else will move on to Star Trek.  
+
+Keep your eye on Soldier of Fortune, everyone.  I think the industry is in for a nice surprise come October!

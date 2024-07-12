@@ -1,0 +1,38 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Dave Kirsch
+Email: zoid@idsoftware.com
+Description: Ports
+Project: 
+Last Updated: 06/03/1999 20:19:49 (Central Standard Time)
+-------------------------------------------------------------------------------
+Jun 03/99
+
+Recent changes I've been making:
+
+- New vmsg and vmsg_team client to server and server to client command.  
+This is the same as say and say_team, except it takes the name of a sound 
+file to play along with the message.
+- Major additions to the client menu system for new team messaging menus 
+for pre-recorded model sayings.  The menu system stuffs vmsg commands to 
+perform its work.
+- Fixed it so that a player is only killed when switching teams, not 
+to/from spectator mode.
+- CTF team spawn points are in, team_CTF_redplayer and team_CTF_blueplayer.  
+They are only used at game start, subsequent spawns are in deathmatch 
+starts.  Plans to have team only bits on dm starts as well?
+- Added two new system functions, Sys_DefaultCDPath() and 
+Sys_DefaultBasePath().  These establish the default base and cd path 
+directories.  Under Windows, they are both set to current dir by default.  
+In Unix, they are set to argv[0]'s path and $HOME/.q3a/ 
+respectively.  This allows storing the q3config.cfg in $HOME/.q3a/baseq3 
+under Unix for per-user execution and settings.
+- If a double signal fault occurs in Linux, exit immediately.
+- stubs for Linux SMP.  
+- Reworked the Linux sound drivers based on recommendations by the 4Front 
+guys.  Added support for 48KHz output and reorganized the sound driver 
+setup and initialization sequence.
+- added NET_Sleep(msec) call in server code to allow proper CPU throttling.  
+Wakes up on packet or stdin under Unix.
+
+/// Zoid.

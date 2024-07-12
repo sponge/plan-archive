@@ -1,0 +1,80 @@
+
+*** Monolith Production's Finger Server
+
+User name: karen
+Plan modified: Tue Jan 26 12:31:12 1999
+
+1/26/99
+Whenever you see a bunch of Lith plan files updated in a very short period of time, it means that our PR guy has reminded us that we've been deglecting our fans and he makes us all feel really guilty.
+
+So, in an effort to relieve myself of this burden of guilt, it's time to post something new.
+
+As I'm certain most of you know, we are working on a Patch for Blood II.  Now, we've heard all the remarks about why the game was released with multiplayer in it's current state in the first place, and we've heard many comments about the number of bugs and such.  All I can say is that if you were walking in our shoes at the time, you'd have made the same decisions we did.  Your comments are still valuable to us as they do go into the mix of information the next time we are in a pressure situation.
+
+The patch is going to be great.  We know it had been promised before the holidays, but this patch (about 10mg)is jam packed with stuff, including some new multiplay levels for CTF.  I believe we're coming down to the final days of testing, so keep watching for it.
+
+The Add-on pack is coming along well.  I understand that GT is planning an early spring release, so folks don't have to wait too long.  The levels for the additional episode are nearly done.  We just need our engineers to get some time to work on the code to add the AI, weapons, creatures, and multiplay features.  
+
+Guess that's about it.  The Holidays were wonderful.  It was a good opportunity for the Blood 2 and Shogo teams to catch up with families, friends, and sleep for more than four hours in a row.  We have a New Years resolution.  Everything will ship on time, and there won't be need for patches!  
+
+Cheers.11/1/98
+Yikes! has it been that long since I updated a plan file. 
+
+Blood II is looking great.  The demo was released last Friday night.  I haven't a clue on the download numbers, but I know GT was working their tail ends off to ensure a good deal of hype for us.
+
+At this point, the game is nearly ready to call Gold.  We can't hardly wait. We have heard a good deal of feedback from all you folks about our late release.  The truth is, the world ain't perfect, things just don't always come together as we'd all planned, and we're just working really, really hard at not missing the release date by too much.  
+
+The Blood II team is truly working endless hours to put the last touches on the product.  GT Interactive has been working endless hours to provide us with a good deal of support, feedback, and test results.  Together, with GT, we'll decide exactly when Blood II is ready togo.  In the meantime, every build that hits QA is one step closer.  And, the upside in all this is, until we ship, the team is eating really well . . . thanks Rick!
+
+
+
+
+7/6/98
+Well, I got a nasty message this morning about my lack of attention to my plan file, so it must be time for an update.
+
+Right now, the Blood 2 team is hard at work adding all kinds of cool, fun stuff to the game.  GT's marketing effort is gearing up.  Should start to see the media hype build.
+
+Our Web doodz have scraped together some moments to participate with Microsoft and their Chrome technology.  Spencer has developed a really cool demo using Shogo material.  If you're at Siggraph, you'll have to check it out.
+
+Also continuing progress on a project yet to be named.  Guess all I can say is that good progress is being made. Hopefully, we'll have more on this one pretty soon.
+
+Hope y'all had a great Independence holiday.  And, hope ya didn't lose any fingers to firecrackers.  Seattle had a rainy fourth, and wouldn't you know it, now that the holiday is past, it's sunshining.
+
+
+
+5/28/98
+Wow, is it ever quiet around here.  Feels like a majority of the company shipped off to Atlanta for E3. Actually, I think that everyone worked so hard in preparation for E3 that those who didn't actually go are home recuperating/sleeping.  A good portion of the Blood 2 team has gone to Atlanta.  The GT Interactive and Monolith booths should be swarming with Blood 2 folks.  Participating in shows like E3 is exciting, fun, and necessary, but it's also hard, exhausting work.  Three days in a high energy, extremely visually stimulating environment can tend to make almost anyone crawl into a quiet corner.  
+I was privileged to go last year.  This year I volunteered to not go.  I'm not fond of flying, and feel it more beneficial for others to take part in this event.  Next year, the show will be on the west coast (not as far to fly)so maybe I'll get the opportunity to go again.
+Blood 2 is coming along so well.  We still have a good deal of work to do before it's released in the fall.  It is so cool to see all the pieces come together, and the levels actually play like a game and interact with you. I'm really anxious to hear the responses on the demo coming back from E3.  We sent two very awesome levels that Bill V. created.  
+Because I'm involved with Blood 2, that's mostly what I think about, but Monolith Productions, for the first time, has our very own booth at E3.  We're showing Shogo: Mobile Armor Division (formerly Riot), Get Medieval, and some other Monolith titles which are still in production.  So watch for the excitement to continue building on each of those products.  Our marketing folks have been burning the candle at both ends to insure E3 will be a great experience for Monolith.  It's going to be pretty exciting around here in the fall when three games hit the retail shelves nearly simultaneously. 
+That's all for now.  Back to work for me.
+
+
+
+5/20/98
+Wow, our plan files read like a movie critic's column.  Yes, we did see Godzilla this morning.  It was entertaining, but did appear to be a ripoff of other flicks already named.  The storylines were weak, and it was too predictable. 
+
+Everyone at Monolith is focused on one goal these days.  E3!!  It's going to be exciting with the great products we'll be showing; Blood 2: The Chosen, Shogo (formerly Riot), Get Medieval, and Gruntz.  It's a pretty exciting lineup.
+
+The Blood 2 team is working feverishly to make this game awesome.  Their dedication to quality is admirable to say the least.  The demo to be shown at E3 will be a testimony to their hard work.  For a game that is definitely "work in progress" the demo shows off some great features, and gives a player a teaser of the thrill and horror coming this fall.  We are already hearing the excitement build at GT.
+
+And, if releasing four games this year doesn't create enough activity in the halls of Monolith.  We are ramping up production of a new title, yet to be announced.  Planned release is early 2000.  So far, so good. The team is getting all the wheels in motion and we should have a good prototype demo going within the next few weeks.  This game is going to be totally different.  But, you'll just have to wait to learn more.
+
+
+4/28/98
+Whew!! One more milestone down, and only several more to go until Blood 2 release in the Fall.  The team is so dedicated as putting their best into every detail on this game.  It is truly going to be an awesome experience.  
+
+Have you visited the Blood 2 web site yet, or recently?  You better.  Jay is showing you all inside the hallows of Monolith, and into the abodes of many of the talented team members.  Be sure and keep watching the site as it will be updated weekly by various Blood 2 team members.
+
+And, we've got a whole team poised and ready to start production of a magnificent title for '99.  Only problem is, we have so many great game ideas, we don't know which one to do first.  We should know by tomorrow, and production will start immediately.  Should be exciting to watch, as usual.
+
+
+
+
+4/21/98
+Well, I'm just back from a wonderful week of vacation.  Actually, I had surgery for Carpal Tunnel on one wrist, so I spent a good deal of time doing absolutely nothing, with one hand suspended in the air.  Means my spouse and kids had to do everything.  I could get used to this.  It also means I type with only one hand for awhile.  Bad for productivity.
+
+Got another milestone for Blood 2 approaching on Friday.  The game features are coming along pretty quickly at this point.  We're pretty excited about the smashing new web site for the product.  If you haven't checked it out, you better do it soon, and often.
+
+Just getting another new project started.  Targeted for early '99.  We're in that scheduling stage where we put down all the cool stuff, then figure out how long it's going to take to develop, and how much it's gonna cost.  All the stuff nobody likes to think about because it tends to put a damper on creativity.  Oh well, we'll get through it, and quickly I hope, so we can be on the road to another great Monolith product.
+

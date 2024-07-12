@@ -1,0 +1,11 @@
+Login: richf          			Name: Richard Fleider
+Directory: /usr/users/richf         	Shell: /usr/local/bin/tcsh
+Last login Sat Jul 15 18:05 (CDT) on ttyp0 from amd3
+No Mail.
+Mail forwarded to: "|exec /usr/local/bin/procmail"
+Plan:
+11/01/00
+
+I just wanted to take a quick break from playtesting to wish everyone a happy Dia de Los Muertos! If this holiday doesn't ring a bell, in English it's called the Day of the Dead (no not the George Romero movie). It is a centuries-old Mexican tradition of communing with the spirits of loved ones marked by offering music, food, and drink to welcome back the departed every November first and second. It's not really as creepy as it may sound and several of the celebrations erupt into full-tilt parties in a very life affirming gesture. Grab a candy skull or two and have some pan de muerto and pulque with your great-great-great-grandparents!
+
+Next post: HUMOR PLAGUE: Stop sending me that damn puking Jack-o-lantern picture!

@@ -1,0 +1,73 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Todd Hollenshead
+Email: 
+Description: CEO
+Project: 
+Last Updated: 08/12/2002 14:28:48 (Central Standard Time)
+-------------------------------------------------------------------------------
+8/12/2002
+
+QuakeCon 2002 is almost upon us!  They've actually already begun setting up
+in what we affectionately call "The QuakeCon Hotel" (aka Mesquite Hampton Inn).
+This year's event promises to be the best one yet.  With help from ATI, we've got
+$100,000 up for grabs in the Wolf and Quake III tournaments, VIA is throwing all
+manner of parties and is hosting a Q3 Trick Jump competition (really looking forward
+to that one myself), and there will be tons of new Activision games on display, 
+including all of the new RTCW games and Enemy Territory.
+
+We'll kick off the party on Thursday with a bar-b-que lunch, where it looks like 
+much wildness will be on display with the body and car painting contests.  John will
+be giving the official keynote on Friday afternoon.  You definitely won't want to 
+miss that.  Tournament finals and celebration (complete with cheap booze and a live 
+band - you have to be 21 for the cheap booze part) happens Saturday night
+
+And, of course, there will be DOOM III.  And not just a little bit of DOOM III, but
+the whole E3 theater with a brand-spanking-new-never-before-publicly-shown
+presentation.  You might think of it as being an extended play version of the 
+"Best of Show" E3 presentation.  Sorry, no cameras, so you'll have to come and see
+it in person.
+
+We've closed the online registration, but we'll have first-come-first-serve registration
+at the QuakeCon Hotel.  Admission is free, but we're expecting our biggest crowd
+ever, so we can't promise admission or slots in the BYOC area to those who didn't 
+pre-register.
+
+There are more details available at http://www.quakecon.org
+
+Along with everyone at id, I look forward to seeing everyone later this week.
+It's going to be fun =)
+
+7/8/2002
+
+RTCW Game of The Year Edition for the budget minded shopper: $34.99 this
+week at Circuit City according to yesterday's circular ad.  If you missed
+out on the blitzkrieg last fall, here's your chance to pick up a copy of the
+game on the cheap with lots of extras.  More info on the content can be found
+in the press release here: 
+
+http://www.idsoftware.com/business/home/press/index.php?date=20020626120000
+
+4/30/2002
+
+Good stuff for RTCW fans:
+
+http://www.planetwolfenstein.com/features/dearhelga/dearhelga_02-04-26.shtml
+
+3/4/2002
+
+Congratulations to our RTCW partners Gray Matter and Nerve on the Academy of
+Interactive Arts and Sciences awards for Best Online Game and Computer Action/
+Adventure Game of the Year for Return to Castle Wolfenstein!
+
+12/22/2001
+
+I've had a few questions about the price of private Quake II engine licensing
+now that we have released the source under the GPL.  We're doing the same 
+thing with Quake II that we did with the Quake engine and reducing the price 
+to a flat $10,000 if you want to keep your source code proprietary.  You're not
+required to pay the fee if you abide by the GPL, of course.  But some people
+have been interested in maintaining their own source and not releasing it, so
+we offer this option as an alternative.  The technology licensing page on our 
+website will be updated to reflect this after the start of the new year.
+

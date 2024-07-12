@@ -1,0 +1,56 @@
+Login: pmagrude       			Name: Patrick Magruder
+Directory: /usr/users/pmagrude      	Shell: /usr/local/bin/tcsh
+Last login Wed Sep  1 16:17 (CDT) on ttyp0 from fireball
+New mail received Wed Sep  1 19:18 1999 (CDT)
+     Unread since Wed Sep  1 19:18 1999 (CDT)
+Mail forwarded to: "|exec /usr/local/bin/procmail"
+Plan:
+#include "stddisclaimer.h"
+9/1/1999
+
+Carmack's .plan update mentioning perl got me to thinking about perl and how
+frequently it's overlooked ..
+
+Almost as a general rule, if I'm dealing with text, I use perl whenever
+possible .. it's so much easier than most other languages it's silly.
+I've used perl for everything from scanning C++ code to build object 
+heirarchy diagrams to automatically generating web pages and handling forms
+data.  It's just amazing what's packed in that language.
+
+Besides, any language where the following line of code actually works and 
+makes sense is just plain cool in my book.  This is lifted from some code
+I wrote a while back .. actual code, not made to look nasty.  We all know
+how nasty things can really get if you want them to (seen obfuscated C
+contest entries, anyone?)
+
+$fname =~ /^(.*[\/\\:])?([\s\w-!@#$^&*]+)\.(\w+)$/;
+
+No, your net connection didn't just barf out random characters .. 
+
+Now, I'm sure some perl nut out there will read the above, figure out what
+I'm actually doing with it, and send me a note on how I could have done it 
+better .. 
+
+
+8/23/1999
+
+Well, I have a question for you web designer types out there.  Is there a way to force a page to appear in a frameset of my choosing?  Let me rephrase this .. I know there is a way.  What is the "best" way to do it?  
+
+What I'm looking for is to:
+ 1) blow away any current frameset (frames within frames looks really bad)
+ 2) add my own frameset
+
+What I'm looking for is the ability to point people at subpages on our webpage, yet keep the navigation frame at the bottom, even if they linked in directly to the subpage.  Right now, the frame only shows up when you go to our "main" page .. which, of course, is really the frame definition html file.
+
+If someone out there has the relevant javascript/html chuck, please send it to me.
+
+Thanks!
+
+8/13/99
+It's Friday, the 13th.  How appropriate.
+
+Lots of cool new stuff from Rogue .. but hey, that's what we do.  You gotta check out our website at http://www.rogue-ent.com, featuring a complete makeover.  Hats off to Won, who did virtually all of the Art .. even though I did the HTML, it's just text without that excellent imagery!
+
+As to the Alice stuff, well, just wait and see.  Make sure to check out Electronic Art's site at http://alice.ea.com.
+
+Have a good one!

@@ -1,0 +1,11 @@
+Login: robs           			Name: Robert Selitto
+Directory: /usr/users/robs          	Shell: /usr/local/bin/tcsh
+Last login Sat May 15 15:32 (CDT) on ttyp0 from dunga
+No Mail.
+Mail forwarded to: "|exec /usr/local/bin/procmail"
+Plan:
+
+
+5/15/99
+
+		Doh! the contest is already over. My timing sucks!

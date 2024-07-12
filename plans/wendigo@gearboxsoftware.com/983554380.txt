@@ -1,0 +1,8 @@
+Login: wendigo        			Name: Brian Hess
+Directory: /home/wendigo            	Shell: /bin/bash
+Last login Wed Feb 28 23:16 (CST) on pts/1 from t3-b-static-113.adsl.directlink.net
+Mail last read Thu Feb 15 14:16 2001 (CST)
+Project:
+HLPS2
+Plan:
+".plan files are so 1998."  -- Mike Wardwell

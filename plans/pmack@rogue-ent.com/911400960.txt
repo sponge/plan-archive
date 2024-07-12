@@ -1,0 +1,35 @@
+Login: pmack          			Name: Peter Mack
+Directory: /usr/users/pmack         	Shell: /usr/local/bin/tcsh
+Last login Wed Nov 18 10:21 (CST) on ttyp0 from dos_pete
+New mail received Wed Nov 18 10:55 1998 (CST)
+     Unread since Wed Nov 18 10:55 1998 (CST)
+Mail forwarded to: "|exec /usr/local/bin/procmail"
+Plan:
+November 18, 1998
+
+Time for the semiannual plan update again?
+
+A few items to talk about. First, the next update of
+Radiant should rock your world. I swear I saw
+something moving in there...
+
+Second, to complement Pat's update of the other day, you 
+might want to try running the Xatrix (Q2 MP1) maps under Rogue
+deathmatch.  We don't incorporate the Xatrix weapons and 
+powerups, but we do automatically replace them with Ground 
+Zero toys. Try it out and you'll find spheres, proximity
+mines, the ETF Rifle and the Plasma beam waiting for
+you.
+
+This is not a supported feature.
+
+To run the Xatrix stuff under Ground Zero, copy their
+pak0.pak file from \quake2\xatrix to \quake2\baseq2 and
+rename it pak3.pak or some other unused number. Then
+just run it like this:
+
+quake2 +set game rogue +map xdm2
+
+Enjoy...
+
+BTW, the Star Wars Episode 1 trailer kicks ass.

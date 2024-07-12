@@ -1,0 +1,14 @@
+Login: jimm           			Name: Jim Molinets
+Directory: /usr/users/jimm          	Shell: /usr/local/bin/tcsh
+Last login Thu Nov  9 01:57 (CST) on ttyp0 from galleon
+No Mail.
+Mail forwarded to: "|exec /usr/local/bin/procmail"
+Plan:
+Disclaimer:  The opinions expressed here are not the views of Rogue 
+Entertainment Inc, just those of the author.
+
+11-9-00
+
+Bronze.
+
+

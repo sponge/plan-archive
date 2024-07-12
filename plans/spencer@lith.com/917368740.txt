@@ -1,0 +1,164 @@
+
+*** Monolith Production's Finger Server
+
+User name: spencer
+Plan modified: Tue Jan 26 10:34:54 1999
+
+1/26/99
+
+Wow long time no type.
+
+Anyways, just wanted to say that this game I am working on is going to rock!
+
+The levels are slick. Goodbye to fantasy and gothic, hello real world. When you see the levels in this game you are gonna totally like them. There is a lot of attention to detail (note that my spelling does not reflect the design of maps or other level_design ers abilities. hehe)
+
+Also wanted to say I have been working like mad. The change from Quake2 to LithTech was quite odd but I think I have got the general bit of it down as far as making geometry and how the lighting works. 
+
+I still dont know all the good stuff but I learn more and more every day and I hope to share the knowledge I recieve with you guys once I get a chance.
+
+Any ways, I think that is all I got to say for today.
+
+Hope to be back soon,
+
+Until next time, CYA!
+
+-Wolfen
+
+
+
+12/31/98
+
+HAPPY NEW YEARS TO YOU ALL. I hope you all have/had (depends on when you read this hehe) a good new years.
+
+Im working on a little side project for all them level editors of the lith tech engine. I think it will be a good thing for you guys once it gets going.
+
+The current project Im on here is rolling along good. Player model is coming to play woohoo hehe. Levels are looking killer. I mean come one, we got people from Shogo on the team so of course levels will kick bootie. They have a lot more time then they did with Shogo so it should be cool.
+
+Take it easy all, and untill next year. CYA!
+
+-Wolfen12/29/98
+
+Hey guys!
+
+Two things,
+
+First. I wanted to say good job to the guys at Planet Shogo for there nice downloadable Shogo editing docs. Kick ass guys. (thats www.planetshogo.com to those who dont know)
+
+Second. I am not sure if anyone knows how to do this but I have not seen it yet anywhere, and that is how to make a see though or transparent brush or catwalk if you will.
+
+First you need to make the brush that you want to be the transparent brush/catwalk/grill (get the idea? hehe)
+
+Then you need to keep that brush selected. Then right click in one of the views and select "bind to object".
+
+From there just select door. Nothing else just door. Then click ok or close or whatever that button is.
+
+Next, you want to texture the brush with a special texture thats all black and meant to be transparant. I cant remember which one for shogo was all black or meant to be all trans but i think its in the root texture list.
+
+Then you need to find the grate textures that you can use. Dont remember that one either, i know its there though (sorry working with a new tex set heh) and you place this grate texture as the face of the brush he will be walking on, usually the top one =P
+
+I think the important thing to know for now is, that you need to bind a brush to the door entity (object) and give its property the transulecent tag and solid tag to make this. The textures are there some where, but I have not noticed anyone mention how to do it yet so I thought I would say something.
+
+Let me know if you all know of a site that has this. Then maybe I wont speak out next time and look like a moron =P
+
+Untill next time. CYA!
+
+-Wolfen
+
+
+12/26/98
+
+Well hello there people. Not much news since it was the holidays and the office was pretty much empty. Considering most of the projects are in early stages I guess people figured they would take there time off for now. The Shogo team especially since they are the ones who worked there rear ends off.
+
+I hope everyone had some good holidays. I stayed with some freinds and there place and had a big dinner and all since I have no family out here =(
+
+I had to give up my qeradiant site this week becuase I have no more time for it =(
+
+That was my baby. If your a QERadiant fan then defintly keep up with Ravages of Radiant (www.planetquake.com/ravage) becuase the guy None1a that took over was probably the best candidate for it.
+
+I plan on opening another website sometime soon. Maybe I will start one on DEdit and see if I can get permission to make it like some kind of Official Editing site for it hehe. Then I could be the perfect news hound for you all but this time with a different cool editor.
+
+Its just hard to keep up with an editor that isnt even related to a project you work on for a living. hehe.
+
+Anyways, take it easy all. And congrats to the BareBones CTF guys. Its a good start. I like it. I can not wait to see it get finished =)
+
+Until next time. CYA!
+
+-Wolfen
+
+12/20/98
+
+Hey poeple. Wow what a week. Been busy mapping and trying to get my old site up and running fully. 
+
+Some new versions of the editor that are internal versions are looking like a lot of bugs and features are being worked out and its looking a lot better everyday. This I can deal with =)
+
+I have no idea when the press release for the project I am on is going to be. We still have some things to take care of it sounds like. I am not to used to ins and outs of how a game company does things (im sure some are different to) but there is one thing that has to be done for sure before the press release I do know this.
+
+Anyways I gotta finish my map, as I am like 2 days behind on it and its all becuase I had a bad week last week. So I will be mapping all the rest of today and next week ehehe. Like I am really supposed to be doing anything else eh? hehehe
+
+Anyways. Untill next time. CYA!
+
+-Wolfen12/17/98
+
+Well hello there.
+
+Tip of the day. Dont move to Seattle WA unless you plan on paying way to much for your plates on your car. I paid $409 just for my 95 Saturn Twin Cam. Then they had the nerve to charge me state tax's as well. Man am I broke now.
+
+Anyways, I just filled out some answers to some questions for some book coming out about making games. I dont know if they will put my stuff in or not but that would be cool. 
+
+I hear a CTF came out for Shogo. Rock on. I gotta go play that. Looks like me and mike and darren dont gotta make one now =P
+
+Anything else we should all make? I was thinking maybe a Rocket Arena for Shogo. That would definatly be interesting. Of course it would now have to be called TOW Arena hahah.
+
+Anyways, I got some maps to make. So until next time. CYA!
+
+-Jason (WolfeN) Spencer
+
+
+12/13/98
+
+Welp, you mod authors out there better hurry up with the shogo mods, cuase me, Mike Dusault and, Darren here have been considering doing a whole slew of them ourselves just for the heck of it and to finally have them hehehe.
+
+On a more personal note. I can not stand doing html. I really need some one to take over my old site at planetquake.com/ravage.
+
+I got this whole new design and of course, I am having trouble with it cuase its just not my bag baby. Im just a mapper what do you expect?
+
+Oh, if you aint played Get Medieval, you gotta at least get it for its cutscenes, especially the intro haha, that thing is hillarious. 
+
+Other then that not much more for me to talk about tonight, maybe Ill have something more interesting on a regular work day like tomorrow.
+
+Untill next time. CYA
+
+-Wolfen
+
+
+
+12/12/98
+
+Heya folks. Im working on a Saturday night. I must be crazy haha.
+
+Hint of the day. USE THE NODES GROUPING IN DEdit!.
+Man thank goodness for the invention of grouping eh? I really like the way they work in DEdit.
+
+What a switch from QERadiant to DEdit. DEdit is cool and has some cool stuff to play with in it. So now I support the two unless Robert Duffy makes me a SHOGHO Plugin for QERadiant hehe (hint hint).
+
+Whats with there being very few Shogo servers? Come on now. The game is good enough to play over the net. I finally got down to it the other night and was having a blast. 
+
+You all out there need to set more of them up.
+
+Does anyone think I should throw a webcam into my office? My thoughts are, its to overused allready, and I dont think Im cool enough to where anyone would really care heh. Email me your thoughts on all this people. Id like to hear from you.
+
+Thanks, and untill next time. Cya!
+
+-Jason (WolfeN) Spencer
+
+
+
+Yo people. Its me Jason (WolfeN) Spencer. Look at my pretty .plan file. Woo this place is sooo cool. Some of the projects in works are gonna rock.
+
+I am just sitting around making maps and the likes. Wait untill you all see what project I am working on. Its gonna be cool. 
+
+Thanks to all the guys here at Monolith again, you all have been very helpfull and have great attitudes and plenty of personality to SHOW THE LOVE BABY!!
+
+Untill next time people.
+Cya
+-Jason (WolfeN) Spencer

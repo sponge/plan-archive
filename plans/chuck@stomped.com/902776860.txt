@@ -1,0 +1,6 @@
+Login: chuck          			Name: Chuck Masucci
+Directory: /home/chuck              	Shell: /usr/local/bin/tcsh
+Last login Mon Aug 10 16:20 (CDT) on ttyp1 from shell.flinet.com
+New mail received Mon Aug 10 12:32 1998 (CDT)
+     Unread since Tue Mar 17 15:58 1998 (CST)
+Plan: meep

@@ -1,0 +1,419 @@
+
+*** Monolith Production's Finger Server
+
+User name: stephens
+Plan modified: Mon Jan 04 18:28:26 1999
+
+1/4/99
+
+Don't buy Baldur's Gate if you value your free time.  I've put a good 30 hours into the game and I feel like I've barely scratched the surface :)
+
+If you are even remotely interested in RPGs BUY THIS GAME.  You will not be disappointed.
+
+-$-10/23/98
+
+First off I just want to make one thing about the Alpha patch perfectly clear.  It CAN mess up your single player game.  Shogo v1.0 saved games WILL NOT work with Shogo v1.1 (Alpha).  Period.  Jace was smoking crack when he wrote his plan file ;)
+
+Also, here are some other things that have been fixed in the patch:
+
+* Fixed frag screen being displayed between multiplayer levels.
+
+* Fixed MCA vehicle to on-foot level weapons bug (fun bug that allowed you to have MCA weapons in on-foot levels ;)
+
+* Fixed a bug that caused player to be stuck in first frame of an animation.
+
+* Picked up weapons don't get automatically switched to in Multiplayer.
+
+* Added "picked up" messages for all pick up items (that didn't already have messages)
+ 
+* Fixed AI shooting through walls/doors bug.
+
+* Enhanced AI scent biscuit technology(tm) (They don't get caught on corners as much).
+
+* Picked up item sounds now play in client's head.
+
+* Added screen flashes for when items are picked up.
+
+* Removed explosion when killing MCA's with melee weapons (due to popular demand).
+
+* Moved 3rd-person camera intersect segments to client (allows for 3rd person view in multiplayer - which is now enabled).
+
+* AIs now are pushed down slopes.
+
+* Fixed ammo icon not always displayed correctly after reloading a saved game.
+
+-$-
+
+
+
+10/14/98
+
+The Shogo patch is really coming along.  Here are some of the things that I've recently worked on:
+
+
+Fixed the bug that caused scripted AIs to go into their idle state instead of their aggressive state (caused the bug that allowed you to walk right up to an enemy without getting a cap in your ass ;)
+
+Fixed the bug that caused AIs not to target enemies that were firing at them.
+
+Increased the visible range of the AIs (so they should always 'see' you when you can see them).
+
+Fixed AIs being sometimes afraid to go down stairs bug.
+
+Fixed muzzle flash not going away when you die (the "firefly of death" bug :)
+
+Increased death brush damage (sometimes you could bounce out of a death brush before you were killed)
+
+Made dead bodies disappear after 2 minutes in multiplayer (will probably make this a console command, so dead bodies can stay around as long as people wish ;)
+
+Fixed bug that allowed you to zoom (the sniper rifle) when in vehicle mode
+
+Increased energy grenade damage (makes this weapon a lot more useful, especially in multiplayer ;)
+
+Made player footstep sounds play in client's head (makes them a little louder, and sound more consistent)
+
+Added longer pause after you die before load screen comes up (fixes "why am I in the menus?..oh, I must have died" bug)
+
+Fixed red screen of death bug (bug that caused the screen to stay tinted red after reloading a saved game)
+
+
+Anyway, these are some of the game related fixes that I've made in the last few days.  I have many more on my list for the patch, but I don't see any problem getting them all done on time :)
+
+I should also note that MikeD has *totally* pimped out the multiplayer code.  Can you say "silky smooth", I thought you could ;)
+
+
+-$-
+
+
+8/28/98
+
+Word-up Sandi!  How's everything over there in accounting land?  You remember our deal don't you (one for Monolith, two for Money, two for Monolith, four for Money..hehe ;)
+
+
+
+-$-
+
+
+8/27/98
+
+It has been forever since I updated this thang...just too much work and not enough time I guess...
+
+Yeah, WHATEVER!
+
+I've just been slacking...
+
+Well.  I guess you probably want to hear something cool about Shogo
+
+[No idiot we want to hear about your pathetic life as a programmerlet us guess: you work 12-to-12, eat lunch at Dennys, you probably spend weekends writing code (or if youre lucky playing games) or maybe you go out with your girlfriend (yeah, right!  Like you HAVE a girlfriend, haha loserwhy the hell am I reading this lame .plan file anyway?!?  Screw this, I wonder whats going on over at gamegirlz]
+
+as I was saying before I was rudely interrupted by my Low Self Esteem
+
+Something cool about Shogowell, heck, what ISNT cool about Shogo! (hehe)
+
+[What the hell is this!  Does Jace write ALL their damn .plan files!?!  What a bunch of stuck up, conceited, propaganda slinging malarkey is this!?!There are plenty of .plan files I can read if I want to hear how cool somebody thinks they are!  I thought these Monolith guys were different, but noooooo, give em an inch and they take a mile.  Some web site tells them that, well, okay, maybe you guys dont suck as bad as we thought you did and the next thing you know theyve all got attitude and all their .plan files have titles like Senior Executive Supreme Code Guru A La Mode and Satchel Bunny]
+
+Down boy! Down!  Get.backin yourcage!
+
+Hehe.
+
+Yeah, I really am that fucked up. ;)
+
+Okay, the goods:
+
+Shogo is finally, feature complete!  I can now spend some much needed time fine-tuning / bug fixing this beeyotch!  The end is in sight!  Who ha!
+
+MikeD and I went over some game optimizations yesterday [Read: removing all the sleep() calls from the AIwell, hell, I get tired sometimes, I thought maybe those guys could use a rest, I mean geeez, if you had to keep the entire known universe (whats he talking about?) free from the type of vermin (okay, where is he going with this one) that those poor almost defensiveless (umm huh) little tick-eaters (what?  Nerd jokes sprinkled among a tangent to a tangent, Im sorry were going have to take off style points for that one)where was Iahhh,  ummmohnever mind] and I actually implemented some of them today Woo Hoo! (whod I pick that up from.hmmm, I wonder :)
+
+Sosoon the world will have a nice little [oh yeah, sure, NOW hes humble] Anime action game to go with their, well, hell, what does an Anime game GO with anywayahh screw itanime is kinda weird anyhow
+
+I mean gamers dont really want to play an Anime (*cough* Final Fantasy) inspired game.  We all know that there isnt really room in the first-person shooter market for a game that isnt about, wellwhat exactly are most first-person shooters about?oh yeah, SHOOTING stuff!  So where was IAnime and and first-person shootersCome on.  Have you actually seen any of this Anime stuff?!?  It has all these weird things that just dont fit in the first-person shooter genre.  Like these big robot things.  Come on, who really wants to run around in a giant robot stepping on people, and cars, and buildings, andcome on, where does that fit into the whole dungeon crawl experience that a first-person shooter MUST have.  Sure, these robot things carry big guns that do more damage than ever before seen in a first-person shooter (hmmm, maybe thats the problemdo people really want big guns, and big explosions, and body / robot parts flying all over the placethat just distracts from being able to enjoy the whole dungeon crawl aspect that is required (isnt it?) of a first-person shooter.  People dont really want that (do they?)
+
+And this whole thing about a story.  Come off it.  All I wanna do is SHOOT stuffI dont care if there are multiple endings, and that you dont really know whos on your side and who isnt.  I just want to SHOOT somebody.  I dont want my actions to affect anything that happens in the game.  I wanna know that every time I play level 35 that the creature on the left will yell urgle blorg (Note: since a real first-person shooter takes place in some sort of dungeon it must contain some type of creature that, of course, doesnt speak English), and spit its acid snot at me, and that if I run down the tunnel to the right and jump into the lava that Ill find the super-duper-special powerup that now makes me able to kill urgle with 15 shots instead of 25.  Now, THAT is what makes a first-person shoot fun!  Come on.  Most Anime doesnt have this kind of stuff.  It has characters, that get developed, and grow, who you come to like (or hate).  And plots that makes you feel sad (or happy) when they die I dont want to feel sad, or happy, or any of those fuzzy waysI just want to shoot things
+
+Get real.  Look at the weapons in AnimeTheyre just plain weird.  Who wants to shoot energy beams at people anyway?  And multiple rockets (coming out of the same gun at the same time?!?)No sir-e-bob, one rocket was good enough for my fathers father, so dag-nab-it, one rocket should be good enough for me!
+
+Nope.  Anime is too weird to inspire a first-person shooter
+
+
+Hehehehehehehehehehe.
+
+Sarcasm?  No thank you, I brought my own.
+
+
+(oh...one last thing...there was thiS certain person, who asked me to mention them in my .plAn file...well, I wasN't quite sure if she was really up to the high quality stanDards that I try to set, when writIng these...So, I decided to shank...hehehehehehe ;)
+
+
+-$-
+
+
+
+5/20/98
+
+PFP can bite me.
+
+
+Shogo:
+
+I spent last week getting demo functionality in for E3.  It is pretty cool, makes "manning the booth" a bit easier :)
+
+Now I'm working on fixing up the weapon effects a bit for E3, they've haven't been touched in a while (and it shows :).
+
+I just implemented a level-placed camera object, which should allow level designers to set up some pretty cool in-game stuff.  I think Shogo's levels really lend themselves to some cool cinematic sequences, so now we can exploit that a little more ;)
+
+
+My pathetic life:
+
+Saw Dogzilla (whatever) today.  It could have been worse.  If you haven't seen it and want to know what it is like, basically just mix Independence Day, Jurrasic Park, and Biloxi Blues (Ferris Bueller was awesome, but Mathew Broderick ain't no hero)...
+
+As long as I'm talking about over-hyped movies...Deep Impact...what a waste.  If you haven't seen it, don't.  Save your $.  I actually wanted the Asteroid to hit the Earth.  I was thinking "Gee if the Asteroid hits the Earth then maybe all these lame characters will be killed and the movie will be over!"
+
+After seeing the trailers preceeding Frogzilla, I'm afraid we're in for a long boring summer at the movies...oh well, there is always Shogo to look forward to ;^}
+
+
+-$-
+
+
+4/20/98
+
+I would have to agree with Pendle-bunz about the .plan thang :)
+
+So what have I been up to....hmmm, where to start.  I've spent quite a bit of time recently on the AI:
+
+Expanded my AI scripting system to support looping
+scripts, opportunity firing (i.e., stop the script to put a cap in your ass, then continuing the script) and different levels of blocking priorities (i.e., can the player block a
+scripted AI or does the AI push the player out of the way).
+
+Also implemented AI and player hand-held weapon models.  It is pretty cool to see the AI and player's hand-held weapon change when they switch weapons (and fall to the ground when they die so you can pick it up).
+
+Also implemented an initial version of texture (surface) specific special fx.  This is a pretty cool feature.  This allows us to tie certain sounds or fx to a texture so brushes with a metal/wood/etc. texture make the appropriate sounds when players/AI walk on them.  Also weapon impacts make the appropriate sounds and effects on these surfaces as well...Pretty cool...
+
+
+On the social side of things...JJ and I have been hitting the links quite a bit the last week.  Now JJ is a natural (we call him 'Tiger-Shark' since his game is a cross between Tiger Woods' and GregNorman's).  In other words, he is just plain intimidating.  When we're playing for money and I've got that 4 foot par putt and he's got a 50 yard chip over trees for par, and he holes it out...I'm just like "Damn, I've just been John Jacked!"...and of course I'm so pissed, that I miss my putt and end up throwing my putter into a water hazzard...
+
+It seems like a lot of people at Monolith have been talking about playing more.  Maybe we should start a Monolith tourney.  Hmmm, that could be interesting.  I'll have to think on that one...
+
+
+$
+
+
+1/26/98
+
+No comment.
+
+
+11/24/97
+
+FBI FILE #708231366
+Name: Kevin Stephens
+Whereabouts: Unknown
+Know Aliases: Money, BadAsh, MenuBoy
+
+MOST RECENT CRIME: EMAIL EXTORTION
+
+*** Following are excerpts from a string of internal 
+*** Monolith emails which, we believe, contain enough 
+*** conclusive evidence of email extortion to put
+*** #708231366, and the rest of his band, away for a 
+*** very, very long time.
+
+
+*** START OF MONITORED EMAIL ***
+
+From:	Kevin Stephens 
+Sent:	Wednesday, November 19, 1997 5:53 PM
+To:	All Monolith Personnel
+Subject:    SPY HUNTER E-MAIL-A-THON
+
+Hi All...
+
+I just got off the phone with **EDITED** from **EDITED** (I think where we got Rastan from) anyway, he told me that we can have our very own Spy Hunter machine (just like the arcade!!!) for around $500 bucks!  I know that I'm very interested in this (but I know not everyone is), anyway let me know if you would be willing to contribute to this very worthy cause!
+
+Please let me know about how much you'd be willing to contribute.
+
+Thanks!
+
+**EDITED**
+
+TARGET:    	$500.00
+
+p.s. HURRY, Only a few proud people will be able to say that THEY helped improve Monolith's Arcade...don't be left out...don't sit on the sidelines...take a stand...do something with your $...what good is it doing you in the bank anyway?!?
+
+Thanks!
+
+Kevin Stephens              (stephens@lith.com)
+Monolith Productions, Inc.  (http://www.lith.com)
+
+
+From:	Kevin Stephens 
+Sent:	Wednesday, November 19, 1997 5:53 PM
+To:	All Monolith Personnel
+Subject:    FW: SPY HUNTER E-MAIL-A-THON
+
+Contributions so far:	 Gift from Me
+
+Nick:      $25      (no more whining...for a while)
+Craig:     $50      ($50 worth of Crack - i.e. .0001 ounce)
+Kev S.:    $50      N/A
+Gobes:     $50      (Localizable dialog boxes for now on)
+
+Total:  $175 
+
+TARGET:    $500.00
+ 
+ 
+TIME IS SHORT!!! ACT NOW!!!
+
+Kevin Stephens              (stephens@lith.com)
+Monolith Productions, Inc.  (http://www.lith.com)
+
+
+From:	Kevin Stephens 
+Sent:	Wednesday, November 19, 1997 5:53 PM
+To:	All Monolith Personnel
+Subject:    MORE MONEY!
+
+SPY HUNTER E-MAIL-A-THON
+
+Contributions so far:		Gift from Me
+
+Bill V:     $25	        (Property:  "Crumbly")
+Ben O:      $50	        (uh, umm...hmm...my love?)
+Spen:	    $20	        (AAAAHHHHHGGGGUUUUUUIiiiiii)
+Kev L.:     $25	        (aaaaaaaaaaaaaAAAAAAAAHHHHHH!!!!)
+
+**EDITED**
+
+Total:	$295 
+
+TARGET:    $500.00
+ 
+ONLY $205 more to go!!!
+
+Kevin Stephens              (stephens@lith.com)
+Monolith Productions, Inc.  (http://www.lith.com)
+
+
+From:	Kevin Stephens 
+Sent:	Wednesday, November 19, 1997 5:53 PM
+To:	All Monolith Personnel
+Subject:    The Love
+
+
+SPY HUNTER E-MAIL-A-THON
+
+Contributions so far:			Gift from Me
+
+Jeremy:    $30      (A Monolith sponsored LINUX server!!! :)
+Israel:    $33.27   (Explanation of integer math)
+Adam K:    $25      (my crap?!?...he asked for it...)
+Steve:     $19.95   (Fragrant Riot meetings)
+Joel:	   $20      (Only 1 plan file)
+
+**EDITED**
+
+Total:	$423 
+
+TARGET:    $500.00
+ 
+ONLY $77 more to go!!!
+
+Now, this is what I love about working for Monolith...the love, the caring, the devotion to great gaming...We only have $77 more to go in this E-mail-A-Thon, and I want each and everyone of you to know that it has a been a privilege to be associated with such a class act...
+
+Now I know that it is easy to say, hey, why should I help pay for a Spy Hunter arcade game?  It won't even be in the building where I work...there will probably be lines when I want to play...I never did get to the boat stage anyway.  What if we all thought like this.  Where would the Monolith arcade be today?!?  No, the employees who pitched in for Rastan had a vision, and this whole E-mail-A-thon is about supporting that vision.  I want you to look deep into your heart (and pocketbook - ha, ha, ) and see if there is a Spy Hunter fan just begging to be free...I bet if you look close enough you'll find one...
+
+Kevin Stephens              (stephens@lith.com)
+Monolith Productions, Inc.  (http://www.lith.com)
+
+
+From:	Kevin Stephens 
+Sent:	Wednesday, November 19, 1997 5:53 PM
+To:	All Monolith Personnel
+Subject:    The Love
+
+SPY HUNTER E-MAIL-A-THON
+
+Contributions so far:		Gift from Me
+
+Ernie:	    $1          (Hooked on phonics)
+Nathan:	    $10	        ($10 worth of Craig's Crack)
+Jay:	    $10-20      (Shareable code :)
+Paul L.:    $27         (Helpful AI suggestions??? :)
+
+**EDITED**
+
+Total:	$471 
+
+TARGET:    	$500.00
+ 
+ONLY $29 more to go!!!
+
+Now, I know not everyone can be a Platinum member of the Monolith Arcade club.  That's okay.  For a $10 contribution, you get all the privileges of the Platinum members (free Spy Hunter gameplay 24/7), but you don't get the best gifts from me...in fact, you might get a shank...
+
+This just in, Nathan just donated $10 and said: "Here's $10 bucks ... now leave me alone"... brings a tear to my eye.
+
+And Jay had this to say when he made his $10-20 contribution: "I could do more if it weren't so close to X-mas."  Saddled with X-mas obligations and STILL willing to sacrifice for the good of the Monolith Arcade...heros are born of less.
+
+When Paul L. donated his $27 he said: "Ok, Ok, I have tears ...".  Tears, from a grown man with children.  See, even men cry when the cause is noble enough...
+ 
+And when Ernie sent in his $1 (we all do what we can) donation, he said: "4 ur thx L8R =)".  I'm not sure what he meant by that, but it was touching none-the-less.
+
+Kevin Stephens              (stephens@lith.com)
+Monolith Productions, Inc.  (http://www.lith.com)
+
+
+From:	Kevin Stephens 
+Sent:	Wednesday, November 19, 1997 5:53 PM
+To:	All Monolith Personnel
+Subject: Who will put us over the top?
+
+SPY HUNTER E-MAIL-A-THON
+
+Contributions so far:		Gift from Me
+
+Pultz:	$27               (Let you beat me at Blood)
+
+**EDITED**
+
+Total:	$498 
+
+TARGET:    	$500.00
+ 
+ONLY $2 more to go!!!
+
+Who will be the one...Or will it take more than one (Ernie).  You, yes you, can be the one to say "I put the Spy Hunter E-Mail-A-Thon over the top!"  You, yes you, can be the one to say "I made history, and helped all of Monolith return to a e-mail-a-thon free work day."  You, YES YOU, can be the one to say "I was the one to finally shut the ?@#$* Kevin up!"
+
+Or will you let someone else take all the glory?
+
+Kevin Stephens              (stephens@lith.com)
+Monolith Productions, Inc.  (http://www.lith.com)
+
+
+*** END OF MONITORED EMAIL ***
+
+*** At last count, #708231366 had raised over $1000 
+*** for the supposed use of adding games to 
+*** Monolith's arcade.  As of the writing of this 
+*** report only one, half-working Golden Axe machine 
+*** had been added to the arcade. In all likelihood, 
+*** that is all anyone will ever see of this money.      
+
+*** If you have seen, or know the whereabouts, of
+*** #708231366 (alias Money), please get in touch 
+*** with your local FBI.  We cannot allow this type 
+*** of blatant criminal activity to go unpunished.
+
+
+-$-
+
+
+
+11/10/97
+
+Alrighty then.
+
+Yes, this used to be BadAsh's .plan file.  I decided after
+working on Riot for that last few months, that I should probably move my .plan.  While BadAsh was a cool handle while working on B2, I decided it didn't quite work for Riot.  Thus, I opted for a more generic handle (see the movie Swingers for the intended meaning).
+
+Riot.
+
+What can I say, this game just gets better and better.  
+The whole Riot team busted ass

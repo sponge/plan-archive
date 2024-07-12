@@ -1,0 +1,12 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: 
+Description: Programmer
+Project: 
+Last Updated: 07/03/2003 14:33:29 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+The Enemy Territory master server, the RTCW master and auth server will be moving office Monday morning CST.  They will be down for as little time as possible, I would guess no more than 30 minutes each.
+
+Graeme.

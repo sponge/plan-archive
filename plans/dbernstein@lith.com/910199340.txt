@@ -1,0 +1,37 @@
+Login: dbernstein     			Name: Dan Bernstein
+Directory: /home/dbernstein         	Shell: /bin/bash
+Never logged in.
+No mail.
+Plan:
+5/26/98
+
+So here we were, at the Computer Game Developers' Conference, at the Microsoft booth, demoing the Shogo music. All day long we had the same conversation on the showroom floor - 
+
+"Hey, is that CD Audio?"
+
+"No, it's DirectMusic."
+
+"Really? So is it Digital Audio?"
+
+"No, it's actually interactive MIDI with Downloadable Sounds. Basically, the music gets constructed on the fly using our own custom instruments."
+
+"You're kidding."
+
+"No. Listen. Here I go into this room, and when I shatter this window and the alarm goes off, the music starts building."
+
+Next, Guy and I show how the music in "Informant" starts building seamlessly as soon as I blow open a window with a shotgun in the game.
+
+
+
+"This is amazing."
+
+Thanks for all of the folks that came to listen to our demo. Thanks to Sascha Dikiciyan from Sonic Mayhem, Bobby Prince, Tom White and others for their input. 
+
+The time of static MIDI or CD-Audio soundtracks in games is over. At Microsoft's DirectX event after CGDC we pronounced General MIDI dead. 
+
+A Shogo player will have a similar interactive experience as when he or she is enjoying a movie soundtrack - it builds with the action, following your every move, responding musically and seamlessly. 
+
+See you at E3!
+
+
+

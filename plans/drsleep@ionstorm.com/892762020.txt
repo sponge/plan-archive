@@ -1,0 +1,223 @@
+
+*** Ion Storm's Finger Server
+
+User name: drsleep
+Plan modified: Thu Apr 16 18:19:22 1998
+
+
+
+
+
+What I'm Doing Lately
+
+
+Extracts from the Sleep Notebooks: 
+What I've been reading.
+06:15 PM 04/16/98
+What I've Been Doing:
+1) Working on stuff for E3.
+2) Selling Sverre's DOOM II figurines on
+eBay. 
+3) Changing the name of Daikatana
+to Buckets of Blood Pouring Out of People's Heads so that stupid people
+won't feel left out.
+(Actually, many folks in the game industry
+and those who buy their games are smart people and avid readers, especially of Science
+Fiction and Fantasy. I'm sure those familiar with Larry Niven's tales of Known Space can
+appreciate a cool title like Storm Over Gift 3.)
+What I'm Reading: The Forgotten
+Beasts of Eld by Patricia McKillip
+03:15 PM 01/07/98
+Well, the WIRED photographers were here to
+work their magic with myself, Sverre, and Mr Romero. As His Levelness has already
+mentioned, WIRED will be running a feature article on the DOOM Babies who made good in the
+industry: Sverre, myself, Levelord, Paradox and Tim Willits. The article was written by
+David McCandless of PC ZONE and should be in the March issue. 
+I want to send congratulations out to my Clan
+311 clanmates. We featured prominently in the Quake Women's Forum 1997 Year in
+Review poll: Most Famous Clan: Clan 311, 3rd place; Best Clan Skin: Clan 311,
+2nd place; and Best LPB of 1997: Kornelia, 2nd place. Yay! Congrats to all who placed (and
+to those who didn't, for that matter).
+Still working on Minos' palace.
+What I'm Reading: The Orchid Eater
+by Marc Laidlaw. 
+12:42 AM 12/04/97
+Work continues on Minos' palace. This is
+going to be one of the larger levels. 
+Not That Anyone Cares notes:
+Run, don't walk, to your nearest bookseller
+and get Glenn Kleier's The Last Day, which is easily the best book I've read this year. Thoughtful, prosaic, and
+insightful, Kleier spins a tale of millenium fever and second comings with the
+authoritative voice found only in a handful of first-time novelists over the past several
+years. I was literally up until dawn reading all 484 pages of this exciting and
+provocative book -- and my only regret was that the story didn't go on for another 500
+pages. 
+I found The Last Day to be thoroughly
+believable, without a single false note. The action is swift and at times almost
+unbearable in its suspense. Couple this with profound insights into human character, and
+you have not just your typical action-suspense thriller, but a very deep and moving
+examination of our society at the end of the 20th century. 
+What I'm Reading: Jack Faust by Michael
+Swanwick.
+6:42 PM 11/24/97
+Back to finishing up King Minos' palace.
+Voin has produced some beautiful statues which Chuck is skinning with exquisite attention
+to detail. I can't wait to put some of them in the levels.
+Congratulations to Steve Rescoe, fellow
+Daikatana designer, for having the number one Quake level ever at MeccaWorld, Shadow
+Over Innsmouth. Anyone who likes H. P. Lovecraft can't be all bad.
+Found a couple of cool new QuakeWorld
+servers with nice pings: Ice Virus' Digital
+Carnage runs DM4, Arena, and Hipnotic deathmatch. Check them out at
+207.176.51.52:27500 (27501 and 27502 respectively).
+What I'm reading: The Reality
+Dysfunction by Peter F. Hamilton.
+6:00 PM 11/11/97
+Wow. I've received about 20 e-mails already
+recommending books. Many thanks, and sure, keep them coming. Almost all have recommended
+Robert Jordan's Wheel of Time series -- so I'll go ahead and let
+you all know that I've read (and love) them all up to Fires of Heaven.
+I've got the other three, but haven't gotten around to them yet.
+I started The Labyrinth (level 7). Chuck
+has been working on a special individual theme-set for this level, and so far the results
+have been something other than else.
+What I'm reading: Forever Peace
+by Joe Haldeman.
+6:10 PM 11/10/97
+Not That Anyone Cares Notes:
+I actually had a couple of e-mails from
+folks admonishing me for not liking Starship Troopers enough. Wow. I
+thought I was this film's biggest defender. (I did say it was a "great
+film," I believe.) Except for some logic problems, I thought the story was extremely
+well done, and I loved its satiric bite. I give it an A-.
+Another e-mail asked if I really read or
+finish the books I say I'm reading. Hmmpf. Yes, I do. I suppose some folks find it
+improbable that a 300 page novel can be read in three or four days. I usually get through
+two or three books a week; not because I'm a genius, but because I like to read. I don't
+watch television, except for the X-Files and sometimes The
+Simpsons, so my leisure time is spent with books. I'm not dissing anyone who
+watches a lot of television -- I just prefer books. I like Science Fiction and Fantasy,
+Mainstream, Horror, and non-fiction on astronomy, cosmology, quantum mechanics, and
+paleontology. I'm usually in the middle of a couple of books at a time, but this is a bad
+habit I seem unable to break.  I've had many enjoyable discussions with folks who've
+written and said "Hey,  I read that book... blah blah" or "Hmm. Never
+heard of that, though I like the author. Any good?" So I'll continue to list what I'm
+reading when I think about it. I wish I got more e-mail about books, since I'm always
+looking for a cool new author.
+Thanks for your e-mails. Now back to actual
+work.
+1:40 PM 11/10/97
+Many thanks for the birthday wishes from my
+friends in the gaming community. I've gotten sentimental in my dotage, and these things
+mean a lot (two words, by the way) to me. <sniff>
+What I'm reading: The Prestige
+by Christopher Priest
+5:00 PM 11/07/97
+Starship Troopers is a
+great film. Besides having the best special effects I've ever seen, the perspective is a
+brilliant turnabout on Heinlein's vision of a society whose members must serve two years
+active service in order to become citizens (only citizens can vote). Verhoeven shows that
+society as a fascist state, which is exactly what we would have had if Heinlein's vision
+had come to fruition. Anyway, nevermind the deep stuff. I agree with others that the
+acting was only fair, charactization thin, and motivation poorly explained. So what? It's
+a bug movie. It's not better than Aliens or as intelligent as Contact:
+but it's the best action/sci-fi film of the year.
+Game wise, King Minos's Palace is turning
+out wonderfully, thanks to Chuck's textures. I've had some nice comments on the screen
+shots of Athens and the Acropolis (even though the shots are old), though one complaint
+I've heard (and share myself) is that the levels are awfully white. It has been my
+intention for a long time to get some color into the place. We're used to seeing the Greek
+temples in their denuded, ruin states: mostly white marble and stone. Naturally, over the
+course of a couple thousand years, any paint remnants are long gone, except for scraps
+here and there. But it is well known that the Greeks accented their temples with bright
+colors, particularly the pediment and entablature. So for the Acropolis, I've been working
+with photographs and maps to get the buildings and topography down pretty much to scale.
+Of course, I have to take some liberties here and there, since I'm obliged to keep the
+face count and Quake's draworder in mind. There's also the matter of gameplay
+to consider. Sure, you might think any goof with a map editor and some architecture books
+can sit down and recreate the Acropolis perfectly. My goal is to recreate Ancient Greece convincingly
+-- while at the same time balancing practicality (the Quake engine's limitations), game
+flow, strategy, and fun.
+Why all the bother with historical
+accuracy? Well, as Eric Idle has said, "It's just as easy to get these things
+right." Besides that, it's fun! 
+Happy birthday to me, too. Today I'm ...
+well ... I bought Sergeant Pepper's Lonely Hearts Club Band the day it
+came out with money from my paper route. That's vague enough.
+What I'm reading: Timequake
+by Kurt Vonnegut.
+12:30 AM 10/17/97
+Finished The Parthenon, started King Minos'
+palace. Only two more levels to go after this.
+What I'm reading: How the Mind
+Works by Steven Pinker.
+8:34 PM 10/11/97
+Since Shawn added some really swell
+lighting effects that we requested a couple months back, I've been finding incredibly
+subtle ways to light levels and achieve a realistic mix of shadow and ambience. I thought
+I was really hot shit with this until Sverre showed me a little trick he's been using in
+his San Francisco levels. The effect has made all the difference in Medusa's lair, which
+was giving me mood fits. Either the shadows were too dark, loosing a lot of the little
+detail bits -- or it was too light, which wasn't creepy enough. Now it's exactly what I
+wanted.
+5:28 PM 10/07/97
+Our new texture dude, Chuck Crist, is
+amazing. He's a real pixel-artist, and has consistently stunned me with new stuff every
+day. Forget everything you've seen before in the Greek levels. Oh, the architecture will
+have few changes, but Chuck's work is every level designer's dream. A really good set of
+textures can inspire level design in ways too myriad to explain. Some of you know what I'm
+talking about.
+ps: There's no shame in therapy.
+What I'm reading: Underworld by Don
+DeLillo.
+2:15 PM 9/23/97
+Started the fifth level, The Parthenon.
+This is going to be one of the really cool and tough levels, featuring two bosses. This is
+the first level where I can take some extreme liberties with the architecture, since it
+takes place totally underground, and will feature Medusa's lair. Been looking forward to
+this one.
+What I'm reading: Excession by Iain
+M. Banks.
+12:04 PM 9/18/97
+Back from ECTS, which went extremely well
+for Daikatana. The press and gaming community were very receptive. Of course, the British
+press have been very generous to Daikatana all along. Hey, I even got interviewed by The
+Independent, one of London's biggest newspapers.
+Being in London during Princess Diana's
+funeral was something other than else. I've written a photo-feature on my observations of
+Britain's farewell to Diana for Ion Storm's Daily Informant, if anyone cares to
+read it:
+http://www.ionstorm.com/eos/Di/diana.html
+
+As for actual gaming stuff, I'm still
+working on the Acropolis. The Parthenon is going to be tough to create realistically,
+since it's so huge. Sverre keeps reminding me not to fall into the trap of keeping things
+TOO realistic.
+What I'm Reading: Saint Leibowitz and
+the Wild Horse Woman by Walter M. Miller, Jr.
+9:31 PM 9/3/97
+I've been so busy getting ready for ECTS
+that I forgot to give my 311 Clan mate Kornelia a big congratulations for winning the AFT!
+A big, belated "Way to go, Kornelia!" 
+xxx
+2:17 PM 9/2/97
+The Levelord does me great honor, but he is
+too modest. I'm sure that any level he does will knock them dead at ECTS. I'm certainly
+looking forward to the show in London, but it looks as though we'll spend a somber
+Saturday due to Princess Diana's funeral entourage. Very tragic. A truly wonderful Lady. 
+6:01 PM 8/30/97
+Getting Athens ready for ECTS. Reading: How
+to Win Friends and Influence People by Dale Carnegie.
+6:41 PM 8/27/97
+From The Dictionary of Cultural Literacy,
+2nd Edition Revised and Updated, p. 415: coolie -- an unskilled laborer or porter
+in eastern Asia. Coolie is a degrading term for any laborer. [Emphasis mine.] 
+From Wicked Words: A Treasury of Curses,
+Insults, Put-Downs, and Other Formerly Unprintable Terms from Anglo-Saxon Times to the
+Present by Hugh Rawson, p. 94: coolie -- An Asian or Indian, especially one of
+the lower classes. "In South Africa the word "coolie" is used by some
+whites to describe Asians, and is bitterly resented them as the word "Kaffir" is
+resented by Africans" (Guardian, 10/4/67). See also DRUDGE, KAFFIR, and SLAVE.
+
+1:50 PM 8/25/97
+<font color="#FFFFFF" size="2" f

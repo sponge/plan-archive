@@ -1,0 +1,35 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Katherine Anna Kang
+Email: kak@idsoftware.com
+Description: Biz
+Project: 
+Last Updated: 03/01/1999 01:52:42 (Central Standard Time)
+-------------------------------------------------------------------------------
+3/1/99
+
+A test commonly known as an IHV (independent hardware vendor)
+test was leaked sometime this weekend.  The sole purpose of
+an IHV test is for internal testing at hardware companies.
+The test contains no real levels and no playable maps.  It
+is utilized to serve as a vehicle for hardware vendors to
+improve their products.  Various companies under NDA utilize
+this test for hardware optimization.  It is used to test and
+optimize features such as multitexture and compiled vertex 
+array implementation.  Most maps are specific for testing 
+oversized textures, extreme texture aspect ratios, and high
+polygon outputs.  The public should be aware that this leaked 
+test is useless to them and quite illegal to have in their 
+possession.  Unfortunately, some unscrupulous character(s) got 
+a hold of the IHV test and decided to feed this to the public.
+We urge the public to boycott sites that make illegal 
+materials available.  It can be a source of viral contamination
+and ultimately a waste of time laid with plenty of frustration.
+What is being leaked is not a game, nor is it a demo.
+
+The official Quake III Arena test will be out in about a 
+month.  You will be able to trust the source because it will
+come from us.  It will be viewable, playable, and testable.
+
+All of the concerned e-mails received are very much 
+appreciated.  Thank you.

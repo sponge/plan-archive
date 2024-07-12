@@ -1,0 +1,6 @@
+finger: /var/spool/mail/stevej: Permission denied
+Login: stevej         			Name: 
+Directory: /home/stevej             	Shell: /bin/bash
+Last login Fri Jul 23 20:46 (CDT) on ttyp0 from c381373-e.rchdsn1.tx.home.com
+No mail.
+No Plan.

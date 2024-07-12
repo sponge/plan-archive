@@ -1,0 +1,23 @@
+Login: jimm           			Name: Jim Molinets
+Directory: /usr/users/jimm          	Shell: /usr/local/bin/tcsh
+Last login Wed Dec  6 10:56 (CST) on ttyp0 from galleon
+No Mail.
+Mail forwarded to: "|exec /usr/local/bin/procmail"
+Plan:
+Disclaimer:  The opinions expressed here are not the views of Rogue 
+Entertainment Inc, just those of the author.
+
+12-6-00
+
+Alice in stores.
+
+Just called a couple of places here in Dallas and Alice
+has indeed hit the shelves!
+
+Enjoy.
+
+
+
+
+
+

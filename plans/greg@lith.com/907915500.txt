@@ -1,0 +1,21 @@
+Login: greg           			Name: Greg Kettell
+Directory: /home/greg               	Shell: /bin/bash
+Last login Tue Sep 16 07:59 1997 (PDT) on ttyp0 from 208.8.216.193
+New mail received Sat Oct  3 23:14 1998 (PDT)
+     Unread since Wed Feb 25 12:07 1998 (PDT)
+Plan:
+
+10/9/98
+
+A little Blood 2 anecdote...
+
+A few days ago, I was testing out some tweaks to our object spawner (a thing that can generate items/creatures/whatever in the game), and I needed something to test it with.
+
+So I figured, maybe I'll spawn a Shikari and a Fanatic. the last time I really saw a Shikari, he was pretty much just standing around, more or less harmless. And since I didn't give the Fanatic a weapon, he wasn't going to be able to do anything to me while I'm testing other stuff.
+
+I shot the object that triggered the spawner, and sure enough, out pop a Shikari and a Fanatic.  But, Jesus H. Christ! That Shikari wasn't just standing there like I expected, he was charging right at me, and jumping! I managed to get off a couple of shots at him (I was only testing so I just had my beretta active), and I ran behind a wall to try to elude him.  He ran up to the fanatic and just tore the poor bastard to shreds like he was made of tissue paper or something, and then he started up with his "loogies from hell" as Loki calls em. There was a hapless civilian standing nearby, and at one point the Shikari paused in his assault on my ass and just as an afterthought he took out the civilian with a single spitball. The whole scene was a thing of beauty, considering it was totally unexpected and unplanned.
+
+Anyway, I finally managed to switch to my trusty howitzer and end it. but I'm not looking forward to facing a group of those dudes in the game. Kudos to Schlegz and Jeremy. I've gotta get out of my test level more. :)
+
+
+

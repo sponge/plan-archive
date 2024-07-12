@@ -1,0 +1,61 @@
+Account Name:  Nick Shaffner
+Email address: nicks@3drealms.com
+----------
+/* Nick Shaffner <-> Grimtooth
+ * Co-Programmer: Duke Nukem Forever
+ * nicks@3drealms.com
+ */
+
+[6/1/98]
+
+	Geez, I can't believe it's been 3 months since I last did a plan update, we were just so slammed trying to get ready for E3 that I never really got a free moment.  I'll try to keep the updates coming a bit more regularly from now on.
+
+Ahh E3, lots of cool stuff there this year, some of the coolest stuff I saw there this year included:
+
+* Mech Commander by FASA - an awesome 2D/3D RTS game in the BattleTech universe.  This thing has some of the best sounds, graphics, playability and especially AI that I've ever seen in an RTS game.  Good going Glen!
+* Homeworld by Sierra - This 3D RTS was simply amazing! The physics were nearly perfect, and the gameplay looked quite solid as well.
+* Half-life by Sierra - Half-life looks pretty cool, the scripted sequences and AI really add to gameplay in a big way... I also like the little 'bouncy bug' grenade thingees.
+* The new game by SquareSoft (don't remember the name) - This game is a must for anime and FF7 fans, and the story looks awesome - can't wait to get my hands on this one!
+* Via Voice Gold by IBM.  This voice recognition package is definantly the best yet.  The guy demoing it was literally speaking freely and normally in the E3 convention center (with a *HUGE* amount of background noise), and the software was able to translate with nearly 100% accuracy - and in context!  This software was so accurate it would even pick up the 'uhh's and 'um's most people inadvertantly use in everyday life.  I've got to get a copy of this to help with my email (and perhaps coding - don't know about this though, I might drive Chris insane :^) )
+* Saitek's PCDash - this is just a keybord extension that you can use a printed graphical underlay to make up your own key macros.  It definantly helps cut down the learning curve for games, but I will mainly be using it to make a macro setup for Visual C++/Visual Source Safe (ie. a button to compile, rebuild all, switch between debug/release, switch between projects, etc).  Most cool, and very useful.
+
+	Of course, 3D Realms also had all our killer games on display (Duke Nukem Forever, Prey, and Max Payne) but in an effort to seem -somewhat- modest and unbiased, I've refrained from listing them above - I'll just say that we had an excellent show :^).  I also got to meet the guys from Remedy for the first time at E3, they are definantly a talented bunch, and are doing an awesome job on Max Payne - do I sense a bit of internal competition? :^).
+
+	Back to work again. While E3 was fun, I did find myself going through coding withdrawal and am glad to be back in a place where I can hit F7 many times in a row and be rewarded by lots of noisy disk activity.  I'll be popping up an update later this week with some of the more recent technical happenings.
+
+
+[3/5/98]
+
+	Thanks to everyone who sent in suggestions for DukeEd, and keep 'em coming!
+
+	Things are pretty hectic around here lateley.
+
+	The new entity system is progressing nicely, the base system should be finished by Monday or Tuesday - after which I'll begin writing the core scripts and DukeEd script generation 'wizards'.  For those of you who were asking: yes we will support and release source code for .DLL's in addition to the scripting system - though internally we will be using the scripting system as much as possible (since it's 90% of the speed of compiled .DLL's anyways).
+
+	Chris has been working feverishly on overhauling Cannibal's interface and part/animation sequencing features - there should be some screen-shots of it released fairly soon.     
+ 
+	Well, earlier this week, several people (65+ I've heard) were using the 'Cheat 'O Matic' utility I wrote to do some serious cheating on Sierra's online game "The Realm". The cheaters in question were able to use Cheat 'O Matic to give themselves a huge amount of negative manna, and indirectly convert it into enormous sums of gold.  Anyways apparently this had the effect of decimating the Realm's virtual economy, and Sierra had to shut it down on Tuesday to fix the problem.  
+	I had actually warned Sierra about this potential problem shortly after the Realm's initial release (not wanting potentially malicious Cheat 'O Matic users to destroy an otherwise nifty multiplayer game), but the online GM ignored my warning and promptly banned me from the Realm.  Well, at least I tried...
+	In any case, soon after Sierra had fixed the bug, I found that Geocities had canned the Cheat 'O Matic site, stating that they reserved the right to boot 'anyone for any reason' - hmmm.....  Luckilly, George was kind enough to let me use the company web site as Cheat 'O Matic's new home, so look for it up there in a few days.
+
+You can read more about the incident in the Realm's online newspaper here:
+	http://www.public.usit.net/nrspears/news.html  (See the 3/3/98 and 3/2/98 entries)
+
+
+[2/26/98]
+
+	Vhelp, this is my first .plan file, so bear with me here until I get the hang of it. I'll try to get in an update every week or so, but we're starting to get geared up for E3, so free-time is hard to come by.
+
+	I recently finished integrating the new scripting system ('DukeC') into the engine codebase,  it took a bit longer than I expected (always seems to ;^) ), but definantly worth it.  
+	At the moment, I'm working on replacing the Quake2 entity system with our new, improved entity system.  The novel design and speed of the scripting system combined with the insane flexibility of the new entity system should make Duke4Ever one of the most user-extensible games ever released.
+	Additionally, if there are any cool features you'd like to see in DukeEd, let me know ASAP,  I've already gotten tons of great ideas from the mappers/designers, but would would love more suggestions on how to make it as powerful/flexible/easy-to-use as possible. 
+
+	Chris has been slaving away on Cannibal like a mad-man for the last week and a half, and it's really looking quite impressive, it handles nearly -everything- relating to models - and then some (Plus the interface looks kick-ass).
+
+	We've been playing way too much Worms 2 around here lately. For being a rather simplistic 2d turn based engine, it sure packs a huge amount of sadistic and silly violence... 
+
+	BTW, here's the URL for a nifty little toy I wrote a while back called Cheat-O-Matic. I's freeware and lets you cheat on just about everything:
+
+	http://www.geocities.com/TimesSquare/Dungeon/5633/
+
+ 

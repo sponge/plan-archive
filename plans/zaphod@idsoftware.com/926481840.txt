@@ -1,0 +1,404 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Some Guy
+Project: 
+Last Updated: 05/12/1999 00:56:24 (Central Standard Time)
+-------------------------------------------------------------------------------
+5/12/99
+
+Off to E3.  I'm the point on q3feedback, so the soonest I'll be picking up
+email is Sunday, so don't expect a response the next few days!  You can
+catch us at the Activision booth if you want to let me know in person just
+how long you had to wait for the Win32 test.
+
+Anyone with tapes of last weeks X-Files?
+
+The main issues we're seeing are:
+
+3Dfx drivers seem to be pretty darn difficult.  About 50% of the emails
+comprise of 3Dfx issues including BSOD on NT, crashing during level changes,
+and crashing due to in game mode changes.  We're working with 3Dfx on this.
+
+The next biggest problem is that people run the game without running GLSETUP
+to update their drivers.  Arrgh.  Arrgh.
+
+People claim that the TNT slows to a crawl when you in-game change the video
+color depth to 32bpp, but it's fine after a restart.
+
+There's a "lag trap" quirk of firing the plasma gun 12 times at a wall, as
+people approach it the overdraw slows their systems and makes them
+vulnerable to hits.
+
+There's a lot of people trying to run the game with 32mb of RAM.
+
+Setting everything to "highest" (highest resolution, color depth, etc.)
+causes artifacts on the TNT.
+
+Alt-TAB on a Matrox G200 causes the system to crash.
+
+A lot of people wrote to let us know that they just love the game.
+
+The main game feedback seems to be:
+
+1. the new railgun sucks / and / or is / awesome.
+2. the game is too slow / too fast.
+3. make it more like quake 1 / quake 2.
+4. the rockets are too slow / too fast.
+5. people die too slow / too fast.
+6. the graphics are awesome / too cartoony.
+7. don't touch a thing / change everything.
+
+5/10/99
+
+Here (at long last for most of you) is Q3Test version 1.05.  We've worked long
+and hard to get this to you and we look forward to your feedback on what's
+right and what's wrong with it.
+
+There's one known issue with the Linux dedicated server taking up way too much
+CPU time.  As other known issues come to light we'll try to keep you all in the
+loop.  Please try and email q3feedback with a good sensible subject line, mention
+what sort of system/OS you have, and remember that humans read all the feedback.
+
+GLSetup will have it's own press release sometime later this evening, but we're
+very excited to be part of this venture.  But I'll let Chris Hecker tell you all
+about it.
+
+5/10/99
+
+IMPORTANT!
+
+You must completely nuke your old Q3TEST install before installing the update.
+The config files from the old build are BAD voodoo.
+
+You can also type "exec democycle" to watch a bunch of id people play the map.
+
+
+5/10/99
+
+Q3Test 1.05 is DONE!
+
+New Linux/Mac versions are going up right now, and we're finishing up the installer
+for the Win32 version.
+
+If all goes well, the Win32 version will follow in a few hours (few == six or so).
+
+5/9/99
+
+We're getting closer, but I think it'll be tomorrow before we're out.
+
+Internally we're bashing on the new maps, code, servers, and clients.  There is a
+/lot/ of new stuff in there and we want to bang on it for a bit before we release.
+
+We are building installers, pak files, and so forth, so our confidence level is good,
+but since it's only been 15 minutes since the last bug fix (which was a doozy of a
+find BTW) and the new maps are still being bsp'd.  All of this makes a release tonight
+seem like a bit of a risk.
+
+If all goes well we will bash on it tonight and tomorrow, and once John gets in
+tomorrow we'll be ready to go.
+
+5/7/99
+
+We're looking to release Q3Test for Win32 on May 19th.
+
+Just kidding.
+
+We're approaching what we consider a good build on Q3Test for Win32, and our current
+estimate, barring any problems, is that we will release it on Sunday evening.  We will
+release Q3Test updates for Mac and Linux a few hours before Win32 to check for any
+bonehead issues.
+
+There will be completely new data for this version of the test, old versions will not
+be compatible with the new version, and old and new servers do not mix.
+
+If things change I'll let you all know.  But this is the current plan.
+
+5/1/99
+
+Rent day and I need to pay!
+
+I see several people are going for the master server right now.  That's fine, but
+we're changing the format of the server pretty radically over the next few days so
+the packet size will be nice and small and queries can be more detailed.  If you're
+a hacker out there and you want to email me with suggestions, that's cool.
+
+We will be publishing the specs to the master server and MOTD server really soon, we're
+anxious for people to look over that stuff.
+
+4/30/99
+
+The G3 firmware update is at:
+
+http://asu.info.apple.com/swupdates.nsf/artnum/n11361
+
+4/29/99
+
+We're about to update (tonight) the executables to 1.03 of q3test, there is a
+seperate download for win32 and mac that just contains the updates, and the
+main files have been updated as well.  Win32 is still only available as a
+dedicated server.
+
+We're also releasing the Linux version of q3test, this will available as a RPM
+and as .tar.gz.
+
+If you have a G3 system, I highly recommend the new firmware update from Apple,
+that gave us a noticeable (to humans) framerate improvement.
+
+Here's the update list:
+
+
+Mac specific
+------------
+improved networking stability
+improved device scanning
+improved speed
+improved memory checking
+improved sound latency
+
+Generic
+-------
+global motd/update server
+added drop shadow to field characters and fixed scrolling
+fixed edge-of-bounce-pad misprediction error (server side)
+removed broken weapon-stay dmflag
+made menu gfx never picmip
+cheat protect r_lightmap
+cheat protect r_nocurves
+clear sound buffer before any file IO
+continuous scoreboard / ping update when tab is down
+put version number on menu background
+dim out behind floating menus
+fixed server crashing string bug
+adjusted scoreboard for 8 players
+show hostname on connection screen
+fixed null model warning on startup
+more space for hostname on local servers screen
+sv_privateClients, sv_privatePassword
+"server is full" message on connect screen
+archive handicap in config file
+
+
+4/26/99
+
+Here's the most common bugs we're getting.  The first two bugs account for
+75% of all the bugs we're getting.  After that, the texture corruption bug
+seems to be the most common, and then the rest are noise or install related.
+
+Generally, unless the detail is clear, I've waited to get a bug twice before
+reporting it.
+
+If you get a crash, and it's repeatable, the Macsbug app syslog would be
+greatly appreciated!
+
+Graeme.
+
+Macintosh:
+
+--
+
+Turning up everything to the highest level of detail makes Mac crash on
+loading level.  This is by far the most common bug (50% of bugs).
+
+--
+
+This one is about 25% of the bugs:
+
+Rage Pro with 6mb of RAM on iMacs boots out with "need 4mb" error.  Works
+fine on G3 systems.  Others with G3 systems report that they are getting the
+"need 4mb" error as well.
+
+Someone did narrow this down to:
+
+If you try to use an ADB mouse rather than a USB mouse, Q3 bails out with an
+error that says "you must have at least 4MB of video memory."
+
+--
+
+Apparently after going through the underground area (that you must flip the
+switch to open), certain curved surfaces (such as arched ceilings) draw with
+garbage textures, as do a few other (flat) surfaces.
+
+May be related to:
+
+When running in 32-bit color depth, lighting effects (such as from a weapon
+firing) cause the affected textures to temporarily turn to garbage.
+(System:  Blue tower G3)
+
+--
+
+MacQuake3 test on a B&W G3/400.  When I try to run the app it refuses to run
+with the error "InterfaceLib--AddDurationToAbsolute could not be found."
+
+--
+
+random crash (but with Macsbug syslog)
+
+  Sys_GetPacket: OTLook 64
+  Sys_GetPacket: OTRcvUDErr 27547436
+
+I was then dropped into Macsbug inside CalcC_LerpVertexes.
+
+--
+
+G3 Global Village modem overrides game display with "connected" status bars.
+
+--
+
+Every time I try to go through the silvery warp portal when playing on your
+server (does not occur on local game) I crash (q3test1)
+
+--
+
+Exit game crash (but with Macsbug syslog)
+
+--
+
+Installation of the OpenGL driver from Apple breaks their DVD player
+software.
+
+--
+
+Players running around as axial models (null models).
+
+--
+
+There is a flaw in the Mac OS.  It thinks 800x600 at 120Hz will work with my
+monitor, but it doesn't.  Since the OS thinks this refresh rate will work,
+Quake also thinks it.  Therefore, when I switch to 800x600, my monitor
+blacks out and could possibly be damaged.
+
+In the options, Quake should show ALL possible monitor configurations with
+ALL refresh rates.  That way, the user can pick the one that will work best
+with his setup.
+
+--
+
+Running on a powermac 8600/300 96mb (vm to 120), ATI Rage 8mb.  More or less
+any changes I make in graphics display options causes the game to crash as
+it loads a map.
+
+--
+
+I have both an ATI Rage 128 and a Voodoo3 plugged in to my system for
+development work.  If the V3 is in the 66Mhz slot and the ATI in any other
+PCI slot, Quake3 will fire up on the ATI just fine.
+
+However, if the ATI is in the 66Mhz slot and the Voodoo3 in a PCI slot, I
+get an error message that says "Could not initialize OpenGL".  This appears
+to happen after the video mode change.
+
+--
+
+When screen resolution is 640x480 or 800x600 on the PowerBook G3 Series
+(with a built-in ATI Rage Pro, I think), the background is all white instead
+of the QUAKE3ARENA TEST graphic.  This may be related to the fact that the
+3D card has support for stretching those resolutions to fill the actual flat
+screen hardware resolution of 1024x768.  It is particularly hard to ignore
+this effect since much of the setup UI is white on a white background.
+
+--
+
+NT 4.0 server bugs:
+
+--
+
+The 'toggle' command can toggle write protected cvars. Example: "toggle
+fs_restrict"
+
+The 'wait' command with a negative parameter causes an infinite wait.
+Example: "wait -1; echo foo"
+
+
+
+4/23/99
+
+The test is not coming out tonight, but we do have a Macintosh candidate ready to go.  If all goes
+well tonight, it will be out over the weekend.  The Linux/Win32 builds are not yet ready.
+
+The test version of Quake 3 Arena is just that, a test, and as such we here at id software need
+to have some controls over it as we start to test it out publicly.  Without these controls we
+cannot actively track and improve the product in a manageable manner.
+
+We wanted, and are eager to be completely "out there" on all platforms, but the OpenGL drivers
+the product needs for all the platforms are not yet finalized.  By launching on the Mac first it
+gives the various 3D board manufacturers some time to get their Win32 OpenGL 3D drivers certified
+with Microsoft.  We're using, and depend on, the latest and greatest drivers and want to be able to
+distribute those drivers for the Win32 platform.
+
+The Macintosh market is smaller than the Win32 market, and has less configuration options than the
+Linux market.  There is only a single OpenGL driver, and the hardware is essentially always the same.
+This is an ideal "controlled" environment for the initial testing.  Basically, if there is a huge
+issue with the initial release we're exposing a smaller audience to it.  This turns out to be a good
+thing.
+
+The plan is to release the Macintosh version first, followed by the Linux version, followed by the
+Win32 version.  We will release on the other platforms as soon as possible.  We will rev the other
+platforms as we make new releases.
+
+I hope you understand and agree with this decision/process.  It is a good step towards a timely
+release of the full demo and retail product.
+
+4/23/99
+
+No news is good news they say!  We're still working hard to get the test out.  If you could refer
+questions to me (zaphod@idsoftware.com) regarding the test I'd appreciate it, everyone else here
+is plenty swamped.  Obviously if it's just "when?" then that is pretty hard to answer, because "when"
+will be as soon as it's done!
+
+But watch this space and remember to follow the white rabbit.
+
+4/14/99
+
+We're getting closer to releasing the test version of Quake 3 Arena.  It's worth going
+over our expectations from the test vs. the world's expectations from the test.  I appreciate
+all the voice mails, faxes, and emails with suggestions, death threats, and comments, and I
+do read each and every one of them.  I try to respond to a lot of them, but obviously I can't
+respond to them all.
+
+At this point, we still have no release date on the test.  We're testing builds here and at
+Activision and continuing to go through cycles.  As soon as feedback from both internal testing
+and our testers at Activision dies down, we'll be ready, but while this is providing heavy
+reports, as it still is today, we're still not ready to come out with the public test.
+
+There will be two maps in the test; these maps will also be in the final product.  The feedback
+we're looking for is specific to the technology in the test.  We're pretty happy with the design,
+and feedback on things like weapon switch times, models, gibs, and so forth are not things we'll
+pay as much attention to as real issues with the technology.  We're looking closely at modem, ISDN,
+and cable play to see how our new network code works, and how that works when a bunch of different
+connections are playing together on the same server.  We're anxious to gauge server load and use
+with the maps we have to see how the server works under heavy use, and to make sure we've got a lot
+of the new client/server communication working reliably and securely.
+
+That said, we do and will watch you play, read the message boards, and try to gauge feedback.  But
+the main thing to remember is that this is a test technology build, not a demo, there will be a
+demo, we plan on a demo, but this is a test.  A lot of you will want to wait on the demo rather than
+playing the test.
+
+The test will be on all three platforms, Mac, Linux and Win32.  We're still working on minimum and
+recommended specs.  There are no bots in the test.  We do plan on revving the test once it's out at
+regular intervals to get fixes out there.
+
+There is no spoon.
+
+3/28/99
+
+I know a lot of you are looking at the end of the month as a fixed date for q3test,
+but we're probably looking to be within a few weeks of that date rather than exactly
+on it.  We're working on it; I just want to keep expectations in line with reality.
+
+This is a test of Quake 3:Arena, not the demo.  With this test we're looking to see
+how well the brand new networking and graphics code works, and while we've run this
+through a QA process here and at Activision, this is not code that is of release
+quality in speed or gameplay.  Please do not look upon this as the "demo" of Q3A.
+
+Thanks.  I now return you to your regular programming.
+
+3/2/99
+
+Xian says I need to put something new here.
+
+It's been a busy two weeks, and I've yet to get any furniture.
+
+Thoughts later.

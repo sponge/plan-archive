@@ -1,0 +1,45 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Tim Willits
+Email: twillits@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+Last Updated: 07/12/1999 11:09:02 (Central Standard Time)
+-------------------------------------------------------------------------------
+As you have heard, we are working on releasing another version of the test. This new 
+version of the test will require you to download all of the data again. Many of you might 
+not immediately see this as a good thing, but it is!!! This gives me the opportunity to 
+make some minor bug fixes to Q3test1. If there is anything in the map that you feel is a 
+"bug" please drop me an email and I'll try to fix it before the next test release.
+
+Examples of some good bug fix suggestions: 
+
+1. Sometimes when I round the corner out of the rocketlauncher room towards 
+the plasma room I see a vis error at the top of the steps.
+2. I get stuck when I back into the corner on the left side of the steps leading up 
+towards the rocketlauncher in the courtyard.
+
+Examples of some bad bug fix suggestions that I DON"T want you to email me:
+
+1. This map plays nothing like Q3test2 and it basically sucks.
+2. Make it more like the Edge, that's my favorite map!!
+3. I can't believe you put two rocketlaunchers in the map.You are dumb!!
+
+
+Thanks again for everyone's feedback on the test and the levels.
+
+Tim Willits
+
+=========================================================
+=========================================================
+
+
+Personal note:
+
+A few weeks ago Joe Rogan, (actor/comedy) from the television show "News Radio", 
+paid a visit to the id offices. During a smack talking who can kick who's ass I told him 
+that if he beats me in a 1 on 1 that I would I mention my defeat in my next .plan update. I 
+lost by a point so there I go.....     Him and his comic sidekick Chris McGuire are 
+currently touring the country performing live stand-up comedy. The show is very funny 
+and I recommend seeing them if they are in your town.
+

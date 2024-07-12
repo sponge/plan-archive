@@ -1,0 +1,106 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+------------------------------------------------------------------------
+User Name: nels.bruckner     Plan Last Modified: 05/17/1999 11:34:30 PST
+
+Real Name: Nels Bruckner
+Nickname: Nailz
+Job: Manager
+Project: Tribes (2)
+E-Mail: nels.bruckner@dynamix.com
+
+[5/12]
+     Well, the gang is off to E3.  I'm holdin' down
+the fort while they are gone... workin' hard! ;)
+
+     The demo we sent to E3 is, IMHO, awesome.  Sure,
+Tribes 2 is around a year away, and yeah, this is
+just the very tip of the iceberg but damn it looks
+good so far.  I think our E3 presence should generate
+some heat this year.  Be sure to check us out if you
+are at the show.
+
+[5/4]
+     Hard to believe it's been so long since I
+updated.  Hmmm... must be busy or something.
+
+     Speaking of busy, we are cranking on the E3
+demo for Tribes 2.  Even though this isn't set for
+release until next year it is already looking hot.
+Everyone on the team is doing awesome work for the
+new game.
+
+     On the Tribes 1 front, the recently released
+patch 1.4.1 plugs some serious security holes in the
+server.  It is strongly recommended that all server
+opperators update asap.  Also, the 1.4 release in
+general fixed some possible cheats over the 1.3
+versions. So, yeah, get it.
+
+     OpenGL - we are still working with nVidia to get
+drivers that will run Tribes acceptably on the TNT
+and TNT 2.
+
+     I actually had a Mac G3 in my office for a
+couple of days!  Ugh.  Still, had to check out Q3A.
+Interesting.  Gameplay didn't turn my crank but the
+graphics looked nice.
+
+
+[3/26]
+     Just a quick note of clarification about the
+Quake(2) editor stuff.  The added support will allow
+3rd party editors to be used to make the buildings
+that get placed in Tribes maps.  Creating landscapes,
+placing objects, mission scripting, etc. will all
+still be handled via the various tools that ship with
+Tribes and/or get shipped in the near future in our
+free editing package/patch.  Obviously, it would be
+very limiting to use a Quake-style editor to try to
+make a whole Tribes level.
+
+
+[3/25]
+     ZED is dead, baby...
+
+     We are putting the (hopefully) finishing touches
+on the various mission building tools as well as a
+few tweaks to the OpenGL stuff.  We have decided to
+end development on our in-house building editor,
+"ZED".  We will probably release the current version
+of ZED with the other tools but in the near future it
+will be replaced with a converter for Quake-style
+maps.  Since there are so many good Quake(2) map
+editors around (WorldCraft, etc.) this is a pretty
+easy decision at this point.  Of course, way back
+when we started on Tribes there weren't very many
+nice editors available and it seemed like a good idea
+to build our own.  Ahhhh, what a difference a few
+years can make. :)
+
+
+--Nailz
+
+
+[Now Playing:]
+Brujeria - El Patron
+
+[Top 5 Bands:]
+Black Sabbath (forever, man)
+Corrosion of Confomity (Deliverance,Wiseblood,Blind)
+Mercyful Fate
+Overkill (a consistantly awesome band)
+Metallica
+
+[Car Lust:]
+McLaren F1 (duh)
+Ferrari F355 F1
+Lamborghini Diablo (any flavor)
+...maybe a Hummer or something 4WD... for the snow.
+
+[Favored Cigars:]
+Montecristo #2
+Opus X (#2, robusto, all of them)
+Cohiba Esplendito (melo, but tasty)
