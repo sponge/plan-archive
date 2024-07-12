@@ -1,6 +1,7 @@
 import { For, Match, ResourceFetcher, Show, Suspense, Switch, createMemo, createResource, createSignal, type Component } from 'solid-js';
 
 import './App.css';
+import linkifyStr from 'linkify-string';
 
 type UserByDomainEntries = [string, string[]][];
 
@@ -35,7 +36,7 @@ const App: Component = () => {
     .map(domain => [
       domain,
       users()
-        .filter(user => user.endsWith(domain))
+        .filter(user => user.endsWith('@' + domain))
         .map(user => user.replace('@' + domain, ''))
     ])
   );
@@ -98,15 +99,34 @@ const App: Component = () => {
             </ul>
           </nav>
           <For each={filteredPlans()}>
-            {plan => <details open>
-              <summary>{plan.by} - {new Date(plan.time * 1000).toDateString()}</summary>
-              <article>{plan.contents}</article>
-            </details>}
+            {plan => <PlanReader plan={plan} />}
           </For>
         </main>
       </Suspense>
     </main>
   );
 };
+
+interface PlanReaderProps {
+  plan: PlanFile
+}
+
+const PlanReader: Component<PlanReaderProps> = props => {
+  const contentsWithLinks = () => {
+    const date = new Date(props.plan.time * 1000);
+    const waybackTime = `${date.getFullYear()}${(date.getMonth() + 1).toString().padStart(2, '0')}${date.getDate().toString().padStart(2, '0')}000000`
+    const baseURL = `https://web.archive.org/web/${waybackTime}/`;
+    return linkifyStr(props.plan.contents, {
+      target: '_blank',
+      formatHref: (href) => baseURL + href,
+      validate: { email: false },
+    });
+  };
+
+  return <details open>
+    <summary>{props.plan.by} - {new Date(props.plan.time * 1000).toDateString()}</summary>
+    <article innerHTML={contentsWithLinks()} />
+  </details>
+}
 
 export default App;
