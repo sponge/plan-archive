@@ -8,7 +8,7 @@ for plan in plans.glob('**/*.txt'):
   with open(plan, 'r', encoding="ISO-8859-1") as f:
     out.append({
       'by': plan.parts[1],
-      'time': plan.stem,
+      'time': int(plan.stem),
       'contents': f.read()
     })
 

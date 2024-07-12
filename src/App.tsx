@@ -6,7 +6,7 @@ type UserByDomainEntries = [string, string[]][];
 
 interface PlanFile {
   by: string
-  time: string
+  time: number
   contents: string
 }
 
@@ -50,7 +50,7 @@ const App: Component = () => {
       .filter(plan => isUser ? plan.by == currentUser() : plan.by.endsWith(currentUser()))
       // FIXME: half-assed text search. look into fuse.js
       .filter(plan => plan.contents.toLowerCase().includes(searchTerm().toLowerCase()))
-      .sort((a, b) => a.time.localeCompare(b.time));
+      .sort((a, b) => a.time - b.time);
   })
 
   // bit of a hack, shouldn't touch the dom like this
@@ -99,7 +99,7 @@ const App: Component = () => {
           </nav>
           <For each={filteredPlans()}>
             {plan => <details open>
-              <summary>{plan.by} - {plan.time}</summary>
+              <summary>{plan.by} - {new Date(plan.time * 1000).toDateString()}</summary>
               <article>{plan.contents}</article>
             </details>}
           </For>
