@@ -1,0 +1,33 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 10/23/1998 14:09:18 (Central Standard Time)
+-------------------------------------------------------------------------------
+23/10/98
+
+The Heretic II demo is out. Well sort of. The latest word is that we are *NOT* gold on the demo
+as it stands right now. There are some issues that we will be addressing in a new release of the
+demo, hopefully fixing them.
+
+1) There is an intermitten crash when pushing buttons and switching weapons.
+2) The skins swapping when changing weapons, this is annoying the hell out of us.
+3) Hopefully we'll fix the load/save options and include them this time. - be aware though, that
+almost certainly you won't be able to use you saves from the demo in the real game.
+4) The shrine effects tend to go away after prolonged network play - something else we want to
+address
+5) The time limit that was left in by mistake. This was there for the E3 demo and we just plain
+forgot to remove it. Mucho apologies on that one.
+6) Other stuff. I don't have the comprehensive list infront of me right now.
+
+Now, this patch won't be that big, since the levels themselves, and all the textures and sounds
+everyone already has, it'll just be the .DLL's and the .EXE.
+
+Remember, bug reports to heretic2bugs@mail.ravensoft.com.
+
+Cheers, and happy slashing.
+
+Jake
+

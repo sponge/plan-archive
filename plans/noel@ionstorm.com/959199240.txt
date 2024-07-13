@@ -1,0 +1,74 @@
+
+*** Ion Storm's Finger Server
+
+User name: noel
+Plan modified: Wed May 24 16:49:56 2000
+
+
+
+
+
+
+
+May 24th 2000
+
+
+
+
+May
+      24th 2000
+
+
+Well now,
+Daikatana has hit the shelves!  Along
+      with this comes the inevitable... the dreaded patch.  However, never
+      fear too much regarding this.  ChalreZ, Shawn, and of course myself
+      have been working on fixes for things that we have come to discover since
+      the demo release on the code side, and I know the mappers have been adding
+      some fixes and a few extra goodies to make the patch that much more
+      welcome when it is released. 
+As far as Shawn and Charles are concerned,
+      I know they have both been working in their 'areas' as I have been working
+      on AI, World, and of course Sidekick related issues.  Some of the
+      windows 2000 issues that have been solved are relating to level
+      transitions and I know Shawn is working on one particular load game issue
+      under Win2k.  So, if you are running 2000 and have had some crashes
+      when transitioning from one level to the next, don't freak too much... the
+      fix is coming soon.  As for things
+      relating to the Sidekicks, well one of the additions that I have added is
+      the ability for them to use those nifty health trees, medical kits
+      (episode 4), and of course the various forms of the hosportal (in episode
+      2 it is the fountain of life). 
+On another note, things have been quite a
+      change in pace and I think everyone is just 'adjusting' back to a normal
+      schedule.  It is times like these that make me understand the whole
+      game developer's cycle and why there are times of complete chaos and then
+      there are times of nice peaceful bliss.  Either way, it is one
+      fantastic ride.
+I am sure there will be a good handful of
+      bugs sent our way once Daikatana gets into full circulation.  As for
+      when the patch is going to be released?  Can't say... because it is
+      really a matter of how many more bugs pop up between now and the next few
+      weeks.
+Also, I would like to send out a special
+      thanks to the entire Daikatana community for being so patient in waiting
+      for Daikatana.  I hope that we have made all of your waiting worth
+      while.  Enjoy!  
+-N03L
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

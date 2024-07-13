@@ -1,0 +1,27 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jake Simpson
+Email: jsimpson@ravensoft.com
+Description: Lead Programmer
+Project: Pretty much everything
+Web Page: JakeWorld
+Last Updated: 04/18/2001 18:33:56 (Central Standard Time)
+-------------------------------------------------------------------------------
+4/18/01
+
+Well, now it's out in the open, we are doing SOF2. I've been working on building Ghoul2, which is our next generation
+animation system. It's not actually based on Ghoul1 since that was mesh based, and Ghoul2 is all truely hirearchical
+skeletal based. It still gives all the same sort of good stuff Ghoul1 one did, but it's got a host of new features
+besides. Look for an interview on VoodooExtreme sometime soon that will give more details.
+
+One other thing. The Press release mentioned our new ROAM terrain system. I'd like to clear up that it's not actually
+the Real-time Optimally Adapting Meshes approach, but our own design and implementation. We should have done some more
+research on the name before we adopted it. Expect that to change shortly, since we don't want to confuse anyone.
+
+A last thing. Since I finished up the physical JakeWorld (IE my basement) I decided it was time to give JakeWorld the
+website a makeover. Check out the link below - it has moved location, and it probably will change domain sometime soon.
+I've added a new article that was published on Evil Avatar (and hardly linked by anyone. Thanks.), another interview I
+did, I added Jessica Alba to the girls, there are new screensavers, new evils, and I finally got around to doing a .plan history.
+ 
+
+If your bored, take a trip around JAKEWORLD!

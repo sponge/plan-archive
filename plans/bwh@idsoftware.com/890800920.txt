@@ -1,0 +1,54 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 03/25/1998 00:33:12 (Central Standard Time)
+-------------------------------------------------------------------------------
+
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+
+March 25, 1998
+--------------------
+
+Xian was kind enough to let me drive his new p1mp mobile, a Porsche Boxster,
+since I've been deliberating about getting a sports car for some time now
+(roughly about the same amount of time I've been at this company).  Problem
+being, of course, that getting a new sports car typically involves learning
+how to drive a stick shift.  Now, I DO know how to drive a stick shift, but
+I just haven't driven one since borrowing my sister's Isuzu I-Mark ca. 1990,
+so I didn't feel like I REALLY knew how to drive a stick.
+
+So I managed to convince Xian to let me drive his shiny new, candy like 
+babe attraction device, and I found out that driving a stick is like
+riding a bike -- you never quite forget how to do it.  Didn't stall out
+once, and only caused it to really lurch badly one time.
+
+So that pushes me closer to sports car land again.  I'm hoping that my
+rational side will prevail soon, but we'll see what happens.
+
+Yesterday I was not in The Zone.  I couldn't concentrate for shit, too much
+shit going on in my life or whatever.  Today, I was much more in The Zone,
+and worked on writing a ZIP file reader.  The PAK file structure we have
+right now is relatively ideal for what we use it for, but it has the huge
+downside of not having widely available tools to manipulate it (like WinZip)
+and it's proprietary.  Being able to open, manipulate, and muck with our
+data files is a Good Thing.
+
+So right now you can have ZIP files in your path, e.g. PAK2.ZIP, and they'll
+be sucked in just like PAK files.  Rock on.  It's our intention that PAK
+files will be gone in Quake 3, replaced completely with good old industry
+standard ZIP files.  As Prince said, "Wouldn't that be cool?"
+
+Another advantage of ZIP files is that they have optional compression (which
+I currently don't support), which may help quite a bit when we're trying to
+cram everything onto a single CD.  (Speaking of which, I really hope that 
+our next game after Quake 3 will be a DVD-only instead of multi-CD...I think
+multiple CD titles are just a Bad Idea, and to be a

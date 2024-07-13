@@ -1,0 +1,107 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: John Scott
+Email: jscott@mail.ravensoft.com
+Description: Programmer
+Project: SoF
+Last Updated: 04/26/1999 10:50:34 (Central Standard Time)
+-------------------------------------------------------------------------------
+Nick: Pagan
+Project: Soldier of Fortune
+
+Disclaimer - The opinions expressed herein are personal and
+in no way represent that of Raven Software or Activision.
+
+26/4
+
+Warning : Completely game unrelated finger update.
+
+I went to see Marilyn Manson on Saturday night, and it was
+awesome! The music was excellent, it was a real 'show' and
+refreshingly loud too. Lots of loud bangs, fake blood and
+fireworks going off everywhere :) The were only two downers 
+to night. 1. Distinct lack of beer. There was a bar that
+sold bud or bud lite but I had to wash that swill down later
+with some real beer. 2. Security, they were pushing everyone
+out before I even had time to catch my breath. I didn't have
+time to find my friends or scout out any of the talent. A
+quiet 15 mins to compose ourselves would have been great. 
+On the whole, a thoroughly recommended show.
+
+On a related note, I was put off initially by Mansons 
+'shock rock' image, anybody with so much hype can't have 
+any content. However, there is no escaping the fact that
+Mechanical Animals and Antichrist Superstar are 2 damn fine
+albums with some excellent tunes.
+
+13/4 (part the second)
+
+I received a lot of emails on this subject. The code is indented
+as I edit it, but the finger readers seem to strip out the tabs. The issue I was trying to raise was having the {'s misaligned.
+
+The votes are as follows -
+3 - 1 in favour of aligning
+6 - 1 if you don't count emails ending in .edu
+(a late vote threw out these numbers somewhat - Michael!)
+
+Some quotes for -
+
+You are so fucking right....
+Couldn't agree more
+I feel your pain.......
+AMEN !!!
+
+A quote against -
+
+You're fighting K&R there, boy
+
+It would seem that Universities teach it the misaligned way
+because that is the way K+R has it. K+R rationalisation is that
+you can see more code on screen on a 25 line monitor......
+
+My rationalisation is that it makes it a lot easier to see
+where your loops and conditions begin and end. It makes it more 
+difficult to make a typo error. This is why I'll (and the rest
+of Raven) will stick to this method. 
+
+I know my editor has brace matching, but I shouldn't need 
+to use it. If the braces are aligned, then I don't need to use
+it. Less work, less bugs, more time writing new code.
+
+I did however get many leads on programs to rebrace code. I haven't
+tried any of these out tho....maybe one day.
+
+http://www.slickedit.com
+http://www.snap.com/download/item/pc/0,22,home-35998,501000.html
+http://www.geocities.com/~starkville/main.html
+
+13/4
+
+Okie..pet peeve time (after looking at some *nix research
+code). People who format their code -
+
+if(condition) {
+	Function();
+	}
+
+rather than -
+
+if(condition)
+{
+	Function();
+}
+
+- should be tarred, feathered, hung, drawn, quartered,
+disembowelled, shot and then stabbed for good measure.
+Nested loops/conditions of this ilk make it extremely
+difficult to work out which if/for refers to which bit
+of code. As you have probably guessed, I've just spent
+a good long time fixing a bug that wouldn't have 
+occurred if the code was laid out in a reasonable fashion.
+
+/me ponders writing a utility to fix such code.
+
+
+26/3
+
+I

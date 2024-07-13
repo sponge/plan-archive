@@ -1,0 +1,51 @@
+Welcome to Raven Software's Finger Service V1.4!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: Hexen 2
+Last Updated: 09/17/1997 17:09:20 (Central Standard Time)
+-------------------------------------------------------------------------------
+9/17/97
+   Patch will be out very soon...  HC code and tools will be released soon
+      afterwards.
+
+   Once that has gone by, I'm going to begin the fun process of creating
+      hexen2world.  Probably will take a few weeks, but don't hold me to it.
+
+9/14/97
+   This is just a test to see if the changes to the finger server program that
+      I made are working :)
+
+9/11/97
+   If you point your web browsers to:  http://mail.ravensoft.com:79
+      you will see my first rough cut of adding web support to the finger
+      server.  I plan on adding additional features, so this is just the bare
+      minimum.  I don't have the ability to send back graphics, yet, but if
+      you have any html ideas on giving it a neat look without the use of
+      graphics, send them to me (rjohnson@mail.ravensoft.com).
+      BTW, if you are using a Netscape browser, and you tried this address,
+      you will get something message about it being disabled for security
+      reasons.  I don't see any reason for this at all, wrote netscape, but
+      probably won't ever get a response.  I'll try to come up with a
+      work-around for this later.
+
+   FYI, the full version does have a very rare network bug that makes some
+      entities disappear in your current area.  I've already found and
+      corrected the problem, so this will be fixed once the patch is released.
+
+   The patch will also probably include random class selection for DM games.
+
+   There hasn't been any discussion on when utilities will be released, but
+      probably not long after the patch and an OEM version is completed.
+
+   Work is being done by Stefan at Rendidion for a Verite port.  I should be
+      getting an alpha version soon.  I don't know when this will be made
+      available to the public.
+
+9/5/97
+   We officially went Gold today!!!!!!!!!!!!!!!  Though the work isn't done
+      yet, as we will be releasing a patch in the near future.
+
+   I would like to thank all of the people who have sacrificed their lives
+      for the project here at Raven, Steve Stringer,

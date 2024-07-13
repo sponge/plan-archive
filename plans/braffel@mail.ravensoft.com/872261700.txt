@@ -1,0 +1,254 @@
+Welcome to Raven Software's Finger Service V1.1!
+
+Name: Brian Raffel
+Email: braffel@mail.ravensoft.com
+Description: Project Director / Designer
+Project: Hexen 2
+Last Updated: 08/22/1997 11:51:12
+-------------------------------------------------------------------------------
+
+
+
+June 10th,
+
+Today I am working on finishing up the levels for E3.
+
+We Will be including the outdoor area with the sheep! and with some
+
+of the new things we just got in.  I am also sending an egyptian level.
+
+The stat bar will be in as well as all of the Paladin weapons with power ups.
+
+We will also include many artifacts.
+
+
+************Brian Raffel******************************
+
+June 11th
+
+Finished the first level....what a pain!  I think I made it too big!
+(if that is possible).  I will populate it and put in the puzzles and
+see how she flys.  The Egyptian level will be a piece of cake compared to
+all of the rolling hills and caverns.
+
+looks like long night ahead of me.
+
+<<< I missed Warcraft Wed. so that I could finish this demo....I would
+love to have the 4 Raven Grand Master WarcraftII players (Me, Bob Love,
+Gil Gribb, and Rick Johnson) take on the top 4 at Blizzard!...Just let me
+know!!!  >>>>>  email me at braffel@mail.ravensoft.com  
+
+
+************Brian Raffel******************************
+
+June 18th
+
+We finished the demo for E3 and I feel very good about it.  It is totally
+playable with all weapons for the Paladin in and working great.  It also has
+the puzzle pieces in and working correctly. I love the translucent water effect
+we have in! now we can have cool water in both the standard and GL versions!
+Today I am on to the alpha build which should be within a week or two.  Maybe
+now I can go see lost world, I can't believe I have not had time to see
+this yet!
+
+
+
+************Brian Raffel******************************
+
+June 19th
+
+Ironed out the final details for the puzzles for the first/second hub.
+I am very happy with the flow and logic of the puzzles.  Now I just need
+to implement them!! =).I am looking forward to hear from Eric B. how E3 is
+shaping up and what new titles are coming out.  I think I hear(I could be wrong) that there are something
+like 1200 titles being shown at E3.  WoW if that is true that is alot of games
+to compete with!
+
+**quick note- Rick and I will have our revenge on Gil& O'l christy love**
+
+
+
+June 26th
+
+Finished all of my levels arch. today!!!!! finished redoing the cathedral.
+It looks ALOT cooler than before, and faster.  I am now implementing all
+of the puzzles for the first hub (6 big levels!) .  It should take most people
+about 8-16hours to finish this hub. (that is a guess dont hold me to it!!)
+I just want to say that I am sorry that I have not been visiting the web
+pages and giving response(oatmeal,phobeus)but until alpha I will not be able
+to.  I will do my best before beta.
+
+Note: Never let your daughter have a slumber party.
+
+
+
+
+
+July 10th,
+
+Wow, guess it has been a long time since I last updated. I have been
+cranking on the first and third hubs.  I now have all of the puzzles working
+!!!!. no small feat.  In a couple of places I have it that depending on which
+way you go, the puzzles will be different(3 different ways).  I like the puzzles
+we have.  They are going to take some thought, but will be logical. The only thing
+I would change in Hexen was the 7 portals.  ALOT of stupid running  around hitting
+switchs that all looked alike.  This is the first game that I have worked on since
+BLACK CRYPT (my first game) that I feel has the kind of puzzles I like to find in
+games. I love rpgs and haven't come across too many I have liked over the last few years.
+I should say that I haven't tried daggerfall, and others tell me it is good.  I loved
+Eye of the beholder,Dungeon master, Lands of Lore (just when is LL2 coming out?
+3/4 yrs in the making) and My all time favorites BARDS TALE I+II. We are still
+planning on putting BLACK CRYPT out on win95 but HexenII is taking top prioity.
+If you would like to see Black Crypt out on windows please let me/us know.
+
+Finally, we played Warcraft against a couple of guys at Origin last night.
+We beat them (this time) but they were quite good.  Good game skippy Lord pall.
+
+
+
+
+July 18th
+**********************************
+Hi,
+
+Well I would like to thank Zentron and Oatmeal for being such good friends
+of Raven...Thanks for all you guys have done for us!!!
+
+I would like to dedicate my first level of the game to them.  (That would be
+Black Marsh, the first level of the game)  I have two sheep on that level.  I
+will call one zentron and the other....you guessed it Oatmeal.  So be nice
+to those sheep when you play the game.
+
+Things are looking good!! deathmatch is alot of fun.
+
+
+brian
+
+PS- To those poor guys in Canada who have foolishly challenged us (rick,bob,
+gil and me) to a game of warcraft....think hard before showing up to fight us.
+We may not be from blizzard but we do play a mean game of warcraft.
+
+
+
+July 21st
+*************************************************
+
+Almost got ALL of my levels done.  Very Close.  I just want to make a
+few points to all of those webmasters out there kind enough to make
+HexenII pages.
+
+1). THANKS!
+2). I gave special dedication to the webmasters, Zenton and Oatmeal for helping
+us out in a situation not pertaining to the webpages.  We at Raven are very
+impressed with alot of the different sites out there and hope to help everyone
+doing a site as best we can.
+
+3). I don't try to show favoritism to anyone group,but when people help us out
+I want to say thanks.  
+
+Thats it.  Well, back to it! trying to put the finishing touches on a puzzle in
+the egyptian hub....I hope it is not too hard!
+
+
+
+July 31st
+****************************************************
+Well, been quite a while since I last entered anything.
+
+I have ALL of my levels done (13) and they are ALL working!!!!! =)
+
+Deathmatch and coop are working well and we are just implementing the last
+details of the game.  I can not wait until the game is out. Just for the
+record, the build that got out on the net was a pre-alpha from about month
+and half ago.  I HATE PIRATES! >:(
+
+Anyway, now is were I have to point out that we crushed some people from england
+in warcraft last night. We called the map America after the match...we thought
+it fit.  What we need is a true challenge.
+
+Insights to bob love:
+
+Bob loves puppys, and half/half on his captain crunch in the morning.  His
+favorite color is yellow...like the sun.  He writes poetry about programming
+in basic.(the only programming language he is qualified in!).
+
+Bob quote of the day: "Hey, I know how to use my stick!" - playing pool of course.
+
+
+Ode to RICK Johnson:
+
+Rick, A man of the times,
+RIck, one with his code,
+Rick, makes hexen monsters shine,
+Rick, and that is why I wrote this ode!
+
+Rick is my FAVORITE warcraft team mate.  I don't have to bail him out like
+bob.  Thanks rick!
+
+
+Aug 4th 1997
+*********************************************************
+Well, just running through my levels fixing small bits here and there, aliening textures and addressing balance issues. Eidolon is working and he is bad to the bone!  Ok  people out there that said
+That korax was a wimp...lets see ya take on Eidolon.... I pity the fool! (tm mr T).
+I can only  imagine that if I were to fight him in real life it would be how bob love must feel when he plays me in Warcraft.  I think Rick would agree!
+
+Well  lunch is over so back to egypt3.map  but before I go I have to write my 
+
+
+Ode to EricB.
+
+Ericb, His levels are flowing and fair,
+Ericb, His foosball so powerful, with him do not tangle!
+Ericb, Many opponents and egos he does tear.
+Ericb, Do not cross or your manhood will from his belt jangle! 
+
+I know ...don't quit your day job!
+
+
+
+Aug 21st
+**********************************************************
+
+We are done with the DEMO!!!!!    =)  =)  =)
+
+
+I had the best time watching Bob "BECCA" Love getting killed over and over as
+he tried to deathmatch.  He would turn invisible and try and be tricky with the
+polymorph artifact...but Eric just killed him as invincible,invisible, sheep!
+
+Poor bob, unlucky at warcraft and unlucky at HexenII.
+
+ The demo will be out sometime tommorrow.
+Please don't look on our site for the demo (we switching over to our t1 from
+a basic service)  Go to Activision or Id for the demo.
+
+
+Have fun and join in on our IRC chat tomorrow night at 7:00 pm  (I am missing
+a Packer game to be there, so show up!!!!)  Let us know how you like the demo.
+
+
+Enjoy!!!
+
+
+
+Aug 22nd.
+**********************************************************************
+
+                                >>>DEMO UPDATE<<<
+
+We have decided to hold the demo until we address a couple of small bugs that
+
+just cropped up.  Very Sorry that we didn't quite hit
+
+the date we were hoping, we have all been working around the clock and we are
+
+as dissapointed as you but we don't want to put this out with bugs that may
+
+disrupt your enjoyment of the game.  I take full responsiblity - feel free
+
+to vent at me at braffel@mail.ravensoft.com.
+
+
+Again Very sorry, but it will be out in the very near future.
+
+brian

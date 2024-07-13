@@ -1,0 +1,96 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+On since Thu Oct 21 16:37 (EDT) on ttyp2 from 216.27.43.214
+   27 minutes 7 seconds idle
+On since Thu Oct 21 16:45 (EDT) on ttyp3 from 216.27.43.234
+   15 minutes idle
+Mail forwarded to brandon@epicgames.com
+Mail last read Thu Oct 21 16:37 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Thursday, October 21, 1999
+
+Linux Stuff
+
+The Linux client doesn't have music.  I forgot to mention that in the
+readme.  I haven't written a player for my Audio library yet and porting
+the Galaxy player is out of the question.  This is fairly low priority.
+
+The UT client will actually work with any glibc 2.x even though I
+state in the README it only works with glibc 2.1.
+
+There appears to be a problem with the SoundBlaster Live! and the client.
+SoundBlaster Live! owners that are able to get the client working with
+sound should email me.  When I get a chance, I'll install a SB Live! in
+my Linux box and track down the problem.
+
+Today I added a fix from Mike Danylchuk that will make recovering from
+system signals nearly 100% successful.  Mike initiated the original
+Linux server port of UT by porting the Core library before I took over.
+
+I've also added the ability for people to iconify the game, do other stuff,
+then restore the icon to continue playing.  You can enter "iconify"
+in the console or just hit alt-tab if your window manager supports that.
+
+I'll release an update soon that will have these fixes.  My next task
+is to look at the various crash logs a few people have sent in.  Then
+I'll work on the Mesa renderer and work on performance improvements.
+
+A Slashdot poster expressed anger over my section in the readme about
+what happens if the game crashes and doesn't properly shutdown.  The
+purpose of the section was to explain to the user why his system
+was behaving oddly (in the case of, say, the mouse cursor not changing).
+The Linux client is a work in progress and should be treated as such.
+The Slashdot poster in question said he was shocked that the game
+might crash his server and that he might have to restart his X
+server.
+
+You shouldn't be running games on your server.  Especially not
+experimental new clients.  Because the UT client is a work in progress
+some people will have a better time with it than others.  The best
+you can do for the project is to email me your crashlogs.  I may
+not respond to the email, but I will look at the crashlog.  Sometimes
+I email for more information or ask the person to try a possible
+solution.
+
+One other thing.  I thought (incorrectly) that tar would set the
+unarchived file's user and group to the user and group of the person
+who ran tar.  Duh.  All of the files in the archive except a few have
+the permissions greenmarine:greenmarine (except greenmarine is
+truncated to be greenmar hehe).
+
+You can do something like the following to fix it:
+chown -R root:root utdemo/
+chmod -R g-w utdemo/
+chmod -R a+r utdemo/
+
+Thanks to Daniel Erat for pointing this out.  I'll make sure future
+tars have the correct permissions set.
+
+I may disable user specific ~/.utconf files until I have a chance to
+do it right.  A few people have had trouble with them.
+
+---
+
+Haha. Turns out the article below is a tabloid.  Figures I would get pissed
+about something that was intended to be a joke.  Hey, my points still stand. :)
+Next time I'll try to be a little more observant, eh?
+
+---
+
+
+http://www.weeklyworldnews.com/stories/1476.html
+
+Is this not the lamest bunch of crap you have ever read?  I strongly
+oppose the implications suggested here.  Dr. Carmotta is saying that
+geeks are attracted to loser girls.  What the hell is that about?
+From my experience geeks (using the Slashdot definition) are attracted
+to intelligent, self-confident, insightful women who know what they
+are about.
+
+Sexual predators and wife abusers go for the nervous, self-aware,
+slumpy type.  Geeks go for the girls who have sharp minds and
+the desire and ability to express it. 
+	
+    

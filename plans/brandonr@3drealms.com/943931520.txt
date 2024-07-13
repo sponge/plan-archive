@@ -1,0 +1,65 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+On since Mon Nov 29 18:46 (EST) on ttyp0 from 216.27.43.159
+   18 minutes 9 seconds idle
+Mail forwarded to brandon@epicgames.com
+Mail last read Mon Nov 29 04:00 1999 (EST)
+Project:
+Unreal Tournament
+Plan:
+Monday, November 29, 1999
+
+Jack is going to put the new Linux UT distribution up on
+unreal.epicgames.com soon.  Everyone should download this.
+If you already have UT installed, just unarchive the
+LinuxCoreSystem.tar.gz file in your UnrealTournament directory.
+Otherwise, install as normal.
+
+This version fixes problems with the installer.  I've had
+a couple people outside Epic test it and they say it
+works great.  Send feedback or questions to
+utlinuxbugs@epicgames.com.
+
+This version also has other improvements.  DGA mouse is
+now the default.  If you are using XFree86 3.3.3, you'll
+need to disable it by editing the UnrealTournament.ini
+(or Default.ini if its your first run) and changing
+DGAMouseEnabled to false.  DGA mouse improves mouse
+performance quite a bit.
+
+I've also turned off function guarding.  This means
+that the game won't spit out detailed information when it
+crashes, but it gives a pretty decent speed up.
+
+Finally, I've included Erik's optimized bit copier.  This
+should make dedicated server performance better.
+This will be available for windows server operators with
+a maintenence patch that will be released later this
+week.
+
+On to other stuff.
+
+Cliff, James, and I have been absorbed by the Half-Life
+Counterstrike mod.  This mod is so kick ass.  Maybe
+I can use my position as a developer to influence the
+game?  Counterstrike developers: Please please please
+add a Steyr Aug to the game.  That's my favorite
+gun and I'd love to blow away anti-terrorism teams with
+it.  :)
+
+Over Thanksgiving I installed Caldera's OpenLinux
+distribution for my father.  I was surprised at the
+ease of installation.  The entire process was graphical,
+and while the files installed it asked you configuration
+questions.  This is exactly the kind of stuff Linux
+needs to attract less geekish users.
+
+I bought a few new CDs.  Here is what I'm listening to:
+
+Dismember - "Death Metal"
+Dismember - "Massive Killing Capacity"
+Hecate Enthroned - "Upon Promeathean Shores"
+Ancient - "The Halls of Eternity"
+Arcturus - "Aspera Hiems Symfonia"
+	
+    

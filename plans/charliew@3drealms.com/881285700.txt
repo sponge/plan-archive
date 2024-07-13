@@ -1,0 +1,93 @@
+Who did you just finger?: Charlie Wiederhold
+Nick: Wieder
+Email: wieder@ritual.com
+What do I do?: Level/Game Design
+
+========================================================================
+Disclaimer!!!
+The views expressed here are solely that of my own and in no way reflect
+the official position of Ritual Entertainment. Simply put: Don't mind me
+And if I misspell something... it was on purpose. Trust me.
+========================================================================
+
+12-4-97
+===============
+
+Work Stuff
+----------
+Thanks for all the feedback related to 100+ player games and what you think
+would be good for them. Most of what people have been writing about is how
+to handle the situation where you don't have enough players to actually
+fill the map, but still want to play the map. The idea that I had to solve
+this, as well as most of the people who have written, is to setup a trigger
+system that is dependent on how many people are in the map. So, you could
+make a door open or close, or an entire wall disappear based on the number
+of players. Of course, setting this up as a trigger system has lots of other
+cool things that you could do, but you knew that. Someone told me that the
+QTeam people had already done something similar in QC for CTF maps where if
+the other team has no players the base is closed. So, it wouldn't be hard at
+all to do this in SiN if it isn't already a capability in Q2.
+
+Couple of things to think about though in a pure DM setup: What if the section
+that I (or any other level designer) chooses to close off turns out to not be
+the most fun part of the map for you and those playing with you. Lets face it, 
+I don't think we will honestly be able to get 100 people to playtest the map 
+before the product ships. It might happen... dunno. Anyways, it would be cool 
+if there could be some sort system where everyone could vote on sections of 
+the map when it resets. Then, as more people join it would open up adjacent 
+sections.
+
+Another possible problem... several people leave and the number of people has
+now gone below the 32 (or 64, or whatever) player limit and the map shuts off
+the desired section from play. What do you do with the other players that are
+still in the shutoff section. You couldn't leave them to fight to the death,
+because one person would still be left stuck in there, and forcing suicide is
+never an option in my book. You might be able to teleport them to player start 
+spots in the open area... but that seems kinda unfair since respawn kills are 
+annoying. Or maybe make the walls/doors that close off be able to be passed 
+through from the other side, so the player can make his way back into the 
+main field of play.
+
+Doing this type of map is turning out to be a lot more fun than I expected.
+And I'm glad that people have given some feedback into how they think these
+monster DM games will pan out. Of course, there are some people who think it
+won't take off... and that is a definite possibility. But I think there will
+be enough players out there (with more on the way) that a few maps will be
+used frequently. There are plenty of Quake mods out there that don't get
+played as much as Team Fortress, CTF, Rocket Arena, etc... but the people
+who do play them would probably fight to the death if you tried to take it
+away from them. :)
+
+I gain more respect every day for people who design games that are intense, 
+but have a deep enough plot(world? characters?) to care about what is going 
+on. Today Joe and I were going over a certain portion of a design trying to 
+figure out the best way to keep the action high, and yet still provide that 
+good ole rise and fall feeling of a movie/book. Jedi Knight started to 
+scratch the surface of this realm in FPS games, but I know it can go much 
+farther. I hate waiting. :) Let me say though, there will always be a spot 
+on my hard drive for an adrenaline pumping action game where the only motive 
+is to kill kill kill.
+
+Other Stuff
+-----------
+Heh, I now know more about Ford Ranger engines and whatnot than I ever
+expected. Thanks for the help... I'll definately be using it when I go out
+to finally get the truck. Now if I could only find a ride...  :P
+
+Wanted to listen to Paul Simon all day but coudln't find the one CD I was
+looking for so I settled for Percy Grainger. If you know who Grainger is then
+you are cool. As a Euphonium player in high school Grainger music was like 
+heaven. The band versions of his music was just geared to let the Euphonium 
+shine. Whee!!
+
+I checked out Myth a little bit today. Enough to beat the first mission on
+easy. I scewed up sooo bad and still beat the mission. Now that's a great
+easy setting. :) Pretty darn cool. Age of Empires is still my favorite RTS,
+but I think this one could jump up there pretty high if I ever take time away
+from Team Fortress in my spare time to play it. I like how you start off
+with only a certain number of people and fight from there. Cool slant on
+things.
+
+Wieder rolls on outta here...
+	
+    

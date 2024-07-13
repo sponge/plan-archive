@@ -1,0 +1,55 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Dave Kirsch
+Email: zoid@idsoftware.com
+Description: Programmer
+Project: 
+Last Updated: 01/08/1999 00:58:20 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+Jan 7th, 1999
+
+A new release of Quake2 CTF is now available.  This and is an official 
+release of the previous 1.09 beta that was made available earlier and
+also includes three new maps.
+
+What this adds is:
+
+- Full timed competition mode
+- Voted admins who can change maps/kick players
+- Three new maps
+- Full VWep support
+- More server adminstrative functions such as sv_maplist, IP banning, etc.
+
+The new maps are:
+
+q2ctf6 - Borders Canyon
+  Original map by Zoid in base style without side canyons.
+q2ctf7 - Boxed In
+  Based off a Rogue: Ground Zero dethmatch level of the same name.
+  Original map by Jim Molinets, CTF version by Zoid.
+  Warehouse style map with many paths and twisting cooridors.
+q2ctf8 - The Hangar Scenario
+  Original map by Mike "]BC]Casey" Goodhead.
+  Large open map with large hangar rooms to fight in.
+
+***NOTE:  The additional maps come in a pak1.pak that go into your CTF
+directory.  If you already have a third party addon in your Quake2/CTF
+directory, you will have to rename it to pak2.pak or a higher number since
+the Quake2 CTF 1.50 installers will overwrite any existing pak1.pak (with
+confirmation).
+
+Quake2 CTF 1.50 is now available from ftp://ftp.idsoftware.com/ (check other
+major Quake news sites for mirrors later on in the evening):
+
+Q2CTF 1.50 Windows 95/NT Full Client Installer
+Q2CTF 1.50 Full Client ZIP manual install
+Q2CTF 1.50 Windows 95/NT 1.50 Upgrade Installer
+Q2CTF 1.50 Upgrade ZIP manual install
+
+Q2CTF 1.50 Game shared library for Linux Alpha
+Q2CTF 1.50 Game shared library for Linux i386 (glibc systems)
+Q2CTF 1.50 Game shared library for Linux i386 (libc5 systems)
+Q2CTF 1.50 Game shared library for Sun Sparc Solaris 2.5.1
+
+/// Zoid.

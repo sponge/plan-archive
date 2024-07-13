@@ -1,0 +1,214 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: John Scott
+Email: jscott@mail.ravensoft.com
+Description: Programmer
+Project: SoF
+Last Updated: 09/27/1999 00:07:52 (Central Standard Time)
+-------------------------------------------------------------------------------
+Nick: Pagan
+Project: Soldier of Fortune
+
+Disclaimer - The opinions expressed herein are personal and
+in no way represent that of Raven Software or Activision.
+
+27/9
+
+All hail the might of GLSetup!
+
+17/9
+
+Worklog since Monday -
+
+Added newsave command to find a valid save slot and save the game
+Fixed minor bug in getting the background colour
+Fixed bug in loading GGOinstCs
+Fixed bug in loading path_decisions
+Made saving screen ignore autosave slot
+Improved loading and saving screen layouts
+Fixed length bug in tokeniser
+Added improved tint handling to all systems (rather than just stms)
+Shitloads of scripting
+Added sound notetrack support for menus
+Made all menus fit in the screen
+Made panel_mail work
+Fixed loading bug in pathcorner_decisions
+Fixed another loading bug in ai_c
+Put icons on folders
+Fixed bug in access functions in evaluate functions
+Fixed vid_restart in a map with volumetric fog
+Made the login door pegs work
+Fixed bug in weapon precaching which invalidated gameghoul objectlist
+Fixed bug with gamemap and string package precaching
+Changed default volumes for Chia
+Rewrote objectlist shutdown routine to be safer.
+Removed 44KHz support
+Refer to fonts by names
+Added scalable font support
+Fixed bug in input rect
+Allowed modification of tip charset, colour and back colour
+Stubbed in precaching routines
+Fixed bug getting boltpos from ghoul models
+Fixed bug with the wrong bit being sent to the server 
+Fixed bug with baseObjInfo not being freed properly
+Wads of scripting
+Added delay to ticker rect
+Added cvar to not do dynamic stuff while ghoul models animating
+Added cvar indirection to page command in frame (for easy help menus)
+Precached sounds and added click sound on key event
+Made it so you can only outfit with one weapon
+Added disabling of console
+Made it so you can deselect from none base slots
+
+..as you can tell, we are all working hard!
+
+13/9
+
+SoF proceeds at a phenomenal rate.
+
+Just a quick note to wish my younger brother a very happy 
+30th birthday!
+
+26/8
+
+As there is a Duke SETI team, why not a Raven team ? Sign up
+if you wish!
+
+http://setiathome.ssl.berkeley.edu/stats/team/team_6644.html
+
+10/8
+
+Some days it just isn't worth chewing through the straps.
+
+3/8
+
+* Removed duplicate files from filebox. Cleaned up the code
+  for fileboxes.
+* Crosshair not drawn in cinematic sequences or monitor view.
+* Upped bytedir direction table to 250 entries.
+* Added filerequester type object to menus (still tacky)
+* DirectSound works under NT.
+* Added a gamma image to the video menu. We should have
+  consistently lit levels now.
+
+To make DS friendly enough to the system that NT likes it,
+the output is locked to 22k/8bit. I left in the 98 16bit
+stuff, but now it falls back to a more friendly DS rather
+than the squalid wave device. Sound effects appear in the
+same timezone as they were created in NT now :) EAX and A3d
+should work now too.
+
+We are all busy making a demo for QuakeCon and GenCon, its
+pretty hectic around here. Should all be sorted by tomorrow
+tho :)
+
+You have become better at typing! (12)
+
+1/8
+
+* Fixed "Failed command checksum" bug
+* Fixed alpha surfaces in bmodels not being rendered
+  properly (still not perfect - but should be good
+  enough) and not moving.
+* Sorted alpha surfaces, quads and alpha bmodels 
+  properly.
+* Made undulating surfaces shade smoothly
+* Added screenshots to savegames.
+* Routinified lightmap creation code and surface 
+  rendering - multitexture used in more situations now.
+* Used sorted texture chains if multitexture available
+  to reduce texture thrashing (previously it only 
+  rendered by texture if there was no multitexture
+  available).
+* Went out and got completely blasted Saturday night.
+
+Just a note to say that The Blair Witch Project is
+bleeding awesome - thoroughly recommended.
+
+I'm also completely hooked on the Sequencer CD by
+Covenant.
+
+28/7
+
+Our finger server went down over the weekend so which
+is why it took so long for our fingers to get out.
+
+I was dreading the hate mail from my previous update
+but so far it hasn't been too bad ;)
+
+I got a G400 yesterday and they are damn quick. Drivers
+seem pretty stable at the moment too, I'll be using
+it for a couple of weeks and I'll let you know how 
+it goes. The performance is definitely up there with
+the big boys - if not better.
+
+I have been using the Savage4 for the previous month
+with no problems, it seems a good solid reliable card,
+and with multitexture enabled, the performance is 
+definitely very reasonable.
+
+Apologies for not getting back to some people re
+the Heretic2 model format, but I just can't seem to 
+find any time. I started a FAQ over the weekend but
+I've no idea when or whether it will be finished.
+
+Some new choons which may interest people with the
+same whacked out musical taste as I.
+
+Covenant: Sequencer - excellent
+KMFDM: Adios - not as good as Symbols
+NIN: TDTWWA - ok
+Rammstein: Sehnsucht - awesome
+Orgy: Candyass - top
+Depeche Mode: Singles 86-98 - actually very good
+Rob Zombie: Hellbilly Deluxe - good
+Matrix OST - excellent
+
+When I was a lad, DM were the equivalent of the
+Backstreet Boys, I had to overcome that huge stigma
+before buying an album of theirs. It is very good
+though :)
+
+You have become better at musical appreciation! (68)
+
+23/7
+
+The IRC chat the other night was a lot of fun, thanks
+for so many people turning up! There were a few
+common questions that I'll give the official line
+here - please bear in mind that this is the official
+line and not necessarily my opinion.
+
+1. Will there be a Linux port ?
+There are no plans at the moment, however, we
+realise that this will increase the number of
+servers out there and will be a big support for 
+the Win32 users. It all really depends on how
+many units are sold, we are not in the fortunate
+position of being able to support an OS because
+it would be cool to do so.
+
+2. Will the tools be on the CD?
+No. They will be available for download soon
+after we go gold. It is just one thing we don't
+need to deal with during the stress of getting a
+game finished. There isn't enough space on the CD
+either :) This also gives us chance to write 
+help files and make demo maps and sample models.
+
+3. Will it be as violent as people say it is ?
+Yes. There will be a strong parental lock option,
+however, so there is an option to turn off the gore
+and sanitise the violence. We have made the game
+for adults and there will be a warning on the box.
+
+22/7
+
+A bit of self pimpage....
+
+Nathan and I will be doing an IRC interview this
+evening at 7pm CST (thats 1am GMT) on irc.3dnet.net
+in #gamedesign. Any questions you have about Raven
+or SoF, bring them along......
+
+ 

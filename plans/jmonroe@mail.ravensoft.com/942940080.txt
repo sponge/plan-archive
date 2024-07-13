@@ -1,0 +1,16 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: James Monroe
+Email: jmonroe@mail.ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: James' Web Site
+Last Updated: 11/18/1999 11:38:09 (Central Standard Time)
+-------------------------------------------------------------------------------
+well, yesterday jeremy pestered us to the point of doing something about dynamic light's failure to actually light up dark areas.  this is due to the way it was blending into the scene.
+after a lot of trials, we got something which worked pretty well.  Still kept the tint of the d-light, but also added light to the scene.  
+
+then they got cocky and tried to fix the huge column of light it puts out. the d-light used x/y changes for falloff so when you shoot a wall, the d-light will make a column of light up and down the length of the wall.  and borg cubes have pretty damn tall walls.  they fix they came up with was pretty nifty and did a good job on the walls, but only near verts.  so the middle of the wall would not get a light - bummer.  and it also messed up on some floors.  so we had to put it back to the huge column of light style until we think of a better way.
+
+but hey!  at least dark shadows will actually get lit now!

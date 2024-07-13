@@ -1,0 +1,98 @@
+Account Name:  Brian Cozzens
+Email address: brianc@3drealms.com
+----------
+Brian "Whaleboy" Cozzens
+Description: 3D Modeler/Animator/Artist
+Project: Duke Nukem Forever
+3D Realms / Apogee Software
+---------
+
+3-10-98 Part 2
+
+Just recieved word that Maya NT is in beta, and seems to run fine on a Pentium Pro 200 with an average Glint 500 board. Rumor has it that it won't be released till probably next winter.
+
+I'm also glad to see SGI is trying to penetrate the mid-range market. Which appears to be what they're doing as they will be offering some machines that run NT in the next few months.
+
+They don't promise that the NT versions of Maya will keep up with the IRIX versions, but hey - having it available on NT rocks.
+
+On another note, I've gotten a few questions about what package is cheapest and most decent to learn modeling in. I myself first started in 3D Designer, which was a watered down version of Topaz, it was cheap for what it offered, but difficult to model in. Pretty sure they don't make it anymore.
+
+It was when I finally bought TrueSpace that I learned the fundimentals of modeling and animation, in fact the interface was so simple I rarely ever had to look at a manual or help file. I just ended up winging it. From there I worked myself to Lightwave, then 3DS Max. I actually know of alot of modelers that originally began in TrueSpace2.
+
+So for learning the fundimentals easily, I would most likely recommend TrueSpace2 or 3. You can even download a free demo here:
+
+TrueSpace2
+http://forms.caligari.com/forms/ts2down.html
+
+TrueSpace3
+http://forms.caligari.com/forms/ts3down.html
+
+Retail price on these cute little packages are $199.00 for 2, and $495.00 for 3.
+
+hope that helps. :)
+
+END OF LINE.
+
+------------------
+
+3-10-98 Part 1
+
+Well, from what I hear Maya looks to be ported to NT eventually, which will be extremely cool. Most of what I've heard about it has been word of mouth, up to and including someone already testing a beta. Has anyone else heard or can confirm a Maya NT port? If so, drop me a line.. :)
+
+END OF LINE.
+
+------------------
+
+3-6-98
+
+Cannibal rocks! Its a rocking rockful utility made for us rocking artistic gods here! We crush our enemies with this rocking utility made by our rocking programmer Kiwi, who crushes and rocks! rocking!
+
+It's Hard Core!!!
+
+:)
+
+END OF LINE.
+
+------------------
+2-19-98
+
+I had gotten an e-mail asking about some palette issues. One of which was a process of having an algorithim look at a group of textures, grab the colors from those, and then average them out into one 256 color palette. This would technically be ideal, except for the fact that you have an intensity table.
+
+  In the Quake engine, lets say you've got a wall. Purple wall, with a light near the top of the wall. Now the top of the wall, would be bright and the bottom dark - of course. What if this algorithim that generated this palette didnt find any bright purples/dark purples in any of the textures it averaged from? Or if it only found 3 different shades? What does this mean? Basically it means you'll have a purple wall, that shades down only three times.. ick! 
+
+And it will try and find the next best color to ramp down from light to dark on the texture. Not helpful in the banding department, and doesnt look hot either.
+
+  So for anyone out there trying this process, this should be helpful. For your enviroment to look its best, for every different color you have, you need to have an accompanying shade for it. But this is only the case in 8-bit.
+
+Did I mention I LOVE 16-bit?
+
+Oh, almost forgot. Why cant Chris figure out bi-peds dont have 3 legs? You'd think a modeler would know this! :)
+
+-Brian
+
+END OF LINE.
+
+------------------
+2-18-98
+
+Its raining outside, damnit.
+
+And to think earlier today was gorgeous, this must be some sort of a compromise!
+
+Anyhoo, update? I myself have been busy working on weapon models and their animation, including their skins. One of which being a rocket launcher, which I'm just now applying the final tweakies. Been doing a little multi-tasking with some texture work. Also been pullin out some concept sketches and all that good stuff.
+
+As far as web graphics, I'm almost finished. Joe is still prodding me every 5 hours for a new graphic. ;)
+
+Mikey is busy workin' on character animation and concepts. He's been comin' up with some very cool stuff! That animation is groovin' along too.
+
+Mr.Johnson, which I have to occasionally slap around is also working on some excellent character animation.. His current target is a chick model. As we all know, unattractive female characters don't exist in games, especially ours. ;)
+
+Was working with Kiwi on utility tweaks, wee! He's been working on a MAX plug-in which should make the character animation process so much easier it hurts. Of course, it would simplify pretty much anything with animation. But the important part is, it drastically decreases the time it takes to bring the model from MAX toour format.
+
+I would follow the .plan trend and talk about 3D cards and their features, but work calls!
+
+-Brian
+
+END OF LINE.
+	
+    

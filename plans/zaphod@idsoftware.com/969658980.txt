@@ -1,0 +1,346 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+Last Updated: 09/22/2000 16:11:10 (Pacific Standard Time)
+-------------------------------------------------------------------------------
+9/22/00
+
+I thought we'd never get this out the door!
+
+The Win32 1.25 point release is now out.  It fixes and adds many new features to Quake 3 Arena.
+
+	-	global rankings support from www.globalrankings.com
+	-	new awards
+	-	new pure server support
+	-	new protocol 45
+	-	score plumes (these are cool)
+	-	headmodel/model/team_model/team_headmodel support (orbbs head on sarge is funny)
+	-	banning of weapons on servers
+	-	dropped sound fixes
+	-	new announcer sounds
+	-	new smoothed client support for modem users
+	-	MD4 skeletal model support
+	-	new encryption
+	-	new botlib version and area files
+	-	and much much more (hint: read the readme this time)
+
+Because we've added so much I think we're going to call this a "Public Beta".  We'll put up
+the Mac/Linux/OS X builds as they roll off the line.
+
+GO FRAG!!!
+
+9/18/00
+
+I've gotten many emails regarding Q3A for Mac OS X Public Beta.  Yes, we're working on
+a build, but it will go hand in hand with the forthcoming point release.  All Mac users
+will notice a significant speed increase with this point release (when showing it to
+Apple they said "woah, how'd you do that?")
+
+I've also gotten lots of emails about an older game of mine, The 7th Guest.  Trilobyte
+still exists as an entity and holds all the IP/distribution rights to 7th Guest, 11th Hour
+etc.  You can still purchase Clandestiny from the Trilobyte web page (www.tbyte.com).  I'm
+sure at some point there will be another Guest game, but right now I'm having way too much
+fun at id which remains a rockingly good place to work at.
+
+7/24/00
+
+Back from MacWorld, and quite the MacWorld is was too.  Gotta love the cube!
+
+Walking around the show floor and talking to the various Mac developers and publishers 
+it's clear that the level of support Apple is providing across the game community is making 
+a huge and positive difference.  I've worked with Apple on and off for 12 years or so (since 
+7th Guest days, and before that when I was at Virgin), and within the last year have felt their 
+presence as more and more of a partner in my endeavors to make this platform rock.  My 
+thanks go out to Mike, Heather, Wallace and Geoff for their efforts above and beyond the 
+call of duty, and I know a lot of other developers are there with me.  Apple is really
+there for game developers right now.
+
+I'll be adding the SMP support into Q3A and shipping a build off to Apple today.  We've 
+already got that stubbed in there.
+
+The platform is exceptional.  In the last 2 years Apple has sold 3.7 million iMacs (not 
+including G4 and G3 towers).  That's one every 18 seconds.  Out of that, over 80% of 
+those machines are on the Internet.  When Apple launched iMovie, the digital video editing 
+software for the iMac, they found that over 45% of those with iMacs capable of using 
+iMovie were using it.  These are incredible figures.
+
+7/16/00
+
+Ah, off to New York for Mac World.  We've got a nice surprise there for everyone.
+
+If anyone wants to get together out there, I'd be happy to sit down over a
+Guinness and talk.  I've worked in Mac OS X DP4 since WWDC, and have lived well.
+
+6/9/00
+
+We're moving office today.  Of course, various forces have collected to ensure that
+our T3 line is not moving over smoothly, so Xian has had his hands full (well, mostly
+his ear on his phone) getting things lined up.
+
+We will be installing a second master/auth/motd server at the new office so that when
+the switch happens, things //should// go smoothly.  Of course, things //may// not
+go smoothly, in which case, the master server will be down.  If the auth server goes
+down, all servers automatically authenticate, so the worst case scenario is that the
+in game browser will report no response from the master.
+
+5/9/00
+
+Just finished a final MacQuake3 fix for Q3F and other mods.  It should be up and
+around soon (it needs the latest point release to run).  If any other mods had compile
+issues on the Mac, then this patch should fix it as well.
+
+I'm off to E3 tomorrow, and then onto WWDC.  Hopefully I'll see some of you at E3 and
+WWDC.
+
+5/8/00
+
+If anyone out there wants to try my new MacQuake3 fix quick for playing Quake 3
+Fortress on a Mac, drop me an email (next 30 minutes).
+
+5/8/00
+
+Well, E3 is coming right on up!
+
+John Cash departed from id last Friday to a new position at Blizzard.  I'll let him
+fill you in on what he's doing there, but we miss his CTF skills already!  We wish
+John all the best, and id looks forward to the forthcoming Diablo II beta copies..
+
+:)
+
+Had to throw that in.
+
+5/5/00
+
+The mission pack CD will actually have builds for Mac, Linux and Win32.  We'll see
+if we can stick some OS/X action in there as well..
+
+5/3/01
+
+50 million MOTD messages since the beginning of the year!
+
+Okay, so if I have the math right, that's around 5 game startups per second 24/7!
+
+This is one thing that disturbs me about stats.  Churn through in games like Q3A is
+obviously huge, but gameplay time is obviously smaller than other games like Everquest,
+so how do we measure?
+
+Merge 93.3 was here the other morning, of course, we destroyed them in deathmatch, but
+since then I've listened to them online a bunch (www.merge933.net) and feel the need
+to plug.
+
+4/5/99
+
+id has a Q3F server up at 192.246.40.127, id is red, world is blue.
+
+3/21/98
+
+Okay.  X-Files back on track.
+
+I've been thinking a lot about this whole idea of giving out degrees in game
+design, and it seems that thereصs a genuine need to be pro active in bringing
+new people into the community and teaching them some of our mysterious ways.
+What I'd like to look at doing for those people not enrolled in game design
+courses at school (who teaches those anyway?) is to start a small skunk works
+inside id that has active ongoing support from a few people here, a small
+budget, and actively encourages and teaches our trade.
+
+A lot of us (myself included) started out coding in the bedroom and things like
+game design documents, schedules, and team coordination were not exactly things
+we looked at making or doing because back then no one did.  Nowadays if you want
+to make it in the commercial biz of games you've got to be very savvy at
+producing a game design that's coherent, conveys the message clearly and
+concisely to the team, and has set goals that can scheduled.
+
+Anyway, I'd like to propose that our new skunk works helps out by helping the
+game design process, looking at maps, looking at code, and communicating
+directly between us, other developers, and the community at large.  It's only in
+our best interests to pass on knowledge, get input and give input on what we're
+doing, and help make this industry grow.
+
+Thoughts?
+
+2/28/97
+
+X-Files.  I like X-Files.  I didnt like the episode last night -- in fact it 
+was awful.
+
+Mr. Gibson, if you want to come down to id and hang out and see how a real
+developer makes games you are most welcome.  Heck, you can even help out
+on ids next game thereby staying here long enough to get our culture.
+
+2/17/96
+
+The pre-release of the alpha for the forthcoming beta of the pre-build of the
+next point release should be out tonight.  Details to follow from Robert Duffy.
+
+2/09/97
+
+Doing a real .plan thing.
+
+I'm looking for a video sequence of high resolution lossless digital images that
+we can use in some experiments we've got going here at id.  Up until now we've
+been using the in-house rendered stuff, which is great, but I've previously used
+some nice standard sources that really test things out like compression and 
+color
+space conversion issues.  Any pointers would be appreciated.
+
+2/03/1009999e+7
+
+id vs. the world ctf at 192.246.40.223.  id is red, world is blue.
+
+1/21/97
+
+Just read the PQ article.  Yes, that was an awesome game, I think it was a 
+little
+closer than the score indicated.  We're itching for a rematch!  I've never had
+a game with so many excellents and impressives over my head, and for it to
+take a full 50 minutes was something else, it was truly riveting.
+
+BTW, I didn't mean we're not going to play CTF vs. anyone anymore, just that
+we're not playing right now.  We have to do some work sometimes!
+
+1/21/98
+
+Okay, we're not playing CTF anymore.
+
+1/20/98
+
+id vs. the world ctf at 192.246.40.223.  id is red, world is blue.
+
+1/17/99
+
+Mr Elusive just put together some bot editing documents, the file is available
+on our ftp server:
+
+ftp://ftp.idsoftware.com/idstuff/quake3/tools/Q3ABotEdit.zip
+
+We've been following the whole DLL vs. VM debates, and id is firmly on the side
+of using VMs for game mods.  We will be addressing the "auto swap" VM
+depending on which server you go to quickly (this was a bug) but I think we
+will be strict on saying that people should use VMs over DLL files.  The next
+executable release will probably have a warning screen come up that you will
+need to agree to and click through if the game is about to load a DLL.
+
+1/14/99
+
+Okay.  I see a lot of people with awaiting CD Key authorization questions.
+
+In almost all cases, this is due to the IP address of the authorize server
+being wrong because the hosts file on the client has somehow been altered.
+You can test to see if this is your problem by going to a DOS prompt and
+typing the following:
+
+ping authorize.quake3arena.com
+
+If you get the following, then your system has an invalid entry somewhere
+redirecting the authorize requests to the wrong IP address.
+
+Reply from 127.0.0.1: bytes=32 time<10ms TTL=32
+Reply from 127.0.0.1: bytes=32 time<10ms TTL=32
+Reply from 127.0.0.1: bytes=32 time<10ms TTL=32
+Reply from 127.0.0.1: bytes=32 time<10ms TTL=32
+ 
+If youre running Windows 95/98, then in almost every case editing the file
+called hosts which resides in your c:\windows (or wherever youve installed
+windows) directory and removing any lines that mention
+authorize.quake3arena.com can fix this.
+
+Various cracks and CD key gen utilities (none of which actually work) appear
+to be the culprit, adjusting your hosts file without your knowledge or
+consent.
+
+1/12/99
+
+I just finished making the Macintosh point beta release.  It'll be on the usual 
+mirrors
+soon.
+
+12/21/99
+
+Here's the cliffnotes version of most of the bugs we're looking at.  I'll make
+the actual feature database available as HTML at somepoint soon so
+everyone can take a look as to what issues we're addressing.
+
+- New scoreboard.
+- New team scoreboard
+- Voting can change the gametype if the new map doesnt support the current 
+gametype
+- Misc icon fixes
+- Team overlay tidied up
+- Spectators can go through doors
+- Late player start on screen score display fixed
+- Re-add mouselook
+- Callvote nextmap
+- Extra/different pakfile disconnect bug fixed
+- Packetloss on the scoreboard
+- Delay deferred loading of players until after death
+- Server browser remembers show full/show empty status
+- Server browser will not refresh on stopped lists
+- Show IP address in server browser
+- Compressed sound support
+- JPEG from disk support
+- Cache filefind results so we do not requery the filesystem every load
+- Make 10.x.x.x and other public addresses not use auth server
+- Protect CD key into a different file
+- Improve overall error reporting to user
+- Make sure everyone can command the bots
+- Load/Save config re-added
+- Bots don't start kill, hitnokill, or hitnodeath chats when there are nearby 
+enemies
+- Awaiting snapshot/gamestate issues resolved
+
+12/21/99
+
+While I've been out with the rest of the world trying to get a Barbie Cash
+Register for my daughter, I have actually been doing a bit of work!
+
+Activision's release QA process found two bugs in the Mac build that I felt
+important enough to fix.  One bug was in the client, and the other in the
+installer.
+
+I fixed them both last night and Activision has a new master candidate.
+
+I've heard sporadic reports that the Mac demo has problems, but I've yet
+to be able to repeat that issue here.
+
+I'll update my plan file today with the [long] list of things we're addressing
+for the point release (yes, we've fixed the scoreboard).
+
+12/16/99
+
+Mac demo will be out tonight.  Mac full version is also complete.
+
+12/14/99
+
+Churn time.  We define Churn as the number of unique people that authorize
+in a five-minute period.  At peak now were at around 1700 people in a five-
+minute
+period, and at off peak were at 500.  Peak is around 5pm-11pm and off-peak is
+8am until about noon.  As we get more international I expect this to level out.
+
+Weve been testing Q3A for Y2K compliance.  Heres the results:
+
+1.	Power failed due to Y2K glitch.
+
+Q3A does not run if the power has failed because of a Y2K glitch.  Multiple
+attempts to bring the computer on using a series of car batteries and two lines
+of tin Q3A boxes did bring the computer up for a second, but the resulting fire
+and damage to the building did not allow us to recommend this solution.  We
+apologize to Rogue for using their office and cars to test this.
+
+2.	Computer has crashed because of a Y2K glitch.
+
+Q3A does not run if the computer has failed.  Installation of a different OS 
+could be
+the recommended solution, but the Y2K glitch had caused the computer to 
+unrepentantly
+jump out the window in a vain attempt to continue crashing.  We apologize to 
+Rogue for
+using their computers to complete this test.
+
+3.	The worlds nuclear arsenal goes off because of a Y2K glitch.
+
+Q3A does not su

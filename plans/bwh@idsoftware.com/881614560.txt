@@ -1,0 +1,37 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 12/08/1997 16:53:57 (Central Standard Time)
+-------------------------------------------------------------------------------
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+December 8, 1997 (part 2)
+------------------
+
+Well, The Press Release was released today.  SGI and Microsoft announced,
+basically, that OpenGL was officially "cool" by Microsoft.  Now, Microsoft
+still prefers Direct3D for consumer apps, since they're fools, but they've
+acknowledged that OpenGL is a force to be reckoned with.
+
+I don't have a URL for the SGI/Microsoft co-announcement, I got mine via
+e-mail, but I'm sure if you look for it that you can find it out there on
+the Web somewhere.
+
+The gist of it is this -- it's now okay to write a game with OpenGL.  The
+SGI DDK is now going to be a part of the standard Microsoft OpenGL DDK for
+Win95 and WinNT, and comprehensive support is going to exist for OpenGL.
+
+Interestingly enough, it's obvious that Microsoft is terrified that people
+like, say, game developers WILL use OpenGL for games.  The press release
+has all kinds of statements about "professional" applications.  To wit:
+
+"...push the limits of where professional 3-D..."
+"...migrati

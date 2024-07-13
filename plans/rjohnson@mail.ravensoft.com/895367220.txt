@@ -1,0 +1,39 @@
+Welcome to Raven Software's Finger Service V1.4!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: SoF
+Last Updated: 05/16/1998 22:02:56 (Central Standard Time)
+-------------------------------------------------------------------------------
+5/16/98
+   With the new QW released, Zoid will be sending me those changes
+      to be incorporated into HW.  We'll then put out a new version
+      of HW to test compatibility and stability.  After that, we'll
+      release probably what will be the final version of HW.  Zoid
+      also said he'll compile a few unix ports of the server
+      (only those flavors which run on Intel), and so unix versions
+      will be released along with that.
+
+5/12/98
+   Decided to talk a little about all of the lawsuits being filed
+      against Microsoft.  I've come to the conclusion that the lawsuits
+      are a waste of time, tax payer dollars, and ultimately will do
+      more harm than good.
+
+   What's the big deal with Microsoft including Internet Explorer 
+      with its OS?  Although not on the same scale, it is not different
+      than Microsoft including Word Pad, Paint, HyperTerminal, and
+      the other built in games.  There are all commercial products 
+      of these things, though with many more features.  Yet, no one is
+      throwing a fuss over them.  Microsoft has included these products
+      ever since Win 3.0.  But somehow, including Internet Explorer 
+      is different.  And yes, I do know Microsoft signed some deal with
+      the Justice Department, but that's not my point.
+
+   Oh, one other thing about CGDC that I forgot.  A certain hardware
+      company was using a statement by John Carmack to hype up its
+      products.  A spokesman for the company was saying something like
+      "That even John Carmack recommends our card for his Earth Quake 
+      and Earth Quake 2 games."  hehe
+

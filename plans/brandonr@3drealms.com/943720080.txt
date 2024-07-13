@@ -1,0 +1,47 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+On since Sat Nov 27 13:15 (EST) on ttyp0 from 216.27.43.234
+   18 minutes idle
+Mail forwarded to brandon@epicgames.com
+Mail last read Sat Nov 27 04:00 1999 (EST)
+Project:
+Unreal Tournament
+Plan:
+Saturday, November 27, 1999
+
+Answers to Linux problems:
+
+A few people are reporting that the UT linux installer is
+telling them "this installation doesn't support glibc-2.1
+on x86" when it does.  You can get around that by either
+copying the files listed in setup.xml by hand and then
+opening the tarballs into the UnrealTournament directory,
+or by calling the X installer directly:
+
+./setup.data/bin/x86/glibc-2.1/setup.gtk
+
+I hope to release a new version of the Linux stuff soon
+and I'll fix the script that wraps around the installer.
+
+Also, John Drohan points out that the installer needs
+libglade and libxml installed.  I, being the quintessential
+Linux newbie, thought these were standard.  Of course
+not!  Nothing is EASY in Linux.  Well, I'll include those
+libs with the next distribution, which should be coming
+around soon.
+
+If you have render error messages, delete Default.ini,
+and UnrealTournament.ini.  Then copy LinuxGlideSystem.tar.gz 
+into your UnrealTournament directory and open it.  Then 
+run the game again.  It appears the permissions are wrong 
+on the original Default.ini, so installing as a non-root
+user fails to overwrite the file with the glide config.
+I haven't confirmed this, since I just got back from
+Thanksgiving and haven't looked into it.
+
+
+
+By far the largest number of reports are about the
+glibc-2.1 problem.
+	
+    

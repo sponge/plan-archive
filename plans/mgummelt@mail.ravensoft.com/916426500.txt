@@ -1,0 +1,288 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Mike Gummelt
+Email: mgummelt@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 01/15/1999 14:37:16 (Central Standard Time)
+-------------------------------------------------------------------------------
+2:09 PM January 15, 1999
+
+Aliens vs Predator, continued...
+
+Well I finally played the Marines demo
+for Aliens vs. Predator and it was
+definitely better, but there were still
+a few things that irked me about it.
+This time I think I can nail it down to
+a few specific problems:
+
+The Design/Game Flow:
+I don't know if this game is intended
+as a primarily Multiplayer game or
+not, but the single player experience
+seems a little weak.  Not because of
+look or atmosphere- that's all done
+very well.  But rather the sense that
+I'm totally alone and the aliens tend
+to be scattered evenly about with
+no real purpose.  They will close in
+on me, but it seems like they're just
+placed one per corridor or something
+like that.  In the films, they came in
+droves, not one at a time like henchmen
+in an old kung-fu film.  And they
+didn't come in a steady stream- there
+were long moments of wondering where
+the hell they were.  They were also
+a little too tough to kill- if they
+came in larger numbers, you could make
+them easier to mow down.  Of course, I
+presume the designers of the game
+have them show up in small numbers
+because their engine can't smoothly
+handle 10 aliens on the screen at a time.
+But given the subject of the game, they
+should make their engine be able to
+do it (if it can't already).  Speaking
+of the aliens, their movement seemed
+odd as well.  Not their running on
+walls and ceilings- that was cool-
+but the fact that they'd alternate so
+randomly between crawling and running
+on 2 legs.  The running on 2 legs looks
+weird in general, but the part that
+bugged me was that they'd alternate their
+mode of movement without any apparent
+reason.  Maybe it's because they moved
+so fast, I don't know.  And their attacks
+felt odd, I didn't know how I ever died,
+but I guess that's how it might
+feel.  Though seeing an alien inner
+jaw shoot into my forehead would be
+cool or have my body be taken away
+after death might be nice.  Also
+being picked up by an alien from
+above would be pretty cool.
+
+I still didn't like the head tilting when
+you strafe either, seems like it should
+tilt in the other direction if at all.
+
+I would have also liked it if I had just
+the simple shoulder flashlight they had
+in the movies.  Having to use the infrared
+visor so much was a little annoying.
+
+This is kind of a pipe dream- but shadows
+would really add a lot to the atmosphere...
+
+The flamethrower was kinda lame- in the films
+it would fry aliens pretty quickly but in
+the game the aliens just run around on fire
+and keep attacking you for a while.
+But this is probably the toughness of
+the aliens issue.
+
+Not having Marine buddies felt wrong also.
+I would like to see NPC bots that go around
+will me and get nailed.  One marine can't
+realistic fight off a horde of aliens
+(though the game could be made that way)
+so I'd like to have my marine squad with
+me.  At least have a Co-op mode with lots
+and lots of aliens.  What was really weird
+was I could see on monitors other marines
+moving around in areas I had just been,
+but they obviously weren't anywhere to
+be found.  Just hearing the banter,
+screams and radio chatter of your
+fellow marines would add so much...
+
+The sound in general needed some help as
+far as the marines go- the death and pain
+sounded like they were lifted straight 
+from the film and cut short.  Otherwise,
+the other sound effects (also sounded
+lifted) worked well.
+
+The eggs I saw were cool, but I'd like to
+see one open and have a facehugger crawl
+out of one.  Speaking of facehuggers,
+they moved a little to steadily- they should
+skitter around more in fits and bursts.
+Like spiders almost.  And when they jump
+at you, a little more airtime would be
+nice so you can shoot them out of the
+air.  Same for the aliens.
+
+What I did like:
+
+The infrared view was very nice.  Definitely
+captured the feel of the movie.  I especially
+liked how areas around lights and explosions
+would totally wash out.  The infrared was a
+little too handy sometimes, but I liked that
+they made it a handicap in brightly lit areas,
+and the fact that you couldn't use the motion
+sensor when in IR view (though you should still
+hear it).  Still, if they'd given me a
+flashlight, I would have preferred to use it
+in most areas because it would make the
+atmosphere of the dark corridors and flashing
+lights really more effective.
+
+I liked the base gun.  It had the right sounds
+and seemed to be the right strength, generally.
+The underslung grenade launcher, however
+was mysteriously missing the proper sound
+effect.  The explosion of the grenade,
+however, had a very nice dynamic light
+on it that really lit up the dark areas nicely.
+
+The motion sensor was very very cool-
+pretty much perfectly implemented.  It
+added a lot to the feel of the game.
+
+The alien deaths were really pretty
+cool too- they'd slide along the
+ground after dying and thrash about.
+Nice.
+
+I liked finding supplies and health
+among remains of dead marines-
+though finding coccooned marines would
+be cool too ("Kill... me...").  I also
+liked that if you shot a grenade
+at supplied they were gone.
+
+
+Overall, it was pretty good and one time
+genuinely scared the bejeezus out of me.
+I'll have to try it again with the Aliens
+soundtrack in my CD drive.  Hopefully,
+they'll put in more more dramatic game
+flow and some of the nice touches I
+mentioned here...
+
+
+
+When did my finger become a game review
+column???
+
+cut here:
+8<================================================
+
+10:19 AM January 13, 1999
+
+Happy (belated) New Year!
+
+Played some Aliens vs. Predator recently.
+I have had an affinity for the Aliens vs.
+Predator concept since the first comics
+came out from Dark Horse.  I guess being
+an aspiring sci-fi filmmaker, it's natural
+for me to love the whole idea of Aliens
+vs. Predator.  My first mod, in fact,
+was Aliens Doom 3: Aliens vs Predator (as
+a direct result of playing the Aliens TC
+for Doom by Justin Fisher).  Then when I
+did Ultimate Quake I had put in Predators
+and was working on putting in an Alien (I
+had also plundered a lot of other sci-fi
+films and franchises).  So when I heard
+that there were 2 new Aliens vs. Predator
+projects going, one official, one not,
+I got pretty excited and I've now had a
+chance to try them both out.
+
+I played the first FOX demo version and I
+was kind of turned off by it.  Something
+about the feel... the control and movement
+and weapons for the Predator just seemed
+"off".  It's hard to pin down, but the
+gameplay just felt "off" and wasn't
+very fun.  And I really gave it a shot,
+I really WANTED to like the game, but it
+just didn't do it for me.  But it is
+just a demo and I have high hopes for
+the final version.  This is one of
+FOX's best game liscences and I hope they
+didn't screw it up just because they
+wanted to develop and publish it themselves
+rather than let a more experienced and
+proven developer do it.
+
+Then I played the Aliens vs Predator mod
+for Quake II last night.  I tried to run
+the v0.99 version I had just downloaded
+and it seemed quite broken.  There was no
+readme so I figured it might be multiplayer
+only and joined Capt_Blood's_MD_Predator
+server.  The guy running the server was
+kinda a jerk but I guess he was having a
+bad day.  Also, he was running v0.98 since
+v0.99 was unplayable so everyone was
+complaining and that probably contibuted
+to his impatience.  I did eventually
+get him talking and discussed the game
+a little.  To me it seemed a little incomplete
+for a 0.98 version, I see a few more 0.99A,
+0.99B, etc. versions coming out before
+it's fully done.  Apparently there was a lot
+of stuff added and redone between 0.98 and
+0.99 so I don't know what they've fixed and
+added that I felt was missing from 0.98.
+Essentially, it felt like an early beta,
+the Predator didn't really look or sound like
+a predator, and even being the predator
+didn't feel quite right (I coudn't jump
+very far, and my plasma shot seemed rather
+weak and I didn't do well- but I guess if
+I'd had a readme to tell me how to cloak
+and so on it would have made it easier).
+The multiplayer gameplay seemed odd to-
+you have 1 predator per 6 marines and
+whoever kills the predator becomes the
+marine.  It just didn't make sense, especially
+with all the marines running around killing
+each other and not working together to kill
+the predator.  I suggested a mode where the
+Marines work together on a team, in a base or
+jungle setting.  There is still one predator
+per 6 marines.  The marines' objective is to
+kill the Predator and the Predator's objective
+would be to kill all the marines (6) to win or
+get a point.  The Marine TEAM would get a point
+for killing the Predator (rewarding working
+together).  But when I started to suggest this,
+the server admin (who says he's working on the
+game also) replied "then they'd be helping
+someone else get a frag!"  so I guess he
+just didn't grasp the concept of teamplay.
+
+Anyway, I've rambled on, and anyone who's
+still reading this must not have anything
+much better to do.  In short, I found both
+Aliens vs. Predator projects lacking.  I hope
+that one or the other really sits back and
+tries to make a more immersive, fun, realistic
+and dramatically interesting game (though the
+mod will most likely be pressured to shut 
+down if FOX gets wind of it).  That's the
+big problem with games based on movies
+is that the developers tend to forget the
+appeal of the films is in the character
+consistency and the drama.  A game based on
+a movie or TV franchise (like Star Trek)
+needs to make the player FEEL like he's
+in that movie or TV series, not playing
+Quake with Predator weapons.  The gameplay
+should reflect the dramatic context of the
+source material.  More on this in a later,
+more revealing finger update.
+
+And that's my rant of the day.
+
+cut here:
+8<================================================

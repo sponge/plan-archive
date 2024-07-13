@@ -1,0 +1,52 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: SoF
+Nickname: Superfly
+Web Page: Rick's Web Site TurtleCam! mEATwagon Cult
+Last Updated: 02/23/2001 11:05:30 (Central Standard Time)
+-------------------------------------------------------------------------------
+2/23/2001
+   I'm putting together a new release of the Hexen2 source.  This is mainly to add the the original 
+      Hexen2 source code.  Please let me know if there are any additional sources you would like to 
+      see (specifically tools source that I might have not included in any previous public releases).
+
+   SoF Patch is in a weird state of limbo, mainly because of the demise of WON / FlipSide, MPlayer, 
+      Global Rankings, and all sorts of stuff.  We've got one thing ready, but it is out of my hands at
+      this point.  Once we do release the patch, I will put out an update to the game source code.
+
+   As for what I'm working on as my main tasks, I can't say.  That won't be announced for some time
+      (not what you expect either).  
+
+   And, as for the Doom3 Technology, the video footage from the Mac Expo truely doesn't do it justice,
+      until you can see it in person at a much better quality.  Each time I've seen the technology, I've
+      been more and more impressed.  
+
+   Oh, and if anyone knows any good military strategy type games, in the same style as The Perfect General
+      or Empire Deluxe, let me know.  I've been wanting to play one that has been made within the last
+      few years.
+ 
+12/14/2000
+   Some point soon, I'm going to release a new version of the Hexen2 source code.  I'm planning on adding
+      the original Hexen2 source (vs the Mission Pack source that was in the original release) as well
+      as some utility source that I left out.  I'll also try to clarify the license agreements as well.
+
+   So I'm a little late about my further comments of the Game Boy Color - I'll try to get to that soon.
+
+11/30/2000
+   So what do programmers do on their time off?  They program of course.
+
+   Back in August, Jake Simpson and I went to this little event called QuakeCon.  On the plane ride
+      down, I started to play with his Color Game Boy - never owned one, never had much interest.
+      We got to talking about how one would develop for it, and that it would be pretty cool to 
+      fool around with it.
+
+   About a week later, he sent me a link to this web site.  Apparently, there has been a
+      net community that has been doing hacking / development for the Game Boy and Color Game Boy.
+      While none of this is officially sanctioned by Nintendo, everything you need to create your own 
+      games is on this site.
+
+   Well, time passed and I didn't have any spare time until very recently.  I had to go up north to spend some time
+      with my pare

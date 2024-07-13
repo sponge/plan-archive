@@ -1,0 +1,238 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 3 Arena
+Last Updated: 09/02/1999 20:48:38 (Central Standard Time)
+-------------------------------------------------------------------------------
+9/2/99
+------
+
+I have been getting a lot of requests for commentary on two subjects lately:
+
+Nvidia's new geometry accelerated card with the funny name.
+
+It is fast.  Very, very fast.  It has the highest fill rate of any card we
+have ever tested, has improved image quality over TNT2, and it gives timedemo
+scores 40% faster than the next closest score with extremely raw beta drivers.
+
+The throughput will definately improve even more as their drivers mature.
+
+For max framerates in OpenGL games, this card is going to be very hard to
+beat.
+
+Q3's target of about 10,000 triangles a frame doesn't stress this card at
+all.  If you want more polygons out of Q3, you can do:
+
+r_lodBias -2			// don't use lower detail models
+r_subdivisions 1 		// lots more triangles in curves
+r_lodCurveError 10000	// don't drop curve rows for a long time
+
+I haven't looked at the stencil shadow stuff in a long time, but it gives
+the largest increase in triangle use (and a lot of fill rate as well):
+
+cg_shadows	2		// turn on stencil shadows
+				// (if you have a stencil buffer)
+
+
+
+Apple's new G4 systems.
+
+The initial systems are just G4 processors in basically the same systems as
+the current G3.  There will be some speedup in the normal C code from the
+faster floating point unit, and the Apple OpenGL has AltiVec optimizations,
+so framerates will improve somewhat.  The limiting factor is going to be
+the fill rate on the rage128 and the bandwidth of the 66mhz pci bus and
+processor to main memory writes.
+
+The later G4 systems with the new memory controller and AGP will have
+better performance, but probably still limited by the new 3D card.
+
+After Apple gets all their driver tuning done, it will be interesting to try
+running timedemos at low resolution to factor the fill rate out.  Apple has
+a shot at having the best non-geometry accelerated throughput, but it will
+still be tough to overcome a K7 with an extra hundred or so mhz.
+
+On a purely technical note, AltiVec is more flexible for computation than
+intel or AMD's extensions (trinary ops), but intel style write combining is
+better for filling command buffers than the G4's memory streaming operations.
+
+
+
+9/1/99
+------
+I have been working on our memory footprint for the past couple days.  There
+are two types of paging that occur: 
+
+One time only paging that eventually settles down after you have run around
+the entire level a few times.  This can be a result of having lots of data
+around that isn't actively used during the game, or was only used at startup.
+
+True capacity misses, where the game is actually touching more memory during
+play than you have available.  This is usually due to there just being too
+many textures and models.
+
+Loading a large map with full resolution, 32 bit textures and mipmaps
+consumes almost 40 megs of texture space.  The default of picmip 1 and 16 bit
+textures reduces that to six or seven (not all images observe picmip) in
+theory, but some OpenGL implementations keep a 32 bit version of the texture
+around even if the card only uses 16 bit (I consider this inapropriate), so it
+may still be twelve or more megs just for the images.
+
+I have been able to save a couple megs off of the true capacity requirements
+by not rolling through some larger buffers when not needed (not smp and not
+dedicated server), and several megs more of one-time data mostly by moving
+a lot of static tables to dynamic allocation.
+
+I can probably save another meg of true capacity and I think three or four
+megs of initialization data.  The big thing that I might be forced to do
+is go to a skeletal animation system.  I would hate to do that at this
+late a point in the project, but it would save about two megs per player
+model in the game.
+
+In the process of chasing down the static memory hogs, I finally got around
+to starting something I have needed to do for years: learn perl.
+
+I was scanning through a linker map file looking for large gaps in addresses,
+thinking to myself "this is one of those things you can probably do in three
+lines of perl code".  I have many and varied excuses for why I have never
+gotten around to it before, mostly involving the fact that I have C parsing
+code that lets me get what I need done with only minimal headache when I do
+force myself to do some text file grovelling.
+
+I decided my excuses weren't good anymore, and went out to the bookstore and
+grabbed the llama book.  Many of you would have been amused seeing me go
+through the
+
+print "Hello, $name!\n"
+
+tutorial code as I did the examples in the first couple chapters. :-)
+
+I got my task done, so now I just need to force myself to write little perl
+programs whenever a need comes up, until I get fluent with it.
+
+
+* save 2.5 megs by reworking shader allocation
+* save 1 meg by not double buffering backend if not smp
+* convert all tr. arrays into pointers
+* don't allocate as many snapshotentities when non dedicated
+* new shader option: deformvertex move    
+* stackable deformvertex
+* reduced lightning damage by 10%
+* light emit from two sided surfaces
+* reduced starting machinegun ammo in teamplay to 50 from 100
+
+
+8/28/99
+-------
+* spinning machinegun barrel
+* changed q3data -origin option to -offset, defaulted to
+	0 0 24 for all player grabs
+* removed second parm from -lod in q3data
+* fixed 0 ping on last player killed before fraglimit
+* better ping calculation right after transitions
+* add time back to scoreboard
+* sv_maxRate option to force all clients to play with a max
+	rate.  This can be used to limit the advantage of
+	LPB, or to cap bandwidth utilization for a server.
+	Note that rate is ignored for clients that are on the
+	same LAN.
+* fixed bad name vs name in tourney after first player left
+* added hitch warning messages to server console
+* new time clamping rules for net play
+* avoid sending usercmds during connection
+* send explicit heartbeats to the master server when
+	a server transitions to or from empty or full
+* shaders that aren't found will return index 0, but
+	still keep the allocated slot to prevent
+	rescanning if registered again
+* use nextSnap for player prediction when available
+* removed teleport dest invisible objects
+* reduced client to server bandwidth by 35%
+* changed logging for chats to guarantee parsing properly with
+	names that conflict with commands:
+	from: G_LogPrintf( "%s say: %s\n"
+	to:  G_LogPrintf( "say: %s: %s\n"
+
+8/26/99
+-------
+The current plan is that we will have another test release around the middle
+of next month.  This version will be running game/cgame/ui with the virtual
+machine, and will include single player play against bots.  No new maps.
+
+I will be releasing the source for all the VM modules with it, and
+setting the executable up so that it will allow modified modules to be used.
+
+The modified LCC and q3asm will be available both in source form and
+precompiled, so a professional development environment will not be requried.
+Using MSDEV to debug binary dll's does make exploration a lot easier than
+adding prints to interpreted code...
+
+Some minor porting work on the tools will be necessary to do development under
+linux.  The effort would be greater for mac development, because the tools are
+inherently command line based.
+
+The map editor and tools will not be released until after the game hits store
+shelves.  To be completely clear: you are not legally licensed to create or
+use addon maps with the test.
+
+I am hoping that this public review will turn up bugs before we complete the
+game.  50k lines of code is quite a bit to go over, but people familiar with
+previous games will have a good head start in the game module.
+
+The best possible situation would be if exploration of the code evolves into
+a tier system, with either moderated or limited access lists that I can
+follow without being swamped.  I can't afford to be too involved in helping
+everyone figure out the basics.  I have plenty of confidence in the mod
+communities ability to work that out. :-)
+
+---------
+
+Some people have been mistaking memory swapping in 1.08 for network problems.
+
+We did controlled, back to back tests against the previous versions, and the
+networking is identical if you have enough memory.
+
+The addition of the new character model and all the new menu code and
+graphics has caused the game to begin to have some swapping problems on 64mb
+machines if you have all the quality options up high or are running other
+things.
+
+I am looking into what I can do to reduce memory consumption for the next
+release, but in the meantime, you can turn down sound quality, geometry, or
+texture detail to get rid of it.
+
+If you have less than 64mb, go buy more memory!  The final game will have
+an option to run in less memory, but the graphics and sound quality will
+be a lot lower.
+
+----------
+
+I made a simple change in the file management that I think is clearly a big
+win.
+
+Instead of scanning for pak0.pk3, pak1.pk3, ... pak9.pk3 in game directories,
+I now scan the entire directory for all .pk3 files, and add them to the
+search path in alphabetical order.
+
+This gives us the same needed functionality we have now -- overriding things
+in pak0.pk3 with updated data in pak1.pk3, but it also gives a signficant
+benefit to the user community.
+
+There has been a lot of requests to have textures inside maps like Quake1 did,
+but I was not willing to do that.  Having the files separate saves an immense
+amount of duplication, and keeps the internal architecture uniform.
+
+Now, you can just add all your new art into a pk3 (zip) file along with your
+map and users can just drop that single file into their quake3/baseq3 directory
+as a single operation.
+
+This will also be nice for custom models, which require several component
+parts: legs, torso, head, animations, levels of detail, and skins.
+
+So, if you are strictly ADDING media (models, textures, maps, etc), then you can
+just drop the pk3 files in the normal directory.
+
+If you are REPLACING data (code modules, menus, etc), you should make a new game
+directory and put the pk3 ther

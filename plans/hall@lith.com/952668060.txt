@@ -1,0 +1,84 @@
+
+*** Monolith Production's Finger Server
+
+User name: hall
+Plan modified: Thu Mar 09 12:15:40 2000
+
+ 
+					3/9/2000
+
+Quick note before I go to GDC! (Plane leaves in 2 hours)
+
+
+I sent www.evilavatar.com some exclusive LT2 screenshots. These shots are taken from the demo that we will be showing at GDC. They are never-before-seen!
+
+
+Some notes about the shots -
+
+The chromed girl is 15,000 polygons. No joke. We get a lot of questions about how many polygons can LithTech handle in each of its characters. The answer is - A LOT. Here's proof.
+
+She is also standing on a reflective surface.
+
+In some of the other shots you'll see 3 girls (which are playing back a sophitacated animation sequence). Each one of those girls are around 1000 - 1300 polys, and they are standing on a reflective surface that winds up doubling that number for them and the terrain,trees, etc.
+The entire scene including the girls represents a tremendous amount of polys on screen.
+
+LithTech can handle extremely high polycounts very well.
+
+Other things to note - 
+
+The "Stone BHUDDA head" that is sprouting up from the ground is actual world geometry. Not a model. This helps demonstrate how much detail you can put into your world construction if you like. We could have made it higher in poly count but remember, this bhudda head is in the same level as all the other stuff you are seeing and we were taking these shots on a p2 350 with a TNT 1 card, so it needed to run well on that platform. Moderation was needed.
+
+You'll also notice that the terrain is extremely round and smooth. No jaggiez really to speak of. Again, LOTS of POLYS.
+
+I encourage all developers to try to reproduce this scene/demo in your engine of choice, but unless it is LithTech you may run into some trouble! This demo does a great job of highlighting some of LithTech's new and important features.
+
+If you are going to GDC, please stop by our booth and see this demonstration and more run in real-time.
+
+Also, please check out our PS2 demo while your are there. Oh wait, the PS2 version of LithTech is also 2.0 - could we be showing the same thing running on the PS2??? Come and find out! ;)
+
+
+
+
+
+
+ 
+					3/1/2000
+
+Quick update:
+
+I was recently contacted by a website that requested an interview of me. The site explained that it would be great if I could take the time to help them out. I saw no reason as to why I shouldn't, so I did.
+
+After I answered the interview questions I THEN went to the site to see what kind of site I was responding to. Much to my pleasure I found a really cool site, with a lot of recent and interesting interviews already up.
+
+The site somewhat departs from the classic game-news format and I think that it really adds some uniqueness. Anyhow, if you are interested and have the time, I recommend that you check it out. 
+
+The link is:
+
+http://www.planetquake.com/polycount/cottages/hypothermia/
+
+and they have interviews with people like:
+
+Billy "Wicked" Wilson
+Aurora from GameGirlz
+JCal from Stomped
+Etc.
+
+It's pretty casual and has some interesting perspectives.
+
+The interview I did is located at:
+http://www.planetquake.com/polycount/cottages/hypothermia/interview_JasonHall.htm
+
+Hopefully, more development people will want to do some great interviews, and we all can get to know more about each other (except for the 3 minutes we see everyone at GDC and E3)...
+ 
+Anyhow, I want to with Steven Lynch the best of luck with his site! He is off to a great start.
+
+
+
+ 
+					2/28/2000
+
+Although it has been sent out through some channels, I'm putting our GDC announcement in my .plan for those who may have missed it. I will comment further at the bottom of this update - 
+
+LithTech, Inc. GDC 2000 Activities
+
+LithTech, Inc. will host a presentation and discussion at this years Game Developers Conference in San Jose, CA, on Saturday, March 11, 2000, from 4:00pm-5:00pm featuring Jason Hall, the companys CEO.  In addition, interested developers may visit the LithTech, Inc. booth on the GDC show floor in space #1913. The company will demonstrate the powerful LithTech PC and LithTech PlayStation

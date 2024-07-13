@@ -1,0 +1,38 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: mustaine
+Plan modified: Mon Nov 09 21:23:52 1998
+
+You've reached Tom "ParadoX" Mustaine @ Ritual Entertainment:
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  Yadda yadda blah blah blah                 *
+************************************************************************
+
+[. Monday Nov 9th 1998 .]
+
+ [. Sin Patch .]
+
+We will be releasing a patch in the next few days that will
+address some of the bugs that have filtered their way down.
+
+Here are the major bugs that we addressed:
+
+- Long load times, Fixed.
+- Broken mutant woes.  Fixed.
+- Major soundcard issues.  Fixed.
+- Levels loading twice, causing major gameplay issues.  Fixed.
+
+Sorry for any inconvenience this has caused,  if we had known about any
+of these bugs we would have fixed them right away.  We also took the time
+to iron out the other bugs that cropped up and are in the process of 
+testing everything now.  
+
+Also, all future retail copies of Sin will have these bugs fixed.
+
+
+"Good, Bad.  I'm the guy with the gun!"
+Tom Mustaine
+mustaine@ritual.com

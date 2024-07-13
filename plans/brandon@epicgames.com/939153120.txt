@@ -1,0 +1,46 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Sun Sep  5 12:24 (EDT) on ttyp1 from tpfl.demon.co.uk
+Mail forwarded to brandon@epicgames.com
+Mail last read Fri Aug 20 17:58 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Tuesday, October 05, 1999
+
+I'm working on a rune style system for UT.  Instead of "runes" I'm calling
+them Relics.  Anyone working on runes for UT will probably want to hold
+up and wait until the Relic system is ready.  It'll allow mod authors
+to quickly make new types of Relics that server admins can download
+and add to their games.  I'll have a set of guidelines for writing new
+Relics.  The Relics may not ship with UT since they'll need a good
+bit of testing for balancing.  Relics will be the "official" method of
+adding runes to maps and can be added to any gametype (DeathMatch, CTF, etc).
+
+I downloaded the Giants! mutator.  Its helarious.  The mutators people have
+been writing are very cool.  I'm going to add a Mutator list section to
+the ServerInfo window (F2 inside UT).  I'm also going to add a game speed
+indicator (telling you whether the server is Normal, Hardcore, or Turbo).
+
+I've been working on a set of mutators that I will release as a mod
+pack for UT later on.  This has given me a chance to add more features
+to the Mutator interface.  Mutators can now interact with a player or bots
+TakeDamage function and can use server defined console commands.  Jack
+added a new kind of SpawnNotification object that gets a notify message
+when an Actor is spawned.
+
+What else?  We've been doing various bugfixes.  Specifically Steve has
+been working on client side weapon animation issues.  Steve also added
+the ability for the translocator to be recalled to your hand.
+
+--
+
+There has been some concern over stat padding using bots in ngWorldStats. 
+Bot activity in ngWorldStats is ignored for the accumulation of individual 
+player stats. Here is the word from Craig Sparks (President of NetGames, USA): 
+
+"A individual games "ngStats" will show the bot kills and match up tables, etc. 
+But that player's ngWorldStats totals and stats only take into account human vs. 
+human interaction. All bot information is ignored for those totals. 
+The ELO rating system (which will be documented in the coming days) only takes 
+into account wins/losses/frags/etc. against human players."

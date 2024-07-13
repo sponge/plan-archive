@@ -1,0 +1,56 @@
+Account Name:  joes
+Email address: joes@finger.3drealms.com
+----------
+10:45 AM 12/3/99
+
+Work Stuff:
+
+1) If you get a minute, could you drop by our polling area at http://3drealms.3dportal.com/cgi-bin/multipoll.cgi and please answer the poll about what web browser you're using?  I'd really appreciate it.
+
+2) Thanks to the ton of people who replied to my plan problem yesterday.  No one seemed to know how to use the Macro function built into FP2k.  Unfortunately, a bunch of people kept suggesting Dreamweaver.  Folks, I wasn't looking to switch stream and learn a new program just to fix a search/replace issue.  I wanted to know how to get around the issue with what I have.  :)
+
+Other more realistic options were two programs called 'Search & Replace 98', and one called "Push that Damn Button".  The second is probably what I'll go with, as all I really need is something to push the buttons that FP2k presents me with.  Thanks to all that replied.
+
+I'm really hoping to have this all done by the end of next week and possibly launch the week after that.  More on that next week.
+
+------------
+
+
+2:22 PM 12/1/99
+
+Work Stuff:
+
+I remember years ago, I used to be one of the "Screw Microsoft" camp.  Lately, I've realized I've been totally converted over to the Darkside.  I have a Microsoft Mouse, keyboard, speakers, use Windows this, use Office 2000, Use Frontpage daily..  Anyway, OK, so I'm a "Bill Software Groupie" I guess.  :)  Anyway, Frontpage quirkiness came up to bite me in the ass today.  Here's a story..
+
+You know how when you're on a web site, and you put your mouse over a picture, and you see some descriptive text?  Well, in HTML, that's called an "Alt Tag".  Microsoft's Frontpage 98 has a rather brain dead feature where it will force you to have an alt tag on inserted images, whether you want it or not.   If you don't pick it, your alt tag will end up looking something like this: alt="DNF_Nov99_Area51.jpg (707019 bytes)".  Well, that's fine for something of that nature.  However...
+
+As you know, our new web site is under construction, and I'm in the process of moving over all the content from the old site to the new layout.  Brian Cozzens did all the base art again for the new site, and he put the skeleton together using Frontpage98.  The layout uses several small image place graphics to construct the layout.  Anyways, I just realized that today, because of this "feature" of FP98, I have a *TON* of alt tags all over my pages that look something like this:
+
+alt="transblock.gif (43 bytes)"
+alt="boxbottomleft.gif (55 bytes)"
+alt="boxbottomright.gif (55 bytes)"
+alt="boxgreyleft.gif (81 bytes)"
+alt="barbottomleft.gif (221 bytes)"
+alt="barbottomright.gif (166 bytes)"
+
+That's just some of them.  These stupid tiny little graphics generate these alt tags.  It doesn't make the pages look bad - until you happen to hover your mouse over one of these images - and then you see "transblock.gif (43 bytes)" as the hover text.  Arrrrrrrgh!  As of right now, I have 314 HTML pages that comprise the total site, and I've got a bunch more to go.  OK, no big deal to remove these, really.  I just use the Global Search & Replace feature of Frontpage 2000 (which is what I'm using).  Well, that brings us to our other Microsoft annoyance.
+
+FP2k has such a stupid way of doing Global Search & Replace, I can't believe it.  If I tell FP2k to search for alt="transblock.gif (43 bytes)" and replace it with nothing, it will remove the tag as I wish it.  **HOWEVER**, the way it works is so lame.  FP2k will search through all your HTML pages, and very nicely tell you what pages in your web have these occurrances, and how many are on each page.  OK, load up the first one, and say "Replace All".  When you are done with that, it (essentially, I don't remember the exact text now) says "Do you want to load the next page and replace those"?   ARRRRRRRRGH!!!   There is no way to _totally automate it_.  The end result is that it will do what you want, but you have to sit there and hit two keystrokes for every page.  When you have over 300 pages, and you need to do about 8 or 9 seperate search & Replaces, you can see where the major annoyance is.
+
+To make matters worse, I asked out in the Microsoft Frontpage Usenet group about how to get around this, and was told there's no way to do it automatically, except to "Use Macros".  Well, that's all and good, except the FP2k macros are in Visual Basic (which I don't understand). 
+
+So, I have to sit here and do all these frickin' keystrokes because of Microsoft's a) Brain dead alt tag policy in Frontpage 98, and their b) Brain dead way of doing search & Replace in Frontpage 2000.  Anyone else run into this and come up with a workaround?
+
+
+So how is your day going?  :)
+
+
+CD's I've been listening to lately:
+
+1) Jazzy Jeff & Fresh Prince - Greatest Hits
+2) AC/DC - Ballbreaker
+3) Badlands - Badlands
+4) Blue Murder - Blue Murder
+5) Deep Purple - Perfect Strangers
+	
+    

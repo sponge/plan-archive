@@ -1,0 +1,43 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: markd
+Plan modified: Wed Apr 15 22:43:12 1998
+
+[04/15/98 13:63 PM]
+
+I just love being called "Vaporware", it really gives you that warm and fuzzy
+feeling all over.  For the record, Sin began development April 1st, 1997.  It
+is now April 15th, 1998.  That means that we have been in development for
+1.039 years.  Now I won't say how long other games called "Vaporware" have
+been in development, but a year is about 6 months sooner than any game since
+Wolfenstein 3D.  So the next time, someone decides to talk dirt about our
+baby, I would appreciate if they looked at the facts first.
+
+Help me!  I have this one problem in SinEd that has driven me nuts from day
+one, and I was hoping some Win32 guru out there may be able to shed some light
+on the situation.  I have a dialog which I open with a CreateDialog call.  I
+have my own DialogWinProc to handle the Dialog.  The WM_INITDIALOG message
+returns FALSE, indicating that windows should not give me the focus (if I do,
+keyboard focus goes away and I can't ever get it back).  Now here is my
+problem, with this setup, the TAB key will not tab between my various
+TABSTOPS.  If however, I create the dialog with a DialogBox call, everything
+works fine.  Frankly I am perplexed, and annoyed why the two have had such
+different behaviors.  I would be happy just being able to get keyboard input
+into that WinProc, but it does not respond to WM_KEYDOWN events either.  Any
+thoughts out there would be most welcome.  Besides, you'll be helping
+yourselves, 'cause when Sin ships so will SinEd.
+
+Thanks.
+
+
+=========================================================================
+=  = = Mark Dochtermann = Ritual Entertainment
+=========================================================================
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************
+pleasant email 

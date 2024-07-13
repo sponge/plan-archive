@@ -1,0 +1,135 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 2
+Last Updated: 01/10/1998 19:18:24 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+ --- Jan.10.1997 (7:05pm) ---
+
+ Wacky Fix du Jour
+
+ If you are playing with 3DFX based boards and are experiencing some
+connection difficulties or general wierdness over the net with a modem
+connection, make sure you are running the updated 3DFX MiniDriver for Quake II.
+
+ I've heard reports that it's fixed some play issues in some cases.
+For what it's worth, the updated minidriver will be included in the 
+Quake II Deathmatch Pack "soon".
+
+ --- Jan.9.1997 (10:50pm) ---
+
+ If you are overflowing on connecting to alpha2.idsoftware.com, try
+setting;
+
+ "msg 2"
+
+ In the console. This will only print any "say" message, and client
+connect/disconnect messages. This should *REALLY* cut down the number
+of messages you get.
+
+ --- Jan.9.1997 (8:42pm) ---
+
+ Quake II Server Load Testing
+
+ Tim Willits has a version of an upcoming map, Base100(2.5 megs), ready to test out, 
+and we'd like to do some serverload testing with this map.
+
+ Please download the aforementioned map, and connect to;
+
+ alpha2.idsoftware.com
+
+ ... which will be running base100.bsp. Please note that you will need a 
+system with 32megs of memory to run these ginormous multiplayer maps 
+(The BSP is 5.2 megs).
+
+ All our other Quake II servers are offline while we are testing base100.
+
+ Be a part of history =) Join in on the biggest Quake II multiplayer game yet!
+
+ NOTE: DO NOT redistribute this map in any way. 
+This map is being released for the purposes of server load testing here at id.
+There will be a final release of this map "soon".
+
+  --- Jan.9.1997 (5:28p) ---
+
+ Rant
+
+ GODFUCKINGDAMNIT! Don't you just HATE new attacks?!?! First it was 
+TearDrop... Now it's Bonk. Am I going to have to start doing REAL work
+on a Linux machine that doesn't go down every 10 minutes because of attack du jour?!?!
+
+ Of the four computers in my office, it's only the ones running NeXTStep and Linux
+that give me the least amount of problems and each having uptimes in excess of 50 days.
+
+ Microsoft: PLEASE FIX BONK ALREADY!
+
+ --- Jan.8.1997 (12:18p) ---
+
+ Win 95 TCP/IP Fixes for Quake II
+
+ Ok. After trading e-mail with a few people from Microsoft, and a few users
+who were experiencing problems that were fixed yesterday, here's what you should do if
+you are having problems running Quake II over the net (or getting ADDRNOTAVAIL errors).
+
+ First off, if Qfecheck reports problems with your TCP/IP subsystem, 
+there are a few scenarios.
+
+ According to Microsoft's Knowledge Base article dealing with some errors
+with VIP.386, VTCP.386, et. al, You should delete the following five files from 
+your \WINDOWS directory if they exist. Again, delete the following files from
+your \WINDOWS directory. * NOT THE \WINDOWS\SYSTEM DIRECTORY !!! *
+
+
+VDHCP.386
+VIP.386
+VNBT.386
+VTCP.386
+VTDI.386
+
+
+ According to the aforementioned Knowledge Base article, those files should be
+in your \WINDOWS directory only if you've upgraded from Windows 3.XX. Due to 
+a quirk in Win95, it will load the files in your \WINDOWS directory first 
+instead of from \WINDOWS\SYSTEM where the Win95 version of the files reside.
+
+ Also, an annonymous tech support rep at Microsoft passes on the following info;
+
+As for the Winsock update problem, it could be an OSR2 issue.  OSR2 is 
+notorious for not letting system updates overwrite files that are 
+already on the hard drive.  The solution we would use here at tech 
+support is to have the user rename their winsock.dll file and then 
+install the wsockupd.exe file.  They also need to make sure they get the 
+one in the sysbckup directory if they are going the 'rename and install' 
+route.
+
+A last resort would be to remove tcp/ip from the network configuration, 
+shell to dos and rename all the files associated with tcp/ip, and then 
+reinstall tcp/ip.
+
+ Another solution is to completely reinstall your TCP/IP subsystem. This can
+either be done in one of two ways.
+
+ You can either remove TCP/IP under Control Panel/Network, reboot, then
+reinstall from the Win95 CD, or another method is to download the Winsock 2.0 SDK for Windows 95 (1.4 megs)
+and run the WS2SETUP.EXE program located in the SETUP directory.
+
+ This has solved many of the problems users have reported with connection 
+problems in Quake II. Please let me know if the above fixes your problems
+if you were having problems before.
+ 
+ What I'm listening to lately
+
+ Frontline Assembly - "Flavour of the Weak"
+ Pragha Khan - "Conquers your love"
+ Loop Guru - "Duniya"
+ Curve - "Cuckoo"
+ DJ Ian's Electronic Revolution (One of my favorite club DJ's from The Limelight back in Toronto has a CD out)
+ Ministry of Sound - Annual III
+ Wumpscut - "Bunker Gate Seven"
+ Mentallo & The Fixer - "Burnt Beyond Recognition"
+ 
+ /me goes back to work

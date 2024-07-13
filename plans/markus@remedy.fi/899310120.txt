@@ -1,0 +1,53 @@
+Username: markus                    In real life: Markus Maki           
+
+
+Plan:
+-------------------------------------------------------------------
+1 July 1998
+
+I just read Jason Hall's plan update. It made me chuckle, although
+not for the reasons he or anybody else might think thinks. But I 
+really can say that I enjoy working in an organization, which is 
+flexible and still gets the thing done (=the game).
+
+About Paul Schuytema's "bliss games". These games have given me
+most bliss.
+- Wing Commander II
+- maybe Tie Fighter
+Both of these made me dream about being a fighter pilot :), and 
+especially WC2 instilled some emotions -- although I was a lot 
+younger then.
+
+Remedy's benchmark subsidiary, Futuremark, opened new web pages.
+Go check them out at http://www.futuremarkcorp.com. They're still
+quite limited in content but it will increase over time.
+
+Slowly but surely DX6 beta finds its way to all computers here at 
+the office. We're now again in the "are there any new drivers" 
+period... Fortunately our technology transition is going quite
+smoothly, with minimum impact on Max Payne (as it is not in
+such a hurry to get DX6 stuff implemented). Unfortunately that
+is not true with Futuremark's products... They need DX6 yesterday.
+
+If it would just be the DX6 stuff, life would be extra easy. 
+We have a new geometry pipeline, and a new material system, both
+needed to get most out of 3D accelerators. With tight release
+schedules, it all gets into a nice mess which takes a few meetings
+to sort out. 
+
+Anyway, after todays meeting I'm feeling very confident that
+we'll get everything done in time, and in the right order.
+
+Anybody getting to keep any summer vacation? Not me. Maybe a day
+here and there but nothing more extensive. Welcome to the world
+of games development and responsibility.
+
+(old plan stuff cleared - check finger.planetquake.com for old stuff)
+--------------------------------------------------------------------------
+DISCLAIMER: ALL OF THE COMMENTS HERE ARE MY OWN OPINIONS AND MY OPINIONS 
+ALONE.  
+
+
+
+
+

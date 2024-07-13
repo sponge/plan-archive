@@ -1,0 +1,42 @@
+Welcome to Raven Software's Finger Service V1.4!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: H2World
+Last Updated: 02/11/1998 15:09:43 (Central Standard Time)
+-------------------------------------------------------------------------------
+2/11/98
+   1.  Gil's been taking some more of my time today still
+   2.  Ron, Steve, and Nathan have all joined in now.  They are looking over
+       the scripting code, deathmatching, etc, to find all of the net abusing
+       items
+   3.  Got physics mostly working, except the player tends to get stuck on
+       bsp models that have rotated.  Will have to look into this.
+   4.  Going to get all of the particle types from H2 moved over
+
+2/10/98
+   Won't be able to get anything done on h2w today...gil is visiting
+
+2/9/98
+   1.  Would be nice if you could play a character other than the paladin :)
+   2.  Going through the hcode to find any cases where sending network bytes
+       may be different under qw (i.e. temp ents).
+   3.  Adding the new temp ents for H2.  Also adding a new TE_CJR
+   4.  Few weird quirks with temp ents, but they are mostly going.
+   5.  Eric and I DM'd a bit - although I haven't touched the rendering aspect
+       at all (implementing translucency and other stuff), the game was
+       working pretty good, for only being a week old.  Net traffic was still
+       high, but it should be, since the scripting code hasn't been touched
+       at all.
+   6.  Going to work on the physics
+
+
+2/8/98
+   1.  QW ran the physics a little different.  In H2, each entity only was
+       execute once per physics call, even if the nextthink was set to the
+       current time.  QW ran each entity until its nextthink was greater
+       than current time.  This caused a few infinite loops on the server.
+   2.  X-Files on tonight!
+
+   Opinions:  If you loved the original Blues Brothers movie, 

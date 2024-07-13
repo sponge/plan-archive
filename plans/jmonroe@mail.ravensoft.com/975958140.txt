@@ -1,0 +1,58 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: James Monroe
+Email: jmonroe@mail.ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: James' Web Site
+Last Updated: 12/04/2000 14:37:13 (Central Standard Time)
+-------------------------------------------------------------------------------
+Attention Holomatch Modders!
+your dreams are answered, I've released the source code for HoloMatch game play:
+
+here's the zip: http://www.3ddownloads.com/showfile.php3?file_id=112601 
+
+and here: http://www.voyagereliteforce.com/files.asp?dir=/official&file=STEF-gamesource110.zip
+
+if you've worked on quake3 mods, you'll recognize the setup. 
+the batch files work fine in NT but have trouble running in 98. i think you have to edit the individual batch files to make it work in 98.
+
+e.g. game.bat has a line at the top like:
+set cc=blah
+then later it has
+%cc% ../g_main.c
+
+you'll need to replace the %cc% with the blah.
+
+
+
+----------------------------------------------
+patch news:  
+RELEASED!
+
+http://www.3ddownloads.com/showfile.php3?file_id=112600
+
+or
+
+http://www.fileplanet.com/index.asp?section=560&file=52851&download=1 
+
+or
+
+http://www.voyagereliteforce.com/files.asp?dir=/official&file=eliteforcepatch1_1.zip
+
+
+STEF Patch 1.10
+
+HoloMatch Changes (stvoyhm)
+New option to treat the joystick X or Y axis as buttons instead of analog movement/turn.
+Nextmap defaults to map restart instead of reloading current map.
+UI attempts to validate CD-Keys with missing zeros.
+
+StoryMode Changes (stvoy)
+New option to treat the joystick X or Y axis as buttons instead of analog movement/turn.
+Fix for missing triggers when game is running at very poor frame rates.
+Fix animation completion tests when game is running at very poor frame rates.
+Fix for dynamic lights on G400 and Radeon
+
+When you upgrade to the patch, you won't see the old servers.  Don't panic, we planned it that way.

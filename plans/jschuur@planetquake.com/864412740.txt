@@ -1,0 +1,320 @@
+[cdrom.com]
+
+Login: jschuur        			Name: joost schuur
+Directory: /home/jschuur            	Shell: /usr/local/bin/tcsh
+Last login Fri May 23 13:37 (PDT) on ttyp1 from 206.102.110.1
+No Mail.
+Mail forwarded to: jschuur@onlinemagic.com
+Project: Quake and Unreal Archive Maintainer.
+Plan:
+s l i p g a t e   c e n t r a l - t a n g l e d
+
+Spring '92, Ireland
+
+May 23th, 1997
+----------------
+off to m3...
+
+
+May 20th, 1997
+----------------
+I have a plea to everyone creating addons for Quake today. 
+If you've released something, please remember to upload them to
+ftp.cdrom.com in the /pub/idgames2/incoming directory. Releasing
+them on your web page and announcing them to the news sites, hoping
+to increase your hits, is _not_ the same. You get a much better
+coverage. Your files will be carried by dozens of mirror sites
+world wide.
+
+This applies to utilities and levels/Quake C/whatnot. If anyone 
+has any particular reason why they do not want to upload their
+works to cdrom.com (aside from limited beta releases of course)
+contact me, I'd be interested in finding those out.
+
+
+May 18th, 1997
+----------------
+Ohhhhh... Cool sunglasses for Slipgate Central in Yahoo's Quake
+section at last. Gee thanks, it only took them half a year to
+realize how good the site is.
+
+May 9th, 1997
+----------------
+m3. be there, or be a rectangular thing.
+
+
+May 8th, 1997
+----------------
+Wanted: Alternate universe with 48 hours per day where you never 
+have to sleep. Willing to trade for slightly used, hectic 24 hour per
+day, 5-7 hour sleep period universe. Wusses and wannabes need not 
+apply.
+
+I'm so mail backlogged again, any mail considering a site reevaluation
+for Slipgate Central has been temporarily stuck in a seperate folder.
+
+Quake 2. Some of those screenshots look way cool (especially 
+quake44b.jpg and quake34b.jpg). Someone created an alt.games.quake2
+the other day thogugh. Why? What's the point? We went through a
+long discussion and voting period for the rec.games.computer.quake
+groups and they speciafically cover all Quake engine games. Don't
+use the alt group please.
+
+Slipgate Central redesign underway. I hope you like the colour blue ;)
+I'll be launching a survey soon with some prizes to give away to
+get some feedback from you guys.
+
+
+April 28th, 1997
+----------------
+I was asked today if there'll be a Hexen 2 FTP area on ftp.cdrom.com.
+A quick reminder: /pub/idgames2 houses all games using the Quake (or
+Quake 2) engine, including  Quake, Quake 2, Hexen 2, the Ion Storm/
+Hipnotic games and Duke Nukem Forever. Where applicable, new 
+subdirectories will be created, e.g. levels/hexen2 and quakec/hexen2.
+
+Lots of backlog as far as mail/Slipgate Central submissions/cdrom.com
+uploads and even tangled goes. Now that I've settled down in in The 
+City That Never Sleeps, I'll work on that. So many cool movies out
+there though, it's really tempting to just leave the office right now
+(Still haven't seen Volcano yet).
+
+Quakecast on thursday with me on the show again! I'm looking forward to
+it.
+
+
+April 23rd, 1997
+----------------
+New York City, here I come. Starting this friday i'll be in the 
+Big Apple for about 2 months on a business trip. I'm so psyched. 
+NYC is way cool.
+
+I will of course have full net access there ;)
+
+
+April 22st, 1997
+----------------
+How could i have forgotten this Eleventh Tip on making a successful 
+gameing website:
+
+   Talk about your dog a lot and how it made a big mess on the
+   carpet. Garuanteed to get you a job as webpimp with a games
+   company.
+
+
+April 21st, 1997
+----------------
+This is is one mother of an update. It probably deserves it's
+own page on Slipgate Central soon. Here goes:
+
+Top Ten Tips For A Successful Games Web Site
+
+ 1 - Don't rely on others too much
+
+     The Net is big and 'friends' are often made very quickly
+     on online chat environments or via email without really
+     knowing them. Especially young, over enthusiastic netizens
+     often want to get involved without knowing what they're
+     getting themselves into. Modern means of communication can
+     often hide a person's true personality.
+
+     Help is always a good thing, but be skeptical about the
+     people you hookup with. Check out the work they've done in
+     the past and talk to others who've dealt with them in the
+     past.
+
+     Don't let others steal your fame either. Be sure you get 
+     the credit for your own work (and give others credit for 
+     theirs). 
+
+     If you have found people you think you can trust to cooperate
+     with, keep in touch with them regularly about what you're up
+     to, but always keep in mind that their help may become 
+     unavailable at any given moment.
+
+ 2 - Do I really want to do this?
+
+     Think long and hard before you launch a site. Running
+     a good web site can take a large chunk of your time. If
+     you have real life commitments (or expect to have them in
+     a few weeks or months time) you might want to think twice
+     about what at the time seems like 'a cool idea'. Don't
+     dissapoint people by launching a cool new site, only to
+     take it down soon after.
+
+     It might be a good idea if you plan on running a news 
+     orientated site, to run it in private for a week or two
+     first, to see if you can keep up with it on a regular
+     basis.
+
+     Get help if possible (but see tip #1 first)
+
+ 3 - Keep your site up to date. 
+
+     Make sure the information on your site is still correct
+     and update your site with new related content as it 
+     becomes available. The more often people find new 
+     information on your site first, the more often they'll
+     come back.
+
+     Regularly check all external links and see if they still 
+     work.
+
+ 4 - Plan ahead
+
+     If your web site becomes successful, it's bound to expand.
+     don't launch a site at http://www.wibble.com/~user/, but
+     rather create a dedicated page or directory for it first.
+     You might want to use your actual homepage for something
+     else later.
+
+     But don't go registering a domain name right away. Who
+     knows how long the site will be up. A URL like
+     http://www.wibble.com/mysite/ or even something like
+     http://www.wibble.com/~me/mysite/ is just as good in the
+     beginning.
+
+ 5 - Banner ads? Think twice.
+
+     In most cases, banner ads don't generate enough 
+     impressions to make any money at all and only disrupt
+     the design of a page. Don't launch a page right away
+     with an ugly banner ad for commercial products right
+     away, expecting to get rich quick. You won't. You'll
+     get much more satisfaction knowing your page has
+     helped people learn something usefull.
+
+     Very few gaming sites actually get hit enough to make
+     ads worthwhile, and generally they carry plenty of
+     content to deserve it.
+
+ 6 - Content is king
+
+     The web is about providing information to others. When
+     developing the style and design of your site, don't forget
+     the actual information you're trying to bring across.
+     Avoid download intensive pages with little actual content.
+
+     Stay away from useless things like guestbooks, java chat 
+     applets and embedded sound files.
+
+ 7 - Be consistent in style and navigation
+
+     Make your site easy to navigate by using common navigational
+     elements on each page. Make it intuitive how to wander from
+     section to section on your site. Ask a friend who hasn't 
+     seen the site yet to have a look and watch them as they 
+     browse the site. Keep the overall design and layout clean
+     and professional too and try and stay away from tacky 
+     background images and hard to read colour schemes.
+
+     And remember. Frames aren't always a necessity.
+
+ 8 - Advertise properly
+
+     Find out who the target audience for your web site is and
+     advertise accordingly. If your site covers Quake editing
+     e.g. advertise on a Quake editing related mailing list.
+     Make sure people link to you and provide them with buttons
+     or banners that they can use. Actively contact related sites
+     and (politely) ask them to link to you.
+
+     Register with the appropriate search engines and use
+     meta tags in your document header to define keywords and
+     descriptions.
+
+ 9 - Find a niche area
+
+     There are already over a thousand Quake related web sites.
+     Find and area that hasn't already been covered dozens or
+     even hundreds of times before. Your web site should have
+     unique content that people will remember you for and drive
+     them back to your site again and again. Often in depth
+     coverage or a new angle to material already covered by 
+     other web sites are a good idea for a new site. Examples
+     are humorous Quake news sites like the New Vore Times, or
+     Total Conversion news sites.
+
+10 - Know your media
+
+     Try and stay up todate in the latest web developements. Learn
+     to author good, clean HTML using a plain Ascii text editor
+     like notepad or emacs that will display properly on a wide 
+     variety of platforms. Use img width/height attributes and alt 
+     tags. Don't exclude people because of the browser they are using.
+     Client side scripting can be used to detect people's browser
+     types and generate HTML accordingly. Offer a noframes
+     alternative.
+
+That's all for now. Boy, I have so much more to say, I ought to write
+a book about this.
+
+
+April 16th, 1997
+----------------
+tangled. it's called art. get with it. it's daily.
+
+things not present at my home (i moved in over 2 months ago):
+
+- furniture
+- telephone
+- computer
+- cable
+- any food item with an expiration date in this century, 
+  or that needs to be kept in the fridge.
+
+
+April 14th, 1997
+----------------
+Get tangled.
+What do you think it is?
+
+April 10th, 1997
+----------------
+
+   totally un quake/unreal related .plan update. i just came back 
+from a microsoft presentation on msie 4.0 here in london (well, i
+just wobbled back from the dog house, kennigtons's finest pub, but
+before that i was at the ms do, honest) and it's scary how much
+cool stuff they've added in 4.0. dynamic html is totally awesome, 
+we'll be seing some great sites with it soon. don't get me wrong, 
+i'm a netscape man myself and i still use it as my default browser 
+(what _is_ the problem with communicator and the pq page anyway?), 
+but i fear more and more that Bill is bringing out some cool shit,
+and making life harder for web authoring businesses like the one i 
+work for (online magic). soon, we'll not only have to author for
+two brosers (msie and ns), but also for webtv and msie 'channels'.
+endless possibilities, i only hope they could all support the same
+features.
+
+   rest assured though, slipgate central will always remain 
+viewable for all major web browsers. if i ever decide to support 
+new html extentions, all content will be backwards compatible and
+you won't miss a thing.
+
+April 6th, 1997
+---------------
+
+   hope you like the picture. so few pictures of me have 
+been taken the past few years and this is still the best one.
+
+   most of the database is reconstructed now, so your searches 
+should work again over the entire site list. some minor entries 
+need reconstructing but that'll have to wait until tomorrow.
+
+   i've got the design and feature list for one of my projects 
+pretty much worked out. it's not really as prestigious as 
+slipgate central, but will certainly be of use to the quake/unreal 
+gaming community. as always, content will be king, and there'll be 
+plenty of tables with background cell colours *grin*. i'm thinking 
+of getting some resources in from another site for this, but that 
+site doesn't know about it yet, so i won't mention the name. 
+*double grin*. i actually came across another site today that does 
+what this project will do, but not quite in the style which i would
+have done it in.
+
+                            Joost Schuur (jschuur@onlinemagic.com)
+                                            http://www.nuqneH.org/
+                                   http://www.slipgatecentral.com/
+                                 ftp://ftp.cdrom.com/pub/idgames2/
+                                   ftp://ftp.cdrom.com/pub/unreal/

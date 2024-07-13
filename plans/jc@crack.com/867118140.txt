@@ -1,0 +1,254 @@
+[crack.com]
+
+Login: jc             			Name: Jonathan Clark
+Directory: /u/jc                    	Shell: /bin/bash
+Last login Sun Jun 22 10:03 (CDT) on ttyp1 from jchome
+New mail received Mon Jun 23 23:05 1997 (CDT)
+     Unread since Mon Jun 23 22:57 1997 (CDT)
+Plan:
+Coder/Owner @ crack.com
+
+my home page is at :
+http://www.crack.com/about/jc
+
+--------------------- NEW LOG (sorted new to old) ----------------------------
+
+Mon Jun 23 22:31:21 CDT 1997
+
+I've gotten a couple of people telling me gdb works with threads work
+under Linux.  Is anyone using it under Linux?  I'm not talking about
+MITpthreads which is a user level program, but the pthreads which is
+system level.  It uses signals a lot and this make gdb unusable.  Also
+when I set a break point in one thread it seems to stop all threads
+and shows me the spot of a random? thread.  I can't use user level
+threads because they can't do async disk reads, which Golgotha relies
+on heavily.
+ 
+  Well, I didn't quite finish networking, and had to put it on the
+backburner as everyone is back and we need to get a demo version out
+to would be publishers.  Crack has enough offers from publishers now
+that we are set money wise, but we are holding out until we get an
+offer we can't resist.  If you didn't hear, we are postposting our
+release until Q1 (feb/march) so we can make this a killer product. If
+we released for Christmas, we'd have to cut some corners.  Coming out
+for Christmas means being done by September.  Play testing is very
+important in a game like ours and that wouldn't give us much time.
+
+Anyone selling a BWM Z3?
+
+
+Sun Jun 22 10:10:48 CDT 1997
+
+Linux people...  I need to get gdb to support threads.  Is there a
+commercial debugger for linux that supports threads and has gdb's
+functionality?  If I cannot get this soon, I will forced to abandon
+Linux and start using NT as my development enviroment.  I realize this
+is playing into the hands of Mr. Gates, but life sucks without
+threads.  The win32 version of emacs is pretty good, but the OS is not
+as stable as Linux which makes life a bit more frustrating.
+
+
+Sat Jun 21 20:03:36 CDT 1997
+
+Well, I got around to the actual game part of the networking and hit a
+small block.  The game tick rate occurs at 10HZ, regardless of the
+frame rate.  The frame rate can be anything and what you see is
+interpolated from two game ticks.  However the control of your player
+needs to be more accurate than 10HZ, because human responce time is
+about .1 sec and you need have twice the sampling rate in order to
+catch everything.  Rather than run the game unnessarly fast (20HZ) I
+time stamp all the input and scale the input by these values.  So,
+rather than seeing the input as on/off the game sees it as on for X
+millisecounds.  Getting these time values under XWindows is something
+of a bitch, because the time stamp is some abritray millisecound.  I
+could not find a call such as XGetCurrentTime() so I have to keep
+updating my guess at what the current time as I sample keys.  Then
+there are the issues with using this input.  You can only use key
+values that happened before the current tick (because you don't know
+what the key status will be for the whole rest of the tick), but if
+your key time stamps don't match the game time accurately you will
+always wait an extra tick before using any input.  *arg* Anyway, I
+wanted to work this out before I got to far into the networking so
+that timing could be done right in the networking.
+
+
+Thu Jun 19 17:36:03 CDT 1997
+
+Network code progress :
+  Got broadcast packets working for Linux.  This is used to find net games.
+Each client 'pings' the network and any servers running will respond with
+their location and name of the game.  The client continously updates it's list
+of servers available until the user picks one.  Win95 should be almost exactly
+the same.
+
+later..
+
+yup. 95 is the same as Berkley except you have to use recv and send (read/write
+don't work).  And you have to use closesocket as well as initialize & deinit the
+networking stack.
+
+
+---------------------- OLD LOG (sorted old to new)--------------------------
+
+Fri May  2 21:36:03 CDT 1997
+
+
+I'm currently working on texture compression & management.  We currently
+have over 400MB of 24bit color textures in a level.  As you might
+a imagine it's a difficult problem to swap these in an out of 2MB of texture
+memory without speed hits, stuttering, etc.  I want a compression method
+that can be decompressed very quickly (i.e. a lookup & and a couple of
+one cycle ops).   Our typical texture size is 512x512 (9 mipmap levels).
+The software version uses 16bpp, but I'd like to be able to show of
+a 24bpp version on MMX to take advantage of more parallelism.
+
+I've tried the following compression methods last night :
+
+brightness delta compression  : makes things look too blurry and
+   may be too slow on console systems.
+
+color axis conversion and quantization  : works well if image doesn't have
+  too many color spans, but fails on most that I tried.  I was going to
+  use simulated annealing to find the best color axis to quantize to, but
+  random brute force didn't yield good enough results.
+
+today I thought of this in the shower :
+
+block encoding : encode blocks of pixels (say 8x4) with a small lookup table.
+  most blocks can be compressed to 2-4 bits per pixel.  Yielding about a 4x1
+  compression with little signal degradation.  I've got a stupid bug to find
+  before this work properly. arg. :)  This method (does it have a name?)
+  require more and more time to encode as the lookup tables grow.
+
+I've also been considering have 3 levels of cache in memory and using DCT
+  (descrete cosine transform) or
+  Fourier-like transform to compress some textures.  These typically yield
+  10x-50x compression.  It might also be possible to compress using a
+  fractal compositing method using lower mip levels.  If anyone has done
+  this, please let me know.
+
+12:33am....
+
+The block encoding was a bit too slow for our artist to use, so I'm trying a
+recursive block quantizer.  This basically tries to quantize a block to 16 colors.
+If the result doesn't meet an error threshold, it breaks the image in half and
+tries each half seperately until finally a block is too small or it quantizes
+nicely to a 16color palette (allowing 4bits per pixel).  This should be fairly
+fast and catch wide areas witch have similar colors.
+Decompression follows the compressor's split tree and looks up pixels when
+it reaches leaf nodes.
+
+Mon May  5 15:03:26 CDT 1997
+
+Got recursive block encoder working.  Added error dithering which covers up
+most artifacts.  I typically get 2x-3x compression of 16bit textures.  Still
+a far cry from jpeg, but it decompresses a lot faster.
+
+Wed May  7 21:21:02 CDT 1997
+
+Got the compressor to work with mipmap levels, transparent textures,
+(I call them holy-textures), and started making a unified system for
+DLL's so we can use them under 95 and UNIX.  I'm trying to make
+Golgotha such that you can "plug-in" in new objects, editor function, 
+and render systems.  I'm also working on making the game start up 
+faster, right now it takes about 1:30sec under 95.  Mostly from 
+opening/closing files over the net (samba), I think, because the linux
+version starts in about 10-15 secs (NFS). 
+
+Sat/Sun
+Went to Corpus Christi and saw the Science Museum, the Aircraft carrier
+(got some pictures), the Art Museum, the Aquarium, and went roller blading
+down around the piers.  Great fun.
+
+Tue/Wed
+
+I got really sick for the first time in a long time.  I started hallucinating
+and thought I was going to die.  I'm better now.  Interesting experience.
+
+
+Fri May 16 13:01:45 CDT 1997
+
+Dave and I are talking about releasing the Abuse source code (C++) to the Public
+Domain.  This would mean no restrictions on its use.  This would not include the
+data (artwork/sfx/music/levels).  All that remains is to clean up the
+source tree.  If anyone is interested in documenting the code to allow others
+to use it easier, let me know.  Several high schools and universities are 
+currently using the engine on a strictly LISP level for little projects.
+
+Tue May 20 22:44:50 CDT 1997
+
+I've gotten replies from a lot of people willing to help with the Abuse release.
+I'd like to have a unified tree with working makefiles for Watcom and most unixes.
+I think the g++ guys at Cygnus are best suited for the unix side.  For watcom & Mac,
+I'll use who ever gets it working first.  People have asked about porting
+to OS/2, Direct Draw, and djgpp.   I think DirectDraw would be a great thing
+especially if DirectSound were supported, OS/2 is reasonable, but djgpp doesn't 
+make much sense.
+
+Thu May 22 16:47:18 CDT 1997
+Finally pulled everying back into working order with the new model format which
+has precalculated lighting normals, the 3dsmax plugin does team coloring,
+compressed textures are stored on the net drive with a low mip level
+directory stored locally.  Also made a software transparent (holy) texture
+mapper, 16 bit scaled sprite blitter, and met with Oliver Yu.  Looks like
+he will be coming on board shortly.  Going to Vegas tomorrow!
+
+Mon Vegas update : Cirque du Soleil rules.  Most incredible show I
+have ever seen.  Saw the Radio City Rockets (slightly boring), and the
+Gypsy Kings at the Hard Rock (cool).  There is an awesome arcade there
+called GameWorks, which I recommend.  I went roller blading down the
+strip, on the moving walkways, in hotels, and around Hover Dam.  This
+is the only way to get around Vegas!  I also finalized the split-up
+with Leanna, (http://www.crack.com/about/jc/leanna1.jpg) which gives
+me more time to code. yeah!  But this also means I will be sexually
+frustrated :(
+
+Tues
+Code update : I have a bug with my new texture stuff at hi resolutions, so I forked
+off a new tree from the code base so I can add some new game features for Fri 
+which is when we show off to two major publishers.  I'm fixing up directx, gdi, and 
+glide to work with a unified executable and work with cards that have different color 
+arrangements (555, 556, 565, and 655).  I also dusted off the radar map which displays 
+correctly now, but I need to patch up control of units on the radar map.  Maximum map 
+size will be 75x75 so we can fit it all on the radar map.
+
+Tues June 3
+Now we are working on speed speed speed.  We have a list of 12 optimizations that
+should make the game fly.  This includes LOD (level of detail) on both objects
+and terrain, faster clipping, visible surface calculation, among others.  I will
+be working on these over the next two weeks.  Currently getting the texture
+sizes down to something that can be released on the net (we are at 194MB right now).
+
+ABUSE : I still haven't gotten a working Makefile back from anyone.  If you have one,
+please mail me.  Heard a rumor that the New York Times might do an article about
+the Abuse code going PD.  If you want to give it a whack and you didn't get my initial
+email, download ftp://crack.com/pub/code/pd_abuse.zip.  Please don't upload this
+anywhere public because I don't want multiple versions out there that don't work.
+J. Haar mentioned doing a Java port.  This would be a very big undertaking and you
+would be better off starting from scratch. :)
+
+Wed Jun 11 23:37:28 CDT 1997
+
+Working on getting my window system to work properly on the 3dfx card since that
+is what our level editor and movie designer are using now.  I'm using the Z=0 buffer
+to mask out windows above the render window.  Then I can draw the scene as normal
+and the Z values prevent the scene from drawing on top of windows.  I also keep
+list of dirty rectangles for windowed stuff and copy that to the back buffer after a
+flip so you don't have to worry about drawing things twice to account for page flipping.
+3dfx reads from video memory are *very* slow, but the windows don't draw very much
+and we don't care what the frame rate of the window is, just the render window.
+
+
+Wed Jun 18 17:11:31 CDT 1997
+
+Yahoo.  Everyone is gone for e3.  I can code in peace.  I played golgotha
+last night and it was surprisingly fun!  3d sound is darn cool.  When a jet
+takes off you can really feel it.
+
+I plan to get a playable networked game working before everyone gets back.  
+I've done so much network code in the past that it's pretty easy going so 
+far.  I'm teaching Jacob, our 15yr old intern, networking as well. 
+
+
+
+

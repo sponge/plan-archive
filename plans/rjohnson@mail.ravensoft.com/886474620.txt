@@ -1,0 +1,62 @@
+Welcome to Raven Software's Finger Service V1.4!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: ???
+Last Updated: 02/02/1998 19:57:18 (Central Standard Time)
+-------------------------------------------------------------------------------
+2/2/98
+   Part 4:
+   I've decided that the best way to make sure everyone knows that progress
+      is being made with h2world, I'll just put in multiple updates of things
+      accomplished during the day, so:
+
+   Daily Log:
+      1.  Talked to Brian Raffel to finally get the ok to proceed
+      2.  Got the latest quakeworld source from Zoid
+      3.  Unzipped, compiled, and ran it
+      4.  Checked the differences between H2's assembly and QW's assembly.
+          Nothing major, so put in H2's assembly
+      5.  Added some variables the assembly depended upon, debugged a bit,
+          runs ok
+
+   At some point, I'm going to release a new command shell for NT.  I've been
+      working on this slowly in my spare time.  Mainly, it allows for
+      "directory completion".  It works pretty well.  Too bad Microsoft
+      didn't full implement Win32 for 95, or else it would be an all around
+      solution.
+
+   I'm also working on getting a new web server up.  This is to only host
+      employee web pages.  It should be available in about a week, just need
+      some more spare time.
+
+
+   Part 3:
+   Got the latest code from Zoid (Thanks man!)
+   Set up the directories, compiled, and checking the differences between
+      assembly files - no differences.
+
+
+   Part 2:
+   Here here:  http://www.gamepen.com/therapy/industrial/
+
+
+   Part 1:
+   Well, after months of doing work which I still can't get into, I've finally
+      been given official time to work on H2World.  I'll be starting full time
+      on it later this afternoon.  Next week, a few other programmers will
+      be joining me to clean up the scripting code, to make it more net
+      friendly (i.e. do stuff on the client side).
+
+   I'll also include any minor bug fixes that have been done in the mission
+      pack so far.  This will also include new .PAK files which will contain
+      models that are about 1/3 less in size (so you should have less
+      caching problems with machines that have 16 megs of memory).
+
+   Of course, learning from past mistakes, no predicitions on when it will be
+      available, but know that it is being worked on full time by myself,
+      and with other programmers next week.
+
+   Sorry for the delays, but you have to remember, that not everything is
+      always under my control, atleast not yet :)

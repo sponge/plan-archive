@@ -1,0 +1,72 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jarod Showers
+Email: jshowers@mail.ravensoft.com
+Description: Animator
+Project: SoF
+Last Updated: 06/10/1999 17:04:09 (Central Standard Time)
+-------------------------------------------------------------------------------
+June 10, 1999
+Well, I'm back on weapons again.  I just finished up the automatic shotgun and assault rifle.
+We had a consultant for Soldier of Fortune Magazine come out and take a look at the game.
+He gave us the thumbs up, and shared many stories of his experiences.  Wow!  I am so ignorant
+of what really goes on in the world around us.  He has something like three purple hearts and 
+a silver star among many other achievments.  We found him very helpfull and an all around 
+neat guy.  I hope the pictures turned out that I took of him playing our game.  Well, Dorothy,
+tornado season is upon us once again.  Woo hoo!
+
+May 20, 1999	Step Up To The Microphone
+*tap* tap* Is this thing on?  So this is a finger.  Greetings world, Im J-Rex, a new 
+breed of animator here at Raven.  I just wanted to take some time and tell you a little 
+about my job and myself.  
+
+When I first started here at Raven, the majority of my time was spent perfecting 
+weapons in Soldier of Fortune.  Ive had so much fun working with Scott Rice and 
+the rest of the S.O.F. team to get them looking and feeling as realistic as possible.  
+We also wanted to give the in-view weapons and "hands" some character, to set them 
+apart from other games.  These animations that occur when a player does nothing for 
+a long time range from, flipping a knife in the air to, cracking your war-bruised 
+knuckles. For even more diversification, each weapon has a secondary-firing mode, 
+and many have more than one way to hold; one, two, right, or left handed.  Its all in 
+the details. Many of my co-workers can attest to having seen me "practice" these 
+moves with an old Saturn gun Ive grown quite attached to.  Its animator nature to 
+become your subject for studying.  The problem sometimes is coming back.  
+
+Unfortunately, the only gun name we have rights to use is the Jackhammer, the rest 
+carry generic titles.  The Jackhammer is being re-worked due to foreshortening side 
+effects.  No matter how cool a gun may look from the side, it has to still look and feel 
+right from the back.  Turmanator has come up with a tool to correct many of the 
+engines perspective problems on weapons in-view, but some guns just arent meant 
+to be in games.  A good example of one would be the flame-thrower. Know this as 
+well, sometimes what you see in movies when guns are fired isnt realistic.  On some 
+rare occasions, artistic license has been taken to really give you that hyper-realistic 
+feel. Trust us, this is a good thing.  To see a gun that, in real-life, doesnt give a lot of 
+kick, to be that real in a game just doesnt feel powerful enough. 
+
+After finishing up on weapons for the time being, a couple of months later, I then 
+moved on to the humans.  I never imagined people could be as fun to animate as they 
+are in Soldier of Fortune. I had never expected to see so many moves, with such a 
+wide variety, in a videogame. The null hierarchy that Eric Turman created in 
+Softimage is very easy to use and gives the animator more control over their 
+animations.  In my opinion Softimage is the best animation package out there.  Yes, 
+the majority of the animations in the game are motion captured moves, but there is so 
+much extra work that goes into perfecting them, which I cant stress enough.  One of 
+the main problems I try to work out is the cycle-ability of an animation- how well it 
+loops by itself.  It is impossible for the motion-capture actor to land from a jump in 
+exactly the same position he was in prior to taking off the ground (no matter how 
+many times you try).  Some popping, however, is more forgivable than others, like 
+from a walk to a run.  Ive noticed that, having worked with motion-capture for so 
+long, it gives you a certain eye for animations done by hand.  One starts to notice the 
+subtle nuances that occur, which, on previous animations, may not have been taken 
+into account.  Its all in the details.
+
+Well thats a little about what I do from day to day.  Ive been so busy to start a finger 
+in the past, but now that the game is getting closer to being released, I wanted to 
+make sure and get my say on whats been going on with the animation side of things.  
+For many of you, this probably is just babbling, and I will get off my soapbox now.  
+
+Im interested in knowing whos out there, so drop me some mail and say hi.  I 
+want to write one more thing before closing.  When you take a look at the animations 
+in the game, know that it has been hard work, great direction, and the attention to 
+details that has brought them to the state theyre in, not just that fluffy, highly praised 
+word called motion-capture.  Otherwise Id be out of a job :)  

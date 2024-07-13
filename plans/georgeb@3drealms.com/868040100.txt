@@ -1,0 +1,256 @@
+[mailhub.gte.net]
+
+Account Name:  georgeb @3drealms.com
+Email address: georgeb@3drealms.com
+----------
+George Broussard (President, 3D Realms)
+Project Leader - Duke Nukem Forever, Shadow Warrior
+Executive Producer - Prey
+
+
+Friday 7/4/97 - 2:28 pm
+=======================
+Well it's the 4th of July.  All that means to us is another day of
+work ;)  I'll relax when I'm dead.  Right now, there's too much
+work to be done.
+
+
+Shadow Warrior
+==============
+The game is progressing at light speed.  Michael just finished the 
+Sumo boss and he ROCKS!  Jim also progammed a mini-boss version of
+the character with different attacks, so we have yet another 
+character.  The Chick Warrior is also in and done.  This leaves 
+only the main boss, Zilla to be done with characters.  Michael is
+working on sketches now.  At this point art is no longer an issue
+that will hold us up.  It will easily be finished by our end of July
+deadline.
+
+The maps are about done as well, and we are starting to net play them
+every night.  Stephen has been working on a couple of cool deathmatch
+only levels and they rock.  We see maps as being done by the 15th or
+so.  Eric Reuter (outside mapper) will send us his 4 maps by the 15th,
+and we will touch them up and hopefully maps are not an issue for the
+end of month deadline either.
+
+The code is also going well, and the programmer's are frankly bored at 
+the moment.  Jim keeps playing Diablo ;)  We added some cool things
+like boss health meters.  No longer do you have to just guess how weak 
+a boss is, as you slam on him for 20 minutes.  You can now see how weak
+he's getting and put that little bit of extra effort into it.  Yes,
+this is a little "Nintendo-ish", but gameplay is gameplay and it's a 
+definate plus. I expect to see it become standard in the future.
+
+
+TEN
+===
+I hear that SW shareware is now live on TEN, so check it out.
+
+
+Duke Action Figure
+==================
+Looks real promising that all you boys and girls might have a Duke
+Nukem action figure soon.  We have preliminary sketches from the
+toy people and a meeting on the 9th.  We're really excited about 
+this.
+
+
+[George's Movie Review #6: "Men in Black"]
+==========================================
+I had doubts about this movie from seeing the previews.  I expected a
+rockful, "serious" sci-fi movie and that's what the early previews
+indicated.  Then all of a sudden the "comical" previews started and I
+was saying, "Oh, my....this is gonna suck."  Well, I'm glad to say the
+movie does NOT suck, and in fact it rocks.  The casting of Tommy Lee
+Jones and Will Smith is perfect.  You will constantly be laughing your
+ass off, and if not, then you're just a freak.  I think with this
+film, Independence Day, Bad Boys, Will Smith has secured his place as
+an action hero.  Go see this movie.  It's funny, cool, and all in all
+a "fun" movie.  It's probably the best movie of the summer, maybe
+2nd to Jurassic Park (just from the awe factor).
+Rating: 9 / 10
+
+
+Monday 6/30/97 - 6:29 pm
+========================
+
+
+3Dfx Shadow Warrior
+===================
+3Dfx has the Build code and is looking at support.  All the legal NDA
+crap is out of the way, and I hope we can add support for Shadow
+Warrior right out of the box.  It's in 3Dfx's hands now, and we all
+must simply be patient and wait.  But danggit Gary, hurry up ;)
+
+
+Elliot Chin - Computer Gaming World
+===================================
+Current CGA magazine has a cute little article by Elliot Chin on 
+p. 221, about how Shadow Warrior is "racist" and just an awful
+game.  Methinks Elliot missed the entire point that games are
+meant to be "entertaining", "fun", and stuff like that.  If our
+little "parody" wasn't to Elliot's tastes, fine.  I respect that.
+But he wasted 2 pages going on about the game like Satan made it.
+Come on Elliot.  I guess this just goes to show that the same 
+people that disliked Doom's satanic content and Duke's strippers
+are still alive and well with us.  Too bad most people just like
+to have a little "fun" with a game.  I mean we're not trying to 
+educate the world or anything, we just make games.  I'm proud we 
+at least try to break new ground in content.  I wonder if Elliot 
+ever saw the humping rabbits in SW?  Maybe those were ok?
+
+
+Sunday 6/29/97 - 3:29 pm)
+=========================
+
+Lot's to update here, some you will care about, some you won't. ;)
+
+E3
+==
+Not much to be said here that hasn't been said, but there are
+a TON of 3D action games coming out.  Seeing as how I think the 
+market can support 2 (with decent sales), that's going to leave 
+a lot of people holding the bag.  I simply do not think people will
+buy and play more than a couple.  Let's hope they are all spread
+out a little ;)  Coolest games I saw on the PC?  Quake 2 and Prey.
+
+
+Duke Nukem Forever
+==================
+We continue to hammer on the design of the game.  We have all the
+locations the game will take place in mind and are starting to 
+brainstorm what will happen in each etc.  I'm really pleased with the
+fact that we will build Duke Forever from a solid game spec, meaning
+we'll get done faster and have a more cohesive product that Duke 3D
+was.
+
+
+Shadow Warrior
+==============
+We've set an internal finish date of Aug 1st for the game.  Then with 
+a couple weeks of hard testing, we think the master will go to GT. 
+Bear in mind this is a "guess" and the game will be done when it's
+ready, but I think it's doable.  Michael is rendering out the new
+Sumo Boss and about to start sketches for the final boss (Zilla).
+Keith and Stephen have their maps basically done minus populating 
+with items and enemies.  We still need to tweak and balance them, but
+there are no surprises here.  All 3 new weapons are done (except we
+are still tweaking the heart a little).  We are really excited to be
+near the end of the project.
+
+
+[George's Movie Review #5: "Face/Off"]
+======================================
+The movie is pretty cool.  Probably better than Broken Arrow,
+although I can see them being "equal" in a lot of people's minds,
+just depending on what theme you like better.  I liked the off 
+the wall idea for the film, and it kinda takes you by surprise.
+The movis is probably about 15 minutes too long and John Woo
+once again shows more boring human interaction that slows the
+film down.  Cutting this stuff out and adding more action would
+have added a point to the rating.  The action scenes are good 
+(but not earth shattering).  Cage and Travolta are great in their 
+roles and interesting to watch.  All in all, a good action/escape 
+movie for 2 hours.  Oh yeah, say an Aliens 4 preview before the
+movie.  We just sat there in stunned silence.  We can only hope
+those involved don't screw it up like Aliens 3.  Why don't
+hollywood producers like TALK to fans and stuff about movies like
+we do with games?
+Rating: 8 / 10
+
+
+Tyson Fight
+===========
+Gimme a friggin' break.  So what if Holyfield head butted you and cut
+open your eye?  Kick him in the nads, or throw him to the ground, but
+YOU BIT HIS FRIGGIN' EAR OFF.  There are like pieces missing and the
+guy's gonna look funny now because you acted like a caveman.  What's
+bad enough is that after taking a chunk outta the ear, the fight was
+gonna go ON, and not 10 seconds later, you were chowing on the other
+EAR!!!!  Go to McDonald's or something prior to the fight (they have
+great fries).  Tyson (my favorite fighter BTW) should be banned from
+the sport, lose all of his $30 million, and not allowed to fight
+again.  If there is a 3rd fight (and Holyfield allows it), then all 
+I can say is either Don King is the most persuasuve guy of all time,
+or somebody got PAID OFF.  That fight was ridiculous.  On the other
+hand....
+
+GIBS!!! Man, cool.  We're sitting there watching the fight.  They 
+were all boring as hell (except the Martin / DeSchong fight).  Nothing
+like seeing two girls beat the crap outta each other.  Hey, at least 
+they fight, unlike the men these days.  So we're watching the fight 
+and it's looking cool and all of a sudden Tyson turns into Hanibal
+Lecter in "Silence of the Ear" ;)  From that point on, it was a 
+surreal experience.  We're like "Hey, did he just bite the dudes
+ear off?".  Cool.  I mean we all like Holyfield and all, but here are
+live action gibs on our tv in front of us.  Only $50?  Ok.
+
+
+Shadow Warrior novels
+=====================
+Just got two manuscripts in and they, well, rock! ;)  Man, these guys
+captured Lo Wang perfectly.  These are actually "fun" to read.  Bear 
+in mind, this isn't top grade, sophisticated, sci/fi of anything, but
+it's "fun" and entertaining to read them.  We're pretty pleased with 
+the results.  We only hope the Duke Nukem author's capture Duke as 
+well.
+
+
+[George's Movie Review #4: "Con Air"]
+Another cool film from the same producer's that brought you, 
+"Bad Boys", "Crimson Tide", and "The Rock".  While not as good as 
+The Rock, this movie still "rocks".  Great action, bad guys, and 
+Nicholas Cage is good as always.  This one's a no brainer.  
+(These guys would be a cool team to do the Duke Nukem movie I 
+think).
+Rating: 8 / 10
+
+
+[George's Movie Review #3: "Lost World"]
+Awesome special effects that cannot be missed.  Plot weaker than a 
+wet paper bag.  First 20 minutes should have been scrapped or 
+redone.   Kids? Don't need em?  At least in first movie they "did" 
+something besides whine and be a burdon.  But the action and 
+special effects make it a "must" see.  Too bad everything else
+ruined a shot at cinematic greatness. No repeat value except to 
+look for glitches in the effects.
+Rating: 8 / 10
+
+
+[Duke Nukem Forever Info ]
+
+This is sort of a mini FAQ since I keep getting the same 
+questions over and over.  It also gives people something
+to put on the dozens of Duke Nukem Forever sites I've
+seen go up.  (Thanks for the support guys).
+
+* Release:  "When it's done", but we think sometime in 
+Mid 1998.
+
+* Yes, we will maintain Quake C, so you can modify Duke 
+Forever all you want?  DLL's?  Don't know, but don't count
+on them.
+
+* If you want to know why we didn't use the Prey engine, see 
+www.3drealms.com, under About Us/Press Releases
+
+* We plan on maintaing all of Quake's functionality in the free
+play over the Internet.  To save some text space, since it's 
+based on the Quake engine, you can assume we will keep most of 
+what is already there and add to it, where we can.
+
+* We are developing for the Quake 1 engine and will get Quake 2 at
+a later date, and try to add what we can from it.  If you want
+Quake 2 info...you will have to wait.
+
+* 3Dfx?  Yes, we will maintain GLDuke, and will probably do extra
+stuff for the version to make it cooler.
+
+* Yes, we will have super interactive environments like Duke 3D
+
+* Yes, we will keep Duke's voice, sense of humor and character in
+place and expand upon it.
+
+* And finally, the most asked question so far? "Strippers?"  
+Hey, it's Duke, and we're 3D Realms.
+

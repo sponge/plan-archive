@@ -1,0 +1,57 @@
+Login: markus         			Name: Markus Maki
+Directory: /home/markus             	Shell: /bin/tcsh
+Office: Remedy, +358-9-43550411
+Last login Fri Mar  6 13:55 (EET) on ttyp1 from markus.remedy.fi
+Mail last read Fri Mar  6 16:24 1998 (EET)
+Plan:
+-----------------------------------------------------------------------------
+06 Mar 1998
+
+Finally we seem to be on the winning side in this long battle against
+the internet and ISP's. We've now under a new ISP, new Linux servers,
+and everything seems to work fine. 
+
+Also the finger service is back online - it just needs a bit of tweaking
+still.
+
+I've been following the 3D accelerator market very closely for the past
+year and I'm getting huge laughs out of this 3Dfx Voodoo 2 - Creative -
+Diamond issue that's been on the news. Now for some analysis and 
+personal opinions:
+
+Everybody talks about the "Voodoo 2" chip. It's actually three chips; two
+TMU's and one frame buffer unit (+ a heck of a lot of memory chips). It
+looks to me like a Voodoo design, doubled, and spiced up a bit (better
+MHz, bump mapping, more polygon init stuff). To me making a product with
+that many components is very expensive. Compare the solution to the ones
+from Intel, NVIDIA, ATI, Rendition. All of them are one chip solutions AND
+include 2D as well. 
+
+The other side of the coin is memory. Voodoo 2 needs a lot of it and as a
+game developer, I would hope that 8MB Voodoo2 boards would not have been
+invented at all (too little texture memory). 12MB mem on a Voodoo 2 board
+compares roughly to a 8MB RAM with a more sensible design from somebody
+else. Plus, don't forget the AGP nonlocal video memory support. Where's
+that on the Voodoo 2?
+
+So others save two chips and 4MB memory - if they'd get to the same
+level of performance. And they will. I believe this is the last generation
+of cards when 3Dfx is in the lead.
+
+Now, don't take me wrong, I actually haven't seen a Voodoo 2 board in
+action yet and I'm sure when I get one I'll sing praises for it :-)
+
+Next week --- My 2c on DirectX 6 and some analysis :-)
+
+p.s. how much of your product is downloaded from the web in one day?
+We had 17.8 GB worth of Final Reality downloads when version 1.01 was
+released...
+-----------------------------------------------------------------------------
+
+Login: steinm         			Name: Markus Stein
+Directory: /home/steinm             	Shell: /bin/tcsh
+Never logged in.
+Mail last read Fri Mar  6 16:24 1998 (EET)
+No Plan.
+	
+    

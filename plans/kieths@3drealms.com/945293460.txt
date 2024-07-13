@@ -1,0 +1,39 @@
+Account Name:  keiths
+Email address: keiths@finger.3drealms.com
+----------
+
+
+
+
+
+THE MAPPIN' MONKEY'S FINGER
+
+Keith Schuler
+
+Level Designer / 3D Realms
+
+
+
+
+
+MONKEYS JUST SAY NO TO @HOME (12/15/99)
+
+If you are currently a subscriber or have been considering subscribing to the @Home cable modem internet 
+service, you might want to read this, the brief tale of my own experience with @Home. Everybody subscriber I know, and quite a few I don't know, have complained loudly about this terrible ISP, so I figured I would add my voice to the chorus.
+
+When I first signed up, nearly a year ago, the service was a tempting carrot to pursue. Installation and hardware
+fees were waived, and the monthly fee was comparable to what you might pay for standard 56k service. For the low price of about $40 per month, you got unlimited online usage, tremendous bandwidth averaging somewhere around 384k down/128k up (if not higher), and the ability to easily set up a small network and connect multiple computers to the internet through the same modem.
+
+At first, this seemed to be the ideal internet solution, and I laughed at anybody who couldn't get cable modem service because it wasn't available in their area. Sure, there were privacy concerns, but I didn't care because I wasn't doing anything illegal. Sure, my service occassionally stopped and left me stranded for hours at a time, but hey, what did I expect for $40 a month? Little did I know that this was only going to get worse.
+
+A lot of people were jumping on the cable modem bandwagon, and I do mean a LOT. Since all the cable modem users within a "block" share bandwidth with one another, the connection became more and more unstable. Unlike more conventional internet solutions, where too many users means less bandwidth, when local cable internet pipelines get choked, users get kicked out. Not just a few, but everybody in the area. And they STAY kicked out for hours, until somebody somewhere fixes the "technical difficulties." @Home's solution? They capped the downstream bandwidth at 128k. They did NOT however, change their pricing policies, so I was now paying the same amount for half the bandwidth I was getting when I signed up. This sounds like basis for a class action lawsuit, but I'm sure I signed a contract that said something like "@Home is allowed to change their pricing policies at any time without prior notice."
+
+The bandwidth cap did, however, fix the problem. My connection became very reliable for a few months. But now, as Christmas approaches and more and more people have the free time to download photos of Sarah Michelle Gellar, my connection has become really unstable once again. I, and everyone here at the office who subscribes to @Home, have been getting disconnected almost nightly. When I call the support line to report my problem, I get treated to the list of every area in the country who is currently "experiencing technical difficulties." It's then that I realize that we subscribers in Garland are not alone. All over Texas, Illinois, and California, @Home subscribers are contemplating throwing their cable modems through a convenient nearby wall. 
+
+So how are they going to fix the problem this time? Cap the bandwidth at 64k? That may be exactly what happens, but I don't care to participate in that downward spiral any longer. I may have been stupid to put up with it for this long, but I have finally reached the end of my rope. DSL is available to my house, and while it is more expensive than @Home, I can't justify being their customer any longer. They don't deserve my business. I am not alone, either. A lot of disgruntled cable modem users are making the switch to DSL, but that's okay because DSL is a private connection to the ISP that nobody shares with you.
+
+If you have been considering upgrading from your 56k or ISDN connection, then I highly recommend you pass up the cable modem and leap straight to DSL. If you currently use a cable modem, then you are already familiar with the situation as I've described it, and you should be aware that things probably aren't going to get any better. Avoid subscribing to @Home, and save yourself a lot of headaches. If you live in an area where DSL is not available, but cable modem is, then you should be ready for the problems you're probably going to face.
+
+Of course, who knows. I might be writing a similar .plan update a few months from now, warning people to stay away from DSL and get a T1. We shall see.
+
+

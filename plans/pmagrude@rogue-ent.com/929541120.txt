@@ -1,0 +1,66 @@
+Login: pmagrude       			Name: Patrick Magruder
+Directory: /usr/users/pmagrude      	Shell: /usr/local/bin/tcsh
+On since Wed Jun 16 10:12 (CDT) on ttyp0, idle 0:05, (messages off)
+    from fireball
+New mail received Wed Jun 16 10:47 1999 (CDT)
+     Unread since Wed Jun 16 10:47 1999 (CDT)
+Mail forwarded to: "|exec /usr/local/bin/procmail"
+Plan:
+#include "stddisclaimer.h"
+6/16/99
+Wow, no update for 3 months.  Shame on me.
+
+DIVX is dead!
+
+http://www.zdnet.com/zdnn/stories/news/0,4586,2276806,00.html?chkpt=hpqs014
+
+I was going to put a picture I found somewhere out on the web (a while ago) on my web page, but since DIVX is dead, my plan file might just have to suffice.
+
+
+
+or click here to view it.
+
+Enjoy!
+
+3/25/99
+DVD vs. DIVX
+
+Read this URL.
+
+http://commerce.bestbuy.com/Divx2.asp
+
+Oh, and for those who responded to my previous .plan .. I got real busy.
+Don't worry, I'm not ignoring things.  Also, there were no endorsements
+implied in the four I listed .. the were just the four domains that hit
+our fingerd in the time that it took me to write the update.
+
+3/14/99
+I've been thinking about this plan file thing.  The way the data is collected
+is remarkably inefficient.  We're getting checked by multiple servers pretty
+much continuously .. yet our plan files don't change but once every few days.
+
+So, we're consuming all that bandwidth (with .plan files getting up in size,
+like mine was) and all that server time (on both ends) so we can get updates
+within 15 minutes.  Seems kinda silly.
+
+Is there a better solution?
+
+Why don't we change the way the system works?  Instead, how about we have our
+servers tell the web page servers when we update?  I can write a program
+in 5 minutes in perl that scans our .plan files (locally) for any changes
+and mails them to a list of targets, should any changes occur.  Hmmm.  This
+sounds good .. only use the bandwidth when there's a real change, instead
+of continuously banging on our server every 15 minutes.  Sure, our server
+will make itself busy for .. gosh .. 15 seconds while it scans the files
+(and I'm being generous).
+
+If any of you .plan file server folks are out there and reading this .. let
+me know if we can set this up.  You know who you are (stomped, telefragged,
+blues, pear, etc.)  It's a win for both sides.  Less work for you, less work
+for us.
+
+And no, I'm not going to set it up for just anyone.
+
+3/8/99
+Happy Birthday to Kate!
+

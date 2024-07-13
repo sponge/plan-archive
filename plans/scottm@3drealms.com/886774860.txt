@@ -1,0 +1,242 @@
+Account Name:  Scott Miller
+Email address: scottm@3drealms.com
+----------
+========================================
+Feb. 6, 1998
+
+There's rarely a day that goes by that I'm not asked how to get a job as a
+game developer.  I typically answer that it's a combination of perseverance,
+talent and luck, in that order, and then I point the person to a few game
+development web sites.  This answer often results in several follow up
+questions.  So, I bit the bullet (quite tasty, actually) and spent half an
+hour on a more detailed answer that I can use as a standard reply, and
+hopefully it covers most of the bases.  Since this information might be useful
+to those who have written me before, and to those who never will, I'll posting
+it here as a one-time shot.
+
+How to get into the game industry as a developer:
+
+[1]  Unless you love to play games, don't bother.  Unless you've played a
+hundred plus games, you'll have little chance.  Playing games, studying their
+gameplay, strengths and weaknesses, is like going to game developer college. 
+I've spent 22 years in this college, and I'll never graduate--no one ever
+does.  Don't feel like you've ever learned all there is to know about game
+design.
+
+[2]  Pay your dues.  This includes playing games, but it's much more.  If you
+want to be a level designer, then design levels.  If you want to be an artist,
+then draw art.  If you want to be a programmer, then learn C, and program
+things that interest you, like small games and graphics demos.  Most of the
+best game developers I know learned very little about their craft in school,
+they were mostly self-taught.  This isn't to say school/college isn't
+important, but the best developers, those who are passionate and would be
+doing it anyway as a hobby, extended their talent and knowledge by being
+self-motivated and by devouring, learning and living their passion on their
+own time.  For example, would we ever hire a programmer who doesn't own a
+computer at home?  I think not.
+
+[3]  Take the initiative.  It's up to you to develop friends and contacts
+within the industry--a people network.  If you look at most of the people who
+have been hired (especially off the Internet), they were people who were
+proactive in letting it be known they had talent and were available.  They got
+involved with the game community somehow.
+
+Try to get involved in game development on a amateur level.  Release your work
+(levels, mods, art) freely on the web.  Contact game sites and fan sites to
+distribute and write about your work.  Doing this is a great way to get
+noticed by real development companies.
+
+[4]  Sending samples and/or demos is the key to getting hired!  A programmer
+must have several impressive demos to show, an artist needs a portfolio, and a
+level designer needs at least four to six impressive levels.  Without samples
+and demos, you're not going to make it far at all.  (Don't send ideas, game
+concepts, or other text only treatments.  Publishers and developers are not
+looking for idea people, instead they're looking for people with the talent,
+desire and means to implement these ideas.  Ideas on their own are next to
+worthless in getting you a job.)
+
+Scan developers' web sites to see what's available, and what projects are
+getting underway, then send them samples of your work.
+
+Send your samples in a way that's easy to review.  For an artist, for example,
+it's best to send hardcopy samples, a burned CD full of samples, and even a
+video tape showing animations.  The hardcopy work will be the first
+impression, and determine whether looking at the other material is worth the
+effort or not.
+
+[5]  Visit game design sites, participate in newsgroups about game design, and
+join game design organizations.  Here are a few sites worth checking out:
+
+http://gamasutra.com/
+
+http://www.videogamedesign.com/
+
+http://www.inside3d.com/gdc/
+
+http://www.igdn.org/
+
+http://www.cgdc.com
+
+http://www.godgames.com/
+
+Also, there are magazines, like Game Developers magazine, and plenty of great
+books that cover game design, but too many to list here.
+
+Overall, the important points are to play games and learn from them, be
+proactive in networking with others in the industry (build up a list of
+contacts), and spend much of your time bettering your talents and building a
+portfolio.  Do these things, and luck, the final factor, usually works in your
+favor.  :)
+
+Finally, the weekly puzzler:  Duke Nukem is trapped by Dr. Proton in a
+reinforced steel room with the ceiling quickly coming down on him.  Duke's in
+front of a computer with the following number sequence on the display:  10, 4,
+3, 11, 15.  Over the room's speaker, Dr. Proton laughs and taunts Duke,
+saying:  "This time you're done, Duke Pukem, unless you can figure out the
+next number in the sequence, either 1, 12, 14 or 17.  Picking the right number
+opens the escape door.  Picking the wrong number locks the computer, and
+ensures your painful demise.  Also..."  (At that moment, Duke, getting quite
+bored of the one-way conversation, launched an RPG at the speaker.)  Which of
+the four numbers does Duke need to type to escape Proton's death room?
+
+BTW, at least a googol people sent me answers to my last puzzle, which kept me
+kind of busy.  Please, only email me if you have something truly fascinating
+to say regarding the puzzle, or you have a new puzzle to send me (if you do
+so, please send the answer in a follow-up email, in case I'm not smart enough
+to figure it out, which happens often ).  Otherwise, visit
+http://www.3dportal.com, where the answers to all puzzles can be found.  :)
+
+========================================
+Feb. 3, 1998
+
+In the new March issue of Computer Gaming World, columnist Jeff Green (page 235) states his opinion that the Professional Gamers' League (PGL) "is one huge case of wishful thinking," and "The [PGL] is not for you.  Get it out of your head."
+
+Up front, I'll make sure all reading this know I'm a board member for the PGL, but I'm far removed from the daily operation of this organization, and I think I can claim a reasonably unbiased viewpoint.
+
+I hope and believe the PGL will succeed, and if it doesn't I hope something similar succeeds in its place.  I think this industry needs recognized game champions, as it helps to promote the entire industry, it creates more jobs for people wanting in the industry, and it rewards players who excel, as they are rewarded in other sports and skills.
+
+Is game playing a sport?  I can put forth a strong argument that it's as much a sport as billiards, and requires as much intelligence as games like chess and bridge, all three of which have organized national tournaments and sponsors and world champions.
+
+The only difference I can see is that computer games rarely have a life over a year (due to advancing technology), and therefore players must constantly learn new skills, for new games, in order to stay competitive.  This fact alone makes it extremely tough for one player to remain a world champion for more than a few years, and anyone who does remain a top player for longer than a few years has truly proved their talent and versatility.
+
+Why is Jeff Green not a believer in the PGL?  Most likely because it's new and not completely proven, yet.  When things are new, there are always critics and pessimists who don't see a big future.  The CEO of IBM, shortly after IBM's first mainframe was created, said that he saw at most a need for five mainframes worldwide.  Even Bill Gates is known to have said that we'd never need more than 640k of RAM, back when the IBM PC first appeared, about 18 years ago.
+
+I have an optimistic view of the PGL.  I think computer gaming is here to stay, and there needs to be a league for the industry's best players.  More power, money and Ferrari's to them.  :)
+
+========================================
+Jan. 30, 1998 (updated Jan. 31)
+
+Weekly puzzle:  In Duke Nukem's Las Vegas Casino there's a glass container
+with 488,000 dollar bills on display.  This was a fund raiser where for a $5
+ticket a person could guess how many dollars the glass box contained, with
+the ticket money going to anti-alien concerns.  After the fund raiser, when the
+seal was broken and the bills tallied, they counted only $438,000, with
+$50,000 missing!  Ms. Croft was in charge of the glass box and originally
+enclosing the money.  When Duke questioned her, she said she personally
+counted each bill by hand twice, during the three days before the box was
+sealed.  Duke then blew her away with his RPG, knowing that she was the box
+raider.  How did he know she was the thief?
+
+Although not the right answer, this is surely the funniest
+I got so far:  
+
+Having spent plenty of time in Las Vegas, and establishing
+a lot of connections, Duke knew [Ms. Croft] took the $50,000 when
+he took a look at her new redesigned, resurfaced and apparently
+now round mammaries.  Figuring it cost her that much to fix those
+pointy dominatrix things she had going on in her last adventure,
+Duke put the poor little vain thing out of her misery with one RPG
+on her breastplate of righteousness.  The next Duke level was then
+called "Silicon Meltdown". -- from MoonDragon
+
+========================================
+Jan. 25, 1998
+
+A local developer who previously worked here (and is now at another
+job) had this to say in a recent interview on a fan web site:
+
+"[A]s many development teams are figuring out, there's really
+no need for a middle man like 3D Realms anymore.  It's the
+publisher that's doing the marketing and distribution and the
+talent that's making the game.  3D Realms supplies office space
+and computers and some small benefits at a cost of more than
+half of the royalties from the game, but that stuff isn't so
+expensive as to make independent development prohibitive."
+
+What a dumbass thing to say!
+
+Does this mean that any developer with more than one team is
+a so-called "middle man"?  Does this mean that ION Storm,
+Ensemble Studios, Epic MegaGames, Terminal Reality, Parallax
+Software, Ritual Entertainment, Firaxis, Digital Anvil,
+Lionhead, Raven and a dozen other development companies with more
+than one internal team are middle men?!
+
+Get a friggin' clue!  3D Realms *is* a developer.  Duhhh!  And
+in fact, we do more than most developers because we also have a
+significant direct order business (a business we pioneered), via
+shareware marketing, that most other developers do not have--and
+this business generates even more royalties for developers that
+work here that otherwise would not be had by them.
+
+It's been a while since I needed to rant, but this remark was
+simply too ignorant to let pass.
+
+========================================
+Jan. 23, 1998
+
+We got in 50 Duke porcelain statues yesterday for the crew.
+Only 8500 of these are being made, all numbered, and Moore
+Creations expects them to sell out.  This is the kind of
+collector's item that in 25+ years will likely be very
+valuable as Duke's popularity continues to grow.  And with
+the movie deal making big strides (we've signed a big-name
+producer) there's a good chance that this statue could be
+sold out quickly and worth substantially more than the selling
+price within a few years.  Don't you wish you would have
+bought the original Star Trek or Star Wars collectors items?  ;)
+Now's your chance to get in while the gettin' in is still cheap.
+You can reach Moore Creations at (817) 568-2620.
+
+Now using the cordless (radio frequency) Logitech mouse.  The
+shape takes a bit of getting used to, but once that hurdle is
+jumped it's much easier to use than a wired mouse.  It's just
+as responsive, but the lack of cord gives it a big edge.  It has
+a side button for the thumb that can be programmed to any of 20+
+functions, such as auto-double-clicking.  I use it to control the
+up/down scroll bar, which makes it more convenient than the wheel
+on the new Microsoft mouse.
+
+With all the news surrounding Clinton and his affairs, his
+nickname, Slick Willy, takes on a new meaning.
+
+Not a difficult puzzle, but a good starter after the long break:
+What is at the beginning of eternity, the end of time, the
+beginning of every end, and the end of every place?
+
+======================================
+Jan. 19, 1998
+
+Finally got the new finger system in place.  Puzzles will resume this Friday.
+
+www.GameSpot.com has been running a reader's most anticipated game poll,
+pitting the following games against each other:  Diakatana, Unreal, SiN,
+Half-Life, Prey and Duke Nukem Forever.  The latter three games won their
+rounds against the former three, and are now facing off against each other.
+Last I checked, with over 175,000 votes in, Prey was winning with 82%, Duke
+second with 17%, and Half-Life had the final 1%.  I think Duke is so low
+because we haven't promoted it much, yet.  After E3, that will change.
+
+We're putting together the "bible" for Duke Nukem now, also known as a style
+guide.  This document reveals everything there is to know about the Duke
+character, his background, defining traits, pictures and poses, things he'd
+say and not say, other key characters in his universe, like Bombshell and
+Proton, and anything else pertinent.  This will be used for the upcoming novels,
+comics and potential movie.
+
+We have specific intentions with the Duke movie, and our plan is to make sure
+it's cool.  For example, we will make sure Duke doesn't have any dumbass
+sidekick that just gets in the way (like the sidekick in Judge Dredd).  We'll
+also make sure there are no kids that need to be saved, or help Duke save the
+day.  And we'll insure this isn't one of those movies in which viewers say,
+"Well, wh

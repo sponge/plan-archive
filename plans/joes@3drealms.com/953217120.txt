@@ -1,0 +1,6 @@
+Account Name:  joes
+Email address: joes@finger.3drealms.com
+----------
+Testing 1-2-3.  Checking to see if this is picked up by our own finger server code.
+	
+    

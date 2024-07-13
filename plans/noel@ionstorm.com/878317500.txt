@@ -1,0 +1,107 @@
+Ion Storm
+
+User Name.........Noel
+Full Name.........Noel "The Shadow" Stephens
+Description.......Systems/WebPage dude
+Last NT Logon.....Friday, October 31, 1997 at 12:42
+
+
+
+
+
+
+Shadow's Finger
+
+
+
+
+
+Shadow's Journal
+
+
+10-31-97
+
+
+I just have to say that some
+        people (no names) have about as much tact as they do
+        brains. <geesh>-Shadow
+ 
+p.s. don't go biting into any
+        apples with razors! >:)
+
+
+
+ 
+
+
+09-25-97
+        5:30 A.M.
+
+
+Ack!Well
+        let's see it has been around 4 months since my last
+        update! Yeah, that is exactly how I would describe the
+        past four months. So what is to come? I have just
+        finished the "un-official" official Daikatana
+        section to our new section for the www.ionstorm.com games site. This should be released
+        sometime this week if all goes well with Doppelganger and
+        Dom...er...that strategy game we just acquired. The site
+        is really supposed to be just a simple description of the
+        games in progress. I feel like I have given birth. So,
+        along with this John bet me that I couldn't write a
+        pacman based game in three weeks. Well, actually his bet
+        was that I couldn't start it and finish it. I not only
+        said that I could finish it, but I also boasted by saying
+        that I could do it in 3 weeks. So now it is 2 1/2 weeks
+        away(looking at the clock) ummm...actually 2 and 2/3
+        weeks away and I have the whole thing almost done. I have
+        some really cool graphics along with a few surprises here
+        and there. It uses the DirectX 5.0 drivers and runs
+        around 50-55 FPS. I have been having a few problems with
+        the Direct Sound buffer, but I think I know where my
+        brain has screwed up. Along with this, I have managed to
+        slip in some extra time to start working with some new
+        ActiveX applications, however I am really waiting for
+        JScript with 4.0 IE! This is going to pop the crap out of
+        Netscape. Sorry guys, remember how painful it was to go
+        from DOS to Windows? Well, start feeling the burn again!
+        ;)
+I have kind of idling from the
+        weapons code for Daikatana for a couple of reasons:
+1.) There were other things
+        pressing that directly related to my real position.
+2.) Nelno consolidated all of the
+        weapons into one DLL, so I wanted to make sure that he
+        had all of that working before I started trampling in
+        with my noodle code. <:)
+3.) Lots of the models are being
+        re-done. We had some cool concepts, however when you have
+        a cool concept sometimes even cooler things pop into mind
+        and you decide to just make something that will knock the
+        crap out of everything else.
+4.) Writing a game from
+        scratch(even a simple one like pacman) is a simple task.
+        However, if it is your first game to ever write from
+        beginning to end it can be a little frustrating. 
+Will I update more frequently?
+        Um...not sure. Will Robby the Robot come back? Sure when
+        he has something to announce, but I began to realize that
+        it would become a bother to have him there all of the
+        time. I also have a fairly cool link site in the games
+        area for the games. The layout for the links section we
+        have Sverre to thank...he suggested it and I took to it!
+        ;)
+-l8tr
+-God of War
+
+
+
+ 
+
+
+ 
+
+
+
+
+

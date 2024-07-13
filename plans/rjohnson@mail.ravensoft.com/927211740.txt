@@ -1,0 +1,5 @@
+5/20/99
+   I'm giving Windows 2000 Beta 3 a try.  So far, I haven't Blue Screened, which
+      is good.  My only problem is that whenever I log in, I get an
+      exception from explorer.  I then have to run explorer though the 
+      task manager by hand, and then it works fine.  I think thi

@@ -1,0 +1,155 @@
+Login: JC             			Name: User JC
+Directory: /home/JC                 	Shell: /nonexistent
+Never logged in.
+No Mail.
+No Plan.
+
+Login: jc             			Name: jc
+Directory: /home2/jc                	Shell: /usr/local/bin/bash
+On since Thu Sep 17 21:30 (CDT) on ttyp0 from 168.191.184.113
+No Mail.
+Plan:
+Sept 17.
+
+I find myself increasing transferring my personal information into
+electronic form.  Once information is an digital form it is easy to
+access from anywhere, search easily, and it takes up almost no space.
+The easiest way to access information these days is through the world
+wide web.
+
+  However, much of my information is confidential : voice mail,
+scanned business cards/memos, passwords/logins, contracts, etc.  One
+approach to the problem of securing this information is to add login
+passwords to your web-page, but this method is highly unsecure because
+the data can be compromised if :
+
+ - an electronic breakin occurs on the server
+ - anyone with admin access on the machine decides to snoop around
+ - physical breakin occurs and the machine is stolen
+ - government officials seize the machine and look for incriminating evidence.
+ - anyone at your company (or along your internet path) can read the 
+   information with a packet sniffer as you download it (unless the pages uses SSL)
+
+  A better method is to store the information on the server in an
+encrypted form and have the client decrypt the information with a
+password.  I wonder if anyone has heard of a Java app that takes a URL
+address and a password and displays the decrypted URL?  This would be
+a very simple program to write.
+
+  Mail servers such as hotmail, could provide their clients with
+anonymity by using a public-private key encryption scheme.  When they
+(hotmail, etc) receive an email for someone they encrypt it using the
+user's public key and store it onto disk.  When the client browser
+goes to read the information it decrypts it on the client's computer
+using his/her private key.  Of course this would make illegal to serve
+foriegn customers....
+
+  A few months ago, I was working on a network file system for linux
+that did this for use on our mail server, but I never finished.  The
+way it worked is each user had a directory they could mount onto their
+machine.  All writes to the file system were encrypted using a public
+key, and all reads required a private key.  In this manner, other
+users could copy files from their file system to another user's
+file system but they couldn't read from it (even if they knew root's
+password!).  Thus, mail files could be written to by the mail server,
+but they could only be read by the user.
+
+  I thought about making a pop-mail client that did this but I wasn't
+really all that interested... :)
+
+  Speaking of public key encryption, does anyone know if the eliptical
+curve encryption algorithm is patented?  I saw a Japanese patent for using
+eliptical curves to do digital signatures, but not one for just key exchange.
+
+
+Sept 14.
+  If you are thinking about starting a company here's some
+info about choosing a name, as well as a list of every english word
+that is *not* registered as a domain name!
+http://home.sprintmail.com/~jonathanclark
+
+
+Sept 12.
+
+Damn.  Apparently the below idea is not legal under US Law.
+For further explanation checkout :
+
+http://www.bxa.doc.gov/Encryption/encreg.htm
+
+which specfically says:
+
+"List of Items Controlled
+
+   a. ``Software'' specially designed or modified for the 
+``development'', ``production'' or ``use'' of equipment or ``software'' 
+controlled by 5A002, 5B002 or 5D002.
+    b. ``Software'' specially designed or modified to support 
+``technology'' controlled by 5E002
+"
+
+also checkout a "human" discussion of this topic at:
+http://www.mozilla.org/crypto-faq.html
+
+back to the drawing board...
+
+------------- The old idea ----------------
+
+  For anyone making a product that uses strong encryption in the
+United States knows about the pains of having to get approved for
+export by the Commerce Department (often to be rejected).  I've been
+considering any alternative distribution method that could possible
+get around this mess, but I was wondering if there was anyone out that
+could tell me why this wouldn't be legal?
+
+  First all encryption technology is externalized into a DLL.  Next
+the API for the DLL (not the actual DLL) is released to the net with
+test programs.  Developers in US/Canada and Europe/Rest of World
+develop a DLL that implements the API and they test it against the
+test programs to make sure it works 100% to specification.
+
+  Now the DLLs are made available on FTP sites in both regions.  When
+a program is first run that requires the DLL, it looks up it's own IP
+address and determines from that if it is in the United States/Canada
+or outside.  It then downloads the DLL from a legal ftp server, checks
+the fingerprint/checksum, links it in, and continues running.
+
+  This would allow developers to make products that required strong
+encryption products and distribute them world-wide without any hassle.
+
+  Is anyone is interested in working on this project, let me know.
+I'd like to start with an implementation of the public/private key
+algorithm Hille-Diffeman (this patent expired in 1997), and a 128+ bit
+non-patented symmetrical algorithm.  The major code to be written will be :
+
+  - DLL server
+  - Hille-Diffeman
+  - IDEA/Blowfish/Triple DES?
+  - DLL down loader and installer
+ 
+
+Then we will need volunteers to run FTP servers in the respective
+countries.  Actually I was thinking of having a dispatching server
+that would take your IP address and then point you to an appropriate
+server.  This way only one server address is fixed and the others can
+come and go and load balancing can be performed.  As well if the legal
+boundaries change, the server can be modified without changing all of
+the client images.
+
+  It is possible to make money on this somehow, but I think this is
+one of the important net services that need to be there for the
+benefit of everyone, so I would prefer to release the DLL and maintain
+the servers without charge.  The DLL size should be very small (<100k)
+so there won't be much of a network load to bear.
+
+  Interested parties contact jonathanclark@sprintmail.com
+
+
+Sept 10.
+
+Here's an interesting trick.  Make your computer
+screen mostly white by opening up notepad and maximizing it.  Now look
+up about 6 feet above monitor.  If you keep looking there and watch
+your monitor out of the corner of your eye you will see it flicker.
+Your perphiral vision is more sensative to motion so it takes a much
+higher refresh rate on your montior to keep this from happening.  My
+monitor was set at 75hz and it still occurs.

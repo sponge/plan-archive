@@ -1,0 +1,23 @@
+Account Name:  Nick Schaffner
+Email address: nicks@3drealms.com
+----------
+/* Nick Shaffner <-> Grimtooth
+ * Co-Programmer: Duke4Ever
+ * nicks@3drealms.com
+ */
+
+[2/26/97]
+
+	Vhelp, this is my first .plan file, so bear with me here until I get the hang of it. I'll try to get in an update every week or so, but we're starting to get geared up for E3, so free-time is hard to come by.
+
+	I recently finished integrating the new scripting system ('DukeC') into the engine codebase,  it took a bit longer than I expected (always seems to ;^) ), but definantly worth it.  
+	At the moment, I'm working on replacing the Quake2 entity system with our new, improved entity system.  The novel design and speed of the scripting system combined with the insane flexibility of the new entity system should make Duke4Ever one of the most user-extensible games ever released.
+	Additionally, if there are any cool features you'd like to see in DukeEd, let me know ASAP,  I've already gotten tons of great ideas from the mappers/designers, but would would love more suggestions on how to make it as powerful/flexible/easy-to-use as possible. 
+
+	Chris has been slaving away on Cannibal like a mad-man for the last week and a half, and it's really looking quite impressive, it handles nearly -everything- relating to models - and then some (Plus the interface looks kick-ass).
+
+	We've been playing way too much Worms 2 around here lately. For being a rather simplistic 2d turn based engine, it sure packs a huge amount of sadistic and silly violence... 
+
+	BTW, here's the URL for a nifty little toy I wrote a while back called Cheat-O-Matic. I's freeware and lets you cheat on just about everything: 
+
+	http://www.geocities.com/TimesSquare/Dungeon/5633/

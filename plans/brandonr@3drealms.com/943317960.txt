@@ -1,0 +1,24 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Mon Nov 22 21:34 (EST) on ttyp0 from 216.27.43.214
+Mail forwarded to brandon@epicgames.com
+Mail last read Mon Nov 22 04:00 1999 (EST)
+Project:
+Unreal Tournament
+Plan:
+Monday, November 22, 1999
+
+Linux UT will be available for download soon.  Jack will take care of
+announcing it and setting up mirrors.  I'm going home, so if there
+are any major problems with it email utlinuxbugs@epicgames.com.
+
+Please read the README before you install.
+
+The IRC UT chat went very well.  It was the smoothest IRC chat I've
+ever been to and many questions were answered.  Hopefully someone
+will post a condensed log.
+
+Thanks to everyone who showed up to support the game and get
+involved in the UT community.
+	
+    

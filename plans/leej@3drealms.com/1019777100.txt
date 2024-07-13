@@ -1,0 +1,24 @@
+Account Name:  leej
+Email address: leej@finger.3drealms.com
+----------
+I Have No Mouth, But Someone Else Is Screaming For Me Anyway
+
+Have any of you ever had your e-mail address "spoofed?"  I wish I knew how to combat this, because someone out there somewhere is putting my e-mail address in the "From:" header of a boatload of spam.  This is not a Klez worm attack:  this is someone outside of 3D Realms putting my address on their outgoing e-mail.
+
+I've tried to track down the perpetrator(s) and contact their ISPs, but I don't know if I'll ever really put an end to this.  If any of you reading this have any experience and/or success with this sort of thing, please tell me what you did to stop it.  I already use Spamcop and other spam reporting tools, so please don't point me in that direction - I've already been there.  However, any other relevant advice is certainly more than welcome.
+
+In the meantime, if you happen to get spam that looks like it's from me, please don't put me in your killfile.  Plug the message into Spamcop.net's forms and zap the real villains. ^_^
+
+
+And now, your moment of Blatant Plug Zen:
+
+http://www.mp3.com/ljfnord
+
+
+
+
+
+
+
+
+-=>INSERT SHASH HERE<=-

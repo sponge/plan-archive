@@ -1,0 +1,15 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Sun Sep  5 12:24 (EDT) on ttyp1 from tpfl.demon.co.uk
+Mail forwarded to brandon@epicgames.com
+Mail last read Fri Aug 20 17:58 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Sunday, October 03, 1999
+
+GameSpy users won't be able to properly create ngWorldStats account with the demo.  My method of ensuring
+correct account creation requires that the connect URL be created by the game.  I overlooked the fact that
+3rd party programs use their own connect URLs to open a game.  This will be addressed.
+	
+    

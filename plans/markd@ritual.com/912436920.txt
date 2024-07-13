@@ -1,0 +1,44 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: markd
+Plan modified: Mon Nov 30 10:43:32 1998
+
+11/30/98
+========
+
+A few things
+
+- 3DNOW - I worked very hard on getting 3DNOW support in for the 1.01 patch,
+unfortunately there were a lot of issues with their 3dfxgl driver (it didn't
+recognize my PURE3D).  Right now I am in a holding pattern waiting on AMD to
+see what they do to improve their optimized drivers.  Another issue that came
+up is that the 3DNOW optimization is basically targetted solely at VOODOO
+customers.  Anybody out there own a K6 and not use a VOODOO based video card?
+It seemed to me like there would be quite a few people in this situation and I
+want to make sure the optimized 3DNOW driver is compatible with all the
+popular cards.
+
+- Tools - I am getting the new tools ready for release.  This time I will also
+include the MAX and MAX2 plugins (compiled) sorry about that, didn't realize I
+just sent out source.  Incidentally, the MAXSDK comes on every MAX disk.
+
+- Source - We are also putting together a release of the source code for the
+gaming dll, this will take a little longer because it will be our first
+release ( the tools as you know had already been released for the demo ).
+
+- Patch - I hope everyone is Sinning out there ;).  I apologize for the change
+in Save games, but since most of the level scripts had changed, the old save
+games were truly no longer compatible.
+
+
+=========================================================================
+=  = = Mark Dochtermann = Ritual Entertainment
+=========================================================================
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************
+pleasant email 

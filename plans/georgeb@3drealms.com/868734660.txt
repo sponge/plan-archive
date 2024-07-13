@@ -1,0 +1,129 @@
+[mailhub.gte.net]
+
+Account Name:  georgeb @3drealms.com
+Email address: georgeb@3drealms.com
+----------
+George Broussard
+President, 3D Realms
+Project Leader: Duke Nukem Forever, Shadow Warrior
+Executive Producer: Prey
+
+
+Saturday 7/12/97 - 3:25 pm
+==========================
+
+[Shadow Warrior]
+
+It's been a pretty productive week.  Michael has the end boss,
+Zilla, just about modelled and will start on the textures and
+animation by Monday.  Keith finished his last level for the most
+part and has one of the coolest boss endings I've seen in a 3D
+game so far.  Stephen is just tweaking his levels for framerates,
+and for DeathMatch suitability.  We are net testing the levels
+nightly and the screaming is starting again.  We'll get Eric's
+levels on the 15th (4 levels) and finish them up, placing us
+under the Aug 1st deadline for content addition.
+
+Frank and Jim have less to do every day, and are pretty much in 
+"react mode" to the few bugs we find.  A couple of things popped 
+up due to >5 players, but it was just "entropy" from not 
+playing >5 player games lately.  Lee has 1-2 more songs to do, 
+and a minor amount of sound effects, so that's not an issue 
+anymore.  We'll probably go into the studio once more to recored 
+the last of the Lo Wang voices, late in the month.
+
+I think our estimation still stands:  Finish the game and freeze
+by Aug 1.  Then we simply test for hopefully a week or so, and
+then send a master CD to GT for duplication.  I can see the game
+ready to ship late in Aug / early Sept.
+
+* 3Dfx support is looking good, and we're "supposed" to get a final
+date for the support soon.  That means to me that they can do it,
+and now it's just a race to get it ready, so we can have 3Dfx
+support right when you buy SW.  Rumor has it that there "might"
+be some sort of MMX support as well.
+
+* DLL's were dropped.  Some people seem to have not gotten the news.
+They were simply going to blow our deadlines, and there were one or
+two technical issues still to be resolved.  All in all, we thought
+shipping the game a month earlier was more important.
+
+
+[Duke action figure]
+
+Met with the company and saw some prototype sketches, sculptures,
+and an actual mock up.  We're really PSYCHED.  The thing just
+rocked.  I can see people all over having a Duke Nukem action
+figure on their desk beating the shit out of other ones like
+Spawn, Stormtrooper's, or Luke.  I know mine will be. ;)
+
+
+[Duke Nukem Forever Mini FAQ]
+
+This is sort of a mini FAQ since I keep getting the same 
+questions over and over.  It also gives people something
+to put on the dozens of Duke Nukem Forever sites I've
+seen go up.  (Thanks for the support guys).
+
+* We don't want beta testers.  Sorry.  If we need some
+later, we'll let you know.
+
+* Release:  "When it's done", but we think 1998.
+
+* We will be using the Quake 2 engine, and bypassing
+Quake 1.  My feeling is that after Quake 2 comes out,
+the Quake 1 engine will be "old".  Also we're in a good
+spot timing wise to do so, as we're just now getting 
+into the main development.
+
+* Since we are using the Quake 2 engine, you can assume
+we will do what it does.  That means:
+- DLL support (The game will be expandable ala Quake)
+- Client/server Internet play (For free too, not just TEN)
+- GL / 3Dfx support (anything Quake 2 does)
+- All the neat stuff like model interpolation
+
+* If you want to know why we didn't use the Prey engine, see 
+www.3drealms.com, under About Us/Press Releases
+
+* Yes, we will have super interactive environments like Duke 3D
+
+* Yes, we will keep Duke's voice, sense of humor and character in
+place and expand upon it.
+
+* And finally, the most asked question so far? "Strippers?"  
+Hey, it's Duke, and we're 3D Realms.
+
+
+[George's Movie Review #7: "Contact"]
+=====================================
+Very cool flick, that I had been looking forward to since the
+previews.  It's long (2.5 hours), so there are some "slow" 
+spots, but I didn't mind much.  It was all pretty interesting.
+There are a few hokey leaps of logic in the movie, but what
+movie doesn't have them thesedays? (But it just seems that
+people reviewing the script would go "Hey, this is kinda
+stupid.")  Jodie Foster is good in the movie, but I keep
+hearing "Nell in Space" ;)  This is definately one of the top
+movies of the summer content/quality wise.  Don't expect a
+high body count or any real gibs, but go see it anyway.  As 
+part of your $6 donation, you get a half boob shot of Jodie,
+so what the heck?  What else you gonna do.  Hang on IRC ;)
+Rating: 9 / 10
+
+
+[George's Movie Review #6: "Men in Black"]
+==========================================
+I had doubts about this movie from seeing the previews.  I expected a
+rockful, "serious" sci-fi movie and that's what the early previews
+indicated.  Then all of a sudden the "comical" previews started and I
+was saying, "Oh, my....this is gonna suck."  Well, I'm glad to say the
+movie does NOT suck, and in fact it rocks.  The casting of Tommy Lee
+Jones and Will Smith is perfect.  You will constantly be laughing your
+ass off, and if not, then you're just a freak.  I think with this
+film, Independence Day, Bad Boys, Will Smith has secured his place as
+an action hero.  Go see this movie.  It's funny, cool, and all in all
+a "fun" movie.  It's probably the best movie of the summer, maybe
+2nd to Jurassic Park (just from the awe factor).
+Rating: 9 / 10
+

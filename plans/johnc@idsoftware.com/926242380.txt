@@ -1,0 +1,318 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 3 Arena
+Last Updated: 05/09/1999 06:11:44 (Central Standard Time)
+-------------------------------------------------------------------------------
+5/9/99
+------
+We would up making tweaks to both maps today, so the data didn't
+reach final form until a few hours ago.
+
+I just finished making release candidates for all three architectures,
+but I already found a couple problems that need to be fixed.
+
+If everything goes perfectly (ha), and I nail these problems immediately
+when I wake up, then we might make it out tonight, but it is looking a
+bit doubtful.
+
+
+There are a few known issues that I decided NOT to hold the test up for:
+
+The gauntlet is functioning correctly, but the visuals are wrong.
+The designed behavior is that when you hold down attack it will scan
+for a target and only punch forward when it hits.  The visuals currently
+show it punching constantly.
+
+Dynamic lighting is currently taking a really excessive amount of cpu
+time.  If you are having performance problems in firefights, you may
+want to turn it off.  The option is in the preferences, or you can
+just issue "r_dynamicLighting 0" at the console.
+
+The powerup item sounds aren't global across the entire world since
+I went to the client side predicted items.
+
+There are some cases when a weapon that was picked up with a predicted
+item and immediately fired doesn't make a muzzle flash.
+
+
+* fixed fs_copyfiles after ospath split
+* fixed look-at-killer 
+* changed railgun impact to plasma dish
+* convert connect packet to infostring
+* put footsteps back in...
+* r_drawsun 0 by default to avoid probs for now
+* fixed event clear overwrite problem
+* client side predict weapon switch on item pickup
+* changed sound fallbacks to "visor" from "male"
+* made turbulent texcoords based off of xyz instead of st
+
+
+
+
+5/8/99
+------
+There is one must-fix issue and a couple smaller issues
+remaining before the release candidate build, then we
+have to do a lot of testing on it.  I made a lot of
+significant changes in the last week, and I'm sure there
+are some things we still need to sort out before we
+inflict it on the general public.
+
+We are aiming for sunday, but understand that that means
+sunday evening, not sunday morning.
+
+If saturday night / sunday morning testing on the release
+candidate turns up significant problems, we will put off
+the release until they are fixed.  That could be later
+sunday night, or it might not make it until monday night.
+
+The previous release delays for win32 were issues out
+of our control, but this release rests squarely on me.
+The content and other issues are ready, but we still
+need to make sure all the new code is solid.
+
+
+* fixed give item bug
+* new first snapshot timing
+* moved sun drawing outside of sky shader to fix showtris
+* r_drawSun
+* handle all shader tesselations in q3map with tjunc fixups
+* different flatness epsilons for edge vs border grids
+* reorganize sound directories
+* removed footsteps on non-metalic and non-water surfaces
+* fixed bug with multiple looping sounds
+* client side predict teleporters, go to "hyperspace"
+* precache remaining liquid sounds
+* don't fire jumppad events if upward velocity
+
+
+5/7/99
+------
+* changed grabbed items to SVF_NOCLIENT instead of EF_NODRAW
+	now that the pickup event is on the player
+* clear event flags with event on reset
+* move playerstate to netfield bit communication
+* fixed configstring delta sequencing issue after initial
+	gamestate
+* extended the netgraph: short red lines are missing
+	client to server packets (need to drop 3 in a row)
+* extended cg_debugevents
+* increased cl_maxpackets to 30
+* fixed bug with console field not getting drawwidth set
+* fastsky implies noportals
+* changed fastsky color
+* q3map now fixes tjunctions at fog boundaries
+* build optimized tree with visible hulls of sides
+* adjusted plane culling to avoid some cracks
+* r_facePlaneCull
+* fixed too-lax colinear collapse to avoid some cracks
+
+
+5/5/99
+------
+* client side predict item pickups
+	running over items was one of the few
+	remaining locally perceived signs of lag
+* new pont-in-patch test code
+* fixed pathname errors when mac users had
+	slashes in their paths: "B/W mac". sigh.
+
+
+5/4/99
+------
+* seeded random numbers differently on tourney restarts
+* fixed events on initial snapshots
+* removed g_maxentities configuration, set by G_ENTITY_BITS
+* cl_motd 0 to allow never sending request packets
+* fixed map cache clearing bug
+* cg_drawFPS 1 for running fps counter in corner
+* remove all teleport destination pads
+* moved checkmap out of cgame
+* moved time positioning out of cgame
+* made usercmd overrun freeze in place instead of snapping back
+* slightly increased shotgun spread
+* protected against using a cleared clientinfo
+* use snapped origin from players for linking to prevent
+	slight prediction errors during player collisions
+
+
+4/30/99
+-------
+I put together a document on optimizing OpenGL drivers for Q3 that
+should be helpfull to the various linux 3D teams.
+
+http://www.quake3arena.com/news/glopt.html
+
+
+4/30/99
+-------
+* vmtest framework, q3asm work
+* converted scene building to procedural style
+	allows better error checking, better
+	performance characteristics when interpreted,
+	and is a setup stage for SMP optimizations in
+	the renderer if I get around to it
+* protected some potential div by 0 areas in cgame
+
+
+4/29/99
+-------
+* rework versioning for architecture tracking
+* use a seperate endpoint for address resolves on mac
+* hide OTLook warnings if "developer" isn't set
+* defered mac renderer scanning until after mode set so
+	8 bit desktops don't confuse it
+* global motd/update server
+* fixed view model animations on models with custom anims
+
+technical note:
+
+Q3 can run networked player movement in either an asynchronous or
+synchronous manner.  The default mode is to allow all client movement to be
+done asynchronously with the servers advancement of time.
+
+The primary reason is to allow player movement to be predicted on the client
+side.  The primary drawback is that while your movement is smooth, the other
+players that you see running around in the world move with a jerkiness that
+is relative to their framerate and network connection quality.  It is NOT
+necessarily relative to their ping - a player on a fast system with a clean
+modem connection can move smoothly.  If you see a player stuttering around,
+either they have a bad franerate, or the network connection between them and
+the server or you and the server is poor.  The amount of stuttering is sort
+of the sum of the dropped or variable packets on BOTH connections.
+
+You can force Q3 to run all clients synchronously by setting
+"g_synchronousClients 1" on the server.  This will make Q3 behave similar to
+Q1 for networking.  All movement will be lagged except view angles, which are
+still short-circuited immediately.
+
+Some people claim to prefer synchronous movement when everyone had a very
+good ping, but I don't personally think it is ever a play benefit.  It
+makes leading players a bit easier, but I think the crisp movement control
+of client side prediction is a much better tradeoff.
+
+However, there is still a reason for using it:  recorded demos come out a
+LOT smoother looking when running with sync.  Note that q3test does not
+allow demo recording and playback, so this is just for future reference...
+
+
+4/28/99
+-------
+* converted sound positioning away from callback method
+* increased mac memory zone by 5 megs
+* new memory allocator for temporary render use during init
+* converted cmodel references to handles and range checked
+* converted sound references to handles and range checked
+* converted file references to handles and range checked
+
+4/27/99
+-------
+* cgame converted to use local buffer based lerpTag for interpretation
+* cgame converted to use local buffer based argv for interpretation
+* new sound code to remove latency 
+* added drop shadow to field characters and fixed scrolling
+* fixed edge-of-bounce-pad misprediction error (server side)
+* remove broken weapon-stay dmflag
+* made menu gfx never picmip
+* cheat protect r_lightmap
+* clear sound buffer before any file IO
+* use GetOSEvent instead of WaitNextEvent on mac when fullscreen
+	removes hitches caused by other tasks and gives a
+	performance boost
+* continuous scoreboard / ping update when tab is down
+* put version number on menu background
+* fixed toggle cvar bug
+* dim out behind floating menus
+
+
+4/26/99
+-------
+
+One more addition to net cvars:
+
+"cl_maxpackets" will restrict the maximum number of outgoing
+packets to prevent client to server rate problems.  This does
+not limit the client framerate.  This defaults to 20, which
+might actually be a bit low.  You might try experimenting
+with raising this to 40.
+
+"cl_maxfps" still exists, but it will never need to be used
+for networking reasons.
+
+
+4/26/99
+-------
+
+Interpreting the lagometer (the graph in the lower right corner):
+
+The upper graph (blue/yellow) slides one pixel for every rendered
+frame.  Blue lines below the baseline mean that the frame is
+interpolating between two valid snapshots.  Yellow lines above
+the baseline mean the frame is extrapolating beyond the latest
+valid time.  The length of the line is proportional to the time.
+
+The lower graph (green/yellow/red) slides one pixel for every
+received snapshot.  By default, snapshots come 20 times a second,
+so if you are running >20 fps, the top graph will move faster, and
+vice versa.  A red bar means the snapshot was dropped by the
+network.  Green and yellow bars are properly received snapshots,
+with the height of the bar proportional to the ping.  A yellow
+bar indicates that the previous snapshot was intentionally
+supressed to stay under the rate limit.
+
+The upper graph indicates the consistancy of your connection.
+Ideally, you should always have blue bars of only a pixel or two
+in height.  If you are commonly getting big triangles of yellow
+on the graph, your connection is inconsistant.
+
+In a heavy firefight, it is normal for modem players to see yellow
+bars in the bottom graph, which should return to green when the
+action quiets down.  If you are getting several red bars visible,
+you may want to look for a server that drops less packets.
+
+There are a few tuning variables for people trying to optimize
+their connection:
+
+The most important one is "rate", which is what the connection
+speed option in the menu sets.
+
+We are fairly conservative with the values we set for the given
+modem speeds: 2500 for 28.8, 3000 for 33, and 3500 for 56k.
+
+You may actually be connecting faster than that, and modem
+compression may be buying you something, so you might get a
+better play experience by increasing the values slightly.
+
+If you connect at 50000 bps, try a rate of 5000, etc.
+
+I err on the conservative side, because too low of a rate will
+only make the movement of other things in the world choppy, while
+too high of a rate can cause huge amounts of lag.
+
+Note that the optimal rate will be somewhat lower than a rate
+for QW or Q2, because I now include the UDP packet header
+length in the bandwidth estimate.
+
+You can ask for a different number of snapshots by changing the
+"snaps" variable, but there isn't a lot of benefit to that.
+Dedicated servers run at 40hz, so stick to divisors of that:
+40, 20 (default), 10.  A snaps of 40 will usually just cause
+you to hit your rate limit a lot faster.  It may be usefull
+for tuning rate, if nothing else.
+
+You can adjust the local timing point with "cg_timenudge ",
+which effectively adds local lag to try to make sure you interpolate
+instead of extrapolate.  If you really want to play on a server that
+is dropping a ton of packets, a timenudge of 100 or so might make
+the game smoother.
+
+
+
+
+
+4/26/99
+-------
+* converted cv

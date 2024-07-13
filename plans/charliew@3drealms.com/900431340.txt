@@ -1,0 +1,68 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: wieder
+Plan modified: Thu Jul 09 22:36:20 1998
+
+Who did you just finger?: Charlie Wiederhold
+Nick: Wieder
+Email: wieder@ritual.com
+What do I do?: Level/Game Design
+
+========================================================================
+Disclaimer!!!
+The views expressed here are solely that of my own and in no way reflect
+the official position of Ritual Entertainment. Simply put: Don't mind me
+And if I misspell something... it was on purpose. Trust me.
+========================================================================
+
+7-09-98
+===============
+
+If you are checking out that Sin scripting demo, here are a couple more
+things that I forgot to mention that you might find of some interest:
+
+- Names with a @ in front of them are surfaces (how the treads on the
+  robot are controlled in this example)
+- We do still have hard coded rotating doors, func_doors, blah blah blah
+  for quick and easy doors that you don't need multiple parts for. A
+  rotating door that you would have to do in scripting for example would
+  have a wheel on it that you have to turn and then that wheel has to stay
+  attached to the door as it turns.
+- A name with a : after it is a label. So when you say "goto blahblah" the
+  script will jump down to the line that says blahblah: and continue 
+  processing from there.
+- goto commands act just like a goto command in Pascal, etc (yeah, yeah,
+  I already hear all you programmers screaming spaghetti code). Used properly
+  goto is your best friend.
+- thread commands call a thread and executes everything in that thread.
+  The part of the script that called the thread does not wait for the
+  thread to finish before it moves on in the script unless you tell it to.
+  This is very useful (used it today as a matter of fact in scripting a
+  boss sequence) in timing events properly.
+- In that script I gave all objects a time and a distance to move. This
+  was written before I knew about the wonderful speed command. You can
+  give an object a speed and a time or a speed and a distance and then
+  tell it to go. This is useful for something like a robot which has a
+  speed it always moves at. I know the distance but don't want to calculate
+  the time so I give it the speed and distance and let it handle that. Or
+  I need something to move until something else interupts it or a certain
+  time expires. I then give it a speed and a time and don't worry about the
+  distance since that will never be the same.
+
+There aren't things blowing up in this example because, to be quite honest,
+blowing stuff up is really easy in Sin and doesn't really show what the
+scripting is capable of. Course, it might have been cool to watch "Danny"
+self destruct at the end of the demo, huh? Oh well, damn. :) We hope all you
+editing types are able to get excited about what you will be able to do with
+Sin, as we fully expect you to far outshine what we come up with in time,
+just like everyone did with Quake.
+
+And if you have any questions about stuff you see in that demo, feel free
+to email me and ask. I know I'm probably asking for trouble by saying that
+but we really want people to run with this stuff. I can't guarantee I'll
+reply to every question personally, but if a lot of people ask the same
+question I'll be sure to post the answer in my .plan file.
+
+Wieder rolls on outta here...
+

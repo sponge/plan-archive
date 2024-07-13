@@ -1,0 +1,17 @@
+User:   timplan
+Read:   0
+Unread: 0
+Time:   Fri, 2 Jan 1998 20:57:36 -0800
+Plan:
+tim@gamespy.com
+1/2/98
+GameSpy 2.0 progress support.
+Just finished adding web proxy server support. I also found and fixed the bug where GameSpy would sit there at a QuakeWorld server and not connect.  It was a race condition I could not duplicate until now.
+
+12/12/97
+A few things about GameSpy Quake2 support:
+1) Make sure you have actually added a Quake2 list server to the server lists tab in options. We have been getting a lot of emails on this.
+2) If you get a message like "NET_SendPacket ERROR: WSEAWOULDBLOCK" from within Quake2, odds are pretty good it has nothing to do with GameSpy.  GameSpy either quits or goes to sleep while you are playing depending on the settings.
+3) Please view the readme file.
+
+Quake2 is awesome.  I bought mine yesterday. CompUsa has it for $37.99, limit one per customer.  Kill some alien badies this festive holiday season.

@@ -1,0 +1,16 @@
+Account Name:  Lee Jackson
+Email address: leej@3drealms.com
+----------
+A Plea for Sanity
+
+Does anyone know which AGP-based video cards do not require an IRQ?  I'm trying to get this furshlugginer PII-300 system working, and it's got a brain-dead AGP card which insists on using an IRQ.  Naturally, it's conflicting with everything else (SCSI, NIC), and matters are being made worse by a motherboard that won't let me free up IRQ 12 by zapping the PS/2 mouse port (why do they waste that IRQ, anyway???).
+
+Please don't recommend ATI, since their stuff doesn't normally get along with the CardD+ soundcard.  Thanks!!!
+
+
+
+
+
+INSERT SHASH HERE
+	
+    

@@ -1,0 +1,250 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 3
+Last Updated: 06/08/1998 00:46:17 (Central Standard Time)
+-------------------------------------------------------------------------------
+6/7/98
+------
+I spent quite a while investigating the limits of input under windows
+recently.  I foudn out a few interesting things:
+
+Mouse sampling on win95 only happens every 25ms.  It doesn't matter if you
+check the cursor or use DirectInput, the values will only change 40 times
+a second.
+
+This means that with normal checking, the mouse control will feel slightly
+stuttery whenever the framerate is over 20 fps, because on some frames you
+will be getting one input sample, and on other frames you will be getting
+two.  The difference between two samples and three isn't very noticable, so
+it isn't much of an issue below 20 fps.  Above 40 fps it is a HUGE issue,
+because the frames will be bobbing between one sample and zero samples.
+
+I knew there were some sampling quantization issues early on, so I added
+the "m_filter 1" variable, but it really wasn't an optimal solution.  It
+averaged together the samples collected at the last two frames, which
+worked out ok if the framerate stayed consistantly high and you were only
+averaging together one to three samples, but when the framerate dropped to
+10 fps or so, you wound up averaging together a dozen more samples than
+were really needed, giving the "rubber stick" feel to the mouse control.
+
+I now have three modes of mouse control:
+
+in_mouse 1:
+Mouse control with standard win-32 cursor calls, just like Quake 2.
+
+in_mouse 2:
+Mouse control using DirectInput to sample the mouse reletive counters
+each frame.  This behaves like winquake with -dinput.  There isn't a lot
+of difference between this and 1, but you get a little more precision, and
+you never run into window clamping issues.  If at some point in the future
+microsoft changes the implementation of DirectInput so that it processes
+all pending mouse events exactly when the getState call happens, this will
+be the ideal input mode.
+
+in_mouse 3:
+Processes DirectInput mouse movement events, and filters the amount of
+movement over the next 25 milliseconds.  This effectively adds about 12 ms
+of latency to the mouse control, but the movement is smooth and consistant
+at any variable frame rate.  This will be the default for Quake 3, but some
+people may want the 12ms faster (but rougher) response time of mode 2.
+
+It takes a pretty intense player to even notice the difference in most
+cases, but if you have a setup that can run a very consistant 30 fps you
+will probably apreciate the smoothness.  At 60 fps, anyone can tell the
+difference, but rendering speeds will tend to cause a fair amount of
+jitter at those rates no matter what the mouse is doing.
+
+DirectInput on WindowsNT does not log mouse events as they happen, but
+seems to just do a poll when called, so they can't be filtered properly.
+
+Keyboard sampling appears to be millisecond precise on both OS, though.
+
+In doing this testing, it has become a little bit more tempting to try to
+put in more leveling optimizations to allow 60 hz framerates on the highest
+end hardware, but I have always shied away from targeting very high
+framerates as a goal, because when you miss by a tiny little bit, the drop
+from 60 to 30 ( 1 to 2 vertical retraces ) fps is extremely noticable.
+
+--
+
+I have also concluded that the networking architecture for Quake 2 was
+just not the right thing.  The interpolating 10 hz server made a lot of
+animation easier, which fit with the single player focus, but it just
+wasn't a good thing for internet play.
+
+Quake 3 will have an all new entity communication mechanism that should
+be solidly better than any previous system.  I have some new ideas that go
+well beyond the previous work that I did on QuakeWorld.
+
+Its tempting to try to roll the new changes back into Quake 2, but a lot
+of them are pretty fundamental, and I'm sure we would bust a lot of
+important single player stuff while gutting the network code.
+
+(Yes, we made some direction changes in Quake 3 since the original
+announcement when it was to be based on the Quake 2 game and networking
+with just a new graphics engine)
+
+
+5/22/98
+-------
+Congratulations to Epic, Unreal looks very good.
+
+
+5/19/98
+-------
+A 94 degree day at the dragstrip today.  Several 3drealms and Norwood
+Autocraft folk also showed up to run.  We got to weigh most of the cars on
+the track scales, which gives us a few more data points.
+
+11.6 @ 125 Bob Norwood's ferrari P4 race car (2200 lbs)
+11.9 @ 139 John Carmack's twin turbo testarossa (3815 lbs)
+11.9 @ 117 Paul Steed's YZF600R bike
+12.1 @ 122 John Carmack's F50 (3205 lbs)
+12.3 @ 117 Brian's Viper GTS (3560 lbs)
+13.7 @ 103 John Cash's supercharged M3
+14.0 @  96 Scott Miller's lexus GS400
+15.0 @ ??? Someone's volkswagon GTI
+15.1 @ ??? Christian's boxter (with Tim driving)
+
+Weight is the key for good ETs.  The TR has considerably better power
+to weight ratio than the P4, but it can't effectively use most of the power
+until it gets into third gear.  The viper is actually making more power than
+the F50, (Brian got a big kick out of that after his dyno run) but 350 lbs
+more than compensated for it.
+
+I wanted to hit 140 in the TR, but the clutch started slipping on the last
+run and I called it a day.
+
+I was actually surprised the F50 ran 122 mph, which is the same the F40 did
+on a 25 degree cooler day.  I was running with the top off, so it might
+even be capable of going a bit faster with it on.
+
+The F50 and the viper were both very consistant performers, but the TR and
+the supercharged M3 were all over the place with their runs.
+
+Brian nocked over a tenth off of his times even in spite of the heat, due to
+launch practice and some inlet modifications.  He also power shifted on
+his best run.
+
+It was pretty funny watching the little volkswagon consistantly beat up on
+a tire shredding trans-am.
+
+George Broussard had his newly hopped up 911 turbo, but it broke the trans
+on its very first run.  We were expecting him to be in the 11's.
+
+We probably won't run again until either I get the F50 souped up, or my
+GTO gets finished.
+
+5/17/98
+-------
+Here is an example of some bad programming in quake:
+
+There are three places where text input is handled in the game: the console,
+the chat line, and the menu fields.  They all used completely different code
+to manage the input line and display the output.  Some allowed pasting from
+the system clipboard, some allowed scrolling, some accepted unix control
+character commands, etc.  A big mess.
+
+Quake 3 will finally have full support for international keyboards and
+character sets.  This turned out to be a bit more trouble than expected
+because of the way Quake treated keys and characters, and it led to a
+rewrite of a lot of the keyboard handling, including the full cleanup and
+improvement of text fields.
+
+A similar cleanup of the text printing hapened when Cash implemented general
+colored text:  we had at least a half dozen different little loops to print
+strings with slightly different attributes, but now we have a generalized one
+that handles embedded color commands or force-to-color printing.
+
+Amidst all the high end graphics work, sometimes it is nice to just fix up
+something elementary.
+
+
+5/4/98
+------
+Here are some notes on a few of the technologies that I researched in
+preparing for the Quake3/trinity engine.  I got a couple months of pretty
+much wide open research done at the start, but it turned out that none of
+the early research actually had any bearing on the directions I finally
+decided on.  Ah well, I learned a lot, and it will probably pay off at
+some later time.
+
+I spent a little while doing some basic research with lummigraphs, which
+are sort of a digital hologram.  The space requirements are IMMENSE, on
+the order of several gigs uncompressed for even a single full sized room.
+I was considering the possibility of using very small lumigraph fragments
+(I called them "lumigraphlets") as imposters for large clusters of areas,
+similar to aproximating an area with a texture map, but it would effectively
+be a view dependent texture.
+
+The results were interesting, but transitioning seamlessly would be difficult,
+the memory was still large, and it has all the same caching issues that any
+impostor scheme has.
+
+Another aproach I worked on was basically extending the sky box code style of
+rendering from quake 2 into a complete rendering system.  Take a large number
+of environment map snapshots, and render a view by interpolating between up
+to four maps (if in a tetrahedral arangement) based on the view position.
+
+A simple image based interpolating doesn't convey a sense of motion, because
+it basically just ghosts between seperate points unless the maps are VERY
+close together reletive to the nearest point visible in the images.
+
+If the images that make up the environment map cube also contain depth values
+at some (generally lower) resolution, instead of rendering the environment
+map as six big flat squares at infinity, you can render it as a lot of little
+triangles at the proper world coordinates for the individual texture points.
+A single environment map like this can be walked around in and gives a sense
+of motion.  If you have multiple maps from nearby locations, they can be
+easily blended together.  Some effort should be made to nudge the mesh
+samples so that as many points are common between the maps as possible, but
+even a regular grid works ok.
+
+You get texture smearing when occluded detail should be revealed, and if you
+move too far from the original camera point the textures blur out a lot, but
+it is still a very good effect, is completely complexity insensitive, and is
+aliasing free except when the view position causes a silhouette crease in
+the depth data.
+
+Even with low res environment maps like in Quake2, each snapshot would consume
+700k, so taking several hundred environment images throughout a level would
+generate too much data.  Obviously there is a great deal of redundancy -- you
+will have several environment maps that contain the same wall image, for
+instance.  I had an interesting idea for compressing it all.  If you ignore
+specular lighting and atmospheric effects, any surface that is visible in
+multiple environment maps can be represented by a single copy of it and
+perspective transformation of that image.  Single image, transformations,
+sounds like... fractal compression.  Normal fractal compression only deals
+with affine maps, but the extension to projective maps seems logical.
+
+I think that a certain type of game could be done with a technology like that,
+but in the end, I didn't think it was the right direction for a first person
+shooter.
+
+There is a tie in between lummigraphs, multiple environment maps, specularity,
+convolution, and dynamic indirect lighting.  Its nagging at me, but it hasn't
+come completely clear.
+
+Other topics for when I get the time to write more:
+
+Micro environment map based model lighting.  Convolutions of environment maps
+by phong exponent, exponent of one with normal vector is diffuse lighting.
+
+Full surface texture representation.  Interior antaliasing with edge
+matched texels.
+
+Octree represented surface voxels.  Drawing and tracing.
+
+Bump mapping, and why most of the aproaches being suggested for hardware
+are bogus.
+
+Parametric patches vs implicit functions vs subdivision surfaces.
+
+Why all analytical boundary representations basically suck.
+
+Finite element radiosity vs photon tracing.
+
+etc.

@@ -1,0 +1,75 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 06/17/1999 10:03:34 (Central Standard Time)
+-------------------------------------------------------------------------------
+6/17/99
+
+Arrrrrrgggggghh ! Sarcasm from Blue ! Is there anyone I *can't* offend out there ??
+
+6/16/99
+
+I'm updating my finger so I can stop the hate mail coming in. Most people simply didn't seem to grasp my earlier comments
+about asking the news people to refrain from publishing peoples work logs.. Let me clarify. I think work logs are great.
+It clues people on over what programmers and designers and so on are doing. Lets face it, its not up to me to make any
+statments about what should or should not go in anyones .plan file. My point was, lets not report every detail of this
+work log as news on a news update page. Whether or not a new CVAR has been placed in Quake 3 is really not news, unless
+you happen to be a licensor of Q3. Evil Avatar has the best approach I think, he remarks that the .plan has been updated,
+and talks about only those things within it that affect games players.. like removing bouncing or whatever. I hope we can
+lay this to rest now. I hate getting hate mail, particularly from those that don't understand my point.
+
+On to other matters. I was interviewed recently, on the new game development website. If you want to check it out its
+GameDev.net
+
+So it looks like the LOD stuff I looked into may not be going into Star Trek. The reasoning here involved low poly count
+models. Traditionally, Raven has been extremely good at producing attractive low poly count models. This has come after
+years of experience that our modeler have had, plus large amounts of beatings until they get it right :) However, one of
+the things that LOD is traditionally NOT good at is reducing low poly count models even further and making them look ok.
+Yes, it is understood that they are reduced in size, so you don't notice this so much, but still, there comes a quality
+issue and at some point, modelers and designers need to say "enough". Really and truly, to do LOD so it looks correct, you
+should be building high poly count models to begin with. Since we already have a decent amount of work done on the models
+and animation for Voyager, there comes a point where the amount of time to redo it all is not balanced by rebuilding
+everything and pushing our delivery date back. We are still investigating the whole dynamic LOD approach, and are still
+undecided on its final form for Star Trek right now. As my father would have said, if we have the time to invest in code
+experiementation in an ongoing project, then we'll suck it and see.:)
+
+I'm doing some eye candy for SOF right now. Its really cool to be free enough to have the time to experiement with fluff
+stuff to try and get it right. Since I'm a free resource right now, they are applying me to stuff that otherwise may not
+have been so addressed. It looks like I'll have my hands in the effect scaling code too, which is fine by me :) Nathan
+Albury has added a very cool Special Effects generating tool into the game code base, something we've all been talking
+about for while. This takes effect generation out of the coders hands, (thankfully, since it takes longer for a coder to
+do it than an artist) and places it in the designer hands. I know I'm happy about this :) Doesn't stop me making effects
+but it sure does allow everyone a fair crack at it now :)
+
+The guys at Creative are adding EAX 2.0 to our sound system base, something else thats a bit exciting :)
+
+Nvidia. Hmm, did anyone else attend the Nvidia Spring Break thing back at GDC and actually receive a TNT2 yet ? We got our
+hands on one at E3, for two days, and then found that there were some bugs with our OpenGL code. It would have been nice to
+have actually been able to have played with this a few days before hand...
+
+Logitech. Others have issued proclamations about how good these guys are at getting development stuff to them. And we echo
+that sentiment whole heartedly. Except for the Quick cams :) Otherwise, these guys ROCK. And so does that force feed back 
+Mouse thing.
+
+WereWolf. Wow. I saw this at E3 - I don't think I was supposed to, just was at the right place at the right time - and its 
+a definite WOW. The three different states you can be in rock. The guy as a werewolf reminds me of the wolf Character in
+Rares Arcade Masterpiece Killer Instinct. Same sort of style. And I love the spells you weave. Very cool stuff.
+
+Music of the day - I decided to knock this on the head after being repeatedly berated for this in all the hate mail :)
+
+Joke of the Day - no one had any complaints about this, so I'll continue doing it.
+One Friday morning, a teacher came up with a novel way to motivate her class. She told them that she would
+read a quote and the first student to correctly identify who said it would receive the rest of the day off.
+She started with, "This was England's finest hour."
+Little Suzy instantly jumped up and said, "Winston Churchill."
+"Congratulations," said the teacher, "you may go home."
+The teacher then said, "Ask not what your country can do for you."
+Before she could finish this quote, another young lady belts out, "John F. Kennedy".
+"Very good" says the teacher, "you may go".
+Irritated that he had missed two golden opportunities, Little Johnny said, "I wish those girls would just shut
+up."
+Upon overhearing this comment, the outraged teacher demanded to know who said it.
+Johnny instantly rose to his feet and said, "Bill Clinton. I'll see you Monday".

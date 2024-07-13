@@ -1,0 +1,31 @@
+Welcome to Human Head Studios' Finger Service V1.6!
+
+Name: Paul MacArthur
+Email: pmacarthur@humanhead.com
+Description: Programmer
+Project: Rune
+Nickname: Teacher
+Web Page: Human Head Studios' Web SiteThis plan file is the opinion of the individual who writes it and does not reflect the opinions of the Human Head Studios.
+Last Updated: 09/09/1999 12:43:34 (Central Standard Time)
+-------------------------------------------------------------------------------
+9/9/99
+------
+Thanks to all that dropped by the Rune demonstration at ECTS.  Also a big thanks
+to Brandon and Jack from Epic and all the guys at The Playing Fields for use of
+their ISDN to get some last minute file transfers.  They've got a great setup there
+with the perfect balance of alcohol consumption and network bandwidth.  We must
+get a place like that closer to home.  London rocks.
+--paul
+
+
+7/29/99
+-------
+Has anyone tested Visual Source Safe for Y2K?  That's the only tool in
+our arsenal that I think could be susceptible.
+
+I'm also looking for a good consumer/commercial GL card with the
+following qualities:
+	- Stable drivers 
+	- Runs Softimage
+	- Supports multiple viewports without slowdown
+	- Runs fast in a window or fullscreen

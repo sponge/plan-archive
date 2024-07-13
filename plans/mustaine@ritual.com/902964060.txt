@@ -1,0 +1,158 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: mustaine
+Plan modified: Wed Aug 12 18:17:24 1998
+
+You've reached Tom "ParadoX" Mustaine @ Ritual Entertainment:
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  Yadda yadda blah blah blah                 *
+************************************************************************
+
+[. Aug 12th 1998. ]
+
+-Two years.  Excellent ;)
+
+-Next up, doublebind in the Sin demo!
+ I'm pretty sure most people don't know about this, but we implemented
+ the coolness of double-click binding in Sin.  You can doublebind any
+ key, or mouse button to any command.  Quite useful for those who
+ want to save on reaching, or just want to put lots of cool stuff on
+ one key!
+
+ Heres a few common doublebinds I use:
+
+ doublebind mouse2 +use
+ doublebind mouse3 +moveup
+
+ Other doublebind related commands
+
+ undoublebind      - undoublebind the doublebound keys
+ doublebindlist    - list doublebound keys
+ K_doubleclicktime - max time in milliseconds max for double
+                     click to register. (250 default)
+
+ Have fun!
+ 
+[. July 26th 1998. ] SinDay
+
+-Its out! Go get it!
+
+[. July 25th 1998. ]
+
+-Countdown to Sinday!  Its getting closer and closer and closer!
+ Be ready! 
+
+-Just wanted to thank the Scourge done Slick folks.  Being one of
+ the people involved with creating Operation Bayshield, I have to say
+ Scourge done Slick kicks bayshield's arsh!  Well done guys!
+ Everybody check it out upon release! 
+
+[. July 14th 1998. ]
+
+-Heya, for those of you who haven't checked out the new ACTION PACKED (heh heh)
+ SiN avi head on over to 
+ http://www.gamecenter.com/News/Item/0,3,1940,00.html
+ and check it out.  
+
+ The AVI was recorded in the Sewer level displayed at E3 and shows 
+ off some of the complex interaction and destruction that goes on in SiN.
+ Plus, the middle sequence gives a little insight into our creature duck,
+ cover, fallback, and hiding AI.  That dude is REALLY into self 
+ preservation!  Also, if you notice, as I shot at the baddie, 
+ when you hit him in the leg, he reacts to being shot in the leg and
+ that portion of his body becomes damaged!  Ahhhhh, the joys of SiN.
+
+ There is also a little peek at our 3rd person view in the AVI,
+ you can see the weapon attached to Blade, and the damaged parts of
+ his body revealed as he gets shot.  Neato stuff!
+
+-I read Jason Zelsnack's .plan about the ol'Ridge Racer machine at the 
+ Citadel in Colorado Springs.  OH YEAH, THATS RIGHT!  I would take time out
+ of my lunch hour to head on down to the arcade and get a little
+ Ridge Racer action goin!  I think if he and I were to find a machine
+ down here, we could settle this once and for all!  Ridge Racer SHOWDOWN!
+ Definitely a small game-world we live in...
+
+ Although, despite Jason and I constantly knocking the top
+ lap time around, my friend Josh Martel ended up getting the lap time
+ that smacked both Jason and I down.  Heck, last time I 
+ remember being in Colorado Springs, Josh's lap time was STILL
+ on there.  Doh!
+
+ NOW, DON'T MAKE ME COME OVER THERE AND BUST SOME VIRTUACOP CAP'S IN YO ARSHES!
+
+-Zor likes cheese
+
+-Badass Ritual party last weekend!  Level'ord, Zor, KillCreeky and I smacked 
+ down the pool volleyball competition.  Our pale skins, computer related jokes,
+ and otherwise lack of control in water provided the necessary tools to distribute
+ beatings!
+
+-Stevie has been busy busy recently with levels galore and book writing extreme!
+
+-I must take this time to say hello to my parents, who I know are reading this ;)
+ My Mom is now hooked on Diablo (!) and my Dad is still cracking demon skulls 
+ in Doom, smacking down Quake/Quake2, nuking aliens in Duke, and preparing 
+ to SiN!  Man I love this stuff!
+
+-Also, never got a chance to say Congratulations to Berenger and Megan for tying
+ the knot.  The trip to Chicago was definitely a trip to remember.
+
+-I've been playing a lot of the Die Hard Trilogy on playstation, totally rocks.
+ Also, Time Crisis on playstation (finally found it Bra, heh) is awesome, comes
+ with a entire new mission that fits somewhere between Time Crisis and Time
+ Crisis 2.
+
+-[More Favorite Games]
+  Amiga stuff:
+   It came from the desert!! (Oh yeah!)
+   Stunt Car Racer
+   Blood Money
+   Budokan
+   Shadow of the Beast I/II!
+   Ninjawarriors
+   TechnoCop
+   IK+
+
+-I need a laptop that can play Quake, Doom, Quake2, Sin and edit levels..hrmm...
+ Mabye next year....
+
+More later.
+
+
+[. May 23rd 1998 .]
+
+Time Crisis 2 Rocks your world....find it..play it...
+
+Here are some more Favorite C64 games....The last batch got me a hefty load
+of email.  Each mail reminding me of yet another C64 game that I had
+forgotten, man, there are SO many good games to go over...
+
+Mission Impossible (duh!)
+Raid over moscow
+Karateca!!
+Beach head
+Interceptor 
+Bruce Lee (I LOVE this one!)
+Adventure construction set
+Goonies (The best goonies, next to the 8 Bit nintendo Goonies II of course)
+Forbidden forest
+Trolls and Tribulations
+Conan!
+Grog's Revenge
+BC's Quest for Tires
+Any of the Jumpman series
+Leaderboard golf (Beau Reminded me of this one)
+Uridium
+Space Taxi (!!!)
+
+I think I might start slapping the 8 bit nintendo, and Amiga Favs up next.
+mmmmm...Amiga...
+
+
+"I'm off to fold some space, paradoxically of course..."
+Tom Mustaine
+mustaine@ritual.com

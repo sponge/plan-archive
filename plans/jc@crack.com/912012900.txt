@@ -1,0 +1,61 @@
+Login: jc             			Name: jc
+Directory: /home2/jc                	Shell: /usr/local/bin/bash
+On since Wed Nov 25 12:42 (CST) on ttyp0, idle 0:09, from 168.191.153.39
+Mail last read Fri Nov 20 23:05 1998 (CST)
+Plan:
+Nov 25. 1998
+
+
+   There is a project underway to do additional development on
+Golgotha under the GPL license over at golgothaforever.org.  I'm a big
+supporter of OpenSource projects and I have long wanted to see if a
+video game could be developed under the same model as Perl or Linux.
+Currently golgothaforever.org is hosted by Linuxgames.com which is a
+commercial entity .  Unfortunately they has added banner adds to the
+web pages and ads to the bottom of each email on the mailing list.  I
+feel this is not in the spirit of an OpenSource project, which is a
+labor of love.  After bitching about this fact, LinuxGames decided it
+wasn't appropriate for them to be hosting us either.  So... my
+question is, is anyone feeling very generous and willing to host an
+OpenSource game for free (i.e. no adverts!).  I'm aware of places such
+as lowrent.org and netpedia.org which offer free web hosting to
+OpenSource projects, but they can't handle the size of the data we
+need (~1Gig over time, ~100MB initially).  Also at least one person
+would need to be able maintain the web site and associated CGI scripts
+which would require some level of trust.  A Linux server would be best
+as most OpenSource developers seem to be Linux people.  I will forward
+your responses to the Golgotha mailing list.  Thanks!
+
+    I have been an casual participant in the project and from what
+I've seen so far there are some talented people working on the
+project.  If you are interested in getting into the game industry, I
+think this project can afford you much the needed experience to get
+that initial job.  I wouldn't be surprised to see companies
+specifically going after such developers.  In other news........
+
+   I move to San Jose next week!  My email at jc@crack.com should
+continue to work.  It's a bit of a change to get back into the
+confidential frame of mind for my new company.  When I initially
+started making games, we were very tight lipped about our game, and we
+wouldn't even tell our friends.  There was no reason for this paranoia
+and near the end of Crack.com I felt at ease telling anyone anything
+about Golgotha.  The change in attitude occurred as I noticed several
+facts.  1) Other game companies don't want your ideas.  Seriously.
+The designers working at those companies want their ideas to be
+implemented.  2) Other games companies don't have any sort of magic
+bullet that allows them to develop games 2x faster than you.  If you
+disclose every fact about your game, even the source code, other
+companies couldn't take it and bring a product to market faster than
+you, assuming you are a competent programmer.  When you first get into
+the industry you have no idea how good other people are.  Games are
+highly bottlenecked by engineers and the number of engineers who can
+be involved on the core engine of a game is limited.  Microsoft with
+all of it's money and developers couldn't get Quake to market any
+faster than id.  Look at ion storm, who has spent enormous amounts of
+money (in the wrong places!)  trying to get a derivative game out in
+less than a year.  3) Chances are someone else already thought of your
+idea, sharing information can find holes in your plan at an earlier
+stage.
+
+Enough banter.  Happy Thanksgiving! 
+

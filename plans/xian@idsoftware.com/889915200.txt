@@ -1,0 +1,49 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 2
+Last Updated: 03/14/1998 18:41:13 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+ --- Mar.14.1998 @ 6:36pm CST ---
+
+ Thanks to everyone who sent in recommendations on FTPD's with resume
+capabilities. War-FTPD (http://www.jgaa.com came highly recommended
+but I settled on Microsoft IIS 4.0's FTPD.
+
+ ftp.idsoftware.com now supports download resume (provided your client supports it)
+
+ --- Mar.14.1998 @ 3:44pm CST ---
+
+ Ok, uhh. DOH!
+
+ Zoid and I fixed the problems with the QuakeWorld masters under NT and they are running
+nice and smoothly now.
+
+ They are back on our NT box at;
+
+ 192.246.40.37:27000 -- Limbo (Servers which don't bother reporting to the 
+                         proper masters)
+ 192.246.40.37:27002 -- CTF Servers
+ 192.246.40.37:27003 -- Team Fortress
+ 192.246.40.37:27004 -- Modified Progs
+ 192.246.40.37:27006 -- Deathmatch Only Servers
+
+ Please *DON'T* use 192.246.40.250 as previously stated. I promise I won't 
+confuse you any more about the QW Masters =)
+
+ --- Mar.14.1998 @ 5:44am CST ---
+
+ For those of you who perhaps haven't purchased Quake II yet and want to 
+try out the first part of the game, we've released the Demo at;
+
+ ftp://ftp.idsoftware.com/idstuff/quake2/q2-314-demo-x86.exe (40 megs)
+
+ This demo includes deathmatch and co-op play along with the single player game
+experience.
+
+ On a somewhat related note, if someone can recommend a reliable FTPD for Windows
+NT that includes download resume capabilities, please drop me an e-mail at xian@idsoftware.com

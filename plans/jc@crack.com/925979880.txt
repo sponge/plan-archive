@@ -1,0 +1,32 @@
+Login: jc             			Name: Jonathan Clark
+Directory: /home/jc                 	Shell: /bin/bash
+On since Thu May  6 01:05 (PDT) on ttyp0 from cpu04
+   8 minutes 7 seconds idle
+No mail.
+Plan:
+Homepage
+
+May 6, 1999
+
+What if you were living in a country that didn't allow free speech?
+How could you run a web site that didn't support the views of your
+government without getting caught and thrown in jail?  This is the
+problem I have been wondering about lately.  Specifically, how can you
+make a network that can send and receive information that is totally
+untraceable?  For the purposes of this discussion I'll call "the
+government" as the "the bad guys" or TBG, though it may very well be
+that the people using this system are actually the bad guys.
+Specifically this method could be using to create untraceable warez
+sites, or allow terrorist to communicate in an untraceable fashion.
+ 
+Untracable is not the same thing as encrypted.  When you send someone
+encrypted email, TBG can't read it but they can determine where it is
+going and where it came from.  For untraceable email there already
+exist a system called anonymous remailers which send your mail to a
+chain of "remailer" machines which finally deliver it to the
+destination machine.  This makes it very difficult to trace the mail
+to the computer it came from because the government must be tapping
+each of the computer's communication to put it all together.  In most
+cases the computers are located in different countries, thwarting the
+ability of any one government to do this.  Further the time delay
+makes it hard to correlate the time of receipt with output traffi

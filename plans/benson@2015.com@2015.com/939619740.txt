@@ -1,0 +1,341 @@
+Account Name:  20154
+Email address: benson@2015.com
+----------
+User name: elmagoo
+Name: Benson Russell 
+Email: benson@2015.com
+Occupation: Director of Oppression, oo, and some level design
+Project: Super Secret Project X (I don't even know what I'm working on)
+
+************************************************************************
+* NOTE: Any views expressed here do not reflect the official position  *
+* of 2015 Inc. They are my own views and should not be confused with   *
+* those of the company.  - In lamens terms, my opinion :)              *
+************************************************************************
+
+October 10th, 1999 - 11:38pm
+
+Why am I here at the office still, this late, on a Sunday?  Welp, I guess
+not having a special 'someone' to return home to might be one reason ;)p.
+
+Well, I haven't updated this thing in a very long time, so I thought I'd
+put something here to see if this still works, and shed what little news
+I can about what's goin' down here at da casa de 2015.
+
+We've finally moved into our office space now (actually, we've been here
+for over a month :).  To reveal a little company blurb, we were working
+out of a house for the entire first project (similar to another great
+company I know of ;)p.  So we're actually moving up now.  Plus we've just
+purchased a bunch of cubes for our offices, getting them in here Monday, so
+now we're REALLY getting in the professional swing of things (but don't let
+that fool ya, we're still ab-normal :).
+
+The current project we're working on is moving along.  We've just recently
+gotten a few really kewl things working out of the design doc, and had a
+chance to tinker with them, and their a blast :).  I really wish I could
+say what we're working on now, but I am under strict orders not to, hence
+I'd be cut in half and thrown into the river (not a good way to end my life
+I'd say :).
+
+One important note is that we're REALLY looking for some good level
+designers, so check out our web site www.2015.com to see how to apply.
+We've got some really kewl stuff we're working on, and more projects lining
+up, so we're really starting to grow now.
+
+On a more personal blurb, I have to say goodbye to the last of the
+great japanese import sports cars......the Mitsubishi 3000GT.  First the
+Nissan 300ZX, then the Mazda RX-7, then the Toyota Supra, now the 3000's.
+It's amazing what people are driving out there now-a-days, it's becoming
+all SUV's and minivans.  EEESSSHHHHHH, talk about a scary place, imagine
+nothing but those all over the roads.......traffic would be filled with
+people that drive way to agressive thinking they can go off-roading and
+that they're extra safe in this supposed 'tough', big vehicle, along next
+to people that drive either waaaaayyyy too slow, or think that this big
+monstrosity can handle like a normal car so they try to keep up with us
+sports cars.  All I now is that these are two more types of vehicles to
+block more of my view in traffic because of their size, they cost way more
+than the average car, offer less protection, and because of this cause my
+insurance rates to go up.  Ooo well, at least I can always out drive them
+;)p
+
+Also finished System Shock2.  Being an avid fan of the original, I must say
+that they've done a really impressive job with the 2nd.  It's not as good
+as the original, but it's close, and good sequel.  There are a few quirks
+with it though, one of my biggest being the fact that your players bounding
+box is sooo damn BIG.  Things that look like they fly over yer shoulder
+still hit you at times.  That and a few other quirks, but they are
+overlookable.  If ya dug the original, then definately get the sequel.  And
+if yer looking for a good immersive game, I'd recommend this one.
+
+Welp, that's enough of that, thanks once again for reading my little bit
+of web space.  Definately will provide more and better updates once we
+can announce what it is we're working on, which will hopefully be in a few
+months (no guarantee's though ;)p.
+
+-'do you ever have second thoughts?'
+-'when do I ever have first thoughts?!?!'
+=================================================
+
+
+Feb 26, 1999 - 4:24pm
+
+Welp, as everybodies seen we've finally gotten our first product out on the
+shelves (yeah team ;).  It was definately a ride while making it.  I think
+we've all come a very long way from where we were when we started.  Many
+thanks go to all of the Ritual tribe for giving us the chance and the
+means, you guys all rock, and we're looking forward to what you guys are
+up to next ;).  Also many thanks go out to Activision for their help and
+support :).
+
+One thing to keep in mind when playing through Wages of SiN, we've stuck
+quite a few little funny 'Easter Egg' type things all throughout the
+game.  Several of them involve events that spawn multiple levels.  So just
+something fun to keep in mind while going through the game ;)p.
+
+"humor is the wine of funny, not the vinegar or dumb."
+======================================================
+
+jan 23, 1999 - 8:03am
+
+Hehehe, well, my congrats go out to Paradox over there at Ritual, I guess
+the dumb finally caught up with ya in the end there eh? ;)p
+
+Well, we're all in wrap-up mode now.  Just cleaning up the game flow
+and tweaking speed issues, making the levels faster as best we can.  We're
+still also on da bug hunt and scratchin' out as many as we can.  I think
+we've gotten now something like over 512 killed, and aren't findin' too
+many more now that are pure code related and not just level-flow scripting
+errors.  We've been getting good feed-back from the beta testers (both in-
+house and Activision and now Ritual as well) and implementing those
+changes.  So I think we should be very solid when it hits the shelves
+(which should be pretty soon now).
+
+I'm working on the intro cinematic to the game currently, and we've
+planned out some pretty kewl shots for an in-game cinematic that I hope
+people will dig.  I might end up having to cut it short though due to time
+limitations, but it'll still be good :).
+
+We've also got our boss fights pretty much done as Carl said, but I think
+we're going to have to tone one of them down a bit considering one comment
+we got was "he was really tough, even in God mode" ;)p.  So it should be
+a satisfying fight for anyone with a nice bloodthursty mentality :).
+
+Also, one of the "perks" of this job was coming out to warmer weather, but
+I took a look out the window this morning, and there was SNOW!!! Damn it!
+I got enough of that in Chicago, I don't want anymore!!  I think I'm going
+to have to put Mother Nature on my grudge / assassination list if this
+keeps up ;)p.
+
+One more side note, for anybody who likes good techno / electronica style
+music, check out Junkie XL.  They're like a more energetic Prodigy, mixed
+with a little Rage Against the Machine style vocals at times.  They're
+music is really killer, and groovin' to listen to.
+
+Latuh fuh U's
+
+jan 16, 1999 - 10:57pm
+
+Well, we're just a few days away from our offical Beta, and it seems that
+we're lookin' pretty solid from what we can tell.  We've squashed several
+hard-to-repeat crash bugs from the original SiN code (as well as quite a
+few we induced ourselves :).  So the code is getting there as far a
+solidity, it's pretty much now just play, game flow, and tweaking issues.
+
+On an editing note for SiN LD's out there, just thought to warn you about
+a certain "sudden death" scenario that you might come across.  Sometimes
+when you try to load your map, the game might just quit back to windows
+with no error message, just BOOM!!!  Of course, the first time we got that
+here we freaked :).  But it turns out that just about everytime this
+happens it's an error in the level script file associated with it.  So far
+it seems to either be an extra set of double-quotes (usually because of
+a layout string that was missing the closing set at the end).  Or because
+there's no end statement at the end of the file.  The only other time I 
+had this happend was when I exceeded the in-level entity count (I can't
+recall how many times I've broken this damn engine now on this project :).
+You're only allowed 1024 entities in the map at any given time, but you
+can have more in there when you're designing the map of course.  But
+certain entities in the map file don't get included in that in-level entity
+count (like info_pathnodes, and func_removes).  If yer wondering why I had
+more than 1024 entities in there, it' because I'm crazy and trying to
+do some crazy crap, like a fully destroyable 3 shelf shelving unit that
+would destroy differently depending upon where you hit it :).  The entire
+unit consisted of 16 entities (not including stuff to put on it :).  That
+and the fact that I had 7 of them in the map.  So they had to go bye-bye,
+but I left the code in the script file for anyone who'd want to screw with
+it (although I didn't get it fully bug-free because I had to stop using
+them).
+
+On a side note, I think Zied is looking for his next state to violate.
+I see him looking at that pacific coast area quite a bit, so be prepared
+for the next bombarment of bad grammer from the Supposed Former English
+Major Junkie ;)p
+
+"There's a certain freedom in being totally screwed, you know things can't
+possibly get any worse."
+
+Jan 14, 1999 - 7:33pm
+
+Hey all out there in wonder full electron land (and to anybody else who
+actually reads these things :).  We're lookin' for some in-house beta
+testers here in the Tulsa / Dallas area(if yer willing to drive up for a
+day).  Of course we can't pay ya (but we have Moutain Dew for you :).
+Also, a prerequisite is that you had to have played through the original
+game of SiN.  So if if yer interested, please email our boss-man Tom at
+tomk@2015.com
+
+Everything's coming together, and we're really close to being finished.
+Still squashing a few bugs here and there, and we want to do our best to
+make sure that all of them get squashed :).
+
+On a side note, don't fret over Z's wonderful grammer, we have to live
+with that.
+
+"Like yesterday's lunch.....I'm outta here."
+
+Dec 21, 1998 - 4:28am
+
+OK, I'm warning anybody now that this update is mostly personal and
+will have very little about the add-on pak, so either skip to the end if
+ya wanna find some info about the pak.  There, warning said, now my gripe.
+
+This whole incident with the President is proving one thing that I've
+been saying all along, my entire life soo far.  We (the people) do not run
+this country, the damn greedy ass politicians do.  We're SUPPOSED to be
+running this country, ya know, of the people, by the people, for the
+people.  But no, we don't.  Now here's the proof of that, and also I'm not
+letting my political views influence me here, I say impeach the guy, but
+again, that has nothing to do with what I'm about to say.  We elect
+representatives to represent us, and our views in government, to make sure
+that they are given their proper voice.  Well, from what I've been
+hearing the majority of the country is saying not to impeach the president
+and here the house has voted to impeach him.  Umm, what's the deal?  The
+public said not to, and they voted to anyways?  Ken said on the way in to
+work today he heard a representative say on the radio that he was elected
+to "vote his consience".  Bull shit, you were elected to vote what the
+public you're representing wants you to vote.  I mean when, as a public,
+are we going to realize that we've been getting the big screw here?  It's
+all down to votes, power, and money.  Don't mind what the public has to
+say, we're above them.  
+
+Anyways, enough of my ramblings.  It just drives me damn crazy seeing
+things like this, when it's not fair, or right.
+
+Well carl's been working on one of our Bosses, and he's pretty bad-
+ass right now.  I think you guys will dig it when ya fight him (or hate us
+for him ;)p.  He's interacting with the environment and using it to help
+kill you :).
+
+I'm outta here-------
+
+
+Dec 12, 1998 - 5:08am
+
+My gosh, what the hell am I doing up still??  Trying to finish these damn
+levels as per the norm :).
+
+I just saw that we released some screenshots to Sharky's Extreme (even we
+here don't know everything that happens all the time ;), and I saw that
+it still says under the "Name of Add-On:" section, unknown.  Well the name
+that as far as I know is official is Wages of SiN.  I guess in all of our
+running around we've forgotten to mention that (silly us :).
+
+On a side note, saw Star Trek: Insurrection tonight (well, yesterday
+really).  It was good, I really liked it.  It was basically a 2 hour long
+really good STTNG episode.  There's also a lot of good humor in this one
+as well, a lot of funny parts.  So if yer a trek fan, go check it out,
+you'll probably dig it.
+
+Ooo, one other side note, I saw a link to an article from Blues News 
+regarding The Grape (I think that's what his nick is) on reoccurring locals
+in games now-a-days.  The point it brings up is definately true, in the 
+end it's the fun and content that count.  One thing though to also keep in
+mind as to why these locals are picked, is also when you have a storyline
+that you have to progress and stick to, you try to pick levels that fit in
+with that storyline as well as be cool locations to place levels.
+Unfortunately, the locals he's saying are the most used soo far happen to
+be fairly generic enough where they're cool locals, and they can fit into
+a lot of different storylines that are considered to be realistic style
+locals.  Obviously if all of a sudden in Half-Life, you go into a museum
+while going through this hidden secret military base, that would be 
+extremely out of place and would probably hinder the story development of
+the game.  Just something else to think about why certain locals are
+picked.  Also, just my 2 cents :).
+
+Whelp, again, enough of my chatter...........
+
+"It ain't over 'till the fat lady sings and the big bitch is choking on a
+chunk of salami!"  - Infectious Grooves (I think?)
+
+
+Dec 11, 1998 - 12:06am
+
+Well, I've tried getting a picture of Paul to send to Blues, bastard keeps
+eluding me, so I'm going to have to resort to more drastic measures >:)
+
+Man, the AI scripting in SiN is a real blessing, and a curse (and all in
+one nice package :).  There's a lot of powerful things you can do with the
+AI, but the problem is learning the tricks of how to write the script
+files so that the AI will do those powerful things the way you want them
+to.  I dunno if some people in the editting community have had a chance
+to play with it yet.  It's way beyond Quake / Quake2 AI in the respects
+that you place a monster and it goes on it's own programming.  You can do
+that to an extent, but the level designer has to give it the brains to
+behaive more intelligently.  First, the LD has to place these wonderful
+little red dots all over the .map file called pathnodes (looks like yer
+map caught the measles in the editor :).  They tell the AI where they can
+go, duck, cover, or jump.  It may seem like "well hey, that's not real AI
+then!"  But it's really intuitive in the fact that the level designer
+knows where the best places for cover are, and where are the best places to
+duck, or where to jump from one point to another.  So it only makes sense
+to have the LD just "tell" the AI where these places are.
+
+After ya do that, then there's the scripting (that's where the fun / hell
+starts :).  It's really easy to get a guy to just follow a path around to
+have him patrol an area.  But it's more complicated to have it so that
+say in a group of three guys, when one spots you, they all "wake-up",
+and two start to attack, and one goes and runs for back-up.  But once you
+learn the proper way to code it so that the engine likes it, it starts to 
+get easier.  Plus we've added some new tricks to our guys so they do some
+funky stuff when attacking you :).
+
+Well, again, more of my drivel that you're now probably really boared with
+so on that note.......
+
+"Time is what keeps everything from happening at once." - someone? :)
+
+
+Dec 4, 1998 - 11:30pm
+
+Welcome to my lil' cubby hole of internet space.  And for those of you that
+aren't my personal friends that happened to stumble upon this, my 
+appologies ;).
+
+Well we got these little .plan files finally working, so I thought
+I'd update mine with some totally irrelevant information (well, maybe just
+a little bit of relevant stuff :).
+
+But first, to my wonderful co-worker Paul (a.k.a. Talon).  If ever 
+anything were to happen to Yanni, I swear you could take his place.  I 
+mean I should really send a picture over to bluesnews so he can do a
+seperated at birth between you two, it's scary.
+
+Well the add-on pack has been under major development here since March of
+this year, and now it's mostly down to adding all the fun game-play
+elements to the levels.  Unfortunately, that's the most time-consuming
+part of the process :(.  Our schedule's been hell from day one, so we've
+been pretty much working our butts off to get this thing wrapped up.
+There's a lot of goodies and new toys and elements that I really hope
+people will dig and have fun with, cause in the end, that's what it's all
+about :).
+
+On a side note, for anybody out there who's a Rush fan, I highly recommend
+the new live album: Different Stages.  It's an excellent live album, and
+the other really cool thing is that 15 of the 22 songs were recorded 
+from the show at The World Music theater in Chicago, and I was there at 
+that show :)  These guys every time I've seen them always do it right, and
+give nothing but their best, I think this live album really captured that.
+
+But anyways, I think I've bored you enough with my drivel, so until 
+next time.........
+
+"Trust me... I just killed your bodyguard.." - Caph, the eeevil mage

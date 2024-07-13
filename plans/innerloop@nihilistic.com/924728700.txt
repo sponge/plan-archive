@@ -1,0 +1,74 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+Home Directory....\\void\users\innerloop
+Last NT Logon.....Tuesday, April 20, 1999 at 11:16
+
+Been seeing a lot in the press lately about the latest buzzword in 3D
+engines, the multi-resolution mesh (MRM) or continuous level-of-detail
+(CLOD) or whatever you want to call it.  We had intended from the start
+to incorporate this into the NOD engine, and after getting back from
+GDC and seeing all the demos and talks about it, we finally got inspired
+to take that task off the back burner and see how it worked with our
+game.
+
+The initial results have been great.  Using a fairly simple method
+as described in various academic papers (Hoppe, etc) we incorporated the
+LOD calculations into our Maya export plug-in.  Because of the way our
+art tech, Anthony Chiang, textures the meshes precisely rather than using
+simple projections, the LOD system is able to determine where the actual
+significant seams on the models are and preserve them.  Our first tests
+on the main player model were able to reduce him from the maximum face 
+count of around 1800 all the way down to below 500 with very little
+noticeable quality loss until the last few steps.  We're also using the 
+LOD system to provide silhouette versions of the models for casting 
+shadows and so on.
+
+There was an interesting talk at GDC by Jan Svavorsky from Mucky Foot
+where he demonstrated their LOD technology in what seemed to be a very
+tasty engine.  He suggested pre-calculating the LOD draw order
+periodically rather than re-computing it every frame like some of the
+academic algorithms suggest.  This worked great for us on CPU-bound
+cards since the cost of all the conditionals to do LOD on-the-fly kills
+the performance.  So basically about once per second or when the z-dist
+changes significantly, the code goes through the LOD data and computes 
+the optimized renderlist based on the objects current z-distance so the
+renderer can spew that right to the card at run-time.  The other 
+advantage is this generated draw list is suitable for hardware 
+transform & lighting in a single batch which will hopefully gain some 
+speed on future cards...
+
+Just wanted to share our experiences and encourage other devs to give
+it a try, it really is a pretty painless thing to implement.  Ray
+Gresko got the basic 'proof of concept' up and running in just a day
+or two, and it took a couple more days to fully integrate that basic
+algorithm into the actual Maya plug-in and the run-time engine.  Even
+the artists, the toughest critics of anything that changes the source
+art, seemed pretty happy with the reduction algorithm's results.  Its 
+one of those rare engine features that gives more than it takes away,
+in this case raw speed and the ability to make 2k poly models without
+requiring a TNT2 to run the game.  The only real cost was the extra
+RAM to store the collapse information and the per-instance pre-computed
+draw list for each model instance... Exporter and run-time computation
+times were negligible.
+
+http://research.microsoft.com/users/hhoppe/siggraph96pm/paper.html
+
+Other stuff going on over here -- the Berkeley class is going well,
+we've got about 30 people attending.  Some of the material is a bit
+dry, there's only so much you can say about DirectInput, but some of
+the discussions about game structures and algorithms have been pretty
+interesting.  It looks like they are going to offer the course again
+next session, so by that time hopefully things will be all tweaked
+and tuned so I won't be making PowerPoint slides the night before :)
+
+The weather's getting nicer so we're already planning the 2nd annual
+Nihilistic developer's party up here in Marin, so if you're a bay area
+game dev. interested in getting together (probably post-E3 though,
+first things first), drop me a line, we're building a mailing list.
+
+
+(File last updated on Wed 21 Apr 1999 at 15:52)

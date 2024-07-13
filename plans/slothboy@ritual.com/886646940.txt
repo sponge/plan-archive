@@ -1,0 +1,26 @@
+2-4-98
+------
+Well, the first milestone has been finished...Yeah!  A couple of days late 
+-- but that is on time as far as software deadlines go, maybe even early.  
+The basics of the level editor are up.  It is still very crude, but it will 
+serve as a sufficient whipping post for the level editors I am sure.  I am
+expecting many modification suggestions. The current list is 32 strong and 
+growing daily.
+
+From this point, I will handle the level editor updates, modifications, and 
+fixes, and Gary is going off to implement lighting -- I think he will
+have the most fun this milestone, but I got to do the "researchy-thing" 
+while he got stuck implementing the basics of the level editor on the 
+first pass.  Fair turn-about.
+
+Looking forward to bringing you some cool screenshots in the future...
+
+
+On a personal note, I am a movie junkie and as of late have been purchasing
+many DVD's.  I hear (rumor has it) that FOX and Paramount are supposed
+to be announcing support this month.  I also heard that Lucas himself was
+putting the pressure on FOX.  This would be great, but unfortunately I have
+only heard this as a rumor.  Anybody know any more out there????
+
+Until next time....
+

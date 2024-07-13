@@ -1,0 +1,487 @@
+Welcome to Human Head Studios' Finger Service V1.6!
+
+Name: Mike Werckle
+Email: mwerckle@humanhead.com
+Description: Artist
+Project: Rune
+Web Page: Human Head Studios' Web SiteThis plan file is the opinion of the individual who writes it and does not reflect the opinions of the Human Head Studios.
+Last Updated: 11/04/1999 13:30:52 (Central Standard Time)
+-------------------------------------------------------------------------------
+11/4/99
+*****CLARIFICATION*****
+
+I jumped the gun on the announcement about the RUNE tech being 
+available as part of the UNREAL engine.  In fact, it is *not* a 
+part of the UNREAL engine.  We have entered into an agreement 
+with Epic to be a 'preferred provider' of additional technologies 
+for the Unreal engine, and ALL INQUIRIES should be made to Human 
+Head studios, NOT Epic Games.  I repeat, please do not contact 
+Epic on this issue, but rather contact Human Head Studios at:
+
+www@humanhead.com
+
+My apologies to Jay Wilbur and everyone at Epic for this 
+misunderstanding.
+
+For more information, please feel free to check out our website:
+
+http://www.humanhead.com/rune_technologies.htm
+
+11/3/99
+--It was announced at The Frag that Human Head's RUNE technology 
+is now available as part of the UNREAL engine.    
+
+The RUNE technology brings real-time Skeletal Animation, Continous 
+Level of Detail, incredible looking Shadows, as well as several 
+other super cool features to the UNREAL Engine.  As an animator, 
+I can enthusiatically  say that RUNE'S skeletal system in 
+conjunction with the UNREAL Engine is the best tech that I have ever 
+worked with.  The skeletons are completely hierarchical and use 
+rotational interpoliation.  This eliminates the motion artifacting 
+that is present in vertex animation systems as well as 
+non-hierarchical skeletal systems.  Basically, it means that no 
+matter what framerate the aniamtion is played back at, it will look 
+correct, retaining mesh proportions.  It also virtually 
+eliminates the need for transition animations, as the software 
+automatically interpolates between sequences.  I could go on and 
+on...
+
+If you are a developer, please contact Epic or Human Head for more 
+information on the UNREAL Engine with the RUNE technology.  Serious 
+inquirires only, please. Also stay tuned to www.humanhead.com for a 
+complete list of features.  Feel free to contact me if you have 
+further questions about animation using RUNE Skeletal.
+
+mwerckle@humanhead.com
+
+--A word on re-spawning:  It's very disheartening as a player to 
+"clear" an area, only to be forced back through it to fight the same 
+fight.  But if handled correctly (as has been described in the case 
+of SOF), I think it can be a very effective design tool, one that we 
+are planning to use in RUNE.  
+
+If you are coming back through an area, you shouldn't be forced to 
+repeat the same old fight with the same old enemies.  This is 
+repetitive and boring.  But it *is* OK to encounter new enemies 
+in the same area if the situation is different.  Maybe the second 
+time you come through, the enemies are expecting you and have 
+set a trap or are waiting in ambush.  Or perhaps you come across 
+a couple of characters who are trying to rescue one of the other 
+enemies that you mowed down your first time through.  Whatever the 
+case, keeping the situtations interesting and non-repetitive is the 
+key to good design, whether you are encountering enemies in the same 
+place or not.
+
+10/31/99
+--While at Human Head it has been my policy to keep my plan file as 
+informative as possible, and to avoid including personal and non-game 
+related comments.  Today I will bend that rule in the interest of 
+setting the record straight.
+
+last year, when I worked for Ritual Entertainment, I made it a habit 
+to be confrontational and out-spoken in my plan file.  I made comments 
+about specific individuals and companies that I regret making.  After 
+I left Ritual I promised myself that I would apologize publicly 
+to these people if I ever got a plan file again.
+
+1)  I would like to apologize publicly to Brian Raffel for the negative 
+comments I made about Raven Software and Activision after I left Raven.  
+I was at a bad place in my life and willing to take it out on anyone.
+
+2)  Also, I would like to apologize to Steve Stringer (former 
+producer at Activision), for some terrible comments I made about him 
+in my plan last summer.  I'm sure I ruined his day, if not his week and 
+I'm sorry.
+
+3)  I made negative remarks about Dynamix (my first job in games) 
+while at Ritual, and there was no place for this.  For the most part, I 
+have fond memories of the summer I worked there and now I am sad to see 
+that Dynamix has lost its identity.
+
+4)  Finally, I would like to apologize to the gaming community in 
+general for my behavior and my attitude in the past.  I'm sorry.
+
+I went back and read some of these old posts and realized how childish 
+and unprofessional I had been.  I was just trying to be crazy like Paul 
+Steed or something, and that's about as stupid a thing as I ever could 
+have done.  
+
+CHAOS is officially very, very dead.  (well mostly  ;)
+
+-->Mike Werckle
+
+10/25/99
+--Here is a post I made to the Official RUNE forum at 
+www.developers-corner.com :
+
+Last week I made a post to my plan file asking for people's 
+opinions on what RUNE should be like. I got a ton of responses from 
+people, and a lot of interesting topics were brought up. One of 
+them was melee vs. ranged weapons.  As you are probably aware, RUNE 
+is a 3rd person hand-to-hand combat game. That means that the 
+weapons are all melee (swords, axes, hammers), and we aren't 
+planning any ranged weapons (like crossbows, spears, etc.) The 
+reason we are doing this is because 3rd person games are not very 
+well suited to aiming or ranged attacks, and we want to keep the 
+game focused on doing one thing well:  fast and furious hand-to-
+hand combat.
+
+But we *are* planning on allowing the player to "throw" the weapons. 
+Now by throw, I don't mean hurling an axe a hundred yards to peg 
+someone off a tower. Throwing in RUNE is most effective in the close 
+range-- about 10 to 15 feet. The upside is that these attacks will 
+be very powerful, but the downside is that you have to retreive the 
+weapon.
+
+I'd like to get some feedback on what you all think about this 
+concept of "ranged" attacks for RUNE.
+
+Post your feedback at www.developers-corner.com, or feel free to 
+email me directly with your comments.
+
+10/21/99
+--There is a quicktime movie of RAGNAR that I made, which is up on 
+our website.  I animated this run cycle, and as you will see, we 
+are doing just fine without the use of motion capture.
+
+http://www.humanhead.com/main_menu.htm
+
+--Another word on Motion Capture.  The deeper I get into this 
+project, the more confident I am of my decision to *not* use mocap.  
+Not that we are the best animators on the planet.  But the 
+complexity of our new combat system requires traditional keyframing 
+in order for everything to work.  The exception to this would have 
+been utilizing mocap for death sequences.  But I wanted to keep our 
+skeletal setups as simple and flexible as possible, and introducing 
+mocap would have complicated matters way too much.  Of course, 
+I do think mocap is an appropriate technique for some projects, just 
+not RUNE.
+
+--Thanks very much to everyone who sent in suggestions for RUNE.  I 
+got about sixty emails, and I am trying to reply to them all.  Lots 
+of very good suggestions.  I pasted all the emails into a word doc, 
+and sent it out to the rest of the team, and they have found it to 
+be a very valuable resource.  Mostly, it is a confirmation that we 
+are on the right track with this game.  I also made a list of topics 
+that I will bring up next week in our design meeting.  Once again, 
+thanks to all who replied, and watch this space for more info.
+
+
+10/17/99
+--Hey, some of us have been known to jerk our knees once in a while, 
+but that's no excuse to crucify a man in public (ha! is that coming 
+from me?).  All points, however, are well taken...
+
+--Hey everyone:  I would like to get an idea of what the community 
+expects out of a 3rd preson action-melee game, specifically RUNE.  
+
+Personally, I am a huge fan of FPShooters (it took UT CTF with the 
+Insta-gib mutator to break my Half-Life binge of ten months), but I 
+am also a huge fan of fighting games, including the glorious new 
+Soul Calibur on the DreamCast.   I am well aware of the dangers of 
+trying to make a cross genre game:  in trying to please fans of 
+action games and fighting games for example (not that this is what 
+we are trying to do with RUNE), we risk alienating them both.  
+Being a fan of both of these genres, which are applicable to RUNE, 
+I am very sensitive to this connundrum, and I know how I feel about 
+it.  But I would very much like to hear what you all think.  Should 
+it be an action game with elements of a fighting game, or should it 
+be a fighting game where you actually get to run around freely?  What 
+would you expect out of an game of this type where you have complete 
+control of your character's movement during combat?  For example, 
+do you think it is OK to limit the player's movement during an 
+attack, even so much as to have him come to a complete stop during 
+a move?  Also, what do you imagine the experience of melee combat 
+should be like?  An FPS is all about moving through space while 
+aiming, but what do you think a melee combat game should be about?  
+Are you just clicking away randomly at a guy, or do you want more 
+control over your specific movements?  Once again, we all have 
+answers to these questions, but I am curious to hear what you  
+have to say.  Human Head is dedicated to the advancement of gaming, 
+and I think one of the best ways to accomplish this is to listen 
+to our customers and peers.  Thanks in advance for your opinions, 
+and I will post again in a week or so with an update on this 
+subject as well as some insight into my ideas.
+
+mwerckle@humanhead.com
+
+10/1/99
+--If you are going to release fake screenshots of your game, remember 
+not to anti-alias the characters and weapons to the background...
+
+--Paul was showing me one of the enemies I animated running around in 
+the world.  The creature chased Ragnar into a room, and from the corner 
+another shape emerged from the shadows.  "Holy shit, who's that guy 
+in our game?!" I exclaimed.  For a split second I lost touch with 
+reality, didn't recognize an enemy I had *just* worked on, and thought 
+that, somehow, a real man had entered the world of our game.  It was 
+startling, and then exciting as I realized how cool this damn thing 
+is gonna be...
+
+9/21/99
+--I think you all will be very happy with the complexity of enemies 
+that we are adding to RUNE.  In the old days we used to make "enemies," 
+or "monsters," and everyone you encountered looked exactly the same.  
+With RUNE'S new skeletal technology we are able to have a huge varitey 
+of meshes deformed by the same bones, and  which share the same set of 
+animations.  But with the added complexity we have found a need to 
+expand our definition of what an enemy is.
+
+ENEMY CLASS:  This basically describes a class of enemies that all share 
+the same skeleton.  "Vikings" would be an example of a class of bipeds, 
+that implies realistic human porportions in the bones.
+
+ENEMY:  An enemy is defined by its AI, especially its combat behavior.  
+There can  be several different Enemies in a Class, but their meshes 
+must be distinguishable from each other at a distance.  In RUNE we have 
+Goblin Males, and Goblin Warriors.  It will be easy to identify the 
+stronger Warriors because of the special masks and armor they'll be 
+wearing, whereas the weaker Males have none.  
+
+COMABT VARIANT:  These are a subset of an Enemy group and the variation 
+describes a distinct difference in their combat behavior and animations, 
+as defined by their weapon.  A Goblin that wields a light axe would 
+be different to fight than one that wields a huge club.
+
+MESH VARIANT:  This is also a subset of an Enemy group, but it is 
+merely cosmetic and is independent of the Combat Variants.  This allows 
+us to have minor variations in an Enemy's mesh and skin that need only be 
+distinguishable at close range.  This helps prevent a group of enemies 
+from looking like clones of one another.
+
+As you can see, with RUNE you're gonna get a lot of bang for your buck 
+in terms of gameplay and visual variety.
+
+--Eric Turman, Lead Animator over at Raven, is a great friend of mine, 
+and there's little more satisfying than getting together with him and 
+talking shop.  We often call each other to ask questions about how a 
+particular feature in softimage works, the best way to accomplish a 
+certain effect in one of the games we are working on, or sometimes we 
+just talk about where we think the future of animation in games is 
+headed.  He and I compliment each other very well:  Eric is 
+technically *brilliant,* and, while I have enough technical proficiency 
+to talk with him (most of the time), my strength lies in finding the 
+simplest way to set things up ;)  And we're are both pretty damn good 
+animators.  
+
+It struck me, while eating dinner with him today, how important our 
+inter-developer communication is.  Its easy to sort of get into a 
+vacuum and start tackling problems, but it helps so much to be able to 
+get a fresh perspective on things from people who might be trying to 
+do something similar but who are coming at it from a different angle.  
+There is *so* much to be gained by this type of interaction, and all 
+parties benefit, especially the gamer.  If you haven't checked out 
+Soldier of Fortune, I urge you to do so at www.ravensoft.com.  I was 
+still at Raven when this project started, and I am very impressed with 
+the direction they have taken it.  Too bad you will have to wait to 
+play the game to see Eric's incredible mocap art.  (and I hope I don't 
+get bollocked for mentioning this either, Jake ;)  I can't wait to 
+play it.
+
+9/15/99
+--Just had our families and friends over for an open house to see 
+the office and look at the RUNE demo.  It was great to see this 
+place filled with people and hear all the positive feedback on 
+RUNE and coversation about gaming in general.  Thanks to all of 
+our friends from Raven who stopped by and offered words of 
+encouragement and good suggestions for the game.  Madison is 
+really starting to feel like a "Little Dallas."   Our basement 
+home was truly alive for the night, and it has relit a spark in 
+me to crank on this game. 
+ 
+9/6/99
+--check out the screenshots of Ragnar on your favorite gaming news 
+site.  There are more to come soon, so keep an eye out.
+
+--Currently, Tim and Paul are at ECTS in London showing off the 
+newly redone Ragnar.  This one is a vast improvement over the one 
+we showed a month ago at GenCon.  His mesh is far improved, to make 
+him look bigger and show more detail, and his animations are 
+much more polished as well.  Also of note:  Ragnar now has the long, 
+flowing hair that a Viking of his type needs in order to be cool.  
+And I also put in extra bones in his shoulders in order deform his 
+arms better.  With so much sword swinging in this game, Ragnar 
+needs to have very flexible, good looking arms.
+
+--Also in the screenshots and the ECTS demo you will see Jeff and 
+Paul's super cool Goblins.  They hold axes or sheilds,  chatter and 
+jump around, andwhen you try to attack them they hold up their shields, 
+or jump out of the way of you swing.  A very impressive animation 
+and AI job on these guys.  The coolest thing is when you chop off 
+both of their arms, they try as hard as they can to stay away from 
+you, as if they are scared.  Also notice that the goblins all look 
+slightly different.  Because of the skeletal system you will be 
+hard pressed to encounter two that look exactly the same at the same 
+time.
+
+--Jim's gorgeous levels are now starting to be populated with 
+super cool stuff!  In addition to the goblins, there are now 
+bubbling and belching pits of mud, realistic falling boulders and 
+even an underground geyser.  This is the part of the game where 
+Ragnar is moving out of the deep sea caves into an area of 
+seismic activity...
+
+8/28/99
+--I have always shunned the idea of using motion capture.  Generally,
+I think it seems poorly implemeted and has a "canned" look to it.  
+Also, I think using mocap might possibly be a very good way to kill 
+your animation staff's creative growth and dull their skills.  An 
+animator who has spent a year working with mocap will be a year 
+behind in their development of animation techniques.  When it comes 
+time for this person to animate a creature that can't be mocapped 
+(like a horse or a bird), then they will very likely be rusty and 
+frustrated.  
+
+You might think that hiring a bunch of talentless lackies to work 
+with the mocap data would be the way to go.  But it really takes a 
+skilled animator's knowledge of motion to get it all working properly.  
+And thats where the connundrum is:  In order to do good mocap, you 
+still need well trained animators, but they *hate* doing it.  It's 
+very similar to the idea of making a fine painter trace all of his 
+stuff from photoraphs.  Might look realistic, but the work is 
+ultimately unfulfilling.  
+
+Having said that, I just started playing Soul Calibur on the Dreamcast 
+and I might just be converted.  This game is incredible.  Very well 
+implemented motion data.
+
+I guess if I wanna stay in this business, I will eventually have to 
+start using motion capture, and who knows, I might even like it.  But 
+I really do think the transition for me will be slow.  Depending on 
+the needs of our next game, I will probably recommend to the owners 
+that we install our own mocap studio here at Human Head.  I like 
+the idea of using a captured motion as a tool, as a starting point 
+and moving on from there.
+
+8/27/99
+--Go see 13th Warrior, it's awesome!!!  And pay no attention to the 
+scene where they are carrying a body away and someone says "Ragnar's 
+Dead."  It got of to a bit of a shaky start, but this movie really 
+won me over.
+
+8/20/99
+--go here and vote for RUNE as the most anticipated action game:
+
+http://www.pcparadox.com/Editorials/Choice/Action13.shtml#Rune
+
+--Today I am 30, which officially makes me a geezer in the computer 
+game industry.  This bday was made special by the fact that last 
+weekend I was reunited with my birth mother.  I have three new sisters, 
+a brother, two grandparents, an uncle, and two cousins.  Meeting my 
+grandparents was really cool, since my other ones have been gone for 
+quite a while.
+
+They all gave me a cake, and as I started to make a wish and blow out 
+the candles, I realized that every previous year on my bday I had 
+always wished that I would someday meet my mother.  I realized that I 
+can start wishing for something else!  Like meeting more women, or 
+getting a new car, or going to work eith Steed at Id, or something like 
+that.
+
+--Chris and I sat down last night and solidified the combat system 
+for RUNE.  We have found a very elegant way to determine differing 
+types of damage based on our three weapon categories:  sword, axe and 
+hammer.  We hope that the system will make melee combat very robust, 
+and appealing to fans of action games.  The controls are very simple, 
+but the combinations will be endless.  If you are the kind of player 
+that likes to stomp through a level smashing everything head-on, you 
+will like this game.  And if you are the kind of player that likes 
+to figure out subtle nuances and experiment with different moves, you 
+will find a lot of variety hidden under the surface.
+
+8/17/99
+--I would like to make contact with animators who are interested 
+in coming to work for Human Head Studios in the near future.  A strong 
+art background, solid character animation skills and a willingness to 
+relocate to Madison, WI are a must.  Experience with games and with 
+Softimage are plusses.
+
+We are a small team-oriented company that is comitted to quality.  No 
+corporate non-sense, no polotics or in-fighting, no contracts.  Just 
+honest hard working people, flexible hours, free pop and snacks, 
+and much more. 
+
+Interested?
+
+Mike Werckle
+Lead Animator
+Human Head Studios
+608 298 0643 x31
+mwerckle@humanhead.com
+www.humanhead.com
+
+8/16/99
+--The guys from the up-and-coming site gamestrategy.com were here 
+visiting with us last Thursday and Friday (cheese beer!).  These dudes 
+are super cool game fanatics, and we all wish their new site the best 
+of luck.  Look for in depth coverage of Rune and life at Human Head 
+Studios, in the coming weeks.
+
+--Ragnar's mesh has been completely revised.  The mesh and animations 
+that were shown at GenCon were our first pass, and we used the feed-back 
+from the crowd (and even a few trusted Raven friends) to make him look 
+much stronger.  It really helped to have our baby under the glaring 
+flourescent lights of the convention because his strengths and 
+weaknesses became so much more apparent.  We knew going into this thing 
+that it would take several incarnations of Ragnar to find the one we 
+were happy with, so we really haven't wasted any work.  The old Ragnar 
+mesh was a little mushy looking, but the new mesh is one that we are all 
+*very* excited about.
+
+8/9/99
+--If you get a chance, stop by the GOD booth at GenCon and take a look 
+at RUNE.  We have Ragnar in and running around the world.  He can pick 
+up three different weapons and he carry each of them in full view on 
+his body.  The sword is tucked into his belt on his left hip, the club 
+fits on his right hip, and the axe is on his back.  There are also 
+animations for switching between each of these weapons.  When RUNE 
+is done, we will have a ton of different weapons all of which Ragnar 
+will be able to carry in full view like this.  Ragnar is also able to 
+pick up and carry a torch, which casts light back on him, the other 
+creatures and the environments.  
+
+Also, It's neat to see how Ragnar turns his head to look at the other 
+creatures, or to look at weapons that he can pick up.  When he is 
+breathing hard, he really gives the impression that he is alive.  It's 
+just the beginning...  =)
+
+7/19/99
+--take a look at the interview I did for Big Al over at 3D-Unlimited:  
+http://www.3d-unlimited.com/interviews/rune/
+
+Thanks Big Al!
+
+7/14/99
+--I can't say enough how pleased I am with our system for getting 
+animated elements from Softimage into RUNE.  Paul has done an incredible 
+job of supporting us, even though it hasn't been the easiest for him.  
+All moving game elements, from creatures to in-game cinematics to scripted 
+sequences, as well as UV coordinates, go through Softimage and into RUNE 
+via our single proprietary file format, fondly referred to as a SCUM file 
+(.scm).  And all with a great deal of ease.  Basically, the way that we 
+animate stuff in Softimage is the way that it appears in the game, 
+including cameras and lights.  I shudder to think what a mess this would 
+all be if we were forced to use another software.  After all, we're not in 
+the business of making our programmers lives easier, we're in the 
+business of making a great game. I guess I just feel lucky to work for a 
+company that supports the best animation software in the world.  Thanks, 
+Paul.
+
+7/4/99
+--Here is a copy of my post on sCary's Shugashack messageboard.  It was my 
+reply to one fan's comment on RUNE:  "Who the hell cares?  Really."
+
+My post:  
+
+"There are companies out there that take a popular game and remake 
+it with only cosmetic changes.  Human Head is *not* one of those companies.  
+With RUNE we are trying to push the envelope by exploring new modes of 
+gameplay and expanding in new directions.  Personally I liked Tomb Raider 
+and Heretic2, but their major flaw was that the weapons were mostly ranged 
+or area effects.  I know that a lot of people, myself included, played 
+Heretic2 using only the melee staff, which was uprgraded several times 
+through the game.  There was something very satisfying about running up to 
+a creature and spinning around and slicing them into chunks.  For me, the 
+great lesson of Heretic2 is that First Person games are better for aiming 
+ranged weapons, and Third Person games are better for hand-to-hand combat.  
+It is with

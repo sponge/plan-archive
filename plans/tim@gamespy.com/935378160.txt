@@ -1,0 +1,22 @@
+User:   timplan
+Read:   1
+Unread: 0
+Time:   Sun, 22 Aug 1999 22:15:41 -0700
+Plan:
+Finally a gamespy update!
+
+For those sending me email asking support questions.  
+We have a support here: http://www.gamespy.com/using/support.shtml
+Please use it. I will be traveling a lot in the next few months and if you want or need
+a reply in anything less than a week, I am not the one to contact.  I am also really 
+busy working on 3.0.  Since I just forward the messages to tech support, save yourself
+a possibly long delay.
+
+The 3.0 engine is coming along nicely.  I am working on the bugs.  Not as numerous as
+I thought they would be. ;-)  A good design goes a long way.
+
+I have not decided whether to continue the Java stuff.  Don't have time right now. I 
+do have another plan though. Maintaining two code bases never appeals to me.  
+I made some changes in the C++ design.  The engine now uses multiple inheritance 
+rather heavily and is something Java does not implement because the designers 
+decided it was not useful.  Shows how wrong they can be.  BTW, I know about implements.

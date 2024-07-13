@@ -1,0 +1,119 @@
+[idsoftware.com]
+
+Login name: xian      			In real life: Christian Antkow
+Directory: /raid/nardo/xian         	Shell: /bin/csh
+Last login Wed Jul 23 17:04 on ttyp3 from underworld.idsof
+Plan:
+ Deathmatch 4.0 Addendum:
+
+ American and I were talking some more this morning, and we added the 
+following to DM4.0 rules;
+
+	- You start with 250 health
+	- You start with 200 red armour
+	- Every time you pick up an enemies pack, you get 10 additional
+	  health
+	- For obvious reasons, weapons and ammo do not spawn
+	- If you pick up enough packs to attain 300+ health, you automatically
+	  attain a free "Quad Bonus"
+	- In order to prevent camping, the grenade launcher has been
+	  removed
+
+ Enjoy =)
+
+---
+
+ Haha... OH MAN!
+
+ While one of my maps was BSPing, I hacked in DM 4.0 rules on Inferno 
+(something American and I were discussing as a novelty feature).
+
+ Everyone starts with all the weapons and has unlimited ammo. Try it. It's 
+nuts.
+
+---
+
+ In response to Myscha's .planfile update (go check www.quake2.com)...
+
+ Is it just me, or did he stick a big peice of paper on his ass saying
+"kick me" ? I don't think he's in any position to speak of ripping other
+people off.
+
+ I'll leave it at that.
+
+---
+
+ Big thanks to Tarok for helping to get monolith.3DNet.net 
+connected to the network. It's also been added to the round-robbin
+lookup as part of irc.3Dnet.net. We hope to have another two servers
+connected by the end of next week.
+
+---
+
+ 3DNet seems to be up and running quite well technically. Stomped has 
+expressed an interest in attaching to the network, and I'm in the final
+stages of getting Monolith's server connected (in what little spare
+time I have...)
+
+ In the next week or so, we'll begin accepting channel registrations. It 
+should only take me a little under an hour to hack "bot" (3DNet's serverbot)
+to allow registered users to use him for their particular channel.
+
+ One thing that cannot be registered are major game channels (at this time
+anyway). Channels like #hexen2, #quake, #sin etc... should be left opless.
+We've found that opless channels really cut out alot of bullshit and that
+channel participants can just relax and chat.
+
+ There are usually oppers online at any given time of the day (check
+#quake, #qspy, or #underworld) should anyone do something truly lame.
+
+ 3DNet is a bot friendly network and registration of a channel will require
+you to run your own bot. Registration simply means, that up to three people
+per channel will have access to "bot" should they need to get ops.
+
+ Again, if you are interested in linking with the network, and are in
+the computer games industry, drop us a line;
+
+ IRC : irc.3dnet.net #underworld
+ Mail: 3DNet@underworld.idsoftware.com
+
+---
+
+ Ok, now that my sister, Spazz, has left here to go back to Toronto, 
+maybe Brian can get some work done...
+
+ /me runs
+
+ In all seriousness, things have sort of been unproductive over the last
+few days with QuakeCon, my sister visiting from Toronto, and magazine people
+coming in to do articles on Quake II. 
+
+ QuakeCon was, uhh, big. I didn't hang out much due to work and prior 
+engagements, but I did hang out with Avatar, H2H, Polish, Indub, and a few 
+more people from EFNet #quake (that I didn't recognize) in a hotel room Saturday
+night, sucked back a Corona, and watched Avatar smack the shit out of people 
+in DOOM II. 
+
+ Oh well, life is now back to normal, and back into "crunch mode" I go trying 
+to get my part for Quake II done.
+
+PS: As you've probably heard by now, Brandon "KillMe" James has officially been
+hired on as a designer. He really kicks ass and I'm sure you'll like his work.
+
+---
+
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+ This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, damage from improper .planfile reading, incorrect line voltage,
+improper or unauthorized use, broken antenna or marred cabinet, missing or
+altered serial numbers, electromagnetic radiation from nuclear blasts, sonic
+boom vibrations, customer adjustments that are not covered in this list, and
+incidents owing to an airplane crash, ship sinking or taking on water, motor
+vehicle crashing, dropping the item, falling rocks, leaky roof, broken glass,
+mud slides, forest fire, or projectile (which can include, but not be limited
+to, arrows, bullets, paintballs, shot, BB's, shrapnel, lasers, napalm, 
+torpedoes, or emissions of X-rays, Alpha, Beta and Gamma rays, knives, 
+stones, etc.). 
+

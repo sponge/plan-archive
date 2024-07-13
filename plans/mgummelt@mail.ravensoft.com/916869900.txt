@@ -1,0 +1,286 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Mike Gummelt
+Email: mgummelt@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 01/20/1999 17:51:40 (Central Standard Time)
+-------------------------------------------------------------------------------
+5:30 PM January 20, 1999
+
+After getting some feedback about my
+finger (someone actually reads this?!),
+I thought I'd talk a little more
+about the AvP demo and the responses
+I've gotten.
+
+One of the responses mentioned that
+perhaps the reasons the aliens are
+so tough is to make the multiplayer
+more balanced (so the players who
+are aliens aren't wiped out and
+frustrated)
+
+This may be true, but I don't feel
+it's a good idea to sacrifice gameplay
+in one mode of the game to make it
+consistent with the other.  Let the
+multiplayer ones be a tougher breed of
+aliens and the SP ones be the weaker,
+more swarming type aliens.
+
+A common response was that the 
+flamethrower actually not that good
+against aliens in movie.
+
+Maybe they're right, I don't quite
+remember myself.  But I think maybe my
+comment arose more out of frustation
+of the gameplay.  It doesn't feel
+good to give someone a weapon that
+is weaker than the one they had,
+and generally useless against the
+enemies I was fighting.  It might
+be realistic, but that doesn't mean
+it's fun.  Anyway, if they didn't
+give it to you after letting you
+use the machine gun & grenade launcher,
+I wouldn't have felt so strongly about
+it- I want to be excited when I pick
+up a new weapon, not disappointed.
+Another good idea might have been to
+not give us the grenade ammo right
+away.
+
+A lot of people liked the fact that
+the aliens always showed up in
+a different spot.  I didn't notice this
+myself, but I think that's more a
+testament to how well the demo
+pulled me in.  I didn't sit there and
+think about how they layed out the
+aliens, I just worried about where
+they would come out next.
+
+The flamethrower also could use a
+better effect- it's kind of... dark...
+for flames.  Though I do like how the
+flames actually would come off of the
+arms and legs and other specific
+body parts of the aliens.  Someone also
+mentioned that the flamethrower
+would hold off the aliens- after playing
+again, I did notice that, that's kinda
+cool.
+
+Someone also said you could see the alien
+inner jaw shoot out to attack you if that
+was how they were attacking you, but again,
+I never saw it.  Maybe it's because they
+move too quickly... a little to hectic.
+
+Anyway, that's the last time I'm going
+spend several finger updates talking
+about other people's games (at least
+until AvP comes out!).  Hopefully
+soon the ubersecret project I'm working
+on here will be announced and we'll
+have a lot to say about it!
+
+cut here:
+8<================================================
+
+4:43 PM January 20, 1999
+
+More Todd Porter Controversy!
+
+The "KOL" e-mail!
+
+Ok, since this seems to be the scandal
+du jour, I'll reveal my secret beef
+with the infamous Mr. Todd Porter.
+
+The incident occured back in the
+fall of 1997, when I had a brief
+correspondence with Mr. Porter
+(I'd realized that I was working for
+a company that has fairly close
+ties to id and former id people.)
+Ion Storm was still a relatively
+new company and there was a lot
+of hoopla about what Romero and 
+company were going to do.
+
+I'd found out that one of the founders
+of Ion Storm was Todd Porter.  I had
+an issue I'd been trying to resolve for
+quite some time and all my inquiries
+at Origin led to helpful responses, but
+no resolution.  So I wrote to Todd
+Porter who was involved in the "incident".
+
+I have struggled with the decision to
+leak this e-mail but I think it's in
+the public interest...
+
+Here is the e-mail I sent him:
+
+Gummelt, Mike
+From:	Mike Gummelt [mgummelt@mail.ravensoft.com]
+Sent:	Wednesday, October 22, 1997 5:06 PM
+To:	tporter@ionstorm.com
+Cc:	toddp@ionstorm.com
+Subject:	KOL!!!!!!!
+
+Mr. Porter,
+   Okay, here it is:  Knights of Legend
+is my all-time favorite game.  I had it for
+the C64 and not found a better RPG ever.  
+But one of my 10 discs got screwed and
+I could never finish the game.  I have
+designed my own RPG and its definitely
+influenced by the sheer level of depth
+and detail found in KOL.  I have often
+had the urge to play it again, but, as
+I said, my discs are screwed.  I also
+dont have my C128 in this state (its
+somewhere in the New York tristate area).
+I did see it once at Electronics Boutique
+for $39.99 but it was for the PC and I 
+didnt have a PC (or $39.99!)  But now 
+Im a "rich" programmer here at Raven 
+Software (Hexen 2) and I really want
+ it BAD.  BUT Origin wont sell it to me.
+They say they dont even have it anymore!!!
+So, Mr. Porter, you are my last, best hope.
+As producer on KOL (and Lead Designer,
+if Im not mistaken)- is there any way you
+could somehow arrange for me to get a copy
+(Ill BUY it) of the game- preferably the
+PC version- especially if the awesome 
+manual was included?
+   PLEASE GOD SAY IT IS SO!
+
+Begging Pathetically,
+
+Mike Gummelt
+Programmer
+Hexen 2
+
+And his response:
+
+
+
+
+
+
+
+
+
+Yes, that's right, no response.  I even
+asked a friend and former co-worker who was
+now at Ion Storm to ask him about it.  Again,
+no response.  I'm sure Todd had a lot of
+other e-mail to read, but he could have
+at least answered me!  
+
+Now, some of you may be saying "so what?"
+and "yeah, and?" or even "that was one of
+the most pathetic, fanboy e-mails I've
+ever read and I wouldn't have responded
+to it either".  
+
+Well, uh... oh yeah, you're right...
+
+And that's my little addition to the
+controversy.
+
+(PS - While the e-mail is, sadly, real- this is
+just a joke, please don't flame/sue/maim/kill
+or otherwise think impure thoughts about me...)
+
+cut here:
+8<================================================
+
+2:09 PM January 15, 1999
+
+Aliens vs Predator, continued...
+
+Well I finally played the Marines demo
+for Aliens vs. Predator and it was
+definitely better, but there were still
+a few things that irked me about it.
+This time I think I can nail it down to
+a few specific problems:
+
+The Design/Game Flow:
+I don't know if this game is intended
+as a primarily Multiplayer game or
+not, but the single player experience
+seems a little weak.  Not because of
+look or atmosphere- that's all done
+very well.  But rather the sense that
+I'm totally alone and the aliens tend
+to be scattered evenly about with
+no real purpose.  They will close in
+on me, but it seems like they're just
+placed one per corridor or something
+like that.  In the films, they came in
+droves, not one at a time like henchmen
+in an old kung-fu film.  And they
+didn't come in a steady stream- there
+were long moments of wondering where
+the hell they were.  They were also
+a little too tough to kill- if they
+came in larger numbers, you could make
+them easier to mow down.  Of course, I
+presume the designers of the game
+have them show up in small numbers
+because their engine can't smoothly
+handle 10 aliens on the screen at a time.
+But given the subject of the game, they
+should make their engine be able to
+do it (if it can't already).  Speaking
+of the aliens, their movement seemed
+odd as well.  Not their running on
+walls and ceilings- that was cool-
+but the fact that they'd alternate so
+randomly between crawling and running
+on 2 legs.  The running on 2 legs looks
+weird in general, but the part that
+bugged me was that they'd alternate their
+mode of movement without any apparent
+reason.  Maybe it's because they moved
+so fast, I don't know.  And their attacks
+felt odd, I didn't know how I ever died,
+but I guess that's how it might
+feel.  Though seeing an alien inner
+jaw shoot into my forehead would be
+cool or have my body be taken away
+after death might be nice.  Also
+being picked up by an alien from
+above would be pretty cool.
+
+I still didn't like the head tilting when
+you strafe either, seems like it should
+tilt in the other direction if at all.
+
+I would have also liked it if I had just
+the simple shoulder flashlight they had
+in the movies.  Having to use the infrared
+visor so much was a little annoying.
+
+This is kind of a pipe dream- but shadows
+would really add a lot to the atmosphere...
+
+The flamethrower was kinda lame- in the films
+it would fry aliens pretty quickly but in
+the game the aliens just run around on fire
+and keep attacking you for a while.
+But this is probably the toughness of
+the aliens issue.
+
+Not having Marine buddies felt wrong also.
+I would like to see NPC bots that go around
+will me and get nailed.  One marine can't
+realistic fight off a horde of aliens<b

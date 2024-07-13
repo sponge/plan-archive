@@ -1,0 +1,169 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+On since Tue Jul 13 19:20 (EDT) on ttyp1 from 216.27.43.214:0.0
+   1 day 4 hours idle
+On since Tue Jul 13 19:20 (EDT) on ttyp0 from 216.27.43.214:0.0
+   2 hours 7 minutes idle
+Mail forwarded to brandon@epicgames.com
+Mail last read Sun Jun 13 13:06 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Brandon "GreenMarine" Reinhart
+Unreal Team Programmer
+Epic MegaGames, Inc.
+
+Tuesday, July 13, 1999
+
+Unreal Tournament will ship with out of the box support for statistics
+logging and ranking using Net Games USA's ngWorldStats software.  The
+software allows players to track their performance online at
+ut.ngWorldStats.com.  You can track tons of different types of stats:
+your kills, your best game, your total score overall, and so forth.
+
+This Wednesday July 14, 1999 at 10:00PM Eastern, three Epic developers
+are going to deathmatch three Net Games USA developers and put the stats
+online at:
+
+http://UT.ngWorldStats.com/Epic_vs_ngUSA/
+
+So this is what we are going to do.  Everybody at Epic uses ngWorldStats
+and ngStats quite a bit.  We think its going to kick some ass for organized
+clan play and for big tournaments.  You can use ngWorldStats for watching
+your individual performance online and you can use ngStats for LAN parties,
+big tournaments, or even tracking your single player performance.
+
+In order to show off some of the clan play goodness, we are going to have
+the following setup.
+
+- A 20 minute timed Team DeathMatch, 3 versus 3.
+- The map will be DM-Grinder, a medium sized deathmatch map by "Myscha the Sled Dog"
+- Epic's Team:
+  * Brandon "GreenMarine" Reinhart
+  * Cliff "CliffyB" Bleszinski
+  * Alan "Talisman" Willard
+- NetGames USA's Team:
+  * Craig "BotanikA" Sparks
+  * Jason "Rhea" Keimig
+  * Mike "Dovienya" Swink
+
+During the game we'll be taking screenshots to put up afterwards.  The stats
+page will update immediately after the game completes and you'll be able
+to see how everybody fared.
+
+We think that ngStats is going to be a great way for teams to visualize
+their strengths and weaknesses as well as archive their games.  Craig
+and Brandon use it at LAN parties (put it on your LAN party server along
+with a web browser and you have an instant game reporting nexus.)
+
+Finally, UT supports Net Games USA's ngTCS - Tourney Control System out of the box.  
+You can use it for LAN parties or big tourneys to automatically perform online 
+event registration, match scheduling, interactive match brackets, and live game 
+stat reporting.
+
+Coolness!  So drop by http://UT.ngWorldStats.com/Epic_vs_ngUSA/ Wednesday
+night to check out the game.  Also check out http://UT.ngWorldStats.com/
+for a look at the world stat logging system and check out
+http://www.netgamesusa.com/ for info on NetGames USA.
+
+- GreenMarine
+
+Friday, July 9, 1999
+
+6:42 PM
+
+Mark Rein, wanted to add his thoughts on the matter of web journalism, gaming 
+news, and ethics:
+
+"What I think makes these bogus reviews really bad is that they're looking
+at old, out-of-date code and talking about it like it's a reliable version
+of UT.  That means they're not giving reliable information about the product
+which hurts our ability to market the game and their credibility.  These
+guys should wait for the demo and review it and the wait for the full product
+and review it.  We can NOT send out preview/review copies of Unreal Tournament
+except in extremely rare cases that myself and Dan Harnett (at GT) anguish
+over on a case-by-case basis.
+
+I can count on ONE HAND the number of actual copies of UT we've actually
+handed over to legitimate sources.  Any other legit previews have been
+situations where they've come to see us (at their own expense), or to see
+GT or to go to a trade show or event where we're showing the product and
+they've seen it first hand.  There have been lots of those situations
+(including Unreal web site hosts who came to visit us at OUR expense) but
+we can never handle all the requests we get."
+
+Mark Rein,
+Epic Games Inc.
+
+I might add to this that just because we can't handle all the requests
+doesn't mean you shouldn't make them.  A part of being a successful webmaster
+is using the resources that you have available.
+
+So far my mailbox has been bursting at the seams with feedback from people
+interested in this issue.  Nearly all of the readers feel that ethics among
+web journalists is very important.  Most also feel that there are more ethical
+webpages out there than I give credit for.  I think that's probably true, but
+I will only speak for pages that I read.
+
+On another note, Kenn Hoekstra of Raven Software says that the picture below
+must have been taken in Madison, Wisconsin.  He says that the school "Fitchburg"
+is a Madison area high school.
+
+Gollywog from PlanetDaikatana says the dude tossing it uses the nick "Sex Cow"
+and is a regular poster to alt.music.GWAR.  "Haven't seen him in a while,
+but he's one funny mf."
+
+
+1:04 PM
+
+Dan Sarkar showed me this picture.  I don't know who or where it is, but
+its so cool I had to share it with the rest of the world.
+
+
+
+
+
+I want to add to my 'rant' by saying that the two sites I refer to below
+are not Unreal Universe and PlanetUnreal.  Neither of those sites are
+what I would call "Independent."
+
+Unfortunately, when you choose to focus your sites interests around a
+single game you lose a lot of flexibility.  You lose the ability to say
+things like "this game is cool, but could use work here and here."
+
+People generally don't visit fan sites for reviews about the game the
+fan site is focusing on.  Fan sites are a focus for hints, cheats, game
+community information and so forth.  In order for them to do their job
+properly they tend to sacrifice some level of independence.  Their webmasters
+tend to work more closely with the developers.
+
+I think that most gamers understand that.  Its not hard to realize that
+when you go to a site like PlanetUnreal for information on Unreal or
+Unreal Tournament you are going to get the most positive and optimistic
+point of view.  They are trading some level of credibility for insider
+information.
+
+On the other hand, Blue's News started out as a Quake fan site and has
+moved beyond that.  While Quake is still largely the focus of the site,
+it has become one of the best resources for FPS gaming news.
+
+Fan sites have to be aware of their role.  They need to present information
+about the game...even promote it...without becoming the developer's spin
+doctor.
+
+Mia'Cova at PlanetUnreal presents an interesting point: Is it unethical for
+a site webmaster to accept a plane ticket to see a game?  Under the APME code, 
+it would be.  At the same time, a lot of these webmasters can't afford to fly 
+themselves.  The question becomes "Can a webmaster maintain objectivity while 
+accepting gifts from developers."  Most print media types would say "No."
+I think that this might be a case where the print media rules may not be
+entirely relevant to the world of online media.  There are a lot of (relatively)
+high profile web sites that don't have the financial backing their print
+media equivalents have.  You have to pay for a magazine, you don't have to pay
+for a webpage.
+
+Anyway, I'm just discussing my personal opinions.  There are ethics lawyers
+and professors who have established very concrete rules of ethical conduct
+in the print media.  My point is not to construct an interpretation of those
+rules, but to say "Maybe these should apply to the net as well."
+<

@@ -1,0 +1,114 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Designer
+Project: Quake Arena
+Last Updated: 07/08/1998 14:53:02 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+July 8th, 1998 @ 2:41pm
+
+ I've released a new version of the q2ctf4 (Outlands) CTF map which is now available on our FTP site;
+
+ftp://ftp.idsoftware.com/idstuff/quake2/maps/q2ctf4a.exe
+or
+ftp://ftp.idsoftware.com/idstuff/quake2/maps/q2ctf4a.tar.gz
+
+ It should be extracted to \quake2\baseq2\maps. This version of the CTF map attempts to address issues with making play more balanced.
+
+ It is currently running on our CTF server at 192.246.40.37:27913
+
+ Thanks to Brian Hook, John Cash, the people on 3DNet and EFNet (you know who you are) for their input in making this map more balanced.
+
+July 3rd, 1998 @ 12:02am
+
+ A few new releases this morning.
+
+Intel Releases
+
+ftp://ftp.idsoftware.com/idstuff/quake2/q2-317-x86.exe
+ftp://ftp.idsoftware.com/idstuff/quake2/q2-317-x86-full.exe
+ftp://ftp.idsoftware.com/idstuff/quake2/q2-317-x86-full-ctf.exe
+
+Alpha Releases
+
+ftp://ftp.idsoftware.com/idstuff/quake2/axp/q2-317-axp.zip
+ftp://ftp.idsoftware.com/idstuff/quake2/axp/q2-317-axp-full.zip
+
+Unix Releases
+
+ftp://ftp.idsoftware.com/idstuff/quake2/unix/q2ded-317-axp-unknown-linux2.0.tar.gz
+ftp://ftp.idsoftware.com/idstuff/quake2/unix/q2ded-317-i386-sun-solaris2.5.1.tar.gz
+ftp://ftp.idsoftware.com/idstuff/quake2/unix/q2ded-317-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.idsoftware.com/idstuff/quake2/unix/quake2-317-i386-unknown-linux2.0.tar.gz
+
+
+Changes for 3.17
+
+- added sanity checks before calling atan2 with divisors of 0.  This was
+  accidentally working on Intel chips, but caused crashes on DEC Alpha AXP
+  port.
+- updated QUAKE2.DSW and QUAKE2.DSP file to support DEC Alpha
+- Autodownloading is now DISABLED by DEFAULT.  It must be enabled by typing
+  'allow_download 1' at the console, or using the download options menu
+  in Multiplayer/PlayerSetup/Download Options
+- Server demos now include a svc_serverdata block at the beginning with the
+  attractloop byte set to '2' to indicate server demo (byte before gamedir
+  in the svc_serverdata block).  This allows easy identification of
+  serverrecorded demos (serverrecord demos are only for demo editors, they
+  can not be played back in Quake2 without being first edited).
+- New options for setting texture formats in ref_gl:
+  gl_texturealphamode:  default, GL_RGBA, GL_RGBA8, GL_RGB5_A1, GL_RGBA4, 
+    GL_RGBA2
+  gl_texturesolidmode:  default, GL_RGB, GL_RGB8, GL_RGB5, GL_RGB4,
+    GL_R3_G3_B2, GL_RGB2 (SGI only)
+- Player movement during Air acceleration changed to reflect more real-world 
+  physics while airborne.
+- Fixed a bug when riding trains that caused drift in a southwest direction
+  (Thanks to Jim Dose at Ritual for pointing this one out).
+- Linux:  Now correctly reports out of memory rather than segfaulting (mmap
+  returns (void *)-1 and not NULL on error).
+- Fixed autodownloading to not create paths for files that can't be downloaded
+  (this was creating many empty directories in baseq2/players).
+- When downloading a file from a server that doesn't have it, the message is
+  now "Server does not have this file" rather than "File not found."
+- Fixed some coop keys in 3.15 weren't being handled correctly (pyramid key).
+- Highbits are now stripped from console when using condump
+- Restored support for gl_modulate in multiplayer play
+- Fixed it so that players with a model/skin you don't have aren't checked for 
+  on disk more than once.
+- Fixed it so sounds played for PPMs that default to male are only checked
+  on disk once.
+- Byte ordering/portability fixes in cinematics, PCX and other file handling.
+- Client state during static image cinematic (PCX image) so that client can 
+  continue to next unit.
+- Fixed it so that dedicated coop servers no longer get stuck at victory.pcx,
+  if a server is in coop mode, hitting a button at the victory.pcx screen
+  while cause the server to restart at base1
+- Fixed infinite grenade bug
+- Fixed autodownloading to actually download sounds and console pics
+- Fixed autodownload to not create empty directories for files not on
+  the server.
+- Added customized client downloading.  cvars are the same as the server side:
+    allow_download - global download on/off
+    allow_download_players - players download on/off
+    allow_download_models - models download on/off
+    allow_download_sounds - sounds download on/off
+    allow_download_maps - maps download on/off
+  They can also be (more easily) set with a new Download Options menu 
+  accessible in Multiplayer/Player Setup/Download Options
+- Changed checksumming code to be more portable and faster.
+  The checksum in 3.15 was seriously broken.
+  This change makes 3.17 incompatible with previous servers.
+- Fixed player 'warping' present in 3.15 (this was an artifact of the
+  hyperblaster optimizations).
+- Fixed the autodownload in 3.15 so that stuff like skins for models are
+  downloaded as well as pics.
+
+
+
+---
+"Gonna get the girl, gonna kill the baddies, and save the entire planet"
+                                                  -Pop Will Eat Itself<br

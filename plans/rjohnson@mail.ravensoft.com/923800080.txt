@@ -1,0 +1,20 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: SoF
+Nickname: Superfly
+Web Page: Rick's Web Site TurtleCam! mEATwagon Cult
+Last Updated: 04/10/1999 14:24:18 (Central Standard Time)
+-------------------------------------------------------------------------------
+4/10/99
+   -------------------------------------------------------------------------------------
+   04/09/99  09:33p             1,355,838 hwcl.exe
+      (debug .exe)
+
+   That's right.  I'm actually working on HW during my vacation.  So early
+      next week we should have another release.  I'm doing some experimental
+      networking in it plus merging in some QW updates.  I haven't touched the
+      .HC files, but that I'll ask for feedback on the needed changes (like team play).
+   -------------------------------------------------------------------------------------

@@ -1,0 +1,65 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-------------------------------------------------------------------
+User Name: tim.gift     Plan Last Modified: 01/26/1999 17:28:44 PST
+
+Real Name: Tim Gift
+Nickname: Slacker
+Job: Director/Lead
+Project: Starsiege Tribes
+
+1.26.99
+
+Hmm, I've just heard a rumor that we delayed the OpenGL
+patch.  Not sure where that came from, but I don't
+remember mentioning anything about delays. In fact, the
+OpenGL patch seems to be coming along pretty well. Just
+down to the final optimizations, though it is annoying
+having to tweak the game for each OpenGL card out
+there, it's all a part of the normal process. Dave's
+installed the G200 and is testing that today. As we
+hear back from NVidia, we'll continue working with them
+on getting all the performance we can out of their
+card.  Soon as it runs reasonably, we'll release a beta
+version to get some feedback.
+
+
+1.25.99
+
+I'll talk about OpenGL since that seems to always be on
+people's mind. Dave Moore is the one working on our
+OpenGL driver. We are using the TNT card as our testbed
+and basically have it running, but we are running into
+some serious performance issues with their OpenGL
+driver. The main problem is the rate at which the
+OpenGL driver downloads textures to the card. When
+playing indoors, TRIBES has a small texture set, and
+the driver and card run flawlessly, but as soon as you
+go outdoors, we start to encounter some bad pauses.
+When outdoors, TRIBES generates a large number of
+composite textures to cover the lower detail terrain
+poly's in the distance. This is all part of the terrain
+detail management system. The composite textures change
+frequently as you move around on the terrain, and are
+constantly being rebuilt and downloaded to the driver.
+All of this management was optimized for Glide and our
+software driver. Unfortunately, with OpenGL, we have
+much less control over how textures get downloaded to
+the hardware. This is pretty much left up to the OpenGL
+driver. There were a few things we were able to do to
+reduce our download rate, which helped considerably. We
+also talked briefly to NVidia and they informed us that
+they had improved their texture management in the
+latest beta driver. We downloaded and tested this
+driver, and it did made a huge difference. It still
+doesn't get rid of all the pauses, but definitely much
+better. We are re-grouping to see what's next. That the
+TNT, a 2xAGP card, should download textures slower than
+a Voodoo I card doesn't seem very likely, the card
+should be able to handle what we're doing. This is the
+annoying thing about using a higher level rendering
+interface: you end up at the mercy of the people
+writing the low level drivers, who usually have
+completely different idea's on what to optimize.

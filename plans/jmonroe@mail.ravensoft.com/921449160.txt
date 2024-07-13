@@ -1,0 +1,37 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: James Monroe
+Email: jmonroe@mail.ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: James' Web Site
+Last Updated: 03/14/1999 17:57:30 (Central Standard Time)
+-------------------------------------------------------------------------------
+many thanks, my gamma informed patrons.
+
+i now know about
+
+gl_modulate	=	3.5 worked for me	
+and
+intensity	= don't know what this does
+
+, now if i could keep it from hanging when i hit esc from the menu....
+
+btw, i run NT so there is no desktop gamma control,
+and i have a really freaking dark monitor with the brightness all the way up which is the cause of my woes.
+
+now am prepared to be impressed...
+
+
+
+different thought:
+i just found out about ORB, from www.castlewood.com
+
+really really cheap removable storage! i have tech envy now.
+
+Bigger:  2.2 GB
+Faster:  12.2 MB/sec
+Smaller: Only 6.5" long
+Lower cost: 
+More gigs for your money

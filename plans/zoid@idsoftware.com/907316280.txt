@@ -1,0 +1,48 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Dave Kirsch
+Email: zoid@idsoftware.com
+Description: Programmer
+Project: 
+Last Updated: 10/02/1998 05:02:48 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+Oct 2nd, 1998
+
+From Blue's News:
+
+
+
+"Today marks the two-year anniversary of the day the first-ever story about
+Capture the Flag appeared anywhere, right here on Blue's News. I was on
+a trip to Virginia and it really seems like the "old days," because I was
+updating on a monochrome 486SX laptop, using a flaky 14.4 AOL connection,
+and I can still remember the email from Zoid that had such a strong hook."
+
+
+I remember writing that email to Blue.  When I realized that CTF was going to
+catch on (the sheer number of people fighting to get into my two little
+twelve player servers was astounding), I wrote mail that would "sell"
+the product, so to speak.  I knew I built something cool and I wanted tell
+everyone about it.
+
+I guess everyone heard about it by now.  :)
+
+CTF has been an amazing project for me.  From my humble beginings on a little
+NetQuake server running a little hack with floating keys to Quake2 CTF.
+It's been fun building it all, and it's going to be a challenge to continue
+the tradition of simple gameplay, but addictive design.
+
+Speaking of Q2CTF, I've begun some layout plans for an addon level pak.
+Players have been screaming for more "official" quality levels and I think
+it's past due time for some to be made.  No time line yet, but I'm hoping
+to get a new pak together soon for all your CTF fanatics out there.
+
+Thanks to Blue for wishing me a Happy Anniversary and a special thanks to all
+the players out there that enjoyed ThreeWave Capture the Flag and made it
+what it is today.  It was your feedback and desire to play a game that
+drove me to build it and continue to make it better.
+
+"Zoid captured the BLUE flag!"  :)
+
+/// Zoid.

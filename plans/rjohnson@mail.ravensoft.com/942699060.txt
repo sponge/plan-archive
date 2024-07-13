@@ -1,0 +1,59 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: SoF
+Nickname: Superfly
+Web Page: Rick's Web Site TurtleCam! mEATwagon Cult
+Last Updated: 11/15/1999 16:42:58 (Central Standard Time)
+-------------------------------------------------------------------------------
+11/15/99
+   For those of you who have "acquired" a version of the OEM, you may have noticed rendering glitches with the
+      fog.  This is because the source of the version you "acquired" it from was mucking around with console
+      variables and saved them in a bad state.  To fix this, you should either delete the config.cfg file
+      in the user directory where you "installed" the game, or edit the config.cfg file, and change the
+      following console variables to these values:
+
+      set gl_fogmode "0"
+      set gl_offsetunits "0.0"
+      set gl_offsetfactor "-1.0"
+
+   Also, please Email us your comments about the OEM (praise, criticism, likes, dislikes, etc) 
+      so that we can take your feedback to improve the final game.
+
+11/12/99
+ Download the long awaited SoF AVI!  It's about 24 megs...
+
+11/6/99
+   So you're waiting for the SoF AVI?  Well, here's something to wet your appetitie.  This 
+ Song was an impromptu recording by the actor that plays John Mullins in
+      SoF.  This was just a little fun thing that Chia-Chin Lee had him record.  This isn't actually 
+      going to be included in the game...  Enjoy!
+
+ Please note that this song is intended for mature audiences.  Parental discretion is advised.
+
+11/3/99
+   The comments about playing it for a brief try were not directed towards the avault article at all.  
+      The article as a whole is very fair, and actually is very favorable towards SoF.  The reviewer
+      did play the OEM extensively and walked away not fully liking our difficulty settings.  That's fine, and
+      this is already address for the final product.  What frustrates developers the most is when
+      people dislike options without either trying it or just playing it "for a bit".  Most of the time,
+      features will grow upon you.
+
+   --------
+
+   I hate it when people make assumptions about games prior to ever playing it or just giving it a brief 
+      try.  Open up your minds, otherwise you'll be stuck with the same game play forever :)
+
+   The guys respawn...  They spawn out of logical places where more enemies would naturally flow in.
+      They also respawn based upon the amount of "noise" you are generating.  If you use louder weapons,
+      you'll attract more attention to yourself.  Quieter weapons, you'll attract less attention, and you
+      won't see as many people.
+
+   Limited saves...  It does add very much to the realism.  People were skeptical here, but turned out it that
+      it made you in the game more "mortal" and tightened up your senses.
+
+   But, having said that, one option which did NOT make it into the OEM is a customizable difficulty setting,
+      where you can control the number of saves (or unlimited), no respawning, AI difficulty, etc.  So if you
+      don't like our defaults for the standard difficulties presented to you, you can alwa

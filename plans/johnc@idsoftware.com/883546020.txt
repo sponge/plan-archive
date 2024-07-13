@@ -1,0 +1,254 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 12/31/1997 01:33:42 (Central Standard Time)
+-------------------------------------------------------------------------------
+------------------------------
+Dec 31: 12:41 PM CST:
+
+I just spent a few hours working with a quake player that
+still couldn't net quake with 3.09.  
+
+It took a while, but I finally understand what is going on.
+
+He could play net games on his local lan, but when he tried to
+connect to remote servers, it would always fail and timeout
+midway through the connection process, or at most a few seconds
+into the game. 
+
+The situation was that there was a small network of computers
+connected to an ISDN router that did address translation.
+
+Address translation allows multiple computers to use the internet
+through a single TCP/IP address.  This is accomplished by having
+the router perform some "invisible" port and ip renaming on
+everything that goes out.
+
+I think that is a rather evil thing for a router to do, but I
+suppose I can see the incentive from an address pressure viewpoint.
+
+Routers know when TCP streams begin and end, so they make sure the
+port mappings stay constant through the entire thing, but quake
+uses UDP packets (anyone who suggests using TCP for a realtime
+game does not understand how the error recovery works), and the
+router apears to be making the incorrect assumption that UDP is
+only used for simple request / response protocols.
+
+The router changes the UDP port while you are playing.
+
+Grrrr.
+
+Now, a smarter router would only change the port numbers when it
+was actually forced to by a collision, which would only be when
+a connection was first opened, and everything would work out ok.
+
+After I understood what was happening, I could devise a fix for
+it.  My simple fix was to make the server simply ignore the port
+number for client comparisons, and assume that if a packet came
+from the same IP address, then it is the same player even if the
+port number changed.  That worked, and he was able to connect in
+to my modified server.
+
+That has the distinct drawback of making translating routers or
+proxies that do the port mapping correctly unusable by more than
+one player at a time.
+
+I could fix it completely by including a sort of port number in
+each message, and having the servers match and update UDP ports
+based on that.  That would work fine, but at the cost of adding
+a byte or two to everyone's packets to help out people with bad
+routers.  You wouldn't be able to tell a difference, but its the
+principle of it...
+
+I could make a server side cvar to force port fixing on, but that
+would still not work for one class of users or the other.
+
+I could make it client settable and have the client tell the server
+on connect that it needs port fixing.  That would work with no
+bandwidth cost to anyone, but it would require users to know that
+if they can't connect to servers, then they should try to use the
+fix translation option.  Unfortunately, I bet that there are some
+routers that exhibit this problem much less often.  A drop every
+ten minutes would be hard to attribute.
+
+I could make port fixing on by default, but if anyone is on a
+translated lan and another person tries to start a net quake game
+to the same server then they will both collide and crash and burn.
+
+I am probably going to add the extra bytes to every packet.  Being
+automatically robust on more people's systems is probably worth a
+microscopic loss of bandwidth.  Two bytes is under one millisecond
+of ping on a modem.
+
+If there is some magic range of port values that I can use to make
+these routers act better, let me know.
+
+These changes will break the connection protocol again, so I am
+going to hold off on the patch for a while.
+
+------------------------------
+Dec 30: 2:30 PM CST:
+
+Until we release the new gamex86 source code, if you want to
+make mods work with 3.09, change GAME_API_VERSION to:
+
+#define	GAME_API_VERSION	2
+
+and recompile the mod.
+
+This will let it run with the 3.09 servers.  The API didn't
+actually change, I just had to bump that version number so that
+we could detect the old q2test dlls still hanging around.
+
+------------------------------
+Dec 29: 11:30 PM CST:
+
+We have rebuilt the 3.09 patch with a new version of the install
+program.  Some people were not able to run the installer because
+a temp directory wasn't setup correctly.  There are NO OTHER CHANGES
+in this, so if you were able to install the last 3.09, don't bother
+getting this one.
+
+ftp://ftp.idsoftware.com/idstuff/quake2/q2-309-2.exe
+
+------------------------------
+Dec 29: 8:00 PM CST:
+
+Please cool it a bit with the email to me unless it is really
+important.  I'll never get trinity done with the email pouring
+in the way it is right now...
+
+------------------------------
+Dec 29: 2:30 PM CST:
+
+The only widely reported problem with 3.09 is that the
+video playback is choppy.  The fix for the modem connections
+reduced video playback to 10 fps.  Its a one line fix, but
+I'll hold off on another version until a few more things
+accumulate.
+
+I am curious what the breakdown of opinion is on the rapid
+patch releases.  If one of the polling websites would pose
+the question, I would apreciate it.
+
+A more liesurely patch release would allow us more testing time, and
+some problems (like this cinematic bug) would certainly be killed
+before the public saw it, but I definately found a couple things from 
+the public that no amount of testing on our machines would have found.
+Some things only showed up with 48 people playing on our servers for
+several hours.
+
+Once again, we really didn't have a choice this time because of the
+server crashers, but we are planning another release in two to three
+weeks.
+
+I am happy to produce new versions fairly rapidly, rather than at monthly
+intervals, but I know that many people are getting a little irate at
+having to download new patches.  There is a simple solution -- if you
+don't want to be on the bleeding edge, wait a week after a patch is
+announced and see how it is working for other people.
+
+What finally helped me get to the bottom of some things was
+just getting people with problems we couldn't reproduce to call
+me and let me send them executables by email until I figured out
+what was going on.  From now on, if you send a detailed problem to me,
+include a phone number and times when you can be reached.  I'm not tech
+support, so you certainly can't count on a response, but if you have
+a nice repeatable case of a problem that is high priority for us that
+we can't reproduce otherwise, your personal help may be usefull.
+
+BTW, does anyone know why Quake 2 became a hacker target?  I can keep
+fighting attacks, but spending my time there doesn't help anyones game,
+and there are a bunch of things that fundamentally can't be stopped if
+people really set their mind to messing up the servers.
+
+------------------------------
+Dec 29, 2:25 AM CST:
+
+new version:
+
+ftp://ftp.idsoftware.com/idstuff/quake2/q2-309.exe
+
+This one has an install that makes sure things get where they
+need to...
+
+
+------------------------------
+Dec 28, 9:30 PM CST:
+
+If Quake2 is crashing on you after upgrading, it is probably
+because you still have the gamex86.dll from q2test in your
+quake2 directory.  The latest quake2.exe just started looking
+in the exe directory as well as the game directory to make
+debugging easier, and it brought out this problem.  You should
+only have gamex86.dll in baseq2 unless you are doing specific
+development.
+
+I had a version check in there, but I never bumped the game
+api version, so it was ineffective.
+
+We are going to release yet another new version tonight.
+
+The big news is that the modem connection and level changing
+problems are fixed.  They should have been fixed in 3.07, but
+a timing error kept it from functioning.
+
+I also found the "no such frame" warnings that scrolled by
+under some circumstances.  BFG gibbing crouching people would
+cause it.
+
+There are several other fixes in the menu and renderers as well,
+so everyone should upgrade.
+
+We are testing with 3.09 on our servers now, but I want to
+make an incompatable change before releasing:
+
+Right now, any client can send a "connect" message to the
+server and grab a client slot.  If they are the wrong version,
+they will tie that slot up until they time out ot abort the
+connection process.
+
+I am going to force clients to send their version number
+with the connection request, so that bad clients will never
+take up slots.
+
+That will require everyone to upgrade to 3.09 to play.
+
+I apologize for the flurry of versions, but this was a forced
+set of releases due to the server attacks, and lots of people
+are on vacation here.  It certainly could have been tested
+better, but I thought it better to try and get something out
+ASAP.
+
+
+Check back in the morning for a new version...
+
+
+BTW, we will release the new gamex86 source code after we are
+convinced that we aren't going to be making another patch
+for a couple weeks.
+
+------------------------------
+Dec 28, 5:00 PM CST:
+
+No crashes on any of the servers!
+
+A few comments on some reported problems:
+
+You have to press the "attack" button to respawn in deathmatch
+now.  This allows you to chat and go into the menu.  I have
+got several mails from people that are typing "kill" or
+reconnecting to servers after they die...
+
+Old savegames will NOT work with the patch.  Just cheat yourself
+to aproximately the same place you were before.  The game included
+config files for starting off at each unit.  You can exec one of
+those to get you close, then do "give" commands if you want to be
+more precise.  (bigguun.cfg, boss.cfg city.cfg, command.cfg,
+factory.cfg, hangar.cfg, jail.cfg, mine.cfg, power.cfg, space.cfg,
+warehouse.cfg).
+
+I think several people are failing to 

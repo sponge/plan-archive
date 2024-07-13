@@ -1,0 +1,45 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Cash
+Email: jcash@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 01/27/1998 15:42:50 (Central Standard Time)
+-------------------------------------------------------------------------------
+QuakeII
+-------
+Still testing.  Looks like Zoid may be able to release CTF
+at about the same time so it could turn out to be quite a day
+for releases when it hits.
+
+Fair warning... some changes had to be made to the game API
+(the interface to the game dll), so once the point release
+comes out, all mods will need to be recompiled with the new
+headers at a minimum.  Of course, you'll be much better off
+if you just re-mod the new source since there are a ton of
+changes.  We'll put the game dll source out close on the heels
+of the release; I know you'll be anxious to get it.
+
+There were come protocol changes too, so this release will not
+be backwards compatible to older versions.  I tried to avoid
+it, but it was necessary.
+
+
+January 27th
+------------
+Happy Birthday Johnny!!!  Yes, my eldest son turns 7 today.
+Man, they do grow up fast.  It seems like only yesterday he
+got his first frag.  It seems like this morning when he
+went to his first QuakeCon and won two matches.  Thresh had
+better keep up on his skills if he wants to keep that Ferrari;
+this kid's a killer ;-)
+
+On a related note... have you been practicing Esses?  He's
+ready for a rematch.  Or maybe you'd rather play Joey, my
+3 year old? ;-)  Fair warning...  Joey's first frag ever was
+an axe murder!
+
+--------------------
+John Cash
+jcash@idsoftware.com
+"Hellrot"

@@ -1,0 +1,457 @@
+Login: randyp         			Name: Randy Pitchford
+Directory: /home/randyp             	Shell: /bin/bash
+Never logged in.
+No mail.
+Project:
+
+Counter-Strike: Condition Zero
+Secret Sauce #1
+Secret Sauce #2
+Secret Sauce #3 
+
+ 
+Plan:
+
+********
+09/21/01
+
+I've been getting a lot of e-mail...
+
+Gearbox Software does not currently need any Beta testers for Counter-Strike:
+Condition Zero.  If we do need testers in the future, I'll put the word out.
+
+But I thank you for the many e-mails I've received from fans who are clearly
+very excited about Condition Zero and would like a chance to have a look
+before it's complete.  We've been working with the press to deliver as much
+information about Condition Zero development as we can as quickly as features
+and content are added to the game.  Soon, there will be a new wave of info
+available on-line and in the print press.
+
+Until then, please be patient and understanding if we don't respond to all
+of your e-mail.  
+
+-DuvalMagic
+
+
+********
+07/04/01
+
+Blue Shift is the #1 PC game in North America.
+
+NPD Top Ten PC Games for the week of June 23:
+
+1.Half-Life Blue Shift ($35)
+2.The Sims ($50)
+3.The Sims: House Party ($30) 
+4.The Sims: Livin' Large ($30)
+5.Starcraft Battlechest Bundle ($25)
+6.Emperor: Battle For Dune ($50)
+7.Roller Coaster Tycoon  ($28)
+8.Diablo II ($40)
+9.Myst III: Exile ($45)
+10.Black & White ($45)
+
+Crazy.
+ 
+-DuvalMagic
+
+
+********
+06/25/01
+
+Gearbox Software is hiring.  Gearbox is growing cautiously and smartly, but
+we are growing.  We're serious this time...
+
+We're ramping up new projects outside of the Half-Life series, so this is
+a one time chance to join our award winning talent as we break new ground.
+
+Aside from the all-new stuff, we're also continuing work with Valve and
+Sierra in the future on some very exciting projects that are inside of the
+Half-Life franchise of games.  This is a rare chance to be a creative part
+of some of the most successful and popular games ever made for the PC.
+
+The resume building opportunities alone are golden, but since we foster
+the sort of comfortable and productive development environment that's kept us
+from ever losing an employee you'll probably be much more interested in
+royalties, our complete benfits package, and many other perks Gearbox offers.
+
+There are several positions in art, programming and level design open
+and information about those positions can be found on our site:
+
+www.gearboxsoftware.com
+
+You can also look at the job descriptions posted on Gamasutra:
+
+www.gamasutra.com
+
+-DuvalMagic
+
+
+********
+06/18/01
+
+!Blue Shift for $20 with a free copy of Gunman!
+
+At the Best Buy in Plano, TX, Blue Shift is $20 and you get a free copy of
+Gunman Chronicles.  This is before the $10 Opposing Force rebate, so if
+you've already got Opposing Force, you can get Gunman and Blue Shift with
+the HD Pack for only $10.  Serious bargain...
+
+If you're from somewhere else and find any good Blue Shift bargains, drop
+me a note and I'll mention them here.
+
+-DuvalMagic
+
+
+********
+06/05/01
+
+Sierra has posted the video trailer they made of the Playstation 2 version
+of Half-Life for E3 here at their official site:
+
+http://sierrastudios.com/games/half-life-playstation2/
+
+There's a couple of glimpses of the new cooperative game (Half-Life: Decay).
+
+Check it out.
+
+-DuvalMagic
+
+
+
+********
+05/31/01
+
+Blue Shift for $19.99!
+
+http://www.compusa.com/products/product_info.asp?product_code=283501
+
+The shelf date is still second week of June.  It went gold a couple of weeks
+before E3, so it's a gimme...
+
+-DuvalMagic
+
+
++++
+Game Design Theory -
+
+Last week, for some reason, I wrote a down a thought relating to game design.
+This morning I found it in a notepad on my desktop:  
+
+
+> Failure is no fun.
+>
+> Success feels good.
+>
+> People don't like to fail. They like to succeed.
+>
+> Once having failed, people will only continue playing if they believe
+> the reward they'll get is worth the investment it takes to develop the
+> skills necessary to succeed.
+>
+> So, you need to make a promise of some kind of reward to entice players
+> to keep at it.
+>
+> AND, you need to deliver an understanding of what kind of investment it
+> will take to succeed.
+>
+> Typically, that understanding can be delivered upon failure.  Players
+> must profit from failure.  Players must profit more from failure than
+> from success because success is a reward in and of itself, whereas
+> failure is an incentive to stop playing.
+>
+> Failure is no fun.
+
+
+Anyone agree with this?
++++
+
+
+********
+03/14/01
+
+Half-Life: Opposing Force is now at version 1.1.0.6
+
+The OpFor Linux server will be released tomorrow afternoon - I'll get some
+mirrors in place before the release.
+
+This release includes OpFor CTF (team based multiplayer action - Black Mesa
+Civilians vs. the Opposing Force soldiers).  It also includes the entire
+collection of All-Star deathmatch maps (Fun stuff from great designers
+including Tom "Paradox" Mustaine, David Kelvin, Eric Reuter, Marin "Kndyman"
+Gazzari, Rich Carlson and The Levelord).
+
+Some notes about the Linux version:
+
+* No CD required, just get the Valve HL server and the OpFor server
+* Install clean if you can
+* Otherwise, make sure you delete pak0.pak from the /gearbox directory
+* E-mail zoner@gearboxsoftware.com for comments/questions about the Linux
+  server
+
+Notes about the patch:
+
+* Deathmatch now uses the CTF style grappling hook (use sv_oldgrapple to
+  revert if you liked the old one better)
+* Trip mines don't block doors anymore.  Also, we fixed the problem of them
+  being used as stairs
+* European versions should all be good now.  Sorry about earlier localization
+  issues
+
+So, go and play OpFor Online.  If you enjoy team based multiplayer and
+haven't tried OpFor CTF yet, you're missing out.  If we see enough people on
+the servers, we'll create some more maps for you...
+
+-DuvalMagic
+
+
+********
+03/02/01
+
+About three years ago, when Rebel Boat Rocker was shutting down and we
+began creating Gearbox Software in its wake, I had some time and inclination
+to think about the process of making games.
+
+I began compiling tidbits of information and game development wisdom into
+a single document.  Some of it I stole from the talent I've been working
+with - guys like Brian Martel and Rob Heironimus.  Other bits came from
+tricks and facts I've learned from people like George Broussard, Richard
+Hilleman and Kerry Wilkenson.  Most of it just came from my experiences as
+a game maker.
+
+Since I founded Gearbox, I've been appending lines from the document piece
+by piece onto the end of each of my .plan file entries.
+
+I've decided to just print the whole thing here now for a couple of reasons.
+First, many of the items I've grown to have different opinions about - a
+problem that is likely to get worse in time if I don't share everything.
+Second, I think that just about every other developer who's reflected on the
+process of game making probably has great insignt and may want to contribute
+to such a list if invited.  Finally, it's not a terribly long list.
+
+So, below is my list of "Game Development Rules and Observations." If you'd
+like me to add something to the list, feel free to e-mail me. Before too
+long, I'll probably re-print everything somewhere.
+
+
+(+ indicates that the item has already appeared in one of my .plan updates)
+
+
+Game Development Rules and Observations
+
++ Pitchford's Law of Production: The accuracy of the release date directly
+  correlates to confidence in the schedule. Without a schedule, there is
+  zero precision in the release date.
+
++ Building a smaller game that is very solid is better than building a
+  huge game that is broken.
+
+- The interface to the game is an obstacle - not a feature.
+
+- Getting feedback from interaction with the game is the whole point.
+  The more rewarding, interesting, unique, beautiful and smart the
+  feedback is, the better the experience.
+
++ The more work (installation, learning, cut-scenes, etc) a new player
+  has to sift through before getting to the actual game the less likely
+  that player will eventually find fun in their experience.
+
++ Always preceed challenge with incentive. Always follow challenges with
+  feedback.  A player must profit from both success *and* failure.
+
+- Do not follow whatever the most respected game of last year was by
+  making the same game and thinking that you can do it better - unless
+  you're making an add-on pack :)
+
++ Remember that you cannot build the game alone. Learning how to
+  successfully interact with your team is often more important than
+  any individual person's creative talent.
+
+- Work with the publisher's marketing people.  They exist to sell your
+  game.  If they like you and care about you, they will put more effort
+  into selling your product.
+
++ Law of FPS deathmatch design: Always make the default weapon a hitscan.
+
+- Sometimes design balance is bad.  Imbalance creates ease or difficulty
+  which can reduce or amplify the sense of accomplishment from success.
+
++ Try not to sweat the little things.  Spending half a day arguing over
+  the color of a character's eyes is counterproductive. Such things rarely
+  affect sales, or the overall response to the product.
+
++ Keep mind of the big picture.  A developer who spends too much time
+  perfecting a tiny piece of the game risks not being able to deliver
+  the whole.
+
++ Focus on your tasks.  Do not allow yourself to worry too much about
+  how everyone else you work with is doing (unless that's your role).
+
++ Things usually take about twice as long as you think they should.
+
++ If you can't find fulfillment in a job as challenging and rewarding
+  as this one, get help. You're probably suicidal.
+
++ This is a really hard one:  Don't burn bridges.  You never know who
+  you're going to have to work with again.  We're all usually guilty
+  of this at least one time before we figure it out.
+
+- Martel's Law of human nature: It's always fun to blow stuff up.
+
++ Amongst the passionate developers who really care about games remember
+  that there are no perfect people, but there are plenty of perfect
+  intentions. Therefore, be considerate of others mistakes.
+
+- Treat others who seem to be slacking with the patience and
+  understanding you'll need when you hit a creative slow point.
+
+- Learn to harness the creativity of those who don't conform in the
+  expected ways.  That guy with the colored hair may look at things
+  differently.  This can be valuable if it can be leveraged.
+
+- Be careful about working with antisocial people.  Often there are
+  reasons why people need to build their identities around strange
+  appearance or behavior.
+
++ Play games.  Play them as much as you make them, if you can.  Be
+  suspicious of the game developer who doesn't play games.
+
+- Game development is about decisions - often with sacrifices.  Allow
+  sacrifices and you will ship your title. Sacrifice too much and your
+  title may fail.  Decisions.
+
++ Assume there will be staff changes during a project.  Think about how
+  a project can adapt if any given member of the team goes away.
+
++ Resource redundancy is a tool.  It can boost moral for workers doing
+  a technically difficult job, but it can lower moral in a system that
+  is expected to be predictable.
+
+- Be careful about attaching a movie or book franchise to a game. The
+  franchise cannot carry the product, but it can get everyone's
+  attention.  If the game is great, it has a strong chance of succeeding.
+  If the game is bad, it will fail miserably.
+
++ Be respectful of competitive development studios.  Some of your best
+  talent may come from there.
+
+- It's okay to be somewhat open with employees about where people stand.
+  No one feels good about the co-worker who doesn't seem to do anything
+  until they learn he's not getting paid very much.
+
+- It's okay to be open with your employers. They'll respect you more if
+  you're honest about the things that concern you.  A predictable resource
+  makes an employer much more comfortable than a loose cannon.
+
++ Don't automatically shun something just because it's easy.  Purists in
+  this business are only hurting themselves.  If a cheap tool or hack
+  trick gets the job done, the job is still done and end users will often
+  be just as satisfied with the end result.
+
++ Understand the limit of quality. Quality is subjective and can be
+  endlessly pursued. Knowing what is 'good enough' is key. Remember that
+  the Mona Lisa only covers 3/4 the canvas the artist originally set out
+  fill.
+
+- Be friendly and respectful to everyone you meet.  You never know how
+  important someone will become in time.  This business changes radically
+  very quickly.  Bill Gates was nobody in 1971.
+
+- When you stop learning, you lose your value. Don't be afraid to learn
+  from the talent around you.  Always learn from your own experience and
+  by watching the experiences of others.
+
++ The 'formula' for a successful game is simple, but it's not what you
+  think. At any given second of the game, if the player is gratified by
+  their experience to the point where they want to play more, you've
+  got it.
+
+- Big flashy introductory movies based around a company logo are usually
+  not considered entertaining by the player. I suppose they manage to
+  make their way into titles because they help the game makers feel
+  proud of their label.  Building brand recognition is valuable, but
+  don't over do it - especially during the game.
+
++ The only thing worse than a player finding it difficult to cleanly
+  uninstall or remove a program from the computer is the fact that the
+  player felt compelled to delete the game in the first place.
+
+- Try not to make extremely important decisions instantly. These often
+  occur near the end of a painfully long brainstorming session and they're
+  nearly always regretted the next day.
+
+- Things only get done if people do them. Doing stuff is better than not.
+
++ Misdirected effort is wasted effort. Everyone on a team must have the
+  same goal.  The goal should usually involve actually finishing the title
+  and having it be a good one.  Seems simple, but it often doesn't work
+  that way.
+
+- If goals feel unreachable to a team, they may never be reached. Perhaps
+  the most powerful ally towards a successful title is confidence. If a
+  person or team lacks confidence, some sort of change is mandatory or
+  the project will be met with failure.
+
++ All games involve challenge. Challenge implies work. Work is not a
+  synonym for fun. This is the fundamental hurdle of a game designer.
+
+- Some of the basic instincts that cause you to want to do your job (or
+  anything else for that matter) are the same instincts that should be
+  manipulated by your game. Human nature is what must be understood by
+  a designer.  Always be aware of how your human nature drives you and
+  try to put those elements into your game.
+
+- If you know something that you can do to make the title better, you
+  cannot assume that eventually someone else will ask you to do it. You
+  must first make your talent and skills known to your team-mates and
+  managers.
+
+- If someone you work with thinks something in the game isn't very good,
+  chances are it will bother some customer somewhere too. Conversely, if
+  someone on the team really likes something in the game, it will
+  probably be liked by a customer.
+
+- Beware allowing things you do to become to precious to you.
+  Remember, no matter how good you do your job, it can always be done
+  better.  Someone you work with may hold the key, so constantly seek
+  and absorb criticism.
+
+- Always remember who your customers are.  Adding features or content
+  that you hope will impress your game developer peers but cannot be
+  recognized by the average end user is counter-productive.
+
+- If you want to be on a winning development team, start by making your
+  work environment as comfortable as possible for your co-workers.
+
+- Our job is to create experiences that our customers would otherwise
+  not be able to have.  The better we apply the unique power of our
+  medium to that goal, the better chance we as an industry have of
+  monopolizing the world's mindshare for all entertainment.
+
+
+R. Pitchford
+2/18/98
+
+
+-DuvalMagic
+
+
+********
+01/18/01
+
+This week, I joined the CPL Advisory Board.
+
+CPL Website Announcement
+
+Gearbox Software has long been interested in competitive gaming on a
+professional level and has supported many competitive events in the past
+(including CPL events like the Counterstrike tournament at the recent
+Babbages $100,000 CPL event).  
+
+I hope that my association with the CPL will help Gearbox get an even
+greater understanding of the issues associated with high level game
+competitions to help us make our upcoming titles a more solid competitive
+platform.
+
+Since the CPL has been the leading computer game sporting league for some
+time, it is best positioned to continue to push professional gaming forward.<

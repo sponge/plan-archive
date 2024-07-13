@@ -1,0 +1,68 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Tue Apr  4 21:44 (EDT) on ttyp1 from 216.27.43.200
+Mail forwarded to brandon@epicgames.com
+No mail.
+Project:
+Unreal Tournament
+Plan:
+Tuesday, April 4, 2000
+
+I take great exception to the Machinima.com article on "Which Engine?"
+should a mod author choose.  The author of this article certainly didn't
+contact anyone at Epic to qualify their claims.
+
+The author argues that Epic is not putting a huge effort into support
+the user community.  My response is "?"  Maybe I'm not being clear here.
+Epic is actively PAYING mod authors we feel have cool projects.  We have
+also purchased equipment (programs like 3DS Max) for mod authors who have
+shown us cool work.  While we can't pay for every mod under the sun, we
+are working hard to create an active scene.
+
+I've personally written a TON of documentation on UnrealScript and programming
+issues for mod authors.  In addition, every Epic employee answers emails
+about mod development related questions.  Shane Caudle runs a UT model
+information site, James Green is preparing a UT related art information
+site (epicknights.com), and Jack Porter, Steve Polge, and I are extremely
+active on the UnrealScript at eGroups discussion list and the Epic hosted
+UT Mods development discussion list.
+
+Had the author of the Machinima article approached Epic or asked scene
+developers about their experiences with us, they probably would have
+painted a different picture.
+
+I will continue to work on documentation for the Unreal engine as will
+everyone else at Epic.  However, we are ALL available on a lot of
+different mailing lists, and discussion forums (many of which we host).
+
+I highly suggest the UnrealScript discussion list at eGroups if you are
+interested in UT mod development and the OpenUT discussion list at
+sourceforge if you are interested in Linux related UT hacking.
+
+Finally, Jack, Steve, and I are all available through email if you have
+any mod development related questions.  Every question might not get
+answered because we do get busy sometimes, but I definitely try to answer
+what I get (and I forward a lot to Tim).
+
+
+---
+
+A 413 for Linux is in testing with a few of our server operators from
+the UTServers mailing list.  This version of 413 does not include any
+code from OpenUT.  I will probably release this patch in delta compressed
+and non-compressed format.
+
+I am going to talk to Daniel Vogel about releasing an OpenUT enhanced
+413 afterwards.  I was integrating the CVS features, but I can't test
+them all and I am running short on time.  The programmers who have
+contributed to OpenUT have gotten a LOT of stuff in great shape.
+
+They've added support for music, a much less cpu intensive mixing scheme,
+support for control through SDL, support for MesaGL through SDL, and lots
+of stability features.  All of this code is available through the OpenUT
+website, openut.sourceforge.net.
+
+There will also be a new public source distribution to follow the 413
+Linux release.
+	
+    

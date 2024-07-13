@@ -1,0 +1,65 @@
+
+Welcome to Linux version 2.0.0 at lith.com !
+
+  5:12pm  up 109 days, 9 min,  0 users,  load average: 0.01, 0.01, 0.00
+
+Login: billv          			Name: Bill Vandervoort
+Directory: /home/billv              	Shell: /bin/bash
+Never logged in.
+No mail.
+Plan:
+1/20/98
+
+Two updates in six days! That's a record for me, I think. This will be a short one, though. Apparently a minor fire started on the Blood forum... the general reaction to the Blood 2 screenshots recently released on OGR is: "Looks cool, but too much like generic future stuff. We want 1920's Blood!" Allow me to give my quick response...
+
+Some of those screenshots could be from a generic future shooter game. I won't argue that. They certainly look blocky and industrial, coated with the grime and polychromatic oils that most bleak future settings are fond of. However, if you assumed simply from those screenshots what the rest of the game was like, I would have to liken that to mistaking stills from Blade Runner for scenes from... oh, say, Circuitry Man. I suppose most of you haven't been desperate enough in the video store to actually rent that movie, but I think you still get the point. :)
+
+Blood 2 has a *very* broad variety of settings, and each one plays a crucial role in the game's story. Some of you have mentioned that the original Blood had much in common with pulpy/campy horror, and that having that genre as a reference base was wonderful. Blood 2 has it's reference base as well, but that will become clearer with time. I will tell you this, though... before I play through the gold master of Blood 2 for my own enjoyment, I think I'll sit down and watch The Crow, Judge Dredd, and Carpenter's The Thing to get me in the right frame of mind. ;)
+
+1/14/98
+
+Phoo! It's pissing down rain in Seattle. Again. Good thing I like it. :) Somehow that reminded me to make a plan update... so, being the lame plan author that I am, I think I'll borrow (steal) a topic from some of the other level designers here and talk about the game I enjoyed most in '97.
+
+But first, Blood 2. :)
+
+I've gotten a couple of "finished" levels under my belt so far. I have my gripes with them on an individual basis, but having them together is great because it makes the episode I'm working on start to feel more cohesive. Sure, I have most of the events and layouts already roughed out either on paper or in the engine, but it's when I've spent enough time on the levels to start seeing my own style show through that I really feel like I'm working with something. Not so strangely, it's the same kind of feeling I get when I execute any kind of art. The first pass, or "underpainting," if you will, always looks like shit, but contains the work's fundamental layout. As I add layer after layer of paint (or more strokes of charcoal, washes of india, etc.), the forms are honed and more adequately expressed. With each pass, my style also becomes more and more evident. This all applies to level design verbatim... I start with a shell, make a detail pass, a texture & lighting pass, an object pass, event pass, etc. ad nauseum, stepping back once in a while to take the thing in as a whole and make sure I'm not focusing on any one particular area too much or letting any areas grow out of control. (I've been semi-following Charlie Wiederhold's "Big Map" saga and was interested to find out that he's also experienced that little phenomenon. I'm sure a lot of level designers have had things grow out of control on them, but it's good to see and hear about it as well, so that I don't consider myself such a level design freak when I ponder things like, "Gee, instead of just the facade of this castle, I'll build every last spire, buttress and minaret! And yeah, castles had these mile long escape tunnels back then too, that wouldn't take me more than a few hours to add...")
+
+Master of the obvious, that's me. Well, on to what you're probably really interested in, since you read this far... and that would be my eminently flame-able (flammable?) opinion about games in '97.
+
+Gasp! The game I most enjoyed was not Quake 2! Q2 was/is good and fun, and certainly very beautiful, but the overall experience was nothing new. This isn't a criticism that singles Q2 out, of course. It's your standard (though well-executed) minimum-plot 3D-shooter, and 3D-shooters have been pretty much done at this point. I didn't start up a game, pick up a gun, point it at some unlucky sod, vaporize his head and think to myself, "Woah, this is revolutionary!" No, the game I enjoyed *most* wasn't a 3D-shooter. It was, in fact, Myth: The Fallen Lords. M:TFL isn't your standard RTS game;  There is no resource management, no unit production, and very little lame AI. Basically, what you do is push a pre-determined number of toy soldiers around a battlefield and try to accomplish story-based goals. However, if you lose a guy, well... that's it. One guy down, nine left. Puts a little more emphasis on the "strategy" in "real-time strategy," doesn't it? In your normal RTS, you'd build a squad of scout planes, throw them in your enemy's direction and have them uncover as much fog of war as they could before they were inevitably annihilated. Very matter-of-fact and impersonal. And hey, I'd have to guess that war is like that from a general's perspective. M:TFL really tries a new take on things, though. Each member of your unit has a name... and if one of them dies, you simply can't wait until your factory squirts out another archer. You have to adapt and make do with what you have left. I have to admit, I was a bad M:TFL player at first. I rushed into combat with everything I had, unprepared for the unforgiving realism. My swordsmen charged, the enemy javelin-hurlers retreated to higher ground where they could pick the swordsmen off with ease. As they died, their individual screams could be heard and the snow become soaked with their blood. "Hm," I thought, "That's not good." So I sent the surviving swordsmen into a full retreat and had them take a scattered formation behind some nearby trees, where they'd be mostly safe from javelins. (The javelins actually bounced off the trees and stuck in the snow.) The enemy undead shambled down from the hill, treading over my troops' remains, and once again blocked the pass that I needed to clear. It's funny, but I never thought a sprite could look so gloating and cocky. But sure enough, I was getting pissed at these things. So, I decided that I'd have to take care of the javelin dudes with my archers. My archers walked up and began firing, and they managed to take one of the hurlers out. Elwas the Unruly shook his fist and yelled , "That was mine!," eliciting a momentary surge of morale. So, assuming that I had figured this out, I told my archers to pursue and kill the rest of the javelins. The javelins started to retreat. Now, in any normal RTS, the enemy AI performs a retreat when it's losing. But in this case, only the javelins were moving back... towards the bulk of the enemy undead force. Once again... "Hm, that's not good." Sure as shit, when my archers stepped over that invisible line, the enemy knew they had me. I sent my archers back, but it was in vain. A detachment of zombies pursued them, and, being faster, managed to hack them to bits. Elwas the Unruly's stupid grin now lay in the snow in two bloody halves. (I think part of me wanted to see that happen, simply because it could.) After that moment I had a lot more respect for the capabilities, physics and tactics of the units in M:TFL, much moreso than in your average RTS. None of "your guys" have freeze-rays, or death-beams or magic swords. They're all pretty plain, in fact. But to me, that just adds charm to the game. Instead of commanding your generic D&D dream-team, you are in charge of a rag-tag collection of desperate soldiers who would cook soup in their boots if they had to. The missions are epic as well, and narrated from the point of view of a soldier in the army. Sometimes you know how the rest of the war is going, at other times you are cut off and have to keep your troops alive until reinforcements find you. I was well-immersed in the game's Tolkien-esque setting, thanks to the great story, exciting gameplay and incredible graphics. (You have not tasted realism in a computer game until you've tracked undead footprints across gorgeously-rendered snow dunes in M:TFL.)
+
+Well, I could go on for quite some time about that game. Other games in '97 were fun, some were even a *lot* of fun, but none drew me in like M:TFL. I can't wait for the next installment. :)
+
+
+8/17/97
+
+Blood 2
+
+More work on the prototype completed, though over the past week I spent an equal amount of time on my "other project." More on that at a later date, perhaps... :)
+
+Other Stuff
+
+Event Horizon - Great set design. Decent direction and casting. Abysmal plot. Rent or matinee. Better yet, go read a book.
+
+My sisters are in Seattle for a few days, spent some time showing them around this weekend. It's good to climb out of the dim hole that is my office once in a while and see the city around me, as it's a pretty cool place.
+
+
+
+
+
+8/4/97
+
+Blood 2
+
+Level development is coming along pretty well. I'm pleased with the themes we've chosen to use, and I think we'll hit them dead-on. Very few games cause actual terror; dread, loathing, and jump-out-of-your-seat surprises sure... but terror is the high mark that is only rarely reached. Blood 2 will take you there. Subtle preludes of things familiar juxtaposed in unsettling fashions will suddenly give way to unfathomable abominations. :) Punctuate that with new heights in creative death-dealing and you've got an inkling of what the game will be like.
+
+(I am beginning to wonder if our artists are in communion with eldtrich intelligences. The skill, vision and fervor they demonstrate has only been known to grace humanity when such ancient beings intercede. I will keep my suspicions to myself for now.)
+
+Other Stuff
+
+Saw Gwar on Friday at the RCKNDY... I must have lost five pounds from the heat, but it was worth it. It's not often that one gets the chance to bathe in the glory (among other things) of our planet's soon-to-be conquerors.
+
+Turned 24 on Saturday. Yay.
+
+Watched part of Brazil last night on A&E. I wasn't sure which cut it was, so I turned it off a good hour before the end. Just too depressing. Sad, eh? ;)
+

@@ -1,0 +1,44 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: mustaine
+Plan modified: Thu Sep 28 17:27:02 2000
+
+You've reached Tom "ParadoX" Mustaine @ Ritual Entertainment:
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  Yadda yadda blah blah blah                 *
+************************************************************************
+
+Thursday, September 28, 2000
+
+[. FAKK2 Arena - A call for maps .]
+
+We are hard at work putting together FAKK2 Arena for public consumption, but we
+can always use more maps!  Sooo....
+
+Anybody interested in getting their maps put into the official release of
+FAKK2 Arena, please send me your maps.  For specifications on what you need
+to create a map for FAKK2 Arena, check out http://www.ritual.com/FAKK2/arena.html.
+
+Please limit the number of arenas in a single map to 4 unique arenas.  On 
+average, most arenas should have 3-4 battle areas, each with a different weaponry
+choices and themes.
+
+Also, please use textures we shipped with the game. 
+
+Once finished, All I will need is the .map/.scr and other relevant files, we will compile
+the maps here.  
+
+Any questions, email me.
+
+
+[. Doom2 Tourney .]
+
+Wish me luck in my Doom2 ownage at Frag4 tomorrow!
+
+
+"Good. Bad. I'm the guy with the gun!"
+Tom Mustaine
+mustaine@ritual.com

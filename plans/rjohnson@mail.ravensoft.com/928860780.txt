@@ -1,0 +1,5 @@
+6/8/99
+   Raven will be switching ISP tomorrow.  We will be changing our Class C IP
+      address.  Mail should hopefully work through out this, but if you do get
+      an item which bounces, please try sending it again after a few days.  Other
+      services, such as finger or www2 may be do

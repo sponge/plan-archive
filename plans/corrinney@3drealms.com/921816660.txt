@@ -1,0 +1,16 @@
+Account Name:  Corrinne Yu
+Email address: corrinney@3drealms.com
+----------
+03-18-1999
+I recently sent off a batch of email responses. It may take up to 2 months + for me to respond to email you send me. I do like hearing from "most" of you. :)
+Coded several cool new 3D engine "things" (not telling ya ;p yet ), and spent the last couple of days to make all of them go "very fast". (Some of them were very sloow when I first put them up.) And coded several "givens." Onto coding more "givens" and more "new things."
+The new 3DR engine I am coding does not use and is not based on Prey code. It does not use portal nor BSP for visibility. It uses CCP. What it stands for, I am not telling yet. ;p Though the letters really do stand for something. (Hint : they are mathematical terms.)
+The code, or rather system, I am building now is more useful, less hackful, and more innovative/creative than what I could do hacking (and losing :( ) pieces here and there into Q2.
+Am not going to show new engine for E3. All of you should check out and concentrate on Duke Nukem Forever, which is going to be a very fun game at E3!
+Almost the entire company is working on DNF, except for Tom helping me out. DNF would be very fun. There would not be a word of info on the new engine, not a picture of screenshot of the "new game", until DNF is near shrink wrap. :)
+
+12-10-1998
+I have started my job of Lead Technology Programmer at 3DRealms.
+Please start sending mail to my new address at corrinney@3drealms.com.
+	
+    

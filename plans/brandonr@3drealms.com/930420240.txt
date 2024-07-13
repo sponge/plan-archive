@@ -1,0 +1,25 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+On since Thu Jun 24 19:23 (EDT) on ttyp0 from 216.27.43.214:0.0
+   5 days 9 hours idle
+On since Thu Jun 24 03:15 (EDT) on ttyp1 from 216.27.43.214:0.0
+   1 day 23 hours idle
+On since Thu Jun 24 19:23 (EDT) on ttyp2 from 216.27.43.214:0.0
+   7 hours 28 minutes idle
+Mail forwarded to brandon@epicgames.com
+Mail last read Sun Jun 13 13:06 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Brandon "GreenMarine" Reinhart
+Unreal Team Programmer
+Epic MegaGames, Inc.
+
+Saturday, June 26, 1999
+
+4:48 AM
+
+"I pity the foo who uses anonymous structs inside unions."
+ - Mr. T.
+	
+    

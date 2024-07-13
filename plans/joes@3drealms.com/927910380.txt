@@ -1,0 +1,17 @@
+Account Name:  Joe Siegler
+Email address: joes@3drealms.com
+----------
+4:20 PM 5/27/99
+
+Work Stuff:
+
+1) Testing 1-2-3.  Making sure this finger service is still picked up with the new DNS propogations.
+
+2) Our websites are all moved over to the new server.  All web sites have had their DNSs updated, and you should see the correct info if you go to http://www.3drealms.com.  If you don't, bug the people who take care of your DNS to update.
+
+
+Other Stuff:
+
+1) Does anyone know of any kind of web based service that will email you comic strips daily to your inbox?  I'm talking about the majors like Dilbert, etc...   Best I can find is to set up IE5 to scan daily for changes, and email the page to you.  Was wondering if there was any other way to do it.
+
+2) OH DEAR GOD!  I just read they're making a damned PARTRIDGE FAMILY movie!   Help!  Someone blow up Hollywood even if it means the Duke Nukem movie never gets made!  ACK!

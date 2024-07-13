@@ -1,0 +1,125 @@
+[idsoftware.com]
+
+Login name: xian      			In real life: Christian Antkow
+Directory: /raid/nardo/xian         	Shell: /bin/csh
+Last login Wed Jul 23 17:04 on ttyp3 from underworld.idsof
+Plan:
+
+
+
+
+ Friday: Got five monsters into the game this week, and hope to have 
+another one programmed in later on tonight. They are really looking great.
+
+ We'll be doing a code merge tommorow night, so hopefully, we'll be able to
+start placing this batch of monsters into the game then. Really looking forward
+to seeing what kind of evil AI John Cash has cooked up in the past few days.
+
+ Things are moving right along and everyone's really busting their asses.
+
+ With respect to the batch of screenshots that I released today, I just wanted
+to answer some questions I saw people had on 3DNet #quake.
+
+ frame1: The monster you see is monster_infantry (aka: Paul Steed). The weapon
+         is the rocket launcher. This is one of Tim Willit's base levels
+         which appear near the start of the game.
+ 
+ frame3: The monster is monster_soldier (There are three different variations
+         of this monster, with varying degrees of toughness and each of them
+         has a different attack. The weapon that the player is holding is
+         the grenade launcher. This is one of American's levels, The Factory,
+         where the aliens chop up captured humans and turn them into cyborgs =)
+
+ frame5: a monster_soldier with his back turned to you. This is one of Tim
+         Willit's base levels which appear near the start of the game. Notice
+         the gorgeous sky with the mountain range in the background.
+
+ Hope this answers your questions. Back to work for me...
+
+---
+
+ Got two more monsters coded into the game last night, and I did a bit more
+work on my last map. I think I can safely say, I've set a new record for the 
+longest vistime on any single map.
+
+ 12.6 hours spent just in VIS on our Origin 2000 machine.
+
+---
+
+ I've pretty much finished all my map work for Q2 (architecturally anyway),
+and now I'm working with John Cash in getting all the remaining game code
+implemented and working (monster code, weapon code, etc...) It'll be refreshing
+to work with standard C code in a real development environment instead of QC 
+for a change =)
+
+ I've also recieved a number of e-mails about DM 4.0 rules. Alot of people
+like it for the simple "carnage factor" and yet others don't like it.
+That's why it's called an "option". You don't have to run it if you don't want
+to, but it's mindless fun once in a while. Still going through and tweaking
+the odd rule here and there.
+
+ On another note, someone sent me e-mail with regard to a deathmatch mod
+called FairDM.
+
+"Hi. I released a patch called "FairDM" a few days ago. (about 4
+or 5) In it you had all weapons and unlimited ammo (sound
+familiar ). I know this sounds crazy, but I can't help
+myself from asking you to mention me in your next plan for
+having the same idea. OK, that's all Mr Crazy has to say :).
+
+[FA]Tex-Murph"
+
+ It's funny how two people can think so alike.
+
+ 1:16am... My night is just starting... /me goes back to work.
+
+---
+
+ Man... It's talking me 3 hours to vis my latest map on all 16 R10k's =(
+*sigh* But at least it's a pretty cool looking outdoor/cavy type area.
+
+ Here are some of the more recent additions made to DM 4.0 rules (and for
+everyone who e-mailed me about it, yes, it will be released with the next
+version of QuakeWorld)
+
+ More Deathmatch 4.0 Addendums:
+ ------------------------------
+
+	- You start with 250 health
+	- You start with 200 red armour
+	- Every time you pick up an enemies pack, you get 10 additional
+	  health
+	- For obvious reasons, weapons and ammo do not spawn
+	- If you pick up enough packs to attain 300+ health, you automatically
+	  attain a free "Bonus Invulnerability" *AND* "Bonus Oct". You lose
+          all your cells during the duration, and when it wears off, you
+          regain your cells, and are reduced to 100 health and no armour.
+        - When you pick up a Quad, you lose all your armour, lose your cells
+          but you do *8 TIMES* (OctaPower) as much damage. When it wears off, 
+          you regain your cells, and are reduced again to 0 armour.
+	- The grenade launcher is back (temporarily). We're testing some
+          new rules due to popular demand.
+          The grenade launcher fires every 1.5 seconds and you lose 2 health
+          points for each grenade you fire.
+
+ (Oh, and incase you are wondering WTF I am doing this, well, if it works out
+we'll have a similar idea for a deathmatch mode in Quake II. Doing this as a 
+proof of concept)
+
+---
+
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+ This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, damage from improper .planfile reading, incorrect line voltage,
+improper or unauthorized use, broken antenna or marred cabinet, missing or
+altered serial numbers, electromagnetic radiation from nuclear blasts, sonic
+boom vibrations, customer adjustments that are not covered in this list, and
+incidents owing to an airplane crash, ship sinking or taking on water, motor
+vehicle crashing, dropping the item, falling rocks, leaky roof, broken glass,
+mud slides, forest fire, or projectile (which can include, but not be limited
+to, arrows, bullets, paintballs, shot, BB's, shrapnel, lasers, napalm, 
+torpedoes, or emissions of X-rays, Alpha, Beta and Gamma rays, knives, 
+stones, etc.). 
+

@@ -1,0 +1,280 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 3 Arena
+Last Updated: 11/22/1999 19:47:28 (Central Standard Time)
+-------------------------------------------------------------------------------
+11/22/99
+--------
+d:\>mkdir research
+
+Ahhhh....
+
+I am very happy with how Q3 turned out.  Probably more than any
+game we have done before, it's final form was very close to its
+initial envisioning.
+
+I will be getting all the Q3 code we are going to release together
+over the next week or so.  I will write some overview documentation
+to give a little context, and since you can do game mods without
+needing a commercial compiler now, I will write a brief step-by-step
+to modifying the game code.
+
+I'm looking forward to what comes out of the community with Q3.
+
+The rough outline of what I am going to be working on now:
+
+We will be supporting Q3 for quite some time.  Any problems
+we have will get fixed, and some new features my sneak in.
+
+I have two rendering technologies that I intend to write research
+engines for.
+
+I am going to spend some time on computer vision problems.  I think
+the cheap little web cams have some interesting possibilities.
+
+I am going to explore some possibilities with generalizing 3D game
+engines into more powerful environments with broader uses.  I think
+that a lot of trends are coming to the point where a "cyberspace" as
+it is often imagined is begining to be feasible.
+
+I am going to spend more time on some Free Software projects.  I have
+been stealing a few hours here and there to work on the matrox glx
+project for a while now, and it has been pretty rewarding.
+People with an interest in the guts of a 3D driver might want to look
+at the project archives at http://glx.on.openprojects.net/.
+The web pages aren't very up to date, but the mailing list covers some
+good techie information.
+
+
+
+11/21/99
+--------
+* fixed not-telefragging bug
+* disabled flood protection with local clients
+* fixed headoffset and gender on some model changes
+* init cg_autoswitch cvars in cl
+* fixed clearing of vm bss on restart
+* fixed hang when looped part of song isn't found
+* fixed two NAT clients connecting to same server
+* fixed warning on random once only triggers
+* added "g_allowVote 0"
+* added developer background sound underrun warning
+* move sound loading before clients so low memory
+	defer works across maps
+* changed cgame load failure to a drop
+
+
+11/18/99
+--------
+Linux version isn't going to make it tonight.  We got
+too busy with other things.  Sorry.  Tomorrow.
+
+* shrink zone, grow hunk
+* flush memory on an error
+* fixed crash pasting from clipboard
+* test all compiler optimizations -- 5% speedup
+* fixed major slowdown in team games with large
+	numbers of players and location markers
+
+
+
+11/17/99
+--------
+The mac version is out.  Go to www.quake3arena.com for links.
+
+The mac version going out has the executable fixes that we
+have made in the last couple days, but most of the fixes
+have been in code that runs in the virtual machine, and we
+can't update that without making it incomptable with the
+pc version.
+
+The game remains very marginal in playability on 266mhz imacs
+and iBooks.
+
+A 333mhz imac should be playable for a casual gamer if the
+graphics options are turned down to the "fastest" setting.
+
+There is still a lot of room for improvement on ATI's side
+with the RagePro drivers.  Almost all the effort so far
+has been on the Rage128 drivers.
+
+The G3 systems run fine, but a little slower than a pc of
+equal mhz
+
+The rage128 cards in the G3s are only clocked at 75mhz, so
+you can't run too high of a resolution, but you can get
+very nice image quality.  I usually play with these settings:
+r_mode 2	// 512*284 res
+r_colorbits 32	// 32 bit color
+r_texturemode gl_linear_mipmap_linear	// trilinear filtering
+
+I haven't played on one of the new iMacs or G4's but they
+both use the rage128 driver, which is fairly high quality
+now, so they should perform well.
+
+We found a fairly significant problem with inputSprockets and
+mouse control (motion is dropped after 40msec).  I have done a
+little working around it, so mouse control should be somewhat
+better in this version, but it will hopefully be fixed
+properly by Apple in the next IS rev.  It isn't an issue if
+your framerate is high enough, but iMacs never see that
+framerate on their very best days...
+
+Linux version tomorrow night, if nothing horrible happens.
+
+Some advance warning about something that is sure to stir
+up some argument:
+
+We should be handing off the masters for all three platforms
+within a day or two of each other, but they aren't going to
+show up in stores at the same time.  Publishers, distributers,
+and stores are willing to go out of their way to expedite the
+arrival of the pc version, but they just won't go to the
+same amount of trouble for mac and linux boxes.
+
+THE EXECUTABLES FOR ALL PLATFORMS WILL NOT BE AVAILABLE FOR
+DOWNLOAD UNTIL AFTER CHRISTMAS.  This means that if you want
+to play on the mac or linux, don't pick up a copy of the pc
+version and expect to download the other executables.
+
+Our first update to the game will be for all platforms, and
+will allow any version to be converted into any other, but
+we intend to hold that off for a little while.
+
+We are doing this at the request of the distributors.  The
+fear is that everyone will just grab a windows version,
+and the separate boxes will be ignored.
+
+A lot of companies are going to be watching the sales
+figures for the mac and linux versions of Q3 to see if
+the platforms are actually worth supporting.  If everyone
+bought a windows version and the other boxes sold like crap
+in comparison, that would be plenty of evidence for most
+executives to can any cross platform development.
+
+I know there are a lot of people that play in both windows
+and linux, and this may be a bit of an inconvenience in
+the short term, but this is an ideal time to cast a vote
+as a consumer.
+
+Its all the same to Id (I like hybrid CD's), and our continued
+support of linux and mac (OS X for the next title) is basically
+a foregone conclusion, but the results will probably influence
+other companies. 
+
+* fixed getting your own dropped / kicked message
+* added developer print for all file open write's
+* fixed occasional bad color on connecting background
+* fixed occasional telefrag at start of skirmish game
+* fix not being able to ready at intermission if
+	you were following a bot
+* never timelimit during tourney warmup
+* fixed local timer on map_restart
+* offset sorlag's head model for status bar
+* added g_gametype to the votable commands:
+	map, map_restart, kick, g_gametype
+* changed sound registration sequence to fix losing
+	default sound
+* "sv_floodProtect 0" to turn off flood protection
+* converted sequenced messages to static arrays
+* fixed custom skin reassignment on all LOD
+
+
+11/16/99
+--------
+The demo servers have general purpose flood-protection that has
+caused some confusion.
+
+Clients are only allowed to make one command a second of any kind.
+This prevents excessive flooding by chats, model / name changes,
+and any other command that could possibly be exploited.  The
+command streams are stalled, so it doesn't have any effect on
+processing order or reliability.
+
+This means that if you issue two commands immediately after one
+another, there will be a one second stall before the second
+command and all movement clears.  You see this on the lagometer
+as yellow spiking up for a second, then dropping away.
+
+Hitting tab for the scoreboard sends a command, so you trigger
+the flood protection if you bang tab a couple times.  This has
+been fixed so that the scoreboard will never send more than
+one update request every two seconds, but you will need to
+watch out for it in the existing demo.
+
+
+The defered model loading has also caused some confusion, but
+that is a feature, not a bug. :-)
+
+In previous tests, you hitched for a second or two whenever a
+client with a new model or skin joined a game.
+
+In the demo, when a client joins the game they will be given
+the model and skin of someone else temporarily, so there is
+no hitch.  The only time it will hitch on entry is if it is
+a team game and there isn't anyone on the team they join.  I
+make sure the skin color is correct, even if the model isn't.
+
+These "defered" clients will be loaded when you bring up the
+scoreboard.  You can do this directly by hitting tab, or you
+can have it happen for you when you die.
+
+The point is:  you died BEFORE it hitched, not as a result of
+the hitch.
+
+The scoreboard header is up, but it is still a bit easy to miss.
+
+
+* fixed high server idle cpu usage
+	(it was spinning in place until maxfps was used!)
+* fixed g_password, which is crashing in the demo
+* moved svs.snapshotEntities to the hunk
+* enable lagometer whenever running a non-local game
+* cg_drawTeamOverlay cvar, set to 0 by default
+* finished authorize work
+* better reporting of unused highwater memory
+
+
+11/15/99
+--------
+The way vertex lighting is working in the existing demos is that
+only two pass shaders (lightmap * texture) were collapsed to a
+single pass, all other shaders stayed the same.
+
+Xian added some chrome and energy effects to parts of q3tourney2,
+which changed them from two pass to three pass shaders.  We felt
+that that 50% increase on those polygons was justified in normal
+play, but as people have pointed out, when you are playing with
+vertex lighting, that three passes stays three passes instead
+of collapsing to a single pass, resulting in a 300% increase
+on those polygons over the way it was before.  Still faster than
+lightmap mode, but a large variance over other parts of the level.
+
+Today I wrote new code to address that, and improve on top of it.
+
+Now when r_vertexlight is on, I force every single shader to a
+single pass.  In the cases where it isn't a simple light*texture
+case, I try and intelligently pick the most representative pass
+and do some fixups on the shader modulations.
+
+This works our great, and brings the graphics load down to the
+minimum we can do with the data sets.
+
+Performance is still going to be down a couple msec a frame due to
+using dynamic compilation instead of dll's for the cgame, but that
+is an intentional tradeoff.  You can obviously slow things down by
+running a lot of bots, but that is to be expected.
+
+I am still investigating the high idle dedicated server cpu utilization
+and a few other issues.  The server cpu time will definitely be
+higher than 1.08 due to the dynamic compiler, but again, that is
+an intentional tradeoff.
+
+A set of go-fast-and-look-ugly options:
+r_mode 2
+r_colorbits 16
+r_texturemode GL_LINEAR_MIPMAP_NEAREST
+r_vertexli

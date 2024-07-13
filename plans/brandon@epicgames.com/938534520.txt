@@ -1,0 +1,42 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Sun Sep  5 12:24 (EDT) on ttyp1 from tpfl.demon.co.uk
+Mail forwarded to brandon@epicgames.com
+Mail last read Fri Aug 20 17:58 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Tuesday, September 28, 1999
+
+
+Update:
+
+It is not necessary to run the Linux dedicated server as root and you should not do this.
+If you have difficulty starting remote web administration, edit the UnrealTournament.ini
+and change the UT Web Server's ServerPort to something other than 80.  For example you
+might change it to ServerPort=8080 and then connect in Netscape using this URL:
+http://127.0.0.1:8080/ServerAdmin/
+
+
+If you are running Slackware 4 or another libc 5 based Linux distribution, the Linux
+dedicated server will generate a segmentation fault in libpthread.so.  This is because
+the dedicated server was built using glibc 2.
+
+Its very frustrating that Linux distributions can vary so much in such a fundamental way.
+
+Here is a link to the glibc HOWTO:
+http://www.imaxx.net/~thrytis/glibc/Glibc2-HOWTO.html
+
+The HOWTO discusses methods of upgrading from libc 5 to glibc 2.  I really don't know
+how practical upgrading is.  I do know that I don't have the time to install a libc 5
+system and maintain two linux distributions for the purposes of supporting both
+configurations.  From reading the document, it appears that it would not be difficult
+to upgrade, however I am not a Linux guru and cannot give sound advice on the matter.
+I wouldn't want anyone to screw up their system.
+
+On to the good news.  I just played with the Linux client for a long time and all the
+crash bugs seem to be gone.  Its now just a matter of working on ways of improving
+performance.
+
+Hey, wouldn't it be cool if GameSpot had a secure polling system that people couldn't
+use flood bots against?

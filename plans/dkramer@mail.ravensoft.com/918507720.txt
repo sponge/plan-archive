@@ -1,0 +1,91 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Dan Kramer
+Email: dkramer@mail.ravensoft.com
+Description: Programmer
+Project: SoF
+Last Updated: 02/08/1999 16:19:14 (Central Standard Time)
+-------------------------------------------------------------------------------
+2/8/98
+
+-- Important:  the opinions expressed here are mine.  They are, of course, correct, but they do not
+necessarily represent those of Raven, Activision, etc... --
+
+	Hmmm.  Three and a half months since my last update.  I guess with all the utter crap
+I've witnessed on the 'net lately, I've not had much of an inkling to post.  For those of you
+who complain that .plan files contain too much non-work related stuff, I'll start off with some
+S.O.F. stuff.
+	I've been doing bits of work scattered throughout the project the last few months.
+Added the ability for designers/modders to customize monster statistics in a quick and easy text
+file.  The framework is there to keep track of any sort of statistic you could think of, which
+should be a boon to aforementioned designers/modders.
+	Made Rick's scripter talk nicely to the A.I.  The designers have been setting up some very
+convincing situations.  People on patrol, guys jumping out of alleys, you get the picture... 
+	But, I think my favorite stuff was putting in some death animations.  Man, that motion-capture
+stuff looks freaky!  It's even downright disturbing!  Don't want to go into detail about the particulars,
+but I think we may throw out a litte animation video of one I recently put in.  It's comical because
+it's just a game, but yet...  /me shivers..
+	Anyway, those of you who don't want to read non-project related stuff can go away now...
+
+-- Rant mode on --
+
+	Recently, there have been a number of incidents in which people have been exercising their
+right to free speech (well, I'm guessing that most of these of citizens of countries which protect or 
+claim to protect that right) in a less than responsible matter.  For instance, the whole Dallas Observer/
+ION Storm thing bothers me a little.  What bother me are not the amazing feats and wonders that the Observer
+reported on without any apparent bias *cough*.  Nor the completely justified legal maneuvering of Ion Storm
+Legal *cough-cough*.  Those are topics unto themselves which will be left as an exercise for the reader.
+What bothers me is the appallingly large number of people who feel that they can speak with impunity
+about any topic they choose, whether or not they have any actual topical knowledge, because they can do
+it all anonymously.  It is easy to sit here and post, "This guy sucks!" which will be followed by, "No, YOU
+suck!" when you don't have to leave your name.  I mean, how much REAL conviction does it take to form
+some "argument" consisting of a bunch of four-letter words and beastiality references when you know that
+nothing you say will ever be traced back directly to you?  None.  Nicknames don't count.  Unless you are
+willing to engage in a TWO-way discussion, then what's the point?  Does it make you feel better?  Do you
+actually believe that by spouting off some profane nonsense that people can only trace back to the nickname
+"s00per-1337-r0X0R-wAr3Z-d00d-Q2muthakilla-babya$$p0pp3r" somehow makes you right and other people wrong?
+	Now, I know that in any "free" society, there will always be the bad apples that try to spoil the
+whole damn bunch.  But, it seems that on the 'net, whether it be in the game forums, usenet, IRC or 
+what-have-you that the basket seems now to be mostly full of rotten apples.  My guess is this is largely to
+do with the circumstances that tend to characterize your "typical" computer gamer:  less-than-popular in the
+"real" world, so they make themselves out to be some big-shot hiding behind their computer.
+
+Exhibit 1:  Some guy ICQed me a few days ago, asking if I could help him with a C++ question.  I usually
+answer these questions, but I first checked his info page.  He had a link to his home page, so I went.
+On this page, he has posted some "hackers' manifesto."  If you ever need a laugh, read the "hackers' manifesto."
+I don't know if I have ever read anything that screamed out so loudly "I REALLY need to pretend that I don't
+have insecurities by making myself out to be some sort of high-tech ultra cyber-terrorist.  Oh, and I'm 12."
+The page continues with some tripe about how the guy hates newbies and lamers, and you should leave his site
+if you're not up to his caliber.  Hmmm...  This is the guy asking ME for C++ help?  (I did help him, but not
+until I attempted to point out the irony of the situation).
+
+Exhibit 2: 
+This link: http://crowdpleazr.ravenarchives.com/nest.shtml
+
+	Yes, think link happens to involve a story written by a co-worker of mine.  It also happens to mention
+me and my wife.  I'll summarize it by saying that it is essentially a personal attack on Kenn.  The author
+obviously disagrees with an article he wrote, but instead of simply making his/her point, that author resorts
+to number of insults and personal attacks.  The part that bothers me the most is this quote, "Hey you have to
+have a pretty flimsy grasp on reality if a computer game causes you to 'fear'"(poor grammar left in for accuracy).
+This "person" has the gall to accuse my wife, a woman she doesn't know at all of having a "pretty flimsy grasp on
+reality" because a game frightened her?  HELLO!?!  Have you EVER played DOOM2 with the lights out, door closed and
+stereo on?  Isn't the freaking POINT of enjoying a game, a movie, or a book to evoke some type of emotional
+response?  I would say that if you DON'T experience some kind of emotion then either the game is no good or you've
+just spent too much time wrapped up in your little world that you can't even enjoy it anymore.  The article rambles
+on about how Kenn is obviously wrong and she is obviously right and blah blah blah.  There are several remarks
+which seem to put me in less than favorable light, and also don't speak too highly about my wife.  I was considering
+writing a response until I saw the signature at the bottom...  -Sparrowslain-
+
+WHAT?  Sparrowslain?  Either your parents were some VERY interesting hippies or that MIGHT not be your name.  Ms.
+Sparrowslain may claim that since she did put her nickname at the end that it wasn't anonymous, but I beg to differ.
+These remarks will not likely ever be attributed to the human being (I'm guessing) behind the name, so why not go
+ahead and post anything she wants?
+
+This is NOT the only example, nor is it the WORST, but it IS indicative of the crap that spews forth daily on the
+'net regarding the gaming industry.  Just go read the anonymous comments every time John Romero makes a .plan
+update.  I could go on and on, but I have some work to do.  I write games.  Perhaps if some other people weren't
+on the outside looking in, they wouldn't be so bitter and they'd be less likely to childishly fly off the handle. 
+But they are, and there isn't anything I can do about it.
+
+Later,
+Dan  

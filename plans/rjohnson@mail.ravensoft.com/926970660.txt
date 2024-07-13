@@ -1,9 +1,3 @@
 Welcome to Raven Software's Finger Service V1.6!
 
-Name: Rick Johnson
-Email: rjohnson@mail.ravensoft.com
-Description: Ld. Programmer / Network Admin
-Project: SoF
-Nickname: Superfly
-Web Page: Rick's Web Site TurtleCam! mEATwagon Cult
-Last Updated: 05/17/1999 16:42:01 (Central S
+Name

@@ -1,0 +1,166 @@
+Login: randyp         			Name: Randy Pitchford
+Directory: /home/randyp             	Shell: /bin/bash
+Last login Mon Aug  2 10:18 (CDT) on ttyp1 from randy
+No mail.
+Project:
+
+Half-Life: Opposing Force
+
+
+Plan:
+********
+08/02/99
+
+When you haven't recorded voices for a new alien in your game but want
+place holder stuff, I highly recommend using sound bytes of Greedo.
+
+Because of creative coder, John Faulkenbury, and sound guru, Rob
+Heironimus, our Shock Trooper for Half-Life: Opposing Force currently
+speaks Greedo and is the funniest thing I have ever heard in my entire
+life.
+
+It's just too bad we can't leave it in :)  Anyone know Lucas?
+
+
+-DuvalMagic
+
+
+********
+07/30/99
+
+A few days ago, I was demonstrating a build of Opposing Force to some
+nice folks with Imagine (the dudes that publish Next Generation, PC
+Gamer and PC Accelerator magazines).
+
+Anyway, I was running around in a test map the coders created that
+demonstrates the new squad combat we've been developing for Half-Life. In
+a nutshell you can gather up a squad of seven AI soldiers (including a
+medic) and lead them into battle with a horde of Shock Troopers and
+Voltigores (just a couple of the many new aliens in Op For).
+
+It is very cool and all, but the AI squad vs. squad combat isn't what
+suprised me.  I'd spent hours skirmishing in this map long before the
+demo I gave on Wednesday.  But, this latest version had the new medic 
+soldier working like a medic.  He's designed to join your squad and heal
+those who are injured.  Right now it sort of works like a walking wall
+health unit, except that the walking wall health unit is actually a
+soldier who can talk with you, follow you and fire his .357 Desert Eagle
+at enemies.  It's very cool, indeed.
+
+But, the medic was literally dropped into the game the night before the
+demo, so I was looking at it for the first time when I was demoing it to
+the press dudes.
+
+Anyway, as I'm doing the demo, I run through a skirmish with my friendly
+soldier squad attacking the horde of aliens and me running back for
+healing from the medic whenever I get too injured.
+
+The medic happens to be a tough looking black dude.  I was admiring the
+paint job on the model when one of the press dudes asks me to restart the
+map again to try something different in the battle to see what the outcome
+would be - or something like that. 
+
+So I restart the map and immediately go into the room where the medic
+is waiting and everyone in the room (including me) is suprised to see
+that the medic looks different.  There's another version of the medic!
+Instead of the tough looking black dude, he now looks a lot like the
+"Joker" character from "Full Metal Jacket".
+
+I think one of the press dudes said something like, "Whoa... He's different
+now. You guys have variations on these guys!"
+
+And I was like, "Oh yeah. (concealed suprise) Our art deparment is trying
+to make sure that no two NPC's in the game look alike."
+
+Anyway, to make a long story short, many people have asked why all the
+scientists and security guards throughout the Black Mesa facility look
+alike.  The answer, of course, is cloning.
+
+Kidding aside, the answer has a lot to do with memory constraints, artist
+resources, and other complicated issues relating to the development process.
+
+However, since Gearbox has the opportunity to go back and essentially
+make Half-Life an even better experience with the Opposing Force expansion
+we can do things like that.  I'm not sure we'll have time or space to
+make every single NPC in the game unique, but we'll be pretty close.
+
+So, there's many versions of each type of soldier.  There's many versions
+of just about every character.  And, as developers we're pleased to know
+that our time has been worth it.
+
+Because, it was a very cool thing to get a reaction like Op For did from
+a group of the most important editors in the game press.
+
+
+-DuvalMagic
+
+
+********
+06/14/99
+
+Rob performed the most insane move ever conceivable in Q3Test. And now,
+for a limited time it is "CAUGHT ON TAPE." You must see this to believe it.
+ 
+insane01.dm3
+insane02.dm3
+
+-DuvalMagic
+
+
+********
+6/3/99
+
+Gearbox is Hiring
+
+We currently are looking for an experienced Programmer and an
+experienced Level Designer.
+
+Level Designer:
+
+Position Offers:
+
+- Project 1: Opposing Force, a game expansion for Half-Life
+- Growth and promotion opportunities for future projects
+- Competitive salary w/ highest per-product bonuses in the industry
+- Full benefits paid, yearly home equipment bonus, other perks
+
+Who you are:
+
+- Have shipped at least one known commercial title
+- Experience creating content for a major 3d game system (Quake, UnReal, etc)
+- Half-Life and/or Worldcraft editing experience a plus
+- Other software development related experience or skills helpful
+- Heavy interest in first person 3d games a plus
+
+
+Programmer:
+
+Position Offers:
+
+- Project 1: Opposing Force, a game expansion for Half-Life
+- Growth and promotion opportunities for future projects
+- Competitive salary w/ highest per-product bonuses in the industry
+- Full benefits paid, yearly home equipment bonus, other perks
+
+Who you are:
+
+- Must have shipped at least one known commercial title
+- 2+ years professional programming experience
+- C++ required
+- Other languages, skills helpful
+- Knowledge/experience in networking or 3d programming very helpful
+
+
+To submit resumes, e-mail: jobs@gearboxsoftware.com
+
+For more information visit: www.gearboxsoftware.com
+                                                                                                                                                                                              - Heavy interest in first person 3d games a plus
+
+********
+4/25/99
+
+E-mail gostergard@sierra.com for information about Half-Life: Opposing
+Force press materials, team interviews and the like.
+ 
+-DuvalMagic
+ 

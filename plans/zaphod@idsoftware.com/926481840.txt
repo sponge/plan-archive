@@ -358,47 +358,4 @@ do read each and every one of them.  I try to respond to a lot of them, but obvi
 respond to them all.
 
 At this point, we still have no release date on the test.  We're testing builds here and at
-Activision and continuing to go through cycles.  As soon as feedback from both internal testing
-and our testers at Activision dies down, we'll be ready, but while this is providing heavy
-reports, as it still is today, we're still not ready to come out with the public test.
-
-There will be two maps in the test; these maps will also be in the final product.  The feedback
-we're looking for is specific to the technology in the test.  We're pretty happy with the design,
-and feedback on things like weapon switch times, models, gibs, and so forth are not things we'll
-pay as much attention to as real issues with the technology.  We're looking closely at modem, ISDN,
-and cable play to see how our new network code works, and how that works when a bunch of different
-connections are playing together on the same server.  We're anxious to gauge server load and use
-with the maps we have to see how the server works under heavy use, and to make sure we've got a lot
-of the new client/server communication working reliably and securely.
-
-That said, we do and will watch you play, read the message boards, and try to gauge feedback.  But
-the main thing to remember is that this is a test technology build, not a demo, there will be a
-demo, we plan on a demo, but this is a test.  A lot of you will want to wait on the demo rather than
-playing the test.
-
-The test will be on all three platforms, Mac, Linux and Win32.  We're still working on minimum and
-recommended specs.  There are no bots in the test.  We do plan on revving the test once it's out at
-regular intervals to get fixes out there.
-
-There is no spoon.
-
-3/28/99
-
-I know a lot of you are looking at the end of the month as a fixed date for q3test,
-but we're probably looking to be within a few weeks of that date rather than exactly
-on it.  We're working on it; I just want to keep expectations in line with reality.
-
-This is a test of Quake 3:Arena, not the demo.  With this test we're looking to see
-how well the brand new networking and graphics code works, and while we've run this
-through a QA process here and at Activision, this is not code that is of release
-quality in speed or gameplay.  Please do not look upon this as the "demo" of Q3A.
-
-Thanks.  I now return you to your regular programming.
-
-3/2/99
-
-Xian says I need to put something new here.
-
-It's been a busy two weeks, and I've yet to get any furniture.
-
-Thoughts later.
+Activision and continuing to go through cycles.  As soon as 

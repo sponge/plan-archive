@@ -1,0 +1,67 @@
+Account Name:  Chris Hargrove
+Email address: chrish@3drealms.com
+----------
+Name: Chris "Kiwidog" Hargrove
+Position: Code Boy
+Project: Duke Nukem Forever
+Email: chrish@3drealms.com
+
+3/16/98
+-------
+Oh man, what a tiring weekend.  The IGDN conference went well; I had a lot of fun.  The only downside for me was
+how utterly tired I was during the whole thing.  I drove down to Austin late Friday night (or Saturday morning
+technically) planning on getting a cheap hotel room for a few hours of sleep... completely forgetting that this
+is Spring Break for many colleges.  So I got to Austin and couldn't find a hotel.  Drove back up the road 15 miles
+or so... still nothing available.  Another 30 miles... still nothing.  Eventually I was so pissed and would've
+gotten no more than 2 hours of sleep, that I stopped at a truck stop in Jarrell just so I could take a shower.
+
+By the time my session started at 3:30 PM, I was so tired I could barely stand, let alone think and talk
+rationally.  So I apologize to those who attended if I seemed a bit... disoriented.  Thankfully a couple
+knowledgeable guys in the audience were there to correct a few of my blundering mistakes.  Even though I didn't
+get as far in the lecture as I was hoping, I still hope people got at least a little decent information out of it.
+Sometime this week or so I'll be giving some written materials and source code to the IGDN guys to put on their
+website, for those topics I couldn't cover (or didn't cover very well) as well as for those who couldn't attend.
+Maybe they'll make a bit more sense than I could at the time. :)
+
+The three main things I learned from this experience:
+1) Small conferences of 200 to 300 people are extremely cool
+2) 3D Graphics is a hard thing to explain in an hour
+3) Never assume you'll get a hotel room in Austin without reservations
+
+
+3/10/98
+-------
+Doh! I checked my calender and realized the IGDN thing was not this Friday, but this Saturday (well, the opening
+party thing is on Friday night, but the main conference is on Saturday) so I was one day off in my last update.
+Sorry if I confused anybody.
+
+
+3/7/98
+------
+Oh yes, I almost forgot to mention...
+
+I'll be speaking at the IGDN conference in Austin, TX this Friday.  I don't know how big the conference will end
+up being, but it looks like a lot of fun.  I'm doing my session as a programming lecture/workshop type thing aimed
+at programmers with little experience in writing 3d graphics code but who are interested in getting into the field.  Since I only have an hour to talk, it'll move pretty fast.  But if you're a beginner when it comes to 3D and will be at the conference, feel free to drop by if you're interested.  I'm going to start off with the basics like 3d projection and rotation, and go up through things like arbitrary cameras, 3d frustum clipping, and some simple VSD topics like BSP trees.  This will primarily be a discussion of 3d geometry issues, not language-specific or platform-specific stuff... just the fundamentals.  If this sounds up your alley, stop on by. :)
+
+
+3/6/98
+------
+>>Cannibal rocks! Its a rocking rockful utility made for us rocking artistic gods here! We crush our enemies with
+>>this rocking utility made by our rocking programmer Kiwi, who crushes and rocks! rocking!
+>> - Brian "Whaleboy" Cozzens
+
+Dude, thanks for the complements and all... but you might wanna lay off the crack for a while :)
+
+
+3/4/97
+------
+Ah, the joys of fixing things.  The last 24 hours have been extremely productive, and if my brain holds out, the next few days look to be the same way.  Yesterday evening while continuing the rework of the guts of Cannibal, I had a "vision" (so to speak), and everything about where this tool should be going slammed into my brain within a matter of minutes.  I finally knew how this thing should turn out in the end (something which was rather hazy until this point), and everything became clear.  Implementing it was another matter altogether, but I racked my brain before going to bed on how to deal with a couple of these problems, and then more so this afternoon.  But early this evening it started to fit, and I've been rolling with it since.  Even at this stage, I can already tell the end result is going to be one of the coolest interfaces I've ever worked on.  In a couple weeks when we start thinking about screenshots, you'll know why I'm all excited about it again.  I was worried for a while that the extra time I'm taking on this wouldn't really measure up to the added gains... but that worry is long gone now. :)
+
+The only frustrating part is not being able to show you guys how cool this thing is yet.  Time will resolve that problem though...
+
+Back to the freak show, :)
+
+- Chris
+	
+    

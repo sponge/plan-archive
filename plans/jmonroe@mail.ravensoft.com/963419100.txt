@@ -1,0 +1,30 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: James Monroe
+Email: jmonroe@mail.ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: James' Web Site
+Last Updated: 07/11/2000 21:42:45 (Central Standard Time)
+-------------------------------------------------------------------------------
+And speaking of MDR files...
+
+Now that people have our Demo (see www.ravensoft.com)
+and are wanting to mess with our carcass models.
+I'm release a prelim version of our modified MD3Viewer.
+
+it reads q3 style md3s and raven mdr skeletal
+it can read both q3 animation.cfg and raven style
+you can use the fkeys to preview LODs.
+you can import skins to preview, (and it supports the talking animations via f4)
+
+email me for it (98K), or check www.telefragged.com.
+
+we can't support it, but i will release the source once we're done.
+
+
+
+p.s. bloody hysterical comic here!
+
+http://www.mpog.com/feature/eliteforce/

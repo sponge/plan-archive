@@ -1,0 +1,250 @@
+Welcome to Raven Software's Finger Service V1.1!
+
+Name: Mike Gummelt
+Email: mgummelt@mail.ravensoft.com
+Description: Programmer
+Project: Hexen 2
+Last Updated: 09/09/1997 01:27:46
+-------------------------------------------------------------------------------
+Tuesday, Sept. 9, 1997
+1:14 AM
+
+Well, workin' a little late here, browsing the web pages,
+trying to help out a bit.  We're working on a patch that
+will fix some small things and (I think?) address some more
+GL issues.  We'd like to have it out by Friday so you can
+buy the game, then go home and D/L the patch!  That would
+be cool.  It's small stuff so if you don't have it you
+probably won't notice the difference that much, but, hey,
+why not.
+
+As for me, I'll be hitting New Jersey the same time Hexen 2
+hits the shelves!  I'm heading back there for a week to
+visit everone and propose to my girlfriend of 8 1/2 years.
+We get married June 19, 1998.  I'm looking forward to seeing
+her again, haven't seen her since April 3rd!
+
+Hmm... well, that's about it, just boring you with my
+personal life!
+
+Mike Gummelt
+Programmer and Reigning Foosball Champ of Raven Software
+
+PS- Yes, the rumors ARE true- I DID shut out Josh Weier
+6-0 in the second set of our Tennis match this past Sunday.
+Watch out Pat Rafter!  I'm comin' for YOU! (ok, maybe
+I'm getting a little carried away- Josh will have to
+get a finger to defend himself- he certainly can't
+defend himself on the court!!!)
+
+===========================================================
+
+Monday, Sept. 8, 1997
+11:34 AM
+
+Okay, no more Apogee stuff here. Last thing I want to
+do is start a finger war!  Anyway, Scott Miller and
+George Broussard e-mailed me, explained that they
+didn't mean anything against Raven, etc. everyone's
+very civil, no big deal.  Let's not get carried away!
+
+Kaboom 3D?!
+
+Mike
+
+========================================================
+
+Sunday, Sept 7, 1997
+10:58 AM
+
+Okay, well, now everyone knows, the game is GOLD and
+scheduled to hit shelves Sept. 12 (man, that's fast!!!)
+I'm really excited about the game, I can't wait
+for it to get out there and get the feedback on
+something we've all worked so hard to make cool.
+And, to help clear this up, when i talk about a
+patch, it's not to "fix" the version that's shipping,
+but to maybe add a few little extras to an already
+great game.  The game, as shipped, is fine and
+complete.  When I speak of patches, I speak only
+of cool new stuff that we think is nice to put
+in or, (heaven forbid!) to fix some unforseen
+bug!  We've done as much testing here and at id and
+Activision as we could to ensure that the game will
+run smoothly, but bugs are resilient creatures and
+you never know when they're going to pop up.  You
+know, sometimes they just make that "crunch" sound
+and when you lift your foot, they just scurry away!
+
+====================================================
+
+Wednesday, Sept. 3, 1997
+6:26 AM
+
+Well, the game is done.  At least, I'm done!  I'm
+sure we'll be working on updates after this and
+patches (if neccessary), but we're pretty much finis!
+Expect it to hit stores on time!
+
+We put a lot of work into making the game perfectly
+playable on a 16MB machine, and I'm surprised at how
+good we did!  None of it required taking ANYTHING
+out, just some reshuffling and optimizing.  We've
+all done a great job here, working long, hard hours
+(I finally went home last night after not being home
+since Friday night- stayed up for 42 hours straight-
+programming!).  We have a lot to be proud of.
+
+At this point I'm VERY happy with the game- it's 
+everything we wanted it to be and a LOT more.  There
+are so many cool things and great details that you
+will all be impressed ten times as much as you were
+by the demo.  Honestly, the demo doesn't do justice
+to the rest of the game.  Obviously, we can't please
+everyone and no game is perfect, but I for one
+am confident people will like it.  All I know is
+if I bought this game- I'd definitely feel I got my
+money's worth!
+
+I'm also convinced the game will have a very healthy
+afterlife since the Multiplayer game is soooo much fun
+and the game is really PACKED with all sorts of cool
+stuff that you Converters/Expanders (Like myself-
+back in my Aliens Doom/Ultimate Quake days) will
+just cream over!  And seeing as how Quake 2 and all
+others after it won't be using QuakeC anymore, this
+is the last game (seems to me, anyway) that will be
+easily modifiable by your average guy without any C
+Programming background (again, like myself).
+
+Long Live Hexen 2!!!
+
+Now I have to go and record some demos...
+
+Enjoy!
+
+Mike Gummelt
+Overtired programming guy
+
+===================================================
+August Somethin or other, Sunday night- 1 something AM
+
+OW.  Played tennis today and had an unfortunate altercation
+with the net.  But I suppose I'll survive... long enough
+to finish Hexen 2 at least.
+
+Yes, all you good sports out there, we are workin' our
+butts off to get that game to you- we're working 12 hours
+(at least) every day playtesting and programming and
+bug-hunting- even on Sundays!!!  So it will get to you on
+time and it WILL be worth the wait!
+
+NOW, as per the matter of John Carmack's birthday- no-one
+has responded!  I know people read these- I remember the
+modem incident (over 300 e-mails in 4 hours!).  SOMEONE
+must know!
+
+Well, here's what I've been up to:
+
+MY MONSTERS:
+Mezzomen were done a while ago- they're really cool and
+will scare the heck out of people- vicious.
+
+Medusa's almost there- still some tweaking, but her
+gaze is deadly!  Don't look at her too long...
+
+Imps are done, and man are they cool.  They swoop and
+dive and claw and head-butt and dodge... people will
+find them challenging for certain.
+
+Spiders are finally done too.  They're fast and jittery
+and really creepy.  And you'll find them in some surprising
+places...
+
+Eidolon is coming along nicely, a great boss with some
+nice surprises- his level is pretty cinematic, it's not
+as simple as it seems... but I shan't say more...
+
+Pestilence is my latest work.  He's cool, has some
+interesting attacks and a nice level.  And he does one
+thing that's pretty darn scary.
+
+WEAPONS:
+Assassin's crossbow, grenades and scarab staff are all
+done and working well.  one of the favorites here is the
+Scarab Staff which is nice since I was worried about it at
+first.
+
+Crusader's hammer is cool- he's the only one that can throw
+his melee weapon when powered up- nice advantage.  His
+ice staff is working well now too, and the power up is finally
+feeling right.  The freezing effect is really cool.  The
+Meteor Staff is really cool and was the first weapon of
+mine to really come together nicely.  it has a great feel
+and a cool power-up.  And the Sunstaff is really cool too,
+deadly in tight spaces!
+
+Necromancer's spells are cool- magic missiles have a nice
+visual and the bone shards are just nasty!!!  And I must
+say Kudos to Brian Shubat on the Necromancer's hands- they
+are AWESOME!  You WILL cream.
+
+Anyway, there's a lot of other cool stuff in there we've been
+working on, I tried to make the Invincibilies at least be visually
+unique, the glyphs for each character worked out very well,
+I'm proud of those- the Summon Monster is cool too...
+
+Well, I don't want to give too much away, just want to tempt
+you enough so you start saving up your lunch money- it's coming
+soon!  Real soon!
+
+=============================================================
+
+Sorry, Ken, I meant it's the best game ever to
+come out of Raven Software UNTIL TNP comes out!
+
+Don't hurt me!
+
+**********************************************************
+
+August 22nd, 1997
+
+HAPPY BIRTHDAY TO ME
+I BELONG IN THE ZOO
+WITH THE MONKEYS AND THE ELEPHANTS
+AND THAT JOHN CARMACK TOO!
+
+Hey all, Yes, that's right, today is my birthday,
+I'm the big 26!  I told myself that I'd be rich
+and famous and have made my first feature film
+by now!  Oh well, there's always 27...  But 
+seriously folks, I'm having a great time here at
+Raven, Hexen 2 looks and plays great, I think it
+will be the best game to come out of Raven
+Software (except Black Crypt, of course!).  The
+weapons are all looking and feeling good, I love
+the classes and their differences, the artifacts
+add a whole lot of dimension to the game (especially
+in DM!  I've never played such fun DM!)  And the
+monsters are very very cool.  After looking at
+them day after day for 5 months, I forget how cool
+they are- when people see our monsters, I think
+they'll be thoroughly impressed- our quality
+of animation, skins, and AI (patting self on back)
+will surpass any game that has come before- our
+art dept did a really good job.  It will definitely
+raise the ante for the next wave of games as far
+as good-looking and interesting monsters go.  And
+wait until you see Eidolon!  By the way, I heard
+a screenshot of Eidolon got leaked out, and that
+really ticks me off.  If anyone has it, please do
+us a favor here and don't pass it around- don't
+ruin the game for other people!  And that's about
+all I have to say about that.
+
+Oh, and about the John Carmack thing up there,
+I've heard an unconfirmed rumor that he was born
+on the same day as me!  Can any one confirm or
+conflict this?
+
+BOOBERRY RULES!

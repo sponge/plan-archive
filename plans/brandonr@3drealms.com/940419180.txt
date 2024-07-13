@@ -1,0 +1,33 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Wed Oct 20 09:40 (EDT) on ttyp2 from 216.27.43.214
+Mail forwarded to brandon@epicgames.com
+Mail last read Wed Oct 20 04:00 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Wednesday, October 20, 1999
+
+Ah, nevermind.  I'll just find people to mirror it this afternoon or
+leave someone else an email and when the other programmers get in
+they can take care of it.  I've been awake for 25 hours now and
+only had 6 hours sleep before that.  My hands are starting to shake
+and I've got a meeting at 5 pm.  I either go to sleep now or stay awake
+until 5 pm. 
+
+--
+
+Linux client is ready to go.  I just need to arrange to have some places
+mirror it.  This is the Linux UT demo with both client and server.
+Linux server operators will want to download this to upgrade.
+
+The download is something like 55 megs.
+
+Watch unreal.epicgames.com that's where the news will go first.
+
+
+I'm mega nervous about this release. :)  Send all feedback to
+utbugs348@epicgames.com for now.  utlinuxbugs@epicgames.com will be
+up as soon as Jack gets in :)
+	
+    

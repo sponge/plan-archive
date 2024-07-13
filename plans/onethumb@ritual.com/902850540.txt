@@ -1,0 +1,41 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: onethumb
+Plan modified: Tue Aug 11 12:34:08 1998
+
+
+Name:  Don MacAskill         
+Email:  onethumb@ritual.com
+Occupation:  Jedi Master
+
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************       
+
+
+
+- 8/11/98 12:31 pm -
+
+-[ File Splitter Util? ]-
+
+I've been looking for a way to simply and easily provide the ability for our
+fans to download our demo in easy-to-swallow bite-sized chunks rather than
+this large 34meg file...  
+
+However, it seems that no good util exist, or I'm just stupid.  :)
+
+I could use RAR, but many people don't have it.  I'd love to create a SFX
+multi-part archive, but I'm not seeing any way to do that, either... 
+
+Even just .ZIP would be awesome, but I don't want to have it split only at 
+1.44meg boundaries (I can't seem to find a way to specifiy an archive size).
+
+Does anyone know of any utilities that do either of these?
+
+Thanks much!
+
+

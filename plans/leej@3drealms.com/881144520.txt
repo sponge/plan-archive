@@ -1,0 +1,14 @@
+Login: ljackson       			Name: Lee Jackson
+Directory: /usr/home/ljackson       	Services: FTP
+Plan:
+Date: 12-03-1997  Time:  6:19:41
+
+If you've ever accessed my finger info in the past, you'll notice
+something different right off the bat: it now loads a bit faster.
+That's because I've moved all of the old stuff out of my .plan
+file and into my newly redesigned web site. From now on, I'm only
+going to post one update at a time here. Old updates will be
+posted on my site. Click here
+to have a look at the site.
+	
+    

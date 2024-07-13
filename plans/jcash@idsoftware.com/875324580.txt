@@ -1,0 +1,47 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Cash
+Email: jcash@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 09/26/1997 22:25:06 (Central Standard Time)
+-------------------------------------------------------------------------------
+Contest results
+===============
+Yes, my contest was serious. Well, serious enough.  IOW, it was peppered with sarcasm,
+but I did mean it.  The contested was opened at 3:12pm CST.  The winning entry arrived
+at 4:30pm.  The winner is: Slipgate - AKA Ismail Saeed, Webmaster, http://www.quake2.com.
+Slipgate, send me your postal address and I'll make sure a copy of Q2 makes it your way.
+Unfortunately you blew the extra credit question so signatures are not promised.  But ya
+never know, maybe we'll be in a good mood and sign it anyways.  Chris Price of Clan Shlib,
+although not a journalist or web p1mp, was the first to get the extra credit right.  I
+guess it wasn't *that* hard; I mean, even *Blue* got it right ;-)  Blue was the first
+journalist/web p1mp to get both correct answers.  John Carmack is id's lead programmer
+without a doubt, but I am the lead on the Quake II project.  I've gotten over 100 email
+entries now and I'm sick of hearing the incoming mail sound!
+
+Thanks to all who've sent me info on that Siemens unit.  Man, OBD-II is a pain in the... rear.
+
+How about some Q2 info.  I know I've not said much about Q2 in quite a while, but that's only
+because we've been working so hard on it to get it ready on time.  "For this Christmas" is
+a lot tougher than "When it's done".  Here's a few tidbits for you who like to mess with the
+QC/progs.  It's not exactly news, but, yes, we changed to using a DLL for the progs.  There
+are just so many good things for progs programmers it's hard to know where to start.  The
+physics has been moved into the game DLL.  So now you can even change the laws of physcis!
+All aspects of the player's view can be controlled by the progs, note I said "can be" not
+"will be at all times".  CTF and Quake Rally will be soooo much eaiser for Q2.  The progs
+actually make up about half of the Q2 source, so when we release the progs source, you'll be
+getting a serious chunk of code.  We also have entity teams.  For things like doors, plats, etc
+a team is a group of entities that move (or don't move) as a unit.  That way you can make a
+set of doors so that if one gets blocked they both stop.  A million and one fun uses for that.
+You can also makes teams of items; very useful for DM.  Teamed items work like this: when the
+map loads one (and only one) of the ietms will be spawned.  When somebody picks up that item
+there is the usual respawn delay time and then one of the items on the team is randomly
+selected to respawn.  For example, you could put a quad and a invulnerability on a team so that
+they are both on the level but never at the same time.  Or you could put 5 RL on a level as a
+team so that you can't camp on it because you don't know which one will cme back next.  I'll try
+to give ya more info later... maybe a little less stream of conciousness next time.
+
+--------------------
+John Cash
+jcash@idsoftware.com

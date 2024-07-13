@@ -1,0 +1,83 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake Arena
+Last Updated: 03/13/1999 04:26:53 (Central Standard Time)
+-------------------------------------------------------------------------------
+// 
+// All personal musings on my part are available at:
+// 
+// http://www.voodooextreme.com/ask/askmenu.html
+// 
+// All GMB related e-mail sent to me at id software will be
+// deleted unread
+
+March 13, 1999, early AM
+------------------------
+
+Okay, surprise plan update before I start going into grind ahead mode
+for my GDC speech.
+
+We ran some benchmarks tonight testing out some of our newer optimizations
+for Quake3, and decided to compare the top four accelerators that we
+consider relevant: Voodoo2 (for obvious reasons), ATI Rage128, and
+the NVidia RivaTNT and RivaTNT2.
+
+We tested 640x480x16bpp very thoroughly, since this was the lowest common
+denominator among the accelerators, however we also made a few tests
+at 1600x1200x16bpp to test fill rate and 640x480x32bpp to test likely
+operating conditions.  Tests were run on a best case machine, a P3/500.
+
+640x480x16bpp (16-bit textures):
+
+RivaTNT2		- 50.7
+Rage128			- 48.1
+RivaTNT			- 48.0
+Voodoo2			- 44.7 (Ed: HOLY SHIT THAT'S GOOD!)
+
+640x480x32bpp:
+
+Rage128			- 47.0 (16-bit textures)
+RivaTNT2		- 43.7 (32-bit textures)
+RivaTNT			- untested
+Voodoo2			- N/A
+
+1600x1200x16bpp (16-bit textures):
+
+RivaTNT2		- 18.1
+Rage128			- 15.1
+RivaTNT			- 11.7
+Voodoo2			- N/A
+
+Comments:
+
+I'm really really really REALLY amazed and giddy at how fast the Voodoo2
+performed.  John and I were absolutely dumbfounded at the performance we
+saw, which was just phenomenal given that it's fairly old by accelerator
+standards.  Major kudos to 3Dfx's OpenGL team for improving their driver
+as much as they have recently.  I wish we had managed to test the Voodoo3
+we have at 1600x1200, since it should have performed phenomenally well
+because of its strong fill rate.  Unfortunately I "upgraded" the BIOS
+on my V3 and it's not feeling very well right now.  But if extrapolation
+proves correct, the V3 may actually prove to be the fastest board of
+the lot even at 640x480, since it's 38% faster than the V2 on a PII/300
+and thus could be that much faster on the PIII/500.  Once my board
+is healthy again I'll put up the numbers.
+
+You actually don't notice much of a visual difference between 1600x1200 and
+640x480 believe it or not.  I think 640x480 is sort of the sweet spot
+still, but I could see gamers bumping up to 1024x768 when this resolution
+essentially becomes "free".
+
+I plan on doing a very comprehensive set of benchmarks (hopefully with
+Permedia3 and Savage4) after Q3TEST has been released.
+
+Finally, props go out to the OpenGL guys at ATI and NVidia (especially
+NVidia, which has shown a strong commitment to OpenGL for a very long
+time and who are one of the pivotal figures in making OpenGL a viable
+option for developers and players alike).  NVidia has always had a 
+very fast (and just as important -- robust) OpenGL driver, and their 
+hardware has always been top notch.  The Rage128 is giving TNT and TNT2 
+a run for their money, but we won't have anythin

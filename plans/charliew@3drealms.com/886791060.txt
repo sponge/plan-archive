@@ -1,0 +1,42 @@
+Who did you just finger?: Charlie Wiederhold
+Nick: Wieder
+Email: wieder@ritual.com
+What do I do?: Level/Game Design
+
+========================================================================
+Disclaimer!!!
+The views expressed here are solely that of my own and in no way reflect
+the official position of Ritual Entertainment. Simply put: Don't mind me
+And if I misspell something... it was on purpose. Trust me.
+========================================================================
+
+2-6-98
+===============
+
+/me slaps himself in the head
+
+How could I forget to mention this! I finished Book 7 of The Wheel of Time
+by Robert Jordan last week. I tell you what, only one other author has been
+able to captivate me as well as Robert Jordan has, and that is Arthur C.
+Clarke (well, ok 3 if you include Gentry Lee with Clarke). Now, I'm just like
+the other millions of WoT fans sitting here foaming at the mouth waiting for
+Jordan to finish Book 8 so I can get my dosage of WoT. Now I can sort of
+imagine what it must have been like in the old days when people had to wait
+like a month just to get the next chapter for the book they were reading.
+
+I finished the image editor for the GruberEngine. :) So now I can make
+pretty pictures and such to use as the backgrounds, weapons, enemies,
+etc. I've got the tools to create sounds from script files, but not sure if I
+want to write something to make it easier to create and test the sounds.
+The next step is to get the "rendering" engine up and running so I can walk
+around in the world. Which means creating a level editor to make the world
+with (probably the hardest part of the whole ordeal actually). 
+Hobbies are so much cool. If you don't have one you are missing out on some
+great self satisfaction.
+
+One of the coolest things to think is "I made this! I didn't have to, but
+I did it and it is all mine!" :)
+
+Wieder rolls on outta here...
+	
+    

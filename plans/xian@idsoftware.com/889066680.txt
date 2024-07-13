@@ -1,0 +1,68 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 2
+Last Updated: 03/04/1998 19:39:39 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+ --- Mar.4.1998 (9:46pm) ---
+
+ The CTF v1.02 source is up;
+
+ ftp://ftp.idsoftware.com/idstuff/quake2/q2-ctf-source.exe -- Win32 Installer
+ ftp://ftp.idsoftware.com/idstuff/quake2/ctf/q2ctf-1.02-source.shar.Z -- Linux Installer
+
+
+ --- Mar.4.1998 (9:21pm) ---
+
+ As you probably know by now, the game.dll source code has been released.
+
+ Here's the locations on our FTP site;
+
+ ftp://ftp.idsoftware.com/idstuff/quake2/q2-3.14-source.exe -- Win32 Installer
+ ftp://ftp.idsoftware.com/idstuff/quake2/q2source-3.14.shar.Z -- Linux Installer
+
+ To get the Linux source, simply uncompress q2source-3.14.shar.Z, then sh q2source-3.14.shar and, if you agree with the terms of the license agreement, type yes. It will decompress the source and makefile to the current directory.
+
+ --- Mar.3.1998 (9:58pm) ---
+
+ Thanks to Mike Dowell for e-mailing and letting me know about about a fix
+with Q2Plug and IE4.
+
+ You should create a one byte file called foo.quake2, not foo.quake as was
+previously outlined. This is due to the MIME types changing in the new QPlug
+and IE4 needing something to download along with using a Netscape plugin 
+(can you say kludge?)
+
+ To update the example as posted on Redwoods;
+
+&ltEMBED type=application/x-q2plug-plugin src="/foo.quake2" name="192.246.40.37:27910" width=600 height=25 PLUGINSPAGE="http://www.idsoftware.com/q2plug">
+
+ --- Mar.3.1998 (3:07pm) ---
+
+ There are some issues with Q2Plug and MS IE 4.0 (surprise surprise).
+It does work fine under Netscape however. I'll chat with Zoid later on today
+and see what the problems are.
+
+ Remember, our server page is located at http://inferno.idsoftware.com/q2servers
+
+ If you wish to report to our master, be sure to set "public 1" in the console of your
+dedicated server (or put "set public 1" in your server.cfg). Right now the page
+just displays all servers who have updated to v3.14 (Available on our FTP site)
+
+ --- Feb.28.1998 (4:57pm) --- 
+
+ I've started keeping track of the number of clients for all the
+servers that connect to our master and set "public 1" for reporting,
+and came up with the following graph which shows you the number
+of players on all of the servers that reports to us.
+
+ This is usefull for determining "peak times" for when people are playing =)
+
+ You can check it out at http://inferno.idsoftware.com/usage. I'll probably update
+the graph on a daily basis.
+
+ 

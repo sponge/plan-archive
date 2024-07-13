@@ -1,0 +1,85 @@
+User:   greenmarine
+Read:   0
+Unread: 0
+Time:   Sun, 8 Nov 1998 22:58:17 -0800
+Plan:
+Here is my Fallout2 character sheet.
+
+
+                                  FALLOUT
+                         VAULT-13 PERSONNEL RECORD
+                        11 December 2241  0748 hours
+
+  Name: Max                Age: 25               Gender: Male
+ Level: 08                 Exp: 29,733       Next Level: 36,000
+
+ ::: Statistics :::
+       Strength: 07         Hit Points: 060/060         Sequence: 07
+     Perception: 05        Armor Class: 023         Healing Rate: 01
+      Endurance: 05      Action Points: 09       Critical Chance: 005%
+       Charisma: 05       Melee Damage: 02          Carry Weight: 200 lbs.
+   Intelligence: 05        Damage Res.: 035%
+        Agility: 08     Radiation Res.: 010%
+           Luck: 05        Poison Res.: 025%
+
+
+ ::: Traits :::
+  Fast Shot
+ ::: Perks :::
+  Quick Pockets
+  Swift Learner
+  Gecko Skinning
+  Jinxed
+
+ ::: Karma :::
+  Karma: 395 (Defender)
+  Grave Digger
+
+ ::: Reputation :::
+  Arroyo: Idolized
+  Klamath: Liked
+  Den: Accepted
+  Vault City: Accepted
+  Gecko: Idolized
+  Modoc: Liked
+  Broken Hills: Neutral
+  New Reno: Neutral
+  Redding: Neutral
+  Vault 15: Neutral
+  Ghost Farm: Neutral
+
+ ::: Skills :::                ::: Kills :::
+  Small Guns ..... 101%        Men ............ 007
+  Big Guns ....... 061%        Women .......... 003
+  Energy Weapons . 016%        Radscorpions ... 020
+  Unarmed ........ 070%        Rats ........... 081
+  Melee Weapons .. 070%        Robots ......... 001
+  Throwing ....... 032%        Dogs ........... 011
+  First aid ...... 090%        Plants ......... 006
+  Doctor ......... 015%        Geckos ......... 020
+  Sneak .......... 029%        Giant Ants ..... 011
+  Lockpick ....... 023%
+  Steal .......... 060%
+  Traps .......... 023%
+  Science ........ 020%
+  Repair ......... 028%
+  Speech ......... 025%
+  Barter ......... 020%
+  Gambling ....... 025%
+  Outdoorsman .... 030%
+
+
+ ::: Inventory :::
+  695x Money               3x Rubber Boots          1x Vic's Water Flask
+  3x Antidote              1x Tool                  1x Trapper Town Key
+  2x Deck of "Tragic" Cards  2x 14mm AP               1x Yellow Pass Key
+  1x Stimpak               1x 5mm JHP               1x Lockpicks
+  1x Flare                 1x Red Pass Key          1x Day Pass
+  2x Grenade (Frag)        1x Dynamite              1x Assault Rifle
+  1x 14mm Pistol           1x Metal Armor Mark II
+
+                                      Total Weight: 76 lbs.
+
+
+
+

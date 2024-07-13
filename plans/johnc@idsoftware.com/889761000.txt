@@ -1,0 +1,15 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 03/12/1998 23:46:46 (Central Standard Time)
+-------------------------------------------------------------------------------
+3/12/98
+-------
+American McGee has been let go from Id.
+
+His past contributions include work in three of the all time great
+games (DOOM 2, Quake, Quake 2), but we were not seeing what we wanted.
+

@@ -1,0 +1,50 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+Last Updated: 07/16/1999 19:47:07 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+Jul.16.1999 @ 8:05pm
+
+ To expand some more on Graeme's .plan update, I've just sent out the release
+build to the mirror sites and asked them to beat on it for a while on their
+LANs. We don't forsee any problems with the release, but want to play it safe
+by getting them to beat on it for a few hours.
+
+ Tonight, we plan on releasing a Win32 version only. The Mac and Linux versions
+are not ready to go yet.
+
+ If all goes well with testing, I'll be giving the mirrors the go-ahead to
+publicly post the file on their sites around 10pm CST.
+
+ Stay tuned... 
+
+ -Xian
+
+
+PS: Hi Mom.
+
+
+
+---
+
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, mud slides, forest fire, or projectile (which can 
+include, but not be limited to, arrows, bullets, shot, BB's, paintball, shrapnel,
+lasers, napalm, torpedoes, or emissions of X-rays, Alpha, Beta and Gamma rays,
+knives, stones, etc.). 
+
+---

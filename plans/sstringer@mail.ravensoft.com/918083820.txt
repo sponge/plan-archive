@@ -1,0 +1,233 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Steve Stringer
+Email: sstringer@mail.ravensoft.com
+Description: Producer
+Project: General
+Last Updated: 02/03/1999 18:58:24 (Central Standard Time)
+-------------------------------------------------------------------------------
+Wednesday, Feb 3, 1999
+Player Advisory
+evil avatar just e-mailed us with a post warning that Heretic II
+players should not download and install DirectX 6.1.  
+There are reports that DX6.1 is incompatible with Ht2.
+
+We're looking into it, and I'll report more when we find out.
+
+Here's the full post:
+
+     Agn3D is reporting that DirectX 6.1 is once again available
+     for download Here.  I would caution people against downloading
+     DirectX6.1 since it is known to have severe incompatibilities 
+     with certain games. I have talked with people who have found 
+     that they cannot run games like Rogue Squadron, Heretic 2 and 
+     even Quake 2 after installing DirectX 6.1. 
+
+
+Friday, January 29 (????!!!!)
+
+When did that happen?  Where did January go.  Anyway...
+
+H2 EP BETA NEWS
+The beta is going very well.  We're doing daily code drops and are
+making improvements with every hour.  People seem to be genuinely 
+enjoying enhancements like Kiera some of the tweaks to deathmatch.  
+
+Speaking of Kiera, we realized that some of you may be expecting to
+be able to play Kiera in Single Player.  It's funny, but given the 
+sheer volume of work needed to make Kiera work in single player, we 
+never even considered it a possibility. 
+
+Here's why:  first, we would have to get a female actor in the 
+recording studio, record and edit all her lines precisely to match 
+the exact length of Corvus' existing lines, etc.  And that's just 
+English.  We'd have to do the same exact thing for German, French, 
+Italian, and Spanish.  Then we'd have to re-do all the CG sequences 
+with Kiera, reanimate all the in-game cinematics with the female 
+model...
+
+You get the idea.  There simply is no way to duplicate the single 
+player experience with Kiera without taking another 4 months and 
+charging for the EP--something we definitely don't want to do.  
+Free is good.  So Kiera will be available in Deathmatch and in 
+Coop only.  I really think you won't be disappointed. 
+
+
+Tuesday, January 26th, 1999
+H2 EP BETA NEWS
+My thanks to everyone who responded to my request for help on the EP
+beta.  In just over 24 hours, I received over 200 requests.  I'm 
+overwhelmed by the response, and I and my team thank you.
+
+I've selected and notified the beta participants.  If you didn't hear
+from me, then it means that we won't be needing you this time.  Thanks
+for offering to help, though.  
+
+The selection process was pretty tedious.  I looked for certain
+targeted hardware configurations and people with multiple systems.  My
+goal is to get a representative sample of systems out there so when we
+launch this thing, it will be as clean as we can make it.
+
+Stay tuned for more details on the EP beta.
+
+And again, thanks!
+
+Steve
+
+
+Friday, January 22nd, 1999
+
+Product News
+The EP is getting very close to completion.  This is good news since
+I'm about to lose one of my best programmers to disease.  
+
+If you haven't checked out the Kiera screenshots yet, make a point to
+do so.  The new model is awesome, and with all the new features, the
+EP will be a must-have upgrade for everyone who loves the game.
+
+Expect more news in the coming week or two.
+
+
+Give Thy Day Thy Daily Rant
+Let's talk about the most basic concepts in our capitalist society:  
+supply and demand.  Specifically, let's talk about how record companies 
+are responding to the threat of MP3s.  My response to them?  Welcome to 
+my world.
+
+I'm reading an article in the Marketplace section of today's Wall Street 
+Journal entitled, "Companies Work to Battle Growth Music Pirates From the 
+Internet."  This is hardly the first article I've read on the topic, too.  
+There is no denying that it is a huge problem for the record companies, 
+but as someone who has been dealing with piracy for years, my personal 
+take is that they're trying to address the wrong problem.
+
+The article discusses how execs from the record companies are working 
+with companies like IBM and AT&T to come up with a "piracy proof" means 
+of online music distribution.  Ha!  Piracy Proof.  Right. 
+
+Supply and demand dictates that as long as people have motivation and 
+access to enabling technology--CDRs, MP3 players, cheap, large format 
+hard drives, and the Internet in this case--piracy will be a problem.  
+As long as it is easy to create, distribute, and procure MP3s, the 
+record companies are screwed.  
+
+The MP3 format offers far too many advantages.  It's incredibly easy 
+to create MP3s.  No joke, I have converted most of my music collection 
+here at work that previously took up a whole drawer in my file cabinet 
+and stored it on an old 2 gig drive.  At any time it's at my finger 
+tips with almost instant access and infinite flexibility.  I want a 
+couple hours of REM?  A few clicks loads every album I have and away 
+it goes.  This is the perfect example of technology hitting a sweet 
+spot of functionality and ease of use.
+
+I can totally understand why record companies are running scared.  
+With the exception of the advent of CDs, the industry has remained 
+fairly static for its entire existence.  The fact that this has 
+remained the case for so long is an aberration given advances in 
+technology.  
+
+So finally, tech caught up with them and in a matter of months, they're 
+facing a complete paradigm shift in the way music is distributed and 
+played.  No wonder they're scared shitless.  Artists for the first time 
+have the ability to distribute on their own.  Fans have a low cost means 
+of accessing their favorite artists.  This will inevitably result in an 
+underground resurgence in more creative, cutting edge artists taking 
+more and more risks.  And the record companies will no longer have total 
+control over everything from A&R, recording, replicating, distributing, 
+and cashing in.  
+
+Then there's the media itself.  As long as the record companies had tight 
+control over the media, they had control over everything upstream ending 
+with the artist.  That's out the window now.  CDRs are dollars a piece, 
+hard drive costs are down to pennies a meg, and storage space for CD 
+quality audio is reduced by an order of magnitude. The most strongest, 
+most valued link in their chain just broke, and there's nothing stopping 
+the free fall.
+
+Record companies have millions and millions at stake, and my take on it 
+is that they should just write it off.  Give up now and embrace the 
+technology and the medium.  Instead of fighting the inevitable, lead the 
+way.  The winner of this race will be the company that provides the 
+facilitating and enabling technologies.  As the record company is finding 
+out, technology is the ultimate means of the redistribution of power in 
+our society.  
+
+So my message to the record companies:  find ways to be a part of the 
+system.  Find an economic model that works in the new reality or make 
+peace with death.  One or the other.  But don't try to impose a draconian 
+means of "piracy proof" copy protection that will inevitably fail.
+
+
+Tuesday, January 20, 1999
+
+Welcome back Eric.  We missed you.  Are you regretting your return yet?  =)
+
+There are days when my job is just so glamorous.  Getting into the guts of 
+InstallShield to fix a new installer is a blast, and I highly recommend it
+to anyone who loves hitting their head repeatedly with a blunt instrument.  
+
+It was my wife's birthday last night, and we went to the Ivy here in LA.  Can anyone
+say, "I'll have a steak sandwich...and a steak sandwich."  Mmmmmm.
+
+Microsoft came by today to show us some of their new game controller devices.  Pretty
+cool stuff for the most part.  My only request was to make the thumb pad on their 
+SideWinder gamepad softer.  I suffer from an extreme, prolonged case of FIFA thumb 
+induced by my annoying tendency to mash the shit out of the D-Pad whenever I'm about
+to score a goal.  They laughed.  And then moved on.  Well, they asked!
+
+Not that this is necessarily related, but their meeting got me thinking about input
+devices for our games.  My suspicion is that no one has invented an input device yet 
+that adequately replaces the speed and accuracy you get with the keyboard and mouse. 
+I know that this is almost a religious matter for some people, but I have yet to find
+an input device that let me play as well as the keyboard and mouse.  
+
+So this begs the question:  looking long term, where do you see the input device market
+heading in the coming years?  What is missing from current input devices?  What would
+a first-person-shooter input device have to have that would make you run out and fork
+out $50 of your own cash? 
+
+Don't worry.  Activision isn't going into the hardware business.  However, hardware 
+manufacturers do ask my opinion quite frequently.  I have my own theories, but it would
+be interesting to hear what you guys think.  If you're interested and you really have
+nothing better to do, e-mail me and let me know what you think.
+
+
+
+Friday, January 15, 1999
+
+Product News
+There have been some questions about the Heretic/Hexen source code EULA (End User
+License Agreement).  Basically, it breaks down like this:
+
+* The intent of the EULA is that you can take the code, use and modify it as you wish
+  just so long as you do not distribute it for commercial gain.  Meaning, if
+  you make a port or a mod, you can distribute it for free, but you cannot sell it 
+  without talking to us first.
+
+* We simply goofed on the line that says you can install it only on one computer.
+  These things happen.
+
+* Our goal is to release the code for your enjoyment and education.  We treat the source
+  code as we would any other tool distributed for free.  Use of the tool to support
+  the Community is encouraged.  However, you cannot take our tools and copyrighted 
+  material such as code or textures and turn that into a product that you then sell.
+  We simply have to protect ourselves against some of the less scrupulous people out
+  there.
+
+Hope this clarifies things.  Enjoy!  
+
+Thursday, January 14, 1999
+
+Misc
+This is an arcane bit of news for those of us who have been in the computer biz for a 
+few years:  SyQuest is dead.  According to ZDTV, SyQuest filed for bankruptcy 
+yesterday and sold their assets to Iomega today.  This is only of note because it 
+raises a little bit of nostalgia in me.  My very first legit job in computers was as
+a Mac computer consultant back in '92.  I remember with a bit of loathing those huge,
+heavy, loud, delicate SyQuest carts that held a whopping 80 megs!  They were the crutch
+of DTP and software development at the time and were as ubiquitous then as Jaz and Zip
+carts are today.  A moment of silence, please, as we mourn the loss of a piece of 
+computing history.     
+
+
+I welcome your comments and feedback. Please feel free to e-mail me at sstringer@activision.com

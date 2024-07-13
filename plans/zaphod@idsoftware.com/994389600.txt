@@ -1,0 +1,39 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+Last Updated: 07/06/2001 00:02:12 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+I'm posting here because my posts to the Anarachy Online Community board get deleted..
+
+Okay, since I know the network code for Quake3 inside out (well, I re-wrote it) I have some comments on the system in use for Anarchy Online.
+
+I've tried really really really hard to play this game, it's popular at the office and I've been looking for a game like this to play for a while. 
+
+1. Login 
+
+The login process needs to be secure to stop bot cheats (proxy clients that sit on the same machine). We deal with this a GREAT deal. 
+
+2. Character select screen. 
+
+This entire screen should move to HTML so it can be updated and changed server side. The game options should be on the first screen (and they should be more extensive, sound as well as video, etc.) 
+
+3. Prediction 
+
+When you've got 700 people in a dimension you've got to trust the client to do a certain amount of prediction. The extent of updates from the server for me seems to vary drastically because of dropped TCP packet timeouts. At the very least a UDP noise channel should be established for some of the events around the player. 
+
+The combat prediction seems to favor the server based AI. Playing with a 500 ping I was at a disadvantage play wise compared to playing with a 100 ping. Dropped key events are perhaps the biggest no no in combat and this SEEMS to happen to me a bunch. 
+
+4. Compression 
+
+The current network scheme does not seem very compressed, or perhaps better put, chaos orientated, which I think is leading to some network bandwidth issues. It would be interesting to play on a modem. 
+
+TCP should be used for some stuff and UDP for other stuff, this is common in online games (such as netTrek). 
+
+Anyway, I wish I had the source to this to help fix it because I want to play!
+
+This all said, I'll continue to try and get in..
+

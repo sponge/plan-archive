@@ -1,0 +1,30 @@
+Account Name:  brandonr
+Email address: brandonr@finger.3drealms.com
+----------
+Something I forgot to mention the other day.  Just a couple days after I was complaining about the distribution of prizes in Magic Online Leagues, Wizards updated the program with a large patch.  Included in the patch was a change to the league prize table.
+
+The new prize pyramid is much broader, with fewer prizes going to the top seat and more going to the lower ranks.  Good for Wizards!  I know a lot of people were concerned about this.
+
+Now if only you'd lower the price of online packs by a dollar :)
+
+This Saturday is the pre-release tournament for the new Magic set "Onslaught."  I haven't ever played in a large tournament, but I think I will be attending this one.  I know I'll get my ass kicked, but it should be fun.
+
+--
+
+Up until recently my girlfriend, who is a student at UTD, was taking a class in 3D modeling and animation.  She dropped the class because it wasn't really up her alley and her schedule was overloaded so I bought her textbook.
+
+Turns out, they were using Maya Personal Learning Edition and the Learning Maya 4 book.  I started to take a look and instantly got hooked.  This is cool stuff!
+
+If you are interested in getting into some element of game development, this is worth checking out.  The Learning Edition of the Maya modeling and animation software is free and the book is only about $70 on Amazon.  That's a pretty cheap investment to start working with an actual production quality modeling system.  (The full Maya 4.5 software costs around eight grand.)
+
+The book is a very good introduction to the Maya software.  The first lesson is mainly an introduction to the interface and system conventions, but it takes you through the process of putting together a cute little animation.  Subsequent lessons cover modeling with NURBS, polygonal geometry, materials, etc.
+
+Obviously this book alone won't get you into the game industry.  It'll take a lot of work, practice, and creativity to get to that point, but it's an excellent place to start.  Particularly if you are in junior high or high school.
+
+One piece of advice.  When you install the Maya PLE, put it in a directory without spaces.  It seems the "fcheck" animation preview utility doesn't like spaces in filenames if you do a format conversion.  I convert my .iff rendered files to .bmp and then use Rad Game Tools' Bink to make a self playing .exe movie.
+
+Oh and just so ya know...3D Realms doesn't use Maya internally.  I believe Maya is becoming more popular now because Universities are using it as a teaching tool, however.  We do make use of both Smacker and Miles from Rad Game Tools,  (they rock!).
+
+END OF LINE
+	
+    

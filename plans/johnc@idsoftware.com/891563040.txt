@@ -1,0 +1,297 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 3
+Last Updated: 04/02/1998 20:23:20 (Central Standard Time)
+-------------------------------------------------------------------------------
+4/2
+---
+Drag strip day!  Most of the id guys, John Romero from ION,
+and George and Alan from 3drealms headed to the Ennis
+dragstrip today.
+
+Nobody broke down, and some good times were posted.
+
+11.9 @ 122	John Carmack F40
+12.2 @ 122	George Broussard custom turbo 911
+12.4 @ 116	Brian Hook Viper GTS
+13.4 @ 106	John Romero custom turbo testarossa
+13.6 @ 106	Todd Hollenshead 'vette
+13.9 @ 100	Paul Steed 911
+14.0 @ 99	Tim Willits 911
+14.3 @ 101	Bear Turbo Supra
+14.4 @ 98	Alan Blum turbo rx-7
+14.7 @ 92	Brandon James M3
+15.3 @ 92	Christian Boxster
+15.5 @ 93	Jen (Hook's Chick) Turbo Volvo
+16.1 @ 89	Ms. Donna Mustang GT
+17.4 @ 82	Anna (Carmack's Chick) Honda Accord
+18.1 @ 75	Jennifer (Jim Molinets' Chick) Saturn
+
+We had three significant no-shows for various reasons:  my TR,
+Adrian's viper, and Cash's supercharged M3 were all in the shop.
+
+
+3/26
+----
+I haven't even seen the "BeOS port of Quake".  Stop emailing me about
+aproving it.  I told one of the Lion developers he could port it to
+BeOS in his spare time, but I haven't seen any results from it.
+
+--
+
+There is a public discussion / compilation going on at openquake for
+suggestions to improve technical aspects of quake 3:
+
+http://www.openquake.org/q3suggest/
+
+This is sooo much better than just dropping me an email when a thought
+hits you.  There are many, many thousands of you out there, and there
+needs to be some filtering process so we can get the information
+efficiently.
+
+We will read and evaluate everything that makes it through the
+discussion process.  There are two possible reasons why features
+don't make it into our games -- either we decide that the effort is
+better spent elsewhere, or we just don't think about it.  Sometimes the
+great ideas are completely obvious when suggested, but were just missed.
+That is what I most hope to see.
+
+When the suggestions involve engineering tradeoffs and we have to
+consider the implementation effort of a feature vs its benefits, the
+best way to convince us to pursue it is to specify EXACTLY what benefits
+would be gained by undertaking the work, and specifying a clean interface
+to the feature from the file system data and the gamex86 code.
+
+We hack where necessary, but I am much more willing to spend my time on
+an elegant extension that has multiple uses, rather than adding api bulk
+for specific features.  Point out things that are clunky and inelegant
+in the current implementation.  Even if it doesn't make any user visible
+difference, restructuring api for cleanliness is still a worthwhile goal.
+
+We have our own ideas about game play features, so we may just disagree
+with you.  Even if you-and-all-your-friends are SURE that your
+suggestions will make the game a ton better, we may not think it
+fits with our overall direction.  We aren't going to be all things to
+all people, and we don't design by committee.
+
+
+
+3/21 pt 2
+---------
+I haven't given up on rhapsody yet.  I will certainly be experimenting
+with the release version when it ships, but I have had a number of
+discouraging things happen.  Twice I was going to go do meetings at
+apple with all relevent people, but the people setting it up would
+get laid off before the meetings happened.  Several times I would hear
+encouraging rumors about various things, but they never panned out.
+We had some biz discussions with apple about rhapsody, but they were
+so incredibly cautious about targeting rhapsody for consumer apps at
+the expense of macos that I doubted their resolve.
+
+I WANT to help.  Maybe post-E3 we can put something together.
+
+The SGI/microsoft deal fucked up a lot of the 3D options.  The codebase
+that everyone was using to develop OpenGL ICDs is now owned by
+microsoft, so it is unlikely any of them will ever be allowed to port
+to rhapsody (or linux, or BeOS).
+
+That is one of the things I stress over -- The Right Thing is clear,
+but its not going to happen because of biz moves.  It would be
+great if ATI, which has video drivers for win, rhapsody, linux, and
+BeOS, could run the same ICD on all those platforms.
+
+
+--------------
+
+All gone!
+
+Paul Magyar gets the last (slightly broken) one.
+
+Bob Farmer gets the third.
+
+Philip Kizer gets the second one.
+
+Kyle Bousquet gets the first one.
+
+
+3/21
+----
+I just shut down the last of the NEXTSTEP systems running at id.
+
+We hadn't really used them for much of anything in the past year, so it was
+just easier to turn them off than to continue to administer them.
+
+Most of the intel systems had already been converted to NT or 95, and 
+Onethumb gets all of our old black NeXT hardware, but we have four nice 
+HP 712/80 workstations that can't be used for much of anything.
+
+If someone can put these systems to good use (a dallas area unix hacker),
+you can have them for free.  As soon as they are spoken for, I will update
+my .plan, so check immediately before sending me email.
+
+You have to come by our office (in Mesquite) and do a fresh OS install here
+before you can take one.  There may still be junk on the HD, and I can't
+spend the time to clean them myself.  You can run either NEXTSTEP 3.3 or
+HP/UX.  These are NOT intel machines, so you can't run dos or windows.
+I have NS CD's here, but I can't find the original HP/UX CDs.  Bring your
+own if that's what you want.
+
+I'm a bit nostalgic about the NeXT systems -- the story in the Id Anthology
+is absolutely true:  I walked through a mile of snow to the bank to pay for
+our first workstation.  For several years, I considered it the best
+development environment around.  It still has advantages today, but you
+can't do any accelerated 3D work on it.
+
+I had high hopes for rhapsody, but even on a top of the line PPC, it felt
+painfully sluggish compared to the NT workstations I use normally, and
+apple doesn't have their 3D act together at all.
+
+Its kind of funny, but even through all the D3D/OpenGL animosity, I think
+Windows NT is the best place to do 3D graphics development.
+
+
+3/20
+----
+Robert Duffy, the maintainer of Radiant QE4 is now "officially" in charge of
+further development of the editor codebase.  He joins Zoid as a (part time)
+contractor for us.
+
+A modified version of Radiant will be the level editor for Quake 3.  The
+primary changes will be support for curved surfaces and more general surface
+shaders.  All changes will be publicly released, either after Q3 ships or
+possibly at the release of Q3Test, depending on how things are going.
+
+The other major effort is to get Radiant working properly on all of the 3D
+cards that are fielding full OpenGL ICDs.  If you want to do level
+development, you should probably get an 8mb video card.  Permedia II cards
+have been the mainstay for developers that can't afford intergraph systems,
+but 8mb rendition v2200 (thriller 3D) cards are probably a better bet as
+soon as their ICD gets all the bugs worked out.
+
+
+3/13
+----
+
+The Old Plan:
+
+The rest of the team works on an aggressive Quake 2 expansion pack while
+Brian and I develop tools and code for the entirely new Trinity generation
+project to begin after the mission pack ships.
+
+The New Plan:
+
+Expand the mission pack into a complete game, and merge together a completely
+new graphics engine with the quake 2 game / client / server framework, giving
+us Quake 3.
+
+"Trinity" is basically being broken up into two phases: graphics and
+everything else.  Towards the end of Quake 1's development I was thinking
+that we might have been better off splitting quake on those categories, but
+in reverse order.  Doing client/server, the better modification framework,
+and qc, coupled with a spiced up DOOM engine (Duke style) for one game, then 
+doing the full 3D renderer for the following game.
+
+We have no reason to believe that the next generation development would 
+somehow go faster than the previous, so there is a real chance that doing all 
+of the Trinity technology at once might push game development time to a full 
+two years for us, which might be a bit more than the pressure-cooker work 
+atmosphere here could handle.
+
+So, we are going to try an experiment.
+
+The non-graphics things that I was planning for Trinity will be held off 
+until the following project -- much java integration with client downloadable 
+code being one of the more significant aspects.  I hope to get to some next 
+generation sound work, but the graphics engine is the only thing I am 
+committing to.
+
+The graphics engine is going to be hardware accelerated ONLY.  NO SOFTWARE 
+RENDERER, and it won't work very well on a lot of current hardware.  We 
+understand fully that this is going to significantly cut into our potential 
+customer base, but everyone was tired of working under the constraints of the 
+software renderer.  There are still going to be plenty of good quake derived 
+games to play from other developers for people without appropriate hardware.
+
+
+There are some specific things that the graphics technology is leveraging that
+may influence your choice of a 3D accelerator.
+
+All source artwork is being created and delivered in 24 bit color.  An 
+accelerator that can perform all 3D work in 24 bit color will look 
+substantially better than a 16 bit card.  You will pay a speed cost for it, 
+though.
+
+Most of the textures are going to be higher resolution.  Larger amounts of 
+texture memory will make a bigger difference than it does on Quake 2.
+
+Some key rendering effects require blending modes that some cards don't 
+support.
+
+The fill rate requirements will be about 50% more than Quake 2, on average.  
+Cards that are fill rate limited will slow down unless you go to a lower 
+resolution.
+
+The triangle rate requirements will be at least double Quake 2, and scalable 
+to much higher levels of detail on appropriate hardware.
+
+Here are my current GUESSES about how existing cards will perform.
+
+Voodoo 1
+Performance will be a little slow, but it should look good and run acceptably.
+You will have to use somewhat condensed textures to avoid texture thrashing.
+
+Voodoo 2
+Should run great.  Getting the 12 mb board is probably a good idea if you want
+to use the high resolution textures.  The main rendering mode won't be able to
+take advantage of the dual TMU the same way quake 2 does, so the extra TMU 
+will be used for slightly higher quality rendering modes instead of greater 
+speed: trilinear / detail texturing, or some full color effects where others 
+get a mono channel.
+
+Permedia 2
+Will be completely fill rate bound, so it will basically run 2/3 the speed 
+that quake 2 does.  Not very fast.  It also doesn't have one of the needed 
+blending modes, so it won't look very good, either.  P2 does support 24 bit 
+rendering, but it won't be fast enough to use it.
+
+ATI Rage Pro
+It looks like the rage pro has all the required blending modes, but the jury 
+is still out on the performance.
+
+Intel I740
+Should run good with all features, and because all of the textures come out 
+of AGP memory, there will be no texture thrashing at all, even with the full 
+resolution textures.
+
+Rendition 2100/2200
+The 2100 should run about the speed of a voodoo 1, and the 2200 should be 
+faster.  They support all the necessary features, and an 8 mb 2200 should be 
+able to use the high res textures without a problem.  The renditions are the 
+only current boards that can do 24 bit rendering with all the features.  It 
+will be a bit slow in 24 bit mode, but it will look the best.
+
+PVR PCX2
+Probably won't run Quake 3.  They don't have ANY of the necessary blending 
+modes, so it can't look correct.  Video Logic might decide to rev their 
+minidriver to try to support it, but it is probably futile.
+
+RIVA 128
+Riva puts us in a bad position.  They are very fast, but they don't support 
+an important feature.  We can crutch it up by performing some extra drawing 
+passes, but there is a bit of a quality loss, and it will impact their speed.
+They will probably be a bit faster than voodoo 1, but not to the degree that 
+they are in Quake 2.
+
+
+Naturally, the best cards are yet to come (I won't comment on unreleased 
+cards).  The graphics engine is being designed to be scalable over the next 
+few YEARS, so it might look like we are shooting a bit high for the first 
+release, but by the time it actually ships, there will be a lot of people 
+with brand new accelerators that won't be properly exploited by any other 
+game.
+
+
+

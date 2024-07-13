@@ -1,0 +1,52 @@
+Welcome to Human Head Studios' Finger Service V1.6!
+
+Name: Chris Rhinehart
+Email: crhinehart@humanhead.com
+Description: Programmer
+Project: Rune
+Web Page: Human Head Studios' Web SiteThis plan file is the opinion of the individual who writes it and does not reflect the opinions of the Human Head Studios.
+Last Updated: 10/25/1999 15:45:53 (Central Standard Time)
+-------------------------------------------------------------------------------
+October 26, 1999
+----------------
+
+Damn.  Been a while since I updated this.
+
+RUNE:  
+
+Progress is going excellent.  Currently working on the combat system and getting
+the rest of Ragnar's abilities finished.
+
+We added proper dynamic shadows on actors last week.  It's amazing how much better these 
+shadows look compared to the generic round blob found in most other games.  Our shadows do not
+use the stencil buffer... instead they use a technique similar to that found in Nocturne and 
+Vampire:  The Masquerade.
+
+Speaking of Nocturne:  Congrats to Terminal Reality on going gold.  Nocturne is a super cool,
+atmospheric game.  Can't wait to play the full version, and can't wait to celebrate with you
+guys later this week in New Orleans  :)
+
+
+FRAG3:  
+
+I'll be giving a technical presentation on RUNE, and all of the enhancements we've done to 
+the Unreal engine, modifying it for a 3rd-Person melee game.  Highlights of the talk will be
+our skeletal system, continuous LOD system, the dynamic actor shadows, and tons of other
+interesting tech bits.
+
+
+PALM5:
+
+In a non-RUNE related update, I visited my brother the other day... visiting him is always
+interesting because he tends to buy more "gizmo" toys than I do, so it's fun to check out
+his latest purchases.  This time, he bought a Palm5 and had quite a few cool games on it.
+The Palm line has always seemed pretty interesting, but I've never been motivated to actually
+buy one of them.
+
+Until now.  He had the coolest game on his Palm5 -- Taipan.  A little history on Taipan:
+It was a game that (I think) originated on the Apple //.  The gist of the game was that you 
+sailed around, fought enemy pirates and traded goods (eventually trading opium, since in the 
+game that made the most money).  Taipan on the Palm5 was a pretty good port, and I felt myself just
+as addicted to it the other day as I did years ago back on the Apple.
+
+Best quote from the game: "Bad Joss,  You've been beaten up and robbed of 1.45 Million dollars."

@@ -1,0 +1,118 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 10/09/1997 03:38:57 (Central Standard Time)
+-------------------------------------------------------------------------------
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+October 9, 1997
+------------------
+
+I do not comprehend Microsoft's inability to write software that just works.
+
+Here is the latest in my epic saga of "How to Write Software When Your Tools
+are Written By Complete Idiots".  The sad part is that I know a lot of really
+competent and smart people at Microsoft, yet I guess their code never makes
+it into production software.  Or something like that.
+
+So why am I griping?  Dig upon this scenario:
+
+Given two identical machines (Intergraph Realizm workstations, identical
+driver sets, both dual PPro/200s and 128MB of RAM, both running WinNT 4
+with SP3), and given two IDENTICAL installations of MSVC 5 (w/ SP2), and
+given that both grab an ENTIRE directory of source code (including all
+relevant project and workspace files) from a central directory, and both 
+do complete rebuilds without touching any compiler options, given ALL this,
+WHY IN THE WORLD WOULD THEY GENERATE DIFFERENT EXECUTABLES?  Different
+sizes, and in many cases different behaviour.
+
+If I build Quake2 on my machine using the "release build", the DLLs and EXEs
+generated work just fine.  If either Cash or Carmack do the same thing, they
+get fucked up, bizarre shit like weird spinning worlds and other randomly
+bizarre stuff.
+
+Did I mention this is with the same basic hardware on everyone's machine?  And
+the same OS?  And the same compiler?  And the same project file?  And the same
+workspace files?  Cash went so far as to format his hard drive and reinstall
+everything from scratch, and he's getting the same problems.  Where are these
+magic compiler options being stored -- in the Flash BIOS?!
+
+Or maybe I have magic compiler options being stored in my registry...and in that
+case, well, civilization is doomed and we may as well start building fires with
+rocks again.
+
+It's like the programmers at Microsoft have neither pride nor common sense.
+
+All right, I'll shut up now, since if I say how I REALLY feel I'll probably
+piss off even more people.
+
+October 1, 1997 (part 2)
+------------------
+
+Quake related!  Woo-hoo!  Okay, nothing special, other than to say that we
+talked to NVidia today and they showed us an early early early version of 
+their ICD for Win95.  Very impressive, given the short amount of time they've
+been working on it.
+
+October 1, 1997
+------------------
+
+More football stuff, no Quake stuff:
+
+This is what really gets my goat.  People are talking about all the best QBs 
+out there in NCAA, and while Johnson scared me in the Southern Miss game, 
+he's turning out to be a fucking complete bad ass. This boy WILL win the 
+Heisman next year.  But who are they mentioning for Heisman and otherwise 
+saying are the best QBs in the game?  Peyton Manning, Brock Huard, Ryan Leaf, 
+even Chad Pennington.
+
+Now, let's check their stats:
+
+                             Att      Cmp    %    Yds     TDs
+Tim Couch, Kentucky          202     132     65   1429    17
+Chad Pennington, Marshall    160      94     59   1537    20 
+Ryan Leaf, Washington St.    136      76     56   1327    13
+Doug Johnson, Florida        127      71     56   1088    17
+Peyton Manning, Tennessee    138      83     60   1004    10
+Brock Huard, Washington       57      38     67    627     7
+
+Here's the sick thing -- Thad Busby has a HIGHER POWER RATING than Peyton 
+Manning.  Johnson's numbers are comparable to Ryan Leaf, yet Ryan Leaf is the 
+one getting Heisman Attention.  Peyton has a slightly higher completion ratio 
+than Johnson, but less yardage and slightly more than half the number of TDs.  
+And Brock Huard hasn't thrown the ball but 57 times this year.
+
+Chad Pennington is good, but he plays for Marshall in the MAC and has Randy 
+Moss as his target.
+
+Now, I'll ask this once again -- why is Peyton the shoe-in for the Heisman, 
+OTHER than hype?  By the above reckoning Tim Couch should easily be 
+considered the best QB out there (and last I heard he was the most widely 
+recruited high school QB -- Spurrier wanted him pretty bad).  He's got the 
+yards, attempts, TDs, and completion percentage to really stand out (what I 
+don't get is that his power rating is actually pretty low, maybe for INTs?)
+
+Yes, stats aren't everything, but when the front runner's stats are way 
+behind many others AND his team isn't undefeated, you have to ask why Peyton 
+is the Heisman candidate of choice.
+
+Don't get me wrong, Peyton is a great QB and a great on-field general, and I 
+respect the guy for staying an extra year (it REALLY irks me when people enter 
+the draft as juniors, but if I were in their positions, I'd do the same, so I 
+understand why they do it), so I guess this is more a rant about hype over 
+substance.
+
+Peyton Manning is ranked 27th out of Div 1-A QBs in terms of power rating.
+
+September 30, 1997
+------------------
+
+Menus menus menus, oh what heavenly fun.

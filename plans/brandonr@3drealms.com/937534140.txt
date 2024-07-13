@@ -1,0 +1,79 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Sun Sep  5 12:24 (EDT) on ttyp1 from tpfl.demon.co.uk
+Mail forwarded to brandon@epicgames.com
+Mail last read Fri Aug 20 17:58 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Thursday, September 16, 1999
+
+-- 11:46 PM
+
+ROFL!  Talking on IRC I got the impression that some might think I harbor
+some ill will towards Blue of Blue's News.
+
+My .plan updates are jokes.  Inside jokes between Blue and I.  At E3
+I had a YelloThere tshirt that said "Blue? Never heard of him ;-)" on
+the back.  Blue called me "YelloMarine" because of it.
+
+So I poke a little fun at Blue from time to time.  He reciprocates by
+refering to the joke by calling me "VariousColorsHereMarine."
+
+Its all an elaborate ruse to make you think that Blue has a sense
+of humour.  (When in fact, most of his joke material is written
+by Loonyboi.)
+
+-- 8:06 PM
+
+You should snag the ngStats fix for the 3dfx demo if you are going to be
+downloading it.  The link is here:
+
+
+http://www.netgamesusa.com/downloads/Patch_UT_ngStats_3dfxDemo_v1.0.1_16_Sept_1999.zip
+
+
+Just copy the ngStats.exe over the one included in the demo and you are set.
+
+-- 6:27 PM
+
+Okay, the version of ngStats in the 3dfx demo has a problem with it.  It causes
+the player's name to show up wrong when you view your stats.  The NetGames guys
+are putting together a fix and will have a new ngStats for UT distribution
+on their website soon.  Probably before the demo hits the net.  I'll update
+my plan and our various webpages with the URL when its available.  Only
+people downloading the 3dfx UT demo and playing with [local] ngStats will
+need to get this fix.  I suggest you get it when its available because ngStats
+is cool and fun to play with.
+
+What else?
+
+When you first play UT make sure you pick a skill level that suits your abilities.
+UT's first four skill levels are easier, so that if Joe Average buys the game he
+can have fun without getting spanked by the bots.  If you play online, chances
+are you'll want to pick one of the top 4 skill levels.  In the full version of UT,
+the skill level will ramp up as you play.  In the demo it does this a little, but
+because there are only 5 maps its hard to feel the ramping.
+
+I'll mirror this update on the techpage.
+
+The in-game News Page will report information on the status of the NetGames fix
+once it becomes available.
+
+--------
+
+The demo is in 3dfx's hands.  They'll release it once they and their partners 
+are ready to handle the demand.
+
+Server operators should check out the remote admin tool in the demo.  You can
+turn it on under "Networking->Web Based Server Administration" in the advanced
+options dialog.
+
+When its on and you've set your username and password, surf to
+http://YourServersIP/ServerAdmin to log in.
+
+Server Admins should probably run servers with a playerlimit of around
+8 to 10.  The deathmatch maps in the demo aren't really large enough to handle big
+free for alls.
+	
+    

@@ -1,0 +1,39 @@
+Login: troy				Name: Trey Harrison
+Plan:
+
+-----8/13/98 part 2
+
+Doh. I forgot to mention where it is.
+
+http://starbase.neosoft.com/~otaku/sinview12.zip
+
+I am the King of Japan. I have a message for your viewers. Well..
+I'm.. just sitting here. I don't get out much.
+
+Trey
+
+-----8/13/98
+
+SinView 1.2 is ready. I've decided not to release the code with it.
+I'm not protecting anything - its just not in a very release-able
+state. If there are enough requests for it I will get my ass in
+gear and make it available.
+
+SinView 1.2 views .swl files, .tga files, .pcx files, and .def
+files (.def files are, basically, the models). It will let you
+convert .tga's and .pcx's to .swl, .swl to .pcx, extract files,
+take screenshots, modify texture properties, etc. Just give it
+the base directory, the .pak files you want it to look through
+(it also views files in the directory tree on disk), and have
+a blast. Registration costs $10 and will get you.. a nice
+pleasent feeling knowing that I will be able to eat one more
+fast food meal.
+
+A side note: If any companies (*cough*Valve) wouldn't mind me
+writing "viewers" for their models, textures, etc, send me
+some header files and some data files and maybe i'll get something
+going.
+
+Man, Sifl and Olly Rocks. Crescent Fresh.
+
+Trey

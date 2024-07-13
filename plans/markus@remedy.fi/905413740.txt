@@ -1,0 +1,44 @@
+Username: markus                    In real life: Markus Maki           
+
+
+Plan:
+-------------------------------------------------------------------------
+10 September 1998
+
+ECTS98 is over. Look for a short ECTS report in our web pages in a few 
+days. But the guys who came from there say it was a success...
+
+Check out http://www.gamespot.co.uk for their Max Payne article.
+
+Scott Miller came to visit us here in Finland for the first time. 
+Although the weather isn't important, it's of course raining :)
+
+Last, a bit of nagging to all 3D hw manufacturers. Get your act together
+on DirectX 6 drivers.
+
+If you're a dev support person in a 3D card company, and have DX6 drivers
+for your hw (old or new), send 'em here (to markus@remedy.fi). 
+I'll test them. Or if you're in 3DMark BETA program, we can test and debug
+them together.
+
+To my knowledge, the only public DX6 drivers are from Matrox (for G200).
+And the ones that ship with TNT. This, frankly speaking, sucks. 
+
+(check finger.planetquake.com for old plan updates)
+--------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

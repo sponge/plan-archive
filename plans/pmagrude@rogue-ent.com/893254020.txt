@@ -1,0 +1,111 @@
+Login: pmagrude       			Name: Patrick Magruder
+Directory: /usr/users/pmagrude      	Shell: /usr/local/bin/tcsh
+On since Wed Apr 22 10:47 (CDT) on ttyp0, idle 0:09, (messages off)
+    from fireball
+Mail last read Wed Apr 22 11:16 1998 (CDT)
+Mail forwarded to: "|exec /usr/local/bin/procmail"
+Plan:
+#include stddisclaimer.h
+4/22/98
+Work related stuff first:
+Our mission pack is coming along nicely.  You all will like it.  You all will
+buy it.  These are the voices in your head speaking .. buy Rogue products ..
+
+Ok, fun stuff now:
+Well, we here all took the "Nerd Test" at http://gonzo.tamu.edu/nerd.html
+
+Not surprising to anyone who knows me, I scored the highest in this office
+with a nice healthy 72%.  If I'd taken the test a few years ago, it would have
+been higher, too .. ahh, the inevitable decline that comes with aging.
+
+Here's what everyone got (except Cameron, who isn't here and no one remembers
+his score .. if anyone is curious, I'll find out):
+
+thunder    72.0%
+magicman   49.8%
+zor        42.4%
+pmack      39.4%
+jimm       30.2%
+stevem     28.8%
+iwon       27.6%
+
+With my score in there, the average is 41.5 with a standard dev. of 15.8.
+Without my score, the average is 36.4 with a standard dev. of 8.9.
+
+I still find it hard to believe that someone got a 4%.  What was that guy
+(or gal) .. a slug?  Also, I'm a bit incredulous at the 96%.  That's a bit ..
+excessive.
+
+*snurk*
+
+And Redwood .. we at Rogue have more than one good deathmatcher.
+4/17/98
+Two weeks?!?  TWO WEEKS?  Just where did the time go?
+
+Anyone in the Dallas area should try Wingstop on NW Highway.  Eat an Atomic Wing.  I dare you.  Whoo!  Those things were HOT.  I ate two.  Actually, after you get past the first one, they're not so bad.  The most surprising part?  For all of the heat they have, they actually have flavor!  Of all of their wing types, though, my favorite would have to be the garlic & parmesan wings.
+
+I'm really surprised that Cameron didn't mention it .. but he also took his SUV out to the track.  Got a respectable number .. 16.66.  Yep, that's 1666.  You can always trust Cameron to find the number of the beast when you least expect it.
+
+4/3/98
+Wow.  Drag racing is fun.  A thousand thanks to Carmack for inviting us 
+Rogue guys, and letting us run our street cars down the run.
+
+My Integra got a 16.2 .. I can't complain.  What a blast.  I dusted Jim's
+Saturn (surprise surpise .. ;)
+
+3/23/98
+If Rich _ever_ hands you a candy, saying "it's not that bad, try it".  DON'T.
+Steer clear.  Especially if it's a Durian candy.  Oh my god, that was truly
+the most disgusting thing I ever tasted.
+
+I've never crunched a dozen altoids .. and not tasted them.  My eyes 
+started tearing it was so bad.  Our description of it here is a combination 
+of butterscotch, an oil slick, with a little rancid meat thrown in for 
+good measure.
+
+The worst part was that it kept coming back.  The taste had the marvelous 
+combination effect of both floating at the top of your stomach .. and making
+you burp.
+
+*bleah*
+
+Oh well, enough of that.  Back to work.  I like to think of what I'm doing
+as retribution for all of those dead monsters.  After all, we do have to give
+them a chance, don't we?
+
+
+3/20/98
+Well, the cat is out of the bag.  We're doing a mission pack for Quake 2.
+It's going to rock.  It's going to be the biggest expansion you've ever seen.
+More levels, DM levels, monsters, weapons, powerups .. you name it.  All I
+can say is I've never said "oh my god, that's going to kick their ass" so
+many times .. and we're still going at it.
+
+Why all the secrecy?  Well, that's a question for the ages, isn't it.
+Check the Oracle at Delphi, she might have a clue.
+
+previous .plan:
+
+I want to say that the Voodoo2 card I have SCREAMS.  Wow.  I'm
+getting in the neighborhood of 60FPS at 800x600 on my PII266 in Quake2.
+The Quake1 numbers are just obscene .. over 100fps in almost all cases.
+
+Thanks to 3dfx for giving us a few reference boards for development and
+testing.  That's good customer support.
+
+Well, RC5-56 and DES-II have been solved!  Now, time for the big-daddy 64 bit 
+RC5 challenge.  Come on, everyone, crank up those machines and start cracking.
+
+Go to http://www.distributed.net/rc5/ for the details if you don't already 
+know about this.  
+
+A couple of Macquake support tidbits:
+
+MacQuakers should most certainly download the latest Quickdraw 3d.  That
+got me about a 10% speed improvement right there.
+Also, make sure to execute "gl_finish 0" if you have a 3dfx card (and what
+serious MacQuake player wouldn't?).  That's another 10% or so.
+With these two, I went from ~22.5 to ~27.5 fps on my 8500/150.
+
+And, of course, get the Rogue expansion pack (Quake Mission Pack #2:
+Dissolution of Eternity).  It rocks .. ;)

@@ -1,0 +1,41 @@
+You've reached Jim Dose' at Ritual Entertainment, Inc.
+I can be reached e-mail at judas@ritual.com.
+
+3/23/98 -
+
+It's been a long time since I updated my .plan, so
+I thought I'd give a brief update.
+
+I haven't said anything about GLDoom in a while, and that's
+because I'm knee-deep in working on Sin.  Needless to say, I'm
+no longer working on it.  It was pretty much a mistake for me
+to try to get involved in a side project that could never hold
+as much importance to me as Sin does.  Besides, Bruce Lewis is
+doing a great job on his version of GLDoom.  :)  If you haven't
+heard about Bruce's version yet, go to http://www.frag.com/doom
+to read about it.
+
+I'm just wrapping up a major rewrite of the "event" system in Sin.
+Events are our method of schedule actions to occur within the game.
+The rewrite combines events and script commands, which gives level
+designers direct control over the behaviour of all objects within
+the game, without adding special script commands.
+
+The script system has grown to be much more powerfull than I
+originally planned it to be.  The original goal of the scripts
+were to eliminate alot of the drudgery of creating interactive
+elements in the levels, but has grown to allow the creation of
+very complex behaviour.  The stuff Charlie Wiederhold is currently
+working on approaches the complexity of a QuakeC mod.
+
+The thing about the script language that I'm most proud of is
+the fact that it acts to complement the game .DLLs and not as a
+replacement for them.  The scripts provide a lot of functionality
+that would be difficult or tedious to do in program code.  I'm
+eager to see what the user community does with them.
+
+As far as the BBQ on Sunday goes, it's interesting that some of the
+folks complaining about people "wasting" there time playing old
+Atari games were inside playing guitar or Tron most of the afternoon
+before the Atari was even plugged in.  At least M.U.L.E. allowed
+4 players to play. :)

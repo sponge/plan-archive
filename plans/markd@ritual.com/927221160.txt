@@ -1,0 +1,58 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: markd
+Plan modified: Thu May 20 14:22:44 1999
+
+05/20/99
+========
+
+Camera system in version 1.05
+=============================
+
+If you want to play around with the camera system, add these to your config.
+This is a pretty good setup for working with cameras.
+
+bind INS "cam add"
+bind DEL "cam delete"
+bind PGDN "cam prev"
+bind PGUP "cam next"
+bind HOME "cam loop"
+bind END "cam stop"
+
+There was no real reason for the camera system other than that it was cool,
+and that it would help out in someone's internal side project. Enjoy.
+
+05/19/99
+========
+
+Sin Version 1.05
+================
+
+It should be up on our ftp site shortly, and from there it will probably get
+mirrored to your favorite website.
+
+General
+- An in game camera system has been added similar to the one we were showing
+at E3.
+- Extensive 3DNOW! optimizations have been made to the renderer
+- demos work again
+
+CTF
+- ctf_forcejoin now works correctly.
+- dropped weapons no longer allow you to carry too much ammo
+- the quantum destabilizer is no longer such an unbalanced weapon in CTF.
+
+E3
+==
+
+Thanks to everyone who came and saw the demo we were giving of FAKK 2.  It is
+nice to know that even though our industry is in a moral crisis, people still
+enjoy a FANTASY based on sex, drugs and rock and roll.  The competition looked
+awesome (as always). Vampire, Anacronox, Voyager and Oni all made me want to
+rush back to Dallas so I could continue working. ;)
+
+
+Mark D
+
+Ritual Entertainment

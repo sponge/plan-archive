@@ -1,0 +1,78 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 3
+Last Updated: 06/10/1998 22:44:44 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+June 10th, 1998 @ 10:31 pm
+--------------------------
+
+ ---------------
+ Q2 v3.16 Update
+ ---------------
+
+ We were doing some playtesting of the Q2 3.16 patch over the net this
+evening and things are looking very promising for a release "soon". Just
+wanted to make this update becase quite a few of you have been inquiring
+about it's status.
+
+ Here are the things that have changed since v3.15
+
+- Fixed infinite grenade bug
+- Fixed autodownloading to actually download sounds and console pics
+- Fixed autodownload to not create empty directories for files not on
+  the server.
+- Added customized client downloading.  cvars are the same as the server side:
+    allow_download - global download on/off
+    allow_download_players - players download on/off
+    allow_download_models - models download on/off
+    allow_download_sounds - sounds download on/off
+    allow_download_maps - maps download on/off
+  They can also be (more easily) set with a new Download Options menu 
+  accessible in Multiplayer/Player Setup/Download Options
+- Changed checksumming code to be more portable and faster.
+  The checksum in 3.15 was seriously broken.
+  This change makes 3.16 incompatible with previous servers.
+- Fixed it so sounds played for PPMs that default to male are only checked
+  on disk once.
+- Fixed player 'warping' present in 3.15 (this was an artifact of the
+  hyperblaster optimizations).
+- Fixed the autodownload in 3.15 so that stuff like skins for models are
+  downloaded as well as pics.
+
+ If you've downloaded the v3.15 patch, you'll be able to download a small
+200k file which just updates your quake2.exe. 
+
+ 3.16 clients will NOT be backwards compatible for multiplayer. Your
+3.15 savegames for single player will work just fine however.
+
+ Thanks for your continued patience, but we want to make sure this update is 
+damned solid before we release. Just a little bit longer now =)
+
+
+---
+"Gonna get the girl, gonna kill the baddies, and save the entire planet"
+                                                  -Pop Will Eat Itself
+---
+
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, damage from improper .planfile reading, incorrect line voltage,
+improper or unauthorized use, broken antenna or marred cabinet, missing or
+altered serial numbers, removal of tag, electromagnetic radiation from 
+nuclear blasts, sonic boom vibrations, customer adjustments that are not 
+covered in this list, and incidents owing to an airplane crash, ship sinking 
+or taking on water, motorvehicle crashing, dropping the item, falling rocks, 
+leaky roof, broken glass, mud slides, forest fire, or projectile (which can 
+include, but not be limited to, arrows, bullets, shot, BB's, paintball, 
+shrapnel, lasers, napalm, torpedoes, or emissions of X-rays, Alpha, Beta and
+Gamma rays, knives, stones, etc.). 
+
+---
+

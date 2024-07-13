@@ -1,0 +1,129 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 11/30/1997 18:00:51 (Central Standard Time)
+-------------------------------------------------------------------------------
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+November 30, 1997
+------------------
+
+John and I have started researching Java.  Overall, I really like the language,
+although I haven't used it just yet.  I've read a couple books on Java ("Just
+Java") and another book on the AWT, both of which have been really good (and
+cover Java 1.1).  I'm using the Java 1.1.4 JDK from Sun for Win32.
+
+There is an assertion made in one of the books that for all intents and
+purposes Java has supplanted C++ as the premier OO programming language.  I'm
+not quite sure I buy into this just yet, but I can see a HUGE class of apps
+that are more conducive to Java than to C++.  C++'s deficiencies are well
+documented, and for the longest time the only defense for these shortfalls was
+"well, it's the best thing out there."  I think in many cases that C++ is NOT
+the best thing -- hell, I prefer ANSI C, and I know C++ pretty damn well.
+
+That said, we won't be writing Trinity in Java anytime soon, but we will look
+into using Java for our tools.  The idea of writing a program once that runs
+on our NT, Win95, and SGI Irix boxes makes me all warm and fuzzy inside.
+
+Java has been pretty easy to learn, since its syntax is essentially the same
+as C++, with some minor differences.  Some cool things they did was to specify
+the exact size of types (e.g. ints are 32-bit, longs are 64-bit, etc.).
+However, currently Java implementations are 32-bit in terms of memory
+addressing -- all array indices are 32-bit ints, so you cannot have more than
+4GB of addressable bytes.  If you do arrays of larger objects you could 
+theoretically access more than 4GB of memory, but I have a feeling that will
+just explode.
+
+ANSI C, on the other hand, under both DEC Alpha and MIPS R10K, supports 64-bit
+pointers.  And yes, there is a good chance that for our next generation set of
+TOOLS that we will need 64-bit addressing.
+
+After I get a little more familiar with the language, and maybe find the OpenGL
+bindings for Java, I'll write a toy app to see how it works.
+
+Oh yeah, I'm a level designer now!  WOO-HOO!  Since I'm going to be working
+on the tools for Trinity John felt that I should know how the map editor
+works, so I finally caved and started doing a deathmatch map.  It looks like
+crap, and plays even worse, but that baby is mine, all mine. :-)
+
+November 29, 1997
+------------------
+
+I did an interview for GameGirlz, check out http://www.gamegirlz.com.  It's
+probably my favorite interview I've done, since I didn't have to talk techie
+shit all the time, AND GameGirlz didn't screw it up completely.
+
+November 28, 1997 (early AM)
+------------------
+
+Just wanted to mention that I had a good time recently hanging out with Vik
+Long and Dennis "Thresh" Fong and Anna (of AFT fame).  It was really weird
+that in the middle of id there were four Asians sitting around talking about
+martial arts and stuff.  Really stereotypical.  If John Tam of Activision
+(one of the studboy QA jimmies over there) had been around, hell, the rest
+of id would've been scared.  God knows, we'd start spontaneously practicing
+kung fu on everyone or making rice or something.  *shudder*
+
+"Chinese people aren't very good at barbecuing, the rice keeps falling through
+the grill."  God, that one STILL cracks me up (thanks to John Tam for telling
+me that one).
+
+The best part was when Vik, Thresh, and I went to Hooters and the waitress
+finally came up to us and said "I gotta ask, where are you guys from?!" and
+after determining that we were Chinese proceeded to tell us how fucked up
+it was that some kid is anointed something special then taken away from his
+parents to be raised by "Buddha monks or something".  Thank goodness she
+cleared THAT up.
+
+Anyway, it was cool hanging out with a bunch of American-Asians, if for no
+othe reason than being able to say "Wow, there's a bunch of Asians at id
+software, and I'm one of 'em".  The best part was deathmatching Vik and
+Thresh and being able to hurl racial slurs at each other (we're allowed to
+do that to each other, it's a minority thing, you wouldn't understand).
+
+And I full on busted Thresh in the head with a rocket once, and actually
+killed him -- you could hear his scream at Town East Mall practically.  I
+think that was the only frag I got on him fair and square -- it's like the
+game KNOWS he's playing.  I tried to bust a BFG cap in his ass, got it off
+and everything, and bee-yatch ducked that shit and tagged.  Shit ain't even
+funny how bad he schooled me/us (typical DM scores were something like, uh,
+Thresh: 72, everyone else combined: 4).
+
+And this was the first time he got to DM with Quake2, which is a RADICALLY
+different DM experience than Quake or QuakeWorld, and on levels he had never
+really seen.
+
+West Coast Asians here to represent!
+
+(Yes, this update is meant to be somewhat self-deprecating and funny, so
+don't freak out).
+
+November 27, 1997 (part 2)
+------------------
+
+BOOT Magazine is officially on my shit list.  The interview that they posted on
+their Web site is just crap.  They edited it enough to screw up the context of
+what we were saying or, in some cases, they managed to make us say something
+that we weren't, but they didn't edit out the pieces we wanted removed to
+avoid confusion.
+
+See, part of the agreement John and I had with BOOT was that we would talk
+freely about stuff over the course of several hours, with the full knowledge
+that we had the right to remove the stuff that we were uncomfortable seeing
+in print.  We also reserved the right to correct the article factually --
+I've seen them butcher enough interviews (e.g. the one with Scott Sellers)
+that I know they don't have the technical background to properly transcribe
+an interview with technical people.  Christ, they put "de-buffering" instead
+of "Z-buffering" through all of Scott's interview!
+
+So after our interview they DID send us a copy of the PRINT version of the
+article that we were to review, which we did (and we did make some edits),
+but we were happy.  But they posted th

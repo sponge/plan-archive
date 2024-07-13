@@ -1,0 +1,392 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 3 Arena
+Last Updated: 05/30/1999 05:20:36 (Central Standard Time)
+-------------------------------------------------------------------------------
+5/30/99
+-------
+* dynamic curve level of detail
+	r_subdivisions determines the maximum level
+	of detail, r_lodCurveError determines how
+	quickly polygons are pulled out with distance
+* devmap  sets cheats 1, map  sets cheats 0
+* change weapon item upscale to 1.5 instead of 2
+* always toss items forward, even if looking up or down
+* draw ammo in grey while weapons are reloading
+* change railgun shader while reloading
+* fixed head models not showing proper skin
+* skip all shell eject code when cg_brassTime 0
+* fixed sound memory overallocation
+* profiling and rearrangement
+* fixed dead spectator bug
+
+
+5/27/99
+-------
+* enable scissor test properly
+* archive r_lodBias
+* cg_draw3dIcons 0 option
+* data cheating protection
+* userinfo renamed to clientinfo, added state and current
+	server address
+* don't forward commands to a server when playing demos
+* fixed NULL extension on dir command
+* added one more shotgun pellet
+* added CG_Shutdown for cgame cleanup
+* fixed jitter in rising smoke
+* increase minimum time before reusing an entity slot
+* soundinfo reports current background streaming file
+* changed IPX separator to . from :, moved port processing
+	to system independant code
+* auto port scan wasn't updating the net_port cvar
+* attack button presses reset inactivity timer now
+* increased the forced respawn time from 10 to 20 seconds
+* show smp on gfxinfo, slight reformat
+
+
+5/26/99
+-------
+* basic joystick controls
+	some work still needed for advanced controlers
+* r_dlightBacksides 0 option
+* forced cvar_restart when version changes
+* fixed some flare-in-fog problems
+* fixed skin color in menus
+* print obituary message even when you are the killer, so all
+	kills get an entry in the logfile
+* fixed bugs in line token parsing when quotes or commands aren't
+	white space separated
+* multiprocessor acceleration "r_smp 1"
+* increase menu dimming
+* increased rocket damage radius from 120 to 150 units
+* check for running server in all server commands (dumpuser, etc)
+* new cvar cheat setup -- by default, only archived
+	variables can be changed when not cheating
+* "cg_drawstatus 0" only removes status bar
+* "cg_draw2d 0" removes all 2d
+
+
+5/22/99
+-------
+
+The SMP support is solid enough to play with now.  The only feature that is
+still broken is light flares.
+
+As a happy consequence, some of the cleanup work I did for SMP gave a couple
+percent speedup even when running without the separate thread.
+
+On my development system, a dual 300 mhz intergraph realizm II, the low res
+timedemo scores went from 27.8 to 37.8 with "r_smp 1".  This is only a 35%
+average speedup, but at some times (lots of dynamic lights in complex scenes)
+the speedup is 90%+.  Gameplay is noticably smoother.
+
+The rendering thread is almost always the blocking factor, so the faster the
+card and OpenGL driver, the larger the speedup will be.
+
+This is explicitly a two thread producer / consumer, so there is no benefit
+to more than two processors.  The app is well behaved, using sleeping
+syncronization so that you usually still have half a processor free for other
+operating system functions.
+
+Hopefully we will be able to test with some fast consumer cards sometime
+soon.
+
+------
+
+A lot of people asked what was done differently this time vs the last time
+I tried (without benefit) to use SMP.
+
+My original attempt was to make a DLL that intercepted all OpenGL calls and
+let a separate processor execute them.  The benefit would have been that all
+OpenGL applications could have gone faster.  The problem was that the
+bandwidth required to encode all the commands was enough that the processor
+overhead was as much as it would have taken to just do the geometry on the
+main processor.
+
+It would have still been a win if the geometry side was doing
+lots of work, like multiple lights, user clip planes, and texgens, but for
+the vast majority of geometry, it didn't balance out.  If someone wanted to
+try that using the PIII or AltiVec streaming memory operations, it could
+probably still work.
+
+The current SMP code is implemented directly into the renderer, and a lot of
+things were moved around and double buffered to allow it to use data in
+place, instead of having to copy it off.
+
+------
+
+Some people expressed surprise that Quake3 wasn't threaded already.
+
+Threading has been presented so often as the "high tech" "cool" way to
+program, that many people aren't aware of the downsides.
+
+A multi-threaded program will always have somewhat lower throughput when 
+running on a single CPU than a single threaded program that polls in
+explicit places.  The cost of a context switch at the cpu level is negligible,
+but the damage that it can do to the cache hierarchy can add up to a
+noticeable amount in bad cases.
+
+The much larger problem is that you lose tight control over when things
+occur.  If the framerates are low enough, it isn't a huge issue, but for
+applications running at 30+ fps, you really don't want to trust the OS
+scheduler to coordinate multiple threads and have them all get in every
+frame.  Yes, with explicit sleep() calls you can sort of get it working,
+but at that point, you might as well not be using threads.
+
+A good example of not-quite-in-sync issues in the windows mouse performance.
+A PS/2 mouse only samples 40 times a second, so when you get an app updating
+at around that speed, you will get 0/1/2 scheduling variances.
+
+They are also not terribly portable, and a pain in the ass to debug.
+
+
+
+
+5/19/99
+-------
+Now that all the E3 stuff is done with, I can get back to work...
+
+I was stuck in a room the entire time doing press interviews, but it seemed
+to have gone well.  It was mentioned to me that there were a few people on
+the show floor with forged badges that read "John Carmack -- Id Software".
+As if forged email / irc / icq isn't enough of a problem.  Sigh.
+
+The "download" crashtest was first reported by Rick Hammerstone.  That was
+a pure dumbass mistake on my part.
+
+I should be sending the accumulated crashtest bounties off tomorrow.
+
+The plan right now is to have an update release next week that will have
+lots of bug fixes and cheat protections, but not too many new user visible
+features.
+
+I finally got around to implementing dual processor acceleration today.  I
+still have a couple issues to resolve and some more rearranging to do, but
+it is giving 20%+ speedup right now in a worst-case situation for it.
+
+When completed, I expect the average speedup to be in the 40% to 80% range,
+depending on what is going on and the video configuration.  Scenes with lots
+of dynamic lighting and lots of sounds and other client processing going will
+show the largest speedups.  It helps the slow scenes more than the fast
+scenes, which is basically what you want.
+
+I am going to shake this out with the Windows (NT) code first, but it should
+definately make its way to the linux port eventually.
+
+I know SMP is a que for all the BeOS folks to ask about ports, so I'm going
+to head that off:  Be has all the code for Q3 (and Q2, for that matter), and
+a version of Q3test should be available by the time they ship a release OS
+with OpenGL hardware acceleration.
+
+There will probably also be an SGI-irix port.
+
+Regarding both of those ports: they are not supported ports, and will be
+maintained by volenteers (like the current MacOS X port).  Update releases
+will lag the official ones, and we won't committ to ANY dates.
+
+I am doing all of my development on intergraph and sgi-NT hardware, but when
+I have everything rock solid, I will give Nvidia and ATI's NT drivers a try.
+I would be somewhat shocked if they didn't explode -- I doubt multiple
+threads playing occasional tag team on a context has been well tested.
+
+True, only a tiny fraction of our players (probably less than 1%) will be
+able to take advantage of this, but I consider SMP usage to be an important
+technology to nurture over the coming years.
+
+The top of the benchmark chart should be an SMP system (assuming the NT
+drivers have all the optimizations of the '98 drivers), and it will also
+be possible to build a reletively cheap SMP system (say, dual 400's) that
+outperforms the best single processor system.
+
+
+
+5/12/99
+-------
+We had to upgrade the crashtest machine to NT sp 5, because
+some people were attacking it with windows crashers.  Those
+don't count.
+
+Crashtest #3 from [iBO]QWhAX0R was a combination of two
+problems:
+
+The symptom was disconnecting all clients with an illegible
+server message.  This turned out to be caused by the fact
+that I was parsing strings out of my net buffers with a
+MSG_ReadChar() function, and I was checking for EOF as a
+negative one return value.  I had to change this to a
+MSG_ReadByte() call, because -1 was showing up in the
+messages, which then caused a parse error because it wasn't
+really the end of the message.
+
+The actual root of that issue was code like this:
+{
+	char	buffer[MAX_STRING_CHARS];
+
+	...
+	strncpy( buffer, input, sizeof(buffer) - 1 );
+	...
+}
+
+No buffer overruns are possible, but buffer is not forced
+to be zero terminated if on the stack.  I'm pretty sure this
+was a result of copy-and-paste code where buffer used to be
+a static with a guaranteed zero, but it made me find several
+other places where similar things were happening.
+
+I had started using a Q_strncpyz() function a while ago that
+guarantees a trailing zero and doesn't require the -1, but it
+turned out that between code I had written a long time ago,
+and code that either Cash or Brian had added, there were still
+a lot of normal strncpy calls around.  A lot of them were wrong,
+too.  Either missing the -1, or missing the dedicated 0 fill in.
+
+Crashtest #4 from Jim Paris was a variation on the first part
+of #3.
+
+Only one of these attacks so far has been a server crasher, but
+I have been giving the bounty for anything that immediately kicks
+all the players.  I probably won't give it for attacks that only
+overflow some lagged clients, but I'll evaluate as they happen.
+
+I am off to E3 now for a bunch of PR silliness, so if
+crashtest goes down, it won't be back up for a while...
+
+
+* fixed crashtest 4
+* fixed crashtest 3
+* fixed jumping-over-item pickup prediction error
+* made "Couldn't load sound" a developer only warning
+* fixed demo recording not including portal surface entities
+* precache grenade bounce sounds
+
+
+5/11/99
+-------
+You can bias the level of detail lower than allowed in the
+menu with "r_lodbias 2", which will force all models to the lowest
+lod.  The view weapon will look very ugly.
+
+Another little speedup option that isn't offered in the menus is:
+"cg_simpleitems 1" this removes the extra rings and spheres around
+some items.
+
+You can also turn off all the gibs with "cg_gibs 0".
+
+
+* clear game memory at init, which fixes the stuck-at-intermission
+	problem on mac servers
+* fixed mismatched free / Z_Free in demo menu
+* removed unused reference to sprites/plama.md3
+* automatically get sounds from model name
+* scale sensitivity by zoom
+* immediately archive changes to latched cvars
+* cheat protect r_portalonly
+* don't print "XXX connected" on level restarts
+* fixed "give item" on levels where 0,0,0 is in solid
+* fixed timedemo
+* don't play pain falling sound if dead
+* fixed falling damage sound not snd specific
+* fixed crashtest 2
+* fixed crashtest 1
+* q3map_backshader
+* q3map_globaltexture
+
+
+5/11/99
+-------
+Do NOT send bug reports and game comments directly to me!
+If I have to filter through hundreds of emails a day, I won't get any
+more work done...  Only crashtest related problems should come to me,
+everything else should go to q3feedback@idsoftware.com.
+
+
+5/11/99
+-------
+Sami Tammilehto wins the second prize.  Some large connectionless packets
+can cause crashes.
+
+This one was a result of me having the maximum token size defined lower
+than the maximum string size.
+
+
+5/11/99
+-------
+BigImp wins the first prize.  It doesn't crash the server, but fmtspec
+names will crash all clients that try to log on.  Technically that would
+be an upkeep required DOS attack, but I'll let this one go.
+
+I even had a "FIXME: make vsprintf safe" comment by the offending line...
+
+I am going to update the server to filter out all % chars that come in
+over the net to prevent any other similar things.
+
+
+
+5/11/99
+-------
+Everyone should realize that many popular net links are going to be clogged
+up with q3test downloads for a while, so net play may be a bit patchy to
+a lot of servers.
+
+-------------
+
+Now that the first win32 test is out, here is The Plan for going forward:
+
+All future releases should be same-day for all architectures.
+
+There may be an exe-only update to the current distributions if there are
+significant problems, but it isn't scheduled.
+
+The next major test release will include a new one on one map designed for
+tournement play, and new executables with server and game modifications, but
+will not require downloading a new pak0.pk3.
+
+The release after that will introduce various teamplay rules on the original
+two maps.  This version will likely be another full download, because I
+know that I still have a couple things to change in the map format.  This
+will probably be the first test running with the virtual machine.
+
+The final major test release will introduce the single player game with
+bots and ranks.
+
+After any bugs are shaken out of that, it will be the "Q3 Demo" instead of
+the "Q3 Test", and we should be ready to release the full game to stores.
+
+In an ideal world, people that aren't prepared to deal with in-development
+software would wait until then to form an opinion of the product.
+
+---------------
+
+I am offering a bounty for server crashing bugs.  Q2 had several releases
+forced out because of malicious attacks on all the public servers, so I
+want to try and flush out what I can during Q3's testing phase.
+
+There is a server running in the debugger here at crashtest.idsoftware.com
+(192.246.40.68).  Anyone that can repeatably hang or crash this system can
+have a $100 prize and some misc bit of Q3A paraphenalia that I can dig up.
+
+Operating system level attacks don't count -- only things that I can actually
+fix or protect against in my code.
+
+Denial of service attacks don't count if they require upkeep, but if there is
+a fire-and-forget DOS attack, it will still count.
+
+Any actions you can perform with the released client are fair game.  Crashing
+the client isn't good for a bounty, but I would still like to know about it.
+
+Custom attack programs are also fair game.  These are actually what I am most
+concerned about -- malicious programs that goes through and crash all listed
+servers.
+
+Ideally, you would practice on a private server under your control and only
+hit crashtest when you think you can repeat it.
+
+If you find one, email me the instructions so I can reproduce it.  Include
+"CRASHTEST" in the subject so I won't miss it.
+
+First come, first served, one bounty per bug.  I will update crashtest with
+our internal builds, so it will certainly be possible that an attack on the
+released servers no longer functions on crashtest.

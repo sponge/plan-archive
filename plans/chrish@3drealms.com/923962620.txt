@@ -1,0 +1,22 @@
+Account Name:  Chris Hargrove
+Email address: chrish@3drealms.com
+----------
+Name: Chris "Kiwidog" Hargrove
+Position: Code Boy
+Project: Duke Nukem Forever
+Email: chrish@3drealms.com
+
+4/12/98
+------
+
+
+E Pluribus Enum
+{
+    USA_Alabama,
+    USA_Alaska,
+    USA_Arizona,
+    USA_Arkansas,
+
+    ...
+};
+

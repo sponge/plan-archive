@@ -1,0 +1,93 @@
+Welcome to Raven Software's Finger Service V1.4!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: SoF
+Last Updated: 06/13/1998 16:56:09 (Central Standard Time)
+-------------------------------------------------------------------------------
+6/13/98
+   Having read Game Center's gripes about what's over and under-hyped
+ report, I had to have a little chuckle about it.  Now if anything
+      or anyone is to blame for most of these, wouldn't it tend to be the
+      magazines themselves?
+
+   For example, there have been plenty of articles and news on their site
+      regarding John Romero and Daikatana - previews, screen shots, interviews,
+      etc.  Yet, they are now proclaiming to the world that John Romero is
+      over-hyped.  A little contradicting there, isn't it?
+
+   Same thing with Quake2.  They pressed it, previewed it, and publicized it.
+      Now they are saying it is over-hyped cuz they only played it two days.
+      Even though it is still one of the most net played games of all time.
+      Even though it has more mods than probably everything else combined.
+
+   Their comment about AGP is quite funny.  Didn't know we game programmers
+      must directly support AGP.  Hmmm, I must have missed that OpenGL AGP
+      API.  And here all this time I thought AGP was just a special bus
+      to allow video cards to access system memory at quicker rates, thus
+      lowering the required ram needed on a video card, while giving you
+      virtually unlimited texture ram.  
+
+   3D Overhyped?  Seems to work pretty well on the PlayStation and N64.
+      Why?  Cuz there isn't various 3d chipsets, some of which are just
+      plain horrible and widely used.  If we all lived in a SLI VooDoo2 world,
+      life would be grand.  But because the PC industry is so diverse with
+      hardware configurations, making a game that runs well on all systems
+      and looks pretty on the higher end systems is not an easy task, for
+      both programming and designing.  3D hardware technology is fairly new
+      to the end user, and the gaming industry is going through radical  
+      changes.  Understanding and knowledge of the new world that we 
+      are headed for must be possessed.
+ 
+   In my opinion, if anything is over-hyped or under-hyped, generally, it
+      has to do with the gaming magazines.  They are all trying to compete
+      with each other, so they need exclusives, previews, screen shots, 
+      demos, etc.  Some magazines almost appear to be afraid of being
+      honest, as they don't want to spoil any releationships they may have
+      between themselves and the company creating the game.  On the other
+      end of the spectrum, they ignore or hide games they feel won't 
+      help them sell magazines.  
+
+   Sure, we developers proclaim our games to look the greatest, awesome AI,
+      cool weapons, blah blah blah, as we have a belief that they will be,
+      though that doesn't always come true.  Game developing is a long process,
+      and many obstacles generally come up, which evolve and change the course
+      of the game.  The stories I could tell you about the last 8 months...
+      The only way for us to avoid false claims or predictions would be 
+      for us to shut up entirely.  But then our plan files wouldn't be so
+      fun to read...
+
+   And before you send off that email to John Romero saying I'm secretly
+      ripping on him in my .plan file...  I didn't do any intentional 
+      ripping, just pointed out a contradiction.
+
+   And now that I ripped on the magazines, they'll probably hold a grudge
+      against myself, Raven, Soldier of Fortune, Activision, Wisconsin,
+      the Packers, cheese heads, milk, etc.  I would love to rip on some
+      specific magazines, but I'm sure a few management types wouldn't
+      be too happy with me.   Publicity = Sales = Money = small portion 
+      of my salary.
+
+   Speaking of SoF, keep an eye out in my .plan file early next week for
+      something cool in regards to it.  It will be awesome!  Increadible!
+      Greatest thing to be seen in a .plan file ever!  ...ok, little 
+      sarcastic.
+
+6/11/98
+   What a soap opera-ish little video game development world we all live in!
+
+   Tooting, and slamming, and ripping, and flaming, and buying, and driving,
+      and promising, and delivering, and releasing, and blahing...
+
+   But out of all of it, I will say that Heretic 2 is very under-pressed.
+      Who's to blame?  Activision's marketing?  Other games cuz they 
+      are well established got more attention?  Cold Wisconsin weather?
+      Not for me to say...
+
+5/28/98
+   Anyone know any good E3 coverage sites?  Tomorrow I'm sponsoring the
+      official "Boss Be Gone" day!
+
+5/22/98
+   Purchased Unreal.  See ya next month.

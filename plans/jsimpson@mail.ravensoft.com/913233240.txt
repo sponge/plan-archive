@@ -1,0 +1,58 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 12/09/1998 15:47:28 (Central Standard Time)
+-------------------------------------------------------------------------------
+12/9/98
+
+Ok, the enhancement pack progresses. We got the downloading of maps, skins, models and sounds working
+properly, and the 2.0 code for Aureal has arrived and is integrated. By the way, the demo's for the
+2.0 code are extremely impressive.. I'm looking forward to hearing it in the game.
+Creative has also been on the ball and is assisting in the integration of EAX SB Live! support. Thanks
+to all at both companies that are pulling out the stops to help out here. I think the paying public
+are going to be the winners here.
+
+There is talk of a possible Dec Alpha version of Heretic II. If it happens at all, I will be doing it
+myself, and it won't be an Activision/Raven official release. I'm not promising anything to anyone here,
+just mentioning the possibility. Is there a demand out there for this I wonder ?
+
+I would mention that we do watch the Heretic II forums, and from the comments we are seeing there, we
+want it to be known that we *are* watching, and trying to implement and fix that which people are requesting.
+However, there are only three of us on this now, and one of us is taking some much deserved vacation, so be
+patient if we don't respond immediately.
+
+If you are having problems with the joystick, email either myself, or Kenn Hoestraka (khoestraka@mail.ravensoft.com)
+More I cannot say :) Suffice to say its worth your while.
+
+Something else we are keen to point out is that we want to support those out there making mods for Heretic II.
+Feel free to email us regarding this, if you have problems you can't seem to figure out yourself. Something
+else I ought to mention is that when the enhancement comes, we WILL be releasing the player code, so you can
+play with Corvus to your hearts content. It also looks increasingly like we WILL have another female player
+model with the enhancement pack. There WILL be more deathmatch maps, and we've modified the deathmatch flags
+so you can have blade only maps now... no flying fist if this is selected.
+
+One thing that mod makers might bear in mind. We wrote Heretic II so the server checks the client effects DLL
+of any one attempting to join a game it is hosting, and compares it to the one it has. If they aren't the same
+you can't join. This is to stop cheaters from modifying their own client effects to enhance their chances. The
+drawback to this is that if you make a mod, everyone has to be running the same version of the code to join a
+network game. Just something to bear in mind.
+
+Anyone know what the agenda is for GDGC this year ? We are trying to decide who to send this year. Anyone
+interested in us doing a talk of some kind ? Just an idle thought, not a company decision..
+
+Song of the Day :- Maddona's Ray of light. I kinda like this track. most of the rest of the album is crap,
+but this one is interesting.
+
+Joke of the day :-
+There are three blondes stranded on an island. Suddenly a fairy appears and offers to grant each one of them
+a wish. The first blonde asks to be intelligent. Instantly, she is turned into a brown haired woman and
+swims off the island.
+
+The next one asks to be even more intelligent that the previous one, so instantly she is turned into a black
+haired woman. The black haired woman builds a boat and sails off the island.
+
+The third blonde asks to become even more intelligent than the previous two. The fairy turns her into a man,
+and he walks across the bridge.

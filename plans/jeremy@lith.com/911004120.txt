@@ -1,0 +1,92 @@
+
+*** Monolith Production's Finger Server
+
+User name: jeremy
+Plan modified: Fri Nov 13 18:36:51 1998
+
+11/13/1998 - Part 2
+----
+And my SECOND big news post for the day...
+
+I finally got the ok to go ahead with putting together
+a Linux version of Lithtech and the LT games, beginning
+first with creating a server.  Sometime in the near 
+future, I'll be trying to put together a team to handle
+the Linux port - stay tuned for more info!  I'm also open
+to porting to Solaris and other UNIX boxen; the port 
+will be as clean as possible so as to work on as 
+many architectures as possible.  :)
+
+I wonder if I can come up with any more cool news for
+this evening... :)
+
+--Loki
+------------------
+11/13/1998
+----
+Well, been a while since an update, and even longer since
+a REAL update. :)  So here's a lot of news for ya!
+
+First off, the mundane.  I'm back off the Blood 2 team
+and back where I belong; the Lithtech team.  I'm once
+again the point-of-contact for all the outside developers
+and licensees.  So if you're confused about who to contact
+for technical issues, it's me again. :)  (Then again, most
+people either just e-mailed lithtech@lith.com or kept
+mailing me even when I wasn't the point-of-contact...)
+
+Secondly... the more exciting!
+
+I'm now the point of contact for people wanting to do mods
+for the Lithtech games (Blood 2 and Shogo).  Of course,
+the source code to neither has been released yet, but
+Shogo's source and tools are impending pretty soon!  If 
+you'd spoken to me before about doing a large mod for Shogo
+or Blood 2, now might be a good time to re-establish 
+contact. :)
+
+And as a little 'starter' for this, I've created two
+mailing lists for Lithtech game mod authors!  One is for
+Shogo mods, the other for Blood 2 mods.
+
+To subscribe to either list, send e-mail to:
+listar@lists.lith.com
+
+With 'subscribe ' as the subject (minus the
+quotes, of course) where  is either shogo-mod
+(for the Shogo mod list) or b2-mod (for the Blood 2 mod
+list).  If you have problems subscribing or generally need
+help with the mailing list software, contact me at either
+my normal work address (jeremy@lith.com)
+or my mailing list address (loki@lithtech.com).
+
+Questions about anything in this .plan file?  About LT
+mod authoring?  Contact me! :)
+
+--Loki
+------------------
+Old archives are at:
+
+http://www.users.lith.com/~jeremy/plans/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,70 @@
+Account Name:  Joe Siegler
+Email address: joes@3drealms.com
+----------
+2:46 PM 4/15/98
+
+Work Stuff
+----------
+Man, sometimes I hate Windows.  I had to reinstall Windows again, due to the fact that I installed some beta software that I'm not allowed to talk about due to an NDA, and it hosed several of my DLL's.  It was so bad, I had to reinstall Windows again.  On the plus side, I put Win98 on there (as I've been a MS Win Tester for several years now), and I formatted out the HD as a giant FAT32 drive.  I will say this.  FAT32 is real nice.  Check out this CHKDSK I did before I installed anything on the HD right after FDISKing and Formatting it:  :)
+
+CHKDSK has NOT checked this drive for errors. You must use SCANDISK to detect and fix errors on this drive.
+
+Volume BIG C created 04-13-1998 11:26a
+Volume Serial Number is
+
+3,156,414,464 bytes total disk space
+3,156,082,688 bytes available on disk
+
+        4,096 bytes in each allocation unit
+      770,609 total allocation units on disk
+      770,528 available allocation units on disk
+
+      655,360 total bytes memory
+      563,984 bytes free
+
+Instead of using CHKDSK, try using SCANDISK.  SCANDISK can reliably detect and fix a much wider range of disk problems.
+
+Anyways, I'm back online again; this is the reason there weren't any site updates for a few days.  Can't update when there's nothing on your hard drive!  :)
+
+
+Trivia Question
+---------------
+
+The last question was far too easy.   It was "What was the first game of ours to have sound card support?"
+
+The answer was Dark Ages.  One fact that no one mentioned was that Dark Ages was the first shareware game PERIOD to have Sound card support!
+
+New Question (a bit harder): How many people have worked in the Tech/Customer Support Department (aka the people who answer the phones) in the history of Apogee, and who are they?
+
+
+
+A story
+-------
+
+Some of you might remember when the primary source of information about Apogee was Fidonet.   Anyways, I used to get a lot (and I mean **A LOT**) of msgs asking me about Doom and when it was going to be released back in 1993.  I got a lot of msgs afterwards, too.  (Funny thing is that EVERY single game that id Software has released has generated mail for me asking about it.  You'd think after all these years people would know the difference :) The regulars in Fidonet got to know my stock answer then (not unlike today's "When it's done").  I got tired of answering "Doom is not an Apogee game" an awful lot, and one day I wrote this huge story about how Doom was not an Apogee game; more specifically, my telling people that it wasn't an Apogee game.  I was looking through some old text files today, and found that story, and I'm putting it here in my finger.  It's probably one of the most creative pieces of writing I've ever done.  I do *NOT* consider myself an author in any way.  :)
+
+-----
+
+Imagine yourself down at the docks.  It's late in the evening, and there's a mist out.  This isn't the kind of night where you'd really want to be standing around the docks.  A cool breeze blows by, and you're shivering, awaiting delivery of the information promised you. You look around, and see some birds on a pole, as a rat runs by on the ground.  Off in the distance, a big clock chimes it's 10PM.   You're beginning to wonder if the stranger would even show up.
+
+After another half an hour of waiting, you hear the soft purr of a sports car engine approaching in the distance.  Through this thick fog, you can't see anything, except some headlights advancing in the distance.  The car stops.  The headlights go off, and there is just the fog.  You then hear soft footsteps advancing towards you.  You hope that this really is the information you were waiting for all this time.  A man in a long black trenchcoat appears out of the fog walking slowly towards you.
+
+He approaches you and stops.  He looks haggered, looks slightly miffed. He coughs, pauses and produces a cigarette out of his pocket.  The cigarette is placed in his mouth by his hand, which seems to have callousses on the ends of them.  In a gruff voice, he asks you "Got a light?"  You produce a pack of matches, all the while wondering if this person really is the person you've been waiting for.  He's nothing like what you've been told about him.
+
+After another delay you muster the courage to ask him the question, "Are you the guy with the 'D' info?".  After a few long drags on his smoke, he says "Sure kid, follow me".   You and he walk back to the car, all the while you're becoming more and more frightened.  Is this person really him?  Shouldn't you have just had him produce the info w/o taking you away?  As the two of you approach his car, you demand "I need that info now!  I don't want to go anywhere, and I'm prepared to pay for it!"
+
+After an irritated look for your persistance, the stranger stops, and says "OK, here it is kid.".  He reaches into the car, and produces a black satchel with a strangly familiar red logo on it.  He reaches in, and produces a manila folder with the words "DOOM INFO" on it.  He hands it to you after you give him some money.  Attached to the folder is a business card which says "Joe Siegler - Online Support Manager".  You ask the stranger, "Are you Joe?"   The stranger, now getting back into his car says "Well, I could be Joe Siegler, I might not be.  Even if I was, I couldn't tell you that. Thanks for the light, kid."  The stranger gets back in his car.  Now that you're close to the car, you can actually make it out.  The car has a vanity license plate, and the plate says "APOGEE".  The stranger takes off.  You never do find out if it's the infamous Joe Siegler or not.
+
+You finally open up the folder, and inside it, is a small piece of paper containing the following text:
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ Doom is not an Apogee Software game, it's an Id Software game. As my company is not doing this game, I have no information on this, you'd have to ask Id about it.
+
+However, ask me about Blake Stone: Aliens of Gold, which is the next big 3-D game coming from Apogee!   That's due in November.  If you liked Wolfenstein 3-D, you're going to love Blake Stone!
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+You look at the paper disappointed.  You were expecting this giant revelation regarding Doom, and all you got a was a printout of Joe's famous "DOOM.TXT" file.  You turn around and walk away from the scene of your disappointment and wonder if this stranger in the "APOGEE" sports car really was Joe.  You decide it's probably not worth the effort, and set off for home, thinking about this really cool new other game Joe's mentioned called Blake Stone.  You decide you're going to check it out when it's released.
+	
+    

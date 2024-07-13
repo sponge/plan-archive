@@ -1,0 +1,572 @@
+
+*** Ion Storm's Finger Server
+
+User name: joey
+Plan modified: Thu Aug 06 17:08:25 1998
+
+
+
+============ 1998-08-06
+
+My fate is sealed.
+http://www.ionstorm.com/
+click on "news"
+I'll miss everybody, and I feel the love....
+
+============ 1998-08-02
+
+---- anachronox task-related information
+
+Got 10 days left to finish Anachronox, heh heh heh....
+
+- actor scriptor
+- treadmill for adjusting animation strides
+- more and more client-side animation happiness and intelligence
+- do final major upheavals of client-dll / server-dll interfaces
+- flesh out the comments on the forty thousand FIXME's for squirrel and
+  patrick to fix :-)
+
+We discovered a funky problem with some of our model animations sliding side-
+to-side.  One example is a character who waves his cane around during one
+animation sequence.
+
+Keep in mind that all vertices in the Quake2 model format are stored as triples
+of BYTES, so in each cartesian axis there exists only 256 possible points on
+which the vertices of the model can lie.  When the character waves his cane
+around, it drastically changes the offset/scale values that the anachronox 
+refresh uses to recenter the model, and the increased model coarseness when the
+character waves his cane and drastically increases his model extents, 
+combined with the different offset per frame, results in his sliding up to
+two texels, which is very noticeable.  In addition, I need to stop writing
+confusing run-on sentences.
+
+---- anachronox graphics related information
+
+DL1QUANT is an extremely nice and fast color quantizer.  Check it out 
+here.
+We decided to include both this method and the Wu octree method in anoxlibc.
+BTW anoxlibc.lib is just one of the cool things that is shipping with 
+Anachronox to help its off-the-shelf user extensibility.
+
+Although it appears to be sencond-to-none in terms of speed + color error,
+for certain pictures the Wu quantization method can give better results in
+terms of visual quality, but usually only when the image contains small
+areas of very different color.
+
+There's LOTS AND LOTS of very cool graphics stuff happening in Anachronox
+right now... but I'm just going to have to leave you hanging because I'm not
+supposed to talk about any of it.... :-( sorry for being so cruel....
+
+---- anecdotal doom2 related stuff
+
+Suddenly there's a Doom 2 revival going around.... and several foolish mortals
+dared to challenge me.  You know who you are.... you're past your prime,
+old ones!  >:-)  
+
+Last night I deathmatched with Death Jester [Lee Dotson], Paradox, and 
+Killcreek, who managed to win one round even though she's still relatively
+new to Doom 2....she plasma'd us to death in dwango6 map 8 (jroom), argh!  
+Paradox managed to squeeze a win on dwango6 map 4 (and I took the rest of the 
+games :-), anyways that was totally fun, guys... we should play again sometime, 
+maybe on Squirrel's deathtag level.....
+
+Then Squirrel had to up and bet me dinner for three that he can beat me at
+least once in Doom 2 on any level before vacation.... but even with Natas-
+training I'm afraid he simply doesn't have the skills....
+
+---- anecdotal anime related stuff
+
+Got Escaflowne 9-12, keeps getting better and better.  Got the laserdisc for
+the Evangelion 0:12 re-release import, HOLY COW the additional footage has some
+cool-ass stuff!!!!  Can't wait 'till December and the movie is released....
+also if you're into fansubs check out Jojo's Bizarre Adventure.... some of THE
+COOLEST in terms of just bad-ass action / strategy I've seen.  I highly,
+highly recommend it for everybody.
+
+---- Worms2 Update -----
+
+After a *very* long slump with a string of catastrophic losses to Squirrel,
+I've finally gotten back into my game and managed to smack him around recently
+with my newly-formed team of Stand Users.
+
+I think if I write another ellipses I'll feel terrible.... ugh.
+
+============ 1998-06-09
+
+We welcome Dominion programmer Patrick Deupree to Anachronox!  He's going to be
+doing all of the DirectMusic/DirectSound stuff, and helping us clear our four
+thousand mile long gameplay task list.
+
+I tackled with Xiaolin Wu's O(1)-time (not including preprocessing) octree 
+color reduction scheme this weekend (Graphics Gems 2) but since this was 
+starting to grow into a lot of lines of code and eat up a lot of time, I 
+decided to drop it for now, in favor of doing more useful stuff for Anachronox 
+:) much to the relief of Producer Daddy Jake.  When I'm done I'll probably post 
+the implementation, it gives the best reduction, visually, that I've seen so 
+far even with just using plain old RGB-distance for variance measurement.
+
+Adding some volume to the traces that the AnoxCam currently does, since in GL
+the view volume is bigger than software and the 0-volume tracelines are letting
+the viewpoint get too close to the walls sometimes and clip into the world, 
+even though it looks okay in software.
+
+Also starting NPC AI, working on heuristics to get people's feet to never slide
+while walking and running, including transitions between stop/walk/run.
+
+As an aside we're seriously considering making the software version 16-bit
+only, since we're going to have to go back to supporting 8-bit palette-per-
+texture and we don't want to do palette-per-level.  With everything being 
+24-bit right now, the texture requirements are WAY over 2 MB, and we don't
+want to alienate the 2+2 MB Voodoo1 and PVR1 cards.
+
+----- Worms2 Update -----
+
+Today we close another chapter in the continuing Ion Storm Worms2 Saga.  A
+royal bitch-beating was handed out to the Anachronox Artists by the Anachronox
+Programmers in a team-play tournament.  Too bad we didn't bet a dinner at 
+Benihana's over it...
+
+(Incidentally the Anachronox Programmers also beat down a smack-talking Romero,
+but we knew that would happen, and so is mentioned here only as a footnote.)
+
+============ 1998-06-01
+
+Since people at E3 were asking about it, I will think of an official name for 
+the camera scriptor. :-)  For now it is just "Anachronox Cinematic System" but
+hopefully something a bit more exciting will come up.
+
+I did a bunch of cleanup over the quiet weekend, including removal of id's 
+PAK0.PAK (we kept it for weapon models and testing q2 level compatibility), and
+cleaning up anox data trees on our poor, overworked file server.
+
+Right now I'm starting the AI for NPC's.... and it will be in C++, even though
+this will break console portability for the time being.
+
+Also I'm working on a general graphics DLL that will not only read / write
+the more common file formats, but also do much in the way of image conversion
+and processing, such as resampling, dithering, and octree color reduction.
+There's no reason for all the graphics loading stuff to be rewritten in each
+ref_*.
+
+In addition, with a generalized graphics dll, all of our tools would have the
+additional graphics processing functionality, as would any game dll's or 
+client dll's.  It might even save some shareware authors some time if it 
+becomes public domain....
+
+Hmm, throw in a nicer interface to PNG and ZIP support, in addition to the
+client-side 2D/3D graphics and file system interface, and you've got the
+Anachronox API.
+
+----
+
+In unrelated topics....
+
+- Squirrel is finally getting around to playing Q2.
+- Macross 7 rocks the house.
+- Project Akon was a lot of fun.  Didn't buy much, just a Newtype art book 
+  for Captain Tylor (the title was NewTylor, ha ha).
+- My very nice friends brought me the entire Armitage III LD set.
+
+============ 1998-05-17
+
+Went to CGDC, but since that was so many days ago.... there's nothing useful
+about new stuff I can comment on now.
+
+Everybody go buy Worms 2 and play it.  It is the most hilarious (and cute)
+artillery game, I guess since Worms 1.  A Worms 2 epidemic has broken out in 
+Team Anachronox, especially since you can play big multiplayer games....
+screams of pain and loud laughter spilling from programmer, artist, and
+designer areas alike.
+
+Finally framed my chibi-belldandy cell, one of my friends bought it for me as
+a present (and it was three hundred bucks) and it was lying around in a
+zip lock bag on my monitor (much to his distress).
+
+============ 1998-04-20
+
+Finally, we are 100% in Visual SourceSafe.  All of it, I mean from the engine
+to the utils to the plugin dlls.  EVERYTHING.  It was something long overdue,
+at last I will never have to do another "merge from hell" at Ion.  Of course,
+actually setting it up the first time for a project as complex as Quake, with
+all its nice interdependencies between files in different directories, required
+about three cycles of install-uninstall SourceSafe on my computer before I 
+could persuade it to do everything perfectly.
+
+Also learned some interesting things about Visual C 5.0.  One of the things
+Squirrel did this weekend was build Release builds of our map compiling tools.
+Yes, for the longest time we didn't realize that all the map people were using
+Debug builds which are about 3 to 4 times slower than Release builds.
+
+Mysteriously, qrad3 refused to function properly with the Release build 
+setting.  After sitting with Squirrel for about half an hour, and turning off
+optimizations in each file, recompiling, recompile the map, check the map, etc.
+we found that the error occurred in mathlib.c.  What the hell? we asked
+ourselves.
+
+So, we wrote stupid little functions that tested all of the vector routines 
+in mathlib.c, and then noticed that the computer was returning garbage in the
+normalize vector function.  ?????  Basically certain floating point
+assignments appeared to be mysteriously broken.
+
+So Corrinne gave her sagely advice, "Did you install all Service Packs for
+Visual C?"
+
+TODAYS MORAL: Install Visual C++ 5.0 Service Pack 3 or DIE.
+Actually, we already knew this.... but Squirrel had just formatted his
+machine and had forgotten to install the service packs.....
+
+After installing Service Pack 3, the Release build (full optimizations) ran 
+perfectly without any code changes.  Sheesh!
+
+One more thing, we build qrad3 with the "blend" processor option and with the
+"Pentium Pro" processor option to test the difference on our quad pentium 
+pro map compiling machine.  Turned out the difference was less than 1 percent
+of the total compilation time, so we decided it wasn't worth it to compile
+ppro-specific code.  This way it will also run fairly well on pentium-class
+machines.
+
+Thats it for today.
+
+============ 1998-04-06
+
+I attended Creativity 98 in Santa Clara last week, a two-day conference held by
+Creative Labs about their upcoming technology.  ActiveMusic sounds better and 
+better for what we need to do in Anachronox -- low CPU high quality real-time
+interactive music.  Also, we learned that even though ActiveMusic can make
+generating cool music a relatively easy task... it doesn't mean you don't need
+a good composer.  "Programmer music" -- just like programmer art -- yech.
+Can't wait for the DirectX 6 beta to be passed out at CGDC.
+
+Other programming notes...
+
+Trying to export functions from an executable makes Windows barf (but not the
+compiler).  It was fairly amusing to see obscure Windows error messages I never
+knew existed...
+
+So, the anox DLL interfaces for third party programmers will remain as the
+passing of a struct containing function pointers, to simplify things.  Since I
+really want to use implicit linking to make life easier, I may eventually move 
+the client interface into a master dll like the server.
+
+Oh, yes, and I failed the raw quail egg test this weekend.  Try again next
+weekend.  It's only a dollar a pop, maybe I'll try twice.
+
+And Richard Huddy (3dlabs) is the C optimization master.  If he wrote a book,
+he would earn a lot of money.
+
+============ 1998-03-20
+
+Ahem.  Another Honorary Asian has joined our ranks today.  Kenneth Scott, skin
+creator extraordinaire for Daikatana, has successfully eaten raw quail egg yolk 
+with chopsticks without the yolk bursting, in the presence of an Asian.
+
+Thank you very much.
+
+============ 1998-03-13
+
+Friday the Thirteenth.  Maybe something good will happen to me today.  I can
+just feel the bad karma gathering over my head.
+
+Just finished merging all my code into 3.14 after pulling an all-nighter.
+At my current rate of Ramen consumption in the office, I should have kidney
+stones or MSG overdose in about 3 to 4 months.
+
+Got a nice little machine set up at home, so I can start on OpenEngine.  You'll
+hear a lot about this in the late fall.  Right now it's just in the planning
+stages.
+
+Anachronox is coming along well.  We are on the verge of loading all our 
+Lightwave models into Quake 2, and the generalized physics engine is making
+good progress.  I am psyched for E3 already....!
+
+Nothing else much new on this front.  Be there for the Anachronox chat on the
+Ion Storm web page at 8 PM Central!!!
+
+============ 1998-03-04
+
+BIG plan file update, for me at least.
+
+Table of contents:
+1. An Apology
+2. Our Theater
+3. The Status of Anachronox
+4. New Hardware
+5. Fun Stuff
+
+***** an apology *****
+
+Wait, was there something inappropriate in this space?
+My public apologies to id for my outburst.  Please do not think
+any less of Anachronox because of it, I simply lost it.  No excuses.
+
+***** our theater *****
+
+On a different note, we got the AC-3 Dolby Digital sound to work in our 
+theater.  All this time, we thought we had bad ass sound.... now we have super 
+bad ass give-you-heart-attack-while-losing-control-over-your-bladder sound.
+
+Kudos to Jake Hughes and Doug Myres and our theater technicians.
+
+Oh yes, kudos to Jake Hughes for some great trailers shown at our Grand
+Opening party.  (hey, somebody come over here and tell me what color my
+nose is please)
+
+Seriously, it takes real dedication to put blood (literally -- but you don't
+want to know) and sweat into trailers, all of which amount to about 6 or
+7 minutes, and are used for only TWO DAYS.
+
+Now, I have to go back and watch the Tenchi Muyo movie again -- in its full
+AC-3 glory.
+
+Oh yes, and don't see the movie Seven for the first time by youself, in a
+pitch black cold theater, at 4 in the morning, when nobody is around.  And
+no, that yellow stain on the theater room floor wasn't my fault.
+
+***** anachronox status *****
+
+And now.... for a real plan update.
+Of course this is all subject to change.
+
+We will definitely show Anachronox at E3.  It will be badass.  By then we 
+hope to have a fully functional game and we will demo one entire area.  This
+means a large map and all of the small maps connected to it (like shops
+and bars and other special places).  Fully functional meaning walking around,
+talking to NPC's, buying items, inventory, stats, a couple battles, a couple
+in-engine cinematics, you know, the works.
+
+The external camera -- it is fairly smooth, never clips through walls, and 
+acts pretty much like the camera in Mario 64.  Have I mentioned this before?
+At 3 in the morning you tend to forget, and babble.  Also, when the 3DFX
+guys came by -- there was a small glitch in the camera as it clipped through
+the corners of some walls.
+
+Turned out it wasn't a bug (or a feature).  I had developed the external 
+AnoxCam purely in software-only Quake, and when the 3dfx guys came by, of
+course I wanted to show the camera to them on the new Voodoo2 they just gave
+me.  It was then I learned that the clipping volume for the viewer in OpenGL
+is different from the clipping volume set in Quake's software rasterizer, so
+I had never noticed the problem before.  Of course I never figured this out
+until after the 3DFX guys left -- so they probably still think I am some kind
+of imbecile.
+
+Right now I'm working on writing a new physics engine.  When that is done, I 
+will interface it to Quake -- and it will also be flexible enough, 
+interface-wise, to be used in Aidoru as well.
+
+Ha ha, Aidoru -- poor Corrinne, we make her work on Anachronox, and force
+her to do all this stuff we want in the Quake 2 engine that only she can do.
+It's OK Corrinne -- you'll be working on Aidoru soon enough!  How about, as
+a token of my promise, I will buy you a lot of those little microwavable 
+snacks.
+
+After the physics engine, I will be working on a new camera scriptor / actor
+scriptor system for Quake 2.  For those of you who saw the Anachronox 
+trailer, you know what the camera scriptor can do.  The actor scriptor will 
+use Squirrel's AI, he wants to do some massive changes to the entities and 
+write his own AI for controlling NPC, monster, and actor movement.  Also, 
+Squirrel is working on all the really spiffy GUI components of Anox.
+
+After that -- working on Battle Mode.  This will be fun.  All those Mystek
+effects.  Of course it will be challenging (actually, pretty damn difficult)
+to top the summons in FF7.... but that is our inspiration.
+
+One more thing -- internationalization of Anachronox is something we have 
+in mind.  We won't do the voices in other languages, but you can bet the
+subtitles will....
+
+***** new hardware *****
+
+Voodoo 2 reference boards work great.  60 fps quake, 640 x 480, 16 bit
+textures, 4 mb of texture ram.
+
+Now, I just need to get another couple boards... and do SLI... Quake at
+120 fps, anybody?  Squirrel, don't say it.  I know you're going to say it.
+
+And I heard some tantalizing news that the PowerVR2 has some really really
+cool features that I couldn't sqeeze out of Vik, but is going to blow us
+away.
+
+***** fun stuff *****
+
+AIRSOFT!!!!!!  Just got some airsoft guns.  Got many others to get airsoft
+guns.  Basically they are mini machine guns that shoot little .12 g blue
+pellets that don't hurt but sting on bare hands.
+
+After Tom and Jake got quite upset with the noise and danger (to your eyes)
+I self-imposed a rule of no guns before 10 PM and no wars without goggles
+and a fairly evacuated office.
+
+Visit Vik Long's airsoft page
+if you are curious.
+
+Have a great week, people.
+
+============ 1998-02-27
+
+Well, I figured out today that under NT 4, DirectInput is a hack -- the amount
+of mouse ticks you can move in one frame is equal to the screen resolution,
+so I assume it is still going through the Windows subsystem to get the mouse
+cursor coordinates and recentering!!  I can't believe it.
+
+No problems with DirectInput under 95 or 98.  Oh yes, I installed Win98 built
+1677 I got from Meltdown, only has crashed once (and that was under IE4, not
+Quake).
+
+Now, if only MIS hadn't threatened to do terrible things to me if I installed
+NT5.
+
+============ 1998-02-25
+
+You know those cheap little microwaveable ravioli snacks?
+
+-----Original Message-----
+From:    Corrinne Yu 
+Sent:    Tuesday, February 24, 1998 5:46 PM
+To:      Joey Liaw
+Subject: food thief
+
+For each lunch cup you take you have to replace it with two.
+Or, you will never be allowed to find out whether or not I have gotten a task 
+done.
+
+============ 1998-02-21
+
+A quick note about plan files here at Ion -- while we are still deciding
+exactly what headers the finger server should spit out, every time we change
+the format, the web page autofinger updaters think everybody updated their
+plan files.  I have been bombarded by email telling me the finger server is
+screwing up, so now you know what is going on.  Thank you.
+
+============ 1998-02-16
+
+Just finished writing our own custom finger server.  We got sick of the one
+we had which kept crashing, so it will be better this way :-)
+
+Learned some tricks from Kee (resident Network Sage) and so now it takes up
+less than 2% of the CPU when going full tilt.  Added bonus, it doesn't eat
+up memory constantly so that we have to reboot it every two days like our
+old one, either.
+
+============ 1998-02-06
+
+Just returned from Meltdown 98, and there were a couple things that really
+caught my attention.  (Meltdown 98 was the Microsoft IHV/ISV conference in
+Seattle this week for DirectX 6, but also NT5 and Win98).  DirectX 6 is coming 
+to NT.  YES!  No more crashing my Win95 box.
+
+--- DirectMusic.  The stuff we saw is cool, and the funny thing is that some-
+    thing like DirectMusic was called for in Tom's original Anachronox design, 
+    and now there is an API for it in DirectX 6.  Somebody told me that 
+    DirectMusic had actually been around for a while, but was buried deep 
+    inside one of Microsoft's presentation packages.  Funny that DirectMusic 
+    can something mindless like the dx5 demo Space Donuts and make it a cool
+    game.  No joke.
+
+    Interactive music is a thing that most game programmers think is 
+    unimportant, but I think that is one of the things that makes N64 such fun 
+    to play.  IMuse (LucasArts) is a great example.
+
+--- PowerVR 2 and some other cards are promising full-screen antialiasing.
+    Extremely cool.
+
+--- A worrisome trend is growing among video card manufacturers to prefer 
+    speed over image quality.  Although some other game companies are pushing 
+    for this to occur, Ion Storm's technology department is not.
+
+--- Direct3d in DirectX 6 is looking to be a competitive alternative to OpenGL
+    in 3d games.  Of course, the D3D vs OGL battle is starting to turn into
+    another Mac vs PC or (going further back) Apple vs Amiga war, where most
+    of the discussion is ad hominem.
+
+    This is not to say whether or not Corrinne is going to write a ref_d3d.dll.
+    However, in my opinion DX6/D3D is quickly approaching the capabilities of 
+    OGL, and although it is much more difficult to implement a D3D rasterizer 
+    than OGL (mostly in terms of setup), it has the advantage of being a lower-
+    level API.
+
+    There are similarities to the ASM vs C debate (which they also addressed
+    briefly at the conference, in fact) but I won't stretch the parallels 
+    to make my point.
+
+----
+
+Non-serious stuff update:
+
+I met a lot of people at the conference.  The funniest was by far John Casey
+from S3.  From him I learned how to stab my eyeball and make white goo spurt 
+everywhere.  Also, when we went to The Other Side (one of the multiplayer-pod-
+type places) and played Quake (with a joystick!), he kept cracking me up over 
+the intercom so badly I couldn't concentrate.
+
+Also I met Ray Gresko for the first time, and he is a pretty funny guy too.
+Although he didn't participate in the huge Quake battle, he kept saying
+very funny things over the intercom, mostly pretending to be Rooster's mother
+and saying stuff like "Put that rocket launcher down Rooster, it's bedtime."
+(Rooster is our 17-year-old intern.)
+
+I didn't get to whore as much hardware on this trip as I had hoped, but 
+CGDC is coming up....
+
+Managed picked up a bunch of nvidia's, and other stuff.  Hypothetically,
+I could stick two ____ cards in one box and run Quake at 120 fps.  Cool.
+
+Got another 21" monitor, but it is virtual this time.  Basically I have three 
+21" Viewsonics, but one is shared between two computers, so I kinda have four.
+Actually, I do not recommend the NTI electronic switchbox I am using, because
+it makes the spacebar and arrow keys delayed-action.  Very annoying.  I may
+switch to some other method.  Like a physical fourth 21".  Hey, then I could
+array them in a 2x2 matrix.  That would rock.  (Dodging flames on hardware
+whoreness.)
+
+Have fun all,
+Joey (nick Chinaman)
+
+============ 1998-01-15
+
+Just because my Windows desktop nearly 8 million pixels and I grabbed three 21"
+monitors for myself does not mean I am a hardware whore.
+
+============ 1998-01-13
+
+* More on DLL Security Issues, OpenQuake, et al *
+
+Thanks for the great response from people!  Please read update Jan 12 if you
+haven't already....  in any case I am a bit more pessimistic about ever finding
+a solution to the DLL problem.
+
+Remember that everything in this plan file does not necessarily reflect the
+opinions of Ion Storm, they reflect my personal opinion and preliminary
+thoughts on things that may happen in the future.
+
+(1) Feasability
+
+    After reading the many suggestions from different people, the method I 
+    proposed yesterday seems much less feasable.  I argued that perhaps we
+    could filter DLL's making direct Windows calls, but there are too many
+    easy ways to work around such a measure, and it would be a hassle in
+    general to rewrite a layer over a lot of system library code.
+
+    The fundamental problem is that under Windows 95 there is no security
+    whatsoever.  Under NT, we could conceivably load the DLL's through
+    a separate process with its own security descriptor that prevents it
+    from reading/writing subdirectories above the dll's directory or on a
+    network drive.  Such a solution is far from elegant as well.
+
+    Right now, third-party verification methods look to be the best solution,
+    which brings me to ---
+
+(2) OpenQuake (visit their site)
+
+    These people propose to verify source code and publish checksums for
+    verified DLL's.  They also have a nice discussion on the dangers of DLL's
+    as well.  These people have started a very good thing, and there are some 
+    things I would like to point out:
+
+    CON: Nothing is to stop somebody from releasing a malicious DLL and
+         sending harmless-looking code to OpenQuake (with all the damaging 
+         code removed).  Nobody has the time to get every DLL compiler and 
+         compile every DLL out there, and people can even use custom
+         static libraries available on the net they did not write 
+         themselves (in which case the OpenQuake people cannot compile 
+         it unless they have all the libraries as well).  Sometimes these
+         libraries may have their own NDA, and so cannot

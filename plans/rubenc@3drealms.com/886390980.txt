@@ -1,0 +1,96 @@
+Account Name:  Ruben Cabrera
+Email address: rubenc@3drealms.com
+----------
+PERSONAL
+
+Any of you out there believe that dreams have some significance and or are trying to tell you something.
+
+My dream last night was messed up.  I was back home in Miami at my parents house taking a shower.  As I was taking a shower I felt that there was another presence in there with me.  It gave me the shivers and for some reason I knew it was evil.  I got the out of there quick.  I ran just to the end of the hallway leading to my bedroom then I stop to think about what happened.  Something brought me back to the shower and for some strange reason I wanted to finish my shower.  Now that I look in retrospect I don't even remember if I took my clothes off or not.  I proceeded to shower again and the same thing happened. I ran out, this time I was in combat mode ready for anything.  I proceeded with my shower and as I was looking towards the towel rack, one of the towels started to animate and move.  It came at me, and I ran out of the bathroom yet again.  I had to get someone to go with me to the bathroom.  I found my mom in the kitchen and she went with me.  I don't even remember telling her what I saw, she just went with me.  I walked in the bathroom and stood next to the sink, my mom right behind me.  I waited and nothing happened, then just when I was getting ready to leave, the towel emerged and started coming at me.  This time blocking my path from exiting the bathroom.  I struggled with the towel.  As I gripped the towel it felt like I was interlocking with someone's hands. I could feel hands.  The towel overpowered me started to push me and my mom backwards up against the wall.  In the struggle I adjusted my grip on the towel and I started pushing it backwards.  I remember telling my mom to feel the towel so she could affirm that it felt like a pair of hands and not a towel. Well, I pushed the towel as far back as I could.  There was a mirror at the end of where I was pushing the towel and I pushed it until the towel was inside the mirror.  By doing that I got a glimpse of the entity in the mirror looking at me.  It was wearing a black hood and all I saw was an evil grin and glowing red eyes.  I then punched the mirror and I woke up.
+
+I wasn't abused as a child.  I think I am pretty stable. What does that mean?  
+Well if you think you know e-mail me.  I need some answers!
+
+
+********************************************************************
+TIPS
+
+Setting up 3D Studio Release 4 to run under Microsoft Windows 3.xx or 95 in just two easy steps
+
+Step 1: Add an entry to your system.ini file
+
+You have to add an entry in your SYSTEM.INI file.  Its located in the root directory of windows. Ex. C:\windows  If you can't find it hit the start button and go to Find / Files or Folders and do a search for it. When this is done, add an entry in the [386enh] section: 
+
+device=c:\3ds4\pharlap.386
+
+If you have 3ds4 installed to another drive then make sure the path is correct.  The pharlap.386 file can be found in your 3ds4 directory.  If you can't find the file then do a search for it, and make sure the path is correct leading to this file.
+
+
+
+Step 2: Create an icon for it
+
+To create an icon simply go to your 3ds4 directory, using windows explorer find the file 3ds.exe.  Click on the file highlighting it then right mouse click.  It should bring up a menu selection, then just go to create shortcut.  Then just drag the file named short cut to 3ds4 to your desktop.  
+
+If you want the official 3ds4 icon instead of the default MS-DOS icon then follow these steps.
+1. click the 3ds4 icon on your desktop.
+2. Right mouse click, should get a menu, go to properties
+3. Hit the program tab on top.
+4. Click on the change icon button
+5. Click the browse button and go to your 3ds4 directory, there you should find a file called 3ds.ico
+Hit apply and your done. 
+
+********************************************************************
+
+COOL DUKE NUKEM MERCHANDIZE
+
+Duke Nukem Action Figure 
+
+If you can't afford the Duke Nukem statue then you gotta get the action figure.  The really cool thing is that it just doesn't end with Duke.  They are soon going to create the BattleLord, Octabrain and PigCop.  They will also do some really cool things that your not going to expect.  If you don't like ordering through the internet, you could buy them at your local computer store.  I know Electronics Boutique has them.  If you order them through the internet though I believe you get a collectors edition which has more stuff.
+
+      Creator: Resaurus, Inc. 
+      Phone: 614-751-9352 
+      Web: http://www.resarus.com 
+ 
+
+
+
+ 
+
+
+********************************************************************
+FACTS
+
+What consumers spent in 1993: 
+
+                   $13.2 billion Home movie videos 
+                   $10.0 billion Recorded Music 
+                   $ 5.2 billion Movies 
+                   $ 5.0 billion Videogames 
+                   $ 2.0 billion Computer Software 
+
+
+Top videogrames can produce first-week sales that rival what giant movie hits take in when they open. 
+
+Videogame sales                 Movie Openings
+First week sales in millions    Biggest sales to date in millions
+Mortal Kombat II    $50.00      The Lion King               $40.87
+Donkey Kong Country $34.98      Interview with the Vampire  $36.39
+                                The Flintstones             $29.69
+
+
+Michael Meyer, "Fight to the Finish", Newsweek, December 12, 1994, pp. 56-57. 
+
+********************************************************************
+PROGRAMS
+
+If you know what mp3's are then its likely that you have winamp to play them with. Winamp version 2 is in the making.  Check out http://www.asmith.com/ they have made a new graphical user interface for winamp
+
+Version 2 represents a complete rewriting of the application from the ground up. 
+               features, which include primarily: 
+
+                    Modular Sources 
+                    Modular Output Options 
+                    Modular User Interface 
+
+these could be subject to change :)
+	
+    

@@ -1,0 +1,197 @@
+Account Name:  20155
+Email address: boon@2015.com
+----------
+Welcome to the 2015 Finger Server
+
+
+User name: boon
+Name: Michael Boon 
+Email: boon@2015.com
+Occupation: Modeler, animator, AI coder
+Project: ...
+
+Plan modified: Wednesday, April 28, 1999
+
+************************************************************************
+* NOTE: Any views expressed here do not reflect the official position  *
+* of 2015 Inc. They are my own views and should not be confused with   *
+* those of the company.  Of course, in the case where my views differ  *
+* from those of the company, I'm right.                                *
+************************************************************************ 
+
+
+------
+8/9/99
+------
+
+Hey, long time no .plan
+
+I want to welcome Justin Thomas to the team. Justin is an awesome modeler and 2D artist and is already making his mark on our current project. His skills really round out the art department, complementing Paul's awesome concept art and texture skills, and his modeling skill is hopefully going to rub off on Ken and myself one of these days.
+
+Justin is also tough enough to beat up the LD's when we need him to, which takes a lot of strain off Ken.
+
+
+
+-------
+28/4/99
+-------
+
+I've been asked this by a couple of people now, so I thought I'd post it 
+to the world.  I just hope I didn't forget any!  The new enemies in Wages 
+of Sin (in approximate order of appearance) are: 
+
+- Crawler (little guy who spits at you from the ceiling or floor) 
+- Splitter (big fat guy with a shotgun, explodes when he dies) 
+- Split Bug (spidery thing which comes out of the Splitter) 
+- Grogg (albino thing with a bone instead of one hand, who doesn't 
+       attack unless provoked) 
+- Slim (aka Chicken-legs, carries a shotgun) 
+- Doggie (mutant dog with very big teeth) 
+- The Claw (this fine piece of scripting by Z qualifies as an enemy in
+       its own right, although I'm not sure if I should include it as
+       a creature)
+- Mortician (the guy who leaps around a lot) 
+- Manero's Thug (mobster guy, carries a range of weapons) 
+- Security Guard (this is a Ritual model with a new set of animations 
+       to make him an enemy) 
+- Janitor Bob (the little round flying robot who fires blue plasma at 
+       you) 
+- Beecadrone (this is a Ritual model which was almost entirely unused 
+       in Sin - the flying thing with the laser) 
+- Goliath (the super mutant: big, ugly, strong, bad-tempered, throws 
+       stuff, that sort of thing) 
+- Manero the crime lord - he is just a reskinned thug. 
+
+Plus there's Jessica/female dancer and the male dancer, but they don't 
+attack you.
+
+Hope that's useful to someone!
+
+
+------
+8/3/99
+------
+
+I just read a couple of reviews of the pack - it's excellent to see that 
+people appreciate our efforts!
+One which I'd like to respond to was the PCVelocity  
+(http://www.pcvelocity.com/gaming/reviews/wagesofsin/w1.shtml) one.  One 
+problem the guy had was with the Plasmabow.  Here's the quote:
+
+"The only thing that I noticed was kinda weird with this thing is that 
+when you actually hit somebody with it, it didn't explode. You have to 
+purposefully miss to make it blow up."
+
+Well, the good news for this guy and anyone else who was mislead by the 
+lack of explosion is that the plasmabow does massive damage on a direct 
+hit.  The idea was that it would be great for the museum level and for in-
+your-face work because it packed a huge punch without splash damage, as 
+long as your aim was good enough.  I guess we needed to give the player 
+some more feedback though.
+
+
+-------
+25/2/99
+-------
+
+For anyone who is not sure about whether they want to buy Wages of Sin, we have just released an avi which we hope will convince you ;).  The avi weighs in at just under 10MB and shows about 2 minutes worth of stuff from the game, covering everything from architecture to weapons and monsters, without giving away much in the way of secret stuff.  As of now, it's up on our site, but hopefully it will soon be mirrored on a few others.
+
+
+--------
+21/01/99
+--------
+
+Heh, after all my earlier boasting about being able to write the date correctly, I went and dated my last update as January 98.  Dammit.  I got it right now though.
+
+Speaking of dates, I got quoted about the release date for the pack by a Sin page recently.  I should have expected that, I guess, and not even mentioned it.  But now that it's done, I want to say that that date is by no means official, and I'm very inexperienced at picking how long things take to get onto the shelves and stuff.  So just ignore that date.  All I'm going to say about the release date now is that it is now close enough that you should start saving up for it pretty soon.
+
+--------
+13/01/99
+--------
+
+Well, looks like I didn't need to bother to beat up on Z for being an English major - he has managed to embarrass himself on Bluesnews today without my help ;)
+
+Still, I like the idea of a plan war with the state of Mississippi - shame I'm not 100% sure where Mississippi is...
+
+--------
+10/01/98
+--------
+
+We're doing good here, getting on towards gold in time to have the game, erm, pack, out by the first of Feb, which is cool.
+
+Here's something I finally got sorted today:  if you're making Sin models from Max, be sure to turn the "export deltas" thing off for any animations that don't _need_ it on.  In order to cut down think time, the engine doesn't check gravity for an actor who is playing an animation with delta info in it, which means that a lot of my monsters were ending up floating in the air once you'd shot them a few times.  I took delta info out of pain and idle animations and now they're fine.
+
+--------
+10/12/98
+--------
+
+Well, we've released a couple of screenshots, and some people actually 
+seem to have noticed...cool to see that people care about what we are 
+doing.  We've had a couple more requests for shots too, but we're being 
+careful not to show too much of the pack before it is released - that's 
+not saying we won't give out more screenshots, far from it, but just that 
+there will be a hell of a lot in this pack that no one will have any clue 
+about until it is released.  I think that's a good thing :)
+
+Still, we've got enough done for this pack that we can show a lot more 
+without ruining the best surprises...
+
+As I write this, Ken, our other modeller, is experimenting with giving our 
+thug some different weapons. (Our thug is the fellow you would have seen 
+in one of those screenshots, not to be confused with the original Sin 
+thug, who isn't nearly so well dressed.)  One of these in particular, I 
+think people will really love, just as soon as they get on the less 
+dangerous end of it (I say this because Ken got killed really badly the 
+first time he spawned this guy, before he realised just how dangerous the 
+weapon was, heh heh).
+
+Anyhow, enough drivel, I hope to say something useful every time I update 
+here, so here's something useful.  When you export an animation from Max 
+to Sin, you get the option of exporting deltas or not.  If you want an 
+animation to move out of the bounding box, don't export the deltas, 
+whereas if you want the bounding box to move with the animation, do export 
+deltas.  I guess that's easy ;)  Now here's the cool bit, which I figured 
+out today.  I needed a looping animation to start and finish offset in the 
+bounding box (I needed someone to lean against a wall), so what I did was 
+tack an extra frame on the beginning with the model where I wanted the 
+bounding box to be, and then in the !main section of the def file, I wrote 
+"server lean first setframe 1" which meant that the first frame of the 
+animation was never played.  Since the engine gets the animation's origin 
+from its first frame, the rest of the animation was nicely offset.  Not 
+exactly a work of genius, I know (since the other guys told me so when I 
+yelled out "I'm a genius" the first time it worked), but it might be 
+useful to someone...
+
+
+-------
+4/12/98
+-------
+
+I'm going to put the date in the right way around in my .plan file because 
+I'm not Amercian and hence don't suffer from the problem of trying to 
+write things the wrong way.
+
+We just got these plan file things today, and Magoo and Z and Paul are all 
+huddled over their computers busily trashing each other.  Well, actually, 
+Paul and Magoo are trashing each other and Z is busily defending himself 
+from the spare flak that seems to fly off their trashing.  Z really does 
+ask for it though - he's an English major and he spells worse than anyone 
+I've ever met (quick note here, all Americans spell stuff wrong, and if I 
+disregarded that then Z might be better than some Tasmanians I know).  
+Heh, shouldn't judge a guy by how well he spells though, it's a shame for 
+Z that that doesn't make a difference in his case...
+
+Oh, a quick hi to all the Tasmanians out there :)
+
+Here's some things people might find useful with animation names in .def 
+files in Sin: 
+The code which controls AI has some keywords it takes note of.  Some are 
+obvious, like fire, walk, run, but there are others, like 
+crouch_, and alert, which are cool too.  If an actor dies or 
+suffers pain while in a crouch, the code automatically looks for an 
+appropriate animation with the crouch_ prefix.  Alert is actually a form 
+of idle: once an actor has been activated or whatever, they then use their 
+alert animation instead of their idle animation, until their enemy dies.  
+This can be really cool if you want to have a fancy set of idle and twitch 
+animations, but want the actor to always keep his/her/its gun ready when 
+he/she/it is fighting.

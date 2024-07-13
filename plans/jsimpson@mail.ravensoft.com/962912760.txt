@@ -1,0 +1,30 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 07/06/2000 16:32:30 (Central Standard Time)
+-------------------------------------------------------------------------------
+7/6/00
+
+July already? What happened to Febuary?
+
+Now that the news about SOF Gold is out of the bag I want to take this opportunity to mention to those out there
+that have been sending us bugs on the original SOF release that we have fixed most of these, and you'll see the 
+results in GOLD. Some people where a bit upset that the bug fixes didn't make it into 1.05 - here's what happened.
+We got word about SOF GOLD happening just when Rick Johnson went on vacation. He didn't have time to split the code, 
+and rather than wait a week, we just got on with adding in the new deathmatch modes and bot code. Lots of the bug
+fixes we implemented came after this. Given the quantity of code we changed Rick didn't have much chance of just taking
+the bug fixes and trying to implementing them in the original 1.04 code base - especially since some of the fixes were
+affected by the new stuff that's coming in. A nasty situation here, and one that we couldn't do much about.
+1.05 went out without some of the newer fixes in it that we would have like to have seen. 1.05 did fix alot of stuff,
+but those bug reports that came in late and from the internet weren't reflected in it.
+Gold, however, has everything. And the kitchen sink as well. Well, it feels like it anyway:) As Brian R., our glorious
+leader mentioned, there are two new deathmatch modes - both teamplay related. There is a new way of handling team 
+selection, bots, new AI and other new stuff. Never let it be said we rest on our laurels.
+
+And best of all, it's FREE:) - well, the update to SOF retail is anyway.
+For those that have been holding off buying SOF, here is your reason to rush out and grab it.
+
+If your bored, take a trip around JAKEWORLD!

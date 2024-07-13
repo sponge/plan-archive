@@ -1,0 +1,130 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Sun Sep  5 12:24 (EDT) on ttyp1 from tpfl.demon.co.uk
+Mail forwarded to brandon@epicgames.com
+Mail last read Fri Aug 20 17:58 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Thursday, September 09, 1999
+
+No, we aren't removing footsteps completely, just from
+walking.  Read more carefully!
+
+Wednesday, September 08, 1999
+Raleigh, NC
+
+I'm back in the US after a yucky 9 hour flight.
+
+-- Gameplay changes for party goers.
+
+First the raw data.  We are making a few changes based
+on input from the UT party at the Playing Fields.
+(I'll get to the party in a second.)
+
+- Increasing the collision size of armor and health pickups.
+- Making walk footsteps completely silent.
+- Making reported ping remove server frametime.
+
+-- UT party.
+
+This party was amazingly cool.  We had a good sampling from the
+Tribes, QuakeWorld, and Quake2 communities.  You could tell players
+from each community based on their playing style and the questions
+they were asking :)  The QuakeWorld guys were kicking ass with the
+PulseGun and the Tribes guys were playing a lot of CTF.  Hehehe.
+
+We ran six free for all prelim rounds with ten players each.  The top
+three players from each prelim plus two extra high scorers were put into
+the semifinals.  Each semifinal consisted of a ten player free for
+all with the two winners playing a one on one for the trophy.
+
+The finals match was between Amok and Hakeem.  It was a great match.
+I'm not sure about Amok's background, but Hakeem is one of those
+QuakeWorld only guys.  The match rocked, with Hakeem gaining early
+control over the armor in DM-Liandri.  About halfway through,
+Hakeem disappeared and Amok was able to gain some control over the
+central room.  Hakeem popped in and got blasted by Amok's flak cannon.
+After that, Hakeem seemed to play near the armor teleporter and was
+able to finish Amok off multiple times with the shaft.
+
+After the tourney, we opened the machines up to everyone and I answered
+questions.  I played in one CTF match on CTF face that lasted a good
+30 minutes.  Gestalt was offering excellent sniper cover for the Red
+team and the Blue team (my team) had a hell of a time getting through.
+
+During the party I talked to a lot of players and media types.  Everyone
+thought UT kicked ass!  I am so floored.  Its very cool hearing the
+hardcore QuakeWorld dudes actually saying they thought your game
+was worth playing (these are the guys who passed on Quake2 and Quake3).
+I was surprised at the feedback on Assault.  I'm more of a CTF person
+myself, but everyone was really loving Assault.  We played about
+four Assault maps.  AS-HiSpeed (the train assault mission) got the
+highest praise, but they also liked AS-OverLord (the WW2 D-Day mission)
+map also.
+
+Most of the negative comments surrounded three issues.  First, that
+the pickup radius for items was too small.  (Consider it changed.)
+Second, that walking was more or less pointless because footsteps
+still made sound.  (Consider it changed.)  Third, that ping
+was too high.  I explained that UT's ping calculation is equal
+to network ping plus the average frame time of the server, but the
+perception that a higher ping is always inferior was still there.
+We'll be changing ping so that it reflects network latency.  (What
+most people think of when they say ping.)
+
+There is some good event coverage on EuroGamer.  That sniping
+bitch Gestalt wrote it (hehehe):
+
+UT Party
+
+Huge huge huge thanks go out to PC Gaming World
+for helping underwrite the event.  Specifically, Mat Bettinson, who
+assisted in running everything.
+
+Overall the event was excellent.  I was extremely satisfied to present
+the game to a diverse group of gamers.  I think we were able to
+convert many skeptics into belivers :-)
+
+-- ECTS
+
+ECTS was pretty lame.  There wasn't much to see.  I didn't really
+see anything new.  Shrug.
+
+Rune looks very good.  I watched them summon like 10 goblins onto
+the screen without any slowdown.  Level of detail rocks. :)  That
+was the only PC game there I was really interested in checking out.
+I saw most everything else at E3.
+
+-- London
+
+Since ECTS wasn't very compelling I spent most of Monday in Soho. 
+London is too cool.  On Monday night people were just hanging out
+sitting in front of pubs talking and listening to street muscisians.
+On Tuesday I went to Camden Town.  That place is fucking amazing.
+Punks, goths, and freaks were just hanging out.  The atmosphere
+was great.  I bought a pair of boots and checked out a music store 
+called Ressurection Records.  I had a ton of fun and met a lot
+of cool people.  I hope I go to ECTS next year ;)
+
+(We weren't showing UT at ECTS, but it seems like nearly every hardware
+vendor had it running as a demonstration.  Jack hung out around the
+3dfx booth giving demonstrations.)
+
+-- Blue
+
+It looks like Blue thinks he can get away with that YelloMarine
+crap behind my back while I'm not around.  Let me tell you
+that guy Blue is a punk.  Everyone knows that Loonyboi is the
+real power behind Blue's News.  That's why Loonygames is on
+summer sabbatical.  He has to do all the work while Blue thinks up
+witty quotes of the day ;)
+
+-- Other
+
+I apologize for so shamelessly plugging UT in this update.  I always
+get frustrated when I read other people's plans and they are just full
+of boring game pimping crappage.  I'm just really excited about the
+feedback.  Hehe.
+	
+    

@@ -1,0 +1,29 @@
+Login: craigh         			Name: Craig Hubbard
+Directory: /home/craigh             	Shell: /bin/bash
+Last login Fri Jul  4 00:45 1997 (PDT) on ttyp0 from 208.8.216.193
+New mail received Fri Sep 25 12:49 1998 (PDT)
+     Unread since Fri Jul  4 00:42 1997 (PDT)
+Plan:
+Name: Craig Hubbard
+Rank: Lead Designer
+Project: Shogo-MAD
+
+10/8/98
+
+For those of you concerned about Shogo's AI, we've found and eliminated a couple of minor but nasty bugs that were making our enemies look... well, stupid. :)
+
+The first issue had to do with enemies inadvertently getting set to the IDLE state in one specific circumstance that, unfortunately, occurs throughout the game. The system isn't supposed to allow an AI to become idle unless a level designer sets it that way. If an enemy is IDLE, you can walk right up to it, jump on its head, etc.--so long as you don't damage it--and it'll ignore you. They basically ignore everyone unless they take damage
+
+You've probably noticed situations in which you shoot one guy and the guy standing next to him just stands there with his thumb up his butt. AIs actually alert other allied AIs within a certain range when they've been damaged, but because of this bug, you wouldn't have observed a reaction in many cases. Now you will. :)
+
+The second issue was that enemies who were targeting the player sometimes failed to SEE the player. You'd be likely to notice this problem in a long hallway or large outdoor area where you shoot a guy and he stands there like he wants to shoot but doesn't actually do so. Well, now he shoots.
+
+Another issue had to do with bullets hitting near a bad guy. Enemies actually hear weapon firing and impact sounds within a given radius (based on the weapon) and turn to target the player. Previously, it would only work if they had a direct line of sight to the impact point, which would cause problems if the bullet or explosion hit right around a corner.
+
+These few minor fixes will make a big difference and will definitely be in the first patch. Of course, the game is gonna get a little tougher as a result, but that's what difficulty settings are for!
+
+We owe special thanks to those of you who posted specific examples of AI problems. Those examples made it simple to track down the bugs. :)
+
+As for complaints about our enemies' defensive tendencies, put yourself in their position and ask yourself if you'd go charging around a corner after some guy with a shotgun. Didn't think so. ;)
+
+

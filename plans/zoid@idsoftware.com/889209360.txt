@@ -1,0 +1,154 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Dave Kirsch
+Email: zoid@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 03/06/1998 14:22:20 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+Mar 06/98
+
+Man, I didn't know BSDI wasn't ELF yet.  I've never built an a.out jump-table
+based shared library before, nor do I know how to load one.  Anyone got
+some tidbits on how to go about it (the man pages aren't too clear, and
+mostly talk about system shared libraries).  I need to create a game
+shared lib with one entry in the jump table (GetGameAPI).  Some example
+code for building the library and loading it would be nice.
+
+Got the Solaris Sparc port pretty much done.  Going to beat on it today.
+
+I was considering writing a 'tournament' mode into Q2 CTF.  The server op
+can set the server into a tourny mode and players pick teams, a timer counts
+down and the game goes off and running.  Should help clan matches.  I'm
+looking for ideas on how it should work (stuff like how teams are picked,
+what the menu looks like, what options the players should have for setting
+up the game and the game settings, etc).  Drop me a line if you have some
+ideas.
+
+Mar 04/98
+
+The game and CTF dll source is up on ftp.idsoftware.com.  It'll be fun to
+see what people will be doing with it.  I know everyone's been waiting
+to hack the crap out of them.  :)
+
+I've been working on the Solaris and BSDI dedicated server ports.  Hit a
+snag with the Solaris version today that slowed me down (damn byte order
+problems).  I hope to have them soon.
+
+Currently, I'm only targetting the following platforms for the Quake2 server
+ports:
+	Linux i386 (server and client)
+	Solaris Sparc
+	BSDI i386
+
+I've been asked about lots of other operating systems such as HP-UX,
+Solaris x86, FreeBSD, etc.  The three I'm targetting are the most widely used
+and I haven't had enough interest in the other platforms yet.
+
+Note that mods will need to be compiled for each platform.  Fortunately,
+the game code is portable and doesn't require any changes to compile on
+any of the platforms.  I'll be including Makefiles for each platform and
+precompiled game and CTF shared libraries.  This is a warning to mod authors
+to make sure they write portable code--you're mod may end up on a Solaris
+server someday!
+
+On another note, a popular server that used to be up here on the West Coast
+has returned.  BlackTongue was a very popular west coast QuakeWorld CTF
+server.  It was offline for a month or so, but has returned as a Quake2
+CTF server!  The host address is quake.threewave.com and it's basically
+my home server now (since I get a 14ms ping to it on my ADSL connection).
+You'll see me there sometimes along with lots of my Burning Chrome
+clan mates.   Hop on for some CTF action sometime.
+
+/// Zoid.
+
+Mar 03/98
+
+Quake2 3.14a for Linux is up on
+ftp://ftp.idsoftware.com/idstuff/quake2/unix/quake2-3.14a-i386-unknown-linux2.0.tar.gz
+This fixes the 100% cpu usage problem in the 3.14 release that was out early
+this morning (I goofed during the 3.14 source merge, oops).
+
+ThreeWave Q2CTF 1.02 was released as well.  This includes the bug fixes from
+the main 3.14 source and adds the new player identification HUD display.
+The HUD display came out really well--it only adds a single byte to the
+network packets when it changes.  To enable it, type 'id' at the console.
+The setting isn't saved across levels yet, but I'll be looking at it.
+
+The timeouts for capture assists have been increased for the fact Quake2 is
+a somewhat slower paced game.  This can result in double assists.  If the
+flag is stolen, returned, stolen and returned in a very short period of time
+and then a capture happens, a double assist can happen.  Each player will
+only get one assist, but more than one player can get the assist now.
+
+The power armor is changed in CTF.  Trying to kill a guy with 200 Power Armor,
+200 Body Armor and the Disruptor Shield was REALLY rough.  Power Armor used
+to absorb two damage per cell, this is now one damage per cell.  I did this
+as a balance issue.
+
+John Cash and I are going to be looking at completely rewriting the save game
+system in a forthcoming release.  This is a major change but will offer many
+benefits--save games will become platform indepenant as well as compatible
+across minor version changes.  Not to mention getting them to load properly
+under Linux.  Save games are still touchy under Linux and will sometimes
+segfault on load.  This is due to the original design of the save game system,
+unfortunately.  The rewrite will require a substancial change the the
+game source, so we'll probably be re-releasing it again later on.
+
+Cash and I are also planning to release the 3.14 and Q2CTF 1.02 source
+either later today or tomorrow pending on how stable the 3.14 release turns
+out.  We've been holding it so that you guys get one major update and not
+half a dozen little ones--I've had enough fun trying to keep the Linux version
+sync'd with the main code over all these minor upgrades.  It's alot easier
+to get one major upgrade than lots of smaller ones.
+
+I'm hoping to put together the Solaris and BSDI dedicated servers later
+today or tomorrow so we can get some more servers out there.
+
+Sorry to keep pumping out quick releases like this, but it seems to be
+the best way to get stuff out there and tested and fixed.
+
+/// Zoid.
+
+Feb 20/98
+
+Wow, it's finally out.
+
+Q2 CTF is the result of about two and half months of work.  I'd like to
+thank the beta testers for working out most of the bugs (the release seems
+to be pretty stable 'cept for the server crashing problem that isn't
+Q2 CTF specific), Kevin, Adrian and Paul at id for putting out some amazing
+art and models for the pak, and Tom 'Bjorn' Klok for putting together
+some kick ass grapple sounds.
+
+There only seems to be two major issues in Q2 CTF--one being if someone
+has the cyborg model they appear as the default male/grunt guy so you have
+no idea what team he's on.  The other is aliases for grapple switch/fire,
+unlock/switch weapon back don't seem to work well.  You get stuck to the
+wall.  I've fixed the grapple one and I'm working on the model/skin one
+(just politely ask the player to switch to using either the male or
+female models when playing for now).
+
+I'm going to hold off on any patches and the Q2 CTF game source code release
+until I see how Q2 CTF shakes down over the next few days.  Want to make
+sure I cover any bugs that pop up over the next few days and release
+a 1.01 server dll and source in one shot.
+
+As for Linux, I'm working on a point release for it right now.  I've already
+fixed the save game problem that plagued Linux 3.10.  I'm working on fixing
+some of the security problems mentioned on rootshell--quake2 will refuse
+to run if it's setuid since loading shared libraries under that condition
+is evil and bad.  You will have to su or login as root to run the SVGALib
+(soft) or MesaGL (gl) renderers.  Since they only work on the system console
+there isn't much problem with that.  As usual, the X11 version doesn't
+require any special permissions.  This isn't an ideal solution.  The ideal
+solution is for the next GLIDE that uses /dev/3dfx so you don't need root
+to do 3DFX GL stuff, and for software, supporting a ref_ggi that doesn't
+require root.  These won't be in my next release, but I'm still planning
+a ref_ggi in the near future.
+
+Hope everyone enjoys the new release!  It's amazing to see all the Q2 CTF
+servers popping up and people having a blast on them.
+
+/// Zoid.

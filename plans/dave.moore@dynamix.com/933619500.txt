@@ -1,0 +1,20 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------
+User Name: dave.moore     Plan Last Modified: 08/02/1999 12:31:53 PST
+
+Real Name: Dave Moore
+Nickname:  SymLink
+Job: Technology Programmer, Lord High Miscellany
+Project: Starsiege: TRIBES
+
+  Erk!  Ok, there have been reports of palette problems
+on 3dfx cards with only one TMU (Voodoo Graphics, Rush,
+Banshee).  Mea maxima culpa, all my fault.  I goofed a
+logic test (Morgan's law?  Something like that.  The one
+that goes ![A && B] => [!A || !B]).  We're aware of the
+problem, and a fix is in QA at this time.  This is
+especially embarrassing, since 1.7 was supposed to fix
+a palette problem on Voodoo 2's and Voodoo 3's.  Sigh.

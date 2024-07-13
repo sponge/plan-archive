@@ -1,0 +1,56 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: markd
+Plan modified: Thu Jul 30 13:46:00 1998
+
+07/30/98
+========
+
+I am blown away by all the cool things happening online with Sin. The response
+has been beyond words, and the team spirit at Ritual is high.  We are
+anxious to finish the rest of the game as I am sure you are anxious to play
+it.  Here is some info:
+
+- There will definitely be a patch to the demo to fix a number of issues, most
+of these have to do with multiplayer:
+1.  Remove cheat codes we overlooked (sorry)
+2.  Speed of net traffic (there were a few optimizations that didn't make it
+in before the demo)
+3.  Fix Zombie problems on servers
+4.  Fix dedicated server heartbeat problems.
+5.  Camgun problems in Bank
+6.  Menu options which are active but don't affect anything in game (these
+will be disabled)
+7.  Initial 3D Audio support
+8.  sounds not playing when fov > 90
+9.  A bunch of other stuff that escapes me.
+
+- Don( OneThumb ) will be putting a known bugs section in front of the Sin Bug
+submission form, so we can cut down on dupe submissions.
+
+- It is great to see benchmarks out there, BUT please keep in mind that Sin
+has really not gone through the optimization phase yet.  This is something I
+had planned before the demo, but alas, time sux.  The numbers you see around
+are sure to increase by the time the game ships.  We will most likely still be
+a little slower than Q2, because our world and model poly counts are just
+plain higher, but I think the benchmarks will be a lot closer.
+
+- look for a Ritual surprise next week :)
+
+- One more thing, Sin is not a 3rd person game, but if you hit F6 or
+"toggleviewmode" it will put you in 3rd person, the update to the demo should
+have the 3D crosshair we had in at E3, which actually allows you to play the
+game from a 3rd person perspective.  This can be fun.
+
+
+=========================================================================
+=  = = Mark Dochtermann = Ritual Entertainment
+=========================================================================
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************
+pleasant email 

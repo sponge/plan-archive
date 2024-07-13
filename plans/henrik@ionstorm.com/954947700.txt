@@ -1,0 +1,43 @@
+
+*** Ion Storm's Finger Server
+
+User name: henrik
+Plan modified: Thu Mar 30 21:58:30 2000
+
+$cat > .plan
+
+9:04 PM 3/30/00
+
+Ahh... Finally!
+
+After 6..uhm..7.uhm..many months here at ION Storm, the time
+has finally come for me to hammer out my First Ever .plan file.
+
+I am a programmer. I work on Anachronox. I've boldly hacked new 
+holes in the original QuakeII code. I've put in a quite excellent 
+sound library by the name of Miles Sound System (Jeff Roberts 
+rule!), I've put in a flexible and cool game data base and hooked 
+it up to the actual stats and inventories of the characters. I've 
+gotten our in-game music to work through Microsoft's DirectMusic 
+and...uhm...
+
+uhm... 
+
+...Hey, guys, help me out here.. I've done something more, haven't I?
+
+Oh, yeah, I just recently infected everyone in the Anox code-corner 
+with my fantastic cold, I've discovered Reese's (sp?) chocolate-covered 
+peanut butter treats for the first time, ( Yes, that's right. Last 
+Tuesday was the first time I tried one of those. See explanation below) 
+and I do my best to spread the Gospel according to Lemmy at the office. 
+No one around here seem to appreciate Motorhead (the band, not the racing 
+game), though, but my mission is NOT over!
+
+Also, I have to admit, I'm from Forreign. Forreign is a country that 
+lies outside of the Unites States, (and noone ever really heard about, 
+_anyway_, so why bother trying to remember the name of that silly country?) 
+and therefore I go by the name of Switz here. (They don't have Reese's 
+chocolates over there in Switz)
+
+That's all for tonight... Take care.
+

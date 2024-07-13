@@ -1,0 +1,134 @@
+[mailhub.gte.net]
+
+Account Name:  georgeb @3drealms.com
+Email address: georgeb@3drealms.com
+----------
+George Broussard (President -- 3D Realms)
+  * Project Leader - Duke Nukem Forever, Shadow Warrior
+  * Executive Producer - Prey
+
+Shadow Warrior update (Sunday 6/8/97 - 4:42 pm)
+===============================================
+We've been concentrating on the full version of 
+the game.  Michael Wallin is doing some new
+characters like the "Chick Warrior", and the
+"Sumo".  We're hoping to have them in the game
+this next week for tweaks.  We will also post
+some screen shots of them in the registered 
+levels.  Frank and Jim have been coding away,
+and there's not any real major issues, besides
+adding new characters and tweaking some 
+weapons.  Along with pounding on some new bugs
+and revisions since v1.1 was released.
+Keith and Stephen are doing AMAZING work on
+the levels, and I can promise you that they
+are all the quality of the shareware levels
+and beyond.  I keep waiting for these two to
+collapse from over work, but instead I will
+nick name them "The two energizer bunnies."
+Lee is working on the redbook music.  There 
+will be about 10 songs.  Half music, half
+ambient.  He's got about 8 of them ready
+for prime time.  We still need to record some
+new Lo Wang speak.  Any suggestions from users
+out there?
+
+
+[Other news] 6/8/97
+
+* Worked a little with the two Shadow Warrior
+novel author's.  Explaining to them about Lo
+Wang's personality and sending them CD's of 
+all his speech, so they could get a handle on 
+it.
+
+* The Prey team is working hard to prepare a
+demo for E3.  We are *this* close to having
+characters walk around, lit, in the world.
+Some guys from Cyrix, Sybex and GameSpot
+were here this week and echoed that Prey was
+the most amazing 3D game they'd seen so far.
+We hope they are right ;)
+
+* I did a lot of work on Duke Forever's plot
+line and level progression.  We have it about
+80% nailed down.  After a few group meetings 
+to exchange design ideas for the levels, we'll
+likely start working on "real" stuff, now that
+we have direction.  Allen continues to do some
+amazing "tricks" with the Quake engine, that
+reminds me of the early days when he and Todd
+were playing with Build.  "Wow, you can do 
+that?  Wonder why nobody did?" ;)  Expect 
+coolness. p.s.  My "design doc" for Duke
+Forever is like 12 pages and is overtaking
+my life ;) ;) ;)
+
+* We welcomed Ruben Cabrera (artist for Duke
+Forever) this week.  He's pretty cool and
+comes from the now defunct Capstone/Intracorp.
+Don't hold that against him ;)  His art rocks!
+
+
+[George's Movie Review #4: "Con Air"]
+Another cool film from the same producer's that
+brought you, "Bad Boys", "Crimson Tide", and
+"The Rock".  While not as good as The Rock,
+this movie still "rocks".  Great action,
+bad guys, and Nicholas Cage is good as alwasy.
+This one's a no brainer.  (These guys would
+be a cool team to do the Duke Nukem movie
+I think)
+Rating: 8 / 10
+
+
+[George's Movie Review #3: "Lost World"]
+Awesome special effects that cannot be missed.  
+Plot weaker than a wet paper bag.  First 20 
+minutes should have been scrapped or redone.
+Kids? Don't need em?  At least in first movie
+they "did" something besides whine and be a
+burdon.  But the action and special effects 
+make it a "must" see.  Too bad everything else
+ruined a shot at cinematic greatness. No repeat
+value except to look for glitches in the effects.
+Rating: 8 / 10
+
+
+[Duke Nukem Forever Info ]
+
+This is sort of a mini FAQ since I keep getting the same 
+questions over and over.  It also gives people something
+to put on the dozens of Duke Nukem Forever sites I've
+seen go up.  (Thanks for the support guys).
+
+* Release:  "When it's done", but we think sometime in 
+Mid 1998.
+
+* Yes, we will maintain Quake C, so you can modify Duke 
+Forever all you want?  DLL's?  Don't know, but don't count
+on them.
+
+* If you want to know why we didn't use the Prey engine, see 
+www.3drealms.com, under About Us/Press Releases
+
+* We plan on maintaing all of Quake's functionality in the free
+play over the Internet.  To save some text space, since it's 
+based on the Quake engine, you can assume we will keep most of 
+what is already there and add to it, where we can.
+
+* We are developing for the Quake 1 engine and will get Quake 2 at
+a later date, and try to add what we can from it.  If you want
+Quake 2 info...you will have to wait.
+
+* 3Dfx?  Yes, we will maintain GLDuke, and will probably do extra
+stuff for the version to make it cooler.
+
+* Yes, we will have super interactive environments like Duke 3D
+
+* Yes, we will keep Duke's voice, sense of humor and character in
+place and expand upon it.
+
+* And finally, the most asked question so far? "Strippers?"  
+Hey, it's Duke, and we're 3D Realms.
+

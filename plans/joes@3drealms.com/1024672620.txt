@@ -1,0 +1,38 @@
+Account Name:  joes
+Email address: joes@finger.3drealms.com
+----------
+11:49 AM 6/21/2002
+
+I know I tend to like games that most folks in my industry don't like (but that's OK, I like them, that's all that really matters), but I happened on a cool game a week or two ago that I'm really into now.  It's been around for a few years, but I never actually got into it hardcore like I have now until this revision.
+
+Anyway, I'm currently hooked on a sports game called Baseball Mogul 2003.  This isn't like any other baseball game.  It's not one where you actually *PLAY* the game as such, it's a team simulator.  You set salaries, you set ticket prices, you even set things like what kind of TV coverage you have (cable, free, etc), as well as prices of hot dogs, ice cream, and drinks.  You can build new stadiums, etc...
+
+You basically are the team "mogul" (hence the name), and it's a very deep simulator.  If you're into fantasy baseball, you really owe it to yourself to check it out.   It's being published by Monkeystone (Tom Hall & John Romero's new company).  
+
+There's more info about it here:
+
+http://www.monkeystone.com/products/bbm2003/
+
+http://www.sportsmogul.com/baseballcd/index.htm
+
+There's a demo you can download from the Monkeystone site (and check out their pretty funny game Hyperspace Delivery Boy while you're at it).  If you're into baseball, and ESPECIALLY fantasy baseball, then you owe it to yourself to check this out.
+
+Remember, it's a text based game, you're not going to get the most realistic baseball players with a zillion polys here - this is one of those old fashioned games that makes you have to imagine your own graphics and what the team "looks like".  
+
+----------------------------------
+
+Also, I got some really good feedback on the NFL Sunday Ticket Schedule spreadsheet I mentioned in my plan file earlier this week.  For those that missed it, here's that again:
+
+Just a short note for those of you who have DirecTV and subscribe to their NFL Sunday Ticket package..
+
+Someone did this last year, and I found it an invaluable tool, so today I started looking for the same file for this season, and then decided "Aw hell, I'll just do it myself".   This is an Excel spreadsheet (created with Excel from Office XP) which shows all the channels for all 17 weeks of the 2002 NFL season.  Anyway, it shows all the matchups, and I've also added info on the Sunday night ESPN games as well as the Monday Night Football games.
+
+Last year I printed this out, and had it next to the TV, it was very helpful during the season in seeing which games are on what channel, and vice versa.  As my wife and I are both originally from Pennsylvania (me from Philly and her from Pittsburgh), it's really helpful when you live in Dallas to be able to *NOT* have to watch the Cowboys all the time .  Anyway, if you have the NFL Sunday Ticket package, and have something that can read this spreadsheet, download this file:
+
+http://www.siegler.net/2002nflsundayticket.zip
+
+Inside there is the Excel XP spreadsheet I'm talking about.  Print it out in landscape mode, and it'll all be on one page.  If you use it, drop me a line and let me know - always curious to know who uses my stuff.
+
+Also, if you're a TiVo user and have a standalone TiVo box, you'll find out that the NFL Sunday Ticket (as well as the MLB Extra Innings and all the rest of their sports packages) don't have detailed information on specific games.  If you have a DirecTiVo (the DirecTV receiver & TiVo in the same box), then you'll have good info.  The reason is that the SA TiVo and the DirecTiVo use different guide sources for their info, hence the difference.
+	
+    

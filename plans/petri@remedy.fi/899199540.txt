@@ -1,0 +1,28 @@
+Username: petri                     In real life: Petri Jarvilehto      
+
+
+Plan:
+Just saw someone doubting that Max Payne E3 showing was more 
+'smoke and mirrors' than actual game development. The funny 
+thing is that the remark came from a person who hadn't even
+seen the game running real time ;) 
+
+This is something I'd like to set straight: when preparing for E3
+we chose to do a video of Max to show on the main floor and
+show the actual development in the backroom demo. This approach
+was chosen specifically to avoid any 'E3 Demo syndrome' from 
+happening (it seems to be common practice to spend even months
+polishing up a demo for the show, which essentially is away 
+from the normal development). So all in all, we ended up
+working 3 days to get the video done in time, and avoided 
+quick & dirty hacks. The stuff that was shown in the backroom 
+was an actual snapshot of the development phase we were during E3.
+
+To sum it up, the technology that was shown at E3 is solid
+(as I think anyone who saw briefly the tools we've developed
+for the game will confirm) and we've invested immense amounts 
+of time and effort to really create an environment that allows 
+for flexible and strong game-development. If this also happens 
+to look visually good enough the get the CEOs of other companies 
+nervous I would figure we're on the right track here :-)
+

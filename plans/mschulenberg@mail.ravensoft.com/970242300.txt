@@ -1,0 +1,30 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Mike Schulenberg
+Email: mschulenberg@mail.ravensoft.com
+Description: Designer
+Project: Star Trek
+Last Updated: 09/29/2000 11:55:44 (Central Standard Time)
+-------------------------------------------------------------------------------
+9-29-00
+
+Okay, I've been seeing quite a few questions about this
+recently, so I thought I'd mention it here...
+
+A while back James set up this thing with the Elite Force
+console where you can set console commands that toggle on
+and off with a single key.  This is cool for doing things
+like making a key that toggles between running and walking.
+For example, to bind a run/walk toggle to the a key, 
+open your efconfig.cfg file in your favorite text editor
+and add the following line:
+
+bind a     "cl_run !"
+
+The exclamation point is what actually makes the key a toggle,
+and will work with any console command that switches between
+on/off states (like r_speeds, r_showtris, r_curves, or whatever).
+
+Hopefully somebody finds this useful...
+
+Oz

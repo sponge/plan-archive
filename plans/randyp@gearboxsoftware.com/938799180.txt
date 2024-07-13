@@ -1,0 +1,420 @@
+Login: randyp         			Name: Randy Pitchford
+Directory: /home/randyp             	Shell: /bin/bash
+Last login Mon Aug  2 10:18 (CDT) on ttyp1 from randy
+New mail received Fri Oct  1 14:37 1999 (CDT)
+     Unread since Fri Oct  1 14:36 1999 (CDT)
+Project:
+
+Half-Life: Opposing Force
+
+
+Plan:
+********
+10/01/99
+
+I've received some e-mail asking about the winners of the recent TFC
+level design contest hosted by WON.NET, the winners of which will have
+their maps featured on the Half-Life: Opposing Force CD.
+
+We received the entry maps a few weeks ago and have played them quite
+a bit before picking the winners.  We wanted to make sure we gave every
+map the attention it deserved. There are some GREAT Team Fortress Classic
+maps among them and I'm proud to include the winning maps with our game.
+
+So, we would like to let you know that the winners are being chosen by
+Gearbox and Valve and that an announcement will be coming very soon.
+
+Thanks for your patience, and thanks for the great maps!
+
+-DuvalMagic
+
+
+
+********
+09/24/99
+
+A couple of days ago, a good article about Half-Life: Opposing Force
+was posted here:
+
+http://www.gameproworld.com/gpw/pc/article/0,1408,1694,00.html
+
+I noticed that not many of the news pages reported this one, yet it
+is significant because this is the first published preview of OpFor
+where the writer actually had a playable version of the game to report on.
+
+Check it out... There's lots of good info and tons of new exclusive
+screen shots.
+
+Best quote: "This year, I think I'll be heading back to Black Mesa at
+least one more time." -Jason Samuel, Game Pro World
+
+Thanks Jason!
+
+-DuvalMagic
+
+
+
+********
+09/10/99
+
+Today Gearbox and Sierra studios have announced four more of the all-star
+level designers for the multiplayer portion of Half-Life: Opposing Force.
+
+I'm sure you'll agree that these designers represent some of the best talent
+in the business and I'm looking forward to deathmatching in their maps as
+much as Half-Life fans are.
+
+Check out the full press release below...
+
+I personally have a great deal of respect for each designer we've invited
+to be part of the All-Star group and suspect that the action gaming
+community feels the same way.  Only a title like Half-Life could gather as
+many accomplished level makers like this together for the OpFor multiplayer
+game.  Even though this rare collection of designers alone is enough to make
+OpFor a collectors item, I'm going to try to get all of the "All Stars" to
+sign my copy after we go gold.  What do you think I could get for that
+on E-Bay? I know it's no kidney, but... Hey! look... Levelord!
+
+I would like to point out that there will be more announcements soon
+describing the last group of all-stars and the winners of the Team Fortress
+Classic level design contest who's maps will be included with Half-Life:
+Opposing Force.
+
+In fact, we're going to start playing the TFC entries next week to choose
+a winner.  I can't wait!
+
+-DuvalMagic
+
+>>>
+Bellevue, WA (September 10, 1999) - Sierra Studios, Gearbox Software and
+Valve are proud to announce four additional members of the industry
+"All-Star" team designing the multiplayer portion of the upcoming PC
+title, Half-Life(tm): Opposing Force(tm), the entirely new episode for
+the Game of the Year.
+
+The four veteran designers announced today are: Richard "Zdim" Carlson,
+David "Kevlar" Kelvin, Marin "Kandyman" Gazzari, and Eric Reuter. They
+join the team along with Richard "Levelord(tm)" Gray, who announced his
+participation earlier this summer.
+
+"Gearbox is obviously very excited to be working with such an amazing
+team of talented designers on Op For," says Randy Pitchford, co-founder
+and lead game designer at Gearbox. "It also adds a degree of suspense as
+we are waiting just as anxiously as everyone else to see what kind of
+amazing maps they put together for us to play."
+
+About the All-Stars:
+
+Richard "Zdim" Carlson
+Growing from being one of the most respected amateur designers of the
+Doom and Heretic era, Carlson defined unique black and white sections of
+Ion Storm's upcoming epic RPG Anachronox. He then contributed to John
+Romero's Daikatana before making the move to Looking Glass Studios where
+he is a pivotal designer for the upcoming Thief 2.
+
+David "Kevlar" Kelvin
+Aside from being a very visible member of the early 3D level design
+community, Kelvin was a member of Team Evolve creating several missions
+for the Quake II Zaero pack. He spent a short time at Monolith contributing
+maps for Blood II and Shogo before joining Legend Entertainment where
+he has shipped Unreal: Return to NaPali and is currently working on
+Wheel of Time.
+
+Marin "Kandyman" Gazzari
+Austrian Marin Gazzari is probably the most respected deathmatch level
+designer of the era. His simple yet perfectly flowing designs have been
+the setting for countless tournament and clan matches. Although he is
+probably best known for his work with Quake's ZerStoerer pack, his "kndy"
+series of deathmatch maps are among the most played maps ever created.
+
+Eric Reuter
+One of the most accomplished designers of the Opposing Force "All Stars,"
+Eric is currently the lead level builder of Unreal PlayStation which will
+offer a completely new single player episode. Eric was a designer with
+the original Unreal team after working with 3dRealms on Shadow Warrior.
+Eric became a professional designer after his early level work for Doom
+found its way into the SAM'S published books "Tricks of the Doom Programming
+Gurus" and "3D Game Alchemy."
+
+Half-Life: Opposing Force (a.k.a. Op For) will feature over one dozen new
+multiplayer levels created by 3-D action industry All Stars. Op For also
+features an expansive new single player episode were players return to
+the Black Mesa Research Facility from the exciting new perspective of a
+soldier to eliminate a new breed of fierce aliens. The title, which is
+being developed by Gearbox Software, is on schedule to ship this fall.
+<<<
+
+
+********
+8/30/99
+
+Gearbox is Hiring!
+
+We're looking for someone to hammer at the game during our completion
+phase to help make sure Half-Life: Opposing Force is the best it can be.
+This is a little more than a testing position because development tools
+will be used, but less than a developer position because very little new,
+creative work will be possible at this stage. This could turn into a full
+time developer position at Gearbox, depending on the successful applicant.
+
+The job description below is taken from www.gearboxsoftware.com  
+
+
++Level Designer Intern
+
+Learn what's involved in shipping a top title from the inside as you work
+with our experienced staff of level designers to fine tune Half-Life:
+Opposing Force.  This is a unique opportunity to get involved in the game
+making process on one of the most anticipated titles of the year - even if
+you have little or no experience.
+
+What we're looking for:
+  - Must live somewhere in the Dallas, TX metroplex
+  - Must be 18 years of age or older
+  - Must have reliable transportation to our offices
+  - Must have played Half-Life and enjoyed it
+  - Must be reasonably intelligent and a quick learner
+  - Must be available to work part time between Sept. 13 and Oct. 15
+  - Some exposure to Worldcraft helpful
+
+What you'll get:
+  - Training with Worldcraft to perform duties listed below
+  - Hourly $ Compensation
+  - Mention in the Half-Life: Opposing Force credits
+  - A signed copy of the final game
+
+What you'll do:
+  - Work part time at Gearbox Software's office for five weeks
+  - Testing and bug reporting of Half-Life: Opposing Force
+  - Place ambient sound effects in game levels
+  - Identify (and assist in the correction of) level transition errors
+  - Apply consistant, generic special effects in levels
+  - Random texture alignment throughout the game
+
+If you'd like to take advantage of this opportunity, apply by e-mailing:
+jobs@gearboxsoftware.com.  Include your name, age, location, and a short
+description of why you want and deserve this job.
+
+Successful applicant may be considered for full time employement with
+Gearbox Software.
+
+
+-DuvalMagic
+
+
+********
+08/24/99
+
+Anyone we know going to ECTS next month?
+
+Art Director, Brian Martel drew the short straw this time so he's going to
+have to be our man in London doing the demo of Half-Life: Opposing Force
+for all the hungry Euro press.
+
+If you're going and know about any of the cool parties, let me know so
+we can throw him a bone :)  
+
+-DuvalMagic
+
+
+********
+08/20/99
+
+Wow.  I feel honored that the PC Paradox dudes felt to include Opposing
+Force in their poll of the top upcoming action games.
+
+http://www.pcparadox.com/Editorials/Choice/Choice.shtml
+
+I'm even more amazed that OpFor seems to be getting the votes!  I mean, I
+know we're building an awesome game here, it's just cool to see that the
+public sees that too.
+
+It's funny how polls like this seem to get the competive urge rolling and
+all the developers go vote for their own games.
+
+Obviously the more honest votes this thing gets, the more useful it will be.
+I'm not saying that some groups of people are screwing up the results, but
+I will go out on a limb and suggest that there's no f'n way that Monolith's
+"Sanity" is more highly anticipated at this point than "Unreal Tournament."
+
+So, go vote for whatever game you're looking forward to most this season.
+
+Also, don't just vote for Half-Life: Opposing Force because I made this
+post... Vote for OpFor if it honestly is a game you're looking forward to.
+
+-DuvalMagic
+
+
+
+********
+08/05/99
+
+Next Generation On-line ran a preview of Opposing Force yesterday here:
+
+http://www.next-generation.com/jsmid/previews/11371_1.html
+
+There's a bunch of new screenshots included with the article that show off
+lots of new stuff, so check it out.
+
+The preview ends with: "Opposing Force will be the mother of all expansions."
+
+Thanks, Next Generation On-Line!
+
+-DuvalMagic
+
+
+********
+08/02/99
+
+When you haven't recorded voices for a new alien in your game but want
+place holder stuff, I highly recommend using sound bytes of Greedo.
+
+Because of creative coder, John Faulkenbury, and sound guru, Rob
+Heironimus, our Shock Trooper for Half-Life: Opposing Force currently
+speaks Greedo and is the funniest thing I have ever heard in my entire
+life.
+
+It's just too bad we can't leave it in :)  Anyone know Lucas?
+
+
+-DuvalMagic
+
+
+********
+07/30/99
+
+A few days ago, I was demonstrating a build of Opposing Force to some
+nice folks with Imagine (the dudes that publish Next Generation, PC
+Gamer and PC Accelerator magazines).
+
+Anyway, I was running around in a test map the coders created that
+demonstrates the new squad combat we've been developing for Half-Life. In
+a nutshell you can gather up a squad of seven AI soldiers (including a
+medic) and lead them into battle with a horde of Shock Troopers and
+Voltigores (just a couple of the many new aliens in Op For).
+
+It is very cool and all, but the AI squad vs. squad combat isn't what
+suprised me.  I'd spent hours skirmishing in this map long before the
+demo I gave on Wednesday.  But, this latest version had the new medic 
+soldier working like a medic.  He's designed to join your squad and heal
+those who are injured.  Right now it sort of works like a walking wall
+health unit, except that the walking wall health unit is actually a
+soldier who can talk with you, follow you and fire his .357 Desert Eagle
+at enemies.  It's very cool, indeed.
+
+But, the medic was literally dropped into the game the night before the
+demo, so I was looking at it for the first time when I was demoing it to
+the press dudes.
+
+Anyway, as I'm doing the demo, I run through a skirmish with my friendly
+soldier squad attacking the horde of aliens and me running back for
+healing from the medic whenever I get too injured.
+
+The medic happens to be a tough looking black dude.  I was admiring the
+paint job on the model when one of the press dudes asks me to restart the
+map again to try something different in the battle to see what the outcome
+would be - or something like that. 
+
+So I restart the map and immediately go into the room where the medic
+is waiting and everyone in the room (including me) is suprised to see
+that the medic looks different.  There's another version of the medic!
+Instead of the tough looking black dude, he now looks a lot like the
+"Joker" character from "Full Metal Jacket".
+
+I think one of the press dudes said something like, "Whoa... He's different
+now. You guys have variations on these guys!"
+
+And I was like, "Oh yeah. (concealed suprise) Our art deparment is trying
+to make sure that no two NPC's in the game look alike."
+
+Anyway, to make a long story short, many people have asked why all the
+scientists and security guards throughout the Black Mesa facility look
+alike.  The answer, of course, is cloning.
+
+Kidding aside, the answer has a lot to do with memory constraints, artist
+resources, and other complicated issues relating to the development process.
+
+However, since Gearbox has the opportunity to go back and essentially
+make Half-Life an even better experience with the Opposing Force expansion
+we can do things like that.  I'm not sure we'll have time or space to
+make every single NPC in the game unique, but we'll be pretty close.
+
+So, there's many versions of each type of soldier.  There's many versions
+of just about every character.  And, as developers we're pleased to know
+that our time has been worth it.
+
+Because, it was a very cool thing to get a reaction like Op For did from
+a group of the most important editors in the game press.
+
+
+-DuvalMagic
+
+
+********
+06/14/99
+
+Rob performed the most insane move ever conceivable in Q3Test. And now,
+for a limited time it is "CAUGHT ON TAPE." You must see this to believe it.
+ 
+insane01.dm3
+insane02.dm3
+
+-DuvalMagic
+
+
+********
+6/3/99
+
+Gearbox is Hiring
+
+We currently are looking for an experienced Programmer and an
+experienced Level Designer.
+
+Level Designer:
+
+Position Offers:
+
+- Project 1: Opposing Force, a game expansion for Half-Life
+- Growth and promotion opportunities for future projects
+- Competitive salary w/ highest per-product bonuses in the industry
+- Full benefits paid, yearly home equipment bonus, other perks
+
+Who you are:
+
+- Have shipped at least one known commercial title
+- Experience creating content for a major 3d game system (Quake, UnReal, etc)
+- Half-Life and/or Worldcraft editing experience a plus
+- Other software development related experience or skills helpful
+- Heavy interest in first person 3d games a plus
+
+
+Programmer:
+
+Position Offers:
+
+- Project 1: Opposing Force, a game expansion for Half-Life
+- Growth and promotion opportunities for future projects
+- Competitive salary w/ highest per-product bonuses in the industry
+- Full benefits paid, yearly home equipment bonus, other perks
+
+Who you are:
+
+- Must have shipped at least one known commercial title
+- 2+ years professional programming experience
+- C++ required
+- Other languages, skills helpful
+- Knowledge/experience in networking or 3d programming very helpful
+
+
+To submit resumes, e-mail: jobs@gearboxsoftware.com
+
+For more information visit: www.gearboxsoftware.com
+                                                                                                                                                                                              - Heavy interest in first person 3d games a plus
+
+********
+4/25/99
+
+E-mail gostergard@sierra.com for information about Half-Life: Opposing
+Force press materials, team interviews and the like.
+ 
+-DuvalMagic

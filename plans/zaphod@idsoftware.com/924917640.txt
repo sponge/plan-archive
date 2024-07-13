@@ -1,0 +1,98 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com 
+Description: Some Guy
+Project: 
+Last Updated: 04/23/1999 21:32:02 (Central Standard Time)
+-------------------------------------------------------------------------------
+4/23/99
+
+The test is not coming out tonight, but we do have a Macintosh candidate ready to go.  If all goes
+well tonight, it will be out over the weekend.  The Linux/Win32 builds are not yet ready.
+
+The test version of Quake 3 Arena is just that, a test, and as such we here at id software need
+to have some controls over it as we start to test it out publicly.  Without these controls we
+cannot actively track and improve the product in a manageable manner.
+
+We wanted, and are eager to be completely "out there" on all platforms, but the OpenGL drivers
+the product needs for all the platforms are not yet finalized.  By launching on the Mac first it
+gives the various 3D board manufacturers some time to get their Win32 OpenGL 3D drivers certified
+with Microsoft.  We're using, and depend on, the latest and greatest drivers and want to be able to
+distribute those drivers for the Win32 platform.
+
+The Macintosh market is smaller than the Win32 market, and has less configuration options than the
+Linux market.  There is only a single OpenGL driver, and the hardware is essentially always the same.
+This is an ideal "controlled" environment for the initial testing.  Basically, if there is a huge
+issue with the initial release we're exposing a smaller audience to it.  This turns out to be a good
+thing.
+
+The plan is to release the Macintosh version first, followed by the Linux version, followed by the
+Win32 version.  We will release on the other platforms as soon as possible.  We will rev the other
+platforms as we make new releases.
+
+I hope you understand and agree with this decision/process.  It is a good step towards a timely
+release of the full demo and retail product.
+
+4/23/99
+
+No news is good news they say!  We're still working hard to get the test out.  If you could refer
+questions to me (zaphod@idsoftware.com) regarding the test I'd appreciate it, everyone else here
+is plenty swamped.  Obviously if it's just "when?" then that is pretty hard to answer, because "when"
+will be as soon as it's done!
+
+But watch this space and remember to follow the white rabbit.
+
+4/14/99
+
+We're getting closer to releasing the test version of Quake 3 Arena.  It's worth going
+over our expectations from the test vs. the world's expectations from the test.  I appreciate
+all the voice mails, faxes, and emails with suggestions, death threats, and comments, and I
+do read each and every one of them.  I try to respond to a lot of them, but obviously I can't
+respond to them all.
+
+At this point, we still have no release date on the test.  We're testing builds here and at
+Activision and continuing to go through cycles.  As soon as feedback from both internal testing
+and our testers at Activision dies down, we'll be ready, but while this is providing heavy
+reports, as it still is today, we're still not ready to come out with the public test.
+
+There will be two maps in the test; these maps will also be in the final product.  The feedback
+we're looking for is specific to the technology in the test.  We're pretty happy with the design,
+and feedback on things like weapon switch times, models, gibs, and so forth are not things we'll
+pay as much attention to as real issues with the technology.  We're looking closely at modem, ISDN,
+and cable play to see how our new network code works, and how that works when a bunch of different
+connections are playing together on the same server.  We're anxious to gauge server load and use
+with the maps we have to see how the server works under heavy use, and to make sure we've got a lot
+of the new client/server communication working reliably and securely.
+
+That said, we do and will watch you play, read the message boards, and try to gauge feedback.  But
+the main thing to remember is that this is a test technology build, not a demo, there will be a
+demo, we plan on a demo, but this is a test.  A lot of you will want to wait on the demo rather than
+playing the test.
+
+The test will be on all three platforms, Mac, Linux and Win32.  We're still working on minimum and
+recommended specs.  There are no bots in the test.  We do plan on revving the test once it's out at
+regular intervals to get fixes out there.
+
+There is no spoon.
+
+3/28/99
+
+I know a lot of you are looking at the end of the month as a fixed date for q3test,
+but we're probably looking to be within a few weeks of that date rather than exactly
+on it.  We're working on it; I just want to keep expectations in line with reality.
+
+This is a test of Quake 3:Arena, not the demo.  With this test we're looking to see
+how well the brand new networking and graphics code works, and while we've run this
+through a QA process here and at Activision, this is not code that is of release
+quality in speed or gameplay.  Please do not look upon this as the "demo" of Q3A.
+
+Thanks.  I now return you to your regular programming.
+
+3/2/99
+
+Xian says I need to put something new here.
+
+It's been a busy two weeks, and I've yet to get any furniture.
+
+Thoughts later.

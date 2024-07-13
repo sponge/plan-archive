@@ -1,0 +1,44 @@
+Login: ridah          			Name: Ryan Feltrin
+Directory: /home/ridah/             	Shell: dev/null
+Never logged in.
+No Mail.
+Plan:
+
+Ryan Feltrin
+ridah@frag.com
+
+Programmer, Xatrix Entertainment
+
+29-Apr-99
+
+Thanks to Christian Von Donek and Carl Mankinen for their helpful info.
+I'm yet to try this, but apparently removing one of the CPU's while installing
+the OS, then replacing it once everything is running should do the trick.
+
+Here's hoping..
+
+
+28-Apr-99
+
+OK request time again. I'm wondering if anyone has attempted to get
+Windows 2000 (beta 3, RC1) running on a Gigabyte Dual P2 system. The
+setup program hangs at the blue text screen, after printing:
+
+"Starting Windows 2000"
+
+I've tried removing all cards, even throwing in an old PCI video card.
+The only common factor seems to be the motherboard in all configurations
+I've tried.
+
+Your input would be appreciated.
+
+
+19-Apr-99
+
+Request: I'm looking for a fast Aussie server to do some network
+technology testing on. If you think you might be able to help, please
+drop me a line: ridah@frag.com
+
+In other news, it has recently been brought to my attention, that my
+.plan file dating system is not Y2K compatible. You can rest assured,
+I will get to the bottom of this.

@@ -1,0 +1,58 @@
+Account Name:  Chris Hargrove
+Email address: chrish@3drealms.com
+----------
+Name: Chris "Kiwidog" Hargrove
+Position: Code Boy
+Project: Duke Nukem Forever
+Email: chrish@3drealms.com
+
+1/21/97
+-------
+Decided I'll do like I did back at Raven and leave 3 or 4 days of previous fingers in the file, just incase anyone missed something (yeah, like it really matters, but I'm entitled to a few delusions of grandeur now and then so humor me :)
+
+As George mentioned, Nick got a bunch of cool stuff into QE4 (now happily being called DukeEd), so the editor's coming along smooth as silk.  As he also mentioned, I've been occupying my time working on getting 16-bit skins into the game.  It's not the 16-bitness that's the long tedious part (that by itself is rather simple), it's all the tools and tool changes that go with it that take up the time.  
+
+I got a 3DFX-based skinning tool up and running a while ago (called Cannibal) to deal with 16-bit skinning that combines stuff normally separated into texpaint and qdata, but it dealt purely with skinning and base frame manipulation, not much else.  Lately I've been adding quite a bit more to it though, but I won't talk about that stuff till its done and George decides to let it out of the bag. :)  (BTW: Cannibal will most likely be released on the Duke Nukem Forever CD, possibly with the source code to it as well).  Maybe further down the line when we start doing screenshots and all that for the public, we could do a screenshot or two of this tool so you know what we're using.
+
+Since we knew from the beginning there would be other things besides just 16-bit skins that we would change in the models, I pretty much threw out the MD2 format out as far as our code is concerned, replacing it with a newer format that holds more stuff (I won't say what stuff yet).  Since I didn't want to step on id's toes and call it MD3, I'm just calling it MDX (short for extended model).  
+
+To all you editing-type-people out there making tools and such for MD2, MDX is a very different file format in its internal structure (it's more like a blend of a pack file and an IFF-style chunk system), but it still should be easy enough to deal with.  Once the format is final, which won't be till near the end of the project, I'll make sure specs and some sample code are available.
+
+After this is all wrapped up, Nick and I will be finishing off the new entity system so the others can start taking advantage of it.  Trust me, when you see this in action, you will freak.
+
+Back to work...
+
+
+1/17/97
+-------
+Fingermania! Time to make my first semi-real update on this .plan...
+
+I guess since it's the first post I should introduce myself.  My name's Chris, and I write code for Duke Nukem Forever.  There are only two programmers on DNF, myself and Nick Shaffner, so you could call us both "leads" if you want, but there's really no lead.  We just divvy up what each of us wants to (or should) work on for the project, and go from there. Very different from my previous job (I was a programmer at Raven Software before coming here), where every project had a distinct programming lead.  But different doesn't mean worse by any means... I'm actually much more comfortable with there being only the two of us writing code.  We both know everything that's going on programming-wise in the project, and we're both only a stone's throw away from each other, so it works out. :)
+
+I would give you all the scoop on Duke's status and the coolness of it, but I've been told by The Powers That Be(tm) that I should probably keep tabs on what I say, and I agree with them.  I don't want to be the guy who blew the cap on any "big secrets" we're supposed to keep up our sleeve, after all. :)  But if something is revealed by the bosses and I'm allowed to talk about it here, then I will.  Otherwise I'll probably just be using this .plan for programming talk in general, polls to you faithful readers out there, and just shooting the shit in general.
+
+One thing you will not see from me is bashing of anybody or anything in particular, except maybe stuff unrelated to the industry at all.  I'll give criticism sometimes, but if I do then it'll be accompanied by praise to even things out.  Basically if you ever see me on a bigtime rant, then I have to be pretty damn angry, and that doesn't happen all too often (I'm proud of the fact that I've gotten progressively more mellow in tone over the past couple years, even though I'm still hyper as hell :)
+
+I will, however, make an exception to this so that I may bash Kenn Hoekstra of Raven relentlessly.  Kenn: quit touting your foosball skill you slutbag, you know your whore ass can't play foos worth shit. :)
+
+For those of you wondering about the "Kiwidog" nickname, it's a long story, but the short short version is my best friend Robert Pope and I were sitting at his house sometime between 5 and 6 years ago, bored out of our skulls, and for some reason we started writing down 7-letter combinations that could fit on Virginia license plates.  At some point he came up with Kiwidog, and I got the name stuck in my head for the rest of the night as the best of the lot.  A day or two later, I logged onto a new BBS for the first time in, well, a while, and I needed a nick.  My short-term memory suggested Kiwidog, and "the rest, as they say, is bunk."  So it's not in reference to any bird or fruit or New Zealander attached to a canine, it's just a combo of two unrelated words which I found kinda funny.
+
+Nick and I have been having a war of annoying windows sounds to put in for Visual C++'s build complete/error/warning notifications.  He started with some long Cartman samples, so I had to retaliate with a laughing scooby doo sample and some Throw Mama From The Train clips.  Now he's coming back with Austin Powers, and I've stooped to Swedish Chef.  If you have any urls with excellent (yet short) annoying voice samples, let me know, maybe I can win the next skirmish.  I'd really like to find a sample from Oh Yeah by Yellow (the "mmmmmmmm bow bow.... chik... chik chikahhhhhhh" song from Ferris Bueller's Day Off)... if any of you happen to have that particular sample and could send it my way, you'll have the satisfaction of knowing that somebody, somewhere, is annoying somebody else with it. :)
+
+As for me hyping (hypeing?) up Duke, I'm not going to even bother, because there's no need.  This is Duke.  No hype is necessary... the product will speak for itself.  If you want to know how cool this game is going to be, you already have your answer. ;)
+
+So, now that that's all said, I guess I'll ask my first programming-related poll questions, these in particular to the guys at Microsoft.
+
+A) Is there any particular reason why Win32's tab control "common controls" are so uncommonly painful to use?  I'm not talking about property sheets, but the generic tab controls.  Almost every other common control has a fairly simplistic message interface, but the tab control requires maintenance beyond what I would expect from such a thing.  Whoever wrote these things this way, I have to ask, ...why?
+
+B) Is there any simple way in MSVC++ 5 to rename files in the project?  I haven't found any, so any time I want to rename something, I have to pull it out of the project, rename/copy it to the new name, then re-add it to the project.  This is even more annoying when SourceSafe is involved, which it usually is for us.  The treeview control that the workspace window uses has an easy way to make its entries editable, yet this for some reason is not present, not even a right-click-popup option to rename.  MSVC programmers, please please add this (and make it interface with SourceSafe as well; I'm sick of this kind of high maintenance just because I realize a source file could have a better name).
+
+C) Why does Win32 not use any package prefixes?  I thought PP's were standard issue for "solid" code in "large scale" projects, which Win32 seems to want to be.  I would much rather look at WIN_WN_EnableWindow than just EnableWindow, or WIN_CC_InitCommonControls than just InitCommonControls, you know what I mean?  Even if the prefixes are long (and potentially two-parters, one for windows in general and one for the package), it would make looking at Windows code _vastly_ more intuitive, and make hunting down functions in a package (with otherwise arbitrary names) significantly simpler.  Microsoft, do you teach this good practice to your people?  If not, you should.  You follow Hungarian notation to the letter (even though it's only really useful in assembler code; any decent C/C++ code doesn't require type prefixes since the declarations should be easily accessible), yet you don't put ANY kind of packaging labels in something as major as Win32.  This strikes me as odd, or more appropriately, ill-thought.  Whoever decided on this lack of convention, there's a good book called "Large-Scale C++ Software Design" by John Lakos you should consider reading (even if you don't use C++).
+
+Keep in mind that I do love MSVC++, and I do like Win32 quite a bit.  But some of these decisions above just don't make any sense to me.
+
+Anyway, I'm done rambling.  Email me if you have any thoughts,
+
+- Chris
+	
+    

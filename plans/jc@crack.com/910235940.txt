@@ -1,0 +1,19 @@
+Login: jc             			Name: jc
+Directory: /home2/jc                	Shell: /usr/local/bin/bash
+On since Wed Nov  4 21:42 (CST) on ttyp1, idle 0:44, from 168.191.153.37
+On since Wed Nov  4 22:57 (CST) on ttyp2, idle 0:12, from 168.191.153.26
+Mail last read Wed Nov  4 23:01 1998 (CST)
+Plan:
+Nov. 3  1998
+
+To answer a lot of questions, I have posted an article about the
+making of Golgotha and what went wrong.
+
+http://www.loonygames.com/content/1.10/guest/
+
+I will post other stories and email comments at :
+http://crack.com/golgotha_release/life_after.html
+
+
+If you see any news stories pop up, let me know.  I'm very interesting
+in what happens to Golgotha now that it is public domain.

@@ -1,0 +1,55 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Project 3
+Last Updated: 01/08/1999 19:07:56 (Central Standard Time)
+-------------------------------------------------------------------------------
+1/8/99
+
+Can't get used to that writing 1999 yet.. Weird. So, I was asked the other day about news on the
+enhancement pack. So I'm writing this.
+Progress is good. The female model is taking a little longer than we anticipated, but this has more
+to do with christmas vacations than anything. It'll be done soon. We don't really want to release
+this till it has everything in it we promised, and its been tested thoroughly, there's nothing 
+worse than a bad extension to a good game.
+
+So far we've added - 
+Team Play in Deathmatch.
+A modifiable Welcome message in multiplayer.
+The Female model - still being worked on.
+A3D 2.0 support, and boy, does this kick ass.
+Creative SBLive! EAX support - which is also in the works.
+Downloadable skins and maps from server to client. Note - this works the same way Quake does, the
+skins have to be on the server to be downloaded, if its just on your client machine, no one will 
+see it.
+Player code has been moved into its own .DLL so mod makers can go mad on it.
+And lots of smaller bits and pieces too numerous to mention.
+
+We've tried to fix some of the bugs that cropped up. Obviously the joystick one has already been
+addressed. We've added in Joystick Axis reversing that was taken out for the bug fix as this was
+requested. We fixed lots of little things, like problems with sounds in demos and the like, as
+well as some more major stuff, like the problem with saving with the camera on anything but a
+straight axis. We are hot on the trail of that SZ_GETSPACE thing that crops up in COOP alot, although
+we are having trouble reproducing it here.
+If you are really lucky, there may be a couple of new deathmatch surprises coming your way, like
+new defensive weapons - although I make no promises here. All subject to it being done in time and
+approved by those that need to.
+
+On other subjects, this bloody snow is past fun now. I just know with my luck I am heading for an
+expensive prang sometime soon. Cars just love spending my money for me. On the way down to Chicago
+for Christmas I fell foul to those damn state troopers. *sigh*, another quick $75. Yeah. Merry 
+Christmas to you too officer.
+Aside from speeding bitterness, Christmas was a merry time for all involved at our household. We
+played host to all the Brits that were far from home at Christmas time. Man, I've never seen any
+one drink Red Wine in a pint glass before, Mr John Scott. Very impressive.
+We bid goodbye to one time Raven programmer Josh Heitzman, who is off to Seattle to pilot TIE
+fighters for the Evil Empire. Don't fall victim to the Dark Side Josh ! :)
+
+Song of the day : Gettin Jiggy wid it - Will Smith. I have no idea why I like this, I just know
+I do. It rocks. Strange eh ?
+Joke of the day : Q: What do you call a Roman with hair between his teeth?
+A: A Gladiator.
+
+think about it. Say it a couple of times. You'll get it.

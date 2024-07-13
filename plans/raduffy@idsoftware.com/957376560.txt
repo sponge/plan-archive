@@ -1,0 +1,275 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Robert A. Duffy
+Email: raduffy@idsoftware.com
+Description: Programmer
+Project: 
+Last Updated: 05/03/2000 14:33:32 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+We have just released a new point release for Quake 3 Arena, version 1.17.
+
+This patch fixes a fairly serious security flaw in Quake 3 Arena. Internet
+Security Systems identified the flaw and notified us with reproduction
+details as well as an overview of the exploit. The basic nature of the
+exploit is that malicious server operators could overwrite any file on a
+client system. This type of thing is always possible with DLL based mods
+( which is why we strongly recommend VM based mods ) but with this exploit,
+it was possible within the VM system.
+
+To help facilitate a rapid transition to the new codebase we have also
+bumped the network protocol version. This means 1.17 is not network
+compatibile with any prior version.
+
+The install also includes all 3 PK3 files, because the original "pak1.pk3"
+was not included in the final 1.16 release for Mac and Win32 builds. This
+will address some pure server connection issues. You will have to have all 3
+pak files present to connect to a pure server.
+
+In addition to this security fix, we have also fixed the following:
+
+- Callvote to single player game type causes the server to crash.
+- Crash in bot initialization on some systems.
+
+
+
+
+
+
+3.17.00 7:06pm
+--------------
+There is an update to the tools out on our ftp. It contains new executables for Q3Radiant, Q3Map, Q3Data, and the TexTool plugin. It is very hot off the presses so use at your own risk. The change log will be quite large and is not yet included but I wanted to get this out so people could start taking advantage of new plugins. Many thanks go out to Timothee Besset, The Curry Team, David Hyde, Jason Spencer, Jan Paul ( Mr. Elusive ), Eutectic, Maj, Paul Jaquays, and everyone taking part in the ongoing Radiant and Plugin department. The Gensurf and Curry plugins look fantastic as does the upcoming MGS plugin from Timothee. 
+
+Some words of caution, brush primitives "should" work fine but they are as always subject to change. They are required for the new grouping to work, but I would not use them or the new grouping yet as both are very much under construction.
+
+The filename is "Q3ToolSetup_Mar172000.exe"
+
+
+
+
+
+
+3.16.00 11:56am
+---------------
+The game source for 1.16n is available on our ftp and should be appearing on mirrors soon. As with the previous source release this is a Win32 installation. 
+
+The code should be compilable into vm's without Visual C headers this time around so lcc (included) is all you need.
+
+
+
+
+3.15.00 10:02am
+---------------
+The 1.16 point release is done. It should start appearing on mirrors soon, in all three flavors. The release also contains the original player models done way back when for Xian, Carmack, Hellrot, Paul Jaquays, Willits, and Brandon James ( now at Rogue ). These are included in the PK3 file. Available separately are the Max files for each as well.
+
+There were only a few changes between 1.16m and 1.16n, the readme details what was changed. I should get the code bundled up and out within a few days as well. 
+
+Any problems with the release ( or the game in general ) need to be e-mailed to livehumanfeedback@idsoftware.com, this will ensure the issues get added to our bug database and looked at.
+
+The Mod scene is pretty much exploding, I have a very long list of Mods to look at and play. A few issues have come up that are centered around Mod coding and requested features.
+
+-Config files. The q3config.cfg file IS propogated to each mod directory as a set of defaults. If you want to use mod specific configurations, just use a yourmodname.cfg file and execute it at load time and save it out when appropriate.
+
+-Server side DLL support for pure servers. This would allow pure servers to load DLL's on the server side only while keeping the clients pure. This will likely be possible in a future release.
+
+-Client identification. Cheating is obviously a big issue. It seems that some people just cannot get over the fact that they suck at the game and have to cheat to try and make up for it :-) This along with abusive players has caused quite a few requests for the ability to generate a unique user ID based on the end users CD Key. This would allow servers to ban troublesome players or habitual cheaters. This method would not compromise the CD Key in any way but would provide a unique string that would identify a particular user irrespective of their user name, ip address and so on. Our current thought process is to implement a system very similar to caller ID. This would allow a server to be setup to accept only clients that provide their ID or accept all ( anonymous ) clients. Clients would be able to specify whether or not to provide their ID or be anonymous. Any feedback on this is welcome ( This is NOT in the game at this time but is under consideration )
+
+Tools
+-----
+There should be a new release of the tools available within a few days as well. The editor is still undergoing quite a few changes but I want to get it out so people can work around the nVidia stipple slow down and take advantage of the new plugins that are about to hit the streets. Tool feedback still needs to go to tools@idsoftware.com
+
+
+
+
+
+
+
+3.06.00 3:02pm
+--------------
+A new point release beta is out and on the FTP. We anticipate removing the beta tag in the very near future. We have been doing a lot of testing on connection issues, cheat preventions, auto-downloading as well as running a lot of the new mods through it. Things look good, some of the mods heading our way look fantastic!
+
+This also contains a CTF version of Q3Tourney6 which is tons of fun for 2 on 2 CTF. 
+
+One key thing is that when connecting to a pure server both sides will have to be using the latest point release as we updated the pak2.pk3. This is not much of an issue once this version propogates a bit but it is something to keep in mind.
+
+There are 3 issues of note with this version ( 2 of them Linux only )
+
+- ZFree errors, on some Linux systems you may see ZFree allocation errors. This happens mostly when fiddling with the mouse etc. during map loads. We are looking into this ( as is Loki ).
+- Mods directory does not show mods ( Linux only )
+- Starting a team game with bots does not automatically assign the player ( you ) to a team.
+
+As before, please forward bug and other information to raduffy@idsoftware.com
+
+
+
+2.21.00 11:23pm
+---------------
+New executables for the point release beta are on the FTP. 
+
+-Zombie/Ghost unpure clients no longer remain connected.
+-Recursive File System error corrected when running mods with logfile set to 1
+-The Auto-download rate is controlled by 'sv_maxRate', specify this value in bytes per second. The maximum band rate caps out around 25K per second.
+
+
+
+
+
+
+2.20.00 5:12pm
+---------------
+Point Release Stuff
+
+There was a lot of new functionality added in the latest point release, primarily centered around mod development support. We are still sifting through all the feedback e-mail but here are some problems and solutions based on what we have found so far.
+
+1. If you are are not seeing the new "Mods" menu, it is likely that you are running something that replaces the UI. ArenaSpy and several other mods have their own UI DLL's or QVM's so you will not be able to see the point release UI. This can be remedied by removing any extra UI mods. This can also cause a problem with auto-download in that if you connect to a server that sends you something, you cannot see the download progress because the UI your using does not support it. The download is working but you just see "Awaiting gamestate" ( because your not using the new UI ). If you see partial files in baseq3 or an fs_game path this is what happened. Again, using the UI that comes with the point release solves this problem.
+
+2. If you have chosen a 3rd party model or skin, you CAN still connect to and play on pure servers. The caveat being that you will temporarily revert to Sarge. This works just like it always has.
+
+3. If you are using a cracked executable, you will no longer be able to connect to pure servers. "You ruined the game, I cannot cheat anymore!" is not a valid complaint.
+
+4. If you are not able to join a server and you get an "unpure" client message, it is likely that you are loading content from an invalid PK3 file, loading DLL's for gameplay or loading content outside of PK3 files. If you have modified any of the official PK3 files this will also cause you to not be able to connect to pure servers. The other case in which I have seen this is if the server was set to pure and not restarted. I am still looking into this one.
+
+5. I have seen reports of non-pure clients not getting kicked fully and remaining semi-connected. I have be unable to duplicate this problem. If you have details on this please forward them to me.
+
+6. If you cannot see a 3rd party model, I have tracked this down to the method which it was zipped. It appears that some zip programs do not store directory names as individual entries in the zip files. I use Winzip and it works fine.
+
+7. You can use 3rd party UI's to launch games and connect to pure servers. Once you have connected to a pure server, the client will reload the UI based on what the server flags is ok. This will explain running a new UI ( like ArenaSpy ), playing on a pure server, exiting back to the menu and ArenaSpy is gone.
+
+8. There have been a couple of reports of not being able to load nn number of maps, others have reported no problems. We load around 2500 maps from the development directory here and with that and locally I have not been able to duplicate this issue. And no, there are not 2500 maps we did not release.. these are largely successive numbered versions of the same maps.
+
+If you have any information that could help identify a problem or an exact set of reproduction steps for unpure clients not getting fully kicked or not being able to load maps from baseq3, please forward the information to me at raduffy@idsoftware.com.
+
+And for those of you wanting to try out that new Mod menu, I highly suggest HeadHunters or Fists of Fury those along with many others are Very Cool.
+
+
+
+
+
+
+
+
+
+2.18.00 11:49pm
+---------------
+Q3A 1.16i Beta is now on our ftp site. This is a small executable only patch that enhances security. It is available in three flavors, Win32 ( a .zip file ), Linux ( a .gz ) and Macintosh ( a self extracting archive ). 
+
+
+
+
+
+
+2.17.00 8:19pm
+--------------
+The point release is now available on our ftp site. It is marked as a beta as there are a lot of functionality changes and we have a finite number of machines and scenarios we can test with. The included readme contains a lot of information, please review it. The release is available for all three platforms, Win32, Macintosh, and Linux. 
+
+If you encounter problems or bugs, please e-mail them to me at "raduffy@idsoftware.com"
+
+
+
+
+
+
+
+
+
+1.31.00 5:14pm
+--------------
+The point release is still in progress. We are addressing several things, among them auto downloading, mod support, cheating, and a few other things. It is moving into testing now and should be done "soon".
+
+One area that we are working hard to improve on is releasing things for all three platforms at the same time. As we have still not released the final point releases for the Macintosh or Linux based systems, the new point release will be available in all three flavors at the same time. 
+
+
+
+
+
+
+
+1.17.00 4:41pm
+--------------
+We will be releasing a point release within a week that addresses the fs_game problem that exists in the current executable. This problem forces clients to start with the same fs_game parameter as the server. It does not affect normal game play but keeps the server from specifying which "game" directory to use. This is a bug. Mod authors do not have to wait for the fs_game patch to get started as the code will be the same either way on their end. 
+
+There are two other basic issues for mods that have come up:
+
+1. DLL use for mods
+Our position on DLL use for mods is that it is a bad thing. DLL's are not multi-os compatible and they pose a much greater security risk than qvm's. Note, I did not say that qvm's are totally secure, they are not, but they are definately more secure than DLL's. DLL's are for debugging only and qvm's are the only official supported way to produce and distribute a mod. Period.
+
+2. Auto-downloading
+We are currently exploring several options for auto-downloading. There will support at some level for mod surfing and downloading. This support is geared towards the "mod" type of add-on as opposed to downloading maps or models ( or skins ). The goal is to not consume server bandwidth for downloads but push the bandwidth use to some sort of a dedicated "mod" server or something.
+
+
+
+
+
+
+
+1.14.00 8:12pm
+--------------
+The game source is out. It should start appearing on mirrors soon. It is in idstuff\quake3\source\ and named "Q3AGameSource.exe"
+
+There is a "How to make a mod" text file included which shows the very basics of building the source for debugging ( Win32, Visual C++ ) and building the vms for distributing mods. It also shows steps to get your mod to run with the engine.
+
+PLEASE NOTE: The game source MUST BE INSTALLED in \quake3\ off of whatever drive you like. This is so the batch files and the lcc compiler can find all the right stuff for building vm's.
+
+The tool source and video compressor will be out next week. This will include source q3data, q3map, q3asm, q3radiant, our version of lcc and the executable for the video compressor. 
+
+
+
+1.13.00 6:08pm
+--------------
+The Point Release ( Win32 version ) is out. It should start appearing on mirrors soon. 
+
+The three primary fixes in this version over the 2nd beta are:
+
+-crash when bots chat on dedicated servers
+-crash when bots chat under linux
+-bots no longer "keep" trying to score after they respawn if they died carrying the flag
+
+
+
+
+1.11.00 7:01pm
+--------------
+The 2nd Point Release Beta (version 1.15b) for Quake III Arena is out. It should start appearing on mirrors soon. This version contains several bug fixes and should go final within a day or so. The source should be available shortly after that ( within a few days ). Per usual, all dates and time frames are subject to change.
+
+Changes:
+-Control menu works properly
+-Pure server connection notification
+-2D Armor icon appears properly
+-.arena files are accumulated properly across pk3 files
+-A few other smallish fixes
+
+
+
+
+12.22.99 8:30pm
+---------------
+I have placed a new install for the tools on the ftp site. Our ftp gets hammered but it should show up mirrored pretty quick as well. 
+
+ftp.idsoftware.com/idstuff/quake3/tools/Q3ToolSetup_Dec221999.exe
+
+There are quite a few changes, see the readme for a list.
+
+This release contains new content or updates for the following:
+
+-Q3Radiant, this is named 'Q3Radiant_181.exe'. This will allow you to revert to the older version in case there are unforeseen problems.
+-Q3Map, some fixes.
+-Q3Data, see the Modeling manual which was put together by Paul Steed and Paul Jaquays.
+-Model_manual_ps.doc, the above mentioned model manual.
+-bspc - see the included text file for changes.
+-Museum.map, Museum.shader - A map done by Kenneth Scott to illustrate a wide variety of shader effects. Cool stuff.
+-MapMedia.pk3 - additional content required by the museum
+
+The museum takes quite a while to light when running Q3Map on it. Be patient :-)
+
+
+
+
+
+
+12.16.99 2:38pm
+---------------
+I should be releasing an update to the editor soon. There are a few outright crashes I have fixed and I am looking into some other issues. If you are seeing stability problems, it is more than likely a driver issue. I am doing what I can to get these resolved. 
+
+We are seeing quite a few reports of fullbright levels when you preview new levels in the game. If you are having this problem can you drop an e-mail to tools@idsoftware.com along with your video configuration and whether or not bringing the console down solves the problem ( press ~ to bring down the console and see if the level lights ).
+
+We will also be re-releasing the .shader files soon. The .shader files in the shipping PK3 and the ones I included in baseq3/scripts include a lot of unused ( and in many cases non-func

@@ -1,0 +1,64 @@
+[idsoftware.com]
+
+Login name: xian      			In real life: Christian Antkow
+Directory: /raid/nardo/xian         	Shell: /bin/csh
+On since Jul  5 22:01:49		2 days 2 hours Idle Time
+   on ttyp2 from underworld.idsoftware.com
+Plan:
+ I would like to extend an invitation to 3D, First Person gaming developers 
+(Rogue, Ritual, Raven, Valve, Epic, Apogee, Ion Storm, etc..) to help in the
+creation of a new IRC network called 3DNet, by running IRCD's.
+
+ The justification for this network is that we (the 3DNet founders) wish 
+to offer a stable, high profile alternative to Undernet and EFNet for anyone 
+who is interested in the 3D First person game genre. It would also offer a 
+controlled enviroment to offer a platform in which to market and discuss
+your games by you relegating control of said channels to whomever you want.
+By running the servers yourselves, you don't have to deal with the "BS" 
+associated with conventional IRC networks.
+
+ The IRCD of choice for 3DNet, is the Undernet IRCD which we can provide to 
+you and help setup. You will require a box running some flavour of Unix.
+
+ We already have two servers attached to the network;
+
+ idcube.idsoftware.com:6667
+ bigmac.noc.best.net:6667
+
+ with PlanetQuake due to sign on within the next 48 hours.
+
+ The structure is pretty loose, with proposed channels such as #quake2, 
+#sin, #daikatana, #halflife, #unreal, #prey, #qspy, etc... as well as 
+seperate channels for each company for general discussions (#id, #ritual,
+#raven, #ionstorm, #apogee, etc...) No pr0n, no warez, just games discussions.
+
+ Should any developers be interested in contributing to the network, please
+e-mail 3DNet@underworld.idsoftware.com should you have any further questions
+or concerns, and one of the managers will get back to you.
+
+ We'll wait for a period of two weeks to gauge response from publishers and
+developers, and I'll post an update as to the future of the network then.
+
+ Thanks for your co-operation,
+
+ -Christian
+
+PS: On a bit of a personal note, I think this would be a great way to bring
+the game developer community closer together online.
+
+---
+
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+ This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, damage from improper .planfile reading, incorrect line voltage,
+improper or unauthorized use, broken antenna or marred cabinet, missing or
+altered serial numbers, electromagnetic radiation from nuclear blasts, sonic
+boom vibrations, customer adjustments that are not covered in this list, and
+incidents owing to an airplane crash, ship sinking or taking on water, motor
+vehicle crashing, dropping the item, falling rocks, leaky roof, broken glass,
+mud slides, forest fire, or projectile (which can include, but not be limited
+to, arrows, bullets, shot, BB's, shrapnel, lasers, napalm, torpedoes, or
+emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.). 
+

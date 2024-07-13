@@ -1,0 +1,133 @@
+Login: ddt            			Name: Dave Taylor
+Directory: /u/ddt                   	Shell: /bin/bash
+On since Tue Jul 14 14:09 (CDT) on ttyp1 from sgi1
+   8 minutes 46 seconds idle
+On since Mon Jul 20 12:49 (CDT) on ttyp3 from rope (messages off)
+On since Mon Jul 20 13:43 (CDT) on ttyp4 from rope
+   9 minutes 38 seconds idle
+Mail last read Mon Jul 20 13:47 1998 (CDT)
+Plan:
+
+My steamy log.
+
+Mon July 20, 1998
+
+-------------------
+
+  Conventional biz wisdom says you shouldn't announce this sorta thing,
+    but I do so because of an annoying decency streak.  So before
+    the rumors start to fly, I should announce that Crack is in deep
+    financial shit.  We're not in debt and refuse to enter debt, but we
+    just ran out of cash and are not making payroll.  We have a lot of
+    potential opportunities, but the easy ones tend to be short-term
+    band-aid-ish opportunities that detract from the company mission,
+    which is Golgotha, Golgotha, and oh yes, Golgotha.  Those of us
+    financially stable enough to weather some time without being paid
+    will stay on.  We're all confident the money will come in, including
+    those of us who can't afford the loss of income.  There is just too
+    much value in the project, it's inexpensive to complete, and there
+    are too many opportunities even outside Golgotha.  But two of us,
+    Gene & Stephen, don't have the reserves to miss a single payroll,
+    so I'd like to help place them at other companies.  Gene is a simply
+    brilliant composer, and it will totally hurt to lose him.  I count
+    my lucky stars that we at least got the game's soundtrack done.
+    Whoever gets Gene wins The Big Prize.  I've worked with a few great
+    composers, including Bobby Prince, Thomas Dolby, and Trent Reznor,
+    and I know what I'm talking about.  Gene is the shit.  Stephen is
+    an absolute expert at all things military, passionate about it,
+    and a damn good artist when it comes to modelling, texturing,
+    and animating the same.  He's a consistent source of excellent,
+    pragmatic design ideas, he's ex-military, and a perfect employee
+    to groom as a lead designer or producer.  You can check out his
+    portfolio & resume on his home page.  Give me (or them) a write
+    if interested.  I pride myself on rolling in all the good resumes,
+    and these two guys are real winners.  My e-mail is ddt@crack.com.
+    Theirs are gene@crack.com and stephen@crack.com.  Anyway, wanted to
+    dispell any rumors that we've "closed our doors."  We've tightened
+    our belts, we're now working on our personal dimes, and our eyes
+    have a few more bags under them, but Crack isn't yet headed for the
+    crapper.
+
+Thu July 16, 1998
+
+-------------------
+
+  This is a long plan entry but pure content.  No rambling.  Promise.
+    It's RFC's like these that make life worthwhile.
+
+  Working Name: CGDC Hard Core Programmer Conference
+  Place: Austin, TX
+  Date: November
+  Justification:
+    It took some name-calling, but I think I got Miller Freeman
+    to buckle and give us a full-day game conference just for
+    programmers.  Coders have different needs.  We have no time,
+    not even for eating lunch out.  We don't have time to hear
+    about the latest plug-ins for Photoshop, to hear about the latest
+    design methodologies, or to attend round-tables on interactivity.
+    We are under the gun to write code, lots of code, cool code,
+    fast code, debugged code, and the only conference that is going
+    to make us better at our jobs will be one that addresses these
+    issues directly.
+  The Event:
+    I'm working with MFI to create the content for a full day of talks
+    specifically designed for game coders.  It's a packed schedule.
+    I'm gunning for a solid 12 hours (up to 11 so far), no lunch
+    period (either take food to a talk or skip a talk), only hard-core
+    programming topics, and a seperate bring-your-own-computer room where
+    we can help each other debug, show off, etc.  This is the real thing.
+    Pansies not welcome.  I've put a list of potential topics on my
+    home-page.  See below.  If you're interested in speaking on any
+    of these topics, either alone or in a group with others, write me.
+    If you have ideas for other topics of interest to you, please write
+    me with those, too.  Not all of these topics require that you be in
+    the game industry.  We have until August 31 to get commits from the
+    speakers, so it's now or never.  I'll be writing/calling a lot of
+    you personally to see if you want to speak on this or that, but if
+    you're keen on a specific topic, don't wait for me to write.
+  Austin Hype:
+    This isn't my department, but I love Austin.  Austin is a cool
+    place for this stuff because in November, the weather is great,
+    like spring in most places.  And the hotels here are dirt cheap
+    compared to you-know-where.  Ditto on the food.  And now there
+    are direct flights from SF & SJ.  And most of the hotels have
+    Spankovis... Spectravision.
+  Food Puzzle:
+    If you're fond of Scott Miller's puzzles, I've got a doozy for you.
+    The Austin Convention Center, like all convention centers, has rules
+    about food.  You've gotta eat theirs.  And their food is really
+    incredibly expensive, jacking up the price of your admission like
+    you were having dinner at a 4-star restaurant.  But doing lunch in
+    downtown Austin takes up extremely valuable coder time, and it might
+    be complicated further by weather.  So the puzzle is, how do we feed a
+    few hundred coders w/o taking the shaft, and without forcing everybody
+    to eat at the same time?  Submit your answer to ddt@crack.com.
+  The Mystery Poll:
+    Yes, this is why I took that poll about coder hours and marital
+    status.  I learned as a result that most coders spent most of their
+    life working.  Sleeping, eating, and dating combined came in
+    a distant second.
+  Topic Ideas:
+    See http://crack.com/about/ddt/hard_core.html for the list of topic
+    ideas.
+  Inspiration:
+    This day of coding was inspired by the hacker meetings often held
+    in high school cafeterias, where we first saw our futures in the
+    magical new Amiga, Apple ][, Commodore 64, Mac, and PC, each a world
+    unto its own to explore, worlds that made us realize that eating,
+    sleeping, and excreting would come second for the rest of our
+    lives, or at least until about 35.
+  Warning:
+    If yer a press person, you can't reprint any of this without
+    my permission, and you won't have my permission, unless you're
+    slashdot, because, well, duh.  MFI is the final word and will
+    do the official announcing.  This plan entry is to get feedback
+    from coders.
+
+  Amen, John.  MacOS is broken.  Rhapsody rules.
+
+  God Damn.  I want to meet the artists on Rage of Mages.  Just plain
+    delicious!
+
+Mon July 13, 1998
+<br

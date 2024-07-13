@@ -1,0 +1,218 @@
+Account Name:  20157
+Email address: carl@2015.com
+----------
+Welcome to da 2015 Finger Server where our moto is: "Yea, I got your finger right here!"
+
+User name: carl
+Name: Carl Glave
+Nick: General WarT 
+Email: carl@2015.com
+Occupation: Programmer
+Project: WOS CTF
+
+/-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-\\
+
+*     NOTE: Any views expressed herein supposedly do not actually     *
+|     reflect the official position of 2015 Inc. However, dispite     |
+|     these words being of my own views and opinions, you should      |
+*     agree with them anyway.                                         *
+\-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-/
+PS: All spelling errors are my own. If you don't like them or anything
+else in this .plan file, please forward all complaints to thewall@biteme.com
+
+
+<=====================================================================>
+Da Yakity Shmakity of Thursday, apr. 22, 1999
+---------------------------------------------
+
+I've got some good news... and then some more good news. ;)
+
+First, WOS 1.04 is all pretty looking now, and it will at a web site
+near you in the near future nearly in near enough of a small amount of
+time so as to be called near, or even drawing near... that is if I could
+draw nearly as well as I'd like, which I can't even nearly hope to do.
+
+In humaniese, this means that I'll be sending out the WOS 1.04 server
+patch today when I get finished packing it up and add the pretty
+little bow on top.
+
+Second, the source code is ALSO ready to go, so I'll be releasing that later
+today as well. Don't be too surprised that the source code is comming out
+along with the new game dll, the code was already cleaned up for release as
+1.03 source code, but 1.04 came along and made it a worthwile, small delay.
+
+Let's see, what else... oh yea, since there's apparently enough interest for
+a tutorial to be made about MOTD functionality, and the basics of a welcome
+message system were already in the WOS code (for Marked for Death deathmatch)
+I went ahead and added full MOTD ability. You can even make one using all the
+neat string formatting stuff used for laying out huds and menus if you want.
+It also supports having the welcome message text file in a pak file because
+of the file access method I used. Details on its used are in the text file
+that accompanies the WOS 1.04 server patch.
+
+One last thing. (Lotsa shit going down today hu?) A big fat woopin'
+HAPPY BIRTHDAY to my lovely lady, Ann Daenzer! (captain_jane@hotmail.com)
+Happy 19th babes! :}
+
+Hehehe, oh gawd she's gunna kill me for doing that. ;)
+
+<=====================================================================>
+Woop of Sunday, apr. 18, 1999
+-----------------------------
+
+Three cheers for the Sin Mods and Coding area! :D
+
+<=====================================================================>
+Da Yakity Shmakity of Sunday, apr. 18, 1999
+-------------------------------------------
+
+I've been plodding along on a few different projects, and I just dawned
+on me that I've reached a point that many could find interesting.
+
+I've just reciently finished getting the WOS source code completely
+cleaned up and enhanced with the new 1.04 tweaks like weapon latency
+reduction. It's just gotta go through final testing to make sure
+nothing got fubared during the cleanup and it'll be good for release.
+
+Also on the coding front, I've been working on WOS CTF. The code's
+comming along excellently (due to Ritual already having done most of
+the hard work;) and some new maps are underway. Unless something
+totally screwy happens, or the LDs go on strike, this should take far
+less time than Sin CTF took to make.
+
+<=====================================================================>
+Doh of Monday, mar. 8, 1999
+---------------------------
+
+I forgot to mention something in my last plan update. The evil
+development weapons are unsupported features. Please do not call or
+email Activision, Ritual, or us about any crashes or other such
+nonsence encountered during their use.
+
+Also, no celebrities were harmed in the making of this pack. All voices
+are impersonated impersonations of someone impersonating the characters
+being impersonated by the voice of an impersonator impersonating the
+impersonation of the characters. Or, something like that.
+
+<=====================================================================>
+Da Yakity Shmakity of Saturday, mar. 6, 1999
+---------------------------------------------
+
+OK, I'm in a nicely evil mood right now, so I thought I'd tell you about
+the secret "development" weapons that are in WOS. It first started out as
+a special stinger pack to help speed testing of the boss monsters, but it
+mutated and kinda grew into something kinda... evil. >)
+
+Hehe, anyway, to get to the point, there are five "evil" versions of some
+of our new weapons. They are: EvilStingerPack, EvilPlasmaBow,
+EvilFlamethrower, EvilConcussionGun, and EvilIP36. They can all be given
+and used just like any other ordinary weapons, but there's also an extra
+give command, "give evil", that will give you all these as well as arm
+you to the teeth with a few other usefull... development tools. ;)
+
+Now go fourth, and do evil unto those that would seek to thwart thine
+destructive Wages of Sin. :)
+
+<=====================================================================>
+Da Yakity Shmakity of Saturday, Feb. 27, 1999
+---------------------------------------------
+
+I just thought it'd be worth mentioning that if you have Wages of Sin
+installed, then you don't need the 1.03 patch. Wages of Sin shipped
+with 1.03... because.. well.. it has WOS support. ;p Sorry, I just had
+to be a bit of a smart ass, hehe.
+
+BTW, if you want to be able to use a bike in any level you want, try
+typing "spawnbike" at the console. Ken seems to enjoy doing that, so
+it's gotta be good, hehe. I'll have a few other added cheat commands
+later on for you, but be forewarned... they're... evil...
+
+<=====================================================================>
+Shmak Talk of Thursday, Jan. 21, 1999
+-------------------------------------------
+
+OK, I was tollerant of the slightly falty preview Game Spot had
+of "Wages of War", but I can't help but make a public notice to point out
+the fact that, contrary to what Game Ceter has stated, we have indeed had
+something to do with the development of the "Wages of Sin".
+
+Ugh, stress sucks, and writers with a lack of research skills suck too.
+Heck, all Game Center had to do was look at their own last article about
+Wages of War to know who made it. :P
+
+Sorry, no witty ending paragraph for this update. You're just going to
+have to suffer the agonies of getting your funny haha's from someplace
+else. Show's over freaks, bugger off!
+
+...
+
+Didn't I just tell you to leave?
+
+...
+
+Damn it, you guys just don't listen do you. What, you think I'm actually
+going to say something important in my current mental state? I don't
+think so.
+
+...
+
+Alright already, fine. The final confrontation has been finished and is even
+nastier than I had hoped. It's got three drastically different stages to the
+fight. Your target's got less health each stage, but it's also more
+deviously not nice and is using a different weapon/weapons, hehe. Yea I
+coulda been an English major, but I decided to be something cool instead. ;p
+
+...
+
+No really, I'm finished now. :)
+
+<=====================================================================>
+Da Yakity Shmakity of Friday, Jan. 17, 1999
+-------------------------------------------
+
+Just thought I'd mention that my use of the term "Yakity Shmakity" is
+in no way related to 3D Enhanced Mini-Golf. It is, in fact, taken from
+Taz's Father in the Tazmania cartoon.
+
+<=====================================================================>
+Da Yakity Shmakity of Friday, Jan. 15, 1999
+-------------------------------------------
+
+I finally broke down and decided to write a meaninfull .plan update
+that some people might actually find interesting. My apologies to
+those that prefer the passive entertainment of a flickering television.
+
+I've just about finished the second or our major boss fights. I'm
+currently still working our the problem of it being butt ugle hard,
+and running our of ammo when you've almost won.
+
+Neither of them will make the Thrall seem easy, but they'll definatly
+take alot more moving around and as much skill as you can muster to
+defeat them. If you're wondering what it'll be like to fight them, think
+back to those 2D platform games that put you in this large arena designed
+to make the boss give you as much hell as possible and that went through
+multiple stages, getting more difficult as the fight progresses. They've
+come together even better than I was expecting. I wish more games put
+bosses in areas talored to make them give you hell rather than just
+popping them in some big neat looking room. I can assure that any game
+I work on, I'll do my damnedest to make them an overly talor,
+multi-staged nightmare of a challenging fight. >)
+
+Let's see, what else... Oh yea, something that I've neglected to point out
+till now, Total Annihilation rocks! :)
+
+NOTE: I am in no way affiliated with Zied's slanderous orginazation
+of anti-Mississippiism. I also have no recolection of his
+English Major-like attempts to become the neo-Hitler of the gamming
+industry, although I can point out that he has been punished severly for
+them.
+
+<=====================================================================>
+Da Yakity Shmakity of Friday, Dec. 4, 1998
+-------------------------------------------
+
+What are you lookin at? Were you expecting a purpousfull first finger
+update? Well, forget it! Shiesh, always gimme gimme gimme...
+
+This is General WarT,
+not writing anymore.

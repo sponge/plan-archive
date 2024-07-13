@@ -1,0 +1,85 @@
+Login: jsiegler       			Name: Joe Siegler
+Directory: /usr/home/jsiegler       	Shell: 
+Plan:
+Joe Siegler (joe.siegler@apogee1.com)
+Online Support Manager / WebDude
+Apogee Software, Ltd/3D Realms Entertainment
+
+October 30th
+
+Work Stuff:
+
+I've finished all of my work on Balls of Steel.  I'm done with the
+install program, and I'm done with the help file.  It was a pretty big
+learning experience doing a Windows help file.  I found a really cool
+shareware program called "HelpScribble" to do it.  I investigated 
+several programs (including retail stuff), and this did the job the
+best, especially considering I didn't know anything about it going in.
+If you'd like to check it out, go here:
+http://www.tornado.be/~johnfg/helpscr.html
+
+Personal Stuff:
+
+This past Sunday was my one year anniversary.  I've been married now for
+a year.  It rocks.  Marriage is the best thing you can do, provided you
+have the right person.  I married my best friend from the previous 10
+years.  That's why it rocks.
+
+I got a few Emails on this, so I'll mention it.  Yes, that is me that
+does the web site for Black Sabbath.  It's at http://www.black-sabbath.com.
+I'm not sponsored by the band, it's just a fan run site that also
+happens to have the domain name of the band.  :)
+
+I do, however, do the official web site for Bill Ward at http://www.billward.com.
+Bill Ward is the original drummer for Black Sabbath, and that *IS* an
+official site.  I've also been contacted by two other former Black 
+Sabbath members about doing sites for them, too.  Can't say who they
+are at the moment.
+
+Internet Explorer v4 Woes:
+
+I also want to spout off about MicroSoft Internet Explorer v4.  I have
+always been a Netscape user.  I've been using Netscape since v0.something.
+As the person who does our web site, I have to have both of them on
+my system, mainly for checking content to make sure there isn't some
+huge fatal error.  Anyway, I was curious about MSIE 4.  I wanted to see
+what all the hype was about.  Well, I got the CD from MicroSoft, and 
+installed it.  I installed it with the full integration.  There are some
+really REALLY cool features there.   My favourite was the one where if
+you use the Webized Explorer, and you click on a registered data file
+such as a graphic (JPG/GIF), or even an HTML page, it will put a small
+thumbnail of that in the explorer window, so you can see what it looks like
+w/o actually loading it.  That was rockful.  I even loved OutLook Express.
+I didn't think I would like it so much.
+
+HOWEVER...
+
+Beware if you use the full intergration option.  It worked fine for me, so
+long as I didn't try to change anything.  On my machine at home, I decided
+to delete it, and put Netscape Communicator back.  Well, I tried to uninstall
+it, and it did uninstall.  However, after that, I couldn't run anything.
+I kept getting the blue screen of death, and kernel crashes, and all kinds
+of nasties.  So, I tried reinstalling Win95 overtop of it, and that didn't
+help.  I had to issue the second worst command you can issue on a computer,
+and that's "deltree c:\windows".  Ughhh..  Had to reinstall from the ground
+up.  Totally. 
+
+OK fine, I thought since my home machine was a mess as it also used to be 
+my work machine (when I say mess, I mean old half uninstalled programs,
+extra drivers, dll's, that kind of thing), it wasn't that big of a deal,
+really.  Plus, I got the chance to have a fresher install of Win95.
+
+Guess what?  It happened at work, too!  I wanted to keep MSIE4 there, but
+I wanted to remove the "webized" Explorer.  Tried just removing that, and
+had the same blue screen of death errors at work.  I had to deltree windows
+AGAIN, and reinstall Win95 from scratch at work, too.   Lost the better
+part of two days work because of all that.  So, once I got myself going 
+here, I'm back to Netscape Communicator.  The next "big" version of Netscape
+is supposed to have the same kind of Explorer Integration that MSIE4 does
+now.  I wonder if it will be more reliable?   And then there's Win98... :)
+
+Ughhh!!  I like MSIE4.  Far better than I thought I would.  However, I cannot
+justify the system risk for it.  If you want to use it, be careful.  
+Big time.  I hardly ever make backups; I suppose I should.  :)
+
+

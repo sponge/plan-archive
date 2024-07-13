@@ -1,0 +1,171 @@
+Account Name:  georgeb @3drealms.com
+Email address: georgeb@3drealms.com
+----------
+George Broussard
+President, 3D Realms
+Project Leader: Duke Nukem Forever
+Executive Producer: Prey
+
+[Monday 12/08/97 - 11:25 pm]
+
+* Got the Quake 2 code dump cd's today ;)  Coolness.  We go off and
+work our butt's off for the next year now.
+
+* 3Dfx Shadow Warrior:  Jack has fixed many of the issues (and is
+tackling the "muddy colors" and F5 changing of resolutions in the 
+next couple of days.  Frank has all his stuff working except a
+glitch with the loading of saved games.  Cropped up again.
+
+* www.gamegirlz.com has a "spirited" discussion of "Sexism at
+3D Realms."  Drop by and join in (but be nice -- too many people
+there are jerks with the iq's of snails saying stuff like "Duke
+Rulez!  You guys suck!"  Try to be more constructive, or don't
+bother.)
+
+* I finished Monkey Island 1 ;)  Awesome game.  Played the one
+with the VGA converted art and CD music.  Monkey Island 2 is 
+next followed by Tomb Raider.  Still playing Total Annihilation
+net games.
+
+
+[Friday 12/06/97 - 2:11 pm]
+
+Updating my feelings on CompUSA banning/not deciding to carry
+the game "Postal".  I receive LOT'S of mail on this and the
+vast majority was positive.  I will address some of the points
+here.
+
+* It was pointed out that it's CompUSA's business and they can
+sell what they want.
+
+Correct.  They can.  But do we as gamers want Comp (or any 
+other reatilers) deciding what we have access to?  Games 
+aren't quite as easy to find as say a bag of cheeto's, so
+every retailer helps.  For my part?  I'm going out today and
+heading off to EB, Best Buy or whatever I see first and 
+buying a copy of Postal.  I urge you all to do the same.
+
+Show the developer's of Postal you support them and show
+CompUSA that you will buy stuff elsewhere if they choose not
+to sell it.
+
+* "Maybe CompUSA didn't make the decision.  Maybe customers 
+made the decision for CompUSA."
+
+Maybe.  But if that's so, I think CompUSA folded when they
+didn't have to.  At all.  They could simply have required
+Postal to carry additionl warning stickers on the boxes to
+warn people.  That's why this whole silly rating system
+from RSAC and ESRB got started 3-4 years ago.  It's now
+standard.  We have rating for a "reason".  To warn customer's
+of a game's content.  Is CompUSA telling us Postal is so
+severe the ratings don't apply to it?  That's very bad if 
+that's the case.  Next you will hear is that they won't
+carry a game with an RSAC rating of 4 on violence (4 is the
+max by the way).
+
+* I wonder if Postal would have been banned if it was on
+a pace to sell 500,000?  Somehow I doubt it.
+
+* Didn't CompUSA block selling Phantasmagoria a year or so ago?
+Didn't they also start selling it again a couple of weeks
+later?  Anyone remember more clearly?
+
+
+[Friday 12/05/97 - 6:45 pm]
+
+Hooo boy.  Just on GameSpot's news page (http://www.gamespot.com),
+and read that CompUSA has deemed the game Postal to be of content
+it doesn't want to sell (Like pornography - said a CompUSA rep),
+and so CompUSA has pulled Postal fromt the shelves.
+
+What a shame.  Get a clue Comp.  It's a sad day when retailers 
+start censoring content for us game buyers.  Like pornography?  
+Since when are violent games like Doom, Quake, Duke 3D, 
+Shadow Warrior, etc etc etc, like pornography?  I guess those 
+games are "ok" to sell.  But poor little Postal has to be
+stopped.  
+
+Are rating stickers on the outside of the box not enough?  Make
+the Postal developers put a special warning sticker on the box or
+something, but don't be so pompous and silly as to ban the game,
+claiming it's as bad as "pornography".  That's ridiculous.
+
+Shame on CompUSA for playing God with a developer's game,
+profits and time invested.  Who are they to make such decisions?
+Walmart has always requested toned down/censored versions of
+some of our games like Duke 3D and Shadow Warrior.  That was
+annoying but fine.  It still got sold and users could patch 
+back to the full version if they desired to.  But to flat out
+ban and refuse to sell a game?  My oh my, fellow developers,
+let's hope this trend does not continue, or else we might 
+have to buy or games from more forward thinking companies and
+organizations than CompUSA.
+
+
+[Thursday 12/04/97 - 8:30 pm]
+
+3Dfx Shadow Warrior:  
+
+A v1.1 patch is in the works.  Jack Mathews "Morbid", is working 
+on the 3Dfx end at the moment.  Some things we intend to address: 
+Garbled status bar, Smoke bomb doesn't show weapon as transparent, 
+Multi-play frag bar cut off, Better message if glide2x.ovl
+not found, muddy colors.  On our side, we will address the save/load
+bug, and try to add resolution changes to set3dfx.exe (it might be
+possible for F5 in the game to do res changes -- not sure).  Did we
+miss anything major?  If so, email me.  I'd expect the patch to be
+done fairly soon.  Jack seems to be doing great on things.
+
+
+Duke Nukem Forever:
+
+Bunch of random stuff.  Chris finished a tool we use for mapping and
+creating the 16 bit skins for the models.  The artists are using it
+now and tweaking things.  Nick, Chris and I have been trying to nail
+down the technical specs for what we intend to do with the Quake 2
+engine, and have a long list of stuff to work on.  More later.
+
+Michael is animating Duke and creating more conceptual sketches for
+other game characters.  Brian is working on weapons and starting a
+character of his own.
+
+The map designers and myself are overdue for another jam session on
+map progression and nailing down overall plot/story.  We'll be
+dealing with that more over the next few days.  In the meantime,
+they are creating really cool concept levels to drive the texture
+dudes, and get a massive pool of art laid out to work with.  
+
+All in all, things are becoming a "machine" now, and with the
+impending release of the Quake 2 code, we expect to continue the
+progress we are making.  There's a lot of work left to do, but 
+things are starting to solidify and take hold.  We like what
+we see.
+
+
+Add ons:
+
+Been dealing a lot with reviewing the various add on's that are due
+soon for Duke Nukem 3D and Shadow Warrior.  Duke Caribbean is about
+ready and Nuclear Winter (Xmas style Duke mission) is also nearing
+completion.  Shadow Warrior's add on's (Deadly Kiss and Wanton
+Destruction are getting close as well).
+
+
+General:  
+
+* Finished 'The Curse of Monkey Island', and have to say it's
+one of the best games of the year and the past several years.  Totally
+enjoyable, fair, funny and everything you expect.  Only dissapointment
+was that after 20+ hours of gameplay the ending was "abrupt" to say
+the least.  With all those artists, I know Lucas Arts could have done
+better ;)  Going back to play Monkey Island 1 and 2, as well as 
+playing Tomb Raider 2 at the moment.
+
+* Had the T1 at the office a couple of weeks and it's been great.  
+Thanks to Concentric for that.  We haven't even had a hiccup yet.
+
+* The Duke ports for N64, PlayStation and Saturn are out.  Go 
+"get some" ;)  They make perfect Xmas gifts.
+	
+    

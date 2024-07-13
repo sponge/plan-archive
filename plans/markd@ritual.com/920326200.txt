@@ -1,0 +1,63 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: markd
+Plan modified: Mon Mar 01 17:47:04 1999
+
+03/01/99 - Part 2
+========
+
+3DNOW support
+=============
+
+I found two potential problems for 3DNOW users out there.  The first one is
+that if you installed the patch, you are still probably using your old config.
+This isn't an issue except that version 1.01 of Sin turned off the
+"vid_checkamd" variable because at the time the 3DNOW support was not done.
+This variable was then saved in your config.cfg so by updating to version
+1.03, you still don't have 3DNOW support because vid_checkamd is set to zero
+not 1.  To fix this either edit your config.cfg in
+base/players//config.cfg or create a new player config.
+
+The other problem is that the latest changes to the renderer for the mission
+pack Wages of Sin have not been 3DNOW optimized and therefore do not show up.
+2015 had added additional particle effects that are currently not supported in
+the 3DNOW enhanced, ref_gl_amd.dll.  I am taking steps to make sure that these
+changes are integrated in the near future.
+
+Thanks go to David W. Anderson for finding out the reason, he wasn't getting
+3DNOW acceleration.
+
+03/01/99
+========
+
+Version 1.03
+============
+
+There seems to be some confusion out there about 3DNOW support in version 1.03
+of Sin.  I guess people are so used to having to specify things that they
+don't expect programs to work like you would expect them to. ;)
+
+Sin does an automatic detection of 3DNOW, EAX and A3D.  If you scroll back the
+console buffer when you start a game it will tell you which renderer it loaded
+if it says "------- Loading ref_gl.dll -------" you are loading the normal
+renderer and if it says "--------- loading ref_gl_amd.dll -------" you are
+loading the 3DNOW enhanced renderer.
+
+Variables which help in the process:
+
+vid_checkamd (default 1) - enables the check for 3DNOW support
+s_checkeax (default 1) - enables the check for Creative's EAX support
+s_use3dsound (default 1) - enables A3D support
+
+I hope this clears up some confusion.
+
+CTF
+===
+
+Aldie has been hard at work on CTF and we are almost ready for a public beta,
+expect to see something soon.
+
+Mark D
+
+Ritual Entertainment

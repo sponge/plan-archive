@@ -1,0 +1,26 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+Last Updated: 01/04/2002 15:03:26 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+Man, do people watch that id ftp server or what..  Didn't get a chance to update before
+it's on the news sites!
+
+Quake 3 1.31 for OS X has been posted on the id ftp site.  We don't have the benefit of
+outside testing for OS X builds, so it is a BETA release (ie. use at your own risk).
+
+Fixed:
+	-	stereo sound
+	-	works every time on powerbooks
+	-	mouse stays accelerated when you quit
+	-	some dual monitor stuff
+
+You need to have Quake 3 1.30 installed for OS X before you update to this build of 1.31
+since only the updated pak files are included.
+
+I've not built Classic Q3A 1.31 yet.  I seem to have accidently nuked my install of
+CodeWarrior.

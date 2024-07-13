@@ -416,4 +416,147 @@ working on Riot for that last few months, that I should probably move my .plan. 
 Riot.
 
 What can I say, this game just gets better and better.  
-The whole Riot team busted ass
+The whole Riot team busted ass the last few weeks to get 
+a completely functional level done for Microsoft.  I must admit it looks fantastic.  I'm sure there will be new screenshots up soon...
+
+Well, I've decided to update my most popular .plan file update ("Charlie and the Carnage Factory" posted on 8/31) with some pics sent in by one of my many fans...okay, so some guy (D. Butler) - who has just a bit too much free time :)
+
+Anyway, without further ado:
+
+
+ 
+Charlie "Want Some?!?" Bucket
+
+
+ 
+Willie "Pimp'n it" Wonka
+
+
+ 
+Veruca "I want it now!" Salt
+
+
+ 
+Umpa "What do you get..." Loompas
+
+-$-
+
+
+
+
+9/20/97
+
+Hmmmm.  What to say, what to say.  Does it really matter?
+I'm convinced that only myself and maybe one or two other
+people here at Lith even read this thing.  I get absolutely
+no mail from anyone outside the company saying "man, that
+thing you said in your .plan file was twisted.  I'm going
+to hunt you down and make you bark like the dog you are."
+Not that it matters, but I guess it would probably make me
+feel better to know that all of the *cough* effort, and
+*sniff* time I put into this thing is being appreciated by
+someone...Okay, so here it is:  If you don't work at Lith
+and are reading, have read, or know someone who doesn't 
+work at Lith who has read this or any other plan file of 
+mine (BadAsh or MenuBoy), please send me an email 
+(stephens@lith.com) stating, for the record that you:
+ 
+     A)like
+     B)dislike
+     C)don't give a rat's ass about
+     D)ask your lab partner
+     E)none of the above
+     F)all of the above
+     G)some of the above
+     H)A, C, E, F
+     I)A, most of the time but, B on Feb 2, 1953  
+
+my plan file.
+
+Thank you for your support.
+
+Okay, enough crying, whining and acting like a little
+girly-man from me for one plan update...
+
+What am I working on...Well, Miyayayk is just about done
+with the conversion of DE from using DScript to C/C++.  So,
+I've started to convert Riot from DScript to C++.  There 
+has been a rather heated debate going on here at Lith about
+whether we should code our games in C or C++.  I find the
+whole debate rather interesting (probably due to my 7 years
+in Academia where I heard/participated in numerous debates
+of this sort), so of course I'm on the fence throwing
+gas on the fire (and sitting back and roasting marshmallows:).
+
+The debate is basically this:  If we write our games in C
+then it will be much easier to port our games to other
+systems.  However, if we write our games in C++ we get all 
+the cool features of the C++ language, but would have more 
+work if we end up porting our games to other platforms...
+Well, for Riot, we are fairly certain that we won't be 
+porting it to other platforms, so we've decided to convert 
+the DScript to C++.  However, for some of the other DE 
+games we have in development (like B2), this isn't 
+necessarily the case...
+
+Now, to me, the whole debate is rather silly.  C++ really
+is just C with Object Oriented sugar-coating.  There are 
+VERY few things you can do in C++ that you can't do in C.
+The argument that C++ better supports Object Oriented 
+methodologies than C is true, however, it is not very 
+difficult to write good OO code in C.  In Fact, for DE to 
+support (polymorphic) C++ objects, the overhead of an extra
+function call is incurred on every function call DE makes 
+on the C++ objects (not to mention the overhead of 
+calculating which virtual function to use).  
+
+In defense of C++, the calculation of which virtual function 
+to use is something like a single addition to find the offset 
+into the virtual table (which is very minimal).  In addition,
+the ability to use overloaded operators for things like
+vector math is going to make the C++ code much cleaner than
+the corresponding C code.  Of course, C++ also better 
+supports the creation and destroying of objects than C.  
+Finally, most of the engineers here at Lith have been 
+writing their code in C++, so we are used to the 
+idiosyncrasies and pitfalls associated with C++ (not really
+an argument for C++, just something to note).
+
+Well, as you can probably tell, I'm on the fence.  I can see
+the good, the bad, and the ugly of using either language...
+
+All I know is that since we are NOT using DScript, life is
+good (for more on this see Mike Dussault's .plan file).
+
+Okay, I think I'm done with this installation of my plan.  
+If anything above seems incoherent, inconsequential, or
+just plain foolish, that is probably due to the fact that 
+it is.
+
+As always, forward criticisms to PackSand@Rat.Hole.
+
+-BA
+
+
+
+8/31/97
+
+Well, it looks like B2 decided not to re-negotiate my contract...
+and Riot decided to exercise their option to pick me up on the
+waiver wire...So, I'll be with  the Riot team at least until the playoffs...
+
+Okay, so what really happened is that Riot (which is using the 
+same engine as B2, but has a tighter timeline) needed a little 
+more engineering muscle and, hell, we all know what a
+beefcake (BEEFCAKE!) I am...So, Jay and Craig played a
+game of Quake for me, and we can all guess the outcome of 
+that...Okay, okay, okay...so it happened a little higher up the food-chain...but I think the Quake game would have been
+ more fun to watch...
+
+So what does this mean to the common layman...probably not a whole lot.  I'll be "officially" making cool shit for Riot, and B2 will just have to steal it :).  I figure if I can pull all the right strings (oh yeah, didn't you know?  Engineers run Monolith.  "Who runs 
+Monolith?" Master-Blaster runs Monolith...)  Sorry, I think I've seen one too many Mad Max movies...So, where was I...oh yeah... so I figure if I pull all the right strings I'll end up doing most of the AI for Riot and B2...Just picture it: futuristic, mechanized, metal bent to serve me in one game, and horrific, demonic, evil doing my biding in another...he.  he, he.  ha!  Ha...HAA BBBHAAAAAAAAAA, cha, chu *gasp* *choke*...
+
+Brainfart:
+Just had a cool idea for a 3D-shooter:
+
+     "Charlie and the 

@@ -1,0 +1,19 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+Last Updated: 10/07/2000 20:49:42 (Pacific Standard Time)
+-------------------------------------------------------------------------------
+October 7th 2000 / 10:45pm
+
+I'm putting together the RoQ video encoder and source code for
+decoding video files.  This will let you use the RoQ format in
+MODs for video and in any other game you want.  The quality
+speaks for itself.  Q3A was all 512x256 @ 30hz, while 11th Hour
+(the previous use of this codec) was 640x320 @ 15hz.  The RoQ
+codec pretty much beats out anything else in terms of quality,
+so I'm happy to be finally getting this out there.  I talk a
+little about it's development in WIRED magazine (way back when
+Newt was on the cover) if you want to go dig..

@@ -1,0 +1,64 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Dave Kirsch
+Email: zoid@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 10/29/1997 17:30:29 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+Oct 29/97
+
+I hope everyone is enjoying the new QuakeWorld 2.1 release.  As mentioned
+before, its mostly just a minor bug fix release.
+
+There's a sprite bug in the new GLQuake 0.96.  I'll have a new version out
+in a few days that fixes it.  It's hard trying to coordinate a new release
+of about twelve different versions and something usually slips through the
+cracks.  :(
+
+GLQuake and Q2Test for Linux are pretty much done.  I'm waiting for a couple
+bug fixes in MesaGL that corrects some texture alignment errors and fixes
+the colored lighting in Q2Test.  As soon as that is completed, I'll be
+releasing GLQuake, GLQWCL, and Q2Test for Linux.  Q2Test will support
+three rendering shared libs, ref_soft.so (SVGALib console), ref_softx.so (X11
+windowed) and ref_gl.so (Console MesaGL w/GLIDE).  You can't switch between
+renders on the fly unless you are running as root due to permission problems.
+:(  Need some way to make a .so setuid. :)
+
+In QuakeWorld, the pmodel and emodel tags are in, but I didn't realize that 
+you could just connect with 2.00 and set these tags manually with the 
+correct values.  I'm going to re-examine my position on this.
+
+The issue of cheating has been a hot topic of late.  Hacking models or maps
+seems to be becoming a major issue.  I've heard a lot of reports that Team
+Fortress players are experiencing this with modified maps, such as changes in
+brightness and wall placement.
+
+I guess the ideal solution to the issue of model cheats is to have the client
+send over a list of all the models with CRC values.  Then the server can 
+check and log any differences.  But this is just trying to fix a sympton,
+not the problem.
+
+The issue of client side cheats is something that has always loomed over us.
+It seems to be of late that people are really starting to hack things in order
+to gain any advantage.  The whole issue of proxy bots is yet another problem.
+
+I guess what it comes down it is respect and the ability to trust the players
+you play with.  Anyone who cheats constantly will eventually be "found out"
+and branded.  But where do you draw the line?  Many of the players I know
+do change stuff like d_mipcap, v_kicktime, etc. to hopefully gain advantages
+there.
+
+I think the true player plays Quake and Quakeworld with nothing but the
+default settings or those settings that are changeable in the Options menu.
+I play with default settings, because I feel hacking various client variables
+(much less model hacks!) change the game into something that isn't Quake
+anymore.
+
+The end of it is, if you feel the need to start hacking models or maps, using
+proxy bots or going nuts on the console commands to give you that extra
+"edge", think about what you are doing.  You are cheating, and all that
+tells people is that you suck.
+
+/// Zoid.

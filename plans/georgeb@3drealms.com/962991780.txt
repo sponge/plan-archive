@@ -1,0 +1,66 @@
+Account Name:  georgeb
+Email address: georgeb@finger.3drealms.com
+----------
+07/06/2000 - 6:00pm
+
+
+GOODBYE
+
+We say goodbye to Chris Hargrove tomorrow.  Chris will be
+missed and has been with DNF since it's start.  Chris is
+leaving for mainly personal reasons and it is 100% amicable.
+
+His new e-mail is: chrish@usac.net
+
+Also, Chris has done a small interview on GameDev.net that
+will clarify his leaving to put the rumor mill to rest.  You
+can read it at:
+
+http://www.gamedev.net/columns/interviews/chargrove2.asp
+
+Chris picked a perfect time to leave, and we appreciate
+that.  His skeletal animation and model system are 
+essentially done and no major work has been done on them 
+in a few weeks.  Lately he's been working on AI as we've 
+moved to the game play phase of the project.
+
+I know I speak for the entire team when I say, good luck
+Chris and stay in touch.
+
+
+HELLO
+
+Jess Crable will be joining us in a week or so from
+Legend Entertainment.  Jess worked on Wheel of Time, the 
+Unreal add-on pack (Return to NaPali) and is currently
+working on Unreal 2.  We look forward to Jess bringing
+his experience with Unreal to the project.
+
+
+THE FUTURE
+
+As we head into finishing DNF, we've identified two positions
+we want to fill to handle the increased workload.
+
+You can find out more information on these positions at:
+
+http://www.3drealms.com/gethired.html
+
+In short we are looking for:
+
+1) TEXTURE ARTIST
+
+- Total knowledge of Photoshop
+- Willingness to work with photo source, and not hand drawn art
+- Skills in making textures for a game world or skins for models
+- Previous professional experience on a 3D game a major plus
+- Signing bonus available
+
+2) PROGRAMMER
+
+- Professional experience with the Unreal engine a major plus
+- Experience with UnrealScript
+- Fluent knowledge of C/C++
+- Signing bonus available
+
+Applicants must be:  Over 18, US Citizens, willing to relocate.

@@ -1,0 +1,227 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: John Scott
+Email: jscott@mail.ravensoft.com
+Description: Programmer
+Project: SoF
+Last Updated: 10/29/1999 14:31:36 (Central Standard Time)
+-------------------------------------------------------------------------------
+Nick: Pagan
+Project: Soldier of Fortune
+
+Disclaimer - The opinions expressed herein are personal and
+in no way represent that of Raven Software or Activision.
+
+29/10
+
+Licence plate silliness -
+
+Jake is going to get 'TARD1S'
+Jeremy is thinking about 'F1PPY' - too much EQ methinks ;)
+Someone else is thinking about 'MS SUX'
+There's a VW bug out there apparently with 'Y2K BUG'.
+I think the VW Bug with the identity crisis is the best yet
+with the plate of 'FEATURE' (think about it)
+
+For those with trouble with Dans plate, think plurally.
+
+UU THE 44
+Us THE 4s
+Use the fours 
+
+... if anyone doesn't get it now.....
+
+Still only 95 in the SETI charts...
+http://setiathome.ssl.berkeley.edu/stats/team/team_6644.html
+
+By the way, can you tell compile times are starting to get 
+ridiculously long ?
+
+28/10
+
+SoF continues - bugs are fixed, features are added. It has
+come to that time where we have that mindnumbingly tedious
+task of typing in all the text that has to be translated into
+endless different languages. 
+
+I just got my sad luzah geek licence plates - 'L33T'. The only
+person who comes close is Dan K with 'UU THE 44' (which takes
+some working out). I'm just wondering if there is anyone
+else with even lamer plates ?
+
+26/10
+
+We've snuck into the top 100 on SETI at last! Feel free
+to join....
+
+http://setiathome.ssl.berkeley.edu/stats/team/team_6644.html
+
+22/10
+
+Mmmm....2 GeForces to play with :)
+
+Chris and Jeremy love the card, it runs QERadient about
+10-30 times faster. It is a hard amount to quantify, but
+it is at least an order of magnitude faster.
+
+As Rick and Jake have stated - Ghoul can make use of GL
+lighting, a feature that has always been in GL but has
+never been fast enough to use in a game. Using this, Gil
+got about a 20% speed improvement on the GeForce.
+
+Generally your frame rate is limited by one of several
+bottlenecks - I shall endeavor to explain what these are
+and in what situations they are most prevalent. I'll
+try to make it as untechnical as possible and most likely
+fail miserably :)
+
+1. Fill rate - raw pumping of texels to the screen.
+
+This used to be the major hold up, but with the latest 
+cards is not so much of an issue. For example, the TNT2
+can handle 350 million marketing pixels per second, which
+is enough to draw an entire 800x600 screen about 12 times
+at 60fps. Even in a game with oodles of fancy spell
+effects (such as Heretic2) this is plenty. Marketing pixels
+are the theoretical peak rate of rendering, real world
+apps can achieve about half that.
+
+2. Texture uploading - the amount of texture in a game
+
+This is still a major bottleneck, especially in games
+with lots of procedural textures (eg Unreal). If all the
+textures in a level will fit onto the cards local memory,
+then this is not an issue. However, in the real world we
+normally have a lot more texture than will fit for any
+given scene, so the game is continually swapping textures
+in and out of the cards local RAM. Setting gl_picmip in
+Quake based games will reduce the memory required for
+textures and so reduce the amount of uploading, but will
+have the downside of reducing the final image quality.
+S3TC has a similar effect on uploading without the loss
+of image quality. In a game with procedural textures, the
+CPU creates the texture and then has to upload it, thereby
+exaggerating this bottleneck. D3d can handle this better
+than OpenGL purely because you can manage your own textures
+and optimise for your own special cases.
+
+There are many factors that affect this, Voodoos are
+quicker at uploading than TNTs, but they have less
+memory so have to do it more. The Permedia3 has a
+very interesting approach that it will only upload the
+portion of the texture it needs.
+
+3. Geometry - the number of verts in the world.
+
+This is definitely where SoF in limited. The CPU has to
+perform lots of calculations to work out where to place
+a vertex on the screen. This can either be done by the
+driver or by the game. We use the OpenGL transforming
+for ease, and although it maybe a little slower on a
+vanilla machine, it enables the driver writers to 
+optimise for SSE or 3dNow! instructions transparently, 
+and allows us to automagically take advantage of hardware
+T&L. The GeForce acts as the equivalent of a parallel 
+Pentium processor running at about 2GHz (source : nVidia)
+which purely handles the transforming and lighting,
+thereby offloading a major chunk of work the CPU had
+to do to a custom much faster processor. In practice this
+means a much faster game.
+
+The downside of this is you are limited by the transform 
+speed of the card, so if you have a 3GHz processor in your
+machine, you may actually have a performance hit :) Then 
+again, feeding the card enough verts to make this noticable
+would choke the AGP bus completely. I think I would be fairly
+confident in saying this will not be a problem for some
+time to come.
+
+Any OpenGL game that uses the OpenGL transform pipeline
+will be accelerated by hardware T&L. I can't comment on
+any other games than Heretic2, Sof and Trek, which all do.
+
+4. Game code - the amount of processing required to run the game.
+
+If the AI of the game is your bottleneck, no video card
+is going to help!
+
+The overall approach to getting performance is to find out
+where your limiting process is, the bottleneck that
+is holding up the other processes, and speeding that up.
+
+21/10
+
+Event of the day : 
+The GeForce is being shipped to stores (apparently).
+
+I soon as I get one, I'll post some numbers.
+
+Fly in the ointment of the day :
+The Paladin Quest armour.
+
+Salian Agarwaen - disgruntled paladin of Innoruuk.
+
+20/10
+
+I just need to once again spooge over GLSetup. It will
+save everyone so much time, for the developer to user, 
+and generally make for a less stressful OpenGL gaming
+experience :)
+
+The Fragile is awesome.
+
+6/10
+
+"The state of video card support in SoF"
+
+All the following work just fine with the drivers from
+GLSetup.
+
+TNT2
+TNT
+Savage4
+Savage3
+Voodoo3
+Voodoo2
+Voodoo Banshee
+Voodoo1
+Voodoo Rush
+I740
+Rage128
+G200
+
+..and the rest on a card by card basis
+
+G400 - works great with the beta drivers, just not the
+GLSetup ones. They are planning an update on Friday.
+
+Riva128 - We need to do some coding to get around 
+the hardware problems this has. The game runs fine, it
+is just some alpha'd sprites have a black border.
+
+RagePro - works fine on test levels, just not in 
+production ones. We are working with ATI on this. This
+is the card in a gazillion laptops so we will put in
+the effort.
+
+Permedia2 and Verite 2x00 - too slow and not enough
+features to run the game at all.
+
+Permedia3 - no idea, we don't have one.
+
+PVR1 (aka PCX2) - Way too slow.
+
+I can't comment on any other cards we may or may not have :)
+
+I'm about to buy a new PC, and I'll be buying a TNT2 with 
+that. Alternatively, you can't go wrong with a Rage128, G400
+or Savage4; they all show off SoF to its best.
+
+26/8
+
+As there is a Duke SETI team, why not a Raven team ? Sign up
+if you wish!
+
+http://setiathome.ssl.berkeley.edu/stats/team/team_6644.html
+
+ 

@@ -1,0 +1,122 @@
+Account Name:  George Broussard
+Email address: georgeb@3drealms.com
+----------
+George Broussard
+President, 3D Realms
+Project Leader: Duke Nukem Forever
+Executive Producer: Prey
+
+[Monday 6/15/98 - 10:55 pm]
+
+Geeeeesssshhhh.  I've been doing interviews and emails (over 400)
+for the past 4-5 hours.  Here's some common things I will address
+in the DNF engine switch to Unreal.  There really are only a couple
+of concerns for people.  This will hopefully address them.
+
+1) Internet play.  Yes, it stinks in Unreal now.  Yes, Epic is
+working on it hard to fix it.  I believe they will.  Why wouldn't
+they?  They have the #1 game in the country that is poised to take
+over net play.  It is in their interest and their dozen or more
+licensees to make net play rock.  Give it a little time. Even Quake 1/2
+has net issues upon release. Even if the unthinkable happens and 
+they don't, we will.  There is plenty of time for that before 
+DNF is released.
+
+2) High system specs.  Yes, Unreal likes power.  That's the price
+of advancement folks.  Sorry, but those P150/166's aren't going
+to cut it anymore.  Unreal runs reasonably well on a P200/64 megs
+and a voodoo 1 cased card.  I know.  I've run it here on that
+system.  It runs silky on P266/64 megs and voodoo 1.  The only time 
+it really bogs is on some maps where not enough care was taken with 
+texture usage and poly counts.  Chalk that one up to running out 
+of time.  Clearly we will optimize Duke maps for speed.  We are 
+frame rate junkies like all of you.  But the bottom line is that 
+you will need a P200/64 negs and a voodoo 1 card (at least) to run 
+DNF.  This should not be an issue in 1999.  I mean don't expect 
+Quake 3 or any other leading edge 3D game to run on your P166's 
+either.  Please correct me if I'm wrong.
+
+3) Delay.  Folks, DNF was likely a 1999 game in the first place.  At
+least early in the year.  This decision is not going to cost us 6
+months or more, and if it does it means we are adding cool stuff like
+strippers and pool tables.  The actual conversion to the Unreal engine
+is nearly trivial.  We have Unreal code.  We have analyzed it and what
+we need to do.  We are not the least little bit concerned.  What 
+concerns us is that we can make maps MUCH larger than we were and that
+means more time to make them, but that's a good thing.  For you.
+
+That's it.  In 300-400 emails I got "ROCK ON DUDE", or a complaint
+about one or more of the above 3 items.  That means to me that we are 
+on the right track.  
+
+I know this is an utter shock to most of you out there, but trust
+us, have a little faith, and let us do our jobs.  This is in the 
+interest of delivering you the best game we can, and we have a lot
+of work to do, but we are up to the task and you will be rewarded.
+
+
+[Monday 6/15/98 - 4:30 pm]
+
+Major Duke Nukem Forever announcement time ;)  We are switching to
+the Unreal engine to finish the game.  You will be able to find a
+press release online at www.3drealms.com in the next 24 hours.  We
+are very excited about this decision, and we think our fans will
+be as well.
+
+We don't feel there will be a significant development delay, but there
+will be a slight one as we move over to the new engine.  But this is
+analogous to people moving from the Quake 1 to the Quake 2 engine. Our 
+game data will convert right over, without a hitch.
+
+It's very important to note that this was a tough decision for us.
+It does not stem in any way from hard feelings, nor in fact, 
+anything to do with id software.  Our relationship still remains
+very good.  This was a business decision and based on what we wanted 
+to do with Duke Nukem Forever as a game.
+
+Now, if you will excuse us.  We have a lot of work to do ;)
+
+
+[Wednesday 6/10/98 - 3:45 pm]
+
+1) Look for a very major announcement on Duke Nukem Forever in the 
+next few days.
+
+2) My NSX got totalled (I hope, cause I don't want it back fixed),
+Saturday night on the way to my birthday party (of all the irony).
+Some lame woman merged from a stop sign into my car, destroying the
+right side, popping me onto a median (destoying the front end) and
+then hitting a tree (causing yet more damage).  Pictures will be 
+online soon.
+
+
+[Monday 5/25/98 - 3:17 pm]
+
+I finished Unreal last night.  Took about 16 hours total, playing in medium
+skill.  For reference I played on a P2-300, 128 megs and a voodoo 1 with 
+only 2 megs.
+
+Wow, this was truly fun and will go down as one of my top play experiences,
+along with Doom, Dark Forces, Tomb Raider, Jedi Knight and most of the
+LucasArts adventure games.  If you like large (and I mean HUGE) levels to
+explore, this is your game.  The game is vast on a level I had only seen
+in Jedi Knight before.
+
+There are some areas that could have been improved, and I'm sure purists will
+pick the game apart, but it won't matter.  Unreal easily exceeds the sum of
+it's parts and it will sell 800K+ copies because of it.  Epic took a lot of
+chances in this game and they innovated in a number of areas.  The game 
+is revloutionary, and not evolutionary like most, which means it will be a
+big success.
+
+Go get it.  Play it.  And watch this game split the market with Quake 2 for
+user add on's and community excitement.  Unreal has definately set new 
+standards in 3D gaming and it's going to be a hard act for future 3D games
+to follow.
+
+Immense congrats to Tim, Cliff, James, Mark and the rest of the team I
+haven't met yet.  Enjoy the $$$ boys :) and smile every time you recall
+someone calling your game vaporware, late, inferior, or any of the other
+crap.  You guys get the last laugh.
+	
+    

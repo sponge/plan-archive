@@ -1,0 +1,97 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Dave Kirsch
+Email: zoid@idsoftware.com
+Description: Programmer
+Project: 
+Last Updated: 12/04/1998 16:00:31 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+Dec 4th, 1998
+
+As John Cash mentioned in his plan, 3.20 is the final patch for Quake2.  The
+3.20 beta testing went very well so we have stamped it as official.  We
+won't be doing another update on the Quake2 code base unless something major 
+shows up (like a serious DoS attack or bug).
+
+The Quake2 upgrade path has a bit bumpy (3.15's air control), but overall
+the path was to solve two essential needs (a) address bugs/security issues
+such as DoS (denial of service) attacks, and (b) provide new features.
+
+I hope the mod makers out there are excited now that we've released the
+new updated game code--including the Xatrix and Rogue game code as well.
+It has been a long time coming, but we wanted to make sure that when we
+re-released it, it wasn't going to change again a couple weeks later.
+It's going to be good to see the new features added to all the existing mods
+out there such as IP banning, flood protection and spectating.
+
+I also was recently interviewed by TC over at 
+The Daily Dementia.  It's an audio
+interview that you need the Real DooHickey
+(to quote Blue) in order to listen to.  I enjoyed doing the interview and
+ended up talking about all sorts of stuff.
+
+I've been really enjoy two very cool games lately.  SIN and HalfLife have been
+a blast to play over the last week or so.  
+
+SIN was a little bumpy out the gate but the new patch makes it a lot cleaner.  
+You gotta wonder what those Ritual guys are doing in the wee hours of the 
+morning to come up that new ParadoX level.  Though it should have really been 
+called Relativity in honour of MC Escher's wonderful art.  
+I enjoy running around as JC in deathmatch since he makes that corniest 
+wisecracks and looks like a punk.  Most of the guns are bigger than he is!
+Congratulations to the Ritual boys on putting out a kick-ass game.
+
+Half Life has been a real joy to play as well.  The single game experience
+is completely different than a game such as Q2 or SIN, but in a really
+positive way.  The immersion is very effective in HL.  HL's visuals are
+extremely well done, but they are beautiful in their accuracy as opposed to
+their 'gee-wizz-bang' graphics you see in most FPS games.  HL's visuals
+look real and everything is there because that's they way it would be.
+A big round of applause for the Valve crew for putting out a great game.
+
+I think both need a CTF multiplayer mode, tho.  :)
+
+/// Zoid.
+
+-------------
+
+Oct 2nd, 1998
+
+From Blue's News:
+
+
+
+"Today marks the two-year anniversary of the day the first-ever story about
+Capture the Flag appeared anywhere, right here on Blue's News. I was on
+a trip to Virginia and it really seems like the "old days," because I was
+updating on a monochrome 486SX laptop, using a flaky 14.4 AOL connection,
+and I can still remember the email from Zoid that had such a strong hook."
+
+
+I remember writing that email to Blue.  When I realized that CTF was going to
+catch on (the sheer number of people fighting to get into my two little
+twelve player servers was astounding), I wrote mail that would "sell"
+the product, so to speak.  I knew I built something cool and I wanted tell
+everyone about it.
+
+I guess everyone heard about it by now.  :)
+
+CTF has been an amazing project for me.  From my humble beginings on a little
+NetQuake server running a little hack with floating keys to Quake2 CTF.
+It's been fun building it all, and it's going to be a challenge to continue
+the tradition of simple gameplay, but addictive design.
+
+Speaking of Q2CTF, I've begun some layout plans for an addon level pak.
+Players have been screaming for more "official" quality levels and I think
+it's past due time for some to be made.  No time line yet, but I'm hoping
+to get a new pak together soon for all your CTF fanatics out there.
+
+Thanks to Blue for wishing me a Happy Anniversary and a special thanks to all
+the players out there that enjoyed ThreeWave Capture the Flag and made it
+what it is today.  It was your feedback and desire to play a game that
+drove me to build it and continue to make it better.
+
+"Zoid captured the BLUE flag!"  :)
+
+/// Zoid.

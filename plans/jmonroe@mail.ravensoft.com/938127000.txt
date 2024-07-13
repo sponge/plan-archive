@@ -1,0 +1,24 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: James Monroe
+Email: jmonroe@mail.ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: James' Web Site
+Last Updated: 09/23/1999 19:46:42 (Central Standard Time)
+-------------------------------------------------------------------------------
+well, that was fun.  we just spent way too much time tracking down a release-only bug which was prenting our NPCs from moving in certain circumstances.
+after many fun hours of narrowing down the bug to "global optimizations on" in a certain function, we found the offending line.
+
+it turns out that this call to floor was always returning 0!
+
+ fDot = DotProduct(forward, dir);
+ ucmd.forwardmove = floor(move * fDot * NPCInfo->moveToGoalMod);
+
+but, this works correctly:
+ fDot = DotProduct(forward, dir) * move * NPCInfo->moveToGoalMod;
+ ucmd.forwardmove = floor(fDot);
+
+
+It's really nice when it works.  Our NPCs smoothly follow us through the level and take orders to shoot the bad guys when you want them to.  beauty.

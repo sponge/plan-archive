@@ -1,0 +1,466 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 10/10/1997 17:02:17 (Central Standard Time)
+-------------------------------------------------------------------------------
+Here is the last two months of my work log.
+
+A * entry was completed on that day
+A + entry was completed on a later day
+A - entry was decided against on a later day.
+
+================================================
+
+----- at siggraph -----
+
+aug 5
+-----
+
+* fix qe4 autosave
+* merged qlumpy into qdata, save seperate files
+* changed quaked to use texture directories
+
++ fix leaktest option
++ show texture directory on inspector window
++ show full texture name somewhere when clicked on
++ texture info overrides
+
+remap maps to share common textures?
+
+aug 6
+-----
+* qe4 texture directories
+* fixed vid_restart
+* hacked alpha colors for cards without src*dst
+* fixed qdata vc compiler bug in arg parsing
+* qe4 surface inspector
+
+aug 7
+-----
++ add animation frames to bsp file texinfos
+- make bmodel frames just add to texinfo?
+- should msurface flags hold the texinfo flags?
++ make window content implicit if any surfaces are trans
++ CONTENTS_ORIGIN flag
++ nodetail bsp
++ select face option in qe4
++ use monsterclips!
++ gl fullbright textures are still 2x brightness
+
+moveable alpha surfaces
+merge find texture dialog into surface inspector
+fix qdata unix directory stuff
+get rid of mod->skins, use mod->images
+
+aug 8
+-----
+* added origin brush support to old bsp for raven
+
++ add edge planes for brush hulls
+- rate is broken -- inventory fix
+
+
+aug 9
+-----
+* combined bsp tools into a single vc project
+* new texture animation solution
+* make any com_error drop the loading plaque
+* tools and quake2 work with new bsp format
+
++ combine project files of bsp tools
++ anything translucent is automatically a detail contents
+- duplicate texinfo for animations?
++ store out contents from trace!
++ arbitrary visleafs mappings
++ scanmaps option for pak file building of textures
++ delta lightstyle controls from server
++ max moveleafs problem
++ make r_dowarp a server passed variable?
++ why is hunk_begin different in software?
+
+don't forget to set SURF_NOSUBDIV on warps and sky!
+compress ff in visdata as well as 0?
+trinity idea: model light haze around every emiter
+trinity idea: allways model volumetric lights by rendering back sides
+CONTENTS_VOLUME
+do a wavy specular water novelty
+allow arbitrary chained lightmaps on a surface?
+game.dll controlable particles
+get rid of SURF_PLANEBACK
+player sounds when moving?  (breathing / footsteps / hitting walls)
+rename .bsp to .bs2 ?
+high frame rate run turn chunkiness
+
+aug 10
+------
+* trans33, trans66, flow flags in gl
+* damped warp modulation in gl
+* ref_soft running with new data
+
++ shots are exploding on the sky again
++ auto set window contents if translucent
++ don't set qe4 texture unless notexture
++ try new console background
++ finish animation cycling
+
+detail brushes could be extended to be destroyable
+new texture specification by three points?
+check -tmpin -tmpout in bsp utils
+rename texinfo to surfinfo?
+pitch change during jumping
+minimized window notification when a new client joins?
+should origin brushes be included in bsp file for completeness?
+use nodraw flag
+pitch change when ducking
+qrad light bleeds
+
+aug 11
+------
+* don't set qe4 texture unless notexture
+* don't set qe4 texture on cancel unless changed
+* grabbed new menu and console
+* invert mouse off in default.cfg
+* all software flags
+* mist contents
+
++ imagelist command in software
+
+trinity: save out projection outlines from editor for textures
+add a 5th control axis (and 6th?) for spaceorb ducking
+gl: don't keep lightmap blocks around in main memory?
+entities not visible (or only visible) to owners
+look in direction other than motion for hmd
+quake as root directory problem
+dir command
+software surface / edge allocation issues
+
+aug 12
+------
+* qe4 project on command line
+* qe4 rshcmd replacement
+* qe4 select face
+* qe4 avoid multiple autosaves
+* qe4 region selected brushes
+* bindlist command
+* imagelist command in ref_soft
+
++ leaktest
++ load game.dll from gamedir
+
+pendulum motion
+no jump on lava floor?
+-game
+16 bit wall textures
+
+aug 13
+------
+* cls.fixedimage support
+* no frame before cinematic fix
+* menu during cinematic fix
+
++ ingame cinematic state
++ indemo cinematic state
+- move fraglogfile into game dll
++ layout language beyond simple centerprint
++ killserver needs to kill demos as well
++ must kill cinematic after menu, or restart palette
++ disconnected can be either at a console or running the demo + intro cinematic needs to be part of the game
+
+force nolerp lag?
+put ip filtering in game dll
+handle localmodels explicitly, rather than as *num
+don't send heartbeats if not running a network game?
+move viewmodel for all accelerations, including jumping and landing
+fade out centerprints
+design quit screen to allow addons to get credits
+be consistant with window title bars
+mp3 audio
+qe4: downsample option, nomipmap option
+
+
+aug 14
+------
+* qe4 project dialog fix
+* intermission spots and movement
+* hud transfer framework
+
++ micro levels that just play cinematics?
++ BUTTON_ANY option
+
+remove oldorigin
+use static arrays for map elements in renderers?
+unit level statistics
+
+aug 15
+------
+* smart background clear
+* worked around 100% viewsize floating point bug
+* increased base surface cache size
+* unified server commands and prog commands
+* fixed same level reload bug in ref_soft
+
++ are lightmaps allways being saved, even if all black?
++ is notify box used for anything?
++ toggleconsole when connected to a net game
++ server needs to be able to send staticpics
++ draw to front buffer without swapping option
+- can game.dll register commands?
++ direct sound and keyboard restart so ref can destroy window
++ loading plaque on local system doesn't wait for hud erase
+
+frame flicker option for evaluating missed VBL?
+way to add remote commands on client side by scripts?
+check client entering during intermission
+moveable transparant bmodels
+use sneaking in shadows to let players get a good look at more monsters
+translate cinematic to greyscale instead of blanking?
+remove zombietime?
+are userinfo updates getting sent?
+
+aug 16
+------
+download static screen images?
++ how to change semi-protected variables without killing server?
++ how do demo servers progress to the next server?
++ how does the client distinguish between a demo server?
+parm to map command?
++ demo servers have special console behavior and don't warn on game restart
++ do not allow remote connects to a demo server
++ no loading plaque if fullcon
++ cinematic trailing pic for victory
++ demo view angles?
++ text before next level after completed
++ replace draw_beginrawscene with setpalette?
++ keys should go to game when running cinematic, not console
++ does the console key serve as a skip-demo key on real servers?
++ need to flag unit ends for stats, vs simple transfers
++ pause demos and cinematics while menu is up
+
+visible que on players when typing and when lagged?
+make sure there is never a server running if client is fullcon
+must force full graphics reload on game change
+don't require full precache of all weapons?
+demo servers won't work for remote connections, because packets can be dropped
+prevent map / demomap changes without killserver
+map demo1.dem during game messes up
+victory freeze
+
+aug 17
+------
+* demo angles
+* fixed initial lightmap cache value
+* disconnect now does an ERR_DROP to kill server as well
+* button_any support
+* bad fov problem
+
+aliaslist
+never nextserver on finale
+blaster autorepeat problem
+end cinematic loading flicker
+
+aug 18
+------
+* lightmap builing errors
+
++ qe4: build in detail mode
++ animating textures
++ no different quantities on items?
++ target_secretcounter
+
+the inherant problems of simplicity by complexity
+
+aug 19
+------
+* leaktest
+
++ min clamp extents
+
+------------ Kansas City ---------------
+
+aug 23
+------
+* cluster code
+
+- boxcontents?
++ dump rgb lightmaps for software?
++ alias model aspect ratios different in software and gl?
+
+share data between cmodel and ref
+triangulate mightsee on vis?
+malloc all cmodel arrays?
+DONT_PRECACHE flag for player weapons?
+make an ERR_DISCONNECT that doesn't print ERROR: ?
+don't load entire map twice in cmodel and ref!
+show clusterviscount for bsp time optimizations?
+server/client communication for skin overrides
+
+aug 24
+------
+* qe4 slow startup
+* qrad
+
++ detail clip brushes?
++ extra brush clip planes
+
+change qdata colormap to not use 0 and 255 for win palette
+
+
+aug 25
+------
+* fixed water bsp bug!  yeah!
+* new tools in production
+* view pitching with running
+* weapon turn lagging
+* debug graph
+
++ screen sizedown is not clearing again
++ animating textures
++ weapon change sounds should be server side
++ QE4: surface inspector apply is slow
+
+qe4: seperate "make current texture" from "make and set all"
+currentmodel name problem in gl_model
+userinfo changes
+
+
+aug 26
+------
+* debuggraph on top
+* better bobtime / bobcycle
+* face seperation overrun bug
+* fast surface dialog
+* show detail on camera title
+
++ link commands for playing from the cd
+
+qe4: view menu checkboxes are wrong
+
+
+aug 27
+------
+* fixed off-by-one cluster count
+* fixed surf/content bit mismatch
+* gun bob cycles
+* falling pitch change
+
+- make a fat pvs for rendering?
++ trace needs to return contents
++ fix BUTTON_ANY
++ rendering beams
++ delta lightstyle controls from server
++ finish animation cycling
+
+QE4: deleting brushes doesn't count as modified?
+initial time on spawn Tent
+underwater caustics
+make all bobbing effects cvars
+title on inspector is broken for textures
+moveable alpha surfaces
+don't forget to set SURF_NOSUBDIV on warps and sky!
+freeze map just sets a HUD of the victory screen
+server scoreboard
+
+aug 28
+------
+* fixed entity culling on gl
+* sorted axial and edge bevels on all brushes
+
++ entity culling in GL
++ imagelist should have the downsampled sizes
++ software should dump rgb lightmap data
+
+an origin brush will never change a texinfo?
+	NO! the offsets can change
+are brush numbers messed up because of removed brushes?
+plat push into floor
+use textureisresident in imagelist?
+load mip levels seperately
+duplicate planes
+make set detail not work on entities
+trinity: pivot feet!  general atmospherics!
+ray trace: texture+s/t for each sample, hardware reconstructs
+walk up stairs by slope hitches up
+animating textures
+QE4: use gentextures
+QE4: flush all textures option
+
+
+aug 29
+------
+sick
+
+
+aug 30
+------
+* changed snapnormal
+* fixed BUTTON_ANY
+* unix makefile
+* pic server
+* runcinematic call
+* console over cinematic fix
+
++ console key during game cinematics
++ version number for quake 2?
++ cinematic set palette needs to clear screen
+
+use cluster level leafs for sound radiosity
+jittered texel centers?
+trinity: continuous textures, surface cache on all
+make net, pause, and drawcenterstring HUDs
+
+
+aug 31
+------
+* fixed trigger_always
+* game dll by search path
+* cinematic NULL bug
+* help computer
+
++ get rid of datablocks?
++ dll init must clear the persistant data
+- savegame needs to save game.dll name
++ save directory?
++ put pcx_t into qfiles.h?
++ unify all hud work into g_hud.c
+
+set command with flags?
+should "path" be renamed to pathlist?
+trigger_allways should be fixed size
+gameversion
+somehow don't resend big deltas (scoreboard hud) until ack?
+client side feedback 
+glgentextures
+
+sept 1
+------
+* QE4: bug with texture attributes on non-visible surfaces
+* stack bug for initial light maps
+
++ pink lightmaps?
++ alt-tab should only minimize if full screen
++ version as command and var?
+
+splashing sound when swimming at surface?
+brains make view roll around
+wasted polygons outside maps
+vis decompression overruns?
+INVISIBLE_TO_OWNER INVISIBLE_TO_OTHER
+make * model names visible
+GL_MipMap overwriting?
+trinity: proper biped walking
+increase range of mouse slider
+gun shock based on damage source
+
+sept 2
+------
+* serveronly semeaphor close check
+* error during initialization messagebox check
+* software rendering default wall image
+* unify slidestepmove
+
++ progress bar
++ roll angles are getting set on rotating models
++ blinking li

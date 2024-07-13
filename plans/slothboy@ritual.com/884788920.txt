@@ -1,0 +1,19 @@
+1-14-98
+-------
+A lot has been happening the last couple of days.  Research has turned 
+into true implemetations and all is going well.  Working hard toward our first
+milestone -- February 1st.  At that point we should have the basics of the
+level editor up and running.  Who knows, we might start showing some tech.
+screen shots in March.  Everything is going well, can't wait until we can 
+talk a little more about the technology and get some feedback.
+
+The nice thing about the technology we are creating is its scalability.  The
+game should take advantage of the higher end cards out currently, as well as
+taking advantage of the planned future technology from the leading graphics
+hardware companies.
+
+Until next time...
+
+
+
+

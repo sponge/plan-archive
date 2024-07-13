@@ -1,0 +1,46 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------
+User Name: mitch.shaw     Plan Last Modified: 02/01/1999 17:56:56 PST
+
+Who am I? Mitch Shaw
+Handle:  Skeet
+Project: Starsiege Tribes
+Email: Mitch.Shaw@dynamix.com
+
+2/1/99
+
+ For those of you who want a different shaped
+or colored crosshair for Tribes, I cobbled up a
+small collection of different ones -- circular,
+tiny dots, etc. in a variety of fashionable colors.
+I'll zip them all up and put them on my old
+GeoCities screen shot page for anyone who's
+interested -- the URL for that is
+http://www.geocities.com/Area51/Dunes/8338
+
+ Don't expect much from this page -- I just threw
+together some screen shots a couple of months ago
+before the game came out, and added some lame
+attempts at funny captions. The link for the zip
+file should be near the top of the page, above the
+screen shots. Unfortunately, there isn't any way
+of keeping track of the number of downloads, so if
+you grab it and find it useful (or have suggestions
+for new, useful crosshairs), drop me an e-mail if
+you would be so kind.
+
+ The file should be up on the GeoCities page by
+2:00 PM PST today. I'll throw a README in too, but
+just in case you're one of the 95% who don't bother
+to read such files -- unzip the zip file (duh) and
+browse thru the BMPs. (I recommend ACDSee) If you
+find one you like, copy it to your tribes\base
+directory and rename it to H_Reticle.BMP (if you
+don't do this, your crosshair will not change).
+Enjoy!
+
+ Oh yeah, and I almost forgot, happy birthday Mom.
+:)

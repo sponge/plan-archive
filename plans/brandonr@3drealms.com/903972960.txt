@@ -1,0 +1,89 @@
+Login name: arkiva    			In real life: REINHART
+Directory: /homec/arkiva            	Shell: /usr/bin/ksh
+Last login Mon Aug 24 12:19 on ttysf from port10.max1.tope
+Project: Getting everything in FF7.
+Plan:
+Brandon Reinhart
+Epic MegaGames, Contract Programmer
+
+Monday, August 24, 1998
+
+All I gotta say is I'm buying at least two copies of Quake Arena.
+One to play and one to just keep.  I wonder if Bill Leeb would
+sign it for me?  Wouldn't that be cool?
+
+Rainbow 6 continues to rock.  It took me quite a few tries to beat
+the first two missions on Elite.  Now I'm on the oil rig mission.
+I've almost gotten it down with 0 injuries.  My goals are
+to beat each mission on Elite with no more than 2 injuries and 0
+fatalities.
+
+The Unreal OpenGL patch is out.  You can grab it here:
+http://www.rendition.com/downloads/GL_Unreal.zip
+
+Make sure you read the readme.txt file for install info.
+There is a conflict with the 2.09 patch, so be warned.
+Check out the Epic Megaboard (megaboard.epicgames.com) for
+more info in the FAQ board section.
+
+Wednesday, August 19, 1998
+
+Rainbow 6 is incredible.  Absolutely amazing.  
+
+"Alpha go."  I whispered into my radio link.  It would only take
+9 seconds for Blue team to penetrate the lower levels of the mansion
+and neutralize the terrorist presence there.  Red team, led by
+me, would pick a lock on the upper west side of the building
+and use the ensuing chaos as cover to retrieve the Ambassador.
+
+At least, that's how we planned it.
+
+"Contact."  "I got him." Excellent, red team was doing well.
+Both teams had successfully initiated the penetration. 
+
+Then everything went wrong.
+
+I turned right instead of left and ended up in the central 
+entryroom of the mansion, upper level.  I saw a Tango out of the
+corner of my eye and I dropped him.  "Man down, man down."
+
+Shit.  It wasn't a Tango, it was Santiago.
+
+Then one of the terrorists locked a nearby door.  We didn't have
+time to worry about Santiago...and no time to pick the door.
+I pulled out a door charge and primed it.  Behind the door the
+sounds of muffled combat.  I had to hurry.
+
+"Clear"  *BOOM*  The door blasted outwards.  Fragments of shattered
+wood flying through the air at incredible velocity.  
+
+Incredible velocity right into Walther.  Apparently he had moved around
+into the hallway and was dropping the Tango who moved through
+the hallway.  My door charge had gone off right as he moved in front
+of the damn thing.
+
+Well that was it.  We took out the rest of the terrorists but the
+ambassador was dead when we got there.
+
+Too bad life's not a video game.  Too bad I can't rewrite those
+plans.  Too bad I turned right.  It was a bad day...but the boys
+will cover for me.  I didn't like Santiago anyway.
+
+(Rainbow 6 RULES, even when you don't know what you're doing.)
+
+Monday, August 17, 1998
+
+* Sent latest IpDrv and IpServer code to Tim
+* Sent new ServerBeacon and ClientBeaconReceiver to Tim
+  (Now, instead of pinging the broadcast every 0.5 seconds, ServerBeacon
+   broadcasts once when created, then waits for ClientBeaconReceiver
+   to say "Hey, there is a new client looking for network games."
+   When it hears this, it responds with game information.)
+
+On the CD Rack for today:
+Delerium, "Karma"
+Laibach, "NATO"
+Front Line Assembly, "Plasticity"
+Shonen Knife, "Happy Hour"
+Collapsed System, "Berlin 2007"
+

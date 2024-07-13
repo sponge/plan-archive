@@ -1,0 +1,402 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jeremy Statz
+Email: jstatz@mail.ravensoft.com
+Description: Designer
+Project: Heretic II
+Last Updated: 12/06/1998 01:55:18 (Central Standard Time)
+-------------------------------------------------------------------------------
+<------------------------------ 80 columns! ----------------------------------->
+12-6-98
+
+Anyone working on a Heretic 2 map who wants to use scripts may have noticed the
+lack of a script_runner entity in the list.  Unfortunately, the included
+Heretic 2 project file is told to look for *.c files, while the comment for the
+script_runner is in a .cpp file (the only one in the directory).
+
+So, find your heretic2.qe4 file (should be in toolkit/designer/hereticed), open
+it in notepad, and change the line where it says:
+
+"entitypath"            "..\..\programming\gamecode\game\*.c"
+
+to read:
+
+"entitypath"            "..\..\programming\gamecode\game\*.c*"
+
+The added wildcard will make it scan that file, so script_runner will show up
+in your entity list.  Apparently a number of the ent lists for other editors
+are missing this entity too (probably for a similar reason), so if you
+maintain one of these lists, please take a look and make sure you didn't miss
+it -- scripts are central to doing a lot of the more complex stuff with a
+single-player map.
+
+12-4-98
+
+I don't know about you, but nothing traumatizes me like a game of StarCraft.
+How a game company with any morals at all could release such a violent, bloody
+game is beyond me.
+
+12-2-98
+
+I've put together a small demonstration/explanation of buoys and how to set them
+up, that's well worth checking out for anyone interested in working on single-
+player Heretic 2 maps.  It includes the map file, along with a text description
+and BSP, so you can mess with it if you choose.
+
+http://www2.ravensoft.com/users/jstatz/buoyexample.zip
+
+11-24-98
+
+Saw Heretic 2 on the shelves of Software Etc while at lunch today.  Everybody go
+pick up a copy!
+
+11-21-98
+
+Radiant Silvergun is amazing.  Any shooter fan owes it to themselves to go find
+a Saturn, and go to any lengths to play this game.  The amount of creativity and
+just flat-out good design displayed in this game is something you don't see very
+often, and is an example of what can be done with a game when you ignore genre
+conventions in favor of smart design decisions.
+
+10-29-98
+
+Brandon Reinhart Just wrote a long statement on a subject I feel really strongly
+about -- design.  I don't mean level design, either.  Interesting as that is,
+it's not nearly as interesting as overall design.  How the control works, what
+the monsters act like, the things the player has to do as they progress through
+the game, neat game quirks for the player to learn and exploit, different
+minigames and objectives that keep the gameplay from stagnating... that's the
+sort of thing I really love.
+
+Unfortunately, it's also the thing that computer games tend to lack.  I see it
+all the time in console games.  I play Metal Gear Solid, Salamander 2, the Lunar
+games, Secret of Mana, Panzer Dragoon Zwei, the more recent Zelda games,
+Symphony of the Night, Gunstar Heroes, and plenty others, and find myself
+constantly being introduced to new gameplay aspects and experiences throughout.
+New areas force me to make use of what my character can do in new and
+interesting ways, I pick up items that let me do new moves, or I'm being placed
+in an environment that simply behaves different than the ones I've been through
+before.
+
+On the other hand, I can't think of the last computer game I played that dared
+do this to any significant degree.  I pick up an FPS and it's the same general
+thing throughout.  Same with an RTS, RPG, or whatever.  The fact that the
+characters rarely can do anything interesting doesn't help... It may be silly
+that my character in Gunstar Heroes can throw enemy bombs back at them, but it's
+a good gameplay element.  It doesn't make sense that the guys in Metal Gear
+Solid can only see for a limited range, but without that it'd be unplayable. 
+The double-jump my character in Symphony of the Night can do?  Irrelevant
+whether it makes sense, it's cool.
+
+Computer games lately just seem to be constantly striving to seem less like
+games, and in the process it seems like they're pulling farther and farther
+away from what's fun and interesting.  I don't care or notice that the
+settings and characters in Metal Gear Solid aren't filtered, in high res, aren't
+perspective-correct and don't have specular highlighting and bump-mapping.  I
+don't care if it's first or third person, or uses models or sprites.  The game's
+interesting enough that I'm not looking for reasons like that to use as a crutch
+for liking it.  I'll take Life Force for the NES or Gunstar Heroes for the
+Genesis over any computer game released in the last year or so, because it was
+fun, and it doesn't seem like many computer games try to accomplish that
+anymore.  They'd rather be "cool."  Shame's that's not really the point.
+
+10-27-98
+
+Something neat to try with the demo:
+
+alias +freezelook "freezeworld 1; +lookaround;"
+alias -freezelook "freezeworld 0; -lookaround;"
+
+Then bind a key to +freezelook.  This is something Josh Weier first did... it
+freezes the game world (all the effects, animations, etc) and frees the camera
+so that it can move freely around the character at the same time.  Release the
+button and all goes back to normal.  Really cool for taking screenshots, and
+getting a good close look at the gore.
+
+---
+
+http://members.xoom.com/H_2/
+
+Heretic 2 multiplayer stuff... pretty cool
+
+10-26-98
+
+Psycho Mantis just got added to my list of cool game bosses.  heh
+
+Just wait'll you get your ass kicked by some of the Heretic 2 ones, though.
+
+10-23-98
+
+There's a Heretic 2 server list up at http://www.gameaholic.com/servers/heretic2
+that you can check out if you're having any probs with Gamespy Lite.  It'd be
+cool if any server admins would add their server to the list.
+
+---
+
+We've got Heretic 2 DM servers running at master.ravensoft.com and
+equalizer.ravensoft.com.  Come contribute to the carnage!
+
+10-19-98
+
+Scored a 1240 on Gamespot's gaming knowledge quiz thing.  I feel so proud.
+
+Sir Nate is the greatest teacher I ever had.
+
+10-9-98  <-- I'm gonna be a rebel and format dates like this!
+
+Since most of the people who ask me about making Heretic 2 levels or mods
+haven't seen it mentioned anywhere, just thought I'd reassure everybody that
+there will be a level editor included in the box (with documentation expertly
+written by Jon Zuk, lead design guy for H2), along with various model/texture
+utils and the source for both the client and server DLLs.  Anybody interested
+in editing the game doesn't have anything to worry about.
+
+10/5/98
+
+Been working on the buoy placement in the Heretic 2 maps the last couple nights
+(moonlighting from my current assignment on SoF)... the monsters can seriously
+get around to anywhere on the map with a well-placed network of buoys, it's
+really cool.  It's especially neat to type "angermonsters" at the console and
+wait around for EVERY monster in the level to eventually show up and try to
+kill you.  heheh
+
+Just listened to some of Chia Chin's music for SoF, too.  Really cool stuff,
+should kick ass once we've got some proper enemies and the like around for it
+to respond to.
+
+9/24/98
+
+[time to rephrase this]
+
+Anybody out there using QuakeEd or QERadiant: TNT boards do a pretty decent job
+of running , and run the games really well to boot.  I'm noticing that the 2D
+ window of QuakeEd isn't as quick as it was with the v2200, though (and 8 meg
+v2200 cards can be had for like $65 if you shop around -- well worth it if you
+do much level designing).  Still, nothing I could complain about.  Heretic 2 or
+SoF in 1152x864 at 20-30 fps helps balance it out just a tad.  heh
+
+I just tested it with glBSP, and it didn't seem to work real well...  Might
+just be the beta driver I've got installed at the moment, though, as it was
+fine for a little while.
+
+9/18/98
+
+A great boss: The fish thing at the end of level 4 of Panzer Dragoon Zwei.
+
+9/12/98
+
+Soldier of Fortune is coming aling swimmingly... cool stuff is continually
+getting introduced and I'm thinking of ways to make use of it.  Realistic scale
+and architecture is just cool.
+
+Heretic 2's getting even cooler.  The last of the stupid little problems are
+disappearing and a kick-ass game is showing up in their place.  Pat put in some
+new gore/blood effects and stuff looks really nicely juicy when you cleave it in
+half now.  Heheh...
+
+9/8/98
+
+Wow, almost two weeks since I updated last...
+
+As far as Dune 2000 goes, I'm finding it pretty cool.  I didn't play the
+original game a ton, so I'm not entirely sure what's changed or added.  If
+anything's annoying me it's the semi-crummy C&C interface, which could
+desperately use some command and build queuing (and smaller icons so I'm not
+doing so much freakin' scrolling).  Still, not a bad game in my book.
+
+8/27/98
+
+Finished Unreal tonight.  It's the first computer game I've played all the way
+through single player since Sam n Max Hit the Road a few years ago.  Pretty cool.
+
+One of these days, I'm going to find a Primal rage Vertigo figure.
+
+8/21/98
+
+Event Horizon had awesome, awesome sets.  I liked how you could really tell what
+the guy who built that ship had in mind: Safety first!
+
+Many thanks to Brian Raffel for the giant Big Mike's Subs everybody in the
+company enjoyed for lunch today.  Huzzah!
+
+8/21/98
+
+Tried to put together a button configuration for the Panther XL, but didn't have
+any luck getting Windows control panel to recognize it.  Windows claims its not
+connected -- It's plugged into the joystick port, I don't know what more I can
+do.
+
+At any rate, current configs (beyond KB and KB+mouse) include:
+
+4 button gamepad -- Servicable, but kinda iffy.  Not enough buttons to allow
+truly pad-only control.
+
+6 button gamepad -- Not bad.  Had enough buttons that through double-tapping
+and command switching you can control the game without touching the keyboard
+pretty well and have a good time.
+
+PC Powerpad Pro -- I've got one of these handy, and they're notable for having
+an analog stick in addition to the digital.  This is the only pad I've seen that
+lets you actually circle-strafe decently.  Other than that, it's six button, and
+similar rules apply (though the config is different due to the shoulder
+buttons).
+
+The pad I used for the six-button is an Interact PC Gamepad 6, which uses a
+125/346 two-row button layout.  It's also my personal favorite gamepad for games
+like Jazz 2 and such.  No fancy features, sells for $12, and is just generally a
+good, basic gamepad.
+
+Now, since I've sort of taken it upon myself to do these configs, I'm curious
+what kind of controllers I should bother supporting.  I'm planning on making a
+Sidewinder gamepad config, along with a Panther XL and a Wingman Warrior
+(assuming I can sort out the problems like I mentioned above).  Beyond that,
+anybody have suggestions?  Also, just as clarification -- No, you're not forced
+to use any of these setups, you can copy and paste your Quake config if you so
+choose, just need to add a couple keys (action key, defensive spell key).
+
+8/20/98
+
+Okay, cool thing for today:
+
+I've been making different configs for different control setups recently, so
+that we don't ship with a generic "keyboard config" that people always have to
+muck with.  I'd just put together what I felt was a pretty solid mouse+keyboard
+configuration, and was testing it to see how it felt in-game.  I was playing
+through one of the town maps, and since I'm cool basically blasted through it
+using just the staff.
+
+About 4/5 of the way through, I go through a locked door and am confronted by a
+pair of plague elves.  One of them I behead in one swipe, and the other gets his
+weapon knocked away with the first swing, and loses his arm to the second. 
+Understandably, he decides this is a good time to retreat and runs away down the
+hall and around the corner.
+
+Now, normally, I run after these cowardly types and take them down pretty quick,
+but this one I ignored because I wanted to see if I'd bound creeping properly.
+So, I'm creeping around this doorway area, when all of a sudden I'm smacked
+upside the head by a gas grenade!  I turn around, and see a plague spreader
+advancing on me from the other end of the hallway -- apparently he'd been
+alerted by the plague elf who came running past, and went looking for me from
+his post later in the level.  Such a simple sort of thing, but that was really
+neat.
+
+8/16/98
+
+Personally, I have "gl_texturemode gl_nearest" in my config.
+
+Have a Heretic 2 DM map about a third to half done.  Seems like it'll be fairly
+cool but can't really tell until I play it.  The single-player maps are all
+pretty much done now... in-game cutscenes and some puzzle stuff needs doing
+still, but the architecture and lighting's looking very nice.  The design of a
+few of these should be surprising.
+
+I tried to fight it off, but my brain insisted on making me buy Bust A Move 3
+for the Saturn.  Great game.  Of course, any game with Bub and Bob in it can't
+be all bad.
+
+8/13/98
+
+Just read Cliff Bleszinski's finger update, and what he says is true.  It's a
+GAME, the point is to have fun.  Half the cool stuff the AI does do is never
+noticed because people are too busy walking up to monsters and killing them toe
+to toe.  The other half is ignored because one time in some odd situation
+somebody saw it make a mistake, so they decide it sucks and that most of the
+stuff it had been doing was an accident anyway.
+
+Some of the Hexen 2 monsters have really, really cool AI.  They followed paths,
+tracked down the player, dodged and weaved, tried to backstab you, and a bunch
+of other stuff.  Nobody here really mentioned it, so nobody ever noticed.  Oh
+well.
+
+I'm to the point where I roll my eyes every time I read about how all the
+monsters in a game should be bots that pick up items and grab health and 
+circle-strafe around while efficiently killing the player.  Uh, no thanks. Give
+me Doom or Heretic any day.
+
+In other news, FINALLY got a copy of the Dark City DVD this morning.  Kickass
+movie.  Great soundtrack, too.
+
+I also started playing through Unreal again, this time on easy.  Amazing the
+difference between easy and hard... on hard everything I saw put up a hell of a
+fight, and I was constantly being pasted by it, on easy I'm walking through it
+like nothing.  I'm also playing it on a PowerVR PCX2 (since my 3dfx isn't happy
+with it at the moment, and the v2200 can't run it yet) at 1024x768x24.  Feels
+like a fairly solid 15-20fps, pretty cool for a $40 card, really.  heh
+
+8/11/98
+
+Star Trek: First Contact and Face/Off on DVD October 6th... this is cool.  Now
+if only Fox would announce Aliens director's cut.
+
+The talk of boss battles got me fired up to start reworking one of our boss
+levels... this fight should be pretty interesting.
+
+8/10/98
+
+Correction:
+
+Apparently Platoon wasn't lead by the same person who made Marine Doom.  It was
+by Team TNT (who were also involved with Nam), and wasn't connected to
+Marines Doom.  Sorry about that...
+
+I just can't get simple information right.  Ugh.
+
+----------
+
+Recently a game was released called Nam.  It's a Build-engine based combat game
+set in (of course) Vietnam, with a team apparently lead by the guy who did the
+original Marine doom, and the Platoon mod for Duke.  Mike Gummelt bought a copy
+of this on a whim a few days ago, and the first thing we did when he installed
+it was mock its generally ugly graphics and how the gameplay was really pretty
+similar to Duke.
+
+This has changed.  After playing several coop games of Nam, most everybody here
+has a very healthy respect for what these guys have accomplished: it's the
+single most atmospheric war game I've ever seen, and as a player you're very,
+very mortal.  The levels are almost all jungle-set, with enemy and friendly
+encampments throughout.  They're huge and sprawling, with tremendous amounts of
+sprite foliage scattered throughout -- enough of it that at times you can
+barely see where you're going, leaving you screaming through the dense brush
+firing wildly, hoping you'll get anything in your way before it kills you.
+
+This is made cooler by the fact that enemy placement takes advantage of this,
+placing mines in tall grass, and enemies in sniping posts hidden behind
+foliage.  It's seriously involving playing these maps... there are times I've
+rounded the corner to find dozens of enemy soldiers dug in and ready to kill
+me.  Not only that, but they DO kill me, and very often.  The single-player
+game is tremendously difficult, and this is a game much better played
+cooperatively with several other players.  Preferably, you should all be in
+the same room, so you can organize and make an effective squad.
+
+The thing that really adds to it, though, is the sounds.  There are very
+cool, loud, harsh sounds that're heavy on the bass, and sound authentic and
+powerful.  On top of that, there are a lot of ambient chopper sounds,
+explosions, gunfire, radio chatter, screams, artillary fire, etc that are all
+heavily layered on top of each other.  The degree to which this makes you
+feel like there's a war going on around you is amazing.  The total chaos so
+many overlapping ambient sounds makes adds to the already pretty
+disorienting, hectic feel.
+
+Overall, my point here is that this is, in my mind at least, a very cool game
+that's been getting terrible reviews only because of its fairly poor graphics
+and outdated engine.  I can't really recommend it single player, but if
+you've got a lan and a few friends to play a coop game with, Nam can't be
+topped, especially for the $20 outlay.
+
+Anybody working on an FPS should spend some time with this game -- and
+congrats to the team who made it for putting together something so involving
+on that I'm sure was a shoestring budget.
+
+----------
+
+Fox finally broke down!  The Abyss and Predator on DVD, among others, on
+November 3!
+
+8/9/98
+
+Bosses... Hmm.  It's interesting that though I'm a huge fan of a good boss, none
+have really stuck in my mind as being "the best."  Probably my current fave
+would have to be the first level boss of Salamander 2, but a lot of that is
+because of the cool entrance it makes.
+
+A lot of the bosses in Ei

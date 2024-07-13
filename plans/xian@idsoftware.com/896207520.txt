@@ -1,0 +1,58 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 3
+Last Updated: 05/26/1998 15:23:51 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+ --- May.26.98 @ 3:05 pm ---
+
+ Lesson of the day: The stock market sucks.
+
+ Despite TDFX's record earnings for last quarter, the stock closed today
+down $2 3/8 at $19 3/8 a share.
+
+ Can someone please explain to me how that makes sense? The stock has been
+tanking since shortly after they announced last quarter earnings. I'd like 
+to consider myself an intelligent and rational person. Rationalle would lead 
+one to believe that a company manufacturing excellent products, holding
+quite a large chunk of market share for consumer based 3D accelerators, having
+no major competitors at the moment, and crushing earnings expecations for last 
+quarter, would see their stock value steadilly increase. Instead, it's going in 
+the opposite direction.
+
+ *sigh*
+
+ I guess the stock market is like gambling...
+
+ /me gives up and goes back to work
+
+ --- May.25.98 @ 4:42 pm ---
+
+ Due to popular demand, I've set up inferno.idsoftware.com as a 
+Quake II server again. I'm surprised at how many hardcore people
+mail me at least once a week asking for Inferno to be put back up
+again. It's cycling through the q2dm* maps at the moment, and true
+to Inferno's old spirit, it'll be the testbed for any wacky gameplay
+ideas we want to experiment with.
+
+
+---
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, damage from improper .planfile reading, incorrect line voltage,
+improper or unauthorized use, broken antenna or marred cabinet, missing or
+altered serial numbers, removal of tag, electromagnetic radiation from 
+nuclear blasts, sonic boom vibrations, customer adjustments that are not 
+covered in this list, and incidents owing to an airplane crash, ship sinking 
+or taking on water, motorvehicle crashing, dropping the item, falling rocks, 
+leaky roof, broken glass, mud slides, forest fire, or projectile (which can 
+include, but not be limited to, arrows, bullets, shot, BB's, paintball, 
+shrapnel, lasers, napalm, torpedoes, or emissions of X-rays, Alpha, Beta and
+Gamma rays, knives, stones, etc.). 
+

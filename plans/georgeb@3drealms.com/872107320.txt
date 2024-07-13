@@ -1,0 +1,131 @@
+Account Name:  georgeb @3drealms.com
+Email address: georgeb@3drealms.com
+----------
+George Broussard
+President, 3D Realms
+Project Leader: Duke Nukem Forever, Shadow Warrior
+Executive Producer: Prey
+
+[Wednesday 8/20/97 - 2:47 am]
+
+If controversy bothers you, please go away ;)  But I simply have to 
+respond to the following.
+
+>>> OK, Scott. Here's some accurate history. Id Software made Apogee
+what it is today, and Apogee's success with Duke Nukem is a result of
+shamelessly copying everything id Software does. <<<
+
+The above written today in Dave Taylor's plan (Crack.com).
+
+For the record, what Scott did was point out 2 minor things in some
+review of Wolfenstein. 1) That Apogee was the publisher, not id. 
+And that the game was published in 1992, not 1991.  Scott merely
+wanted to correct the facts.  Apparantly Dave took issue somewhere
+along the way.
+
+I've been working for a week straight to get to the point we can 
+burn Shadow Warrrior masters on Thursday.  I get online to relax 
+and Whamo!  More hell breaking loose.  My response?  I think I'll
+take a lesson from Paul Steed here and let you know how I really
+feel.  I'm sure I'll get email about taking the high road.....but
+when we get attacked, expect a response.  Plain and simple.
+
+Hey Dave, ship any games lately?  Us copy everyone else?  How
+about how others copy our invented way of marketing shareware 
+games?  That count?  I have utmost respect for id and always have. 
+Period.  End of story.  id and Apogee helped each other get where 
+they are.  Both would have succeeded without the other due to 
+talent alone, it just would have taken different paths.  They have
+been influential in technology and genre creating, and we've been 
+influential in shareware marketing (also making a lot of cool games 
+along the way).  My point?  Where the hell is crack.com in all of
+this?  Nowhere.  Nada.  Zip.  Duke 3D a shameless clone?  Maybe, but 
+when you make a shameless clone that sells a million copies and 
+raises the benchmark, and gets ported to everything but a GameBoy,
+call me ok?  Until then go back to work and try to ship a game.
+
+Hey Paul?  How'd I do?  
+
+
+[Thursday 8/14/97 - 1:35pm]
+
+[Shadow Warrior]
+
+Still done.  Just awaiting bug reports from GT.  Nothing of
+substance has come back, so we're looking good.  3Dfx is still
+working on support.  In the meantime we just keep playing the
+game, and doing a little moonlighting on Duke Nukem Forever.
+
+Last word on Thresh vs. Anybody
+===============================
+
+Tim, over at id issued this challenge:
+>>I Tim Willits bet $1.00 that Paul Steed can kick Thresh's ass 
+in a good old fashioned fist fight - any takers? :)
+
+You're on Tim!  I think that Thresh's surrvivability skills will
+allow him to run circles around and dodge Paul's attacks
+(taunting him all the way), until Paul either gives up in sweaty
+frustration, or keels over from a heart attack.  Not only that,
+but I will double, yes DOUBLE your bet to $2.  Take that.  Going
+to the bank now to transfer the funds.  Might have to get a loan
+for something of this amount though ;)
+
+Heck, on second thought I don't even know Thresh, so how
+dare I make a bet for him.  Let's change this to Paul Steed vs. 
+um, um, A SWALLOW, yeah that's it... (African or Eurpoean 
+doesn't matter).
+
+I further bet $1 to anyone out there that the whole thing 
+between Monolith and AVault was just a publicity stunt anyway ;)
+Too bad Craig and Thresh got caught up in it.
+
+
+[Duke action figure]
+
+This is a "done" deal now, and we're getting a final review
+sculpture soon to approve.  Looks like all you good boys and
+girls will have one for Xmas after all.  ReSaurus, Inc. is doing them,
+and is well known for doing some Jurassic Park dinos etc too.
+
+
+[Duke Nukem Forever Mini FAQ]
+
+This is sort of a mini FAQ since I keep getting the same 
+questions over and over.  It also gives people something
+to put on the dozens of Duke Nukem Forever sites I've
+seen go up.  (Thanks for the support guys).
+
+* The game will be set in and around Las Vegas, and that's
+about all you're going to get out of us for the time being.
+
+* We don't want beta testers.  Sorry.  If we need some
+later, we'll let you know.
+
+* Release:  "When it's done", but it should be in 1998.
+
+* We will be using the Quake 2 engine, and bypassing
+Quake 1.  My feeling is that after Quake 2 comes out,
+the Quake 1 engine will be "old".  Also we're in a good
+spot timing wise to do so, as we're just now getting 
+into the main development.
+
+* Since we are using the Quake 2 engine, you can assume
+we will do what it does.  That means:
+- DLL support (The game will be expandable ala Quake)
+- Client/server Internet play (For free too, not just TEN)
+- GL / 3Dfx support (anything Quake 2 does)
+- All the neat stuff like model interpolation
+
+* If you want to know why we didn't use the Prey engine, see 
+www.3drealms.com, under About Us/Press Releases
+
+* Yes, we will have super interactive environments like Duke 3D
+
+* Yes, we will keep Duke's voice, sense of humor and character in
+place and expand upon it.
+
+* And finally, the most asked question so far? "Strippers?"  
+Hey, it's Duke, and we're 3D Realms.
+	
+    

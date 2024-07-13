@@ -1,0 +1,29 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Tim Willits
+Email: twillits@idsoftware.com
+Description: Designer
+Project: Quake Arena
+Last Updated: 03/18/1999 19:10:32 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+New Quake 1 map FIXED!
+
+I fixed the clipping problem I had with the old map and replaced
+the file on the FTP site.
+
+Please re-download it for the fixed version.
+
+Q1edge Conversion
+
+I had an old Quake 1 map lying around so I thought I would release it.
+
+This map was originally built for the Quake 1 arcade game, a conversion
+of "The Edge" for Quake2. I added some teleporters to it in hopes of speeding up
+gameplay and help prevent camping. 
+
+For those of you who like to play Quake 1 I hope you enjoy this.
+
+Thanks, Tim
+
+ftp://ftp.idsoftware.com/idstuff/quakeworld/maps/q1edge.zip

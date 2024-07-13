@@ -1,0 +1,226 @@
+Login: ddt            			Name: Dave Taylor
+Directory: /u/ddt                   	Shell: /bin/bash
+On since Fri Sep  4 16:06 (CDT) on ttyp2 from tcnet10-53.austin.texas.net
+   1 second idle
+On since Fri Sep  4 16:10 (CDT) on ttyp3 from tcnet10-53.austin.texas.net
+   52 seconds idle
+     (messages off)
+Mail last read Fri Sep  4 16:10 1998 (CDT)
+Plan:
+
+My steamy log.
+
+Fri September 4, 1998
+
+-------------------
+
+  We are moving out of our office in order to stop the $3k/mo rent
+    bills which have added up to about $11k of accumulated rent debt- barf!
+    We got a lot of work done there, but I don't think I will miss the
+    un-air-conditioned bathroom.  ;)
+
+  We're switching our sendmail, finger, and http servers to another site.
+    You may experince bouncing mail or broken fingers for a little while.
+
+Mon August 24, 1998
+
+-------------------
+
+  Baldur's Gate looks deeeelicious.
+
+  Those funny poles I asked about now have video cameras appearing on top.
+    They're some kind of traffic monitoring gismos, prolly local to Austin.
+
+  Publisher visit today.
+
+  Disconneced some old unused phone lines.
+  Found out what happened to our US mail.  If you get a lot of mail over a day
+    or two, like too much to fit in yer mailbox, they'll hold it and not deliver
+    any more until you call for it.  I thought the junk mail distributors stopped
+    loving us.
+
+Sat August 22, 1998
+
+-------------------
+
+  Cleaned office.
+
+  Been working on a design doc (not Golgotha, a different thang).
+
+Thu August 13, 1998
+
+-------------------
+
+  Hell yes.  Rasterman has now combined the smell of sex and candy to yield:
+                  http://www.labs.redhat.com/themes.shtml
+
+Tue August 11, 1998
+
+-------------------
+
+  Remember that scene in Tron (the movie) where the "user" is in a
+    broken recognizer and brings it to life by sorta making a magic
+    gesture with his hands?  That was a cool scene.
+
+Thu August 6, 1998
+
+-------------------
+
+  Check out the Genesis 3d engine, a free (!) 3D sdk that was released
+    a week ago.  It's at www.genesis3d.com.  Looks like it does most of
+    what Unreal does, often faster.
+  Publisher chats.
+
+Wed August 5, 1998
+
+-------------------
+
+  Mtg w/ Cyrix.
+  Phone tag.
+  It's official.  Having been through the ringer a few times now, I try
+    to avoid "ragging", but this has really gone a bit far.  ADP is
+    a nutty operation.  Second time in a row that they've run payroll
+    without noticing that a. there's no money, and b. I told them not to.
+    Did you know that they actually pay your employees from their
+    bank account then remove the money from your bank later?  And if
+    they mistakingly paid your employees and you didn't want 'em to,
+    then they take the money back from the employees' accounts (!), and if
+    they can't get it back, they take it out of the employer's account.
+    All a bit creepy, huh?  Add a few overdraft/NSF notices in there,
+    and you have the makings of a real party.
+
+Tue August 4, 1998
+
+-------------------
+
+  Still doing publisher/investor discussions.  Would love to go into
+    sordid detail, but if you knew what makes the business world tick,
+    you'd curl up in a ball and ask for your mommy.  I know I do.
+  Also working on a design doc for a game to develop in parallel w/
+    Golgotha.  It's a long shot, but man, the concept & property
+    totally has me pumped.  Le pant, le puff, le meOW.
+
+  Carly got a full-time kick-ass job w/ Origin.  *Awesome timing*  Did
+    I mention I *love* my sweetie?
+  But now my karma is imbalanced.  What I need right now is allergies
+    and a ticket for running a red light.  Oh hey, COOL!  Ask and
+    you shall receive!
+
+Fri July 30, 1998
+
+-------------------
+
+  Nothing earth-shattering to report.  Lots of publisher/investor chats
+    this past week.
+  By the way, if you liked "Something About Mary," see "Baseketball."
+    Great, dorky flick.
+
+Mon July 27, 1998
+
+-------------------
+
+  Visited bank.  Gotta say it, I love the idea of automated payroll, but
+    ADP really is a fairly mixed-up company, at least as boneheaded at
+    payroll as I am, considering their size.
+  Dropped texture CD off @ Eclipse.
+  Kevin aka "Sam Hell" wrote to splain that those funny poles are actually
+    repeaters, coils, and amps for telco lines.  They're not actually
+    transceivers apparently.  Kevin's a CTI specialist for Nortel, so I
+    believe we have this on authority.
+
+Sat July 25, 1998
+
+-------------------
+
+  So does anybody know what these things are?  They appear on the highway,
+    and look like galvanized 8-sided telephone poles, only they're always
+    cropped and a bit short, and they have a funny wire attached to the
+    top in the following shape (will need to view this using a fixed
+    width font):
+
+      ,____,/
+     /     
+    |
+    |
+    |
+    |     ___
+    |    |   |
+    +----|   |
+         |   |
+         .   .
+         .   .
+       (rest of
+       long pole
+       goes here)
+         .   .
+         .   .
+         |   |
+      ___|___|___
+
+    They look like antennas of some sort, but I'm wondering, a. why are
+    the poles constructed as if they were going to bear a load, and b.
+    if they are antennas (cell phones?), why is the antenna in that peculiar
+    shape?
+
+Fri July 24, 1998
+
+-------------------
+
+  Mtg w/ Origin re: UA.
+  Went to boxing match w/ Bear courtesy of Mr. G.  Much fun was had.
+    Great fights.
+
+Thu July 23, 1998
+
+-------------------
+
+  Set up the Linux cd burner for Kevin.
+  Fixed ADP.
+  Did short interview w/ a mildly smarmy interviewer for TechWeb.
+    I think irc did it to him.
+  "Something About Mary" is a very funny movie and will get your
+    mind off your troubles in a damn hurry.  See it.
+  Checked out www.linuxgames.com.  Very neato.
+  The Alpha 21264 sounds good enough to eat.  And I didn't know
+    FX!32 is integrated into NT 5.0.  All I can say is, I know
+    what I want for Christmas.
+
+Tue July 21, 1998
+
+-------------------
+
+  Investor chats.
+  Sent out press release for texture cd.
+  Visited Bruce from 3DO Austin.
+  Visited accountant, tax phun.
+
+  Getting some great opportunities for Gene & Stephen.  Also getting
+    *flooded* by well-wishers, offers for free labor, legal advice, 
+    offers to buy copies early, web hosting, free press, even food &
+    shelter.  Holy Mackerel.  Thanks a lot, everybody.  That's super,
+    super nice and very touching.  Best I've felt in ages, w/ or w/o a
+    paycheck.  :)
+
+Mon July 20, 1998
+
+-------------------
+
+  Conventional biz wisdom says you shouldn't announce this sorta thing,
+    but I do so because of an annoying decency streak.  So before
+    the rumors start to fly, I should announce that Crack is in deep
+    financial shit.  We're not in debt and refuse to enter debt, but we
+    just ran out of cash and are not making payroll.  We have a lot of
+    potential opportunities, but the easy ones tend to be short-term
+    band-aid-ish opportunities that detract from the company mission,
+    which is Golgotha, Golgotha, and oh yes, Golgotha.  Those of us
+    financially stable enough to weather some time without being paid
+    will stay on.  We're all confident the money will come in, including
+    those of us who can't afford the loss of income.  There is just too
+    much value in the project, it's inexpensive to complete, and there
+    are too many opportunities even outside Golgotha.  But two of us,
+    Gene & Stephen, don't have the reserves to miss a single payroll,
+    so I'd like to help place them at other companies.  Gene is a simply
+    brilliant composer, and it will totally hurt to lose him.  I count
+    my lucky stars that we at least got the game's soundtrack done.
+    Whoever gets Gene wins The Big Prize.  I've worked with a few great
+    compos

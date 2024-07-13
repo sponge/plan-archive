@@ -1,0 +1,124 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 3 Arena
+Last Updated: 05/10/1999 11:09:14 (Central Standard Time)
+-------------------------------------------------------------------------------
+// 
+// All personal musings on my part are available at:
+// 
+// http://www.voodooextreme.com/ask/askmenu.html
+// 
+// All GMB related e-mail sent to me at id software will be
+// deleted unread
+
+May 10, 1999
+------------
+
+Some folks have written asking what the deal is with 3Dfx support under
+WinNT.  To be honest, I don't know, and that's something that should be
+taken up with 3Dfx (I'll ask 'em anyway).  One thing we've run into is
+that the 3Dfx WinNT drivers haven't worked too well with any of our newer
+Intergraph workstations (TDZ2000 and GT1).  I haven't tested the 3Dfx
+drivers very well simply because I can't get my V2 to work in my GT1
+(likely the result of the PCI bridge architecture in the GT1).  I do have
+a V2 in my other test machine, but there is a huge amount of difference
+between the exercise a hardware/driver combo sees when installed in a 
+primary development machine vs. a testing machine.
+
+So that's the deal in a nutshell: we haven't had much luck with V2 under
+WinNT during the development of Q3A, and we haven't tested with Banshee
+or V3 at all under WinNT.
+
+May 9, 1999
+-----------
+
+There seems to be some confusion about the difference between an OpenGL
+ICD, a "minidriver" a.k.a. MiniGL, and a "standalone" driver.  So in my
+quest to make everyone in the world less confused about matters OpenGL,
+I'll do my bit.
+
+Snarfle gri moor landi ganillish.
+
+Okay, I needed everyone to be confused first, thus the above.  So anyone
+who wasn't confused better be confused now, at least temporarily.
+
+Okay, you can stop being confused.
+
+Oh...uh, wait, I was saying something.  Oh yeah.
+
+OpenGL drivers.
+
+So here's the deal.  OpenGL is not tied directly to any particular windowing
+system such as Win32 or X or anything like that.  Each operating/window system
+provides what are known as "window system bindings" that act as the system
+dependent interface between an OpenGL application and the underlying window
+system.
+
+Under X, for example, the bindings are part of a library called GLX, developed
+by SGI and/or the OpenGL ARB (I think).  Under Win32, the bindings were
+developed by Microsoft, and are called WGL (pronounced "wiggle") for obvious
+reasons.
+
+These bindings control things like tying an OpenGL application to a specific
+window, swapping buffers, and finding "pixelformats".  In an OpenGL code
+the "core" OpenGL code is completely portable, but the window system code
+(i.e. GLX/WGL stuff) is not.  That small system specific kernel is what
+gets ported between platforms (e.g. from Mac to Linux to PC).
+
+Now, under each operating system you have various "driver interfaces" that
+an OpenGL driver adheres to in order to communicate with the OS and 
+window system efficiently.  Under Win32 there have been two different
+prevalent driver interfaces: the ICD (Installable Client Driver) and the
+MCD (Mini Client Driver).  The latter is dead, but the former still lives
+on.
+
+When an OpenGL driver for Windows is said to be "an ICD", that means it 
+adheres to the Microsoft ICD interface mechanism.  Which means that
+an application that links directly to OPENGL32.LIB and uses OPENGL32.DLL
+and WGL will magically work with that driver with no muss and no fuss.
+
+A "full ICD" is just that -- a complete OpenGL driver implementation that
+supports all of OpenGL and that works with the standard driver interface
+mechanism.  A "full ICD" is the best type of driver we can hope for from
+a vendor.
+
+But, there's a problem: WGL was designed LONG before 3D graphics accelerators
+were prevalent, and WGL definitely was not designed to take into account
+3D-only accelerators such as Voodoo 2.  This means that 3Dfx can NOT write
+an ICD (note: ICD meaning "an OpenGL driver that uses the Microsoft ICD
+mechanism") for the Voodoo 2 since the WGL bindings only understand the
+concept of a single graphics accelerator.  This rears its head as a serious
+problem with systems with, say, a RivaTNT and a V2.  If both accelerators
+had an ICD, which one will an application use?!  Fortunately (or not),
+this isn't a problem since only a single ICD can exist in a system (note:
+Direct3D doesn't have this problem since Microsoft cared enough about D3D to
+support device enumeration.  WGL could easily be revved to support this
+feature, however Microsoft, for obvious reasons, doesn't really care to
+see that happen.)
+
+3Dfx CAN write a FULL OpenGL driver for the V2, however it won't be an
+offical ICD because they can't hose the system's primary display device's 
+ICD.  That would be poor manners.
+
+This puts 3Dfx in the position of having a complete OpenGL driver for 
+Voodoo Graphics and Voodoo2, but that driver is NOT an ICD.  It is what
+we call a "standalone driver".  A standalone driver is simply a full
+OpenGL implementation that does not use the Microsoft ICD driver
+interface mechanism because of technical inadequacies within WGL.
+
+Quake3 only supports one standalone driver -- the 3Dfx Voodoo(2/Rush)
+full OpenGL standalone driver.
+
+Finally, there is the issue of a "minidriver".  A "minidriver" is a
+_partial_ OpenGL implementation designed to support only those OpenGL
+calls that are performed by a few key OpenGL games such as GLQuake
+and Quake2.
+
+To an application, a "minidriver" and a "standalone driver" look
+the same, the difference being that a standalone driver is a FULL
+OpenGL implementation (theoretically suitable for use in any
+OpenGL game, applications, etc.) whereas a minidriver is a PARTIAL 
+OpenGL implementation that is suitable for only a very few games and

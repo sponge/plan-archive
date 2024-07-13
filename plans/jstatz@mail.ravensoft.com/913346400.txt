@@ -1,0 +1,47 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jeremy Statz
+Email: jstatz@mail.ravensoft.com
+Description: Designer
+Project: Heretic II
+Last Updated: 12/10/1998 23:14:18 (Central Standard Time)
+-------------------------------------------------------------------------------
+<------------------------------ 80 columns! ----------------------------------->
+12-10-98
+
+Anybody trying to get the "random DM start" flag on a teleporter to work should
+know that you still need to target the teleporter at a destination.  The 
+destination will get used in single-player, and it'll do the random thing in DM
+games.
+
+12-6-98
+
+Also, a quick reminder that if you want to name your Heretic 2 map, or have a
+trigger or whatever print a message, you have to use the text_msg field.
+Message simply prints a line from the levelmsg.txt file (used because it's easy
+to translate).
+
+It works the same as Quake 2's message field, just a different name is all.
+
+-----
+
+Anyone working on a Heretic 2 map who wants to use scripts may have noticed the
+lack of a script_runner entity in the list.  Unfortunately, the included
+Heretic 2 project file is told to look for *.c files, while the comment for the
+script_runner is in a .cpp file (the only one in the directory).
+
+So, find your heretic2.qe4 file (should be in toolkit/designer/hereticed), open
+it in notepad, and change the line where it says:
+
+"entitypath"            "..\..\programming\gamecode\game\*.c"
+
+to read:
+
+"entitypath"            "..\..\programming\gamecode\game\*.c*"
+
+The added wildcard will make it scan that file, so script_runner will show up
+in your entity list.  Apparently a number of the ent lists for other editors
+are missing this entity too (probably for a similar reason), so if you
+maintain one of these lists, please take a look and make sure you didn't miss
+it -- scripts are central to doing a lot of the more complex stuff with a
+single-player map.

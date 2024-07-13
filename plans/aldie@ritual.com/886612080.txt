@@ -1,0 +1,112 @@
+Name: Scott Alden
+Email: aldie@ritual.com
+
+2-4-98
+======
+It's been a while since the last update, so here's some 
+SiN related info.
+
+Finished up the texture conversion utility.  We are adding 
+a load of more information into our textures, and they should 
+be called surfaces now, as they have a bunch of new properties 
+(friction, restitution, lighting, material, etc...). It takes
+about 10 minutes to convert the art department's entire
+archive over to the new format (~1900 textures).  
+The artists are now going through and setting default 
+lighting values and material types for all of those textures.
+Mark added a bunch of neat things to the SinEd interface 
+to help alleviate the pain of doing that stuff by hand.
+
+The .map file converter is also ready to go, and the level
+designers will be giving up their personal wad files for a 
+unified texture structure.  They of course can override
+any of the defaults that have been set by the artists
+if they need to.
+
+Next up is to finish off the rest of the tools (bsp,vis,rad)
+so the level designers can finish their designs under the 
+Q2 rendering engine, then we start dabbling in the 
+renderers to update Q2 to what Mark and Jim previously
+added to SiN.
+
+Not SiN related:
+
+I attended Billy Z's talk at the Austin CGDC and it sounds
+like he's had good success with Java on his new game.
+
+I also took a peek at some of the Java stuff that UberEngine
+is using.  It reminds me of the days when I used Tcl/Tk for 
+just about everything.  I can't wait to start using it myself.
+I've tried to learn MFC many times, but just gave up.  
+I had limited amounts of time when I was using it so I didn't 
+really give it a fair chance, but when I saw what Gary and 
+Charlie accomplished in just a few hours with Java, I think I 
+will give up on learning MFC unless I HAVE to.
+
+I think that Java is definitely the way to go for the tools
+portion of game design.  I'm not sure about any of the 
+other parts of game engines due to speed issues, but that
+will probably get resolved in the future.
+
+1-7-98
+======
+I've been playing a new RTS called NetStorm - Islands at War.
+
+You use the power of rain, sun, thunder to build weapons and
+defenses.  There is also an interesting twist where you use
+tetris-shaped pieces of bridges to get to other islands.  Even
+though I dislike tetris style games, this is a cool aspect of
+the game.  The object of the game is to sacrifice the opponent's
+priest which has quite an enjoyable sound and animation. :-) 
+
+I'm not sure when it was released, but it seems to have been 
+a sleeper this year.  It's a new twist on the RTS genre and one of
+the most original I've seen.  If you are into RTS, this is
+one to definitely check out.  I've only begun to scratch the 
+surface of this game, but I'm already hooked.
+
+
+1-5-98
+======
+Well this is my first .plan update and I thought I should give the
+rundown on what I'm doing here at Ritual.
+
+I'm currently working with the SiN team and I'm helping out in
+the programming area with Mark and Jim.  Back in December I was
+working on the scripts that go along with all our characters 
+and weapons.  Mark and Jim have implemented this cool scripting
+system which allows anyone to tweak the animations and sounds of
+all the character/weapon models in the game without making code
+changes.  
+
+I was basically running through each monster and weapon 
+associating their events in the script (I.e. this guy will
+fire his plasma gun on frame 4).  The sound effect timing 
+and dynamic lighting is equally as customizable.  It was 
+such a joy not having to recompile and re-run SiN each time
+I made a change to a script!
+
+I've been on vacation for the past 2 weeks and the new business of 
+the year is to get going on the conversion over to the 
+Quake 2 codebase.  I'm currently working on the texture
+system and trying to get them all converted over to the new format
+as well as merging in all the changes that Mark and Jim have 
+made. 
+
+I'm really glad to be back in Dallas.  I used to work
+at Nortel in Richardson for 3 years before heading out to 
+California and 3Dfx.  We had a very large Warhammer Fantasy
+gaming group that played very often and unfortunately when
+I was in California I couldn't get anybody at 3Dfx interested
+in playing.  I guess we all had too much fun with the Voodoo
+based games anyway to bother with anything else :-)  
+
+I'm also very happy being back in the land of the large movie
+theaters!  The bay area is very behind the times when it comes to 
+movie theaters. The only good theaters there were always 
+extremely crowded, and new releases sold out very early. We
+ended up paying $1.50 surcharge to order our tickets over
+movielink.com just to avoid the lines!
+
+That's about all for now.  I hope to keep updating this
+as we progress along in the programming effort for SiN.

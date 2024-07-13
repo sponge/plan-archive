@@ -1,0 +1,32 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Thu May 27 14:55 (EDT) on ttyp0 from 216.27.43.207
+New mail received Tue Jun  1 16:49 1999 (EDT)
+     Unread since Thu May 20 01:38 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Brandon "GreenMarine" Reinhart
+Unreal Team Programmer
+Epic MegaGames, Inc.
+
+Friday, June 4, 1999
+
+Here is my worklog for today:
+
+- A cursory frobbing of the UVar indicates that the RMask wasn't moggled properly.
+- Remoggled the RMask.
+- Ran a test on the bilinear mode switching channel.
+- Wrote a utility to scan random memory addresses for polarity violations.
+- Removed the focus module from core.
+- Changed the engine switches. They should now romulate in a more hardware friendly fashion.
+- Reimplemented the morphmodule interface.  How could I have done such a bad job in the first place?
+- Replaced all occurances of "int" with "INT"
+- Found a bug in the TCI fader.  This will be a tough one.
+- Added a new function: PopMicronStack() that will pop the micron stack when called.
+- Discovered that the CD burner wasn't working right because someone had placed a piece of balony in a caddy.
+- Ate a piece of balony.
+
+All in all it was a good day, I got a lot of tough work done.
+	
+    

@@ -1,0 +1,162 @@
+Login: den            			Name: Den Dragon
+Directory: /usr/ultima/den          	Shell: /usr/local/bin/tcsh
+Last login Fri Jan 30 17:42 (CST) on ttyp0 from usr24-dialup17.m
+No Mail.
+No Plan.
+
+Login: dragon         			Name: Rick Brewer
+Directory: /home/dragon             	Shell: /usr/local/bin/tcsh
+Last login Tue Nov 11 02:37 (CST) on ttyp3 from sfo-ca16-18.ix.n
+New mail received Sun Feb  1 23:25 1998 (CST)
+     Unread since Sun Feb  1 20:19 1998 (CST)
+Plan:
+
+
+
+
+
+^Drag0n^'s TalonFile
+
+
+
+
+
+
+
+WebMaster, QuakeWorld Central
+        -- Comments? e-mail me.
+
+        (Note: this .plan is in HTML: visit http://www.stomped.com/quake/finger to see
+        it all.)February 1st, 1998:
+        "Yo quiero Taco Bell"
+
+OMYGOSH! Imagine my surprise when I
+        found my future housemate, Jack "morbid"
+        Mathews, looked like this:
+
+THE HORROR!!!!
+(I
+        wonder how he got those little paws on that new Pentium2
+        300...)
+January
+        14th, 1998:
+
+        Quake 2 Skinpack Oddities Revisited...
+
+
+My
+        good friend, texture artist Joe "MoRT" Buck,
+        sent me the following email explaining the "grey
+        skin phenomena" in photoshop and PSP:
+Hey Rick, 
+The prob with the skins showing up
+        grey in some paint progs is a photoshop specific thing.
+        Photoshop reads the palette info in a *.pcx file in
+        reverse. One way around this is to open up the *.pcx file
+        in something like Paintshop Pro and save it as a *.bmp or
+        something and then open it up in photoshop. Just make
+        sure when you go to save any changes you make on the skin
+        in photoshop, open up the modified version in another
+        program and save as *.pcx otherwise photoshop writes the
+        new file with the palette in reverse. I know this works
+        cause this is what I have to go through everytime I make
+        graphics for Quake 2 :/ Anyway, hope that helps. Talk
+        to you later. 
+Joe
+Thanks Joe!
+Other people suggested loading the
+        Quake2 palette after loading the image in PhotoShop. As i
+        use PSP and Fractal, I was unable to verify this.
+BTW- if you're looking for a first class
+        texture artist, Joe is the man. It amazes me that 3DR,
+        Ion or Ritual haven't picked him up yet with all the
+        hiring they're doing...
+-^D^
+January 13th, 1998: Quake 2
+        Skinpack Oddities...
+
+
+The first Official Quake 2 Skinpack is
+        out, and you can get it here:
+QW2_9802.ZIP 
+To install it properly, you must select
+        the "-d " option if using DOS Zip, or check the
+        box "Use Folder Names" if using WinZIP.
+Unzip the file into the directory
+        *CONTAINING* the Quake2 DIRECTORY. If /quake2 is in your
+        root dirctory of the c: drive, unzip it to c:/ If you
+        don't, the file structure will be all messed up.
+I've heard reports from some people that
+        the skins included in the pack appear Grey in some
+        editors, whereas the skins appear fine in Quake 2. I
+        believe this to be a problem in the saving algorithm for
+        either Paint Shop Pro or Photoshop. I'll do some research
+        and post my findings here.
+Process and I were discussing adding the
+        Skinpacks to the Stomped section of the PC Gamer CD for
+        those people that don't want to spend hours downloading
+        them all. This may or may not happen, depending on the
+        legalities.
+Quakeworld Central will be changing
+        roles soon. Veering off from being a Quakeworld support
+        page, and more into supporting the various skinpacks for
+        id's games. The site currently seems bland, lacking the
+        flash and coherent theme of the original design. It's
+        time to change that.
+I see Quakeworld Central going in any of
+        the following directions:
+
+- Tutorials on making Player Created
+            Skins for QuakeWorld and Quake II
+
+            - The Skinbase files (of course)
+
+            - Becoming a Warehouse of the better Textures created
+            for Quake and Quake 2
+
+            - Mirroring Selected Maps for Quake, Quake 2, HeXeN
+            II, SiN, and HalfLife
+
+            - Reviews of Quake Related Hardware
+
+            - QW documentation & FAQ Archives
+
+            - Continued qPlug support
+
+Feel free to e-mail me and let me know
+        what you think.
+- ^D^
+January 12th, 1998: 
+
+        HEY, MICROSOFT! Raise the TITANIC!
+Bonk. Teardrop. WinNuke. 
+Is it just me, or does the Windows line
+        of operating systems have more holes in it that the star
+        of James Cameron's latest blockbuster? Microsoft has a
+        lot on the line here, you think they'd have more
+        resources working on fixing it before someone gets the
+        bright idea of bonking their servers.
+Which brings up an interesting
+        point...if they can't address these problems in a timely
+        fashion, how can they expect anyone to use WindowsNT as a
+        primary gateway or DNS? As it stands now, the only way to
+        protect yourself is to have a UNIX machine in between
+        you, filtering the garbage out.
+I found an abandoned Sun IPX at work
+        today...I think I may attempt to adopt it...
+- ^D^
+
+
+
+Disclaimer: All opinions in this
+        planfile reflect my opinion and in no way represent those
+        of Stomped.com. Publication of any portion of this .plan
+        without the permission of the author is expressly
+        forbidden. Quake , Quake II, DooM, and DooM II are all
+        (c) id Software, Inc. ^Drag0n^ (c) 1996 me. That's all
+        the fine type. I'm done now. Besides, don't you have
+        something better to do than read the disclaimer?
+
+
+
+

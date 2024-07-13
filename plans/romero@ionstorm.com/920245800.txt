@@ -1,0 +1,107 @@
+
+*** Ion Storm's Finger Server
+
+User name: romero
+Plan modified: Sun Feb 28 19:47:40 1999
+
+
+
+
+Plan File
+
+
+
+
+
+Current project: Daikatana
+   February 28, 1999
+The modem interpolation bug was fixed just a couple hours ago.  We're
+finishing off some remaining polish and sending it off to MPlayer for their final testing
+phase.  We will be releasing the demo in the Practice Area of MPlayer first (limited
+release), then into the Tournament Area when Practice is through with their testing.
+  When it gets into the Tournament Area, everyone can download it and try it out.
+About a month or so later, we will put up the Internet Deathmatch Demo
+release so you can play over LAN as well and start up your own servers.  Just
+remember: this demo is only for the first episode of Daikatana's deathmatch.  Each of
+the remaining 3 episodes have their own different deathmatch feel because the weapons are
+all different.  It's like 4 deathmatch games in one.  (And one single-player
+game in one. :)
+We've been working hard on getting this demo together and I hope everyone
+likes it.  Sure, it's taken us a little longer to get polished, but it will be worth
+the wait.  No use releasing a shab demo.
+   February 4, 1999
+(Oops, fixed that link...)
+I'm a real big guitar-music nut and just wanted to tell y'all how badass
+James Grote's "Quantum Rage: Songs for Deathmatch" is -- you don't even need to
+play this CD while deathmatching; I listen to it all the time in my car.  Get this CD
+if you are into metal or into doomy-melodic guitar riffs!  Samples are available on
+his site....check 'em out.
+http://www.gigadeth.com
+Also, one of the cool features of Daikatana Deathmatch is that, depending on
+the number of maxplayers your server is set for, the map can open up new areas or keep
+them closed off.  If you want your DM map to be scalable for 1-4 players, you just
+put in a special wall that blocks off access to the other areas if maxplayers = 4.  
+Likewise for the other maxplayer levels (8, 16 and 32).  This allows DM mappers to
+create one single map that is good for 2 players to 32 players!  You'll see this
+feature in our Daikatana Deathmatch Demo...
+   January 26, 1999
+GameStream knows things...
+http://www.gamestream.net/indexfix.cfm?NewsID=410
+(Internet Explorer only, I'm told)
+   December 15, 1998
+Today's the 7th birthday of id Software's second Keen creation, 
+Commander Keen: Goodbye, Galaxy!.   
+   December 14, 1998
+Today's the 8th birthday of id Software's very first game,  Commander
+Keen: Invasion of the Vorticons.   
+   October 30, 1998
+Congratulations to the entire SiN team over at Ritual!  Your first full
+game, now gone gold -- it was tough, wasn't it?  Heh heh.  
+I can't wait to play SiN, it totally kicks ass! 
+   August 28, 1998
+Reports of my death are greatly exaggerated.  I take full responsibility
+for last night's confusion -- maybe I shouldn't have taken that morbid picture for Texas
+Monthly magazine, because someone apparently called the Dallas PD and heard that a John
+Romero got shot last night.  Coupled with the actual picture, you have yourself a
+news story (although a false one).
+I was out of touch with people up here at Ion for a while last night, so they
+couldn't confirm nor deny the rumors, so Adrenaline Vault ran the story and got the
+"scoop" first.  Too bad it was incorrect, eh?  Well, don't blame them
+-- I got a call from their writer who told me where and how he got his information and I
+would have run the story myself, so don't slam on them, they were only doing their job.
+And for all of you who really did care and got upset:  I love you all!
+For the Avault story, go here: http://www.avault.com/news/news_temp.asp?story=8281998-14324
+   August 25, 1998
+Good luck, Dr. Sleep and Xatrix.  The stop was short but fun while it
+lasted.
+Now to find a fast monster of a map designer.  Anyone have any leads,
+send 'em my way: romero@ionstorm.com.  
+Thanks. 
+   July 9, 1998
+It was sad news indeed to hear that Danielle Berry died recently.  
+Danielle was going to attend my Apple II Reunion Party, along with Jim Nitchals, who died
+recently as well.  This party is becoming dangerous, you think?
+Oh yeah, the name "id Software" was spelled "ID" in the
+beginning, then "Id Software" during Wolf3D, then "id Software" from
+DOOM onwards.
+   June 26, 1998
+I can't BELIEVE that someone found out that Carmack and I made up!  What
+the hell, are there no more secrets left?  Has all this .plan file madness destroyed
+everyone's ability to keep information to themselves?!
+Well I never!  I just won't be paying him anymore special visits from
+now on!  ;P
+   June 23, 1998
+Happy Birthday Quake, even if I'm late by one day. :)
+Hoo boy, do I remember developing that title.  All I gotta say is
+"The War Room". 
+   June 19, 1998
+I'm gonna be having a massive Apple II Reunion Party here in August and there
+are still a few programmers I want to invite that have eluded my investigations.  If
+anyone out there has information on their whereabouts, phone numbers or email addresses,
+shoot 'em my way.  Thanks!
+
+David Schroeder - Dino Eggs, Crisis Mountain
+Tony or Benny (Aik Beng) Ngo - Drol, Bandits
+Paul Stephenson - Aztec, Swashbuckler
+Tony Suzuki - Alien Rain, Alien Typhoon, Star Blazer
+Larry Miller (Sirius)

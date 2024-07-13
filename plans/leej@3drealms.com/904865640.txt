@@ -1,0 +1,26 @@
+Account Name:  Lee Jackson
+Email address: leej@3drealms.com
+----------
+Call Apogee and Say Aardvark
+
+The studio is back up and running yet again.  It went down for a while when the venerable old ISA non-PnP pro audio card (the CardD+) decided it didn't want to get along with Win95 anymore, or vice-versa.  It has since been put out to pasture, and in its place, George allowed me to snag a brand new Aardvark Aark 20/20 multiple channel system.  This one includes a PCI card, made for Win95 and fully internally shielded, and a shielded external breakout box containing the A/D and D/A converters.  The analog converters can do 20-bit audio, while the two S/PDIF digital ports can handle 24-bits.  Sweet.
+
+I've also got seven more analog inputs and seven more analog outputs on the 20/20 than I had on the CardD+, in addition to the pair of
+stereo digital S/PDIF I/O ports.  That's 20 connections, folks - twenty, all simultaneously active.  I don't have enough cable lying around the office to hook 'em all up right now, but that will be fixed soon enough.  Man, I can't wait to get after this puppy.
+
+The only drawback to the Aark 20/20 is in the sample rates it handles.  It doesn't speak anything lower than 32KHz, and its drivers won't natively handle mono.  Fortunately, the Microsoft Sound Mapper knows how to address this problem within Sound Forge.  Quick and dirty stuff still requires a cheapo card, so it looks like I'll be re-enabling the OPL3SA that's on the system's motherboard for this stuff.  No problem - the tradeoff in high end quality is more than worth it.
+
+While this was happening, we also took care of another pair of upgrades.  Sound Forge is now at version 4.5, and the old 16-bit SAWPlus 3.4 has been replaced with the new 32-bit SAWPro.  (I've explained what the SAW software is before, but if you missed it, head over to http://www.iqsoft.com for details.)  Finally, an Opcode/Music Quest 2Port/SE is being used to provide sync between the two computers.
+
+Quick trivia:  when we bought the CardD+ and I/O CardD back in January of '96, we got 2 channels of ISA I/O for about $600.  That same price just now bought 20 channels of PCI I/O.  Who knows what'll be available for $600 two years from now?
+
+Whatever it is, I'm pretty sure George will still say we don't need it. (D'OH!!!)
+
+
+
+
+
+
+INSERT SHASH HERE
+	
+    

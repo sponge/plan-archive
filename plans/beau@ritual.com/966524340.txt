@@ -1,0 +1,21 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: beau
+Plan modified: Thu Aug 17 11:56:24 2000
+
+.plan
+Beau Anderson
+beau@ritual.com
+Lead Artist - Heavy Metal - 
+
+I've seen a lot of reviews (positive ones, of course!) of FAKK2, with 
+screenshots that obviously have vertex lighting turned ON.  
+
+Vertex lighting will improve performance, but will greatly reduce
+the quality of the graphics.  You get no lightmaps on geometry (no shadows), and
+you won't get all the sky effects.  
+
+Don't do this unless your system really needs the help.  
+
+Also, it puts me in physical pain to see it.

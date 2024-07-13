@@ -1,0 +1,157 @@
+
+*** Monolith Production's Finger Server
+
+User name: hall
+Plan modified: Tue Feb 01 11:10:34 2000
+
+ 
+					2/1/00
+
+This just in. Many more significant announcements on the way:
+
+
+Black Isle Embraces LithTech!
+The LithTech Engine Aids Black Isle Studios In Their Quest To Create The Next Generation Of Role Playing Games.
+
+(Kirkland, Wa  February 1, 2000) LithTech Inc. today announced they will license the powerful LithTech Engine to Black Isle Studios, the role playing game (RPG) division of Interplay Entertainment Corp. (NASDAQ: IPLY). The LithTech Engine functions as a complete 3D game operating system that allows game developers to quickly and easily design, develop and focus on content without reinventing technology from scratch each time a new project begins. 
+The Black Isle name is synonymous with quality RPG games, comments Jason Hall, CEO of LithTech Inc. The versatility of the LithTech Engine will allow the team to create the most dynamic, graphically beautiful game possible.  We cant wait to see the end results.
+The LithTech Engine, the technology behind Shogo: M.A.D. and upcoming Monolith games Sanity and No One Lives Forever, allows for a full range of cutting edge graphic effects, from spectacular lighting to highly detailed character models.  The engine also allows designers to create breath-taking outdoor areas from magnificent mountain ranges to sprawling cities.
+In researching all the available 3D Engine technology out there, we were very impressed with both the support and advanced feature set of the LithTech engine.  It is an engine that will definitely help Black Isle create the incredible worlds we are known for, said Feargus Urquhart,  Division director for Black Isle Studios.
+About LithTech Inc.
+LithTech Inc., a subsidiary of Monolith Productions is dedicated to creating the standard in real time 3D development and networked multimedia operating systems. For more information about LithTech, visit www.lithtech.com
+About Monolith Productions
+Monolith Productions, Inc., based in Kirkland, WA, is focused on combining uncompromising content with the ultimate in high-end gaming technology.  For more information about Monolith Productions, visit their homepage at www.lith.com.
+About Black Isle Studios
+Black Isle Studios is the Role-Playing Game division of Interplay Entertainment Corp..  Founded in 1995, the division has been responsible for the development of 1997s RPG of the year Fallout, and 1999s RPG of the year Torment.  Black Isle was also responsible for the publishing of Baldurs Gate (developed by Alberta, Canada based developer, Bioware Corp.) which was awarded 1998s RPG of the year.
+More information can be found concerning Black Isle Studios at www.blackisle.com.
+
+
+Dan Miller
+PR Coordinator
+Monolith Productions
+miller@lith.com
+http://www.lith.com
+
+-----
+
+I would just like to point out how significant Black Isle's decision is. Here is a AAA Team looking at various 3D engine technologies to base their next project on, and LithTech surfaces as the appropriate choice. 
+
+The first thing that Feargus Urquhart mentions in his statement is LithTech's support. Proper support is extremely important to us, and it is our complete and thorough support system that helps to widen the gap between the LithTech licensing program and others.
+
+You would think that having support for a six figure engine would be an obvious requirement for developer to ask for - unfortunately it isn't. There are some companies out there that have as many as 16 licensees working with their technology and they do not have even ONE person dedicated exclusively to support! Amazing! Maybe the licensees don't need any support I guess... I dunno. I have a tendency to disagree with that approach. Engine licensing is not just about  delivering technology, it is also about delivering a full service.
+
+We are very excited to be working with Black Isle. They are very talented and we are going to be sure to support their efforts. Away we go!
+
+More announcements soon, we are just getting started...
+
+
+
+				1/28/00
+
+I just got in trouble!
+---
+Jason,
+Would you please change your plan file to have these people check out our web page http://www.lith/com/jobs and send engineering resumes to engjobs@lith.com and 3D resumes to 3djobs@lith.com.  That way you wont get the emails, you wont have to forward them to Chris, Chris wont have to forward them to me, Goble and Bryan, I wont have to forward them to engjobs@lith.com or 3djobs@lith.com and Goble and Bryan wont have to respond to every single one of them.  When they submit to engjobs@lith.com or 3djobs@lith.com they get an autoreply telling them we have received their resume, it is under review and we will contact them if we feel there is a good fit.  We cant respond to everyone due to the volume of resumes received.  If we did we would need two full time recruiters.  Thanks!
+----
+
+So if everyone could please send their resumes to the appropriate place, that would be great!
+
+
+				1/27/00
+
+Last little tidbit - 
+
+We are hiring. Categories are: Engineers, Modelers, Texture Artists, Animators, etc.
+
+There are some big time exciting projects going on, and now would be the time to get involved.
+
+We will pay for relocation, competitive salaries, etc., if you kick ass in your field.
+
+e-mail me at Hall@lith.com
+
+
+
+ 
+					1/27/00
+
+Some quick clarification.
+
+LithTech has become extremely elaborate over time, and currently the best method to describe it to a developer in a way that makes sense (given its full capabilities) is to describe it as a 3D Game Operating System. 
+
+This helps developers make the mental distinction and understand the different contexts of uses between technologies like Renderware (3D Renderer), Unreal (3D Engine) and LithTech (3DGOS).
+
+Agreed that perhaps it's not a complete OS in every technical sense of the term, but the context in which a developer must look at it and work with it is closer to that than any other easy-to-understand description.
+
+Just wanted to clarify that a little more.
+
+Also, I can only stress that we are just getting started with our announcements. We have been very busy as you will see! It's quite exciting.
+
+
+
+
+ 
+					1/27/00
+
+I have an announcement to make:
+
+MONOLITH PRODUCTIONS TO CREATE LITHTECH INC.
+
+Former Microsoft Chief Architect of Languages and Office Applications named as LithTech Inc. Chief Software Architect.
+
+Kirkland, WA (January 27, 2000) Monolith Productions today announced the formation of LithTech Inc., a subsidiary dedicated to creating the standard in real time 3D development and networked multimedia operating systems. As its first official action, LithTech has named Dr. Gregory Whitten19 year veteran of Microsoft, as Chief Software Architect.
+
+"LithTech Inc.s ability to attract someone of Dr. Whittens caliber confirms our belief that our technology implementation is state of the art," comments Jason Hall, CEO for Monolith Productions and LithTech Inc. "Our vision is to combine strong leadership with experienced professionals to create the first company dedicated to serving the maturing real time 3D market."
+
+Dr. Whitten is currently Co-Chairman of NumeriX Corporation. He retired from Microsoft in 1998. His research interests revolve around large-scale, concurrent object oriented systems and software architectures. During his impressive 19 year career with Microsoft, Dr. Whitten designed and implemented many pieces of the BASIC, Quick BASIC and Visual BASIC interpreters and compilers and the common cross-language compiler and runtime technologies. In addition, Dr. Whitten started the Windows project, architected the GDI graphics and device model as well as the memory and programming models for Windows and OS/2. He was also responsible for initiating Microsoft's company-wide object oriented software strategy including leading the design groups for OLE 1.0, 2.0, COM and OLE controls which became DCOM and ActiveX. Additionally, he worked on software strategies for the Office, Back Office and Windows product lines. Dr. Whitten has a Ph.D. from Harvard University where he did original research in numerical analysis, analysis of algorithms and econometrics.
+
+"LithTech is a perfect complement to my technical interests, and I look forward to joining the team," says Dr. Whitten. "Together we can move gaming to a new level of sophistication and capabilities." 
+
+The LithTech 3D Engine is a licensable technology for multiple platforms that functions as a complete 3D game operating system, which allows developers to easily design, develop and focus on content without reinventing technology for each project. 
+----
+
+This announcement is extremely significant. We have been working hard to make sure that LithTech is geared and ready for the future. This announcement shows that we are moving in the right direction.
+
+It is the highest compliment to be able to attract someone of Dr. Whitten's caliber. This guy really knows solid technology when he sees it. 
+
+
+I am looking forward to watching LithTech grow and proliferate as a true 3D gaming operating system (3DGOS). The end result of all of this is an even more robust development toolset that has a clear direction and a solid future - and more importantly, great support!
+
+More cool announcements soon...we are just getting started.
+
+If you are interested in finding out more information on this press release, contact Dan Miller (PR@lith.com)
+
+For more information on LithTech, contact LithTech@lith.com
+
+
+
+
+
+
+				1/19/00
+
+I would like to congratulate Mike Dussault on his recent acquisition of a new position at Valve!
+
+I have worked with Mike for nearly four years and it is very tough to see him move on, but I'll be the first to admit that the opportunity that was presented to him was very much in his current area of interest - so it was definitely the right move.
+
+I'd like to clearly state for the record that LithTech would not be where it is today without Mike's incredible talent and effort. He has helped to build a great and highly skilled engine team, and his personal efforts have been nothing short of spectacular over the last few years.
+
+I am proud to have worked with him from the beginning, see him learn and grow, and now spread his wings and meet new challenges...hmmmpphh, it kinda makes me feel old though...
+
+Mike we will miss you, and you know where the luv is. You have done a great job of making sure your "baby" will flourish and continue to grow.
+
+Now - to help alleviate any future gossip or rumors regarding Mike's departure, here is his "All Monolith Personnel" farewell e-mail. I share it with you (unedited) because it says it all so succinctly:
+
+ -----Original Message-----
+From: 	Mike Dussault  
+Sent:	Sunday, January 16, 2000 2:39 PM
+To:	All Monolith Personnel
+Subject:	farewell
+
+Dear Monolith,
+
+The time has come that I must leave Monolith. I have received an offer from Valve Software that is extremely difficult to refuse. I will be staying at Monolith for one week (until January 21st) to finish my current tasks, then I will be going over to Valve. My Monolith email address will be setup to forward mail to me at Valve, and I'm more than happy to provide any engine help that I can.
+
+It should be stated that Valve came to me - I never would have sought a job away from Monolith. Monolith is one of the best game companies I've ever encountered and it has been great to me. The past 3.5 years I've been here have been some of the best years of my life, and I had no complaint that would have caused me to leave. It's simply that Valve offered me an exorbitant amount of money to go work there. 
+
+The timing for my leaving is very fortunate for several reasons:
+

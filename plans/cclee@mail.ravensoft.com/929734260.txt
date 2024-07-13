@@ -1,0 +1,99 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Chia Chin Lee
+Email: cclee@mail.ravensoft.com
+Description: Sound / Music
+Project: General
+Last Updated: 06/18/1999 16:23:42 (Central Standard Time)
+-------------------------------------------------------------------------------
+6/18/99
+
+In order to maximize realism in Soldier of Fortune, Raven hired
+Mr. John Mullins to bring more authenticity to our game.
+After we repeatedly called him a "Mercenary", Mr.  Mullins
+politely corrected our faux pas.  Due to the negative connotations
+that come with the term "Mercenary", true professionals in the
+field prefer the term "Consultants".
+
+Mr. Mullins retired from the Special Forces in 1981, after earning
+numerous awards including the Silver Star, Bronze Star with three 
+Oak Leaf Clusters, and several Purple Hearts.  Since his retirement,
+he has made his services available both to the government and
+civilian customers.  Mr. Mullins has headed several operations
+in all corners of the world.  These missions range from VIP
+Protection to Hostage Negotiation and Rescue.
+
+Although Mr. Mullins has helped us with every aspect of the game,
+my primary interest lies in the area of Sound and Combat.
+During his visit at Raven, I was able to speak with our Consultant
+on this very topic.  Our meeting was fruitful and inspiring,
+prompting me to approach the sound design of our game with a
+re-invigorated and fresh perspective.
+
+I will now give a brief summary of our conversation, which I hope
+you will find interesting, if not slightly morbid.
+We are planning to implement these sonic details in our game,
+which will greatly enhance the gaming experience.
+
+
+WEAPONS:
+Overall, Mr. Mullins really enjoyed the unique resonance between
+the guns in Soldier of Fortune.  He provided several constructive
+criticisms concerning some of the weapons ("this should be more
+muffled" or "this gun sounds much sharper in action").
+The sonic signature of our weapons add a lot to the feel of the guns.
+
+
+RICOCHETS, ETC:
+There are lots of Ricochets sounds in combat situations, 
+and whiiiiizzzzing sounds of bullets.  When bullets hit around
+you (about 3 feet from your head), you hear intense SNAPPPPING 
+of bullets.  It sounds like a firecracker breaking the barrier 
+of sound.
+
+Soldiers learn to abide by the "Crack and Thump" rule:  You first 
+hear the FIRECRACKER CRACK! around you, then the deep THUMMMMP of 
+the weapons.  You can actually *count* the time between the Crack 
+and the Thump to determine the distance between you and your enemy.
+
+Depending on the floor surface, you can clearly hear shells hitting 
+the floor.  It has a distinct "tink" sound.  Shotgun shells sound 
+dull and hollow, while other weapons are metallic.  One should be
+careful not to trip on the shells, as they can be slippery on hard
+surfaces.
+
+
+AMBIENCE:
+All your senses are intensified in combat situations, so acute 
+that "you can hear a rat piss on a cotton ball".  You hear all 
+enemy movements clearly, including scurrying footsteps.  The
+environmental sounds seem louder too, because of your heightened
+awareness.
+
+
+SPEECH:
+There are lots of tactical chatter amongst enemies, such as "GET 
+YOUR ASS DOWN!", or "GET OVER HERE!".  Swearing is (not surprisingly)
+commonplace in combat situations.  Enemies usually don't taunt you, 
+as they are too busy planning amongst themselves.
+
+
+CARNAGE:
+When asked what people sound like when they are wounded, the 
+consultant replied:  "Imagine a woman who has just lost her child.
+Now imagine the gut-wrenching, high-pitched cries that she lets 
+out.  That's what people sound like when they are hit."  Some 
+people are more vocal than others, however.  Some soldiers pass 
+out cold immediately when hit by a bullet.
+
+Apparently, when bullets hit the flesh, it sounds similar to 
+a watermelon being hit by a hammer.  A juicy thud.  Due to 
+your heightened sense, you can distinctly hear wounded enemies, 
+even as they are gurgling blood or wheezing from a blasted lung.
+
+
+As a game developer and sound designer, I learned a lot from 
+this experience.  It pays to turn to a non-fictional source 
+for inspiration and guidance.  Although an active imagination can 
+go a long way, the old adage "Truth is Stranger than Fiction",
+definitely holds true!

@@ -1,0 +1,13 @@
+User:   joe
+Read:   0
+Unread: 0
+Time:   Tue, 20 Jan 1998 13:37:48 -0800
+Plan:
+The end is in sight.  My portion of the TODO list for GameSpy 2.00 is starting to look pretty good now.  Everyone's been working on it pretty hard for the last month or so.  I'm really excited about how 2.00 is going to look.
+
+We're finally going to have a good reason for people to register GameSpy now!
+"What is it?", you ask.  I'll tell you :)
+
+Shared Server Lists
+
+This is really going to be cool.  You get a group of people into the chat client.  One person starts up the shared list server (the chat client informs everyone of this and indicates it on the chat UI ... the chat server will even tell people who join the channel after the server has started that it's running).  Everyone connects to the server sending it their server lists.  When everyone is done, the server merges all the lists (averages the ping times) and sends the results back to everyone.  The end result?  You get FAIR list of servers for EVERYONE.

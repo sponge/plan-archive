@@ -1,0 +1,38 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+Home Directory....\\void\users\innerloop
+Last NT Logon.....Friday, May 26, 2000 at 09:28
+
+5/30/2000
+
+Well, there's nothing more cliche than a .plan that says "We're gold" but 
+since the opportunity only comes along every couple years these days, what
+the heck.  Vampire: The Masquerade - Redemption US release is in duplication
+and will show up at your local mall/etailer/warehouse store on June 7 or 8th!
+
+We're busily working on a playable demo and also putting together the "NOD SDK
+version 1.0" which will document all the file formats and so on.  We hope to
+have a preliminary version of the SDK available by June 7, although some of 
+the tools might lag behind a bit to polish them a bit more for public 
+consumption.  More detailed info about the demo content and dates will be
+forthcoming.
+
+The SDK will include:
+
+Embrace editor (modified from QERadiant)
+NOT object template editor
+NOD viewer (standalone 3D model & LOD viewer)
+Documentation for file formats: NOD, NAD, NAM, NAG, NSC, and many others.
+HTML documentation for the CODEX Java API (via JavaDoc)
+Source code for all Java classes and game scripts
+Introduction to using Embrace and other starting documents
+
+Thanks to everyone who participated in the beta and on our web board during
+development!  
+
+
+(File last updated on Tue 30 May 2000 at 11:56)

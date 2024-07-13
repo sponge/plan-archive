@@ -1,0 +1,547 @@
+
+*** Ion Storm's Finger Server
+
+User name: bobby
+Plan modified: Sat Mar 27 15:14:54 1999
+
+_,+''+,_,+''+,_,+''+,_,+''+,_,+''+,_,+''+,_,+''+,_,+''+,_
+---------------------------------------------------------
++	       Xcalibur's cool ass plan file		+
+---------------------------------------------------------
+
+Bobby Pavlock - aka Xcalibur (Bobby@ionstorm.com)
+Level Designer - Ion Storm   (www.ionstorm.com)
+Daikatana
+
+
+
+---------------------------------------------------------
+------------------ March 18, 1999 -----------------------
+---------------------------------------------------------
+
+The general concensus seems to be that most people like Storm
+Sector 7 (E1DM2) in the Daikatana demo.  I just want to say a
+big "Thanks" to everyone in the community who has taken the
+time to offer their feedback/input/suggestions about it.  I
+was very interested in some of the issues you all addressed and
+am currently doing a little redesign of the map to fix them.
+I would also like to say "Thanks" to Matt "DaBug" Hooper for
+leaving me some great stuff to work with to make SS7 into what
+it is today.  I hope the new Storm Sector 7 is even more enjoyable
+for everyone.
+
+Things you can look forward to in the new SS7:
+
+- slight increase in overall size of the map to make it a little
+  harder to control the map in 1 on 1.
+- new areas added to support up to 16 players.  Remember though that
+  the maps will be scalable depending on the max_players, so that if
+  you want to play 1 on 1 the map can be scaled down to its current size.
+- lightning and thunder to accompany the rain effect.
+- thicker, more noticeable fog.  There was a very light fog in SS7,
+  but it was so light (so that it wouldn't hinder DM) that it was more
+  of a haze.  I like the idea of a thicker fog in the new version.  It
+  will make for a different approach to DM, and add some new elements 
+  to gameplay.  Fog will be optional so if you don't like playing in the 
+  thicker fog, you can simply turn it off.
+- improved lighting/lighting effects and sound.
+- possibly a cool trap we have been discussing to make the level more
+  interactive.
+- and of course, any and all bug fixes that were found.
+
+Thanks again to everyone for the great feedback!
+
+That's all for now kiddies.  Until next time...
+
+The KING has left the building...
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Feel free to email me anytime at: Bobby@ionstorm.com
+
+Oh, and BTW, everything expressed in this .plan file is, of course, my
+opinion and mine alone, not that of ION STORM.
+
+
+
+
+
+---------------------------------------------------------
+------------------ March 18, 1999 -----------------------
+---------------------------------------------------------
+
+Back again...
+Hope everyone is enjoying the Mplayer DK demo.  Can't wait
+to get the public demo out to everyone so I can bust some 
+community skulls! :)  
+
+On a sadder note, it is with deep regret that I must say that
+I can no longer make myself as available on ICQ as I have
+been.  It's just eating too much time, unfortunately, because
+I like to take the time to chat with all of you.  But, until
+further notice, I will be refraining from answering ICQ messages
+until we reach a point in development where I think I will
+have the extra time.  If you have a question/comment/suggestion,
+you may still feel free to email me with it, and I will *try*
+to get a response back to you when I get a chance.  But I can't
+make any promises.  Thanks for understanding. :)
+
+That's all for now kiddies.  Until next time...
+
+The KING has left the building...
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Feel free to email me anytime at: Bobby@ionstorm.com
+
+Also, be sure to check out the upcoming commercial Quake 2
+total conversion "DAWN of DARKNESS" by Ward Six
+Entertainment (www.wardsix.com)  These guys are really 
+talented, and I can't wait to see the game when it's done.
+
+Oh, and BTW, everything expressed in this .plan file is, of course, my
+opinion and mine alone, not that of ION STORM.
+
+
+
+
+---------------------------------------------------------
+------------------ February 26, 1999 --------------------
+---------------------------------------------------------
+
+Hey there...  
+Sorry for the lack of .plan updates, but we've all
+been busting ass trying to get the big DK DM demo done and out
+the door.  Speaking of the demo, there have been some questions
+lately about when it will be out, and whether it will be Mplayer
+only.  Well, the demo is done with the exception of a few last-minute
+bugs that need some killing.  Hopes are to have them killed and the
+demo out by this weekend.  But even if it were to slip, never fear,
+it will be VERY soon!  As far as Mplayer goes, this is how it's gonna
+work.  There will actually be TWO demos.  This first one is for the
+big Mplayer DK DM tourney (the one where the top 4 people will get
+flown to the ION offices here in Dallas to DM against Romero, and
+probably a few other of us as well).  As soon as the Mplayer competition
+is over, then a 2nd worldwide public release demo will go out.  The
+2nd demo will have some more of the cool stuff to be found in Daikatana
+than the Mplayer demo will, so it will be worth the wait.  Hope that 
+clears up some of the questions.
+
+On the work side...
+now that the demo is done, we are getting back to work
+on finishing up the episode 2 (Greece) maps.  Alot of work to be done,
+but we're all pretty excited to be working on something new after so much
+time spent working on the episode 1 maps, and the maps for the DM demo.
+Personally, I'm back to work on E2M1, making lotsa cool outdoor stuff and
+Greek ruins.  It's kinda fun to build some cool looking architecture and then 
+get to go back and tear it all down, or maybe I'm just weird. :)
+
+On a completely off-topic note...
+I enjoy stopping by Evil Avatar's site every once in a while.  His site is 
+always good for a laugh.  Got another hearty chuckle from his comment about me
+spending more time doing .plan updates and interviews than level designing.
+But just for fun, let's break it down...
+In 3 months I have done a grand total of *drum roll* 10 .plan updates, OH MY GOD!   
+That turns out to be a .plan update about every 9 days.  And considering a .plan 
+update takes about 5 minutes, I have wasted a grand total of 50 minutes of my spare 
+time doing .plan updates.  Jeez.
+And I have done 4 interviews (maybe 5?) in 3 months, which is 1.333 a month, and 
+considering interviews take about 10 minutes, I have wasted a grand total of 40 
+minutes of my spare time doing interviews, wow!
+So if we add it all up, I have spent 90 whole minutes of my spare time doing 
+things other than level design!  I better get my ass back in gear!
+Anyways, time for me to get back to doing more interviews! :)
+
+That's all for now kiddies!  Until next time...
+
+The KING has left the building...
+
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Feel free to email me anytime at: Bobby@ionstorm.com
+Or drop me an ICQ: 4852604
+
+Also, be sure to check out the upcoming commercial Quake 2
+total conversion "DAWN of DARKNESS" by Ward Six
+Entertainment (www.wardsix.com)  These guys are really 
+talented, and I can't wait to see the game when it's done.
+
+Oh, and BTW, everything expressed in this .plan file is, of course, my
+opinion and mine alone, not that of ION STORM.
+
+
+
+---------------------------------------------------------
+------------------ February 08, 1999 --------------------
+---------------------------------------------------------
+
+Been a while since I updated...
+
+Things are coming together for the Daikatana DM demo.  Both
+maps are completely finished, and in playtesting now.  DK DM
+is more of a fast-paced DM like in Doom2 and Quake, which is
+the kind of DM I prefer, especially if you get the Speed Boost.
+If you wanna see some shots of DK DM, if you haven't already,
+you can check them out at http://www.actionxtreme.com/daikatanadm/.
+Those shots are from "Storm Sector 7" (formerly known as
+"Storm Sector 2"), courtesy of yours truly.  The shots are without
+the fog turned on (doh!).  It looks alot cooler with fog. 
+
+I would say how badass DK DM is looking, and how much fun it is to
+play, but it seems that people in the community don't like for us
+to get excited about how the game is turning out, so I'll just let
+you wait and see for yourselves.
+
+That's all for now kiddies.  Until next time...
+
+The KING has left the building...
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Feel free to email me anytime at: Bobby@ionstorm.com
+Or drop me an ICQ: 4852604
+
+Also, be sure to check out the upcoming commercial Quake 2
+total conversion "DAWN of DARKNESS" by Ward Six
+Entertainment (www.wardsix.com)  These guys are really 
+talented, and I can't wait to see the game when it's done.
+
+---------------------------------------------------------
+------------------ January 22, 1999 --------------------
+---------------------------------------------------------
+
+Just saw the brand new Anachronox trailer, and all i can 
+say is "OH MY GOD!".  Talk about an amazing looking game!
+A huge congrats to Tom Hall and the rest of the incredible
+Anachronox team on an outstanding job so far.  Man, now I
+REALLY can't wait to play Anachronox.
+
+On the Daikatana work front, very close to having E1M5 wrapped
+up.  Down to adding cool details, effects, sounds, etc.  Should
+be able to have it done this weekend.
+
+Got an email from a guy at Purdue University asking me if
+they could use my Q2 DM map "Ad Mortem" for it.   Pretty cool.
+So if you're in/around the Purdue area, might wanna check it
+out.  The webpage with all the info is at 
+http://www.cs.purdue.edu/quakefest.
+
+That's all for now kiddies.  Until next time...
+
+The KING has left the building...
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Feel free to email me anytime at: Bobby@ionstorm.com
+Or drop me an ICQ: 4852604
+
+Also, be sure to check out the upcoming commercial Quake 2
+total conversion "DAWN of DARKNESS" by Ward Six
+Entertainment (www.wardsix.com)  These guys are really 
+talented, and I can't wait to see the game when it's done.
+
+
+
+
+
+---------------------------------------------------------
+------------------ January 16, 1999 --------------------
+---------------------------------------------------------
+
+Even before I got the job here at ION, I thought that the gaming
+community, and in particular, the gaming community web sites,
+were evolving more and more into one big gossip ring.  When
+the community first got started, you didn't see all the "news"
+posts, and editorials, and gossip about who's doing what to whom
+behind the scenes at Company X.  The community was more interested
+in making and playing cool games.  Nowadays, however, it seems that
+the gaming community is developing more and more into a political
+and economical warzone, where the only thing anyone cares about is
+how many "hits" their site is getting, or how many advertisers they
+can lure to their site, or who they can "tear down" for whatever
+personal vendetta they have.  It's disheartening to see what was once
+such a pure, fun-loving community degrading into something so 
+political.  I sincerely hope that the community can soon return to
+the way it was in its early form, where people's focus was on making
+and playing cool games and having a good time doing it.  
+
+On that note, I just wanna say "KUDOS" to the entire 
+PlanetQuake News staff.  Through all the recent anti-ION press, PQ is
+the only site where I have not seen a single news post, article, or 
+link on the PQ news page about any of it.  It's refreshing to see that 
+there is still a news site that is actually more interested in news 
+about games, rather than jumping on the bandwagon of posting gossip about
+a game company.
+
+As always, if you have any comments or responses to anything
+I have said here, you are more than welcome to voice them to me via email
+at bobby@ionstorm.com.  That's all for now kiddies.  Until next time...
+
+
+The KING has left the building...
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Feel free to email me anytime at: Bobby@ionstorm.com
+Or drop me an ICQ: 4852604
+
+Also, be sure to check out the upcoming commercial Quake 2
+total conversion "DAWN of DARKNESS" by Ward Six
+Entertainment (www.wardsix.com)  These guys are really 
+talented, and I can't wait to see the game when it's done.
+
+
+
+
+---------------------------------------------------------
+------------------ January 15, 1999 --------------------
+---------------------------------------------------------
+
+Hmm, been a little while since I updated this .plan thingy.
+Sorry bout that, but we been so busy churning away at getting
+all these maps done, that I haven't had time to barely even
+think, much less do .plan updates.  Speaking of work, I'm busy
+putting the finishing touches on E1M5, should have it wrapped
+up pretty soon.  Just want to say that Steve Rescoe did some
+awesome stuff on E1.  The architecture is nothing short of
+stunning, and the layout of the level is extremely intricate,
+wrapping the level back around and over itself so that you 
+recognize where you have been, and areas that you discover 
+later in the level.  My only complaint would be that he might
+not have been too concerned about r_speeds in a couple areas.
+Nothing a few hint brushes and some very minor architecture
+fixes couldn't knock down.  But overall, I think the E1 levels
+are some of the best levels I have seen yet. 
+
+For those of you who have been asking about the tutorial about
+making terrain using the "triangle method" that I promised to do,
+just want to let you guys know that I am working on it right now,
+and hope to have it done by this weekend.  As soon as it's done,
+I'll send it on over to Fishman at RUST, so he can post it for 
+everyone to see.
+
+I enjoyed the Daiaktana Cabana Chat last night.  I wanna say
+"Thanks" to all the people who came out and showed support, and 
+brought some great questions about Daikatana to the chat.  
+And, in case you haven't heard, we released a couple new screen-
+shots during the chat last night.  You can check them out over
+at www.stormtroopers.com.  The 2nd shot is some of the work
+in E2M1, from yours truly.  If you have any comments/suggestions
+about the shot, feel free to drop me a line and let me know what
+ya think.  I love to hear feedback from the community.  After all,
+you guys are the ones we are making the game for.
+
+Anyways, time to get back to some mappin'.  That's it for now
+kiddies.  Until next time...
+
+
+The KING has left the building...
+
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Feel free to email me anytime at: Bobby@ionstorm.com
+Or drop me an ICQ: 4852604
+
+Also, be sure to check out the upcoming commercial Quake 2
+total conversion "DAWN of DARKNESS" by Ward Six
+Entertainment (www.wardsix.com)  These guys are really 
+talented, and I can't wait to see the game when it's done.
+
+
+---------------------------------------------------------
+------------------ January 04, 1999 --------------------
+---------------------------------------------------------
+
+It never ceases to amaze me how spoiled SOME of the people
+who work in this industry are.  People complaining about
+work conditions, especially people who have worked here at
+Ion, is ridiculous.  Try a job in the "real world", where 
+you have to be in every day at 8 AM to a job that you hate,
+where you're underpaid and overworked, and have a boss who 
+doesn't give a flying f**k (pardon my french) whether you 
+work there another day or not, and then cry to me about how 
+"horrible" the working conditions are in the gaming biz.  
+Gimme a break.  Then you got those people who get let go from 
+their job, and instead of retaining some dignity and integrity, 
+they go crying to whomever will listen to them about how they 
+were "mistreated", and throw blatantly false accusations at 
+their former employers, in an effort to make themselves feel 
+a little better, like they got some sort of "revenge".  
+Gimme a break.  Be a man about it. People get fired everyday,
+even wrongly fired - it happens - get over it.  But you don't
+see Microsoft employees who get fired, running to all the news
+sites, slandering Bill Gates and Microsoft, crying about how
+they were "terribly mistreated".  My guess is most of these 
+cry babies are people who can't land a job elsewhere in the 
+biz, so they wanna point fingers at other people, trying to 
+make people believe it wasn't their fault they got fired, 
+in hopes that maybe someone will feel pity for them, and 
+hire them even though their work may not be good enough.  
+Pathetic.  Absolutely pathetic.  I'm curious to hear what 
+people in the community think about this subject?  If you 
+wanna share your opinion, feel free to drop me an email about 
+it.  I'd like to see what you guys out there have to say.
+
+Anyways, enough ranting from me.  It's a new year, and an 
+exciting one to be sure. LOTSA cool releases coming out in
+'99, 3 of 'em right here from Ion :)  On top of that you
+got Q3A, UT, Duke Forever, TF2, and a slew of other great
+games that I can't wait to see.  Oh yeah, don't forget to
+check out Dawn of Darkness, by Ward Six.  It's an add-on, but
+it's gonna rock!
+
+On a work-related note, everyone is back from the holidays.  
+Everyone is refreshed, excited, and ready to kick some serious
+booty on Daikatana.  And with Chris Klie now here to lead us 
+level designers down the home stretch, it should be a very 
+productive next couple months.  Got back to working on E2M1
+today, and have gotten to a point where the remainder of the
+level should progress pretty fast.  So I'm hoping to wrap this
+baby up soon, and get cracking on polishing up Matt Hooper's 
+awesome Epidose 3 (Dark Ages) maps.  Can't wait to get my hands
+on those babies :)
+
+That's it for now kiddies.  Until nest time...
+
+
+The KING has left the building...
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Feel free to email me anytime at: Bobby@ionstorm.com
+Or drop me an ICQ: 4852604
+
+Also, be sure to check out the upcoming commercial Quake 2
+total conversion "DAWN of DARKNESS" by Ward Six
+Entertainment (www.wardsix.com)  These guys are really 
+talented, and I can't wait to see the game when it's done.
+
+
+
+---------------------------------------------------------
+------------------ December 22, 1998 --------------------
+---------------------------------------------------------
+
+	Ugh.  "ERROR:  Floatplane: Bad Normal"  This error
+really sucks.  I have run into this little bugger too many
+times while editing.  It usually pops up when you're doing
+alot of clipping or carving, especially with odd-shaped
+brushes, like those you might be working with when making
+an outdoor area.  I have found that what usually happens is
+a brush is generated that is too thin to be visible (most of
+the time), thus you can't simply find it in the editor and 
+delete it, and bsp can't compile it.  So you're either
+stuck going through and rebuilding (hope you been saving your
+map in increments), or you can go through your map and highlight
+all the visible brushes, and then copy and paste them into 
+a new map.  But this can be an ENORMOUS pain when your map 
+starts getting large.  That's exactly what I had to do today,
+and my map is already over 1000 brushes, so you can imagine
+how much fun it was.  Unfortunately, Larry Herring, our local
+level-design error guru, wasn't here today to give me a quick-fix
+for this problem, if there even is one.  If any of you guys
+know an easier way to fix the "Floatplane: Bad Normal"  error,
+by all means share it with me.  Just because I work here doesn't
+mean I know everything there is to learn about level design.
+I'm still learning new things every day.
+
+	For those of you who have written asking for more
+details about the triangle method for making terrain that I
+mentioned in my .plan a few days ago, I am going to "try" to put 
+together a little tutorial type dealie over the holidays 
+explaining it more fully,  including pics so you can see exactly
+what I'm talking about.  It's really simple once you can see how
+to do it.  Once I have it finished, I'll prolly give it to Fishman
+so he can post it over at Rust for everyone to look at.
+
+Dunno if I'll get a chance to do any more .plan updates before 
+I leave for the holidays, so just in case, I hope everyone has a
+wonderful Christmas and a Happy (and safe) New Years.  Personally,
+I'm hoping to make it to New Orleans to watch my Texas A&M Aggies
+beat the hell outta Ohio State in the Sugar Bowl.  It'll be a tough
+game, but we managed to top Kansas State, so who knows.  Either way
+though, I'm sure New Years on Bourbon Street will be a blast.  Guess
+that's about it for now kiddies.  Until next time...
+
+
+
+The KING has left the building...
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Feel free to email me anytime at: Bobby@ionstorm.com
+Or drop me an ICQ: 4852604
+
+Also, be sure to check out the upcoming commercial Quake 2
+total conversion "DAWN of DARKNESS" by Ward Six
+Entertainment (www.wardsix.com)  These guys are really 
+talented, and I can't wait to see the game when it's done.
+
+
+
+
+---------------------------------------------------------
+------------------ December 19, 1998 --------------------
+---------------------------------------------------------
+
+	Triangles are cool.  Ever wonder how level 
+designers make the ground all uneven in an outdoor area,
+but still have it look smooth?  Triangles.  Lotsa triangles.
+The good thing about triangles is that you can vertex
+manipulate without screwing up a face.  If you try vertex
+manip with a rectangular brush, you can run into problems.
+And you can use them for more than just ground.  If you're
+building the interior of a cave or something, you can give
+the floor and the walls of the cave an uneven, but very
+natural look using triangles and vertex manipulating.  They
+just plain rock I tell you! (no pun intended)  I used to 
+hate doing outdoor areas, but with the simple techniques 
+I have picked up since I started working here, outdoor 
+areas are every bit as simple, if not more so, than indoors.
+
+	On a non-work related note...  Had to smack Romero
+down in Doom2 yet again tonight.  I thought about letting
+him win since he treated me and KC to Bennihana's for dinner
+(kick ass place to eat, BTW), but I just couldn't bring 
+myself to do it.  So I beat him down some on map 1, and 
+then he made the mistake of agreeing to play me on one of 
+my old DM wads.  Let's just say it wasn't pretty.  Then Joey
+wanted some of the action, so I handed him 3 beatings in a
+row.  The last game was a marathon - 700 frags on map 1.
+Definitely the longest DM I have ever played.
+
+	Lastly, for those of you who live in the Dallas
+area, I could use some help.  I am going to be looking to
+move here in the next couple months, and being new to the
+area, I could use some advice where to look.  I am currently
+in an apartment in Deep Ellum.  Real nice complex, but it's
+not the best of areas.  I'm looking for a decent apartment
+in a part of town where I wouldn't be afraid to walk around
+at night, preferrably under $600/month.  So if any of you 
+have any suggestions, send them my way.  That's it for now
+kiddies.  Until next time...
+
+
+
+The KING has left the building...
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Feel free to email me anytime at: Bobby@ionstorm.com
+Or drop me an ICQ: 4852604
+
+Also, be sure to check out the upcoming commercial Quake 2
+total conversion "DAWN of DARKNESS" by Ward Six
+Entertainment (www.wardsi

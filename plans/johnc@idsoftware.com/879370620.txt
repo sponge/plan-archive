@@ -1,0 +1,379 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 11/12/1997 17:33:47 (Central Standard Time)
+-------------------------------------------------------------------------------
+nov 1
+-----
+* interpolate prediction error
+* fixed farthest respawn
+* removed backspeed
+* no pickup weapons when dead!
+* multiple crosshair pics
+* fixed dropping items in wall
+* disabled auto weapon switching in deathmatch
+* respawn_time
+* mroe precaches
+* removed doubles
+
++ pitch around bug
++ ping calculation
++ are demos broken with prediction?
++ no footsteps if moving slow?
++ kill self command
++ no toss weapons in wall
++ footstep doubletap
++ clear gib flag on respawn
++ faster weapon deop times
+
+precache talk wav
+qbsp: MAX_MAP_AREAS when leaking?
+flies effect on hyperblaster???
+no slide under staircase
+make blaster bolt move faster
+BECOME_FLASH effect?
+make dedicated server sleep
+connect to other server while playing bug
+bit code net messages?
+win95 joining
+changeweapon work better when out of ammo
+pop in maps?
+highlighted numbers
+sort image_t lists?
+switching rules
+brain effect
+monsters source shots before testing line of sight 
+secret doors
+obituaries from monsters
+warp gate effect
+teleporter effect
+increase max switched lights
+max lightstyles bug
+shorter wav latency
+beep beep on pc icon
+blood jets from pain skins
+gibs shoot up out of lava
+savegame in water bug
+font outlines not sharp in gl
+weapons vanishing on toss?
+longer pause after death before respawn
+temp invulnerability after respawn?
+telefrag not always working?
+step up in water?
+clear powerups on death
+don't hold a grenade when none left
+l_health item precache?
+
+
+nov 2
+-----
+* fixed pitch clamping
+* Com_PageInMemory
+* fixed menu cursor time
+* net connect when playing bug
+* custom skins
+* fixed server update without game update bug
+
++ bump version numbers
++ don't go to half console until connected
++ delay before firing bfg
++ stairup allows wall climbing now
++ previous frame issues
++ don't copy all of frame.packetentities
+
+no server pause in dm
+normalize skin texture coords for software
+splashing sound when swimming in water
+ipx
+software underwater surfaces
+nopredict option at server
+scroll inventory
+smooth step up
+remove rand1k
+fire func_explosive targets when starting in deathmatch
+
+
+nov 3
+-----
+* fixed divide by zero in kickback
+* fixed overflow
+* fixed walkmap up slopes
+* bumped versions
+* grabbed all cinematics
+* fixed abort intro issues
+* kill command
+* fixed server status command
+* more weapon precaches
+* noexit by default
+* autoremove some stuff in deathmatch
+* make game initialization like -- sound --
+* pumped message loop during caching
+* client persistant data
+
++ no drop weapons without ammo
++ no footsteps when walking
++ saved across kills
++ saved across levels in single player
++ client levelstate
++ clear client times on level change
++ shouldn't be dumping unreliable messages
++ palette changes on cinematic
+
+laod game should throw loading plaque immediately
+not pausing when menu is up!
+"don't need" sound for no pickup?
+min_intermission cvar?
+run key should be a toggle
+dropped items respawn
+auto use items
+powerup sounds
+print sound precache pacifiers
+sendkeyevents during loading?
+better pingservers
+alias models are lit outside ofdlight ball
+sv_shownet
+"killed by" icon on scores?
+don't allow dedicated without deathmatch
+map transitions, but gamemap doesn't?
+intermission spots with deathmatch
+blinking health indicator
+blinking computer indicator
+move swapbuffers and add flush to glquake?
+chaingun sounds off on NT?
+test ping on serial port to serial port connection on win95
+console prog commands
+lower the scoreboard readout so you can read the obituary bessage
+
+nov 4
+-----
+* allowed bad sky textures
+* cinematic tweaks in gl
+* high res skins
+* fixed duck speed issues
+
++ names are messed up
++ not disconnecting cleanly?
++ cinematic GL wrapping problem
++ cinematic quality issues
++ cinematic sound
++ cinematic end frame marker
++ switch sound to high quality for cinematic
++ is idlog aborting early on menu?
++ dropping items makes them respawn in deathmatch
++ crouch strafe is faster than forward
++ sink in plats bug
++ lower paused icon on screen
++ min firing ammo for dropping weapons
++ spawn explosions with a random yaw
+
+gun puff animations wrong?
+no status bar during intermission
+sv_showcmds
+are sky images freed properly?
+wading sound
+use 16 to 8 table is ref_soft for tga loading?
+savegame off pak file
+demo file parsing from pak?
+check replace alpha value for mcd hack
+screen update timer for software opengl?
+instant items
+item sounds
+include texture source size in texinfo so other scaled versions can be made?
+are cinematics using color 0?
+send pak checksum to server?
+fix dedicated_start
+print dm rules on connect?
+blink f1 and play sound
+skill values!
+loadgame from console
+input based demos for profiling
+
+
+nov 5
+-----
+* fixed sink into plat bug
+* fixed scoreboard display between deathmatch levels
+* seperated game dll definitions
+
++ clamp low cin times
+
+clear angles on loadgame
+check client entering during intermission
+seperate headers for monsters and players
+
+
+nov 6
+-----
+* s_testsound 1
+* fixed streaming sound on 95
+* streaming sound at full volume
+* removed multiply from mixing
+* khz change for cinematics
+* blaster precaches
+* fixed cinematic from pak streaming
+* don't use primary sound buffer option
+
++ precache blaster
++ dropped grenades on death shouldn't respawn there...
+
+set hostname by ip hostname
+timegraph not right
+rename map to start
+check entire game without asm code
+no mouse cursor when fullscreen
+die with grenades needs to stop ticking sound
+high quality sound directories
+
+
+nov 7
+-----
+* flag reorg
+* teleporters
+* put holdangles into pmove.pm_type
+
++ pm.touchents holds duplicates
++ damage anything flag
++ precache chat sound
++ teleporters at player spawn points
++ remove rocket fragments in dm
+
+rename entity_t to rentity_t ?
+teleport sequence bit to make ef_teleport reliable?
+turn any event into a temp entity? (with or without angles)
+	unify sound starting as temp entities?
+is time being over quantized by timegettime?
+order events by priority
+login / logout as events?
+all sound channels as extra events?
+
+trinity: objects should have enabler inputs as well as multiple
+	impulse targets
+
+
+nov 8
+-----
+* make random respawn option default and work
+* don't drop empty weapons
+* teleport angles
+* teleporters at player spawn points
+* fixed telefrag self on respawn
+* fixed userinfo on initial entering
+* precache land sounds
+* don't change console height until connection packet
+* a disconnecting client shouldn't generate a badread
+* remove rocket fragments in dm
+* damage anything flag
+* don't call duplicated pm.touchents
+* client parse entities array
+* no weapon toss in single player
+
+sound dies after several hours?
+scoreboard faces
+show killed by face on scoreboard
+deal with old_origin properly
+delay cdtrack play until connected
+can't escape out of loadgame menu when dead?
+
+nov 9
+-----
+* no client pmove at all with prediction off
+* railgun crashes
+* fixed rub stuck bug
+
++ gravity in pmove
++ control config is messed up
++ seperate client event processing from parsing
++ are baselines not working right?
+
+make-item-selected command
+notched look up / down commands
+keyboard look
+map name is messed up on start server
+deathmatch character weapons
+unify uses of ent / client / etc in source?
+no player actions when paused
+check incoming_acknowledged for pings
+master servers
+dm respawn isn't clearing pitch?
+teamed teleport destinations
+teleport angles
+# form for kicking players
+make showinventory a stat bit, like layout
+unify all data file references for easy downloading?
+	how to handle different quality versions?
+if crushed in dm, respawned outszide world?
+shadows
+rename entity_t->flags to renderfx
+checksum client to server messages
+smooth out step up
+does spectator work?
+trinity: coarse radiosity source lattice for dynamic lights?
+oldorigin issues
+	replace with a previous state send?
+
+nov 10
+------
+* qe4 bad class parse bug
+* grenade bounce generates two sounds
+* playerstate delta
+* qdata variable sound rates
+
+check the replace mode alpha bug
+replace all muzzle flashes with events
+lower railgun
+
+
+nov 11
+------
+* cinematic playback at variable sound rates
+* qdata multiple video in single file fix
+* only one token huffman bug
+* demowaiting
+* allowed individual reliable overflows
+* make all clients invisible at intermission point
+* mask high bits in client_t->name
+* full delta compression
+
+don't show paused plaque in dm
+check all serverinfo flags (skill, nomonsters)
+crunch the scoreboard data a lot
+dedicated net thread
+random-not-nearest option
+"public" variable
+check the "using previous_origin" notes
+echo chats to console?
+weapon icon when hand is centered
+game skills
+better console keyboard editing
+are demos broken with current delta compression?
+should client string commands be ties to usercmd_t, to fix drops?
+why is ref_gl.dll as large as it is?
+allow round up and >256 textures on gl
+mouse during cin
+echo chats to console
+is the dedicated server sleeping?
+get mins/maxs from pmove
+
+warn at startup if any spawn point is in a wall
+make teleport pads glow?
+never make water solid for entity cull purposes?
+get sound position needs to check the valid count on entities
+make secondary sound buffers the default?
+
+pak file sorting by traces?
+no colored lighting with mono lightmaps!!!
+
+option to make picking up items not select
+
+change stretch-raw to a dedicated full screen blit for better performance?
+
+bsp to do:
+=========
+robustness
+water problems
+increase MAX_MAP_ENTSTRNG
+allow any number of light styles
+MAX_MAP_AREAS when leaking?

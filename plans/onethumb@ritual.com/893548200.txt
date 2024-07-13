@@ -1,0 +1,258 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: onethumb
+Plan modified: Sat Apr 25 20:34:10 1998
+
+
+Name:  Don MacAskill         
+Email:  onethumb@ritual.com
+Occupation:  Jedi Master
+
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************       
+
+
+
+- 4/25/98 8:30 pm -
+
+-[ Redwood the p1mp daddy ]-
+
+Redwood's staying with me for the weekend and he got a big taste of Sin today
+while he was hanging at the offices...
+
+Little did we know that he's a closet Sin deathmatch champion...  On his first
+game of Sin, he smacked Langsuyar, giggler, and myself down...  and we make
+the freaking game!   :)
+
+Anyway, we're heading out to eat some Thai and have some fun, so don't expect
+any Redwood news updates until Monday or so.  :)
+
+-[ SMACK!  POW! ]-
+
+Another JoeSke beatdown!!  Poor guy tried to step up in Starcraft...  I replayed
+a scene from Starship Troopers for him in the game.... my Zerg horde overran
+his puny Terran encampment (I cannot call it a base with a clear conscience)
+and went on to win the day....
+
+Maybe he'll come crawling back when his bruises and welts have healed a bit...
+
+
+- 4/24/98 2:01 pm -
+
+-[ More DIVX stuff ]-
+
+Check out www.bandivx.com for more DIVX info.
+
+Support Open DVD!!!
+
+HTMLized click here
+
+
+-[ Strange or what? ]-
+
+Check this out:
+
+http://www.cnn.com/WORLD/europe/9804/21/electric.girl/
+
+HTMLized
+
+
+-[ Why no HTML? ]-
+
+Some people have asked me why I don't use pretty colors or why I always double-
+up my links to other places (non-HTML and an HTML version)...  It's because
+I *hate* plans that use HTML...  I refuse to read them.
+
+I read plans from a command prompt on a unix box most of the time, or a 
+text email others...  I don't want to decipher all that garbage with headers
+and whatnot that makes it impossible to get to what I want to read...  To
+me, a .plan file is a method of dispersing information... The most effective
+way to do so is to type up some text... it's fast, simple, easy to digest...
+and you don't alienate one half of the plan readers or the other.  
+
+This .plan will always be text-friendly.
+
+
+-[ Words of Wisdom from a Jedi Master ]-
+
+Sometimes free stuff sucks.
+
+
+
+- 4/23/98 4:29 pm -
+
+-[ The 'lord is laid low ]-
+
+It's amazing how people can get crazy ideas into their heads... like our
+very own levelord, thinking he's a demigod.  Needless to say, a Jedi Master
+such as myself has a much better handle on things....  
+
+Poor levelord found Norton's wonderful page (www.deathmatch.org) and woefully
+commented in his plan file about how he really missed seeing a certain
+HIPDM1 strategy page.  
+
+Being so in-tune with the Force, I knew instantly that our levelord had 
+missed a crucial link on Norton's front page... a link that lead straight 
+to Norton's own HIPDM1 strategy guide, the very guide levelord had been
+searching for.  
+
+demigod indeed.  :)
+
+
+- 4/23/98 4:04 pm -
+
+-[ Computer Literacy mentioned in New York Times ]-
+
+Shameless plug or something, but my parents own Computer Literacy Books+Online,
+and they just got a quick blurb in the NY Times (this isn't the first, but
+it's the most recent)...  
+
+If you are interested in computer or technical books, this is the place to 
+shop for them.  Fast, simple, easy, great selection and great service (yes,
+I'm biased :)
+
+http://www.nytimes.com/library/tech/yr/mo/circuits/library/23life.html
+
+For you HTMLized folks
+
+http://www.clbooks.com/
+
+The bookstore itself
+
+
+- 4/23/98 11:00 am - 
+
+-[ Quake2 Problem continued ]-
+
+Wow!  I got literally flooded with responses...  Not too many were helpful,
+but tons and tons of people seem to have these same problems. 
+
+Now, a lot of people emailed me about m_filter in GLQuake (got lots of email
+from people upset that m_filter doesn't seem to work in Quake2), which I was
+aware of.  I had tried it in Quake2, and it didn't make a bit of difference.
+However, I popped into GLQuake, turned m_filter on, and boom!  Almost like
+glass.  Very nice..  
+
+...However!  I just talked to Mark and Gary and they let me know that that 
+is not a fix...  It simply lags the game for about a half-frame while the
+game averages the last mouse input with the current mouse input.  Bleh.  I 
+don't know about you, but lagging the game sucks.  
+
+So, the quest goes on.  Gary and Mark have a few ideas, I'll be sure to keep
+everyone posted...  but I'm glad to see that it's not just me being stupid...
+
+:)
+
+
+-[ Sin on Linux?  BeOS? ]- 
+
+I've had a lot of people ask me online about Linux Sin, and a handful ask me
+about BeOS Sin...  I think it's pretty safe to say that we'd love to see Sin
+on as many platforms as we can, especially one as wide-spread and stable as
+Linux, however, we simply don't have the time to port Sin and maintain it on
+a lot of different platforms.  
+
+However, I seem to remember a certain CTF author stepping in and helping id
+maintain their Unix ports in the not-so-distant past.  If there were interested
+people who wanted to take the time to port and maintain for other platforms,
+drop me a line.  Ideally, it would be someone who lives in or around Dallas,
+I'm thinking, but who knows?
+
+Now, I'm not promising that such a thing will occur, but we're certainly not
+adverse to such a situation...  We want to get as much Sin out there as we can!
+
+
+- 4/22/98 6:32 pm -
+
+-[ More Quake2 problem ]-
+
+Hmm, been going over different theories with Jack Mathews of 3Dfx and 
+Gary McTaggart, UberProgrammer at Ritual, and I think we can safely rule out
+Voodoo/Voodoo2 as the culprit.
+
+It appears to be solely input related...  It exists in GLQuake and Quake2, 
+though it is not as bad in GLQuake for some reason, probably because the input
+stuff was done differently, I'm guessing.
+
+NT Quake2 works fine, totally smooth.  Win95 seems to be h0rked though.  
+Gary reports that using an Assasin3D rather than a mouse fixed the problem
+in Win95 for awhile when he used one, and that NT works great.  (Which, indeed,
+it does :)
+
+I'm probably going to try nuking my Logitech drivers to see if they are the
+problem, but knowing Microsoft, it's probably somethign inherent to Win95.
+
+*sigh*
+
+Anyway, if anyone else has any suggestions, comments, success stories, or 
+whatnot, still drop me a line...  I'm very interested to figure out how
+to resolve this in Win95.
+
+
+- 4/22/98 5:51 pm -
+
+-[ Weird Quake2 problem ]-
+
+Have a strange Quake2 problem on my Voodoo2 card...  When I use my mouse
+to spin around, it spins very smoothly, and very fast.  This is a Good 
+Thing(tm).  However, as soon as I try to stafe and turn at the same time,
+it starts to get jerky... Even though framerates may be as high as 70fps,
+I'm still getting jerky turning...  It really *really* sucks.  
+
+It's not a swapinterval problem or anything, I've played with all the known
+variables both environmental and in the game.  I'm afraid it might be 
+something terribly stupid, but I can't figure it out.
+
+It's almost definitely something with the Voodoo2 card or something with 
+my mouse drivers or something input related.  So of course, I fiddled with
+my mouse drivers and all that, but to no avail.  
+
+I'm stumped.
+
+If anyone else has seen this or, better yet, knows the solution to my 
+problem, please drop me a line.
+
+Thanks!
+
+
+- 4/22/98 4:54 pm -
+
+-[ Tom's Birthday! ]-
+
+Guess who's birthday it is today?  That's right, Paradox has aged one more 
+year (ok, one more day, but it sure feels like a year, doesn't it Tom? :)
+
+I'm sure he'd love some fan mail wishing him a wonderful day, so fire up
+those email clients....  :)
+
+
+
+- 4/22/98 10:51 am -
+
+
+-[ Format Change ]-
+
+Thought I'd try a little bit of a format change that's easier to read in 
+web browsers...  I'll still keep my lines to 80 chars or less for those of
+you reading my plans in "real" finger clients...
+
+
+-[ Finger Server Fixed ]-
+
+Anyway, I think we've fixed the problem with our finger server...  Cross your
+fingers...  
+
+
+
+-----------------------
+All kinda good stuff...
+-----------------------
+
+ o  First and foremost, DOOM fans should rejoice to hear that you can indeed
+    purchase Hell To Pay and Perditions Gate, two 32-level DOOM add-ons done
+    by some 

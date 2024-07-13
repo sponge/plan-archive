@@ -1,0 +1,50 @@
+
+ -----------------------------------------------------------------------------
+   **> Welcome to Remedy's finger system, unknown@stats.criticalmass.com <**
+Username: petri                     In real life: Petri Jarvilehto      
+
+This user has no mail.
+Last seen Thu Jan 01 02:00 AM (EET)
+
+Plan:
+Spent the whole day working on video footage for Max and enemy movement. The motion acting was done with assistance from Fudoshin Daito ryu Ju-jutsu  and I'm pretty excited to see what Skaven can do with that material. We should be seeing some pretty amazing animations in the near future. Also, got some cool dodge and death actions too :-) And hey, we're _not_ going to stray into any virtua fighter moves though, it's just that the Fudoshin guys definitely know how to move, so they turned out to be great motion actors ;)
+
+Been playing Riven now (yeah, turn off all the lights, and volume all the way up) and it's _absolutely_ amazing. even though I'm not that big a friend of puzzle games, the graphics are so unbelievable and the soundscape so convincing that I find myself drawn back to Riven every evening. Wouldn't have guessed that a game that's basically a slideshow with some inbetween animations could be so immersive. 
+
+Cheers,
+
+Petri
+
+[ Tue Nov 25 16:11:47 1997 ]
+
+Just noticed an article on Max Payne in the latest PC Format. The article (while otherwise accurate) says that the game is due in early '98. This info isn't true. The official release date for Max is 'When it's done'.
+
+Sure we're targetting to a '98 release, but if we come up with cool new ideas that we want to try out or decide that in order to be a killer title, the game needs a couple more levels/monsters/guns, the development will take longer.
+
+I know delaying the game is something that most of the gamers out there might not appreciate, but it is the only way to ensure that you'll get a game that's as good as humanly possible :-)
+
+Cheers,
+
+Petri 
+
+[ Tue Nov 25 10:13:27 1997 ]
+
+Whoah, we just finished Max milestone 6, and the whole team is now getting focused on MS 7, which we're really looking forward to. 
+
+The big improvements on MS 6 we're mostly stuff that had to do with game functionality and tools (such as collisions and fixing the level editor UI etc.) but we did manage to throw in some nifty special effects. The collisions are not done yet, but the basic functionality is there, so we can now run around in the levels
+
+we create with the Editor. Everyone in the team was excited as we compared the 6th milestone to the previous one. When you put those two side by side, the improvement has been huge... kinda hard to believe that it was only 2 months in between :-)
+
+Anyways, we're now concentrating on Milestone 7 which should get us a long way forward once more,  Jaakko's starting on the lighting and we'll have some neat particle stuff done too. We're also targeting to add a huge chunk of game functionality too, but more about that later.
+
+Cheers,
+
+Petri
+Project:
+This user has no project.
+
+PGP Public Key:
+This user has no PGP public key.
+ -----------------------------------------------------------------------------
+	
+    

@@ -1,0 +1,38 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: James Monroe
+Email: jmonroe@mail.ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: James' Web Site
+Last Updated: 10/02/2000 11:30:04 (Central Standard Time)
+-------------------------------------------------------------------------------
+i have release the Game Development Kit for elite force.
+The SDK (game code for HoloMatch) will be released sometime in the future after we release the patch.
+
+installer package includes:
+
+efRadiant = map editor (based on q3radiant with extra features)
+plus support files (shaderlist.txt, shaders)
+q3map	= map compiler
+bspc	= bot navigation compiler
+4 sample maps:
+	borg1.map
+	voy1.map
+	voy3.map
+	ctf_kln1.map
+mapextras.pk3 = extra md3s and textures for the editor
+SP_entities.def = definition file for entities
+HM_entities-def.txt = holomatch entites, 
+	if you want to edit holomatch maps instead then you must rename to HM_entities.def
+	and rename SP_entities.def to SP_entities.txt
+
+behaved = scripting editor
+plus support definition files (behaved.bhc, headers)
+ibize	= script compiler
+real_scripts.zip = archive of all scripts used in game
+icarus_manual.doc = a guideline for scripting with icarus.  living document.
+
+shadered = shader editor
+md3View = md3 and mdr viewer

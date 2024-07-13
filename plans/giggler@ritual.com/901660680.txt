@@ -1,0 +1,36 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: giggler
+Plan modified: Tue Jul 28 18:16:24 1998
+
+You've reached Mike Wardwell @ Ritual Entertainment, Inc.
+
+The Sin demo is out and so far no one has publicly ridiculed me for my crappy 
+level design, so I think I just might get out of this unscathed.  Some of my 
+finer work in the bank and intro levels never made it into the demo due to 
+"speed issues".  Rather than beating my fists against the wall, I thought I'd 
+post a couple of screen shots showing my work in the bank and intro before it 
+was subject to company-wide opinion. :-)  I know quite a few people have 
+interest in what takes place here at the Ritual offices, so here is a taste 
+of that from a level designer's point of view.
+
+The first is of the Intro level, which actually went through 4 major revisions.  
+This is what the Intro looked like at the end of its second revision.  In 
+revisions 1 and 2, I had the helicopter path circling the bank rather than just 
+strafing back and forth in front of one side of it.  R_speeds were 500-800 at 
+this point, plus there was a lot of overdraw taking place.  Much was sacrificed 
+in terms of atmosphere and gameplay to save a few polys.
+
+
+
+The bank never went through such drastic revisions as the Intro, but there were 
+a few key areas that lost their edge when they were simplified for better 
+framerate.  This room, still recognizable in the demo due to the 4 large
+pillars, went from my signature bank room, to one that I refuse to look at. :-)
+
+
+
+Mike Wardwell
+giggler@ritual.com
+mike@cyberathlete.com

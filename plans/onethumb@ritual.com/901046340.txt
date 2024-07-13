@@ -1,0 +1,148 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: onethumb
+Plan modified: Tue Jul 21 14:50:04 1998
+
+
+Name:  Don MacAskill         
+Email:  onethumb@ritual.com
+Occupation:  Jedi Master
+
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************       
+
+
+
+- 7/21/98 2:45pm -
+
+-[ Spontaneous CPL Lunch Thing ]-
+
+Oh a whim, I've decided to see if I can create, totally last minute, a fun,
+boisterous gathering of Quake fiends and fanatics for lunch this Friday
+at Planet Hollywood.
+
+For those who don't know, the event formerly-known-as-QuakeCon is happening
+this weekend, and so lots of Quake fans will be in town.  
+
+Planet Hollywood is about 2 miles (maybe less?) from the Infomart, near
+Downtown Dallas.  It's a fun place, and some of you may remember the huge
+gathering we managed at E3 last year in Atlanta.
+
+Well, I want to do it again.  Almost-totally spontaneously, even.  I'm very
+busy at work with the Sin demo, but I do have to eat and this may be my only
+chance to really hang out with everyone from CPL.
+
+So, noonish at Planet Hollywood (near McKinney and North Lamar, in the West
+End Marketplace), be there.  I can't give rides or anything like that, so
+if you want to come, you have to get there on your own.  
+
+Oh yes, and if you're coming, email me and let me know how many people I
+should make reservations for.  
+
+Wonder if this'll even work?  Wonder if I can convince any other Ritual folks
+to come?  Oh well, guess we'll find out.
+
+email:  onethumb@ritual.com
+
+Email me
+
+
+
+- 7/18/98 6:35pm -
+
+-[ Sound Cards Part Two ]-
+
+One on-the-ball reader of my .plan file sent in a link to an $89 Turtle 
+Beach Montego A3D!!  That's a total steal, since it's already at least
+as good (and I'm guessing better than) Creative Lab's new SoundBlaster
+Live! card.   Thanks Brad!!
+
+(It even says it has a "S/PDIF expander port" but that sounds like
+I have to plug something in to get S/PDIF... I'll do a little more
+digging.. S/PDIF stands for Sony/Phillips Digital InterFace, BTW.
+It means I can run pure digital to my receiver.  Yummy.)
+
+Update 6:49pm :  Just checked my Montego, there is indeed a "jack" for adding
+on a S/PDIF card.  No idea how I get one, anyone from Turtle Beach reading
+this?  I *really* want one of those.  It makes the card absolutely perfect.
+
+Update (con't): Also, just discovered that the signal-to-noise ratio is 
+better than 92dB (A weighted).  Yum.
+
+
+I apologize in advance for the long URL, but I thought folks might be
+interested...
+
+http://necxdirect.necx.com:8002/cgi-bin/auth/ifilelnk_q?nonce=guest_pscn&refer=pscn&key=0000124172
+
+$89 Montego A3D!
+
+Also had some people ask me if the Diamond MonsterSound (and M80) cards 
+are the same thing.  The answer is no.  Those boards are actually
+DSPs running A3D 1.0.  The new cards actually have Aureal hardware,
+capable of A3D 2.0 and lots more features in hardware.  They rule 
+over anything I've heard announced from any other card-makers, and
+they're available now.  There is a reason Dell and Compaq are
+including them with lots of their new computers - they're cheap
+and they rock.
+
+For more information, you might want to check A3D's website... They're
+very open with information about the cards, who's supporting them, and
+developement info.  
+
+http://www.a3d.com/
+
+A3D's website
+
+
+
+
+- 7/18/98 4:26pm -
+
+-[ Sound Cards ]-
+
+I've seen some recent news posts on web pages about the new Creative Labs 
+cards, and thought I'd share my 2 cents.  As most people who read this 
+plan are no doubt aware, I'm very into audio quality, especially when it
+comes to surround and multi-channel formats.
+
+Having said that, I have to tout the ultimate in PC audio - the new Aureal A3D
+Vortex chipset boards.  I have 3 of them for testing and profiling, and
+I just love them.  Aureal has done an amazing job, and they remain at least
+one step ahead of Creative.  
+
+The Turtle Beach Montego is the most readily available A3D Vortex board, and
+it lists for $129.  I'm fairly sure you could find it cheaper, perhaps even
+at the $99 price point, but this is a total steal...  It's a PCI audio card
+(can you say 2-3fps more in Quake/Quake2?  I thought you could) that maintains
+compatibility with real-mode DOS apps (DOOM, baybee!!), it does 64-voice 
+wavetable (and stores the samples in system RAM rather than expensive on-board
+RAM), and it's crystal clear.  I'm not sure what their signal-to-noise ratio
+is, but it certainly sounds better even than the AWE64 Gold.  
+
+But the best part about it is the incredible 3D sound features.  Aureal's
+positional audio is spectacular, and it's available right now.  
+
+Jedi Knight and Unreal literally come alive with gunfire and sounds coming from
+behind, caves in Unreal echoing eerily, and a myriad of other ultra-immersive
+effects.  It's stunning what the difference sounds like.  And there are many
+other games both available now and in the works that are equally stunning. 
+
+I have to wonder why it's taken Creative so long to get with the program.  With
+their Soundblaster line, they've led the PC audio pack for the last few years,
+but they seem to have missed the boat with PCI audio cards and positional
+audio.
+
+Oh, yes, it's also awesome to see Aureal so eager and anxious to help 
+developers get support in their games...  They remind me a lot of 3Dfx in that
+regard.  We need more companies like this.
+
+If only I could get my hands on a Vortex board with a S/PDIF output, I would
+be one more step closer to aural heaven....
+
+

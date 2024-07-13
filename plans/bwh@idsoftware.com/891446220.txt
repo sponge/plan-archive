@@ -1,0 +1,45 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 3
+Last Updated: 04/01/1998 11:51:31 (Central Standard Time)
+-------------------------------------------------------------------------------
+
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+
+April 1, 1998
+-------------
+
+Someone asked me about the RIVA 128 and 128ZX and the RIVA TNT and how well
+they would work with Quake 3.  Since Quake 3 doesn't exist yet we can't give
+a definitive answer, however I can say that we are aware of the RIVA 128's
+upside (high performance, lots of sales) and downside (various technical 
+deficiencies).  John mentioned in an earlier plan update that the RIVA will 
+definitely be a target accelerator, although it will clearly not be a
+top tier accelerator for Quake 3.  RIVA 128's are fast and extremely popular
+because of their price/performance, and so we're definitely going to have to
+take that market seriously.  Unfortunately, it will be pretty onerous dealing
+with some of that hardware's, er, idiosyncracies.
+
+The Nvidia TNT, on the other hand, could quite possibly be the nearly 
+perfect Quake 3 accelerator, ASSUMING that it lives up to its billed
+performance, doesn't miss any vital features, and ships on time with a good
+OpenGL driver. If all that works out, the TNT would be the one to beat, but 
+since we've only seen paper specs and hype so far, I'm understandably reluctant
+to bill it as the ultimate Quake 3 accelerator.
+
+So in short: the RIVA128 will run Quake 3, but probably with lower performance
+and diminished image quality than most people will desire.  The TNT _should_
+be a great Quake 3 accelerator, but until it's shipping with drivers we won't
+know for sure.  There have been many theoretically great accelerators that 
+looked awesome on paper but failed to deliver in practice, so I'm quite a bit
+leery of recommending or even being enthusiastic about something that I haven't
+personally flogged.

@@ -1,0 +1,33 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Marcus Whitlock
+Email: mwhitlock@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 02/11/1999 10:37:40 (Central Standard Time)
+-------------------------------------------------------------------------------
+02/11/99
+--------
+
+The Heretic2 enhancement pack nears release and my work there is pretty much done, bar any last minute calls for tweaks or fixes for bugs found by QA. So I've moved onto Soldier Of Fortune for the time being. I spent the last few days working on some camera related stuff for what is shaping up to be a sharp looking game.
+
+02/01/99
+--------
+
+More late night bug-fixing... spent 2 days tracking down one of those very hard to find network bugs that's been knocking around for ages... we'll see if it's fixed when we net-test again :). Time to play some Quake2...
+
+01/26/99
+--------
+
+Whew - no updates since before I went back to England for Christmas hols! Just read Thresh's review of Heretic2.... 4.5 outa 5! Goto:
+
+ http://www.firingsquad.com/games/heretic2/default.asp 
+
+Now that's is the kind of 'word of mouth' that we need. Pulling a bit of a late one tonight to get stuff ready for the enhancement pack beta test. Still one or two client-prediction issues that I'm finishing up with.
+
+
+Marcus Whitlock, aka Scorpio.
+
+HereticII Programmer / Brit guy - Raven Software Corp.
+
+http://www.gunhed.demon.co.uk/home.htm

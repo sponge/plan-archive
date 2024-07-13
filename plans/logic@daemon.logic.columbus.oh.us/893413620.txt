@@ -1,0 +1,10 @@
+Login: logic          			Name: 
+Directory: /home/logic              	Shell: /bin/bash
+On since Fri Apr 24 07:48 (EDT) on ttyp1 from quakestation
+   6 minutes 34 seconds idle
+     (messages off)
+On since Fri Apr 24 08:20 (EDT) on ttyp3 from quakestation
+   5 minutes 47 seconds idle
+Mail last read Fri Apr 24 08:25 1998 (EDT)
+Plan:
+check

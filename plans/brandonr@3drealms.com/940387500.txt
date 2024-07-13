@@ -1,0 +1,96 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+On since Wed Oct 20 00:46 (EDT) on ttyp2 from 216.27.43.214
+   5 minutes 32 seconds idle
+Mail forwarded to brandon@epicgames.com
+Mail last read Tue Oct 19 04:00 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Tuesday, October 19, 1999
+
+The new linux server and the linux client will be available real soon.
+Any time now.  A god damn string processing crash popped up at the
+last fragging minute in code that worked before in a really obscure
+condition that happens when you connect to a server and its really
+pissing me off.  But it'll be ready soon :)
+
+--
+Perhaps that's a little harsh.  I know where the dude is coming
+from, I just don't really care enough to spell check my .plan.
+Maybe people think I'm a total idiot for the things I say in
+my .plan and they way I spell them, but I just don't really care
+about that either.
+--
+Some dude emailed me to point out that using "irregardless"
+is not a word.  In fact, I often make typos because I
+am a mediocre speller.  However, I believe that a person of 
+average intelligence and normal mental faculty is able to 
+derive meaning from my scrawlings here.  I make my .plan
+updates for interested gamers, not English professors.
+So anyone who wants to complain about my lack of mastery over 
+the English language can bite me.  No offense to gamers who
+might also be English professors, of course. ;-)
+--
+
+I wonder how FamilyPC can get off calling it a "typo."  A typo
+is a mistake in printed matter resulting from mechanical
+failure of some kind.  Irregardless if the element in question
+was not intended for printing, someone WROTE it.  Someone put
+those words in that particular order and then submited it.
+Some editor somewhere okayed it.  I do not consider this to be a
+typo.
+
+Anyway.  Found another cool death metal band.  "Enthroned."  Picked
+up their '97 album "Towards the Skullthrone of Satan."
+
+Linux Client News!
+
+I've adapted the Loki Entertainment installer to UT.  I changed some
+features I didn't like and added a couple others.  I don't know
+gtk+ very well, so I'm not straying very far.  It only took me
+about five minutes to get the basic installer up and running.  MegaHuge
+dittos to Loki for sharing this cool bit o' software with the rest
+of us.
+
+I've also done lots and lots of fixes to the Linux client. And guess what?
+Are you guessing?  UT for Linux will be on the retail CD.  The installer
+will be on the first CD's root directory with a nice fat README
+on how to get it working.
+
+Linux ngStats and ngWorldStats are working.  I found out that my audio
+volume issues were not a problem with my code, but due to the fact
+that my default mixer setting was 100% master volume.
+
+I toasted my Win2000 drives and converted them to Linux filesystems and
+learned more about X and KDE.
+
+All in all I worked on the Linux port for a nice 24 hour period yesterday.
+The exploits of one Randall Waterhouse inspired me to great acts 
+of prolonged hackery.
+
+Speaking of which, I was reading the "Snow Crash" review thread on
+Slashdot and got a little pissed.  One guy there was saying something
+like "oh I wish there were more resources on books for geeks."  I'm
+thinking "what the fuck?"  Its called a bookstore dude.  A library.
+You just aren't a reader if you need someone to hand you a book and
+say "try this."  And if you aren't a reader, you are a worthless shell
+of a man unworthy of respect or admiration from your fellows.
+
+Right now I am reading "The Man Who Loved Only Numbers."  Its a
+biography of Paul Erdos.  Just started on it.  Next on the list
+is "Mountain of Black Glass" by Tad Williams.  Its the third book
+in his fucking incredible Otherland series.
+
+Check this out.  Two realy cool pictures of Panzergrenadier General
+Heinz Guderian standing over an Enigma:
+
+http://cryptome.org/enigma2.htm
+
+Steve Polge has rejected design submissions to add a skill level
+above "Godlike."  The proposed skill level was to be called
+"Weiderlike" and would feature the bots "rolling on outta here."
+
+Har har.  ;)
+	
+    

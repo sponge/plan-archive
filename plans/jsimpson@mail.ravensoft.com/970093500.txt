@@ -1,0 +1,31 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 09/27/2000 16:46:44 (Central Standard Time)
+-------------------------------------------------------------------------------
+9/27/00
+
+I haven't seen this mentioned anywhere, so I thought I'd do so. SOF GOLD has gone gold, and we should be seeing it in stores
+sometime soon. Maybe even as soon as this weekend, but no promises there. The patch to upgrade your existing SOF to SOF GOLD
+should be around once the product has hit the stores. No exact dates, since there are many factors involved there. Anyway, it's
+done, and it's free to those that have already purchased SOF.
+
+What's included?
+A real brief list, and this is just what I can pull off the top of my head.
+
+Some AI fixes,
+Some sound system fixes - for both EAX and A3D.
+Two new deathmatch modes - Control and Conquer the Bunker
+New methods of assigning teams - for CTF, Control and Conquer it's now Red/Blue rather than just team based. That was getting
+too cumbersome.
+Tons of new skins and teams. Guess who from Raven is in there:)
+New levels. Not sure how many.
+Some download fixes.
+And lots of other stuff.
+
+I'm sure Rick Johnson will have a more comprehensive list of what's new later.
+
+If your bored, take a trip around JAKEWORLD!

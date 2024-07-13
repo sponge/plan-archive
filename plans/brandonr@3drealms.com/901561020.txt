@@ -1,0 +1,62 @@
+Login name: arkiva    			In real life: REINHART
+Directory: /homec/arkiva            	Shell: /usr/bin/ksh
+Last login Mon Jul 27 14:02 on ttyr2 from helix.ittc.ukans
+Project: Go away.
+Plan:
+Brandon "GreenMarine" Reinhart
+greenmarine@planetunreal.com
+Contract Programmer, Epic MegaGames
+Contract Programmer, Creative Carnage
+Lead Programmer, Lead Designer, Skaarj Corps
+
+Wednesday, July 22, 1998
+------------------------
+
+Unreal GameSpy Updates Status:
+Looking very good on this front.  I am adapting Unreal to
+GameSpy's new protocol.  Should have the initial code
+ready by Monday.  I will have documentation available by
+then also, so other developers working on "spy" style
+server query programs can work with Unreal.  The protocol
+is easy to use and pretty adaptable.  
+
+After the GameSpy work is done, I will be rewriting the
+ServerBeacon code so that servers stop pinging the broadcast
+every 0.5 seconds.  Instead, there will be an initial
+ping when the server begins and then after that only
+pings in response to client requests.  The new code will be
+drop in compatible with the existing menu system and will
+be transparent to the player.
+
+Skaarj Corps Status:
+Log: Success: Compiled 19333 line(s), 1973 statement(s).
+
+Its getting pretty big.
+
+Andrew has implemented a new message interface.  Public
+'chat' messages go to a main window.  Team messages go
+into a second window.  Events go into a third.
+Each window is color coded.  There are commands to scroll
+through windows, select a specific window, and scroll
+windows up or down.  
+
+You can set the "response" level for the events window.
+This way, you can force it to drop on any message (death
+messages, item pickup) or just on game vital messages 
+(Titan death, heart return, etc).
+
+The windows have transparent backgrounds so they don't block
+your view significantly.  Also, there are no more centerprinted
+green messages.  Everything goes to a window allowing the
+player to control how much he/she sees.  I am thinking of adding
+window logging controls when Tim releases the DLL headers
+publically.
+
+What else?  The Warrior Class is finished.  Other classes need
+animation fixes and tweaks.  This will get done this weekend.
+
+The levels are looking great.  Our smallest level is going to be
+at least five times the size of 2fort4.  The mappers are making
+good use of the "Unreal" feel.  Stuart "Vovin" Presleys level
+is simply amazing.
+

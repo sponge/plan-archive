@@ -1,0 +1,90 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 3
+Last Updated: 04/16/1998 23:42:21 (Central Standard Time)
+-------------------------------------------------------------------------------
+
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+
+April 16, 1998
+-------------
+
+Spent the last three days working on Q3DATA (the successor to QDATA), reving
+it to support our newer model data.  We no longer compute ST coordinates
+within Q3DATA, instead we're going to let the artists do ST computation 
+via Alias' built in texture coordinate generation facilities.  We're also
+no longer computing normals, since Alias automatically computes those so
+the information is right there anyway.  We're also now loading things as
+polysets instead of as single monolithic vertex pools.
+
+I still have a ways to go to get this up to the level we want to support
+the new features in our character rendering, however a stupid bug 
+sidetracked me for almost two days. *irk*  Hopefully I can get some real
+work done tomorrow.
+
+I'm on a "normal" schedule, showing up between 9:30 and 10:30 and leaving
+between 8 and 11.  My body likes this schedule much more.  I tend to fall
+asleep very quickly at night instead of tossing and turning for a few
+hours, and I wake up pretty easily after 8 hours of sleep.  The downside
+is that now that I fall asleep quickly I don't have time to read or watch
+TV anymore.
+
+My Dodge Viper has some issues with fourth gear, so it's under warranty 
+repair right now.  Irk.  The Volvo AWD XC wagon doesn't quite have the same
+performance, but oh well, it gets me around.
+
+NFL draft is coming up soon (this weekend I think).  Woo-hoo!
+
+You know, I always thought Larry Niven's solo work pretty much sucked.  His
+collaborations with Pournelle or Pournell and Barnes were much better.  Some
+major classics are "Lucifer's Hammer", "Legacy of Heorot", and "Footfall".
+
+Do you think it should be "Quake V", "Quake Five", "Quake 5.0", or "Quake 5"?
+This is a pretty important decision, probably the most important decision
+left for Quake V (working title).  The storyline and plot for Quake 5 was
+originally going to be "run around and blow up lots of shit", but after
+a pretty heated company meeting we decided (with quite a bit of dissent)
+that it should be changed to "run around and blow up lots of shit *while
+trying to avoid being killed*".  I dunno, that kind of blows the purity and
+original intent of the series, but I'm willing to go with it, although I
+sort of feel like we're seeling out by changing the story so much.
+
+April 11, 1998
+-------------
+
+Noise functions are cool.  They are, however, complete and utter hacks.  There
+is no real "science" to creating cool procedural textures or geometry, it's
+primarily an art, but I'm learning it via a visualization tool I wrote, and
+stuff is pretty cool.
+
+The Viper GTS could REALLY FUCKING USE ABS.  Some idiot pulled out in front
+of me on the service road in front of id -- I was only doing about 60, and
+he and I were staring at each other for 5 seconds before he decided to make
+the move into the far lane in his minivan -- and I had to slam on my brakes,
+leaving some nice big flat spots on my tires (I assume) and some nice wide
+black streaks on the service road.  Irk.
+
+April 9, 1998
+-------------
+
+My two latest projects are working on noise functions ("Texturing and Modeling:
+A Procedural Approach" by Ebert et. al. is a great intro on this) and working
+on the character animation stuff.
+
+For the noise stuff I've implemented a straight interpolated lattice noise
+function that uses 4D inputs (x,y,z,t).  I'm writing a visualization 
+program in MFC w/ OpenGL (I needed an excuse to learn MFC) that lets me
+tweak noise parameters in real time.
+
+Quadlinear interpolation is expensive as hell, by the way -- I'm looking
+at 30 multiplies and 15 adds and 15 subs.  Ouch.  Will likely implement both
+trilinear and quadlinear for final

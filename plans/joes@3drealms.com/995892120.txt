@@ -1,0 +1,14 @@
+Account Name:  joes
+Email address: joes@finger.3drealms.com
+----------
+9:39 AM 7/23/2001
+
+Over the weekend, I got bombed by the W32/SirCam@MM Virus.  I got over 200 of them, ranging in size from 200k to about 3.5Mb.  To anyone reading this, if you haven't already checked your system out, please do so now.  Here's some info about the virus:
+
+http://www.mcafee.com/anti-virus/viruses/sircam/default.asp?cid=2360
+
+This morning at about 8AM I set up my spamkiller software to deal with this virus, and just since then (which is 1:40 minutes since I set up the filters), I've had 18 hits on them - ACK!
+
+Folks, please go clean out your systems - our support mail account got a ton of them, too.  Or, you could do something better and pay more attention when you open file attachments!
+	
+    

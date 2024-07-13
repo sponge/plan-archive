@@ -1,0 +1,91 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-------------------------------------------------------------------
+User Name: tim.gift     Plan Last Modified: 01/29/1999 14:34:45 PST
+
+Real Name: Tim Gift
+Nickname: Slacker
+Job: Director/Lead
+Project: Starsiege Tribes
+
+1.29.99
+
+Almost done with the 1.2 patch. I'm going to package it
+up and send it off to some of our beta testers this
+afternoon. We'll get more servers converted, test it
+over the weekend and if nothing major pops up, we
+should release it to the public early next week.
+
+This patch does NOT include OpenGL, we'll release a
+beta of that separately. 
+
+Any server that's has a third digit in the version
+number is a beta server.  We have been running a few
+here over the past few days, with version numbers
+starting at 1.1.2. I believe the current version is
+1.1.6, but there may be a later one. Please join these
+servers and help us test them.
+
+I've collected the changes from the release notes that
+can be tested using the current client. This list does
+not include all server changes and includes none of the
+client changes, but these are changes that you can
+test by joining a beta server.
+
+Server Side Changes:
+
+- Vote tabulation changes. Abstentions are now counted
+  as no votes until a quorum is reach.  All other
+  abstentions are ignored.
+- If a vote to kick a player fails to pass, the vote is
+  re-tabulated counting straight yes votes belonging to
+  that player's team against the number of players on
+  that team. The default vote margin is %60, so if %60
+  of a team votes to kick a player, he's gone.
+- Team damage now defaults to off in FFA mode, and
+  defaults to on in Tournament mode.
+- Options were added to the admin menu to select the
+  duration of the mission and to reset the server to
+  it's initial settings.
+- When a server's player count drops to 0, the
+  server is reset to it's initial settings.
+- Being in control of a Commander Station during
+  mission change no longer gives you free turret access
+  in the subsequent missions.
+- Control panels no longer reappear after being
+  destroyed.
+- The server now includes client message flood
+  protection.
+- Elevator trigger time was increased from 0.5 to 2.0
+  secs.
+- Team mates can now always destroy deployable
+  equipment, even when team damage is off.
+- If team damage is off, ramming team mates with a
+  vehicle no longer applies collision damage.
+- A player now receives 5 points for destroying an
+  objective in Defend and Destroy missions.
+- Light female can now carry 30 plasma charges, same as
+  the light male.
+- You can no longer turn the energy pack on/off. Energy
+  pack is always on.
+- Blaster range reduced from 2000m to 400m, half-life
+  down from 1900 TO 225m.
+- Blaster now does half damage against shields.
+- The spread on the chaingun is reduced by half.
+- Plasma damage was reduced by about half for medium
+  and heavy armor.
+- ELF damage was increased from 0.04 per/sec to 0.06,
+  ELF turrets remain at 0.06.
+- The remote deployed turret box exclusion area's
+  vertical component was changed from 50m to 10m.
+- You now get points for kills made by turrets you
+  deploy.
+- A timer was added to the inventory stations so that
+  a player can no longer stand at one and constantly
+  be re-supplied and healed.
+- Inventory and ammo stations now automatically supply
+  players with  healing kits and grenades.
+- Ammo stations now heal players re-supply them with
+  healing kits, and grenades.

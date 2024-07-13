@@ -1,0 +1,52 @@
+Account Name:  20155
+Email address: boon@2015.com
+----------
+Welcome to the 2015 Finger Server
+
+
+User name: boon
+Name: Michael Boon 
+Email: boon@2015.com
+Occupation: Modeller, animator, AI coder
+Project: SiN Add-on Mission Pack
+
+Plan modified: Fri Dec 4 1998
+
+************************************************************************
+* NOTE: Any views expressed here do not reflect the official position  *
+* of 2015 Inc. They are my own views and should not be confused with   *
+* those of the company.                                                *
+************************************************************************ 
+
+-------
+4/12/98
+-------
+
+I'm going to put the date in the right way around in my .plan file because 
+I'm not Amercian and hence don't suffer from the problem of trying to 
+write things the wrong way.
+
+We just got these plan file things today, and Magoo and Z and Paul are all 
+huddled over their computers busily trashing each other.  Well, actually, 
+Paul and Magoo are trashing each other and Z is busily defending himself 
+from the spare flak that seems to fly off their trashing.  Z really does 
+ask for it though - he's an English major and he spells worse than anyone 
+I've ever met (quick note here, all Americans spell stuff wrong, and if I 
+disregarded that then Z might be better than some Tasmanians I know).  
+Heh, shouldn't judge a guy by how well he spells though, it's a shame for 
+Z that that doesn't make a difference in his case...
+
+Oh, a quick hi to all the Tasmanians out there :)
+
+Here's some things people might find useful with animation names in .def 
+files in Sin: 
+The code which controls AI has some keywords it takes note of.  Some are 
+obvious, like fire, walk, run, but there are others, like 
+crouch_, and alert, which are cool too.  If an actor dies or 
+suffers pain while in a crouch, the code automatically looks for an 
+appropriate animation with the crouch_ prefix.  Alert is actually a form 
+of idle: once an actor has been activated or whatever, they then use their 
+alert animation instead of their idle animation, until their enemy dies.  
+This can be really cool if you want to have a fancy set of idle and twitch 
+animations, but want the actor to always keep his/her/its gun ready when 
+he/she/it is fighting.

@@ -1,0 +1,22 @@
+4/19/98
+   On vacation, and I'm still at work - yuck!
+
+   Finished up the changes I needed to get into HW.  Once I get 2 taunts
+      approved, then it will be uploaded.  If there are any severe problems
+      with HW 0.12, they'll have to wait for a week (after I get back).
+
+   After I get back from vacation, I'll be switching over to our next official
+      product (Project XXX).  I'm not sure at what point Activision is planning
+      on releasing details about it, so until then, I really can't say anything
+      more, except maybe that it doesn't have anything to do with the Heretic /
+      Hexen line.  I'll see if I can say that much :)
+
+   Most of my vacation time is going to be spent finishing up Black Crypt.
+      BC was Raven's first game, originally made for the Commodore Amiga and
+      was released on March 18, 1992.  It is a role playing game, similar to
+      Dungeon Master or Eye of Beholder, with about 25+ levels and plenty
+      of monsters.  I started writing the port to Direct X way back when DX2
+      was just out.  Haven't had a chance to put much time into it in over a
+      year now, but plan on finishing it up.  Since it has been a much longer
+      time frame than I have ever wanted for it, and since it doesn't offer
+ 

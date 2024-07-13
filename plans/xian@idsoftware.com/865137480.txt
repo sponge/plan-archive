@@ -1,0 +1,78 @@
+[idsoftware.com]
+
+Login name: xian      			In real life: Christian Antkow
+Directory: /raid/nardo/xian         	Shell: /bin/csh
+On since May 29 14:12:01		4 minutes 56 seconds Idle Time
+   on ttyp2 from underworld.idsoftware.com
+Plan:
+
+
+ I was talking to Tim, Bear and John Cash today, and got a great idea for
+a QW mod. It's optional, but with the next release of QuakeWorld, the 
+progs will support two new server vars.
+
+ dq 1  (Drop Quad)
+ dr 1  (Drop Ring)
+
+ Eg: You picked up the Quad. You run around for 10 seconds before someone
+kills you. You drop the Quad and it remains in play for 5 seconds before
+someone else picks it up. They now have the Quad for the remaining 15 seconds.
+
+ If no one else picks it up after you die 10 seconds into having the Quad, 
+it dissapears 20 seconds later.
+
+ Read: The Quad or Ring are never in play for more than the normal 30 seconds.
+
+ The mods are running on Underworld (192.246.40.169). Thanks to Tarok, Zoid, 
+and Bi||iard for their input.
+
+---
+
+ Ok, hopefully I won't get too many complaints, but here is how the new
+spawn in logic works.
+
+ It goes through the entire map and finds all spawn spots that don't have
+any players within a 256 unit radius (derriving n available spots). It then
+puts you into a random spot between 1 and n.
+
+ *RANDOM* is the key word here (/me glares at Blue and Redwood =)
+
+ Should there be any further suggestions, please e-mail me, but I think this
+is the fairest way of determining spawn in spots.
+
+ As usual, the mods are being run on Underworld (192.246.40.169) for testing.
+
+
+---
+
+ Wow! I just discovered the coolest thing in QuakeWorld (now that the double
+damage bug has been fixed)... "Rocket Juggling"
+
+ If someone with 200 health, 200 armour jumps towards you and you blast
+them up high into a corner, fire rockets where they are going to land and
+you'll pop them back up in the air again.
+
+ I juggled someone 3 or 4 times before they died. Try it =)
+
+
+ ftp://ftp.microsoft.com/bussys/winnt/winnt-public/fixes/usa
+   /nt40/hotfixes-postSP3/java-fix
+
+ Thank god... I was going insane!
+
+---
+
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+ This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, damage from improper .planfile reading, incorrect line voltage,
+improper or unauthorized use, broken antenna or marred cabinet, missing or
+altered serial numbers, electromagnetic radiation from nuclear blasts, sonic
+boom vibrations, customer adjustments that are not covered in this list, and
+incidents owing to an airplane crash, ship sinking or taking on water, motor
+vehicle crashing, dropping the item, falling rocks, leaky roof, broken glass,
+mud slides, forest fire, or projectile (which can include, but not be limited
+to, arrows, bullets, shot, BB's, shrapnel, lasers, napalm, torpedoes, or
+emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.). 
+

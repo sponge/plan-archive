@@ -1,0 +1,67 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Tue Dec 28 14:00 (EST) on ttyp0 from 216.27.43.249
+Mail forwarded to brandon@epicgames.com
+Mail last read Tue Dec 28 04:00 1999 (EST)
+Project:
+Unreal Tournament
+Plan:
+December 28, 1999
+
+I'm back from visting relatives and I've been rolling on the
+Linux open source stuff.  I've got my project approved with
+Source Forge.  Once I get everything set up, I'll announce
+the URL but I'm sure the sneaky will be able to find the page.
+
+I've chosen the Artistic License.  I feel that it allows mod
+developers a lot of freedom with the open code, while not putting
+Epic into any weird positions with the undisclosed part of the
+engine.
+
+I plan on open sourcing the following libraries:
+XDrv
+XMesaGLDrv
+GlideDrv
+Audio
+XLaunch
+
+In addition, the release archive and rcs will include the
+public headers for the other engine libraries (core, engine, etc).
+Some of the above libraries compile both under Linux and Win32.
+I'll write up some specific guidelines for contributing authors.
+For example code that is contributed to the GlideDrv library
+must compile under both Win32 and Linux.
+
+Now, I need a few recommendations.  Can anyone recommend a good
+GUI to cvs?  Or should I learn the command line interface (it seems
+tedious, but I'm used to SourceSafe)?
+
+The goal of this project is threefold:
+
+1. To improve the quality of the Linux port of UT.  I'll admit that
+I simply don't have the time to spend on this port.  Disclosing
+the source gives everybody a chance to make the code better.
+
+2. Strengthen the mod authoring community.  Giving people more
+code to play with is always a good thing.  The headers will be
+of specific interest to mod authors.  They can be used to
+interface a mod with external C++ DLLs.
+
+3. Teach Epic about open source projects.  If this goes well, we'll
+probably look into releasing more source in this fashion.  We don't
+have any plans to release the engine proper (certainly not until
+all our licensees games are finished), but there are additional peripheral
+libraries that could be disclosed.
+
+I think at this point I will put up an initial tarball release and
+follow it up with full rcs support once I learn how.  Tim is gone
+for the holidays and I need to confer with him about what headers
+to release before I can toss out anything.
+
+Again, I apologize for being so slow in getting this rolling.  My
+plate is pretty full with high priority projects.
+
+If you are an experienced C++ programmer interested in helping
+contribute to the project feel free to email me at brandon@epicgames.com.
+	
+    

@@ -64,4 +64,127 @@ Last Updated: 07/13/2004 11:07:06 (Central Standard Time)
 
 5/28/2004
  Technical Artist Position for Quake 4:
-      Raven Software is looking for a Technical Artist for the Quake 4 
+      Raven Software is looking for a Technical Artist for the Quake 4 PC title. We prefer a person with a strong understanding of the technical side of creating art assets, such as creating textures and world models, generating shaders, and proficient in scripting. We also prefer a candidate with strong drawing and painting skills and an ability to model hi and lo-poly models in Maya and/or Lightwave. Programming experience is a plus. A background with Quake 3 shaders, a familiarity with the Quake 3 Editor, and experience in animation and effects are also a definite plus, but not required.  
+
+ Responsibilities:
+      - Create art assets, scripts, animations, shaders, and effects for Quake 4. 
+
+ Requirements:
+      - 2D drawing and painting skills.
+      - Experience using Photoshop.
+      - Experience creating textures and world models for games. 
+      - Experience building hi-poly and lo-poly 3D models in Lightwave or Maya or has experience with another 3D package and a willingness to switch.
+      - Experience with shaders and proficient in scripting.
+      - Self-motivated, with a strong artistic vision that allows them to complete tasks without supervision.
+
+   Candidates should either email their resume and sample works to
+      Kevin Long    klong@ravensoft.com
+   or Mail
+      Raven Software
+      C/O Kevin Long
+      3 Point Place Suite 1
+      Madison, WI 53719 
+
+8/1/2003
+   Have you got the DOOM II GBA DM skills to pay the bills?
+ 
+   Caryn 'Hellchick' Law and I have decided to throw down at this year's QuakeCon. We're bringing our 
+      Gameboy Advances, DOOM II on the GBA, and link cables, and we're challenging QuakeCon gamers to take us 
+      on in an old-school DOOM 2 deathmatch...but on the GBA. 
+ 
+   We'll be bringing some swag to give away to anyone who can beat us (and you have to beat both of us) -- 
+      DOOM t-shirts from id, Raven t-shirts, GBA games, whatever we can scrounge up between now and QuakeCon. 
+ 
+   If you want to take us on, you'll need to bring two things: your own Gameboy Advance, and your own copy of 
+      DOOM II for the GBA. We'll bring link cables to link up.
+ 
+   When and where: we're not sure yet. As soon as we nail down our QuakeCon schedules, we'll announce when 
+      and where you can show up to take us on. 
+ 
+   Practice up, and we'll see you there.
+
+5/2/2003
+   I saw Jewel this morning on the NBC Today show and she has completely switched her image to a Britney Spears pop star.
+      I feel like she really sold out... ugh
+
+   I put up a test verion of GL Black Crypt.  You can find it on the Black Crypt Website.
+
+4/11/2003
+   Going to be putting out a simple test version of the GL port of Black Crypt in a few days.  Check out the Website.
+
+   Just got a Toshiba PocketPC yesterday.  Can anyone recommend any good apps / games for it, as I'm fairly 
+      new to the whole realm.
+
+   Oh, and TomServo, stop rambling!  You are just making Paranoid Android more paranoid.  :)
+
+2/4/2003
+   We are in the process of switching DNS entries for the SoF2 Master Server.  You may experience a disruption
+      for a few days until the DNS changes propagate.  Here's a link to an explanation.
+
+1/15/2003
+   *** ATTENTION MOD MAKERS ***
+
+   Based on feedback we received at the mod maker round table sessions at QuakeCon, we created a private 
+   forum for mod makers.  This forum is a place for all mod makers of all engines / games (not just Raven 
+   games) to come and discuss any issues associated with mod making, such as programming, scripting, mapping,
+   modeling, textures, sounds, etc.  This forum is only open to people actively involved in making content.  
+   If you wish to join, create an account on our forums and then email me with your account name 
+   and Ill give you access.  There is also a small website associated with this whole endeavor.  
+   Again, this is for all people making mods for all games / engines.
+
+12/30/2002
+   There's now a Black Crypt Website  I'll update with some news, screenshots, little tid bits
+      about the game, etc.  Look for a release "soon"...
+
+12/18/2002
+   Well, after a few years of a break, I started to re-port Black Crypt (Raven's original game on the Amiga)
+      over to the PC again rendering it with GL.  I'm hoping to have it mostly finished by the end of the 
+      Holiday Season.  I was going to try to convince *someone* to create a little web site for it, so that I can
+      put up progress shots, etc.  Here's an initial picture of its current state.
+      Remember that it is still in a very rough state, which is why there are a lot of mixed up things.
+
+12/7/2002
+   Just wanted to make a quick update in saying that there has been a recent flood of fake Quake4 movies
+      and trailers.  Everything on the internet is fake and nothing Quake4 related has ever been released,
+      except for the one piece of concept art released at the initial announcement of the project.
+
+   In answer to the trivia question below, it was The Transformers: The Movie
+
+12/3/2002
+   So I was watching this movie last night and saw something interesting in the credits, and figured this would
+   make a good trivia question.  Name the movie which had both Leonard Nimoy and Weird Al Yankovic listed in 
+   the ending credits!  No cheating by using the internet!
+
+11/26/2002
+   For those Osbournes fans, SoF2 should make a very brief appearance on The Osbournes tonight on MTV.  
+   Check your local listings, but the show should start at 10:30 p.m. ET/PT.
+
+10/1/2002
+   Who else was completely annoyed last night watching Monday Night Football and hearing 
+      that one noise maker in the audience being blown constantly?  Argh!
+
+9/18/2002
+   Matt Morton, the producer for SoF2, has posted a list of some of the fixes/changes for the
+      upcoming SoF2 patch.  This list does not include some new stuff that we are also adding.
+
+5/23/2002
+   As promised, you can now get the SoF2 MP SDK Here!
+   We'll have a forum set up shortly for support, once I get the new server configured.
+
+   The SDK includes game code, editors (radiant, fx, modeling, etc), tools (bsp, modeling, etc), documentation
+      on various file formats, and some samples (skin files, map, etc).  The SDK is mainly MP specific, though
+      there are some things which apply to the SP that are included.
+
+   Enjoy!
+
+5/8/2002
+   *** MASTER SERVER DOWNTIME ***
+
+   We will be upgrading some internal hardware at Raven during the morning of Saturday,
+      May 11th.  The master servers for Elite Force, Jedi Knight 2, and the SoF2 MP Test
+      will be unavailable from around 9:00am Central Time to early early afternoon, given
+      that everything goes smoothly.
+
+5/3/2002
+   Bryan Dube, who is the other programmer on SoF2 MP, now has a finger account.  You
+      may want to check out his latest .plan u

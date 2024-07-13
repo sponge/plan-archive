@@ -1,0 +1,23 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 2
+Last Updated: 02/28/1998 14:56:33 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+ --- Feb.28.1998 (4:57pm) --- 
+
+ I've started keeping track of the number of clients for all the
+servers that connect to our master and set "public 1" for reporting,
+and came up with the following graph which shows you the number
+of players on all of the servers that reports to us.
+
+ This is usefull for determining "peak times" for when people are playing =)
+
+ You can check it out at http://inferno.idsoftware.com/usage. I'll probably update
+the graph on a daily basis.
+
+ 

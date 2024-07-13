@@ -1,0 +1,42 @@
+
+*** Ion Storm's Finger Server
+
+User name: romero
+Plan modified: Fri Dec 10 16:22:18 1999
+
+
+
+
+Plan File
+
+
+
+
+
+Current project: Daikatana
+   December 10, 1999
+It was six short years ago, down to the hour.  I remember
+staying up the last 30 hours doing exhaustive testing before Jay Wilbur uploaded
+the shareware version of DOOM to the University of Wisconsin's FTP site. 
+We couldn't get in -- too many people were sitting on the site, waiting for our
+upload.  The target directory was full of bogus files with names like
+"when.is.it.coming" and "hurry.up.id", but finally we got
+the sysop to up the connect limit to 250 and we barely got in.  After that
+upload, things changed.
+I remember the crazy lockup bug we had the day before -- if DOOM
+sat running for too long, it would just lock up.  Turned out to be a value
+that was being incremented by the 140-tic-per-second timer function that was
+wrapping around (it takes a very long time for a LONG to wrap, even at
+140-tics-per-second,  but this one was uninitialized so it took even less
+time).  So, we finished it up and sent it out, just knowing everyone would
+have a lot of fun with it.  Happy Birthday, DOOM.
+I forgot to mention three birthdays in the past few months, the
+birthdays of Spear of Destiny (Wolfenstein retail) on September 18th (7 years
+old), DOOM II on October 10th (5 years old) and Hexen on October 31st (4 years
+old).  Got about three more birthdays coming up this month, too!  And
+one new arrival in the next couple weeks... :)
+P.S.: Congrats to the guys at id for producing perhaps the most
+beautiful and polished game I've ever seen.
+ 
+
+

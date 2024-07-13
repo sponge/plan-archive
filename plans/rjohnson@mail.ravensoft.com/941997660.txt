@@ -1,0 +1,64 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: SoF
+Nickname: Superfly
+Web Page: Rick's Web Site TurtleCam! mEATwagon Cult
+Last Updated: 11/06/1999 15:54:20 (Central Standard Time)
+-------------------------------------------------------------------------------
+11/6/99
+   So you're waiting for the SoF AVI?  Well, here's something to wet your appetitie.  This 
+ Song was an impromptu recording by the actor that plays John Mullins in
+      SoF.  This was just a little fun thing that Chia-Chin Lee had him record.  This isn't actually 
+      going to be included in the game...  Enjoy!
+
+ Please note that this song is intended for mature audiences.  Parental discretion is advised.
+
+11/3/99
+   The comments about playing it for a brief try were not directed towards the avault article at all.  
+      The article as a whole is very fair, and actually is very favorable towards SoF.  The reviewer
+      did play the OEM extensively and walked away not fully liking our difficulty settings.  That's fine, and
+      this is already address for the final product.  What frustrates developers the most is when
+      people dislike options without either trying it or just playing it "for a bit".  Most of the time,
+      features will grow upon you.
+
+   --------
+
+   I hate it when people make assumptions about games prior to ever playing it or just giving it a brief 
+      try.  Open up your minds, otherwise you'll be stuck with the same game play forever :)
+
+   The guys respawn...  They spawn out of logical places where more enemies would naturally flow in.
+      They also respawn based upon the amount of "noise" you are generating.  If you use louder weapons,
+      you'll attract more attention to yourself.  Quieter weapons, you'll attract less attention, and you
+      won't see as many people.
+
+   Limited saves...  It does add very much to the realism.  People were skeptical here, but turned out it that
+      it made you in the game more "mortal" and tightened up your senses.
+
+   But, having said that, one option which did NOT make it into the OEM is a customizable difficulty setting,
+      where you can control the number of saves (or unlimited), no respawning, AI difficulty, etc.  So if you
+      don't like our defaults for the standard difficulties presented to you, you can always do your own custom
+      settings.  This was always planned since day 1.  I'm a big fan of limited saves, but there will always be
+      people with different tastes...
+
+11/1/99
+   ** Big SoF News **
+
+   There is going to be a Linux port of both the client and server.  Unfortunately, because of the 
+      lateness of this decision, it will not be ready by the time the game ships, but will be available 
+      to download as soon as it is available (hopefully within a month of release).
+
+   We have completed a major AVI and will be releasing it very soon.
+
+   ---
+
+   Little clarification, is that I guess the Linux version will be a separate retail product.
+
+
+10/30/99
+   Happy Halloween!
+
+   Check out what the Avault had to say about their hands on experience with SoF at the Frag3.
+      It is at the 1:00PM Time in the article.  Sounds 

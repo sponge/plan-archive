@@ -1,0 +1,234 @@
+Login: ddt            			Name: Dave Taylor
+Directory: /u/ddt                   	Shell: /bin/bash
+On since Mon Mar 30 14:00 (CST) on tty1    6 hours 45 minutes idle
+On since Mon Apr  6 16:03 (CDT) on ttyp2 from rope
+   27 seconds idle
+     (messages off)
+Mail last read Mon Apr  6 17:03 1998 (CDT)
+Plan:
+My steamy log.
+
+Mon April 6, 1998
+
+-------------------
+
+  General & director meetings.
+  Checked Kevin's law bldg model.
+  Checked Gene's background music.
+
+Sun April 5, 1998
+
+-------------------
+
+  OK, I don't normally put HTML in my plans, but this picture kinda
+  rocks.  Sent to me by my (by the way very funny) brother:
+ 
+
+  Linux Golgotha asm work.  Giving up on masmtogas.  Sadly, inline gas
+  seems fairly broken (very hard to get it to generate the asm you want).
+
+  Grabbing nasm.  Started converting rendering code to seperate nasm files.
+  Slow, but it works.
+
+Sat April 4, 1998
+
+-------------------
+
+  I tried Dominion.  Pretty fun.  Loved the sexy main menu.  I like the
+  context-sensitive pop-up menus for the units and the ability to
+  make the fast guys crawl so that a formation moves at roughly
+  the same speed.  The umbilical thing is a neat approach, and I like
+  the qix-like fence-off gameplay.  The default energy beacons don't
+  make it worthwhile, but the missile/machine-gun towers definitely do.
+
+  If I had any negative feedback, unfortunately, it would be that the
+  artwork is a little wonky, which is really weird, because Ion
+  is definitely good at artork (see web site, character sketches,
+  etc).  And a small note, but it would be good to tighten up the
+  responsiveness of the units to mouse clicks at the destination.
+  Trying to think of a quick hack to test it out.  Maybe kick up
+  some dust, animating some dust sprites over the unit in question
+  for about half a second?  Maybe do verbal feedback as per usual
+  but with a click or beep right at the start (like a CB radio)
+  so that the feedback loop is tighter.
+
+  Played Master of Orion II again.  Dunno why.  Today was
+  depressing for some reason.  Both Carly and I felt it.  Our
+  noodles at Kim Phuong were sticky.  We were crotchety.  And itchy.
+  Maybe a shared allergy to the weekends preceding April 15.
+
+Fri April 3, 1998
+
+-------------------
+
+  Tons of crazy coding/design/mgmt.
+
+  The bluebonnets and indian paintbrushes are in bloom on the Hwy 360 median.
+  Looks really neat.
+
+  Played w/ cygwin32 this morning.
+
+Thu April 2, 1998
+
+-------------------
+
+  Arg.  Glimpse generated a 30Mb index file from a 55Mb hierarchy of files.
+  The searches just don't seem that fast.
+
+  Ssh woes.
+
+Wed April 1, 1998
+
+-------------------
+
+  Got a few leads for several good coder positions yesterday if anyone
+  is looking.
+
+  Fixed default & win32 error funcs.
+  Added blank => current directory on level's scm file.
+  Got Windows version running again.
+
+  Played w/ level some.
+
+Mon March 30, 1998
+
+-------------------
+
+  General & director mtgs.
+
+  Fixed key-mappings.
+
+Sun March 29, 1998
+
+-------------------
+
+  Relearned MMX, figured out how to do colored lighting on K6-3D.  Not free,
+    but not bad.  Should also be able to do alpha-blending with both
+    verticies and an alpha-channel at a decent clip.
+
+  Played more w/ gcc inline asm.  Figured out how to get masmtogas into
+    1 pass and more reliable.
+
+Thu March 26, 1998
+
+-------------------
+
+  Some egcs hacking.  Got Golgotha compiled w/ egcs 1.0.2.  Debug executable
+  is a lot smaller which is nice.  Seems to fix some gdb stepping probs we
+  were having, too.
+
+  Added help piccy for bomb truck.
+
+  The usual other stuff.
+
+Wed March 25, 1998
+
+-------------------
+
+  Linux Journal put out a good issue this month.  Fav article was Eric
+  Raymond's "Helping Netscape Make History," mainly because of an
+  included URL to: http://www.earthspace.net/~esr/writings/cathedral-bazaar.
+  It's a great article which sums up the classic "Mythical Man Month" and
+  adds Eric's own insights to the improbable Linux phenomenon.  If you're
+  any sort of coder, you should check this out.
+
+  Attended the gameholio efnet mtg.
+
+  Wrote automated script to d/l voice mail from work.  Yum.
+
+  Didn't make it into work today.
+
+Tue March 24, 1998
+
+-------------------
+
+  Random biz.
+
+  Worked more on demo level.
+
+  Titanic was a kick-as flick, but it did not deserve Oscars for best
+  visual and sound effects.  The flyover scene showed stiff automatons
+  on the deck.  The animated people were consistently made fuzzy to hide
+  obvious flaws.  And the sound effects were just not that stunning.
+  Not their fault.  It's harder to do cool sfx in a movie trying to
+  be fairly accurate, set in our past than it is in a movie trying to be
+  new, set in a possible future.
+
+  It would have been refreshing to see those guys get up to accept the
+  award and say "The Academy has chosen the incorrect award recipient
+  in this category this year.  I screwed up the people in the Titanic
+  computer animations, I know what my peers did, and they kicked ass
+  on (MIB/StarshipTroopers/Contact/5thElement/LostWorld) last year.
+  As this little statue is my property now, I'm giving my Oscar to the
+  guy who should have won after the show.  Oh, and I'm throwing a BYOB
+  party my house after the show..."
+
+Mon March 23, 1998
+
+-------------------
+
+  General & director meetings.
+
+  Edited vehicle balance #'s some more.
+
+  More weird Golgotha-Meets-Reality stuff.  First, there is
+  Golgotha's premise, written early last year.  It predicted that
+  the US would intercede in Iraq again and try to start another
+  baseless war.  Only this time, the European Community is a
+  superpower, they got mad, and we find ourselves on the brink of
+  World War III.  Well, it turns out in reality, we just started
+  threatening Iraq again, and Russia warned us that we might start
+  WW III.  Wild.  I hope it doesn't end up the same way.  There's
+  a fair bit of bloodshed in Golgotha.  :P
+
+  Now there's this "Army After Next" thing.   US Army First
+  Lieutennant Terry Hart wrote asking for permission to use Golgotha
+  vehicles as concept art in the "Army After Next" project, a
+  study to determine what the Army will be like 30 years from now.
+  We're all totally humbled they wanted to use our vehicles.
+  Golgotha is set 50 years in the future.  Close enough, I guess.
+  I think they're gonna incorporate them into a web site soon.
+
+  Added air unit path and bridge to demo level.  Reported bugs.
+
+Thu March 19, 1998
+
+-------------------
+
+  Got 2 Voodoo II boards from 3DFX today.  Bless your heart, Mr. Bruning!
+
+  SCSI controller on Alpha started barfing on accesses to our backup
+  drive.  Moved backups to fart.  Lost backups 3/4-3/9 by accident.
+  Having "can't be reader" / "can't be writer" probs w/ gdbm.  Need to
+  fix that.  Somehow worked last night though.  Shrug.
+
+  Moved over to Trey's spot.
+
+  Edited vehicle stat balance #'s.
+
+  Organized sfx directory & associated source.
+
+  Showed game at SXSW tradeshow on Sunday, but didn't return Monday or
+  Tuesday.  There was a fair crowd, but they mostly weren't game players.
+  The most attention-getting booth was the Independent Film Channels.
+  Their secret?  Free Beer.
+
+  Sat on SXSW "Games for Grown Ups" Panel.  Audience size was double
+  what I thought it would be.  20 people!  It was a fairly fun panel,
+  despite never quite getting to pr0n games.
+
+  Met with a powerful mysterious man to discuss a possible (and fascinating)
+  post-Golgotha project.
+
+  Did more CD backups.
+
+  Hey, Jonathan Blow gave us some good "ink" in this month's Game
+  Developer Magazine.  Check out his article on texture caching.
+
+  I am a retard.  The backup process was hung while trying to backup a
+  unix socket file.  IS_REG() is my friend.
+
+  Realized the backup database itself isn't getting backed up.  Now
+  gets automatically backed up every Sunday.
+
+  I'm just backup boy today.

@@ -1,0 +1,121 @@
+[crack.com]
+
+Login: jc             			Name: Jonathan Clark
+Directory: /home/jc                 	Shell: /bin/bash
+On since Fri May 16 21:51 (CDT) on ttyp3 from jchome
+   1 day 22 hours idle
+     (messages off)
+On since Fri May 23 11:04 (CDT) on ttyp2 from jchome
+   5 minutes 33 seconds idle
+Mail last read Fri May 23 11:00 1997 (CDT)
+Plan:
+Coder/Owner @ crack.com
+
+my home page is at :
+http://www.crack.com/about/jc
+
+Fri May  2 21:36:03 CDT 1997
+
+
+I'm currently working on texture compression & management.  We currently
+have over 400MB of 24bit color textures in a level.  As you might
+a imagine it's a difficult problem to swap these in an out of 2MB of texture
+memory without speed hits, stuttering, etc.  I want a compression method
+that can be decompressed very quickly (i.e. a lookup & and a couple of
+one cycle ops).   Our typical texture size is 512x512 (9 mipmap levels).
+The software version uses 16bpp, but I'd like to be able to show of
+a 24bpp version on MMX to take advantage of more parallelism.
+
+I've tried the following compression methods last night :
+
+brightness delta compression  : makes things look too blurry and
+   may be too slow on console systems.
+
+color axis conversion and quantization  : works well if image doesn't have
+  too many color spans, but fails on most that I tried.  I was going to
+  use simulated annealing to find the best color axis to quantize to, but
+  random brute force didn't yield good enough results.
+
+today I thought of this in the shower :
+
+block encoding : encode blocks of pixels (say 8x4) with a small lookup table.
+  most blocks can be compressed to 2-4 bits per pixel.  Yielding about a 4x1
+  compression with little signal degradation.  I've got a stupid bug to find
+  before this work properly. arg. :)  This method (does it have a name?)
+  require more and more time to encode as the lookup tables grow.
+
+I've also been considering have 3 levels of cache in memory and using DCT
+  (descrete cosine transform) or
+  Fourier-like transform to compress some textures.  These typically yield
+  10x-50x compression.  It might also be possible to compress using a
+  fractal compositing method using lower mip levels.  If anyone has done
+  this, please let me know.
+
+12:33am....
+
+The block encoding was a bit too slow for our artist to use, so I'm trying a
+recursive block quantizer.  This basically tries to quantize a block to 16 colors.
+If the result doesn't meet an error threshold, it breaks the image in half and
+tries each half seperately until finally a block is too small or it quantizes
+nicely to a 16color palette (allowing 4bits per pixel).  This should be fairly
+fast and catch wide areas witch have similar colors.
+Decompression follows the compressor's split tree and looks up pixels when
+it reaches leaf nodes.
+
+Mon May  5 15:03:26 CDT 1997
+
+Got recursive block encoder working.  Added error dithering which covers up
+most artifacts.  I typically get 2x-3x compression of 16bit textures.  Still
+a far cry from jpeg, but it decompresses a lot faster.
+
+Wed May  7 21:21:02 CDT 1997
+
+Got the compressor to work with mipmap levels, transparent textures,
+(I call them holy-textures), and started making a unified system for
+DLL's so we can use them under 95 and UNIX.  I'm trying to make
+Golgotha such that you can "plug-in" in new objects, editor function, 
+and render systems.  I'm also working on making the game start up 
+faster, right now it takes about 1:30sec under 95.  Mostly from 
+opening/closing files over the net (samba), I think, because the linux
+version starts in about 10-15 secs (NFS). 
+
+Sat/Sun
+Went to Corpus Christi and saw the Science Museum, the Aircraft carrier
+(got some pictures), the Art Museum, the Aquarium, and went roller blading
+down around the piers.  Great fun.
+
+Tue/Wed
+
+I got really sick for the first time in a long time.  I started hallucinating
+and thought I was going to die.  I'm better now.  Interesting experience.
+
+
+Fri May 16 13:01:45 CDT 1997
+
+Dave and I are talking about releasing the Abuse source code (C++) to the Public
+Domain.  This would mean no restrictions on its use.  This would not include the
+data (artwork/sfx/music/levels).  All that remains is to clean up the
+source tree.  If anyone is interested in documenting the code to allow others
+to use it easier, let me know.  Several high schools and universities are 
+currently using the engine on a strictly LISP level for little projects.
+
+Tue May 20 22:44:50 CDT 1997
+
+I've gotten replies from a lot of people willing to help with the Abuse release.
+I'd like to have a unified tree with working makefiles for Watcom and most unixes.
+I think the g++ guys at Cygnus are best suited for the unix side.  For watcom & Mac,
+I'll use who ever gets it working first.  People have asked about porting
+to OS/2, Direct Draw, and djgpp.   I think DirectDraw would be a great thing
+especially if DirectSound were supported, OS/2 is reasonable, but djgpp doesn't 
+make much sense.
+
+Thu May 22 16:47:18 CDT 1997
+Finally pulled everying back into working order with the new model format which
+has precalculated lighting normals, the 3dsmax plugin does team coloring,
+compressed textures are stored on the net drive with a low mip level
+directory stored locally.  Also made a software transparent (holy) texture
+mapper, 16 bit scaled sprite blitter, and met with Oliver Yu.  Looks like
+he will be coming on board shortly.  Going to Vegas tomorrow!
+
+
+

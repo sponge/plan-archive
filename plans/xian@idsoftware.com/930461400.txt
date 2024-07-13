@@ -1,0 +1,47 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+Last Updated: 06/27/1999 02:07:17 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+Jun.27.1999 @ 2:20am
+
+ I moved over the web and ftp services over to a new machine Saturday afternoon
+and changed the DNS entries appropriately. If anyone is having problems connecting
+to our site, it's probably because the root DNS servers haven't recieved our changes
+yet. Things should straighten themselves out within the next 24 hours hopefully.
+
+ The new IP's are;
+
+ 192.246.40.185 == www.idsoftware.com / ftp.idsoftware.com
+ 192.246.40.142 == www.quake3arena.com / www.quakearena.com
+ 192.246.40.35  == www.glsetup.com
+
+ And yes, for those reading between the lines, I moved over to a new server in order
+to prepare for our next test release (No, I don't have a date other than "soon".)
+Our old server got completely hammered last release, so we went and got a beefier
+machine just to house web and ftp traffic.
+
+
+---
+
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, mud slides, forest fire, or projectile (which can 
+include, but not be limited to, arrows, bullets, shot, BB's, paintball, shrapnel,
+lasers, napalm, torpedoes, or emissions of X-rays, Alpha, Beta and Gamma rays,
+knives, stones, etc.). 
+
+---

@@ -1,0 +1,26 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: SoF
+Nickname: Superfly
+Web Page: Rick's Web Site TurtleCam! mEATwagon Cult
+Last Updated: 05/11/1999 19:17:19 (Central Standard Time)
+-------------------------------------------------------------------------------
+5/11/99
+   Burning the CD for E3.  Because Activision has decided to show SoF behind 
+      closed doors (umm, no comment), if you want to see the game, just tell an
+      official looking type person that I or Kenn said you could see the game 
+      (or just ask for me).
+
+4/10/99
+   -------------------------------------------------------------------------------------
+   04/09/99  09:33p             1,355,838 hwcl.exe
+      (debug .exe)
+
+   That's right.  I'm actually working on HW during my vacation.  So early
+      next week we should have another release.  I'm doing some experimental
+      networking in it plus merging in some QW updates.  I haven't touched the
+      .HC files, but that I'll ask for feedback on the needed changes (like team play).
+   -------------------------------------------------------------------------------------

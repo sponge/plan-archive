@@ -1,0 +1,175 @@
+Login: randyp         			Name: Randy Pitchford
+Directory: /home/randyp             	Shell: /bin/bash
+Never logged in.
+No mail.
+Project:
+ 
+Half-Life for Playstation 2
+Half-Life for Dreamcast
+Half-Life: Blue Shift
+
+ 
+Plan:
+********
+03/02/01
+
+About three years ago, when Rebel Boat Rocker was shutting down and we
+began creating Gearbox Software in its wake, I had some time and inclination
+to think about the process of making games.
+
+I began compiling tidbits of information and game development wisdom into
+a single document.  Some of it I stole from the talent I've been working
+with - guys like Brian Martel and Rob Heironimus.  Other bits came from
+tricks and facts I've learned from people like George Broussard, Richard
+Hilleman and Kerry Wilkenson.  Most of it just came from my experiences as
+a game maker.
+
+Since I founded Gearbox, I've been appending lines from the document piece
+by piece onto the end of each of my .plan file entries.
+
+I've decided to just print the whole thing here now for a couple of reasons.
+First, many of the items I've grown to have different opinions about - a
+problem that is likely to get worse in time if I don't share everything.
+Second, I think that just about every other developer who's reflected on the
+process of game making probably has great insignt and may want to contribute
+to such a list if invited.  Finally, it's not a terribly long list.
+
+So, below is my list of "Game Development Rules and Observations." If you'd
+like me to add something to the list, feel free to e-mail me. Before too
+long, I'll probably re-print everything somewhere.
+
+
+(+ indicates that the item has already appeared in one of my .plan updates)
+
+
+Game Development Rules and Observations
+
++ Pitchford's Law of Production: The accuracy of the release date directly
+  correlates to confidence in the schedule. Without a schedule, there is
+  zero precision in the release date.
+
++ Building a smaller game that is very solid is better than building a
+  huge game that is broken.
+
+- The interface to the game is an obstacle - not a feature.
+
+- Getting feedback from interaction with the game is the whole point.
+  The more rewarding, interesting, unique, beautiful and smart the
+  feedback is, the better the experience.
+
++ The more work (installation, learning, cut-scenes, etc) a new player
+  has to sift through before getting to the actual game the less likely
+  that player will eventually find fun in their experience.
+
++ Always preceed challenge with incentive. Always follow challenges with
+  feedback.  A player must profit from both success *and* failure.
+
+- Do not follow whatever the most respected game of last year was by
+  making the same game and thinking that you can do it better - unless
+  you're making an add-on pack :)
+
++ Remember that you cannot build the game alone. Learning how to
+  successfully interact with your team is often more important than
+  any individual person's creative talent.
+
+- Work with the publisher's marketing people.  They exist to sell your
+  game.  If they like you and care about you, they will put more effort
+  into selling your product.
+
++ Law of FPS deathmatch design: Always make the default weapon a hitscan.
+
+- Sometimes design balance is bad.  Imbalance creates ease or difficulty
+  which can reduce or amplify the sense of accomplishment from success.
+
++ Try not to sweat the little things.  Spending half a day arguing over
+  the color of a character's eyes is counterproductive. Such things rarely
+  affect sales, or the overall response to the product.
+
++ Keep mind of the big picture.  A developer who spends too much time
+  perfecting a tiny piece of the game risks not being able to deliver
+  the whole.
+
++ Focus on your tasks.  Do not allow yourself to worry too much about
+  how everyone else you work with is doing (unless that's your role).
+
++ Things usually take about twice as long as you think they should.
+
++ If you can't find fulfillment in a job as challenging and rewarding
+  as this one, get help. You're probably suicidal.
+
++ This is a really hard one:  Don't burn bridges.  You never know who
+  you're going to have to work with again.  We're all usually guilty
+  of this at least one time before we figure it out.
+
+- Martel's Law of human nature: It's always fun to blow stuff up.
+
++ Amongst the passionate developers who really care about games remember
+  that there are no perfect people, but there are plenty of perfect
+  intentions. Therefore, be considerate of others mistakes.
+
+- Treat others who seem to be slacking with the patience and
+  understanding you'll need when you hit a creative slow point.
+
+- Learn to harness the creativity of those who don't conform in the
+  expected ways.  That guy with the colored hair may look at things
+  differently.  This can be valuable if it can be leveraged.
+
+- Be careful about working with antisocial people.  Often there are
+  reasons why people need to build their identities around strange
+  appearance or behavior.
+
++ Play games.  Play them as much as you make them, if you can.  Be
+  suspicious of the game developer who doesn't play games.
+
+- Game development is about decisions - often with sacrifices.  Allow
+  sacrifices and you will ship your title. Sacrifice too much and your
+  title may fail.  Decisions.
+
++ Assume there will be staff changes during a project.  Think about how
+  a project can adapt if any given member of the team goes away.
+
++ Resource redundancy is a tool.  It can boost moral for workers doing
+  a technically difficult job, but it can lower moral in a system that
+  is expected to be predictable.
+
+- Be careful about attaching a movie or book franchise to a game. The
+  franchise cannot carry the product, but it can get everyone's
+  attention.  If the game is great, it has a strong chance of succeeding.
+  If the game is bad, it will fail miserably.
+
++ Be respectful of competitive development studios.  Some of your best
+  talent may come from there.
+
+- It's okay to be somewhat open with employees about where people stand.
+  No one feels good about the co-worker who doesn't seem to do anything
+  until they learn he's not getting paid very much.
+
+- It's okay to be open with your employers. They'll respect you more if
+  you're honest about the things that concern you.  A predictable resource
+  makes an employer much more comfortable than a loose cannon.
+
++ Don't automatically shun something just because it's easy.  Purists in
+  this business are only hurting themselves.  If a cheap tool or hack
+  trick gets the job done, the job is still done and end users will often
+  be just as satisfied with the end result.
+
++ Understand the limit of quality. Quality is subjective and can be
+  endlessly pursued. Knowing what is 'good enough' is key. Remember that
+  the Mona Lisa only covers 3/4 the canvas the artist originally set out
+  fill.
+
+- Be friendly and respectful to everyone you meet.  You never know how
+  important someone will become in time.  This business changes radically
+  very quickly.  Bill Gates was nobody in 1971.
+
+- When you stop learning, you lose your value. Don't be afraid to learn
+  from the talent around you.  Always learn from your own experience and
+  by watching the experiences of others.
+
++ The 'formula' for a successful game is simple, but it's not what you
+  think. At any given second of the game, if the player is gratified by
+  their experience to the point where they want to play more, you've
+  got it.
+
+- Big flashy introductory movies based around a company logo are usually
+  n

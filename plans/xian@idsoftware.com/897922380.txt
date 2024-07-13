@@ -1,0 +1,85 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 3
+Last Updated: 06/15/1998 11:44:50 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+June 15th, 1998 @ 10:59pm
+
+Worldtouch Network Inc. Part 2 (Not Quake Related)
+
+ Wow, well, in the last 12 hours, I've recieved over 50 e-mails
+from people who have been spammed by WorldTouch Networks (You can
+stop sending me e-mails now. Thank you. It's clear that they are a 
+big problem)
+
+ Part of the reason I'm shedding light on these people and giving them
+more attention than they deserve is;
+
+1) They abuse mail relays (making it difficult to block)
+2) They do not provide a proper return address (making it difficult to filter)
+3) They waste network resources (genuine losers in life...)
+4) They have not removed us from their mailing list despite repeated
+   phone-in requests (if I had a rocket launcher...)
+
+ Normally, when id get's spammed, I just block the server in our
+mailserver, but because these people use mail relay du jour, i'd
+be blocking out some valid mailservers which is not what I want to do.
+
+ I have been professional and patient with the people at Worldtouch Networks
+in trying to get idsoftware.com removed from their spam lists. After two months
+of waiting, and numerous spams later, I've decided that they don't care.
+
+ If you have been spammed by WorldTouch Networks, and wish to be removed,
+I highly urge you to call their unpublished number at (213) 937-9213 and ask them
+to remove you from their list, and put you in their blackbook that they make a 
+mention of in their spam. If you are the owner of a domain, ask them to remove
+your domain from their lists. Call as often as it takes to have your address removed.
+They claim it takes 24 hours before any action is taken.
+
+June 14th, 1998 @ 11:13pm
+
+Worldtouch Network Inc. Part 1 (Not Quake Related)
+
+ If anyone has ever been spammed, and continues to be spammed by 
+the people who make some spam software called Bulls Eye Gold...
+
+
+EMAIL MARKETING WORKS!!
+Bull's Eye Gold is the PREMIER email address collection tool.
+This program allows you to develop TARGETED lists of email
+addresses.  Doctors, florists, MLM, biz opp,...you can collect
+anything...you are only limited by your imagination!  You can
+even collect email addresses for specific states, cities, and
+even countries!  All you need is your web browser and this program.
+
+
+[snip]
+
+ ... please drop me a line. I want to try and find out how much of
+a problem these guys are as we get spammed by them at least twice a week
+and calls to their offices to have our domain removed have proved ineffective.
+
+
+June 14th, 1998 @ 2:27 pm
+
+ I've set up a server here running the deathmatch maps from Xatrix's 
+mission pack.
+
+ It's up at;
+
+ 192.246.30.37:27911
+
+
+---
+"Gonna get the girl, gonna kill the baddies, and save the entire planet"
+                                                  -Pop Will Eat Itself
+---
+
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This

@@ -1,0 +1,16 @@
+Welcome to Human Head Studios' Finger Service V1.6!
+
+Name: Paul MacArthur
+Email: pmacarthur@humanhead.com
+Description: Programmer
+Project: Rune
+Nickname: Teacher
+Web Page: Human Head Studios' Web SiteThis plan file is the opinion of the individual who writes it and does not reflect the opinions of the Human Head Studios.
+Last Updated: 05/24/1999 22:01:59 (Central Standard Time)
+-------------------------------------------------------------------------------
+5/24/99
+-------
+Many thanks (okay, just one) to Rick Johnson for the
+finger server.  Just what we need, another way to burn
+time 8)
+

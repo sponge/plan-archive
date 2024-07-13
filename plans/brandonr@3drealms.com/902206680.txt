@@ -1,0 +1,17 @@
+Login name: arkiva    			In real life: REINHART
+Directory: /homec/arkiva            	Shell: /usr/bin/ksh
+Last login Mon Aug  3 22:19 on ttyq4 from port14.max1.tope
+Project: Getting everything in FF7.
+Plan:
+I apologize if anyone thought I was really attacking Zarniwoop.
+He happens to be a buddy o' mine and I would never mean to
+actually burn the guy!
+
+(Actually I'm embarassed as all hell.  Just goes to show that
+ sarcasm does not upload well at 56k.)
+
+I'm pondering why .plan files are useful.  Sounds like a good
+topic for a PlanetQuake editorial!  Seems like the quickest way
+to get yourself in trouble is to type 'vi .plan'
+	
+    

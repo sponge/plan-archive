@@ -1,0 +1,106 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Rick Johnson
+Email: rjohnson@ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: Quake 4
+Nickname: Superfly
+Web Page: Rick's Web Site TurtleCam! mEATwagon Cult
+Last Updated: 01/24/2002 11:05:18 (Central Standard Time)
+-------------------------------------------------------------------------------
+1/24/2002
+   Ive been waiting to do this announcement in order to get a few decent screen shots, but I seem to 
+      have the artistic talent of taking nothing but boring shots, so Ill do this without them for now.
+
+   Weve been busy working on the SoF2 MP and so Ill announce a few features, which havent been 
+      announced until now.  The first big one is that the Random Mission Generator will be included 
+      with MP.  This includes both the dynamic terrain generation technology and the BSP instantiation 
+      (buildings, walls, other pre-fab stuff).  MOD makers will be able to easily create their own 
+      generation parameters in the external files, add in unique instances, etc.  Therere a few 
+      other surprises in this area that Ill hold off announcing.
+
+   The next technology that weve added to MP is a flexible game-type creation system.  You create a 
+      simple script which defines the entire parameters of the game type.  Maps, with a few minor 
+      changes, can easily support new game types.  For example, we have CTF implement via this system, 
+      as well as two other game types, all of which will ship with the game.  One interesting feature 
+      that has been added is the ability to purchase weapons during each mission phase.  The designer 
+      places buy areas inside the map, and while the player (on the right team) is inside this area, 
+      youll be able to go to a menu to purchase weapons, ammo, armor, etc.  The script can then reward 
+      money to the player based upon the various outcomes that are defined.
+
+   Both of these two core technologies can be combined, as we do have randomly generated CTF going.  
+      In all, this should add some unique flavor to SoF2 MP that hasnt been seen before, as well 
+      as make life a little easier for MOD makers.
+
+   Non-Raven news.  A year ago, I worked on a GameBoy Color game in my spare time, just as a side project
+      and to have a little fun.  I never finished it, and so I decided that I'll be placing the source
+      code out for the public.  I'm not sure when I'll get around to doing this, as my spare time is in
+      short supply.  I'll update my .plan file at some point in the future once I've put out all the files.
+
+
+1/8/2002
+   I've been following a few mailing lists of people doing some work with programmable
+      logic devices (one person is attempting to make an updated version of the Commodore
+      64).  I was thinking of just trying to fiddle around with doing something like this,
+      only on a much simpler scale, as a hobby in a way.  But I'm not sure where to begin.  
+      So if anyone out there has any experience with these sort of devices and would be 
+      willing to point me in the right direction on what I would need to purchase to get going, 
+      that would be most appreciated.
+
+   Sometime shortly, I'll also have a pretty cool announcement about SoF2 MP.
+
+12/2/2001
+   Be aware, there is a Virus going around pretending to be a Quake4 demo.
+   Of course there is no Quake4 demo!
+
+9/21/2001
+   Here's a quick way to do a small (free) donation to help hunger in general:  Chunky Soup
+
+8/15/2001
+   Well, Im back from QuakeCon, still trying to catch up on my sleep.  Just wanted 
+      to say Hi to everyone that I met  had a blast down there, especially announcing 
+      Quake 4.  Met up with a bunch of people from Ritual, Nerve, and even George 
+      Broussard himself.  I heard that he was giving away free copies of Max Payne - pretty cool!
+      Also wanted to say thanks to id Software for putting on this event for their fans.
+
+   I held two sessions on What do you want in Quake 4 as well as attended the JK2 
+      presentations and a group discussion with mod people.  It was interesting 
+      listening to the mod people, their concerns and gripes.  Hopefully Ill be 
+      back next year to participate even more in these discussions to help shape Quake 4.
+
+7/9/2001
+   Well, unfortunately, the SoF 1.07 patch that was released on Friday had a crash bug
+      in it.  You should download the 1.07f Beta patch.  You will need
+      to re-install 1.06 first, then apply this patch.  From all of the reports that I've
+      read on our message board, this clears up all issues.  Make sure that when you are in
+      the main menu, that the version in the lower right says 1.07f
+
+   There were several reasons why QA didn't catch this bug, even though it was blatant when
+      the patch was released to the public.  It is one of those bugs which is difficult to find
+      in QA, given that they don't have the dynamics of people on the internet nor the sheer
+      amount of people.  I do apologize for this incident, and hopefully we'll find a better
+      approach in the future, such as a limited beta release.
+
+6/13/2001
+   Wednesday the 13th!
+
+   As you may have read, we will be releasing a patch for SoF which will be adding
+      direct GameSpy support.  We've also addressed a few minor deathmatch issues.
+      The patch is going through QA and should be out "soon".  Around that time, I will
+      also release a new SDK for SoF which will contain the SoF Gold Game source.
+
+5/7/2001
+   Some of our web sites, sof.ravensoft.com, eliteforce.ravensoft.com, 
+      www2.ravensoft.com will be down for a short period of time as we are moving
+      them over to a new web server.  Thank you, please drive through...
+
+5/2/2001
+   We were going to release pictures of Raven staff actually working on a demo
+      of SoF2 for E3, but instead, I have this little anecdote for you.
+ 
+   On our Cub Foods run, several members of the late night Raven Posse were 
+      heading back, and Brian Raffel was talking about his fixation of doughnuts, 
+      "You know, the great thing about doughnuts is that you can only have one 
+      or two of them, before you start to get sick."  And so I ask, "Hey Brian, 
+      how many did you buy?"  "Three...  I couldn't resist, they were only 
+      $0.25 each", was his reply.

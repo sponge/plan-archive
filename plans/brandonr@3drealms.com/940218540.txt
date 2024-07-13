@@ -1,0 +1,67 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Mon Oct 18 01:53 (EDT) on ttyp1 from 216.27.43.214
+Mail forwarded to brandon@epicgames.com
+Mail last read Sun Oct 17 15:11 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Monday, October 18, 1999
+
+Forward Artillery's latest audio show is up.  This one is hosted
+by Myscha the sled dog and is all about Asheron's Call.
+www.forwardartillery.com
+
+Once UT is shipped, I might have time to do another show myself.
+
+Sunday, October 17, 1999
+
+A few people have emailed me asking about the status of the Linux
+client.  Its ready for release any time, but isn't compatible with
+the current demo.  We have plans to release a patch for the demo
+at some point.  When that is done, the Linux client will be 
+synchronized with the demo and I can release it.
+
+Here is the status of the Linux client todo list:
+
+! Sound volume too loud? Need to be more aggressive with volume?
+! Sound quality could be better.
+! XClient fails to restore keyrepeat on window manager upon exit.
+! Hyphen and equals key sending the wrong KeyType?
+! Occaisional seg fault on shutdown.
+! Need to flush log more often during shutdown in case of seg fault.
+! Need to move FLightManager::Merge to assembly.
+! Need to move UnRender.cpp / static Pipe to assembly.
+! Argument passing to external procs is broken. Fix for ngStats.
+! Do an installer.
+! Update the Mesa renderer.
+
+The performance of the client is comparable to win32 in most scenes.
+Because FLightManager::Merge is using a C++ algorithm instead of
+an optimized assembly algorithm like the win32 counterpart, dynamic
+lighting is slow.  Right now, users will want to turn off dynamic
+lighting.
+
+Control seems pretty good.  I'm not using the X windows DGA extension
+right now, but many people have recommended it.  Most recommendations
+do not come with reasoning, but I'll look into it.
+
+The client is very playable.  I really need to put together an installer
+for it, but porting our installer isn't exactly the most attractive
+of potential projects.  :)
+
+About three weeks ago, I got that setjmp/longjmp crap working so now
+I can safely recover from segmentation faults and print a stack trace
+during shutdown.
+
+I apologize that we haven't been able to get this out sooner, but
+it wasn't ready when the demo was released and I broke compatibility
+soon after.  It isn't languishing on my drive.  In between fixes
+to UT proper, I've been able to get in some work on the client.
+
+Almost forgot! Right now the client only works with glide.  I need
+to slap a G400 in my machine or something and finish up the Mesa
+renderer.  I tried to do this two weeks ago, but had a hell of a time
+with my TNT2.
+	
+    

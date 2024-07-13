@@ -1,0 +1,228 @@
+2000.02.29
+
+Well... I've got good news, and I've got bad news...
+
+I worked most of yesterday and today on UT and WoT compatibility with U2Ed.  I now understand the problems, and for UT, they look solvable... we'll have to hack a bit -- it's messy, but it'll work.  But, the picture isn't so bright for WoT.
+
+Duane is working on the U2Ed patch for UT now.  It'll have a big nasty disclaimer that says, "don't do anything with this, or you'll die"... but, from my testing last Friday, yesterday, and today, maps edited and rebuilt with U2Ed *seem* to be compatible with 405b.  In any case, it'll be "use at your own risk."
+
+The primary problem I encountered with UT is due to our U2 build being based on Epic's 400 version of the engine.  The latest UT 405b patch contains a variety of references to things that "don't exist yet" in our build.  By including our 400 copy of BotPack.u we maintain compatibility... barely... as I said, it's a hack.
+
+For WoT, the situation is much worse.  WoT contains C++ and script modifications that are not in Epic's engine code or in our U2 build.  That means that WoT-specific components are expecting things in the Engine.u/dll that don't exist in our U2 400 build -- the build we're currently using to compile U2Ed.
+
+Resolving the Unreal2 build's incompatibility with The Wheel of Time isn't going to happen.  Sorry.
+
+We should have the experimental U2Ed patch posted by the end of the week.  Stand by....
+
+
+2000.02.25
+
+Here's the U2Ed feature list (stuff Warren Marshall added after making Tim Sweeney's work on "C++ UnrealEd" fully operational):
+
+Brush Clipping
+- clips brushes relative to a 2 or 3 point clipping plane
+- brushes can be split, as well as clipped
+
+Drag Box Selection
+- use the mouse to drag a selection box in any of the 2D windows and release the mouse button to select all actors inside of it
+
+Multiple Vertex Editing
+- option to turn vertices "on", which can then be selected/dragged like regular actors
+- works with drag box selection, so selecting all vertices that define an "edge" is easy - which effectively gives you edge/face manipulation
+
+Configurable Viewports
+- all viewports are floating windows
+- you can have up to 8 active viewports
+- viewports can be resized and positioned any way you want, with that information being saved between sessions
+
+New Brush Factory Options
+- Cube brushes have the option to be built from triangles instead of quads. The resulting brush is handy for making quick rocks or weird subtractive brushes
+- Terrain brushes - creates a cubic brush with the floor tesselated into rows of triangles (you can define the level of tesselation).  You can then drag the vertices vertically to create terrains.
+
+Floating Browsers
+- all browsers are floating windows
+- browers can be resized and positioned any way you want, with that information being saved between sessions
+- dual monitor suppport - drag any browser to your second monitor - full screen texture browser!
+
+UnrealScript Editing Support
+- editing scripts in the editor has many conveniences added in
+- uses a rich edit control, so code is in full color and supports loading scripts of any size
+- quickly switch between open scripts by using a listbox - double click the name to switch to a new script
+- exporting packages works from a multiple selection listbox - select the packages you want, and with one mouse click, they are all saved to disk (easier than saving each on separately using a that old combobox).
+
+Misc/Convenience
+- Color button on light actors calls the standard Windows color selection dialog - automatically converts RGB selections to Unreals format
+- all cursors for all modes have selection crosshairs added to them
+- surface properties dialog has an option to scale textures relatively - so selecting a face and scaling it by 2.0 with the "Relative" box checked, scales it by 2.0 from whatever it currently is and not from 1.0 like it currently always does.
+- ability to scale light values by literal amounts or percentages - so things like "darkening a room a little" become very easy - just select all the lights in the room, and scale them by -10% ...
+- texture browser can filter textures based on text ... so typing in "MET" filters the texture browser to only show you textures with "MET" in the name
+- dialog for locating actors by their name, event or tag
+
+The Unreal2 LDs (Warren, James, Scott, Matt, and Grayson) will be posting screenshots in their .plan updates at some point that show off a few of these features "in action."  (Hmmm...Matt says he's given up .plan updates... you'll have to track down his website.)
+
+Check out http://www.legendent.com for direct access to Legend's plans.
+
+I'm still working on making U2Ed compatible with UT maps... editing UT maps compatibly seems to work.  But, testing them from U2Ed (i.e., "Play Level") probably isn't going to work.
+
+
+2000.02.24
+Cool news... U2Ed is on the way from Legend!
+
+Late last year (after we finished The Wheel of Time), Tim announced that he was not going to finish the C++ UnrealEd.  We spent the last year of development on WoT holding out the hope that he would put on the finishing touches "in the next build."  But, that hope was dashed by his final decision....
+
+Warren Marshall, fresh off of WoT level design, was looking to get his foot in the door on some of the programming work for Unreal2.  Tim's announcement threw the door wide open! Warren walked through... then started running... and never looked back!!!
+
+We'll put out a few specifics later... but, let me put it in historical terms for now:
+
+When I finished the mods for UnrealEd (vertex editing prototype, multi-brush scaling, stretching, rotation, selection, hiding, etc.) on 4/8/1998, Inoxx wrote to me:
+>these new feature are just incredible
+
+A little later that day, Cliff wrote to me:
+> Subject: you absolutely rock
+>
+> Your editor tools are a godsend. May the good lord smile upon you and your
+> cool coding abilities. :)
+> 
+> Now, I'd COMPLETELY worship you if the vertex manipulation worked... :)
+
+The next day, I sent instructions to Cliff about how to use the vertex editing... it was a kludge (using existing capabilities), but it worked.
+
+When I added patches to help our team fix two classes of holes back on 9/12/1998, Scott Dalton (our Lead Level Designer on WoT) wrote in his .plan:
+>Mark Poesch is a freakin' god.
+
+Given these sorts of reactions to relatively "minor" enhancements (less than three or four days of work)... I'm looking forward to the response to Warren's past couple of months worth of work.
+
+More later....
+
+
+A huge "thank you" to Liam and Creative Labs for sending out a couple Annihilator Pros.  Scott has been wowing the rest of the Unreal2 team with the board and the Dagoth Moor Tech Demo.  I'm really looking forward to taking a look at it first hand.
+
+Here's a tip for Win2K gamers... http://www.microsoft.com/windows2000/downloads/deployment/appcompat/default.asp  Looks like Tomb Raider III is off the hook. ;)  Thanks for the lead Eric.
+
+Someone else just mentioned that this was also posted yesterday on http://www.bluesnews.com ... our net access is screwy, so I can't confirm.
+
+>You mention that you got your card running with drivers from 3dfx --
+>are those generally available? Can you share?
+
+Nope.  Sorry.  3Dfx provided them on their developers site in Beta form.  Hopefully they're close to releasing them.  I've encountered a couple "screen goes nuts" type problems that seemed to be a combination of app/game/driver conflicts... but, nothing reproducable.  Two glitches in the past four weeks.  (Netscape 4.7 still isn't 100% solid... but, at least in Win2K the crashes are recoverable.)
+
+>the .plan reader of PlanetQuake -- identified your email address as
+>mpoesch@pdc.legendent.com -- which bounced
+
+I think that's due to the behavior of our finger-server.  Duane has mucked with it from time to time... but, I'm not clear on the details.  It works as a filter... cuts down on email. ;)
+
+>Tim, whoever he may be
+
+Hehe.  I sometimes forget that not everyone in the world is a hard-core fan following Unreal Tournament and Epic's efforts.  Check out http://unreal.epicgames.com/
+
+
+2000.02.23
+Regarding game performance under Win2K, here's the full summary of my tests from yesterday:
+
+60% Infernal Machine
+- Win2K recognition failed (no effect on install)
+- load game and resume cause crash (possibly due to prior Win98 install)
+- lost audio after restarting (recovered following reboot)
+- graphics problems (white screen -- unrecoverable... game still playing)
+- audio lost during game-play
+
+100% Delta Force 2
+- no problems
+
+80% System Shock 2
+- NT test succeeded "Win2K/DX7 not supported" -- ABORT INSTALL!
+- Website tech support recommended command-line install workaround (switch)
+- copy protection failed under Win2K (indicated by tech support)
+- patch applied successfully -- fixed copy protection
+- audio mixing problems (snap, crackle, pop) -- minor, but annoying
+
+0% Tomb Raider III
+- total install failure
+- no tech support help on website
+
+100% Homeworld
+- no problems
+
+100% Half-Life
+- Applied TFC patch
+- no problems
+
+100% Unreal Tournament
+- no problems
+
+100% Quake3
+- no problems
+
+95% Freespace 2
+- minor cutscene crackle (possibly due to CD drivers)
+
+95% Final Fantasy VIII
+- CD read hitch during opening cutscene
+
+
+2000.02.22
+My inbox is piled high with responses to my previous update... all six of you. ;)  So... I guess I'll have to put my "PR" hat on more often.
+
+Friday was a long day -- 4.5 hours down and 4.5 hours back (fortunately, Bob drove) to see Brandon and Tim's work on the PS2 port of the engine.  It's looking *way* cool.  Brandon and Tim are true geniuses. :)  We had several good discussions, and I got a special bonus...
+
+I convinced Tim to take me for a test drive in his new Ferrari... Wow!  "I have got to get me one of these!" was the line from "Independence Day" that kept ringing in my ears.
+
+More "real" news soon...  Paul and I are about to meet to discuss the U2 user interface design... gotta go!
+
+
+2000.02.17
+Hmmm... so much for regular updates.  My huge (all five of you) fan-base will be diminishing if I don't get my act in gear.
+
+Tim just posted:
+>I just got the final Windows 2000 today.  There have been some lukewarm articles 
+>about Windows 2000 lately, which I think really understate the progress of this 
+>new OS.  I've been beta testing Win2K for about 15 months, and can testify that 
+>it's the most thorough and productive operating system I've ever used*.  
+>Combining the rock-solid stability of NT 4.0, and the latest peripheral and 
+>Direct3D support for Windows 98, it's a game developers' dream system.  
+>It should be in stores in a few days. 
+Ah... I can see Microsoft has given Tim his latest "pod" upgrade. ;)
+
+I went through the Win2K acclimation process toward the end of the year -- based on Tim's comments about RC2, I figured, "never a better time than now!"  Well.... RC2 was slow as hell!  I never researched it carefully, but I suffered through a week of app installation and configuration until I finally had it right.  Lucky for me, the RC4 CD showed up... followed by a final "Eval" copy.
+
+I ran into two major problems: access to our color printer was screwed up -- eventually that was resolved (stupid user config problems)... and I lost my Voodoo3 3000 support.  Eventually, I was able to resolve this with Win2K drivers from 3Dfx.
+
+Now, Im a happy camper.  Win2K seems to have all of the benefits of Win98 and WinNT, but few of the drawbacks of each.   DirectX support is solid, driver support seems to be thorough and solid (although T1 Internet access is a plus for dealing with any hick-ups).
+
+Device management (especially for hard-drives) is nice.  My 18G SCSI-3 drive was showing up as a 36G drive with two 18G partitions.  Although I could have used the space, something seemed wrong.  I still havent fixed the underlying problem, but Win2K made it easy to sweep it under the carpet by hiding the second phantom partition.
+
+If I get any indication that someone is reading this, I might actually start talking about Unreal2-related stuff... ;)
+
+For the past three months we (especially me) have been in "planning" mode.  Now that the rubber has finally hit the road, I should have more that I can talk about.
+
+
+2000.01.07
+Here are a few soundtracks that I've enjoyed a lot recently:
+
+- "Contact: Soundtrack" -- the primary theme (only 14 notes!) is awesome.  I bought the CD primarily because I loved the music during the end credits so much.  The "theme" provides commonality between several of the pieces -- a lot like the work John Williams did for Star Wars.
+
+- "James Bond: The World Is Not Enough" -- if the movie was half as good as the sound track, it'd be awesome.  Classic John Berry style mixed with "Matrix"-like (techno) elements.  Again, the theme from the title song runs through many of the pieces providing a nice sense of continuity between the pieces.  Drama and intensity had me on the edge of my seat in several pieces. :)  On the other hand, the final track was so bad that I didn't listen to it all the way through...
+
+- "Grosse Pointe Blank" DVD -- I don't know exactly what it is, but there's something in these pieces that just make this movie "pop" -- perfect.  (I watched this movie three times within a week... I loved it!)
+
+- "Matrix" DVD -- very cool -- you can play the sound with music and commentary only -- awesome analysis.
+
+
+2000.01.03
+Happy New Year!
+
+I guess the Y2K bug didn't end the world... yet.
+
+I'm still recovering from Christmas and New Years.  Once I'm back in gear, I'll spew something more substantial...
+
+
+1999.11.24
+Cool!  Duane has a new "dynamic finger page" running for the entire company... at any given moment in time, you can check to see who's wasting the most time updating their plan file. ;)
+
+Lots of planning underway for Unreal2 -- many things afoot... but, nothing I can talk about right now.  It's all too preliminary.  I'm going to start updating more regularly once we get out of pre-production.
+
+I'll probably have more follow-up info re: WoT at some point as well.  Although, Glen's updates at http://www.wheeloftime.com probably say everything that needs to be said.  Between our BBS, our readme at http://www.legendent.com/wheeloftime/readme/english.htm and GT's support link at http://www.gtisonline.com/pc/wheeloftime.html, I think we're almost at the point of providing too many sources of information.  What do you think?   Write to Sam on our BBS.
+
+Hey, I guess you can tell it's been a while since I've visited the BBS -- cool new format.  I love the "summary icon" -- not too many thumbs downs... that's always nice. ;)
+
+Check it out: http://forums.gtgames.com/ubb/forumdisplay.cgi?action=topics&number=6&SUBMIT=Go

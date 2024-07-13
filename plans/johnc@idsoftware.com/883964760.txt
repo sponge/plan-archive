@@ -1,0 +1,376 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 01/04/1998 21:53:18 (Central Standard Time)
+-------------------------------------------------------------------------------
+------------------------------
+Jan 4:
+
+Version 3.10 patch is now out.
+
+ftp://ftp.idsoftware.com/idstuff/quake2/q2-310.exe
+
+A few more minor fixes since yesterday:
+
+* qhost support
+* made qport more random
+* fixed map reconnecting
+* removed s_sounddir
+* print out primary / secondary sound buffer status on init
+* abort game after a single net error if not dedicated
+* fixed sound loss when changing sound compatability
+* removed redundant reliable overflow print on servers
+* gl_lockpvs for map development checking
+* made s_primary 0 the default
+
+Christian will be updating the bug page tomorrow.  So hold
+of on all reporting for 24 hours, then check the page to
+make sure the bug is not already known.
+http://www.idsoftware.com/cgi-win/bugs.exe
+
+All bug reports should go to Christian:  xian@idsoftware.com.
+
+
+I have had several cases of people with lockup problems
+and decompression overreads having their problems fixed
+after they mentioned that they were overclocking either
+their CPU, their system bus (to 75mhz), or their 3DFX.
+
+It doesn't matter if "it works for everything else", it
+still may be the source of the problem.
+
+I know that some people are still having problems with
+vanilla systems, though.  I have tried everything I can
+think of remotely, but if someone from the Dallas area wants
+to bring a system by our office, I can try some more serious
+investigations.
+
+Something that has shown to help with some 3dfx problems is
+to set "cl_maxfps 31", which will keep the console between
+level changes from rendering too fast, which has caused some
+cards to hang the system.
+
+------------------------------
+Jan 3: 8:30:
+
+New stuff fixed:
+
+* timeout based non-active packet streams
+* FS_Read with CD off checks
+* dedicated server not allocate client ports
+* qport proxy checking stuff
+* fixed mouse wheel control
+* forced newlines on several Cbuf_AddText ()
+* if no nextmap on a level, just stay on same one
+* chat maximums to prevent user forced overflows
+* limit stringcmds per frame to prevent malicious use
+* helped jumping down slopes
+* checksum client move messages to prevent proxy bots
+* challenge / response connection process
+* fixed rcon
+* made muzzle flash lights single frame, rather than 0.1 sec
+
+I still don't have an answer to the WAADRNOTAVAILABLE problem.
+I have made the packet stream as friendly as possible, but some
+computers are still choking.
+
+I managed to get fixes for address translating routers done
+without costing any bandwidth from the server, just a couple
+bytes from the client, which isn't usually a critical path.
+
+I have spent a fair amount of time trying to protect against
+"bad" users in this release.  I'm sure there will be more things
+that come up, but I know I got a few of the ones that are
+currently being exploited.
+
+We will address any attack that can make a server crash.  Other
+attacks will have to have the damage and prevelence weighed
+against the cost of defending against it.
+
+Client message overflows.  The maximum number of commands that
+can be issued in a user packet has been limited.  This prevents
+a client from doing enough "says" or "kills" to overflow the
+message buffers of other clients.
+
+Challenge on connection.  A connection request to a server is
+now a two stage process of requesting a challenge, then using
+it to connect.  This prevents denial of service attacks where
+connection packets with forged IPs are flooded at a server,
+preventing any other users from connecting until they timeout.
+
+Client packet checksumming.  The packets are encoded in a way
+that will prevent proxies that muck with the packet contents,
+like the stoogebot, from working.
+
+
+------------------------------
+Jan 3:
+
+Are there any quake fans working with the tera MTA prototype
+at UCSD?  I am real curious to see how some of my threaded codes 
+(qvis3, qrad3) would run on the MTA.
+
+------------------------------
+Jan 2:
+
+Wired magazine does something that almost no other print magazine
+we have dealt with does.
+
+They check the statements they are going to print.
+
+I just got a "fact check" questionair email from wired about
+an upcoming article, and I recall that they did this last
+time the did an article about us.
+
+Most of the time when we talk with the press, we try to get
+them to send us a proof of the article for fact checking.  They
+usually roll their eyes, and grudgingly agree, then don't send
+us anything, or send it to us after it has gone to press.
+
+Wired had a few errors in their statements, but it won't get
+printed that way because they checked with us.
+
+How refreshing.
+
+----
+
+A small public announcement:
+
+The Linux Expo is looking for: 
+
+1. People that develop games or game servers in *nix, and 
+2. People interested in learning how to develop games in *nix.
+
+Either one should give a write to ddt@crack.com.
+
+
+------------------------------
+Jan 1:
+
+Some of the things I have changed recently:
+
+* fixed the cinematics
+* don't clear config after dedicated server
+* don't reallocate sockets unless needed
+* don't process channel packets while connecting
+* rate variable for modem bandwidth choking
+* delta compress client usercmds
+* fixed sound quality changing after intermissions
+* fixed PVS problem when head was directly under solid in GL
+* added r_drawflat and cl_testlights to cheats
+
+There are a few problems that I am still trying to track down:
+
+WSAEADDRNOTAVAIL errors
+Map versions differ error
+Sometimes connecting and seeing messages but not getting in
+Decompression read overrun.
+
+Of course, we don't actually get any of those errors on any
+of our systems here, so I am having to work remotely with
+other users to try and fix them, which is a bit tougher.
+
+My new years resolution is to improve my coding style by
+bracing all single line statements and consistantly using
+following caps on multi word varaible names.
+
+Actually, I am currently trying on the full sun coding style,
+but I'm not so sure about some of the commant conventions:  don't
+use multiple lines of // comments, and don't use rows of
+seperating characters in comments.  I'm not convinced those
+are good guidelines.
+
+------------------------------
+Dec 31: 4:40 AM:
+
+A user just reported having their net quake problems go
+away when they killed ICQ.  I suppose it has never been stated
+directly, so here goes:
+
+Quake needs all the bandwidth that a modem connection provides
+to play well.  Any other program accessing the internet is
+going to cause a degredation in gameplay, sometimes severe.
+
+So quit IRC, ICQ, email, and web browsers before setting out
+for serious net play unless you have ISDN or better.
+
+------------------------------
+Dec 31: 12:41 PM CST:
+
+I just spent a few hours working with a quake player that
+still couldn't net quake with 3.09.  
+
+It took a while, but I finally understand what is going on.
+
+He could play net games on his local lan, but when he tried to
+connect to remote servers, it would always fail and timeout
+midway through the connection process, or at most a few seconds
+into the game. 
+
+The situation was that there was a small network of computers
+connected to an ISDN router that did address translation.
+
+Address translation allows multiple computers to use the internet
+through a single TCP/IP address.  This is accomplished by having
+the router perform some "invisible" port and ip renaming on
+everything that goes out.
+
+I think that is a rather evil thing for a router to do, but I
+suppose I can see the incentive from an address pressure viewpoint.
+
+Routers know when TCP streams begin and end, so they make sure the
+port mappings stay constant through the entire thing, but quake
+uses UDP packets (anyone who suggests using TCP for a realtime
+game does not understand how the error recovery works), and the
+router apears to be making the incorrect assumption that UDP is
+only used for simple request / response protocols.
+
+The router changes the UDP port while you are playing.
+
+Grrrr.
+
+Now, a smarter router would only change the port numbers when it
+was actually forced to by a collision, which would only be when
+a connection was first opened, and everything would work out ok.
+
+After I understood what was happening, I could devise a fix for
+it.  My simple fix was to make the server simply ignore the port
+number for client comparisons, and assume that if a packet came
+from the same IP address, then it is the same player even if the
+port number changed.  That worked, and he was able to connect in
+to my modified server.
+
+That has the distinct drawback of making translating routers or
+proxies that do the port mapping correctly unusable by more than
+one player at a time.
+
+I could fix it completely by including a sort of port number in
+each message, and having the servers match and update UDP ports
+based on that.  That would work fine, but at the cost of adding
+a byte or two to everyone's packets to help out people with bad
+routers.  You wouldn't be able to tell a difference, but its the
+principle of it...
+
+I could make a server side cvar to force port fixing on, but that
+would still not work for one class of users or the other.
+
+I could make it client settable and have the client tell the server
+on connect that it needs port fixing.  That would work with no
+bandwidth cost to anyone, but it would require users to know that
+if they can't connect to servers, then they should try to use the
+fix translation option.  Unfortunately, I bet that there are some
+routers that exhibit this problem much less often.  A drop every
+ten minutes would be hard to attribute.
+
+I could make port fixing on by default, but if anyone is on a
+translated lan and another person tries to start a net quake game
+to the same server then they will both collide and crash and burn.
+
+I am probably going to add the extra bytes to every packet.  Being
+automatically robust on more people's systems is probably worth a
+microscopic loss of bandwidth.  Two bytes is under one millisecond
+of ping on a modem.
+
+If there is some magic range of port values that I can use to make
+these routers act better, let me know.
+
+These changes will break the connection protocol again, so I am
+going to hold off on the patch for a while.
+
+------------------------------
+Dec 30: 2:30 PM CST:
+
+Until we release the new gamex86 source code, if you want to
+make mods work with 3.09, change GAME_API_VERSION to:
+
+#define	GAME_API_VERSION	2
+
+and recompile the mod.
+
+This will let it run with the 3.09 servers.  The API didn't
+actually change, I just had to bump that version number so that
+we could detect the old q2test dlls still hanging around.
+
+------------------------------
+Dec 29: 11:30 PM CST:
+
+We have rebuilt the 3.09 patch with a new version of the install
+program.  Some people were not able to run the installer because
+a temp directory wasn't setup correctly.  There are NO OTHER CHANGES
+in this, so if you were able to install the last 3.09, don't bother
+getting this one.
+
+ftp://ftp.idsoftware.com/idstuff/quake2/q2-309-2.exe
+
+------------------------------
+Dec 29: 8:00 PM CST:
+
+Please cool it a bit with the email to me unless it is really
+important.  I'll never get trinity done with the email pouring
+in the way it is right now...
+
+------------------------------
+Dec 29: 2:30 PM CST:
+
+The only widely reported problem with 3.09 is that the
+video playback is choppy.  The fix for the modem connections
+reduced video playback to 10 fps.  Its a one line fix, but
+I'll hold off on another version until a few more things
+accumulate.
+
+I am curious what the breakdown of opinion is on the rapid
+patch releases.  If one of the polling websites would pose
+the question, I would apreciate it.
+
+A more liesurely patch release would allow us more testing time, and
+some problems (like this cinematic bug) would certainly be killed
+before the public saw it, but I definately found a couple things from 
+the public that no amount of testing on our machines would have found.
+Some things only showed up with 48 people playing on our servers for
+several hours.
+
+Once again, we really didn't have a choice this time because of the
+server crashers, but we are planning another release in two to three
+weeks.
+
+I am happy to produce new versions fairly rapidly, rather than at monthly
+intervals, but I know that many people are getting a little irate at
+having to download new patches.  There is a simple solution -- if you
+don't want to be on the bleeding edge, wait a week after a patch is
+announced and see how it is working for other people.
+
+What finally helped me get to the bottom of some things was
+just getting people with problems we couldn't reproduce to call
+me and let me send them executables by email until I figured out
+what was going on.  From now on, if you send a detailed problem to me,
+include a phone number and times when you can be reached.  I'm not tech
+support, so you certainly can't count on a response, but if you have
+a nice repeatable case of a problem that is high priority for us that
+we can't reproduce otherwise, your personal help may be usefull.
+
+BTW, does anyone know why Quake 2 became a hacker target?  I can keep
+fighting attacks, but spending my time there doesn't help anyones game,
+and there are a bunch of things that fundamentally can't be stopped if
+people really set their mind to messing up the servers.
+
+------------------------------
+Dec 29, 2:25 AM CST:
+
+new version:
+
+ftp://ftp.idsoftware.com/idstuff/quake2/q2-309.exe
+
+This one has an install that makes sure things get where they
+need to...
+
+
+------------------------------
+Dec 28, 9:30 PM CST:
+
+If Quake2 is crashing on you after upgrading, it is probably
+because you still have the gamex86.dll from q2test in your
+quake2 directory.  The latest quake2.exe just started looking
+in th

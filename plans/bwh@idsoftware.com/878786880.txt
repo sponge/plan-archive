@@ -1,0 +1,125 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 11/05/1997 23:20:16 (Central Standard Time)
+-------------------------------------------------------------------------------
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+November 5, 1997 (part 2)
+------------------
+
+I was made aware of the Gamecenter comments about Voodoo2.  I agree with their
+sentiment -- don't trust benchmarks unless you can reproduce them yourself --
+but the delivery definitely DID imply that there was a more than insubstantial
+chance that 3Dfx was massaging the numbers.
+
+My experience with 3Dfx (both as an employee and as a developer) is that they
+don't pull stupid crap like that.  Unlike many other chip companies, 3Dfx has
+always taken the straight and narrow approach of performance -- give everyone
+as much performance and as many features as they want.  With a brute force
+approach like this you don't HAVE to do lame stuff like ignore certain states
+during benchmarks, or detecting the application running and figuring out that
+it's a benchmark and doing weird stuff.
+
+When the first 3D accelerators arrived on the scene, 3Dfx was the ONLY company
+that came even REMOTELY close to reaching their claimed performance numbers.
+They claimed around 45 mpixels/second, and I've measured their performance at
+around 40 mpixels/second.  Other companies claimed 30-40 mpixels/second, but
+the minute you turned on a bunch of different features they'd fall off a cliff
+or, in some cases, cease working altogether.
+
+I've never held a Voodoo2, seen a Voodoo2, or used a Voodoo2, but I'm confident
+that it's going to kick ass.  Why do I believe this?  Because 3Dfx has a good
+track record of delivering top notch product without relying on misleading
+marketing.  3Dfx makes the BEST GAME ACCELERATOR ON THE MARKET TODAY, and I
+have no reason to believe that their next product is going to suck.
+
+That said, I'm not backing the Voodoo2 without reservation -- there is always
+the CHANCE that 3Dfx screwed it up in some manner, or that they're being
+overzealous in their claims, so I still need to verify their numbers
+personally.  Not only that, but TIMEDEMO numbers are REAL tweaky and very
+sensitive to the conditions under which they are gathered (environment
+variables, cvars, etc.).
+
+But even with that grain of salt, I'm still giving them the benefit of the
+doubt since they've done nothing to earn my distrust and they've proven they
+can produce a product that is dominant.  I remember when I was working at 
+3Dfx in the early days, and EVERYONE said we couldn't get the performance we
+were claiming -- EVERYONE said this.  "You're running this on an SGI RE, and
+that's bogus" "These are movie files from a C-simulator, that's bogus" ad
+nauseam.  I was too stupid and naive to be cynical at the time, so I blindly
+believed that Gary Tarolli, Scott Sellers, and Jim Margeson could pull it 
+off.
+
+And they did.
+
+Game developers, the press, venture capitalists, just about everyone involved
+on the outside was skeptical of 3Dfx's performance claims.  And they had 
+every right to be -- 3Dfx didn't have a track record, and other companies were
+claiming similar performance, quality, and features and not delivering within
+a million miles of their quoted claims.  They used lame excuses like "we quoted
+peak numbers, not sustained", or "we're host limited, but our part is CAPABLE
+of going this fast on an infinitely fast CPU" yadda yadda yadda.
+
+But once the Voodoo shipped (it'll always be SST-1 to me, dammit), just about
+everyone shut up.  There is nothing like an existence proof to get your 
+detractors to shut the hell up.
+
+Unfortunately, there are always those that, for some unfathomable reason, 
+choose to ignore benchmarks, game developer feedback, and even their own eyes.
+
+Why do some journalists constantly give vendors with a poor track record the
+benefit of the doubt, but give other vendors with a good track record the
+wary eye?  This seems like somewhat inexplicable behaviour, and I've heard
+disturbing rumors as to why this type of behaviour exists, but so far I've
+seen nothing to substantiate these rumors.
+
+My point is this:
+
+When you're the best at what you do, you deserve to have the benefit of the
+doubt when it comes to the quality of your follow-up products.  Conversely,
+if you've screwed it up in the past, don't expect everyone to greet your
+next product with overwhelming enthusiasm.
+
+I think Voodoo2 will rock.  I'll wait on giving a definitive report when I 
+receive one and pound on it a bit, but right now 3Dfx deserves, at the very
+least, the benefit of the doubt.  And if anything they don't deserve to be
+tossed into the bucket of all the other hypemasters that have burned the
+tongues of consumers so many times before.  I've found VERY few people who
+have been disappointed after buying a Monster3D or Righteous3D.  Unfortunately,
+I've met far too many people who have felt cheated and ripped off by buying
+other 3D accelerators that were overpriced, underpowered, and orphaned after
+six months.
+
+And another thing:  would 3Dfx be so stupid as to claim some performance
+numbers that were bogus, then turn around and give reference boards to THE
+PRESS a week later?
+
+And no, I have no bias for 3Dfx -- remember, I quit that company, and I had a
+lot of good reasons for doing so (personal and professional) -- but regardless
+of my feelings, both good and bad, for 3Dfx and some of its employees, I damn
+well know they have some of the best engineers in the business, and I'm 
+confident (and I hope I'm not disappointed) that the original founders that
+remain have enough sway internally that 3Dfx won't end up mutating into
+yet another 3D accelerator company that puts more stake on hype than substance.
+
+3Dfx's chips speak for themselves, in terms of performance, quality, and
+support.  3Dfx doesn't NEED to make up bogus numbers.
+
+However, the names "PixelFx2" and "TexelFx2" have GOT TO GO. :-)
+
+November 5, 1997 (early AM)
+------------------
+
+On the advice of some of you folks I'm going to check out the TracePoint
+profiler (http://www.tracepoint.com).  That's my first priority, since
+we're in the heavy optimization phase right now of things and we need a 
+good profiler to

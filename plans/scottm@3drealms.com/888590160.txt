@@ -1,0 +1,256 @@
+Account Name:  Scott Miller
+Email address: scottm@3drealms.com
+----------
+========================================
+Feb. 27, 1998
+
+Doing a Duke movie is beyond cool.  Our deal with Threshold gives us creative
+control and input, and we're doing our best to make sure this movie is not
+another Judge Dredd or Batman and Robin.  It's pretty amazing talking to
+Hollywood big shots and having them ask you for your opinion on everything
+from who should play Duke, where should the movie take place, and story ideas. 
+There's actually a lot of common ground between making movies and games.
+
+I can't give away details yet, but the Duke movie is not the only one we're
+working on!  Please don't email me with guess--I will not acknowledge correct
+guesses until the news has been made public, which should be in about a month. 
+I must say, though, that our publisher, GTIS, has been doing a terrific job
+exploiting our games in other media.
+
+Weekly Puzzle:  Not really a puzzle, but a cool question I recently heard: 
+What was the first man-made object to go faster than the speed of sound?  The
+answer will be on www.3dportal.com sometime today.
+
+========================================
+Feb. 20, 1998
+
+I officially like Intel, and I can tell you over a dozen expensive
+reasons why.  :)
+
+I recently saw the following exchange in an online interview:
+
+Question to CEO of large game publisher:  "When being at the top of such a
+huge company, do you even have the time to play all of the games [your
+company] creates?"
+
+Answer from CEO:  "Not really. I do a few hours of each game, but that's it."
+
+I think this reveals a key problem with most publishers, and possibly many
+larger development houses:  The top person or people--the people who make the
+important game development decisions--do not play games and probably are out
+of touch with game design.
+
+I think if you look around at the developers who release the best games,
+you'll see that the owners and top decision makers at these companies are
+intimately involved with game design, and have a long track record of game
+design.  That's the way it is at Ion Storm, id, Ritual, 3D Realms, TRI, Epic,
+Blizzard, Volition, and many others I'm aware of.
+
+As a board member of the Gathering of Developers, I think this will be one of
+the Gathering's key strengths:  the fact that the board of directors is mostly
+comprised of developer members who have a long history of being in the
+trenches of game developmen.  This unique board setup should result in a far
+most consistent line-up of successful titles.
+
+Duke Nukem:  Time to Kill -- News has leaked and spread rapidly about this
+title, which is being developed by n-Space (Playstation version) and Eurocom
+(N64 version).  This title has been in development for nearly 10 months, and
+is already looking quite fantastic.  And there's still a *lot* of development
+left to do, so the end result should be one of the better polished console
+titles this year.
+
+3D Realms is working closely with n-Space and Eurocom to design these games,
+and they're going to have all the edge and coolness that players expect from a
+Duke game, including tons of new in-jokes and new Duke speech.  And since
+they're being developed specifically for the console market (no PC version
+will ever exist), we're able to take advantage of all the unique features of
+the consoles. The game's technology, even at this stage, is ahead of the
+technology I've seen in Tomb Raider II, especially in the area of cool special
+effects.  For example, the Duke's flame thrower effect is easily the best I've
+ever seen in any video game.
+
+Okay, enough horn-tootin', here's the weekly puzzle, which was submitted by
+several people:  You are in a room with three light switches.  Two of the
+switches do nothing and the other turns on a light in a nearby enclosed room. 
+All of the switches are currently in the "off" position.  You can not see into
+the room to tell when the light is on.  If you can only go into the room once,
+can you tell which switch is the one that controls the light?
+
+The answer will be at www.3dportal.com, a very cool web site dedicated to news
+about 3D Realms and our games.  Bonus tip:  Do not rent Event Horizon or
+Father's Day.  Chasing Amy is a lot of fun, though.
+
+========================================
+Feb. 13, 1998
+
+Been a very, very busy week, with many positive things happening.
+
+Weekly puzzle:
+
+While exploring an uncharted jungle island, Ms. Croft was captured by hostile
+natives who said she could make one final statement before being killed, and
+this statement would determine her manner of death.  If the statement she made
+was false, she would be boiled in water.  If her statement was true, she would
+be cooked in oil.  (Either way, making a tasty dish for the natives.) 
+However, Ms. Croft, not one for being eaten, made a statement that saved her
+life.  What final statement did she make?
+
+Please do not email me.  The answer will be at www.3dportal.com typically
+within a few hours.
+
+========================================
+Feb. 9, 1998
+
+Interplay recently released Descent to Undermountain, a D&D game based on the
+Descent engine.  Here's their web page that covers the game:
+http://www.dragonplay.com/under.html.
+
+In an extensive features list, they include the following bullet points:
+
+o  "Increased the number of texture maps the engine is capable of handling to
+3000 or almost unlimited (compared with 150 texture maps for the average
+action game like Duke Nukem and Quake)"
+
+Sorry, but Duke Nukem 3D used way more than 150 texture maps--closer to 2000.
+
+o  "Can have three times as many creatures within the game screen at one time
+compared with Duke Nukem or Quake"
+
+Not compared to Duke Nukem, which was sprite-based, a method that is far
+faster than polygon rendered characters.
+
+o  "Descent engine remains the best rendering 3-D engine ever"
+
+  Descent to Undermountain's engine is *not* as advanced as the Quake
+engine.
+
+I guess these exaggerated and misleading features are needed to hide the fact
+that the game has been poorly rated.  GameSpot, for example, slammed the game
+giving it 3.7 of 10 stars:
+http://www.gamespot.com/rpg/undermou/index.html
+
+To any publisher wishing to compare their game with ours, all I ask is to get
+the comparisons somewhere close to correct.  The best comparison is the sales
+figures--let's give Descent to Undermountain a year of sales, and then compare
+that with Duke's first year of sales and Quake's first year.  That'll show how
+DtoU really stacks up.  ;)
+
+========================================
+Feb. 6, 1998
+
+There's rarely a day that goes by that I'm not asked how to get a job as a
+game developer.  I typically answer that it's a combination of perseverance,
+talent and luck, in that order, and then I point the person to a few game
+development web sites.  This answer often results in several follow up
+questions.  So, I bit the bullet (quite tasty, actually) and spent half an
+hour on a more detailed answer that I can use as a standard reply, and
+hopefully it covers most of the bases.  Since this information might be useful
+to those who have written me before, and to those who never will, I'll posting
+it here as a one-time shot.
+
+How to get into the game industry as a developer:
+
+[1]  Unless you love to play games, don't bother.  Unless you've played a
+hundred plus games, you'll have little chance.  Playing games, studying their
+gameplay, strengths and weaknesses, is like going to game developer college. 
+I've spent 22 years in this college, and I'll never graduate--no one ever
+does.  Don't feel like you've ever learned all there is to know about game
+design.
+
+[2]  Pay your dues.  This includes playing games, but it's much more.  If you
+want to be a level designer, then design levels.  If you want to be an artist,
+then draw art.  If you want to be a programmer, then learn C, and program
+things that interest you, like small games and graphics demos.  Most of the
+best game developers I know learned very little about their craft in school,
+they were mostly self-taught.  This isn't to say school/college isn't
+important, but the best developers, those who are passionate and would be
+doing it anyway as a hobby, extended their talent and knowledge by being
+self-motivated and by devouring, learning and living their passion on their
+own time.  For example, would we ever hire a programmer who doesn't own a
+computer at home?  I think not.
+
+[3]  Take the initiative.  It's up to you to develop friends and contacts
+within the industry--a people network.  If you look at most of the people who
+have been hired (especially off the Internet), they were people who were
+proactive in letting it be known they had talent and were available.  They got
+involved with the game community somehow.
+
+Try to get involved in game development on a amateur level.  Release your work
+(levels, mods, art) freely on the web.  Contact game sites and fan sites to
+distribute and write about your work.  Doing this is a great way to get
+noticed by real development companies.
+
+[4]  Sending samples and/or demos is the key to getting hired!  A programmer
+must have several impressive demos to show, an artist needs a portfolio, and a
+level designer needs at least four to six impressive levels.  Without samples
+and demos, you're not going to make it far at all.  (Don't send ideas, game
+concepts, or other text only treatments.  Publishers and developers are not
+looking for idea people, instead they're looking for people with the talent,
+desire and means to implement these ideas.  Ideas on their own are next to
+worthless in getting you a job.)
+
+Scan developers' web sites to see what's available, and what projects are
+getting underway, then send them samples of your work.
+
+Send your samples in a way that's easy to review.  For an artist, for example,
+it's best to send hardcopy samples, a burned CD full of samples, and even a
+video tape showing animations.  The hardcopy work will be the first
+impression, and determine whether looking at the other material is worth the
+effort or not.
+
+[5]  Visit game design sites, participate in newsgroups about game design, and
+join game design organizations.  Here are a few sites worth checking out:
+
+http://gamasutra.com/
+
+http://www.ben2.ucla.edu/~permadi/gamelink/gamelink.html
+
+http://www.videogamedesign.com/
+
+http://www.inside3d.com/gdc/
+
+http://www.igdn.org/
+
+http://www.cgdc.com
+
+http://www.godgames.com/
+
+Also, there are magazines, like Game Developers magazine, and plenty of great
+books that cover game design, but too many to list here.
+
+Overall, the important points are to play games and learn from them, be
+proactive in networking with others in the industry (build up a list of
+contacts), and spend much of your time bettering your talents and building a
+portfolio.  Do these things, and luck, the final factor, usually works in your
+favor.  :)
+
+Finally, the weekly puzzler:  Duke Nukem is trapped by Dr. Proton in a
+reinforced steel room with the ceiling quickly coming down on him.  Duke's in
+front of a computer with the following number sequence on the display:  10, 4,
+3, 11, 15.  Over the room's speaker, Dr. Proton laughs and taunts Duke,
+saying:  "This time you're done, Duke Pukem, unless you can figure out the
+next number in the sequence, either 1, 12, 14 or 17.  Picking the right number
+opens the escape door.  Picking the wrong number locks the computer, and
+ensures your painful demise.  Also..."  (At that moment, Duke, getting quite
+bored of the one-way conversation, launched an RPG at the speaker.)  Which of
+the four numbers does Duke need to type to escape Proton's death room?
+
+BTW, at least a googol people sent me answers to my last puzzle, which kept me
+kind of busy.  Please, only email me if you have something truly fascinating
+to say regarding the puzzle, or you have a new puzzle to send me (if you do
+so, please send the answer in a follow-up email, in case I'm not smart enough
+to figure it out, which happens often ).  Otherwise, visit
+http://www.3dportal.com, where the answers to all puzzles can be found.  :)
+
+========================================
+Feb. 3, 1998
+
+In the new March issue of Computer Gaming World, columnist Jeff Green (page 235) states his opinion that the Professional Gamers' League (PGL) "is one huge case of wishful thinking," and "The [PGL] is not for you.  Get it out of your head."
+
+Up front, I'll make sure all reading this know I'm a board member for the PGL, but I'm far removed from the daily operation of this organization, and I think I can claim a reasonably unbiased viewpoint.
+
+I hope and believe the PGL will succeed, and if it doesn't I hope something similar succeeds in its place.  I think this industry needs recognized game champions, as it helps to promote the entire industry, it creates more jobs for people wanting in the industry, and it rewards players who excel, as they are rewarded in other sports and skills.
+
+Is game playing a sport?  I can put forth a strong argument that it's as much a sport as billiards, and requires as much intelligence as games like chess and bridge, all three of which have organized national tournaments and sponsors and world champions.
+
+The only difference I can see is that computer games rarely have a life over a year (due to advancing technology), and therefore players must constantly learn new skills, for new games, in order to stay competitive.  This fact alone makes it extremely tough for one player to remain a world champion for more than a few years, and anyone who does remain a top player for

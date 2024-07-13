@@ -1,0 +1,93 @@
+Welcome to Human Head Studios' Finger Service V1.6!
+
+Name: Mike Werckle
+Email: mwerckle@humanhead.com
+Description: Artist
+Project: Rune
+Web Page: Human Head Studios' Web SiteThis plan file is the opinion of the individual who writes it and does not reflect the opinions of the Human Head Studios.
+Last Updated: 06/12/1999 13:58:38 (Central Standard Time)
+-------------------------------------------------------------------------------
+6/12/99
+--It was a week of intense meetings.  During the brainstorming phase of 
+development, RUNE had gotten a little bloated.  This week we made some nips 
+and tucks to the design and have ended up with a much tighter product.  A 
+major issue was deciding on the system for allowing RAGNAR to pick up and 
+use objects in the game.  We came to the major realization that RUNE isn't 
+about rearranging the furniture.  Its about exploration and furious hand-to
+-hand combat with mighty weapons.  Who cares if you can pick up crap or 
+move it around?  We made the decision that, if RAGNAR can use it like a 
+weapon (sword, axe, rock, severed arm, sausage, loaf of bread, etc.), then 
+he can pick it up, but if he can't, then he's just not interested in it.  
+This will save us a *huge* amount of development time and allow us to focus 
+more of our energy on what matters:  hacking monsters to bits.  
+
+6/7//99
+--I'd like to announce HUMAN HEAD'S new modeling and animation system.  We 
+affectionately call it our "MEATSOCK technolgy."  It stands for "Mike's 
+Enveloping and Animation Technique for Supplemeting Our Crappy Knowledge of 
+technology."  With it we can make guys run around and chop people's heads 
+off real good.  ;) 
+
+--Wrapped up an awesome story meeting for RUNE.  Ted and I have been hard at 
+work fleshing out the story for the past few weeks, and we presented it to 
+the group this morning.  Response was overwhelmingly positive.  The story of 
+RUNE has a strong set-up and motivation, a few twists along the way, and a 
+powerful ending.  I'm especially proud of the way our villain is shaping up.  
+The hardest part will be waiting a year for everyone to experience it.  On a 
+personal note, I must say "thank you" to HUMAN HEAD and Ted Halsted for 
+allowing me to give so much input.  I have been **champing-at-the-bit** for 
+a long time to make a contribution of this magnitude to a game.  And finally 
+I'm doing it, which makes me very happy.  It's a testament to the effectiveness 
+of HUMAN HEAD'S philosophy that the developer's interests and strengths define 
+the structure of the team, and not the opposite: being plugged into a 
+pre-defined position.  Thanks for trusting me dudes!
+
+
+6/2/99
+--finished skinning, boning and animating the Dealy Dangler fish.  He has a 
+huge mouth that opens just like a real fish's does.  I added a bone to 
+simulate the way a fish's jaw dislocates to swallow his prey.  It's quite 
+dramatic.
+
+--Skins are becoming easier to make.  I can make a decent one now, while I 
+couldn't just a year ago.  With higher poly counts on our models, we no 
+longer need the general form and and shadow/ highlight work that was once 
+necessary in a skin.  Now the polys are defining such things as clothing and 
+hair, and the artists are basically just coloring those in and adding tiny 
+details.  Engines are beginning to handle the highlights and shadows on the 
+models in real-time.
+
+--animated the Eel.  Trying a new technique with this creature to make his 
+attacks more specific.  If it works he will be able to strike at you at any 
+point within a defined radius, with a minimum of extra animation.
+
+
+5/31/99
+--Paul and I tweaked out the dynamic head-look animation for skeletal 
+characters.  Added a slight tilt to the head as it turns which helps it look 
+much more nartural.  Also, bringing the torso into play sooner helped us avoid 
+the broken neck syndrome, common in some other games.
+
+--Cranking out a skin for a Deep Underwater fish.  Skinning isn't my forte, but 
+I'm having fun doing it.  Getting a chance to find out what Softimage can do in 
+this arena.  I'm finding it to be quite flexible, but I wish the UV update in 
+the 3D paint tool was quicker.
+
+--With content in games growing at a seemingly exponetial rate, a system to keep 
+track of the game's assets is in order.  I devised a system that stimulates 
+communication and interaction between team members without bogging workflow down.   
+Each asset has its own folder containing concept art, creature notes and an 
+approvals checklist.  Team members are assigned folders and can see who has 
+approved the work up to it's current state.  Logical team members are consulted 
+and sign-off at each step of the process.  It is supremely efficient because we 
+are virtually eliminating all the lame reasons for re-doing work, like finishing 
+a model only to find out that a key team member never saw the concept art.  
+
+--Thanks for the finger server, RJ!
+
+
+5/21/99
+
+Back from e3.  Thanks to everyone who stopped by the Human Head trailer.  We had 
+a great time showing of the beginnings of RUNE and I am looking forward to showing 
+off even more at ECTS.

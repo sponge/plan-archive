@@ -1,0 +1,92 @@
+
+*** Ion Storm's Finger Server
+
+User name: romero
+Plan modified: Mon Jul 17 14:17:40 2000
+
+
+
+
+Plan File
+
+
+
+
+
+Current project: ???
+   July 17, 2000
+Hahahahahaha!
+ 
+   May 5, 2000
+Once again, it's time to wish Wolfenstein 3D a Happy
+8th Birthday!  I was going to copy last year's .plan update about it, but
+decided against it.  This should be good enough.
+Also, Happy Birthday to Adrian Carmack who was born
+on Wolfenstein's birthday.........uhhh, wait...  :)
+ 
+   April 26, 2000
+If you're having trouble getting Daikatana to run
+with the Diamond Viper II (S3 Savage 2000 processor), the new Viper 2 95005
+drivers released Monday fix your problems.
+ 
+   April 22, 2000
+As per the readme.txt in the Daikatana Demo:  My god, it's
+finally finished.  And I thought working on a game for 1.5 years was
+long....wow.  I wish everyone would take a nice, objective look at the game
+and not base their criticisms on hype, but on play value and what we've worked
+to achieve: a really fun single-player experience.  We did not develop
+Daikatana to take on Quake 3 or UT, but we put multiplayer in the game because I
+really like my single-player games multiplayerable.  Is that a new
+word?  :)
+ There have been a few technical issues with the demo that you
+can fix or workaround with the following information:
+(Q1) Multiplayer is laggy or extremely choppy.
+(A1) The server should have its CONNECT RATE turned up to T1/LAN
+(in the Multiplayer Menu).  Make sure your client connect rate is
+turned up as well.
+(Q2) Daikatana doesn't work with a Voodoo2.
+(A2) There are two fixes for this: (1) edit your config file (in
+the DATA subdirectory) and change "opengl32" to "3dfxgl"
+or "3dfxvgl", (2) download and install the miniGL driver from 
+http://www.3dfxgamers.com/view.asp?PAGE=V2drivers
+(Q3) Running the DKDEMO.EXE on Windows 2000 gives you
+an error (Insert Disk 1)
+(A3) Use WINZIP to extract the DKDEMO.EXE file, then run the
+SETUP.EXE program to install the demo
+(Q4) The game pauses for a long time when you're playing
+multiplayer (seems like a lockup)
+(A4) This is a bug in the demo only that occurs when you are
+attempting to connect to the Catacomb level (Greek time period). 
+Just wait 20 seconds and you'll connect.
+(Q5) The game is too dark
+(A5) Check out the README.TXT file, it has some useful tips.
+So far, these cover 99% of the problems that people are
+having.  I'd like to say thanks to everyone who has been emailing me their
+raves and congrats -- thanks a lot, you guys make it all worth it.
+ 
+   December 10, 1999
+It was six short years ago, down to the hour.  I remember
+staying up the last 30 hours doing exhaustive testing before Jay Wilbur uploaded
+the shareware version of DOOM to the University of Wisconsin's FTP site. 
+We couldn't get in -- too many people were sitting on the site, waiting for our
+upload.  The target directory was full of bogus files with names like
+"when.is.it.coming" and "hurry.up.id", but finally we got
+the sysop to up the connect limit to 250 and we barely got in.  After that
+upload, things changed.
+I remember the crazy lockup bug we had the day before -- if DOOM
+sat running for too long, it would just lock up.  Turned out to be a value
+that was being incremented by the 140-tic-per-second timer function that was
+wrapping around (it takes a very long time for a LONG to wrap, even at
+140-tics-per-second,  but this one was uninitialized so it took even less
+time).  So, we finished it up and sent it out, just knowing everyone would
+have a lot of fun with it.  Happy Birthday, DOOM.
+I forgot to mention three birthdays in the past few months, the
+birthdays of Spear of Destiny (Wolfenstein retail) on September 18th (7 years
+old), DOOM II on October 10th (5 years old) and Hexen on October 31st (4 years
+old).  Got about three more birthdays coming up this month, too!  And
+one new arrival in the next couple weeks... :)
+P.S.: Congrats to the guys at id for producing perhaps the most
+beautiful and polished game I've ever seen.
+ 
+
+

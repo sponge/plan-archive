@@ -1,0 +1,17 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Mon Apr 17 04:40 (EDT) on ttyp1 from 216.27.43.200
+Mail forwarded to brandon@epicgames.com
+No mail.
+Project:
+Unreal Tournament
+Plan:
+Sunday, April 16, 2000
+
+UT 413 for Linux is available.  Go to http://unreal.epicgames.com/ for
+a list of download mirrors as well as information on the patch.
+
+Rocket Arena v1.2 will be out tonight.  Go to http://www.planetunreal.com/arena/
+for information. 
+	
+    

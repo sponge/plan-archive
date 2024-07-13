@@ -1,0 +1,391 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Dave Kirsch
+Email: zoid@idsoftware.com
+Description: Programmer
+Project: 
+Last Updated: 09/09/1998 19:39:48 (Central Standard Time)
+-------------------------------------------------------------------------------
+Sep 9th/1998
+
+Quake2 3.19 Linux Release
+-------------------------
+
+Quake2 3.19 for Linux has been released.  This release features support
+for two different OpenGL drivers:  the 3DFX OGL Miniport (which has been
+ported to Linux) and glX based OpenGL implementations.  The 3DFX Miniport
+works by preloading the new lib3dfxgl.so library before the Mesa 3-D library
+gets loaded.  The new ref_glx.so rendering shared object handles glX
+implementations.
+
+I'd like to get feedback on the new rendering modes.  Lemme know if glX
+works with other GL implementations than Mesa 3-D, and how much of a difference
+using the 3DFX Miniport (lib3dfxgl.so) over the Mesa 3-D stuff makes for you.
+
+I don't have multitexture working with the lib3dfxgl.so yet on multi-texel
+cards (such as the VooDoo2), but I'm working on it and hope to have it
+ready for a next release.
+
+Quake2 dedicated servers for Solaris Sparc and Solaris x86 will be 
+forthcoming probably tomorrow.
+
+Here's the release files:
+
+quake2-3.19-1.i386.rpm
+
+Quake2 for i386 libc5 Systems (RedHat 4.x, Slackware, et al.) in RPM format.
+
+
+
+quake2-3.19-glibc-1.i386.rpm
+
+Quake2 for i386 glibc (libc6) Systems (RedHat 5.x, et al.) in RPM format.
+
+
+
+quake2-3.19-i386-unknown-linux2.0.tar.gz
+
+Quake2 for i386 libc5 Systems (RedHat 4.x, Slackware, et al.) in TAR format.
+
+
+
+quake2-3.19-glibc-i386-unknown-linux2.0.tar.gz
+
+Quake2 for i386 glibc (libc6) Systems (RedHat 5.x, et al.) in TAR format.
+
+
+
+q2ded-3.19-glibc-1.alpha.rpm
+
+Quake2 Dedicated Server for alpha glibc (libc6) Systems (RedHat 5.x, et al.) in RPM format.
+
+
+
+q2ded-3.19-glibc-alpha-unknown-linux2.0.tar.gz
+
+Quake2 Dedicated Server for alpha glibc (libc6) Systems (RedHat 5.x, et al.) in TAR format.
+
+
+
+/// Zoid.
+
+
+Aug 28th/1998
+
+QuakeWorld 2.30 Release
+-----------------------
+
+The long awaited Quakeworld version 2.30 has been released.  Head over to
+http://www.quakeworld.net/
+for download information.  The main archive for QuakeWorld can be found at
+ftp://ftp.idsoftware.com/idstuff/quakeworld/
+
+2.30 doesn't introduce a lot of new features over 2.29 (the most notable is 
+the packet loss meter on the scoreboard), but mostly consists of "behind the
+scenes" fixes from the 2.29 BETA.
+
+All servers should upgrade to 2.30.  This will end the current situation
+of 2.1, 2.21 and 2.29 server differences.  The 2.30 version covers all
+the bases and offers all the functionality of the previous versions.
+
+Assuming that no major bugs show up in this 2.30 release (one can only
+hope murphy doesn't rear his ugly head), this will probably be the last
+QuakeWorld release.  QuakeWorld has been an amazing project from John
+Carmack's early origins, to over a year of tweaking at Jack 'morbid' Mathews
+and my hands.  It is one of the most complete and best first person internet 
+gaming experience available today.  It's been a pleasure working on it and
+keeping in contact and participating with the thousands of players.
+Thanks to all for your feedback and requests in helping me build a great
+product.
+
+/// Zoid.
+
+Aug 14th/1998
+
+I have received more than enough beta tester requests.  Thanks for the
+great reponse everyone!  But, please, my mailbox is going to explode.  :)
+
+/// Zoid.
+
+
+Aug 13th/1998
+
+I've been doing some work on the Linux ports of Quake and Quake2.  There are
+several different versions floating around out there with some problems in
+each and some outstanding bugs.  I'm ratifing all the ports to use a common
+set of code for video, audio and input.  I'm also adding some new support
+such as glX support for GLQuake/Quake2 ref_gl so that there will be a version
+of GLQ/Q2 ref_gl that is not dependant on the fxMesa code in Mesa 3-D and
+should work with all GL renderers that are available for Linux (tho it isn't
+playable without hardware support).  I'm also working on building glibc5
+versions of the executables as well.  I plan to release both libc5 and glibc
+versions of the binaries in the future.
+
+These new glX based versions obselete the use of qkHacklib.
+
+I've also ported 3DFX's OpenGL miniport (GLQuake driver) for Linux.  
+The miniport is implemented as a lib replacement for libMesaGL.so that 
+emulates the fxMesa...() interface.  It's faster than Mesa 3-D on
+lower end CPUs right now, and will support multitexture on the VooDoo2s.
+Mesa 3-D 3.0 also supports multitexture, so it will be interesting to
+compare the speed differences between the two.
+
+My drivers support list looks like this:
+
+SQuake/Quake2 ref_soft.so:
+- requires svgalib, preferably 1.3.0 or later.  Console only.  Requires root
+permissions (setuid).
+
+Quake.x11/Quake2 ref_softx.so:
+- X11 based software rendering, requires X11.  Doesn't need root if
+/dev/audio is writable.
+
+GLQuake/GLQuake2 ref_glfx.so:
+- requires SVGALib for keyboard/mouse input, Mesa 3-D with fxMesa support 
+compiled in.  Only runs at the console.  This version requires svgalib
+1.3.0 now.  Still requires root for both svgalib and glide.
+(note that ref_gl.so will be glX based now and a new ref_glfx.so will
+be for old svgalib/fxMesa hardwired support).
+
+GLQuake.glx/GLQuake2 ref_gl.so:
+- glX based and uses X11 for keyboard/mouse input.  This version should work 
+with all existing GL/glX implementations for Linux.  Vendors of Hardware 
+GL/glX implementations for Linux should contact me about testing with their
+implementation.  This currently requires root with Mesa 3-D because of
+the glide depenancy, but other hardware GL/glX implementations should not.
+You have to do a 'export MESA_GLX_FX=fullscreen' to hack Mesa 3-D into
+using the 3DFX instead of software rendering for now.
+
+I am investigating support for GGI as well, but haven't done any 
+implementations yet.  Any GGI guys wanna gimme a hand in this?
+
+I'm planning to release rpm installs of the new versions of Quake/Quake2
+in the future that auto-install in /usr/games/quake and /usr/games/quake2
+as needed.
+
+One of the reasons for this plan update is I need some beta testers to help
+in testing these implementations.  I need beta testers with the following
+requirements:
+
+	- Own a copy of Quake and/or Quake2
+	- Be able to test software and GL renders
+	- Be able to test libc5 and glibc versions
+	- Report bugs and retest new versions.
+
+Please note, a beta tester is NOT someone who gets to play with stuff before
+other people do.  They are someone who wants to help out in the development
+and evolution of Quake for Linux.
+
+If you feel you have the ability to run this new code and help out in finding
+and eliminating bugs, please drop me a line and I'll add you to the beta
+tester list.
+
+/// Zoid.
+zoid@idsoftware.com
+
+
+Aug 1st/1998
+
+I've released the new Q2CTF 1.09BETA upgrade at
+
+ftp://ftp.idsoftware.com/idstuff/quake2/ctf/beta/q2ctf109beta.zip
+
+This version features the new competition mode, server map rotation,
+remote admin functions, elections for map changing, and many other
+features.  This is a SERVER ONLY upgrade.  Players (clients) do not need
+to download this.
+
+Server admins:  By default the mod runs just like 1.02 without the new
+features, if you want to make the optional competition mode available to
+players, add "set competition 1" to your server.cfg start up file.
+Also, you may want to enable elections by putting "set electpercentage 66"
+since this allows users to vote for map changes and giving trusted players
+admin access (much like the competition mods for Quake).
+
+As mentioned before, the user manual for the new version is available at
+http://www.idsoftware.com/q2ctf
+The user manual covers all the new features of this release.
+
+This is a beta release, so there may be some problems.  I invite feedback
+on the release from both server admins and players.
+
+Hope everyone enjoys this new release!
+
+/// Zoid.
+zoid@idsoftware.com
+
+
+Jul 30th/1998
+
+Linux Stuff
+-----------
+
+While doing some Linux work, I've been wondering about some library issues.
+
+Currently, all current Linux Quake, QuakeWorld and Quake2 releases are based 
+off the (old) libc5 stuff.  I'm planning to support glibc in future versions.
+I'm wondering if I should still support libc5 versions as well, or convert
+everything over to glibc support and drop support for old libc5 stuff.
+
+Most of the Linux community is moving towards glibc and libc5 stuff will
+be pretty much obselete in the future (much like the a.out to ELF migration).
+
+So, I'm asking for input on whether I should continue to support libc5
+binaries.  Drop me a note and let me know.
+
+Q2CTF Stuff
+-----------
+
+The Quake2 server at satan.idsoftware.com:27913 is running the new Q2CTF
+version 1.09BETA.  This version features stuff such as server map rotation,
+elections for remote admin, map warping, and a full tournament mode. 
+We're going to let it run on Satan for a day to beat on it and if things go
+well, I'll be releasing the new beta version publically probably tomorrow.
+
+The new code is a server only upgrade. A full manual that covers all of Q2CTF
+including the new server options and the competition mode is available
+at http://www.idsoftware.com/q2ctf/.
+
+Other stuff
+-----------
+
+In other news, I'm working on the official QuakeWorld 2.3 version that
+clears up some bugs found in the 2.29 beta (which is why it was a beta).  I'm
+liking the idea of doing public betas such as I did with 2.29--the feedback
+and testing was much more useful this time around than using closed beta
+testers.  I took some heat from people complaining about the different
+versions (and how they were not compatible), but overall the response has
+been very positive.
+
+I'm also working on Quake2 3.18.  This version will address some bugs in
+3.17 (*cough* water surface friction *cough*) and offer some new features.
+A new Quake2 release is needed for the upcoming Rogue mission pack, Ground
+Zero, so I'll try to tie it all into one release.  Other stuff in 3.18
+is server controlled air acceleration, server specific map rotation, and
+other minor features that makes life easier for server admins and players.
+
+/// Zoid.
+zoid@idsoftware.com
+
+
+Jul 13th/1998
+
+I've released a public BETA of QuakeWorld 2.29.  This release is not 
+compatible with previous versions.  Please note that this is a beta only
+release and not meant for general use.
+
+You may get the BETA from:
+
+
+ftp://ftp.idsoftware.com/idstuff/quakeworld/beta/qw229BETA.zip
+
+
+This 2.29 BETA release contains servers and clients for Windows (Win32) and
+Linux i386 ONLY.
+
+I'm looking for bug reports and suggestions about this new release.  This
+2.29 version should address the problems that were present in the 2.21 
+release.  Once the beta test is finished (length depends on what problems 
+are found, etc), I will release a 2.30 public version.
+
+Here is the list of changes:
+
+- 2.1 movement code mostly restored, but sv_friction is still 4 (like NQ)
+  and the gravity application matches NQ.  This should fix some bugs on maps
+  people saw in 2.21 and fix some other errors.
+- Complete rewrite of the reliable data handling.  NO MORE OVERFLOWS.
+- Client to Server (from you to the server) data is about 25% less bandwidth
+  using delta compression.  This means you can bump up your cl_maxfps by about
+  20%.  This will have a minor impact on lag.
+- QuakeWorld now allows one external command packet until server connection.
+  This makes QPlug work again as well as older versions of QuakeSpy/GameSpy.
+- In GLQWCL, the size of the eyes.mdl is double sized.  In GL, the default
+  eyes model was much, much harder to see than in software.  This should
+  help even it out.
+- New spectator camera.  A 'through the eyes' view of the player you are
+  tracking.  To enable this, type "cl_chasecam 1" when in spectator mode and
+  chasing a player.
+
+/// Zoid.
+zoid@idsoftware.com
+
+May 31st/1998
+
+Quick note:  If you get "File not found" during the download process on a
+server, that means the server doesn't have the file, so it can't download it
+to you.  Customs player models and skins have to be on the server in order for
+you to download them.  The message will say, "Server does not have this file."
+in the 3.16 version.  If you have a nifty model, talk to the server operator
+who runs favorite server so he can put it online so people can download it.
+
+I'm working away on the 3.16 code and I noticed some interesting things
+about downloading.  Most of the rest of this plan will deal with
+issues of interest to mod authors for Quake2 who want to make their
+mods downloadable.
+
+I noticed in 3.15 that pics download (the stuff in the pics dir, usually
+PCX files) wasn't working.  So I fixed it and noticed something since I
+was using my own Q2CTF for testing.  Most of the Q2CTF pics were downloaded,
+but a few weren't.  Mostly the stuff dealing with the TECH powerups (runes).
+I also noticed that the various sound effects weren't downloaded, either.
+Curious, I investigated.
+
+I do list all the model, sounds and pics for the TECH powerup items in the
+items array in g_item.c, so I wondered why they weren't download.  Took me a
+second to think about it then I realized something.  The models, sound and
+pics for the TECHs weren't precached!  This is because the TECHs are 
+spawned at _after_ the map loaded and didn't go through the spawning 
+functions of normal items such as weapons and ammo (the TECHs are not 'placed'
+in the map like regular items).  Because of this, their data wasn't precached.
+
+Obviously, one should consider this a bug, but it worked.  It worked because
+gi.soundindex, gi.imageindex and the like notice when you ask for a sound that
+doesn't exist and will automatically 'on the fly' precache them.  This has
+happened after the download phase when the client connects, so he never gets
+them.  What I should have done is precache the various models, sounds and pics
+for the TECH powerups in the worldspawn function.  This would ensure they were
+loaded up before client entered the game.
+
+Note, that if a client connected to a game in progress, where people had been
+using the various tech powerups and played their sounds, they would be in the
+precache list (by being added later) and would get downloaded.  This is a
+small bonus, I suppose.
+
+Another thing to watch for is status bar pics.  The HUD scripts let you
+reference various PCX files directly using the 'picn' keyword.  These images
+are not precached and won't be downloaded.  So make sure to precache them in
+the worldspawn function to ensure clients download the necessary pics and
+don't get spammed with 'Can't find pic blah.'
+
+Now that pics downloading actually works in 3.16, I'm going to be curious to
+see what sort of custom HUD displays people come up with on their servers,
+which people will automatically download as needed.  Since the pcx files are
+quite small, should be very easy to build custom HUDs. Oh, to make sure people
+aren't polluting the name space for pics, you should reference them in a
+subdirectory.  For example, if you were making a mod called 'SNARF!', you
+could put the pics in pics/snarf/blah.pcx.  This obviously doesn't apply if
+you have your own game directory off the main quake2 directory.
+
+You could even have some custom menu graphics for your mod in a PCX file
+and have it downloaded.  Make it unique rather then everyone (including
+myself) using the default inventory window.
+
+I also fixed the autodownload so it downloads the seperate skin files for
+models (can't believe I missed that either).
+
+3.16 is coming along nicely and should be ready soon.
+
+/// Zoid.
+
+
+May 30th/1998
+
+I'm working on a Quake2 3.16 version that addresses the issues that showed up
+in 3.15.  There's good news and bad news.
+
+I'll start with the bad news:
+
+There is a server bug in the 3.15 code in respect to the packet checksumming
+between server and client.  Many people have experienced it by connecting to
+a server and being 'stuck' and can't move.  This is especially bad when
+connecting to servers from differe

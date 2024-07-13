@@ -1,0 +1,136 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 01/11/1998 06:01:48 (Central Standard Time)
+-------------------------------------------------------------------------------
+
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+
+January 11, 1998 (early AM, part 2)
+--------------
+
+Early morning epiphany.  I just realized that one way -- and I fear the only
+way -- to get this whole C/Java/DLL thing to work is write a wrapper
+class that acts as an intermediary.  Dig:
+
+Wrapper.java:
+
+class Wrapper
+{
+   static { System.loadLibrary( "wrapper" ); }
+   public void foo( float a, float b, float c );
+}
+
+Wrapper.c:
+
+extern void DesiredFoo( float, float, float );
+
+void Java_Wrapper_foo( float a, float b, float c )
+{
+	DesiredFoo( a, b, c );
+}
+
+In the above case I would create a WRAPPER.DLL that consisted of nothing but
+a bunch of forwarding calls onto the real code I wanted to call.  This DLL
+would link (or LoadLibrary()) the actual code I wanted to call -- i.e. the
+code that I have no control over in terms of function signature, parameter
+conventions, etc.
+
+The horror, the horror...
+
+I'm fairly certain this will work, but talk about a GROSS hack.  I'll have
+to write a wrapper for hundreds of functions potentially. *sigh* But this is
+how you learn new things.  Oh, and obviously performance will suck, but if
+I'm using Java in the first place you can assume performance isn't exactly
+the number one priority.
+
+For those wondering, I'm beginning work on an OpenGL wrapper.  Yes, I'm aware
+that several others exist, but I'm really keen on developing my own libraries
+whenever possible so that I can exercise the ultimate in terms of control --
+if I use someone else's library (especially a non-commercial one or one that
+does not have source available) I could be left hanging when it comes to bug
+fixes, ports to other platforms, etc.
+
+A basic outline would be to implement a package called something like:
+
+package idsoftware.ogl;
+
+public class IDOpenGL
+{
+	// etc.
+	public native void glVertex3f( float x, float y, float z );
+	// etc.
+}
+
+Then in my routines that actually need this package I'd do:
+
+import idsoftware.ogl.IDOpenGL;
+
+public class SomeClass
+{
+	public void SomeFunction()
+	{
+		IDOpenGL ogl = new IDOpenGL( "opengl32" );
+
+		ogl.Init();
+		ogl.Begin( GL_POINTS );
+			ogl.Vertex3f( a, b, c );
+			// etc.
+		ogl.End();
+		ogl.SwapBuffers();
+	}
+}
+
+Christ, this is going to suck majorly.  I'll also have to copy all the
+constants in GL.H into the OpenGL class and access them as static 
+final values...
+
+I see a lot of typing ahead in my future.
+
+January 11, 1998 (early AM)
+--------------
+
+Learned more about Java, made my first "package".  Woo-hoo!  Damn I'm easily
+amused.
+
+Okay, this sucks.  The documentation on JNI bites, mostly because it seems to 
+be concentrated solely on "this is how to call a C function THAT YOU WROTE 
+from Java".
+
+I want to load system DLLs (and no, I'm NOT going to use the Win32 stuff that
+Microsoft defined!) that I don't have any particular over.  Is there a way to
+do this with JDK 1.1.5?
+
+For example, I know that a function I want to load may be:
+
+void WINAPI xyFunc( float, float, float );
+
+But I'm unsure how a Java class would do this.  Under "normal" circumstances
+you would do:
+
+class xy
+{
+	public native void xyFunc( float, float, float );
+	static
+	{
+		System.loadLibrary( "xy" );
+	}
+}
+
+BUT, the above presumes that you are going to write "xyFunc", NOT that it is
+given to you.  So since I have no control over the function signature of these
+routines, what do I do?
+
+January 10, 1998
+--------------
+
+As per a suggestion from Jack Mathews

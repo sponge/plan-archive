@@ -1,0 +1,96 @@
+Welcome to Raven Software's Finger Service V1.4!
+
+Name: Brian Raffel
+Email: braffel@mail.ravensoft.com
+Description: Project Director / Designer
+Project: Hexen 2
+Last Updated: 09/24/1997 11:05:20 (Central Standard Time)
+-------------------------------------------------------------------------------
+Sept 24th
+********************************************************************
+
+The HexenII patch is almost done.  We have been trying very hard to address
+all of the bugs that we have become aware of.  Special thanks to Rick "Super fly"
+Johnson for his super human effort on the patch! Thanks to everyone that has
+emailed me their bugs and to the HexenII RING for all the great messages and feed
+back from them.  Looking VERY forward to the next batch of games we are going
+to be working on!(cant say until contracts are all signed!) But these will be
+awesome to design and work on.  Once we are allowed to announce them feel free
+to send us any ideas or suggestions you may have.
+    Raven had its annual Paintball party last sat. and it was a blast!  It was
+the HexenII team/management VS TNP/Mageslayer....well needless to say we
+(HexenII) shot the H___ out of our co-workers! It was not pretty, and we had to
+sacrifice bob love (who still cant walk yet!) but they fell for the bait! Who
+wouldn't want to shoot bob with paintballs. Once again, SuperFly Johnson was
+like a surgeon out on the field, selectively cutting out the opposition.
+
+Well,  Off to finish the patch.
+
+Brian
+
+
+
+
+
+
+
+
+
+
+
+Sept 8th
+******************************************************************
+Hexen II is GOLD! it could be out in stores as early as Sept 13th-15th
+from what I am told. Call your local store to find out for sure.
+
+Just wanted to say that we addressed the 16meg problems and things should run
+just fine now, we also optimized internet play so that is faster as well.
+ I change the first level of the demo so if you buy the game
+things will be a bit different.  On some hubs in the game the puzzels can be
+quite challenging so be ready to think.
+
+I hope everyone likes it!
+
+Aug 28th
+******************************************************************
+
+THE DEMO "IS" OUT!!!!!!!!!!!!!
+
+We worked straight through the week and at 20 hours a day to get this out
+as soon as we could. We are very proud of it and certainly hope you like it.
+Again we are very sorry that we missed out projected date and needless to say
+we have learned a lesson! =)
+
+Thanks to those many many people that sent me supportive emails in regard to
+holding off on the demo. THANK YOU!
+
+
+Please send any bugs we missed to our bug list.
+
+brian
+
+PS- let those credits roll!!! baaaaaa
+
+
+
+
+
+Aug 26th
+*******************************************
+
+Today we offically become one with Activision!!!!
+
+We are all very excited about this here at Raven ! =)
+
+HexenII demo/game- Today I closed out all of the bugs that I have (with verification
+from Activision/id of course).
+
+Still some issues out there but we are making great progress.
+
+Please don't ask me when the demo will be out.  I don't want to upset people
+with a date I feel good about only to have something else crop up.
+
+Well, back to play testing, hmm, should I be the necromancer this time or
+the assassin?
+
+brian

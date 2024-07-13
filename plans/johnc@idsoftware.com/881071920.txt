@@ -1,0 +1,90 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 12/02/1997 10:11:19 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+Dec 2:
+
+A couple things I forgot to mention:
+
+DOOM source.  Still planned to be released Real Soon Now, but there is some work that needs to be done on it first to remove the sound engine, which was written by someone else.
+
+Our Quake editor.  It will be released with the tools, but it really isn't going to be all that usefull to many people.  Most people will be better off with one of the actively supported editors designed for normal machines.
+
+There is no documentation (Steve Tietze at Rogue has talked about writing something, though).  It is designed to run at 1280*1024 resolution on a fast, fully-compliant OpenGL driver.  It was designed for high-end boards like intergraph realizm, 3DPro, and Glint boards, but it also runs ok on 8 mb consumer boards like the permedia II and rendition V2200.  It will NOT work with voodoo or powerVR.  It is unlikely to work with voodoo rush, because of framebuffer size limits, but it might work at a low screen resolution.  It might be workable on RIVA cards if they do some fancy work disposing buffers between window renderings (they are a 4mb card, but the textures can stay in AGP memory, so it will almost be enough).  I'll work with them if they want to give it a try.
+
+Right now, only 3Dlabs has a full opengl driver on win-95 (and it is a little flaky).  All the other cards would require you to run NT.  Over the next several months, most of the major vendors should be releasing full OpenGL drivers that work in '95, but there are no firm release dates.
+
+
+A comment to the people complaining about the release not having Their-Favorite-Feature:
+
+A software project is never, ever completely finished.  If you wait until EVERYTHING is done, you won't ship at all.
+
+Would it have been the right thing to delay releasing Quake 1 until I had written the glquake code and the QuakeWorld code?  Or we had gotten Paul to build us all new models?  Or we had made all new maps that hang together thematically?
+
+If we had, we would be releasing Quake right about now.  It would be a much better game (it would be Quake 2), but all of the enjoyment that everyone has gotten from Quake would have been lost.  It would have been the wrong decision.
+
+Quake 2 is great, and it will get better yet after its release.
+
+
+A reminder about "John Carmacks":
+
+Anyone claiming to be me on IRC is lying.  I have never been on IRC, and if I ever choose to, I will mention it here first.
+
+If you get an unsolicited email from "John Carmack", the odds are high that it was spoofed.  Every couple days, I get a mail bounce from someone who messed up on a spoofed mail, and I often get confused responses from people that I have never mailed.
+
+---------------------------------------
+
+Dec 1:
+
+Quake 2 has mastered.
+
+Where we go from here:
+
+Point release.
+
+We should have a Quake 2 point release out shortly after the game gets in your hands.  We intend to fix any bugs that turn up, improve the speed somewhat, and optimize for internet play in various ways.  We will also be making several deathmatch only maps.
+
+Deathmatch in Q2 has gotten a lot of lan testing (Thresh, Redwood, and Vik Long helped quite a bit the last week with tuning), but not much internet testing.  There are probably gaping holes in it, but we will address them soon.
+
+The deathmatch code in the shipping Q2 is also not designed to hold up against malicious users -- there is no protection against clients being obnoxious and constantly changing skins, chat flooding, client-side cheating, or whatever.
+
+Q2 does checksum maps on the client side right now, so cheater maps won't work like they do in Q1, but cheater models and skins are still possible.  I have some plans to combat that in the point release, but there are a lot of forms of cheating that can be implemented in proxies that are fundamentally not detectable.  I can make it very painfully difficult for people to implement such things, but a very clever person with a dissasembler just can't be stopped completely.
+
+The server code and network protocol should be able to support ultra-large player counts, but I know I need to do some low-level work to get around operating system buffer limits before it will actually work.  We will test at least a hundred players in a giant map for the point release, but we won't actually address the issues of making a rational game at that level (chat hierarchies, team spawning, etc).  I am very much looking forward to seeing what the user community creates on that foundation.
+
+It is likely that the point release may have incompatable network protocols and savegames.  Fair warning.
+
+
+Q2 Demo.
+
+After the point release, we will be making a new demo release.  If you experienced compatability problems with q2test, or were unsatisfied with the quality in some way, you should look at the demo.  The final product is much improved.
+
+
+Q2 Ports.
+
+We are commited to Win32 Alpha, Linux, irix, and rhapsody in that order.  It is likely that a bunch of other ports will come later, but no promises.  The presence of hardware-accelerated OpenGL on a platform will improve it's odds a lot.  Zoid will probably prioritize Q2 CTF over other ports, so hold off on bugging him about ports for a while.
+
+
+Development tool release.
+
+I will basically be making publicly available a subset of the directory tree that we will deliver to our licensees.  All the utility source code, the game dll source code, and probably some example source media -- .map files, artwork, model source, etc.
+
+
+Q2 mission pack.
+
+Most of the company will be working on a mission pack while Brian and I write tools and technology for trinity.
+
+
+Trinity.
+
+I am going to rapidly wean myself off of working with quake so I can concentrate fully on new directions.  The evolution of the Q2 codebase will be left to John Cash (until the mission pack ships) and Zoid.
+
+Everyone should keep in mind that any next-generation game that we produce is a LONG way off, so don't start getting all worked up over it, ok?
+
+For the curious, it does look like java is going to start playing a significant role in our future projects.  All of the lightweight utilities will be java applications (some requiring OpenGL bindings).  The heavy duty number crunching utilities will probably stay in C.  It is still unclear how much of the game framework and the level editor we can get away with doing in java.
+

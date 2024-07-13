@@ -1,0 +1,118 @@
+Account Name:  georgeb @3drealms.com
+Email address: georgeb@3drealms.com
+----------
+George Broussard
+President, 3D Realms
+Project Leader: Duke Nukem Forever, Shadow Warrior
+Executive Producer: Prey
+
+[Thursday 11/20/97 - 5:50 pm]
+
+3Dfx Shadow Warrior news:  I think we are finally done.  The major bug we
+were having was caused by the fact that Scott at 3Dfx had a different version
+of the Build source code than Ken and Frank had.  A square root function 
+was different, and since it acted different on two different exe's, we
+were getting out of sync in net play a lot.  Fixed.
+
+Next we addressed the launching of the 3Dfx version as it's a different
+exe that the software version.  So we created a new setup program etc,
+so you can launch net games and all.
+
+We are testing what we consider final code, then we will build all the
+different versions (full version, UK version, Parental version, and maybe
+shareware), patch them all and upload the various patches.
+
+There are a couple of very minor graphic glicthes that I've asked 3Dfx
+to fix, and that should be that.  We will then test all the versions
+(hopefully Friday will do it, maybe a little of Saturday).  It's pretty 
+safe to say at this point that you will see the 3Dfx version of
+Shadow Warrior prior to Thanksgiving.  Thanks for your support and
+patience.
+
+Duke Nukem Forever:
+
+* Nick Shaffner joined us as a programmer a couple of weeks ago.  He's a
+low level guru with 3D engine experience and we think he and Chris will
+make a hell of a programming team.
+
+
+[Friday 11/8/97 - 1:45 am]
+
+I can't believe it.  Me and Brian Hook agree 100% on Starship Troopers.  
+
+We might be clueless, as most people that saw it rated it 9 or 10 etc, and
+LOVED it.  I mean spooge fest.  Me?  I think it's about a 6/10 (and that's
+ONLY because of effects.  I really want to give it a 3 like it deserves).
+
+* It's a bundle of missed opportunity.  They had the chance to utterly and
+completely blow Aliens out of the water for all time.  As it is, that little
+movie in 1987 (or so) kicks the SHIT out of Starship Troopers.  Not even a
+pissing match.
+
+* This movie is like a porno.  It's all "pop" shots and the rest is fast 
+forward material.  That's fine in a porno, but for a movie with a mega-
+million dollar budget, that's INSANE.  Shame on Paul Verhoeven for letting
+it happen.
+
+* Paul's earlier work of Total Recall kicks the CRAP outta this movie.  Hell,
+RoboCop had more plot and point to it.
+
+* Acting?  Where?  What?  Other than Michael Ironside, THEY ALL SUCK.  Hard.
+I mean this is FAR worse than Jurassic Park.  Where do these lames ass people
+come from.  Was there no budget left for reasonable actors?  Even small ones?
+We didn't need Arnold or Tom Cruise.  But maybe someone that cost at least 
+a million?  Instead of this bunch of assembled lamers?  Rico is the WORST
+damned actor I've ever seen in my life.  I laughed inside every time he
+tried to speak, or got that mad look on his face.
+
+* It's a gratuitous gore fest.  Hey fine.  I'm the king-o-gibs.  I love them.
+But gibs with no substance are POINTLESS.  Aliens made you CARE when people
+got messed up.  Here, it's just "Cool.  Did you see his head fly off." Onto 
+the next shot.  "Wow, look at that dude's spleen sly".  Next.
+
+* Battles are STUPID!!!!  No strategy, point, plan or anything.  In Aliens,
+there was some semblence of attempted strategy and it only broke down when
+they got their asses kicked.  Then they regrouped and tried a new strategy.
+Think of ANY war movie, Platoon, Full Metal Jacket, Hamburger Hill etc etc.
+It's a shame Verhoeven didn't watch a few of these and firgure out some
+good battle scenes. 
+
+* First hour:  OH MY FRIGGIN' GOD IT SUCKS.  If I want 90210 in Space, I'll
+watch that lame ASS old show "Space: Above and Beyond".  Folks, it's JUST LIKE
+THAT.  Lame.  Stupid.  Pointless.  I DON'T CARE.
+
+* Boot camp: Tolerable at best.  GI Jane, Full metal Jacket destroy this movie
+for boot camp/training type scenes.  
+
+* The effects are stunning and awards should go out, but Lost World's are just
+as good and at least it's a better movie.
+
+* I rate a movie by re-watchability.  I've seen Aliens a dozen times.  Same for
+Star Wars, Jurassic Park and others.  I hardly care if I see this again.  
+Suppose I will on DVD or something just to freeze frame the gore etc.  But
+the re-watchability of this movie is zero, unless you only care about effects
+and gibs.
+
+* I'm so pissed because it's clear that NOBODY had a clue on the script, or
+on casting.  The casting people should be run out of Hollywood and never 
+allowed to work again.  I hope they read this.  Please forward it to them.
+
+* Too bad some of the best effects ever to come out of Hollywood have to be 
+in a piss poor movie like this.  If I was Phil Tippet, I'd be pissed.
+
+* Brian's right about the space scenes.  Um, space.  Big.  Can park ships 
+WAY apart from each other.  Um, blue balls of fire move slow.  Um, can't
+track and move out of way?  Um...STUPID!!  Um, more nuking from orbit or
+planes flying over and nuking.  I mean Aliens EXPLAINED WHY they couldn't
+NUKE from orbit.  JESUS guys, that movie was 10 years ago and they dealth 
+with the nuke from orbit issue.  Why couldn't you?  Cause you SUCK.
+
+* Feel ripped off people and be pissed about it.  You got screwed out of
+a potentially all time best sci-fi movie.
+
+* I can only look forward to Alien Ressurection now and pray to God they
+don't screw it up like Alien 3, or this piece of celuloid trash.  Please
+God, give me and others like me the ability to make movies and review
+scripts.  Does nobody in Hollywood have a clue anymore?
+	
+    

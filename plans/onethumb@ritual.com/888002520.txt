@@ -1,0 +1,192 @@
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************       
+
+2-20-98
+-------
+
+
+-----------------------
+All kinda good stuff...
+-----------------------
+
+ o  First and foremost, DOOM fans should rejoice to hear that you can indeed
+    purchase Hell To Pay and Perditions Gate, two 32-level DOOM add-ons done
+    by some of the most talented gamers around.  Contributors include folks 
+    responsible for levels in Master Levels and Final DOOM, and believe me,
+    this stuff is top notch!
+
+    Why now, you ask?  I know the add-ons were done and finished a couple years
+    ago, but got snowballed or something over at WizardWorks or something... 
+    I think it had something to do with GT's purchase of WizardWorks (at which
+    time, amazingly enough, WizardWorks suddenly carried a whole bunch of
+    junk titles...  GT trash, you might say).  I guess the add-ons just got
+    buried in the mess.  :(
+
+    Anyway, you can purchase them through WizardWork's online site now, and
+    I can't even begin to tell you how cool they are.  Ultra-high quality DOOM
+    stuff here... TOTAL Conversions, new weapons, new monsters, new levels, 
+    everything.  All top-notch, done by people like Avatar, wendigo, and 
+    Paradox.  For $30, it's a total steal for 64 new levels, new monsters
+    and new weapons.  ($14.99 each)
+ 
+    Oh, and no, I had nothing to do with it, so I'm not trying to line my own
+    pockets.  I just like to see quality hard-work pay off for those who 
+    put their blood, sweat and tears into products like these.
+
+	http://www.wizworks.com/perdgate.htm
+	http://www.wizworks.com/helltop.htm
+
+    If I had the time or energy, I'd love to promote these even more.  Anyone
+    feel like whipping up some banners or something to help this cause?  
+
+ o  Secondly, Happy Birthday to Zoid!  As I found out yesterday, Zoid is even
+    cooler than I thought he was... he shares my birthday!  (So this is a little
+    late, but since there wasn't much mention of it on the net yesterday, 
+    I thought I'd throw a little limelight his way... as if he's not getting
+    enough from his stellar Q2 CTF pack).  How cool is it to release a
+    professional, polished id product on your birthday? That takes the cake.
+
+ o  Lastly, but perhaps most important, WHAT THE HECK IS UP WITH GAMESLICE?!?
+
+    For those of you just joining us, GameSlice put up a lengthy 8 page preveiw
+    of Sin.  Very exciting, full of details and exclusive screenshots and AVIs.
+    There are a few things here and there sorta out of whack, but in all, it's
+    a pretty good piece.
+
+    Then, yesterday, they threw up an editorial apparently bent on slamming
+    Ritual for not showing enough, perhaps because we didn't send them a demo.
+    Here is the quoted text (without permission):
+
+                    If you've read our recent Sin feature, you
+                    know the game is still scheduled for the
+                    Spring, but I sure can't see it arriving
+                    anytime soon.  As many of you have
+                    commented in response to our article, it's
+                    rather strange Ritual isn't talking about
+                    specific elements of the game (including
+                    weapons or levels) just a few months
+                    before release.  Although secrecy may be
+                    part of the reason for this holdback, we
+                    agree that it doesn't seem to fit that Sin is
+                    being kept so quiet.  I wouldn't be surprised
+                    to see this game slip into the fall,
+                    considering the fact Ritual wasn't even able
+                    to show us the game for our feature.
+
+    Now, perhaps GameSlice is a little miffed that we didn't actually send
+    them a physical copy of the game...  However, I think there are a few
+    things they (and everyone else) should bear in mind:
+
+    1.  This is the team that had a demo ready for E3 mere weeks after 
+	beginning the project.  This was a hands-on demo complete with colored
+	lighting, two maps that drew repeated oohs and aahhs, and even a pair
+	of functional, fun weapons.  If, in just a few short weeks, they could
+	prepare something like that, don't you think it's possible that they
+	might be able to get a game shipped somewhere close to it's intended
+	release date?
+
+    2.  Quake II just barely shipped.  Which means, we just barely got our
+	code drop.  Which means things are in a state of flux as we transition
+	over.  We have the whole kit and kaboodle working on id's original
+        Quake engine along with our pile of mods, but everything hasn't been
+        transitioned over yet to the new codebase.
+
+    3.  Ritual has been saying "Spring of 1998" since the inception of the
+        project.  Half-Life, on the other hand, was stating November of 1997,
+        and Unreal was slated to arrive before Quake (then a few moths after
+	Quake, then before Quake II, etc).  Now I'm not slamming either game,
+	they both look excellent and I am a gamer above all else.  And I would
+	sincerely wish a developer like Epic would work on the product and get
+	it right rather than shipping it in an early state.  That is a Good
+	Thing(tm), but my point is that so far, Ritual hasn't wavered on 
+	their release date.  And we don't intend to.
+
+    4.  We want Sin to really grab our player's imaginations and to be truly
+	immersive and intriguing.  I believe (as does the rest of the company,
+	I think) that giving away too much information about the product 
+	detracts from this.  First of all, what would happen if we announced
+	that we were going to have a anti-gravity weapon in Sin, and then later
+	removed it?  Some of our fans would feel let down.  Secondly, the 
+	feeling of awe as you walk into some new environment you had no idea
+	was even possible is priceless -- and we want to give our players that
+	type of experience.  Spoiling it by telling everyone about all of our
+	levels is just suicidal, I think.  The same thing goes for the weapons.
+	When you play Sin and pick up various weapons, I want the player's mind
+	to be clean and open to the impact of those particular weapons. 
+
+    5.  "wasn't even able to show us the game for our feature" is a little
+	harsh, don't you think?  While we are in the middle of merging the
+	new code drop from id, that doesn't mean we aren't able to show 
+	the game running.  People who have visited various conventions 
+	including QuakeCon '97 and the Frag have seen Sin in action.
+	They have seen levels with vastly different artwork and architecture. 
+	They've seen cool goodies like hopping into a vehicle and running
+	people over.  They've seen various weapons.  They've seen portions of
+	the world be destroyed.  In short, they've seen Sin running.  And
+	that was months ago.  Even then, the overwhelming response was 
+	excitement.  So to imply that we're so far away as to be un-demoable
+	is ludicrous.  A far better reason is that we just don't want any
+	outside copies of Sin.  While I'd never accuse GameSlice of leaking 
+	copies of games, it's fairly common for a leaked copy of an unreleased
+	game to originate from the press.  The policy here at Ritual has
+	always been "nothing leaves the office."  This is nothing new.
+
+So, while Sin will ship "when it's done," as always, don't be too surprised
+when you see it on store shelves months before the leaves are turning yellow 
+and orange.  :)
+ 
+
+
+2-19-98
+-------
+
+------------------
+Me and the new Job
+------------------
+
+Well, here I am.  I still can't believe I'm working for one of the  hottest
+game companies around.  It's almost like a dream....
+
+About 3 weeks ago, I hopped in my blue 1967 Mustang and drove nearly 2000 
+miles, leaving behind sunny beaches for the dubious weather in Dallas Texas.
+Although, come to think of it, I hear California is getting rained out the
+last few weeks... so I guess I'm better off.  :)
+
+Anyway, a lot of people have asked me what it's like working for Ritual...
+I have to tell you, it's incredible.  The amount of creativity here is
+staggering.  It's no wonder Sin is getting all sorts of great press... it's
+because everyone here is putting their heart and soul into it -- and it shows.
+
+Better still, the creative gods here are very open-minded.  They actually
+listen to me, the newbie, and what I have to say regarding everything from
+gameplay to UI.  It's wonderful, I already feel like I'm a part of this living
+breathing machine.
+
+Actually, I guess it's more like a tribe... the whole tribal theme has been
+sprouting up among our press releases, but that's really what it's like over
+here...  We all get together around a virtual campfire (amber glow of a 
+21" monitor, perhaps?) and start talking, arguing, and chatting.  Eventually
+our tribal leader, Joe, writes everything down in his pile of skins, and we
+move on.  Very open, and everyone is given a chance to speak up.  I'm having
+a blast, since I love to talk about anything gaming related.  As of yet, no
+spears or coconuts have been thrown at my head, either  :)
+
+
+-----------------
+The new bungaloes
+-----------------
+
+I expect the digital camera back from Kodak in a number of days, but I thought
+I'd briefly explain our new offices and then go into greater detail with 
+pictures later...
+
+We have a long hallway that runs the length of our new space, but it's not
+straight, but rather at an angle so that all the rooms are not just normal
+square boring rooms.  Very subtle, but cool nonetheless.
+
+Also, we have these cool fader lights that look almost like point lights in 
+Quake... they're trippy to play with and watch the shadows change when you're 
+walking through them and stuff... ok, so maybe 

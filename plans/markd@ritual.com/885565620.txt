@@ -1,0 +1,44 @@
+[01/23/98 10:25 AM]
+
+With regards to my recent posting to the Hardcorps Message board:
+
+Sin will support all 3D cards that are capable of running Sin.  (sounds
+pretty straight forward eh?)
+
+Sin will run well on a Vooodo Rush card. (I forgot to mention it before,
+sorry)
+
+The question of D3D or OGL is essentially mute, I mean moot. (sorry Geoff)
+
+If there is a card on the market which has a D3D only driver it would not
+be difficult for that company to create a rendering dll or "ref" as Id
+calls it in order to run all the Q2-tech games.
+
+It has only been until recently that D3D has approached the speed of OGL.
+With that said, D3D has to support all the legacy crap it stuck in the API
+to begin with, so inherently OGL will always be faster than D3D because it
+is cleaner and simpler.
+
+Ritual Kudos:
+
+Add-on pack of the year in 3 magazines, woohoo!
+
+Personal side:
+
+Jim and I are going to be selling some of our arcade machines.  If you are
+in the DFW area and are interested, please email me.
+
+=========================================================================
+= 
+=
+= Mark Dochtermann
+= President
+= Ritual Entertainment
+=========================================================================
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************
+pleasant email 

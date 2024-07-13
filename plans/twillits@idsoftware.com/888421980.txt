@@ -1,0 +1,29 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Tim Willits
+Email: twillits@idsoftware.com
+Description: Designer
+Project: Quake 2
+Last Updated: 02/25/1998 09:31:00 (Central Standard Time)
+-------------------------------------------------------------------------------
+Hello
+
+I want to thank everyone who wrote me concerning the deathmatch levels. I read every e-mail, tried to figure out what was the general consensus on each level then relay that to the appropriate designer. Your comments were intelligent and well thoughtout and I know we will be able to use them to help us in the future.
+
+A couple of you asked who did which level so I thought I would list them.
+
+q2dm1 -The Edge - Willits
+q2dm2 -Tokay's Tower's - American
+q2dm3 -Frag Pipe - American
+q2dm4 -Lost Hallways - Brandon (KILLME)
+q2dm5 -The Pits - Brandon (KILLME)
+q2dm6 -The Lava Tomb - American
+q2dm7 -Slimy Place - American
+q2dm8 -Warehouse - Christian
+
+base64 - Willits
+Sewer64 - Christian
+City64 - Paul Jaquays
+
+Thanks
+Tim 

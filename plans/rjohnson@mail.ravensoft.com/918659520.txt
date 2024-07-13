@@ -1,0 +1,103 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: SoF
+Nickname: Superfly
+Web Page: Rick's Web Site TurtleCam! mEATwagon Cult
+Last Updated: 02/10/1999 10:55:25 (Central Standard Time)
+-------------------------------------------------------------------------------
+2/10/99
+   Trying to figure out an explanation for this site, I've not been able
+      to come up with one.  Make sure you have your sound up:
+
+ HamsterDance
+
+2/1/99
+   Hello?  Apple?  Are you in the fashion industry?  Or are you just 
+      doing marketing gimmicks?
+
+   I sure wish my PC would come in purple or green or blue?  
+
+   And that stupid HAL commercial during the Superbowl trying to make it 
+      look like the PC is to blame for the Y2K Bug, and that everything 
+      on the Apple is perfect and has no Y2K problems.  Sure, the OS 
+      may not have any problems, but beyond that, it is the individual 
+      developer's responsibility to not use a 2 digit year.  That certainly 
+      has nothing to do with PC manufactures.
+
+1/21/99
+   M.U.L.E. = Multiple-Use Labor Element
+   Thanks for everyone who sent in the answer!
+
+   Well, I've been pretty quiet about SoF, so, I'll just mention this.
+      SoF has in it the most advanced modeling system (rendering, networking,
+      feature set, and other goodies), named Ghoul, than any other game that 
+      will be released in 1999.  Noticed I didn't say "will have in it" but "has".
+
+1/19/99
+   www.ebay.com is such a wonderful place.  It helped fulfill one of my
+      life long fantasies.  Well, ok, maybe that's a bit extreme, but...
+
+   From around 7th grade to maybe 10th, I "acquired" a ton of C64 software.
+      My all-time favorite game is M.U.L.E.  I always felt guilty that I never
+      legally owned a copy, plus I never knew what M.U.L.E. stood for.
+
+   Well, because of my good fortune on ebay, I was able to get an original 
+      copy of the game still in its original shrink wrap for the C64!
+      I'm eager to open it up and flip through the manual, but I don't think
+      I'll ever do that.  Maybe I'll frame it...  Though I still don't know 
+      what M.U.L.E. stands for.  I also got an original copy of Hard Hat Mack.
+
+1/8/99
+   Just a quick amendum to my comments from yesterday.  While I support 
+      these pages about industry news, attacks/comments about one's personal
+      life (whether they are true or not) should not be posted.  All of us
+      in this quake / unreal universe seem to have a very public side to our 
+      lives, but we also are just regular people with personal lives.
+
+   -------------------------------
+
+   Anyone happen to have any recommendations for a digital camera?  I've been
+      thinking about getting one for personal use.  Seems like a lot of people 
+      are recommending the Kodak DSC-260.  
+
+1/7/99
+   Looks like some one's trying to put out the flame.  
+      Puts an interesting twist on editorial pages, like Evil Avatar and
+ BitchX, and how far individuals / companies are willing to let them go before 
+      pursuing legal action.  
+
+   Personally, I do enjoy these pages.  They provide some very insightful 
+      information, when they are correct.  And they can get away with the 
+      bitter truth or honesty.  i.e. if I did have negative feelings towards a
+      company that Raven is working closely with, there's no way that I could
+      ever speak of it publically, as I certainly would be shooting myself in
+      the foot.  (just to make it clear, that was an example, and didn't imply 
+      anything).
+
+   My only complaint about these types of pages would be accountability.  They
+      can pretty much put up anything they want, including rumors, speculations, or
+      even false statements.  All of these items can be very harmful to the people
+      involved.  Sometimes, even when items are reported as being false, they do
+      not get corrected (though the two pages mentioned above are very good about
+      making corrections and representing both sides of the story when applicable).
+
+   "One should not fear the truth.  One should fear those hiding the truth."
+      (c) Rick Johnson  :)
+
+1/5/99
+   If you didn't catch this, Heretic2 is being ported over to the Macintosh.
+      I'm not sure when the estimated date of release is going to be, but it
+      is still several months away, as far as I know.  The port is being done
+      by an outside company called LogicWare.
+
+   Only in Wisconsin can you go sledding at night when it is -10 out!  Pat,
+      James, John Scott, and I went sledding for an hour.  Although it was a 
+      little cold out, it was a blast!
+
+12/31/98
+   New Year's resolutions come early this year.  I've put up a web site
+      to help me get the final version of HexenWorld produced.  Mainly, at
+      this point, I'm looking for feedback on what's currently broken in t

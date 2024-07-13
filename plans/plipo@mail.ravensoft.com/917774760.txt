@@ -1,0 +1,52 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Pat Lipo
+Email: plipo@mail.ravensoft.com
+Description: Lead Programmer/Prog. Manager
+Project: Heretic II
+Nickname: Vertigon
+Last Updated: 01/31/1999 04:55:40 (Central Standard Time)
+-------------------------------------------------------------------------------
+1/31/99
+    The beta is going AWESOME.  The guys have been extremely 
+helpful so far in their suggestions and in rooting out bugs.  I've
+been finding that I've had to hold back on doing absolutely every-
+thing we've come up with for fear of NEVER getting done with the
+EP, but trust me, there's plenty there.  The EP will be done
+soon, and it will be worth the wait, in most of the beta tester's
+eyes.
+    I just finished the code that handles all the coop and single
+player skin/model limitations.  As Steve Stringer said, you can't 
+normally play anyone but Corvus in single play, and Coop won't
+allow you to select any model/skin that doesn't have all three
+plague levels created for it.
+    However, it is completely flexible.  If anyone creates a skin
+that just happens to have all three plague levels, or if someone
+creates plague skins for any skins that are already there, such
+as Demon or Soultaker, then they will instantly be available for 
+coop play.  
+    Kiera and her "sister skin", Domino, both have the requisite 
+plague skins created for them, so if you wish to play them in 
+cooperative play, you can.  Coop players are very tolerant, so
+it should be an accepted fact that the cinematics will still be
+using Corvus, regardless of how many women are in the group.  
+This is the story of Corvus at its heart after all...  Plus
+creation and distribution of the extra resources for Kiera's 
+story is somewhat prohibitive.
+    By the way, I also just added in another little "extra", 
+in the same vein as the "secret" first person mode I have described.
+If you set the "allowillegalskins" console server variable to 1, 
+then that server will allow players to use any skin at all.  That
+way, if you really want to play Patchwork in coop, you can.
+    Some more information about skin selection, particularly the
+"nude skin", you should note that there is only skin downloading,
+not uploading, supported by the Quake 2 engine and Heretic II.
+That way, it is up to a server whether they want to support any
+risque skins that might be created.  And if someone objects to
+a skin that's used, they can easily go to another server.
+    Anyway, 5AM is a bad time to be at work on a Saturday night.
+I'm going to upload the next Beta-test build and head outta here.
+
+Later,
+CodeKing(tm)(R)(c) :-)
+------------------------------------------------------------------

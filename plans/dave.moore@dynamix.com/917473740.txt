@@ -1,0 +1,147 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------
+User Name: dave.moore     Plan Last Modified: 01/27/1999 15:37:27 PST
+
+Real Name: Dave Moore
+Nickname:  SymLink
+Job: Technology Programmer, Lord High Miscellany
+Project: Starsiege Tribes
+
+OK, time to break my radio silence about the OpenGL patch.  I
+know people have been wanting it for a long time, and I
+apologize for the delay.  This is taking much longer than
+I estimated it would, which is frustrating for all involved.
+I'd like to explain some of the reasons why it's taking so
+much time.
+
+The truth is, except for the speed, Tribes has been running
+on my TNT with no visual flaws for well over a week.  Shell,
+Sim, etc., are all fully implemented, and pretty stable.
+I've jumped in several servers, and had no trouble running
+around, and shooting folks who were kind enough to stand still
+for me.  Our trouble, as TimG mentioned, is with texture
+management.  Let me just explain in a little more detail
+what I believe is happening.  Skip the rest of this .plan
+file if you have no interest in hearing me ramble.  The
+upshot of our current status is this: the RivaTNT and the
+G200 are up and running, I'm working at making them run fast,
+and I'll be releasing more info on other cards as it comes.
+
+=============
+
+First some history. (Disclaimer: I have a bad memory, and a
+tendency to fill blanks with plausible sounding fiction.)
+Skip the next two paragraphs if you're familiar with the
+history of OpenGL and shooters.
+
+Were it not for Quake, us programmer types would probably all
+be stuck programming Direct3D from DirectX 2 or 3.  (See
+Poscript.)  As I heard it, 3Dfx visited id Software to
+evangelize the Voodoo card, and found Carmack less than
+enthusiastic about writing a special version of Quake for the
+Glide API, but, seeing that they were running on SGIs using
+OpenGL, essentially said, "We can do that," and suddenly
+everything changed in 3D (well, gaming 3d), and 3dfxGL was
+born.  In a .plan update Carmack wrote that after the RRedline
+port for the Rendition V1X00 was done, there would be no more
+custom ports of the game engine released from id.  Around the
+same time, he wrote his scathing (and very accurate) review
+of DX3 vs. OpenGL, and declared id products would not use D3D.
+
+Now, for every manufacturer of a 3D accelerator, they HAD to
+have a OpenGL driver, or reasonable facsimile thereof,
+otherwise they could kiss a huge chunk of the consumer 3D
+market goodbye.  (CAD/CAM type cards already had OGL drivers
+for the most part, and at several grand a pop, probably
+didn't pay too much attention to the consumer segment.)  So
+everyone started writing OGL drivers for Quake(1/2).  And
+here the trouble begins.
+
+Now, what does this have to do with Tribes?  Well, it has
+to do with the way that Quake handles its textures under
+OpenGL.  In OpenGL, to create a texture, you follow the
+following steps: Obtain a unique integer to represent the
+texture, bind that to the 2D texture target, and call
+glTexImage2D(GL_TEXTURE_2D, ...) to download the texture
+data.  Thereafter, until you destroy the association
+between the image data you downloaded, and the texture name,
+that integer is all you need to represent and reselect
+that texture.  So, if know exactly what textures are
+going to be in the level, it makes sense to simply create
+OpenGL textures for all of them at the start of the level,
+and not download any textures during the course of gameplay
+at all.  This allows the manufacturer's OpenGL driver to
+manage this static set in the (presumably) optimal manner
+for that card, and incidentally, allows you to simply delete
+your own copy of the texture, or just wait for Windows to
+swap it out for you, decreasing your memory usage.  I've been
+told this is exactly what Quake(1/2) does.  I haven't verified
+this myself, but it should be easy enough to do with GLTrace
+(available at gltrace)
+There should be a flurry of glTexImage2D calls at the beginning
+of the log, and none after that, assuming you don't change
+levels.  Now, I expect that there will be several
+glTexSubImage2D calls throughout the log, as Quake(1/2)
+modifies its lightmaps, but this doesn't involve the
+creation/deletion of a texture, simply in-place modification.
+
+So, since the driver writers were essentially writing OpenGL
+to get Quake support, they almost certainly optimized their
+drivers using the assumption that the set of textures needed
+by the application would be changing very slowly and in-place
+modification of textures was possible but relatively
+infrequent.  I'm guessing (based on .plan updates) that the
+Unreal OpenGL effort ran into the same problem we're up against,
+i.e., that some drivers are simply not ready to handle the
+opposite case, in which the working set of textures changes
+rapidly, and in-place modification is a frequent event.  This
+describes Unreal, but to an even larger extent, describes
+Tribes when you're outdoors.
+
+NOTE!  The above is my own analysis, and may be quite full of
+crap; I'd welcome any corrections from card manufacturers.
+Also, this is not an attempt to shift the blame for the OpenGL
+driver not being out anywhere else, I'm simply explaining why
+it's taking longer than I anticipated.  It's also quite possible
+that something's wrong in my code.  I just rearranged my office,
+with my primary monitor now facing the door instead of facing
+away, so the chance that someone walking down the hall could
+glance over my shoulder and say: "You braindead freak!  What
+the !*(#$ is that!" has increased roughly 1000%. :)
+
+Coming (at long last) to the point: to make Tribes work well in
+the outdoor environments is going to require some rather drastic
+muckin' about in the terrain engine, which is under way.  I've
+already made a couple of changes which gave us a 30%-50% FPS
+boost on the TNT.  The problem now is to eliminate the "hitchies."
+I'll start keeping my .plan up to date with current info as it
+comes.  Also, I'll be leaking info from time to time on the MOTD
+of my Tribes server, "The HardLink", so if you're getting
+_really_ anxious to know what's going on with OpenGL, you can
+check there too when it's up.
+
+SUMMARY OF CURRENT STATUS:
+--------------------------
+On TNT: Runs visually flawless, w/ good framerate (20+ in all but
+        pathological static scenes outdoors, 40+ in most indoor
+        environments), subject to "hitches"
+
+On G200: Runs, slight mipmapping problem (ours, I believe), I'll
+         release framerate info after I finished the
+         GL_EXT_paletted_texture implementation.  I'm using their
+         current release of the new ICD, not the D3D wrapper.
+
+Upcoming tests: Riva128zx, Savage3D, Rage128, i740, etc, etc...
+
+
+POSTSCRIPT
+----------
+Before any MSoft folk jump down my throat, let me just say that
+DirectX 6 is a vast improvement from previous versions, and I
+think it's quite viable as a game API now, provided you can
+make some assumptions about the hardware.  However, Execute
+Buffers, and, well, to be honest, *EVERYTHING ELSE* in DX3 was
+just awful.

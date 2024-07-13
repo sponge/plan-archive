@@ -1,0 +1,16 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Tue Nov 23 10:41 (EST) on ttyp0 from 216.27.43.234
+Mail forwarded to brandon@epicgames.com
+Mail last read Tue Nov 23 04:00 1999 (EST)
+Project:
+Unreal Tournament
+Plan:
+Tuesday, November 23, 1999
+
+In the Unreal Universe interview I said that Epic was not going to be
+persuing more Unreal patches.  I talked to Tim and he said that he
+was going to release one more Direct3D update with the latest
+changes/fixes and that would be it.
+	
+    

@@ -1,0 +1,144 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 10/17/1997 23:56:26 (Central Standard Time)
+-------------------------------------------------------------------------------
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+October 17, 1997 (part 2)
+------------------
+
+Recompiled Quake2 on the Enorex DEC Alpha system, and it worked pretty much on
+the first shot.  The main problem we had was a divide-by-zero error that was
+masked on WinNT/Intel but which manifested itself as an exception on WinNT/AXP.
+The cool thing is that this may, in fact, be a real bug that would have been
+very difficult to find if we hadn't ported to the Alpha.
+
+The DEC Alpha version of Quake2 will be compiled specifically for the 21164,
+and should run fine on the 21264.  It supports both software rendering and
+OpenGL rendering.
+
+For OpenGL rendering the only hardware accelerator we have to test with is the
+Permedia 2, and I'm pretty damn pleased that 3DLabs is supporting the DEC Alpha
+far more than just about any other OpenGL vendor out there.  This is a niche
+market, but it's a high-performance niche market that clearly stakes out the
+high end.
+
+Right now the 3DLabs driver is missing some pretty important features that are
+necessary to truly enjoy the full Quake2 experience.  There are some annoying
+bugs which we can live with (not being able to toggle between fullscreen and
+windowed modes), but the two major killers are lack of colored lighting (that
+whole src*dst blending thing again) and no glTexSubImage2D support.
+
+The colored lighting can be lived without -- people running in software won't
+get colored lighting, so not having it in the GL version isn't crucial if
+you're using a Permedia2.  However, glTexSubImage2D support is pretty vital
+if you want dynamic lights.  Currently we disable dynamic lights if we know
+we're running on a Permedia2, but this can be overridden by setting the
+appropriate cvar ("/gl_dynamic 1F").
+
+Software refresh support on the Permedia2 is pretty impressive.  Ref_soft runs
+great in all kinds of video modes, including 320x240, 400x300, and 512x384.
+Fullscreen mode is pretty much required if you want to get the most out of 
+things, however -- the DIBSection performance we saw was pretty abysmal, most
+likely the result of 8->16-bit translation during the BitBlt.
+
+With fullscreen rendering, the Enorex w/ Permedia2 was pretty amazing,
+especially using ref_soft -- and especially considering that NO AXP specific
+asm code was being used.  If we or DEC were to slightly tweak the AXP rendering
+paths, performance would likely go up a HUGE amount.
+
+We plan on doing a full round of testing with Quake2 timedemos in the next day
+or so.
+
+October 17, 1997
+------------------
+
+Man, "Peace Sells But Who's Buying?" by Megadeth is one of the coolest albums
+of all time.  Back in The Day there weren't many bands that were REALLY trying
+to be "hard" -- you basically had Metallica and Megadeth.  It was really cool
+when there were people really trying to do something new and interesting and
+definitely hardcore compared to the crap (i.e. Ratt, Bon Jovi, Whitesnake,
+and the other hair bands) that was circulating.
+
+Saw that Ritual hired Gary McTaggart from 3Dfx.  It's going to be interesting
+to see what they can do now that he's on board, since his acquisition will
+give them all the tools necessary to do some really cool and different
+stuff.  Gary is amazingly smart and creative, and Ritual has the potential to
+become one of the premiere game companies in the industry.
+
+From my own experience working at 3Dfx I can say that being a wannabe game
+developer at a hardware company was one of the more frustrating experiences
+in my life, so it's cool to see another 3Dfx alumnus get a job at a cool game
+company.
+
+October 16, 1997 (early AM)
+------------------
+
+Gators are probably going to get their asses kicked by Auburn -- they just
+benched Johnson for disciplinary reasons.  Oh jeez...I'm going to be really
+depressed this weekend I think.
+
+Okay, Paul Steed mentioned something about "crunch time", and I'd thought I'd
+add something about that.
+
+Crunch time sucks.
+
+Crunch time rules.
+
+Crunch time sucks because you don't get sleep and you're really tense and 
+stressed all the time.
+
+Crunch time rules because everything comes into focus and you see all the
+different pieces coming together into a product that is greater than the
+sum of its parts.
+
+We've really got a competent team here making some kick ass products, and 
+I'm proud to be a part of it.
+
+October 13, 1997
+------------------
+
+Okay, you folks can stop telling me why you don't play on Inferno anymore. :-)
+
+The unscientific breakdown is something like this:
+
+- most people suffered a pretty horrific hit with ping and/or packet loss after
+we switched ISPs, so those folks are playing elsewhere
+
+- because of our new ISP, connectivity seems pretty flaky, and Inferno often
+doesn't even show up on master server lists
+
+- because fewer people play on Inferno because of shitty ping, the levels that
+are normally run (DEATH32C and BASE32) are too large for 4-6 players, meaning
+even fewer people want to join.
+
+- because no one is on, no one joins (self-fulfilling kind of thing)
+
+October 12, 1997
+------------------
+
+!Football
+
+I've noticed that Inferno is basically empty these days.  If you used to play
+a lot on Inferno and quit playing there, drop me a line and let me know.  I'm
+curious if there are particularl levels you dislike (DEATH32C, BASE32, etc.)
+or if you've noticed a really bad drop in performance lately or if it's
+something else.
+
+!Quake
+
+Once Kordell Stewart gets some real experience I think Pittsburgh is going to
+have a phenomenal team.  Having to deal with a QB that can throw _and_ run is
+going to be interesting for a lot of defensive coordinators.
+
+The Gators lost to LSU...I'm still reeling from this.
+<br

@@ -1,0 +1,50 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 04/15/1999 11:11:32 (Central Standard Time)
+-------------------------------------------------------------------------------
+4/15/99
+
+Wow, a month since my last update. Yikes.
+Well, its tax time again. Bill dips his hands in my pockets once again. Ohh err... sounds a bit naughty that !
+I dunno, whatever I hand over the government cash wise, it never seems enough. Whinge Whinge, moan moan.
+
+GDC - I didn't do a mini review of that. So here goes. Most of it was pretty cool. The keynote by Shigeru Miyamoto
+was cool, to be honest, I don't think he said anything that most in the industry with any experience didn't already
+know, but it was majorly cool for him to be there. I particularly liked the bit where he went on about developing
+zelda "We had a team doing r & d on the camera, another team doing animations, another doing this and another doing
+that." That must be nice eh ? :))
+Most of the seminars were pretty cool. Some where not. The panel with the level designers hosted by Romero was pretty
+much a bust. Was it just me or did it seem like people were constantly getting up and leaving ?? I enjoyed the one on
+why the internet sucks by the guys who did X wing vs Tie Figther. Again, mostly old news, but interesting to hear the
+stumbling blocks they hit and some of the reasons why these blocks exist. Also, the stuff on scalability that Sax's
+did using his messiah engine was damn cool. That game looks like its going to rock hard. And that Sax's guy knows his
+stuff alright. Way cool.
+So, the parties. I think everyone would agree that for all the fuss surrounding the microsoft party, it was crap. Who's
+idea was the two drinks free then pay ??? Firstly, there were lines everywhere so you had to wait for 1/2 hour to get a
+beer, and secondly, once you'd had the two drinks, to buy a beer was $4.. what is the thinking there ? Its not like the
+band was that good. It seemed from where I was standing that everyone came, had their two drinks, and then vanished.
+Now, SoftImage knows how to give a party. Congrats to that lot for holding the party of the week as far as I'm concerned :)
+Then again, I'm biased, I won a compaq Palmtop PC there :) Cheers Gareth and the group for that :)
+All in all the GDC was for me a good experience. I'm not thrilled with Sony's level of secrecy over the PSX2, though. I
+was talking with one producer that works for Sony that told me that his whole team went to Japan to be briefed on the PSX2, 
+and when they got back, they couldn't tell him what they had learned ! Not only that, he didn't even KNOW they had gone
+to Japan till they all got back. He told me he thought it was strange that they all called in sick for a week at the same
+time. Secrecy gone mad ???
+
+So the EP is out there. And it has a couple of bugs in it. This highlights our blind spot of real Internet testing. QA at
+activision didn't catch a couple of bugs, but then we are lucky we got any QA time at all, since they had their hands full
+of Civ 2 and a golf game. I just want to say thank you to them for putting in the time they did. Anyway, we ARE going to
+fix the bugs that cropped up. Infact, they are fixed, and QA is once again doing their thing on the code. Its just a question
+of time before we release this fix. When its released, I'll do a .plan update listing what we fixed and why.
+
+Before I sign off, I have to say hello to JF, Jan and the rest of the guys from NAD in Montreal for making the GDC a fun
+time. I just want to say that Jan, you have a sick sense of humour :)
+
+Song of the day :- Divinyls - I touch myself. Song for a generation :)
+Joke of the day :- 
+Q. Whats the politically correct term for a Lesbian ?
+A. A Vagiterian.

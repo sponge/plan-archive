@@ -1,0 +1,35 @@
+Account Name:  Cannon, T. Elliot
+Email address: myscha@nettally.com
+----------
+Myscha the sled dog
+User: T. Elliot Cannon-Architect
+UNREAL Level Designer-
+Designer/Consultant to EPIC-MegaGames
+
+Latest Activities.
+Looking forward to the upcoming 220 Version of Unreal which fixes Multiplayer woes and responds directly to gamer feedback regarding items like
+
+1. Weapon damages/splash radii
+2. Weapon Sounds and Punch
+3. Player Movement rate
+4. Player Jump Height
+
+And I've been testing the latest versions here with some brand spanking new maps I've been working on, as have the other level designers here.
+
+This latest batch of DM maps I've been working on go back to 1 on 1 and 2 on 2 and 3 on 3 style of play.
+The maps are ultra fast paced allowing sound cue players good sense of control and accessibility to adjacent areas quickly and effortlessly.
+I've been focussing on layouts that allow for players to hear a  sound cue and get there without much more than a 2-3 second delay-so that the source of the sound cue hasn't moved on to another area.
+
+I've also brought the scale down on the maps to better respond to the new splash damage radii which are larger on all explosion based weapons and do more damage. 
+
+Of course you can expect mucho Structural Elements and themes along with 3 and 4 level interlinking geometry.
+
+My hope is that these batch of maps that are being designed specifically for the new changes to Unreal deathmatch shall be released as seperate free downloads along with Tim and Steve's final patch. This IMO will help give gamers a second look at UDM with maps that are specifically designed for the weapons utilized in them.
+
+We'll have to see what Epic decides to do here.
+
+Unreal deathmatch has a very brutal feel to it now-whereas previously it didn't have the "umph" it needed.
+
+I'm looking forward to seeing this finalized and out there.
+
+-revised entry to appease others ;)

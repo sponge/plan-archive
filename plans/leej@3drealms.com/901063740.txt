@@ -1,0 +1,29 @@
+Account Name:  Lee Jackson
+Email address: leej@3drealms.com
+----------
+My Mind Have Still I
+
+I'm finally back up and running at 95% efficiency at the office and at home.  I had to yank the OEM STB Velocity 128 card out of the DAW system, since it was causing crashes, preventing bootup time from working right, and giving me corrupt graphics in Netscape that I couldn't fix with a driver update due to STB's pathetic (IMHO) policy on drivers and OEM cards.  It's been replaced with a GLyder Max-2 from Symmetric, which is (you guessed it) an STB subsidiary.  It uses a Permedia 2 chipset, and so far, it hasn't brought my system down.  Here's hoping that it keeps running.
+
+The MIDI system had some serious power problems last night - turned out my UPS was dying.  It's either an old age problem or a difficulty caused by the power coming from the outlet that was forcing it and my line conditioner to cycle continuously last night.  Either way, it was causing the system to lose power completely and shut down without warning.  I'm running without a UPS for now, but at least I'm running.
+
+Things are so much smoother at home that it isn't even funny.  I finally broke down and decided to ditch the old AMD 486DX/4-100, 16MB system and replace it with something better.  Much better.  It's a Dell Dimension XPS R400 with, as the name would imply, a PII 400MHz processor.  Right now, it has 128MB of ECC RAM, a 10.1GB IBM 7200rpm EIDE HD, an NEC 17/40x IDE CD-ROM, an internal IDE ZIP drive, and an 8MB ATI Xpert 98D 2x AGP video card driving a Dell 19" monitor.  Software included Office 97 SBE version 2 and Windows 98.  Add to that the sound and MIDI cards from the old system, as well as the Adaptec 2940UW SCSI adaptor and the Plextor PlexWriter SCSI CD recorder that's on order, and I now finally have a system that I have very little to complain about.  Now, all I need is for TCI to get multiple IP support going for their @Home service....
+
+BTW, while we're on that subject - does anyone here use @Home?  If so, I have a couple of questions for you:
+
+1.  How well does it work? (reliability, speed, access)
+2.  Can you access your mail account from a different computer?
+3.  Would you recommend it to someone else as a replacement for their existing ISP service?
+
+I'm thinking about switching from my local ISP (Northstar, located at http://www.nstar.net) to @Home, but only after they fire up the multiple IP support they've been talking about so that I can hook my wife's and my son's computers into it as well. (There's no way I'm about to try and set up a server and IP aliasing scheme just to save a measly $10 a month).  However, I've been with Northstar for so long now that I'm hesitant to leave.  Yes, I have a sense of loyalty that would make a puppy look like Benedict Arnold, but that's just the way I am.
+
+Oh, well.  Back to massaging synth samples into shape for MOD use.  Tedious, boring, dull, mind-numbing work.  All technical work and no creativity makes Jack a dull boy.  At least I'll be able to play again once it's done, but it never seems like it's done.  KnowwhatImean, Vern?
+
+
+
+
+
+
+INSERT SHASH HERE
+	
+    

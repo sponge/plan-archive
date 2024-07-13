@@ -1,0 +1,36 @@
+You've reached Jim Dose' at Ritual Entertainment, Inc.
+I can be reached e-mail at judas@hipnotic.com.
+
+8/29/97 -
+
+I thought I'd update on what's going on with the OpenGL port
+of Doom.  Sin is, of course, my top priority, so this is really
+a project I do on Sundays.  I offered to do the port partly as
+an exercise in developing for OpenGL and partly because I really
+want to play the game with the nice blending features of 3D
+hardware.  I thought the N64 version of Doom was beautiful, 
+but playing Doom without a mouse just isn't the same.
+
+I've got a version running in a window treating the game 
+screen as a texture and uploading it to OpenGL each frame.  
+This is slow as hell, but my first goal was to get it working 
+in Windows without any changes to the renderer.  There's 
+still some problems with fullscreen mode and hardware, so 
+that's my task for this weekend.  Mark helped out considerably 
+with the window code by finding some bug that I had with
+getting OpenGL to draw to a windows bitmap.
+
+After getting the boring Windows stuff done I'll start converting
+the vertical span based rendering to full polygons.  This is the
+"get down to business" part of the job, so I'll probably have to
+try a few different methods to get the best performance.
+
+Once I've got the renderer taking advantage of OpenGL, I'll
+add some of the cool things that hardware gives you basically
+for free.  The sprite explosions, the BFG blast, and the plasma
+gun's projectiles will all be done using alpha blending.  I'll
+probably do some light sourcing with light maps around the light
+posts.  The walls next to floor and ceiling light textures will
+blend from light to dark.  I also want to put in true looking up
+and down.  Even though the game doesn't take advantage of it,
+it would still be nice to mlook. :)

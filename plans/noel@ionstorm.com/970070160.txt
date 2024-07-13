@@ -1,0 +1,218 @@
+
+*** Ion Storm's Finger Server
+
+User name: noel
+Plan modified: Wed Sep 27 11:02:23 2000
+
+
+
+
+
+
+
+May 24th 2000
+
+
+
+
+
+Disclaimer
+
+      Everything you Read here is my own opinion and in no way, shape, or form
+      represents the opinion of ION Storm or any other associated entity.
+
+
+September
+      27th  2000
+
+
+
+It seems there has been a little confusion
+      with the patches and what they do fix and what they do not fix. 
+      There was a little bit of confusion due to the fact that we released a
+      U.S. 1.0 to 1.1 patch and then realized that we might as well just release
+      the 1.0 to 1.2 for the foreign versions due to the latency between
+      releases.  Thus, if you have the U.S. version then both the 1.0 to
+      1.1 and the 1.1 to 1.2 will contain all of the below fixes.  If you
+      have any other version and you obtain a patch for it then all of the below
+      fixes will be in that one patch.  (i.e. UK, Italian, French, German,
+      Spanish)
+
+
+
+Daikatana
+      Patch
+
+      Fixes (<1.0 to 1.1 & 1.1 to 1.2 US> <1.0 to 1.2 all
+      others>)
+Here's
+      the list of Bug Fixes and Additions to Daikatana that are contained in
+      this patch.  To apply this
+      patch, you must have a FULL INSTALL of Daikatana in place.
+
+       ============
+
+        BUG FIXES:
+
+      ============
+
+<All foreign versions 1.0 to 1.2 start
+      here>
+
+      <U.S. 1.1 to 1.2 only starts here>
+
+Power of two texture
+      problems corrected on the following maps:
+
+Introcine
+
+      E1dm2
+
+      E1dm2a
+
+      E1dm3
+
+      E2dm5
+
+      E3dm1
+
+      E2ctf2
+
+      E1dt1
+
+      E1dm1
+World.dll crash when asking Sidekicks to
+      follow up a ladder is now fixed.
+
+      Game locks when the Page Up key is hit with the console down is now fixed.
+
+      Game crashes when loading an autosave is now fixed.
+
+      Special case e1m1c autosave crash is now fixed.
+
+      E4M6c final cinematic no longer has two superfly bodies.
+
+      Floating torches in E2-Cicle of Death now fixed.
+
+      E4m6A Sidekicks not showing up is now fixed.
+
+      q1Dm3 Teleporter does not work is now fixed.
+
+      q1Dm2 health kits placed in the floor now fixed.
+
+      Wyndrax unable to open bookcase now fixed.
+
+      Getting the 5th level free after going up to 4th level is now fixed.
+
+      Episode 2: Hade's Hammer disappearing when someone is killed using it is
+      now fixed.
+
+      E2M1c: In coop mode the door that was supposed to open by the horn now
+      actually opens.
+
+      E4M1a: In coop mode if both players die there was no way to finish the
+      map...now fixed.
+
+      E1M4a: Large vis error by the door at the end of the map is now fixed.
+
+      Gibs in episode 1 not displaying the proper textures is now fixed.
+
+      E4M4b: In coop mode the server limited the players to the pistol in the
+      shooting range is now fixed.
+
+      E4M4B: In coop mode the lift and grate were out of synch, this is now
+      fixed.
+
+      Item pickup displaying duplicate messages is now fixed.
+
+      When the console is set to 0 there was no server errors being displayed.
+      *fixed*
+
+      No way for the player to return to the main menu after selecting an
+      invalid server is now fixed.
+
+      E1M3A: missing texture in the floor is now fixed.
+
+      E2Dm1: missing texture at the rooftop near the hammer is now fixed.
+
+      Sidekicks now use hosportals and fountains.
+
+      Dedicated server requiring a CD no longer requires a CD.
+
+      Under Windows 2K, loading maps caused memory allocation errors. *fixed*
+
+      Graphics glitches if the player is in the menu while the level is loading
+      is now fixed.
+
+      After defeating Nharre, the grate to allow Superfly carrying mikiko never
+      opened... now it does.
+
+      Servers now have a configurable message of the day (MOTD).
+
+      Servers crashing in multiplayer if the player joining has no name. *fixed*
+
+      Spanish version freezing in e1m4c is now fixed.
+
+      Servers now have Cvars that allow map lists:
+cvars:
+
+      maps_dm
+
+      maps_ctf
+
+      maps_deathtag
+
+to set them from the console
+      line-->        example:    
+      > maps_dm "e1m1b e1dm1"
+
+      this will rotate the deathmatch maps between e1m1b and e1dm1.
+
+
+
+      E1M7A: Industructable fan prevents access to vents is now fixed.
+
+      With unlimited saves turned on screenshots were not showing up. *fixed*
+
+      Death taunts were not always correct. *fixed*
+
+      E2M4e: The iron gates did not close behind the players when they entered
+      the cerberus area. *fixed*
+
+      Mishima guards kept opening locked doors to get to the player. *fixed*
+
+      E2M5e: Clip error at door on level exit is now fixed.
+
+      E4M1B: Light floating in the air is fixed.
+
+      Episode 1 crash: Sidekicks crashing the game when issuing the command for
+      them to 'get' a hosportal is now fixed.
+
+      E1M1B: Slaughterskeets not coming out of their holes is now fixed.
+
+      Screen flashes like it is being lit improperly when the player gets hit is
+      now fixed.
+
+<U.S. 1.1 to 1.2 only ends here>
+
+
+
+<U.S. 1.0 to 1.1 only starts here>
+
+* Multiple graphic cards are selectable within the game, including
+      Voodoo cards. If you are having
+      problems with Daikatana running slow with your Voodoo, after 
+      applying this patch, run Daikatana, go to the VIDEO menu and at the
+      top of the  screen you'll see
+      a pull-down menu.  Pull it
+      down and select "Voodoo Mini ICD" 
+      and click on Apply Changes.
+ *
+      Fixed sidekicks not spawning between level changes and savegames (where
+      you  couldn't finish the game) 
+
+
+*
+      Added unlimited saves option.  If
+      ON when starting a level, SaveGems will 
+      </span

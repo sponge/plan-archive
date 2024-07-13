@@ -1,0 +1,295 @@
+Account Name:  scottm @3drealms.com
+Email address: scottm@3drealms.com
+----------
+Scott Miller, head of Apogee Software, Ltd.
+(3D Realms Entertainment is a division of Apogee)
+
+========================================
+August 19, 1997
+
+I've asked C-Net's GameCenter to correct the following, but they've yet to
+respond, so I'll make the correction for them here...
+
+There's a great article about the 10 most innovative PC games of all-time on
+www.gamecenter.com, and Wolfenstein 3-D is one of the games listed.  There
+are two mistakes:  id Software is listed as the game's publisher, and
+the release date is listed as 1991.  The *correct* information is that
+Apogee Software published the game (id developed it), and that the game
+was released in 1992 (May to be exact).
+
+Why do I bother setting the facts straight?  It's history, and history
+should be reported accurately, otherwise why report it at all?
+
+Update on patent:  Someone passed along Ernest Kettelson's (the attorney
+behind this absurb patent) email address.  The person wrote: "May I suggest
+posting the lawyer's Email address (ketlaw@ix.netcom.com) in your .plan so
+everyone can be sure to let this clown know how they feel?"
+
+Sounded like a good idea to me.  ;)
+
+========================================
+August 18, 1997
+
+I've been reading the September issue of Next Generation magazine.  One of
+the big questions asked by the editors in the inside cover is, "Is
+technology finished?"  "John Romero thinks so," says the magazine (though
+I'm unsure if Romero actually told them this.)  "Shiny's Dave Perry couldn't
+disagree more," continues the text.
+
+Now then, I'm not a David Perry fan, and I despise the fact that he's trying
+to patent (here we go again!) some fairly obvious engine technology (which
+we're already doing in Prey, btw--it ain't no big deal).  However, on this
+point, I agree with him that technology is no where close to being finished,
+and never will be, just as 640k RAM wasn't more than any computer would ever
+need (as Bill Gates said when the IBM PC was first released).  Engines will
+always need to be created to take advantage of the increasing power of
+computers, their faster CPUs, and new enhancements, such as 3D accelerator
+cards.  This will never end.
+
+In the October issue of ePlay magazine (the second issue of a new and hard
+to find magazine solely about multiplayer gaming), Tom Hall is asked by the
+interviewer, "What makes [Ion Storm] different?"  Tom responds:  "The whole
+premise behind the company is that we'll license other people's technology.
+We want to just buy the canvas and paint on it; we don't want to build the
+canvas.  And that allows us to have a lot more interesting content, really
+focus on gameplay and what you actually get to do and fine-tune that,
+rather than just crank out a bunch of levels."
+
+I think its erroneous to suggest that any game built upon new and original
+technology will have levels that have been "cranked out," without proper
+attention to gameplay and interesting content.  It's true that without
+having to worry about creating the underlying engine technology that more
+focus can be placed strictly on design issues, but it's not true that
+design issues have to automatically suffer for those developers who also
+create their own engines.
+
+In fact, design issues can blossom to take advantage of the new engine's
+features and abilities.  It's just a matter of having the proper design
+goals with the project, and not letting the engine itself *be the game*,
+but instead the engine must *support the game*.
+
+Id Software did this perfectly with Wolfenstein 3-D (and DOOM to a great
+extent), in which we saw all-new engine technology and highly innovative
+gameplay (for its time).  Quake, though, was mostly only innovative in the
+technology area (including multiplayer), and wasn't so innovative in terms
+of gameplay, which several of the game's designers themselves have stated.
+(Q2 looks to have answered this criticism, btw.)
+
+Our goal with Prey, for example, is to be highly innovative in terms of
+gameplay *and* technology.  If we were to use the Quake engine for Prey,
+we could only be innovative in gameplay, and we'd have a much less
+impressive game overall.  In fact, many of the gameplay elements we have
+in mind for Prey are only possible with our new portal technology.  This
+shows one of many weaknesses in relying on older, previously seen and
+played technology, since players prefer to see something new and original
+technology-wise, just as much as gameplay-wise.
+
+There will never come a point when the last engine is done and no further
+improvements can be made.  At best, a 3D engine's life is two to three
+years, and the first company to use that engine is usually the big winner.
+
+Any developer that thinks they've developed the "final engine" is a
+developer that won't be around long.  ;)
+
+========================================
+August 13, 1997
+
+I am stunned!
+
+I've never seen so much positive response of an issue--over 1000 messages,
+all supportive except for one.  For those who don't know what's going on,
+visit www.3drealms.com and read the top news item, regarding the patent
+issue.
+
+The full patent and letter that Apogee received has been scanned in and can
+be viewed at:  http://www.nconnect.net/~tookycat/apogee/ 
+
+If you care to voice your opinion to this attorney, Ernest Kettelson's law
+office numbers are:
+
+Phone:  815-467-1400
+Fax:  815-467-1461
+
+Obviously, this patent was one that should not have been granted because
+it's so obvious in nature, and too broad.  The Software Publishers
+Association (SPA) has been following this patent and has a report on
+their site, at:
+
+http://www.spa.org/gvmnt/wash1_8.htm#anchor1744787
+
+I've heard from a dozen patent attorneys who've stated that it's their
+opinion that this patent cannot hold up in court.  Here's the message from
+one such attorney:
+
+----- message begins -----
+
+Saw your plan update.  BTW, I'm the author of the Quake editor BSP, so I
+follow this community.  I'm also a patent attorney, so I was interested
+in what Kettelson's client was trying to do.  I don't think I met with
+you at e3, though I did meet a bunch of people in the community.
+
+Anyway, I looked at the patent ('635) in question.  The claims (all 2
+(not impressive) of them) look narrow in scope.  Don't believe the hype
+in the letter.  Have your patent attorney pull the file history on this
+patent and see what concessions the inventor had to make to get the
+patent and what prior art was cited to the office.  The inventor may
+have shot himself in the foot.  Has '635 been asserted against others? 
+Any successes (previous litigation of the patent will show up in the
+patent's file history, too).  Has the patent ever been reexamined?
+
+To infringe, you would have to be doing each and every thing in one of
+_the claims_.  Their spin on the claims is not relevant.  I would doubt
+that you are doing _every_ thing in those claims.  If you are not doing
+even a single "element" or "limitation" of the claim in question, you do
+not infringe.  Those claims have a _lot_ of words (i.e., probably a
+narrow patent).
+
+Anyway, you probably knew that.  I think you guys will get past this one
+pretty readily.
+
+Between you and me, and I certainly haven't done any research and don't
+know the facts, the patent seems bogus and its assertion makes us patent
+attorneys look pretty low.  I can understand why the gaming community is
+somewhat anti-patent... when this kind of stuff occurs.
+
+----- message ends -----
+
+The press has jumped on this story and nearly every major web site has
+covered it, with more to come, including print magazines.  I'm hoping the
+the patent owner (Craig Enokian of Illinois) and his attorney, feel the
+heat from both the press and game players, and back off this scam.  I'll
+post more news as I get it.
+
+========================================
+August 12, 1997
+
+Next Generation magazine (August issue, page 95) has a preview of Ritual's
+SiN in which is stated:  "Hipnotic...employees include Duke Nukem 3D's head
+level designer..." (referring to Richard "Levelord" Grey, a previous
+developer at 3D Realms now at Ritual--formally Hipnotic).
+
+A small correction needs to be made:  Richard Grey, as fine a mapper as
+there is, was never the "head level designer" on Duke Nukem 3D.  Allen Blum,
+who was a level designer on the first two Duke Nukem games, was the *head
+mapper* on Duke Nukem 3D (and is the head mapper and asst. producer on Duke
+Nukem Forever, too).  Richard was brought in halfway through Duke 3D's
+development to assist Allen and get the game done faster.
+
+Richard himself said, in a level design article for PC Games (Sept. 1996
+issue, pg. 50), "A special thanks to Allen Blum for letting me do my thing
+in his sandbox; he is a god among us lowly lords."
+
+Next Generation's SiN article continues, referring to Ritual's Quake
+Mission Pack No. 1 as "Hipnotic's first post-Duke effort."  How can
+anything they do be considered a "post-Duke effort" if none of them but
+one (Richard) was a core member of the Duke 3D team?
+
+Looks like Next Generation did a sinful job on getting their facts straight
+on this story.  ;)
+
+========================================
+August 11, 1997
+
+I'm trying to avoid hyping Prey too much in my plan, but
+PC Gamer (US version) just arrived and said many glowing
+things about Prey that I want to repeat.
+
+Jason Bates, news editor for PC Gamer, who said in his
+column several issues ago that Prey was greatly hurt by
+certain developer departures, had this to say in the
+current issue after seeing the game at E3:  "Prey...was
+a huge surprise, catching me completely off guard...anyone
+who saw the portal technology and the rest of the engine
+in action could make the case that this was the show
+stealer."
+
+Elsewhere in the issue:  "Easily one of the top three games
+at E3, it would be a shoe-in for game of the show if the
+gameplay was actually in place."
+
+Lastly, in a separate large feature on Prey, PC Gamer wrote:
+"After a stellar performance at E3, Prey--once considered a
+big question mark on the 3D Realms product schedule--has
+become not only 3D Realms' star attraction but a signpost
+for 3D games in 1998.  Prey is a technological tour de force,
+beyond both Quake and Unreal; in plain English, this game
+rocks."
+
+Max Payne, first unveiled at E3, also had strong praise:
+"Another impressive title is Max Payne...it looks like this
+game will be one of the top tier in terms of technology in
+the upcoming year."
+
+PC Gamer mentioned that there was no sign of
+Duke Nukem Forever ("...not even a screen shot...") at
+E3.  That's because it's our intention to keep news on this
+game at a minimum until it's much, much closer to release.
+However, the November issue of PC Gamer will have
+a nice cover story on Duke 4, and this will likely be
+the only significant Duke 4 press coverage until
+several months into 1998.
+
+In other news, Johnny Wilson, top dog Editor-in-Chief of
+Computer Gaming World, will be here in just a few minutes
+to have a look at Prey.  He's heard so many great things
+about it (he missed it at E3) that he is flying down for a
+personal gander and a lunch stop at On the Border.
+
+========================================
+August 7, 1997
+
+It's almost unavoidable that when a large publicly traded corporation
+buys a small, focused company that the small company loses its identity,
+passion, and many of their key people who don't want to work under the new
+rules, system, culture or bureaucracy.
+
+It's worth noting that there are few independent development houses left
+that can truly guide their own destiny and create games without corporate
+pressures and budgets.  The following list of once independent development
+groups is now under a corporate umbrella that in part or in whole dictates
+budgets, release dates and game content:
+
+Core Design -- Eidos
+Dynamix -- Sierra
+Papyrus -- Sierra
+Bullfrog -- EA
+Origin -- EA
+Maxis -- EA
+Shiny -- Interplay
+Blizzard -- CUC
+Raven -- Activision
+...and many, many others.
+
+Apogee has been courted by several much bigger publishers (including
+Sierra), but we're turned down all offers, and we have no intention on
+losing the total freedom we now have.
+
+I hope that the few independent developers that are left plan to stay that
+way.  I know we will.
+
+========================================
+July 24, 1997
+
+Hey, Epic and id are both stealing their character ideas from
+Rise of the Triad damn it!  We had male and female characters way
+back in 1994.  ;)  :)
+
+The fact is that *all* developers copy good ideas from other games,
+both intentionally and unintentionally.  If you're a developer that
+talks about your game's key ideas on the net, then you'd better expect
+that other developers will see these ideas and consider using the
+good ones--we certainly do (see good ideas and use them, if appropriate).
+
+It's unfortunate for Epic and the Unreal team that their game has taken
+so long to come out.  This has dwindled it's technology advantage, and is
+obviously causing some misplaced ill-feelings toward competing developers.
+
+It's also an unfortunate coincidence that Quake 2 has similar characters
+to those in Unreal.  I'm sure id didn't do this on purpose and probably
+had no idea that Unreal had the very same characters (bald male and
+female with ponytail).
+
+In any case, to whoever gets their game out first will go the spoils.
+That's survival of the fittest, and the way it should be.
+
+==================

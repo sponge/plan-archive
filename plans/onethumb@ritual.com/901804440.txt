@@ -1,0 +1,312 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: onethumb
+Plan modified: Thu Apr 30 10:07:00 1998
+
+
+Name:  Don MacAskill         
+Email:  onethumb@ritual.com
+Occupation:  Jedi Master
+
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************       
+
+
+
+- 7/29/98 6:19 pm -
+
+-[ Deathmatch Maxclients ]-
+
+I've noticed a lot of servers are playing with maxclients set as high as 32.
+This is probably a Bad Idea(tm).
+
+SinCity is probably best with 2-8 people, and SinDM6 is probably best with 
+4-16.  And 16 means a pretty full game on SinDM6.  
+
+Overcrowded SinCity can be especially bad, since you can see the whole level
+and drawing 32 players is just insane.  :)
+
+Both levels rule, though, I just thought I'd give the server admins a few
+pointers...  
+
+
+
+- 7/29/98 5:43 pm -
+
+-[ More Rush Stuff ]-
+
+Make sure you set your 3Dfx video renderer options to "Fullscreen: YES" on
+the video options menu if you are trying to get Sin to work on Voodoo Rush.
+
+
+-[ New READMEs ]-
+
+Updated our README to include some more tips & tricks, information about 
+dedicated servers, etc etc....  
+
+http://www.ritual.com/news/SinDemoReadme.html
+
+Readme
+
+
+Also created a "Hardcorps Version" which is intended for "experts" in the
+first-person shooter genre who just want to see what's new or different
+with Sin, but don't want to deal with pages of installation and menu option
+stuff they're already familiar with.
+
+http://www.ritual.com/news/SinDemoReadmeHardcorps.html
+
+Are you Hardcorps?
+
+
+-[ Common Problems Page ]-
+
+I'm planning on putting up a webpage listing common problems and known bugs
+soon.  Just hang tight, lots of stuff to do.  
+
+Check Ritual's news page for more information as I get around to it.
+
+http://www.ritual.com/news/
+
+Ritual News
+
+
+
+- 7/29/98 3:22 pm -
+
+-[ Sin Video Issues ]-
+
+Some people have reported (most with Rush cards) that their screen just goes
+grey and doesn't start the game...  Or that it gives them a glide error and
+dumps them out...  Here's the solution:
+
+Either run Sin from a command-line prompt, or edit the menu item in your 
+Programs menu and use this command-line:
+
+"sin +set vid_ref soft"
+
+(without quotes) 
+
+Sorry for the inconvenience, we didn't test on Rush, assuming that it was
+going to function just like Voodoo/Voodoo2.  Other cards/setups may have
+exhibited this problem as well.
+
+You can then set up your settings properly using the Video config mode, and
+the settings will be saved to your player profile for later use.  
+
+
+- 7/29/98 1:15 am -
+
+-[ Hardcorps Classified Update ]-
+
+While writing and polishing the README that came long with the demo, I tried
+to think of (with lots of excellent suggestions from the rest of the team) 
+things that were new (looting the dead) or even more important (strafing, 
+good aim) in Sin than other FPSes, and incorporate that into the Hardcorps:
+Classified section of the README so that people would understand how the
+new elements work.
+
+Unfortunately, I totally spaced on 2 biggies, which I apologize for.  I'll
+add some sections to the README tomorrow so that everyone can read them, 
+but here they are in short-and-sweet format so you can get cracking on them
+until I have time to write something a bit more clever:
+
+Sniper Rifle 
+To zoom in, simply hit "0" (or the key you've re-bound to be the sniper key)
+again once the weapon is out.  To zoom out, hit it again.  Etc.
+
+
+Weapons Getting Shot Out Of Hands 
+You can shoot weapons out of people's hands, and they can shoot weapons
+out of your hands.  Both in single player and in deathmatch.  I noticed that
+Geoff Keighley mentioned this in his editorial.  You can simply pick up
+your weapon again and begin using it...  What's cool about this is that
+in deathmatch you have a fighting chance with the magnum against heavily-armed
+opponents still... It's quite a rush to shoot a rocket launcher out of 
+someone's hands and then use it to finish them off.  :)
+
+
+I'll try to have something written up in the README later today, so hang
+tight.  
+
+Oh, and if you HAVEN'T yet read the Hardcorps: Classified section of the
+README, I highly recommend it -- your Sin game and understanding of the
+features will drastically improve.
+
+
+
+- 7/28/98 7:33 pm -
+
+-[ Remembering Sin ]-
+
+Man, I still remember when Tom Mustaine (Paradox) took me and a handful of 
+other fanatics over to the Ritual offices last year and showed us the
+preliminary helicopter stuff - complete with a scripted brush helicopter
+he had made!
+
+Awesome to see those things mature and come to fruition, even when no-one 
+else has done them before.
+
+
+
+-[ Response ]-
+
+The response has been wonderful from all of you, we're all pumped up to finish
+the final version of the game.  You guys all rule!  Thanks for all the
+constructive feedback about bugs and gameplay issues...  
+
+Please don't be upset if I can't respond to everyone who emails me, I've gotten
+hundreds and hundreds today alone.  I read them all - but we do have a game
+to complete.  :)
+
+
+
+- 7/27/98 1:11 am -
+
+-[ Sin Demo is OUT! ]-
+
+We had a fiasco with our FTP server for awhile -- too many rabid fans kept
+hitting it!  I think it's under control now, and lightning fast.
+
+If you want the demo, or to read the README (which contains lots of tips,
+tricks, and goodies as well as technical information and whatnot), head
+on over to the Ritual Outpost.
+
+
+http://www.ritual.com/news/
+
+Ritual Outpost
+
+
+Thanks go out to everyone who was very supportive and turned out in huge
+numbers on IRC to cheer us on.  That was incredibly cool.
+
+
+
+- 7/26/98 6:47 pm -
+
+-[ IRC Impersonators ]-
+
+I hate them.  Especially when they then don't believe that I'm the real
+deal.  (Hi Phelon!)
+
+
+
+- 7/26/98 1:14 pm -
+
+-[ Sin IRC Party! ]-
+
+Wow!  500 people and growing FAST!
+
+Come be a part of the Sin Demo release!!
+
+Server:  irc.3dnet.net
+Channel:  #sin
+
+See ya there!
+
+
+- 7/25/98 11:48pm -
+
+-[ Sinday, Bloody Sinday IRC Party ]-
+
+Sinday is 2 minutes away (in my time zone), the demo will be released later 
+today (no, NOT in 2 minutes :), but there are ALREADY 300 people in #sin
+hanging out having a party!
+
+How cool is that?
+
+Come join in the fun!   irc.3dnet.net   <---  server
+
+Join #sin
+
+Have fun.  :)
+
+
+- 7/25/98 2:15am -
+
+-[ Scourge Done Slick ]-
+
+Scourge Done Slick almost rivals Star Wars.
+
+
+
+- 7/23/98 2:23pm -
+
+-[ Planet Hollywood is a go! ]-
+
+49 people have responded that they're coming, so I went over to Planet
+Hollywood just now and got us a reservation for 55.   Should be fun.  :)
+
+But that also means that people just deciding to come over to Planet 
+Hollywood from CPL will need to wait for tables - and it's bound to be a long
+wait.  Only those who emailed me in advance have reservations, so remember
+that.
+
+See ya'll there!  (Ack, now I'm talking like Charlie  )
+
+
+
+- 7/22/98 3:26am -
+
+-[ Lunch Thing ]-
+
+Woo, looks like we'll have a good group going to Planet Hollywood (just got
+3 of people emailing me in the last 45 minutes... what are you crazy people
+doing up at 3:30 in the morning?!?!).
+
+I'm going to be giving Planet Hollywood a specific number of people coming, 
+so if you don't email me, you're going to have to fend for yourself and
+wait a looooong time for a table and stuff...  
+
+Just planning on tagging along is probably a Bad Thing(tm) is what I'm trying
+to say.  :)
+
+
+
+- 7/21/98 2:45pm -
+
+-[ Spontaneous CPL Lunch Thing ]-
+
+Oh a whim, I've decided to see if I can create, totally last minute, a fun,
+boisterous gathering of Quake fiends and fanatics for lunch this Friday
+at Planet Hollywood.
+
+For those who don't know, the event formerly-known-as-QuakeCon is happening
+this weekend, and so lots of Quake fans will be in town.  
+
+Planet Hollywood is about 2 miles (maybe less?) from the Infomart, near
+Downtown Dallas.  It's a fun place, and some of you may remember the huge
+gathering we managed at E3 last year in Atlanta.
+
+Well, I want to do it again.  Almost-totally spontaneously, even.  I'm very
+busy at work with the Sin demo, but I do have to eat and this may be my only
+chance to really hang out with everyone from CPL.
+
+So, noonish at Planet Hollywood (near McKinney and North Lamar, in the West
+End Marketplace), be there.  I can't give rides or anything like that, so
+if you want to come, you have to get there on your own.  
+
+Oh yes, and if you're coming, email me and let me know how many people I
+should make reservations for.  
+
+Wonder if this'll even work?  Wonder if I can convince any other Ritual folks
+to come?  Oh well, guess we'll find out.
+
+email:  onethumb@ritual.com
+
+Email me
+
+
+
+- 7/18/98 6:35pm -
+
+-[ Sound Cards Part Two ]-
+
+One on-the-ball reader of my .plan file sent in a link to an $89 Turtle 
+Beach Montego A3D!!  That's a tota

@@ -1,0 +1,361 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 3
+Last Updated: 06/16/1998 17:16:28 (Central Standard Time)
+-------------------------------------------------------------------------------
+6/16/98
+-------
+My last two .plan updates have described efforts that were not in our original
+plan for quake 3, which was "quake 2 game and network technology with a new
+graphics engine".
+
+We changed our minds.
+
+The new product is going to be called "Quake Arena", and will consist
+exclusively of deathmatch style gaming (including CTF and other derivatives).
+The single player game will just be a progression through a ranking ladder
+against bot AIs.  We think that can still be made an enjoyable game, but
+it is definately a gamble.
+
+In the past, we have always been designing two games at once, the single
+player game and the multi player game, and they often had conflicting goals.
+For instance, the client-server communications channel discouraged massive
+quantities of moving entities that would have been interesting in single
+player, while the maps and weapons designed for single player were not ideal
+for multiplayer.  The largest conflict was just raw development time.  Time
+spent on monsters is time not spent on player movement.  Time spent on unit
+goals is time not spent on game rules.
+
+There are many wonderful gaming experiences in single player FPS, but we are
+choosing to leave them behind to give us a purity of focus that will let us
+make significant advances in the multiplayer experience.
+
+The emphasis will be on making every aspect as robust and high quality as
+possible, rather than trying to add every conceivable option anyone could
+want.  We will not be trying to take the place of every mod ever produced, but
+we hope to satisfy a large part of the network gaming audience with the out of
+box experience.
+
+There is a definite effect on graphics technology decisions.  Much of the
+positive feedback in a single player FPS is the presentation of rich visual
+scenes, which are often at the expense of framerate.  A multiplayer level
+still needs to make a good first impression, but after you have seen it a
+hundred times, the speed of the game is more important.  This means that there
+are many aggressive graphics technologies that I will not pursue because they
+are not apropriate to the type of game we are creating.
+
+The graphics engine will still be OpenGL only, with significant new features
+not seen anywhere before, but it will also have fallback modes to render at
+roughly Quake-2 quality and speed.
+
+
+6/16/98
+-------
+I am giving up on one of my cherished networking concepts -- the client as a
+dumb terminal.
+
+With sub 200 msec network connections of reasonable bandwidth, pure
+interpolating is a reasonable solution that is very robust and elegant.
+
+With modem based internet connections having 300+ msec pings and patchy
+delivery quality, pure interpolation just doesn't give a good enough game
+play experience.
+
+Quake 1 had all entities in the world strictly interpolated (with a 20 hz
+default clock), but had several aspects of the game hard coded on the client,
+like the view bobbing, damage flashes, and status bar.
+
+QuakeWorld was my experimentation with adding a lot of specialized logic to
+improve network play.  An advantage I had was that the gameplay was all done,
+so I didn't mind adding quite hardcoded things to improve nailguns and
+shotguns, among other things.  The largest change was adding client side
+movement prediction, which basically threw out the notion of the general
+purpose client.
+
+Quake 2 was intended to be more general and flexible than Q1/QW, with almost
+everything completely configurable by the server.  At the time of q2test, it
+was (with a fixed 10 hz clock).
+
+Before shipping, I wound up integrated client side movement prediction like
+QW.  Having gone that far, I really should have moved the simulation of a lot
+of the other view presentation logic (head bobs / kicks, etc) back to the
+client.  Because these are still run on the server, a lagged connection will
+give you odd effects like falling off a cliff, running away, then having the
+head kick and the landing crunch happen when you are 50 feet away from the
+point of impact.
+
+So basically I wound up losing the elegance, but I didn't reap all the
+benefits I could have.
+
+I am still holding to my stronger networking belief, though -- centralized,
+authoritative servers, as opposed to peer to peer interaction.  I REALLY
+think distributed simulation among clients is a VERY BAD idea for networked
+games.  Yes, there are some theoretical advantages to being able to hand off
+the simulation of some objects, but I have plenty of reasons to not want to
+do it.  Client side movement prediction is simulation, but it has no bearing
+on the server, it is strictly to give a better presentation of the data the
+server has provided.
+
+The new paradigm is that the server controls all information necessary for
+the rules of the game to function, but the client controls all presentation
+of that information to the user through models, audio, and motion.
+
+There were moves in that direction visible in Quake 2 -- the temp entities
+and entity events that combined sounds and model animations run entirely on
+the client side.  Everything will soon be like this.
+
+This saves some degree of network bandwidth, because instead of specifying
+the model, skin, frame, etc, we can just say what type of entity it is, and
+the client can often determine everything else by itself.  This also enables
+more aggressive multi-part entities that would have been unreasonable to do
+if they each had to be sent seperately over the network connection.
+
+Almost all cycling animations can be smoother.  If the client knows that the
+character is going through his death animation for instance, it can advance
+the frames itself, rather than having the server tell it when every single
+frame changes.
+
+Motion of projectiles can be predicted accurately on the client side.
+
+All aspects of your own characters movement and presentation should be
+completely smooth until acted upon (shot) by an outside entity.
+
+All the clever coding in the world can't teleport bits from other computers,
+so lag doesn't go away, but most of the other hitchy effects of network play
+can be resolved.  Lag reduction is really a seperate topic.  QuakeWorld had
+instant response packets, because it was designed for a dedicated server
+only, which helped quite a bit.
+
+During the projects development, the client side code will be in a C DLL, but
+I intend to Do The Right Thing and make it java based before shipping. I
+absolutely refuse to download binary code to a client.
+
+
+6/7/98
+------
+I spent quite a while investigating the limits of input under windows
+recently.  I foudn out a few interesting things:
+
+Mouse sampling on win95 only happens every 25ms.  It doesn't matter if you
+check the cursor or use DirectInput, the values will only change 40 times
+a second.
+
+This means that with normal checking, the mouse control will feel slightly
+stuttery whenever the framerate is over 20 fps, because on some frames you
+will be getting one input sample, and on other frames you will be getting
+two.  The difference between two samples and three isn't very noticable, so
+it isn't much of an issue below 20 fps.  Above 40 fps it is a HUGE issue,
+because the frames will be bobbing between one sample and zero samples.
+
+I knew there were some sampling quantization issues early on, so I added
+the "m_filter 1" variable, but it really wasn't an optimal solution.  It
+averaged together the samples collected at the last two frames, which
+worked out ok if the framerate stayed consistantly high and you were only
+averaging together one to three samples, but when the framerate dropped to
+10 fps or so, you wound up averaging together a dozen more samples than
+were really needed, giving the "rubber stick" feel to the mouse control.
+
+I now have three modes of mouse control:
+
+in_mouse 1:
+Mouse control with standard win-32 cursor calls, just like Quake 2.
+
+in_mouse 2:
+Mouse control using DirectInput to sample the mouse reletive counters
+each frame.  This behaves like winquake with -dinput.  There isn't a lot
+of difference between this and 1, but you get a little more precision, and
+you never run into window clamping issues.  If at some point in the future
+microsoft changes the implementation of DirectInput so that it processes
+all pending mouse events exactly when the getState call happens, this will
+be the ideal input mode.
+
+in_mouse 3:
+Processes DirectInput mouse movement events, and filters the amount of
+movement over the next 25 milliseconds.  This effectively adds about 12 ms
+of latency to the mouse control, but the movement is smooth and consistant
+at any variable frame rate.  This will be the default for Quake 3, but some
+people may want the 12ms faster (but rougher) response time of mode 2.
+
+It takes a pretty intense player to even notice the difference in most
+cases, but if you have a setup that can run a very consistant 30 fps you
+will probably apreciate the smoothness.  At 60 fps, anyone can tell the
+difference, but rendering speeds will tend to cause a fair amount of
+jitter at those rates no matter what the mouse is doing.
+
+DirectInput on WindowsNT does not log mouse events as they happen, but
+seems to just do a poll when called, so they can't be filtered properly.
+
+Keyboard sampling appears to be millisecond precise on both OS, though.
+
+In doing this testing, it has become a little bit more tempting to try to
+put in more leveling optimizations to allow 60 hz framerates on the highest
+end hardware, but I have always shied away from targeting very high
+framerates as a goal, because when you miss by a tiny little bit, the drop
+from 60 to 30 ( 1 to 2 vertical retraces ) fps is extremely noticable.
+
+--
+
+I have also concluded that the networking architecture for Quake 2 was
+just not the right thing.  The interpolating 10 hz server made a lot of
+animation easier, which fit with the single player focus, but it just
+wasn't a good thing for internet play.
+
+Quake 3 will have an all new entity communication mechanism that should
+be solidly better than any previous system.  I have some new ideas that go
+well beyond the previous work that I did on QuakeWorld.
+
+Its tempting to try to roll the new changes back into Quake 2, but a lot
+of them are pretty fundamental, and I'm sure we would bust a lot of
+important single player stuff while gutting the network code.
+
+(Yes, we made some direction changes in Quake 3 since the original
+announcement when it was to be based on the Quake 2 game and networking
+with just a new graphics engine)
+
+
+5/22/98
+-------
+Congratulations to Epic, Unreal looks very good.
+
+
+5/19/98
+-------
+A 94 degree day at the dragstrip today.  Several 3drealms and Norwood
+Autocraft folk also showed up to run.  We got to weigh most of the cars on
+the track scales, which gives us a few more data points.
+
+11.6 @ 125 Bob Norwood's ferrari P4 race car (2200 lbs)
+11.9 @ 139 John Carmack's twin turbo testarossa (3815 lbs)
+11.9 @ 117 Paul Steed's YZF600R bike
+12.1 @ 122 John Carmack's F50 (3205 lbs)
+12.3 @ 117 Brian's Viper GTS (3560 lbs)
+13.7 @ 103 John Cash's supercharged M3
+14.0 @  96 Scott Miller's lexus GS400
+15.0 @ ??? Someone's volkswagon GTI
+15.1 @ ??? Christian's boxter (with Tim driving)
+
+Weight is the key for good ETs.  The TR has considerably better power
+to weight ratio than the P4, but it can't effectively use most of the power
+until it gets into third gear.  The viper is actually making more power than
+the F50, (Brian got a big kick out of that after his dyno run) but 350 lbs
+more than compensated for it.
+
+I wanted to hit 140 in the TR, but the clutch started slipping on the last
+run and I called it a day.
+
+I was actually surprised the F50 ran 122 mph, which is the same the F40 did
+on a 25 degree cooler day.  I was running with the top off, so it might
+even be capable of going a bit faster with it on.
+
+The F50 and the viper were both very consistant performers, but the TR and
+the supercharged M3 were all over the place with their runs.
+
+Brian nocked over a tenth off of his times even in spite of the heat, due to
+launch practice and some inlet modifications.  He also power shifted on
+his best run.
+
+It was pretty funny watching the little volkswagon consistantly beat up on
+a tire shredding trans-am.
+
+George Broussard had his newly hopped up 911 turbo, but it broke the trans
+on its very first run.  We were expecting him to be in the 11's.
+
+We probably won't run again until either I get the F50 souped up, or my
+GTO gets finished.
+
+5/17/98
+-------
+Here is an example of some bad programming in quake:
+
+There are three places where text input is handled in the game: the console,
+the chat line, and the menu fields.  They all used completely different code
+to manage the input line and display the output.  Some allowed pasting from
+the system clipboard, some allowed scrolling, some accepted unix control
+character commands, etc.  A big mess.
+
+Quake 3 will finally have full support for international keyboards and
+character sets.  This turned out to be a bit more trouble than expected
+because of the way Quake treated keys and characters, and it led to a
+rewrite of a lot of the keyboard handling, including the full cleanup and
+improvement of text fields.
+
+A similar cleanup of the text printing hapened when Cash implemented general
+colored text:  we had at least a half dozen different little loops to print
+strings with slightly different attributes, but now we have a generalized one
+that handles embedded color commands or force-to-color printing.
+
+Amidst all the high end graphics work, sometimes it is nice to just fix up
+something elementary.
+
+
+5/4/98
+------
+Here are some notes on a few of the technologies that I researched in
+preparing for the Quake3/trinity engine.  I got a couple months of pretty
+much wide open research done at the start, but it turned out that none of
+the early research actually had any bearing on the directions I finally
+decided on.  Ah well, I learned a lot, and it will probably pay off at
+some later time.
+
+I spent a little while doing some basic research with lummigraphs, which
+are sort of a digital hologram.  The space requirements are IMMENSE, on
+the order of several gigs uncompressed for even a single full sized room.
+I was considering the possibility of using very small lumigraph fragments
+(I called them "lumigraphlets") as imposters for large clusters of areas,
+similar to aproximating an area with a texture map, but it would effectively
+be a view dependent texture.
+
+The results were interesting, but transitioning seamlessly would be difficult,
+the memory was still large, and it has all the same caching issues that any
+impostor scheme has.
+
+Another aproach I worked on was basically extending the sky box code style of
+rendering from quake 2 into a complete rendering system.  Take a large number
+of environment map snapshots, and render a view by interpolating between up
+to four maps (if in a tetrahedral arangement) based on the view position.
+
+A simple image based interpolating doesn't convey a sense of motion, because
+it basically just ghosts between seperate points unless the maps are VERY
+close together reletive to the nearest point visible in the images.
+
+If the images that make up the environment map cube also contain depth values
+at some (generally lower) resolution, instead of rendering the environment
+map as six big flat squares at infinity, you can render it as a lot of little
+triangles at the proper world coordinates for the individual texture points.
+A single environment map like this can be walked around in and gives a sense
+of motion.  If you have multiple maps from nearby locations, they can be
+easily blended together.  Some effort should be made to nudge the mesh
+samples so that as many points are common between the maps as possible, but
+even a regular grid works ok.
+
+You get texture smearing when occluded detail should be revealed, and if you
+move too far from the original camera point the textures blur out a lot, but
+it is still a very good effect, is completely complexity insensitive, and is
+aliasing free except when the view position causes a silhouette crease in
+the depth data.
+
+Even with low res environment maps like in Quake2, each snapshot would consume
+700k, so taking several hundred environment images throughout a level would
+generate too much data.  Obviously there is a great deal of redundancy -- you
+will have several environment maps that contain the same wall image, for
+instance.  I had an interesting idea for compressing it all.  If you ignore
+specular lighting and atmospheric effects, any surface that is visible in
+multiple environment maps can be represented by a single copy of it and
+perspective transformation of that image.  Single image, transformations,
+sounds like... fractal compression.  Normal fractal compression only deals
+with affine maps, but the extension to projective maps seems logical.
+
+I think that a certain type of game could be done with a technology like that,
+but in the end, I didn't think it was the right direction for a first person
+shooter.
+
+There is a tie in between lummigraphs, multiple environment maps, specularity,
+convolution, and dynamic indirect lighting.  Its nagging at me, but it hasn't
+come completely clear.
+
+Other topics for when I get the time to write more:
+
+Micro environment map based model lighting.  Convolutions of environment ma

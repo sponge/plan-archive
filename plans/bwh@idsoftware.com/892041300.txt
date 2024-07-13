@@ -1,0 +1,158 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 3
+Last Updated: 04/08/1998 10:14:17 (Central Standard Time)
+-------------------------------------------------------------------------------
+
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+
+April 8, 1998
+-------------
+
+So now I'm writing a FD P3D -> .SHADER converter, looks like it should be
+trivial.
+
+Okay, people keep sending me car suggestions, so let me clarify some things.
+First, and most importantly, I have a limited budget.  Suggestions of Ferrari
+F50, McLaren F1, and 550 Maranello are appreciated, however those vehicles
+cost $750K, $1M, and $230K respectively.  My Viper has an MSRP of $66.5K.  They
+are, quite simply, in VERY different leagues.
+
+That said, I'll run through various pros-and-cons of all the other cars
+suggested to me.  Remember that how a car performs in real life is very
+different than how well it does in a magazine review or a press release.
+
+- Brabus/RennTech Mercedes SL
+
+Fast, WAY overpriced for what you get.  Comfy, but not very exotic looking.
+
+- Lotus Esprit Turbo V8
+
+Fast, but looks kind of dated.  Within price range, but it's a British
+car, and British cars have a reputation for being horribly unreliable.
+
+- Aston Martin DB
+
+Ugly.  British cars have a reputation for being horribly unreliable.  Not
+very fast.
+
+- Jaguar XK
+
+Ugly.  British cars have a reputation for being horribly unreliable.  Not
+very fast.
+
+- Jaguar XJ220
+
+Not available in US.  Extremely large vehicle.  Six cylinder engine.
+
+- Ferrari 456 GT
+
+Expensive.  Looks boring.  Four seater.
+
+- Ferrari 550 Maranello
+
+Expensive.  Looks like a Toyota Supra.
+
+- Nissan's GT1 car
+
+Expensive.  Not being built.
+
+- Ferrari F50
+
+Expensive.  Difficult to acquire right now.
+
+- McLaren F1
+
+Expensive.  Difficult to find parts.  Difficult to import.  Heat problems at
+low speeds (<50mph).
+
+- Bugatti EB110
+
+Bugatti is out of business.
+
+
+April 7, 1998 (part 2)
+-------------
+
+Irk.  Well, Shader looks like it's pretty much toast.  The main reason is 
+because Fractal Design Painter 3D does everything Shader did, but much 
+much much better.  I wish I had known about P3D two months ago, but oh
+well, better to find out now than later. *sigh*
+
+April 7, 1998
+-------------
+
+Other cars:
+
+- Acura NSX
+
+Nice looking, in a homogenous, boring kind of way.
+
+Slow, slow, and did I mention - slow?  Also overpriced.
+
+- Mercedes SL5/600
+
+Nice looking, well built, comfy.
+
+Slow, not very exotic, very expensive for what you get.
+
+I'm familiar with the Hennessey mods, but I won't get my car modified
+for at least another 9 months.
+
+April 5, 1998
+-------------
+
+Oh, I also read Po Bronson's "The First 20 Million is Always the Hardest" and
+I think it's pretty amusing, and vaguely sort of accurate.
+
+Zakk sent in another CTF "duh" kind of rule: if you and a teammate are running
+towards each other, STRAFE RIGHT!  The number of times I've been killed by
+running into my own teammate as we try and pass each other while I'm being
+chased is uncountable.
+
+April 4, 1998
+-------------
+
+I'm reading "Soul of a New Machine", it's been REAL good so far, very
+accurate, even if it's dated for its material (it's about a renegade group
+of engineers within Data General back in the '70s).  Non-fiction, highly
+recommended.
+
+If you're a writer, you REALLY need to pick up a copy of Strunk & White's
+"Elements of Style" and read it.  A lot.
+
+Next on my list of books to read are:
+
+"Accidental Empires" 
+that Joe Montana book on quarterbacking
+"Fountainhead" by Ayn Rand
+
+Anyone know why Dameyune Craig isn't being touted in the draft?  Is he
+missing something fundamental?  He wasn't even invited to the combine.  I think
+he may be a steal in the later rounds.
+
+Accelerating a Viper in 1st while turning is a Bad Idea.  No damage, but
+that was my first real scare in that car.
+
+Viper Rule #4: If you have to punch it to merge with traffic, just wait.
+
+I'm a CTF freak, as anyone that plays on satan:27913 would know.  Some 
+comments:
+
+CTF STRATEGY
+
+A CTF Strategy Guide should be required reading before you play.  I've seen
+so many people just treat the game as a free-for-all w/ grapple instead of
+an actual team game.  Common mistakes include:
+
+- grabbing health and armor in front of your flag carrier
+- not escorting your

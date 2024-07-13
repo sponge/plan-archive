@@ -1,0 +1,93 @@
+Username: markus                    In real life: Markus Maki           
+
+
+Plan:
+------------------------------------------------------------------------
+26 September 1998
+
+This is my personal opinion, and that only. And yes, I'm pissed.
+
+I finally got my hands on the first S3 Savage3D board yesterday. I have 
+never ever_ seen such crappy *RELEASED* hardware & driver than the Hercules
+Terminator BEAST with S3 Savage3D.
+
+Let me tell you the full story.
+
+Remedy registered as a S3 developer at E3. We were promised a board in a 
+month :) That's ok that we didn't get one then as delays are common in
+this line of business. 
+
+At ECTS Futuremark (Remedy's subsidiary) requested a board from S3 
+to do compatibility testing for 3DMark as we had heard it crashes currently
+and S3 engineers had no clue why (it currently looks like their DX6 driver 
+gives an unsupported error message). S3 couldn't supply us with a board at 
+all, and told us to "go to the states and buy one". Yeah right... Pretty 
+cool attitude especially when Futuremark is making a 3D benchmark with 
+projected distribution of many million copies.
+
+Ok, as I said we finally got one from the Hercules' Finnish distributor.
+Cool. They even waited for us half an hour after closing time so we could
+get the board ASAP and it only cost about  + tax.
+
+Got back to the office, plugged the board in to our P2-400 demo/test 
+system, downloaded newest drivers from Hercules' site, installed 'em
+and we had a picture. Cool. Did some testing. NFS3 demo (DirectX 5) had 
+some (a lot actually) flickering polys, treetops looked like the texture
+had an offset of a few pixels, but it was fast and otherwise ok. Our own
+DX5 engine stuff worked about as fine as well. Our DX6 stuff did not work
+at all as assumed, couldn't even get past init (works fine on V2, TNT, 
+Matrox, i740, RagePro, Permedia2,... well, you get my point).
+
+Ok. Gave the card to our 3D Engine / Direct3D expert guy, Jussi. Installed
+it to his P2-266 (Win95), same way as we did for the previous computer.
+
+Reboot and KABOOM. No signal to the screen. Use the magical three keys;
+Ctrl-alt-del. Booting ... Operating System Not Found! Nice. Whole FAT was
+corrupted on the C drive. Don't know if it was the reason of the BEAST or 
+just a weird coincidence (don't believe those at all mind you)...
+
+Anyway, new hard disk in (as the old was getting small anyway), install Win98
+with the Savage3D in the machine, install display drivers, reboot. 
+
+DOH! No signal AGAIN! Note that I had a monitor that could do 1600x1200 
+75Hz... Reboot.
+
+"Your Display Adapter is Configured Incorrectly. Please click OK to start the 
+hardware troubleshooter". FUCK. Ok, configured it again as I have done a 
+million times before with other adapters, and rebooted. Kaboom, no signal!
+
+Fought with it for a while before giving up and plugging the TNT back in.
+Man I love the Nvidia drivers. (And this is not a shameless plug!)
+
+Don't know who to hate more, S3 Savage3D chip or Hercules' drivers. Probably
+the drivers. I have some seriously bad history with Thriller3D & Stingray
+drivers as well. *I* would not release a product that is that unfinished.
+
+The chip & the card itself could be ok on long term (when it's _tested_) but
+now... phew!
+
+-------------------------------------------------------------------------
+10 September 1998
+
+ECTS98 is over. Look for a short ECTS report in our web pages in a few 
+days. But the guys who came from there say it was a success...
+
+Check out http://www.gamespot.co.uk for their Max Payne article.
+
+Scott Miller came to visit us here in Finland for the first time. 
+Although the weather isn't important, it's of course raining :)
+
+Last, a bit of nagging to all 3D hw manufacturers. Get your act together
+on DirectX 6 drivers.
+
+If you're a dev support person in a 3D card company, and have DX6 drivers
+for your hw (old or new), send 'em here (to markus@remedy.fi). 
+I'll test them. Or if you're in 3DMark BETA program, we can test and debug
+them together.
+
+to my knowledge, the only public DX6 drivers are from Matrox (for G200).
+And the ones that ship with TNT. This, frankly speaking, sucks. 
+
+(check finger.planetquake.com for old plan updates)
+--------------------------------------------------------------------------
+

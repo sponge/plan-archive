@@ -1,0 +1,186 @@
+[mail.planetquake.com]
+
+User:   jack
+Read:   0
+Unread: 4
+Time:   Fri, 1 Aug 1997 09:14:40 -0700
+Plan:
+Updated - 8/1/97 - 3:31am ------------------------------------------
+
+Just listened to QuakeCast and noticed the INTENSE confusion with
+NOSKINS on there.  NOSKINS 2 is in the beta of QuakeWorld right now,
+but here's the description of the NOSKINS settings:
+NOSKINS 0 - Downloads and uses skins.
+NOSKINS 1 - Does not download and does not use skins.
+NOSKINS 2 - Does not download new skins, but will use the skins you
+already have.
+Note that NOSKINS 2 in the current release does the same thing as 
+NOSKINS 1, and the next version of QSpy will have the new NOSKINS 
+options for the new (now in beta) client.  Hope this clears stuff 
+up.  :)
+
+Updated - 7/30/97 - 4:23pm -----------------------------------------
+
+Man, I sure am updating often.  Just wanted to say a few things...  
+For one, got a neat effect in where rocket trails actually "fade"
+off now in GL.  Also, I'm now uploading partial lightmaps, so that 
+should help dynamic light performance a little.  Which also leads to 
+the fact that I'm now working on the GL miniport.  Why?  Well, so 
+when I want a little more of GL implemented, I can just switch over 
+to the GL project and add it without bugging the 3dfx guys (seems 
+TexSubImage2D didn't support GL_LUMINANCE, which is what Quake uses 
+for lightmaps.  Didn't support glColor4ub, which is what I wanted 
+for the particles.  Also, I have to thank Gary McTaggart over at 
+3DFX for giving me pointers on the 8-bit stuff (and telling me it 
+even existed!) and for tossing me the GL miniport codebase.  This 
+guy does (and did) a lot more for GLQuake than most people know, and
+I thought he should be acknowledged.
+
+Updated - 7/29/97 - 1:45am -----------------------------------------
+
+Redwood is so funny :) The reason for the sky slowdown is because 
+places with sky are large areas, and texture thrashing is going on.
+The 8-bit texture code in the next versions of GLQuake and GLQW 
+should help this out a lot, but will not totally eliminate it.  
+Also, as Redwood reported, I have added floodprots into the server.
+Now, in case anyone was wondering, it's very configurable.  You can
+specify the # of messages/# of seconds before someone is locked out,
+and you can then specify the # of seconds they are silenced.  Also,
+the first message they get is configurable, which is why "herd" was
+spelled wrong in Red's screenshot :)
+
+Also, get the GLIDE 2.4 runtimes.  They fixed the GL alt-tab bug!
+Kudos to 3DFX!
+
+Updated - 7/26/97 - 10:22pm ----------------------------------------
+
+This is gonna be a monster of an update.
+
+I made a QuakeCon update.  It's gone now :)
+
+For one, looks like QSpy 5.3 is nearing completion, and it should 
+be pretty fun.  This is been a major bug fix release, as well as a 
+couple new features.  QSpy 5.4 should be big-time super-keen cool.
+
+QuakeWorld is where a lot of my time has been poured into lately.  I
+am now uploading textures to the card in 8-bit format, so the card 
+renders them *better* and takes less texture RAM.  Combat will be 
+usable on GLQW, and yes, the 8-bit uploads will make it to GLQuake 
+too.  The HUD, though, will not, because GLQuake is "classic" Quake,
+and that's that.  Also, the physics are fixed and Zoid got in 
+individual maxspeeds for players, so the TF scout will have an 
+advantage again.  There's some other stuff I'm thinking about doing
+that could surprise people.  Stay tuned.
+
+Also, surprise does not mean that if you email me asking for what 
+the surprise is, that I'll tell you.  It means that I'm not sure 
+how feasible it is right now and don't want to tell anyone for fear 
+of embarrassing myself. :)
+
+I enjoyed QuakeCon plenty, BTW, as well as mine and Zoid's QW 
+presentation/seminar thing.  Zoid did most of the talking, it's 
+almost like he prepared or something :)  But it was still really 
+cool.
+
+Now, a few words on the Direct3D stuff.  Here's the skinny.  The 
+reason GL is preferred to D3D is not so much speed now except for 
+programmibility.  For gaming purposes, COM is a bad, bulky model.  
+Plus, OGL is a consortium effort (which Microsoft is a part of), 
+whereas D3D is a Microsoft effort.  Now, you ask, what does poor
+little Microsoft have to GAIN from this?  Well, many things.  For 
+one, it puts people's trust towards Microsoft.  Microsoft made D3D,
+games use D3D, it must be good.  Two, it puts people to Windows. 
+OGL is an easily portable extension, D3D is not.  Three, it makes 
+people use Microsoft development tools.  Now you may think "Whoa, 
+wait a minute buster, MS puts out the SDK's at the same time."  Yes,
+they do.  So install the SDK, go into Borland C++ and move over a
+DirectX member/class and try for context sensitive help on it.  
+Chances are, it's not there or it's an older version than the one in
+VC++.  Microsoft did the same thing with OLE.  You needed OLE for 
+Win95 compatibility, so they released the specs, then out came VC++
+4.0 with 32-bit OLE inside MFC wrappers all built in and pretty.  
+Microsoft's mantra has always been something like, "We want every 
+computer to run Microsoft software."  They always deny that it's 
+*exclusively* Microsoft software, but if you don't own all the 
+software, how can you guarantee that users will run yours?  This 
+quote from GameSpot sums it up VERY nicely.  Notice the second to 
+last word:
+
+Bachus spoke to Carmack a few days ago and Bachus says, "DirectX has 
+no conflict at all with OpenGL, and we'd be happy to help Carmack 
+tune his software for any Microsoft API."
+
+Sickening.
+
+Updated - 7/9/97 - 4:22pm ------------------------------------------
+
+Well, time for my monthly .plan update :)
+
+First things first, to the people that say Quake (and thus 
+QuakeWorld) ONLY use the FPU for "clever string optimizations," that
+is one of the silliest things I've ever heard.  Try again, guys.
+
+Also, the QSpy 5.3 beta is going well.  We expect a release in a 
+couple weeks, though we haven't gotten all too much feedback from
+the regged users!  Mostly, the stuff we've put in are fixes to chat,
+general fixes, the new UI, (try Ctrl-clicking on the masters, it's 
+fun) and some traceroute and hopcount stuff.  Pretty cool.  5.4 is
+where the chat will REALLY shine though.  We have some BIG plans
+in mind for that, as well as the auto mod downloading.  Oh, context
+sensitive help should be in the next beta.
+
+The next release of QuakeWorld will rock.  Me and Zoid are working 
+on some pretty cool stuff that should tide people over till Quake 2 
+comes out.  We've all used the same interface for a year, may as 
+well change it around some.  We've fixed the hat and dinput problems
+people have been adding, and I'm considering adding six-axis support
+for the SpaceOrb.  We're also working on the GL lag problems, 
+big-time.  We should have screenshots up pretty soon on that on
+http://www.quakeworld.net.
+
+Also, the QSpy chat has now merged with Disruptor's new 3DNet, and 
+that's going great as well.  There are the occasional netsplits, but
+as the network gets bigger, it should even out better.
+
+Also, it really makes me feel bad to see id have to defend its honor 
+because of what some peon webmaster says.  Sigh.
+
+By the way, I'll be at QuakeCon 97, which will be a blast.  Can't 
+wait to see everyone I met at e3 again and meet new people as well.  
+And maybe this time I'll have someone ELSE take pictures of Gateway 
+drunk, since the pictures I took on his roll of film "didn't come out 
+right." :-)
+
+Updated - 6/12/97 - 11:03pm ----------------------------------------
+
+Wow, two .plan updates in one day, how cool :) Anyways, wonderful
+news for you TeamFortress whores.  FOV is now GLQW.  No, we're not
+gonna put it in GLQuake right now, we may do it when we get time.
+Now, there is a certain page that advocated massmailing my good
+friend Zoid about this, and still maintains a glib attiture about
+it, assuming that if *he* didn't do something, how would *we* know?
+If you think that we're that out of touch, thanks for the vote of
+confidence.  People like that actually *discourage* me from trying
+to add things in...
+
+Also, for this next release, Alt-tabbing won't work right for a lot
+of people, because of a bug in GLIDE that the developers assure me 
+they are working to fix.  Is *will* put you in your Windows res, but
+it will freeze your video when you switch back.  Oh well.
+
+Also, Joystick hats *might* work again, they might not.  If only 
+some big company would send me *something* to test it with.
+
+--------------------------------------------------------------------
+
+I have an interview with Gamecenter:
+http://www.gamecenter.com/News/Item/0,3,411,00.html
+
+I've also been on QuakeCast twice (http://www.pseudo.com).
+Listen to it!
+
+Ummmm...  Don't eat yellow snow...  And please register QSpy.  
+
+I think Pauly's sitcom is gone!  w00!
+
+My email's jack@quakespy.com, if you want to drop a note.

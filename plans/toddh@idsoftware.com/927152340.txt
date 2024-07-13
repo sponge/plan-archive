@@ -1,0 +1,28 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Todd Hollenshead
+Email: toddh@idsoftware.com
+Description: CEO
+Project: 
+Last Updated: 05/19/1999 19:01:32 (Central Standard Time)
+-------------------------------------------------------------------------------
+5-19-1999
+
+This update is relevant only for all magazines, CD bundlers,
+coverdisk makers, and shareware bundlers.
+
+I have been getting a number of requests for permission to 
+include the Q3Test on various types of CD's.  Please note
+that this is expressly prohibited in the End User License 
+Agreement for Q3Test.  The test is to be redistributed by 
+electronic means *only*.  That means no CD coverdisks, no CD 
+"shareware" compilations, no zip disk distribution, or any 
+other form of distribution other than Internet mirrors and
+other means of electronic file transfer.
+
+We have been very clear that this test is not meant for
+mass public distribution and should NOT be considered a
+"demo".  The "demo" will come when it's done.
+
+If you have any questions about the policy, you may email
+me at toddh@idsoftware.com.

@@ -1,0 +1,242 @@
+Ion Storm
+
+User Name.........joey
+Full Name.........Joey Liaw
+Description.......Programmer
+Last NT Logon.....Monday, February 09, 1998 at 07:20
+
+
+
+
+============ 1998-02-06
+
+Just returned from Meltdown 98, and there were a couple things that really
+caught my attention.  (Meltdown 98 was the Microsoft IHV/ISV conference in
+Seattle this week for DirectX 6, but also NT5 and Win98).  DirectX 6 is coming 
+to NT.  YES!  No more crashing my Win95 box.
+
+--- DirectMusic.  The stuff we saw is cool, and the funny thing is that some-
+    thing like DirectMusic was called for in Tom's original Anachronox design, 
+    and now there is an API for it in DirectX 6.  Somebody told me that 
+    DirectMusic had actually been around for a while, but was buried deep 
+    inside one of Microsoft's presentation packages.  Funny that DirectMusic 
+    can something mindless like the dx5 demo Space Donuts and make it a cool
+    game.  No joke.
+
+    Interactive music is a thing that most game programmers think is 
+    unimportant, but I think that is one of the things that makes N64 such fun 
+    to play.  IMuse (LucasArts) is a great example.
+
+--- PowerVR 2 and some other cards are promising full-screen antialiasing.
+    Extremely cool.
+
+--- A worrisome trend is growing among video card manufacturers to prefer 
+    speed over image quality.  Although some other game companies are pushing 
+    for this to occur, Ion Storm's technology department is not.
+
+--- Direct3d in DirectX 6 is looking to be a competitive alternative to OpenGL
+    in 3d games.  Of course, the D3D vs OGL battle is starting to turn into
+    another Mac vs PC or (going further back) Apple vs Amiga war, where most
+    of the discussion is ad hominem.
+
+    This is not to say whether or not Corrinne is going to write a ref_d3d.dll.
+    However, in my opinion DX6/D3D is quickly approaching the capabilities of 
+    OGL, and although it is much more difficult to implement a D3D rasterizer 
+    than OGL (mostly in terms of setup), it has the advantage of being a lower-
+    level API.
+
+    There are similarities to the ASM vs C debate (which they also addressed
+    briefly at the conference, in fact) but I won't stretch the parallels 
+    to make my point.
+
+----
+
+Non-serious stuff update:
+
+I met a lot of people at the conference.  The funniest was by far John Casey
+from S3.  From him I learned how to stab my eyeball and make white goo spurt 
+everywhere.  Also, when we went to The Other Side (one of the multiplayer-pod-
+type places) and played Quake (with a joystick!), he kept cracking me up over 
+the intercom so badly I couldn't concentrate.
+
+Also I met Ray Gresko for the first time, and he is a pretty funny guy too.
+Although he didn't participate in the huge Quake battle, he kept saying
+very funny things over the intercom, mostly pretending to be Rooster's mother
+and saying stuff like "Put that rocket launcher down Rooster, it's bedtime."
+(Rooster is our 17-year-old intern.)
+
+I didn't get to whore as much hardware on this trip as I had hoped, but 
+CGDC is coming up....
+
+Managed picked up a bunch of nvidia's, and other stuff.  Hypothetically,
+I could stick two ____ cards in one box and run Quake at 120 fps.  Cool.
+
+Got another 21" monitor, but it is virtual this time.  Basically I have three 
+21" Viewsonics, but one is shared between two computers, so I kinda have four.
+Actually, I do not recommend the NTI electronic switchbox I am using, because
+it makes the spacebar and arrow keys delayed-action.  Very annoying.  I may
+switch to some other method.  Like a physical fourth 21".  Hey, then I could
+array them in a 2x2 matrix.  That would rock.  (Dodging flames on hardware
+whoreness.)
+
+Have fun all,
+Joey (nick Chinaman)
+
+============ 1998-01-15
+
+Just because my Windows desktop nearly 8 million pixels and I grabbed three 21"
+monitors for myself does not mean I am a hardware whore.
+
+============ 1998-01-13
+
+* More on DLL Security Issues, OpenQuake, et al *
+
+Thanks for the great response from people!  Please read update Jan 12 if you
+haven't already....  in any case I am a bit more pessimistic about ever finding
+a solution to the DLL problem.
+
+Remember that everything in this plan file does not necessarily reflect the
+opinions of Ion Storm, they reflect my personal opinion and preliminary
+thoughts on things that may happen in the future.
+
+(1) Feasability
+
+    After reading the many suggestions from different people, the method I 
+    proposed yesterday seems much less feasable.  I argued that perhaps we
+    could filter DLL's making direct Windows calls, but there are too many
+    easy ways to work around such a measure, and it would be a hassle in
+    general to rewrite a layer over a lot of system library code.
+
+    The fundamental problem is that under Windows 95 there is no security
+    whatsoever.  Under NT, we could conceivably load the DLL's through
+    a separate process with its own security descriptor that prevents it
+    from reading/writing subdirectories above the dll's directory or on a
+    network drive.  Such a solution is far from elegant as well.
+
+    Right now, third-party verification methods look to be the best solution,
+    which brings me to ---
+
+(2) OpenQuake (visit their site)
+
+    These people propose to verify source code and publish checksums for
+    verified DLL's.  They also have a nice discussion on the dangers of DLL's
+    as well.  These people have started a very good thing, and there are some 
+    things I would like to point out:
+
+    CON: Nothing is to stop somebody from releasing a malicious DLL and
+         sending harmless-looking code to OpenQuake (with all the damaging 
+         code removed).  Nobody has the time to get every DLL compiler and 
+         compile every DLL out there, and people can even use custom
+         static libraries available on the net they did not write 
+         themselves (in which case the OpenQuake people cannot compile 
+         it unless they have all the libraries as well).  Sometimes these
+         libraries may have their own NDA, and so cannot be released to
+         OpenQuake, etc.  Also some people have things against releasing 
+         source code, NDA or not.  Therefore I think it should be
+         unnecessary to release source code to OpenQuake since it is not an
+         effective deterrent and may be troublesome for some DLL authors.
+
+    PRO: Individual accountability -- each person who releases DLL's to
+         OpenQuake has an individual identity.  If their DLL does something
+         very, very bad, the author can be held responsible.
+
+    The problem is that even if an individual can be held accountable, once
+    major damage is done it is too late (like releasing Anachronox source
+    code to USENET).  However, this is nearly a moot point to debate since
+    we are unlikely to ever get 100% security in any case.
+
+    PRO: Tamper-checking -- in a method similar to CDDB, Anox/Katana can
+         check databases on the internet and match known dll's with their MD5
+         checksums, or some other security footprint.  OpenQuake proposes
+         to do this in a separate application, and if we decide to go the
+         third-party route, we would build this directly into Anachronox
+         or Daikatana.
+
+    Anyways as of today the OpenQuake third-party solution seems to be the
+    most reasonable approximation to something secure.  Comments are always
+    welcome, I would appreciate any feedback.
+
+ Click here to mail.
+
+============ 1998-01-12
+
+Man, I almost put 1997 instead of 1998 AGAIN.
+
+* DLL Security Issues *
+
+There has been an ongoing debate in the office about DLL security.  Since a DLL
+is the same as any other Windows executable, when you download a gamex86.dll 
+q2 patch, you could be downloading potentially malicious software.
+
+I believe that id's unofficial stance on this is (please correct me if I am 
+mistaken) that if one is going to take the risk of downloading shareware 
+software from the internet, then they can deal with the risk of downloading 
+game patches as well.
+
+Unfortunately, I must disagree with this outlook.  I am not so concerned about
+viruses in DLL's as I am what DLL's can do to your computer in ways that no
+virus scanner can prevent, things are extremely easy to program.
+
+    - Read, write, change any file on your computer and any file on your
+      network to which you have permissions.
+
+    - For example, some person could write a DLL that searches your network
+      for source code and mails it to an untraceable throwaway AOL account.
+
+    - Delete files on your computer or network, setting your project back
+      weeks.
+
+    When you download shareware from the internet, it is usually copyrighted 
+    material by an individual or corporation.  There is very little chance
+    that when you download shareware from Stroud's or Windows95.com that 
+    it will contain malicious code.  There are companies and individuals that
+    can be sued.  It is very hard to track down DLL's written by private
+    individuals and released anonymously onto the net.
+
+Some people may argue the following:
+
+(1) Nobody has so much free time or so much repressed anger that they would
+    feel the need to write bad DLL's.
+
+    The computer gaming user base has many such people.  When I was at DWANGO,
+    a large portion of code was devoted entirely to anti-cheating and anti-
+    hacking and anti-frauding.  I'm not saying anything bad about the computer 
+    gamers, I'm saying that there are computer gamers active in the Quake 
+    community who have malicious intent, and think it is fun and cool to do 
+    wrongful things because few other people can do them.
+
+(2) There will be many people testing the DLL's so malicious ones will be
+    quickly weeded out.
+
+    Unfortunately this is an idealistic sort of view.  Common shareware/
+    frreeware applications have a much larger user base than Quake DLL's.
+
+(3) We can implement a verification system where a certain website
+    won't put up any DLL's for download unless it has
+    been thoroughly tested, and issue warnings for evil DLL's.
+
+    This sort of system may stop the initial wave of malicious DLL's, but then
+    hackers will get smarter, putting time-dependent dormant code into a DLL
+    or making DLL's that target only specific domains, like idsoftware.com or
+    ionstorm.com.
+
+Now before you think I am all paranoid, there is a solution we are working on
+for all Anachronox (and probably Daikatan) DLL's.  Basically it involves having
+Quake provide DLL's with file, network, and graphics services, and rejecting
+DLL's that make these calls directly to Windows.  More on this when we finish
+it, it's mid-progress right now and my design may change unpredictably.  Also
+for Anox and Katana you never replace gamex86.dll, you download plug-in DLL's,
+and you can have as many as you want running at the same time.
+
+These are just a few of my ideas and concerns.  Email me what you think.
+Click to email.
+
+============ 1998-01-05
+
+Happy new year to the gaming community!  Hopefully at this time next year you
+will all be playing Anachronox :-)  Not much new on the anox coding front, 
+except that one thing we will really be concentrating on is simplifying 
+third-party expandability for anox....
+
+============ last year's plan files went bye-bye
+(File last updated on Sat 07 Feb 1998 at 00:50)

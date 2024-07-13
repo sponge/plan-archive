@@ -1,0 +1,128 @@
+Welcome to Raven Software's Finger Service V1.4!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: Hexen 2
+Last Updated: 10/06/1997 22:12:34 (Central Standard Time)
+-------------------------------------------------------------------------------
+10/6/97
+   There will be another patch to fix the patch (sounds like the intro credits
+      to the Holy Grail) which will address:
+      1.  The multiplayer crash bug
+      2.  Save games from previous version loading in and giving you funny
+          graphics.
+
+   This will probably be available very shortly, and we are sorry for all of
+      the inconviences that this has causes.  We will continue to address any
+      future problems that may exist.
+
+   Another release of the Rendition beta may be coming out tonight or early
+      tomorrow.  This addresses some rendering glitches and problems where
+      the game stops rendering, but continues to function.
+
+10/5/97
+   It was a great day!  Sorry about those Cowboy's, Scott, but you wanted a
+      sloppy game :)
+
+   Too painful to watch the Packers...
+   Though if the Cowboys lose, it will be a good day
+
+10/4/97
+   The BETA version of the rendition port has been released.  You can download it from:
+      http://www.users.wineasy.se/bjornt/files/vh2.zip
+   You will also probably need new drivers:
+      http://www.users.wineasy.se/bjornt/files/win95drv.zip
+   Remember though, that both of these are still BETA versions.  You will need to upgrade
+      your copy of Hexen 2 to V1.09, and the rendition version requires the original
+      Hexen 2 CD in the drive prior to launching the program.
+
+   With the patch out, I'll be able to start work on H2World on Tuesday
+      (Monday, Steve Stringer is coming here to visit, probably wants to get
+      some additional supplies for his sheep).  So with that, let's have a
+      contest for the following areas:
+         1. Client App Icon
+         2. Server App Icon
+         3. Better name than Hexen2World
+         4. Changes to the background console image to reflect the new name
+
+      Winners will receive, ummmm, their contribution included in the release
+      and a hug from Chaos.
+
+10/3/97
+   *PATCH UPDATE* The file on Activision's WEST site was corrupt.  So if you
+      have been getting a message about an invalid patch file (stops around
+      94%), then download the patch from the EAST site, as this one does work.
+      Sorry for any inconevience.
+
+   Patch has been released!
+      ftp://east.ftp.activision.com/activision/hexenII/Ph2v109.exe
+
+   New command line parameter for the GL version:
+      glh2 -scale2d
+
+   The new version defaults to the non-scaled console / interface.  To put it
+      back to the original way, use the above command.
+
+   Official scripting source code and other utilities will be released very
+      soon.
+
+10/1/97
+   THE RFL (Raven Football League) OFFICIAL INJURY REPORT
+   ****************************************************************************
+
+   HEXEN II NAKED
+   ***********************
+   Eric Biessman (Finger/Arm) is questionable
+   Brian Raffel (Hamstring) is probable
+   Chia Chin Lee (Arm) is probable
+   Rick Johnson (Leg) is probable
+   Bob Love (Concussion) is questionable
+   Brian Pelletier (No Reported Injuries)
+   Jeff Butler (Throwing Arm) is questionable
+
+   TNP/MAGESLAYER SLAYERS
+   *****************************************
+   Kevin Schilder (Broken Finger) is out for season
+   Jon Zuk (Fibula/Hip) is probable
+   Scott Rice (Groin) is probable
+   Kenn Hoekstra (Shoulder/Ankle/Hip/Bicep) is probable
+   Bobby Duncanson (Groin/Knee/Ankle) is probable
+   Jeff DeWitt (Eye/Elbow/Head/Knee/Lacerated Retina) is probable
+   Jeff Lampo (Elbow) is probable
+   Marcus Whitlock (No Reported Injuries)
+
+   Nathan Albury and Steve Sengele on practice squad for religious reasons
+
+   KICKOFF IS THURSDAY, OCTOBER 2nd at 5:00pm
+   Be there!
+
+9/26/97
+   Probably should have done this awhile ago, but finally added code to check
+      and make sure a game was properly saved / loaded, as many people thought
+      there were bugs in the saving process, but it was due to impartial saves
+      because of no space available.
+
+   I'll be going up north for the weekend, but I plan on diving into the
+      quakeworld code to get familiar with it, and to start plans on making
+      it into hexen2world.
+
+9/25/97
+   Non-scaled status bar and console will be include in the patch!
+
+9/23/97
+   Thanks for all the mail about H2W features.  I haven't had time yet to
+      respond to any of them (working on the patch, oem version, gl updates,
+      verite port (testing), mac port (info exchange), hcode/utils release),
+      and trying to get over my cold / being sore from paintball, so I'm a
+      little busy.   I should start on H2W early next week, so I'll probably
+      start responding then.  Keep sending me any other ideas you have.
+
+9/22/97
+   If you can think of any simple features that are missing from quakeworld
+      that you might want in hexen2world, now might be a good time to let me
+      know (this does not include extern file support, as I don't have time to
+      do that).
+
+9/19/97
+   Caught a cold, right before paintball tomorrow 

@@ -1,0 +1,628 @@
+Ion Storm
+
+User Name.........rich
+Full Name.........Richard Carlson
+Description.......Map Dude
+Last NT Logon.....Thursday, February 12, 1998 at 16:54
+
+------------------------------------------------------------
+
+February 12, 1998
+
+Today, gentle readers, I'm going to talk about NetHack,
+a "roguelike", D&D style RPG, available as freeware for
+most platforms.
+
+I know this game has been around a _long_ time, but I've
+only recently encountered it myself (via Iikka Keranen).
+
+When I first executed it, I thought: "Urgh! It's ugly!
+Wazzis, another crappy dungeon hack game?"
+
+Well, it IS odd looking at the outset. (Text graphics
+only...) But once you play a few games, you begin to
+realize that there is far more going on then is
+initially apparent. In fact, the game is HUGE!
+
+NetHack has been in developement for 11 years on the net,
+and it shows. I don't know how many $50, svga, full sound
+and speech, RPG (so called) blockbusters I've (literally)
+chucked into the wastebasket after a few hours, saying
+things like: "Piece of shit!" or "Why can't they get it
+right? Argh!!!" Then NetHack comes along and simply blows
+the competition away with it's richness, subtlety,
+variety and humor. Wow! (And the executable is barely
+over 1 meg.)
+
+So do yourself a favor. Grab a copy of it and jump in.
+I think, if you like D&D, you'll prolly flip as much as
+I have.
+
+Go to
+
+Zdim's Classic Adventure Games & Links site
+http://www.geocities.com/TimesSquare/Alley/6181/adventur.html
+
+and look for the NetHack section. You can download the
+latest version as well as SLASH, the latest variant of
+NetHack.
+
+Here's a direct link to NetHack, in case you don't want
+to browse:
+
+NetHack v3.2.2
+http://pinky.wtower.com/nethack/binaries/msdos/nh322pm.zip
+
+It's somehow very cool to know that a COMPLETE rpg
+adventure game is just a mouseclick away! Drop a shortcut
+to it on your desktop and you'll never play MS Solitaire
+or Tetris again! (OK, I don't play those either, but you
+know what I mean...)
+
+ = )
+
+Happy adventuring!
+
+*XYZZY!*
+
+------------------------------------------------------------
+
+February 6, 1998
+
+Ooh! New stuff up at Zdim's!
+
+Zdim's Weapon Rack
+http://www.geocities.com/TimesSquare/Alley/6181/index.html
+
+The best DOOM & DOOM 2 user levels ever made!
+Go here:
+
+ Zdim's DOOM & DOOM 2 Vault
+ http://www.geocities.com/TimesSquare/Alley/6181/dtop10.html
+
+Tired of shitty QUAKE TC's?
+Check out the classic:
+
+ ALIENS TC for DOOM by Justin Fisher
+ http://www.geocities.com/TimesSquare/Alley/6181/alientc.html
+
+Ready for some real (virtual) adventure?
+Go here:
+
+ Classic Adventure Games & Links
+ http://www.geocities.com/TimesSquare/Alley/6181/adventur.html
+
+ * * * * *
+
+Also, a new Iikka Q2 dm level, IKDM2, should be up
+at Zdim's later tonight...
+
+:-)
+
+Enjoy!
+
+*XYZZY!*
+
+------------------------------------------------------------
+
+January 16, 1998
+
+Zdim's Weapon Rack is not dead!
+http://www.geocities.com/TimesSquare/Alley/6181/index.html
+
+Sorry if you've tried to get to Zdim's Weapon Rack lately.
+Bizarre and unpredictable problems with the servers at
+Geocities means intermittent "down" periods. I have no
+control over this. (Plus, Geocities just can't seem to answer
+any of my email inquiries, whether I'm nice or flamey...) I
+guess I'll be moving from there soon, even though I feel a
+debt of gratitude to them for hosting my first web home...
+I'll hang tight for a month or so until ION gets us set up
+with a server for employee websites. (After the BIG move
+upstairs to 54.)
+
+ * * * * *
+
+Cleaner's purple hair IS fading... But I hear he's trying to
+track down "Crazy Monty", his hairdresser, who was last seen
+on a street corner in Deep Ellum selling pornographic bibles,
+so things should be set to rights soon. (I think I'm going to
+get a mohawk, btw. Hi-yooooo!)
+
+ * * * * *
+
+*XYZZY!*
+
+------------------------------------------------------------
+
+January 12, 1998
+
+Moving upstairs (to the 54th floor) soon. Can't wait.
+I thought Paisley Park was cool but ION's new offices
+are actually cooler. No pesky musicians around either!
+(Sorry Will. Okay, just one, but he's not "pesky"...)
+
+ * * * * *
+
+Still working on that huge set of "scary levels" for
+Anachronox. Textures are coming along, yet will change
+once the game gets moved over completely to Q2. Deanna
+and Jay are really doing a nice job with this rather
+challenging set of maps. We'll be here for a while...
+(There are, what?, like 25 plus levels for this spooky,
+ghostly island? Wow, Tom, next time make a little game
+like Quake 2 wouldja? Kidding of course.)
+
+Oh, Lee Perry also made an extemely convincing "pirate
+ship" for one of the seaport harbors. A complete ship.
+Captain's quarters... Cabins and hold below deck... All
+of the trimmings... Awesome job, Lee!
+
+ * * * * *
+
+Listening to good ol' Switched On Bach (Walter Carlos)
+all day... Maybe some Zep or Beatles later...
+
+ * * * * *
+
+*XYZZY!*
+
+------------------------------------------------------------
+
+January 8, 1998
+
+Well, it was a year ago since I made my first QUAKE
+level. A scary little map, called The Black Crypt.
+(Played it again recently. Still a pretty darn fun
+level!) Reflecting, it all makes sense to me now,
+but at the time, I wasn't even aware of the BOOM in
+game/level design that was about to happen. I certainly
+had no inkling as to my future in gaming back then...
+I'd spend the days between gigs (I was in a funky blues
+band at the time.) tweaking my HERETIC, DOOM and QUAKE
+levels. Late at night, after a gig, I'd prowl the
+internet and catch up on my emails.
+
+It was also a very hard time for me, personally. My
+uncle Don passed away. My favorite cat (the seemingly
+immortal Wilbur) died while I treated him for
+diabetes. (Aw... Poor kitty.) I'd had a massive hard
+drive crash a few months before, where I lost like
+four years of midi music, and was trying to revive my
+backlist of jingles and industrial music. Also, a
+company that I was writing music for folded... Gawd,
+one Hell of a bad winter, I guess...
+
+More and more, I became involved with level editing,
+so that by January of 1997 it was pretty much a full
+time fascination for me. I'd work enough gigs and
+give enough lessons to pay the rent and buy food and
+ciggies, but ALL of my real time went into maps.
+
+Then this amazing email from Dr. Sleep. And another
+from John Romero... My whole life changed within the
+span of two weeks... And I dare say that I'm still
+recovering from the shock!
+
+So, I owe a debt of gratitude to a few people. And
+I'd like to thank them for rescuing me from all of
+that and helping me get on this "new" track. I haven't
+had this much fun in a job since my "early days" in
+show/variety bands (being on the road and travelling
+all over the midwest). 
+
+To Dr. Sleep, Steve Rescoe, Matt Sefton, Crash,
+Rick Troppman, Paul Taylor, John Bye, Myscha,
+Brian Uhrig, Steph & Karen Jerde, John Williston,
+Joost Schuur, Mark Murray, Adelusion --- To all of
+you: Thanks so much for all of your help and 
+encouragement.
+
+To John Romero and Tom Hall --- You guys picked the
+finest crew of level designers that I've ever heard
+of, for ION's first two 3D games. To be a part of that
+line up is a daily thrill, a complete challenge and
+one of the most excruciatingly fun experiences of my
+life.
+
+Also, a special thank you to Pam Wolford and Mindy
+Eickhoff at ION for really helping to make the 
+transition from Minnesota to Texas pretty darn 
+painless! *hugs*
+
+Rock on in 1998!
+
+- Zdim
+
+*XYZZY*
+
+------------------------------------------------------------
+
+December 30, 1997
+
+Zdim's TOP 5 VIDEO/COMPUTER GAMES of 1997
+
+#5  The Neverhood - PC
+#4  Dungeon Keeper - PC
+#3  Myth - PC
+#2  Jedi Knight - PC
+#1  Final Fantasy VII - Playstation
+
+Of all of this year's releases, the above five games
+represent, to me, the best of the best.
+
+Whether a game is "hip" or "cool" really isn't the
+issue for me. (I still play classics like "MULE" and
+"ZORK II" beacause they're excellent and timeless.)
+To get on my list, a game has to transcend the trends,
+be unique is some way, and above all, be absolutely a
+gas to play.
+
+FF VII gets on the list because it simply is the best
+"computer rpg" yet. It is stunning in scope, story,
+graphic pizzazz, playability and overall production.
+Everyone who has a Playstation should get this. Period.
+
+(QUAKE 2 got bounced down a notch or two primarily
+by JEDI KNIGHT, which is an even better single player
+game, imho, and the recently released MYTH, which
+seems to have surprised everyone.)
+
+ * * * * *
+
+MYTH by Bungie Software
+
+Get it. Play it. Be happy.
+
+ * * * * *
+
+If you haven't heard by now, a bunch of us at ION
+just released an eclectic collection of QUAKE 2
+deathmatch levels. If you'd like to check them out,
+here is a list of download links to each of the maps:
+
+Circular Death by Lee Perry
+ftp://cdrom.com/pub/idgames2/quake2/levels/deathmatch/a-c/cir.zip
+
+A Sensual Pain by Cleaner
+ftp://cdrom.com/pub/idgames2/quake2/levels/deathmatch/s-u/senpain.zip 
+
+The Warfare Warehouse by Ludovic Texier
+ftp://cdrom.com/pub/idgames2/quake2/levels/deathmatch/s-u/tww2dm.zip 
+
+UMBRIEL STATION: Reactor Core by Zdim (me!)
+ftp://cdrom.com/pub/idgames2/quake2/levels/deathmatch/s-u/umbriel.zip 
+
+Vanguard Spectacle by Rocketman
+ftp://cdrom.com/pub/idgames2/quake2/levels/deathmatch/v-z/vangard2.zip 
+
+
+Iikka Keranen also released a new Q2 dm map. Go here
+to get it:
+
+IKDM1 by Fingers
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/ikq/ikdm1.zip
+
+
+Happy deathmatching!
+
+ * * * * *
+
+*XYZZY!*
+
+------------------------------------------------------------
+
+December 17, 1997
+
+Had an AWESOME level designer meeting today. Cleaner and
+Rocketman are very fine fellows, indeed.
+
+ * * * * *
+
+Still digging the Q2 stuff and Quake Ed 4. Rocketman and
+I are moving to QE4 full time now. (Er... Well... I still
+will be using Worldcraft to build some of the really weird
+stuff... hahaha...)
+
+Thanks to ALL at ID for a great new game and some
+FANTASTIC tools to work with! *smooch*
+
+ * * * * *
+
+Heading back up to Minnesota tomorrow for a few days.
+My sister, Shari, is graduating, with honors, from
+St. Catherine's... She's finally going to do the work
+she was always cut out for: elementary education. Some
+very lucky kids are going to get one Hell of a teacher
+next year!
+
+ * * * * *
+
+*XYZZY!*
+
+------------------------------------------------------------
+
+December 15, 1997
+
+CTHUGHA is alive and well and living on the WWW!
+
+(CTHUGHA, an amorphous, fiery being from the stories of
+H. P. Lovecraft.)
+
+Actually, what I'm refering to is a nifty program which
+generates amazing images on your computer when coaxed by
+your favorite CD.
+
+The DOS version is still around, but the newer win95 and
+GL versions absolutely ROCK. Get this. (It's freeware too!)
+It will knock your socks off.
+
+CTHUGHA (DOS, win95 & GL versions)
+http://www.afn.org/~cthugha/
+ * * * * *
+
+Listening to nothing at all today. (Silence is golden.)
+
+ * * * * *
+
+*XYZZY!*
+
+------------------------------------------------------------
+
+December 12, 1997
+
+Editing QUAKE 2 with QUAKE ED 4.
+
+w00p!
+
+These are the best toys a boy could ever have.
+
+Merry Christmas, id software!
+
+ * * * * *
+
+Listening to 2112 (Rush) from Rocketman's cubicle.
+
+ * * * * *
+
+*XYZZY*
+
+------------------------------------------------------------
+
+December 11, 1997
+
+Just a reminder:
+
+Be sure to stop in at the "Official ANACHRONOX Chat",
+4-5pm, Fridays, at questgate.gameslink.net in #questgate.
+(IRC)
+
+Everyone had fun last time, so come on by and "rap" with
+Tom Hall, Rocketman, myself, and others from Team
+ANACHRONOX.
+
+Topics? Besides info about the game, we plan to explore:
+
+ 1. The phenomenon of time reversed light.
+ 2. The Cheese Factor: Do our favorite cheeses really
+     belong in an RPG?
+ 3. The psychological impact and ramifications of violent,
+     3D shooter games on America's morally desensitized
+     youth.
+ 4. Team member shoe sizes.
+ 5. None of the above.
+
+We may just skip to #5, so show up with some cool
+questions yourselves, okay?
+
+ * * * * *
+
+Listening to 70's music from Rocketman's cubicle.
+
+*XYZZY!*
+
+------------------------------------------------------------
+
+December 9, 1997
+
+Got my "official, mail-ordered" STARSHIP TROOPERS t-shirt
+today. (Army green with lots of logos and stuff all over
+it!) w00p! Thanks, Jake!
+
+Now I can put off doing laundry for one more day...
+
+ :-)
+
+*XYZZY!*
+
+------------------------------------------------------------
+
+December 8, 1997
+
+ALIEN RESURRECTION just got knocked out of the #1 box
+office slot by FLUBBER after, like, two weeks.
+
+I rest my case.
+
+ * * * * *
+
+Building more rocks, boulders and debris, for two fairly
+simple ANACHRONOX maps. (Is there such thing as a simple
+ANACHRONOX map? Well, a few of them are just single
+rooms or locations, crammed with detail, but not overly
+large at all... Yet, even some of the simplest areas have
+very long full vis times due to the detail we put into
+them... Oh, how I miss the DOOM2 three or four minute bsp
+build!)
+
+ * * * * *
+
+Hey, Iikka Keranen finally got his VISA! That means he'll
+be stateside in a matter of days/weeks. w00p! Congrats,
+Iikka! Looking forward to working (goofing off) with you,
+very soon...
+
+ * * * * *
+
+Well, this is the Week of QUAKE 2. Everyone will be
+buying it/playing it, including yours truly. Hats off to
+ID SOFTWARE for creating what looks to be another solid
+classic computer game.
+
+ * * * * *
+
+2PRONG stopped by early and we had a little chat about
+"things that make you happy on a Monday morning", like
+going outside to have a smoke, silly emails, etc. Gosh
+the people that work here are (for the most part)
+mellow and groovy!  :- )
+
+ * * * * *
+
+Listening to Joe's Garage (Frank Zappa), Live At The
+Roxy (Frank Zappa), and Man From Utopia (Frank Zappa).
+It's Frank Zappa Day for Team ANACHRONOX!
+
+ * * * * *
+
+*XYZZY!*
+
+------------------------------------------------------------
+
+December 5, 1997
+
+Updated HOPPING MAD last night. Rocketman had some
+excellent suggestions for making this dm level slipperier
+than ever, so I just had to implement the changes. Go to
+ZDIM'S to download the new version:
+
+HOPPING MAD v.98
+via ZDIM'S WEAPON RACK
+http://www.geocities.com/TimesSquare/Alley/6181/index.html
+
+ * * * * *
+
+Meeting day today.
+Level designer meeting and a talk with Squirrel about
+All Things Func. Should be pretty fun!
+
+ * * * * *
+
+Today at 4pm, CST, Tom Hall, Rocketman and myself (and
+maybe a few others on the team) will begin a weekly, hour
+long chat about ANACHRONOX. (And anything else we feel
+like talking about!) This will be an ongoing thing. It's
+being hosted by QuestGate, Anachronews, 3D Alpha, and
+ION Storm (It'll be on GamesLink IRC in #questgate. If 
+you do not know a GamesLink server, you can use
+gameslink.questgate.net, btw.) Hope to see you all there!
+
+ * * * * *
+
+Listening to Gotta Get Over Greta (Nields) and This Fire
+(Paula Cole).
+
+ * * * * *
+
+*XYZZY!*
+
+------------------------------------------------------------
+
+December 3, 1997
+
+Nothing much to say today.
+Just listening to music, doing a meeting and building
+a HUGE Grand Canyon-like chasm for ANACHRONOX.
+Not a bad job at all! 
+
+ * * * * *
+
+Listening to Led Zepplin II, Led Zepplin III & Led
+Zepplin IV today.
+
+ * * * * *
+
+*XYZZY!*
+
+------------------------------------------------------------
+
+December 2, 1997
+
+I just heard that there is something called QUAKE 2
+coming out real soon... (Hmmm... how did I miss this?)
+Don't know much about it, but it's supposedly a sequel
+to some other game called, not surprisingly, QUAKE.
+Anyone with any additional info, please keep it to
+yourself, because there are so many games coming out
+this year and next, I don't have time to check out
+every last release...
+
+The game I'm really waiting for is DAIKATANA!
+
+ * * * * *
+
+Listening to Mr. Mature (Willie Murphy), the Psycho
+Soundtrack (Bernard Herrmann), and Switched On Bach
+(Walter Carlos).
+
+Still reading Many Years From Now by Barry Miles.
+
+ * * * * *
+
+*XYZZY!*
+
+------------------------------------------------------------
+
+December 1, 1997
+
+Lots of stuff today.
+
+ * * * * *
+
+Adriano "Escher" Lorenzini has his own homepage up now.
+All of his levels are available there as well as the
+usual screenshots (nice ones) and humorous content, so
+stop in!
+
+ESCHER'S WORLD
+http://quakeitalia.shiny.it/escher/
+
+ * * * * *
+
+One of the better QUAKE spq level review sites has folded.
+Bill J. "Crash"  McClendon did an amazing job reviewing
+user levels; probably the best map reviews on the WWW, as
+a matter of fact. His site was classy and his selection,
+impeccable. He also was involved in critiquing and
+playtesting dozens of levels... His thorough critiques
+were awesome, and helped to get many aspiring authors on
+the right track with playability, design issues and the
+more technical side of the QUAKE build. We all owe him a
+debt of gratitude for his contribution to the QUAKE
+community at large.
+
+Go here for a nice farewell from Bill:
+http://www.geocities.com/TimesSquare/1481/
+
+RIP, and a moment of silence, for Crash's SPQ QUAKE Page.
+
+ * * * * *
+
+ION's .plan server was down throughout the long weekend.
+Yours truly was still posting, so here's what you may have
+missed:
+
+Item #1
+
+w00p! ACTIVISION, vast megacorp that it is, has made the
+ZORK text adventure games (originally by INFOCOM) available
+FREE on the WWW!
+
+Go to my homepage, ZDIM'S, and use the link(S) I've
+provided:
+
+Download ZORK I, II and III
+via ZDIM'S WEAPON RACK
+http://www.geocities.com/TimesSquare/Alley/6181/index.html
+
+The Zorks are probably the best t

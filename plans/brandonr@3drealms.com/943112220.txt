@@ -1,0 +1,38 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Sat Nov 20 11:22 (EST) on ttyp1 from 216.27.43.214
+Mail forwarded to brandon@epicgames.com
+Mail last read Sat Nov 20 04:00 1999 (EST)
+Project:
+Unreal Tournament
+Plan:
+Saturday, November 20, 1999
+
+Actually, nevermind assuming /mtn/cdrom.  That's just lazy.  I'll
+make it ask you for the CD directory. :)
+
+----
+
+The tarball of Linux UT will include Loki's installer.  It'll assume
+you have the UT cd mounted at /mnt/cdrom.  I'll have info in the
+README on how to change the cd path and so forth. 
+
+Congrats to Gearbox for a kick ass addon.  Op For was a pleasure
+to play through (I played it all last night until I had beaten it).
+
+----
+
+Who the hell is Brian Reinhart?
+
+Please stop sending me pro-Linux hate mail people.  I don't have
+any say in GT's marketing decisions.  I just write the port.
+
+Understand this again: This was not my decision.  I am not an
+operating system advocate.  I am more or less indifferent to the 
+OS debate.  I just want to program.
+
+Originally this update was much more aggressive.  I'll simply
+say this:  I feel that the Linux community is intensely detatched
+and unrealistic about how it approaches games developers.
+	
+    

@@ -1,0 +1,260 @@
+Account Name:  Scott Miller
+Email address: scottm@3drealms.com
+----------
+========================================
+March 22, 1998
+
+Bungie jumped for the first time last night.  From the jumping platform it
+sure looks a *lot* higher than from the ground!  I've done scary things, like
+skydiving, but jumping off that platform with a strap around my ankles was
+easily one of the scariest.  I can see why a lot of people get up there and chicken
+out.  Now I need to find a higher jump tower...
+
+Brief Prey Update:  It is proving to be difficult to find the right person to
+act the voice of Talon Brave, the star character of Prey.  After months and
+months of listening to audition tapes, the right person--the one that makes
+everyone here say "that's him!", still eludes us.  Luckily, we started the
+search early and there's plenty of time left.
+
+========================================
+March 20, 1998
+
+Continue (Y/N)?
+
+Undoubtedly, this is one of the worst options ever to appear in arcade gaming
+from a game fairness and gameplay standpoint.
+
+I can't remember which game first allowed the player to continue by popping in
+more quarters (Tempest?), but the game designer responsible for that feature
+probably had no idea that he opened up a can of slimy worms.  This option from
+hell allows game designers to develop games that are nearly impossible to
+master, because they know the player will still have a chance to see the
+game's end by continuing--and the more continues, the more money the game
+makes.
+
+In the golden years of the arcade industry ('78 - '82), it was possible to
+drop one quarter in Pac Man, Space Invaders, Asteroids, Missile Command,
+Robotron, Battlezone, Centipede, Q-bert, Defender, or a dozen other hit games
+and play forever if you were good enough (which might have taken $100 worth of
+plays to get that good).  The goal of playing games in those days was to get
+good enough to play however long you wanted on a single quarter.  As a gaming
+addict back then, I mastered almost all the above games (except Q-bert and Pac
+Man--I wasn't into girly games ), and often awed spectators with my
+ego-driven ability to show off while playing games, and then walk away with 20
+extra lives still at my disposal (always walking off slow enough to hear the
+crowd whisper, "That guy was good!").  Ah, the good ol' days.  
+
+Then came "Continue (Y/N)?" and the wheels flew off.
+
+Suddenly games became almost impossibly hard, but by allowing players to
+continue it really didn't matter to the arcade game makers.  In fact, in the
+short term games probably made more money because players kept continuing, so
+as not to waste the progress they already made.
+
+An example game that comes to mind is the semi-sequel to Robotron: Smash TV. 
+I dare anyone to say they finished this game on one coin, or even played for
+more than 15 minutes before "Game Over" flashed in their face.  If it weren't
+for the continue option it was impossible to reach the higher levels--how
+unfair is that from a gameplay standpoint!  Without the continue option at
+their disposal the designers of Smash TV would have had to make a fair game,
+one that could probably be mastered on one coin.
+
+The continue option became standard for almost all games, and with it vanished
+the era of games designed fair enough to be finished on a single play.
+
+Another thing that has hurt arcade gaming, especially in terms of variety, was
+advancements in more realistic graphics, but that's another story...
+
+Weekly puzzle:  Devious Dave had just $10, but he needed $15 for his cab fare
+home. A plan he brewed:  He went to the nearby pawn shop and pawned his $10
+for $7.  He then met Witless Walter who bought the $10 pawn slip for $8,
+giving Dave the $15 he needed for the cab ride.  Since money doesn't come
+freely, who is out the extra $5, and why?  (Answer at www.3dportal.com.)
+
+========================================
+March 13, 1998
+
+Gameplay:  a word that Webster doesn't yet acknowledge, but the most important
+word in computer gaming today.  Here's a brief look at gameplay by someone
+who's been trying to understand it for about 20 years...
+
+The word gameplay didn't exist in the 80's.  Instead we used phrases like
+"playability," "depth," "fun-factor" and "game design."  In recent years the
+phrase "game play" caught on, and is now mostly seen as a single word.
+
+But what is it, and did it exist before computer games?  Does chess have
+gameplay, or Monopoly or Poker?  What about football and baseball?
+
+The answer is Yes.  Gameplay is how all of the various *rules* and
+*possibilities* of the game interact and balance with each other, and allow
+the player to formulate strategies, tactics, decisions and trade-offs in
+beating the game (or the opponent).  But boiled down, gameplay is simply the
+rules of the game, and the playing environment and pieces those rules control.
+
+A game with good gameplay allows for numerous playing strategies and
+approaches, with no single strategy clearly being the best.  This it what's
+known as balanced gameplay, and it's one of the most difficult tasks in game
+development, typically requiring 100's of hours playing the nearly finished
+game, adjusting the rules until they're just right.
+
+The game designer's goal is to present a difficult, but not impossible
+challedge.  The biggest obstacle to this challenge is that every player plays
+with a different skill set, and it's very hard for a game to cater to a wide
+range of skill sets.  (User-selectable kill or difficulty levels are a poor
+attempt at compensating for different player skill sets, but an easy method
+for developers to hack into their games.)
+
+Great gameplay allows the player seemingly endless avenues to explore. 
+Gameplay gives the player choices that involve trade-offs, such as sacrificing
+a Bishop to give your Queen an open lane to attack, or moving the Bishop to a
+safe spot that still blocks the Queen's line of attack.  A game like checkers
+has less gameplay than chess, because there are less rules and less types of
+pieces, and this make checkers a far less interesting game.  It lacks depth
+because it lacks the number of possibilities relative to chess.
+
+In 3D shooters, for example, possibilities are derived from the number of
+levels, the various weapons, power-ups, enemies, puzzles, player-character's
+abilites (jumping, ducking, strafing, etc.) and so on.  The game's rules
+define how all of these possibilities interact with each other.  Possibilities
+and rules, this is the essense of gameplay.
+
+FMV (full motion video) games failed because they lacked possibilities, one of
+the two key components of gameplay.  In general, FMV games offer very few
+options for players to develop personal and varied strategies.
+
+It's interesting that games in the late 70's and early 80's (when graphics
+where often black/white or just 4 to 16 colors, with low resolution) had
+superior gameplay than many games (most games maybe?) nowadays.  That's
+because the designers then were not distracted by pretty graphics, and they
+couldn't rely on graphics to sell the game--these designers were *forced* to
+make games that treated gameplay as the top priority.
+
+There's a lot more to gameplay than explored here, but this hits the most
+essential point of what gameplay really is:  The interaction of rules and
+possibilities.
+
+Weekly Puzzle:  With only a quick glance (no calculators), which column has
+the higher sum total:
+
+987654321	123456789
+087654321	123456780
+007654321	123456700
+000654321	123456000
+000054321	123450000
+000004321	123400000
+000000321	123000000
+000000021	120000000
+000000001	100000000
+
+
+Answers to all puzzles posted here are at www.3dportal.com.
+
+========================================
+March 11, 1998
+
+It's been cold in Dallas the past week.  I'm talkin' 30 - 40 degrees--coat
+weather!  I get in my car to come to work around 9am, drive a full mile to
+work, and the heat never does kick on during the drive.  So I freeze the whole
+way.  Why can't car heaters have built-in heating elements, like a blow dryer,
+which are activated until the engine heats up?!  Someone needs to take this
+idea and make a million bucks with it...
+
+========================================
+March 6, 1998
+
+I read every printed game publication (as well as all the top gaming web
+sites, but that's not what this topic is about today).  It's part of my job,
+and a legitimate job hazard.  Reading six reviews of Men in Black makes me
+wish I could shoot myself with that movie's Forget Ray.  Unfortunately, I must
+accept certain and permanent brain damage.
+
+For avid readers like me, PC game magazines overlap in their coverage too
+much.  This isn't a criticism, it's just a fact.  After all, they all cover
+the same games and news items.  However, I'd like to see more uniqueness among
+the many magazines so that they're not all clones.  (I finally get to throw
+the word clone back at them. )  Here are my ideas:
+
+o  More interviews and profiles -- Interviews could play a bigger role in
+every magazine.  As a game fan, even before starting Apogee, I loved to read
+interviews with developers and top game players.  Next Generation magazine is
+the only publication that excels at in-depth interviews each issue. 
+Interviews and developer profiles are a ripe areas for magazines to be unique
+each issue.
+
+o  More editorial-style columns -- Many magazines do well in this area
+already, but I still wish there were more of these columns.  PC Gamer is the
+best at this, with around 10 specific columns each issue, while CGW has only
+3-4 columns.  Columns give writers more freedom to editorialize and write
+about subjects that are probably not being covered by every other magazine. 
+I'd like to see a column that reviews gaming web sites.  I'd also like to see
+more guest columnists from industry insiders, though I know that in reality
+this may be hard to do.
+
+o  More feature articles -- Rarely do I see truly inventive feature articles
+in game magazines.  Typically, they're just game round-ups in a specific genre
+(sports games or 3D shooters), or a hardware round-up, such as the best 3D
+accelerators.  Once again, I have to point to Next Generation as the best in
+this department, because they have, on average, the most original feature
+articles, such as a recent issue which had a feature titled "Girl Trouble,"
+that examined all the coming games with females stars, undoubtedly influenced
+by Lara Croft's success--a great 5-page article.  The same issue also had a
+lengthy original article titled, "America's Power Players," profiling over 30
+of the game industry's top movers and shakers.
+
+o  Slam more games that are bad, make examples of them -- use the full 0% to
+100% rating scale.  There's no doubt that the European mags rate games harsher
+than America mags do.  In Europe, a score of 70% is about par, but in the USA
+my estimate is that it's 10 points higher on average.
+
+o  More investigative reporting.  For example, why in hell Myst is the best
+selling game ever, and has been in the top 10 for four unprecedented years! 
+Scully and Mulder might need to help on this one!
+
+o  Finally, magazines can help differentiate themselves by injecting more
+personality, specifically of the writers themselves.  This is done very well
+in European magazines, but in USA magazines the writers are rarely involved in
+the story.  I think specific magazines will get a more loyal following if the
+writers themselves had their pictures and editorial comments involved in
+stories, and more first-person stories.  PC Gamer does this to some extent,
+but that's probably because their sister magazine in England has influenced
+it.  It seems everyone I know likes European game magazines better, and I
+think this point is a key reason.
+
+Weekly puzzle:  Two identical tanks full of equal amounts of water are being
+drained at the same time.  One tank has a single circular hole, two inches
+wide, and the other tank has three circular holes, each one inch wide.  Which
+tank will empty first?
+
+========================================
+Feb. 27, 1998
+
+Doing a Duke movie is beyond cool.  Our deal with Threshold gives us creative
+control and input, and we're doing our best to make sure this movie is not
+another Judge Dredd or Batman and Robin.  It's pretty amazing talking to
+Hollywood big shots and having them ask you for your opinion on everything
+from who should play Duke, where should the movie take place, and story ideas. 
+There's actually a lot of common ground between making movies and games.
+
+I can't give away details yet, but the Duke movie is not the only one we're
+working on!  Please don't email me with guess--I will not acknowledge correct
+guesses until the news has been made public, which should be in about a month. 
+I must say, though, that our publisher, GTIS, has been doing a terrific job
+exploiting our games in other media.
+
+Weekly Puzzle:  Not really a puzzle, but a cool question I recently heard: 
+What was the first man-made object to go faster than the speed of sound?  The
+answer will be on www.3dportal.com sometime today.
+
+========================================
+Feb. 20, 1998
+
+I recently saw the following exchange in an online interview:
+
+Question to CEO of large game publisher:  "When being at the top of such a
+huge company, do you even have the time to play all of the games [your
+company] creates?"
+
+Answer from CEO:  "Not really. I do a few hours of each game, but that's it."
+
+I think this reveals a key problem with most publishers, and possibly many
+larger development houses:  The top person or people--

@@ -1,0 +1,35 @@
+
+*** Monolith Production's Finger Server
+
+User name: paulb
+Plan modified: Wed Dec 09 15:31:23 1998
+
+
+12/9/98
+Snonuff has a new patch coming out this Friday that should give more happiness to people. Here is the list I stole from the readme:
+
+- Added "MSN Zone" stuff.
+- Fixed ShogoServ.exe bug where it crashes when #levels in list is > 16. Now supports up to 50 levels.
+- Made a bunch of memory leak fixes (hopefully this will fix the servers crashing after 8 hours or so)
+- Fixed the bug that caused a crash when using the mpmech cheat.  This bug also caused the weapons to 
+  get placed on the wrong nodes when models were changed (gun sticking out of knee bug).  This also 
+  fixes the crash when changing to kid mode.
+- Added a client-side console command "AutoWeaponSwitch" which defaults to 0.  If set to 1, weapons 
+  will automatically be switched to when picked up in multiplayer (i.e., it will work the same way as 
+  single-player).
+- Fixed a couple of bugs with the host's list of selected levels and using custom levels (it wouldn't
+  restore them properly the next time).
+- Added a string to the registry called "Version" and sets it to "2.1" if it doesn't already have a 
+  value.  This is so The Zone can figure out what version the user is running.
+- Fixed the problem of the in-game interface going away when killed/hit while zoomed in with sniper rifle.
+- Fixed being stuck in ground bug (load world via console).
+- Fixed more memory leaks (most were single-player only).
+- Fixed ShogoSrv so that it actually loads custom rez files properly (and loads/restores your selections) 
+  properly.  
+- Fixed high-ping problem for ISDN modems.
+
+
+We also will be giving out the new Shogo demo with multi-player options very soon. Looking like next week or maybe even sooner.
+
+I know a lot of people are asking about the B2 patches also. As you know we already have a smaller patch for B2 but the larger point release with the multi-player goodness is on its way. Everyone knows how much Shogo net play changed with the patch, so expect the same for B2. I hear the team talking a lot about extra goodies in the patch like more BloodBath maps and more. We are looking to get the B2 patch out before the holidays so the team can go home and try to spend time with family and friends. This will allow all the Blood2 players to be glued to the screen rather then us here at Lith. 
+

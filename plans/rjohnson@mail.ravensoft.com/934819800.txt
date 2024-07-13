@@ -1,0 +1,33 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: SoF
+Nickname: Superfly
+Web Page: Rick's Web Site TurtleCam! mEATwagon Cult
+Last Updated: 08/16/1999 13:02:23 (Central Standard Time)
+-------------------------------------------------------------------------------
+8/16/99
+   Rental of Garner Park ... $25
+   Catering of the company picnic ... $350
+ Kim Lathrop, unknowingly getting locked up in the observation tower by park officials and having to 
+      call the police to eventually use bolt cutters to set him free ..... priceless
+   For everything else, there's Mastercard...
+
+8/13/99
+   Now that we have deathmatch initially up and running, tweaking it, adding various games, etc.
+      I would like to ask people to email any common Quake2 deathmatch / network problems to
+ sof-deathmatch@ravensoft.com.  This would
+      include bugs, cheats, strange problems, etc., or even desired features.  Please include as 
+      verbose of a description as possible.  Please note that this is not a guarantee that these
+      items will be address or fixed, but if we can keep them in mind, we may be able to find solutions
+      or workarounds.
+
+   Networking in SoF vs Q2 has changed significantly.  Ghoul uses a network system where that everything
+      is based off of sequences, not of frames.  So the client gets a much more smoother appearance
+      of the sequences playing out.
+
+8/9/99
+   GenCon was a lot of fun this year.  SoF was a very big hit, along with Trek.  Check out the
+ GenCon Pictures from this

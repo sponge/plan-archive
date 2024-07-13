@@ -1,0 +1,271 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake Arena
+Last Updated: 07/16/1998 02:57:05 (Central Standard Time)
+-------------------------------------------------------------------------------
+7/15/98
+-------
+I have spent the last two days working with Apple's Rhapsody DR2, and I like
+it a lot.
+
+I was dissapointed with the original DR1 release.  It was very slow and
+seemed to have added the worst elements of the mac experience (who the hell
+came up with that windowshade minimizing?) while taking away some of the
+strengths of NEXTSTEP.
+
+Things are a whole lot better in the latest release.  General speed is up,
+memory consumption is down, and the UI feels consistant and productive.
+
+Its still not as fast as windows, and probably never will be, but I think the
+tradeoffs are valid.
+
+There are so many things that are just fundamentally better in the rhapsody
+design than in windows: frameworks, the yellow box apis, fat binaries,
+buffered windows, strong multi user support, strong system / local seperation,
+netinfo, etc.
+
+Right now, I think WindowsNT is the best place to do graphics development work,
+but if the 3D acceleration issue was properly addressed on rhapsody, I think that
+I could be happy using it as my primary development platform.
+
+I ported the current Quake codebase to rhapsody to test out conix's beta OpenGL.
+The game isn't really playable with the software emulated OpenGL, but it
+functions properly, and it makes a fine dedicated server.
+
+We are going to try to stay on top of the portability a little better for QA.
+Quake 2 slid a bit because we did the development on NT instead of NEXTSTEP, 
+and that made the irix port a lot more of a hassle than the original glquake port.
+
+I plan on using the rhapsody system as a dedicated server during development,
+and Brian will be using an Alpha-NT system for a lot of testing, which should
+give us pretty good coverage of the portability issues.
+
+I'm supposed to go out and have a bunch of meetings at apple next month to cover
+games, graphics, and hardware.  Various parts of apple have scheduled
+meetings with me on three seperate occasions over the past couple years, but they
+have always been canceled for one reason or another (they laid off the people
+I was going to meet with once...).
+
+I have said some negative things about MacOs before, but my knowledge of
+the mac is five years old.  There was certainly the possibility that things
+had improved since then, so I spent some time browsing mac documentation
+recently.  I was pretty amused.  A stack sniffer.  Patching trap vectors.
+Cooperative multitasking.  Application memory partitions.  Heh.
+
+I'm scared of MacOS X.  As far as I can tell, The basic plan is to take rhapsody
+and bolt all the MacOS APIs into the kernel.  I understand that that may well
+be a sensible biz direction, but I fear it.
+
+In other operating system news, Be has glquake running hardware accelerated on
+their upcoming OpenGL driver architecture.  I gave them access to the glquake and
+quake 2 codebases for development purposes, and I expect we will work out an
+agreement for distribution of the ports.
+
+Any X server vendors working on hardware accelerated OpenGL should get in touch
+with Zoid about interfacing and tuning with the Id OpenGL games on linux.
+
+
+7/5/98
+------
+I am not opposed to adding a flag to control the movement styles.  I was
+rather expecting it to be made optional in 3.17, but I haven't been directly
+involved in the last few releases.
+
+The way this played out in public is a bit unfortunate.  Everyone at Id is
+busy full time with the new product, so we just weren't paying enough attention
+to the Quake 2 modifications.  Some people managed to read into my last update
+that we were blaming Zoid for things.  Uh, no.  I think he was acting within
+his charter (catering to the community) very well, it just interfered with an
+aspect of the game that shouldn't have been modified.  We just never made it
+explicitly clear that it shouldn't have been modified.
+
+It is a bit amusing how after the QuakeArena anouncement, I got flamed by
+lots of people for abandoning single player play (even though we aren't, really)
+but after I say that Quake 2 can't forget that it is a single player game, I get
+flamed by a different set of people who think it is stupid to care about single
+player anymore when all "everyone" plays is multiplayer.  The joy of having a
+wide audience that knows your email address.
+
+
+7/4/98
+------
+Here is the real story on the movement physics changes.
+
+Zoid changed the movement code in a way that he felt improved gameplay in the
+3.15 release.
+
+We don't directly supervise most of the work Zoid does.  One of the main
+reasons we work with him is that I respect his judgment, and I feel that his
+work benefits the community quite a bit with almost no effort on my part.  If
+I had to code review every change he made, it wouldn't be worth the effort.
+
+Zoid has "ownership" of the Quake, Glquake, and QuakeWorld codebases.  We don't
+intend to do any more modifications at Id on those sources, so he has pretty
+free rein within his discretion.
+
+We passed over the Quake 2 codebase to him for the addition of new features
+like auto download, but it might have been a bit premature, because official
+mission packs were still in development, and unlike glquake and quakeworld,
+Q2 is a product that must remain official and supported, so the scope of his
+freedoms should have been spelled out a little more clearly.
+
+The air movement code wasn't a good thing to change in Quake 2, because the
+codebase still had to support all the commercial single player levels, and
+subtle physics changes can have lots of unintended effects.
+
+QuakeWorld didn't support single player maps, so it was a fine place to
+experiment with physics changes.
+
+QuakeArena is starting with fresh new data, so it is also a good place to
+experiment with physics changes.
+
+Quake 2 cannot be allowed to evolve in a way that detracts from the commercial
+single player levels.
+
+The old style movement should not be refered to as "real world physics".  None
+of the quake physics are remotely close to real world physics, so I don't think
+one way is significantly more "real" than the other.  In Q2, you accelerate from
+0 to 27 mph in 1/30 of a second, which just as unrealistic as being able to
+accelerate in midair...
+
+6/16/98
+-------
+My last two .plan updates have described efforts that were not in our original
+plan for quake 3, which was "quake 2 game and network technology with a new
+graphics engine".
+
+We changed our minds.
+
+The new product is going to be called "Quake Arena", and will consist
+exclusively of deathmatch style gaming (including CTF and other derivatives).
+The single player game will just be a progression through a ranking ladder
+against bot AIs.  We think that can still be made an enjoyable game, but
+it is definately a gamble.
+
+In the past, we have always been designing two games at once, the single
+player game and the multi player game, and they often had conflicting goals.
+For instance, the client-server communications channel discouraged massive
+quantities of moving entities that would have been interesting in single
+player, while the maps and weapons designed for single player were not ideal
+for multiplayer.  The largest conflict was just raw development time.  Time
+spent on monsters is time not spent on player movement.  Time spent on unit
+goals is time not spent on game rules.
+
+There are many wonderful gaming experiences in single player FPS, but we are
+choosing to leave them behind to give us a purity of focus that will let us
+make significant advances in the multiplayer experience.
+
+The emphasis will be on making every aspect as robust and high quality as
+possible, rather than trying to add every conceivable option anyone could
+want.  We will not be trying to take the place of every mod ever produced, but
+we hope to satisfy a large part of the network gaming audience with the out of
+box experience.
+
+There is a definite effect on graphics technology decisions.  Much of the
+positive feedback in a single player FPS is the presentation of rich visual
+scenes, which are often at the expense of framerate.  A multiplayer level
+still needs to make a good first impression, but after you have seen it a
+hundred times, the speed of the game is more important.  This means that there
+are many aggressive graphics technologies that I will not pursue because they
+are not apropriate to the type of game we are creating.
+
+The graphics engine will still be OpenGL only, with significant new features
+not seen anywhere before, but it will also have fallback modes to render at
+roughly Quake-2 quality and speed.
+
+
+6/16/98
+-------
+I am giving up on one of my cherished networking concepts -- the client as a
+dumb terminal.
+
+With sub 200 msec network connections of reasonable bandwidth, pure
+interpolating is a reasonable solution that is very robust and elegant.
+
+With modem based internet connections having 300+ msec pings and patchy
+delivery quality, pure interpolation just doesn't give a good enough game
+play experience.
+
+Quake 1 had all entities in the world strictly interpolated (with a 20 hz
+default clock), but had several aspects of the game hard coded on the client,
+like the view bobbing, damage flashes, and status bar.
+
+QuakeWorld was my experimentation with adding a lot of specialized logic to
+improve network play.  An advantage I had was that the gameplay was all done,
+so I didn't mind adding quite hardcoded things to improve nailguns and
+shotguns, among other things.  The largest change was adding client side
+movement prediction, which basically threw out the notion of the general
+purpose client.
+
+Quake 2 was intended to be more general and flexible than Q1/QW, with almost
+everything completely configurable by the server.  At the time of q2test, it
+was (with a fixed 10 hz clock).
+
+Before shipping, I wound up integrated client side movement prediction like
+QW.  Having gone that far, I really should have moved the simulation of a lot
+of the other view presentation logic (head bobs / kicks, etc) back to the
+client.  Because these are still run on the server, a lagged connection will
+give you odd effects like falling off a cliff, running away, then having the
+head kick and the landing crunch happen when you are 50 feet away from the
+point of impact.
+
+So basically I wound up losing the elegance, but I didn't reap all the
+benefits I could have.
+
+I am still holding to my stronger networking belief, though -- centralized,
+authoritative servers, as opposed to peer to peer interaction.  I REALLY
+think distributed simulation among clients is a VERY BAD idea for networked
+games.  Yes, there are some theoretical advantages to being able to hand off
+the simulation of some objects, but I have plenty of reasons to not want to
+do it.  Client side movement prediction is simulation, but it has no bearing
+on the server, it is strictly to give a better presentation of the data the
+server has provided.
+
+The new paradigm is that the server controls all information necessary for
+the rules of the game to function, but the client controls all presentation
+of that information to the user through models, audio, and motion.
+
+There were moves in that direction visible in Quake 2 -- the temp entities
+and entity events that combined sounds and model animations run entirely on
+the client side.  Everything will soon be like this.
+
+This saves some degree of network bandwidth, because instead of specifying
+the model, skin, frame, etc, we can just say what type of entity it is, and
+the client can often determine everything else by itself.  This also enables
+more aggressive multi-part entities that would have been unreasonable to do
+if they each had to be sent seperately over the network connection.
+
+Almost all cycling animations can be smoother.  If the client knows that the
+character is going through his death animation for instance, it can advance
+the frames itself, rather than having the server tell it when every single
+frame changes.
+
+Motion of projectiles can be predicted accurately on the client side.
+
+All aspects of your own characters movement and presentation should be
+completely smooth until acted upon (shot) by an outside entity.
+
+All the clever coding in the world can't teleport bits from other computers,
+so lag doesn't go away, but most of the other hitchy effects of network play
+can be resolved.  Lag reduction is really a seperate topic.  QuakeWorld had
+instant response packets, because it was designed for a dedicated server
+only, which helped quite a bit.
+
+During the projects development, the client side code will be in a C DLL, but
+I intend to Do The Right Thing and make it java based before shipping. I
+absolutely refuse to download binary code to a client.
+
+
+6/7/98
+------
+I spent quite a while investigating the limits of input under windows
+recently.  I foudn out a few interesting things:
+
+Mouse sampling on win95 only happens every 25ms.  It doesn't matter if you
+check the cursor or use DirectInput, the values will only change 40 times
+a second.
+
+This means that with norma

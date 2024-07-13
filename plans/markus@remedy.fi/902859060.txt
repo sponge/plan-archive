@@ -1,0 +1,33 @@
+Username: markus                    In real life: Markus Maki           
+
+
+Plan:
+-------------------------------------------------------------------------
+11 August 1998
+
+I'm quite impressed. www.remedy.fi is currently getting 366000 hits per 
+week. Total 21726 unique visitors, 13GB data transferred. And our 
+line's peak theoretical capacity is 38GB/week.
+
+Anybody want to offer me a mirror site in the US? *grin*
+
+Really, email markus@remedy.fi if you want to! Minimum requirements:
+DS-3 or equivalent, 100MB disk space, ability to run cgi-bin scripts,
+preferably Apache as httpd server, ssh installed. We're willing to pay
+or put some ad / banner on our page.
+
+Other interesting stats: most visits from .jp, top browser
+MSIE 4.01 on Win98 (19.7%).
+
+(check finger.planetquake.com for old plan updates)
+--------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+

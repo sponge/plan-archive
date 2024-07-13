@@ -1,0 +1,52 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: onethumb
+Plan modified: Thu Jul 30 14:27:54 1998
+
+
+Name:  Don MacAskill         
+Email:  onethumb@ritual.com
+Occupation:  Jedi Master
+
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************       
+
+
+
+- 7/30/98 2:18 pm -
+
+-[ Outlook experts? ]-
+
+Any Outlook '98 experts out there?  I have a couple thousand messages I want
+to filter through (bug reports :)...  I want to seperate them into seperate
+folders based on what type of bug they are, fairly simple, but I can't seem
+to find a way to make Outlook apply filters to existing mail, only incoming 
+messages...  Is this possible?  And if so, how?
+
+
+-[ Exchange experts? ]-
+
+Any MS Exchange 5.5 experts out there?   I want to set up an auto-responder
+on our info@ritual.com email to explain the current status of the demo,
+of the full game, etc etc.  However, there doesn't seem to be an easy, simple
+option to do that.  :(
+
+
+
+- 7/29/98 6:19 pm -
+
+-[ Deathmatch Maxclients ]-
+
+I've noticed a lot of servers are playing with maxclients set as high as 32.
+This is probably a Bad Idea(tm).
+
+SinCity is probably best with 2-8 people, and SinDM6 is probably best with 
+4-16.  And 16 means a pretty full game on SinDM6.  
+
+Overcrowded SinCity can be especially bad, since you can see the whole level
+and drawin

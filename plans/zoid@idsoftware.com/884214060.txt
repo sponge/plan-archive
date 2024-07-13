@@ -1,0 +1,217 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Dave Kirsch
+Email: zoid@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 01/07/1998 18:29:45 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+Jan 07/97
+
+Here's a list of the current issues and workarounds for the Quake2 Linux
+Release.
+
+- Users having problems with Joliet filesystem extensions, mount the Quake2
+  CD as follows (this is usually for users who have patched their kernel for
+  FAT32 support):
+    mount -t iso9660 -o ro,check=relaxed /dev/whatever /mountpoint
+  You can also use the nojoliet option on the mount.
+
+- You can leave the videos on the CD and just copy over the pak file.  To make
+  the videos still work, run quake2 like so:
+	quake2 +set cddir /mnt/cdrom/install/data
+  replace "/mnt/cdrom" with the location your mounted the Quake2 CD.
+
+- You really should run Quake2 as root when using the SVGALib and/or GL
+  renders.  You don't have to run as root for the X11 refresh, but the modes
+  on the mouse and sound devices must be read/writable by whatever user you
+  run it as.
+  Dedicated server requires no special permissions.
+
+- X11 has some garbage on the screen when 'loading'.  This is normal in 16bit
+  color mode.  X11 doesn't work in 24bit (TrueColor).  It would be very slow
+  in any case.
+
+- To run a dedicated server, you MUST put "+set dedicated 1" on the command 
+  line.  It's not good enough in a +exec config file.
+
+- The "Join Network Server" options on the Multiplayer menu is broken in this 
+  release (Quake2 will die with an error).  use 'connect ' at the 
+  console until a new release fixes this.
+
+- Some people are experiencing crashes with the GL renderer.  Make sure you
+  install the libMesa that comes with Quake2!  Older versions of libMesa don't
+  work properly.
+
+- If you are experience video 'lag' in the GL renderer (the frame rate feels
+  like it's lagging behind your mouse movement) type "gl_finish 1" in the
+  console.  This forces update on a per frame basis.
+
+- Serverinfo displays NON-WIN32, next release will fix this.
+
+- Dedicated server uses 100% CPU.  This is because it's looping and doesn't
+  sleep.  I've already fixed this and the next release will address it.
+  This isn't a problem in single player, since it always uses 100% cpu drawing
+  the screen.
+
+- Make sure that the Linux data files (such as pak0.pak) and the directories
+  are all in *lower case*.  Quake2 always looks for files in lowercase.
+  Also, make sure pak0.pak and the players directory are in the baseq2
+  directory where you are running Quake2 from.
+
+- When running the GL renderer, make sure you have killed selection and/or
+  gpm or the mouse won't work as they won't "release" it while Quake2 is 
+  running in GL mode.
+
+- Save games seem rather broken.  I'm not sure what's up with this.  It
+  may not be directly addressed in the next release.
+
+- On systems with multiple interfaces/ip addresses, you can use the following
+  option to specify what ip the Quake2 server should bind to:
+    quake2 +set ip 
+
+/// Zoid.
+
+Jan 06/98
+
+Quake2 for Linux has been released.  You can grab it at
+ftp://ftp.idsoftware.com/idstuff/quake2/unix/quake2-3.10-i386-unknown-linux2.0.tar.gz
+It has the same requirements as Q2Test, other than the fact you need to
+own a released Quake2 CD.  It's based on the 3.10 Win32 version, so it's up
+to date with all released patches.
+
+I hope everyone enjoys this release and we'll see a lot more Quake2 servers
+on the net running under Linux.
+
+I'll probably release a Makefile in a couple of days that shows how to
+compile the gamex86.so source (Linux's version of Win32's gamex86.dll).
+The game source released in q2source_12_11.zip will compile under Linux
+unchanged (the wonders of portable C code).  User created addons must be
+recompiled under Linux to work--a good arguement for mod authors to release
+source and write portable C code.
+
+As usual, the Linux port is an unsupported product.  You can email me at
+zoid@idsoftware.com, but I can not guarentee a reply (I'm very busy with
+Q2 CTF at the moment).  But I'll help out where I can.
+
+Have fun!
+
+/// Zoid.
+
+Jan 05/98
+
+I haven't updated in a while, mostly because I've been very busy with a lot
+of projects.  My current focus of course is on Quake2 CTF and on the Quake2
+Linux port.
+
+I've done a substancial amount of work on both.  I'm bringing Linux Q2 up
+to version 3.10 today, so I hope to have it ready for you hungry linux
+users Real Soon Now(tm).
+
+Quake2 CTF is coming along great.  The art is going in nicely and looking
+fabulous.  The code is pretty much done and I'm finishing up on the maps
+over the next few days.  Map building is a love/hate relationship.  Waiting
+for those eight hour vis times hurts.  But, it's coming together and I can't 
+wait to play it. :)
+
+/// Zoid.
+
+Dec 03/97
+
+As I mentioned in an earlier plan update, cheating is still a problem in
+the current Quake community.  John Carmack and I want to take a look at what
+we can do to curb some of the easier methods people are using to cheat.
+
+I'd like to request that people email me with known ways of cheating in Quake
+and QuakeWorld.  Clever hacks, pak file changes, etc.  Tell me how proxies
+can give you that extra edge.  I'd like to collect this information and work
+out ways with John in preventing or making it extremely hard to do.
+
+Cheating is an unfortunate reality, but if something simple can be done to
+lessen its impact, we'd like to do it.
+
+/// Zoid.
+
+Nov 18/97
+
+Please note that I accidently left a little debugging code in Linux Q2Test.
+When you fire it up and it says, "waiting...", just hit [ENTER].
+
+If you are using GL on a 3DFX, make sure to kill the gpm process or you
+won't have mouse support (gpm doesn't give it up when the 3DFX goes into
+operation).
+
+Overall, looks like a good release.  Anyone running it with 2.1 Linux
+Kernels?  If so, does sound work?  Drop me a note.
+
+/// Zoid.
+
+Nov 17/97
+
+Quake2 Test for Linux is now available at
+ftp://ftp.idsoftware.com/idstuff/quake2/unix/q2test-i386-unknown-linux2.0.tar.gz
+
+It supports SVGALib console, X11 and MesaGL w/3DFX VooDoo rendering.
+I hope all Linux users will enjoy this test release.
+
+I you find any Linux specific bugs (that are not mentioned in the included
+readme.linux file), please email me at zoid@idsoftware.com. 
+
+/// Zoid.
+
+Oct 29/97
+
+I hope everyone is enjoying the new QuakeWorld 2.1 release.  As mentioned
+before, its mostly just a minor bug fix release.
+
+There's a sprite bug in the new GLQuake 0.96.  I'll have a new version out
+in a few days that fixes it.  It's hard trying to coordinate a new release
+of about twelve different versions and something usually slips through the
+cracks.  :(
+
+GLQuake and Q2Test for Linux are pretty much done.  I'm waiting for a couple
+bug fixes in MesaGL that corrects some texture alignment errors and fixes
+the colored lighting in Q2Test.  As soon as that is completed, I'll be
+releasing GLQuake, GLQWCL, and Q2Test for Linux.  Q2Test will support
+three rendering shared libs, ref_soft.so (SVGALib console), ref_softx.so (X11
+windowed) and ref_gl.so (Console MesaGL w/GLIDE).  You can't switch between
+renders on the fly unless you are running as root due to permission problems.
+:(  Need some way to make a .so setuid. :)
+
+In QuakeWorld, the pmodel and emodel tags are in, but I didn't realize that 
+you could just connect with 2.00 and set these tags manually with the 
+correct values.  I'm going to re-examine my position on this.
+
+The issue of cheating has been a hot topic of late.  Hacking models or maps
+seems to be becoming a major issue.  I've heard a lot of reports that Team
+Fortress players are experiencing this with modified maps, such as changes in
+brightness and wall placement.
+
+I guess the ideal solution to the issue of model cheats is to have the client
+send over a list of all the models with CRC values.  Then the server can 
+check and log any differences.  But this is just trying to fix a sympton,
+not the problem.
+
+The issue of client side cheats is something that has always loomed over us.
+It seems to be of late that people are really starting to hack things in order
+to gain any advantage.  The whole issue of proxy bots is yet another problem.
+
+I guess what it comes down it is respect and the ability to trust the players
+you play with.  Anyone who cheats constantly will eventually be "found out"
+and branded.  But where do you draw the line?  Many of the players I know
+do change stuff like d_mipcap, v_kicktime, etc. to hopefully gain advantages
+there.
+
+I think the true player plays Quake and Quakeworld with nothing but the
+default settings or those settings that are changeable in the Options menu.
+I play with default settings, because I feel hacking various client variables
+(much less model hacks!) change the game into something that isn't Quake
+anymore.
+
+The end of it is, if you feel the need to start hacking models or maps, using
+proxy bots or going nuts on the console commands to give you that extra
+"edge", think about what you are doing.  You are cheating, and all that
+tells people is that you suck.
+
+/// Zoid.

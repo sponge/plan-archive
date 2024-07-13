@@ -1,0 +1,74 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+Home Directory....\\void\users\innerloop
+Last NT Logon.....Sunday, November 28, 1999 at 17:09
+
+11/29/99
+
+Hope everyone had a good Thanksgiving.  The Nihilistic offices were
+abnormally quiet the last few days since we just hit one of our major
+production milestones just before the holiday, so everyone got some
+much needed rest.  Except for a few people that came in to get their fix
+of either Quake3Test, Messiah Demo or the ever-popular Everquest.  I was
+mucking about (no pun intended) with the Urban Chaos demo as well.  Very
+similar sort of urban environment to what we are doing in New York and 
+London hubs, check it out, its an amazingly small demo in terms of download
+size relative to the amount of stuff in there.
+ 
+So what have we all been up to lately?  Glad you asked.  First off,
+we did a lot of work "under the hood" so to speak in moving all our
+engine code and effects from Glide (which was used for all the earlier
+screenshots and demos like E3) to Direct3D (which is our primary API out of
+the box).  So you may have noticed that the latest round of screenshots sent
+out by Activision were higher resolution than in the past and also (I THINK)
+used 32-bit rendering (although when you ship them as JPG its hard to really
+differentiate due to the compression loss).  The end result of all the is
+screenshots that look pretty much exactly like they did in the past, but 
+with the added advantage that they work on lots of different cards now.  So
+expect to see a wide variety of hardware in future screenshots and higher
+resolutions, etc.  
+
+I must say I was actually surprised by how painlessly the transition went.
+It was something I was sort of dreading, since way back on Jedi Knight, I
+know Ray had a hell of a time supporting all the quirks of various 3D cards
+out at that time.  I think its a feather in the cap of the hardware folks
+and the D3D developers that things are a lot better now.  There are still
+a few gotchas in there for certain cards, but on 90% of the cards out there
+we had no hassles.  I was pretty surprised by this, actually.  I wrote the
+first version of the D3D rendering DLL on my own system, which at the time
+was a GeForce prototype board under 98.  I figured it wouldn't run on much
+else besides maybe TNT2, but I was surprised to find out it ran pretty much
+flawlessly on the whole nVidia line, Voodoo3 family, G400, and even came
+damn close to running on a Permedia2.  The biggest bit of extra work was
+supporting the separate texture memory layout of the Voodoo2, but even that
+was only like another half day of fooling around.  So now all that's left
+is performance tweaking for specialized stuff like Hardware T&L and texture
+compression, and all those bells and whistles.  Oh yeah, we also checked out
+the latest version of (what used to be) IPeak from Intel (Its called GPT now
+or something like that).  Its pretty cool - you can run the game in its 
+normal window and the tool will break the window into 4 panes, one each
+for normal, wireframe, overdraw, and untextured modes.  I was surprised it
+worked that transparently to the app.  It works on GL as well, neat tool. I
+just wish it was able to dig inside the drivers a bit more and let you
+know what was happening internally, bit I guess that's a job for each hardware
+maker more than for Intel.
+
+Beyond that, Ingar's been doing a lot of work on the in-game cinematic camera
+system.  This is really tricky stuff, getting cool camera angles from 
+arbitrarily placed actors having a conversation.  But when its all working,
+the results are really cool.  Together with the lip-syncing of the characters
+that Jake is adding more of each day, the characters really seem to be
+lifelike.  Still quite a few modes to be added, but even with the stuff 
+working now its really immersive.  Yves is plugging away at all the hard
+stuff - implementing tons of disciplines and AI modes needed to make the
+game not only pretty but also fun.  Also still working on a few editor
+features here and there to improve the lighting in the worlds, most 
+notably to get the staticly-placed objects to cast nice shadows into the 
+world so they seem more solidly part of the surrounding geometry.
+
+
+(File last updated on Mon 29 Nov 1999 at 12:27)

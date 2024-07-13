@@ -1,0 +1,183 @@
+
+*** Ion Storm's Finger Server
+
+User name: romero
+Plan modified: Mon Aug 02 17:18:22 1999
+
+
+
+
+Plan File
+
+
+
+
+
+Current project: Daikatana
+   August 2, 1999
+Alright, before all of the news sites start going nutty with this
+information, I just want to thank Steve Ash, my lead programmer, for all the excellent
+work he's put in on Daikatana.  We're past the "adding tech" stage and are
+working on finishing up the game, so Steve decided to move on and get back to California
+where he can actually USE his Ducati motorcycle on the winding mountain roads instead of
+watching his tires melt on the hot Dallas pavement.  Heh.  Good luck Steve, and
+thanks for everything. :)
+The new lead programmer on Daikatana is Shawn Green, whom I have known for
+eight years or so and has been doing a great job on Daikatana since its inception.
+   July 30, 1999
+Okay, all you denizens of Dallas... I'm looking for on-site beta-testers for
+Daikatana for the month of August.  You will be rewarded for your efforts with
+T-shirts, games and hardware!  Just send your resume to dktest@ionstorm.com and we'll see if you're good
+enough to make it in.
+   July 12, 1999
+I just *LOVE* it when people make fun of me!!!  Check this out:
+http://www.hulka.com/img/haircare/haircare.htm
+Daikatana-wise, everyone is cranking along in their various sections: art,
+coding, mapping.  Got a couple of new mappers on the team: Luke "weasl"
+Whiteside and Christian "guf" Cummings.  Both these guys are *hardcore*
+mappers, staying up here at Ion until the wee hours of the morning, then they get up a few
+hours later to do it all over again. :)  
+   May 5, 1999
+Happy Birthday Wolfie!  Seven long years ago, the shareware version of
+Wolfenstein 3-D was uploaded to Software Creations BBS.  It was very late at night
+(in fact, i think it was 5am) and all our exhaustive testing was done, so we uploaded the
+final ZIP file and crashed.  Scott Miller and Bobby Prince were there for the
+shareware upload since they were just as excited about Wolfie as everyone else.  
+We were running id out of a 1-bedroom loft apartment in Mesquite (La Prada
+Club) and the company had a grand total of 6 employees: Tom Hall, John Carmack, Adrian
+Carmack, Jay Wilbur, Kevin Cloud and myself.   The next couple months were spent
+finishing the last 3 episodes (6 in total) and Tom, Kevin and I wrote the Wolfenstein 3-D
+Hint Book using NeXT hardware for layout.  That was the first and only hint book id
+would ever write.  Things got *very* busy after that point...
+   March 18, 1999
+Oh my god Andrew, I'm gonna have to DESTROY YOU!!!!  Heh heh... great
+plan update and i agree with you... there's too much sniping out there in .plan land, the
+press, and especially those damned messageboards!  Really, we're all
+making games because they're FUN -- not because it's great to be deeply immersed in the
+politics of a company, providing grist for the rumor mill and plotting the demise of your
+fellow co-worker.  It's all about fun stuff.  You know: killing things with
+large weapons.  :)
+When i did that interview, i don't believe i was that destructive in
+explaining the demo.  I was telling the guy that most of what you see in the demo was
+done by the new team.  The E1DM1 map is originally created, the basic textures are
+Andy Changs and the new special textures are from the new team.  The E1DM2 map was
+constructed from pieces of Dabug's DM map with lots more work done on it.  All the
+powerups, weapons, sound effects, multiplayer stuff, menu, etc etc etc was all done by the
+new team from scratch or they tweaked old stuff.  They did a great job in a very
+short amount of time and i'm very proud of these guys.  It's fun working with a
+hardcore team.
+And by the way, Andrew, you did some really great work while you were here.
+  Thanks! :)
+   March 14, 1999
+Late night Daikatana demoing session here at Ion Storm with Blue, Redwood,
+Loonyboi and the Telefragged guys -- we're having a blast!   Lots of screaming,
+blood and gibs bouncing happily off the walls...
+In one month, we will be releasing the Internet/LAN version of Daikatana so
+everyone can bring it to your LAN parties.
+   March 10, 1999
+First it was on, then it was off -- The Daikatana Deathmatch Tournament at
+Extreme Annihilation this coming weekend.  We've been really busy finishing up the
+MPlayer Tournament version and didn't think we would have enough time to get the systems
+all set up, etc.
+The Extreme Annihilation team has been severely flooded with angry emails
+about the cancellation of the Daikatana Tournament; apparently, many people are going to
+Extreme Annihilation JUST TO SEE Daikatana!  Well, thank you guys very much for your
+interest in our game!
+Well, you guys win.  The EA Daikatana Deathmatch Tournament IS BACK ON
+at this weekend's CPL event!  :) 
+   February 28, 1999
+The modem interpolation bug was fixed just a couple hours ago.  We're
+finishing off some remaining polish and sending it off to MPlayer for their final testing
+phase.  We will be releasing the demo in the Practice Area of MPlayer first (limited
+release), then into the Tournament Area when Practice is through with their testing.
+  When it gets into the Tournament Area, everyone can download it and try it out.
+About a month or so later, we will put up the Internet Deathmatch Demo
+release so you can play over LAN as well and start up your own servers.  Just
+remember: this demo is only for the first episode of Daikatana's deathmatch.  Each of
+the remaining 3 episodes have their own different deathmatch feel because the weapons are
+all different.  It's like 4 deathmatch games in one.  (And one single-player
+game in one. :)
+We've been working hard on getting this demo together and I hope everyone
+likes it.  Sure, it's taken us a little longer to get polished, but it will be worth
+the wait.  No use releasing a shab demo.
+   February 4, 1999
+(Oops, fixed that link...)
+I'm a real big guitar-music nut and just wanted to tell y'all how badass
+James Grote's "Quantum Rage: Songs for Deathmatch" is -- you don't even need to
+play this CD while deathmatching; I listen to it all the time in my car.  Get this CD
+if you are into metal or into doomy-melodic guitar riffs!  Samples are available on
+his site....check 'em out.
+http://www.gigadeth.com
+Also, one of the cool features of Daikatana Deathmatch is that, depending on
+the number of maxplayers your server is set for, the map can open up new areas or keep
+them closed off.  If you want your DM map to be scalable for 1-4 players, you just
+put in a special wall that blocks off access to the other areas if maxplayers = 4.  
+Likewise for the other maxplayer levels (8, 16 and 32).  This allows DM mappers to
+create one single map that is good for 2 players to 32 players!  You'll see this
+feature in our Daikatana Deathmatch Demo...
+   January 26, 1999
+GameStream knows things...
+http://www.gamestream.net/indexfix.cfm?NewsID=410
+(Internet Explorer only, I'm told)
+   December 15, 1998
+Today's the 7th birthday of id Software's second Keen creation, 
+Commander Keen: Goodbye, Galaxy!.   
+   December 14, 1998
+Today's the 8th birthday of id Software's very first game,  Commander
+Keen: Invasion of the Vorticons.   
+   October 30, 1998
+Congratulations to the entire SiN team over at Ritual!  Your first full
+game, now gone gold -- it was tough, wasn't it?  Heh heh.  
+I can't wait to play SiN, it totally kicks ass! 
+   August 28, 1998
+Reports of my death are greatly exaggerated.  I take full responsibility
+for last night's confusion -- maybe I shouldn't have taken that morbid picture for Texas
+Monthly magazine, because someone apparently called the Dallas PD and heard that a John
+Romero got shot last night.  Coupled with the actual picture, you have yourself a
+news story (although a false one).
+I was out of touch with people up here at Ion for a while last night, so they
+couldn't confirm nor deny the rumors, so Adrenaline Vault ran the story and got the
+"scoop" first.  Too bad it was incorrect, eh?  Well, don't blame them
+-- I got a call from their writer who told me where and how he got his information and I
+would have run the story myself, so don't slam on them, they were only doing their job.
+And for all of you who really did care and got upset:  I love you all!
+For the Avault story, go here: http://www.avault.com/news/news_temp.asp?story=8281998-14324
+   August 25, 1998
+Good luck, Dr. Sleep and Xatrix.  The stop was short but fun while it
+lasted.
+Now to find a fast monster of a map designer.  Anyone have any leads,
+send 'em my way: romero@ionstorm.com.  
+Thanks. 
+   July 9, 1998
+It was sad news indeed to hear that Danielle Berry died recently.  
+Danielle was going to attend my Apple II Reunion Party, along with Jim Nitchals, who died
+recently as well.  This party is becoming dangerous, you think?
+Oh yeah, the name "id Software" was spelled "ID" in the
+beginning, then "Id Software" during Wolf3D, then "id Software" from
+DOOM onwards.
+   June 26, 1998
+I can't BELIEVE that someone found out that Carmack and I made up!  What
+the hell, are there no more secrets left?  Has all this .plan file madness destroyed
+everyone's ability to keep information to themselves?!
+Well I never!  I just won't be paying him anymore special visits from
+now on!  ;P
+   June 23, 1998
+Happy Birthday Quake, even if I'm late by one day. :)
+Hoo boy, do I remember developing that title.  All I gotta say is
+"The War Room". 
+   June 19, 1998
+I'm gonna be having a massive Apple II Reunion Party here in August and there
+are still a few programmers I want to invite that have eluded my investigations.  If
+anyone out there has information on their whereabouts, phone numbers or email addresses,
+shoot 'em my way.  Thanks!
+
+David Schroeder - Dino Eggs, Crisis Mountain
+Tony or Benny (Aik Beng) Ngo - Drol, Bandits
+Paul Stephenson - Aztec, Swashbuckler
+Tony Suzuki - Alien Rain, Alien Typhoon, Star Blazer
+Larry Miller (Sirius) - Epoch, Hadron, Minotaur
+   June 16, 1998 : Part 2
+Here's the Shockwave screenshot I promised early this morning. :) 
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; bord

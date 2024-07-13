@@ -1,0 +1,126 @@
+[mailhub.gte.net]
+
+Account Name:  scottm @3drealms.com
+Email address: scottm@3drealms.com
+----------
+
+Scott Miller, head of Apogee Software, Ltd.
+(3D Realms Entertainment is a division of Apogee)
+
+========================================
+April 30, 1997
+
+Just wrote another press release that's being posted
+today on our web site, about Duke 3D winning a bunch
+of awards at the Computer Game Developers Convention,
+including Best Action Game (for the second year in
+a row).
+
+Also just read Mike Hadwin's (of Hipnotic) attempt at
+trying to be clever on his finger.  It's too bad people
+can't stay busy making games rather than posting
+messages designed to be attacks on the competition.
+It must really irk him that we're one of the world's
+most respected and profitable developers, in spite of
+his feeling that we're just copycats to id.  Gee, I
+guess Hipnotic *isn't* making another Quake/Duke-clone
+and is going to do something original. 
+
+Mike, ask Romero what he thought of our Prey demo?
+I heard from our friends at CDGC that the Prey demo
+was one of the big buzz topics.  Despite your contention
+that Prey is dead or going nowhere, it's in fact
+mostly done (engine-wise), and we're well into making
+the game itself.  Who knows, Hipnotic might want to
+license it someday.  ;)
+
+Lastly, and another thing to be filed under "Aren't We
+Immature":  We discovered yesterday, thanks to a user
+who sent us a screen shot, that in Hipnotic's Quake
+Mission Pack there's a room with three headstones with
+the initials "SM", "GB" and "SB".  These are for
+Scott Miller (me), George Broussard (my partner) and
+Steven Blackburn (third in command here) respectively.
+Now wasn't that clever of them?  :)
+
+Hopefully, future finger updates won't have to sink
+this low.  I apologize for having to bring this
+public.
+
+========================================
+April 28, 1997
+
+And so it begins, my first finger update...
+
+Today is a Big News day, with the announcement that
+Duke Nukem Forever will use id Software's Quake
+technology.  This news leaked a few days ago and the
+big question posed so far online is why aren't we
+using our Prey technology.  We answered this with
+a press release on www.3drealms.com, currently News
+item #2.
+
+The short answer is that if we had used the Prey
+engine we would have to delay Duke 4's release
+because the Prey engine is still a work-in-progress.
+Inevitably, both Duke 4 and Prey would end up
+coming out very close to each other and that's not a
+good thing for the best success of each of those
+games.
+
+Plus, we want Prey to be the flagship game to use our
+Prey technology--makes sense I hope.
+
+We carefully reviewed the Unreal engine, too, which
+is a stunning engine, but the decision for us came
+down to the fact that the Quake technology was done
+and user tested, allowing us to get Duke 4 out much
+sooner than if we had gone with the Unreal engine.
+And now that Quake will support colored lighting, the
+gap between these two engines has closed
+significantly.
+
+I want to thank Tim Sweeney, Mark Rein and Jay
+Wilbur for visiting us at a moment's notice and
+presenting us a deal that was very hard to pass up.
+Players have a lot to look forward to with Unreal.
+
+With Prey and Duke 4 heavily in development, we've
+got a lot to be excited about around here.  But the
+game of the moment for us is Shadow Warrior, which I
+believe is really going to surprise people in a few
+weeks when the shareware version is expected to hit
+the digital streets.
+
+A recent preview in GameSlice Weekly said that
+"Shadow Warrior cremates the competition..." and while
+that might be a bit too bold I think that players are
+going to be mostly happy by what they get in this
+game, especially if they are fans of Duke Nukem 3D.
+
+Finally, I've been interviewed several times by the
+press lately and a common question is, "Why are there
+so many development groups in the Dallas, Texas area?"
+The truth is that most of the big names (Id, Ion,
+Hipnotic) are here because Apogee was here first.  Id
+moved to this area to be near Apogee (we were their
+shareware publisher at the time, and when they moved
+here Wolfenstein 3D was just beginning).
+
+The rest of the groups eventually branched off from
+Apogee and id, or a combination of the two (as in Ion's
+case).  (A few others, such as 7th Level and Terminal
+Reality are not here in connection with Apogee--though
+3D Realms did release Terminal Reality's first game,
+Terminal Velocity.)
+
+Dallas is a great area for game development because
+it's basically a high tech city, there's not a lot
+of distractions, like the beach or snow skiing, and
+the cost of living is relatively low, especially
+compared to the Silicon Valley, Los Angeles and
+California in general.  There's not a state tax,
+either.
+
+[EOF]
+

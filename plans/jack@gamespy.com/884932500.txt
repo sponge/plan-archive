@@ -1,0 +1,118 @@
+User:   jack
+Read:   0
+Unread: 0
+Time:   Fri, 16 Jan 1998 00:34:45 -0800
+Plan:
+Disclaimer: What I say here does not represent the opinions of 3Dfx
+Interactive, GameSpy, Critical Mass Communications, or anyone else
+for that matter.
+
+
+Updated - 1/15/98 - 12:56am ---------------------------------------
+
+GameSpy front:
+Really banging away on GameSpy.  Got a lot of the code cleaned up 
+in the process of fixing up the UI.  A few days ago, I was at a 
+point where every time I would pull one thing out, everything else 
+would fall into it's place.  It was quite frustrating.  So for the 
+past two days, I've been in a perpetual daze after work thinking 
+about this stuff.  I thought I had come up with something yesterday 
+that seemed to make everything easier and prettier.  Tim Cook 
+rightfully showed me my place there :) Also, onethumb gave me the 
+wise reminder that I can't just keep adding stuff in and fixing 
+everything at once.  So yesterday, out of frustration, I read the 
+Alan Cooper book instead.  Tonight, I came in with a fresh view 
+of what I had to do, looked at my todo list, and starting sticking 
+to it.  Without improving everything, code starting falling into 
+place, and everything is making sense now.  Abstraction is the key.  
+If something has an insane set of 'cases' that are done all the 
+time, wrap a class around it.  If the global list is handling 
+the updating of individual server lists (like masters or web pages)
+wrap a class around the server lists, so you can say
+"Ok, I don't care what kind of server list you are, but I see that 
+you are selected, you are a server list, update yourself."  This 
+is better than saying "Okay, if the selected server list is a 
+Quake server list, then do this to update yourself.  However, if 
+the selected list is a QuakeWorld server list, then do this to 
+update yourself..." ad nauseum...  See my point now?  Another 
+example: 
+Good:
+A server list says "if this server belongs to me, then take me 
+out of there" instead of the global list saying "if this server 
+is QuakeWorld and its ms variable contains these, then run the 
+QuakeWorld serverlist parsing routine.  If the server is Quake 
+and the pages variable contains..." ad nauseam.
+This archtecture then allows me to do this super cool loop to 
+draw the bar on the left:
+"For each server type, put a button, then for each list under 
+that type, put an indented button."
+I think you can figure out the alternative, and no, it's not 
+pretty.  Now, after I'm done with this, the server class will 
+need a bit of work so every game doesn't have the info for an
+rcon password :) Then the view will need work so that columns 
+can be different for any time.  Then the player view...
+But that's for another time.  I'm not working on that now, nor 
+will I be for a bit :)
+
+3Dfx front:
+While I was tearing through the minidriver today populating my 
+geometry class, I noticed a bit of an oversight on some math 
+routines which is an easy fix.  Not sure about exactly how much 
+this will affect people, but I'll keep ya'll posted as to 
+whether or not an update will be necessary.
+
+Book front:
+This About Face book has really done that to me.  It's made me 
+look a whole nother ( Yeah, I know it's not a word.  Bite me. )
+direction towards user interfaces.  Wow.  Alan Cooper is so 
+completely ahead of his time.  This book was written right as 
+Windows 95 was about to come out, and his thoughts are so 
+completely true today, and Microsoft applications are starting 
+to practice what he preaches.  It's pretty exciting to have 
+your entire view about an aspect of computers be turned upside 
+down by one little book.  I'm blasting through the last 50 or 
+so pages tonight, but WOW, what an excellent read.
+
+BTW, webmasters, if you link this, please use www.clbooks.com.
+Thanks.
+
+Toilet paper front:
+John "Lone^Wolf" Campbell has taken it upon himself to take a 
+survey of the toilet paper situation, I suggest you 
+participate.  You can find info at his .plan, which is linked
+
+http://www.stomped.com/finger/jcampbll@swampfox.fmarion.edu.html
+
+There.  Dunno why it says "support onethumb's cause" all over 
+it tho, he's jumping ship soon!  No aftermath for Don! :)
+BTW John, you can add two people to the two ply list, Jack 
+Mathews (Sr.) and Connie Mathews, who both wrote Andrew in 
+favor of their son.  Maybe I'll put the emails on the GameSpy 
+site, they're both really funny...
+
+Other:
+Guess Blue doesn't love me.  Been updating everything from the 
+ridiculous to the extremely technical, all across the spectrum, 
+and not even a mention in the et cetera section!   Steve!  Is 
+it the $12 I owe you?  I'll pay it back, honest!  :)
+
+
+Updated - 1/13/98 - 12:39am ---------------------------------------
+FUCK YOU, MICROSOFT VISUAL C++ 5.0!!!!!
+
+Want to know why I just did that?  Because I just lost about an
+hour's work on GameSpy.  Doing what?  Right clicking!  I fucking
+right clicked on a god damned part of my document, moved to
+something in the menu, and the fucking thing stopped responding to
+me!  Argh!  The worst part is, this is like the 3rd or 4th time
+this has happened to me.  Of course normally, I'll do a build
+every now and then to save everything, but I have been "coding
+blind" for the past couple days with GameSpy, simply because I
+know my code won't compile.  So I've made all these fucking great
+changes to the code, happily in a good state of flow when this
+happens.  All because this stupid program can't use stupid normal
+menus like every other stupid program on this fucking planet.  And
+yeah, I know I should save, but for something like this?!  Come on!
+
+Addendum: And fuck you Basty for making me send this in txt file
+format, dammit. :)

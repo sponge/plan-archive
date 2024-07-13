@@ -1,0 +1,29 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com 
+Description: Some Guy
+Project: 
+Last Updated: 03/28/1999 11:09:48 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+3/28/99
+
+I know a lot of you are looking at the end of the month as a fixed date for q3test,
+but we're probably looking to be within a few weeks of that date rather than exactly
+on it.  We're working on it; I just want to keep expectations in line with reality.
+
+This is a test of Quake 3:Arena, not the demo.  With this test we're looking to see
+how well the brand new networking and graphics code works, and while we've run this
+through a QA process here and at Activision, this is not code that is of release
+quality in speed or gameplay.  Please do not look upon this as the "demo" of Q3A.
+
+Thanks.  I now return you to your regular programming.
+
+3/2/99
+
+Xian says I need to put something new here.
+
+It's been a busy two weeks, and I've yet to get any furniture.
+
+Thoughts later.

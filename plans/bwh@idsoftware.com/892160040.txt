@@ -1,0 +1,138 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 3
+Last Updated: 04/09/1998 19:02:11 (Central Standard Time)
+-------------------------------------------------------------------------------
+
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+
+April 9, 1998
+-------------
+
+My two latest projects are working on noise functions ("Texturing and Modeling:
+A Procedural Approach" by Ebert et. al. is a great intro on this) and working
+on the character animation stuff.
+
+For the noise stuff I've implemented a straight interpolated lattice noise
+function that uses 4D inputs (x,y,z,t).  I'm writing a visualization 
+program in MFC w/ OpenGL (I needed an excuse to learn MFC) that lets me
+tweak noise parameters in real time.
+
+Quadlinear interpolation is expensive as hell, by the way -- I'm looking
+at 30 multiplies and 15 adds and 15 subs.  Ouch.  Will likely implement both
+trilinear and quadlinear for final stuff, but until we figure out exactly
+all the things we're going to use noise functions for I'm going to hold
+off.
+
+George, before you turn up your turbo boost, look into some stiffer springs
+for the back of your car! :-)
+
+April 8, 1998
+-------------
+
+The fun never stops.  Finished the P3D-to-SHADER converter, joy.  Some people
+have asked what are the downsides to the Viper, given my apparent undying love
+for the vehicle.  Heh heh.  Well, the Viper has many things working against
+it:
+
+- it's a Dodge.  Who the hell pays $70K for a Dodge?  (That's rhetorical)
+
+- it's an American car.  Yeah, I guess I'm patriotic, but American cars simply
+aren't built nearly as well as just about any other type of nice import -- cars
+from Acura, Ferrari, BMW, Porsche, etc. have excellent quality construction and
+never feel cheap.  The Viper feels pretty damn cheap.  It's the automotive
+equivalent of the A10 Warthog -- wrap whatever you can around the engine/gun.
+
+- the Viper brakes SUCK.  They fade pretty quickly (5 or 6 dragstrip runs and
+my brakes were pretty toasted) and they don't have ABS.  This can be fixed with
+an upgraded to 14" Hennessey rotors.  Just about any car out there should have
+better braking than a Viper.
+
+- no traction control.  That would help a lot with this car.
+
+- no cupholders -- sorry, I miss going to Starbucks or somewhere else and 
+driving home with a drink parked somewhere in my car.  Then again, few high
+end sports cars have cup holders.
+
+- no power seats with memory (not a big loss)
+
+The newer Vipers (GTS and post-97 RT/10) actually have quite a few nice things
+that people think are missing (mostly because earlier RT/10s WERE missing
+these things):
+
+- power glass windows
+- AC and heater
+- Alpine CD player w/ 200W x 6 channel audio
+- keyless entry
+- dual airbags
+
+It also handles really well.  People assume it's a straight line car, but in
+the latest Motor Trend Performance Car Shootout it had the best skidpad
+numbers and the best slalom numbers.  And it was second in the road course
+behind the F355, and it would have won if it had had its proper tires.
+
+Some more things to consider:
+
+- old muscle car
+
+The '71 Cuda used to be my dream car, but the reality of owning a nice muscle
+car is not nearly as pleasant as the dream.  Lead additives, finding parts, 
+lack of basic creature comforts, etc.  Just not practical.  Oh, and they can't
+corner for shit.
+
+- sportbike
+
+Something about the idea of having a seatbelt and airbags appeals to me.  And
+while the Viper isn't quite as suitable for groceries as my Volvo V70 AWD XC
+wagon, I CAN put like five bags of groceries in there.  I kid you not.
+
+Christ, had no idea there were so many damn cars!  Okay:
+
+- Cobra 427 Replicar
+
+Fast, exotic, but not very practical.  No warranty service (in general).  Plus
+it's a kit car (and I can't afford a real one, and no one believes people when
+they say have a real one anyway :-) )
+
+- Nissan Skyline
+
+Cool car, ugly and not exotic looking.  Not available in the US.
+
+- highly modified Miata/NSX/Mustang/Civic/Prelude/DSM/RX-7/Camaro
+
+Uh, no.  You can modify just about anything and get lots of horsepower, but
+first off, I'm not interested in JUST power -- if I were, I'd get a Talon and
+p1mp it out.  Second, I like lots of top speed, and most super pimped out
+inexpensive vehicles lack top end.  Third, super pimped out cars tend to have
+parts of their drivetrain fall apart because they're not designed to be 
+super/turbo/nitroused to death.  So you end up building a whole car from
+scratch.  Finally, a fast Honda Prelude is still a Honda Prelude -- and I'm
+not going to spend $40K on a Honda Prelude, even if it is real damn fast 
+(although I'd like to see you try and turn the steering wheel with full
+power on one of these FWD jobbies).
+
+So now I'm writing a FD P3D -> .SHADER converter, looks like it should be
+trivial.
+
+Okay, people have continued sending me car suggestions, so let me clarify some
+things.
+
+First, and most importantly, I have a limited budget.  Suggestions of Ferrari
+F50, McLaren F1, and 550 Maranello are appreciated, however those vehicles
+cost $750K, $1M, and $230K respectively.  My Viper has an MSRP of $66.5K.  They
+are, quite simply, in VERY different leagues.
+
+That said, I'll run through various pros-and-cons of all the other cars
+suggested to me.  Remember that how a car performs in real life is very
+different than how well it does in a magazine review or a press release.
+
+- Brabus/RennTech Mer

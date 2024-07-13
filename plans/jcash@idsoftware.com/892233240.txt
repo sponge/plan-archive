@@ -1,0 +1,86 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Cash
+Email: jcash@idsoftware.com
+Description: Programmer
+Project: Quake 3
+Last Updated: 04/10/1998 14:46:42 (Central Standard Time)
+-------------------------------------------------------------------------------
+id stuff
+========
+
+Quake3
+------
+Working converting everything over for the new fixed
+virtual reolustion console that John mentioned.  The
+font is now a code page 850 like set so those of you
+who don't happen to have English as your native language
+will have all the letters in your alphabet available.
+As before, some of the extra slots are being used for
+graphics parts.  There characters *are* available for
+use in your name.  The font was bumped up in size from
+8x8 to 16x16, although the rendered resolution may be
+different because of the virtual console size.  The
+font itself is just white now.  Colored text is being
+done a different way now.  Some places we will force
+the text to be draw in a single, fixed color.  Others
+it will start out white, but can be changed mid-string.
+That includes your name!  Yes, the return of the fun
+name... with a vengeance!  If anoyone would start a
+petition if I disabled animated names, please tell me
+now.  They are a bad waste of bandwidth and right now
+I plan to stop that with "no name spamming" code.
+
+other stuff
+===========
+
+car
+---
+Sayeth the Hook: Someone else asked "Why not the M3?"
+
+Pros:
+
+- pretty fast
+	stock: 0-60 4.5-4.7, 1/4 mile 14.2-14.7
+	(depends on which rags you read)
+- "sleeper" appeal
+	I say "stealth"
+- not very expensive (relatively speaking)
+	60-65% the price of a Viper GTS or Porsche 911
+	expensive, just not *very* expensive
+- seats 4 comfortably
+	quite comfortably, 5 if someone will take "the hump"
+
+Cons:
+
+- 15% of id employees already have a black M3
+	15% have Vipers, 22.5% have Porsches (15% are 911s)
+	contrary to popular belief, only 1 has Ferraris
+- Cash's M3 is having a supercharger installed
+	"just had" a supercharger installed 8-)
+- not exotic enough
+	"sleeper" and exotic are kinda mutually exculsive
+
+I'm not arguing with Brian here.  The Viper and the M3 are
+very different cars.  As Carmack said, the Viper suits Brian.
+I think the M3 is a pretty good match for me too.
+
+The supercharger is way cool.  Don't think Top Fuel Dragster
+or a giant chrome scoop sticking through the hood.  It's still
+very stealthy.  It's a totally under the hood setup.  The
+install is very clean; looks like it could have come from the
+factory that way.  There is a definite change in the sound...
+kind of a low growl that's underneath of all the old sounds.
+In a couple of weeks I should be able to get the ECU
+reprogrammed and get the rest of the power out of it; right
+now peak HP is at the redline.  I'm kinda sad that it wasn't
+ready in time for the drag strip last week but things don't
+always work out.  I'll be there next time!  I don't have any
+timings on the car yet.  Looks like HP raised from stock 240
+to 330 right now.  The ECU fix should bring that up to about
+355.
+
+--------------------
+John Cash
+jcash@idsoftware.com
+"Hellrot"

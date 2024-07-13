@@ -1,0 +1,408 @@
+Ion Storm
+
+User Name.........tom
+Full Name.........Tom Hall
+Description.......Tom's Computer
+Last NT Logon.....Monday, January 19, 1998 at 18:46
+
+=============================================================================
+ MY CREZZY .PLAN                                                 by Tom Hall
+=============================================================================
+1/19/98
+Cray Oh La Boxes is out.  It may be ugly in places, it may be slow, but it is
+done!  Get it at:
+
+
+ftp://cdrom.com/pub/quake2/levels/deathmatch/a-c/craybox.zip
+
+or at our own ZDim's Weapon Rack...
+
+
+http://www.geocities.com/TimesSquare/Alley/6181/index.html
+
+Don't know when it will post....  The next one will be prettier and faster.
+This one was a great learning experience.
+
+Working on level packs for Iikka and Larry.  Our new artist Lee Dotson likes
+doing fonts (_I_ was doing them, for Pete's sake!) so I've handed off the
+fonts duties to him.  Whew!
+
+I'll be working on interface design with Lee Perry tomorrow.
+
+Jake just did an imitation of DeNiro opening a package of meat, and Lee did
+Bobcat Goldthwait opening a package of meeting.  I was gonna do Carol
+Channing, but decided against it....
+=============================================================================
+1/14/98
+Huh, jeez.  Uh, hi.  Sorry, I'm late. <:^|
+
+What's been going on?
+
+--Had a great Christmas.  Six inches of snow in Wisconsin, family met Melissa,
+  we all had a good time. La.
+--Found a good home for my dog Potato.  We couldn't spend enough time with him
+  so we found him a home where someone could be there all day.  He's much
+  better off there.  Bye, Potato!
+--Selling my house.  Too far away from work. And from anything fun.
+
+Workwise, typed up the melee structure, the brawl mode, and other stuff,
+did a re-think of the Elementor weapon system and it's pretty cool now.
+Jake and Squirrel hammered on it, and only a few things didn't hold up
+as elegant.  Cool.  I'll be working on a font, messing with the story,
+and heading toward finishing the overall design in the next week or two.
+
+Did a DM level for Quake 2.  All that's left is some prettier texturing and
+the odd texture alignment.  It's pretty fun.  It is called "Cray Oh La Boxes".
+
+Saw Titanic.  Pretty good, but I wish I wasn't in the computer industry,
+'cause it's kinda easy to recognize the CG parts.  Ah, well.
+
+Pretty soon (Feb. 2nd) we will be in the NEW SPACE!  Yes!  Squirrel may
+actually return to normal human hygiene habits soon (there's a shower
+within twenty feet of his desk).
+   The space looks awesome and it's getting, er, awesomer every day.  The
+best development space in the history of humankind!
+
+Congrats to Cleaner--his hair is somewhat parallel today.
+=============================================================================
+12/4/97
+Had a good art/level designer meeting where we really hashed out how we want
+to attack the massive data set for the game.  I think it is gonna work out
+well. 
+
+All the levels and textures look great!  They are pounding out cool enemy
+models and stuff.  Brian and Jay are jumping on the level-texturing
+bandwagon, and are choosing the level packs to join.  I'm really happy with
+the art coming out of the art folks!  The textures, the models, the skies--
+everything is turning out cooler that I dreamed.
+
+Jake and I just reorganized the universe again in light of the new plot
+changes, and now everything seems to make sense.  Whew!  It's hard to make
+a change reflect itself and work with everything before.  Whew.  It really
+makes everyone's intentions and goals more clear now too!
+
+Cleaner is working on the lava planet, Rich on the spooky area, and Larry
+on the cool technological one.  The new stuff is looking amazing.
+
+The programmers are working hard on lots of stuff and anticipating the Quake
+2 stuff.  I can't wait!  Something special is a-brewin'. :)
+
+Lee, the lead artist, has come up with lots of brilliant stuff.  Ben's
+drawings of the both the new and familiar characters are brilliant.
+
+I have a lot of story revamping still to go, a revision of the MysTech
+system, tuning of the character arcs, redoing the timeline, and lots of
+other stuff.
+
+Some day within the next few months, we'll start the screenshots.  We're
+doing a number of really cool things that I don't want to spoil too early.
+I know everyone is kind of dying for information...but it will be worth
+waiting for once you see the cool stuff.  Trust me!
+
+My dog Potato has chewed every loose item in the house.  Sigh.
+=============================================================================
+11/7/97
+Turned in an Anachronox milestone--Eidos LOVES it!  Everyone there is talking
+about it.  They are all excited that we have a year to make this thing rock
+even harder!  I was jumping up and down when it came together.  It looks and
+sounds so cool.  Can't show it to anyone for a bit, but we are all really
+excited here!  Wheeee!
+
+Finalizing the controls and world stuff for Anachronox.  Things are getting
+really awesome.  I haven't been this exciting in a long time.
+
+Got a new dog.  His name is Potato.  He is mostly Basengi and a bit Chihuahua.
+I'm not a huge Chihuahua fan, but this combo is SO cute.  He is light brown
+and white, and doesn't bark--Basengis only occasionally whine, and when really
+excited, they...yodel!  Wacky.  My friend Zoe helped pick Potato out and helped
+me surprise Melissa with him.  Zoe am der bestes.  She visited for the weekend
+and we had a wonderful time dancing and talking and having fun and talking.
+La.
+
+So life is really good--work is great, relationship is great, and just had a
+visit from a close friend.  And I had brownies yesterday!  Woo!
+=============================================================================
+10/21/97
+Blazing on our Anachronox milestone.  The levels are great and the models are
+looking awesome.  The new Boots ROCKS.  He will be in in like five minutes!
+Aaaaaah!
+
+Happy Hours on Fridays have really worked out well.  We've had two and it's
+a good way to end the week, hang with the rest of the team when we're not
+bugging each other for stuff, play pool, share bar tricks, and have a ball.
+We always wind up talking about work or the latest game, but then, we're
+straight-up geeks at heart.
+
+Changed the story to be much more immediate.  I realized I had this awesome,
+shocking event, and it was happening in the past.  Now it happens during the
+game and it blows you away.  Heh heh heh.
+
+I have de new girlfriend now.  Her name is Melissa.  She is cool, pretty,
+fun, smart and so on.  I like her bunches.
+
+We are now working with a local band to do an awesome funk song for a scene
+about a quarter through the game.  It is going to be hot.  They rock.  The
+name of their band is "Drunken Monkey".   They rule.  I can't get their
+song "Blind Ambition" out of my head.  Aieeee!
+
+The offices upstairs are going to RULE!  We went up there last night--I can't
+begin to describe how amazing they will be.  Wow.  It'll be like eating at
+a gas station, then going to The Palm or Mr. Chow or something.  Such an
+amazing quality difference!  Woo!
+
+I feel really lucky that I have such cool people and talented people working
+with me.  We've started to hit our groove and everyone's kicking in to high
+gear.  Anachronox is going to be really cool.
+
+We are working on a perspective change that's going to work out better than
+the 30-degrees and back, absolute movement one.  It is going to work out a
+lot better and open up a LOT of cool design elements to the game.
+=============================================================================
+9/26/97
+Web Fun with the Anagram Genius Thingy!
+
+Here is the result of your request. To learn about the software that
+did this, visit http://www.genius2000.com/ag.html
+
+Rearranging the letters of 'Thomas Andrew Hall' gives:
+
+Warn small hothead.                     Ha! now small hatred.
+Damn! Oh hell! as wart.                 What handsomer all.
+Damn! Oh hell! a warts.                 Damn! Hell! Aha! worst.
+Hello! warm as hadn't.                  Warmth and as hello.
+What and small hero.                    O hell! warm as hadn't.
+Loath warm handles.                     Oh man! walls hatred.
+Hast and warm hello.                    Oh hell! warm sad ant.
+A mad how enthralls.                    A mad who enthralls.
+Oh man! Hell! sad wart.                 Well! am a shorthand.
+What damn or as hell.                   Oh hell! a smart dawn.
+Oh man! lethal draws.                   Ah! now small hatred.
+O hell! as and warmth.                  Warm than sad hello.
+Warm hot and as hell.                   Well! O man! Drat! hash.
+Ha ha! stardom 'n' well.                Ha ha! storm and well.
+What! Hell! mad arson.                  Rash wealth old man.
+Damn! Oh hell! a straw.                 O hell! warm and hast.
+Health! warm on lads.                   Well! Damn! Ha ha! sort.
+Well! Oh man! Drat! ash.                Well! Oh man! Drat! has.
+Well! Ha ha! smart don.                 Halt! handsomer law.
+Whore and small hat.                    Oh hell! warm and sat.
+Well and harsh atom.                    Shallow man hatred.
+Handsome wart hall.                     Damn! Hello! Ha! warts.
+Ha ha! Drat! now smell.                 Oh hell! a warm stand.
+Loath lads warm hen.                    Well! Oh man! rat dash.
+Well! Oh man! had star.                 Well! Ha ha! Darn! most.
+What moral handles.                     What morals handle.
+Let's! halo warm hand.                  Well! Ha ha! mad snort.
+Hat handsomer wall.                     Damn! shallow hater.
+O man! Hell! Drat! wash.                Damn! O hell! Ha! warts.
+Now hate small hard.                    O hell! than sad warm.
+Somewhat darn hall.                     Well! Damn! Aha! short.
+Drat! moan well hash.                   Male law shorthand.
+Whore a small hadn't.                   Arms and what hello.
+Halo when smart lad.                    Damn! Hello! rat wash.
+Oh man! Hell! Drat! saw.                Oh man! Hell! Drat! was.
+Now mad, lethal rash.                   Now lethal, sad harm.
+The warm, anal holds.                   Well harm as and hot.
+Oh hell! sad wart man.                  Ha ha! mental worlds.
+Hell! Aha! smart down.                  Hell! warm had as not.
+What! Hell! as random.                  O hell! arms and what.
+Wrath as damn hello.                    Damn! O hell! rat wash.
+Ha! now small thread.                   Hell! Ha! now mad star.
+Oh hell! wasn't drama.                  Warm lads halo then.
+Hell! Ha! not sad warm.                 Hello and warm hats.
+Shall hated on warm.                    Health! No! warm lads.
+Oh man! wall threads.                   Oh dear! small 'n' what.
+What damn or a hells.                   What man or sad hell.
+Damn or lethal wash.                    Wart and sham hello.
+Damn! Oh hell! rat saw.                 Damn! Oh hell! was rat.
+Now trash a mad hell.                   Hello! Ha! smart dawn.
+Warm on lethal dash.                    Hell! so and a warmth.
+Well! Damn! to a harsh.                 Well! Damn! Oh! a trash.
+Well! Damn! Ha! to rash.                Well! Shh! Drat! a moan.
+Well! Oh man! Rats! had.                Am harsh and to well.
+Damn! he's harlot law.                  Damn! O hell! as wrath.
+A small than whored.                    Damn! Hell! Ha! a worst.
+Shh! alarm now dealt.                   Ha! own small hatred.
+Modal health warns.                     Warm hell and so hat.
+Warm hell and to ash.                   Hell! has and to warm.
+Ha! warm and to hells.                  Well! Damn! a hot rash.
+Oh! Ha! well and smart.                 Lame law shorthand.
+Damn shawl loather.                     Damn whale harlots.
+How and small hater.                    Who and small hater.
+Oh hell! a wart damns.                  Now metal harsh lad.
+O hell! Ha! smart dawn.                 Warm hell as to hand.
+Deaths warm on hall.                    Warm host and a hell.
+Warm shot and a hell.                   Warm hot and a hells.
+Well! Damn! Oh! Ha! star.               Well! Ha ha! rot damns.
+Well! O man! trash had.                 Oh man! thread walls.
+Damn! Eh! harlot laws.                  Damn! shallow earth.
+Damn! shallow heart.                    What! he's a droll man.
+Throw as a damn hell.                   Worth as a damn hell.
+Lads harm on wealth.                    Damn! Hello! Ha! straw.
+Ha ha! two small nerd.                  Ha ha! dwell on smart.
+Let's! harm halo dawn.                  Health! alarm downs.
+Warm hell than a sod.                   Howler as damn halt.
+Shallow than dream.                     What heard small no.
+Ahem! rolls and what.                   All handsome wrath.
+Hell! shadow rat man.                   Hello! Drat! wash man.
+Hell! Drat! moan wash.                  Damn! Oh! Hell! as wart.
+Damn! Hello! Ah! warts.                 Shh! lewd, amoral ant.
+Ha ha! Let's! world man.                Oh hell! Drat! was man.
+Shh! now alarm delta.                   Shh! now rat male lad.
+Hello! want mad rash.                   Hello! want sad harm.
+Hello! warm dash ant.                   O hell! warm and hats.
+The warm lands halo.                    Hell! on a sad warmth.
+Well had as not harm.                   Harm hated on walls.
+Ha ha! low smart lend.                  Laws or damn health.
+Damn! Halt! a howlers.                  Shallow harmed ant.
+Shawl and the moral.                    Marshalled on what.
+Ha! whored small ant.                   Darn! hate small how.
+Darn! hate small who.                   How and a smart hell.
+Who and a smart hell.                   Thrown as a mad hell.
+O hell! wart and sham.                  Damn! O hell! Ha! straw.
+Trash halo lewd man.                    Ahem! Drat! now shall.
+Harm so wanted hall.                    Onward, small heath.
+Loath lads harm new.                    Ha ha! new, smart doll.
+Oh hell! drama wants.                   Ha! wasn't or mad hell.
+Hell! not warm a dash.                  Hell! so warm a hadn't.
+Hell! warm to a hands.                  Hello! Ha! warm stand.
+
+Oh yeah, Anachronox going well!  La.
+
+=============================================================================
+
+9/19/97
+Hay-lo.  Just got back from our little press tour in San Francisco.  Met with
+a number of magazines.  Had a pretty good time.  Arrived with two hours sleep
+though!
+
+Got to meet an idol of mine, Bill Budge.  He did a lot of great programs on
+the Apple II, including Raster Blaster and Pinball Construction Set.  It
+was cool to meet him.  His wife is nice, kids are cute, and his house is
+nicely laid out.  We munched on Roundtable pizza and a salad his wife made
+and got nostalgic.  Sigh.  He's a very nice dude.  Pleasure meeting him.
+
+Had a great time meeting with Eidos and hanging out.  Really great dinner
+at Ruth's Chris Steak House.  Never understood the name until now.  A lady
+named Ruth bought a little steak house named Chris Steak House, and added
+her name, regardless of how name-stumbly it seemed.  Awesome food, though!
+
+We ended with the Wall Street Journal.  That was a cool interview.  I think
+we all sort let loose since it was the last one, but then were a bit
+conservative since it was the Wall Street Journal.  Odd combo, but it seemed
+to work.
+
+Went to see Romero get pummeled at the Microsoft Age of Empires release
+party.  Lots of people there I recognized (id, Ritual, Rogue, Rob Huebner
+from LucasArts, the cats from CGW).  John was down to one little boat, sort
+of hiding in the sea, as the guy amassed his amazing forces (well, this was
+Bruce Shelley, who WROTE the game, so...).  Anyway, John is in this
+situation and types, "You're goin' down!"  Cool.  It was John's first time
+playing the game. Hee!  Everyone was kind of advising him and stuff.
+
+Work on Anachronox is coming along.  Just two more weeks til we're done with
+the whole thing!
+
+Just kidding. 8^.
+=============================================================================
+8/18/97
+The rearranged Anachronox area is awesome.  We're all big one happy group,
+a sweating mass synergy.
+
+The levels are starting to look really cool, I've finished off the big
+question sheet that Jake made, which was really helpful in asking those
+hard questions about Anachronox.
+
+We played D&D Saturday with Rich Carlson, ace level designer, as DM.  It
+was Squirrel, Cleaner, Lee Perry (new Anachronox artist), and I waging
+war.  I play a mage with one hit point. For some reason, I am amazingly
+awesome wielding my staff, and I've almost been showing up the fighters!
+
+Last week there were a number of interviews going on, and there are two new
+sites being worked on for Anachronox: Anachronews and The Bricks.  They
+are gonna be pretty cool.
+
+Asnackronox is running low.  More Baked Lays!
+=============================================================================
+7/21/97
+Holy cow.  I've been away a while, huh?  Well, we are doing Anachronox in Open
+GL and it is going to be awesome.  The scenes can be more complex, and the
+effects will be amazing!  
+
+QuakeCon was fun--more because of the party I had Saturday night, though!  We
+watched movies, played Charades, swam in my pool, and talked for hours.  It
+was a total blast.  Tons of fun.  The week was especially fun due to the
+visits from Audrey and Lori from our PR firm, and Tricia from Eidos.  A
+memorable weekend full of wacky happenings.
+
+Squirrel and I have some horrible sore throat and achy thing.  Hope it passes
+soon.  It sucks.  Hope no one else got it.
+
+The Anachronox Q&A at QuakeCon seemed to go well.  Many very good questions.
+I know many people are going to love the game, but some people aren't going
+to like the type of game it is.  I hope they can learn to like this style of
+RPG--it is a powerful, fun way to play.  The biggest applause was for me
+saying there may be violence and sexual content in Anachronox, but then I
+added there would be a switch to turn it off, and someone said, "Well, no one
+uses that!"  I'll provide it anyway.  I believe in the right of people to
+choose, and I want everyone to play my game, not just the hard core gamers.
+(Sorry, if you are one and want to feel c%l, but it'll get hardcore plenty
+fast for ya!)
+
+I ache the ache of the ages.
+=============================================================================
+5/20/97
+Howdy folks.  The design doc is due Friday!  Aieeee!  Got a few enemies left
+to do.  Almost lost a huge data table for MysTech weapons and level
+balancing, but Jake got it back.  He rules.
+
+Everyone's doing great now.  Some of the dudes are hopping on Daikatana for
+a bit to help with tools and levels.  That's our flagship, so it is most
+important.  The levels are getting pretty freakin' cool.
+
+There is _so_ much in Anachronox.  It's the biggest game in a 3D engine I've
+seen.
+
+Everyone's getting nostalgic for Chrono Trigger and a lot of us are playing
+it again.  I'll be doing that right after the design doc.  We all got
+together one night and saved Lucca's mom.  Sniff, sniff.
+
+I am so full of Sal's pizza I feel like an overfilled waterballoon.  Eeesh.
+
+Larry Herring, Anachronox level designer, is working on Valley of the Rocket
+Jumpers.  It's pretty cool, though more complex now than I had envisioned.
+It may be pretty tough to master.
+
+I brought in a snack cabinet, which we've named Asnackronox, a couch, which
+is Anapronox, and a sleeping pad with sheet, which is lamely named Super
+Anapronox for now.  Oh yeah, and a medicine basket, which is the Anachrodoc.
+=============================================================================
+5/7/97
+The finger server is finally back up.  We are in the temp space in our new
+building.  In a few months we will be in the final space, and it will be
+wondrous.  We are simply enjoying having reliable power and air conditioning
+right now.
+
+John and I got to go to Skywalker Ranch.  It was _amazing_.  For those of
+you amazingly out of the loop, that's where George Lucas makes his movies.
+The architecture is gorgeous--Lucas wrote a fictional history of the valley,
+with families moving in and out, and buildings actually look as if an
+original structure was built, then added onto through different architectural
+periods.  The main house was spectacular with an amazing library with a
+stained glass dome for a roof, and glass cases with precious props from
+Star Wars, Raiders, Last Crusade, and some classic silent movies.  Original
+Norman Rockwell and Maxfield Parrish paintings decorate the walls.  The
+Tech Building features a perfectly acoustically dead theater.  You yell,
+"Hey!" and hear no echo.  I could go on and on (I saw Ben Burtt's bike,
+for instance) but I'll probably do a whole Inside Tom's Brain on it.
+
+Design doc is way over 400 pages.  It's getting crazy.  We have an estimate
+of 448 NPCs in the universe.  Yikes.  I gotta get back to work!
+=============================================================================
+.
+.
+.
+---*-*--*-*----*-*---*--*--THE MISTS OF TIME----*----*--*-*--*---*--*----*---
+---*---*----*----*--*---*-have eaten 13 entries.-*----*---*-*--*---*----*----
+
+(File last updated on Tue 20 Jan 1998 at 09:59)

@@ -1,0 +1,90 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Designer
+Project: Quake Arena
+Last Updated: 12/02/1998 14:38:40 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+Dec.2.1998 @ 2:37pm CST
+
+ *WARNING! This .plan update makes ludicrous usage of HTML. Apologies to
+anyone viewing this through a non browser based finger client*
+
+ A few new releases on our ftp site this afternoon.
+
+
+ 
+ Link
+ Description
+ Size
+ 
+
+ 
+ q2-3.20-x86.exe
+ Quake II 3.20 Final. Win32 x86 Binaries
+ 5,327,872 bytes
+ 
+ 
+ q2-3.20-x86-full.exe
+ Quake II 3.20 Final. Win32 x86 Binaries.
+Deathmatch maps included
+ 13,842,432 bytes
+ 
+ 
+ q2-3.20-x86-full-ctf.exe
+ Quake II 3.20 Final. Win32 x86 Binaries.
+Deathmatch maps and CTF included
+ 19,267,584 bytes
+ 
+ 
+ q2src320.exe
+ Quake II 3.20 Final gamex86.dll source code
+ 455,680 bytes
+ 
+ 
+ roguesrc320.exe
+ Quake II 3.20 Final Rogue Mission Pack gamex86.dll source code
+ 700,416 bytes
+ 
+ 
+ xatrixsrc320.exe
+ Quake II 3.20 Final Xatrix Mission Pack gamex86.dll source code
+ 519,168 bytes
+ 
+
+
+
+
+ 
+ Unix releases are located in their usual spot in ftp://ftp.idsoftware.com/idstuff/quake2/unix
+and the shar versions of the source releases are located in ftp://ftp.idsoftware.com/idstuff/quake2/source
+
+ This is, for all intents and purposes, the last official release of Quake II.
+
+ Nothing has changed from the 3.20 beta. It was deemed stable, and was mastered
+on Extremeties.
+
+
+---
+"Gonna get the girl, gonna kill the baddies, and save the entire planet"
+                                                  -Pop Will Eat Itself
+---
+
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, leaky roof, broken glass, mud slides, forest
+fire, or projectile (which can include, but not be limited to, arrows, bullets,
+shot, BB's, paintball, shrapnel, lasers, napalm, torpedoes, or emissions of
+X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.). 
+
+---

@@ -1,0 +1,55 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Mike Gummelt
+Email: mgummelt@mail.ravensoft.com
+Description: Programmer
+Project: Star Trek
+Last Updated: 09/25/2000 14:35:58 (Central Standard Time)
+-------------------------------------------------------------------------------
+Monday, September 25, 2000
+
+As many people have been asking about Elite Force
+source code and tools, here's the status and plans:
+
+We've released so far:
+
+The ICARUS Pack:
+All our original, uncompiled ICARUS scripts.
+ibize - the script compiler.
+BehavEd - the graphical script writing tool 
+(it will call the ibize.exe to compile the script you write).  
+This tool should be used to view all our scripts 
+as in straight text form they will be unreadable.
+
+The GUI Pack:
+shaderEd - The tool used to make shader entries.
+md3view - The tool we used to view our models.
+
+Next we will release the Radiant Pack:
+Q3Radiant (The map editor), the entities def file 
+and the textures (some of these are available now I think).
+
+Next, I believe, will be the Holomatch source code for 
+the game, client game and menu DLLs.
+
+I will also talk to James about releasing our external 
+data files (used for NPCs, weapons, items, objectives, 
+animations, animsounds, subtitles, etc.) and a readme.txt 
+explaining how to use them.
+
+I will also release the ICARUS manual when I 
+finish updating it.
+
+At this time, I do not think we will be releasing 
+Single Player source code.  The game was designed 
+so that you can modify it significantly through 
+scripting, maps and the external data files- without 
+having to touch any actual code.
+
+I am going to try to help and support the mod community
+as much as I can.  Anyone with questions about modding
+can e-mail me at mgummelt@ravensoft.com or ICQ me at
+14310759.
+
+cut here:
+8<------------------------------------------------------

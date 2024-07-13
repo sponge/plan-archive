@@ -1,0 +1,37 @@
+Account Name:  joes
+Email address: joes@finger.3drealms.com
+----------
+5:23 PM 11/21/2000
+
+Is there anyone reading this who has a laserdisc player and also has Escape From New York (Collector's Edition) for it?  If so, drop me a line, I have a question to ask you.
+
+----------------------------------------
+
+2:18 PM 11/14/2000
+
+Just noticed that Netscape v6.0 is out today - an official release.  I've downloaded it, and once I'm done with work for the day, I'll be making some tests on web sites to see how it works.
+
+It has that lame-o 500k install program download like IE has had for awhile, and it downloads from inside that.  I felt that's too slow, I get better response from WS_FTP.  The full file for you to download if you want to is here:
+
+ftp://ftp.netscape.com/pub/netscape6/english/6.0/windows/win32/sea/N6Setup.exe
+
+That's the Win32 installation.  If you need another one, back up the directory structure where win32 is.  They have other platforms too, but I don't know if they all have this full file thing, or if it's just the mini setup program for them - I didn't look.
+
+Granted, that's a 22.5Mb file, and has every conceivable option you could turn on in the setup program, but it's a nice way to have the whole thing all at once if you want it that way.  I know I do.
+
+Personally, I'm sticking with Netscape 4.7x for the time being - I expect a few 6.0x to come out - I'm not 100% thrilled with the new release, I've been following it through the betas, and the Mozilla builds, and while it's much faster (a tad faster than IE), I'm not in love with it yet.  Going to look out for problems first.  If you install it, let me know how you make out.
+
+There are some [b]very[/b] cool new features in here - and once I feel that it's more stable, I'll make the switch.  Here's some info about it:
+
+1) http://home.netscape.com/browsers/6/index.html - Info on Netscape Site
+2) http://home.cnet.com/internet/0-3779-8-3607741-1.html - C|Net review
+3) http://www.help.com/cat/3/310/798/ht/index.html - C|Net Netscape 6 tips
+4) http://cws.internet.com/netscape-netscape6.html - Stroud's review of Netscape 6
+
+I'll probably update more about this - plus I have a thread on our web forums about this.  For those using Netscape 6, I will most likely work on creating a 3D Realms Sidebar tab over the next few days or so.
+
+http://www.3drealms.com/ubb/Forum9/HTML/000935.html
+
+Joe Siegler
+	
+    

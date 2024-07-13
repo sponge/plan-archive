@@ -1,0 +1,229 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: SoF
+Nickname: Superfly
+Web Page: Rick's Web Site TurtleCam! mEATwagon Cult
+Last Updated: 11/03/1998 16:49:50 (Central Standard Time)
+-------------------------------------------------------------------------------
+11/3/98
+   Performance Tip for Heretic2!
+
+   If you have a VooDoo2 card, try setting gl_ext_palettedtexture to 0
+      Make sure you either do this on the command line prior to startup
+      or do a vid_restart right afterwards.  You may see a performance 
+      increase of 50%
+
+   This should be automatically detected in the final version.
+
+11/1/98
+   If you are getting a message about Unauthorized Access when running the
+      Heretic2 demo, then you are still using the version that has the
+      expiration date in it.  Download the patch.
+      This is the same patch that was made available the day after the demo,
+      so there is nothing new if you have already downloaded it.
+
+10/30/98
+   Thanks to those who responded about the message board.  Ended up using
+      wwwboard from Matt's scripting archive.
+
+   So, I've placed up a message board for people to post bugs/suggestions
+      to.  As time permits, people internally here will respond to 
+      questions as best as we can.  Heretic2 Bug Board
+
+ Congrats to the Sin people.  Enjoy Halloween, if you don't sleep though it...
+
+10/28/98
+   Because of yesterday's earth shattering announcement regarding Jack
+      Mathews leaving 3dfx to join Gary and the gang, thought I would 
+      put in a few remarks regarding Jack's passing...
+
+   Jack was a strong man, one of those people you look up to in the
+      industry.  He could spot a beer a mile away, and probably even
+      consume it from that distance (Yard House).  Women!  Jack had
+      plenty around his side, though looking back now, one could always
+      see that sparkle in his eye.  Though I think his heart belongs to
+      someone in Russia, just not sure who though.  He will be missed 
+      sorely, and we are already constructing a memorial to him in SoF. 
+
+   On a serious note, good luck to ya Jack.  Looking forward to working with
+      ya in the future! ;)
+ 
+10/27/98
+   Hey, if anyone knows of a program (cgi, etc) that I can use to run a 
+      web message board for use on IIS 4.0 running on an Intel NT Server V4.0, 
+      please email me.  Thanks...
+
+   -----------------------------------------------------------------------------
+
+   There appears to be some individual logging onto servers saying that
+      they are an employee of Raven.  They tell the server operator that
+      running a non-deathmatch map on a deathmatch server (in particular,
+      demodocks) is a violation of the user agreement in the demo and that
+      if the map is not changed, you're ISP will be contacted and you'll be
+      forced to shut down.  
+
+   Well, this is absolutely wrong.  We really don't care what maps you run
+      on a server.  Long as you're having fun, that's all that matters.
+
+   You can always verify something like this with an email to someone here,
+      in case a different variation of this prank happens in the future.
+
+10/25/98
+   As Pat, CodeKing, said in his .plan file, we were made aware of a 
+      method to cheat in deathmatch games.  We also addressed the issue
+      of names showing up for clients that were ghosted.  You
+      only need to download this file if you are running a deathmatch server.
+      Otherwise, it doesn't do you any good.  "Nothing to see here...move along..."
+
+ Heretic2 Demo Server Patch, 369,195 bytes
+
+   Also, I may have a potential fix for those of you that experience the problem
+      of the Dial Up Networking annoyance.  Try starting the game from the MsDOS 
+      Prompt as follows:   heretic2.bat +set noudp 1 +set noipx 1
+      I've not tested this nor have I looked further into the problem, so this 
+      solution may not work.  I suspect it has more to do with WinSock being 
+      initialized, but that requires a code fix.  Let me know if it does work.
+
+10/24/98
+   Argh, such a bad day for me....
+
+   Anyway, if you are running a dedicated server, and you want it to appear on the
+      master server list so that others may join, just type "setmaster" on the console
+      line after the server has been initialized.  This will send a heart beat to our
+      master sever and to GameSpy's.
+
+10/23/98
+   If GameSpyLite crashes for you within the first few moments of using it (and this
+      would only happen the first time you ran it), please download a new version.  
+      If you have not experienced this particular problem, then there is no need for
+      you to download this file.  It doesn't fix or address any other problems.
+
+ Updated GameSpyLite, 694,981 bytes
+
+   -----------------------------------------------------------------------------
+
+   And since I'm on an updating madness, I would like to thank:
+      Xian @ id sofware for his help with the master server
+      Jack @ 3dfx for his help in the gl driver (can't wait to go shopping in Russia)
+      David Wright @ GameSpy for his help in intergrating the GameSpy master server
+         and setting up a few servers
+      Nick Fisher @ WarZone for setting up a server and for supporting H2
+
+   Networking will be addressed further for the final release.  The client
+      prediction seems to be working well (good job to Marcus and Gil), though
+      we are going to put some more limits in (sounds mainly).  As with anything,
+      real networking situations provide a lot of useful info.
+
+   -----------------------------------------------------------------------------
+
+   GameSpot may be incorrectly reporting that you need a 3d card to run Heretic2.
+      This is incorrect, as the demo does include a software renderer.
+
+   Save games were disabled for the demo as a last minute problem crept up, 
+      and we didn't have enough time to fully research and eliminate it in time.
+
+   Before everyone explodes into thinking that they'll have to re-download
+      the entire demo because of the expiration problem, the fix for that
+      particular problem will only be a replacement file for your quake2.dll
+      which will be very small.
+
+   If you are having trouble starting Heretic2 in hardware mode for 3dfx, 
+      make sure you have the latest glide drivers installed.
+
+   Bug reports and suggestions can be sent to heretic2bugs@mail.ravensoft.com
+      Don't expect a response if we get flooded with email.
+
+10/22/98
+   And!  I'll be playing tonight.  Biessman, Kramer, and I
+      have our own team, called the Meat Wagon!  You'll know us by our 
+      outlandish and outrageous cool names!   hehe
+
+   Oh, yeah, Heretic2.
+
+   We will be running both an id style master server here (master.ravensoft.com)
+      as well as support for GameSpy's master server.  The H2 demo will include 
+      a Heretic2 GameSpyLite version.
+
+   PingTool, QHunter, and EGN will be having Heretic2 support shortly as well.
+
+   We will probably also be hosting a game on master.ravensoft.com and maybe
+      on equalizer.ravensoft.com.  Equalizer is a slower test machine in my office,
+      and I may not support a game with more than 8 players on that one.
+
+   Demo will be approx 35 megs.  Don't know what time it will be out today.
+
+   *YYYAAAAWWWWNNNNN*
+
+10/21/98
+   If you would like to incorporate Heretic2 support into your product
+      (level editor, server tool, model editor, etc), please contact me and
+      I'll provide you with the appropriate info.  
+
+10/19/98
+   Well, it is now official.  Yesterday's announcement was, in fact, a lie.
+      Those responsible for the lie have been sacked.  I've never personally
+      seen the Unreal engine code......yet :)
+
+10/18/98
+   Well, it is now official.  Heretic 2 is switching over to the Unreal
+      engine.  Pat and I have been examing the codebase for the last few days
+      and gave our recommendation yesterday to do the switch.  
+
+   "I'm really giddy by this switch!", Pat Lipo, programming lead of Heretic 2
+      was quoted as saying.  "We'll all be able to go home in time for Corn Flakes
+      after the switch.  Yummy!"  Mr. Lipo is currently predicting that the switch 
+      over will only delay the product by 2 days.  He cited that Raven's tremendous 
+      experience in the porting tools will help out.  "We've written tens of programs 
+      to convert this to that.  I'm not anticipating any problems here.  Simply 
+      replacing this with q2 and that with unreal is really quite simple in these
+      super developing environments we have today."
+
+   Rick Johnson stated, "By using a c plus plus object oriented environment plus
+      the ability to do coding in a hybrid scripting system, we'll be able to make
+      the hardware go beyond its normal polygon fill rate to almost double, while
+      increasing the resolution fifty percent or higher, giving a frame rate increase
+      of slightly less than twenty two and a half percent.  Though personally I think
+      Pat is off his rocker for thinking the conversion will only take 2 days.  Come
+      on!  It will take 2 days alone for the net traffic over the lan.  More like 3.5 
+      days."
+
+   Kenn Hoekstra said, "I don't know anything about programming, 
+      but I think it is a great idea."
+
+   Heretic 2 is still scheduled to go Gold in...2 weeks!
+ 
+10/12/98
+ "Hmm, thats interesting.  Perhaps you should update your plan hyping 
+      Soldier of Fortune instead of wasting your time trying to trash someone 
+      elses product.  I think youre gonna need it Superfly."
+
+   Did I trash Daikatana?  Don't believe so...  Too many fan fanatics out there!
+      Like that time when "they" threatened my life out there...   
+
+   And as for hyping SoF - Never liked hyped to begin with - gives people too
+      many false impressions about what the game may or may not be.  Just one
+      of the evils for developers, which I'm writing an editorial on...
+
+10/11/98
+ Return to Fantasy Island
+
+ "1998 POWER PLAY ION's December release, Daikatana, has the video-gaming 
+      world waiting in the sort of anticipation they usually reserve for new 
+      Metallica CDs. In it, your hero, Hiro Miyamoto, uses a magic samurai 
+      sword to travel through time while vanquishing his enemies. Expect 
+      every kid worth his carpel tunnel syndrome to be clamoring for it 
+      come Christmas."
+
+   Santa isn't coming this year, kids!
+
+10/8/98
+ Take a trip to Fantasy Island
+
+   Send in an email for comments and I'll post them...  I'm too kind to put my own out :)
+
+10/1/98
+   Oh, and for the engine part:  we licensed the Wolf3D engine.  We actually 
+      got the engine real che

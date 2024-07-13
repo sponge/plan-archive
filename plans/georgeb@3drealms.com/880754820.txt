@@ -1,0 +1,44 @@
+Account Name:  georgeb @3drealms.com
+Email address: georgeb@3drealms.com
+----------
+George Broussard
+President, 3D Realms
+Project Leader: Duke Nukem Forever, Shadow Warrior
+Executive Producer: Prey
+
+[Friday 11/28/97 - 5:35 pm]
+
+3Dfx Shadow Warrior:
+
+Yes, we goofed.  The loading of saved games is directly our fault
+and I apologize publicly to our fans.  In our zest to release the
+3Dfx patch everyone "assumed" that the other guy tested mundane
+features like save/load.  I take full respobsibility and we will
+address it asap (I expect it is a simple thing we simply overlooked).
+
+As to the other 3Dfx problems.  We are aware of them.  It became
+obvious about halfway through the port that the speed wasn't going 
+to be blazing (actually suspected it at the start).  Our options
+were to blow off the port, or to proceed.  If we blew it off, we'd
+have screaming fans from every corner.  At least this way, you get
+something.  It's honestly about as good as the 3Dfx can do.  As
+we stated in the readme, Build on 3Dfx is a major hack and several
+concessions had to be made.  Speed for one.  3D Sprites/Voxels for
+another.  We thought it was at least worth "trying" and see what
+we'd get.  Other than the damned load bug, it's playable and
+enjoyable by many.  No, you aren't going to get 50-60 fps. 
+
+We will try to address the load bug immediately as it's an issue.
+
+Other:
+
+Hope everyonbe had a good Thanksgiving.  About 20 people from the
+office came over yesterday and we ate till we wanted to puke,
+played games and watched some movies.  A great time was had by all.
+
+Been playing The Curse of Monkey Island.  Go buy it, as it's every
+bit the classic adventure game of Day of the Tentacle, Full
+Throttle, The Dig and Fate of Atlantis.  If you like adventure
+games, get it.
+	
+    

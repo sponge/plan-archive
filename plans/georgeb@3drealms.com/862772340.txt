@@ -1,0 +1,122 @@
+[mailhub.gte.net]
+
+Account Name:  georgeb @3drealms.com
+Email address: georgeb@3drealms.com
+----------
+(George Broussard, President, 3D Realms)
+
+
+Shadow Warrior update (Friday 5/4/97 - 3:42 pm)
+===============================================
+
+Working every Saturday/Sunday for the last 3 months is starting 
+to suck. (Compounded by the fact that it's a beautiful day
+outside).
+
+We're set back a little today as we're getting lotsa new hardware
+for our network, like a Raid drive system.   But Kevin (or LAN
+admin) swears we will be up and running prior to X-Files 
+tonight.  In the meantime, we're testing the game for bugs off
+our local drives.
+
+The last 2 days saw the MOTHER of all bugs.  We had a weird sync
+bug where if 2 players were in transparent water, and a third 
+player triggered a certain explosion, we'd get OOS.  Frank spent
+the better part of 2 days finding it, but he did so.  Then
+collapsed, swearing to never work on another synchronous game
+again ;)  The game is pretty stable amd the coders are just
+sitting around bored, until we feed them bugs from our
+testing of the game.
+
+
+[5/4/97 3:42pm]
+
+In other news, I was surprised when some Prey dudes walked into
+my office and said "Hey, the new map guy's here".  They were
+of course speaking about Matt Wood, our new mapper for Prey.
+Welcome aboard Matt!  This officially puts Prey into high gear
+as we have key people in every spot now.
+
+[3D Realms Movie Review #1:]
+A few of us went to see Volcano last night.  Mainly because 
+going to see a movie resembled some part of the life we used
+to have.  It was 'aight.  Nothing great.  Typical disaster
+flick that was so ridden with cliche's it was sad, but the 
+effects were pretty cool.  I haven't seen Dante's Peak yet,
+but other people said they liked it better.  
+Rating: 7/10 (wait for cable)
+
+
+Shadow Warrior update (Friday 5/2/97 - 2:23 pm)
+===============================================
+As far as we're all concerned the game is done and everything that 
+needs to be there is there.  We finished the shareware ending
+animation last night which was the last bit of gameplay content to 
+add.  Now we are on serious bug hunts.  Over the last 7-10 days we
+added lot's of code to finish the game and things got de-stabilized
+as usual.  Not to worry though.  The game is frozen and no more game
+design features will be added.  All we will do from this point is
+play test and fix bugs that occur.  I see a release in the immediate
+future and will keep you all posted every couple of days.
+
+Also, started removing some of the old Shadow Warrior updates, so this
+plan won't clog up people's pages with unecessary text.
+
+
+[5/1/97 6:30 pm]
+
+Had a nice visit from the Rogue team today, and we just sat
+around talking about projects etc that we're working on.  It was 
+nice to see some of the guys again, as we've been so busy lately.
+
+
+[4/28/97  11:22 pm]
+
+I just heard from Paul Schuytema (Prey Producer) who is attending the 
+Computer Game Develoepr's Conference (CGDC), that Duke Nukem 3D won 
+"Best Action Game" and we got another nifty trophy.  The nominees 
+were : Super Mario 64, Quake, Tomb Raider, Tekken 2, Duke Nukem 3D.  
+I'd like to thank all those who voted for us.  We really appreciate 
+it.
+ 
+Also spent a good part of the day doing interviews about 
+Duke Nukem Forever and responding to hundreds of user emails 
+supporting us, or asking questions.  Thanks for the support and 
+feedback guys.
+
+
+[4/27/97 - 10:49pm]
+
+The news is pretty nuch out that we have licensed the Quake/Quake II
+engine for the next Duke Nukem game called "Duke Nukem Forever".  We
+see this as an awesome deal with awesome potential.  Mixing Duke's
+innovative gameplay with the amazing Quake engine should yield a
+massively fun game to play.  See our web site for press releases
+pertaining to this.  Here are some general answer's to common questions
+I've been getting.
+
+Q: Why license the Quake engine and not use your own Prey engine?
+A: It is simply a buisness decsion and a matter of timing for us.  The
+Prey engine is in good shape and the project is marching along, but we
+are skipping a generation of tech with Prey and going 100% hardware
+only.  By the time Prey comes out, the market will be there.  In the
+meantime we wanted to make a new Duke Nukem game, and our goal is to
+have it out in mid 1998.  The obvious choice was Quake.  It is
+production code that is stable and out.  id Software is 5 minutes away
+and we have a good relationship with them.  It seems like a slam dunk
+decision.
+
+Q: Will you maintain Quake's free play on the Internet model?
+A: Yes.  Duke Nukem Forever will be on TEN, but will also be available
+across the net in the same fashion Quake is.
+
+We aren't discussing any more about the game at this time.  We have been
+doing R&D and design work since December and suffice to say, we have a
+fairly solid game design plan to follow.  We know what we want to do to
+push Duke Nukem as a character and a game, and for the most part we know
+how to do it all.  We will be posting some survey's to see what you want
+in 1) a Quake engine game and 2) a Duke Nukem game.  We will then go into
+a cave for the next year and work steadily on the game.  When we emerge,
+you should be able to play something really cool.  The official release
+for the game is, as always "When it's done".
+

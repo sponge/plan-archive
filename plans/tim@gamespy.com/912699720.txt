@@ -1,0 +1,49 @@
+User:   timplan
+Read:   0
+Unread: 1
+Time:   Thu, 3 Dec 1998 09:46:01 -0800
+Plan:
+Halflife:
+There were some questions about my last post concerning GameSpy support and
+Halflife when I said "Gamespy support will not require WON access."
+1) Gamespy does not require WON.  You can get your server lists from
+anywhere Gamespy supports. The default master server though is WON's.
+2) Halflife will require WON access until Valve decides to remove the
+checks.  I understand why Valve did this.  There are some real jerks on the
+internet.
+3) If you have an Invalid identity problem in Halflife, it is probably
+because the checks to the WON server are failing.  Try again in a few
+minutes.  This is the reason why the WON checks are not such a good idea.
+As more people get the game and play, these problems will only increase.
+
+Sorry it took so long to post this.  Went to see my grandparents over
+Thanksgiving and then got pneumonia.  The story:
+1) Left Tuesday morning from Orlando and arrived that evening.  Felt fine.
+2) Wednesday morning woke up with a sore throat.  Blamed that on my sister.
+She started a cold exactly the same way about two weeks before.
+3) Wednesday night, sneezing and runny nose.  Not unexpected.
+4) Thursday morning, started coughing.  Not unexpected with a runny nose.
+5) Thursday night. - I can not breathe well at all.  Wheezing.  Stayed awake
+all night.
+6) Friday morning - found an open doctor and went.  Severe asthma attack
+with pneumonia.
+The only good news is the pneumonia was found before it made me really sick
+(no fever yet).  If I had stuck to my original plans, the results would not
+have been good.  It also shows how quickly things can go from feeling fine
+to really bad.  About 36-48 hours for the pneumonia from nothing.
+
+GameSpy:
+Needless to say from above, I have not done much.  I finished the JBuilder
+(Java) tutorial while stuck on the couch.  Started designing GameSpy - Java.
+Turns out the network engine design in GameSpy is very similar to what the
+Java version will need.  Still have a lot to learn about Java.  Perhaps I
+will post some results as I develop this.  Would be interested in seeing
+where it will run and where it won't.  Sun is backing away from the write
+once, run anywhere promises.
+The problem with the JBuilder tutorial and documentation is they really
+focus on databases.  Only a small portion of Gamespy is a database.
+
+Timothy 'CMonster' Cook
+http://www.gamespy.com
+http://www.mindspring.com/~cookti
+

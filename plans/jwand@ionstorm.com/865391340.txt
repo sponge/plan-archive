@@ -1,0 +1,231 @@
+[ionstorm.com]
+
+Ion Storm
+
+User Name.........jwand
+Full Name.........Jeff Wand
+Description.......Artist
+Last NT Logon.....Tuesday, June 03, 1997 at 15:52
+
+jwand@ionstorm.com
+Jefferson H. Wand
+Jeff
+"Mad Somoan"
+
+
+
+WARNING! WARNING WILL ROBINSON! The following statements are my own and odds are even that they don't reflect ION Storm's opinions. Also, this is the .plan of an artist employed at ION Storm. You have been warned.
+
+
+
+6-3-97
+
+WTF? I can't believe Janitor Bob took the textures that I submitted to Hipnotic when I applied several months ago and called them his own! I worked for days in Dpaint to get the exact fecal brown color on those checker tiles. Do you know how hard it is to get that exact brown when all you have are the colors from the Quake palette? No easy task indeed. Hipnotic and Janitor Bob can expect to get a  little letter from our lawyer. Yea, that's right. Lawyer Bob. I don't know if the two are related, although they did both start at ION Storm at the same time. 
+
+5-29-97
+
+Happy, happy, joy, joy!	I met the id guys, ok, most of 'em. Kevin, Adrian, Tim, Todd and fellow ex-Originite Paul Steed all came over for a visit. While John proceeded to show Tim and Adrian any and all of our trade secrets (gee, thanks John) I got to show off our Daikatana models to Kevin. He's a really nice, humble kinda guy and had a few good words to say about the stuff. He was impressed that our characters will have thumbs! Anyways Jerry, Paul, and I dialogued on the benefits of 3Dstudio vs. Alias vs. Lightwave3D for the purposes of creating real-time models. Paul and Kevin are buying a copy of Lightwave tomorrow based on this conversatiion and after a short demonstration. You owe me one Newtek.
+
+
+I just finished playing a little Quakeworld and I suspect I'm the one Disruptor was developing his newfound rocket juggling skills on.
+
+Also, Killcreek and Paradox are here at the moment. Killcreek was using our network to play in Red Annihilation and just barely got edged out even though she tied for second place in what I have to say was the most screwed up deathmatch I've seen in a while. There was a five minute pause when the lag got unbearable and connections were getting lost, people were dropping etc.. It was a mess and she is not happy. There were even some guys playing on some T3 lines. Where the hell they got hold of them, who knows. Anyways Paradox and Shadow went at it a few rounds and while Paradox did some smacking early on, Shadow gave him a whuppin' ION Clan-style and Paradox was lucky to even leave DM4 with a positive frag score this evening. 
+
+Oh yeah. Go buy Wing Commander IV Playstation. It's good for the yang.
+
+5-28-97
+
+Well, I'm all rested from my little Memorial Day vacation and am ready to get back to work. I'm starting to do some animating and we're stuffing more artists in here even though the rightsided-brain to leftsided-brain ratio has already been shot to hell. Also there will be screenshots forthcoming, but they are under lock and key and will be out whenever a certain long haired game company chairman/Star Wars lovin'/mouse smashin' cuz he got beat game designer whose name rhymes with "Bolero" sees fit.
+
+Squirrel and Jake are still glued to Chronotrigger and Squirrel's quest is to play out every possible miniquest/ending possible and videotape it.
+
+We have a temporary clubhouse that Tom made when he was in one of his "OhmyI'vehadtoomuchPepsiagain" episodes. It's made out of a cubicle and cardboard boxes and has been dubbed "Anachrobox". There's even a little futon in there for taking an "Anachronap". We're waiting for the future programmer that is supposed to inhabit the cubicle to graduate from high school and don't know what Tom'll do with the clubhouse when the guy gets here.
+
+IONStorm Quote of the Day
+
+"You'd be surprised how easily flesh tears"
+
+					-Deadhorse a.k.a. Chris Depping
+
+5-20-97
+
+The art intern is bigger than I am.
+
+I'm taking the rest of the week off to visit my Ma and Pa, go to my little brother's graduation, pick up my paintball gear and get my Mongolian BBQ fix.
+
+Been playing a bit of Quakeworld lately. I realized that Lightwave minimized in the background was the source of my chunky framerate even though I had a decent ping. Those guys whose skins are just a wall texture, or pure black drive me nuts, but otherwise most of the players are fun to play against.
+
+Tom Hall's couch, a.k.a. "Anapronox" (tm) is very comfy. Makes me wish I HAD a couch. The closest thing I have to furniture are a set of drapes I've yet to hang up.
+
+Wing Commander 4 for the Playstation is almost out. It was my last project while at Origin. The graphics are cool, especially when you consider that the textures on the ships are 4-bit! Anyways, it's a good port of a Wing Commander game, maybe not as good as the 3DO version, but definitely better than Wing Commander 3 Playstation. It's got a real solid framerate that hovers in 25-30 fps and supports the dual analog joystick. Some of the gameflow graphics are a little blah, but well.. too many cooks in the kitchen is all I'll say about that.
+
+5-16-97
+
+
+Man, oh man. Boy, do I wish I had my paintball gear with me. I'd be out there this weekend smacking paint with those Hippies and id folks. Yessirree bob. Oh well. Next week I'll be in Austin to see my little bro graduate (with a sigh of relief) and I'll grab my paintball gear then. It's a sweet little Automag that's been tricked out by the guys at Olympic Paintball. Kersplat!
+
+5-15-97
+
+Oy, what a headache I've got right now. Ever since my near fatal accident last summer during my stint at Lion Entertainment, I get these migraines whenever a storm comes. One of these days, I'm afraid my head will just blow up. Kablooie. No more Mad Somoan.
+
+There aren't too many places that you'll hear "Suck it down" as a battlecry while playing Magic: The Gathering. The next evolution will be full contact Magic: The Gathering.
+
+I'm making all the artifact objects now. The characters are being animated right now. The froginator looks great, the animations look great, the game will be great.
+
+I read Romero's interview in Next Generation. I hadn't realized how strongly he felt about GT Interactive.
+
+Quote:
+
+Deadhorse: I feel like going to Wok today.
+
+Brian: Last time you said that, you walked to Waco.
+
+Deadhorse: No. I said WOK. W-O-K.
+
+
+Note: Wok's a chinese restaurant.
+5-9-97
+
+Watched The Fifth Element today. Excellent job. The production designs were absolutely awesome. I heard Moebius was behind the character designs, so that would explain why they looked familiar. Really great stuff. I also have to mention that Milla is very easy on the eyes and the stewardess' costumes were finger lickin' good. I do have to say that the Rhooby character was drawn out too much and didn't add to the story very well. Overall I'd have to say it's up there with Terry Gilliam's stuff and City Of Lost Children.
+
+I've been fixing models and advising on stuff that's being outsourced. Also, I've got great news. Our human real-time models will have NOSES! That's pretty good news when you're limited to several hundred faces rather than several thousand.
+
+Hung out at the Coppertank with some IONStormers, played a little pool with Rocketman before we headed to the Palace to see Billy "Joel" Haskins and the rest of Society Of The Damned. Once we got to The Palace, we played more pool. We lost a little, won a little against some other game company called Hippo-Tick or something like that. Anyways Society of the Damned was pretty good. They're  kind of an 80's throwback to club music like Duran Duran and Aha. Very happy-go-lucky stuff. After that, we went down to Deep Ellum, crashed Jake Hughes place, then crashed Dougy "Fresh"'s pad. I've got to get me a loft down there.
+
+Anyways, check the new CGW. The article on Daikatana was well wrote. The competition this fall will be something fierce. What's up with everyone calling themselves "the Quake-killer" and the "anti-Quake". That could hint of insecurity and admission that Quake is the benchmark. Quake is, and should be the benchmark, but Daikatana isn't a "Quake-killer", it's "Daikatana".
+
+
+Things to check out:
+http://www.artbell.com/
+Tekken3
+Fire and Ice (the animated movie by Ralph Bakshi and Frank Frazetta)
+
+
+5-8-97
+
+Morning Haiku:
+
+John's Ferrari fast,
+Horsepower charged with nitrous,
+Hear Carmack's faster.
+
+Thank you. Thank you very much.
+
+5-7-97
+
+
+Well we're moved in our temporary spot while the "penthouse" is being redecorated. There are some good points and some bad. I have to wear a sportscoat. A Mad Samoan in a sportscoat. Hell, that's one of the Four Horsemen right there. Three to go. It's also a pretty funny sight, kind of like a wet cat. The garage is like a sauna and the bums around there are afraid of us. The good news is now I have room for my groovy posters, second machine, and DISCO BALL! I've been playing a bit of X-Wing Vs. Tiefighter and I have mixed feelings about it. Multiplayer rocks, but some of the missions and ship designs are kind of iffy. I've always been split between Wing Commander/X-Wing and this game didn't really tug in X-Wing's favor that much. I was really disappointed in the cinematics, I mean Lucasarts is within spitting distance to ILM and that's the best they could do? I'll admit I did have high expectations for it, but oh well.
+Overall it's a good, but flawed game. 
+
+Anyways, I've been busy cranking out real-time models, and trying to get potential artists to come work for us. We're just going balls out for E3. Romero elaborated on more stuff that he wanted to see in Daikatana and it made my jaw drop. He's really one of the most imaginitive guys I've met.
+
+
+IONStorm Haiku:
+
+I love Tom Hall's couch.
+Must get furniture at home.
+Tom's cost three hundred.
+
+I was channel surfing last weekend and saw the ending to Baywatch Nights where apparently there was a dust storm occurring in the scene. David Hasselhoff's character was climbing into his sport utility truck and you could the see the reflection of a cameraman/boomguy in the sideview mirror. Oh yeah, go read my interview on Sandmoose's Daikatana Cabana.
+
+4-21-97
+
+Quote of the moment: "Oh by the way, Deanna, we use the word "f*ck" around here a lot"
+
+				-Mad Somoan  
+
+Today we welcomed Murphy Michaels and Deanna Didn't-Catch-Her-Last-Name, two new arteests. We're really out of space and Russell the Love Muscle has  been blowing the circuit on our side of the area by turning on his lamp. With all these ginormous (that's pronounced "jai-nor-mus") monitors and machines, we're blowing the circuits daily. I've been working on low-poly stuff for the past few days for E3 and am counting the days til we move. Today this place felt like a sweatshop and listening to surf music while blowing a fan full blast in my face just doesn't cut it. All it does is dry out my contacts and make me long for my surfing days.
+
+I heard Whaleboy got a job at Apogee/3Drealms. My congrats to him and he gets to keep his Rodeo and celphone.
+
+This weekend I bought a couple of surf music CD's which Squirrel and Shadow are deathmatching too at this moment and a book called "OBLAGON" which is a collection of Syd Mead's work. Syd is the god of conceptual design and a really pleasant guy. I had the pleasure of meeting him once. I know, I'm a bastard for being such a name-dropper. I also bought "The Complete Idiot's Guide to Dating" for well, never you mind.
+
+Oh yeah, I rented a manga series called Mad Bull 34. That's some crazy shit. I guess if you like "Legend of the Overfiend" you'll like it and I don't mean just for the quality of the animation. It's written by Kazuo Koike, who I believe is the guy that wrote "Lone Wolf and Cub" and "Crying Freeman". Oh, yeah Anime-Kon 8 is coming next month. Can't wait to get my hands on some anime that I used to watch when I lived overseas as a kid.
+
+I'm envious of all the bastard designers getting to do interviews. At least I'm honest enough to admit this.
+================================================================================
+4-11-97
+
+Quote at the moment:
+
+"ASSY NIPPLES!
+
+		-Squirrel 
+
+All the muckymucks have been in Europe doing the press tour all week so we've only got the weekend to clean up the mess from the week-long party. Boy, those llamas could par-tay. 
+
+This week some of us found an awesome comic book shop called Stage and Screen. They've actually got a variety of Faster Pussycat, Kill, Kill stuff and even a Gundam poster or two. I bought a Gil Elvgren poster-art book and some other stuff. I'll definitely be going back there. Now, if I can just get my hands on a Ghost In The Shell soundtrack, life would be grand. 
+
+Shadow found a weird comic strip involving a Quake Shambler and the Spice Girls on their web site. There are some pretty fly pictures there too. 
+
+There are some very cool new developments in Daikatana. Atmosphere effects and such. The textures by our resident Hugh Grant look-a-like arteest, Clay Hoffman, look awesome.
+
+The gals here have mentioned that they'd be more interested in deathmatching if there were female characters, so I'm looking into making some. 
+
+Jerry and some arteests are at NAB checking out Newtek and their new Lightwave goodies. Hope they bring me back some cheesy souvenir like a button or foam keychain. 
+
+I heard Bruce Lemons finally left Origin for Digital Anvil. I wonder if they have digital roadrunners or digital coyotes over there.
+
+I met Sverre Kvrenmo, new level designer from Norway and although he's cool for a European, we'll turn him into a real Texan yet.
+===============================================================================
+
+
+4-09-97
+
+
+Quote at the moment that is NOW:
+
+"I'm OK, you're OK and that there is what it is!"
+
+					-H.I. McDunna "Raising Arizona"
+
+Well, it's been a while since I updated. I caught the Tokyo Shock Boys on the boob toob. Very few things are as funny as breaking a chopstick in two with the crack of your ass. Ha ha. Kinda makes me long for the days when I lived on Okinawa. 
+I finally assembled my weight machine. I'll be Paul Steed in no time!
+
+I'm just counting down the days til we move. When you have three artists and a secretary in a seven by twelve foot area, you've got problems. 
+
+I'm pretty stoked about the attention we're getting. The big dudes are on tour in the UK doing the hype thing. By the way, Apogee's response to Janitor Bob thing was.....dull.
+
+The PMS Clan seem pretty cool, but the Crackwhores have got to be bogus. I've been checking out Future Vs. Fantasy and Team Fortress and I dig it.
+Also I've been checking out Death32 and Death32A. Whoa. It takes some getting used to. I've been getting the smackdab put on my ass on Death32. Ouch. By the way, Squirrel and Shadow are stranger than is at first perceived. I mean it. No really. 
+
+I hear my buds at Lion Entertainment are almost done with MacQuake. I hope they're almost done with Wing Commander IV Playstation, so I can get my free copy.
+
+WORDS OF WISDOM:
+
+If you order raw oysters, that is not some kind of crumbled cheese, it's pure horseradish....
+
+
+At the moment, Mad Samoan is into:
+
+BMW convertibles
+Asian Women
+Tokyo Shock Boys
+The Orb
+Madman (the comic)
+Lulu spare ribs all-you-can-eat
+Russ Meyer movies
+Yoplait Custard-style yogurt
+===============================================================================
+3-22-97
+
+After an hour long search, we (me, Shadow, Squirrel, and IDM-Guy) found a Chinese Restaurant 
+that was open at 12:30am . We ultimately found it using Zip2 on 'da Web! Whoa... Anyways, it was a scary drive in lower Greenville right in the middle of Friday night festivities. Looked kinda like a scene out of the Crow and there we were looking for Chinese food...
+
+I don't miss janitor Bob. He still owes me money.
+
+===========================================================================================
+3-21-97
+
+Well this is my finger! Hi, I'm Jeff, or around here, Mad Somoan. Anyways, I'm an arteest. I came from Origin Systems in Austin, Texas. If any of you wanna ask me what it was like being there for four years, don't. Not for a while anyways.
+
+	I've been here for about three weeks and I dig it although Dallas will take some getting used to. Less than 24 hours after I arrived in Dallas I got a ticket! Jeesh.. Then, two days after I moved into my apartment complex, some lameass broke into my truck and stole my speakers and amp. For some strange reason they left the wire cutters...It seems thieves like leaving crap behind. Last December, my truck got broken into and they left a butterknife. Oh well, I just had to get that stuff off my chest, so I can be my nice optimistic self.
+
+	What it's like to work here in ION Storm's art department. Hmmm. Well for the last few weeks I've just been training on Lightwave, reading tutorials, manuals, etc... It's rare that you get to spend this much time ramping up on software.. Jerry looks to be a good guy to have for a boss. He's definitely not a babysitter. Four more arteest friends of mine from Origin just arrived, so it's good to have some familiar faces around. Ultima Online will just have to do without them. We just got a really good concept artist from Marvel. He's a kickass comic book artist named Jim Daly. I'll have to dig into my morgue of photoreference to donate to his Jennifer Aniston shrine. Romero's extremely cool and an ex-Originite too, I like him already. Tom's a trip, when I mentioned that he resembled a Klingon, he started belting out Klingon opera. Jonathan (Nelno) is a pretty cool character, he's the guy that created the Zeus and Cujo bots, which I like more than Reapers because they end up in the water. 
+
+	The environment around here is loud. Really loud. Quake is running eighty percent of the time. These are some of the best Quake players around. I'm not good enough to get in on some of the "man matches" and there aren't milk matches right now because the milk tends to go bad pretty fast. You can actually see the layers of separated liquid. Yeesh. Every now and then Hipnotic comes over and spars with the ION Clan. These guys really smack it to each other. We're moving to the Texas Commerce Bank Tower next month. That place is like a palace! What a lobby!
+
+ 
+
+
+(File last updated on Tue 03 Jun 1997 at 23:20)

@@ -1,0 +1,188 @@
+Login: jc             			Name: Jonathan Clark
+Directory: /home/jc                 	Shell: /bin/bash
+Last login Wed Jun 16 01:22 (PDT) on ttyp0 from cpu02
+No mail.
+Plan:
+Homepage
+
+June 16, 1999
+
+  I've been looking into radio controlled helicopters lately.
+Electric helicopters are quiet, clean, small, and relatively safe.
+However their source of power, batteries, only last for a few minutes
+and adding more batteries don't buy you much flight time because of
+the extra weight requires extra power.  I'm looking into building an
+electric helicopter powered from the ground using laser or microwave.
+
+  Microwave energy transmission has been demonstrated at distances of
+over a mile with only a 50% energy loss, while laser energy conversion
+has a maximum efficiency of 30%.  A group at NASA has done extensive
+research on using research on using geo-synchronous satellites which
+collect solar energy above the atmosphere and beam it down to
+collection sites on earth using microwave.  Since most solar energy is
+lost to the atmosphere, this method can yield several orders of
+magnitude more energy than collecting solar energy on earth.  Many
+studies have also been conducted on the safety of being exposed to
+microwave energy at different levels of intensities, and it has been
+found to be safe at 50 or less mW/cm.  Because microwave is a lower
+frequency band than visible light it is not ionizing, meaning you
+won't get cancer or have mutant children from being exposed to it.
+However, microwave energy has a tendency to vibrate molecules, causing
+heat to occur.  Over exposure will cook you, as seen in a microwave
+oven.  I'm not sure how much energy will be required to lift a
+helicopter, but because the helicopter won't require batteries it
+should be significantly less than a typical copter.
+
+  One problem with microwave, is that it's frequency band butts up
+against the FM band.  It is highly likely that directing microwave
+energy at the craft will prevent the use of conventional radio
+control.  In a 1965 experiment conduct at Raytheon, a tethered
+helicopter successful lifted off using this technique.  There the
+experiment operators used IR instead of radio to send commands to the
+craft.
+
+  The approach I have been considering is going the other way around.
+Using a visible laser to send power to the copter and a normal FM
+radio controller to guide it.  This way I can retrofit an off the
+shelf copter.  My question is, what is the best way and most
+weight/effecient way to convert light energy to electrical power?
+
+
+  In the 80s NASA researched a launch vehicle that was partially
+powered by laser.  I have not heard anything about the project as of
+recent though, but the study concluded such a vehicle could work and
+it would cost less to launch than strictly fuel driven counterparts.
+Also worthy of note is a different sort of flying vehicle that has
+been demonstrated flying up to 100m.  This craft is actually just a
+focusing mirror, that is spun at a high speed. The rotation keeps the
+mirror balanced while it focuses a laser directly below itself.  A
+high energy laser pulse when focused to a single point in the air,
+causes the air to combust and the small explosion propels the craft up
+a small distance.  Repeated pulse of a laser cause the craft to climb
+higher and higher.  Very very cool (and loud) to watch.
+
+  One other design I've been toying with, is a microwave powered hot
+air balloon.  Consider a plastic balloon with a small amount of water
+at the bottom.  Directing microwave energy at the water will slowly
+cause it to heat up.  Because the plastic is not as absorbent as the
+water it should not melt.  The air around the water would heat up and
+expand causing the balloon to rise.  Ok, so using helium is probably a
+lot easier, but it's not as much fun.
+
+If you are interested in reading about any of these projects, here are
+some links:
+
+
+  (Alaska university project to build a microwave helicopter)
+
+ (Overview of satellite power beaming project)
+
+  (developer of laser solar cells with 30% efficiency)
+
+ (good overview of solar pumping)
+
+
+
+May 6, 1999
+
+What if you were living in a country that didn't allow free speech?
+How could you run a web site that didn't support the views of your
+government without getting caught and thrown in jail?  This is the
+problem I have been wondering about lately.  Specifically, how can you
+make a network that can send and receive information that is totally
+untraceable?  For the purposes of this discussion I'll call "the
+government" as the "the bad guys" or TBG, though it may very well be
+that the people using this system are actually the bad guys.
+Specifically this method could be using to create untraceable warez
+sites, or allow terrorist to communicate in an untraceable fashion.
+ 
+Untracable is not the same thing as encrypted.  When you send someone
+encrypted email, TBG can't read it but they can determine where it is
+going and where it came from.  For untraceable email there already
+exist a system called anonymous remailers which send your mail to a
+chain of "remailer" machines which finally deliver it to the
+destination machine.  This makes it very difficult to trace the mail
+to the computer it came from because the government must be tapping
+each of the computer's communication to put it all together.  In most
+cases the computers are located in different countries, thwarting the
+ability of any one government to do this.  Further the time delay
+makes it hard to correlate the time of receipt with output traffic
+from your computer.  If you send a nasty letter to your boss, he could
+look at your time sheet and see if you were working at the time the
+message was sent.
+
+  There are two problems with this scheme in the web world.  #1 It's
+not realtime.  Your messages are delayed perhaps by several hours for
+reasons discussed above.  In the web site setting you do not have the
+same need to delay traffic, just the delay of content updating.  For
+example, if someone visits you web site, they need to get data that
+second, but you may have a schedule program that updates the content
+of your web site when you are not around.  #2 There is no return path.
+In order to remain anonymous in the email world, you cannot supply
+your email address in the "reply-to".  These days you can setup a
+dummy account at hotmail, yahoo, or a whole score of others as well
+but a determined government could trace these back to you.
+
+  So how can we be anonymous in a real-time way for all services?
+I.e. WWW, Chat, FTP, and email.  The problem is broken into 2 smaller
+problems.  Send and Receiving.  Both Sending and Receiving face the
+problem of time-correlation.  Without a time delay, it might seem a
+site could be compromised.  Consider this: you are running a web site
+which publishes anti-Communist material and TBG are trying to
+determine if that site belongs to you.  They put a tap on your
+connection/phone line, and then connect to your web site.  If you are
+using plain old TCP/IP, they could read the data packets from the
+phone line and see if it is your web site.  I will deal with this
+issue in a second, but lets say for now you are using magical
+encryption that prevents them from reading the data.  Still they can
+tell the difference between data and no data.  All they have to do is
+visit your site several times and correlate that with the traffic on
+your phone line.  If the traffic times match, they have their man.  To
+solve the time delay issue, your site must always operate at a
+constant bandwidth.  If your site does not have any information to
+send someone it will send a "null" packet to a random host on the net.
+If everyone on the net is always using 100% of their bandwidth sending
+null packets everywhere, the internet would quickly become
+bottlenecked.  This can be reduced by using ramping functions applied
+to bandwidth usage.  By this, I mean a site will moderate its
+bandwidth usage slowly at a constant rate over time as needed by its
+services.  Also it will ramp up and down at random intervals even when
+not needed.  Because your are always receiving/sending a constant
+amount of information TBG cannot correlate their events against yours.
+
+   Under TCP/IP a packet of information contains a source and
+destination address.  The computers in the internet know a specific
+route to get to every internet address and they pass the information
+along until it gets to the destination computer.  When the destination
+computer wants to send information back it uses the IP address of the
+source computer.  It is a fairly simple task to trace the path
+information travels to a computer and thus find where the computer is
+located.  How can we make it impossible to trace back to the source
+computer and still stay compatible with the TCP/IP?  One way is to use
+a chain of encrypting proxy servers.  Each proxy server has a public
+encryption key.  To make a connection to a remote host you would
+gather all of the public keys for proxies you want to use.  Then you
+form a connection request that looks like this :
+
+(CONNECT SERVER2) [encrypted with server1 public key
+  CONNECT SERVER3) 
+  [encrypted with server2 public key
+    etc.
+    CONNECT destination..]]]
+
+
+In this manner the destination host is only known by the last host and
+the source address is only know by the first server.  This prevents
+the receiver of the information from knowing the source address.  One
+problem with is that each server must keep state information about the
+connection, requiring more memory and processing to be done for each
+socket.  If a proxy server is handling connections for millions of
+users, it must remember that many routes and decryption keys.  To have
+a state-less connection the packet would have to contain all the
+routing information in each packet and public key decryption would
+have to be done on each packet.  Putting the routing information in
+the packet would require a lot more bandwidth, and asymmetric
+decryption is an extremely expensive computational task that could not
+be done per packet.  Perhaps hardware accelerated decryption will
+eventually make this a possibility someday.  But, but by using a
+little magic we can use symmetrical encryption o

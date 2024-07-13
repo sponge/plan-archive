@@ -1,0 +1,243 @@
+Login: ddt            			Name: Dave Taylor
+Directory: /u/ddt                   	Shell: /bin/bash
+On since Mon Apr 20 11:49 (CDT) on ttyp2 from rope
+   4 minutes 51 seconds idle
+     (messages off)
+Last login Mon Apr 20 15:52 (CDT) on ttyp1 from rope
+Mail last read Mon Apr 20 17:30 1998 (CDT)
+Plan:
+My steamy log.
+
+Mon April 20, 1998
+
+-------------------
+
+  Carly is well again, btw.  Thanks for the well-wishing letters.
+  Found out that "golgotha.com" has been freed up.  Just grabbed it.  :)
+  Added a press dude to press release list.
+  Read Joey's comment about VC 5.0 sp3.  We've had some interesting
+    fp behavior now and again.  Been assuming it's our fault, though.
+    Prolly is.
+  Telstar chat.  Discussed a neat Golgotha teaser for CTW.
+  Company & director meetings.
+  Several mini publisher chats.
+  AMD chat.
+  Sent video off to publisher.
+  Check out this letter from the Center for Disease Control (the
+    other CDC).  I received it today.
+
+    "Dear Colleague,
+
+    The Centers for Disease Control and Prevention, an agency of the
+    US Dept. of Health and Human Services, is soliciting computer game
+    developers to participate in a Cooperative Research and Developement
+    Agreement (CRADA).  The purpose of the CRADA is to develop a computer
+    game based on learning and applying epidemiologic principles to
+    solve disease outbreaks, control environmental injuries, and promote
+    pubilc health in a ficitious population.
+ 
+    Yours,...."
+
+Sat April 18, 1998
+
+-------------------
+
+  Bought/played StarCraft.  Visually gorgeous.  But not as fun as TA.
+    I got through several levels saw that I was almost out of new
+    toys to get for my race, and just kinda gave up.  The plot
+    didn't really grab me, though other parts did.  I heard
+    from our local CompUSA that it's flying off the shelves,
+    tho.
+
+Fri April 17, 1998
+
+-------------------
+
+ 
+
+Thu April 16, 1998
+
+-------------------
+
+  Carly is not as deathly ill today.  Went to the doctor this morning.
+
+  Congrats to Intergraph on the successful suit against Intel.  I
+  *totally* know where you're coming from.
+
+
+
+
+Wed April 15, 1998
+
+-------------------
+
+  Carly is deathly ill.  Woke up several times last night to visit the
+    loo.  Neither of us slept.  She's now shaking and weak.
+    Our theory: Boston Chicken.
+
+  Looked some more into mp3 after hearing a rumor that it costs US$1/unit
+    to license.  There's a new licensing section on www.mpeg.org about
+    mp3 which clears some of it up.
+
+  Seperated asm from Glide renderer.
+
+  Re-did shaded supertank weapons.
+
+Tue April 14, 1998
+
+-------------------
+
+  Worked on C rasterizer compiling in Linux.
+
+Thu April 9, 1998
+
+-------------------
+
+  Gave incremental linking with the GNU linker another look.  I can generate the relinkable
+    file with the -r option of ld.  But I don't know how to properly use that relinkable file.
+  More aesthetic work.
+
+Wed April 8, 1998
+
+-------------------
+
+  Evangelized a radical CPU architecture idea to engineers @ Centaur, got a peek at
+    their next CPU.
+  More nasm conversions.  We have a buttload of inline asm for several primatives
+    optimized for both MMX/3D instructions and for Pentiums.
+  Got new build with loads of good stuff including flags and auto-leading.
+  Reviewed avail sfx w/ Gene.
+  Worked w/ Stephen on font.
+  Fixed a couple aesthetic bugs.
+  Chats w/ Jonathan & Oli about auto-navigation, missiles, upgrades, & fog of war.
+
+Tue April 7, 1998
+
+-------------------
+
+  Missed lunch w/ Bill.  Arg!
+  More nasm conversions.
+
+Mon April 6, 1998
+
+-------------------
+
+  General & director meetings.
+  Checked Kevin's law bldg model.
+  Checked Gene's background music.
+  Wrote tutorial text for Kevin.
+  Long chats today about defense towers.
+  Chatted up new feature to improve gameplay.
+
+Sun April 5, 1998
+
+-------------------
+
+  OK, I don't normally put HTML in my plans, but this picture kinda
+  rocks.  Sent to me by my (by the way very funny) brother:
+ 
+
+  Linux Golgotha asm work.  Giving up on masmtogas.  Sadly, inline gas
+  seems fairly broken (very hard to get it to generate the asm you want).
+
+  Grabbing nasm.  Started converting rendering code to seperate nasm files.
+  Slow, but it works.
+
+Sat April 4, 1998
+
+-------------------
+
+  I tried Dominion.  Pretty fun.  Loved the sexy main menu.  I like the
+  context-sensitive pop-up menus for the units and the ability to
+  make the fast guys crawl so that a formation moves at roughly
+  the same speed.  The umbilical thing is a neat approach, and I like
+  the qix-like fence-off gameplay.  The default energy beacons don't
+  make it worthwhile, but the missile/machine-gun towers definitely do.
+
+  If I had any negative feedback, unfortunately, it would be that the
+  artwork is a little wonky, which is really weird, because Ion
+  is definitely good at artork (see web site, character sketches,
+  etc).  And a small note, but it would be good to tighten up the
+  responsiveness of the units to mouse clicks at the destination.
+  Trying to think of a quick hack to test it out.  Maybe kick up
+  some dust, animating some dust sprites over the unit in question
+  for about half a second?  Maybe do verbal feedback as per usual
+  but with a click or beep right at the start (like a CB radio)
+  so that the feedback loop is tighter.
+
+  Played Master of Orion II again.  Dunno why.  Today was
+  depressing for some reason.  Both Carly and I felt it.  Our
+  noodles at Kim Phuong were sticky.  We were crotchety.  And itchy.
+  Maybe a shared allergy to the weekends preceding April 15.
+
+Fri April 3, 1998
+
+-------------------
+
+  Tons of crazy coding/design/mgmt.
+
+  The bluebonnets and indian paintbrushes are in bloom on the Hwy 360 median.
+  Looks really neat.
+
+  Played w/ cygwin32 this morning.
+
+Thu April 2, 1998
+
+-------------------
+
+  Arg.  Glimpse generated a 30Mb index file from a 55Mb hierarchy of files.
+  The searches just don't seem that fast.
+
+  Ssh woes.
+
+Wed April 1, 1998
+
+-------------------
+
+  Got a few leads for several good coder positions yesterday if anyone
+  is looking.
+
+  Fixed default & win32 error funcs.
+  Added blank => current directory on level's scm file.
+  Got Windows version running again.
+
+  Played w/ level some.
+
+Mon March 30, 1998
+
+-------------------
+
+  General & director mtgs.
+
+  Fixed key-mappings.
+
+Sun March 29, 1998
+
+-------------------
+
+  Relearned MMX, figured out how to do colored lighting on K6-3D.  Not free,
+    but not bad.  Should also be able to do alpha-blending with both
+    verticies and an alpha-channel at a decent clip.
+
+  Played more w/ gcc inline asm.  Figured out how to get masmtogas into
+    1 pass and more reliable.
+
+Thu March 26, 1998
+
+-------------------
+
+  Some egcs hacking.  Got Golgotha compiled w/ egcs 1.0.2.  Debug executable
+  is a lot smaller which is nice.  Seems to fix some gdb stepping probs we
+  were having, too.
+
+  Added help piccy for bomb truck.
+
+  The usual other stuff.
+
+Wed March 25, 1998
+
+-------------------
+
+  Linux Journal put out a good issue this month.  Fav article was Eric
+  Raymond's "Helping Netscape Make History," mainly because of an
+  included URL to: http://www.earthspace.net/~esr/writings/cathedral-b

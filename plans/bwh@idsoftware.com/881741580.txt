@@ -1,0 +1,88 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 12/10/1997 04:18:47 (Central Standard Time)
+-------------------------------------------------------------------------------
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+December 10, 1997 (early AM)
+------------------
+
+I ran the first set of benchmark tests tonight.  The test system is an Intel
+Pentium 2 AGP system w/ 64MB of RAM.  The operating systems are Win95 OSR 2.1
+and WinNT 4.0 SP3.  The boards that I'm testing are:
+
+- 3Dfx Voodoo2 SLI PCI (3Dfx Voodoo2, dual TMU, SLI)
+- Quantum3D Obsidian XS-100 4440 (3Dfx Voodoo, dual TMU, SLI)
+- 3Dfx Voodoo2 PCI (3Dfx Voodoo2, dual TMU)
+- 3Dfx Voodoo PCI (3Dfx Voodoo, dual TMU)
+- Diamond Monster3D (3Dfx Voodoo)
+- STB Velocity 128 PCI (NVidia RIVA128)
+- Diamond Viper 330 AGP (NVidia RIVA128)
+- ATI Rage Pro 3D AGP (ATI Rage Pro)
+- 3DLabs Permedia 2 AGP (3DLabs Permedia2)
+- PowerVR PCX2 PCI (PCX2)
+- Rendition V2200 PCI (Rendition V2200)
+- Diamond Stealth 3D PCI (Rendition V2100)
+- Intergraph Realizm PCI
+- Voodoo Rush PCI (Voodoo Rush w/ 6MB)
+
+Boards notably absent, and likely not to be tested because of prior poor
+performance:
+
+- Pyramid3D-based boards
+- Number Nine Imagine128
+
+I'm also going to pass on testing the Canopus, since it likely won't have
+significantly better measurable performance
+
+Yes, I'm well aware that the test system we have is a little on the high-end
+side, but I simply don't have time to run all these benchmarks in all these
+iterations on multiple systems.  I'm going to be testing performance at 16bpp
+resolution, 24bpp when available, in gl_modes 2, 3, and 4 (512, 640, and
+800, respectively).  When possible I will disable/enable VSYNC, and I run
+all the tests in fullscreen.  The tests are also going to be run using DEMO1
+distributed with Quake2.
+
+Right now we're waiting on new drivers from several vendors.  Today I managed
+to test the NVidia PCI & AGP w/ their MCD, a regular 4MB Voodoo, the Quantum3D
+Obsidian board, the Voodoo Rush, the Permedia2 using their ICD, the PCX2, and
+the Realizm (in a Pentium Pro 200 w/ 128MB of RAM).  Tomorrow I hope to test
+the NVidia PCI & AGP w/ their ICD, the Voodoo2 SLI, the Voodoo2 non-SLI, and
+the Rendition stuff.  By the end of the week I hope to test the dual-TMU
+Voodoo.
+
+This should be interesting stuff...I can't give out any REAL big info, but I
+will say that the slowest so far has been 10.8fps and the fastest is over
+30fps -- quite a spread!  I'm fairly certain that the slowest board has been
+tested already, and that the fastest board has not.
+
+Will keep you folks posted.
+
+December 9, 1997 (part 2)
+------------------
+
+More ranting:
+
+I think that being able to have a social life via the net is a GOOD thing, not
+a bad thing.  There are a lot of people in this world that don't have the time,
+inclination, or ability to meet others like them.  Being able to log onto an
+IRC channel or onto a Web site with a message board and talk to dozens or
+hundreds of people with similar hobbies (gardening, stock market, Quake,
+games, whatever) cannot be seen as anything BUT a good thing.  Finding someone
+else in your town who happens to have the same set of hobbies as yourself
+is very difficult, no matter how cool you are or how much free time you have,
+unless you're in school where you're FORCED to meet tons of strangers all the
+time.
+
+My only complaint is when people use the net as an escape -- it's like
+alcohol, you can use it for fun or you can use it as an escape.  The former
+is "social drinking", 

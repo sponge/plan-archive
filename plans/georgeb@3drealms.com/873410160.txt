@@ -1,0 +1,136 @@
+Account Name:  georgeb @3drealms.com
+Email address: georgeb@3drealms.com
+----------
+George Broussard
+President, 3D Realms
+Project Leader: Duke Nukem Forever, Shadow Warrior
+Executive Producer: Prey
+
+
+[Thursday 9/4/97 - 6:40 pm]
+
+Saw the following on a few Quake news sites, and plucked this one from
+Redwood's.
+
+>>GameSpot Poll Results (www.gamespot.com)
+The GameSpot poll results for Quake's Successor are here:
+5. Hexen 2 (5%)
+4. Unreal (8%)
+3. Jedi Knight
+2. Duke Nukem Forever (16%)
+1. Quake 2 (38%)
+Quake 2 won (of course), with Duke Nukem Forever coming in at second 
+(obviously the name has some pull). QUAKE.FAME - GFKiller
+>>
+
+Wow.  Cool to see Duke Nukem Forever come in a "strong" second without
+release of a single screen shot or other materials ;)  I think this bodes
+well for the future.  Thanks to all you boys abd girls that voted for us.
+We won't be dissapointing you.  
+
+
+[Tuesday 9/2/97 - 6:55 pm]
+
+It looks like tomorrow Joe will release the v1.2 shareware patch for
+Shadow Warrior.  Seek it out online.
+
+GT is duplicating Shadow Warrior CD's, and a projected store date is
+around Sept 12th.  Stay tuned.
+
+I'm going to start a little poll of what you want to see in Duke
+Nukem Forever (or any ideas you might have) soo, so be ready to 
+flood me with email.
+
+Can't seem to wind down from Shadow Warrior ;)  Don't know how to 
+relax and have fun anymore.  Was forced to barbeque a little on
+Labor Day, then we sat down and played some Magic: The Gathering
+for a few hours.  Man I missed that.  Will be doing a lot more in
+the future.
+
+[Thursday 8/28/97 - 7:15 pm]
+
+It looks like the Shadow Warrrior masters will be a go.  Should hear
+by Monday as to when they will start duplication.
+
+Mark Morgan joins us on Team Duke as a texture artist from Raven, 
+working on Hexen II.  Welcome aboard Mark!
+
+Chris Hargrove will be here in a couple of weeks, joining Duke
+Forever as a programmer (from Raven and MageSlayer). 
+
+John Anderson (Not from ion) will be joining the Prey team soon as 
+a map designer.  Prey is about to launch into overdrive as the tools 
+are nearing completion.  Tom even has rudimentary net code up and 
+running.  Prey is....well....scary.  It's got us Duke guy's scrambling
+to outdo it ;)  So customers will benefit from this firendly little
+intra-compay competition.
+
+We are working this week to prepare materials for the November
+PC Gamer (which will feature Duke on the cover and a large preview).
+Be sure to check it out for some "scoop".  We won't release any shots
+online until this hits the stands, then we will go into a dark hole 
+and work on the game until we go blind ;)
+
+3Dfx Shadow Warrior is progressing well.  No release yet, but I still
+think it could be timed close to the release of the game in stores.
+
+
+[George's Movie Review #10: "Conspiracy Theory"]
+
+Very, very good movie.  Wouldn't be surprised to see Mel Gibson get
+an Academy Award nomination out of this.  Julia Roberts is also
+good in this movie (after a run of bad one's).  It's a little long
+and not high in the action movie, but it's well thought out and
+interesting to watch the whole way through.   
+
+Rating: 9 / 10
+
+
+[Duke action figure]
+
+This is a "done" deal now, and we're getting a final review
+sculpture soon to approve.  Looks like all you good boys and
+girls will have one for Xmas after all.  ReSaurus, Inc. is doing them,
+and is well known for doing some Jurassic Park dinos etc too.
+
+
+[Duke Nukem Forever Mini FAQ]
+
+This is sort of a mini FAQ since I keep getting the same 
+questions over and over.  It also gives people something
+to put on the dozens of Duke Nukem Forever sites I've
+seen go up.  (Thanks for the support guys).
+
+* The game will be set in and around Las Vegas, and that's
+about all you're going to get out of us for the time being.
+
+* We don't want beta testers.  Sorry.  If we need some
+later, we'll let you know.
+
+* Release:  "When it's done", but it should be in 1998.
+
+* We will be using the Quake 2 engine, and bypassing
+Quake 1.  My feeling is that after Quake 2 comes out,
+the Quake 1 engine will be "old".  Also we're in a good
+spot timing wise to do so, as we're just now getting 
+into the main development.
+
+* Since we are using the Quake 2 engine, you can assume
+we will do what it does.  That means:
+- DLL support (The game will be expandable ala Quake)
+- Client/server Internet play (For free too, not just TEN)
+- GL / 3Dfx support (anything Quake 2 does)
+- All the neat stuff like model interpolation
+
+* If you want to know why we didn't use the Prey engine, see 
+www.3drealms.com, under About Us/Press Releases
+
+* Yes, we will have super interactive environments like Duke 3D
+
+* Yes, we will keep Duke's voice, sense of humor and character in
+place and expand upon it.
+
+* And finally, the most asked question so far? "Strippers?"  
+Hey, it's Duke, and we're 3D Realms.
+	
+    

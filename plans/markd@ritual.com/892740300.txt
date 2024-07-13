@@ -1,0 +1,62 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: markd
+Plan modified: Thu Apr 16 12:25:56 1998
+
+[04/16/98]
+
+Man you guys rock.  Thank you, Thank you for the solution to my modeless woes.
+Here is the short and sweet solution for the curious. In your main message
+handler you need to put in a call to "IsDialogMessage" with the handle of your
+modeless dialog boxes and than all is hunky dory.  This actually makes
+compelete senes in a Win32 way, but sometimes you look for a much more complex
+solution to a simple problem.  I can't believe that I would have to insert an
+"IsDialogMessage" call for everyone of my modeless dialog boxes, but this
+seems to be the case.  In any case, thanks for all the great advice.
+
+As far as the "Vaporware" thing goes.  I got a bunch of supportive email and a
+bunch calling Sin a TC or worse a level pack.  Folks, let me assure you that
+Sin is a full blown game with amazing characters, weapons and gameplay that
+just happens to use an enhanced Quake II model to push pixels on the screen,
+and send packets over the net.  Anyone who has followed Ritual/Hipnotic knows
+that we are about quality and originality, you will not be disappointed with
+Sin.
+
+[04/15/98 13:63 PM]
+
+I just love being called "Vaporware", it really gives you that warm and fuzzy
+feeling all over.  For the record, Sin began development April 1st, 1997.  It
+is now April 15th, 1998.  That means that we have been in development for
+1.039 years.  Now I won't say how long other games called "Vaporware" have
+been in development, but a year is about 6 months sooner than any game since
+Wolfenstein 3D.  So the next time, someone decides to talk dirt about our
+baby, I would appreciate if they looked at the facts first.
+
+Help me!  I have this one problem in SinEd that has driven me nuts from day
+one, and I was hoping some Win32 guru out there may be able to shed some light
+on the situation.  I have a dialog which I open with a CreateDialog call.  I
+have my own DialogWinProc to handle the Dialog.  The WM_INITDIALOG message
+returns FALSE, indicating that windows should not give me the focus (if I do,
+keyboard focus goes away and I can't ever get it back).  Now here is my
+problem, with this setup, the TAB key will not tab between my various
+TABSTOPS.  If however, I create the dialog with a DialogBox call, everything
+works fine.  Frankly I am perplexed, and annoyed why the two have had such
+different behaviors.  I would be happy just being able to get keyboard input
+into that WinProc, but it does not respond to WM_KEYDOWN events either.  Any
+thoughts out there would be most welcome.  Besides, you'll be helping
+yourselves, 'cause when Sin ships so will SinEd.
+
+Thanks.
+
+
+=========================================================================
+=  = = Mark Dochtermann = Ritual Entertainment
+=========================================================================
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************
+pleasant email 

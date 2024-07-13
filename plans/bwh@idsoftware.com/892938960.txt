@@ -1,0 +1,116 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 3
+Last Updated: 04/18/1998 19:22:49 (Central Standard Time)
+-------------------------------------------------------------------------------
+
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+
+April 18, 1998
+-------------
+
+Got so pissed about the Monster Cable monopoly that I've decided I'm going
+to try and learn how to build my own cables.  So I went to Radio Shack and
+bought a soldering iron, solder, multimeter, some cable, and some connectors
+to play with.  After I get working pieces, I'm going to move up and grab some
+"real" cable from Belden or some other similar source, and also some real
+industrial quality connectors (isn't it about time the RCA connector just
+died?).
+
+While I was there I found some 12 ga speaker cable for $1.20/foot!  Woo-hoo!
+Similar cable, sans connectors, from Monster would have been about $60.  I
+just wish Radio Shack sold more high quality connectors -- the RCA connectors
+they had were pretty cheap looking.
+
+Oh, and everywhere I looked today didn't have spade lugs in stock.  Irk.
+
+Does anyone know why digital, video, and audio RCA cables are different?  Is
+there a standard net resource that gives you information on cables from
+a technical perspective, e.g. strands, AWG, shielding, jackets, etc. and 
+how they work together and for what applications?
+
+April 17, 1998 (part 2)
+-------------
+
+Today, we discuss home theatre, or, more specifically, the one I
+bought today. :-) 
+
+Actually, this is a relatively modest system for the family room.  A 
+normal family room has a horrible configuration when it comes to
+proper acoustics, and mine is no different.  The back side is against a 
+bunch of windows, the left side has a fireplace and a door to the master
+bedroom, the right side is semi-open into the kitchen area, and the
+front side has a set of double doors to one side of it.
+
+Basic criteria for a family room home theatre -- be practical, don't
+go into bankruptcy over it, and understand that it won't be perfect
+because of room acoustics.  Given this, getting perfect speakers or
+amps or whatever is a lost cause.
+
+So, with this in mind....
+
+The TV was the easiest part -- I knew for quite some time that I was
+going to get a Toshiba TheatreWide 40" RPTV.  Great picture, it's
+not gigantic, and best of all -- 16:9 letterbox!  Woo-hoo!  The set is
+not cheap -- $2500 (although I got mine for $2200) for a 40" TV -- but
+it is very nice.  And it has component video in (not that I use them,
+but it's nice anyway).
+
+Since this is meant to be practical, I opted for a receiver instead of
+separates.  Basic requirements for the receiver were:
+
+- reasonable array of AV inputs/outputs
+- 85W/channel
+- Dolby Digital decoding
+- $1000-1500 price range
+
+The contenders were the Yamaha 2090, Denon AVR3200, and Onkyo 838.  To be 
+honest, in that price range most receivers are about the same.  I opted for
+the Denon AVR3200 for no particular reason other than it was the most
+convenient at the time.  Oh, the Marantz SR880 was another option, but it
+is essentially a rebadged Harmon Kardon unit.  *shudder*  The Denon was
+about $1000, which was at the lower end of the price range.
+
+For the DVD player I went with the tried and true -- the lower end Sony
+unit, the 3000.  It's simply the best in its price range ($600).  So why
+not the 7000, the flagship in Sony's line?  For one, it would have been
+overkill for the family room.  Second, I think it'll likely be replaced
+sometime in the near future by a newer unit, so I would be buying an
+obsolete unit.
+
+My VCR is a Mitsubishi HSU770 SVHS unit I've had for about two years now.
+
+My laserdisc player will hopefully be a used unit that George Broussard
+might sell me (hint hint George :-) ).  The unit is a Pioneer CLD-704.
+
+Since I want to watch regular TV, I bought a new Sony DSS mini-receiver
+(my sat dish is already set with a dual LMB, and the extra coax has been
+run) for $250.
+
+For speakers I bought a pair of KEF UniQ 75s. They sound astounding, but
+to be honest the Paradigm and B&W series I tried in a comparable price
+range probably sounded as good, but suffered because they were in crappier
+rooms.  I'm quite happy with their sound, and they have very good frequency
+response; this is vital since I didn't want to require a subwoofer in this 
+setup, since I'm aiming for "practical".  To be honest the 65s and 55s from 
+KEF sounded really good, and only lost when compared directly against the
+75s via an A/B switch.  I ended up paying about $1600 for the speaker
+pair.
+
+Notice that I don't have a center channel, rear speakers, or a subwoofer,
+all of which are required for Dolby Digital 5.1.  I may end up getting
+some surrounds, maybe even a sub, but right now the issue is placement.  I
+really don't have anywhere that good dipolar or in-wall speakers could be
+placed.  The center channel may end up getting tossed in there since it's
+easy, and same with the sub (probably a $1000 sub of some type, e.g.
+Paradigm, NHT, Sunfire, or Velodyne), but surround placement poses a 
+bit of a problem.  And th

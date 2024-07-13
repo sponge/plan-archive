@@ -1,0 +1,41 @@
+User:   markplan
+Read:   0
+Unread: 0
+Time:   Tue, 10 Nov 1998 22:08:45 -0800
+Plan:
+11/10/98 10:00 PM GameSpy Central Time (Newport Beach, CA)
+
+[GameSpy 3d 2.05... SmartSpy is here!]
+
+Hey - we've been busy! Tonight we have for your fragging pleasure:
+
+1. GameSpy 3d 2.05
+2. GameLaunch 1.0 (yes, it's out of Beta!)
+3. Phat new GameSpy website.
+
+1. GameSpy 3d 2.05 is a full public release and it has lots of cool new goodies including:
+
+  * SmartSpy Lists!
+ 
+New Games Added:
+  * Blood2 
+  * Shogo
+  * Heretic2
+  * Sin
+
+Also..... We have added a nifty new feature that we call "SmartSpy". Yeah. My fault. Too many cheesy marketing classes. 
+
+SmartSpy allows you to preselect the types of servers that you retrieve from the GameSpy Master Server allowing you to quickly retrieve only the servers you need.  Haven't played in a few days? Just want to play some Rocket Arena?  Rather than retrieving and querying 1000+ servers, simply have GameSpy 3d use a SmartSpy list and retrieve the 100 servers running Rocket Arena 2 and query away!  As more and more game servers are run on the net this is going to be a critical feature. 
+
+2. Gamelaunch 1.0 is finally out. Longest beta test ever? Maybe! 
+
+A ton of bug fixes - an incredible number of new features.  I'm not even sure where to start.
+The new Scriptmaster is *amazing*.
+New games support includes Sin and Heretic2. 
+Huge Congratulations to James "Tetsuo" Katic for continuing to do a great job on GameLaunch. Next up - increased video card support!
+
+3. Gestalt and Mix have have been hard at work on the new GameSpy website..  The GameSpy website is going to be much more of a resource to our wayward brothers and sisters that are new to the world of online mayhem, as well as a good place for you to find the latest mods info. 
+
+Okay - that enough for one update? Go get GameSpy 2.05! http://gamespy.com
+
+

@@ -1,0 +1,129 @@
+User:   greenmarine
+Read:   0
+Unread: 0
+Time:   Fri, 27 Nov 1998 20:33:14 -0800
+Plan:
+November 27, 1998
+
+Tim picked up a book the other day called "Level Set Methods" by J. A.
+Sethian.  The book was lying next to his floor the other day so I picked it
+up and started reading.
+
+This is a cool book.
+
+I dropped out of college during my second year while I was in Calculus 3.  I
+was, at the time, just learning more about partial differential equations.
+For the most part, I feel my decision to drop out was a good one.  I left
+because the computer science classes I was taking at the time did not hold
+my interest.  I spent most of my time skipping class, doing my own research
+instead.  (In retrospect, I imagine that it would have been smarter for me
+to major in something like math or english.  If I had, my interest probably
+would have been maintained and I would have stayed in school.  It doesn't
+really make sense to take classes on something you are already familiar with
+and all throughout my time at the University of Kansas, I felt I was taking
+classes just for the little piece of paper at the end.)  I don't miss much
+about college at all.  The one thing that keeps me from calling it a big
+waste of time were the math classes.  Now I wish I had taken more math and
+books like "Level Set Methods" just drive the point more home.
+
+I certainly do not have the grasp of differential and partial differential
+(Eulerian?) mathematics that many people in the industry do.  For a while I
+was interested in computer graphics and 3d technology.  While I still have
+an interest in those areas, I think my interest has shifted more towards
+engine mechanics and gameplay programming/design (high-level engine and game
+design, object models, etc).  These are areas of knowledge that I have grown
+in significantly in the recent months through books read and work done.
+Nonetheless, I've still been reading a lot of material on 3d technology.
+Alan Watt's "3D Computer Graphics" is one such book.  Its a pretty basic
+overview of many different 3D methodologies (mind you that I am not a 3D
+technology programmer, I am often as mystified at the magic of Carmack,
+Sweeney or any other 3D wizard as the rest of you.  I'm pretty damn
+interested in demystification though).  I used Watt's book to write some
+basic bicubic bezier manipulation tools and such to learn more about how its
+done and became greatly reinterested in mathematics at the same time.
+
+Oh how much I have forgotten.
+
+I hate, hate, HATE forgetting what I've learned.  Knowledge that sits in
+your mind unapplied generally gets lost.  What a waste!
+
+So I've been interested in mathematics lately and I started reading "Level
+Set Methods" for no other reason, really, than to see if I could.  (Math is
+a very incremental discipline.  You have to have a solid background in each
+element to really grasp the next complex element and so forth.)  I was
+surprised to discover that I was able to follow "Level Set Methods,"
+understand that mathematics, and even start thinking about applications.
+Whoop!  Math rocks!  (Sorry for all these asides.  You know one thing that
+really pisses me off is kids in classes comparing how low their grades are.
+"Oh man, you won't believe that I got a D."  "Oh yeah?  Well check out this
+F, I'm going to have to retake this class for sure."  EVERY math class
+student has heard this or done it.  Its SO stupid.  People that do this are
+doomed to failure.  Bragging about low grades?  Come on, that's so lame.
+Can you really tell me you don't get excited when you learn something new
+and figure out how to use it?)
+
+My ability to comprehend the book is based partly on my previous knowledge,
+but more on the excellent writing skills of J. A. Sethian.  His pacing is
+well done and his proofs are clearly written.  I haven't finished the book
+(I'm certain my math knowledge is going to be a limiting factor soon), but
+what I've read is very cool.
+
+I'm not writing this .plan update to say "Hey look, I can read!"  Hehehe.
+I'm writing to ask "Does anyone else have any pointers to books they think I
+should read?"  I spent an hour on amazon.com writing down ISBNs of books I
+want to buy when I get paid.  Some of the titles I think I'll get are
+"Advanced Engineering Mathematics" by Greenberg ISBN 0133214311,
+"Differential Equations" by Blanchard ISBN 0534345506, and "Fourier Analysis
+and Boundary Value Problems" by Gonzalez-Velasco et al. ISBN 0122896408.
+Are there other books that are better?
+
+Specifically, I'm interested in what other developers are reading and what
+they have read.  I'll have to ask Tim when he gets back from visiting his
+relatives.  I kind of feel like a dunce asking these questions!  It seems
+like every game programmer out there knows things like level set
+approximations and "Front Evolution Theory."  I try to reach for a
+dictionary every time I hear a term or big word I'm not familiar with, but I
+feel I'm losing the game here.  I need to catch up.
+
+A few months ago I was really interested in focusing my life on 3D
+technology.  I'm entirely self-taught in that discipline.  I'm also 20 years
+old.  Sometimes it feels like its a big intelligence race...how much can you
+do before your 30 or whatever.  I seriously feel insecure when I read a plan
+update or paper and don't understand everything the person is discussing.  I
+think something like "Oh shit, Corrine Yu is talking about something I have
+NO clue about.  Christ this sucks!"  I immidiately go look up the issue in
+question, try to find SOME bit of information about it so I can file the
+knowledge away for future research.  Somehow this thirst for knowledge led
+me towards 3D technology.
+
+It really is an interesting discipline.  Quite a bit of 3D development is
+theory.  The stuff grad students write thesis papers about.  The PC games
+industry (specifically our little FPS nich of the industry) has really been
+making ground in taking that theory and applying it.  I'm certain that John
+Carmack and others have paved a lot of ground in terms of practical
+application of theory.  Right now, with engines moving into curved surface
+rendering the issue becomes even more prevalent and compelling.  (Imagine
+the problems and possibilities with bicubic CSG subtraction alone!)  Each
+subsection of the technology becomes a research topic in its own right.
+Some development teams have a guy/gal for geometry technology and maybe two
+or three guys for other effects! (Not to mention a guy/gal for tool
+development.)  The time and research required to be on the bleeding edge is
+significant and while I feel I have the ability to achieve that edge, I
+question whether it is what I want to do.
+
+It seems to me that if you want to really be great at 3D engine technology
+you have to sell your soul to it.  I suppose I shouldn't say "It seems to
+me."  Its more of a statement of fact than anything.  I just wonder if that
+is what I want to do...sell my soul to 3D technology.  Carmack, Yu, Sweeney,
+Persson...all the scientists of 3D gaming seem to spend the majority of
+their time studying or implementing technology.  I think I could do
+this...I'm interested...but only to a point.  I'm also interested in the
+game design side of things...in other aspects of engine design like object
+model technology and what not.  These interests battle each other in my mind
+all of the time.  I'm very much interested in where I want to take myself in
+life.  Where will I be in 5 years?  What will I know in 5 years?  What will
+I have achieved in 5 years?
+
+It seems to me that you have to specialize.  You have to become a grade A 3d
+programmer or a grade A AI programmer or a grade A tool hacker.  People like
+Tim Sweeney do quite a bi

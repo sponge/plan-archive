@@ -1,0 +1,18 @@
+Login: troy				Name: Trey Harrison
+Plan:
+---------
+April 19
+---------
+
+I've made some changes to the 2d Spline Tool and so you can
+find a netscape compatible applet (maybe ie3.1 too?) up at the same
+url (http://starbase.neosoft.com/~otaku/java);
+
+The Sun JVM still doesnt run it correctly though.
+
+I heard about that glDoom project losing all their source code,
+even though they had several backup mechanisms -- reason #4053 why you
+should release source code under the GPL.
+
+Trey
+trey@u.washington.edu

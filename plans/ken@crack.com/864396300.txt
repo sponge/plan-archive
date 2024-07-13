@@ -1,0 +1,101 @@
+[crack.com]
+
+Login: ken            			Name: Kenneth Baird
+Directory: /home/ken                	Shell: /bin/bash
+Last login Fri May 23 11:03 (CDT) on ttyp1 from a
+Mail last read Fri May 23 10:14 1997 (CDT)
+Plan:
+May 23rd... werd...
+
+Here's a poll:
+
+Whoever is reading this, would you like to see a console in Golgotha similair
+to Quake's?  I personally love them, but keep in mind that any heavy decision
+like the one above would be made by Dave or Jonathon.  I had one in that little
+quakeish engine I did and it was really cool for development...  Of course I
+really don't need it now, because I can just use 2 monitors...  And our plugin
+stuff will be dll...  Hmm...  It sure might help out people running the directX
+versions who can't get two monitors going.  I dunno.  Send me your thoughts.
+
+Normal plan stuff...
+
+Figgered out that clipping is what is hozing my p correct mapper.  So I'm like
+writing (er well... stealing) cohen sutherland and sutherland hodgman (sp?)
+clipping stuff.  I'll use whichever one is quickest and does the texture 
+coordinates right.  
+
+This weekend I will try to accomplish the following:
+
+Test various span subdivision widths in Vtune.
+Unify the 16 bit directdraw code to work on all platforms.
+Possibly merge the d3d/gdi/ddraw/glide into a single exe... Dunno if i can do 
+  that alone.
+Look at alternative lighting methods...  Color inaccuracy and banding is making
+  the two byte lookup approach not seem so cool now...  Perhaps it is time to
+  pull out some bizzare sorcery to get my funky psuedoscale going...  Perhaps
+  them crazy fins can help me.
+Test out different edge setup options...  Right now it seems logical for distant
+  gons to use a simple affine divide per scanline (can store 1/dx as a lookup
+  cheaply), and yet Hecker's DDA is also lookin good...  The only thing is the
+  added expense of full blown gradient calculation, which is a bunch of floatz.
+
+
+May 19th...
+
+Had a cool weekend.  Got the bugs worked out of 4 of the 5 asm mappers, hung out with an old
+friend of mine from stillwater (who taught me MUCH about programming) Mark Morgan, killed 
+everyone as much as possible in quake and blood and abuse... and that's about it.  Oh I also
+tried to kill Trey driving home last night... attempted to slam his blazer into the Origin
+concrete wall, but he cut me off :(
+
+
+Ye godz!!
+
+Insomnia.... baaaaaaaad
+
+I still need this article dammit!@&!@%!@.  My bud schizm is gonna find it for me, I have faith.
+
+author =       "Arthur Appel",
+title =        "The Notion of Quantitative Invisibility and the Machine Rendering of Solids",
+year =         "1967", journal =      "Proc. ACM Natl. Mtg.", pages =        "387-393",
+keywords =     "hidden line",
+
+Trey is calling to get tickets and stuff for E3.  Looks like it Trey and I and Stephen and of
+course Dave & Carly.  I've got a zillion people to meet from #ultima and DBN3 and and and stuff.
+
+Work has absolutely ruled lately.  Asm gathers a crowd :)  It's the coolest funnest thing to do,
+and the other dudes haven't been able to resist helping me.
+
+BTW... for those of you who didn't know, Dave is damn good at assembly!
+
+Looks like the mappers for now will be around 14 cycles lit perspective...  This is the standard
+approach with lookups.  I found that even though we have power of 2 textures, the modarray trick
+for non-power of 2 that abrash/hecker/miles/carmack/whoeverthehell came up with works better.  I
+had a killer idea that used bswap but bswap doesn't bloody pipe with anything.
+
+Now the question is... how to do perspective with mmx...
+
+Advice for 16 bit mappers...
+
+Avoid words like the plague:  Word instructions give you the dreaded prefix penalty that hozes
+  everything.  Sometimes they work and are better if you can get them in a V after a shift.
+  They can also cause delays if lots of addressing tricks are used because the instruction
+  turns out to be too long or something.  Like add ax,word ptr[4*eax+table+08000h] would go in U
+  only.
+
+Keep your texture pointer shifted left by one:  If you store half your texture pointer, you can
+  read from it with  mov al,[2*esi], but step it normally with adc.  I never would have imagined
+  this worked, but it does.  Dude named raster on the stealth.net #coders told me that one :)
+
+Do your light step fdiv during setup:  Theres usually enough traffic setting up the initial
+  pointers and self modifies to cover an fdiv.
+
+Use MASM:  Inline is too wierd... theres not enough control, and everything is referenced in a
+  bizzare way.  I tried it at first, but pushing ebp and trying to stick inline in a template
+  just weren't working.  Plus with masm you can be staring at your code in vtune, make changes
+  in your editor on the same machine, hit build on your dos machine, and vtune says, "Object
+  updated: Rebuild analysis?" and in about 5 seconds you have results.  It rules.
+
+yikes this is big... Time to work...
+
+ken@crack.com

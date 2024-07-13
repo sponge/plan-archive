@@ -1,0 +1,47 @@
+[ionstorm.com]
+
+ION Storm!
+ 
+ 
+
+User Name.........kee
+Full Name.........Kee Kimbrell
+Description.......Code Boy
+Last NT Logon.....Monday, April 14, 1997 at 11:31
+
+
+Hey Mark, was up?  I knew that id was going to use dlls for its rendering engine but I didn't
+know that they were going to switch to dlls as a substitute for qc too.  Thanks for the update.
+
+As you know an incredible part of the quake paradigm is based on the qc files.  I don't
+think I really understood how much of the paradigm I was going to shatter when I nixed the
+qc code.  However the pain is past.
+
+Here is what I like about using the dlls:
+
+1. Speed speed speed.  I can't believe how much faster the c++ code is over the qc code.  
+   This is simply due to the fact that qc is interpreted and the dll code is compiled.
+
+2. Modularity.  Daikatana can load as many dlls as you want when the game starts. This means
+   that one person can write a reaper bot, another a zeus bot, another person a cool weapon
+   and you can run them all at the same time.  Breaking the qc into multiple progs.dat files
+   would help this problem but what a mess.
+
+3. Fully supported languages.  Currently we have dlls written in c, c++ and visual basic.
+   You can use any language that creates windows dlls.  Also we have a public domain c compiler
+   that we are going to distruibute with the game.
+
+
+Things I don't like about dlls:
+
+1.  Security.  However people download dlls and applications every day and run them.
+ 
+2.  Lockie lockie.  When you have a serious bug in a dll you can lock up your machine
+    pretty bad.
+
+
+Kee
+
+
+
+(File last updated on Mon 14 Apr 1997 at 11:28)

@@ -1,0 +1,28 @@
+User:   markplan
+Read:   0
+Unread: 0
+Time:   Thu, 21 May 1998 21:08:23 -0700
+Plan:
+5/21/98	
+6:00 PM GameSpy Central Time (Newport Beach, CA)
+
+Now the truth can be told Dept:
+
+GameSpy 2.0 featuring Unreal support will be available either tonight or tomorrow at GameSpy.com!  
+
+The GameSpy team has been working closely with Epic and GT Interactive and have had a working version for several weeks now.  Unreal makes use of the GameSpy master server model and works similarly to Quake Engine games for internet play.
+
+Server administrators should be on the lookout for a patch in (my guess) the next few days from Epic we're still working out a few kinks, but they should be done in time for the the inevitable deluge of Unreal Servers on the net!.  
+
+If you have the Game:
+We are running test servers:
+unreal.gamespy.com:7777
+unreal.gamespy.com:7778
+unreal.gamespy.com:7780
+
+Please feel free to connect to these servers and play. 
+
+Server administrators:
+Please connect edit your unreal.ini to uplink your servers to unreal.gamespy.com to assist us in testing the new master server.  
+
+Epic/GT have graciously linked to the GameSpy site in the initial pressing of Unreal as a sign of their commitment to awesome internet based gaming. ROCK!!

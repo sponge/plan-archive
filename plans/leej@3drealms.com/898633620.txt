@@ -1,0 +1,24 @@
+Account Name:  Lee Jackson
+Email address: leej@3drealms.com
+----------
+I'm Not Wearing Any Pants, part V - A New Nightmare
+
+Thanks to everyone who wrote with suggestions on the recent AGP/IRQ problem.  Turns out that the video card (an STB Velocity 128) is staying in the system after all.  I tried a Buslogic FlashPoint LT SCSI card in place of the Adaptec 2940, and the new
+card went straight for one of the unused IRQs.  No idea why the Adaptec 2940 wouldn't do this, but it doesn't matter now, since it's history.  So, once again, nothing in my system is trying to grab an IRQ from one of the other system devices, and everyone
+is playing nice.  For now.
+
+BTW, before you buy a Micron system, double check your planned IRQ usage.  The system I've been fighting with, which uses a PII-300/Phoenix BIOS/Intel MB combination, is very stubborn about letting you pick and choose IRQs.  For example, there is no way
+to turn off video IRQ usage, as one person who wrote suggested.  There is also no way to disable the PS/2 mouse port on IRQ 12 (WHY NOT?????), although you can disable both COM ports, and you can't disable the USB support.  Its only redeeming
+values are that you can disable the onboard sound, and you can lock IRQs for ISA legacy use.  I don't know how this applies to other Micron systems, but after what I've been through, I'd personally double-check everything along these lines before I ever
+bought one for personal use.
+
+I hate echoing John Dvorak, but in this case, he's right.  A few years back, he asked why someone in BIOSland hadn't come up with a "SuperBIOS", which did away with the stupid IRQ limit.  Of course, there's USB and FireWire, but when was the last time you
+saw a really useful peripheral with one of these two interfaces?  Why can't they simply double the number of IRQs?  Does it have something to do with an arcane CPU or bus limitation?  I wish I knew.
+
+
+
+
+
+INSERT SHASH HERE
+	
+    

@@ -1,0 +1,19 @@
+User:   markplan
+Read:   0
+Unread: 0
+Time:   Mon, 13 Apr 1998 10:21:25 -0700
+Plan:
+4/13/98 
+10:00 AM GameSpy Central Time (Newport Beach, CA)
+
+GameLaunch Beta2 is now available at www.gamelaunch.com.  *massive* improvements have been made on the user interface and a myriad of cool new features are available... including the ability to save video profiles.  Rock!
+
+As soon as we get to version 1.0 (this week?) we'll begin adding support for more games.  Currently GameLaunch supports:
+
+Quake
+Quakeworld
+Quake2
+Hexen2
+Hexen2 Mission Pack
+Hexenworld
+

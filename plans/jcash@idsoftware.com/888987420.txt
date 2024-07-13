@@ -1,0 +1,63 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Cash
+Email: jcash@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 03/03/1998 22:40:51 (Central Standard Time)
+-------------------------------------------------------------------------------
+DOH!!!
+------
+I really, truly, honestly wanted to get the game dll source
+out tonight.  Really!  But, ummm, some things didn't quite
+work out right so I'll be doing it tomorrow.  Sorry!
+
+autoexec confusion
+------------------
+I've gotten enough emails about this that I want to try to
+get it out to more people.  I had an entry in the change log
+about the autoexec.cfg.  What it means is this.  Say you have
+Quake2 and the CTF mod.  If you are playing a regular game of
+Quake2 (single player, coop, or deathmatch) it will execute
+the autoexec,cfg from teh \quake2\baseq2 directory.  But if
+you are playing CTF if will run the one in \quake2\ctf.  It
+will NOT look in baseq2 in there is not one on CTF.  This was
+done so that you can have commands executed that are specific
+to CTF that are only run when you are playing CTF.  Sorry for
+any confusion, but I think you'll find it really is better
+this way!
+
+Hellrot HPB?
+------------
+Earlier tonight I played CTF for a while on a server called
+"Choke_N_Puke_AK".  Just wanted to say a couple of things
+about it.  First, to Pookiez, Lazarus, and the rest of the
+people there: yes it really was me and thanks for the game.
+Second, Lazarus and I kicked some major butt until we got
+outnumbered.  Lastly, my ping averaged about 600 but I think
+those guys can vouch that I was still able to play a totally
+competative game.  And, no, I don't think I'm *that* good.
+
+Fun Names
+---------
+Ya know, I kinda get the feeling that this thing means a lot
+to some people (that was sarcasm in case ya missed it).  I
+promise you that I will keep it in mind while working on our
+next project, OK?  I definitely want to correct things for
+people with "funny" letters in their names.
+
+Samoas
+------
+Man, they need to sell Girl Scout Cookies year round.  Seven
+boxes of Samoas just don't last very long.
+
+Life
+----
+Heh.  Don't ask programmers about life.  Everyone know that
+we don't have one!!!  Eating junk and depriving yourself of
+sleep?  *That* we can help you with.
+
+--------------------
+John Cash
+jcash@idsoftware.com
+"Hellrot"

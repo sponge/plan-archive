@@ -1,0 +1,47 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Sun Sep  5 12:24 (EDT) on ttyp1 from tpfl.demon.co.uk
+Mail forwarded to brandon@epicgames.com
+Mail last read Fri Aug 20 17:58 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Saturday, September 25, 1999
+
+Oooh, the Linux server ran all night with some bots running around shooting each other.
+No memory leaks and it didn't crash.  Rock.  I did some play testing with it yesterday
+and it seems ready to go.
+
+I suppose after the final demo is released I'll make the final push to finish the client.
+(Its a bunch of crappy little boring long painful things to get the performance up.  Like
+figure out why PGCC gives me an internal compiler error.  Stuff that is great to procrastinate
+about!!)
+
+Yesterday's plan update earned more EMail feedback than any other.  I guess this indicates
+that my .plan doesn't really need any worthwhile content at all to be entertaining.  I'll
+keep that in mind.
+
+Actually, I wasn't really frustrated or angry about anything work related.  I was actually
+really tired after having been up all night and I had just finished listening to
+Emporer: Anthems to the Welkin at Dusk six times in a row.  The combination made me suddenly
+want to update my .plan with a little WWWAAAAAAAAAAAARRRRRGH!  Alan has been listening
+to alot of GWAR lately and I suspect there is something subconscious going on there.
+
+I saw on Evil Avatar's that Todd McFarlane is doing monster design for Ultima Online 2.
+
+If you listen to music while you work, you might dig the KGIB MPEG Radio stations:
+
+http://www.mpegradio.com/
+
+There are no advertisements and the music is pretty good.  Last night they played three
+Delerium songs.  The Goth channel isn't really Goth.  Its more like...what people think
+Goths might listen to.
+
+I was going to say something else here but I forgot.
+
+Oh, one other thing.  If you live in London, England don't go out at night or
+LORD VAUGN MIGHT DRINK YOUR SOUL.
+
+MUAHAHAHAHAHAHA
+	
+    

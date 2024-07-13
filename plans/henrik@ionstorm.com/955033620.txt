@@ -1,0 +1,78 @@
+
+*** Ion Storm's Finger Server
+
+User name: henrik
+Plan modified: Wed Apr 05 20:26:20 2000
+
+
+8:10 PM 4/5/00
+
+My head hurts. Yesterday, I found a VCR tape in my cube, starring 
+Richard Simmons, called "Dance your Pants Off - An Aerobic Concert". 
+It's featuring such aerobic hits as "Celebration", "She works Hard 
+For The Money", "Total Eclipse of the Heart" and "The Rose". 
+
+Ok, I grant you all that I'm not all that into aerobic workout, 
+but how in the blessed name of Bad Language can you do aerobic 
+workout to "The Rose"? 
+
+Come to think of it... I don't want to know. Do not tell me and 
+do NOT send any pictures or movies showing this off, ok? There's a 
+limit to what I can take. I have one tape showing it already, and 
+I do not intend to watch it.
+
+Someone, somewhere asked me who my favorite smurf is. That's 
+simple: GodSmurf, the Blue Belgian Bastard. Thanks, dude.
+
+To get this mildly on track: Anachronox is exciting. Really exciting. 
+I'm currently working on optimizing the way we load and start up our 
+in-engine cinematics. If we get them to start off just a tad smoother, 
+it might elevate the game experience a few more notches.
+
+The 3D sound system is now operational, with a few more niceness-tweaks
+left to implement, and hardware occlusion will be supported, inspite of
+Aureal's Chapter 11. 
+
+The programming team has hit a wonderfully effective pace and there's
+light at the end of the tunnel, so...
+
+Things will be good and life will be beautiful. 
+
+/Switz
+
+
+9:04 PM 3/30/00
+
+Ahh... Finally!
+
+After 6..uhm..7.uhm..many months here at ION Storm, the time
+has finally come for me to hammer out my First Ever .plan file.
+
+I am a programmer. I work on Anachronox. I've boldly hacked new 
+holes in the original QuakeII code. I've put in a quite excellent 
+sound library by the name of Miles Sound System (Jeff Roberts 
+rule!), I've put in a flexible and cool game database and hooked 
+it up to the actual stats and inventories of the characters. I've 
+got our in-game music to work through Microsoft's DirectMusic 
+and...uhm...
+
+uhm... 
+
+...Hey, guys, help me out here.. I've done something more, haven't I?
+
+Oh, yeah, I just recently infected everyone in the Anox code-corner 
+with my fantastic cold, I've discovered Reese's (sp?) chocolate-covered 
+peanut butter treats for the first time, ( Yes, that's right. Last 
+Tuesday was the first time I tried one of those. See explanation below) 
+and I do my best to spread the Gospel according to Lemmy at the office. 
+No one around here seem to appreciate Motorhead (the band, not the racing 
+game), though, but my mission is NOT over!
+
+Also, I have to admit, I'm from Forreign. Forreign is a country that 
+lies outside of the Unites States, (and noone ever really heard about, 
+_anyway_, so why bother trying to remember the name of that silly country?) 
+and therefore I go by the name of Switz here. (They don't have Reese's 
+chocolates over there in Switz)
+
+That's all for tonight... Take care.
+

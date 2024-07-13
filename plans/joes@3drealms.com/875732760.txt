@@ -1,0 +1,71 @@
+Login: jsiegler       			Name: Joe Siegler
+Directory: /usr/home/jsiegler       	Shell: 
+Plan:
+Joe Siegler (joe.siegler@apogee1.com)
+Online Support Manager / WebDude
+Apogee Software, Ltd/3D Realms Entertainment
+
+
+October 1st
+-----------
+I just made two RTS files for Shadow Warrior.  They're made up
+out of sounds from the game.  Here's the readme that I whipped
+up for it.
+
+I was playing some WangBang today, and it occurred to me that one
+of my fav RTS files for Duke Nukem 3D was one where the user took
+some game sounds and made an RTS out of it.  It was cool, because
+you could "fake out" people with the sounds if you applied them
+yourself, as opposed to when the game would.  For example, if you
+could play the sound of the elevator in Hollywood Holocaust of
+Duke3D, then your opponent would know where you were, or more to
+the point, they'd think they knew where you were.   Same would go
+for the car alarm in the first level of Shadow Warrior.
+
+Anyway, with that in mind, I created these two RTS files.  The
+first one is primarily Lo Wang speak, things like "I am the
+Shadow Warrior", which the game normally says when you turn
+invisible, "Two Wangs are better than one", and "Time to get
+Erased".
+
+The second is more sound effects, a door opening and closing, and
+the Nuclear Weapon loading sound.  :)
+
+All of these were in the sw.grp file except for one.  I stuck one
+in there where Lo Wang goes "Swim, Swim, Hungry..  Stupid Fish",
+which is of course a refernce to the legendary Dopefish.  Has
+nothing to do with the game, but I stuck it in there to amuse
+myself.  :)
+
+Anyway, here they are.  Hope you like them.  If anyone comes up
+with a better one, let me know!
+
+Here's where to get it if you want it:
+
+ftp://wuarchive.wustl.edu/systems/msdos/games/3dr/misc/wangrts.exe
+
+Balls of Steel Stuff:
+
+We just got another update of BOS from the team in Australia.
+It's looking real good, and I'm making a final push to get the
+help file done.  This is the first Windows Help file I've ever
+made, so it's a learning experience.  I've been doing the tech
+files for all of our games since Bio Menace.  That was the
+first game of ours to have one (I thought of the idea).
+
+Anyway, about BOS, it's close, should be out soon, if all 
+goes well, but don't forget to take a good look at the 
+"When it's done" sign on the wall.
+
+There's a bunch of help programs out there, but the one I'm
+using is "HelpScribble".  It's cheap compared to a lot of
+the other ones out there, and it does the job.
+
+Personal Note:
+
+While writing this, my brother called me, and told me that the
+pet cat we had for 17.5 years was put to sleep today.  Kind of a
+sad moment for me, as I grew up with the cat, it was a good
+friend to me for a good number of years.  I'll miss her.
+	
+    

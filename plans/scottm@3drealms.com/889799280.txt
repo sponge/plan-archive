@@ -1,0 +1,145 @@
+Account Name:  Scott Miller
+Email address: scottm@3drealms.com
+----------
+========================================
+March 13, 1998
+
+Gameplay:  a word that Webster doesn't yet acknowledge, but the most important
+word in computer gaming today.  Here's a brief look at gameplay by someone
+who's been trying to understand it for about 20 years...
+
+The word gameplay didn't exist in the 80's.  Instead we used phrases like
+"playability," "depth," "fun-factor" and "game design."  In recent years the
+phrase "game play" caught on, and is now mostly seen as a single word.
+
+But what is it, and did it exist before computer games?  Does chess have
+gameplay, or Monopoly or Poker?  What about football and baseball?
+
+The answer is Yes.  Gameplay is how all of the various *rules* and
+*possibilities* of the game interact and balance with each other, and allow
+the player to formulate strategies, tactics, decisions and trade-offs in
+beating the game (or the opponent).  But boiled down, gameplay is simply the
+rules of the game, and the playing environment and pieces those rules control.
+
+A game with good gameplay allows for numerous playing strategies and
+approaches, with no single strategy clearly being the best.  This it what's
+known as balanced gameplay, and it's one of the most difficult tasks in game
+development, typically requiring 100's of hours playing the nearly finished
+game, adjusting the rules until they're just right.
+
+The game designer's goal is to present a difficult, but not impossible
+challedge.  The biggest obstacle to this challenge is that every player plays
+with a different skill set, and it's very hard for a game to cater to a wide
+range of skill sets.  (User-selectable kill or difficulty levels are a poor
+attempt at compensating for different player skill sets, but an easy method
+for developers to hack into their games.)
+
+Great gameplay allows the player seemingly endless avenues to explore. 
+Gameplay gives the player choices that involve trade-offs, such as sacrificing
+a Bishop to give your Queen an open lane to attack, or moving the Bishop to a
+safe spot that still blocks the Queen's line of attack.  A game like checkers
+has less gameplay than chess, because there are less rules and less types of
+pieces, and this make checkers a far less interesting game.  It lacks depth
+because it lacks the number of possibilities relative to chess.
+
+In 3D shooters, for example, possibilities are derived from the number of
+levels, the various weapons, power-ups, enemies, puzzles, player-character's
+abilites (jumping, ducking, strafing, etc.) and so on.  The game's rules
+define how all of these possibilities interact with each other.  Possibilities
+and rules, this is the essense of gameplay.
+
+FMV (full motion video) games failed because they lacked possibilities, one of
+the two key components of gameplay.  In general, FMV games offer very few
+options for players to develop personal and varied strategies.
+
+It's interesting that games in the late 70's and early 80's (when graphics
+where often black/white or just 4 to 16 colors, with low resolution) had
+superior gameplay than many games (most games maybe?) nowadays.  That's
+because the designers then were not distracted by pretty graphics, and they
+couldn't rely on graphics to sell the game--these designers were *forced* to
+make games that treated gameplay as the top priority.
+
+There's a lot more to gameplay than explored here, but this hits the most
+essential point of what gameplay really is:  The interaction of rules and
+possibilities.
+
+Weekly Puzzle:  With only a quick glance (no calculators), which column has
+the higher sum total:
+
+987654321	123456789
+087654321	123456780
+007654321	123456700
+000654321	123456000
+000054321	123450000
+000004321	123400000
+000000321	123000000
+000000021	120000000
+000000001	100000000
+
+
+Answers to all puzzles posted here are at www.3dportal.com.
+
+========================================
+March 11, 1998
+
+It's been cold in Dallas the past week.  I'm talkin' 30 - 40 degrees--coat
+weather!  I get in my car to come to work around 9am, drive a full mile to
+work, and the heat never does kick on during the drive.  So I freeze the whole
+way.  Why can't car heaters have built-in heating elements, like a blow dryer,
+which are activated until the engine heats up?!  Someone needs to take this
+idea and make a million bucks with it...
+
+========================================
+March 6, 1998
+
+I read every printed game publication (as well as all the top gaming web
+sites, but that's not what this topic is about today).  It's part of my job,
+and a legitimate job hazard.  Reading six reviews of Men in Black makes me
+wish I could shoot myself with that movie's Forget Ray.  Unfortunately, I must
+accept certain and permanent brain damage.
+
+For avid readers like me, PC game magazines overlap in their coverage too
+much.  This isn't a criticism, it's just a fact.  After all, they all cover
+the same games and news items.  However, I'd like to see more uniqueness among
+the many magazines so that they're not all clones.  (I finally get to throw
+the word clone back at them. )  Here are my ideas:
+
+o  More interviews and profiles -- Interviews could play a bigger role in
+every magazine.  As a game fan, even before starting Apogee, I loved to read
+interviews with developers and top game players.  Next Generation magazine is
+the only publication that excels at in-depth interviews each issue. 
+Interviews and developer profiles are a ripe areas for magazines to be unique
+each issue.
+
+o  More editorial-style columns -- Many magazines do well in this area
+already, but I still wish there were more of these columns.  PC Gamer is the
+best at this, with around 10 specific columns each issue, while CGW has only
+3-4 columns.  Columns give writers more freedom to editorialize and write
+about subjects that are probably not being covered by every other magazine. 
+I'd like to see a column that reviews gaming web sites.  I'd also like to see
+more guest columnists from industry insiders, though I know that in reality
+this may be hard to do.
+
+o  More feature articles -- Rarely do I see truly inventive feature articles
+in game magazines.  Typically, they're just game round-ups in a specific genre
+(sports games or 3D shooters), or a hardware round-up, such as the best 3D
+accelerators.  Once again, I have to point to Next Generation as the best in
+this department, because they have, on average, the most original feature
+articles, such as a recent issue which had a feature titled "Girl Trouble,"
+that examined all the coming games with females stars, undoubtedly influenced
+by Lara Croft's success--a great 5-page article.  The same issue also had a
+lengthy original article titled, "America's Power Players," profiling over 30
+of the game industry's top movers and shakers.
+
+o  Slam more games that are bad, make examples of them -- use the full 0% to
+100% rating scale.  There's no doubt that the European mags rate games harsher
+than America mags do.  In Europe, a score of 70% is about par, but in the USA
+my estimate is that it's 10 points higher on average.
+
+o  More investigative reporting.  For example, why in hell Myst is the best
+selling game ever, and has been in the top 10 for four unprecedented years! 
+Scully and Mulder might need to help on this one!
+
+o  Finally, magazines can help differentiate themselves by injecting more
+personality, specifically of the writers themselves.  This is done very well
+in European magazines, but in USA magazines the writers are rarely involved 

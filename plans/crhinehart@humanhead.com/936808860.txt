@@ -1,0 +1,54 @@
+Welcome to Human Head Studios' Finger Service V1.6!
+
+Name: Chris Rhinehart
+Email: crhinehart@humanhead.com
+Description: Programmer
+Project: Rune
+Web Page: Human Head Studios' Web SiteThis plan file is the opinion of the individual who writes it and does not reflect the opinions of the Human Head Studios.
+Last Updated: 08/05/1999 05:51:49 (Central Standard Time)
+-------------------------------------------------------------------------------
+August 5, 1999
+--------------
+RUNE will be shown at GenCon this year, so if you are interested in seeing the
+current progress, stop by the g.o.d. area (and while you're there, check out DarkStone
+and Age of Wonders, too).
+
+
+
+June 2, 1999
+------------
+Back from fishin'.
+
+Thanks to everyone who stopped by g.o.d.'s Promised Lot at E3 and looked at RUNE.
+If you liked what you saw, wait until ECTS...
+
+Like most developers, we've added continuous Level-of-Detail technology to the meshes in 
+our game. Because we're using the Unreal tech, we could have just waited and used the LOD 
+built into the latest 224 codebase.  But, due to other Very Cool technologies we're working 
+on, we decided to write a whole new mesh system for the game and so developed our own LOD
+technology to integrate into the new mesh system.
+
+Interestingly enough, one of the biggest savings with LOD wasn't just rendering fewer polygons.
+Since Unreal gouraud shades the mesh objects, a bunch of lighting calculations must be done
+on a per-vertex basis.  As a model is decimated, there's obviously fewer vertices that must
+be lit, resulting in a noticable savings on mesh lighting.
+
+Developers:  If you aren't yet using a form of continuous LOD, I highly recommend looking 
+into it.  The tech behind it isn't all that complex, so developing your own shouldn't take
+very long.  But if that isn't possible, there's several companies offering LOD technology
+that can be licensed.
+
+Oh...and thanks to Rick Johnson for the finger server...
+
+
+
+
+
+
+
+
+
+
+
+
+

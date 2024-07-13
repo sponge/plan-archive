@@ -1,0 +1,431 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 3 Arena
+Last Updated: 06/03/1999 15:55:22 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+6/3/99
+------
+Whee! Lots of hate mail from strafe-jupers!
+
+Some reasonable messages have convinced me that a single immediate jump
+after landing may be important to gameplay.  I'll experiment with it.
+
+Strafe jumping is an exploitable bug.  Just because people have practiced
+hard to allow themselves to take advantage of it does not justify it's
+existance.  When I tried fixing the code so that it just didn't work, I
+thought it changed the normal running movement in an unfortunate way.
+
+In the absense of powerups or level features (wind tunnels, jump pads, etc),
+the game characters are supposed to be badasses with big guns.  Arnold
+Schwartzenegger and Sigourney Weaver don't get down a hallway by hopping
+like a bunny rabbit.
+
+This is personal preference, but when I play online, I enjoy it more when
+people are running around dodging, rather than hopping.
+
+My personal preference just counts a lot. :-)
+
+btw, here are the current weapon effects:
+
+gauntlet: 50 pts, 400 msec / punch
+machinegun: 10 pts, 100 msec / shot
+shotgun: 11 pellets of 10 each, 1000 msec / shot
+rocket launcher: 100 pts direct hit, or 100 pts splash damage falling off
+	over 120 world units, 800 msec / shot
+plasma gun: 20 pts direct hit or 15 pts splash damage over 15 units,
+	100 msec / shot
+railgun: 100 pts, 1500 msec / shot
+lightning gun: 8 pts, 33 msec / trace, max range 768 units
+grenade launcher: 100 pts direct hit, or 100 pts splash over 150 units,
+	800 msec / shot.
+bfg: 40 pts instant splash damage over 100 units, 100 msec / shot
+flamethrower: to be determined, but short range / wide angle
+
+Splash damage is calculated from the edge of the player's box, unlike
+quake1, where it was calculated froom the player's origin.
+
+
+6/3/99
+------
+* ignore cl_maxpackets on LAN
+* changed cl_packetdup to 1 by default, and archived
+* defaulted com_maxfps to 100 and archived, automatically
+	disabling during timedemo.  It was possible to lag
+	out some client connections on ultra fast systems even
+	with cl_maxpackets set fairly low due to a huge number
+	of individual commands being created
+* 250 msec minimum time between landing and jumping again
+	I hate having players bouncing around all the time...
+* fixed bug with large r_picmip values (white shotgun sight bug)
+* new lightning and rail beam drawing
+* player torso twitches with pain sounds
+* r_drawstrips changed to r_primitives and archived, with changes:
+	default "0" uses glDrawElements if compiled vertex arrays
+	are present, or strips of glArrayElement if not.
+	"1" forces strips, "2" forces drawElements, "-1" skips drawing
+* increased rocket speed to 900 from 800
+	decreased direct hit damage from 120 to 100
+	splash damage same as 1.05
+* removed sound-in-use dialog, auto skip after second try
+* made userinfo persistant on server across level changes
+* allow different servers to respond to a challenge,
+	allowing redirecting server proxies
+* notice bad ip addresses for connection: 192.1234.123.122
+* removed neck length pivot to prevent view poking into
+	low subdivided curves.  Also make aiming when
+	looking up or down more precise.
+
+
+5/30/99
+-------
+For the past couple of weeks, I have been spending some development time on
+linux, and for the first time on a non-NEXTSTEP unix platform, I have 
+actually been enjoying it.
+
+While Id has been supporting linux since the Doom days, I have not personally
+been much of a linux user -- it was always ddt or zoid doing the actual coding
+and testing.  Every year or so I would install a linux distribution and play
+around with it for a few days, but I would always leave feeling that it was
+still pretty crude (UI wise) compared to the NEXTSTEP UI I was used to, or
+even what I had used on other commercial unix workstations and windows.
+
+There have always been a ton of reasons to like linux, but the user
+interface was enough of an issue that I couldn't buy into it completely.
+
+The gnome user environment in Red Hat 6.0 is finally at a level that I
+consider it a valid alternative to commercial desktop environments.  Overall,
+its still not as smooth, consistant, or complete as windows or the mac, but
+is does have its strong points, and things seem to be progressing quite
+rapidly.
+
+Its still not something you would give to a purely casual computer user,
+but I won't be surprised if even that changes in a couple years.
+
+CodeWarrior for linux is also a significant aspect of my enjoyment.  Its
+a sort of crappy 1.0 port with a lot of little issues, but the editor works
+well enough, which is the important thing for me.  I have never been able
+to stand vi or emacs for long enough to become proficient in them.
+
+The code that I have been playing with most is the matrox g200 GLX driver.
+
+Matrox is the first of the major 3D chip vendors that has had the guts to
+publicly release register level documentation for their 3D chips.
+
+An accelerated X windows OpenGL driver has been put together with this by
+building on top of the existing Mesa and GLX projects.
+
+It actually runs quake, quake2, and q3test.  It doesn't run them FAST, but
+the quality is good, and I am impressed nonetheless.  It is bordering on
+playable with all quality options set to the minimum on a fast computer,
+but it still has a ways to go before casual users should take a look at it.
+
+It is steadily improving, and I hope Matrox will be pleased enough with the
+progress that they will release the documentation for their setup engine to
+go with the rasterizer.
+
+In testing q3 on it, I noticed that with picmip set to 0, textures would get
+corrupted and it would never settle on a working set.  The current Apple
+OpenGL drivers also have exactly this problem.
+
+The cool part is that this driver is completely open source.  I downloaded
+the project code, browsed through it a bit, and changed two lines of code to
+fix the bug.  That RULES.
+
+The next thing is sort of funny.  I had been suspecting that a lot of the
+OpenGL drivers were clearing the entire depth buffer for each of the 3D icons
+on the status bar, instead of limiting it to the scissor region.  I added code
+to the g200 driver to explicitly crop the clear region in the driver, but it
+never got executed.  A little more investigation showed that I had been making
+an improper assumption for years -- scissor is not enabled by default.  Doh.
+
+Ever since noticing that glquake cleared the screen borders when the view is
+sized down, I had been operating under the assumption that intergraph just had
+a bug in their drivers.  I had double checked that glClear was supposed to be
+limited to the scissor region, so I thought they were just messing it up.
+
+Now I know that I was just being an idiot about that for the last three
+years...  With scissor enabled, most of the cards got a few percent faster.
+
+
+
+5/30/99
+-------
+* dynamic curve level of detail
+	r_subdivisions determines the maximum level
+	of detail, r_lodCurveError determines how
+	quickly polygons are pulled out with distance
+* devmap  sets cheats 1, map  sets cheats 0
+* change weapon item upscale to 1.5 instead of 2
+* always toss items forward, even if looking up or down
+* draw ammo in grey while weapons are reloading
+* change railgun shader while reloading
+* fixed head models not showing proper skin
+* skip all shell eject code when cg_brassTime 0
+* fixed sound memory overallocation
+* profiling and rearrangement
+* fixed dead spectator bug
+
+
+5/27/99
+-------
+* enable scissor test properly
+* archive r_lodBias
+* cg_draw3dIcons 0 option
+* data cheating protection
+* userinfo renamed to clientinfo, added state and current
+	server address
+* don't forward commands to a server when playing demos
+* fixed NULL extension on dir command
+* added one more shotgun pellet
+* added CG_Shutdown for cgame cleanup
+* fixed jitter in rising smoke
+* increase minimum time before reusing an entity slot
+* soundinfo reports current background streaming file
+* changed IPX separator to . from :, moved port processing
+	to system independant code
+* auto port scan wasn't updating the net_port cvar
+* attack button presses reset inactivity timer now
+* increased the forced respawn time from 10 to 20 seconds
+* show smp on gfxinfo, slight reformat
+
+
+5/26/99
+-------
+* basic joystick controls
+	some work still needed for advanced controlers
+* r_dlightBacksides 0 option
+* forced cvar_restart when version changes
+* fixed some flare-in-fog problems
+* fixed skin color in menus
+* print obituary message even when you are the killer, so all
+	kills get an entry in the logfile
+* fixed bugs in line token parsing when quotes or commands aren't
+	white space separated
+* multiprocessor acceleration "r_smp 1"
+* increase menu dimming
+* increased rocket damage radius from 120 to 150 units
+* check for running server in all server commands (dumpuser, etc)
+* new cvar cheat setup -- by default, only archived
+	variables can be changed when not cheating
+* "cg_drawstatus 0" only removes status bar
+* "cg_draw2d 0" removes all 2d
+
+
+5/22/99
+-------
+
+The SMP support is solid enough to play with now.  The only feature that is
+still broken is light flares.
+
+As a happy consequence, some of the cleanup work I did for SMP gave a couple
+percent speedup even when running without the separate thread.
+
+On my development system, a dual 300 mhz intergraph realizm II, the low res
+timedemo scores went from 27.8 to 37.8 with "r_smp 1".  This is only a 35%
+average speedup, but at some times (lots of dynamic lights in complex scenes)
+the speedup is 90%+.  Gameplay is noticably smoother.
+
+The rendering thread is almost always the blocking factor, so the faster the
+card and OpenGL driver, the larger the speedup will be.
+
+This is explicitly a two thread producer / consumer, so there is no benefit
+to more than two processors.  The app is well behaved, using sleeping
+syncronization so that you usually still have half a processor free for other
+operating system functions.
+
+Hopefully we will be able to test with some fast consumer cards sometime
+soon.
+
+------
+
+A lot of people asked what was done differently this time vs the last time
+I tried (without benefit) to use SMP.
+
+My original attempt was to make a DLL that intercepted all OpenGL calls and
+let a separate processor execute them.  The benefit would have been that all
+OpenGL applications could have gone faster.  The problem was that the
+bandwidth required to encode all the commands was enough that the processor
+overhead was as much as it would have taken to just do the geometry on the
+main processor.
+
+It would have still been a win if the geometry side was doing
+lots of work, like multiple lights, user clip planes, and texgens, but for
+the vast majority of geometry, it didn't balance out.  If someone wanted to
+try that using the PIII or AltiVec streaming memory operations, it could
+probably still work.
+
+The current SMP code is implemented directly into the renderer, and a lot of
+things were moved around and double buffered to allow it to use data in
+place, instead of having to copy it off.
+
+------
+
+Some people expressed surprise that Quake3 wasn't threaded already.
+
+Threading has been presented so often as the "high tech" "cool" way to
+program, that many people aren't aware of the downsides.
+
+A multi-threaded program will always have somewhat lower throughput when 
+running on a single CPU than a single threaded program that polls in
+explicit places.  The cost of a context switch at the cpu level is negligible,
+but the damage that it can do to the cache hierarchy can add up to a
+noticeable amount in bad cases.
+
+The much larger problem is that you lose tight control over when things
+occur.  If the framerates are low enough, it isn't a huge issue, but for
+applications running at 30+ fps, you really don't want to trust the OS
+scheduler to coordinate multiple threads and have them all get in every
+frame.  Yes, with explicit sleep() calls you can sort of get it working,
+but at that point, you might as well not be using threads.
+
+A good example of not-quite-in-sync issues in the windows mouse performance.
+A PS/2 mouse only samples 40 times a second, so when you get an app updating
+at around that speed, you will get 0/1/2 scheduling variances.
+
+They are also not terribly portable, and a pain in the ass to debug.
+
+
+
+
+5/19/99
+-------
+Now that all the E3 stuff is done with, I can get back to work...
+
+I was stuck in a room the entire time doing press interviews, but it seemed
+to have gone well.  It was mentioned to me that there were a few people on
+the show floor with forged badges that read "John Carmack -- Id Software".
+As if forged email / irc / icq isn't enough of a problem.  Sigh.
+
+The "download" crashtest was first reported by Rick Hammerstone.  That was
+a pure dumbass mistake on my part.
+
+I should be sending the accumulated crashtest bounties off tomorrow.
+
+The plan right now is to have an update release next week that will have
+lots of bug fixes and cheat protections, but not too many new user visible
+features.
+
+I finally got around to implementing dual processor acceleration today.  I
+still have a couple issues to resolve and some more rearranging to do, but
+it is giving 20%+ speedup right now in a worst-case situation for it.
+
+When completed, I expect the average speedup to be in the 40% to 80% range,
+depending on what is going on and the video configuration.  Scenes with lots
+of dynamic lighting and lots of sounds and other client processing going will
+show the largest speedups.  It helps the slow scenes more than the fast
+scenes, which is basically what you want.
+
+I am going to shake this out with the Windows (NT) code first, but it should
+definately make its way to the linux port eventually.
+
+I know SMP is a que for all the BeOS folks to ask about ports, so I'm going
+to head that off:  Be has all the code for Q3 (and Q2, for that matter), and
+a version of Q3test should be available by the time they ship a release OS
+with OpenGL hardware acceleration.
+
+There will probably also be an SGI-irix port.
+
+Regarding both of those ports: they are not supported ports, and will be
+maintained by volenteers (like the current MacOS X port).  Update releases
+will lag the official ones, and we won't committ to ANY dates.
+
+I am doing all of my development on intergraph and sgi-NT hardware, but when
+I have everything rock solid, I will give Nvidia and ATI's NT drivers a try.
+I would be somewhat shocked if they didn't explode -- I doubt multiple
+threads playing occasional tag team on a context has been well tested.
+
+True, only a tiny fraction of our players (probably less than 1%) will be
+able to take advantage of this, but I consider SMP usage to be an important
+technology to nurture over the coming years.
+
+The top of the benchmark chart should be an SMP system (assuming the NT
+drivers have all the optimizations of the '98 drivers), and it will also
+be possible to build a reletively cheap SMP system (say, dual 400's) that
+outperforms the best single processor system.
+
+
+
+5/12/99
+-------
+We had to upgrade the crashtest machine to NT sp 5, because
+some people were attacking it with windows crashers.  Those
+don't count.
+
+Crashtest #3 from [iBO]QWhAX0R was a combination of two
+problems:
+
+The symptom was disconnecting all clients with an illegible
+server message.  This turned out to be caused by the fact
+that I was parsing strings out of my net buffers with a
+MSG_ReadChar() function, and I was checking for EOF as a
+negative one return value.  I had to change this to a
+MSG_ReadByte() call, because -1 was showing up in the
+messages, which then caused a parse error because it wasn't
+really the end of the message.
+
+The actual root of that issue was code like this:
+{
+	char	buffer[MAX_STRING_CHARS];
+
+	...
+	strncpy( buffer, input, sizeof(buffer) - 1 );
+	...
+}
+
+No buffer overruns are possible, but buffer is not forced
+to be zero terminated if on the stack.  I'm pretty sure this
+was a result of copy-and-paste code where buffer used to be
+a static with a guaranteed zero, but it made me find several
+other places where similar things were happening.
+
+I had started using a Q_strncpyz() function a while ago that
+guarantees a trailing zero and doesn't require the -1, but it
+turned out that between code I had written a long time ago,
+and code that either Cash or Brian had added, there were still
+a lot of normal strncpy calls around.  A lot of them were wrong,
+too.  Either missing the -1, or missing the dedicated 0 fill in.
+
+Crashtest #4 from Jim Paris was a variation on the first part
+of #3.
+
+Only one of these attacks so far has been a server crasher, but
+I have been giving the bounty for anything that immediately kicks
+all the players.  I probably won't give it for attacks that only
+overflow some lagged clients, but I'll evaluate as they happen.
+
+I am off to E3 now for a bunch of PR silliness, so if
+crashtest goes down, it won't be back up for a while...
+
+
+* fixed crashtest 4
+* fixed crashtest 3
+* fixed jumping-over-item pickup prediction error
+* made "Couldn't load sound" a developer only warning
+* fixed demo recording not including portal surface entities
+* precache grenade bounce sounds
+
+
+5/11/99
+-------
+You can bias the level of detail lower than allowed in the
+menu with "r_lodbias 2", which will force all models to the lowest
+lod.  The view weapon will look very ugly.
+
+Another little speedup option that isn't offered in the menus is:
+"cg_simpleitems 1" this removes the extra rings and spheres around
+some items.
+
+You can also turn off all the gibs with "cg_gibs 0".
+
+
+* clear game memory at init, which fixes the stuck-at-intermission
+	problem on mac servers
+* fixed mismatched free / Z_Free in demo menu
+* removed unused reference to sprites/plama.md3
+* automatically get sounds from model name
+* scale sensitivity by zoom
+* immediately archive changes t

@@ -1,0 +1,230 @@
+Login: stephen        			Name: Stephen Wilson
+Directory: /u/stephen               	Shell: /bin/bash
+Last login Tue Sep  9 21:51 (CDT) on ttyp5 from pantera
+Mail last read Tue Sep  9 23:32 1997 (CDT)
+Plan:
+Tuesday September 9, 1997
+
+	Been a while since my last .plan file update.
+	Let's see what I've done. 
+	- Well after the insurance people decided that my car was totaled,
+they screwed with me for about a month until Dave introduced me to his
+lawyer and the ways of a American Legal System. Pretty kewl what a few
+well placed legal terms can do for you.  :)
+	- Now my bank seems to think that I owe them payments for a car
+that was paid off a month ago.  *sigh*  The world is full of STUPID
+people, and I have a way of bumping into each and every damned one of
+them.
+	- Fortunately, when the office was robbed, the burglers had the
+decency not to take any of my work.  *phew*
+	- I've never truely recovered from the 4 gig hard drive that died
+when we moved offices.  *groan*
+	- I finally developed all 14 rolls of my film that I have been
+collecting since November 96.  Two rolls were completely exposed *sob*
+One from a Grand Canyon trip in November, and the other from another Grand
+Canyon trip that I took in February.
+	- Ivette is now a permanant fixture in the very complex life of
+Shanna and I.  Anyone know if polygamy is still legal anywhere???
+	- Jonathon loaned me his old college car until the game ships.
+This was SUPER kewl.  It has allowed me to catch up on some of my debt.
+Debt sucks!
+	- Went out with Jonathon a couple of times.  The girls that I hang
+out with really like him.  We had a pretty good time.  Everyone else in
+the office is afraid to go out with me and my friends.  (They are afraid
+that we might BITE!!!  *snap snap*)
+	- Been playing in Gene's VLARP.  I'm a Gangrel and the Sheriff.  A
+few of my friends have become pretty interested in his VLARP.  I played a
+Vampire game back in College Station, but it sucked.  Oh, and the one that
+is run here in Austin on the u.t. campus sucks too.  I was VERY amazed at
+how good of a storyteller Gene is.  He re-opened my eyes to role playing.
+I thought that it died with the C-64 crowd.
+	- Joel took me scuba diving in San Marcos.  I plan to get
+certified ASAP!!!  I loved it.  Shanna kept jumping around going, "I
+touched the fishies!!!  I touched the fishies!!!"  *smile*  She is so cute
+and wonderful.
+
+	So... you want to know what I've been doing with Golgotha...
+huh???
+	- To start with; Jonathon, Trey and Oliy are AWESOME.  They do
+things with code that would amaze anyone but the best programmers.  And
+even they would still be impressed.  One of my favorite pasttimes is to
+watch them tapping away at the keyboard.  It's not unlike watching a group
+of Jolt-inated teens going for the all-time Galaxian high score while the
+high school cheerleaders scream supporting yells in the background. (This
+isn't meant to be an insult, in fact it is very kewl to watch)
+	- Secondly, Jonathon and Trey have an enormous amount of patience
+and endurance towards my constant nagging.  You see, if Crack has an
+official beta-tester... it's me.  I know more about the game than anyone
+else in the office.  Since I am designing the scenerios and the art to go
+in them, I spend most of my time watching the game crash... then yelling
+at the programmers to fix it.  This has turned out to be an awesome talent
+of mine.  More things have been added and fixed in the game since the last
+demo we put out, that I'm convinced this next demo will shock everyone.
+	- Trey put in tunnels... Jonathon put in bridges... and Oliy put
+in some interested physics.  How does all of this affect me?!?!  Well,
+probably because I am the one that gets to model all of the 'test' objects
+to see if the game can even handle it.  I'm also the biggest complainer in
+the office... that means that they do alot of things just to shut me up.
+*grin*
+	- I bitched for months for Jonathon to put in the ability to load
+up greyscale heightmaps for the levels.  When he did... I was able to
+crank out maps in minutes instead of days.  I wish that I could ship the
+'Pac-Man' level... but I think that copyright laws would cause a problem
+with this.  Hopefully when the game ships people will start up FTP
+archives of greyscale maps that can be used in the game.  How would you
+like to go driving off of Bill Gates' nose while firing missiles at the
+tank in his open mouth???  :)
+	- I've made a number of new sky backgrounds.  Some are 'ok',
+others are just KEWL.  I especially like my new snowy mountain one.. and
+the sky with the moon.
+	- I'm almost finished with the new snow terrains.  I also have
+wildflowers in the grass terrain, and new waters.  The snow/ice cliffs
+have been the most difficult to make tilable.
+	Something that I have noticed in other games is a HUGE lack of
+attempt to make textures tilable.  In the demo of Tombraider2 I almost
+choked over the crappy job they did on the brick textures.  I mean.. who
+the hell can't tile Bricks?!?!?
+	Sure, if they only had 2 artist like we do here... I could
+understand.  But most of those bigger companies have artists falling out
+of their asses.  *sigh*  (flame off)
+
+	- I spent a considerable amount of time trying out ideas for
+polygonal explosions and special effects.  Many of them require a great
+deal of Alpha blending.  Something that is very costly on the software
+version of the game.  So, I've been trying to come up with kewl ways to
+make the EFX without needing to alpha blend.  Let me tell you... this is
+hard.  Most of the arcade games can't even do a decent job of effects when
+they have alpha-blending.  Other games resort to 'cartoonish' sprites.
+I'm trying my best to stay away from both.  But it's been a challenge.
+	Too many jobs and not enough imps.  Need to mine more gold and
+build more treasure rooms.  *sigh*
+	- Been playing SSIs Birthright.  Dungeon Keeper was fun for the
+couple of days that it took to beat it.  But it got old.  Birthright is my
+sort of game.  The others here would probably rather pull out all of their
+teeth than play a full game of it.  :)
+	Birthright's only drawback (in my opinion) is in its 'lack' of
+save game ability.  You can only save at the beginning of a Turn.  Each
+turn has 3 actions (4 if you have an artifact).  If you choose to
+Adventure (Doom style) during one or two of those actions, it could be 2-5
+hours before your next save game.  The game crashes on my machine every
+3-8 hours.  Let me tell you... this SUCKS!!!  It has a few other gameplay
+issues that will hopefully be solved in a patch.  But all in all, it is my
+sort of game.  Imagine putting Eye of the Beholder, Fantasy Warhammer, and
+Romance of the Three Kindoms all together in one game.  That's what SSI
+did with Birthright.  Kinda neat.  :)
+	I would like to make a game like it someday.  If I had a chance
+I'd like to make a game that combined aspects of some of my favorite old
+games that noone here has even played.  *groan*
+	------- Origin's Knights of Legend (C-64)
+	------- The Magic Candle (C-64)
+	------- Mar's Saga (C-64)
+	------- Federation and Empire (board game)
+	------- with either a Cyberpunk/Fantasy/Sci-Fi/SuperHero genre
+		Not too picky with the genre... just the engine.
+
+	I sent out a few more screenshots to some of the Golgotha
+'support' websites.  These guys are kewl.  I'm always glad to see people
+supporting the hard work that we do.  The guy at Golgotha Dammit wrote my
+name as STEVE.  I utterly despise STEVE.  So much in fact that I often
+don't reply to email that starts out... Dear Steve.  I figure that they
+have the wrong Stephen... and I delete their message.  Sure, it's harsh,
+but obtaining Partial Global World Domination isn't easy.  You have to
+have standards and force your underlings to comply.  Otherwise you have
+utter chaos.  Chaos is great at a Rave/Nude-Beach-Party.  But try ruling a
+world with it.  *sigh*
+
+	I wonder if anyone ever reads this crap.  I should include secret
+Golgotha tricks and tips in each one of these updates.  Then I'd see who
+actually reads them.  Or... some wiseass would read it, then post it on
+the web and claim it as his own brilliant deduction.
+	*Memo to self*  When I rule my little part of the world, send out
+the Assimites to round up all of the wiseasses ('cept me... of course) and
+send them to France.  Why France?  Because it's not Texas.
+	First tip of the Golgotha 'demos'....  Create a new game... making
+sure that you don't have any scenes.   Switch to the game F6, note where
+your super tank is on the map... then press the 'M' key.  This will try to
+load the Movie Scene.  But since there isn't one... it will make your
+tank's current position into a camera and 'randomly' teleport your tank
+somewhere.  If you drive the tank back to the spot where it was before you
+hit the 'M' key... you can watch your super tank driving around and
+killing things.  This is kind of neat.  You may not be impressed with
+it... but we were.  Call it an undocumented 'feature'.  :)  (Oh... and you
+can still you the right mouse button to control the turret.. while doing
+this)
+
+	Well, I've rambled enough for now.  IF you want to chat about
+something... email me.  Otherwise thanks for reading all of this.  Unless
+of course you are a stalker.  In which case remember that Texas has a
+Concealed Handgun law.  (IE... I may have one)  Or scarier yet... I may
+not need one.  *GriN*   If you are a FEMALE stalker... you have to consult
+the 'girls' first.  If they accept you into the 'clan'... then you can
+stalk your little ass off!   Whoo Woo Woo!!!
+
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+
+
+Tuesday July 29,1997
+
+	Once again, my .plan file has been nuked from our server.  So, I
+am forced to create yet another.  *sigh*
+
+	I just talked to the insurance agent of the guy that destroyed my
+new 2 week old car with his Suburban.  They are willing to work everything
+out and take complete responsibility for the wreck.  !Yippee!
+
+	As for work, well, I haven't been able to do as much as I would
+like to.  The game refuses to work on my computer.  I am left to speculate
+what the 'ex-artist'/'previous owner' did to my machine before he left
+Crack.  There appears to be a couple of solutions.
+	- Format the harddrive and re-install everything.  *groan*
+	- Delete windows, and re-install all of the drivers. *groan*
+	- Wait for the programmers to piece the software version of the
+game back together.  *sigh*
+	- Stay late each night when everyone has left and work on someone
+elses machine.  *yawn*
+	- Work on completely unrelated stuff... like catching up on the
+latest software packages and plugins for Max and Photoshop.  *GriN*
+
+
+	I watched Air Force One last night.  Kewl effects.  But I must
+say, that I am REALLY waiting to see Starship Troopers and SPAWN!!!
+	They look very YUMMY!  Maybe someday, I'll start my own production
+company and I'll make something that will set the standards in movie
+making.  I mean, hell, I am very convinced that Golgotha will ROCK the
+world when it is released.  (Especially since all of the Intel and AMD
+chip prices just dropped throught the floor.  *GriN*)
+
+	OH, I met a very kewl 3d artist that is looking for work.  He is
+currently working as a professionaly magician here in Austin.  His demo
+reel looks really good and he is a nice guy.  If anyone out there is
+looking for someone with talent and skill and the desire to bust his ass
+to be part of the computer art community, let me know and I'll send you
+his email address.
+	Anyhow, this guy brought me a copy of the Spirit of XMAS video to
+check out.  Amazingly, I had never heard of it or seen it.  But let me
+tell you, that is REAL art.  :)
+	If you are curious what it is all about check out,
+
+	http://incognito.caltech.edu/soxmas/
+
+	Well, that's all for now.  I have to email a couple of beautiful
+young ladies that I have been neglecting for the last week.  That, 'oh, my
+email has been bouncing and I couldn't write you', excuse is wearing thin.
+*Smile*
+
+=------===========--------========----======-------------===--------===
+Stephen C.E.S. Wilson		| 3D Artist and Animator forWebsite -
+http://www.austintx.net/SCESW	|      ~-._ Crack dot Com _.-~
+Email  SCESW@austintx.net      	|       Check my website for
+@Work  Stephen@crack.com       	| FREE Meshes, Portfolio, & Bio
+
+
+	Plan?
+
+	Well, how about finishing this game... (Golgotha) and making enough
+ money to pay off the bills and go to Europe for a couple of months.  Then
+we'll start Golgotha II, after which I'll be able to afford to pay a 
+couple of 'low-upkeep' writers to turn my 'stories' in to the next
+Best-Sellers.

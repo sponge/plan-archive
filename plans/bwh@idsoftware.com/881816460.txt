@@ -1,0 +1,103 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 12/11/1997 01:06:24 (Central Standard Time)
+-------------------------------------------------------------------------------
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+December 11, 1997 (early AM)
+------------------
+
+Spent today going to dinner, doing e-mail, and trying to run more benchmarks.
+Unfortunately we've been having serious problems trying to get stuff up and
+running.  Still haven't managed to get our V2100 or V2200 Rendition boards
+up and running, hopefully that's a driver problem.  Still haven't got the
+NVidia RIVA128's ICD up and running either, waiting on new drivers from them.
+Haven't tested the Canopus Pure3D yet, due to lack of time, but that'll 
+hopefully get the treatment tomorrow.
+
+However, we DID get the Voodoo2 up and running, both in SLI and standalone
+mode and all I have to say is OH MY GOD.  Uh, ouch, it would suck to be one
+of 3Dfx's competitors right now.  This chipset rocks.  The numbers are
+just incredible, and through much of base1 you're zipping around at 60fps.
+
+Quake2 is a different game at 60fps.  Period.  You can see everything with
+a very eery, silken clarity.  Particles look like they're flowing through
+the air instead of flying through the air.  Rockets look distinct instead of
+like hazy blurs.
+
+Anyway, onto other stuff...
+
+Here is a pet peeve of mine with the Microsoft Developer Studio debugger.  How
+am I supposed to look at N items of an array?!  For example, if I have a
+pointer to an array of floats being passed to a function the debugger has no
+idea how many elements are in the source array so it only shows the first one,
+and there is no way (that I know of) to look at a bunch of them, especially
+if I want to look at several array simultaneously.
+
+Yes, I can look at the memory watch window, that is an ugly mess that is
+complete unintuitive.  The Borland debugger that I used to use would let
+simply specify something like this:
+
+p,50
+
+Where "50" is the number of elements.  That is SO cool.  The MSDEV memory
+watch window won't let you look at more than one thing at a time.
+
+Oh yeah, while I'm bitching about MSDEV, what is SO difficult about doing a
+cross compiler?!  Why do I have to unass myself from my chair and walk to a DEC
+Alpha machine to generate a DEC Alpha executable?!  GCC has had this for
+decades.
+
+December 10, 1997 (early afternoon)
+------------------
+
+Oh geez, I'll test the Canopus Pure3D already! :-) I don't think the Pure3D's
+performance advantage is going to manifest itself in a TIMEDEMO, but I DO think
+it will still _feel_ faster than a 4MB 3Dfx board because it won't swap as
+many textures.  Unfortunately, this texture swapping often doesn't show up in
+a TIMEDEMO, it only manifests itself as a few REALLY slow frames, which feel
+horrible but don't affect TIMEDEMO scores that drastically.
+
+But to be thorough, I'll go ahead and test one of these puppies.
+
+December 10, 1997 (early AM)
+------------------
+
+I ran the first set of benchmark tests tonight.  The test system is an Intel
+Pentium 2 AGP system w/ 64MB of RAM.  The operating systems are Win95 OSR 2.1
+and WinNT 4.0 SP3.  The boards that I'm testing are:
+
+- 3Dfx Voodoo2 SLI PCI (3Dfx Voodoo2, dual TMU, SLI)
+- Quantum3D Obsidian XS-100 4440 (3Dfx Voodoo, dual TMU, SLI)
+- 3Dfx Voodoo2 PCI (3Dfx Voodoo2, dual TMU)
+- 3Dfx Voodoo PCI (3Dfx Voodoo, dual TMU)
+- Diamond Monster3D (3Dfx Voodoo)
+- STB Velocity 128 PCI (NVidia RIVA128)
+- Diamond Viper 330 AGP (NVidia RIVA128)
+- ATI Rage Pro 3D AGP (ATI Rage Pro)
+- 3DLabs Permedia 2 AGP (3DLabs Permedia2)
+- PowerVR PCX2 PCI (PCX2)
+- Rendition V2200 PCI (Rendition V2200)
+- Diamond Stealth 3D PCI (Rendition V2100)
+- Intergraph Realizm PCI
+- Voodoo Rush PCI (Voodoo Rush w/ 6MB)
+
+Boards notably absent, and likely not to be tested because of prior poor
+performance:
+
+- Pyramid3D-based boards
+- Number Nine Imagine128
+
+I'm also going to pass on testing the Canopus, since it likely won't have
+significantly better measurable performance
+
+Yes, I'm well aware that

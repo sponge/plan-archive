@@ -1,0 +1,14 @@
+Account Name:  Tom Pytel
+Email address: tomp@3drealms.com
+----------
+I have a serious question for all you wild and crazy mappers and mod freaks out there. Given a game, what kind of mod/map mechanism would you prefer given a choice? Basically, what would really make ya wanna play with the game and dive into doing your own shit? Here are a few possibilities:
+
+) A full GUI editor a-la Unreal with lots of pre-set tweakable properties for almost everything and a complex game-dependant, but system limited, scripting language
+
+) A seperate suite of editing tools, or maybe a single integrated editor, for all the resources (maps, models, etc...). With C code available for the whole game logic (requiring an external compiler, but providing full C functionality) for mods.
+
+) A fully integrated, but simpler in-game editor. With a fully integrated, powerful, very C-like scripting language (too powerful actually, cuz a bug could crash the game).
+
+Basically, the question is one of power and flexibility vs. ease of use and quicker prototyping. Any comments?
+	
+    

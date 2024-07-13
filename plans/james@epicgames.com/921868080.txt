@@ -1,0 +1,8 @@
+Login: james          			Name: James Schmalz
+Directory: /home/james              	Shell: /bin/false
+Never logged in.
+No mail.
+Plan:
+This is James Schmalz's .plan file.
+
+Coming soon.

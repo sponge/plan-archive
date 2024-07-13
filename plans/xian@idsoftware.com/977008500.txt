@@ -1,0 +1,101 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: 
+Last Updated: 12/16/2000 16:40:24 (Pacific Standard Time)
+-------------------------------------------------------------------------------
+
+
+Dec.16.2000 @ 6:40pm CST
+
+Q3A 1.27g and Team Arena Stuff
+
+ I've been reading messageboards, and recently started getting some emails
+about it, so I thought it best to write a small FAQ outlining a few issues
+with Team Arena, and the recently released 1.27g patch for Quake III.
+
+---
+Q: "Team Arena drops the last two digits of my CD Key when I enter it in the
+menu. WTF man ?"
+
+A: The last two digits of your CD Key serve as a checksum for the preceeding
+16 bytes. They are not essential for online play, and their purpose is to 
+verify that you have entered your CD Key correctly. If you have entered your
+CD Key correctly either in the TA setup program, or manually in the TA menu,
+you should not have any problems with having an invalid CD Key. The last two
+bytes are not written out to the q3key file, and as such, do not appear in 
+the menu. Don't panic =)
+
+---
+Q: "I'm trying to play TA online and I'm getting an 'Invalid CD Key' message ?
+WTF is up wit dat ?"
+
+A: Team Arena needs both a valid CD Key for Q3A and Team Arena entered. If you
+are getting an 'Invalid CD Key' message whilst trying to connect to a Team Arena
+server, more than likely what has happened is that you have reinstalled Quake 3,
+installed Team Arena, but forgot to enter your Q3A CD Key.
+
+---
+Q: "Dude! I have both my CD Key's entered, yet I'm still getting 'Invalid CD
+Key'. WTF IS GOING ON?!?!!!!???
+
+A: More than likely, you have mistyped your Q3A CD Key. We don't do any
+verification of the Q3A CD Key like we do with Team Arena, so please ensure
+that you have entered you Q3A key correctly. Be sure to check for obvious
+mistypes such as "zero" and "oh".
+
+---
+Q: "The Q3TA Setup program says it can't find my quake 3 installation, but it's
+in c:\quake3. WTF is it's problem ?!"
+
+A: More than likely what has happened here is you've either installed a new OS
+which has blown away your registry settings, or you have moved the Q3A directory 
+from it's original installation directory. The Q3TA setup program checks the
+registry for the location of where Q3A is installed based on the original
+Activision installer for Q3A. If your setup program is acting all wonky and 
+won't find your Q3A installation, the only recommendation I can make is to
+reinstall Q3A off the CD to a new directory (Don't forget to enter your Q3A CD
+Key!) and then install Q3TA.
+
+---
+Q: "Dude, my shaders are all fux0red and I'm getting nice white blocks everywhere.
+WTF ?"
+
+A: Q3TA and Quake 1.27g are much more stringent on checking pakfiles now. More than
+likely what has happened is you have an older mod somewhere that is replacing some
+shaders in memory and you're getting all sorts of ugly looking graphics. My 
+recommendation is to just bite the bullet and install Q3A to a *NEW* directory.
+I can almost guarantee that if you reinstall Q3A, Install either TA or 1.27g, then
+install the latest 1.27g compliant mods, most if not all of your graphics wierdness
+will go away.
+
+ Hope this helps.
+
+ Cheers,
+
+ -Xian
+
+PS: Hi mom.
+
+
+
+---
+
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, Y2K bug, mud slides, forest fire, or projectile 
+(which can include, but not be limited to, arrows, bullets, shot, BB's, 
+paintball, shrapnel, lasers, napalm, torpedoes, or emissions of X-rays, Alpha,
+Beta and Gamma rays, knives, stones, etc.). 
+
+---

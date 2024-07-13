@@ -340,4 +340,5 @@ Basically, animation memory will NOT be a problem!
 
 Rotatable nodes at runtime - This will allow us to move 
 character heads, eyes, limbs, and mouths independent of the 
-animation they're playing.  One thing we might expe
+animation they're playing.  One thing we might experiment 
+with is a 'ragdoll' mode a mode

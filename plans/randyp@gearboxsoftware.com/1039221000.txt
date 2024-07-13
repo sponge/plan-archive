@@ -1,0 +1,673 @@
+Login: randyp         			Name: Randy Pitchford
+Directory: /home/randyp             	Shell: /bin/bash
+Never logged in.
+No mail.
+Project:
+
+1) Halo: PC
+2) Secret Sauce
+
+Plan:
+********
+12/06/02
+
+Gearbox Software suspended development of Counter-Strike: Condition Zero
+in July of 2002.  Counter-Strike: Condition Zero introduces single player
+gaming to the world's #1 online action game.  Valve Software has overseen
+development since July.  Gearbox is aware of and endorses Ritual
+Entertainment's involvement.  After developing several Half-Life games,
+Counter-Strike: Condition Zero, Tony Hawk Pro Skater 3 and James Bond 007:
+Nightfire, Gearbox Software is refocusing its efforts on future technology
+and more interesting and innovative game play.  Gearbox Software will be
+discussing Halo: Combat Evolved for the PC and our vision for the future of
+interactive entertainment at The CPL's December 2002 event in Dallas, Texas.
+
+Any inquiries may directed to press@gearboxsoftware.com
+
+-Randy Pitchford
+
+
+********
+10/11/02
+
+Check out the current issue of CGW - James Bond 007: Nightfire is on the
+cover and there is some great coverage within - lots of exclusive screenshots
+and new information about the single and multiplayer game.
+
+-DuvalMagic
+
+
+********
+08/20/02
+
+I heard the news about William last night when I checked Jim Dose's plan
+file on a whim. I had a hard time sleeping last night - I was remembering.
+
+William was one of a handful of guys I connected with when I worked at
+3dRealms. With William, mutual respect and professionalism was a given.
+
+I came to know him long after Rise of the Triad, working on Prey.  I heard
+stories about how he "enjoyed" the success and money from Triad and the
+feeling was that Prey could be much, much bigger.  In late 1996, with every
+other person on the Prey team leaving to start other companies or work on
+other projects, he was really the only guy left. For some reason, he chose
+me to get involved with him in the design of the new editor for Prey, so I
+was fortunate enough to spend lots of time with William.
+
+I remember spending afternoons with him yelling our way through design
+problems with the Prey editor over the boom of his stereo blasting The
+Beastie Boys.  Brian Martel always said, "The Beastie Boys are developing
+Prey."
+
+It bothers me, now that he's gone, that he saw Rise of the Triad as just a
+step and Prey was where he intended to prove himself. He didn't know that
+Triad was to be his most successful, released game that he had significant
+involvement with.
+
+But, I saw evidence of his success after Triad - I played with it, worked
+with it.  He made neat things happen with the Prey engine, things no one
+else was doing at the time. Unfortunately, other problems plagued the
+project.
+
+When I heard about him leaving the game business several years ago, I
+remember having some thoughts about it.  On one hand, I felt good that he
+was relieved of the unpredictability of factors he had little control over
+affecting his ability to reach his goals.  On the other hand, I felt sad
+that his achievements may never reach the hands of the public.
+
+I heard from him occasionally after I left 3dRealms - Mostly him telling
+me about something The Beastie Boys were doing.  It's been a couple years
+since I heard from him...
+
+I'm sorry he's gone.  I would think of him from time to time, wondering if
+or when he may emerge again in the game dev scene.  I'm sorry I'll never
+get to congratulate him again.
+
+William added something to my life and for that I am thankful.  I can only
+hope that he found fulfillment and happiness with his life after games. 
+
+-DuvalMagic
+
+
+********
+07/15/02
+
+By the way - The new Gearbox website was designed by Walter "|2|" Costinak.
+
+We thank him.
+
+www.2design.org
+
+-DuvalMagic
+
+
+********
+07/12/02
+
+Gearbox has launched a new website.  Feel free to tell us what you think
+about what we're working on in the public forums.
+
+-DuvalMagic
+
+
+********
+06/11/02
+
+Gearbox is hiring.  This is a rare opportunity to get involved in some
+serious titles (like Counter-Strike: Condition Zero or James Bond) before
+they go out the door.  Credit, royalties and getting in at the beginning of
+our future titles is a rare opportunity so if you have talent and passion
+about the kinds of games we make don't miss out on this chance.  
+
+Specifically, we're looking for an animator and a level designer.
+Descriptions of these positions are below.
+
+Here's how to get a hold of us:
+
++ E-Mail resume: jobs@gearboxsoftware.com
+OR
++ Snail mail or FAX resume, demo tapes and/or samples:
+
+     Gearbox Software
+     Attention: Recruiting
+     101 East Park Blvd. Suite 1069
+     Plano, TX  75074
+     FAX: (972) 312-8318
+
+
+Here are the position descriptions:
+
+ARTIST - ANIMATION
+
+Gearbox Software, creators of Half-Life: Opposing Force, Half-Life: Blue
+Shift, Tony Hawk's Pro Skater 3 for PC, Half-Life for PlayStation 2,
+Counter-Strike: Condition Zero and James Bond: Nightfire is looking for a
+talented 3d artist to join our award winning team of developers.
+
+The successful candidate will have a well rounded background in art, but
+has a passion and interest in character animation and has experience
+animating content for use in digital entertainment.
+
+   Required:
+   - Excellent 3d model animation skills using professional 3d art packages
+   - Experience creating art and 3d models for computer games
+   - Team working experience
+   - Good communication skills
+   - Must be a US citizen and be able to live and work in Dallas, TX
+   - Must play and love games
+
+   Preferred:
+   - Shipping 3D game development experience
+   - 3d Studio MAX and Character Studio expertise
+   - Proficiency with commercial 2d art software like Adobe Photoshop
+   - BS (or equivalent degree or certificate) in art or related subjects
+
+   Compensation:
+   - Excellent salary commensurate with experience
+   - Royalty percentage of huge, AAA games
+   - Full benefits package
+   - Signing bonus and relocation package
+   - Upward mobility and promotion possible
+   - Great office culture
+   - Many other perks and benefits
+
+
+
+LEVEL DESIGNER
+
+Gearbox Software, creators of Half-Life: Opposing Force, Half-Life: Blue
+Shift, Tony Hawk's Pro Skater 3 for PC, Half-Life for PlayStation 2,
+Counter-Strike: Condition Zero and James Bond: Nightfire is looking for a
+talented 3d artist to join our award winning team of developers.
+
+The successful candidate will have created solid, fun and visually stunning
+environments and game scenarios for a 3D game.
+
+   Required:
+   - Experience designing levels for at least one completed commercial
+     project or game modification project
+   - Excellent team oriented and independent work habits
+   - Ability to adapt to a defined design and artistic style
+
+   Preferred:
+   - 1+ year experience in the game development industry
+   - Experience with level building tools like Radiant and Worldcraft
+   - Working knowledge of 2d art tools
+   - Degree in Computer Science, Architecture, Artistic Design or CAD 
+
+   Compensation:
+   - Excellent salary commensurate with experience
+   - Royalty percentage of huge, AAA games
+   - Full benefits package
+   - Signing bonus and relocation package
+   - Upward mobility and promotion possible
+   - Great office culture
+   - Many other perks and benefits
+
+
+Again, contact us this way:
+
++ E-Mail resume: jobs@gearboxsoftware.com
+OR
++ Snail mail or FAX resume, demo tapes and/or samples:
+
+     Gearbox Software
+     Attention: Recruiting
+     101 East Park Blvd. Suite 1069
+     Plano, TX  75074
+     FAX: (972) 312-8318
+
+
+-DuvalMagic
+
+
+
+********
+03/29/02
+
+Tony Hawk's Pro Skater 3 for the PC is now in stores.
+
+Everybody at the office is playing on-line, so if you've managed to get the
+game early and jump on-line, there's a very high probability that you're
+playing with someone from the development team.  
+
+I noticed that EBgames.com is giving away a USB adapter for the PS2 joystick
+if you purchase the game on-line from them.  They say that this is only for
+pre-orders, but if you order immediately you'll probably be okay.
+
+Gearbox really enjoys this game and we intend to be playing it on-line for
+some time.  We're therefore very interested in supporting the title and
+improving it through user feedback.  The game has been through some very
+thorough testing at Gearbox and with the "Pro Skaters" at Activision, but
+there are always things players discover or think of to improve the game
+that we may have overlooked.
+
+Please send feedback directly to us at:  thps3@gearboxsoftware.com.
+
+Game on!
+
+-DuvalMagic
+ 
+
+********
+03/14/02
+
+Opposing Force On-Line is now available in a mod version. Also available
+is the Linux dedicated server. There are mirrors at many of the news sites
+and you can now also download the files from Gearbox Software's FTP.
+
+Here are the links:
+
+Linux Dedicated Server - opfor1108.tar.bz2
+
+Opposing Force On-Line (Mod version) - ofo1108.exe
+
+Note that this latest release includes new content and a new game mode,
+Zone Control.  Of course, all of the "All-Star" deathmatch maps and Capture
+the Flag maps are included.
+
+Also note that this release of Opposing Force On-Line is now a modification
+of Half-Life.  If you own Half-Life, no other purchase is required.
+
+Join us on Gearbox Software's game servers.
+
+-DuvalMagic
+
+
+********
+02/15/02
+
+Gearbox Software is celebrating it's third anniversary.
+
+I'm very proud of what we've accomplished thus far and am extremely
+excited about where we are going.
+
+In it's life span, Gearbox Software has shipped three complete titles and
+shelved twice as many SKU's.  We seem to have made a few good decisions as
+we've sold a lot of units, won some awards and seem to have made many of
+our customers happy.
+
+But, we're not resting.  We're just getting started.  And we're attentively
+listening to our customers to help us push forward.
+
+From our perspective, we haven't come close to reaching our potential.
+But, the things we've done up to this point have been fun and have been
+important to give us the experience, the resources and the partners we need
+to really make things happen as we move into new territory.  In 2002 we're
+taking some great steps towards our larger creative goals.
+
+This year, Gearbox will ship three, four or five titles including:
+- Counter-Strike: Condition Zero
+- Tony Hawk's Pro Skater 3 for PC
+- James Bond title - to be named
+
+All of this is extremely exciting to me and I envy each Gearbox developer
+that gets to focus all of their creative time towards these titles.
+
+Moving forward, I expect that we'll continue to cultivate relationships
+with the folks that we've worked so well with thus far. Valve Software,
+in particular, has been instrumental in our endeavors and I look forward
+to many future adventures with them and their characters.
+
+Also, soon we'll be creating new things that we hope will surprise and
+inspire game players and game makers everywhere. Along the way, we intend
+to attract new customers who still need a little extra effort from us
+before they figure out what they've been missing out on.  It's the
+responsibility of the rest of us to show non-gamers that enjoying
+interactive entertainment is time well spent.
+
+In any case, I wish everyone in our industry the success that we've
+achieved over the past three years.
+
+Happy Birthday Gearbox!
+
+-DuvalMagic
+
+
+********
+12/10/01
+
+I'd like to extend my thanks to everyone who attended the CPL world
+championship and joined us in our discussion about the future of Counter-
+Strike.
+
+Questions and feedback we received there influences our direction, so we
+very much appreciate your time.
+
+I'd also like to congratulate all of the participants in the Counter-Strike
+world championship.  You are paving the way.  With coverage from CNN and
+ESPN and $150,000 on the line from sponsors like Intel, it's really
+wonderful to see our new professional sport becoming cemented into our
+culture.
+
+For interested people who didn't attend, coverage can be found at shackES
+and at the Adrenaline Vault.
+
+-DuvalMagic
+
+
+********
+11/19/01
+
+Half-Life for PS2 is on shelves worldwide.  Buy it now!  Here's some info
+from a few of the better review sites to help you with your decision:
+
+IGN - 9.1 (out of 10)
+http://ps2.ign.com/reviews/15631.html
+"All in all, Half-Life is the best first-person shooter on PlayStation 2
+to date."
+
+GameSpy - 89% 
+http://www.gamespy.com/reviews/november01/halflifeps2/
+"The quality of the interlocking plot, the ongoing madness, the insanely
+human AI of the enemy infantry you encounter, and the alien mind-funk of
+the final portion of the experience is all you need this side of Halo."
+
+GameSpot - 8.8 (out of 10)
+http://gamespot.com/gamespot/filters/products/0,11114,466377,00.html
+"Featuring the classic single-player game, a head-to-head deathmatch mode,
+and a new cooperative multiplayer expansion called Decay, Half-Life for
+the PS2 is a gripping combination of superb story design, sly artificial
+intelligence, taut combat sequences, and logical puzzles."
+
+-DuvalMagic
+
+
+********
+09/21/01
+
+I've been getting a lot of e-mail...
+
+Gearbox Software does not currently need any Beta testers for Counter-Strike:
+Condition Zero.  If we do need testers in the future, I'll put the word out.
+
+But I thank you for the many e-mails I've received from fans who are clearly
+very excited about Condition Zero and would like a chance to have a look
+before it's complete.  We've been working with the press to deliver as much
+information about Condition Zero development as we can as quickly as features
+and content are added to the game.  Soon, there will be a new wave of info
+available on-line and in the print press.
+
+Until then, please be patient and understanding if we don't respond to all
+of your e-mail.  
+
+-DuvalMagic
+
+
+********
+07/04/01
+
+Blue Shift is the #1 PC game in North America.
+
+NPD Top Ten PC Games for the week of June 23:
+
+1.Half-Life Blue Shift ($35)
+2.The Sims ($50)
+3.The Sims: House Party ($30) 
+4.The Sims: Livin' Large ($30)
+5.Starcraft Battlechest Bundle ($25)
+6.Emperor: Battle For Dune ($50)
+7.Roller Coaster Tycoon  ($28)
+8.Diablo II ($40)
+9.Myst III: Exile ($45)
+10.Black & White ($45)
+
+Crazy.
+ 
+-DuvalMagic
+
+
+********
+06/25/01
+
+Gearbox Software is hiring.  Gearbox is growing cautiously and smartly, but
+we are growing.  We're serious this time...
+
+We're ramping up new projects outside of the Half-Life series, so this is
+a one time chance to join our award winning talent as we break new ground.
+
+Aside from the all-new stuff, we're also continuing work with Valve and
+Sierra in the future on some very exciting projects that are inside of the
+Half-Life franchise of games.  This is a rare chance to be a creative part
+of some of the most successful and popular games ever made for the PC.
+
+The resume building opportunities alone are golden, but since we foster
+the sort of comfortable and productive development environment that's kept us
+from ever losing an employee you'll probably be much more interested in
+royalties, our complete benfits package, and many other perks Gearbox offers.
+
+There are several positions in art, programming and level design open
+and information about those positions can be found on our site:
+
+www.gearboxsoftware.com
+
+You can also look at the job descriptions posted on Gamasutra:
+
+www.gamasutra.com
+
+-DuvalMagic
+
+
+********
+06/18/01
+
+!Blue Shift for $20 with a free copy of Gunman!
+
+At the Best Buy in Plano, TX, Blue Shift is $20 and you get a free copy of
+Gunman Chronicles.  This is before the $10 Opposing Force rebate, so if
+you've already got Opposing Force, you can get Gunman and Blue Shift with
+the HD Pack for only $10.  Serious bargain...
+
+If you're from somewhere else and find any good Blue Shift bargains, drop
+me a note and I'll mention them here.
+
+-DuvalMagic
+
+
+********
+06/05/01
+
+Sierra has posted the video trailer they made of the Playstation 2 version
+of Half-Life for E3 here at their official site:
+
+http://sierrastudios.com/games/half-life-playstation2/
+
+There's a couple of glimpses of the new cooperative game (Half-Life: Decay).
+
+Check it out.
+
+-DuvalMagic
+
+
+
+********
+05/31/01
+
+Blue Shift for $19.99!
+
+http://www.compusa.com/products/product_info.asp?product_code=283501
+
+The shelf date is still second week of June.  It went gold a couple of weeks
+before E3, so it's a gimme...
+
+-DuvalMagic
+
+
++++
+Game Design Theory -
+
+Last week, for some reason, I wrote a down a thought relating to game design.
+This morning I found it in a notepad on my desktop:  
+
+
+> Failure is no fun.
+>
+> Success feels good.
+>
+> People don't like to fail. They like to succeed.
+>
+> Once having failed, people will only continue playing if they believe
+> the reward they'll get is worth the investment it takes to develop the
+> skills necessary to succeed.
+>
+> So, you need to make a promise of some kind of reward to entice players
+> to keep at it.
+>
+> AND, you need to deliver an understanding of what kind of investment it
+> will take to succeed.
+>
+> Typically, that understanding can be delivered upon failure.  Players
+> must profit from failure.  Players must profit more from failure than
+> from success because success is a reward in and of itself, whereas
+> failure is an incentive to stop playing.
+>
+> Failure is no fun.
+
+
+Anyone agree with this?
++++
+
+
+********
+03/14/01
+
+Half-Life: Opposing Force is now at version 1.1.0.6
+
+The OpFor Linux server will be released tomorrow afternoon - I'll get some
+mirrors in place before the release.
+
+This release includes OpFor CTF (team based multiplayer action - Black Mesa
+Civilians vs. the Opposing Force soldiers).  It also includes the entire
+collection of All-Star deathmatch maps (Fun stuff from great designers
+including Tom "Paradox" Mustaine, David Kelvin, Eric Reuter, Marin "Kndyman"
+Gazzari, Rich Carlson and The Levelord).
+
+Some notes about the Linux version:
+
+* No CD required, just get the Valve HL server and the OpFor server
+* Install clean if you can
+* Otherwise, make sure you delete pak0.pak from the /gearbox directory
+* E-mail zoner@gearboxsoftware.com for comments/questions about the Linux
+  server
+
+Notes about the patch:
+
+* Deathmatch now uses the CTF style grappling hook (use sv_oldgrapple to
+  revert if you liked the old one better)
+* Trip mines don't block doors anymore.  Also, we fixed the problem of them
+  being used as stairs
+* European versions should all be good now.  Sorry about earlier localization
+  issues
+
+So, go and play OpFor Online.  If you enjoy team based multiplayer and
+haven't tried OpFor CTF yet, you're missing out.  If we see enough people on
+the servers, we'll create some more maps for you...
+
+-DuvalMagic
+
+
+********
+03/02/01
+
+About three years ago, when Rebel Boat Rocker was shutting down and we
+began creating Gearbox Software in its wake, I had some time and inclination
+to think about the process of making games.
+
+I began compiling tidbits of information and game development wisdom into
+a single document.  Some of it I stole from the talent I've been working
+with - guys like Brian Martel and Rob Heironimus.  Other bits came from
+tricks and facts I've learned from people like George Broussard, Richard
+Hilleman and Kerry Wilkenson.  Most of it just came from my experiences as
+a game maker.
+
+Since I founded Gearbox, I've been appending lines from the document piece
+by piece onto the end of each of my .plan file entries.
+
+I've decided to just print the whole thing here now for a couple of reasons.
+First, many of the items I've grown to have different opinions about - a
+problem that is likely to get worse in time if I don't share everything.
+Second, I think that just about every other developer who's reflected on the
+process of game making probably has great insignt and may want to contribute
+to such a list if invited.  Finally, it's not a terribly long list.
+
+So, below is my list of "Game Development Rules and Observations." If you'd
+like me to add something to the list, feel free to e-mail me. Before too
+long, I'll probably re-print everything somewhere.
+
+
+(+ indicates that the item has already appeared in one of my .plan updates)
+
+
+Game Development Rules and Observations
+
++ Pitchford's Law of Production: The accuracy of the release date directly
+  correlates to confidence in the schedule. Without a schedule, there is
+  zero precision in the release date.
+
++ Building a smaller game that is very solid is better than building a
+  huge game that is broken.
+
+- The interface to the game is an obstacle - not a feature.
+
+- Getting feedback from interaction with the game is the whole point.
+  The more rewarding, interesting, unique, beautiful and smart the
+  feedback is, the better the experience.
+
++ The more work (installation, learning, cut-scenes, etc) a new player
+  has to sift through before getting to the actual game the less likely
+  that player will eventually find fun in their experience.
+
++ Always preceed challenge with incentive. Always follow challenges with
+  feedback.  A player must profit from both success *and* failure.
+
+- Do not follow whatever the most respected game of last year was by
+  making the same game and thinking that you can do it better - unless
+  you're making an add-on pack :)
+
++ Remember that you cannot build the game alone. Learning how to
+  successfully interact with your team is often more important than
+  any individual person's creative talent.
+
+- Work with the publisher's marketing people.  They exist to sell your
+  game.  If they like you and care about you, they will put more effort
+  into selling your product.
+
++ Law of FPS deathmatch design: Always make the default weapon a hitscan.
+
+- Sometimes design balance is bad.  Imbalance creates ease or difficulty
+  which can reduce or amplify the sense of accomplishment from success.
+
++ Try not to sweat the little things.  Spending half a day arguing over
+  the color of a character's eyes is counterproductive. Such things rarely
+  affect sales, or the overall response to the product.
+
++ Keep mind of the big picture.  A developer who spends too much time
+  perfecting a tiny piece of the game risks not being able to deliver
+  the whole.
+
++ Focus on your tasks.  Do not allow yourself to worry too much about
+  how everyone else you work with is doing (unless that's your role).
+
++ Things usually take about twice as long as you think they should.
+
++ If you can't find fulfillment in a job as challenging and rewarding
+  as this one, get help. You're probably suicidal.
+
++ This is a really hard one:  Don't burn bridges.  You never know who
+  you're going to have to work with again.  We're all usually guilty
+  of this at least one time before we figure it out.
+
+- Martel's Law of human nature: It's always fun to blow stuff up.
+
++ Amongst the passionate developers who really care about games remember
+  that there are no perfect people, but there are plenty of perfect
+  intentions. Therefore, be considerate of others mistakes.
+
+- Treat others who seem to be slacking with the patience and
+  understanding you'll need when you hit a creative slow point.
+
+- Learn to harness the creativity of those who don't conform in the
+  expected ways.  That guy with the colored hair may look at things
+  differently.  This can be valuable if it can be leveraged.
+
+- Be careful about working with antisocial peopl

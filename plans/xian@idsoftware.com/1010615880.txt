@@ -1,0 +1,68 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: 
+Last Updated: 01/09/2002 16:42:59 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+Jan.9.2001 @ 4:42pm
+-------------------
+
+ Todd asked me to make an update to my last .plan.
+
+ Please submit any bugs in playtesting on the below servers to;
+
+ wolfbugs@idsoftware.com
+
+ ... and not my email address. We'd like all bug reports to be
+channeled through one central location (Yes! A real live human does actually
+go through that email account !)
+
+ Also, I said the patch will be released in "two weeks", not two weeks =)
+
+ I keep forgetting sometimes that as the community grows with newer fans and 
+players, some of you may not be familiar with old-school id lingo.
+
+ "two weeks", "when it's done", "soon", etc... simply means "when it's done".
+
+ Sorry for the confusion.
+
+ -Xian
+
+Jan.9.2001 @ 2:15pm
+-------------------
+
+ We're currently testing the release candidate for Wolf 1.1 (will be released 
+in "two weeks"). I'm running the latest server code on all my servers, so if 
+people could play on them for a few days, and forward any bugs/issues they 
+encounter to xian@idsoftware.com, we would greatly appreciate the feedback.
+
+xian-gameserver.idsoftware.com:27960 - mp_destruction
+xian-gameserver.idsoftware.com:27961 - mp_base stopwatch
+192.246.40.108:27960 - mp_trenchtoast
+
+ Thanks,
+
+ -Xian
+
+
+
+---
+
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, leaky roof, broken glass, mud slides,
+forest fire, and/or projectile (which can include, but not be limited to, 
+arrows, bullets, shot, BB's, paintball, shrapnel, lasers, napalm, torpedoes, 
+or emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.)
+
+---

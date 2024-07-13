@@ -1,0 +1,14 @@
+GarageGames plan resource for Rick Overman
+Posted Wednesday March 21, 2001 at 5:54 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=688
+
+The GarageGames staff is heading to Game Developers Conference first thing Wednesday morning and will return on Sunday.  We have a very busy schedule meeting with vendors and GarageGames developers, but we will try to check in on the GarageGames forums and see how things are going when we get a break.
+ 
+If you have not heard by now Tribes2 has gone gold.  That also means that GarageGames has gotten the final code drop from Dynamix. Tim and I have been working hard on the code since then and have made good progress in the last couple days ...but we still have a lot of work ahead of us before the release.  Tim has been working on the demo application, initialization, scripts and gui while I have been reorganizing the code base and getting some new GNU makefiles in place.
+ 
+-create new makefiles that use GNU make rather than using the proprietary OpusMake make program that was in use by Dynamix
+-added and tested makefile support for CodeWarrior 6
+-stubbed in makefile support for Microsoft VC++
+-clean up #ifndef, #define wraps in all headers
+-#ifndef all includes in header files to speed up compile times (19% faster)

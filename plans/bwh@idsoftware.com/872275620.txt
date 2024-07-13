@@ -1,0 +1,136 @@
+
+
+User Name.........bwh
+Full Name.........Brian Hook
+Home Directory....\\limbo\bwh$
+
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+August 22, 1997
+------------------
+
+From the inside jacket of White Zombie's "Astro-Creep:2000":
+
+"The point is: we obtain parametric equations by setting one of the coordinates
+equal to a function of a parameter, substituting for this coordinate in the
+given rectangular equation, and solving for the other coordinate in terms of
+the parameter."
+
+And people wonder why I think White Zombie kicks ass.
+
+August 22, 1997 (early AM)
+------------------
+
+Okay, today is the big .plan update dealing with 3D accelerators.  It's not
+quite as complete as I'd like, since we're still missing the Rendition V2200
+and ATI Rage Pro, but for now it's still good information.
+
+These numbers were acquired using GLQuake 0.93, by typing at the start level
+"TIMEDEMO DEMO1; TOGGLECONSOLE".  Tests were run on a P5/200MMX machine with
+32MB of RAM with a real Intel motherboard running Win95 OSR2 and WinNT 4 SP3.
+
+The PowerVR numbers were acquired under Win95 (since PowerVR only works under
+Win95 right now), and the RIVA128, Voodoo, and Permedia2 numbers were gathered
+under WinNT (RIVA128 only supports OpenGL under NT, and Permedia drivers are
+far more stable under NT than Win95).  The resolution was 640x480 with
+flashblend enabled.  With Permedia we used the "-lm_4" parameter which uses
+four component alpha-only lightmaps to get around deficiencies in their 
+hardware.
+
+3Dfx Voodoo, 16bpp, GL_ZTRICK=1, no-sync    mini-driver 31.8fps
+3Dfx Voodoo, 16bpp, GL_ZTRICK=0, no-sync    mini-driver 30.1fps
+3Dfx Voodoo, 16bpp, GL_ZTRICK=1, sync       mini-driver 26.1fps
+3Dfx Voodoo, 16bpp, GL_ZTRICK=0, sync       mini-driver 24.3fps
+RIVA128, 16bpp, GL_ZTRICK=0                 OpenGL MCD  23.8fps
+RIVA128, 16bpp, GL_ZTRICK=1                 OpenGL MCD  23.8fps
+PowerVR PCX2, 16bpp, GL_ZTRICK=0            mini-driver 23.0fps
+Permedia2, 16bpp, GL_ZTRICK=1               OpenGL ICD  18.4fps
+Permedia2, 16bpp, GL_ZTRICK=0               OpenGL ICD  18.3fps
+
+Okay, some comments:
+
+- it looks like the OpenGL MCD is a pretty bad performance drain for various
+reasons I haven't quite narrowed down.  If/when NVidia do an ICD, their 
+performance should go up quite a bit.
+
+- currently only Voodoo gives us the option of disabling syncing to vertical
+retrace.  As you can tell, it can make a pretty significant difference.  In
+the future triple buffering may make this issue go away to a large degree.
+
+- we expect to see more performance improvements from the PowerVR, however
+we only saw a 10% performance jump in performance when we tested on a P2/266,
+which indicates we may be approaching the limits of their current hardware.
+
+- the RIVA looked pretty damn good.  The primary deficiencies with the part
+are that it can only go to 4MB and that it doesn't have an OpenGL driver under
+Win95.  Hopefully the latter will be taken care of in the upcoming months,
+and the former will be taken care of by their next generation part.
+
+Right now it's pretty obvious that for pure playability (single player) it's
+close to a toss up between PCX2, RIVA128, and Voodoo, with the Voodoo
+currently just barely edging out the other two ON THE P5/200MMX.  This
+is VERY important -- these numbers do not necessarily correlate to the same
+relative performance on slower or faster machines, and I'm actually
+reasonably certain that the RIVA128 is faster with GLQUAKE on a P2/266,
+but formal testing on our P2/266 hasn't been done yet.  In another week
+or so I'll rerun the tests, hopefully with some new boards tossed into the
+mix.
+
+One thing most people have found out is that the performance characteristics
+you see in single player vs. deathmatch are radically different.  For this
+reason we're making at least one performance and compatibility testing map
+that will have individual rooms each testing the performance of a specific
+feature, e.g. particles, transparency, fill rate, triangle setup, etc.  As
+many of you have found out, things like particle performance and texture
+download speed are really important in deathmatch and almost irrelevant in
+single player mode.
+
+The individual numbers by themselves won't really help determine how good
+a card is, but it can let driver writers figure out where their bottlenecks
+are residing.
+
+Also, along with some standard demos a la TIMEDEMO, I'm going to try and push
+for a multiplayer deathmatch demo that will have lots of explosions, particles,
+and all other kinds of wacky shit going on to act as a real stress test.
+
+It's entirely possible that a board that's good for single player could suck
+for death match.  For example, if board A has less fill rate than board B, but
+much faster texture downloads and particle rendering it could actually give
+much more consistent performance with deathmatch play.
+
+August 21, 1997 (early AM)
+------------------
+
+Someone sent me e-mail asking me if we plan on supporting gamme correction
+in Quake2.  This would be nice, unfortunately Microsoft and/or the folks that
+write drivers for GDI/Win32 have decided that implementing two key Win32 
+driver functions (Get/SetDeviceGammaRamp) isn't that important.  Microsoft
+makes it an "optional" API to implement, and even incorrectly documents it
+between their SDK and DDK.
+
+This would ideally give us some degree of gamma control 
+
+For Quake2 I intend to support changing gamma on the fly for 3Dfx.  It's going
+to be a pretty ugly hack and not the sort of thing that you'll want to mess
+with often.  Basically, with 3Dfx Voodoo you can't use the Win32 APIs for
+controlling gamma because it's not a Win32 accelerated device (it's a secondary
+graphics device).  For this reason we'd have to access it directly, either
+through an OpenGL extension or through Glide or through something else.
+
+I chose something else.
+
+Since we have the capability of reinitializing the graphics subsystem from
+scratch we can actually set the 3Dfx global gamma environment variable,
+SST_GAMMA, to our desired value then restart OpenGL subsystem so that the
+change "catches".  It's not the most elegant solution, basically coming down
+to the following:
+
+char buffer[100];
+
+sprintf( buffer, "SST_GAMMA=%f", gl_gamma->value );
+putenv( buffer )

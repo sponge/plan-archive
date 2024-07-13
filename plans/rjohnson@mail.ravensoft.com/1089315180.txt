@@ -1,0 +1,58 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Rick Johnson
+Email: rjohnson@ravensoft.com
+Description: Lead Programmer
+Project: Quake 4
+Nickname: Superfly
+Web Page: Rick's Web Site TurtleCam! mEATwagon Cult
+Last Updated: 07/08/2004 16:15:48 (Central Standard Time)
+-------------------------------------------------------------------------------
+7/8/2004
+ User Interface ( UI ) Designer
+		This person will be responsible for both creating in-world UIs ( control panels, consoles, information panels, etc) as well as player interface menus for a Doom3 based product.  UI's will be written in a custom language that is part of the Doom3 engine.  Raven has constructed an integrated visual tool which assists the user in creating most UI functionality.
+
+	Qualified applicants should be familiar with / demonstrate:
+		* Adobe Photoshop 7.0
+		* Adobe Illustrator
+		* Quake3 / Doom3 style shaders / materials
+		* Quake3 UI ( .menu scripting format a plus )
+		* Strong visual layout and design skills, both in terms of visual appearance as well as functionality
+		* HTML, DHTML, ASP, JSP, Java Script, PHP, or Flash experience is desirable
+
+	Responsibilities will include:
+		* Fully concept out, draw, and implement UIs 
+		* Balance the visual appearance vs. rendering cost
+		* Script in functionality based on user input or other events
+
+	Applications should either email or mail resumes / portfolios to:
+		Raven Software
+		C/O Kevin Long
+		3 Point Place
+		Suite 1
+		Madison, WI 53719
+ 
+ klong@ravensoft.com
+
+	Portfolios will not be returned.
+
+5/28/2004
+ Technical Artist Position for Quake 4:
+      Raven Software is looking for a Technical Artist for the Quake 4 PC title. We prefer a person with a strong understanding of the technical side of creating art assets, such as creating textures and world models, generating shaders, and proficient in scripting. We also prefer a candidate with strong drawing and painting skills and an ability to model hi and lo-poly models in Maya and/or Lightwave. Programming experience is a plus. A background with Quake 3 shaders, a familiarity with the Quake 3 Editor, and experience in animation and effects are also a definite plus, but not required.  
+
+ Responsibilities:
+      - Create art assets, scripts, animations, shaders, and effects for Quake 4. 
+
+ Requirements:
+      - 2D drawing and painting skills.
+      - Experience using Photoshop.
+      - Experience creating textures and world models for games. 
+      - Experience building hi-poly and lo-poly 3D models in Lightwave or Maya or has experience with another 3D package and a willingness to switch.
+      - Experience with shaders and proficient in scripting.
+      - Self-motivated, with a strong artistic vision that allows them to complete tasks without supervision.
+
+   Candidates should either email their resume and sample works to
+      Kevin Long    klong@ravensoft.com
+   or Mail
+      Raven Software
+      C

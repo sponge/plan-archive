@@ -1,0 +1,37 @@
+
+*** Ion Storm's Finger Server
+
+User name: cnorden
+Plan modified: Fri Aug 21 16:25:57 1998
+
+OK...OK...you can stop bugging me about my lack of .plan updates.
+Since I haven't updated in about ten months (yikes!), I'll give a
+brief rundown of what's up here (Sorry, I'd rather make a game than
+update my .plan every hour, but I'll try to update this at least
+every other week.)
+
+Yes, we are using the Unreal engine for Deus Ex.  It rocks!!  This is
+the most modular and flexible POV engine that I have ever used (and
+yes, I have used many other engines besides Quake)  This is NOT a knock
+on Quake (or others), but for our specific game, Unreal suits our needs
+much better than the competition (thanks Tim!)
+
+We've been working hard to add all of the extra systems that we need to
+the Unreal engine (like conversations, inventory management, player
+skills and augmentations, and awesome human figures).  We want to have
+as much time as possible to tweak the gameplay to make it as fun as
+possible.  We had a great private showing at this year's E3, and we
+got an amazing response from the few people that we gave a sneak peek.
+Everything is going very well, and everybody on the team is totally
+dedicated to making Deus Ex the best RPG that you'll play in 1999.
+
+I can't give out too much information at this point about what I'm doing,
+but I'd like input from anybody out there who is reading this as to what
+kind of updates you would like to see in my .plan.  I'll try to keep
+everybody as up to date as possible as to the status of Deus Ex, but I
+can't promise anything, so don't get upset when I won't tell you something.
+We have to have some secrets in the game...
+
+-cnn
+
+

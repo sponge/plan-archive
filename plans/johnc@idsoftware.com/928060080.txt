@@ -1,0 +1,215 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 3 Arena
+Last Updated: 05/30/1999 06:58:45 (Central Standard Time)
+-------------------------------------------------------------------------------
+5/30/99
+-------
+For the past couple of weeks, I have been spending some development time on
+linux, and for the first time on a non-NEXTSTEP unix platform, I have 
+actually been enjoying it.
+
+While Id has been supporting linux since the Doom days, I have not personally
+been much of a linux user -- it was always ddt or zoid doing the actual coding
+and testing.  Every year or so I would install a linux distribution and play
+around with it for a few days, but I would always leave feeling that it was
+still pretty crude (UI wise) compared to the NEXTSTEP UI I was used to, or
+even what I had used on other commercial unix workstations and windows.
+
+There have always been a ton of reasons to like linux, but the user
+interface was enough of an issue that I couldn't buy into it completely.
+
+The gnome user environment in Red Hat 6.0 is finally at a level that I
+consider it a valid alternative to commercial desktop environments.  Overall,
+its still not as smooth, consistant, or complete as windows or the mac, but
+is does have its strong points, and things seem to be progressing quite
+rapidly.
+
+Its still not something you would give to a purely casual computer user,
+but I won't be surprised if even that changes in a couple years.
+
+CodeWarrior for linux is also a significant aspect of my enjoyment.  Its
+a sort of crappy 1.0 port with a lot of little issues, but the editor works
+well enough, which is the important thing for me.  I have never been able
+to stand vi or emacs for long enough to become proficient in them.
+
+The code that I have been playing with most is the matrox g200 GLX driver.
+
+Matrox is the first of the major 3D chip vendors that has had the guts to
+publicly release register level documentation for their 3D chips.
+
+An accelerated X windows OpenGL driver has been put together with this by
+building on top of the existing Mesa and GLX projects.
+
+It actually runs quake, quake2, and q3test.  It doesn't run them FAST, but
+the quality is good, and I am impressed nonetheless.  It is bordering on
+playable with all quality options set to the minimum on a fast computer,
+but it still has a ways to go before casual users should take a look at it.
+
+It is steadily improving, and I hope Matrox will be pleased enough with the
+progress that they will release the documentation for their setup engine to
+go with the rasterizer.
+
+In testing q3 on it, I noticed that with picmip set to 0, textures would get
+corrupted and it would never settle on a working set.  The current Apple
+OpenGL drivers also have exactly this problem.
+
+The cool part is that this driver is completely open source.  I downloaded
+the project code, browsed through it a bit, and changed two lines of code to
+fix the bug.  That RULES.
+
+The next thing is sort of funny.  I had been suspecting that a lot of the
+OpenGL drivers were clearing the entire depth buffer for each of the 3D icons
+on the status bar, instead of limiting it to the scissor region.  I added code
+to the g200 driver to explicitly crop the clear region in the driver, but it
+never got executed.  A little more investigation showed that I had been making
+an improper assumption for years -- scissor is not enabled by default.  Doh.
+
+Ever since noticing that glquake cleared the screen borders when the view is
+sized down, I had been operating under the assumption that intergraph just had
+a bug in their drivers.  I had double checked that glClear was supposed to be
+limited to the scissor region, so I thought they were just messing it up.
+
+Now I know that I was just being an idiot about that for the last three
+years...  With scissor enabled, most of the cards got a few percent faster.
+
+
+
+5/30/99
+-------
+* dynamic curve level of detail
+	r_subdivisions determines the maximum level
+	of detail, r_lodCurveError determines how
+	quickly polygons are pulled out with distance
+* devmap  sets cheats 1, map  sets cheats 0
+* change weapon item upscale to 1.5 instead of 2
+* always toss items forward, even if looking up or down
+* draw ammo in grey while weapons are reloading
+* change railgun shader while reloading
+* fixed head models not showing proper skin
+* skip all shell eject code when cg_brassTime 0
+* fixed sound memory overallocation
+* profiling and rearrangement
+* fixed dead spectator bug
+
+
+5/27/99
+-------
+* enable scissor test properly
+* archive r_lodBias
+* cg_draw3dIcons 0 option
+* data cheating protection
+* userinfo renamed to clientinfo, added state and current
+	server address
+* don't forward commands to a server when playing demos
+* fixed NULL extension on dir command
+* added one more shotgun pellet
+* added CG_Shutdown for cgame cleanup
+* fixed jitter in rising smoke
+* increase minimum time before reusing an entity slot
+* soundinfo reports current background streaming file
+* changed IPX separator to . from :, moved port processing
+	to system independant code
+* auto port scan wasn't updating the net_port cvar
+* attack button presses reset inactivity timer now
+* increased the forced respawn time from 10 to 20 seconds
+* show smp on gfxinfo, slight reformat
+
+
+5/26/99
+-------
+* basic joystick controls
+	some work still needed for advanced controlers
+* r_dlightBacksides 0 option
+* forced cvar_restart when version changes
+* fixed some flare-in-fog problems
+* fixed skin color in menus
+* print obituary message even when you are the killer, so all
+	kills get an entry in the logfile
+* fixed bugs in line token parsing when quotes or commands aren't
+	white space separated
+* multiprocessor acceleration "r_smp 1"
+* increase menu dimming
+* increased rocket damage radius from 120 to 150 units
+* check for running server in all server commands (dumpuser, etc)
+* new cvar cheat setup -- by default, only archived
+	variables can be changed when not cheating
+* "cg_drawstatus 0" only removes status bar
+* "cg_draw2d 0" removes all 2d
+
+
+5/22/99
+-------
+
+The SMP support is solid enough to play with now.  The only feature that is
+still broken is light flares.
+
+As a happy consequence, some of the cleanup work I did for SMP gave a couple
+percent speedup even when running without the separate thread.
+
+On my development system, a dual 300 mhz intergraph realizm II, the low res
+timedemo scores went from 27.8 to 37.8 with "r_smp 1".  This is only a 35%
+average speedup, but at some times (lots of dynamic lights in complex scenes)
+the speedup is 90%+.  Gameplay is noticably smoother.
+
+The rendering thread is almost always the blocking factor, so the faster the
+card and OpenGL driver, the larger the speedup will be.
+
+This is explicitly a two thread producer / consumer, so there is no benefit
+to more than two processors.  The app is well behaved, using sleeping
+syncronization so that you usually still have half a processor free for other
+operating system functions.
+
+Hopefully we will be able to test with some fast consumer cards sometime
+soon.
+
+------
+
+A lot of people asked what was done differently this time vs the last time
+I tried (without benefit) to use SMP.
+
+My original attempt was to make a DLL that intercepted all OpenGL calls and
+let a separate processor execute them.  The benefit would have been that all
+OpenGL applications could have gone faster.  The problem was that the
+bandwidth required to encode all the commands was enough that the processor
+overhead was as much as it would have taken to just do the geometry on the
+main processor.
+
+It would have still been a win if the geometry side was doing
+lots of work, like multiple lights, user clip planes, and texgens, but for
+the vast majority of geometry, it didn't balance out.  If someone wanted to
+try that using the PIII or AltiVec streaming memory operations, it could
+probably still work.
+
+The current SMP code is implemented directly into the renderer, and a lot of
+things were moved around and double buffered to allow it to use data in
+place, instead of having to copy it off.
+
+------
+
+Some people expressed surprise that Quake3 wasn't threaded already.
+
+Threading has been presented so often as the "high tech" "cool" way to
+program, that many people aren't aware of the downsides.
+
+A multi-threaded program will always have somewhat lower throughput when 
+running on a single CPU than a single threaded program that polls in
+explicit places.  The cost of a context switch at the cpu level is negligible,
+but the damage that it can do to the cache hierarchy can add up to a
+noticeable amount in bad cases.
+
+The much larger problem is that you lose tight control over when things
+occur.  If the framerates are low enough, it isn't a huge issue, but for
+applications running at 30+ fps, you really don't want to trust the OS
+scheduler to coordinate multiple threads and have them all get in every
+frame.  Yes, with explicit sleep() calls you can sort of get it working,
+but at that point, you might as well not be using threads.
+
+A good example of not-quite-in-sync issues in the windows mouse performance.
+A PS/2 mouse only samples 40 times a second, so when you get an app updating
+at around that speed, you will get 0/1/2 scheduling variances.
+
+They are also not terribly portable, and a pain in

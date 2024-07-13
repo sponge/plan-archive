@@ -1,0 +1,577 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Some Guy
+Project: 
+Last Updated: 05/03/2000 11:13:41 (Central Standard Time)
+-------------------------------------------------------------------------------
+5/3/01
+
+50 million MOTD messages since the beginning of the year!
+
+Okay, so if I have the math right, that's around 5 game startups per second 24/7!
+
+This is one thing that disturbs me about stats.  Churn through in games like Q3A is
+obviously huge, but gameplay time is obviously smaller than other games like Everquest,
+so how do we measure?
+
+Merge 93.3 was here the other morning, of course, we destroyed them in deathmatch, but
+since then I've listened to them online a bunch (www.merge933.net) and feel the need
+to plug.
+
+4/5/99
+
+id has a Q3F server up at 192.246.40.127, id is red, world is blue.
+
+3/21/98
+
+Okay.  X-Files back on track.
+
+I've been thinking a lot about this whole idea of giving out degrees in game
+design, and it seems that thereصs a genuine need to be pro active in bringing
+new people into the community and teaching them some of our mysterious ways.
+What I'd like to look at doing for those people not enrolled in game design
+courses at school (who teaches those anyway?) is to start a small skunk works
+inside id that has active ongoing support from a few people here, a small
+budget, and actively encourages and teaches our trade.
+
+A lot of us (myself included) started out coding in the bedroom and things like
+game design documents, schedules, and team coordination were not exactly things
+we looked at making or doing because back then no one did.  Nowadays if you want
+to make it in the commercial biz of games you've got to be very savvy at
+producing a game design that's coherent, conveys the message clearly and
+concisely to the team, and has set goals that can scheduled.
+
+Anyway, I'd like to propose that our new skunk works helps out by helping the
+game design process, looking at maps, looking at code, and communicating
+directly between us, other developers, and the community at large.  It's only in
+our best interests to pass on knowledge, get input and give input on what we're
+doing, and help make this industry grow.
+
+Thoughts?
+
+2/28/97
+
+X-Files.  I like X-Files.  I didnt like the episode last night -- in fact it 
+was awful.
+
+Mr. Gibson, if you want to come down to id and hang out and see how a real
+developer makes games you are most welcome.  Heck, you can even help out
+on ids next game thereby staying here long enough to get our culture.
+
+2/17/96
+
+The pre-release of the alpha for the forthcoming beta of the pre-build of the
+next point release should be out tonight.  Details to follow from Robert Duffy.
+
+2/09/97
+
+Doing a real .plan thing.
+
+I'm looking for a video sequence of high resolution lossless digital images that
+we can use in some experiments we've got going here at id.  Up until now we've
+been using the in-house rendered stuff, which is great, but I've previously used
+some nice standard sources that really test things out like compression and 
+color
+space conversion issues.  Any pointers would be appreciated.
+
+2/03/1009999e+7
+
+id vs. the world ctf at 192.246.40.223.  id is red, world is blue.
+
+1/21/97
+
+Just read the PQ article.  Yes, that was an awesome game, I think it was a 
+little
+closer than the score indicated.  We're itching for a rematch!  I've never had
+a game with so many excellents and impressives over my head, and for it to
+take a full 50 minutes was something else, it was truly riveting.
+
+BTW, I didn't mean we're not going to play CTF vs. anyone anymore, just that
+we're not playing right now.  We have to do some work sometimes!
+
+1/21/98
+
+Okay, we're not playing CTF anymore.
+
+1/20/98
+
+id vs. the world ctf at 192.246.40.223.  id is red, world is blue.
+
+1/17/99
+
+Mr Elusive just put together some bot editing documents, the file is available
+on our ftp server:
+
+ftp://ftp.idsoftware.com/idstuff/quake3/tools/Q3ABotEdit.zip
+
+We've been following the whole DLL vs. VM debates, and id is firmly on the side
+of using VMs for game mods.  We will be addressing the "auto swap" VM
+depending on which server you go to quickly (this was a bug) but I think we
+will be strict on saying that people should use VMs over DLL files.  The next
+executable release will probably have a warning screen come up that you will
+need to agree to and click through if the game is about to load a DLL.
+
+1/14/99
+
+Okay.  I see a lot of people with awaiting CD Key authorization questions.
+
+In almost all cases, this is due to the IP address of the authorize server
+being wrong because the hosts file on the client has somehow been altered.
+You can test to see if this is your problem by going to a DOS prompt and
+typing the following:
+
+ping authorize.quake3arena.com
+
+If you get the following, then your system has an invalid entry somewhere
+redirecting the authorize requests to the wrong IP address.
+
+Reply from 127.0.0.1: bytes=32 time<10ms TTL=32
+Reply from 127.0.0.1: bytes=32 time<10ms TTL=32
+Reply from 127.0.0.1: bytes=32 time<10ms TTL=32
+Reply from 127.0.0.1: bytes=32 time<10ms TTL=32
+ 
+If youre running Windows 95/98, then in almost every case editing the file
+called hosts which resides in your c:\windows (or wherever youve installed
+windows) directory and removing any lines that mention
+authorize.quake3arena.com can fix this.
+
+Various cracks and CD key gen utilities (none of which actually work) appear
+to be the culprit, adjusting your hosts file without your knowledge or
+consent.
+
+1/12/99
+
+I just finished making the Macintosh point beta release.  It'll be on the usual 
+mirrors
+soon.
+
+12/21/99
+
+Here's the cliffnotes version of most of the bugs we're looking at.  I'll make
+the actual feature database available as HTML at somepoint soon so
+everyone can take a look as to what issues we're addressing.
+
+- New scoreboard.
+- New team scoreboard
+- Voting can change the gametype if the new map doesnt support the current 
+gametype
+- Misc icon fixes
+- Team overlay tidied up
+- Spectators can go through doors
+- Late player start on screen score display fixed
+- Re-add mouselook
+- Callvote nextmap
+- Extra/different pakfile disconnect bug fixed
+- Packetloss on the scoreboard
+- Delay deferred loading of players until after death
+- Server browser remembers show full/show empty status
+- Server browser will not refresh on stopped lists
+- Show IP address in server browser
+- Compressed sound support
+- JPEG from disk support
+- Cache filefind results so we do not requery the filesystem every load
+- Make 10.x.x.x and other public addresses not use auth server
+- Protect CD key into a different file
+- Improve overall error reporting to user
+- Make sure everyone can command the bots
+- Load/Save config re-added
+- Bots don't start kill, hitnokill, or hitnodeath chats when there are nearby 
+enemies
+- Awaiting snapshot/gamestate issues resolved
+
+12/21/99
+
+While I've been out with the rest of the world trying to get a Barbie Cash
+Register for my daughter, I have actually been doing a bit of work!
+
+Activision's release QA process found two bugs in the Mac build that I felt
+important enough to fix.  One bug was in the client, and the other in the
+installer.
+
+I fixed them both last night and Activision has a new master candidate.
+
+I've heard sporadic reports that the Mac demo has problems, but I've yet
+to be able to repeat that issue here.
+
+I'll update my plan file today with the [long] list of things we're addressing
+for the point release (yes, we've fixed the scoreboard).
+
+12/16/99
+
+Mac demo will be out tonight.  Mac full version is also complete.
+
+12/14/99
+
+Churn time.  We define Churn as the number of unique people that authorize
+in a five-minute period.  At peak now were at around 1700 people in a five-
+minute
+period, and at off peak were at 500.  Peak is around 5pm-11pm and off-peak is
+8am until about noon.  As we get more international I expect this to level out.
+
+Weve been testing Q3A for Y2K compliance.  Heres the results:
+
+1.	Power failed due to Y2K glitch.
+
+Q3A does not run if the power has failed because of a Y2K glitch.  Multiple
+attempts to bring the computer on using a series of car batteries and two lines
+of tin Q3A boxes did bring the computer up for a second, but the resulting fire
+and damage to the building did not allow us to recommend this solution.  We
+apologize to Rogue for using their office and cars to test this.
+
+2.	Computer has crashed because of a Y2K glitch.
+
+Q3A does not run if the computer has failed.  Installation of a different OS 
+could be
+the recommended solution, but the Y2K glitch had caused the computer to 
+unrepentantly
+jump out the window in a vain attempt to continue crashing.  We apologize to 
+Rogue for
+using their computers to complete this test.
+
+3.	The worlds nuclear arsenal goes off because of a Y2K glitch.
+
+Q3A does not survive a nuclear war, although the authorize server will continue 
+to run.
+Actually, we were unable to test this.  Were just guessing.  We really dont 
+want to test
+this out, so well just it as golden that wed be in big trouble if this 
+happened.
+
+4.	The Internet fails because of a Y2K glitch.
+
+Q3A continues to run single player just fine, however, multi-player over the 
+Internet could
+not startup due to a general TCP/IP error.  With Ebay failing because of this as 
+well the
+entire US economy would freefall into the cold Atlantic Ocean allowing the alien 
+race hiding
+on the dark side of the moon to finally begin their insidious campaign of 
+marketing 366 days
+until 2001 memorabilia.
+
+5.	The coffee machines around the world fail because of a Y2K glitch.
+
+There is no possible worse scenario than this, the lack of Java in the world 
+would seriously
+undermine the Sun and cause the Earth to plummet into the cold and freeze the 
+entire planet.
+Starbucks would continue to thrive on selling everything else it produces and 
+actually become
+more profitable since there would be more throughput at the cash register, but 
+since all the
+customers would be dead they would relocate to a parallel dimension that voted 
+to keep the
+date 1999 for just a few more years.
+
+6.	John Carmack fails because of a Y2K glitch.
+
+We have 200 John Carmack clones hidden at secure sites around a small Idaho 
+potato
+farm (potatoes are considered Y2K compliant by all except the French, who insist 
+that potatoes
+will spontaneously explode at 4:31am, 1-1-00 ).  Dont worry.  Weve covered 
+this base.
+
+12/10/99
+
+Okay.  Im now officially overloaded on email.
+
+Were looking to get the tools out there very soon for creating Q3A 
+modifications.
+Well probably do a point release on the product before we release anything, and
+weve been busy writing (gosh) documentation for the editor, shaders, etc.  Im
+really looking forward to seeing what you guys do with Q3A!
+
+Were now cracking down on people using key generators.  We stop accepting input
+for a period of time from addresses that spam different keys to the 
+authentication
+server.  I see a lot of people running key generators right now; Ive yet to see 
+a single
+one make a correct key.
+
+We will also probably alter the key generation scheme on subsequent runs of the
+product so we can verify mistyped keys within the client.  This remains our 
+biggest
+issue and if we can cure it right at the input step, then well go a long way 
+towards
+easing this up.
+
+12/08/99
+
+Cracked servers are no longer listed through the master.  We're tracking these 
+servers.  We
+know your IP address, so if you have one running, I strongly suggest you take it 
+down immediately.
+
+12/06/99
+
+Okay.  First off, don't run crack executables on your client!  All it's likely 
+to do is grab
+your CD key and send it off somewhere.  Authorization is server side, not client 
+side.  We will
+pursue and close down cracked servers with all available resources.
+
+Secondly, CD keys are "leased", so if you log on through a dialup, play, then 
+disconnect your
+modem and log right back on, your CD key will have to timeout on your previous 
+IP before you
+can play again.  This timeout period is currently set at 5 minutes.
+
+12/06/99
+
+Okay.  Hacker attempts with invalid keys are outnumbering real keys by a factor 
+of 2:1 or so.
+
+Obviously this is somewhat validating the use of CD keys.
+
+So far I've seen issues with the servers being able to see the auth server and 
+clients using
+IP forwarding not having the correct setup on the IP forwarding server.  If it's 
+a Linux IP
+forwarding machine use something like:
+
+modprobe ip_masq_quake ports=26000,27000,27910,27960,27950,27951,27952
+
+Modulating characters within a key sequence will not work.  It appears to work 
+because when
+you've validated your IP with an authentic CD key you've "leased" that IP 
+address for a period
+of time.  Even if you enter a junk string, that will work because your IP 
+address is still valid.
+
+The actual algorithm is a 64 bit DES key encryption method open to a very small 
+window.  The
+chances of coming up with a real valid key is in the range of billions and 
+billions to one.  A random
+pass through the available keys shows no sign of repeating sequences, it looks 
+like good old chaos
+(in fact, statisical math proves this).
+
+The client has no idea if your key is really valid or not, it just checks on the 
+correct characters
+being entered.  
+
+12/03/99
+
+Why do I get booted back to the main menu?
+
+It's because you've got a 1.11 client and you're trying to join a 1.09 (demo 
+test) pure server.
+Since the protocol # is exactly the same, you see all the 1.09 servers in the 
+browser,
+but when you try and join the game you get booted because you aren't "pure".
+
+We'll switch off support for 1.09 listings in the browser once 1.11 demo is out 
+for the
+Mac and Linux.  Meanwhile there's not much I can do since I can't tell from the 
+client
+side if you're a 1.09 or 1.11 client asking for list of available servers.
+
+12/03/99
+
+IMPORTANT!!!!!
+
+You MUST enter your CD key in lower case letters.  If you do this through the 
+menu
+it's automatic, but if you set it from the console, upper case letters will not 
+work.
+
+IMPORTANT!!!!!
+
+12/03/99
+
+If you get a CD Key error, please check to make sure you have the CD Key 
+correctly
+entered.  I've seen a few people go by and be denied on what looks like a valid 
+key
+that's just been typed in wrong.
+
+12/03/99
+
+The demo has gone final and will be available through Sandpiper in a few hours.
+
+I've gotten a lot of feedback from people regarding the use of authentication 
+servers. 
+Yes, John Carmack has a nice car from his hard work, but unfortunately software 
+piracy
+has become such a serious issue that we need to use schemes such as CD keys to 
+protect
+our future sales.  Games cost large sums of money to make and market, and if you 
+want to
+have software developers continue to develop games then piracy, understanding 
+it, and
+addressing it, needs to be part of the development process.
+
+Digital satellite receivers each ship with a little crypto card to uniquely 
+number the
+machine  Dish Network and DirecTV make sure they get their money every month!  
+DVD
+encryption swayed Hollywood to produce high quality digital content that we as 
+nerds
+lavished our money on, piracy of DVDs has not been an issue because of such 
+encryption,
+but now this has been broken and may affect the future of DVD, already its 
+reported that
+DVD Audio has been delayed.  When Intel introduced a software accessible serial 
+number
+with the Pentium III it was quickly disabled because of public backlash, yet 
+its very function
+was to protect against piracy and allow security.
+
+So with computers were stuck with freedom, which isnt all that bad.  How many 
+of us (Linux
+crowd hush please) run 100% piracy free machines?  Does occasional use count?  
+If I only
+used it once to repartition my drive do I have to pay for Partition Magic?  
+Isnt Winzip part
+of Microsoft?  Were hypocrites if we cheer the Government ruling against 
+Microsoft for including
+so much software free in their OS that we otherwise would use and never pay for.  
+Then again,
+I love Java, Macs and OpenGL.  There are corporations out there who work hard to 
+make sure
+Im a minority.
+
+Is piracy of id products the only way the community has prospered, grown and 
+sustained itself
+all these years?  Its true a certain number of you will always pirate a game 
+and never make the
+purchase.  But a whole bunch of you are raving, fanatical loyal id fans with 
+money in one hand
+and EB on speed dial in the other to see if Q3A is in stock.  If you help the 
+community by helping
+to stamp out piracy, then I think youll see that the community will be just 
+fine and who knows,
+software prices might fall, Doom 2000 might come out, or the Y2K bug may not 
+burn us all.
+
+So yes.  Use a SOCKS server (we will authenticate multiple CD Keys off a single 
+IP), open up those
+ports on your firewall (you can resolve master.quake3arena.com and just use that 
+IP address),
+but please dont belie our intentions.  Well work extremely hard, 24 hours a 
+day, to make
+everything in Q3A work flawlessly for you, but well also work on another game 
+with the money
+we get from sales of Q3A, and by the time its done we may be able to release on 
+DVD-ROM and
+piracy will be a non-issue.  But alas, I fear, if its there, it will be copied.
+
+These are my views, although I think id also frowns at piracy.
+
+12/02/99
+
+In preparation for the full release.
+
+The motd/master/auth servers run on ports 27950, 27951, 27952.  The default game 
+server
+is on port 27960.  If youre firewalled against these ports youll need to get 
+unfirewalled to
+play the game.  If we work on the servers from now on well notify the community 
+and schedule
+the maintenance for the slowest period of the day (currently around 6am Dallas 
+time).
+
+We have what we consider a gold build of the demo.  Were putting it through 
+the final push
+of QA at Activision before releasing it since this build is going to be more or 
+less prevalent
+throughout the known universe.
+
+11/23/99
+
+Activision has asked to test the full authorize server, so it's now up and 
+running.  I can quite
+understand this.  I'm working to get the full demo out the door as quick as 
+possible.
+
+11/23/99
+
+Im working on updating the full demo today.  Well bash on it a bit and get it 
+out there over
+the next few days.  Once its out there Ill be updating the cdkey authorize 
+server to the final
+version.  Unfortunately this is not compatible with the demo test, so youll 
+need to upgrade to
+either the full version of Q3A (woo hoo!) or download the new demo.
+
+Oh, and I'm going to finish Homeworld darn it.
+
+11/20/99
+
+We're at RC2.  Life is good.
+
+11/18/99
+
+I'm debugging some stuff on the authorize server (and using you guys as testers 
+on it).
+If you can't authorize for the next few hours please be patient!
+
+11/17/99
+
+Okay, the Macintosh Test build is going up real soon now.  It's all built and 
+working well.  I'm
+really happy with the way we're working on the Mac.  I've been building the new 
+id servers
+on a G3 using Java and it's been a real nice change from the PC.
+
+You'll need the newest version of OpenGL for the Macintosh, which came out 
+today.  It's
+available at http://asu.info.apple.com/swupdates.nsf/artnum/n11545.  Go download 
+that
+while we're coordinating on getting the Mac build out there through Sandpiper.
+
+BTW.  There's been over 1 million downloads of the Win32 build!!!
+
+11/16/99
+
+We've got a debug server up on 192.246.40.115, if people could connect to it and 
+bash on it
+that would be great.
+
+11/15/99
+
+It's out there.  We're aware of some issues which are documented in the readme, 
+otherwise
+I expect a lot of you to be missing many hours of sleep tonight!
+
+11/14/99
+
+Quake 3 Arena demo test should be out tonight.  Watch the skies!
+
+Just so were all sure.  This isnt the general demo.  If all goes well well
+upload the general demo in a few days.
+
+The demo contains four maps (q3dm1, q3dm7 (q3test1), q3dm17 (q3test2)
+& q3tourney2 (q3tourney) and six characters (Sarge, Visor, Major, Grunt,
+Daemia, & Stripe).  Bots are in there on five difficulty settings (from I can 
+win!
+to nightmare!).
+
+11/6/99
+
+I asked everyone to come up with Tips Of the Day for Q3A, it was a serious 
+endeavor
+to get some cool tips into the product (a fun game is trying to match the id 
+employee
+with the quote).
+
+Here are some gems from the masters:
+
+Often there are secrets hidden below the hellfog.
+
+Every map has a special exit. Chat with the bots to find it.
+
+If you get negative 10000 frags something cool happens.
+
+Save money by calling our tech support from the office phone. 
+
+To open secret level press the reset button immediately after completing Tier 5.
+
+Run over the armor backwards to obtain optional armor pants.
+
+Ain't nothin' like four bare feet in a bed. Unless you have five bare feet in a 
+bed in
+which case one belongs to an amputee not a freak with three feet.<

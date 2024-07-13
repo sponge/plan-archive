@@ -1,0 +1,48 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Thu May 27 14:55 (EDT) on ttyp0 from 216.27.43.207
+New mail received Fri Jun  4 14:26 1999 (EDT)
+     Unread since Thu May 20 01:38 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Brandon "GreenMarine" Reinhart
+Unreal Team Programmer
+Epic MegaGames, Inc.
+
+Friday, June 8, 1999
+
+I got the following email from Jeremy Statz the other day:
+
+"So what kind of romulation are you using now? I tried implementing
+a frogurt tree a little while ago, but it was slow on a Pyramid3D.
+Is a Milhouse array a better approach?"
+
+- Jeremy Statz, 
+Designer, Raven Software
+
+Well Jeremy, Unreal Tournament is using multiplexing extended romulation.
+We also tried the frogurt approach, but ran into the same trouble on
+the Pyramid3D.
+
+The Pyramid's new API "Pharoh" is pretty solid, but uses a lot of
+nonstandard datatypes like the FLINT.  Unfortunately, frogurt trees
+seem to be optimized for the more common linear depth last searches
+used in polyvoltaic design.  To the Pyramid's credit, however, is
+the introduction of 32 (!) canopic registers.  The canopic registers
+can be used to operate on FLINT variables in real time, making
+vibrant lump scraping techniques viable in modern game technology.
+
+The MPE romulation is based around the dynamic Milhouse array as
+proposed at last year's SIGGRAVY.  We have found the Milhouse array
+to work very well with both the Pyramid3D and the RIVAL698.
+
+In closing, here is a nice quote from "Cradle of Filth:"
+
+"Deep red hissed the cat whips
+ On the whim of ill-will
+ Whilst She entranced, nonchalant, abliss
+ Flayed further songs of overkill."
+ - Desire in Violent Overture
+	
+    

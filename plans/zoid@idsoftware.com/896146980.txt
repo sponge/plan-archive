@@ -1,0 +1,390 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Dave Kirsch
+Email: zoid@idsoftware.com
+Description: Programmer
+Project: 
+Last Updated: 05/25/1998 22:33:10 (Central Standard Time)
+-------------------------------------------------------------------------------
+May 25th/1998
+
+I'm not one to post opinion pieces in my plan, but I guess there is a first
+time for everything.
+
+Recently I released QuakeWorld 2.2 (and the subsequent 2.21 to address some
+bugs) with several changes.  I'd like to clear up some of the decisions for
+those changes and some common problems people are having.
+
+First off, one of the central features of the new version was to stop
+cheating.  Map hacks, models hacks, etc.  Now, I was a little overgressive
+and included the vis data in the map check.  A lot of people had different
+map versions (mostly from watervis patches) and it showed.  This was
+addressed in 2.21 which had map checking off by default, and when enabled,
+checks don't include the vis data.
+
+Some users are complaining that waterhack no longer works, and this is true
+and by design.  GLQWCL users can not enabled transparent water unless the
+server enables 'watervis 1', which then permits them.  This levels the
+playing field for everyone.  I actually got email from a person who
+complained that he bought GL just so he could see into the water on dm3
+and kill the poor guys using software.  He stated he should have an advantage
+because he paid more money to buy hardware to improve his game.  I don't
+agree with this (GL already has an advantage in frame rate and looking
+damn pretty).  But, this is server controlled, so he can just play on servers
+that enabled 'watervis 1'.
+
+The whole issue stems from the fact that Quake was never designed with
+transparent water in mind.  And in multiplayer play, it really shouldn't be
+there since it wasn't intended.  Also, the software renderer doesn't do
+transparency with water surfaces and these causes a huge advantage
+difference.  Waterhack works, but it's damn ugly.  The solution was to
+disable transparent water for everyone and level the playing field.
+
+Another change in QuakeWorld 2.2 was with friction code.  Regular Quake
+defaulted to a friction of 4.  QuakeWorld 1.5 through 2.1 defaulted to 6.
+This does change the feel of the game, since you slide a bit more with a
+friction of four.  I made this change so that QuakeWorld would feel more
+like regular Quake.  QuakeWorld was intended as a net optimized version of
+Quake and should play the same, but have the advantages of prediction as
+well.  That was always my goal and why I changed the movement code back in
+1.64 to include ramp acceleration and air control that was present in Quake.
+
+Note that server operators can control the friction!  They can set 
+'sv_friction 6' in their server config files and keep the tight feel that
+previous versions of QuakeWorld had.  It was only the default that changed.
+
+Personally, I like the change.  I can play Regular Quake and QuakeWorld and
+my movement feels the same, and on a LAN, I can't tell the difference ('cept
+Regular Quake's crosshair is off. :)  That's the goal for me, to make the
+games play the same.  It was a goal I started when I took over the QuakeWorld
+project.
+
+Some users were experiementing a slightly higher ping and packet loss
+problems with this new version.  I tracked it down to the new checksumming
+code I was using.  It was very CPU expensive and slowed both the server and
+client down a bit (much more so on the server, tho).  2.21 uses a much more
+efficient checksum code that should alleviate this problem.  A lot of
+QuakeWorld servers are running on lower end hardware out there (P120, P133s,
+etc) so when they got a lot of players on there, combined with the new
+expensive checksumming, the server consumed a lot of CPU and started running
+out and dropping packets.  Never saw it on my Dual PII-266 that I run the
+test servers on.  But it's fixed now.
+
+Another problem a lot of people are getting is an error from QWCL saying,
+"The localid has not been set." when using GameSpy/QuakeSpy.  This is because
+I had to change the way GameSpy and QWCL communicate due to a security
+problem (It was an ugly problem, people could execute command on your qwcl
+console remotely.  I'd like to publically spank Microsoft for allowing packets
+spoofed with the local interface address as coming in over the ethernet
+interface).  You get this error with earlier versions of GameSpy, because
+it's not communicating the new info to qwcl.  GameSpy1.53 (included with QW)
+and 2.0beta2 or later have this new functionality.  If you are still getting
+it with those versions, check to see if you are running qwcl/glqwcl from a
+batch file.  If so, make sure it passes parameters, like so:
+	glqwcl  %1 %2 %3 %4 %5 %6 %7 %8 %9
+in the batch file.
+
+The reactions to the 2.2 version have been mixed.  Everyone, especially
+server operators, should upgrade to 2.21 as it addresses a lot of the
+problems that showed up in 2.2.  I hope I cleared up some of the choices I
+made in 2.2.  I'm enjoying the new version, and I hope many other are, too.
+
+Now, time for me to hack some more on Quake2.  Stuff is forthcoming. :)
+
+/// Zoid.
+
+
+May 23rd/1998
+
+QuakeWorld 2.21 has been released that should address some of the problems in 
+the previous release.  Players and server operators are STRONGLY urged to 
+upgrade to this version since many of the new features in 2.2 have been updated 
+and bugs have been fixed.
+
+The 2.21 versions will interroprate with 2.20 versions, but with some
+loss in performance.  So, yes you can play on a 2.20 server with 2.21, or play
+with 2.20 on a 2.21 server, but you'll get the best gameplay and performance
+using a 2.21 client on a 2.21 server.
+
+Here's the files:
+
+Full QuakeWorld Client including GameSpy 1.53 for Windows95/NT
+
+Upgrade from 2.20 only (must have GameSpy 1.53 or 2.0beta2 installed) for Windows95/NT
+
+QuakeWorld Server for Windows95/NT
+
+
+
+QuakeWorld Client for i386 Linux 2.0
+
+QuakeWorld Server for i386 Linux 2.0
+
+
+
+QuakeWorld Server for Alpha Linux 2.0
+
+QuakeWorld Server for Solaris x86 2.5.1
+
+QuakeWorld Server for BSDI/i386 3.0
+
+QuakeWorld Server for Solaris 2.5.1 on Sparc
+
+
+/// Zoid.
+
+
+May 17th/1998
+
+I've been working all day on some of the problems in the 2.20 release. 
+
+As with any major release, there is bound to be problems. I made some 
+incorrect assumptions this time around, namely how many people had 
+watervised their maps. This has certainly been causing problems for a 
+lot of people. 
+
+I'm working on 2.21. I hope to release it soon since there are some ugly 
+bugs in 2.20 (such as random overflows on servers sometimes). There will 
+be a server upgrade and a client one, but 2.20 clients and servers will 
+be able to talk to 2.21, though I strongly recommend that everyone upgrade 
+to 2.21 when it comes out. 
+
+For watervised maps, vis data is no longer included in the map checksum. 
+The 2.21 server turns off checksums BY DEFAULT. Server admins can 
+enable map checksumming by typing 'sv_mapcheck 1'. This map checksum 
+is almost the same as before, except that vis data is not included in 
+the check. This means that maps that just has the vis/portal information 
+changed (for watervis) will pass the checksum test. Maps with hacked 
+textures, removed walls, or waterhack will not. 
+
+Note, people believes this gives an advantage to GL users, and normally 
+it would. But the server can control whether the GL user can turn on 
+r_wateralpha (by setting it less than 1) or not using the watervis 
+server variable. watervis 0 means that GL users can not enable 
+transparent water, which levels the playing field. Quake was never really 
+designed for transparent water and neither were the maps originally. 
+
+So for admins that are using servers for strict competition should enable 
+sv_mapcheck and leave watervis to 0 so that no one gets transparent water. 
+
+There was a minor bug in the movement code as well. This bug was only 
+really noticable on ctf4 up the steps to the rocket launcher. You sort 
+of bounced up the steps. This has been fixed. 
+
+There also seems to be an issues where the servers are consuming much 
+more CPU than before. I think this may be related to some checksumming 
+code I put in to defeat proxies. I'm changing these routines to use 
+a more CPU friendly algorithm that should help on the servers. 
+
+I'd like to apologize for some of the problems with this release. I can't 
+please everyone, but I try to make the game as fun, secure and reliable 
+as I can. QuakeWorld was meant to be a more net friendly version of 
+Quake--that was it's goal. This is why I spent the time integrating 
+movement code that matched the original Quake. I wanted to end the 
+NQ/QW split that existed, since it doesn't serve anyones' best interest. 
+
+Quake is a great game, and one I love to play just like everyone else. 
+
+Common Problems and Solutions for 2.20
+--------------------------------------
+
+Q: I get a localid error and told I need to upgrade my browser, what 
+is this?
+A: You must use GameSpy 1.53 or 2.0beta2 with the new client.  This
+was caused by some necessary changes for security reasons.
+
+Q: I get a map checksum error.  It says my map doesn't match the server.
+What is this?
+A: You are using modified maps (such as watervis or waterhack) and 
+because of this, your map doesn't match the one on the server.  Another
+case is also when you have correct maps, but the server is using watervis
+maps.  2.20 requires you to have the same map as the server.  For now,
+it's probably best to stick to original maps (off your Quake CD) since
+most server admins will be using the originals.  2.21 will address this
+problem by having map checking off by default, and when enabled, not
+including vis/portal information in the check.
+
+Q: Some llama keeps pausing my game!  How do I stop this?
+A: Pause is back in QW.  I put it in since it's very handy in 1on1
+games and clan matches in case someone has a biological need or
+other emergancy.  Server operators can disable pause by setting
+"pausable 0" in the server.cfg file (or via console/rcon).
+In 2.21, spectators can not pause the game.
+
+Q: Water movement seems so slow!  Why did you change it?
+A: Water friction was not probably implemented in QW.  The movement
+code now reflects the original friction values of Quake.
+
+Q: I keep getting overflow errors shortly after I connect to servers
+running mods like QWRing.  If I try a few times, I eventually get in.
+Why does this happen?
+A: QWRing stuffs a lot of text at the client (almost 2K worth!). In
+order for me to get it to work with 2.2 which has reduced packet
+sizes for broken routers, I had to write some internal handling
+for some of this data.  It mostly works, but there is a small bug
+in it that seems to be randomly hit on signon.  2.21 servers will
+fix this.
+
+Q: My server seems to be using way more CPU than before.  I can't
+run as many servers and when they max out, all my clients get
+massive packet loss.
+A: These seems to be related to some of the checksum code I put
+in to defeat proxies mucking with stuff.  2.21 features a new
+set of checksum codes that are much more CPU friendly.  Should
+help out a lot.  I wish I could get more data on this, but
+MSVC++5.0 just doesn't want to do a damn profile for me.
+
+I hope that clears up some of the issues.  2.21 forthcoming.
+
+/// Zoid.
+
+
+May 16th/1998
+
+I've released QuakeWorld 2.2.  I've also added a couple new ports for this 
+release: Sun Solaris x86 and Linux Alpha for servers.  The new QuakeWorld 
+should work through various broken routers that previous versions of 
+QuakeWorld did not work with before.
+
+QuakeWorld 2.2 is NOT COMPATIBLE with old versions (2.1 or earlier).
+
+The changes focused on security, cheating and gameplay.  QW2.2 plays as
+close as possible to the original Quake, but with the benefits of prediction.
+My beta testers were very excited about the changes, and I hope everyone
+will enjoy them.
+
+Please note:  Team Fortress 2.6 currently doesn't work with QW2.2. The
+Team Fortress team is aware of this and will be releasing a small patch
+for servers ASAP.
+
+As always, QuakeWorld is an unsupported product.  If you have any problems
+tho, you can report them to bugs@quakeworld.net.
+
+The release packages:
+
+QuakeWorld Client For Windows 95 and NT
+
+QuakeWorld Server for Windows 95 and NT
+
+
+
+
+QuakeWorld Client for Linux i386
+
+QuakeWorld Server for Linux i386
+
+
+
+
+QuakeWorld Server for Linux Alpha
+
+QuakeWorld Server for Sun Solaris x86
+
+QuakeWorld Server for BSDI3.0 i386
+
+QuakeWorld Server for Sun Solaris (sparc)
+
+
+/// Zoid
+
+May 05/98
+
+As John mentioned, there is a security backdoor in QW and Quake2.  I'm working very
+hard on getting the new releases of QuakeWorld and Quake2 out ASAP in order to
+address this (the new releases also have several other features).
+
+In the meantime, I'd like to thank crt for providing an interim solution.  He has
+a web page up that
+describes the problem and has a simple program that patches the binary to fix it.
+I recommend that all server operators grab this patch until I get QuakeWorld 2.2
+and Quake2 3.15 out the door.
+
+/// Zoid.
+
+Apr 19/1998
+
+I've been quiet for a while, but that certainly doesn't mean I haven't been busy. :)
+
+As Rick Johnson mentioned in his plan, I am tinkering around with a new QuakeWorld
+version.  Mostly just to address some of the nasty bugs that have shown up over the
+last few months and some security issues.  Also, I'm taking a stab at defeating
+proxy bots, since they make life miserable.  Proxies that don't "mess with the data"
+are still fine, tho.  Map checksumming is in now, so hacked bsps are out of the
+picture as well.
+
+Also, I'm using some of the new port allocation code from Quake2 in the new QW which
+will fix some people using brain dead NAT routers.  I've also reduced the packet size
+to 1400 bytes (from 7000), which is another fix for broken routers (ones that don't
+handle fragmented UDP in this case).  The packet size change does break a couple
+mods (notably, QWRing, which will have to be patched), but the change is for the 
+better since it allows people to play who couldn't before.
+
+And yes, the GLQuakeWorld sprite bug will be fixed.  Sorry about that.
+
+I'm also working on the next Quake2 version (currently 3.15).  There are a lot of
+new features in it, some of the most notable being QW player movement (air control),
+autodownloading (with resume!), protocol optimizations for projectiles (the
+hyperblaster won't lag you as bad anymore), flood protection, Server IP banning and
+minor other fixes.
+
+I also have a new version of Q2CTF in the works.  Minor bug fixes, plus a full
+new competition mode with voted admins, map changing, timed match startups, etc.
+The match mode will certainly help with clan CTF matches.  :)
+
+I've also added two new operating systems for server ports:  Solaris x86 and
+Linux Alpha.  This brings the total to five:  Win32, Linux i386, Solaris Sparc,
+Solaris x86 and Linux Alpha.  BSDI will be support for the new QW release, but
+not for Q2 (since I hate a.out jump tables).
+
+As usual, there's no date set for the release of all this.  It's the old adage, "When
+It's Done."  But I'm getting close to release on all of them. 
+
+In other news, I will be attending Gamescon in Vancouver
+on May 1st through the 3rd.  I'll be speaking at the event about all things Quake,
+CTF and the online gaming community.  I'm lucky that it's easy to attend, since
+Vancouver is where I'm living and working from.  Be sure to check out the
+Gamescon homepage and sign up to join in the festivities.  
+(I still can't believe m0user talked me into speaking at the event).  I hope to have a great time there in May.
+
+/// Zoid.
+
+Mar 11/98
+
+The Sparc Solaris Quake2 dedicated server has been released at
+ftp://ftp.idsoftware.com/idstuff/unix/q2ded-3.14-sparc-sun-solaris2.5.tar.Z
+It includes a Makefile for building the game source for Solaris as well
+(grab the Linux shar archive and run it to get the game source on Solaris).
+Obviously, it only runs as a dedicated server and supports TCP/IP only.
+Enjoy.  I had fun testing it as a coop server with a couple buddies.
+It was a riot running around in coop taking out the Strogg.
+
+The BSDI port has stalled.  Creating a.out jump table libraries isn't fun
+and honestly, I looked around and couldn't find a good way to build the game
+library for BSDI.  :(
+
+/// Zoid.
+
+Mar 06/98
+
+Man, I didn't know BSDI wasn't ELF yet.  I've never built an a.out jump-table
+based shared library before, nor do I know how to load one.  Anyone got
+some tidbits on how to go about it (the man pages aren't too clear, and
+mostly talk about system shared libraries).  I need to create a game
+shared lib with one entry in the jump table (GetGameAPI).  Some example
+code for building the library and loading it would be nice.
+
+Got the Solaris Sparc port pretty much done.  Going to beat on it today.
+
+I was considering writing a 'tournament' mode into Q2 CTF.  The server op
+can set the server into a tourny mode and players pick teams, a timer counts
+down and the game goes off and running.  Should help clan matches.  I'm
+looking for ideas on how it should work (stuff like how teams are picked,
+what the menu looks like, what options the players should have for setting
+up the game and the game settings, etc).  Drop me a line if you have some
+ideas.
+
+Mar 04/98
+
+The game and CTF dll source is up on ftp.idsoftware.com.  It'll be fun to
+see what people will be doing with it.  I know everyone's been waiting
+to hack the c

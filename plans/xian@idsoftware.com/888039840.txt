@@ -1,0 +1,51 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 2
+Last Updated: 02/20/1998 23:02:27 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+ --- Feb.21.1998 (12:54pm) ---
+
+ I know that there is a portion of the community that is rabid about
+wanting "Namefun" implemented into Quake II, and have even gone so far
+as to creating petitions to get us to put it back into Quake II.
+
+ It doesn't look like it's going to happen for the following two 
+reasons.
+
+ - Namefun users appear as garbage text on dedicated servers. Yes, we know 
+you kick users by number, but you still have to be able to recognize the 
+name enough to know who to kick, and namefun makes this difficult.
+
+ - Animated Names: This sends ALL your userinfo data to everyone on the
+server every time your name animates. This is hell for modem users.
+
+ --- Feb.20.1998 (5:38pm) ---
+
+ If you are experiencing "Error during initialization", make sure
+you are running Quake II from the icon that was created when you
+installed Quake II off the CD. 
+
+ --- Feb.20.1998 (11:31am) ---
+
+ We have encountered a problem with the latest release (3.12)
+Dedicated servers may crash once in a while. We are looking into the
+problem and hope to release a small fix soon.
+
+ --- Feb.19.1998 (7:25pm) ---
+
+ The Quake II Point release and Zoid's Quake II CTF ARE OUT!!!!!!!!
+
+ Check http://www.idsoftware.com/hot/index.html for current download
+sites.
+
+ We are running 4 servers with the new releases at;
+
+ 192.246.40.37:27910 -- Deathmatch
+ 192.246.40.37:27911 -- Deathmatch
+ 192.246.40.37:27912 -- Q2CTF
+ 192.246.40.37:27913 -- Deathmatch

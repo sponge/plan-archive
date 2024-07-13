@@ -1,0 +1,88 @@
+Account Name:  Chris Hargrove
+Email address: chrish@3drealms.com
+----------
+Name: Chris "Kiwidog" Hargrove
+Position: Code Boy
+Project: Duke Nukem Forever
+Email: chrish@3drealms.com
+
+5/24/98
+-------
+To anyone else who lives in the state of Texas... I have a minor problem, a need a bit of information on how to deal with it.  Anyone who's moved to this state after turning 21 and needed to get a state driver's license probably knows what this problem is.  Basically, when I went to the DPS to get my Texas license, they took my old Virginia license away and replaced it with a "temporary" license on a little sheet of paper, until my new license shows up in the mail (supposedly in two weeks).  The problem with this is, clubs and bars don't seem to be too keen on accepting a "temporary" id, let alone one without my picture on it.  I'm not concerned about not drinking or anything here for a couple weeks; that's no big deal.  But next week I'll be going to E3 in Atlanta with the rest of the crew, and I do plan on drinking there.  If clubs in Texas won't even accept a temporary Texas license, the likelyhood of it being accepted in Georgia is even slimmer.
+
+This is a problem I haven't dealt with before... in Virginia, when you go to get your license, they take your picture and make it on the spot; you just have to hang around for twenty minutes.  Here, it takes weeks, and I have to deal with the interim.
+
+So I have no form of identication that has both my picture and my date of birth on it, and I need to get one before this Wednesday.  Anybody have any ideas?  The only option I know of is something like a passport, which theoretically could be made on the spot, but that's a very pricey option.  Are there any alternatives?
+
+I'd really appreciate any help,
+
+
+5/20/98
+-------
+Whew, talk about stress relief.  Had the past couple days off (mostly spent sleeping) to follow up on the crunching hell that has defined my life this past month.  E3, why do you torment us so? :)  Saturday through Monday morning was one of the longest continuous work shifts I've done in quite some time, around 39 hours or so with little to no break... I don't look forward to that kind of thing, but if it pays off in the end then it's worth it.  Hopefully people will be happy with what we've done thus far.  We've still got a ways to go of course, but some of the biggest hurdles in this project are now past us, so we're starting to stress less and less on tech. stuff and more and more on the gameplay elements.  I'm sure there'll be tech work right down to the wire, but it's diminishing now.
+
+After E3 I'm going to make an effort to try and get a bit more sleep than I've been getting lately.  My temper gets a little uncontrollable when I'm cranky, and I don't want to take off any more heads than I already have.
+
+Anyway, looking forward to seeing some of y'all at E3.  Don't forget to stop by and say hi if you run into me... or feel free to just yell at me a bit; I'm fine with that too. :)
+
+
+5/14/98
+-------
+Anyone know when this Mexican Death Air cloud is gonna go away?  I mean, I may be a smoker and all, but this is just a little extreme.  No more crop burnings people, okay?  I do like breathing ya know. :)
+
+
+5/1/98 (Part 2)
+---------------
+Alright, so I was a bit harsh.  I apologize to 3Dfx for my tone if it was too nasty... I will not, however, apologize for the content of my update itself.  The stuff still needs to get fixed.  Plain and simple.  I don't care how cool a company it may be or how fast their cards are or who might be working there now or who previously worked there (cough).  If the drivers keep me from doing my job, that's all that matters to me.
+
+It's been mentioned that 3Dfx will give the world to developers that act appropriately.  I don't want the world though.  I just want to get my work done.  If you think for a second that I'm going to apologize for that, think again.
+
+I love these cards.  If I didn't, I wouldn't be so adamant about them fixing their drivers; I'd have just moved to another card without a second thought.  3Dfx still has some of the best accelerators around in my eyes, and my opinion of the cards has not changed.  It's my opinion of the company, or rather whatever division of the company deals with these drivers, that has.
+
+If you want to label me an asshole, fine.  But maybe an asshole saying something publicly will be all it takes to get things moving again.  There's no reason for a company with as high-quality a product line as this to screw things up over something as small as a driver.
+
+
+5/1/98
+------
+Been a while since the last update.  I'll let you all know what I've been doing sometime soon, but not right now.  Instead, I will take this opportunity to rant.
+
+I have just spent the past 3 hours debugging something in ref_gl that had no business not working.  I kept thinking that this must be my mistake, that I'm missing something.  After these several hours of incredible frustration, I got fed up, figuring I just didn't know what the hell I was doing.
+
+Then in an unrelated test, we ran Duke on an nVidia card under their ICD.  After that, I had a bad feeling in my gut, and asked Nick to run my test stuff that I'd been trying to get working the whole evening, under the nVidia.
+
+It loaded, and ran like a charm.  Did exactly what I'd been trying to do the whole night.  In other words, I'd just spent 3 hours trying to find Yet Another Damn 3Dfx OpenGL Driver Bug.  This wasn't just a "that feature's not supported" bug... that'd be forgivable.  This, however, was not.
+
+A note to 3Dfx:
+
+I love your cards.  The performance is phenomenal.  But that won't matter at all if you don't get some people to FIX YOUR DRIVERS.  If you need to hire more people, hire more people.  If people need to put in overtime, then put in overtime.  Your GL implementation has been on permanent beta since time began.  Is there more than one person working on this over there?  I'm sorry, but there's no excuse for this.  The fact that it sits on top of Glide should make this a relatively simple process.  
+
+I'm not even talking about the GL features that Glide doesn't support.  I'm just talking about the ones it does.  With the exception of some simple matrix transforms, there's a whole lot of GL that can be directly dealt with by Glide, quickly and efficiently.  Yet even THAT stuff is screwing up.  It'd be one thing if I couldn't get the accumulation or stencil buffers to work easily.  That'd be understandable, since you have to emulate that stuff.  But is there any logical reason why I can't do something as simple as get a texture to reload?
+
+We've had more than our share of these driver bugs come up, but we've been patient.  Nick, however, is far more patient than I am.  As far as I'm concerned, this has gone on long enough.
+
+If you don't have the time or resources to make things work that's fine, but if that's the case then at least admit it to your supporting developers and your buying public.  Either that, or make the driver code available to your developers so I can try and fix things myself, instead of wasting my time finding bugs that in the end I can do NOTHING about.
+
+I have deadlines.  When stuff like this keeps happening, I can't meet them.  I've been loyal to the Voodoo cards for a long time now, but if it keeps preventing me from doing my job, then that loyalty is gone.
+
+
+4/16/98 (Part 2)
+----------------
+Due to recent annoying bugs, I've decided to rename Cannibal to "Cannibal: Fault Over Page 3137".
+
+4/16/98
+-------
+Oh wow, it's been like a month since I updated this thing.  Wow does time fly when you're having fun... although it also flies when you're in crunch time, which I think is more applicable in this case.
+
+Been slamming away at stuff for E3.  My whole experience with Cannibal has been interesting, to say the least.  Between the time of my last update and now it's probably gone through some super-major changes, but it's over now. At least, almost over... I still have a couple more bits to drop in, but the guys already have the newest version as it stands and are starting to use it toward some production models.  I asked George about putting up a couple screenshots, but I agreed when he said we should wait until we have a couple really kickass models using it polished so that when we put up shots they'll be more of just the tool itself; you'll get to see it in action ("bang for your buck" kinda thing).  It's too bad the thing took a couple weeks longer than I wanted, but that's the way things are I guess.  I think Fox needs to make a new special "When Code Attacks". :)
+
+I'm now back into engine-side stuff to finalize support for these models so we can be done with the character system and I can move on to bigger and better things.  Nick's been busy with some DukeEd DukeEd changes and fixups, as well as the game-logic side entity work.  My hope is that when all this is said and done, we'll have the framework out of the way and can start in on actual game logic content.  It's amazing what frustrations tearing apart an engine can cause, but that's the price of progress I guess.
+
+I'll echo a sentiment given recently by several people at several different companies... these games take a LONG TIME.  They are a hell of a lot of work, and much of a development team effectively sacrifices their lives during the time of working on a high-quality game, all for the enjoyment of you, the consumer.  No decent game that wants a shelf life of more than a week gets done in less than a year these days.  It just doesn't happen.  I sometimes hear "but it's different for you, the engine's already done" (and I'm sure Ritual, Ion and others hear a lot of this as well).  Guess what guys... that doesn't make any difference.  The time we save not writing the engine is nearly matched up by the time it takes to learn and modify a framework that wasn't written with you in mind.  Quake and Quake 2 were written to be Quake and Quake 2, they weren't written to be Duke or Sin or Daikatana or any of these... turning it into something it wasn't planned for is a major undertaking, so the unrealistic expectation that we should get these games done in a year or less just because we're licensing an engine is just that... unrealistic.
+
+On another note, in my last update I mentioned I would have some materials available from my IGDN session a month ago.  I apologize for the delay on those, as I said I've been in a bit of a crunch mode recently.  Don't worry, I haven't forgotten about you... I'll cut out that code and send it up to the IGDN guys as soon as I get the chance, which will probably be Sunday sometime.
+
+All for now,
+
+- Chris
+	
+    

@@ -1,0 +1,44 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 2
+Last Updated: 03/14/1998 05:47:29 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+ --- Mar.14.1998 @ 5:44am CST ---
+
+ Oops.
+
+ Turns out the QuakeWorld masters running at 192.246.40.37 pegged out CPU usage
+under NT (Never had that problem while it was running on a unix system).
+
+ As a result, they will now permanently be running on;
+
+ 192.246.40.250 (inferno.idsoftware.com)
+
+ Nothing has changed with the ports. To rehash;
+
+ 192.246.40.250:27000 -- Limbo (Servers which don't bother reporting to the 
+                         proper masters)
+ 192.246.40.250:27002 -- CTF Servers
+ 192.246.40.250:27003 -- Team Fortress
+ 192.246.40.250:27004 -- Modified Progs
+ 192.246.40.250:27006 -- Deathmatch Only Servers
+
+ I'm terribly sorry for the confusion. Again, the masters on idgecko will be 
+permanently shut down at 3:00pm CST later today. Please update your GameSpy data
+to reflect these server changes.
+
+ Also, for those of you who perhaps haven't purchased Quake II yet and want to 
+try out the first part of the game, we've released the Demo at;
+
+ ftp://ftp.idsoftware.com/idstuff/quake2/q2-314-demo-x86.exe (40 megs)
+
+ This demo includes deathmatch and co-op play along with the single player game
+experience.
+
+ On a somewhat related note, if someone can recommend a reliable FTPD for Windows
+NT that includes download resume capabilities, please drop me an e-mail at xian@idsoftware.com

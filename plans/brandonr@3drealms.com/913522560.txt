@@ -1,0 +1,20 @@
+User:   greenmarine
+Read:   0
+Unread: 0
+Time:   Sat, 12 Dec 1998 22:16:29 -0800
+Plan:
+Unreal 220 is out!  The response in #UnrealED has been phenominal.  Some
+people are saying this is the rebirth of online Unreal.  I certainly hope
+so, because it really is a lot of fun.  Dust off your Unreal CD, download
+the patch and give it a try!  220 has new sounds, better netplay, better
+interfaces/menuing/scoreboards.  A lot of fixes users asked for.  If you
+don't like it TELL me.  Email brandon@epicgames.com and tell me what you
+don't like.  Offer suggestions (please not flames, but suggestions) on what
+you want to see done to Unreal.  We do listen, and 220 is a combination of
+bugfixes and features suggested by players.  Thanks for the support of
+everyone in #UnrealED and all the fans!  We really feel Unreal is now at a
+great, solid state for online play.
+
+Server operators: Remember to edit your server name and Message of the Day
+in the Advanced Options.
+

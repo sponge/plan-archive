@@ -1,0 +1,19 @@
+Login name: arkiva    			In real life: REINHART
+Directory: /homec/arkiva            	Shell: /usr/bin/ksh
+Last login Fri Aug 14 15:11 on ttys8 from port13.max1.tope
+Project: Getting everything in FF7.
+Plan:
+A guy named Rob told me about a really cool program called GetRight:
+http://getright.com/
+
+It interfaces with your browser and handles downloads.  It lets you
+pause a download if you go offline and instantly resume later.  Its
+GREAT if you are a modem user and you find yourself unable to complete
+large downloads because your little sister wants to talk to her
+stupid little friends on the phone.  :-)
+
+Another cool thing about GetRight is that it can interface with your
+Virus scanning software.  It'll automatically run a scan on the file after
+its downloaded.  Pretty cool.
+	
+    

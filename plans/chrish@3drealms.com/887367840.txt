@@ -1,0 +1,63 @@
+Account Name:  Chris Hargrove
+Email address: chrish@3drealms.com
+----------
+Name: Chris "Kiwidog" Hargrove
+Position: Code Boy
+Project: Duke Nukem Forever
+Email: chrish@3drealms.com
+
+2/12/97
+-------
+Doh... been a week or two since my last update; things have been nice and busy lately.  Been doing the late thang since about the beginning of this month, coming in at a ridiculously late hour and leaving a little before everyone else starts coming in.  It's nice to take a week or two here and there where hardly anybody is around to bug you so you can just sit back and get stuff done.
+
+Nick's been polishing up the script integration with the engine and the few bugs that have come up as a result, but those should all be knocked out in a day or two.  This thing's becoming so flexible it's scary.  In the meantime I've been dedicating my graveyard-shift time in "the hole" (as George has now labeled our office when I turn the blacklight on) to engine updates.  
+
+Changed a bit of the game logic's connection with the server code so it'll be a little less of a pain to move over when the script goes online... also changed the way resources were managed between the client and the refresh DLLs so precaching is no longer necessary.  We still want to register most of the resources used in a level when it starts, but I didn't like the idea that "register" in this engine had also implied "load me now".  That may have worked fine with Q2, but I anticipate the number of registered resources with Duke (even if many are rarely used) would leave too much of a memory footprint if we had kept that arrangement.  That's one of the only downsides to interactivity... the sheer amount of resource "stuff" you have to account for is daunting at times.  So now register-time loading is still an option if you have the memory, otherwise by default it'll only load resources (models, images, sounds, etc) when they're needed, for drawing or playback or whatnot, and then caching them out later if necessary.  At first I thought the speed hit for doing this could be bad, but it's surprising how well this works.
+
+Also been working a bit on the network's handling of entity models, since our model control logic is considerably more complex than quake's.  Fortunately the added flexibility doesn't look like it'll be much of a network hit at all, so I'm looking forward to getting this finalized.  Still have to change Cannibal to account for some of the new model features, but luckily the artists are already designing things with these in mind.  By the time I get all this stuff wrapped up, Nick should have the script fully integrated (and hopefully bug-free), and then it's all sweets from here on out.
+
+Hmm, almost sunrise...
+
+
+1/30/97
+-------
+If you're looking for a response to all of yesterday's shenanigans, don't.  As I said before, I've said my peace, so it's done.
+
+theQuestion = 0x2B | ~0x2B;
+
+Why didn't Douglas Adams choose 43 as the ultimate answer instead of 42?  He could have been much more profound with 43.  The statement above gives a clue as to why.
+
+Got the final logistics of the new entity logic system down and implemented; this is going to be some kickass stuff, especially when it comes to making mods to DNF.  More details later...
+
+Some of the crew took a jaunt down to that one-day CGDC gettogether in Austin today.  I was originally planning on going, but decided to pass in the end (I'll be going to another conference there in a couple months anyway, and that's enough for me until the big multi-day conferences come up a little later in the year).  But Nick said he'll bring me back a copy of the proceedings if he can buy extras, so it's all good.
+
+Back to work,
+
+
+1/29/97
+-------
+Part 2:
+
+Not a real update, I just changed my phrasing  on a couple sentences (don't want to quote made-up numbers or give people the wrong idea in general).
+
+Part 1:
+
+Rant warning.  If you don't want to see me bitch, stop reading now.
+
+I've been following an exchange between Randy Pitchford (RBR) and Scott Miller, one of my bosses, and until I read Randy's .plan from yesterday, it seemed like a semi-private argument between the two of them, no big deal.  Until yesterday.  To Randy: You may think you're just insulting the company and Scott, but in fact you're insulting the intelligence of every developer who actually _likes_ working here.  Even if the royalties weren't the ideal percentage as you claim, I'll take a lower percentage of a million copies over a higher percentage of ten thousand copies any day of the week.  The ten thousand figure is arbitrary, not intended to belittle RBR, the point is simply that 3DRealms has name recognition, and it generates sales.
+
+How many companies have games whose main character has had not only action figures, but porcelain statues made out of him?  I certainly can't name too many.  The fact is, even if I got "screwed" on my royalties (which I doubt I will since I seem to like and trust this place more than you), getting screwed with Duke Nukem is still better than winning the lottery with other games.  The sales capacity is enormous.
+
+As for your "golden handcuffs" example, that's not valid for people who aren't in a rush to get out of the company.  Personally, I like it here.  And even if it took a full year after Duke is launched for all my royalties to get to me (which isn't really the case, since royalties start at 100% from day 1 unless you leave) then so be it; I don't plan on going anywhere.
+
+Finally, regarding your comment that your game will "blow us away" when you ship, I hope that "blow away" was in reference to us just being impressed or amazed or whatnot, and not a "blow away" in comparison to something we're making here.  If it's the former, then you may be right, and I wish your company all the luck in getting that "wow" result, not just from us but from everyone.  On the other hand, if it's the latter.... then you've got another thing coming.
+
+For the rest of your argument, I'll let you argue with Scott; it's business between the two of you, not me.  I've said my peace.  Just keep in mind that at some point when you attack our company, you start attacking us personally.  
+
+I'll never understand why so many people insist on burning bridges every time they leave one place to go to another.  You never know when you may need to cross that bridge again.
+
+I spend over 90% of my waking hours at this office, of my own free will, because I love what I do.  Don't think for a second that you can trample on it and not have us take notice.
+
+
+
+- Chris

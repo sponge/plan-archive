@@ -1,0 +1,32 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Cash
+Email: jcash@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 11/08/1997 04:08:24 (Central Standard Time)
+-------------------------------------------------------------------------------
+Work Log
+========
+11/7
+*fixed yet another problem with swimmers making it out of the water
+*made flipper even faster; fish should be faster than a player is in the water
+*fixed problem after having a grenade go off in your hand
+*fixed railgun effect not showing if shot in to opaque liquids
+*cleaned up code for handling armor damage
+*fixed how power armor works.  screen now only protects from the front and will stop up to 33%
+	of damage, shield gives 360 degeree protection and save up to 66%.
+*made it so actors will not begin until targted
+*fixed it so triggers can be used to make monsters mad at actors
+*let actors have messages for the player
+
+Deep Thoughts
+=============
+Saw "Starship Troopers".  Got just what I expected: cool effects with a B script
+	and poor acting.  There were a couple of time I was rooting for the bugs!
+	Dizzy or Carmen?  Give my vote to Dizzy!
+
+--------------------
+John Cash
+jcash@idsoftware.com
+"Hellrot" aka "Diet Meister"

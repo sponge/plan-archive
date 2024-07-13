@@ -1,0 +1,68 @@
+Login name: arkiva    			In real life: REINHART
+Directory: /homec/arkiva            	Shell: /usr/bin/ksh
+Last login Mon Aug  3 11:01 on ttys7 from port13.max1.tope
+Project: Getting everything in FF7.
+Plan:
+Brandon "GreenMarine" Reinhart
+greenmarine@planetunreal.com
+Contract Programmer, Epic MegaGames
+Lead Programmer, Lead Designer, Skaarj Corps (Non Commercial)
+
+Project: Epic MegaGames
+Title:   Work Log
+Updated: 07/29/98
+
+* Done
+/ In Progress
+- Scheduled
+? Unknown
+
+/ Fix Listen/Open and Close
+- Implment receiving with TMOD_Text and TMOD_Line
+- Fix Received* notifications
+* Reclass TcpLink and UdpLink under InternetLink
+* Fix asynchronous name resolution
+/ Rewrite TcpLink and IpDrv.dll to improve support for
+  mod authors
+- Rewrite ServerBeacon to greatly reduce broadcast activity
+* Rewrite UdpLink, derivatives, and IpDrv.dll to improve support for
+  GameSpy and other query programs.
+
+Feedback:
+Would appreciate feedback regarding projects the community
+is currently working on that would use InternetLink classes.
+This will help me determine other features that might be
+useful, although ideally the interface will be as simple as
+possible.
+
+Goal:
+My focus at this point is to rewrite the TcpLink class so that
+mod authors have an easy base upon which to construct net aware
+modifications (IRC clients, sideways server links?, etc). 
+
+Goal Date:
+08/07/98 - Complete above tasks.
+
+> Get the grue's milk.
+You do not see a grue's milk.
+
+> Pick up the milk.
+You do not have a milk.
+
+> Open the refridgerator.
+You open a refridgerator.
+
+> Get the grue's milk.
+You do not see a grue's milk.
+
+> Grab the milk.
+You do not see a milk.
+
+> Get the freaking milk from the freaking refridgerator.
+What would your mother say if she heard you say that?
+
+> Pick up the bottle.
+You pick up the bottle of grue's milk.
+
+You have been eaten by a grue.
+

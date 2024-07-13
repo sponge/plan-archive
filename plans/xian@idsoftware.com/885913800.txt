@@ -1,0 +1,34 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 2
+Last Updated: 01/27/1998 09:33:20 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+ --- Jan.27.1998 (10:37am)
+
+ Touche. 
+
+ Looks like the silly hax0r figured out a way around Zoid's latest
+fix for the QuakeWorld Master and the masters were flooded yet again
+last night with a bunch of bogus servers.
+ 
+ Zoid's taken things a few steps further and I've updated the source here
+and sent a copy of it to the Minos guys in the UK. This should keep the hax0r
+busy for a while figuring out what Zoid has done this time around.
+
+ /me waits to see what happens in round 3
+
+CD's I'm Listening To Lately
+
+
+"Portishead" - Portishead
+"Extra Virgin" - Olive
+"Pandora's Box" - Megalon
+"Frames" - Haujobb
+"Made on Earth" - Blue Room Compilation
+"Live in Iceland" - The Drum Club
+"The Remix Wars" - Die Krupps vs. Frontline Assembly

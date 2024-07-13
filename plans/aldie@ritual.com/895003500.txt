@@ -1,0 +1,48 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: aldie
+Plan modified: Tue May 12 16:46:18 1998
+
+Scott Alden - Programmer - Ritual Entertainment
+Email: aldie@ritual.com
+-----------------------
+
+5-12-98
+-------
+It's been 3 months since my last .plan update, so I guess it's about time 
+for a new one.  
+
+Sin Info
+--------
+I've been busy working on interface / 2D things for Sin.  We are now 
+finalizing the way the interface is going to work.  I've taken the layout
+commands from Quake2 and added about 50 new features.  This will let anyone
+create custom interfaces for the game menus and the HUD.
+
+The layout commands are kind of like a primitive form of HTML, so if you can
+make a webpage, you probably can create a Sin menu or HUD.  One of the cool
+things is that everytime I add a new command for the HUD, it can also
+be used on the in-game consoles.  This lets you put things like the 
+player's health or name on a 3D screen in the game.
+
+I also had to add some networking stuff to get the multiplayer aspect of 
+in-game consoles to work and that took a little bit of time. Most of the time
+was spent learning how the Quake2 networking system works and fitting in the
+new baselines/states for consoles.  I didn't think that something as simple as
+a console in the game would be so tricky, but I ran into many problems
+while designing them.  A lesson to be learned about multiplayer game aspects
+I guess.
+
+Other Stuff
+-----------
+I didn't get to go to CGDC this year, but Gary McTaggart took a bunch of pics
+for me to re-live the experience.  It just wasn't the same :-(  
+
+Until next time...
+
+
+
+
+
+

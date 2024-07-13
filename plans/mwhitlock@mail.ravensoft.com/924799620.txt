@@ -1,0 +1,40 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Marcus Whitlock
+Email: mwhitlock@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 04/22/1999 13:31:34 (Central Standard Time)
+-------------------------------------------------------------------------------
+04/22/99
+
+Thanks v. much to all the folk who emailed me with info on the origin of the 
+freaky 'pyramid with the eye thing going on' that's printed on dollar bills. now 
+I can sleep, er, I mean work easy.
+
+04/14/99
+
+Yummy Soldier Of Fortune stuff
+
+Yikes... a whopping two months since my last update... still working on stuff 
+for Soldier Of Fortune. Just about finished porting the weapon and inventory 
+system across into the player.dll so that all the player view-weapon animations 
+and sequences (fire, reload, muzzle flashes etc.  Hmm... the whole dang shop 
+actually!) are predicted and animate much, much nicer under laggy net conditions 
+than the original Quake2 player view-weapons. Course, all this stuff will be 
+customizable, being in a separate dll and all that. Muchos kudos to Gil for 
+creating Ghoul! 
+
+Also decided I'm going to stay with Raven... thought about travelling a bit more 
+in the US (there's so much here that an islander like myself would like to see), 
+but after considering everything... this had to be the coolest freakin' place in 
+the world to work... [at least for normal people like us anyway, i.e. those of 
+us who aren't porn stars, rock stars or movie stars with babes and cash coming 
+out of the upholstery :)].
+
+
+Marcus Whitlock - Bsc(hons) Computing Systems, aka Scorpio.
+
+Programmer / Brit guy - Raven Software Corp.
+
+http://www.gunhed.demon.co.uk/home.htm

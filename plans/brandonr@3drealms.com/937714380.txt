@@ -1,0 +1,189 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Sun Sep  5 12:24 (EDT) on ttyp1 from tpfl.demon.co.uk
+Mail forwarded to brandon@epicgames.com
+Mail last read Fri Aug 20 17:58 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Sunday, September 19, 1999
+
+-- 1:36 AM
+
+NetGames is going to take UT ngWorldStats down for a couple days
+until the new UT demo is released.  Since the fix for the multiple-UID
+problem requires some client side changes, its best if we just include
+the fix when the "full" demo is released.
+
+Taking WorldStats down will allow NetGames to upgrade their database
+(they had a new database architecture in the works that will be ready
+for deployment in a couple days) and allow them to upgrade the machine
+that does the batching and database management.
+
+I apologize for the bug and people not getting to really dig into
+ngWorldStats.  We'll get everything sorted out for the full demo.
+
+-- 1:03 AM
+
+I was reading Billox's comments on UT and professional UT play
+here:
+
+http://www.unrealtournament.co.uk/content/interviews.shtml
+
+
+I think that the Redeemer isn't really appropriate for professional
+play.  The "No Redeemer" mutator in the full version of UT can be
+turned on to remove the Redeemer from matches.  Billox finds that
+the Redeemer is pretty unbalanced in one on one and that is very
+true.  A wide area blast that causes an auto kill doesn't require any
+skill and skill is important in high profile matches.
+
+I suggest anyone considering using UT in a professional game use the 
+"No Redeemer" mutator.
+
+Anyway, Billox's comments are a good read.
+
+Definately add www.unrealtournament.co.uk to your bookmark list if
+you dig UT.  Brit, Suds, and Hakeem are always on the ball with
+updates.  Suds is a hardcore teamplayer and Hak is a hardcore
+Quakeworlder.  They are working hard to advocate UT's use in
+professional play (as well as giving me and the rest of the
+Epic team some good feedback on the way the game is shaping up).
+
+Overall, it looks like a huge majority of players are digging
+the feel and gameplay of UT.  That rocks.  UT is being developed
+with both the novice player and the hardcore player in mind, so
+keep the feedback rolling.
+
+-- 12:27 AM
+
+Found the WorldStats problem.  Probably won't be able to hook people
+up with a fix until the next demo.  The next demo will probably
+consist of a full download for people that haven't downloaded it yet
+and a patch for everyone else.  After that we won't patch the demo
+anymore and will focus on the full game.
+
+I've reenabled the ability to change your name during World logged
+games.  This will be available in the next demo.
+
+Saturday, September 18, 1999
+
+-- 10:51 PM
+
+I'm working with the NetGames guys on ngWorldStats.  There is bug
+in the password transmission code that causes multiple accounts
+to be created for a character across seperate servers.  (My bug.)
+They are working on fixing some backlog issues to make the stats
+system update faster.  Once we get everything working, we'll probably
+wipe stats.
+
+Friday, September 17, 1999
+
+-- 10:42 PM
+
+I've fixed problems with the Epic master server and we're redirecting
+all UT clients to it now.  (This remote updating stuff rocks!)
+The UT master server should allow for much faster server list and
+pinging than the GameSpy master server.
+
+I believe there is a problem with UT creating a new WorldStats account
+for players each time it starts.  I'll look into that and either prepare
+a solution or integrate a solution into the next demo.
+
+Jack has fixed some nasty issues with remote administration. Thanks to
+Smokey for giving us the heads up on that one.  A new remote admin tool
+will probably be available soon.
+
+-- 7:41 PM
+
+I live...again!
+
+Just woke up.  Getting caught up on demo release.
+
+One thing to note: If you don't like using the orders menu with
+the 'v' key, you can bind individual orders to keys using the
+"Speech Binder" under Preferences.
+
+-- 11:14 AM
+
+I can't stay awake much longer.  I'm going home to sleep.  Hopefully
+3dfx will have released the demo the time I get back.  Grr.
+
+When I get back in the office tonight I'll finish updating the Linux
+server and put together a dedicated server distribution.
+
+Jack is writing an updated server administration document he'll put
+online in a few.
+
+-- 4:37 AM
+
+Sorry the demo wasn't out yesterday.  3dfx worked all night on getting
+their infrastructure ready to handle the demand.  They are targeting demo
+release for Friday morning.
+
+While they were working that out, Tim and I updated the demo archive.
+I put the ngStats fix in there so it is not necessary to download it.
+That's one good thing.
+
+Based on feedback from testers, I've reevaluated my method of calculating 
+ping in UT.  After ECTS I decided to convince Tim we should subtract 
+frametime from the ping calculation.  This would result in the ping being a direct
+reflection of network performance (or close enough).
+
+In retrospect this was a flawed decision for various reasons.  I have
+changed the ping calculation to better reflect gameplay.  This means
+that you might see a ping higher than you would expect when you join
+a server.  I feel that this is better than seeing a lower ping than
+you would expect.  I would rather you say "I'm getting a good game here, 
+although my ping seems high" than "If my ping is this low, I should be 
+getting better gameplay."
+
+Big thanks go to Evil Avatar.  I sent him various test DLLs with changes
+in the way I calculated ping.  He then ran the game and played for a while.
+When he exited he told me the ping that my changes reflected and whether
+or not the gameplay felt to be at that level.  We tested three or four
+variations and ultimately settled on the one I felt was the best
+in theory and turned out to be the best in practice.
+
+You would be surprised how much ping can affect ones perception of a
+match even if the actual conditions behind a match are the same.
+I feel the current ping report more accurately reflects what people
+have come to expect from net gameplay.  That removes some of the butterflies
+from my stomach, but I'm still apprehensive.  This is the first demo of 
+my first commercial game so I'm pretty nervous!!
+
+Make good use of utbugs@epicgames.com to send us feedback.  We'll definately
+be reading it.
+
+Thursday, September 16, 1999
+
+-- 11:46 PM
+
+ROFL!  Talking on IRC I got the impression that some might think I harbor
+some ill will towards Blue of Blue's News.
+
+My .plan updates are jokes.  Inside jokes between Blue and I.  At E3
+I had a YelloThere tshirt that said "Blue? Never heard of him ;-)" on
+the back.  Blue called me "YelloMarine" because of it.
+
+So I poke a little fun at Blue from time to time.  He reciprocates by
+refering to the joke by calling me "VariousColorsHereMarine."
+
+Its all an elaborate ruse to make you think that Blue has a sense
+of humour.  (When in fact, most of his joke material is written
+by Loonyboi.)
+
+-- 8:06 PM
+
+You should snag the ngStats fix for the 3dfx demo if you are going to be
+downloading it.  The link is here:
+
+
+http://www.netgamesusa.com/downloads/Patch_UT_ngStats_3dfxDemo_v1.0.1_16_Sept_1999.zip
+
+
+Just copy the ngStats.exe over the one included in the demo and you are set.
+
+-- 6:27 PM
+
+Okay, the version of ngStats in the 3dfx demo has a pr

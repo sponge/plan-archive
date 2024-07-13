@@ -1,0 +1,291 @@
+Ion Storm
+
+User Name.........joey
+Full Name.........Joey Liaw
+Description.......Programmer
+Last NT Logon.....Tuesday, November 11, 1997 at 00:02
+
+
+
+
+============ 1997-11-10 part 2
+
+Ever since I was a wee babe, I worshipped John Romero as a Doom God.
+
+No longer.  After spanking his sorry ass down on doom2 map1,
+I know him for the mere mortal scum that he is.  He broke.  That small white 
+bug will always be crushed under the giant BFG of Asian Power.
+
+Incidentally he broke about two computers and some other equipment during
+intermittent moments in the battle.  Natas said he'd never seen John so mad.
+Somehow I feel honored.  "You traitor!  You've been training him!" accused 
+Romero.
+
+Natas is a good teacher.  Suck it down.
+
+In other news, I'm about to upgrade Anox to msvc5 and vsourcesafe.  And the 
+Pentium-II 300 with Millenium II runs Quake 320x200 at about 70 fps under
+Windows NT!!
+
+
+============ 1997-11-10
+
+Starship Troopers, suspending disbelief in the plot(?), was totally awesome,
+exciting, and scary as hell.  Best special effects I've seen in a movie, ever.
+I think they did a good thing, doing both real models combined with CG.  Seeing
+the one-hour special on E! behind the scenes was very cool, as well.
+
+Ha ha.  Daikatana just stole my cool camera scriptor.  Wonder if I get a 
+special bonus.  Yeah right.
+
+
+============ 1997-11-03
+
+Congrats to Daikatana team for an awesome video, shown at The Frag.  Please
+do not post any home-brew copies of the movie on the net, because we will
+be releasing ours shortly and we would rather not have a lot of low-quality
+avi's running around.
+
+Thanks for your cooperation.  
+
+
+Stayed up last night finishing the camera.  Scripting is done, now Jake has
+something to do :-).  Just a few more UI tweaks today and I will finally
+be able to sleep.
+
+============ 1997-10-31
+
+Happy halloween!
+
+Things have been pretty hectic in Anachronox.  The hardest thing about
+programming isn't coding but design.  This week we are finishing the backbone
+of Anachronox components that separate it from the pool of Quake-like Quake-
+engine games.  My camera and actor scripting are nearing completion, and 
+Squirrel's got some really kick-ass dialog scripting and user interfaces
+going, as well as some important engine modifications.  Unfortunately we
+will have to redo some code after we get Quake 2.  We got a new Boots model
+from Ken, and the level designers have put in the truckload of very cool
+alien-looking textures that have been flying out of the art department
+recently.
+
+I'd say it was a good week, even if I am dead tired.
+
+Few days ago we all trooped into Will's sound booth and started recording some 
+lines.  Even I got to talk (I learned how it feels to be a seiyuu I guess).  
+After some sound wizardry by Will, our voices were mutated into some really 
+bone-chilling speech.  Did I mention every dialog in the game has accompanied
+speech?
+
+The only bad news is that I am no longer champion of Tekken 3 in the office :-(
+(dodging flames from Sverre and Indigo).
+
+Still running into texture memory limitations though.
+
+
+============ 1997-10-21
+
+Many people have been complaining about Quake 2 demo.  Coupla things.
+
+** It's a demo for crying out loud.  Not a game, a single-player demo. **
+
+John Carmack mentions in his plan file that "The biggest changes to Quake 2
+are internal."  The most impressive visual and gameplay changes are probably 
+being saved for the actual game, but those aren't the most important changes.
+
+What matters is that the code is now easy to work with, and means developers
+licensing the Quake 2 engine can concentrate on making very cool games.
+
+
+============ 1997-10-20
+
+I'll mention my thoughts on the programming aspects of Quake 2, and their 
+relation to Anox.  Anyways, since it's just a test-demo, there is no point in
+talking about gameplay or monsters or weapons.
+
+Quake 2 is compartmentalized -- they have an executable (287 K!), which just 
+does setup and the main game loop, rendering dll's (ref_gl.dll and 
+ref_soft.dll), and a gameplay dll (gamex86.dll).  This way they can set up a 
+nice api where the main executable just calls, say, InitGameAPI or something 
+like that to interface to id's "quake api," filling in a structure of 
+function pointers.
+
+Sorry if I was repeating info some of you already knew.  Think somebody at id
+used to have some of this info in his finger, but I can't seem to find it...
+
+How does this affect us?  It will be a lot of work to reintegrate what we have 
+been doing to the engine into the new-and-improved code of Quake 2, but it 
+will be much easier to work with as a code base than Quake 1, where you can 
+tell some parts were rewritten about 20 times and worked on by different 
+people.
+
+Now, what is really cool (and smart business) for id is that they can license 
+out just their rendering dll, give developers the link libraries and header 
+files to interface to their API, but never have to share their renderer's 
+source code with anybody.  Developers can concentrate on making a game and not 
+have to dig through mounds of rendering source code, and id can protect
+their exclusive rendering technology.
+
+============ Dumb microsoft link error of the day
+
+
+--------------------Configuration: katanox - Win32 Debug--------------------
+Compiling...
+katanox.cpp
+Linking...
+   Creating library Debug/katanox.lib and object Debug/katanox.exp
+katanox.obj : fatal error LNK1000: unknown error; consult documentation for technical support options
+Error executing link.exe.
+katanox.dll - 1 error(s), 0 warning(s)
+
+
+Joey's workaround:
+1) rebuild all
+2) failing that, remove all files from project, reinsert, delete Debug directory, rebuild all
+3) failing that, create a new project and copy over your source files
+4) failing that, cap yourself.
+
+
+============ 1997-10-16
+
+Sound Blaster tech support was really nice about helping me with a
+problem with my sound card -- the output gain was way too high
+for my ears using my new Sony MDR-CD570 headphones, so they sent
+me a nice little program called sb16wmix.exe.   Seems like this
+is the only utility in the world that can set the gain under
+Windows NT.  Of course, it's just my luck that it turns out I have
+a Vibra 16 soundblaster clone in my system, and that there is
+no gain control on it.
+
+Crapola.
+
+Maybe I should upgrade to a 32-bit card.
+
+A couple of people were playing Ultima Online last night.... it 
+seems to be pretty fun, except for the fact that often you are
+wandering around for hours and hours looking for (a) somebody to
+buy stuff from you so you can actually have some gold to do
+anything (b) looking for a monster.  The landscape seems to be a
+bit barren, and Nelno was going crazy last night trying to find
+some low level creatures to fight.  In several hours of searching
+he only came across two monsters which were too powerful for his
+characters, and one player killer who, well, killed him.
+
+Anachronox?  Oh yes, there was an Ion Storm bowling party last night.
+I sucked, because I didn't have a bot to help me.
+
+
+============ 1997-10-15
+
+Eidos people caught us by surprise today, but we had some cool stuff
+to show them.  Our levels are going to rock!!  Totally organic look
+and feel, never before seen in any Quake-type game.
+
+Now I sound like a TV ad.
+
+More good progress on the camera scriptor.  Before you know it we will
+be able to do stuff any cameraman in real life would want to do....
+plus the tool will be usable by anybody, you don't even have to know
+how to use a map editor.... and so now TC's can actually have plot,
+and all those creative gamers out there won't need a thousand-dollar 
+program to make your own really really cool 3d animations and cut 
+scenes (that is, those who don't warez 3dstudio max).
+
+
+============ 1997-10-14
+
+I misworded my plan file the other day.  We do not already have a
+code dump from id, I meant we will be getting it sometime next month...
+(Thanks to Shawn Green for pointing out my mistake.)
+
+
+============ 1997-10-13
+
+You might be wondering why some dork would write his date is the
+yyyy-mm-dd format.... well lets just say it's my little way of asking
+how come Microsoft has forty thousand ways to display the date, except
+in the standard ansi format?  If I'm wrong don't flame me, I really don't
+care enough.
+
+Anyways I was inspired by my friend Patrick Tewson to update my plan file.
+A lot has happened recently, actually.... not only do we have a totally
+bad-ass Tekken3 machine in the office (I'd never seen the game before, but
+I was a Jun freak in Tekken 2 and smacked Noel around a good deal :-).
+
+We finally split from Daikatana development.  Now we are independent source
+code bases, whereas before we were sharing a lot of code.  This way if they
+want to modify stuff or if we want to modify stuff, we won't be stepping 
+on each other.
+
+Also a couple more new camera types under development, plus movie scripting.
+The question is, once I finish complete movie-like scripting tools, do I 
+give it to katana, or do I "save the thunder" for Anachronox?
+
+Other good news, we are getting some code updates from id 
+within the next two months.
+It is both a big relief (we can finally start working on engine stuff again)
+and a big fear (oh crap we have the merge of the century to do).
+Dunno if katana and anox will be sharing code after that point, though....
+
+Cool materia combo of the day (courtesy of Cleaner):
+
+(Command Counter) + (Mime)
+
+I never thought of that before, but it is amazing if you think about it....
+
+
+============ 1997-10-04
+
+Camera movement that stops exactly where I want it to stop.  No more
+seasickness.
+
+
+============ 1997-10-03
+
+What is wrong with me? I haven't updated my plan file since July 1.
+
+
+Well now, I suppose you wanted information on Anachronox.
+Everybody in the office is playing Age of Empires, but personally, I like
+Dark Reign and Total Annihilation better for the greater complexity of 
+the orders you can give to your units (and Total's graphics are kick-ass
+enough that I don't mind the 5 fps on my slow-as-hell Matrox Mystique).
+
+
+A word on video cards.  PowerVR came in the other day, their card totally
+ruled.  I can run at 512, 640, 800, and 1024 resolutions, all 4mb on the
+card is dedicated to texture memory, the card is $99, and it ran Jedi
+Knight at 30 fps in crystal clear 1024x768.  GLQuake ran at 30 fps as well.
+
+I was totally impressed by a card 1/2 the price of a 3dfx, twice the
+texture memory, and the same performance.
+
+In fact, Matrox M3D or whatever they call it, has a PowerVR in it.
+What?  Matrox finally made a decent 3d card?  Well, this card is better
+than decent.  The Mystiques frankly sucked.  They are slow 2D cards and
+are slower 3D cards, with no advanced 3D capabilities that a real GL card
+would have.  Actually, it was funny running GLquake at .5 frames a second
+(mind you this is just displaying the console, not actually playing a level).
+
+
+Enough on cards.  The game is coming along well.  Go play Final Fantasy VII,
+Anachronox will be like that, only cooler.
+
+
+Have fun,
+
+
+  ___                     _
+ (   >                  _//                 [ aka chinaman ]
+  __/______/> __  ,     /    o __.  , , ,   [ aka alien ]
+ / /  (_) (__/ (_/_    /___ <_(_/|_(_(_/_   [ aka sbot-alien :-) ]
+<_/             /    
+               '     joey@ionstorm.com
+
+
+
+By the way here is a cool materia combo:
+
+weapon: [Hades] + [Added Effect]
+    chance that you will cause confusion, frog, sleep, poison, sleep, etc.
+	on any attack with your weapon (like slash-all, deathblow, normal hits)
+(File last updated on Tue 11 Nov 1997 at 00:11)

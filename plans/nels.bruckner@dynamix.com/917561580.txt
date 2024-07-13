@@ -1,0 +1,83 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+------------------------------------------------------------------------
+User Name: nels.bruckner     Plan Last Modified: 01/28/1999 16:06:29 PST
+
+Real Name: Nels Bruckner
+Nickname: Nailz
+Job: Programmer
+Project: Tribes
+E-Mail: nels.bruckner@dynamix.com
+
+[1/28]
+     Putting the finishing touches on the patch...
+NOT the OpenGL patch.  That comes next.
+
+     Just got all the GameSpy/PingTool/etc. stuff all
+put together and shipped off.  Hopefully a lot of
+these front-end programs will be supporting Tribes
+very soon (I think Kali already has it running and is
+just testing a bit... they say it will be out by
+Friday the 29th).
+
+[1/4]
+     Well, it's out.  I can't tell you how gratifying
+it is to see a product like Tribes go out the door
+and meet with almost immediate success.  It's fun to
+just run the game and look at the server list!  It's
+also cool to see all the people that are figuring out
+the scripting language and the editor.  Man, that
+kicks ass.
+
+[12/14]
+     Oh yeah...
+
+     This last week has been probably the toughest
+development time in my 10+ years of game development.
+It has been a serious grind.  But, we've squashed
+some amazingly nasty bugs in what we thought was
+already a very clean product.  Just goes to show ya,
+I guess.  And now things are looking sweet.  We are
+just about to submit our first CD to CPC.  It's close
+guys, it's close.
+
+
+[12/4]
+     Finishing touches are coming together... and man
+it is looking sweet (and not just because we are
+FINALLY (almost) done... it actually looks awesome).
+I am mostly dealing with CD audio stuff (Loudmouth
+did a kick-ass job on the music tracks) and squashing
+the occasional bug.  Install, autorun, all remaining
+important issues have all been resolved (or are damn
+close).  It's just a matter of last minute bug fixes
+and polish now.
+
+	People, it is coming together!
+
+
+--Nailz
+
+
+[Now Playing:]
+Metallica - Master of Puppuets
+
+[Top 5 Bands:]
+Black Sabbath (forever, man)
+Corrosion of Confomity (Deliverance,Wiseblood,Blind)
+Mercyful Fate
+Overkill (a consistantly awesome band)
+Metallica
+
+[Car Lust:]
+McLaren F1 (duh)
+Ferrari F355 F1
+Lamborghini Diablo (any flavor)
+...maybe a Hummer or something 4WD... for the snow.
+
+[Favored Cigars:]
+Montecristo #2
+Opus X (#2, robusto, all of them)
+Cohiba Esplendito (melo, but tasty)

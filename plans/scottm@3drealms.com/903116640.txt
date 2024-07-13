@@ -1,0 +1,246 @@
+Account Name:  Scott Miller
+Email address: scottm@3drealms.com
+----------
+========================================
+Aug. 14, 1998
+
+*  Duke Nukem movie made a big leap yesterday.  The most recent story draft is finally something 
+that represents what we've been looking for.  We (Threshold and 3D Realms) have been molding 
+and rewriting this thing for six months, but now we have a concept that excites us, and therefore 
+we think will excite Duke fans.  Can't talk about details this early--sorry for the tease.  ; )
+
+*  I'm still getting lots of emails from press, developers and fans talking about the idiotic doings of 
+LucasArts, and their insanely petty effort to stop Remedy Entertainment (developer of Max Payne) 
+from using Remedy's company logo, which incorporates an eyeball and eyelid, an element in the 
+LucasArts company logo.  LucasArts attorneys have the odd opinion that no other company is 
+brilliant enough to think of using an eye in their logo, and therefore every other company with an 
+eye in their logo MUST be ripping of LucasArts.  (This includes at least five other game developers 
+that I've previously mentioned in this space.)  Sigh--is there any wonder why we often view 
+attorneys as waste matter.  No one who has written me, and I mean No One, has defended 
+LucasArts--it's been 100% anti-LucasArts, and rightfully so in this case.  No one likes an
+in-the-wrong big bully.  Well, I see this as a dead issue now, no need to jab a competitor who 
+seems to do well jabbing themselves (in their own eye, no less).
+
+*  In the Sept. issue of Game Developer magazine (www.gdmag.com) Warren Spector writes a 
+guest column ("Soapbox") that's hits on about a dozen design points that every game developer 
+should know before heading into the dangerous world of game design.  For example, a big game 
+world is not necessarily an interesting game world.  And conversational branching into a deep tree 
+is rarely fun (most game players end up trying every single branch anyway, just to make sure they 
+haven't missed anything, and this ends up being very tedious).  After reading this piece, I have 
+heightened enthusiasm for Warren's coming game, Dues Ex.  I recommend all developers give this a 
+read.
+
+*  Puzzle:  Duke and QuakeGuy were the final two contestants in a match to win Lara's hand for a 
+date.  King Eidos, though, didn't like either contestant and so devised a plan:  Duke and QuakeGuy 
+would each be assigned a car and enter a mile long car race in which the winner would get Lara, 
+but the catch is that the winner is the *car* that comes in *last*!  Duke and QuakeGuy were 
+worried that the King had outsmarted them, until Duke came up with an idea that would make the 
+race fair and fast.  What was Duke's idea?  (And, btw, Duke won the race -- QuakeGuy could get 
+into the race car because he couldn't jump.)
+
+(Puzzle solution at www.3dportal.com -- please don't email me.  Thanks.)
+
+========================================
+Aug. 7, 1998
+
+From:  http://www.gamespot.co.uk/pc.gamespot/features/gurus/23.html:
+
+Todd Porter (writing about the future of the game industry):  "Storytellers and true game designers will have 
+the stage. Technology will be so advanced, that technology leaps will fade to the background. Ion Storm will 
+be sued by the government for having made such great titles that other game companies complain they don't 
+have a chance."
+
+So far, I don't hear any other game companies complaining.  ; )
+
+========================================
+updated Aug. 7
+
+Good news, there was a lot of hard disk caching with my 128k RAM, so I went ahead and upgraded 
+to 128megs.  Made a big difference.  ; )
+
+-----
+Aug. 6, 1998
+
+Finally got a new system:  P2-400 with Voodoo2, 128k RAM and 11gig drive.  I can finally play Sin and Unreal in realtime.  (Not a dig against these fine games, but the fact is that my old system 
+couldn't handle these games without lots of hitching.)  Anyway, it's nice to be back on the leading 
+edge again, even if it'll probably only last for a few months!
+
+BitchX finally publicly revealed.  She's someone we used to work with and had a great business 
+relationship with.  I hope this isn't the end to her game gossip site.
+
+Video Game Patent Fight News:  Still ongoing and still costing us 10's of $1000's to fight.  It's clear 
+that we're not violating it, but the Bad Guys (patent holders) don't know when they're beat, and 
+won't give up.  Sheesh.  It's too bad the SPA doesn't have the balls to help us out.
+
+Max Payne milestone #10 came in this week.  Much cool stuff.  Things are reaching a "game" stage, 
+and fast progress should ensue.
+
+Puzzle:  You're in a car in the northern part of the Artic, with the car pointing due north on an 
+ordinary but straight paved road.  You drive for exactly one mile, without turning, and end up one 
+mile south of where you started.  How?
+
+========================================
+July 24, 1998
+
+Sequels:  The Lame Name Game
+
+Advice to publishers and developers of sequels:  Stop using the ultimate lame
+name device:  sequel numbers.
+
+3D Realms will never have a game title like Duke Nukem 4, Max Payne 2 or Prey
+2.  We think those "sequel numbers" that follow a game's title are both
+uncreative and lame.  Many movie sequels have equally lame titles, like the
+Lethal Weapon sequels, the Godfather sequels and the Rocky sequels.
+
+As an alternative, look at movie sequels that avoid using the lameness of
+sequel numbers.  The Star Wars sequels, thank George, are not named Star Wars 2
+and Star Wars 3.  Same with the Indiana Jones sequels, each having its own
+original name, making each movie seem more like an episode in a TV series. 
+George Lucas has figured out the sequel name game.
+
+The Batman sequels, the Alien sequels, and the James Bond series also rely on
+each movie having its own unique name, rather than simply attaching a lame
+sequel number.  But some sequels try to have it both ways, going with a sequel
+number and a new subtitle, like Speed 2:  Cruise Control, but this doesn't
+work--the lameness of the sequel number is still there, plus the name is way
+too long.  Why not just name the movie Cruise Control and lose the Speed
+reference?   (E.g.  The sequel to Jurassic Park wasn't Jurassic Park 2: The
+Lost World, it was simply The Lost World.  Lameness avoided!)
+
+From a marketing standpoint, sequel numbers seem like a good idea, because they
+build upon the awareness and equity built into the original title, but in the
+long run they are detrimental because they look like rehashes of the original
+product, rather than stand alone original works on their own.
+
+Tomb Raider 2 and Tomb Raider 3 are both extremely lame titles.  If Eidos had
+as much guts as their star character they'd have instead followed the Indiana
+Jones model for their game titles:  Raiders of the Lost Ark is equivalent to
+the first Tomb Raider title, in that in neither one is the starring character's
+name used.  But in the next two movies Lucas wisely emphasized Harrison Ford's
+character in the titles (Indiana Jones and the Temple of Doom, and Indiana
+Jones and the Final Crusade).  The second and third Lara Croft games should
+have followed this same model, with names like Lara Croft and the Lost City (or
+whatever is appropriate to the each game's story).
+
+The continued use of the Tomb Raider name in the sequels is lame in another
+respect, too, because it forces each game to take place in a tomb location
+every game, otherwise the title doesn't make sense.  Eidos is really missing
+the boat by not emphasizing the Lara Croft character in their game titles, and
+freeing up the versatility of the game's locations.
+
+At 3D Realms, we don't even view games as sequels, we think of them as new
+episodes in an on-going TV series.  Who thinks of each TV episode as a sequel
+to the previous episode?  No one.  We apply the same thinking to our games and
+our game titles, and so you'll never see a game named Duke Nukem 4, just like
+an episode of X-Files isn't titled X-Files 117.
+
+Here are more lame examples of sequel numbered games:
+
+Warlords III:  Darklords Rising -- Why not simply Darklords Rising?
+
+Blood 2:  The Chosen -- Why not just The Chosen?  Is connecting this game to
+Blood really that beneficial!?  Look at DreamWorks' game, Trespasser, which
+thankfully avoided the lame alternative, The Lost World: Trespasser--someone
+had the smarts to realize they didn't need to blatantly attach "The Lost World"
+brand to this game's title.
+
+Might and Magic VI:  The Mandate of Heaven -- Why not just The Mandate of
+Heaven and somewhere on the box have a Might and Magic logo, like James Bond
+has the 007 logo?
+
+Jazz Jackrabbit 2 -- I would have gone with the title Jazz and Spaz instead,
+since both characters are emphasized heavily in this game and on the box front.
+
+KKND2:  Krossfire -- Why not just Krossfire?  And if that's trademarked
+already, then think of something else as klever.
+
+Need for Speed III:  Hot Pursuit -- Should just be Hot Pursuit with a Need for
+Speed logo somewhere on the box front.
+
+Descent:  Freespace:  The Great War -- No sequel number, but this name is just
+out of control!  And why it's attached to the Descent series I can't figure
+out, what are we descending into?
+
+To be fair, Apogee has had one lame sequel name, Duke Nukem 2 in 1993, but
+since that time we got a clue.  Better late than never.
+
+========================================
+July 17, 1998
+
+News Bulletin:  Developers Beware!
+
+It seems the attorneys at LucasArts think that the Remedy Entertainment
+company logo (can be viewed here: http://www.maxpayne.com/) is too similar to
+the LucasArts logo.
+
+FYI, Remedy Entertainment is working with 3D Realms to develop the PC game Max
+Payne, which recently garnered a great deal of positive feedback from the
+recent showing at the Gathering of Developers' E3 booth.
+
+A letter (dated July 9) from LucasArts' attorney, John Sullivan, of Fenwick
+and West LLP, claimed:  "The Remedy Entertainment logo so closely resembles
+the top portion of the LucasArts logo, which, like the Remedy Entertainment
+logo, forms an eye, that, considering LucasArts' prominence in the computer
+game industry, it is hard to believe that the Remedy Entertainment logo was
+not copied from the LucasArts logo."
+
+It's true that both logos have an eye, but beyond that aspect they are
+entirely different.  I can assure all that Remedy did not purposely
+incorporate an eye in their logo to copy the LucasArts logo--the fine artists
+at Remedy are a little more creative than that!  I'd say that the only people
+who are confused by these two logos are none other than LucasArts' attorneys. 
+I'll bet the rest of the gaming community has no trouble telling them apart.
+
+Mr. Sullivan than asks Remedy to stop using the logo:  "Accordingly, we ask
+that you conform no later than July 17, 1998 that plans to use the Remedy
+Entertainment logo have been abandoned and that another logo, which does not
+resemble the LucasArts logo, will be used instead."
+
+Remedy has decided to change their logo ASAP, but not all due to legal
+pressure from LucasArts.  Previous to this legal threat from LucasArts, Remedy
+had concluded that their logo looks like utter crap, and they had been working
+on a new design that better incorporates their company's name (much like the
+Apogee and 3D Realms' logos do), which should be ready in a few weeks.
+
+I'm quite bothered by this tough stance taken by LucasArts, and I just want to
+warn other developers not to include an eye in their logo!  May the Force
+leave you alone...  ; )
+
+========================================
+July 8, 1998
+
+A few people have reminded me that many months ago I said that I'd write about
+the negative effects that realistic and improved graphics have had on the game
+industry.  I guess it's time to pontificate.  Who knows, I might even have a
+valid point or two--sometimes I get lucky that way.
+
+Let's get this straight:  Everyone loves the improved graphics we're seeing in
+today's games.  The key problem is that too often developers focus on graphics
+and lose focus gameplay issues.
+
+This is why most FMV (full motion video) games fell flat on their pompous
+faces.  This is why the convergence of Hollywood and Silicon Valley won't
+revolutionize the game industry.  This is why Rocket Science never had a
+chance.
+
+Spin the date dial back to the late 70's and early 80's, when graphics were
+1-bit, we're talking black and white, but included masterworks like Asteroids,
+Space Invaders, Space War, Battlezone, and Pong.  Other 1-bit games used
+colored plastic overlays on the monitor itself, like Star Castle, Armor
+Attack, and Warlords, and on some machines those overlays even lined up
+correctly.
+
+But you know what, as unrealistic as those graphics were, those games were
+addictively fun.  Later games like Pac Man, Galaxian, Missile Command,
+Tempest, Defender, and Centipede graduated to 2-bit (4 color), and even 4-bit
+(16 color) graphics.  But still, the graphics weren't the selling point--it
+was still the balanced, polished gameplay.  Designers back then for the most
+part designed their games with gameplay in mind first, and the graphics were
+simply a medium to bring their game to life.  Look how these older games have
+been fondly remembered over the years.  There's a single, solid reason for
+that:  Gameplay.
+
+Nowadays, with graphics standards escalating on nearly a monthly basis, it's
+tough for developers to focus long and hard on the juicy meat of game design. 
+Imagine what the game chess might be like if the game designers had focused
+too much attention on the quality of t

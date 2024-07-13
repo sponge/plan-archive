@@ -1,0 +1,48 @@
+Login: seanc          			Name: Sean Cavanaugh
+Directory: /home/seanc              	Shell: /bin/bash
+Last login Sun Jul  9 13:52 (CDT) on ttyp0 from 172.16.10.30
+No mail.
+Plan:
+ZHLT 2.2 has been released
+
+For those who don't know, ZHLT is a collection of replacement compile tools
+for making Half-life maps.
+
+It can be downloaded at its primary mirror at the HERC:
+http://halflife.gamedesign.net/resources/zhlt.shtml
+
+Changes for 2.2 :
+HLCSG 
+    The -noskyclip option now also means to not discard the non-sky textured objects 'inside' a sky zone, as sometimes the skies sometimes come out solid always as a result of removing the faces. 
+
+HLBSP 
+    Removed -watervis, will add light through water without hacking vis to do it at some point in the future. 
+
+HLRAD 
+    Fix rare 'DecompressVis' overflow. 
+    Added -nomatrix command line option. This option causes hlrad to not use a vismatrix cache at all. -nomatrix is faster than -sparse especially on multiprocessor (4+ CPU) machines, or on machines where even -sparse mode uses too much memory. However, if using a large number of opaque brush entities in the world, the nomatrix mode will be dramatically slower than the normal or sparse methods. 
+    Dramatically reduced memory usage of transfers data. 
+    Brush based entities can affect lighting by adding a key/value of zhlt_lightflags 
+
+0 is default
+1 is 'embedded fix'
+2 is opaque (BLOCKS LIGHT!)
+3 is both
+
+    For opaque brushes, it will be frequently necessary to place point lights inside the brush so that faces obscured by the brushes are properly lit (for example the trim adjacent to a func_door). 
+
+    Fixed light streaking across edges of surfaces. 
+    Fixed bleed correction code pulling in lightmap pixels unnecessarily far distances in rare cases, when a simple and short nudge into the world would do the trick. 
+    Completely fixed phong shading (smoothing) using bad data in some cases. 
+    Removed the triangulation code (no more MAX_TRI_TRIS, MAX_TRI_POINTS, MAX_TRI_EDGES errors), and replaced it with a simpler and more correct looking algorithm. 
+    Replaced patch subdivision code. A chop of 64 will generate moderatly more patches than before, and bounced lighting looks much better overall. 
+    Removed -maxchop, as a result of reworking patch subdivision code. 
+
+ALL TOOLS 
+    Allow command line options after the map name in the command line 
+    Added -noinfo switch to not show extended configuration settings during run 
+
+===============================================
+This is my .plan
+  There are many like it, but this one is mine.
+===============================================

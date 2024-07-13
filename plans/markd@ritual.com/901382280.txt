@@ -1,0 +1,105 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: markd
+Plan modified: Sat Jul 25 12:46:24 1998
+
+[07/25/98]
+Scourge Done Slick...It makes me proud to be in this industry.
+
+Great job guys.  To think I was pretty pleased with myself with the camera
+stuff I put into the pak to begin with!
+
+[06/23/98]
+July 26th, hang on to your shorts!
+
+[04/19/98]
+
+- What's up with Alex St. John? Is he a glutton for punishment? How can
+any educated (supposedly knowledgable) person make those statements about
+Quake or QuakeII?  Last time I checked, he didn't have a programming
+credit on the game, and on top of that, talk to any Riva, Rendition, PCX2
+or 740 (well soon to be) owner out there and ask them about their GLIDE
+drivers for their video cards.  The forementioned cards are mostly D3D
+cards with OGL drivers written post hoc.  They do not support GLIDE, and
+they do not need to thanks to the vanilla (mostly) OGL implementation
+Carmack used in Quake and Quake II.  In fact the only mention of "VOODOO"
+in the engine is there to handle gamma correction, because OGL doesn't
+have a standard Gamma extension.
+
+
+- Here is an old arcade game tip.  If the game is going to be an office or
+anywhere where more than one person uses it (besides yourself), only buy
+those games that have multi-player capability.  Jim and Don were bad the
+other weekend and no we are the proud owners of 23 video games.
+Hmmm...time for that Ritual Arcade we have been talking about.  Anyway, of
+those 23, here are the games that are actually played: Capcom Bowling,
+Mini-Golf, Super Sprint, Championship Street Fighter.
+
+- SinEd is proving to be an awesome development tool.  I think the add-on
+community will be pretty comfortable with it when it comes out.  Once
+again, I don't need any more help with modeless dialogs.  That is all
+working quite nicely now.  I think with 2500 textures, and 200 models at
+your disposal you will not want for quite some time when the game is
+released.  It is very cool to place a model in the editor and be able to
+see him right away, pose him, scale him and rotate him just perfectly.
+
+- For the record, my handle is "MarkGyver" not "Beepo" or "Nostradamus".
+
+
+[04/16/98]
+
+Man you guys rock.  Thank you, Thank you for the solution to my modeless woes.
+Here is the short and sweet solution for the curious. In your main message
+handler you need to put in a call to "IsDialogMessage" with the handle of your
+modeless dialog boxes and than all is hunky dory.  This actually makes
+compelete senes in a Win32 way, but sometimes you look for a much more complex
+solution to a simple problem.  I can't believe that I would have to insert an
+"IsDialogMessage" call for everyone of my modeless dialog boxes, but this
+seems to be the case.  In any case, thanks for all the great advice.
+
+As far as the "Vaporware" thing goes.  I got a bunch of supportive email and a
+bunch calling Sin a TC or worse a level pack.  Folks, let me assure you that
+Sin is a full blown game with amazing characters, weapons and gameplay that
+just happens to use an enhanced Quake II model to push pixels on the screen,
+and send packets over the net.  Anyone who has followed Ritual/Hipnotic knows
+that we are about quality and originality, you will not be disappointed with
+Sin.
+
+[04/15/98 13:63 PM]
+
+I just love being called "Vaporware", it really gives you that warm and fuzzy
+feeling all over.  For the record, Sin began development April 1st, 1997.  It
+is now April 15th, 1998.  That means that we have been in development for
+1.039 years.  Now I won't say how long other games called "Vaporware" have
+been in development, but a year is about 6 months sooner than any game since
+Wolfenstein 3D.  So the next time, someone decides to talk dirt about our
+baby, I would appreciate if they looked at the facts first.
+
+Help me!  I have this one problem in SinEd that has driven me nuts from day
+one, and I was hoping some Win32 guru out there may be able to shed some light
+on the situation.  I have a dialog which I open with a CreateDialog call.  I
+have my own DialogWinProc to handle the Dialog.  The WM_INITDIALOG message
+returns FALSE, indicating that windows should not give me the focus (if I do,
+keyboard focus goes away and I can't ever get it back).  Now here is my
+problem, with this setup, the TAB key will not tab between my various
+TABSTOPS.  If however, I create the dialog with a DialogBox call, everything
+works fine.  Frankly I am perplexed, and annoyed why the two have had such
+different behaviors.  I would be happy just being able to get keyboard input
+into that WinProc, but it does not respond to WM_KEYDOWN events either.  Any
+thoughts out there would be most welcome.  Besides, you'll be helping
+yourselves, 'cause when Sin ships so will SinEd.
+
+Thanks.
+
+
+=========================================================================
+=  = = Mark Dochtermann = Ritual Entertainment
+=========================================================================
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************
+pleasant email 

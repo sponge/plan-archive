@@ -1,0 +1,119 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 2
+Last Updated: 02/23/1998 17:46:13 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+ --- Feb.23.1998 (7:54pm) ---
+
+ Oops. Forgot to mention that;
+
+ 192.246.40.37:27913 is now our 64 player map server =)
+
+ --- Feb.23.1998 (7:45pm) ---
+
+ We've released three 64 player deathmatch maps at;
+
+ftp://ftp.idsoftware.com/idstuff/quake2/maps/dm_64.exe
+
+ Here's the contents of the readme.
+
+---
+
+ Here are three large deathmatch maps that we've cooked up for Quake II.
+It is recommended that, as a client, you have at least 32 megs of RAM
+to use these maps. As a server, you should get the beefiest processor
+and as much memory as you can get your hands on if you wish to run a 64 
+player server. In tests that we ran here at id, a PPro200 peaks at about 
+50 clients, and our 400mhz Alpha started sweating at about 64 players.
+
+ The maps should be extracted to your \quake2\baseq2\maps directory and
+they are named as follows;
+
+	base64.bsp  - Tim Willits
+	city64.bsp  - Paul Jaquays
+	sewer64.bsp - Christian Antkow
+
+ These three maps run in a loop.
+
+ Enjoy,
+
+ -Xian
+
+
+ --- Feb.23.1998 (6:33pm) ---
+
+ I forgot how much NT bites for deleting files that are in use, and as a 
+result, I moved the server page over to my Linux machine at;
+
+http://inferno.idsoftware.com/q2servers
+
+ --- Feb.23.1998 (5:14pm) ---
+
+ Worked on the webpage today to display servers from our master.
+
+ The URL is http://www.idsoftware.com/q2servers. It's updated
+every 5 minutes or so (Hit reload in your browser).
+
+ The next task is to get QPlug working with Quake II servers... 
+
+ /me goes back to work
+
+ --- Feb.22.1998 (1:20am) ---
+
+ I'm doing some work on a webpage to display a list of
+servers from our Quake II master, however, by default, dedicated
+servers do not report their presense to our master.
+
+ If you would like for your server to start reporting to our master,
+"set public 1" in the console of your dedicated server (by default, 
+servers run at "public 0"; They don't report to us).
+
+ I should have more news in a few days, and thanks in advance for 
+your co-operation.
+
+ --- Feb.21.1998 (12:54pm) ---
+
+ I know that there is a portion of the community that is rabid about
+wanting "Namefun" implemented into Quake II, and have even gone so far
+as to creating petitions to get us to put it back into Quake II.
+
+ It doesn't look like it's going to happen for the following two 
+reasons.
+
+ - Namefun users appear as garbage text on dedicated servers. Yes, we know 
+you kick users by number, but you still have to be able to recognize the 
+name enough to know who to kick, and namefun makes this difficult.
+
+ - Animated Names: This sends ALL your userinfo data to everyone on the
+server every time your name animates. This is hell for modem users.
+
+ --- Feb.20.1998 (5:38pm) ---
+
+ If you are experiencing "Error during initialization", make sure
+you are running Quake II from the icon that was created when you
+installed Quake II off the CD. 
+
+ --- Feb.20.1998 (11:31am) ---
+
+ We have encountered a problem with the latest release (3.12)
+Dedicated servers may crash once in a while. We are looking into the
+problem and hope to release a small fix soon.
+
+ --- Feb.19.1998 (7:25pm) ---
+
+ The Quake II Point release and Zoid's Quake II CTF ARE OUT!!!!!!!!
+
+ Check http://www.idsoftware.com/hot/index.html for current download
+sites.
+
+ We are running 4 servers with the new releases at;
+
+ 192.246.40.37:27910 -- Deathmatch
+ 192.246.40.37:27911 -- Deathmatch
+ 192.246.40.37:27912 -- Q2CTF
+ 192.246.40.37:27913 -- Deathmatch

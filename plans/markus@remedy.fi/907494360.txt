@@ -1,0 +1,54 @@
+Username: markus                    In real life: Markus Maki           
+
+
+Plan:
+------------------------------------------------------------------------
+04 October 1998
+
+It's time for some 3D Hardware driver awards, _based on our experiences_
+
+Best install
+Matrox (any driver, any hw). Very fast, very easy, haven't gotten 
+install to screw up ever. Plus they have unified drivers for some
+products. Quite an achievement of coordination on hw production &
+software driver development.
+
+Best reliability & functionality in shipped drivers
+No award given. Everybody goofs up occasionally.
+
+Best developer support (e-mail tech support)
+3Dfx
+NVidia  
+Honorable mentions go also to 3D Labs & ATI
+
+Best DirectX 6 drivers
+NVidia. I guess their co-development with Microsoft paid off. 
+Developing the DX6 support for Max-FX would have been nearly 
+impossible without their good beta drivers.
+
+
+Oh yeah, I guess my mad raving about the Hercules' drivers paid off
+since S3 has now new reference drivers on their site that work 
+nicely with both NFS3 and our technology, just 2 days after my 
+last plan update. Coincidence? Maybe. Besides, the card rules.
+It's about as fast as TNT on single texturing apps (on a P2-400),
+but in multi-texturing apps TNT beats it by a big margin. Savage3D also
+seems to have a better AGP implementation than TNT.
+
+I'd need to benchmark the Savage3D on a slower system to get a complete
+picture of it's performance & scalability.
+
+But Savage3D is  TNT is  (Finnish wholesale prices). Hmmm...
+Decide for yourself.
+
+I'd still recommend that all Hercules BEAST users use the S3 reference 
+drivers, not the ones from Hercules.
+
+(check finger.planetquake.com for old plan updates)
+--------------------------------------------------------------------------
+
+
+
+
+
+

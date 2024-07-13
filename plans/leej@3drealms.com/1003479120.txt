@@ -1,0 +1,37 @@
+Account Name:  leej
+Email address: leej@finger.3drealms.com
+----------
+Smoooooooth.  Nice nice, yah boo.   Mmmmmmmm.
+
+Ahh.  I feel much better now.  At long last, the old SCSI Chain of Infinite Doom is gone, never to be heard from again.
+
+When I built a dedicated DAW (digital audio workstation) system back in 1996, I asked for and was given a SCSI subsystem for recording audio data.  IDE drives weren't exactly the best choice back then for recording or playing back multiple tracks of audio.  The only way to get reliable multitrack audio performance was to go SCSI.  So, we got an Adaptec 2940 SCSI card and hooked a Seagate 2GB 7200 rpm Barracuda drive up to it.  Not much by today's standards, but pretty good for the times.
+
+Since then, I've gone through several computers, leading up to the Athlon 850 that I have today.  The SCSI subsystem has been with me all the way.  It has grown and changed a bit over the years, of course.  What started out as just a card and a 2GB internal drive finally wound up as an Adaptec 2940U card, a 4GB Seagate Barracuda internal drive, a 2GB Seagate external drive, and an 18GB IBM external drive.  It generated a hell of a lot of noise, both from the drives themselves and from the two external enclosures.  Worse, I had drive letters C: through G:, which made file and space management a nightmare.  I now had the SCSI Chain of Infinite Doom, from which no data (or user) escaped unaffected.
+
+Just a few days ago, the 2GB external drive crapped out, taking all its contents with it.  That was the proverbial last straw.  By mutual agreement with the Keepers of the 3D Realms Cookie Jar, the time had come at last - the SCSI subsystem needed a replacement.  It was no longer the best solution for audio work, and it had served its purpose many times over.  It was time to put it aside and move on.
+
+We went ahead and kept the current IDE setup, which is a Western Digital 15GB drive and a Creative Labs CD-RW 8432 drive.  These are plugged into a Gigabyte GA-7IXE motherboard, which only supports ATA/66.  This is fine for program file storage, since my application load performance is good enough as is.  What we did to was replace the old SCSI card with a Promise UltraTX2-100 controller card.  This card supports ATA/100 (UDMA-5), which is what I need for today's level of audio work.
+
+The new drive is a Seagate ST380021-A 80GB 7200 rpm ATA/100 drive.  I researched it on Storage Review and Tom's Hardware before asking for it.  It's the quietest 7200 rpm drive available, which is a good thing for a drive that's going into a studio.  I don't remember what the previous noise level in here was, but it is now at about 54 dB A-weighted (68 C-weighted).  Not great, but I've got two systems, an Orb and a Jaz drive, and a pair of rackmounted samplers in here.  Anyway, it's much better than it used to be.  Oh, yeah - it's pretty damned fast, too. :-)
+
+I've also gone from 39 GB to 95 GB of total hard drive space.  You would not know how much of a releif this is.  I won't need to archive files off to CD-R for at least a little while now.  [g]
+
+One of the benefits of the added space is that I get to try out some of the features of SAWStudio (http://www.iqsoft.com) that I haven't had room to test previously, mainly the library feature.  I *really* like this little gem.  In fact, I've spent a lot of time lately getting to know many of the countless details of SAWStudio.  As impressed as I was with SAW Plus and SAW Pro, I can say I'm even more impressed with SAWStudio.  There seems to be no end to the things that it can do.  Put it together with Cakewalk SONAR, and you've got one monster of an editing/composition suite.  Extreeeeeeemely good stuff.
+
+
+
+And now, your moment of Blatant Plug Zen:
+
+http://www.mp3.com/ljfnord
+
+
+
+
+
+
+
+
+-=>INSERT SHASH HERE<=-
+	
+    

@@ -1,0 +1,103 @@
+Login: pmagrude       			Name: Patrick Magruder
+Directory: /usr/users/pmagrude      	Shell: /usr/local/bin/tcsh
+On since Wed Sep 23 11:24 (CDT) on ttyp1, idle 0:09, (messages off)
+    from fireball
+New mail received Wed Sep 23 12:00 1998 (CDT)
+     Unread since Wed Sep 23 11:58 1998 (CDT)
+Plan:
+#include "stddisclaimer.h"
+9/23/98
+If anyone is having problems with the keyboard configuration in Ground
+Zero type the following into the console (hit the ` key to get the 
+console window).  
+
+exec default.cfg
+
+This will overwrite any configuration information you may already have, and
+replace it with the default configuration as specified in the manual.  The
+only change we made after printing the manual was that we moved the Tesla
+Mine to the 'm' key to make it more convenient.
+
+The problem people are having is that when QuakeII fails to find a config.cfg
+file in the game directory (in this case, the rogue directory) it first
+checks the baseq2 directory for a config.cfg file, and ends up copying it
+to the game directory .. instead of running the default.cfg file that's in the
+pak file.  So you end up with your configuration for QuakeII, not the new
+configuration.  Our apologies to anyone who had problems with this.
+
+We will be updating our web page shortly with even more configuration 
+information, but this should get you started.
+
+Enjoy!
+
+9/11/98
+Woo whoo!  Just saw Ground Zero at the Electronics Botique in Town
+East Mall .. $29.99, and well worth every penny.  Seeing it on the shelves 
+makes it all worthwile.  I'm sure it'll be in other stores as well .. this is
+just the first one I saw.
+
+8/17/98
+Wow .. gotten a lot of interest in our new Tag game.  For the curious, it's
+a heck of a lot like our previous tag implementation for Quake Mission
+Pack 2:Dissolution of Eternity.  We've made some changes, of course, but
+the basic game has the same feel.
+
+Yes, you'll still hear cries of "Goin' Quad!" coming from our office ..
+
+8/16/98
+Had a blast with that interview on Shooters.  Thanks to Blue for the
+opportunity, hope you all enjoyed it too.
+
+I realized, after the show, that we totally forgot to mention our new
+multiplayer game .. Tag!  A lot like regular deathmatch .. but with a
+significant twist.  One of the players is IT .. don't worry, you can't miss it.
+You get bonus frags for killing the player who is it, as well as bonus frags
+for killing when you are it.  Of course, if you manage to kill the person 
+who is it, you get a nice bonus .. in the form of health and armor.  There's
+more to it, of course, but that's enough for now.  Suffice it to say it's 
+a heck of a lot of fun.
+
+The whole AI puzzle of how to make a monster look smart in the 1-5 seconds it
+lives is an interesting one.  The obvious one is to make the monster smart
+enough to live longer (by dodging, ducking, weaving, taking cover).  The
+other trick you can pull is to have one monster distract the player, while the
+other monster does something smart.  Pursuit code is also very important,
+so the players can't just hop out of sight, figure out the strategy, and
+pop back in and mow the monsters down at the player's liesure.  It's quite
+a sight to see a monster take a plat after a player ..
+
+Ah well, enough for now.  Have a nice day.
+
+7/30/98
+
+Wow, it's late.  Wow, I'm tired.  Just saw some models from our animation.
+Those Russians are good!  I'm duly impressed.
+
+Working hard on the game, getting all the stuff tweaked out just right.  You'd
+be amazed how interesting of a problem our tesla mines pose for monsters, for
+example.
+
+Turrets, Medics, Gunners, and Widows, oh my!
+
+Now, if there was only a way to get my to-do list to SHRINK instead of grow
+every day, I'd be a much happier man ..
+
+Old plans:
+----------
+
+
+
+News on the DVD front .. Warner Brothers Home Video reports over $100 million
+in revenue for DVD disks.
+
+Good.
+
+There's an article on www.nando.net (techserver) but since they have a pretty high turnover rate, the url probably won't work.
+
+http://www.techserver.com/newsroom/ntn/info/070898/info17_17680.html
+
+Buy DVD.  Blow off DIVX, tell everyone you know the same.  If you don't know why, check out:
+
+http://techzone.weezy.com/dvd-faq.htm
+
+P

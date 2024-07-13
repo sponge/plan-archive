@@ -1,0 +1,39 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Sat Nov 27 18:28 (EST) on ttyp0 from 216.27.43.234
+Mail forwarded to brandon@epicgames.com
+Mail last read Sat Nov 27 14:00 1999 (EST)
+Project:
+Unreal Tournament
+Plan:
+Saturday, November 27, 1999
+
+I'm working on an updated Linux installer now that will fix
+all known installer problems.  Here is a brief synopsis
+of each problem and the solution:
+
+Problem: Installer says "This installation doesn't support glibc-2.1"
+
+Solution: Install libxml and libglade.
+
+
+Problem: UnrealTournament quits with the message "Can't find
+file for package WinDrv" or something similar.
+
+Solution: Make Default.ini writable and then untar the file
+LinuxGlideSystem.tar.gz in your UnrealTournament directory.
+Delete UnrealTournament.ini and then run UnrealTournament.
+
+
+Both of these are related to sloppy oversights on my part.
+Please spread the word about these.  I hope to have the
+updated installer out tonight.  The problems above are fixed,
+but I want to try and include an optimized light merging
+function as well.
+
+The Mesa renderer works under Mesa-Glide.  All that's left to do
+is work out some windowing issues with standard Mesa.
+
+DGA mouse input is in and working, but DGA support is broken under
+the 3dfx X server.  I'm talking to a few people to find workarounds
+for the 3dfx X server DGA problem, if there is any.

@@ -1,0 +1,56 @@
+Account Name:  Lee Jackson
+Email address: leej@3drealms.com
+----------
+Chapter 12 - The Gathering Storm
+================================
+
+The replacement system is still up and running, although not without
+occasional heart-stopping glitches. So far, though, rebooting has put
+things back into "all is well" mode. My worry beads and lucky rabbit's foot
+are getting quite worn out.
+
+Life at the office is getting interesting with E3 approaching. Musical
+ideas don't enjoy being forced out into the open without a good deal of
+mental foreplay first. I'm also exploring genres that I've never worked in
+before, and that doesn't make things any easier. I'm determined to get
+things done with time to spare, though, or to at least have a nervous and
+physical breakdown trying.
+
+One thing that keeps me going is a potential hardware addition to the
+studio after E3. I'm looking at supplementing the K2500RS, SC-88, and M-SE1
+with a synth that will compliment the group while adding new capabilities.
+So far, the candidates include:
+
+        Kawai K5000R
+        Waldorf Microwave XT
+        Access Virus
+        Roland JP-8000
+
+Those of you who are familiar with my work know that I'm a composer and not
+really a keyboard performer.  This puts the JP-8000 toward the bottom of
+the list, since the feedback and research I've gathered implies that its
+MIDI implementation leaves much to be desired. In fact, only its sound is
+keeping it in the running, although I've been told that there are other
+units (the Virus, for one) that can do everything the JP-8000 can do and
+more.
+
+The Kawai K5000R is the strongest contender at the moment, due to its
+additive synthesis, decent MIDI manipulation, overall unique sound, and
+reasonable price. I'm very strongly considering the Microwave XT and the
+Virus, though - I wish I could get all three, or at least two of these. If
+anyone out there has any real-world experience with any of these devices,
+I'd appreciate some e-mail with your comments. No cheerleaders or gonzo
+salesmen, please.
+
+Cool Tool of the Month: ANWIDA Soft's Effects Processor Pro, v1.0. This is a tiny
+little standalone chorus/reverb/phaser processor that I liked from the
+moment I fired it up. It's fast, very inexpensive, and lets you create some
+sounds in seconds that would take much longer and involve a lot more
+tweaking in other programs. The program is being developed into a DirectX
+plugin for Sound Forge/Cakewalk/Etc., so it has a definite future. Grab a
+copy today.
+
+==================================================================================
+The Dusenberg Uncertainty Principle - "Now, where did I park that smegging car???"
+	
+    

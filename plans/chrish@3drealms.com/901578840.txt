@@ -1,0 +1,64 @@
+Account Name:  Chris Hargrove
+Email address: chrish@3drealms.com
+----------
+Name: Chris "Kiwidog" Hargrove
+Position: Code Boy
+Project: Duke Nukem Forever
+Email: chrish@3drealms.com
+
+7/27/98
+-------
+(Part 3)
+Mmmm.... steak.....
+
+(Part 2)
+Okay okay, I'll play nice.
+
+(Part 1)
+Sin is cool, looking forward to the full release.  Although I must say the first level with the helicopter turret seems _vaguely_ familiar...
+
+7/1/98
+------
+Been a while since the last post... went back home to Virginia on vacation for a week; a nice breather to hold me off until Christmas.
+
+A quick word about these rumor sites... people have guessed (rightly so) that because of all the controversy of these anonymous sites, new ones will start popping up rapidly.  This has already started happening... I found one site today called the "Weekly Web News" run by some freak who calls himself "Evil Avatar"...  The thing about this site, and probably most of the others that will pop up, is that it has even LESS journalistic integrity than its predecessors.  In his first update he's already managed to insult several people at this company, with no basis whatsoever.  THIS IS NOT A POSITIVE TREND, PEOPLE.  
+
+Do you anonymous webmasters assume that because you're anonymous, you can post any random bullshit you want and still be considered legitimate?  Have some common sense; at least try to confirm the stuff you plan to post before you post it.  And to new sites like this "Weekly Web News", you might want to consider leaving personal jabs out of your "news"... you might actually be discovered one day.  Think before you burn every bridge you might need in the future.  This even holds for keeping your web site at all... are you aware that Geocities doesn't really care for controversy?  If somebody gets pissed enough to throw even a HINT of slander/libel/etc accusations your way through them, they will shut down your site in a snap.  
+
+Being anonymous doesn't give you permission to be a complete cock.  This is something ALL these new industry tabloids need to remember.  Have an opinion; opinions are good.  But be intelligent about it, otherwise you'll only end up smacking yourself down.
+
+And if you still insist on being an asshole, then have some balls and put your name on what you publish.  This is my .plan, my name is on it, and I claim full responsibility for what I say here.  If you're going to be anonymous, at least be intelligent.  Otherwise step up to the plate and tell people who you are, or shut up altogether.
+
+
+6/11/98
+-------
+Totally unrelated update...
+
+I still receive a lot of emails regarding an old series of tutorials I wrote for Demonews (previously the newsletter based at www.hornet.org; it got discontinued after issue 150) by people wondering whatever happened to the rest of the 3D tutorial series.  Although I'm sure most of those people don't read these .plan files, I thought I'd finally give an answer to those who do.
+
+This may not be the answer people want to hear, but the fact is, there are no more articles.  I originally wrote 5, (and only had source to the first two, due to time), and those got released.  I also had 5 more, which were mostly completed, but they were on my 486 which had one of its older hard drives crash... the drive that happened to have those other articles.  So those were lost.  I thought about resuming the series several times (as well as the software design series, which I gave up on after three articles due to some scathing anti-C++ emails I got which pissed me off beyond belief), but several factors have kept me from doing so, the biggest one being time, the other being changes in experience.
+
+I wrote the last of the 3d articles (the released ones that is) over two years ago.  Since that time, I've been employed at two major developers, and have learned an astonishing amount in the process.  Reading back on those articles, some of the information is either irrelevant (i.e. the fixed point math stuff doesn't hold up water against floating point now, the software rasterizer stuff is defunct compared to hardware rendering, DOS implementations are dead and gone, etc), naively implemented (my old source examples, although simple, scare me), and so forth.  If I had the opportunity to continue the series, I wouldn't continue it but rather rewrite it from scratch.  I'd also completely eliminate any big focus on software rasterization aside from some small linear interpolation info, s-buffering stuff, maybe a few other odds and ends... and then restrict the discussion to the 3d geometry principles that still apply in hardware.  So there'd be a lot of changes, if I had time to make them, which for the most part I don't.  I have the occasional snippet of time here and there (which I often waste on IRC), and I could put some of that towards writing tutorials, but I wouldn't be able to guarantee a schedule or a "series" even... I'd rather just drop bits and pieces of info as I get the chance and let people work with it from there.  That's the closest I could get right now until schedules lighten up.
+
+This is also the same reason why I haven't put up any kind of thing for my IGDN session this year, because while I had source code prepared, I wasn't expecting to need an entire "paper".  That was never a plan for me; I was hoping just to drop a .zip of some code chunks to reflect what I was talking about, but everybody else was making full papers, and I haven't had time for that.
+
+I'm willing to make a compromise though, simply because all the great feedback from those old articles has driven me quite a bit, and I can't deny that... so here's the deal.  If somebody at a code-related site is willing to dedicate some web space (and I mean isolated web space, like not part of some other pre-framed site, someplace that's not going to demand exclusivity on the content), then as I get time I'll be happy to put some code samples and ramblings up there.  I do get time here and there, I just don't know when that time will be, so keeping a consistent article schedule is impossible... but if it's freeform content that I can write whenever, then that's cool.  In the end my job is far more important, but writing is a hobby that I haven't enjoyed in a while, so provided the flexibility is there, I'd like to get back into it again with what little time I have.  Any takers?
+
+
+6/10/98
+-------
+Just read the most recent gaminginsider.com... hmm, looks like SOMEBODY over at Ion has a beef with Whaleboy (and apparently Chris Johnson as well).  I saw Brian writing up a reply to all the new tabloid innuendo, but wisely he decided against posting it, saying that as much as he wanted to, he was not going to stoop down to that level.  I, on the other hand, am not above stooping to that level.  Every time I drop down to the gutter though, it ends up backfiring in one form or another, so I'll keep this brief.
+
+It's nice that these slams against Brian and others are making a point to say that Duke will still be an awesome game.  At least that's a positive.  But what you're forgetting is that the Duke team is the Duke TEAM.  You don't just slam one of us and pretend the others won't know or care.  Unlike some other companies, we are NOT in the midst of any kind of "civil war".  And while Brian and Chris J. may not be the most "crucial" members of the team (which they never claimed to be), they are just as crucial as anyone else is.  We work together here, and that's the way things should be.  As to those slams on the art not being raved about, I shouldn't have to compile a list of enthusiastic quotes (and a rather long list of quotes at that) to show that that claim is complete bovine excrement.  Our artists are doing some kickass work, and it shows.  We've gotten comments beyond belief about how cool our attention to detail has been, and that's due to everybody on the team... us programmers, the highly talented mappers, AND our killer artists.
+
+We don't need a huge team of people to make a kickass product here, and we don't need to fight amongst ourselves as to who deserves the claims to fame.  Everybody in this project has their place, and everybody counts.  Sounds like some people could learn a lesson from that.
+
+Alright, 'nuffa that.
+
+On a more positive note, and in a much more friendly tone, I'd like to say a big howdy to Kenn and Pat over at Raven... cheer up guys, just because the press hasn't been all over Heretic II doesn't mean it isn't kicking ass.  You guys are doing some great work and you know it.
+
+About a week from now I'll be going home to Virginia for a week to visit family and friends, as a post-E3 breather (won't be another one 'till Christmas, so I'll take advantage of it).  I would've taken it immediately after E3, but my mom doesn't finish her teaching job for the summer break until next week, and she wanted to be around while I was home.  My family is cool.  Happy 13th B'day Michelle!  Also, a big 'sup to my homeboy Bob, who will need a big dose of beer, pool-playing, and all around chilling while I'm back, as he's going through a rather annoying divorce right now.... Amy, if you're reading this, you're a fucking whore.  You messed up huge and you know it.
+
+Hmm, speaking of beer...
+	
+    

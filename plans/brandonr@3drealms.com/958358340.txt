@@ -1,0 +1,69 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+On since Mon May 15 00:45 (EDT) on ttyp1 from 216.27.43.200
+   4 minutes 45 seconds idle
+Mail forwarded to brandon@epicgames.com
+No mail.
+Project:
+Unreal Tournament
+Plan:
+Sunday, May 14, 2000
+
+The news that Epic will be focusing on Direct3D from now on really isn't
+new news.  Tim has said it himself on the Unreal Tech page,
+unreal.epicgames.com.  The fallout from this becoming "big news" is that
+people are lamenting the death of Linux and Mac ports...
+
+At E3 I told Blue and Loonyboi that we would be working on the Direct3D
+API alone for our next game.  They made the observation that this means
+that Epic values the Windows PC market over the Linux and Mac markets.  
+Obviously, that would be true...the PC market is significantly larger.
+Blue and Loonyboi were correct in their statements, but the community
+has drawn incorrect conclusions.
+
+I DID NOT SAY that we would be DROPPING Mac or Linux ports.  While
+Direct3D allows us to implement features that will not be available
+on Linux or Mac, it doesn't mean we cannot continue to design our engine
+technology in such a way that modular software replacements for hardware
+bound features are possible.
+
+The Unreal engine and all future engines from Epic will remain extremely
+portable.  The fact that we have put Unreal Tournament on the Playstation 2
+in less than six months is a testimony to that portability.
+
+However, we have to find the correct tradeoffs between progress in
+game engine development and portability.  The OpenGL/Direct3D road
+is starting to split wider with each release of Direct3D.  As engines
+develop to take advantage of new hardware features, it becomes more
+and more difficult to design a high-level architecture that can take
+full advantage of multiple APIs.
+
+Epic is challenged with finding the path that allows us to develop
+technology that we, and our licensees, want.  Part of answering that 
+challenge has led us to focus more on upcoming console platforms, while 
+at the same time making decisions that will allow us to enhance our overall 
+feature set.
+
+I feel that my words are being misconstrued when people say "Oh my god,
+Epic is dropping Mac and Linux."  That simply isn't true.  Westlake,
+for example, is an extremely skilled development house that will continue
+to have opportunities to extend the Unreal technology to the Mac.
+Mac technology is moving forward and Apple is serious about finding ways
+to move into the gamer's home.  Linux is growing and its own open-source
+gaming APIs like SDL (http://www.devolution.com/~slouken/SDL/) are
+gaining support.
+
+Supporting multiple APIs becomes difficult when those APIs begin to affect 
+the high-level design of an engine.  It raises questions that continually
+challenge every game engine developer.
+
+We aren't announcing ANYTHING about Mac or Linux support.  Its going
+to continue along the lines it has.
+
+I've talked to Blue and he confirms that I did indeed say that the ports
+were in danger at our meeting at E3.  Blue is a damn honest reporter and
+I believe him.  I did not, however, say that we would be dropping those ports.
+Blue and Loony didn't say that either...it was the conclusion of the
+Linux community.  That conclusion is not correct.
+	
+    

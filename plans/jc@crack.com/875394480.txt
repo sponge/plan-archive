@@ -1,0 +1,310 @@
+Login: jc             			Name: Jonathan Clark
+Directory: /u/jc                    	Shell: /bin/bash
+On since Sat Sep 27 14:46 (CDT) on ttyp0 from jchome
+   1 minute 42 seconds idle
+Mail last read Sat Sep 27 15:50 1997 (CDT)
+Plan:
+Coder/Owner @ crack.com
+
+my home page is at :
+http://www.crack.com/about/jc
+
+--------------------- NEW LOG (sorted new to old) ----------------------------
+Sat Sep 27 17:46:09 CDT 1997
+  Watch us at work.
+  I hooked a temporary video camera to the following web page :
+
+http://www.crack.com/about/jc/qc_dynamic.html
+
+  This probably won't last long and it goes down whenever I'm
+using my Win95 box.
+
+
+Sat Sep 20 13:41:44 CDT 1997
+  Well, I caught my finger on fire playing with the memory alloy.
+Yes, burnt flesh doesn't smell very good.  I came away with only the
+tiniest of scars.  Anyway, how this stuff works is that like other
+metals, if you heat it up you can form it into whatever shape you
+like, when it cools it crystallizes.  Unlike other metals, however,
+this crystallized shape is remembered even after it is bent into other
+shapes.  When it is heated up it will try to go back to it's
+crystallized shape.  The wire also acts as a resistor so when you
+apply electric current to it it heats up causing it to seek it's
+previous form.  I've gotten the wire to move weights as heavy as a
+pound or two over distantances over an .5 inch.
+
+Hmm. I guess I should say something about Golgotha..  We are busy
+working on the demo we plan to release at the end of the month.  I've
+been working on game-play things like ammo/refueling, take over pads,
+and height map displays.  Because units have different "hill climbing"
+capabilities the radar map darkens the areas of the map a unit can't
+get to when you select it.  I excited about the computer strategy
+planning stuff we are getting into.  The current AI attempt we are
+trying is to get the computer to control land areas of the map and
+applies chess-like algorithms to determine which areas of the map it
+wants most.  The computer defines control of a land as area "Being
+able to get more force there before anyone else".  This means the
+computer realizes it can control an area without having to keep force
+there.  i.e. If it controls all access point to an area it controls the
+area.
+
+I'm looking forward to playing the rush of strategy games comming out
+in October, especially : Dark Reign, Star Craft, and Total
+Annihilation.  Trey brought in "Prodigy" for our listening pleasure.
+This band kicks ass.  I wonder how how long until games start having
+sound tracks composed of samples from top-named artist soundtracks
+like movies.
+
+
+
+
+Wed Sep 10 21:29:06 CDT 1997
+  I put a screen shot of our test program on the web site :
+http://www.crack.com/games/golgotha/screenshots
+
+  I sent some flowers to a girl without a signature because I wanted
+her to guess at who sent them to her, but she was too smart for that
+and called the flower company and immediatly emailed me a thank you.
+Doh!  I've been dating more these days, but since my parents wouldn't
+let me date when I was younger, I'm still fairly ackward at it.  I
+hope I don't meet the "Mrs. Right" anytime soon because I'm sure to
+screw it up.
+
+  I'm supposed to be getting some robot parts this week.  I got a
+digital video camera, some motors, and some memory wire.  I've never
+played with memory wire before and I'm curious as to what I can do
+with it.  I think I can apply some of the path solving/strategy
+planning of Golgotha to real robot AI.
+
+What I did last week (Wed-Monday) :
+
+  Oliy and I basically did the same things.  We made a path/strategy
+test program that would let us try out different algorithms.  I tried
+a couple of simple search algorithms, including best-first, random
+search, and cellualar automota.  None of these worked very well, best
+first went off on a tangent and wasn't very good about back-tracking.
+Random was pretty random and I had trouble getting the cellualar
+automota to work with directed graphs/cells.  Friday we both came up
+with the same idea under different names.  Because the map is made up
+of large open areas and solving a path within an open convex polygon
+is just a straight line, we break the map up into convex polygons
+connected as a graph.  Then solving this graph processes a lot fewer
+nodes.  We can create these convex polygon using a constructive
+geometery algorithm called dalaunay triangulation.
+
+  What we've come up so far for computer strategy planning : Strategic
+points are gathered from the level; building structures and points the
+level designer lays down such as near an narrow passage way.  The
+computer then forms goals on which strategic points it wants to take
+over and which ones need defense.  It does this by calculating how
+much force it can get there before the player can get there.  The hope
+is that the computer can plan more than one goal in advance like a
+chess playing program and make for more interesting game play.  We
+don't have this completely figured out, but I think it's mostly there.
+
+  One thing I would like to add is a "computer face" on the status bar
+that shows emotion as to how the computer is thinking similar to the
+face on the doom status bar.  If the computer is on the defensive then
+it might show a face that looks scared.  Or if it might show : a jeer,
+surprise, boredom, happyness.  The computer might even show a face
+just to psych you out.  "Oh no, he knows something I don't".  This
+would make playing the computer a little more like playing another
+person.
+
+Tue Sep  2 19:12:11 CDT 1997
+
+  I've gotten undo/redo working in the editor and I'm working on
+speeding it up for some operations that save too much information.
+Basically I just do a limited save game before each editor operation.
+This is faster than it sounds and allows to use the save load/save
+code for save games, editor saves, and undo saves.
+ 
+  I finished making dynamically loaded object types more robust.  You
+can now create new object types that can have their own build icons,
+cost, and a sound effect that gets played when they are built by the
+player.  As before they can also save/load themselves, think, and draw
+as they like.  You can also load and unload new object in the middle
+of the game with dlls.  I still need to come up with a simple way for
+users to manage dlls.  For starters I was thinking of setting aside a
+plugin directory and load any dll's in it on startup.  I haven't done
+much work on allowing editor plugin's yet.  But I think that making an
+object plugin will be simple enough that anyone who can compile a
+program can make their own.
+
+
+Sun Aug 24 14:47:40 CDT 1997
+
+ 
+
+  In reference to recent .plan comments made by certain developers at
+Apogee, Crack, and id.  We are in the business of making games and
+selling them, we are not politicians.  Making public personal attacks
+against other developers is uncool in my book.  Your .plan files are
+public information.  Though a .plan file was typically a place to
+express personal opinions, it has become a general broadcast medium.
+Watch what you say.
+
+ 
+
+
+  I've been working on the level editor.  Rather descibe it, here is a
+screen shot :
+http://crack.com/games/golgotha/screenshots/level_edit1.jpg   The four
+colored button in the lower right corner are for teams.  Each object
+and tile is owned by a team and tinted accordingly.  Some new terrain
+features include height bitmap export/import (using .tga).  This allows
+you to load it up in your favorite paint program and airbush a general
+height field layout and load it back into the map without effecting
+the buildings/objects in the map.  The floating tile picker window
+shows you tiles you can plop down of flood fill with.  Some of the
+peices are flat and follow the contour of your height map and some are
+3d.  The 3d objects spin around in the floating tile picker window
+when the mouse cursor is on top of them, so you easily tell what it
+looks like in 3d.  The movie controls are at the button of the screen
+and act much like VCR controls.  You lay down camera, target, and
+object control points and a smooth curve forms.
+
+Some new game features we are working on, but are not complete include :
+  - bridges that you can drive over and under
+  - tunnels through mountains
+  - caverens that you hide your troops in.
+  - secret underground passage ways that lead from one base to another,
+      great for trading troops with allies or surprise attacks
+      against enemies. yes!!!
+ 
+  - ground friction, vehicle power, and general physics
+    different vehicles will be able to travel of differently sloped terrain.
+    This means your heavy tanks will have to take longer paths to get places,
+    while climbing vehicles that can scale tall mountains.
+    Hill top fortress will be very useful.
+    Ice covered levels will difficult to navigate for non-snow equiped
+      vehicles.    
+
+  The software version is semi-working again and we are working on
+egytion & ice levels to show with the next demo, which should be out
+in a couple of weeks.  Things are booking along pretty well, and I'm
+very excited about secret tunnels.
+
+
+Mon Jul 28 10:28:28 CDT 1997
+
+  Hello... is this thing on?
+  Hmm.  Haven't updated my plan in a while.  I went to Murray's
+(artist for abuse) wedding this weekend with Duong (artist/designer
+for abuse).  We got him a huge inflatable ball for a wedding present.
+It's nearly as big as a person.  He just didn't seem the type to go
+apeshit over silverware.
+
+  I haven't had any crazy visions/inspirations lately.  I think it's
+still demo burn out.  I've got about 6-7 ideas I want to explore,
+but currently I don't have the motivation.  
+
+  I'm working on the openGL port to the SGI O2.  I'm having to use
+dbx, which is quite up to snuff with gdb.  openGl so far seems like a
+pretty easy interface to use, it's very similar to Glide.  I'm having
+to make the game run 32bpp (which should look better with shading).
+
+
+
+Wed Jul 16 18:35:20 CDT 1997
+  I got my BWM Z3!  Cool, cool, cool.  I got sunburned the first day.
+Convertables are so much fun to drive at night.  
+http://www.crack.com/about/jc/bmwz3_1.jpg
+http://www.crack.com/about/jc/bmwz3_2.jpg
+
+  I am rewriting a lot of the rendering code to use a new api.  This
+api, is much simpler and state-based rather than context based.  I had
+to give up on the ability to have threaded rendering, but speed is
+more important and most accelerated libraries don't support this
+(Glide, OpenGL).  D3d supposedly does, for what that's worth.
+
+
+
+Fri Jul 11 10:42:41 CDT 1997
+  Golgotha works for 3dfx under linux.  It kinda sucks without proper
+thread support, but very useful for development.
+
+Thu Jul 10 13:45:30 CDT 1997
+  I just got Glide (3dfx's graphics library) for Linux.  I'm thinking
+of making the Linux version hardware accerated only.  I'm starting to
+make the linux version work with glide, and looking into what needs to
+happen to do OpenGl for SGI, which is supposed to be on display at
+SIGgraph.
+
+
+Wed Jul  9 23:22:12 CDT 1997
+  We've got the demo uploaded a ftp site where press & publishers can
+download it with a password.  Email me if you are a member of the
+*any* press, or a publisher.  This is still 3dfx only because we have
+a few sorting problems to patch up (z buffers are handy that way). 
+
+  Hopefully, now we can settle down and do real work rather than demos
+all the time.  I'm trying to figure out how to make a tripod character
+walk over 3d terrain with inverse kinematics.  Should look really
+cool.  Any know of books that talk a lot about physical based
+animation?  I want to make my own modeler/animation tool with 3d
+painting for Golgotha II.  Knowing me, this will probably include be
+built into the game.  :) ooh baby.
+
+  Kevin taught me how to drive stick today.  I still can't do the
+hills very well.  I can see the appeal, but I still like to have a
+hand free for holding coffee.  I also received a nice hickey from a
+very passionate hockey puck kiss today.  Roller hockey rules.  If you
+are in the Austin area and want to play (7:30pm) email me.
+
+back to de books.
+
+Mon Jul  7 13:55:51 CDT 1997
+
+I went to a Super Hero costume party this weekend.  I was the Riddler
+from batman with pink spiked hair, looking something like a punk
+rocker.  I meet Laura Craft from Tomb Raider and the Quake polygonal
+dude.  American bested me in Sumo Wrestling and some inflatable
+obstacle race which I finished with my big pants at my knees.  Richard
+set off way too many fireworks (1 hours worth).  One of the cops
+working the party was a Riddler too! and he told me how he let Chris
+Roberts and Garriot off easy for speeding tickets. :) Alas, there were
+very few single women there, but it was a very fun time.
+
+Fri July 4th
+
+Got the demo out to the testers.  Mixed reviews.  A few important bugs
+to fix.  People are a little confused about what stage we are at.  I'd
+say we are about 50-60% done right now, and it's looking pretty sweet.
+We will be burning CD's for press & publishers this week and shipping
+it out.  If you are part of the press and aren't on our press list,
+email ddt@crack.com now.
+
+Thu Jul  3 22:01:23 CDT 1997
+
+Well, I got (and continue) to get a lot done :
+
+* object buttons actually build
+* added fire delay on missles
+* radar view can be clicked on takes you there
+* resize level in edit works with movies
+* fix objects think after delete
+* take out object from window list
+* startup menu
+* background image to make editor prettier
+* add new buttons for bilding from stephen
+* get new status bar from stephen
+* maximize window under glide so mouse can't escape
+* better font now 10 pixels tall
+* reorient bomb for jet
+* page flipping bug in editor
+* strafeing, use ',' and '.'
+
+
+Tomorrow, we are going to release a demo to people who want to help
+...................................
+(We've gotten our testers thanks)
+..................................
+
+
+Tue Jul 1 13:22:25 CDT 1997
+
+The radar map looks better now.  I used the lowest mip map level of
+the textures from the terrain to render a minature view of the map
+with lighting and orthographic projection.  I also added money, and
+icons you can click on to build things.  I'm working on a resource<

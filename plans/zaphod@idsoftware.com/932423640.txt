@@ -1,0 +1,347 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Some Guy
+Project: 
+Last Updated: 07/19/1999 18:32:07 (Central Standard Time)
+-------------------------------------------------------------------------------
+7/19/99
+
+Okay.  More.  Must Sleep Soon.
+
+We're testing a new version of the build right now that has some new stuff in it:
+
+- the ; key now remains bound (for all you lefties)
+- the timescale exploit has been plugged (again, actually this was in the last
+  version of the test and a lot of people were silently using it)
+- LAN servers display properly
+- IPX is working
+- the enabling cheat exploit has been fixed
+- CPU time for servers should be nicer
+- an exploit in the tourney map has been filled
+- joystick support (there is no conspiracy here, but this might require more time
+  to fix than just tonight)
+
+We're looking to get win32/Macintosh out there, hopefully tonight, but probably
+tomorrow by the time we're through checking all this out.
+
+BTW, I finished DK2 (with Adrian screaming at me most of the time to build a bigger
+torture chamber).
+
+THAT GAME ROCKED!
+
+7/19/99
+
+SOCKS Proxy Support
+
+There are five cvars that control it. They are only settable from the at init
+time (from the OS command line).
+
++set net_socksEnabled 1
++set net_socksServer 
++set net_socksPort 
++set net_socksUsername
++set net_socksPassword
+
+Please note that you use the address (name or IP number) of the SOCKS server
+(firewall machine), NOT a Q3ATEST server. The port number defaults to 1080,
+you should not need to change this.
+
+It supports no authentication and username/password authentication method
+(RFC-1929); it does NOT support GSS-API method (RFC-1961) authentication.
+
+7/17/99
+
+Some variable things we missed or are hard to find in the readme:
+
+g_gametype
+
+A value of 0 here indicates classic Free For All, a value of 1 indicates
+Tournament Play and a value of 2 indicates Team Deathmatch.
+
+So, to start a dedicated server in tournament mode, you would use:
+
+quake3 +set dedicated 2 +set sv_zone tournaments +set g_gametype 1 +map q3tourney
+
+The warmup time for tournament play is set with g_warmup.  A tournament
+game is implicitly a one on one match, and further players are automatically
+entered as spectators (note, when the game starts, all clients, including the
+spectators respawn).  You can follow the players by using team follow1,
+team follow2, and you can be a scoreboard by using team scoreboard.
+
+We appear to have broken joystick support somewhat between the first IHV
+drop and the final release of the test.  Well address that (so dont start the
+email bombardment on it!).
+
+Expect the master server to be up and down over the weekend, now we have
+protocol 38 servers out there in large numbers were able to tune that stuff so
+it works a wee bit better.
+
+Thanks for the support!
+
+7/16/99
+
+Okay, it's there (as I'm sure you all know).
+
+I'll update tomorrow on how to set up servers in zones so you can easily
+find/check/get to servers in groups.  It's a nifty new feature.  Until then
+I'm sure you'll all be slamming each other down on Xian's excellent new
+tournament map.
+
+As usual, send bugs to q3feedback@idsoftware.com
+
+7/16/99
+
+A new build of q3test (win32) has been constructed in your workshop.
+That's a little DK2 joke there...
+
+We're hacking on it a bit before it's public, but it's looking good to go!  I'll
+update my plan file once it's out and fill you all in on what's new.
+
+Good bug find by Sherman Archibald today for all you Riva 128 owners.
+
+7/16/99
+
+You can all go to sleep.
+
+7/9/99
+
+So whos the best at id?
+
+We were playing Xians new tourney map (it will be in the next release of
+q3test) within the company and Tim decided it would be a hoot to have a mini
+id tournament.  We huddled in the observation room watching (and shouting
+a great deal) match after match unfold in the new spectator modes until the final
+game.  Everyone at id played and when they werent playing, they were watching
+and cheering intently.
+
+So whos the best?
+
+John The Terminator Carmack won quite handily, convincing us all further that
+there really is some code in there that says If (player==Alloy).  Second place
+went to our esteemed CEO Todd Hold Still Dammit While I Frag You Hollenshead.
+The rest of us where suitably humbled(but we all claimed its because we work
+so much).
+
+It was a good test of the tournament code and great fun.  We will be doing the
+same thing in-house again soon since the method led to some good changes.  Next
+time however, there will be a few changes.  The emergency phone call to Todd from
+Activision is already planned, and were thinking the arrival of a new Ferrari catalog
+mid game for John will throw him off for the required microseconds to remove the
+ball from his mouse.
+
+So wheres that darn test?
+
+Like the Great Prophet Zarquon said, all sorts of things popped up.  Its still soon.
+We need to merge code, test, and do a drop to IHVs to make sure everything is
+hunky-dory with them.  The tourney map needs a wee bit more tweaking, and some
+of the tourney code needs a little bit more work and testing.  Theres a lot of new
+stuff in there!
+
+BTW, Dungeon Keeper 2 is one of the best games Ive played in a long time.  It's not
+delayed the test at all.  Honest.
+
+6/21/99
+
+We had the Ion Storm guys over last week to play a little deathmatch, and while
+I wont say who won between Romero and Killcreek, I can tell you it wasnt the
+male of the species.  But boy, can those Ion guys talk smack.
+
+The reason we asked them over was to have them check in on the status of our
+tournament map, which we hope to get out there soon with the next version of the
+test (to give you all time to practice on it before QuakeCon, you are going to
+QuakeCon right?).  Were also looking at a /lot/ of bug fixes, changes, and tweaks
+so were gearing up for your feedback.  Ill let Chris Hecker speak for glsetup,
+but were looking to get that updated and support for 3Dfx in there.
+
+Soon can be defined as soon.  And thats probably not this week.
+
+6/05/99
+
+Mailbombs suck.  They can cause delays and make it hard to find the meaningful
+emails from the noise.  Please stop.  I can't even read the language the email is
+in to know what it says!
+
+Okay.  A series of misunderstandings between id and Tom's Hardware has led
+to a "vs." benchmark war.  We're cool with Tom, and he's cool with us.  We're
+both going to move on and start over afresh.
+
+I just don't understand why my Riva 128 isn't more popular...
+
+6/03/99
+
+Okay.  Wow.  The Linux community has far exceeded any kind of expectations
+I had on feedback!  I've been blown away.
+
+Mike Warfield and Mark Hazen helped me out on the Samba timestamp problem.
+It seems RH 6.0 is compiled with a special fix for mounting Win95 drives,
+but that causes issues with NT and Win98 drive mounts.  The solution is to
+recompile the kernel.
+
+Several people helped me out with the compile of smbmount.c, and in the end
+I got that going by adding a #define NR_OPEN 1024 at the beginning of that
+code.
+
+On the email front, and I think this is one of the ongoing gating issues to
+true corporate use of Linux.  A lot of people use VMWare to run Win32 apps
+that have no equivalent in Linux land yet.  Out of them all, XEmacs + VM
+seems to be the most stable/complete solution, and perhaps that will make
+it's way to my desktop, but I don't see that making it way onto everyones.
+
+It seems to me that if someone wrote a bunch of Java apps using the Swing
+UI we could have very nice cross platform tools that worked in every
+OS we had to boot in the office.
+
+More than anything, I'm just blown away by how positive the community is.
+
+Q3Test answers.
+
+Yes, it should have SMP support, there are some issues with it (on some
+drivers), so it's not enabled by default.
+
+Joystick support is mostly there, but John is still working on a couple of
+the more interesting flavors.
+
+6/02/99
+
+We're working on a new Q3Test update, no schedule other than "soon", but the
+fixes are almost all internal.  We've still got a few issues we want to get
+going internally at id (notably multi-network machines).
+
+Brian is leaving, and I just want to wish him well.  He shall be missed.  We're
+not going to be bringing anyone else in during Quake3 development.
+
+I'm a bit behind on feedback email and it's all Lilith and Eve's fault.  I
+went to watch their show over the weekend and Realplayer said I needed to
+upgrade, so I did, and since then I've been toast.  I'm sure it's not
+Realnetwork's fault, there's simply too much beta about my Windows install
+to make it safe for things like DLL files.
+
+Since then I've shifted to Linux (RedHat 6.0) as my major desktop.  No more
+Win32!  My questions to the techies amongst you are:
+
+	- we've had issues with Linux machines randomizing timestamps on Win32
+	  filesystems when we use smbmount to mount NT servers.  How do we fix
+	  this?  I'm unable to get smbmount to compile in the Samba 2.04b (it
+	  errors out with a bad identifier -- NR_OPEN).
+
+	- the email client situation is not quite on par with Win32.  Netscape
+	  seems the nicest, but KMail, Balsa, and others I've looked at seem
+	  to be in active development and not quite ready for solid use.  Is
+	  this the case?  I like Outlook type interfaces over Pine type 
+	  interfaces.
+
+I looked online, usenet, and other misc. mailing lists, but wanted to see
+what real world people out there are using and doing.
+
+5/12/99
+
+Off to E3.  I'm the point on q3feedback, so the soonest I'll be picking up
+email is Sunday, so don't expect a response the next few days!  You can
+catch us at the Activision booth if you want to let me know in person just
+how long you had to wait for the Win32 test.
+
+Anyone with tapes of last weeks X-Files?
+
+The main issues we're seeing are:
+
+3Dfx drivers seem to be pretty darn difficult.  About 50% of the emails
+comprise of 3Dfx issues including BSOD on NT, crashing during level changes,
+and crashing due to in game mode changes.  We're working with 3Dfx on this.
+
+The next biggest problem is that people run the game without running GLSETUP
+to update their drivers.  Arrgh.  Arrgh.
+
+People claim that the TNT slows to a crawl when you in-game change the video
+color depth to 32bpp, but it's fine after a restart.
+
+There's a "lag trap" quirk of firing the plasma gun 12 times at a wall, as
+people approach it the overdraw slows their systems and makes them
+vulnerable to hits.
+
+There's a lot of people trying to run the game with 32mb of RAM.
+
+Setting everything to "highest" (highest resolution, color depth, etc.)
+causes artifacts on the TNT.
+
+Alt-TAB on a Matrox G200 causes the system to crash.
+
+A lot of people wrote to let us know that they just love the game.
+
+The main game feedback seems to be:
+
+1. the new railgun sucks / and / or is / awesome.
+2. the game is too slow / too fast.
+3. make it more like quake 1 / quake 2.
+4. the rockets are too slow / too fast.
+5. people die too slow / too fast.
+6. the graphics are awesome / too cartoony.
+7. don't touch a thing / change everything.
+
+5/10/99
+
+Here (at long last for most of you) is Q3Test version 1.05.  We've worked long
+and hard to get this to you and we look forward to your feedback on what's
+right and what's wrong with it.
+
+There's one known issue with the Linux dedicated server taking up way too much
+CPU time.  As other known issues come to light we'll try to keep you all in the
+loop.  Please try and email q3feedback with a good sensible subject line, mention
+what sort of system/OS you have, and remember that humans read all the feedback.
+
+GLSetup will have it's own press release sometime later this evening, but we're
+very excited to be part of this venture.  But I'll let Chris Hecker tell you all
+about it.
+
+5/10/99
+
+IMPORTANT!
+
+You must completely nuke your old Q3TEST install before installing the update.
+The config files from the old build are BAD voodoo.
+
+You can also type "exec democycle" to watch a bunch of id people play the map.
+
+
+5/10/99
+
+Q3Test 1.05 is DONE!
+
+New Linux/Mac versions are going up right now, and we're finishing up the installer
+for the Win32 version.
+
+If all goes well, the Win32 version will follow in a few hours (few == six or so).
+
+5/9/99
+
+We're getting closer, but I think it'll be tomorrow before we're out.
+
+Internally we're bashing on the new maps, code, servers, and clients.  There is a
+/lot/ of new stuff in there and we want to bang on it for a bit before we release.
+
+We are building installers, pak files, and so forth, so our confidence level is good,
+but since it's only been 15 minutes since the last bug fix (which was a doozy of a
+find BTW) and the new maps are still being bsp'd.  All of this makes a release tonight
+seem like a bit of a risk.
+
+If all goes well we will bash on it tonight and tomorrow, and once John gets in
+tomorrow we'll be ready to go.
+
+5/7/99
+
+We're looking to release Q3Test for Win32 on May 19th.
+
+Just kidding.
+
+We're approaching what we consider a good build on Q3Test for Win32, and our current
+estimate, barring any problems, is that we will release it on Sunday evening.  We will
+release Q3Test updates for Mac and Linux a few hours before Win32 to check for any
+bonehead issues.
+
+There will be completely new data for this version of the test, old versions will not
+be compatible with the new version, and old and new servers do not mix.
+
+If things change I'll let you all know.  But this is the current plan.
+
+5/1/99<b

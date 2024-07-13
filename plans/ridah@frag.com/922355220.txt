@@ -1,0 +1,57 @@
+Login: ridah          			Name: Ryan Feltrin
+Directory: /home/ridah/             	Shell: dev/null
+Never logged in.
+No Mail.
+Plan:
+
+Ryan Feltrin
+ridah@frag.com
+
+Programmer, Xatrix Entertainment
+
+
+25-Mar-99
+---------
+
+Wow.
+
+I must say I was very enthused by the general reaction
+to the demo release. Given that this was only an ALPHA demo
+and we really worked hard to get it out and let people
+see what we were up to, I was pleasantly surprised to see
+it well recepted amongst a pretty wide audience.
+
+I was a little concerned after some "reviews" reported sluggish
+performance on 64mb machines. So I loaded up my old machine
+and tried the following settings, which seemed to make a huge
+difference:
+
+--
+Sound Quality: LOW
+Sound Compatibility: MAX PERFORMANCE
+
+Texture Quality: One notch back from MAX (Voodoo2, Voodoo1 might try a few more back)
+
+MAKE SURE NO BACKGROUND APPLICATIONS ARE RUNNING !
+--
+
+Once you've made these settings, quit the game, and restart it.
+
+While this won't make things perfect, they greatly reduced the
+in-game stuttering that occurs as new sounds and pics are loaded.
+
+As for the level load times, these settings will help, but
+this isn't something we are turning a blind eye to. You
+can expect the final product to have a big improvement in
+this area.
+
+Please remember that this is very early code, and we're
+very much committed to making sure the final game runs
+adequately on a wide range of systems. In many ways, the
+"demo" was more of a KPtest than an indication of the final
+product.
+
+Finally, THANKS to those that have mailed in their comments.
+It's very encouraging to hear of so many people taking such
+a liking to the game, and only spurs us on more to make
+sure we deliver a title worthy of your praise.

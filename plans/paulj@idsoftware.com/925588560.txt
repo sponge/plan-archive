@@ -1,0 +1,67 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Paul Jaquays
+Email: paulj@idsoftware.com
+Description: Level Designer
+Project: Quake 2
+Last Updated: 05/01/1999 16:48:26 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+Skill Portfolio/Background:  See bio on id web page for details
+
+Current projects:   Quake 3: Arena maps/Q3:A Documentation/E3 Demo Map
+
+**********************************************************************
+DISCLAIMER:  THE FOLLOWING IS THE PERSONAL OPINION OF THE AUTHOR AND DOES NOT REPRESENT THE OFFICAL POSITION OF ID SOFTWARE, ITS OWNERS, EMPLOYEES, DISTRIBUTORS, LICENSEES, OR ANYONE ELSE)
+**********************************************************************
+
+
+
+**********************************************************************
+May 1, 1999  4:48 PM CDT
+**********************************************************************
+
+The following anecdotal (meaning it worked for this guy, but may not be a general rule to live by) evidence suggests that even more Mac owners have access to Q3Test play.  Josh Lewis writes:
+
+"I recently downloaded Q3Test for my PowerBook G3. The PowerBook is a
+first generation model and therefore has a Rage IIc graphics chip, which
+you identify as incompatible (it is also the chip in the Rev. A iMac).
+However, I was able to install Apple's latest OpenGL drivers, which
+claim support for the Rage IIc, and run the Q3Test demo. Performance was
+unacceptable except at 400x300 and lower, but I was able to enable high
+detail geometry and a few other features without significant performance
+degragation at that resolution. The one flaw in the setup is that even
+on a CRT monitor, 400x300 is a small box and does not fill the screen.
+Otherwise it is a *very* playable version (I have a PC w/TNT too, so
+it's not a delusional Mac user "playable" statement). My PowerBook has a
+250MHz G3 processor with 1MB of L2 cache, 160 MB of RAM, latest ATI
+drivers, and Mac OS 8.5.1."
+
+Thanks Josh.
+
+Anyone out there make a RevA iMac work with the test yet?
+
+Paul J.
+
+
+
+**********************************************************************
+April 30, 1999  5:31 PM CDT
+**********************************************************************
+We unintentionally slighted a "class" of iMac users by inferring that their machines would not run the Mac version of Q3Test. Jeff Fridberg politely pointed out (we are quickly discovering that the word "polite" fits many of our Mac testers) that there are 4 versions of the iMac: RevA, RevB, RevC and RevD. The
+configurations, and colors are:
+
+RevA, Bondi Blue, Rage IIc, 233MHz
+RevB, Bondi Blue, Rage Pro, 233MHz
+RevC, Multicolor, Rage Pro, 266MHz
+RevD, Multicolor, Rage Pro, 333MHz
+
+So, if you are the owner of a RevB or later iMac, go grab the test and jump in fragging!!
+
+Thanks Jeff.
+
+Paul J.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+If it's not here, it's vapor.  Check out somebody's archives if you want to read my previous bits of wisdom and flame.

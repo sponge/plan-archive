@@ -1,0 +1,20 @@
+User:   timplan
+Read:   0
+Unread: 1
+Time:   Mon, 23 Nov 1998 19:16:22 -0800
+Plan:
+Been getting some questions about Halflife.  Gamespy support will not
+require WON access.  You should be able to set up your own servers, query
+other master servers, the gamemaster server at gamespy headquarters, others.
+Not quite sure how to set up the servers for this because I don't have
+halflife yet.  Watch http://www.contaminated.net/ for possible answers to
+these and other questions.
+
+The networking is working for Gamespy Halflife support.  Cleaning up the
+launch code now.  Joe will have to finish this because I am outta here for
+the rest of my vacation.
+
+Timothy 'CMonster' Cook
+http://www.gamespy.com
+http://www.mindspring.com/~cookti
+

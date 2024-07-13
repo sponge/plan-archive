@@ -1,0 +1,25 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 2
+Last Updated: 10/01/1997 17:30:45 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+--- Oct. 1. 97 ---
+
+ "Because it's a free product, it's pretty darn compelling."
+		-- Bill Gates on IE 4.0
+
+ Yeah Bill... Compelling me to run Netscape.
+
+ I just love it how screen redraws are four times slower with Active Desktop,
+my taskbar mysteriously reloads, removing the contents of my systray, and how
+IE randomly hangs while trying to load webpages, forcing me to terminate the 
+process.
+
+ Try again Microsoft. Maybe you'll get it right with 4.1.
+
+Small Print: Yes. Four times slower on screen redraws is an exageration, but you get
+the point. It's more like twice as slow. Ok, well, maybe 1.728 times slower...

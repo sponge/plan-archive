@@ -1,0 +1,523 @@
+Welcome to Raven Software's Finger Service V1.4!
+
+Name: Mike Gummelt
+Email: mgummelt@mail.ravensoft.com
+Description: Programmer
+Project: ???
+Last Updated: 05/11/1998 16:09:26 (Central Standard Time)
+-------------------------------------------------------------------------------
+Monday, May 11, 4:05 PM
+
+Fixed the bug that crashed server when a
+client tried to join a non-Siege server
+as a Dwarf.
+
+Fixed client crashes when trying to view
+Demoness in Multiplayer Setup if not
+using Pop, same for trying to view
+Dwarf when not in Siege.
+
+Heard too late about server lock-up
+when changing maps, but noticed that
+Siege server changes maps fine without
+crashing, will have to look into it.
+
+Still no work from Stringer, waiting
+for him to tell me it's ready to D/L
+
+cut here
+8<---------------------------------------------------
+
+Friday, May 8, 11:26 PM
+
+Crap.  Just got word from Steve Stringer.  To
+ensure the installer works correctly and
+everything needed is in there and working
+right, he says it will have to wait until
+Monday.  He has given me the installer to test,
+so I will do so and it will be out on Monday.
+
+On the bright side, "Deep Impact" was an
+excellant film and it does help one to
+realize at least for a couple hours just
+what is really important, and it certainly
+isn't video games.  Go see it instead.
+Go out and enjoy the weather and your friends
+and family over the weekend.  Play Siege
+next week.  Have fun, go outside.  I know
+a thing or two about science (a serious
+hobby of mine) and the truth is, unlike
+Deep Impact, the chances of us having
+a year's advance notice of an impact
+isn't very good.  There are at least
+a couple thousand near-Earth objects
+out there, none of them easy to see like
+a comet.  Only a couple hundred have
+been plotted.  Chances are if we did
+get hit, we wouldn't see it coming.  So
+go do something that really means something
+to you.  You never know what day will be
+your last!  Siege can wait.  See you
+Monday.
+
+cut here
+8<---------------------------------------------------
+
+Friday, May 8, 6:39 PM
+
+I sent Siege and HW v0.13 to Steve Stringer, but
+I don't know when it will be available for download,
+he hasn't told me it is yet.  I presume it will
+be available, but I have to leave now for a movie,
+I will check back later to see if it's available.
+
+Here's hopin'!  It is very cool I must say, so
+give it a whirl.  There is a server up at
+HOST101.RAVENSOFT.COM.  It's timer is constantly
+going so the first person to join may have the
+game declare the Defenders the winner by default-
+if so, just press the fire button to restart the
+map...
+
+Have fun (I hope)!
+
+cut here
+8<---------------------------------------------------
+
+Friday, May 8, 10:06 AM
+
+Ok, so today I'm uploading the current version of
+HexenWorld along with the Siege Pack to Steve Stringer,
+I suspect it should be available sometime tonight.
+
+I didn't make many extensive changes to HexenWorld
+itself as far as player requests/suggestions go.  I'm
+waiting for a sizable list to accumulate.  I plan on
+releasing the final HexenWorld sometime in the next
+2 weeks perhaps assuming we get the Zoid changes and
+Rick okays everything.  I don't want to release
+another HexenWorld until I've had time to really
+address every problem and make some extensive
+changes.
+
+The Siege I will be shipping still has some bugs and
+unfinished parts:
+
+The "Become Beast" spell doesn't quite work correctly.
+Weapon cycling is temporarily disabled (was crashing)
+After the end of a Siege game, server has to manually
+    start the next game- I know, first thing I'm 
+    going to fix...
+A client trying to be a dwarf joining a server not running
+    siege will crash the server...
+"Help" screens not finished
+
+
+The following ART still isn't final:
+All the player's defender/attacker skins (especially
+    the dwarf's)
+Crown model's skin
+Longbow model/skin (just a sideways crossbow for now)
+Some of the flags and banners.
+All 3 Victory splash screens
+Multiplayer Settings picture and statbar portrait for
+    Dwarf.
+Some of the weaponmodels need new/modified skins since
+    they're used by a couple different players.
+
+I'll see if I can alleviate any of this before I send it...
+
+cut here
+8<---------------------------------------------------
+
+Thursday, May 7, 12:03 PM
+
+Just got e-mail from Steve Stringer at
+Activision, he will be out today and won't
+be able to put the game out until tomorrow.
+That's cool since that gives me an extra day
+play with Siege before this beta I wasn't
+anticipating and it still gets the beta out
+there for the weekend... it's coming along
+very well- I hope you all enjoy it!
+
+cut here
+8<---------------------------------------------------
+
+Wednesday, May 6, 5:12 PM
+
+Ok, it's really really close now- I have a lot
+of work left, though, before I can release it
+since I want to make sure both Siege AND the
+new HW beta that will be released with it to
+support it work in Siege and non-Siege modes.
+I'm also busy making sure the features that
+ARE in all work right, plus I'm constantly
+tweaking the art and balance.  I'm also
+currently working on updating the .doc file
+Perf Cuervo and I wrote back in January for it
+since it's a little out of date.  And, finally,
+I'm trying to tear Jeremy away from Heretic 2
+long enough to make the neccessary changes to
+the Siege level... (Brian Raffel said he might
+do some texture work on it as well).  I will
+probably finish the beta tonight, but I have
+to release it through Activision since it's
+not just a mod, it's a new version of the
+HW server and client beta...
+
+So, tonight I finish it, tomorrow Steve releases
+it to the net...
+
+cut here
+8<---------------------------------------------------
+
+Tuesday, May 5, 8:21 PM
+
+Well, Siege testing went pretty good Sunday night,
+I found some nice juicy bugs and eliminated them.
+Today I decided I was definitely going to put in
+the Dwarf playerclass I just finished some final
+tweaks and bug fixes on him.  He has only 2 weapons,
+the hammer and the axe, but they're good weapons
+since they're of Dwarven construction.  He is
+the best digger and is the best at breaking stuff.
+He is light enough to make it over the wall via the
+catapult if you're good.  He's short and somewhat
+slow with shorter reach so you won't be using him
+to melee or load catapults too often.  He also
+sinks like a stone in water and can't hold his breath
+as long (panics).  He has three cool abilities:
+he regenerates health at a steady pace up to
+75% of his max, he goes berzerk occaisionally for
+30 seconds if his health is really low and he's
+hit hard, and, finally, if someone steps into
+the darkness, they glow red in his view since
+he can "see" the heat emanating from them.  He also
+starts with all the armor and gets very good
+protections from it (once again, Dwarven-made).
+He is also immune to all magic (helpful or harmful).
+So while he is a weak fighter and slow, he is
+a small target and pretty hard to kill...
+
+This helps balance out the classes some more too,
+so now you have the:
+
+Paladin - best Melee fighter.
+Crusader - has lots of enhancing spells, only healer.
+Necromancer - has lots of destructive spells, can
+	become a giant Beast.
+Assassin - stealthiest, best used to sneak in and
+	find the key or sabotage the enemy, has
+	best long-range attacks.
+Succubus - has ability to glide and fly, has a good
+	array of weapons.
+Dwarf - best for digging into/out of the castle, breaking
+	down doors, chains and ramparts, light enough to
+	catapult in.
+
+If all goes well (and it looks like it will), I will
+be doing one more testing session at 7pm Wednesday,
+then releasing the 1st public beta.  Some of the
+art (especially the Dwarf's) will still be only
+partially done, but it will be playable.
+
+cut here
+8<---------------------------------------------------
+
+Friday, May 1, 3:54 PM
+
+Don't kill me!
+
+I've decided Siege could use some more testing before
+I release it to the public and I need some more
+time to put in some more art, write the .doc up
+nicely, etc.  And since Lynn (my fiancee) is here
+until Sunday afternoon, I won't get much done
+between 6PM today and Sunday, so it's going to
+have to wait (This is her first time out here
+since I moved out here over a year ago!  You
+understand...)  Anyway, I fully expect a very
+nearly complete, easy-to-use, stable version
+of Siege to be out on Wednesday, May 6 after a few
+solid days of testing and tweaking...
+
+Thanks for your patience...
+
+cut here
+8<---------------------------------------------------
+
+Thursday, April 30, 3:02 PM
+
+OK, I have an idea, and I'm seriously considering it...
+A new playerclass for Siege- the Dwarven Fighter.
+
+He would have an axe and hammer, he would be half
+player height, run faster than a crouched player but
+slower than a standing player, he would be immune to
+poison and magic, he would have a good number of
+hitpoints, be fairly strong, be the best tunneler,
+a poor swimmer, could be shot farther by catapults,
+his armor would be the best since Dwarves are so
+good at metallurgy and binding magic into their metals-
+his weapons would either be pretty strong or have some
+sort of magic effect bound to them, and he may have
+some sort of "danger sense" since Dwarves are supposed
+to be fairly prescient.
+
+What I need is: A model!  It would have a Viking type
+of outfit, with the horns on the helmet...  He could
+be animated at 10 fps rather than 20, no problem to 
+implement codewise, and he would need these animations:
+standing - axe (12 frames)
+standing - hammer (12)
+running - axe (6)
+running - hammer (6)
+hitting - axe (6)
+hitting - hammer (6)
+pain - axe (6)
+pain - hammer (6)
+swimming - axe (10)
+swimming - hammer (10)
+death (20)
+decapitation (20)
+
+I'd estimate maybe 130 frames, but the hammer/axe
+versions could be duplicated depending on the 
+animation method used- the decap could simply 
+be the death anim with the head shoved in the neck, 
+so it could probably be done with only 60 unique 
+frames to animate.
+
+And I would call him "Hank"
+
+If anyone is seriously interested in being a
+part of HISTORY, and you think you can do it
+within 2 weeks, let me know!
+
+cut here
+8<---------------------------------------------------
+
+Wednesday, April 29, 9:37AM
+
+Siege is coming along nicely, I've stopped working
+on implementing big new features or heavy bug-fixing
+and I'm working on making it more user-friendly and
+pretty.  I put in an icon for the .exe, a new
+console backdrop, and put some special characters
+in the font for the Siege info display that replaces
+the standard frag count display- this one shows
+how much time is left, how many defenders have
+been killed and how many attackers have been killed.
+I also replaced the standard help screens with some
+helpful information on how to play Siege.
+
+I've been talking to some people who volunteered to
+do artwork for me and I've very grateful for all the
+responses- the artists here are very busy with
+Heretic 2 and while I can scribble a decent doodle,
+I'm no artist.  If I can get all the things these
+guys are offering, Siege will look very nice indeed!
+
+In addition, I'm talking to Phoebus over at
+HexenWorld about setting up an official Siege
+website for me- hosted by HexenWorld.  If that gets
+going, then I'll have a nice, neat official place
+to put my updates, news, tips, requests, and downloads...
+
+Thanks for all you enthusiasm!
+
+cut here
+8<---------------------------------------------------
+
+Tuesday, April 28, 10:15AM
+
+Hey All,
+     Well, I've been working on Siege just about a week and
+a half now and I think I'll be ready to release a beta on Friday.
+It's been a little difficult to test here since everyone else is so
+busy on their respective projects.  The version I release should
+have all the main features except a few spells maybe, and won't
+look as pretty as the final version and I try to get some art made
+(any volunteers?) for this and that and get Terata to finish up the
+map Perf Cuervo made.  So far it's got the weapons for each
+class, most of the spells for them, the abilities I've done so far,
+and all the other stuff I mentioned in my finger as well as a couple
+things I was going to try to get in there- mainly the greek fire,
+the sapping tunnel, and the ripples in the pool to detect diggers.
+I'll try to test it and tweak it the remainder of the week and try
+to get that first beta out on Friday.  Do me a favor and playtest
+it (I'll include full instructions) and let me know of any bugs you
+find (I'm sure there'll be a few) and any comments, suggestions, etc.
+you may have about it...
+
+cut here
+8<---------------------------------------------------
+
+Monday, Aprill 20, 7:40 PM
+
+Well, from what I know from Rick, there will be one
+more release (with some stuff from Zoid) and that
+version should be fully compatible with (but may not
+include) Siege.  Rick is going to put in a system for
+some extended entity-to-entity client side physics
+to that pushing barrels and catapults doesn't look
+really freaky to people with lag.  Siege itself should
+just be a map, some sounds & models, and a new 
+progs.dat.  Siege should be out within 2 weeks- I 
+just put in Greek Fire today- next I want to work on
+putting in the mining/sapping tunnel that you can use
+to collapse a wall- but a pool in the center of the
+castle court will show ripples if someone is digging-
+this will allow the defenders to start a counter-tunnel.
+
+BTW, thanks for all the suggestions so far, I'll let
+you know what I end up implementing...
+
+
+cut here
+8<---------------------------------------------------
+
+Saturday, April 18, 6:35PM
+
+Alright, here's the specifics on which class has what
+and what tactics/engines are in the game so far:
+
+Note that all players start with all their weapons and
+abilities.  They require "ammo" for some weapons, but
+require mana only for spells.
+
+Paladin:
+The paladin has a Sword (which is better against flesh
+than, say, wood), an Axe (which is better against wood),
+and a bow (which he is not accurate at all with but
+has nice range).  He is the best swimmer and has higher
+strength and health than the others and comes in full
+armor.
+
+Assassin:
+The assassin has a dagger, with which she can backstab
+with.  Her second weapon is a crossbow, her third is a
+welsh longbow with flaming arrows, and her final "weapon"
+is her tripwire explosives.  She has no spells, but she
+has three special abilities- she can backstab, hide in
+shadows, and scale walls.  She comes with one piece of
+armor.  She is the 2nd fastest and most accurate of the 5
+classes.
+
+Crusader:
+The crusader only has one weapon, a hammer.  However, he
+has several spells- casting cost in parentheses:
+Heal (5) - Heals 5 points of health on self or other.
+Enchant Hammer (10) - Basically "tomes" hammer
+? (15) - open slot - suggestions?
+Mercurial Speed (20) - Super-speed (self/other)
+Berzerker (30) - Super-strength (self/other)
+Cloak of Perseus (40) - Invisibility (self/other)
+Wrath of God (full mana, sacrifice) - Crusader dies, but all
+     within his view are struck by lightning.
+As of now, I have no special abilities for the crusader.
+He comes with 3 pieces of armor.
+
+Necromancer:
+The Necromancer has his sickle and a bow for weapons-
+he has poor range and accuracy with his bow.  He has
+six spells in addition to these weapons:
+Magic Missiles (2) - Like his 2nd weapon in HW.
+Poison (15) - Poisons someone (like Succ. glyph in HW)
+Polymorph (30) - Turn someone into a sheep.
+Delayed Fireball (40) - Like the paladin's glyph in HW
+Summon Imp (60) - Like the Summoning Stone in HW
+Become Beast (100) - You become a giant beast for
+     3 minutes, able to trample people, crush catapults,
+     bash down doors, take great amounts of damage,
+     and start quakes by jumping.
+The Necromancer has no armor and no abilities.
+
+Succubus:
+The succubus is the balance between fighter and mage-
+she has 4 weapons and 4 spells and 1 ability.
+Her weapons are her bloodrain, a sword, a crossbow,
+and grenades.  Her spells:
+Repulsion (10) - Like the Disc of Repulsion
+? - Unused slot- suggestions?
+? - Unused slot- suggestions?
+Flight (100) - Allows her to fly freely for a couple
+     minutes.
+Sher has the ability to glide slowly and comes with
+2 pieces of armor.  She is the fastest runner of all 5
+classes.
+
+Mana regenerates slowly, there is none to pick up, and
+you start with none.  Mana regenerates faster for the
+Crusader, but the Necromancer has a higher maximum mana
+limit.  The Crusader utilizes blue mana, the Necromancer
+and Succubus require green mana.
+
+There are no artifacts to pick up besides:
+
+They Throne Room Key (opens the throne room)
+A key-finding device (the former cube of force)
+Imprisonment Icon (teleports target into the prison- they
+     can try to break out)
+Ring of water-breathing (makes pirhana ignore you, can
+     hold breath a long time).
+
+And, of course, arrows, grenades and tripwire glyphs.
+
+Also, as the time limit approaches, the outdoor
+light sources fade down, simulating nightfall and
+giving attackers a cover of darkness to operate under.
+
+Siege machines/tactics implemented so far are:
+
+Defense:
+4 Ballistas on the defense towers.
+Spikes on the front of the tower to skewer anything (or
+anyone) trying to catapult over)
+Ramparts to provide cover while attacking and also to
+     prevent people from catapulting over.
+A moat with ravenous pirhana in it.
+A prison to keep captured attackers in.
+Several doors and gates that can be closed and locked,
+     but can also be bashed down.
+A small contigent of Mezzomen to guard the inner court.
+
+Attackers:
+Catapults
+Possible sewer entrance.
+Device to help find locate the position of the key.
+
+Other ideas planned, if desired:
+Trebuchets?
+Greek fire (both sides)
+Highly unstable but powerful bombard.
+Mining/sapping techniques.
+Battering rams?
+Siege towers/ladders?
+
+Any other ideas? Comments?
+
+cut here
+8<---------------------------------------------------
+
+Friday, April 17, 2:26PM
+
+Ok, Project Y is coming out very soon, within two weeks
+hopefully (I'm the only one working on it right now, so
+that's the reason for the delay). It's a multiplayer 
+mode for Hexenworld that somehow got leaked to PC Games
+so I presume it's okay to talk about it... it's called 
+"Siege" and basically it goes like this:
+
+The map is a castle/keep with ramparts, a drawbridge, a 
+moat with pirhana, a prison, ballistas, a porticullis
+and a sewer. The defenders must keep the attackers from
+getting into the castle and capturing the crown.  The 
+attackers have catapults (I'm working on a couple other 
+siege engine ideas) and unlimited ammo (the guys on the 
+inside starts with more ammo but it doesn't respawn). 
+There is a time limit and the attackers must find some 
+way to get into the castle (there's the obvious way of 
+breaking down the main gate, plus some more obscure ways-
+I'm going to try to simulat

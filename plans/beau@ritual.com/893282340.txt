@@ -1,0 +1,50 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: beau
+Plan modified: Wed Apr 22 18:43:00 1998
+
+You have reached Beau Anderson's .plan
+beau@ritual.com
+Artist - 3d Modeler/Texture Guy
+
+4/22/98
+
+  I usually don't make non work related plan updates... but here goes.
+
+Sports:
+I am a Utah Jazz nut, so my opinion is obviously biased, but as far as MVP 
+goes, everyone knows Jordan will get it this year.  I'm not saying he shouldn't, or
+that he's not the greatest player ever, but let's look at the figures:
+
+      Scoring: Malone 27 points a game, Jordan 28.6. 
+      Field-goal percentage: Malone 53 percent, Jordan 46. 
+      Rebounds: Malone 10.3, Jordan 5.8. 
+      Assists: Malone 3.9, Jordan 3.5.  (which of these is the guard??)
+      Both players are All-NBA defenders. 
+      The Bulls won 62 games, the Jazz won 62 games -- beating the Bulls both
+		times the teams met.
+
+Should an MVP award be given based on past playoff heroics?  No.  It should be
+based on a player's merits from October 31 to April 19.  Should the greatest
+player ever receive the award because this might be his last year?  Nope.
+
+One thing's for sure, there is only one team in the NBA that does not fear
+the Bulls -- the Utah Jazz.
+
+
+4/9/98
+
+  Things have come together nicely on the art side of Sin, and the fine tuning has
+begun.  All the screenshots we have released can be considered old news, as we have 
+re-done just about every model -- including weapons, as we have made the switch to 
+the Q2 code.  We finally have a texture mapping method we are happy with.  The 
+lighting model has also changed drastically and things look so much better.  
+Visible weapons in deathmatch rocks - there's nothing like the chill that goes 
+through you when you see a guy sizing you up from long range with a massive gun.  
+Visible weapons isn't as easy as it sounds, you have to account for every weapon type 
+in every run, walk, fire, crouchfire, swim, swimfire, etc.  Blade can shoot rifle 
+style, big gun style, and pistol style.  It adds up to a lot of animating.
+
+
+

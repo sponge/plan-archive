@@ -1,0 +1,36 @@
+Username: markus                    In real life: Markus Maki           
+
+
+Plan:
+March 15th, 2000
+----------------
+Just got back from GDC. This was my first time there, but I think
+it's the best place to learn about new 3D technologies and meet with
+companies on that field. One cool thing was that it was mostly about PC
+game development, so just right for me. I don't care for consoles that much.
+
+Also it's a very good place for free beer every night if you're into that...
+
+Most impressing real time 3D demo I saw at GDC was the Japanese garden /
+butterfly demo that they showed at the X-BOX launch. It's a shame it can't
+be downloaded from anywhere except as a poor quality Quicktime mov.
+
+Future looks very bright for PC game developers. Hardware seems to be 
+ahead of game content nowadays. Also X-BOX can get us poor Direct3D 
+PC game developers a much wider distribution with hardly no platform 
+conversion work. Sorry OpenGL people :-)
+
+On the console notation - I didn't see much of anything about PS2 at GDC.
+Only the Lithtech engine demo at their booth (*surprisingly* poor looking)
+and the rumour that UT was running 10fps at Epic's booth. Didn't see it
+myself.
+
+Also met with a few Playstation2 developers, they saw our technology
+running at the Intel hospitality suite, and asked two questions:
+1) Is this real time?
+2) Can you really do this on a PC?
+
+Check it out yourself, download 3DMark2000 from http://www.madonion.com
+(shameless plug :-)
+
+

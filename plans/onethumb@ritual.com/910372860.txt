@@ -1,0 +1,183 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: onethumb
+Plan modified: Fri Nov 06 12:57:26 1998
+
+
+Name:  Don MacAskill         
+Email:  onethumb@ritual.com
+Occupation:  Jedi Master
+
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************       
+
+- 11/6/98 12:52pm -
+
+-[ Make Money While Sinning! ]-
+
+Wanna make $500 just for being a killer Sin player?  I'm going to be running
+a quicky little 64 (or thereabouts) Sin tournament this weekend in Fort Worth,
+Texas.  The winner takes home $500, I've been told.
+
+We'll be playing the full version, they'll be 4 player free-for-alls until
+the last two or so matches (this is very laid-back, not heavy competition
+at all, so we'll work out the details as we go), when we'll go for just
+one-on-one.  
+
+Not sure who else from Ritual will be there, but I love to talk with and
+hang out with our fans (I'm still a fan, really, myself), so come on by.
+
+http://www.wiredforfun.com/
+
+Wired For Fun, in Fort Worth, Texas
+
+
+- 11/5/98 12:14pm -
+
+-[ Other Sin Issues ]-
+
+Please please please make sure you're running Sin from the Start Menu rather
+than from the auto-loader when you put the CD in the drive.  I'm not sure why,
+but starting it from the CD totally breaks a lot of things, including saving
+games and apparently introduces major speed and loading time issues.  Bleh.
+
+- Updated:  12:14pm
+
+I've verified that using the auto-loader plays the game ENTIRELY off the CD.
+This is a Bad Thing(tm).  It results in VERY slow performance, and no saved
+games, among other things.  I'm amazed that it actually works.  
+
+Unfortunately, since this is hard-burned on the CD, there's nothing we can
+do to change it.  Activision reports that they have fixed the problem and
+future CDs won't have this problem.
+
+
+PLEASE READ:
+
+Note that the game itself isn't broken --  Just make sure you're playing it
+off your hard-drive rather than the CD.  Everything should get drastically
+faster and better.  :)
+
+
+
+- 11/5/98 10:20am -
+
+-[ Sin Sound Issues ]-
+
+I'm getting reports that Sin runs great on everyone's machine EXCEPT for 
+people with SoundBlaster PCI cards (PCI64, PCI128, and Live!).  
+
+It turns out that the culprit is the EAX drivers for the PCI cards, and 
+installing non-EAX drivers or toggling EAX off in the control panel should
+fix the problem.
+
+Note that you may also have to change the 3D Sound option (which is meant
+for Aureal A3D cards) to off in Sin as well.
+
+More information can be found at our website, www.ritual.com, and I'll 
+update there if I find any more definitive answers.
+
+Also, if anyone has successfully fiddled with their drivers and Sin and gotten
+them to work properly, I'd appreciate an email that details exactly what
+changes and settings you used.  I hate to hear about people not able to
+play the game.
+
+
+
+- 10/30/98 1:14 pm -
+
+-[ Gold is Good ]-
+
+That's right folks, we're Gold.  It should start showing up on store shelves
+soon.  It's been an awesome ride working with the Tribe here at Ritual.  We
+had a wonderful time making the game, hopefully you guys (and gals!) will 
+enjoy playing it just as much.
+
+
+-[ Wieder Rolls on Outta Here ]-
+
+If you hadn't heard, Charlie Wiederhold is no longer with Ritual.  He stuck
+it out to the very end of Sin and then headed off to join the Duke team over 
+at 3DRealms.
+
+I'm sure I speak for the rest of the team when I say that it was a pleasure 
+to work with Charlie...  He's certainly one of the nicest people I've ever
+met, let alone worked with.  And in a few days, you'll all get to see just
+how talented he is -- he did some phenomenal things in Sin.
+
+Before all the rumor pages go bonkers, Charlie left on wonderful terms.  He
+finished the project with the rest of us, and then headed off to work on 
+another one he's very excited about. 
+
+Good luck Charlie, can't wait to see what you do with Duke!
+
+
+
+- Misc -
+
+-[ Current Status ]-
+
+  Zor     Meglet   Squirrel   onethumb   Paradox   KillCreek   JoeSke
+|-------|--------|----------|----------|---------|-----------|--------|
+  $1980   $600     $959       $811       $1223     $1000       $861 
+
+
+-----BEGIN GEEK CODE BLOCK-----
+Version: 3.12
+GAT d-(---) s+:-- a? C++++ UXL++++ P+>++ L++++ E--- W+++ N- o-- K- w O M--(+) 
+V-- PS+ PE++ Y+ PGP++ t+ 5+++ X++ R>+ tv+ b++ DI+ D+++ G e h*>- r++>+++ y-
+------END GEEK CODE BLOCK------
+
+Wanna know all about me?  Decode my Geek Code here:  
+http://www.ebb.org/ungeek/
+Decode Geek Code
+
+
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: PGP for Personal Privacy 5.0
+
+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
+RAP+8AZhwStV8w==
+=3lXm
+-----END PGP PUBLIC KEY BLOCK-----
+
+

@@ -1,0 +1,256 @@
+
+Welcome to Linux version 2.0.0 at lith.com !
+
+  5:13pm  up 67 days, 9 min,  0 users,  load average: 0.00, 0.00, 0.00
+
+Login: dussault       			Name: Mike Dussault
+Directory: /home/dussault           	Shell: /bin/bash
+Never logged in.
+No mail.
+Plan:
+12/9/97
+
+I haven't had anything really interesting to post lately, but
+I did a Riot weekly update so I figured I'd post it here so
+my plan file doesn't vanish:
+
+----- snip snip -----
+
+Hi, it's my turn to do the weekly update so I guess I need a 
+theme to talk about.  I think I'll expand my horizons and talk 
+about DirectEngine. :)  Basically, what I do all day is
+work on DirectEngine, which consists of all sorts of things.  
+When people judge an engine nowadays, they seem to 
+focus in on specific areas and forget about all the other 
+things an engine does (or can do).  It's funny because I 
+would say that about 70% of my time is spent on 'the other 
+things' - things like file/resource management, file transfer,
+engine tools, bug fixes, etc..  :)  For example, here is a 
+watered-down version of what I've done for the past week 
+or two:
+
+Direct3D support in DEdit.
+Added object property overriding.
+Brand file (sort of a password protection) for the 
+DirectEngine demo.
+Property-creation macros.
+Setup DEdit to not keep object DLL open.
+Setup the engine to do all palette management instead of 
+the artist.
+Rewrote DEdit's file management code.
+Finished DirectEngine demo engine documentation.
+Reduce packet sizes...
+Got rid of server.dll, now engine is one executable.
+Implemented inactive objects with 
+ServerDE::SetObjectState.
+Added memory status indicators.
+Added matrix setup routines to ServerDE.
+Object serialization for switching between levels and 
+savegames.
+
+As you can see, very little of the above list includes 
+anything extremely enchanting, but when everything fits 
+together into a well designed system, then it's VERY cool.  
+It does take a long time and a lot of patience though!
+
+Our (current) long term goal for DirectEngine is for it to 
+support infinitely scaleable, distributed, but continuous 
+worlds.  By that I mean a huge array of interconnected 
+servers in which a player could potentially run for days
+and not hit a dead end.  Anyone who wants to run a server 
+can get a topological view of the server layout that might
+look something like this:
+
+XOOXOO
+OOOXXO
+OOOOOO
+OOXOXO
+
+A player would be able to view the whole layout and pick a 
+spot to run their world in (like the XXX'd out ones above).  
+Their server would automatically be connected to the 
+adjacent ones and they would be ready to go. 
+
+'Zones' could be defined from clusters of servers, and 
+massive wars could even take place between them.  
+Imagine a territorial war ranging over 20 miles of land, with 
+thousands of players involved!  Which brings us to another 
+thing that will be happening.  There will be different levels 
+of 'awareness' and server functionality existing in the online 
+world.  For example, the current servers are concerned 
+with individual objects, physics, etc.  A 'second level' 
+server would have control over, say, 100 first level servers, 
+and would direct them in a high-level way.  A good 
+example of what a second-level server would control is
+'packs' of NPCs, roaming the land.  There could be a 
+group of 50 AI mechs travelling together attacking players.  
+The second-level server would be directing the entire 
+group where to go, whereas the first-level servers would be 
+working out the details like following terrain, meeting 
+attacks, etc.
+
+Another thing second-level servers would do is control the 
+population in all the areas.  If an area gets empty, the 
+second-level server spawns more things there. 
+If the area gets too full, it starts to direct the packs to 
+spread out.
+
+One of the ideas for the implementation/representation of 
+all this is a fully object oriented model.  EVERYTHING in 
+the online universe is an object, even a server.  Each 
+object is considered an 'executing process', meaning that
+it is a DLL somewhere sitting there telling DirectEngine 
+what to do and how to communicate with whoever it deals 
+with.  Each object has multiple children and one parent.  
+The heirarchy can be changed as the system runs.  Any 
+object in the online universe can be referenced with an IP 
+address looking thing.
+
+So, maybe the heirarchy starts as this:
+
+  Seattle
+ /    |    \\
+
+s1  s2  s3
+
+which is a group of three servers representing the Seattle 
+area, with a City server controlling the high-level variables 
+and such for Seattle.  Then someone wants to add a 
+process to represent the state of Washington.  Their 
+process would control things like weather, precipitation, 
+player limits among all its servers, cash flow, whatever, so 
+now it looks like this:
+ 
+           WA
+        /      \\
+
+  Seattle	   Factoria
+ /    |     \	     |       \\
+
+s1  s2   s3  trash1  trash3
+
+and each server itself has a group of children you can 
+reference, so maybe s1 looks like this (player1 and tank 
+are individual objects inhabiting the world):
+
+       s1
+    /     \ 
+player1  tank1
+
+
+The main thing about this system is that there is a logical 
+place to store all variables, and a logical growth cycle (add 
+a new level to the heirarchy).  Any process in the universe 
+could request information from another process by its 'DE 
+address', so if I wanted to know how many players were in 
+Seattle I could do something like:
+	NumPlayers = pDirectEngine->GetVar("USA.WA.Seattle", NumPlayers");
+
+Which brings us to the idea of DirectEngine serving as a 
+'data manager' for apps.  Basically, it would supply an 
+in-memory or on-disk database for you to track your data in.  
+We came -this- close to implementing a database-ish
+scheme at the object level, which would have provided 
+some advantages, but the execution and coding overhead 
+it would have incurred stopped us.  It would have been 
+pretty lame if most of your structures had this abstraction 
+you had to go thru in order to access them.  Anyways, I still 
+think DE doing some data management at a higher level 
+(like the Seattle or WA) level would provide some 
+advantages, namely:
+ 
+Saves the programmer a lot of file IO work.  If you just track 
+certain data (like player accounts) in an on-disk database, 
+you don't have to worry about saving it or losing the data 
+(as much).
+
+If DirectEngine knows where your data is and what it's 
+called, it can handle the sharing of that information 
+between processes and you don't have to worry about it.
+
+Another thing we could have if DirectEngine knows where 
+your data is is a 'data monitor' app, which would let you 
+monitor the state of any process and change the state if 
+you want.
+
+Another cool thing in the near future (and hopefully for Riot 
+if we get time to put it in) is that the person running a server 
+can hop in at any time and have some cool 
+Dungeon-Keeperish tools that they can use to manage 
+their server.  They could do things like look at the player 
+list, activate triggers they've placed throughout the level, 
+place enemies, move players around, etc.
+
+Related to all this is a much more dynamic (and logical) 
+way to represent the gaming world.  (Real) hardware 
+accelerators afford you much more luxury when it comes to 
+fill rates than software rendering allows, which means you 
+can relax your restrictions on the world structure somewhat 
+and shoot for awesome special effects!
+
+Anyways, I hope that rambling seemed at least a little 
+coherent.  In my opinion, today's engines aren't even close 
+to what they will be around the corner.  
+
+- Mike D.
+
+^^^12/1/97 3 am
+
+Brad and I spent the last week going through DirectEngine
+and DirectEditor and getting rid of lots of really annoying
+remnants of old and unfinished features.  We did this 
+because today is the official day for the DirectEngine CD
+to be made.  We hope people like it!  The thing to remember is that the engine IS NOT 'done' or ready to
+make an entire game until Riot ships!
+
+Here are a list of the things that we fixed/added (most of
+these probably won't make sense unless you're using the
+engine :)
+
+- BIG physics optimization (many more to come..)
+- File management redone.. MUCH faster load time.
+- 2 main appheaders you include instead of 10-15.
+- DEdit will render with Direct3D or fall back to software.
+- DEdit has a debug dialog you can type commands into.
+- No more OBJECT_LIST crap with C++ games.
+- Property overriding!
+- PF_HIDDEN flag, which hides properties in DEdit.
+- CF_HIDDEN class flag, which hides classes in DEdit.
+- Better object representation in DEdit.  Before, all objects
+  were drawn as cubes.  Now, the lights have their color
+  drawn in and a radius circle around them.
+- Origin placement in DEdit.. before, it was inferred from 
+  where you last right-clicked in a view.
+- palette.dat is gone!  Now each texture file stores the
+  palette with it so all the palette management is done by
+  the engine now.
+
+
+
+
+
+
+
+
+
+
+^^^11/3/97
+
+Wow, I just caught myself!  I was about to post something
+interesting, but if I do that I might hurt someone's 
+FEELINGS or someone might get the WRONG IDEA and freak out!
+Hmmm, whatever am I to do?  Ok, here's my last disclaimer:
+Pretend everything on my plan file is a complete lie.  
+That way you might not get so upset.
+
+Unless I were to say something like, "If you're reading my 
+plan file and it upsets you, don't go fuck yourself."  
+
+Don't you have better things to do than whine about my 
+plan file?  There are plenty of other self-perpetuating 
+lost causes for you such as Gay Proudness Day, defeatism, 
+FemiNazis, Get Tough On Crime, teenage curfew, veggie 
+burgers, anti-porn-on-the-net, 70's revival, retro 
+anything, anti smoking manifesto, Bill Gates bashing, 
+Exxon, tree killers, and I'm sure you can invent many more 
+stupid P.C. things to whin

@@ -1,0 +1,25 @@
+User:   jack
+Read:   0
+Unread: 0
+Time:   Tue, 2 Feb 1999 16:28:59 -0800
+Plan:
+2/2/99 - 1:31pm
+
+Cool news!  Tim got Tribes support (when they release the next patch)
+put into GameSpy!  Woo hoo!  Now you can find your friends on there and
+stuff.  Not quite sure when we'll be releasing it, just wanted you all
+to know it was coming!
+
+Also, since I've seen so many confusing reports by the press lately on
+the nature of 3D, thought I'd take the time to correct one of them:
+
+> There appears to be a triangle culling engine built into this engine
+> for the purpose of speed. This is a good thing, as overdraw can kill
+> a card. It's worth mentioning that the funky infinite planes
+> rendering technology incorporated in 3D chips by VideoLogic/NEC in
+> the PowerVR series implements this in hardware.
+
+Ummm, like *all* modern hardware has backface culling in hardware.
+It's the first basic optimization anyone would do to reduce overdraw.
+What they PROBABLY meant is that they do culling so they don't generate
+or load lightmaps on to-be-culled surfaces or something.

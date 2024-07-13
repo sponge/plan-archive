@@ -1,0 +1,27 @@
+Username: petri                     In real life: Petri Jarvilehto      
+
+
+Plan:
+[010998]
+
+Mika Tammenkoski has finally joined Maxteam. Mika is a programmer
+whom we've worked with before and he's a really valued addition to 
+the team. Mika's first task is to write KF2.0 Plugin to replace
+our old and dated scripting system. The new Plugin allows
+us to assign all the texture mapping, and materials etc. for 
+actors right within 3D Studio Max, and then export those as
+run-time data. It's a really nifty tool and gives us great 
+flexibility in regard to actor data.
+
+Mika's personal bio will be updated to www.maxpayne.com devteam 
+section shortly.
+
+We've also decided on the Level Designer (we're currently in the 
+process of relocating him to Finland), more info on that later though. 
+Huge thanks to all of the applicants. Your submissions we're all 
+carefully previewed (and we had real fun playing through your levels :). 
+It now seems clear that there's some serious talent out there crunching
+away during night hours designing levels with QuakeII and other 
+platforms. Keep up the good work guys.
+
+

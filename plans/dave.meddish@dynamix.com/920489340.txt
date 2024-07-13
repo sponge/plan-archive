@@ -1,0 +1,89 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-----------------------------------------------------------------------
+User Name: dave.meddish     Plan Last Modified: 03/03/1999 13:13:46 PST
+
+
+
+dave.meddish.plan
+
+
+
+3.2.99
+Nothing worse than scoring a City League career-high sixteen points (4-6 from behind
+the arc too--dBack was "en fuego"), but losing the game.  Drat.  I'm lucky if I 
+score two points, it's too bad when Dave starts posting the big numbers and the
+team can't capitalize...
+
+
+Far too silent of late, ol' dBack has decided to liven up your days with a guest 
+appearance in the .plan files.  I know, I know, you're lives have been soooo empty
+with the wit and wisdom of David R. here, so I come to appease the masses.
+
+
+As of now, the Tribes team is starting to ramp up for Tribes II (or 2--personally,
+I prefer the Roman numerals), deciding what we can cram in for the sequel.  We'll
+no doubt have some things that didn't make it in the first game, and some wondrous
+new things as well.
+
+
+At present, I'm finishing up documentation for the tools that we will be releasing
+to the public sometime soon (and, no, I'm not getting more specific than that).  
+This includes the Mission Editor and ZED, the in-house 3-D art tool that we used to
+create static objects.  The docs are in spiffy .html format with lots of cool 
+pictures and everything!  Very swank if I do say so myself (and I do)...we also
+have tutelage for putting together your own "smack packs" using custom .wav files
+and implementing custom-made skins.  
+
+
+A big, big holler out to Dr. Jeep!!  You and Qui9 are truly *the men*!!  We'll have
+to slip a little something into Tribes II just for you...we shall be quaffing a 
+great quanity to a certain beverage in the near future thanks to your magnanimousness
+(which may not be a word, but I said it, so it is now).
+
+ 
+And Sifl & Olly is back on the airwaves with brand new episodes!  Huzzah!  Who needs
+a life, I have Sifl & Olly.
+
+1.27.99
+Back to the grind...always good to hear and see the reviews rolling in.  Good Lord, it
+looks like we might have a hit on our hands.  This is much better than my former place
+of work, which shall go nameless, where I think our games sold a combined total of 32
+copies...
+
+
+So what is ol' dBack up to?  Making all you mod-makers happy soon.  Being writer-guy, 
+I've been put in charge of making documentation for all of our tools that will be 
+soon be released.  That includes the Mission Editor, 3D Art tools, the skin maker...all 
+that jazz.  Not the most exciting stuff in the world, but hey, it pays the bills (and I
+got plenty of those, believe you me).
+
+
+1.4.99
+Tanned, rested and ready (well, at least rested), ol' dBack is back on the case.  
+Tried to keep track of things on the message boards, but this was with my parents on 
+their *shudder* Macintosh.  I love Macs, but a Performa with a 28.8 just don't cut it.  
+Maybe I'll get 'em an iMac for next Christmas.
+
+
+Trust all had a safe and happy holidays.  Partied like it was 1999 on New Year's with 
+friends at a certain establishment that shall go nameless but involved nubile young women 
+in various states of undress.  Will not elaborate further (since I don't remember that 
+much about it anyway).
+
+
+First things first: As soon as SymLink gets his sorry butt back from Hawaii or wherever 
+he is, we'll have an OpenGL patch out, as well as fixing our latest little problems.  As 
+for me, I've got design issues to work on, new missions, new races, more writing, etc., 
+etc...
+
+
+Maybe a Diamond Sword piece.  That's the one tribe I haven't really touched on, so now 
+that I've got a little free time, I'll try and get something out on the enigmatic ones 
+for your reading enjoyment.
+
+
+Oh, and by the way...WHERE'S THE BEER?  Nobody's mailed us any beer yet!  I am greatly 
+disappointed.

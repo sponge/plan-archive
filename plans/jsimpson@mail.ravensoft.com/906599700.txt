@@ -1,0 +1,87 @@
+Welcome to Raven Software's Finger Service V1.5!
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 09/23/1998 22:02:38 (Central Standard Time)
+-------------------------------------------------------------------------------
+9/23/98
+
+Warning - mini rant about to occur. If you are just interested in the Heretic II stuff, scroll down a bit.
+
+Before I go on, I ought to point out that this has nothing to do with Raven, just some personal feelings
+that I need to get out of my system.
+
+So I was re-reading some of my older fingers, and reading some of the fingers out there, and reading some
+articles on the web about game engines and stuff like that, upcoming games and the like, and I was struck
+by the amount of absolute "aren't we great" comments out there. There are alot of people out there with
+.plan files that seem extremely impressed with themselves and what they are doing, and they really seem to
+feel the need to tell everyone. I don't know about you, but I've reached that point in my life in the games
+industry where I am tired of hearing people say "Oh, we are gonna knock the player out with our coolness", or
+"Oh, our AI is just soo cool...". Haven't we all heard that before ? And was it true ? More than 50% true
+even ? 
+Maybe it's just me, but it seems to me that this industry needs a heavy dose of humilty, with a large side
+order of ego pruning. With all this "we are greater than they are" stuff going on, its no wonder that large
+numbers of these trash mag web pages are springing up lambasting some of our industries more colourful 
+characters and companies. Sometimes, after reading an article full of some CEO boasting about how great his
+or her engine is, I can totally see where Bitch X comes from. I would imagine that some of this comes from
+our industry traditionally being so young. Lots of those talented 18 year olds out there may be gods gift
+to programming, but they often can't see beyond their own egos either. There's a line between "Hey, we just
+implemented specular fogged glasses smears" and "Wow.. you are gonna be soooo knocked out with what we just
+did !! We implemented moving clouds !! Its just SOOOOOOO coooool. I just know you can't wait" etc etc etc.
+Now I realise that its cool to be excited about what you are doing, and want to share that with the world. I
+also realise that often its a PR persons job to excite the buying public about an upcoming product. I suppose
+I would just like to see a little more honesty and perhaps a touch more restraint in the marketing first.
+Before you announce that the latest game will be "the next big thing in games', or "*the* Quake beater", or
+(and I've actually seen this one) "Better than sex" (!), sit down and play it. Over the internet, with kids
+and then go play the competition. Lets be a touch more balanced perhaps ?
+I guess the message would be best encapsulated in "settle down guys". Let the work speak for itself. After all
+you get the best message from your public when they vote with their hard earned cash. Congratulate yourselves
+afterwards.
+Not that I'm totally devoid of this either. I've read some of "Hey, we're cool" in my .plans too. I guess its
+a bit of the pot calling the kettle black here. After all, Heretic II rocks. :) 
+Enough Rant. 
+
+Heretic II stuff.
+Well Beta came and went. Not quite where we would like to be, but then we'd like to be done, so anything less
+than that means more work :) Its coming along. We did some heavy internet testing today, and isolated some
+client prediction problems that need addressing. Heretic II by its very nature makes client prediction hard,
+since its 3rd person, and you get to see what Corvus is doing in such great detail. If the prediction is wrong,
+it can sometimes be pretty jarring, at least right now. Added to that, the fact that Corvus will do different
+things in different situations from the same animation, and our precognition routines are being taxed to the hilt.
+Marcus Whitlock and Gil Gribb have done some sterling work on this, and there is more to come.
+John Scott and I have been all over the code, everywhere and anywhere fixing physics bugs, fixing other stuff, 
+making sound systems work, and generally cuddling the code and gently coaxing it to work right. In some cases,
+we've just threatened it alot, and sometimes that works too.
+Bob Love has been adding lots of grovvy world stuff so you can trigger, shoot, interface with, and anything else
+you can think of, with the environment to your heart content. (Was that a bit of "We are great" I detect there ?)
+Josh Weier and Mike Gummelt have been dealing with most of the AI issues, and implementing some nice body part
+routines. Don't you just love feeling bodies come apart when you shoot them with a nice powerful weapon ?
+And last but not least, our Leader Pat Lipo has been everywhere in the code, fixing everything that we break
+when we add all our exciting stuff, as well as implementing some particulaly interesting special effects. Now
+that WAS some self aggrandisment..:)
+We've been testing deathmatch alot, and its about 100% more stable than it was a month ago. Its an interesting
+experience playing deathmatch in 3rd person. Its not like you'd initially think it would be, the character
+obscuring everything in sight, you get accomstomed to it real fast. Still, you the player will make up his/her
+mind about that.
+We are having Internet Gaming Zone support in Heretic II, as well as GameSpy support too.
+Its confirmed that we are going to be adding custom skin support as a later patch, as reported before. That doesn't
+stop you making your own skins to replace those in the game (there will be 16 skins currently), just that everyone
+you play won't have them.
+We will be supporting Co-op play, but we are still undecided as to team play in deathmatch. It all depends on what
+happens in the next few weeks, and how easy the Co-op stuff goes in. If we don't get it in for release, then 
+dependant on consumer demand, it'll come in a patch too.
+Thanks to the guys at Creative for responding when I asked for some Riva Cards.. nice to know we are read by those
+with the power to send out free stuff :)
+
+This weekend is the annual Raven Paintball fire fight. Rick Johnson, the Heretic II team has your number. :)
+
+Track of the week - Belfast - Orbital. Josh Weier has been feeding me these CD's all week. Great coding music,
+as I've said before.
+Joke of the week - Hilary and Bill Clinton visit a fun fair. While her husband is speaking to the crowd, Hilary
+wanders off to the palm reading tent.
+She sits down, and the old lady on the other side of the table asks for some silver. After giving her some,
+Hilary gets the reading. The old lady takes her hand, and gasps.. she says "Oh my, I hope this won't come as a
+shock to you, but I see that your Husband is going to die very soon !"
+Hilary looks down at the table, her lips trembling, and then looks back up and asks "Will I be aquitted ?"

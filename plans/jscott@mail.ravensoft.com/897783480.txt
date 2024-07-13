@@ -1,0 +1,212 @@
+Welcome to Raven Software's Finger Service V1.4!
+
+Name: John Scott
+Email: jscott@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 06/13/1998 21:06:24 (Central Standard Time)
+-------------------------------------------------------------------------------
+Nick: Pagan
+Project: Heretic 2
+
+Disclaimer - The opinions expressed herein are that of Raven Software
+             (which will come as a big surprise to them)
+
+13/6/98
+
+No work today...it is saturday after all.
+
+I just took part in Gamecenters overrated editorial
+(http://www.gamecenter.com/Features/Exclusives/Overrated/)
+A most interesting read it was too, but I must disagree
+with their attitude towards some of the latest harware.
+As soon as we can presume that the game player has MMX
+or AGP, these features will make a huge difference to 
+games. Until that time, we cannot afford special coding,
+design and testing for minimal gain.
+
+MMX could speed up 32 bit software rendering by a factor
+of at least 2, and speed up sound mixing by a similar 
+amount. This is due to the extra instructions. We may
+do some basic coding for these particular examples in
+Heretic 2. 
+
+AGP will vastly increase the amount of texture memory
+available. Currently, we have to keep it to 2mb of
+textures per view area for voodoo for optimal performance.
+If we had, for example, 10Mb of textures in one view area,
+AGP cards would handle in fine, while most 3d cards would
+grind to a slide show. (before anyone emails me, this is
+an over simplified example).
+
+No matter how much scalability we put into a game, it 
+still has to run on our base machine, which is currently
+a P133 Non MMX with a gl card or a P166 Non MMX without
+a gl card (Note: these specs are what we are currently
+working towards and may change). 
+
+World Cup fever descends on the Brits at Raven ! The 
+rest of Raven doesn`t even know the world cup is on...
+
+Song for today - The Only Living Boy in New Cross by
+Carter USM.
+
+12/6/98
+
+Added in a glide version printout for those silly ppl
+not using 2.43 or more......
+
+Experimented with a few versions of the firewall, still
+not looking good enough. Fire, due to its nature, does
+not move. So making a moving fire wall is not quite as
+easy as it sounds. I`m using Josh`s new physics model to
+implement it too, and we`ve had several "discussions" over
+that today :) Overall, the system is vastly superior, much
+cleaner to code and less resource intensive. It`s much easier
+to debug too......
+
+The PowerVR seems to work with our game, which surprised me
+no end. The major problems are fog doesn`t seem to work and
+the 95 driver seems quite unstable. Maybe it`s because we`re
+abusing gl :)
+
+I have started playing the Hexen 2 Mission Pack tother day,
+and it`s top ! I hear you saying "Well a Raven employee is
+bound to say that, coz if he said it was shit he would get the
+sack". Partially true, if I thought it was shite, I would
+keep my mouth shut (fingers tied?). A whole load of playability
+problems have been sorted in the MP over the original H2 and 
+the game runs a whole lot smoother on my home system (p166MMX).
+I just really got into it, had that "gotta finish just one
+more level" feeling all thruout. I would recommend checking
+it out.
+
+Off to see the Truman show now, I`ve heard lots of good things
+about it.
+
+Song for today - Volcane(Mr Jealousy has returned) by Fields 
+of the Nephilim.
+
+10/6/98
+
+More scheduling.....and meetings :(
+
+Prototyped the morph spell - it works and is net friendly -
+looks a bag tho. Firewall tomorrow, rapidly followed by the
+mace balls...should be a lot of fun !
+
+Tidied up the texture uploading and choice of filtering.
+
+Improved qdata so as to remove the chance of holes
+appearing in textures (always a bad thing).
+
+ICQ RIP now that AOL has taken over :(
+
+9/6/98
+
+Got the real time gamma correction in now. It actually changes
+as you move the slider. No more of that vid_restart crap !
+We only have 2 texture formats now, which results in much
+cleaner code, much faster loading and much less chance of 
+things screwing up in that department. I also made it so it
+only does a vid_restart should the settings have changed.
+
+I`ll be coding some weapons very soon...so need to get my
+'pretty fx' cap on....any ideas greatly appreciated....
+I find it very difficult to come up with an original effect
+that looks top, doesn`t bog the network to a halt and doesn`t
+require a p2/400 to run !
+
+Eric asked me how to insult a Brit today...he thought "limey"
+was pretty offensive. Anyway, being called "french" is what
+I find most utterly insulting...be warned !! :)
+
+Album for today - Flags of Revolution by Love Like Blood
+
+4/6/98
+
+Rewrote the sprite management system and pulled a lot of code
+out into prepocessing. This significantly reduced the lag when
+first firing a weapon. On to the pics and env directories next
+week, although they won`t need pre mipmapping obviously.
+
+After this has been sorted, I`ll seriously improve the gamma
+correction code...and hopefully make it real time. Also, I`ll
+extra pre gamma down all the textures should you be using a
+Voodoo card, as they have a super bright output.
+
+I`ve been helping Jake shave ticks off the model renderers the
+past couple of days. We`ve knocked off about 20% to the id routines
+(this was possible as the id routines were designed for a paletted
+game, not a true colour game). It`s got to the point where both
+our brains hurt, and we`re not gaining much for an immense amount
+of effort. Time to move on.
+
+I read sCarys report on Heretic 2 (http://scary.vrgames.net).
+Thanx man !!! The only thing is, we are currently trying to 
+support software. We are, unfortunately, not a hardware only
+game :(
+
+Heretic2 seems to work quite well on a FireGL1000, although not
+perfectly. I`m talking to the guys to sort things out.
+
+The alpha Thriller 3d driver is very alpha, and I`ve had serious
+stability problems in 95, but it seems quite stable in NT. The
+colours look very rich though, and the performance is awesome !
+
+I also tried the Intel 740 card, but there are currently no 95
+gl drivers for it, so no support at the moment.
+
+Off to visit some friends in MI this weekend, should be good for
+a laugh ! As I worked Memorial day, I`m getting tomorrow off
+instead.
+
+29/5/98
+
+Still no news from the boys at E3 :( Just an email and an
+online article...to quote (http://www.avault.com/e3-1998/3dthurs.asp)
+
+"There was the expected parade Quake-engine titles, and they all 
+looked good, though I must confess the implementation that impressed
+me most was Heretic II, by Raven Software. Whatever concerns you
+have about this game being a slow-moving cliffhanger (an intentional
+wink to you Lara Croft fans) can be laid to rest. Without a doubt,
+this will be Raven's finest hour, with fast-paced action, spectacular
+spell effects, and detailed character animation. While our coverage
+of this game will expand in the near future, let me mention the one
+thing that impressed me the most aside from the keen, though familiar,
+3D technology: the player character animation. Your player is
+incredibly quick and agile, and capable of performing a host of
+back-breaking acrobatics. In fact, after watching the game for a few
+moments, I jokingly asked project administrator Dan Freed if there was
+anything the character was incapable of doing. Expect streamlined
+game design that keeps the action moving, the coolest puzzle design
+in a 3D game to date, and the Quake II engine used to its fullest
+graphical glory."
+
+Reported by: David Laprad 
+
+This cheers us all up no end :)
+
+Started work on another weapon today. What I`m probably going to
+do is make them all work well first, be really network friendly, 
+then make them look pretty at some later date. While developing
+the gameplay, who cares what they look like ?
+
+James got H3d glasses working with Heretic2 today, it was just
+a matter of getting the right combination of OS, Glide and
+3dfxgl...which is more difficult than you might think. However,
+they work EXTREMELY well ! I loved the effect they gave. I will
+be buying some very soon....
+
+Jake is still busy with software, incorporating all the optimizations
+from the 32bit surface cacher that did the other day into the 16bit
+cacher. He`ll be moving onto the renderers next week now...
+He`s doing an excellent job, but the framerate still isn`t going to
+be a patch on the hardware accelerated version. My advice is get a
+Voodoo if you want to see Heretic 2 in its full glory.
+
+We had a grill out for lunch today, brats, beer and volleyball.
+Josh W and I tried a little football (or soccer as you yanks
+call it), but after a couple of Berghoffs and brats, combined
+with 90F sunshine...it just wasn`t going to happen :)

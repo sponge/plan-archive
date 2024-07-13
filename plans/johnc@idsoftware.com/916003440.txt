@@ -1,0 +1,67 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake Arena
+Last Updated: 01/10/1999 15:48:12 (Central Standard Time)
+-------------------------------------------------------------------------------
+1/10/99
+-------
+
+Ok, many of you have probably heard that I spoke at the macworld
+keynote on tuesday.  Some information is probably going to get
+distorted in the spinning and retelling, so here is an info
+dump straight from me:
+
+Q3test, and later the full commercial Quake3: Arena,  will be simultaniously
+released on windows, mac, and linux platforms.
+
+I think Apple is doing a lot of things right.  A lot of what they are
+doing now is catch-up to wintel, but if they can keep it up for the next
+year, they may start making a really significant impact.
+
+I still can't give the mac an enthusiastic reccomendation for sophisticated
+users right now because of the operating system issues, but they are working
+towards correcting that with MacOS X.
+
+
+The scoop on the new G3 mac hardware:
+
+Basically, its a great system, but Apple has oversold its
+performance reletive to intel systems.  In terms of timedemo scores,
+the new G3 systems should be near the head of the pack, but there
+will be intel systems outperforming them to some degree.  The mac has
+not instantly become a "better" platform for games than wintel, it
+has just made a giant leap from the back of the pack to near the
+front.
+
+I wish Apple would stop quoting "Bytemarks".  I need to actually
+look at the contents of that benchmark and see how it can be so
+misleading.  It is pretty funny listening to mac evangelist types
+try to say that an iMac is faster than a pentium II-400.  Nope.
+Not even close.
+
+From all of my tests and experiments, the new mac systems are
+basically as fast as the latest pentium II systems for general
+cpu and memory performance.  This is plenty good, but it doesn't
+make the intel processors look like slugs.
+
+Sure, an in-cache, single precision, multiply-accumulate loop could
+run twice as fast as a pentium II of the same clock rate, but
+conversly, a double precision add loop would run twice as fast
+on the pentium II.
+
+Spec95 is a set of valid benchmarks in my opinion, and I doubt the
+PPC systems significantly (if at all) outperform the intel systems.
+
+
+The IO system gets mixed marks.  The 66 mhz video slot is a good step
+up from 33 mhz pci in previous products, but that's still half the
+bandwidth of AGP 2X, and it can't texture from main memory.  This
+will have a small effect on 3D gaming, but not enough to push it
+out of its class.
+
+The 64 bit pci slots are a good thing for network and storage cards,
+but the memory controller doesn't come close to getting peak
+utilization out of it.  

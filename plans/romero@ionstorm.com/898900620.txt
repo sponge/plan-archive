@@ -1,0 +1,219 @@
+
+*** Ion Storm's Finger Server
+
+User name: romero
+Plan modified: Fri Jun 26 18:30:32 1998
+
+
+
+
+Plan File
+
+
+
+
+
+Current project: Daikatana
+   June 26, 1998
+I can't BELIEVE that someone found out that Carmack and I made up!  What
+the hell, are there no more secrets left?  Has all this .plan file madness destroyed
+everyone's ability to keep information to themselves?!
+Well I never!  I just won't be paying him anymore special visits from
+now on!  ;P
+   June 23, 1998
+Happy Birthday Quake, even if I'm late by one day. :)
+Hoo boy, do I remember developing that title.  All I gotta say is
+"The War Room". 
+   June 19, 1998
+I'm gonna be having a massive Apple II Reunion Party here in August and there
+are still a few programmers I want to invite that have eluded my investigations.  If
+anyone out there has information on their whereabouts, phone numbers or email addresses,
+shoot 'em my way.  Thanks!
+
+David Schroeder - Dino Eggs, Crisis Mountain
+Tony or Benny (Aik Beng) Ngo - Drol, Bandits
+Paul Stephenson - Aztec, Swashbuckler
+Tony Suzuki - Alien Rain, Alien Typhoon, Star Blazer
+Larry Miller (Sirius) - Epoch, Hadron, Minotaur
+   June 16, 1998 : Part 2
+Here's the Shockwave screenshot I promised early this morning. :) 
+
+   June 16, 1998
+Carmack is totally right about moving as much as possible over to the client
+so as to reduce as much packet traffic as possible.  We're doing this right now in
+Daikatana by moving lots of animations over to the client so packet traffic is low.  
+For example, our Shockwave weapon (a steel ball that blasts out, hits a wall,
+then explodes with tremendous force in an ever-expanding sphere of death and destruction)
+has all the animation on the client side, even the expanding, rotating  rings of
+death and all the hit-checking is done on the server with no packets being sent out saying
+which frames need to be drawn.  With this BFG-style weapon, that's a good thing
+because there are about 8 massive objects being drawn all at once!
+<picture coming soon>
+   June 15, 1998
+Quake was released June 22nd, 1996.  I was going by the time it took to
+make the next game by the same team.  I've received some corrections on my times for
+development from some of the developers mentioned yesterday.  Dark Forces really took
+18 months.  Duke3D took slightly less time, while Unreal took much longer.  At
+least the estimates are very close, small guy crackpimp.
+
+
+   June 14, 1998
+Damn, I'm overrated.  I'm an overrated geek, not a God.  An
+overrated rock star AND geek AND not God.  Thanks for clearing that up, GameCenter!
+
+
+
+I don't remember telling everyone what the single-player gameplay was going to be like in
+Quake 2.  Too bad GameCenterLoaf didn't like Quake 2; I thought it was a pretty
+badass game.  And, hey, there's like hundreds of thousands of people playing it, too.
+  If too many people are playing your game, it's overrated.  Like me.
+
+
+
+And Daikatana's been under development for an entire 14 months now.  That's a
+looooooooooong time to people with a 6-month memory.  What's the going development
+cycle for a 3D shooter these days?  Let's break it down:
+
+
+
+
+Game
+Time in Months
+
+
+Quake
+18
+
+
+Quake 2
+18
+
+
+Duke 3D
+30
+
+
+Dark Forces
+30
+
+
+Jedi Knight
+30
+
+
+Shadow Warrior
+36
+
+
+Blood
+36
+
+
+Unreal
+36
+
+
+<Achoo!>  Am I dead yet?
+
+
+
+Rick Johnson is dead on correct.  :)
+
+
+
+
+   June 8, 1998
+An Apple II legend, Jim Nitchals, died last
+Friday night of a brain hemorrhage.  I was SO looking forward to finally meeting him
+at the massive Apple II party in August.  He will be well remembered. Follow the
+links:
+
+
+
+http://www.dadgum.com/glist/updates.html
+
+
+
+http://pw2.netcom.com/~nitchals/about.html
+
+
+
+http://www.wired.com/news/news/culture/story/12832.html
+
+
+
+http://www.ogr.com/dailynews/9806/10apple.html
+
+
+   May 5,, 1998
+And to think it was only 6 short years ago
+when Wolfenstein 3D was first unleashed upon the world...
+
+
+
+Happy Birthday Wolfy!
+
+
+   April 17, 1998
+Thanks Kevin. Yes, we all know how difficult
+it is to get a name past the trademark office. As for the choice of name and everything
+else that's Dominion, that's completely Todd Porter's game so you can all tell Todd how
+cool his latest game is by emailing him at todd@ionstorm.com. Check out the Dominion Demo
+on our site at www.ionstorm.com! As for what I am personally working on, the game is
+Daikatana. :)
+
+
+   April 16, 1998
+I've been agonizing about how to describe the
+intense feelings within my husk, but there's no nice way of expressing my opinion of the
+importance of other company's game titles.
+
+
+
+"Let he who is without sin cast the first stone." That's what I thought when I
+read both Scott and Kevin's .plans. Scott says Dominion's subtitle is bad then remembers
+his cornucopia of bad game titles and exposes a couple of them.
+
+
+
+Good thing Quake 2 wasn't named "Wor" like id originally planned. The main
+character could have been the Wizard of Wor (starring Sylvester Stallone). Created by the
+Wizards of id. Quake III is a good name -- I just can't wait to see where they put that
+third nail.
+
+
+
+Coffin Boppin'!!
+
+
+
+And all of this stemmed from an argument that had nothing to do with name quality, but
+rather series integrity giving in to marketing greed. 
+
+
+
+
+
+
+   March 26, 1998
+Heretic II. Uh, thanks guys.
+
+
+
+Heretic, Hexen and Hecatomb would have been the artistically "right" way to
+preserve the scope and story of the Trilogy of the Serpent Riders. After i left, Hecatomb
+became Hexen II and series integrity went out the window.
+
+
+
+<sigh>
+
+
+
+The sentence that was originally here was rewritten about 10 times because i'm trying to
+be Politically Correct in stating my feelings for how the whole series lost its focus and
+instead is just using its established brandname to sell copies.
+
+
+
+

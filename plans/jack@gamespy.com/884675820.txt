@@ -1,0 +1,210 @@
+User:   jack
+Read:   0
+Unread: 1
+Time:   Tue, 13 Jan 1998 01:16:34 -0800
+Plan:
+Disclaimer: What I say here does not represent the opinions of 3Dfx
+Interactive, GameSpy, Critical Mass Communications, or anyone else
+for that matter.
+
+Updated - 1/13/98 - 12:39am ---------------------------------------
+FUCK YOU, MICROSOFT VISUAL C++ 5.0!!!!!
+
+Want to know why I just did that?  Because I just lost about an
+hour's work on GameSpy.  Doing what?  Right clicking!  I fucking
+right clicked on a god damned part of my document, moved to
+something in the menu, and the fucking thing stopped responding to
+me!  Argh!  The worst part is, this is like the 3rd or 4th time
+this has happened to me.  Of course normally, I'll do a build
+every now and then to save everything, but I have been "coding
+blind" for the past couple days with GameSpy, simply because I
+know my code won't compile.  So I've made all these fucking great
+changes to the code, happily in a good state of flow when this
+happens.  All because this stupid program can't use stupid normal
+menus like every other stupid program on this fucking planet.  And
+yeah, I know I should save, but for something like this?!  Come on!
+
+Addendum: And fuck you Basty for making me send this in txt file
+format, dammit. :)
+
+Updated - 1/11/98 - 11:41pm ---------------------------------------
+
+A few things to update about.
+
+Q2 Stuff:
+Onethumb showed me a few days back that Brian's mouse wheel fixes
+made it into Q2 3.10!  W00000!  Here's exactly how to take full
+advantage of it with the inventory stuff he described:
+
+bind MOUSE3 "invuse"
+bind MWHEELDOWN "invprev"
+bind MWHEELUP "invnext"
+
+Then it just totally rules.  When you pick up an item, though, it
+automagically becomes selected in your inventory, which sorta
+threw me off a bit :) Now I find the only problem is deciphering
+the little symbols representing weapons in the status bar.  Oh well,
+maybe I'll just change the PCX's to just be "1" - "0".
+
+GameSpy Stuff:
+Worked *really* hard this weekend on fixing up GameSpy to be the
+way it should be.  I really haven't even gotten to the UI part yet,
+but that should be cake.  Right now, I'm reorganizing the way
+the servers interact with the server sources (server lists).
+Right now, we have all these oddball checks to see if things are
+QuakeWorld, or Quake, or Hexen2, or Q2.  It's really out of hand.
+It's not like it's anyones fault or anything, just that we really
+didn't see what QuakeSpy would have become.  For the individual
+servers, this is more or less done, as we have a CServer class
+that we make calls to, which get routed to the right server-type
+handling code by C++ for us.  But we still have these insane
+QuakeWorld interception calls.  Not only that, but adding stuff
+to the left is a complete bitch, and the code is just plain
+unwieldy for it.  So now, there will be two new base classes,
+CServerSourceType and CServerSource.  Each CServerSourceType is
+a game type, such as Quake, or QW.  It will contain CServerSources,
+which will be subclassed depending on the type.  Each server will
+have a list of CServerSources it belongs to, all guaranteed to
+have the same type.  The CServerSourceType will do all the
+bookkeeping I need, so for each game, I just subclass it (i.e.
+CQuakeServerSourceType ) and pop in whatever code is specific
+to that.  The servers will have no idea what type they are, just
+that they are servers, and they fall under some category.  It's
+good stuff, but it's a buttload of code to re-work in GameSpy.
+I've spent most of the weekend doing this, and plan on spending
+a lot of my weeknights this week doing it too, but in the end, it
+should lead to a less bug-prone UI and an easier life for me, Joe,
+and Tim.
+
+Toilet Paper Stuff:
+It seems Andrew 'Wireless' Gibbons, mine and ot's roommate, has
+been extolling the virtues of cheap one-ply toilet paper in his
+.plan.  He needs to be taught a lesson, otherwise more and more
+guests in our house will be having to wash their hands REAL good
+before leaving the restroom.  Please send your thoughts on the
+matter to:
+agibbons@h3dmedia.com
+You'll be glad you did.
+
+
+Updated - 1/6/98 - 11:59am ----------------------------------------
+
+http://www.fool.com/FoolPort/Trades/FoolPortTrade_tdfx980105.htm
+
+
+Updated - 1/5/98 - 6:59pm -----------------------------------------
+
+Well, that sure was a long ass vacation.  Went back to Georgia to
+see my folks, saw a bit of snow while I was there.  BTW, anyone
+needing a competent CS major in the Atlanta area, hire Zach
+Gaskins right now.  Email me if you need contact info for him.
+Anyway, back to the update :)  After all the Xmas stuff (where I
+got a cool South Park shirt and hat, btw), I went down to LA for
+New Years and DaKCon, which was pretty damned fun.  DM'd Quake 2
+till the wee hours of the night and a bunch of us took advantage
+of the cable modem hookup to get lots of pr0n.  In fact, it was
+all stored on SwanSong's machine.  So make fun of him and stuff.
+Actually, he's a kick ass deathmatcher.  I expected him to be a
+bit arrogant based on shit he's said, but he's really a great guy.
+Also, re-met the guy who did Veldrin1.bsp, and we made a small
+lil mod called Railgun Alley that we'll be releasing as soon as I
+can axe one bug in the 3.05 source.  Of course, I don't know it
+that well yet...  Oh well.  So that was vacation.
+
+Oh, and sorry the new Shadow Warrior patch isn't out yet.  Turns
+Out a few issues cropped up like right after I left.  Should be
+soon.
+
+BTW, kudos to John Cash for the status bar layout interface.
+At first, I thought it really sucked until Zoid pointed out to
+me how it's REALLY supposed to be used, then I figured out how
+flexible it actually is.  Kick ass!
+
+Also, wanted to thank Kyle Bousquet for sending me one of the
+coolest movies ever made - Transformers. :) He sent it awhile
+back and I forgot to thank him.  Whoops.
+
+Oh, wanna hear something odd, my mom has QuakeFinger linked.
+She found it all on her own and shit.  Weird.
+
+Re: Railgun Alley.  Onethumb thinks it sucks, he's really wrong.
+:)
+
+Also, on the GameSpy front, the 2.0 codebase will finally be nice
+and clean again.  Tim's doing kick ass networking stuff, while
+I'll be writing a few classes to really simplify the interfaces
+between the UI and the games.  I'll be diving back into THAT bad
+boy tonight, after a bit of reading...
+
+...  What will I be reading you ask?  Welp, a REALLY incredible
+book called "About Face" by Alan Cooper, who is the guy who came
+up with Visual Basic's UI.  He really has insight into how
+computers should work with people, the problems with engineers
+see differently from end users, and soooo many cool examples to
+back it up.  If there's one thing I've been aiming for in
+GameSpy, it's ease of use mixed with a slick interface.  This
+book will starting playing a HUGE role in GameSpy's interface,
+possibly for 2.0.  You'll be seeing less annoying stuff like
+dialog boxes and unnecessary error messages.  There's a few
+points about the document/application interface that I don't
+agree with, but it's an excellent read.
+
+http://www.clbooks.com/sqlnut/SP/search/gtsumt?source=&isbn=1568843224
+
+
+Updated - 12/22/97 - 12:32am --------------------------------------
+
+Whew!  Right before I visit ma and pa for Christmas, I get the
+cool ass options tree control in for GameSpy 2.0.  That means that
+while I'm eating turkey or ham or whatever mom decides to cook, Joe
+can begin putting that bad boy into player profiles and stuff! :)
+But really, it's brought the options down to 5 tabs for now and
+will be 4 once I get the "Proxy" tab under the networking section
+of the tree as soon as Tim finishes with it.  I may even be able
+to squeeze sounds down there, but not Chat, Filters, or Server
+Lists.  Now I get to work on a happy-fun UI overhaul.  Yippie
+shit. :-)
+Let's see, other stuff...  Saw the new Bond flick, twas great.  You
+Just can't get the kind of feelings you get in a Bond movie.  You
+know he can't die, you know the first thing he trys at the enemy's
+base will never work, you know the main enemy will catch his and
+leave him unattended during an easily escapable situation, you know
+that the forboding guy that's been 'just missing' fighting Bond will
+end up with a really long fight and the end of the movie, that he
+will always get the good girl, that Q will always get him new toys,
+et cetera.  Oh, and don't bring up "You Only Die Twice," I know he
+'died' in that, smartass.  My point is, they keep this series fresh.
+Michelle Yeow was incredible, Teri Hatcher, well, sucked.  And
+what's also cool are the new recurring characters.  Namely, the new
+M and Joe Don Baker (forgot the name in the movie).
+Also saw Titanic.  I pretty much agree with what Rick Johnson had
+to say about it.  I had honestly thought that this one would royally
+bite, excepting the beginning and the end.  However, the middle *was*
+filled with a love story, but a very strong one.  I'm usually not one
+to like a movie like this, but every part about it, from writing, to
+acting, to execution, was just utter perfection.  The scenes of the
+ship sinking were breathtaking.  I was looking REALLY hard for CGI,
+and the only time I could spot it was one of the people falling.
+That's it.  And I know that this movie was chock full of CGI too.
+Four stars without a doubt.  Plus, Leo di Caprio played a boy named
+'Jack,' so I'm gonna get some great wave files from this one :-)
+
+That's about it.  Have a Merry Christmas everyone.
+
+
+Updated - 12/18/97 - 3:16pm ---------------------------------------
+
+First things first, a new update to the miniport is available.
+I've written installers for both of them even though they're both
+the same.  Why?  Because there are WAY too many problems otherwise.
+
+GLQuake:
+http://asp.planetquake.com/dl/dl.asp?miniport/glqminiinst.exe
+
+Quake 2:
+http://asp.planetquake.com/dl/dl.asp?miniport/q2miniinst.exe
+
+This mainly fixes the window movement bug on the Rush, and the
+memory leak in Quake 2 when using vid_restart.
+
+Also, something

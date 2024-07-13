@@ -1,0 +1,75 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Fri Mar  5 03:16 (EST) on tty1
+No mail.
+Project:
+Unreal Tournament
+Plan:
+Brandon "GreenMarine" Reinhart
+Unreal Team Programmer
+Epic MegaGames, Inc.
+
+Wednesday, May 19, 1999
+
+-- Star Wars
+
+Saw Star Wars twice today.  Great film.  Incredible light saber duels.
+Jar Jar Binks should have gotten waxed though.
+
+-- E3
+
+I'm going to call E3 a success.  I've been thinking some time now
+about how it went and about my perceptions of the event.  I'm going
+to call it a success.
+
+I spent the majority of E3 at the GT Interactive space next to the
+Unreal Tournament machines giving demonstrations.  When I wasn't
+doing that, I was in the back room giving demonstrations to media
+types.  I got away a few times to check out other games (what kind
+of a developer would I be if I didn't take the time to watch and
+examine another companies game?  Not a very good one.)  On Saturday
+at 1:00 I gave an hour long demonstration at the 3dfx booth.
+
+The demonstration was great.  There were a ton of people there...I'm
+not a good judge of numbers, but I'd say easily over a hundred.  When
+I demonstrated the Redeemer, one of our new weapons, the entire
+audience applauded.  That made me proud.  It made the entire Epic team
+proud.  How can you call a game unoriginal when over a hundred people
+spontaneously applaud when you show off some new part of the game?
+I believe our Unreal Tournament demonstration had the highest attendance
+of any of the 3dfx demonstrations.
+
+We constantly had a large group around our UT machines.  At least as 
+many as the Quake3 machines.  That was cool.  Quite a few times I would 
+ask a person of their impressions of the game before I introduced myself.
+Everyone that played the game thought the game was a lot of fun.  A very
+large number of people told me that they thought the game had Q3 beat
+in spades.
+
+With the positive feedback came some useful constructive criticism.  
+Everyone should check out Evil Avatar's preview.  Its very well written.  
+We invited Evil and some other web news people over to the Epic HQ to 
+check out UT and get a lot of hands on time with the game.  Before that, 
+Evil was a major Unreal Tournament detractor...now he thinks the game 
+is a top notch title. His criticism can be used by the Epic team to 
+improve the game.
+
+I am very happy with the kind of gameplay we've attained in UT.  Things 
+like multikill combos and killing sprees add a lot to deathmatch...adding 
+more of a fightgame edge to the combat.  Gameplay moves from just killing 
+people to killing people in creative ways.  By introducing elements like 
+high air control and opponent momentum control (knocking your enemy around 
+with rocket launcher or ripper) you get more skillful kills.  From the 
+feedback I've gotten from people who have actually taken the time to play 
+with the game before they judge it, the gameplay is very solid.
+
+People are really digging the bots too.  When I was demonstrating how you
+can order bots to attack, defend, protect you, and guard locations people
+were wide eyed.  Single player capture the flag is a LOT different when
+you have nearly complete control over your team.  Learning the best way
+of managing your artificial teammates is a lot of fun, especially when it
+affects the outcome of the game.
+
+One of the most important parts of making team deathmatch variations 
+fun single player games is making the bots more than just target dummies.
+

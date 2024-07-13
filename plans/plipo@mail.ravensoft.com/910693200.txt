@@ -1,0 +1,68 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Pat Lipo
+Email: plipo@mail.ravensoft.com
+Description: Lead Programmer/Prog. Manager
+Project: Heretic II
+Nickname: Vertigon
+Last Updated: 11/10/1998 06:02:04 (Central Standard Time)
+-------------------------------------------------------------------------------
+11/10/98
+    It really scares me when I realize that the string cheese I just
+bought at the store has a later expiration date than the Pepsi I'm 
+drinking...
+    Just waiting for yet another build to push up to Activision QA before
+the Pacific coast wakes up and the Internet slows to a crawl... :-)  We're
+really, really close with Heretic II.  The game is looking fantastic.  
+We've had time to really tweak out the gameplay, and the weapons in
+particular.  We have to be careful with that one.  People were taken aback
+by the lethality of the weapons in HticII deathmatch, but we had to take
+care with handling that issue.  Other than making sure there are no 
+definitive "cheap" weapons, we found that the fast, high-intensity 
+conflict portrayed in the demo was by far the best way to play.  However,
+for those people who want a bit more of a lengthy fight, the damage can
+be scaled for higher survival.  Prepare for a fierce fiesta of fabulous
+fantasy fighting!
+    We've just got a few tiny issues to deal with before signing off on
+the game.  Jake and John are thrashing the hardware end of things, Josh and
+Mike are touching up monsters and the player, Bob's cleaning up all the 
+cinematics, Marcus is putting the final touches on coop-play and the camera,
+everyone's kicking ass.  The SOF team deserves special kudos, in particular
+Rick and Eric.  Both have been staying up all hours of the night with us to 
+help us ship this game.  They're not part of the core team, but they take 
+just as much pride in any Raven game as they do their own.  Very cool.
+    Anyway, it's just about dawn.  I'd better drive home before stoplights
+cease flashing yellow...
+----------------------------------------------------------------------------
+11/3/98
+    All right, all right, enough already!  I musta been crazy when
+I wrote that plan update giving an "example" of what it would be like
+to download custom models, because people innundated me with a proper
+description of how custom models would work.  Gimme a break!  I'd gotten
+about 12 hours of sleep in five days, I was nuts, smokin' dope, whatever! :-)
+    Yes, I know how custom models work (they can load between levels, etc,
+etc), but what I very poorly (VERY poorly) was trying to illustrate 
+was that our model is just plain too intricate and damn huge (1500 frames)
+to hope to require people to download on the fly, even between levels.  Not 
+too many people play on connections that scoff at 3MB downloads, even if 
+the data were compressed.
+    Also these extra models would take up lotsa memory.  We're taxing the 
+Quake model paradigm to its absolute extreme, folks.  SOF and future Raven
+products will likely be moving to a purely skelton-oriented approach.  The
+vertex-frame approach was better for software renderers than for pure
+GL games anyway.  
+    So model download might only work as a feature for the uber-elite.  
+So, I'll just get custom skins to y'all for now.  The custom model stuff is 
+a task for another day.  I'll see if that feature can be dealt with a little 
+later...
+    We're really, really close to shipping Heretic II!!!!  I can taste it!
+Oh, man, 12 months of crunch time and I'm ready for a little break.  The
+response from the net has been fantastic.  I see us not having much of
+a presence in the print media, but that is partially because our E3 presence
+was kinda muted.  The quick-turnaround internet audience makes a much
+better gauge...
+    I tell you, once we have a hyper-popular product, I'm going to have
+to commence referring to myself by my new pretentious net handle,
+CodeKing(tm)!  I mean it!  Really!!!
+    Hmmm...  You laugh at CodeKing(tm).  CodeKing(tm) has work to do.
+----------------------------------------------------------------------------

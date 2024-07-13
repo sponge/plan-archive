@@ -1,0 +1,177 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 3
+Last Updated: 04/07/1998 10:36:05 (Central Standard Time)
+-------------------------------------------------------------------------------
+
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+
+April 7, 1998
+-------------
+
+Other cars:
+
+- Acura NSX
+
+Nice looking, in a homogenous, boring kind of way.
+
+Slow, slow, and did I mention - slow?  Also overpriced.
+
+- Mercedes SL5/600
+
+Nice looking, well built, comfy.
+
+Slow, not very exotic, very expensive for what you get.
+
+I'm familiar with the Hennessey mods, but I won't get my car modified
+for at least another 9 months.
+
+April 5, 1998
+-------------
+
+Oh, I also read Po Bronson's "The First 20 Million is Always the Hardest" and
+I think it's pretty amusing, and vaguely sort of accurate.
+
+Zakk sent in another CTF "duh" kind of rule: if you and a teammate are running
+towards each other, STRAFE RIGHT!  The number of times I've been killed by
+running into my own teammate as we try and pass each other while I'm being
+chased is uncountable.
+
+April 4, 1998
+-------------
+
+I'm reading "Soul of a New Machine", it's been REAL good so far, very
+accurate, even if it's dated for its material (it's about a renegade group
+of engineers within Data General back in the '70s).  Non-fiction, highly
+recommended.
+
+If you're a writer, you REALLY need to pick up a copy of Strunk & White's
+"Elements of Style" and read it.  A lot.
+
+Next on my list of books to read are:
+
+"Accidental Empires" 
+that Joe Montana book on quarterbacking
+"Fountainhead" by Ayn Rand
+
+Anyone know why Dameyune Craig isn't being touted in the draft?  Is he
+missing something fundamental?  He wasn't even invited to the combine.  I think
+he may be a steal in the later rounds.
+
+Accelerating a Viper in 1st while turning is a Bad Idea.  No damage, but
+that was my first real scare in that car.
+
+Viper Rule #4: If you have to punch it to merge with traffic, just wait.
+
+I'm a CTF freak, as anyone that plays on satan:27913 would know.  Some 
+comments:
+
+CTF STRATEGY
+
+A CTF Strategy Guide should be required reading before you play.  I've seen
+so many people just treat the game as a free-for-all w/ grapple instead of
+an actual team game.  Common mistakes include:
+
+- grabbing health and armor in front of your flag carrier
+- not escorting your flag carrier
+- not clearing enemies out of your base while your flag carrier is trying not
+  to get killed
+- leaving the base undefended
+- getting engaged in pointless 1-v-1 battles -- killing the enemy doesn't
+help that much unless you're denying them a tech item or unless you're clearing
+out an area.
+- if you're lagged, do NOT BECOME THE FLAG CARRIER!
+
+CAMPING IS COOL
+
+FOV 30 + railgun + sensitivity 1.0 = angel of death.  Do NOT get in a railgun
+match with a 0-ping guy with resistance + armor. :-) Railgun + double damage
+equals instant death.
+
+Snipers work in pairs, a spotter/close-in person to defend the sniper while
+the sniper is doing his/her thing.  The Stronghold is bad that way -- you can
+get in the sniper zone while someone walks up behind you and puts a blaster to
+your head.  You need sniper teams on that level.  But one sniper team can 
+easily kill one person every 15 seconds and keep that area clear.
+
+TECHS
+
+The Autodoc is a little too powerful, should probably not refresh the armor I
+think.
+
+The Shield isn't powerful enough.
+
+BFG SUCKS FOR CTF
+
+That's just my opinion, but it really isn't fun when some no-talent just hops
+in the water, grabs a BFG + cells, then clears out the base in three shots.
+
+SPECTATORS ON SATAN SUCK
+
+There is a HUGE line of people trying to get on Satan at any given time, so if
+you're spectating you're preventing someone else from playing.  When I'm on I'm
+pretty insistent that spectator play or leave.
+
+PEOPLE THAT QUIT PLAYING BUT STAY CONNECTED SUCK
+
+Even MORE annoying are people that play the game, then have to go to the
+bathroom or get a drink or answer the phone and don't disconnect.  They take
+up a valuable slot just sitting there, but since the line is so long to get
+on Satan people don't want to disconnect because they might not get on 
+again.  That sucks.
+
+If I'm playing and someone is just standing on a spawn spot and doesn't respond
+to a hail, I kick them.
+
+April 3, 1998
+-------------
+
+Someone else asked "Why not the M3?"
+
+Pros:
+
+- pretty fast
+- "sleeper" appeal
+- not very expensive (relatively speaking)
+- seats 4 comfortably
+
+Cons:
+
+- 15% of id employees already have a black M3
+- Cash's M3 is having a supercharger installed
+- not exotic enough
+
+I probably knew I was getting a Viper a long time ago when Carmack said to
+me many months ago:  "You should get a Viper, it suits your personality."
+ 
+People have pointed out (with varying degrees of politeness) that if I truly
+wanted to comment about upcomingn products based solely on available 
+information that I would mention the PVR NG (or whatever it's called).  Since
+I don't, this shows my "obvious" bias against PowerVR.
+
+Simply put, the NDA we have signed with PowerVR has specifically forbidden us
+to talk about ANYTHING to do with their upcoming hardware and development
+kits without written permission first.  I ain't writing for permission to 
+say shit, so instead I'm not saying anything.
+
+April 2, 1998 (part 3)
+-------------
+
+One thing I neglected to mention earlier was that I was really happy with
+my scores because of other factors:
+
+- I hadn't driven a stick shift in almost 10 years
+- I picked up the car on Monday
+- the drag strip was the first time I've EVER just revved a car and popped
+the clutch
+
+In other words, I'm not the most experienced driver in the wor

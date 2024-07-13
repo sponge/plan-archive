@@ -1,0 +1,12 @@
+Account Name:  joes
+Email address: joes@finger.3drealms.com
+----------
+3:45 PM 12/12/2001
+
+Is anyone familiar with the program Favorg?  It's a program where you can update the icons in your Windows favorites, as well as correct them if they've moved/forwarded/etc..
+
+Anyway, since I've gone to Windows XP, I can't get this program to work.  It can find my favorites OK (in their new XP location), but it doesn't "do" anything when I tell it to start updating my favorites.
+
+Anyone run into this?  If so, how did you fix it?   Or, is there an alternate program available to do this?
+	
+    

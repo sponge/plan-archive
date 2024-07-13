@@ -1,0 +1,40 @@
+Account Name:  George Broussard
+Email address: georgeb@3drealms.com
+----------
+George Broussard
+President, 3D Realms
+Project Leader: Duke Nukem Forever
+Executive Producer: Prey
+
+[Go Vote]
+
+GameSpot UK has a poll up.  The contest is between Duke Nukem Forever and 
+Team Fortress 2.  Go vote for the Duke ;)
+
+http://gamespot.co.uk/pc.gamespot/features/3dweek_uk/election.html
+
+[DNF Stuff]
+
+Well we finally almost have the motion capture room setup.  The ceiling 
+has been yanked (so we can jump up and no hit our heads) and the stage 
+will be installed tomorrow.  Then we just setup the equipment (We opted 
+for the MotionStar Wireless system from Ascension), calibrate it and start 
+capturing motions for the game.  The 3 animators (Chris, Allen and David) 
+are in Canada now getting training on the mo-cap cleanup software we're 
+using (Kaydara FilmBox).  
+
+Chris Hargrove already has the full skeletal system in the game and it 
+all works great.  A character can be doing his animations and you can 
+use the bones in the skeleton to override various animations like: Have 
+enemies heads track Duke's position, shoot them in the shoulder and they 
+can recoil, independent things like ponytails or tails, while doing another 
+animations.  
+
+We've spent a good deal of time re-working Unreal's character system, and 
+it's time for it to all start paying off.  Once you have skeletal control and 
+motion capture data, putting animations in the game becomes trivial (the 
+cleanup is very minor with the right software), and capturing complex motions 
+like strippers becomes easy ;)
+
+Add to this, a fully dynamic real-time LOD system for every mesh in the 
+game, and you have a character system that we are very, very happy with.

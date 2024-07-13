@@ -1,0 +1,187 @@
+
+*** Monolith Production's Finger Server
+
+User name: jeremy
+Plan modified: Mon Nov 23 12:28:20 1998
+
+11/23/1998
+----
+First off, a big thanks to all those who've sent in e-mail
+supporting the Linux port. :)  The server port is underway.
+I'm currently working with egcs instead of g++, and I am
+also trying to decide if I want the server to run background
+and lack a control panel, or use X11 and run with a panel
+similar to the Windows one.  I'm thinking of creating two
+binaries, one that acts as a daemon, and one as an X11 app.
+
+Secondly, and the more important piece of news...
+
+The Shogo source code and editing tools will be released
+on Wednesday, November 25th. :)  Cool, huh?  Marketing
+swore me to secrecy on what the contents are, other than
+that it's everything we promised to include AND a couple
+extras we hadn't promised before.
+
+So, two days until the release!  Keep your eye on my .plan
+file, and on Planetshogo! :)
+
+--Loki
+------------------
+11/16/1998
+----
+There seems to have been some confusion about the Linux
+port, so let me clarify. :)
+
+The Linux port is not something that Monolith is
+'officially' supporting.  Before you freak out, what that
+means is that once it's done, it's not something that our
+tech support e-mail or phone folks would be able to help
+with.  Besides, be fair, most of the folks who'd run it on
+Linux are probably better at troubleshooting Linux than
+most phone tech support teams!
+
+BUT Monolith also recognizes the importance of Linux to the 
+multiplayer gaming community (they should, after almost two 
+years with a Linux fanatic on the staff... [grin]).  The 
+port would be primarily user-community supported, though I 
+would also handle tech support for it.  (Similar to Quake 
+2's Linux ports, which are not 'officially' supported by 
+the publisher that I'm aware of.)  We also think that our 
+licensees would appreciate the ability - if they so choose 
+- to port their games to Linux and have the support of the 
+user community there.  Of course, instead of making them 
+port the engine, it's a good idea for us to do it... just 
+plain good developer relations.  :)
+
+Basically, what I have gotten the green light to do is to 
+organize a more in-depth look at the best way to port the 
+client, and gotten official recognition for the server port 
+project I have wanted to do for a while (and had already 
+started as a spare-time thing).
+
+Server is a higher priority than client because it's almost 
+a no-brainer to port.  The networking code (to a minor 
+extent) and some of the memory handling code needs to be 
+rewritten, but Mike has written the engine very portable 
+and so it's something that can be tackled easily.  The 
+client will take more effort to port, and is therefore not 
+a solo task...especially since I've got other things 
+besides doing a Linux client port full-time to worry 
+about!  (Like handling developer relations, being the point-
+of-contact for mod authors...)
+
+As I said, the green light has been given to evaluate the 
+best way to do a Linux client port (user community support, 
+outside contractor, etc.)... but the server port can be 
+done right now.
+
+This means that we'll be concentrating on the server and 
+getting it done before we tackle the client.  That's the 
+part of the announcement that many people seem to be 
+unclear on, and I apologize if I was a bit unclear in my 
+earlier .plan update. :)
+
+Anyway, hope that clarifies. :)  If people have any 
+specific questions, feel free to e-mail me.
+
+As a side note... keep your eyes peeled for some really
+exciting Shogo mod-related announcements from several
+groups soon!  (Geez, I'm starting to sound like Jason,
+hinting at upcoming events...)
+
+In other news, the shogo-mod mailing list is really
+seeing some traffic; looks like people are pretty excited
+about doing mods for this game. :)
+
+Anyway, back to work...
+
+--Loki
+------------------
+11/13/1998 - Part 2
+----
+And my SECOND big news post for the day...
+
+I finally got the ok to go ahead with putting together
+a Linux version of Lithtech and the LT games, beginning
+first with creating a server.  Sometime in the near 
+future, I'll be trying to put together a team to handle
+the Linux port - stay tuned for more info!  I'm also open
+to porting to Solaris and other UNIX boxen; the port 
+will be as clean as possible so as to work on as 
+many architectures as possible.  :)
+
+I wonder if I can come up with any more cool news for
+this evening... :)
+
+--Loki
+------------------
+11/13/1998
+----
+Well, been a while since an update, and even longer since
+a REAL update. :)  So here's a lot of news for ya!
+
+First off, the mundane.  I'm back off the Blood 2 team
+and back where I belong; the Lithtech team.  I'm once
+again the point-of-contact for all the outside developers
+and licensees.  So if you're confused about who to contact
+for technical issues, it's me again. :)  (Then again, most
+people either just e-mailed lithtech@lith.com or kept
+mailing me even when I wasn't the point-of-contact...)
+
+Secondly... the more exciting!
+
+I'm now the point of contact for people wanting to do mods
+for the Lithtech games (Blood 2 and Shogo).  Of course,
+the source code to neither has been released yet, but
+Shogo's source and tools are impending pretty soon!  If 
+you'd spoken to me before about doing a large mod for Shogo
+or Blood 2, now might be a good time to re-establish 
+contact. :)
+
+And as a little 'starter' for this, I've created two
+mailing lists for Lithtech game mod authors!  One is for
+Shogo mods, the other for Blood 2 mods.
+
+To subscribe to either list, send e-mail to:
+listar@lists.lith.com
+
+With 'subscribe ' as the subject (minus the
+quotes, of course) where  is either shogo-mod
+(for the Shogo mod list) or b2-mod (for the Blood 2 mod
+list).  If you have problems subscribing or generally need
+help with the mailing list software, contact me at either
+my normal work address (jeremy@lith.com)
+or my mailing list address (loki@lithtech.com).
+
+Questions about anything in this .plan file?  About LT
+mod authoring?  Contact me! :)
+
+--Loki
+------------------
+Old archives are at:
+
+http://www.users.lith.com/~jeremy/plans/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

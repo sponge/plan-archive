@@ -1,0 +1,129 @@
+
+*** Ion Storm's Finger Server
+
+User name: noel
+Plan modified: Thu Mar 23 11:25:25 2000
+
+
+
+
+
+
+
+NOEL
+
+
+
+
+NOEL'S
+      .PLAN UPDATE
+
+
+Thursday
+      March 23rd 2000
+
+
+Hahaha,
+
+      I just was reported a very funny bug.  It appears that if you stand
+      right next to the exact location of a specific monster and start using a
+      'specific' type of weapon which does an insane amount of damage, the
+      monster will die within the first 10 milliseconds of its existance. 
+      A problem?  Well... in the case of the person who might have this
+      weapon at this point of the game and who already knows what and where
+      things are going to happen...this could be a problem because these
+      monsters in particular need to 'initialize' themselves before they are
+      killed so other things can be triggered.   So, I am fixing this
+      minor bug today along with one other very minor bugs. 
+The good news?  Well, those are the two bugs I
+      have left to do.  I also know that Shawn has kicked through a good %
+      of his bugs last night.  Anyway, I figured, for those of you waiting
+      for Daikatana feverishly, I would let you  know the severity level of
+      most of the bugs we are dealing with (obviously the one described above is
+      kind of severe if the moon and sun are aligned just so... but they are not
+      like you start the game and it takes a crap to your desktop level bugs).
+The bad news?  Uh... I can't find a good
+      airline to book a flight to Thailand...speaking of Thailand...has anyone
+      been to Phuket Thailand?  *sigh*
+ Back to the grind and I will be updating my
+      .plan sometime tomorrow afternoon.... :)
+L8TrZ,
+N03L
+
+
+
+
+
+Monday March
+      20th 2000
+
+
+We are not yet gold...
+      some people have jumped the gun.  We are in the process of finalizing
+      a release candidate.  This means test the crap out of the game until
+      your eyes fall out and your pants are sticking to your backside.  So,
+      to anyone mislead by various sites saying that DK is gold... *sigh*... not
+      quite yet... but it is closer than it has ever been before.  If all
+      goes well then it can be considered... 'Gold'.  So far there have
+      been very few reports on major bugs...like very few meaning there are a
+      small quantity... a handful... nothing to worry about.  
+On another note... HAHA!  I had a
+      weekend!  Wooohooo!  Like I went and saw a movie and like slept
+      for longer than 7 hours and I even got a chance to actually wash clothes
+      AND fold them (instead of just using the dryer as my chest of
+      drawers).  On top of this I have had a chance to play UT... I must
+      say... *claps hands*... good good job.  I like... very much!
+I just finished tweaking some of the ambient voices
+      for the sidekicks and also some other sounds.  All tweaks no
+      additions means no extra bugs.
+L8TrZ,
+N03L
+
+
+
+
+
+Friday
+      March 17th 2000
+
+
+*sigh*
+Been a very long 7 months!  Things have become
+      quite different since I first started on this project.  During the
+      process of this project I have taken off around 1 week, and most of that
+      time during the 'vacation' I was sick.  However, heh, this weekend I
+      am going home to have a nice long 2 day weekend... 2 WHOLE days!!!!! 
+      *hint* *hint*
+So, anyway, the AI has shaped up to be fairly
+      intelligent without being too much of a burden on the CPU as well as the
+      player.  There are a million little tiny details that I could get
+      into regarding all of the time and energy that has gone into a good
+      portion of the AI system, but I think I might leave most of that for a
+      later date.  
+During the project, I have been documenting the
+      progress of the AI and world entities.  If given permission, I might
+      even post that document somewhere for people to take a gander at so they
+      can see the progress of at least one aspect of making a game.  After
+      reading the 55 pages of documentation people will start to understand how
+      MASSIVE Daikatana really is and how much work has gone into this mammoth
+      game!  If it is 'ok' to post this somewhere, then I will probably
+      hold off until people have had a chance to play it so they can then relate
+      to the whole process.
+As far as when the game will be done, well I am
+      taking the weekend off and breaking the 7 day a week schedule, thus we
+      must be VERY close to completion!!!!  
+My bones are tired... fingers are bleeding... and I
+      am happy as a pig in SH!t!!!!
+So, come Monday I will probably post again to start
+      an update on the progress of the game and you can count on the purtty
+      little britches around your waste that I am going to post when the game is
+      'officially' gold!
+L8TrZ,
+N03L
+
+
+
+
+
+
+

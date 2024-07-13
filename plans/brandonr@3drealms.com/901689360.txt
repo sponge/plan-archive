@@ -1,0 +1,64 @@
+Login name: arkiva    			In real life: REINHART
+Directory: /homec/arkiva            	Shell: /usr/bin/ksh
+Last login Wed Jul 29 00:09 on ttype from dv052s53.lawrenc
+Project: Getting everything in FF7.
+Plan:
+Brandon "GreenMarine" Reinhart
+greenmarine@planetunreal.com
+Contract Programmer, Epic MegaGames
+Contract Programmer, Creative Carnage
+Lead Programmer, Lead Designer, Skaarj Corps
+
+Tuesday, July 28, 1998
+----------------------
+
+Just wanted to quickly say that Sin is a lot of fun.
+I like the "cops going after terrorists" feel of the
+single player.  I feel like I'm in an action movie
+when I play it.  I can't wait for the full release.
+
+Also, check out "Saving Private Ryan" if you haven't
+yet.  Its the best war movie I've ever seen (and
+probably the most violent movie I've ever seen).
+Watching the action scenes got me thinking.  I would
+really like to make/play a FPS that puts like kind of
+stress on the player (well, you know what I mean.
+I don't want my players to get shell shock from playing the
+game, but I wouldn't mind if they SHOOK while playing it.)
+The only games I have ever trembled while playing
+were Doom and System Shock.  Obviously that's hard
+to obtain with an online experience, but its certainly
+possible for the single player.  Sin seems to start
+to get there.  Some situations in Sin reward the player
+for using intelligent tactics, as opposed to gun-ho
+assault.  
+
+One of the things in "Saving Private Ryan" that adds
+to the tension are the sound effects.  Real time
+doppler on audio effects and texture based hit sounds
+will hopefully be something that is eventually included
+in the evolution of FPS games.  At the beginning of the
+movie, you see one soldier freeing himself of his
+harness underwater on D-Day.  Around him is near silence,
+until his head breaches the surface and the sounds
+of the war strike you fully in the face.  The sounds of
+rounds striking metal and flesh is clear and terrifying.
+After all, isn't a sniper a more frightening opponent
+when you can HEAR his bullets striking near you, but
+you can't see him?
+
+The ambient radio effects in Quake2 and the ambient cop
+/terrorist chatter in Sin start to move in this direction.  (Hell,
+nearly every FPS game has ambient sound to increase
+immersion.)  However both are pretty repetitive.  Perhaps
+a system by which various messages/radio static/bullet
+sounds/explosions and so forth are all randomly generated
+in different combinations and with different levels of
+proximity to the player?  Adding in multiple scripted
+sequences of friend versus enemy (in which the combat audio
+would blend with ambience) would leave the player wondering
+what he is going to run into around the next corner.
+(Is the .50 caliber machine gun really there, or just
+an ambient backdrop like last time?  Surpise surprise
+my little Allied soldierboy.) 
+

@@ -1,0 +1,58 @@
+Login: shade          			Name: James "Shade" Wilson
+Directory: /home/shade              	Shell: /bin/bash
+Never logged in.
+New mail received Mon Aug 31 03:05 1998 (PDT)
+     Unread since Wed Jul  2 16:12 1997 (PDT)
+Plan:
+10/20/98 (part two)
+
+------------
+
+Jay Wilson (Shade)
+shade@lith.com
+Position:  Blood 2 Project Lead / Lead Game Designer
+
+
+Ok, Scorpio let the cat out of the bag so I'll go ahead and announce it.  We are working on a Blood 2 demo.  We had originally not planned on working on a demo until the game was finished, but Goble offered his tears, sweat, and 'blood' (pun intended), and given the choice we'll always take offering something sooner rather than later. :)
+
+The current plan is to put it out sometime next week, probably early to mid next week, but I'm not going to speculate on the exact day, so don't ask.  I'll try and keep everyone updated on the status every couple of days through this plan.
+
+The demo will include 2 single player levels, about a half dozen creatures, around 8 weapons, Caleb as the playable character, and a few other surprises.  It will feature most of our gameplay features, like guns akimbo, hit location, and limb loss.  We're still speculating on what the creatures and weapons will be, so again, don't ask. :)  It will be a good mix, though.
+
+The demo will not include multiplayer or save/load.  This is to cut down on the demo size and testing (so we can get it to you sooner).  We will most likely release a multiplayer demo after the game is completed.
+
+The demo's minimum requirements will be similar to the game's requirements, a P166 with 32 megs of ram.  A D3D compatible accelerator is highly recommended.  The demo will most likely run a little slower than the final game, only because of the lack of last minute optimizations that the final game will receive.  The demo size is un-determined at this point, but you can count on it being at least as big as the Shogo demo (40 megs), and possibly bigger.
+
+Finally, let me assure everyone that this demo will not affect Blood 2's release.  The core team is not working on it, and won't be affected by its production.  We're using levels, creatures, and weapons that are pretty much complete, and we've been feature complete for several weeks.
+
+Hope that answers all your questions.  We're in serious crunch mode right now, so I'd like to ask everyone to keep questions about the demo at a minimum.  In other words, don't send me e-mails asking about things I've already said I won't comment on, or about small details (will you be putting the med-kit in the demo?!?). :)  If you have any questions please direct them towards the Blood forum, where I will be keeping my ever-watchful eye. :)
+
+Gettin' close! :)
+
+
+
+
+
+
+
+
+10/20/98
+
+------------
+
+Ok, haven't updated this thing in awhile, now seems as good a time as any.
+
+Blood 2 is officially in Beta testing.  Actually it's been in testing for awhile, but as of last Wednesday we locked the code and are now concentrating on bug fixes, game balancing, and optimizations.  Gold is not too far off!  You'll definitely be playing B2 well before Thanksgiving. :)
+
+The levels are all in place.  Bill, Ben, and myself are working on tweaking and adding details, and really crunching to get all the scipted cut scenes in.  The levels are looking really good, with a broad variety of environments, and good atmosphere.  I actually creeped myself out in one of my levels. :)
+
+The creatures are looking awesome!  The AI is really kicking butt.  The Fanatics pick up power-ups and roll away from gun-fire.  The Shikari hunt you down, follow you most anywhere, and leap around and over you like mad.  And wait until you see the bosses.  Oh my. :)
+
+Many of the creatures need more health, because the weapons are just so damn powerful!  Other than a few minor tweaks and a lot of balancing the weapons are done.  Fire is in, leaving charred corpses in its wake, and wait until you see the re-done Voodoo Doll!
+
+Still plugging away on the interface, but getting close to done.  The new interface graphics are really looking good!
+
+We integrated all the character voices, so the Chosen are ridiculing everything that dares to look sideways at them.  Scorpio (Brian Goble) put in an awesome system that sets up all the character sounds as different types of directories, like kills, death, pain, suicide, etc.  We just fill the directories with sounds and the player plays them.  I'm sure you mod authors can dream up the possibilities.  You'll also be able to create a directly called "taunt", put as many sounds in it as you want and push the "taunt" key to automatically select play one of them. :)
+
+So it is coming together.  It's starting to go from fun to very fun.  Most of the levels are almost completely finished, with music, ambient sounds, and all the bells and whistles. :)  I'm really proud of how Blood 2 has come together.  Well, I've talked enough, back to the levels so we can get this puppy in your hands as soon as possible.
+

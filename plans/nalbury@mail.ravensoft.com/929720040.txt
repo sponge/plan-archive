@@ -1,0 +1,45 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Nathan Albury
+Email: nalbury@mail.ravensoft.com
+Description: Programmer
+Project: SoF
+Last Updated: 06/18/1999 12:02:30 (Central Standard Time)
+-------------------------------------------------------------------------------
+6-18-99
+
+Soldier is going very well - my new effects system is so cool I get a special
+feeling every time I write a line of code using it, and our ai is actually
+doing some things that surprise me, even though it's using code I wrote ;)
+Pretty cool.  But that's not why I'm updating my finger.
+
+Instead, I'm just going to use my tiny little soapbox here to list some
+hardware I'd like to see, just because I can.  So there.
+
+1)  I really need some sort of treadmill that works with Everquest somehow.
+So if, for example, my level 10 Bard needed to travel to Freeport from Kelethin
+to get his new bard song for the level (grr...), I would get a very nice little
+workout running through Butcherblock.  It'd be great!  The two worst things
+about going to the gym for me are the inconvience of going there and the
+boredom of having nothing for my mind to concentrate on while I use the
+machines (well, and the infamous fat old naked men who like to chat in the
+buff, but that's another subject)  If I had this fabled treadmill, it would
+be convenient, I'd have something to do while I was using it, and it's unlikely
+that any naked men would show up.  I'm serious!  This would be great!  Well,
+until I got tired and my party left me because I was too slow, anyway...
+
+2 and 3)  These two kind of go together.  I'd really like some sort of audio
+card deal for my system that could take spoken word from me in a microphone
+and turn it into a text string with a bunch of imbedded information about
+inflections, stresses, and what not - basically a nice way to encode what I've
+said into it's basic communicative information (and be nice and really small)...
+THEN I'd need another card (and everyone else would need this too) that could
+take this string of text and regurgitate it into voice again, using all the
+embedded bits to avoid (hopefully) that common monotone flat computer voice
+that shows up in stuff.  BUT here's the best part - there should be like 1000
+different preset voice styles (or something like that) that I can pick from,
+sort of like a skin for Quake, so that when my voice gets rebuilt, it comes
+back as some gruff marine, or a Zerg Commander, or, just for example, a Wood
+Elf Bard.  That'd be nifty.
+
+Some one needs to hurry up and get this stuff made for me ;)

@@ -1,0 +1,24 @@
+Login name: arkiva    			In real life: REINHART
+Directory: /homec/arkiva            	Shell: /usr/bin/ksh
+Last login Mon Aug 17 12:52 on ttysa from port15.max1.tope
+Project: Getting everything in FF7.
+Plan:
+Brandon Reinhart
+Epic MegaGames, Contract Programmer
+
+Monday, August 17, 1998
+
+* Sent latest IpDrv and IpServer code to Tim
+* Sent new ServerBeacon and ClientBeaconReceiver to Tim
+  (Now, instead of pinging the broadcast every 0.5 seconds, ServerBeacon
+   broadcasts once when created, then waits for ClientBeaconReceiver
+   to say "Hey, there is a new client looking for network games."
+   When it hears this, it responds with game information.)
+
+On the CD Rack for today:
+Delerium, "Karma"
+Laibach, "NATO"
+Front Line Assembly, "Plasticity"
+Shonen Knife, "Happy Hour"
+Collapsed System, "Berlin 2007"
+

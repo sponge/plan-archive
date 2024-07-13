@@ -1,0 +1,46 @@
+Username: markus                    In real life: Markus Maki           
+
+
+Plan:
+-------------------------------------------------------------------
+7 July 1998
+
+Final Reality's "follower", 3DMark, has then now been officially
+released. If someone's interested, the press release is at
+http://www.futuremarkcorp.com.
+
+It's gonna be cool.
+
+Futuremark could also use a good full-time producer / graphics
+"lead" with a vision what looks cool. Because I don't have enough
+time to give. Or alternatively Remedy could use an Operations 
+Manager so I could focus on producing... You can also check out
+the other jobs from Futuremark's site. But you need to be GOOD :)
+
+We're thinking of using MP3 file format in 3DMark.
+
+If anyone knows a good, free (cheap?) & lighting fast MP3 player 
+lib / source that is or can be ported easily to Win32 platform 
+(Visual C++ 5.0), is possibly a DLL or lib, e-mail markus@remedy.fi!
+
+More specifically we need:
+- no actual "player" interface, no sound card interface etc....
+- just something that would decode MP3.
+- it would need to be able to seek to locations in the middle. 
+- no encoder
+- Uses max. 4% of CPU time on a P2-266 while playing a 128kbit stream.
+- Good quality, preferably adjustable (->if more speed is needed).
+
+What we can offer -- that's largely negotiable. Name in the credits and a 
+*large* audience at least. All offers answered :) - so e-mail me!
+
+
+Cheers,
+
+Markus
+
+(old plan stuff cleared - check finger.planetquake.com for old stuff)
+--------------------------------------------------------------------------
+DISCLAIMER: ALL OF THE COMMENTS HERE ARE MY OWN OPINIONS AND MY OPINIONS 
+ALONE.  
+

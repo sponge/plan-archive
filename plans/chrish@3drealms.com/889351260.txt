@@ -1,0 +1,46 @@
+Account Name:  Chris Hargrove
+Email address: chrish@3drealms.com
+----------
+Name: Chris "Kiwidog" Hargrove
+Position: Code Boy
+Project: Duke Nukem Forever
+Email: chrish@3drealms.com
+
+3/7/98
+------
+Oh yes, I almost forgot to mention...
+
+I'll be speaking at the IGDN conference in Austin, TX this Friday.  I don't know how big the conference will end up being, but it looks like a lot of fun.  I'm doing my session as a programming lecture/workshop type thing aimed at programmers with little experience in writing 3d graphics code but who are interested in getting into the field.  Since I only have an hour to talk, it'll move pretty fast.  But if you're a beginner when it comes to 3D and will be at the conference, feel free to drop by if you're interested.  I'm going to start off with the basics like 3d projection and rotation, and go up through things like arbitrary cameras, 3d frustum clipping, and some simple VSD topics like BSP trees.  This will primarily be a discussion of 3d geometry issues, not language-specific or platform-specific stuff... just the fundamentals.  If this sounds up your alley, stop on by. :)
+
+
+3/6/98
+------
+>>Cannibal rocks! Its a rocking rockful utility made for us rocking artistic gods here! We crush our enemies with
+>>this rocking utility made by our rocking programmer Kiwi, who crushes and rocks! rocking!
+>> - Brian "Whaleboy" Cozzens
+
+Dude, thanks for the complements and all... but you might wanna lay off the crack for a while :)
+
+
+3/4/97
+------
+Ah, the joys of fixing things.  The last 24 hours have been extremely productive, and if my brain holds out, the next few days look to be the same way.  Yesterday evening while continuing the rework of the guts of Cannibal, I had a "vision" (so to speak), and everything about where this tool should be going slammed into my brain within a matter of minutes.  I finally knew how this thing should turn out in the end (something which was rather hazy until this point), and everything became clear.  Implementing it was another matter altogether, but I racked my brain before going to bed on how to deal with a couple of these problems, and then more so this afternoon.  But early this evening it started to fit, and I've been rolling with it since.  Even at this stage, I can already tell the end result is going to be one of the coolest interfaces I've ever worked on.  In a couple weeks when we start thinking about screenshots, you'll know why I'm all excited about it again.  I was worried for a while that the extra time I'm taking on this wouldn't really measure up to the added gains... but that worry is long gone now. :)
+
+The only frustrating part is not being able to show you guys how cool this thing is yet.  Time will resolve that problem though...
+
+Back to the freak show, :)
+
+
+3/2/97
+------
+It has only been one day, and it is only 3 PM in the afternoon, and I am already having to stop myself from killing someone.  Many thanks for all the support emails I've gotten from people since yesterday; I really do appreciate it.  Somehow I'm starting to fear this may not be the right time though.  Loonyboi sent me a pretty inspiring email about how he quit, but he pointed out a very important point... before you quit, you have to know why you're quitting.  Aside from the obvious slew of health reasons though, I don't know why I want to quit yet.  Probably the main reason is like he pointed out, just to prove to myself that I'm not a prisoner to this drug.  The thing is though that I _like_ my cigarettes.  I enjoy them, and I don't want to give them up completely... at least, not all of me does, and if even 1% of me still wants to smoke, it'll still prevent the 99% that doesn't from quitting.  This nicorette gum really does help (while I still want to kill someone, it's keeping me from acting out such urges), but even more than the addiction, I'm finding myself wrestling with a much more mental issue... not just "can i", but "do i want to".  The fact is, I don't think I want to, not yet.  When I have a wife and a family to think about at some point, then this question will probably have a very different answer.  But for now, I like my smokes.  They've been part of how I've defined myself for the past three years, and now is not the time for me to call who I am into question.  If I'm going to dedicate time to soul searching, I'd rather do it when I have the time to dedicate.
+
+So I'm going to accept the fact now that this will not be a successful attempt to quit.  Loonyboi is right, I have to know why I want to quit before I can do so, and I don't have enough reasons yet.  But I already paid the money for this gum, and fortunately it doesn't go moldy or anything, so I'm going to keep it ready in my house for when the time comes.
+
+Sorry for my extremely short-lived effort to all of you out there who mailed me... but I really, really do appreciate what you've sent.  You guys have shown me over and over that it can be done.  The only thing I have to work out in my head is my reasons why, and I don't have those reasons now.  Hopefully later, a couple years down the road, that will change.  When my mind is finally ready for this though, the gum (and the support of my friends) will hopefully still be here.
+
+Many thanks, all of you.
+
+- Chris
+	
+    

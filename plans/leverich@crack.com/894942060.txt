@@ -1,0 +1,89 @@
+Login: leverich       			Name: Jacob Leverich
+Directory: /u/leverich              	Shell: /bin/bash
+On since Sun May  3 20:21 (CDT) on tty2    8 days 3 hours idle
+On since Mon May 11 23:43 (CDT) on ttyp2 from mnet07-67.austin.texas.net
+   7 minutes 55 seconds idle
+Mail forwarded to leverich@stac.org
+Mail last read Thu Feb 19 17:11 1998 (CST)
+Plan:
+                    Jacob Leverich (leverich@crack.com)
+				    Loser
+
+Official Job-hunt email reception counter: 0
+
+
+Apr 8, 1998
+
+	Fixed addicted.. crackcam should be cranking again.
+ 
+	Um.. I need money.  If anyone in the austin area would like to hire
+	me for slave network / unix programing labor for a decent wage and
+	variable hours, send me some email (Austin area only).
+
+	Hey hey, look at me! I got fed up with pretty much every editor,
+	so I switched over to vi. After reading "the complete elvis 
+	documentation" I am so hooked on vi, it's just got too many features
+	to not be irresistable. Watch out emacs!
+
+Feb 15, 1998
+
+	Stop asking me if I was on the Crack Cam at xx:xx on xx of xx month.
+        The answer is no.
+
+Feb 14, 1998
+
+	THIS WAS A VERY GOOD DAY.
+
+Feb 6, 1998
+
+	My birthday.  Snoozin and boozin while cruisin.
+
+Jan 20, 1998
+
+	Mr. Dave Taylor? Umm.. my email appears to function,
+        and I dunno about the phone, but what's up?
+
+Jan 14, 1998
+
+	Oops.
+
+Jan 13, 1998
+
+	Fixed CrackFinger.
+ 
+Jan 3, 1998
+
+	Installed Redhat5.0 on the Alpha.
+ 
+        A few services (such as mail) were out for a while.
+        They be back.
+ 
+        Gabo, if you read this, LAY OFF THE CRACK.
+ 
+Jan 1, 1998
+
+	Fixed CrackCam.
+ 
+	Revamped firewall rules.
+ 
+	Talked to JC about going kerberos for mail and login 
+        authentication.
+
+Dec 8, 1997
+ 
+	Forgot to add this entry on Nov 10th, but basically
+	I setup a little guest ftp account so Vito could
+	update the webpage on his own and so we don't have
+	to compromise security.
+
+Sep 4, 1997
+ 
+	Cleared my .plan out..the old one can be found at
+	http://crack.com/~leverich/plan-10-04-97
+ 
+	Apeshit on webpage. Sticking in the new pages that
+	Vito Milano made (went through and modified all the
+	scripts to fit the new layout). Vito is awesome.
+ 
+	Aight..new webpages up. PLEASE send me feedback
+	(comments, broken links, etc).

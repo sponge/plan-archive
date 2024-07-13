@@ -1,0 +1,156 @@
+Account Name:  georgeb @3drealms.com
+Email address: georgeb@3drealms.com
+----------
+George Broussard
+President, 3D Realms
+Project Leader: Duke Nukem Forever, Shadow Warrior
+Executive Producer: Prey
+
+[Thursday 8/14/97 - 1:35pm]
+
+[Shadow Warrior]
+
+Still done.  Just awaiting bug reports from GT.  Nothing of
+substance has come back, so we're looking good.  3Dfx is still
+working on support.  In the meantime we just keep playing the
+game, and doing a little moonlighting on Duke Nukem Forever.
+
+Last word on Thresh vs. Anybody
+===============================
+
+Tim, over at id issued this challenge:
+>>I Tim Willits bet $1.00 that Paul Steed can kick Thresh's ass 
+in a good old fashioned fist fight - any takers? :)
+
+You're on Tim!  I think that Thresh's surrvivability skills will
+allow him to run circles around and dodge Paul's attacks
+(taunting him all the way), until Paul either gives up in sweaty
+frustration, or keels over from a heart attack.  Not only that,
+but I will double, yes DOUBLE your bet to $2.  Take that.  Going
+to the bank now to transfer the funds.  Might have to get a loan
+for something of this amount though ;)
+
+Heck, on second thought I don't even know Thresh, so how
+dare I make a bet for him.  Let's change this to Paul Steed vs. 
+um, um, A SWALLOW, yeah that's it... (African or Eurpoean 
+doesn't matter).
+
+I further bet $1 to anyone out there that the whole thing 
+between Monolith and AVault was just a publicity stunt anyway ;)
+Too bad Craig and Thresh got caught up in it.
+
+
+[Monday 8/11/97 - 7:04 pm]
+
+[Shadow Warrior]
+
+The game has really been done the past couple of days.  We are doing
+maybe one minor code change a day (and only for major stuff).  A
+release candidate has been sent to GT for testing, and our testers
+have Beta #3.  All in all, we're pretty bored of playing the game, 
+but that's a good thing.
+
+3Dfx: Things are progressing well and there's a "chance" of support
+in the initial version.  We will work very hard with 3Dfx to try to
+make that happen.  Worst case is a patch after release.
+
+Duke Forever:  This continues to grow and take shape, as we make more
+progress on art and level concepts.  Keith and Stephen (Shadow 
+Warrior) have taken to moonlighting and creating Duke Forever maps 
+late at night (as they will be working on the game).  I continue to 
+refine the design stuff that comes up and try to polish the spec.
+We will be adding a new programmer to the game to help Todd in the
+near future.  Also a new artist will be joining us soon.  All in all,
+the Duke machine is gearing up and moving forward.  Be afraid and
+expect great things.
+
+[Misc]
+
+* Totally crushed the wanna-bee's at our pinball game ;)  While they
+all scurry down around 30,000,000, I had to go and get 42,000,000.
+I think they realize the futility of their play now.  I see it on
+their faces.
+
+
+[Saturday 8/2/97 - 11:45 pm]
+
+
+[George's Movie Review #9: "Spawn"]
+
+Probably going to get crap about this one, but the movie is just "ok".
+Don't get me wrong, the effects rock, and if you are any kind of 
+action/sci-fi fan, you gotta go see it, but other than the effects it
+was just plain lacking.  Period.  Jurassic Park without nearly as
+cool ass computer effects.  You just find yourself asking "Where's the
+beef?" and waiting for the next effects scene.  Best part of the movie 
+is the evil clown played by John Leguizamo (spelling?).  He rocked.
+
+Rating: 7 / 10
+
+
+[Duke action figure]
+
+This is a "done" deal now, and we're getting a final review
+sculpture soon to approve.  Looks like all you good boys and
+girls will have one for Xmas after all.  ReSaurus, Inc. is doing them,
+and is well known for doing some Jurassic Park dinos etc too.
+
+
+[Duke Nukem Forever Mini FAQ]
+
+This is sort of a mini FAQ since I keep getting the same 
+questions over and over.  It also gives people something
+to put on the dozens of Duke Nukem Forever sites I've
+seen go up.  (Thanks for the support guys).
+
+* The game will be set in and around Las Vegas, and that's
+about all you're going to get out of us for the time being.
+
+* We don't want beta testers.  Sorry.  If we need some
+later, we'll let you know.
+
+* Release:  "When it's done", but it should be in 1998.
+
+* We will be using the Quake 2 engine, and bypassing
+Quake 1.  My feeling is that after Quake 2 comes out,
+the Quake 1 engine will be "old".  Also we're in a good
+spot timing wise to do so, as we're just now getting 
+into the main development.
+
+* Since we are using the Quake 2 engine, you can assume
+we will do what it does.  That means:
+- DLL support (The game will be expandable ala Quake)
+- Client/server Internet play (For free too, not just TEN)
+- GL / 3Dfx support (anything Quake 2 does)
+- All the neat stuff like model interpolation
+
+* If you want to know why we didn't use the Prey engine, see 
+www.3drealms.com, under About Us/Press Releases
+
+* Yes, we will have super interactive environments like Duke 3D
+
+* Yes, we will keep Duke's voice, sense of humor and character in
+place and expand upon it.
+
+* And finally, the most asked question so far? "Strippers?"  
+Hey, it's Duke, and we're 3D Realms.
+
+[George's Movie Review #8: "Air Force One"]
+
+This is EASILY Harrison Ford's best movie outside of Star
+Wars/Indiana Jones.  The only one that comes close is
+The Fugitive.  The movie simply rocks all over the place and
+I think it's probably in contention for the best movie of the
+year so far.  It's totally entertaining the whole way through,
+and especially if your a Ford fan.  He's still a great action
+guy, even in his fifties.  Gary Oldman plays the usual
+psychotic very well, as he always does.  Go see this movie.
+
+BTW, saw an extended preview for Starship Troopers.  Um, we 
+were totally blown away.  This thing truly looks like it could
+be another Aliens 2, if they don't screw it up.  Effects were
+the best I've seen outside of Jurassic Park.
+
+Rating: 9 / 10
+	
+    

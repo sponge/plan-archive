@@ -1,0 +1,284 @@
+User:   jack
+Read:   0
+Unread: 0
+Time:   Tue, 26 Aug 1997 19:53:34 -0700
+Plan:
+My email is jack@quakespy.com, not jack@planetquake.com even though
+my .plan is at jack@mail.planetquake.com.  Yeah, I know it's stupid.
+
+Updated - 8/26/97 - 10:37pm ----------------------------------------
+
+Ok, well, time for a big rant on my part.  This rant is towards the 
+people at GameCenter.  Normally, I like their stuff.  Hell, they 
+interviewed me once :)  But there seems to be a major journalistic 
+chip on their shoulder towards a company that has completely embraced 
+this community -- 3DFX.  
+
+If you look in their Game News section, you will see an article titled 
+"3Dfx Steps in It...Again."  In this fun article, they say that the 
+first time they "stepped in it" was by putting a big amount of support 
+behind Intergraph.  Now mind you, this was at the unveiling of the 
+Voodoo of the Intergraph and I believe that Intergraph is the only 
+company making both Rush and Voodoo cards, and has probably made deals 
+to support 3dfx in the future.  Plus, since EA distributes these cards, 
+and people trust EA, it means more sales.  Period.  So why *shouldn't* 
+3dfx throw the brunt of their support behind the people most supporting 
+their technology?  Ok, now, note that Gamecenter did this in their 
+"Game News" section, instead of Xperts section, where most of the 
+editorial goes.  I guess Mr. Brown just isn't an Xpert.  
+
+Now comes to a previous article, where Gamecenter got "confidential" 
+documents from 3DFX.  This article was funny, because it is 
+intentionally slanted to be towards PowerVR, even though it ended up 
+being pro-3dfx.  First, let me mention that the responses GameCenter 
+got from John Carmack and Mark Dochtermann could not have been the 
+only ones, as for this type of article, they are hand-picked.  Two, 
+this presentation was never presented and is 6.5 months old.  There are  
+wonderful quotes like:
+
+"Is there substance to 3Dfx's criticisms of PowerVR, or is 3Dfx merely 
+trying to muddy the waters to fend off an aggressive competitor?"  
+
+Tell me, if they tried to "muddy the waters" then why oh why did they 
+never RELEASE this presentation?  This would be GameCenter trying to
+throw jealousy in.
+
+"Gamecenter polled a number of developers for a reality check."
+
+Implying guilt for the USA Today readers who don't feel like hitting 
+"Give Me More!"
+
+"Based on the analysis of Carmack and Dochtermann, 3Dfx has superior
+--though more expensive--technology than NEC/VideoLogic, but some of 
+3Dfx's claims are a bit over the top."
+
+This is just too funny.  They HAVE to put a negative in that statement.  
+Cheaper does not mean better, but a clever use of the word "though" 
+implies that the expensive part offsets the superior part.
+
+First thing they talk about is degradation from the tiling.  JohnC 
+correctly says that:
+
+"Theoretically, there should be no visible way to tell that a scene 
+was rendered with a tiled architecture. Driver bugs may very well 
+make this not true, though. "
+
+Of course, if the rendering is flawed, then it will look bad, 
+empirical evidence can be found at Zanshin's dojo.
+
+"Since images are copied from PowerVR to a 2D accelerator over the 
+PCI bus, visual tearing artifacts are very noticeable."
+
+This is _the_ over-the-top claim.
+
+The next question talks about a lack of bilinear filtering and lack 
+of alpha in PCX1.  Now PCX2 HAS this, yet Gamecenter still solicited 
+an answer from JohnC which basically says this.  We all knew this, but
+GameCenter includes this, apparently, as a way 3dfx was trying to be 
+shifty, otherwise they would have thrown the answer away, because it 
+is a totally moot point.
+
+I love this quote from JohnC, btw: "PCX2 still lacks some of the 
+blending modes, like src*dst, which is needed to get colored lighting 
+in Quake 2. " which just goes in passing.
+
+The next claim, about the lack of OGL, is mentioned, but noone talks 
+about the fact that without the stuff above (like alpha blending) they
+cannot make even a Quake minidriver with PCX1.  Here's the quote that 
+was really important: "PowerVR, in its current state."  Remember, the
+current state at the time was PCX1.  Another moot question.
+
+The next question is about game developers wanting triangles, which 
+John and Mark agree to, but state that PCX2 (2!!) in native mode will
+be good.  John then stresses again that developers don't want PCX's 
+native mode tho.
+
+Another triangle question, with basically the same answer.
+
+Then a D3D claim which Kevin Bachus answers is true :)
+
+Then they ask Kevin about D3D where he says "I dunno."  I have no idea 
+why they printed this.
+
+Then they mention something else to Kevin where he answers that they 
+don't look at the items in that question when certifying hardware for
+D3D.  Of course, we don't find out what they DO look for, so...
+
+Now in the first page (USA Today version) they said they spoke to 
+NEC and got their reaction.  Guess I missed that part.  In fact, that 
+part wasn't there.  Also, like a good journalistic monkey, they didn't 
+then mention any of the shortcomings in the NEC artitecture that were 
+brought about by the interview.  Nothing like "Though one of 3dfx's 
+claims were over the top, it is apparent that for then, the NEC 
+hardware was vastly inferior to 3dfx, even though this may not be the 
+case now."
+
+None of this was said.  With all of that, there is one last thing that 
+proves to me there must be some sort of bias.
+
+The article titled "Sega and 3Dfx call it quits."
+
+This article is basically about the ball Sega dropped on 3dfx.  Now, 
+Sega did not respond to Gamecenter, and 3DFX told them that it had been 
+reaching all of its milestones on time.  Where is the investigative 
+reporting?  Where is the commentary that 3DFX's hardware is indeed 
+better than what PowerVR has shown thus far?  Instead, Gamecenter turns 
+a quote into something much worse than what it meant:
+Is 3Dfx bitter about Sega's decision? Kramer's final comment to 
+Gamecenter this morning spoke volumes: "It's been four years since 
+Sega has done anything right." 
+So they take this quote to mean bitterness, instead of happening to 
+mention that the Saturn is technologically inferior.  That an upstart 
+like Sony could come in and take away Sega's stranglehold on the 
+console market because of better marketting and technology.
+
+Now I don't know if there's bad blood between Gamecenter and 3dfx, but 
+this is completely and utterly ridiculous, and all of this posted under 
+"Game News."  Sick.
+
+URL's referenced:
+3Dfx Steps in It...Again - http://www.gamecenter.com/News/Item/0,3,1080,00.html
+Exclusive! 3Dfx's NEC Strategy - http://www.gamecenter.com/News/Item/0,3,1030,00.html
+Sega and 3Dfx call it quits - http://www.gamecenter.com/News/Item/0,3,1004,00.html
+Zanshin's GLQuake dojo - http://www.planetquake.com/gldojo
+My Interview with Gamecenter (had to get it in :) ) - http://www.gamecenter.com/News/Item/0,3,411,00.html
+USA Today - http://www.usatoday.com
+
+Updated - 8/15/97 - 6:15pm -----------------------------------------
+
+Gotta love the web based .plan updating.  Just a few days into my
+vacation and I have 319 mail messages, none of which I've read. :)
+
+Just thought I'd say hey and also, I know who foxed Zanshin.  The
+Communists.  He was developing his GL for the red bastards when he 
+decided to be patriotic instead!  He should be applauded!
+
+Updated - 8/13/97 - 2:25am -----------------------------------------
+
+For one, since I can't get to the installer source code, we've 
+figured out indeed how useful that was.  It seems lots of people are
+having WAY too much trouble installing the betas.  For one, lemme 
+recommend www.winzip.com.  If you are getting gfx.wad errors, you're 
+not running it from the Quake directory!  Nonetheless, me and Zoid 
+have decided to wait until the installer's back (in about a week and
+a half) before releasing 2.01, which fixes the color mapping problem
+in GL and might have a cool water thing, too.  Now, the server will
+prolly be released tomorrow (2.01) which will fix the crashing 
+spectators bug, add a few QC hooks for spectators to do admin stuff,
+and a few other things Zoid will undoubtably put in the release 
+notes.
+
+Unfortunately, I'm not at liberty to give the ultra-cool news yet, 
+and I'm off in my brand-spankin' new Toyota T-100 to South Florida
+tomorrow, and I won't be back for like 10 days.  I'll prolly update 
+down there tho.  Keep that in mind when sending me email.
+
+Oh, and you gotta love when girls wear knee-high black boots :)
+
+Updated - 8/10/97 - 6:57pm -----------------------------------------
+
+First, a small GL thing.  It's slower because there's less status 
+bar, thus more screen area to draw.  Dammit.  Watch what you wish 
+for, it may come true :)  And combat is still MUCH faster.
+
+The QW/QSpy/id website release went really well.  The Quake well was
+getting a little dry lately, hopefully this helped some.
+
+Also, prepare for a damned cool update by me on Monday or Tuesday...
+
+Updated - 8/8/97 - 7:45am (yes, **AM**) ----------------------------
+
+Airplanes suck my ass.
+
+Updated - 8/3/97 - 6:46pm ------------------------------------------
+
+I just need to vent about something, and not one of the trendy 
+things to bitch about either.  It's about playing in peace.  It 
+seems that every time I join a server now, people take that as an 
+opportunity to ask me when QSpy will be out or when QW will be out 
+or if I've added something new to GLQW.  I really don't understand 
+it.  I'm there to play and enjoy myself like the next guy, and 
+people are actually saying "Well?!" when I ignore their first 
+question, and say "hi" to a friend of mine who just said hi to me.
+Please stop this.  I'm sure I speak for all that "celebs" in this
+community when I ask to please stop this now.  It's one thing to say
+hey or something, it's a complete other thing to do shit like "Will
+I be able to run GLQW on my Verite?" or "Are you THE morbid?" or
+"Can I beta QSpy/QuakeWorld?" or something like that.  Questions 
+belong in email, not when I happen to pop into the server and it's 
+convenient for YOU to ask me questions.  I'm right there, why not? 
+Because it's rude as hell, that's why.
+
+While I'm on my bitch spree, something else I'd appreciate.  Please 
+don't email me asking for betas of QW and QSpy.  We have plenty of 
+testers, whether or not you're a "professional" or not makes no 
+difference to me.  That point is, I feel like a shithead replying to
+people having to say no.  I don't like saying no, but I have to, and
+it makes ME feel like the shithead because I know they did nothing
+wrong and they are just curious and honestly want to be helpful.
+AND *please* for the love of god, don't add me to your ICQ unless I
+know you or you REALLY have a valid reason.  One person requested 
+THREE times in a row to be on my list, after I refused him telling 
+him I only use ICQ for personal matters, and he was the first person 
+I've moved to my ignore list.  Sigh.
+
+Updated - 8/1/97 - 3:31am ------------------------------------------
+
+Just listened to QuakeCast and noticed the INTENSE confusion with
+NOSKINS on there.  NOSKINS 2 is in the beta of QuakeWorld right now,
+but here's the description of the NOSKINS settings:
+NOSKINS 0 - Downloads and uses skins.
+NOSKINS 1 - Does not download and does not use skins.
+NOSKINS 2 - Does not download new skins, but will use the skins you
+already have.
+Note that NOSKINS 2 in the current release does the same thing as 
+NOSKINS 1, and the next version of QSpy will have the new NOSKINS 
+options for the new (now in beta) client.  Hope this clears stuff 
+up.  :)
+
+Updated - 7/30/97 - 4:23pm -----------------------------------------
+
+Man, I sure am updating often.  Just wanted to say a few things...  
+For one, got a neat effect in where rocket trails actually "fade"
+off now in GL.  Also, I'm now uploading partial lightmaps, so that 
+should help dynamic light performance a little.  Which also leads to 
+the fact that I'm now working on the GL miniport.  Why?  Well, so 
+when I want a little more of GL implemented, I can just switch over 
+to the GL project and add it without bugging the 3dfx guys (seems 
+TexSubImage2D didn't support GL_LUMINANCE, which is what Quake uses 
+for lightmaps.  Didn't support glColor4ub, which is what I wanted 
+for the particles.  Also, I have to thank Gary McTaggart over at 
+3DFX for giving me pointers on the 8-bit stuff (and telling me it 
+even existed!) and for tossing me the GL miniport codebase.  This 
+guy does (and did) a lot more for GLQuake than most people know, and
+I thought he should be acknowledged.
+
+Updated - 7/29/97 - 1:45am -----------------------------------------
+
+Redwood is so funny :) The reason for the sky slowdown is because 
+places with sky are large areas, and texture thrashing is going on.
+The 8-bit texture code in the next versions of GLQuake and GLQW 
+should help this out a lot, but will not totally eliminate it.  
+Also, as Redwood reported, I have added floodprots into the server.
+Now, in case anyone was wondering, it's very configurable.  You can
+specify the # of messages/# of seconds before someone is locked out,
+and you can then specify the # of seconds they are silenced.  Also,
+the first message they get is configurable, which is why "herd" was
+spelled wrong in Red's screenshot :)
+
+Also, get the GLIDE 2.4 runtimes.  They fixed the GL alt-tab bug!
+Kudos to 3DFX!
+
+--------------------------------------------------------------------
+
+I have an interview with Gamecenter:
+http://www.gamecenter.com/News/Item/0,3,411,00.html
+
+I've also been on QuakeCast twice (http://www.pseudo.com).
+Listen to it!
+
+Ummmm...  Don't eat yellow snow...  And please register QSpy.  
+
+I think Pauly's sitcom is gone!  w00!
+
+My email's jack@quakespy.com, if you want to drop a note.

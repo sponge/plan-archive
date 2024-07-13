@@ -1,0 +1,181 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: onethumb
+Plan modified: Thu Apr 23 11:14:58 1998
+
+
+Name:  Don MacAskill         
+Email:  onethumb@ritual.com
+Occupation:  Jedi Master
+
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************       
+
+
+
+
+
+- 4/23/98 11:00 am - 
+
+-[ Quake2 Problem continued ]-
+
+Wow!  I got literally flooded with responses...  Not too many were helpful,
+but tons and tons of people seem to have these same problems. 
+
+Now, a lot of people emailed me about m_filter in GLQuake (got lots of email
+from people upset that m_filter doesn't seem to work in Quake2), which I was
+aware of.  I had tried it in Quake2, and it didn't make a bit of difference.
+However, I popped into GLQuake, turned m_filter on, and boom!  Almost like
+glass.  Very nice..  
+
+...However!  I just talked to Mark and Gary and they let me know that that 
+is not a fix...  It simply lags the game for about a half-frame while the
+game averages the last mouse input with the current mouse input.  Bleh.  I 
+don't know about you, but lagging the game sucks.  
+
+So, the quest goes on.  Gary and Mark have a few ideas, I'll be sure to keep
+everyone posted...  but I'm glad to see that it's not just me being stupid...
+
+:)
+
+
+-[ Sin on Linux?  BeOS? ]- 
+
+I've had a lot of people ask me online about Linux Sin, and a handful ask me
+about BeOS Sin...  I think it's pretty safe to say that we'd love to see Sin
+on as many platforms as we can, especially one as wide-spread and stable as
+Linux, however, we simply don't have the time to port Sin and maintain it on
+a lot of different platforms.  
+
+However, I seem to remember a certain CTF author stepping in and helping id
+maintain their Unix ports in the not-so-distant past.  If there were interested
+people who wanted to take the time to port and maintain for other platforms,
+drop me a line.  Ideally, it would be someone who lives in or around Dallas,
+I'm thinking, but who knows?
+
+Now, I'm not promising that such a thing will occur, but we're certainly not
+adverse to such a situation...  We want to get as much Sin out there as we can!
+
+
+- 4/22/98 6:32 pm -
+
+-[ More Quake2 problem ]-
+
+Hmm, been going over different theories with Jack Mathews of 3Dfx and 
+Gary McTaggart, UberProgrammer at Ritual, and I think we can safely rule out
+Voodoo/Voodoo2 as the culprit.
+
+It appears to be solely input related...  It exists in GLQuake and Quake2, 
+though it is not as bad in GLQuake for some reason, probably because the input
+stuff was done differently, I'm guessing.
+
+NT Quake2 works fine, totally smooth.  Win95 seems to be h0rked though.  
+Gary reports that using an Assasin3D rather than a mouse fixed the problem
+in Win95 for awhile when he used one, and that NT works great.  (Which, indeed,
+it does :)
+
+I'm probably going to try nuking my Logitech drivers to see if they are the
+problem, but knowing Microsoft, it's probably somethign inherent to Win95.
+
+*sigh*
+
+Anyway, if anyone else has any suggestions, comments, success stories, or 
+whatnot, still drop me a line...  I'm very interested to figure out how
+to resolve this in Win95.
+
+
+- 4/22/98 5:51 pm -
+
+-[ Weird Quake2 problem ]-
+
+Have a strange Quake2 problem on my Voodoo2 card...  When I use my mouse
+to spin around, it spins very smoothly, and very fast.  This is a Good 
+Thing(tm).  However, as soon as I try to stafe and turn at the same time,
+it starts to get jerky... Even though framerates may be as high as 70fps,
+I'm still getting jerky turning...  It really *really* sucks.  
+
+It's not a swapinterval problem or anything, I've played with all the known
+variables both environmental and in the game.  I'm afraid it might be 
+something terribly stupid, but I can't figure it out.
+
+It's almost definitely something with the Voodoo2 card or something with 
+my mouse drivers or something input related.  So of course, I fiddled with
+my mouse drivers and all that, but to no avail.  
+
+I'm stumped.
+
+If anyone else has seen this or, better yet, knows the solution to my 
+problem, please drop me a line.
+
+Thanks!
+
+
+- 4/22/98 4:54 pm -
+
+-[ Tom's Birthday! ]-
+
+Guess who's birthday it is today?  That's right, Paradox has aged one more 
+year (ok, one more day, but it sure feels like a year, doesn't it Tom? :)
+
+I'm sure he'd love some fan mail wishing him a wonderful day, so fire up
+those email clients....  :)
+
+
+
+- 4/22/98 10:51 am -
+
+
+-[ Format Change ]-
+
+Thought I'd try a little bit of a format change that's easier to read in 
+web browsers...  I'll still keep my lines to 80 chars or less for those of
+you reading my plans in "real" finger clients...
+
+
+-[ Finger Server Fixed ]-
+
+Anyway, I think we've fixed the problem with our finger server...  Cross your
+fingers...  
+
+
+
+-----------------------
+All kinda good stuff...
+-----------------------
+
+ o  First and foremost, DOOM fans should rejoice to hear that you can indeed
+    purchase Hell To Pay and Perditions Gate, two 32-level DOOM add-ons done
+    by some of the most talented gamers around.  Contributors include folks 
+    responsible for levels in Master Levels and Final DOOM, and believe me,
+    this stuff is top notch!
+
+    Why now, you ask?  I know the add-ons were done and finished a couple years
+    ago, but got snowballed or something over at WizardWorks or something... 
+    I think it had something to do with GT's purchase of WizardWorks (at which
+    time, amazingly enough, WizardWorks suddenly carried a whole bunch of
+    junk titles...  GT trash, you might say).  I guess the add-ons just got
+    buried in the mess.  :(
+
+    Anyway, you can purchase them through WizardWork's online site now, and
+    I can't even begin to tell you how cool they are.  Ultra-high quality DOOM
+    stuff here... TOTAL Conversions, new weapons, new monsters, new levels, 
+    everything.  All top-notch, done by people like Avatar, wendigo, and 
+    Paradox.  For $30, it's a total steal for 64 new levels, new monsters
+    and new weapons.  ($14.99 each)
+ 
+    Oh, and no, I had nothing to do with it, so I'm not trying to line my own
+    pockets.  I just like to see quality hard-work pay off for those who 
+    put their blood, sweat and tears into products like these.
+
+	http://www.wizworks.com/perdgate.htm
+	http://www.wizworks.com/helltop.htm
+
+    If I had the time or energy, I'd love to promote these even more.  Anyone
+    feel like whipping up some banners or something to help this cause?  
+
+

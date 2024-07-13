@@ -1,0 +1,226 @@
+Account Name:  georgeb @3drealms.com
+Email address: georgeb@3drealms.com
+----------
+George Broussard
+President, 3D Realms
+Project Leader: Duke Nukem Forever, Shadow Warrior
+Executive Producer: Prey
+
+
+[Friday 9/19/97 - 5:06 pm]
+
+Run, don't walk and get the Oct 97 issue of Boot magazine.  On p.27,
+Liam McDonald writes an excellent piece on racism in games centering
+on (you guessed it), Shadow Warrior.  The man is clearly a genius.  Go 
+read his thoughts.  Thanks Liam for a piece that will surely be framed 
+and placed along our "wall of controversy".
+
+
+[Thursday 9/18/97 - 5:10pm]
+
+I've got an IRC interview on Undernet's #idsoftware tomorrow night.  Be there
+or be square ;)  It'll be a cool chance to talk about Duke Nukem Forever,
+Shadow Warrior, and all things 3D Realms.  I'm looking forward to it. 
+The following is from Blue's page (http://www.bluesnews.com).
+
+>>Broussard on IRC
+The next in LoboSoft's series of IRC interviews will be with George Broussard of 
+Apogee/3D Realms on Undernet #idsoftware on Friday, September 19, at 9:00 PM 
+Eastern time. You are invited to submit questions for the interview in advance. 
+Check the website for details.  http://id.lobosoft.com
+
+We've shipped 100% of the Shadow Warrior pre-orders as of early today.  Even
+the overseas ones.  This is significantly better performance that when Duke 3D
+came out and it took like 3-4 weeks to do them.  I applaude our shipping
+staff for getting the game to our customers basically at the same time it
+appears in stores.  Future games will be even faster as we streamline our
+operation and learn from past mistakes.
+
+The entire Duke Nukem Forever team went to id yesterday to get up close and
+personal with Quake 2.  It was a cool trip and we learned a lot about some
+cool things we can do (which will help us design Duke Forever better).
+Thanks to the id dudes for being so hospitable.
+
+We've heard from fans that the Shadow Warrior novels have started to appear 
+in book stores.  Cool.  Run out and buy some ;)  They are funny as hell to 
+read.  
+
+Shadow Warrior (game) is also showing up in most stores in full force.  Look
+for the bright red box with Lo Wang on the front.
+
+I saw a prototype of the foot tall Duke Nukem statue from Moore Creations
+today.  Oh man, it rocks!  The thing weighs like 2-3 pounds and is total
+quality.  It's a 3D sculpture of Duke's famous stance from the box cover 
+(standing over the alien with his gun pointed at it).  I'll pass along
+more details of availability when we get them.  This will be a limited
+edition piece.
+
+
+[Thursday 9/11/97 - 10:04]
+
+GT tells us that Shadow Warrior should start hitting shelves by Monday or
+Tuesday.  Way cool.  We should begin shipping direct orders to all you
+boys and girls either this weekend (or on Monday).  We should be getting 
+a nice big stock of cd's tommorrow.  If not, blame UPS ;)
+
+3Dfx Shadow Warrior is getting close.  I don't have a release date yet,
+but I'd think it "should" be fairly close to the retail release (within a 
+couple of weeks.)  Once we get the code from 3Dfx, we need to compile up
+all the versions we have, and test them for a day or two to be thorough.
+Then we have to generate the patches, and all that takes a little time.
+But be patient, it's on the way.
+
+I came to a realization today.  I'm no longer going to care when ex
+employees talk crap about me or 3DR.  Why?  Because there are the
+"cool" ex people like Tom Hall and Chuck Jones that never say a word,
+then there are the others.  I realized: "Well, what do you EXPECT the
+'others' to say?".  Kudos to the cool ones and I look forward to their
+respective games.
+
+Duke Forever rolls along.  Spent the week upgrading some people's pc's
+so they could use some of the tools we need.  Also we welcomed Chris
+Hargrove aboard as a new programmer for DNF.  Chris comes to us from
+Raven and the MageSlayer project.  (I played the TNP demo last night
+and it was cool -- check it out).  Brian has ditched all the old
+weapon models and done new, cooler ones, and has starting animating
+some of the firing moves which are mucho cool.  Michael started
+laying out the base of a new Duke Nukem player model.  Allen, Keith
+and Stephen and prototyping level concepts with lot's of texture art
+from Ruben and Mark (to get the 'look' of the game right).  The
+'genesis' of the project is starting to gel, and we see the potential.
+
+I finally got my Strosek Porsche out of the shop today after 6 months
+of work on it.  The car makes 434 bhp on the rear wheels giving it a
+little over 500hp.  I'll put it back in the shop in 3-4 weeks to boost
+it up another 100hp now that the base engine has been modified to take
+it, but the car is scary fast as it is now.  I'm gonna go out and have 
+some fun with a little road DeathMatch, hunting for Mustang's and Viper
+wanna bee's.  Course, it'd help if I could shift worth a crap. ;)
+
+
+[Sunday 9/7/97]
+
+Brian Hook talks a little about Shadow Warrior in his plan file.  Before I
+retort ;) let me also say that I respect Brian and his opinions.
+
+>>What makes us (non-black minorities) particularly defensive and sensitive is
+that it is generally perceived as "okay" to make fun of us, stereotype us, 
+or whatever, mostly because we don't have enough political clout.
+
+So, by that logic, we as "white southern males" should be equally offended
+by Redneck Rampage.  We white, male, texans enduere a lot of stereotyping 
+too.  I neither own a cowboy hat or pair of boots, nor do I talk with a 
+twangy accent, or go to rodeo's, or like country music.  Don't have a
+shotgun in the back of my Ford beat-up-as-hell pickup truck.  No relatives
+named Earl or Joe Bob.  You get the idea.
+
+>>That said, I don't think the creators of Shadow Warrior intended to demean 
+the majority of people on this planet, it was simply an insensitive oversight
+that was the result of an understandable lack of education. I wouldn't say
+it's _alright_ that they did this, but it's understandable given the woeful
+lack of education that most people have of alternative cultures, races, and
+religions. I don't know jack shit about the Jewish culture, Mormonism, or
+Eskimos. For this reason, I would think twice about writing a game that needed
+in depth knowledge of any of the above topics -- unless I was willing to do
+the research.
+
+Actually we did the research.  But this wasn't an educational game, or
+something for the Discovery channel.  Since Shadow Warrior was a "parody" 
+we meant  to do a lot of the things we did.  Which perhaps makes us even 
+more evil. The question probably should be "Should they have made the 
+game?"  My answer is obviously yes.  We set out to break new barriers in 
+games and to push the established limits.  That means stepping on toes.  
+I'm truly sorry is some people are offended at Shadow Warrior, but I see it 
+as being little different from the the strippers in Duke Nukem 3D.  There 
+was an equal outburst against them.  But again, we were pushing content 
+barriers, which I think in the end is a good thing for games.
+
+Again, I respect Brian's opinion and his right to it, as well as Elliot Chin's.
+Our intent was not to make a racist game, but a parody of all the bad kung-fu
+movies on the 60's-80's.  We wanted to make a "fun" game that didn't take 
+itself to seriously.  If nothing else, at least Shadow Warrior has caused a 
+reaction and emotion in people, and provided a forum for discussion.  In the
+end, not too bad for a 2.5D game ;)
+
+
+[Thursday 9/4/97 - 6:40 pm]
+
+Saw the following on a few Quake news sites, and plucked this one from
+Redwood's.
+
+>>GameSpot Poll Results (www.gamespot.com)
+The GameSpot poll results for Quake's Successor are here:
+5. Hexen 2 (5%)
+4. Unreal (8%)
+3. Jedi Knight
+2. Duke Nukem Forever (16%)
+1. Quake 2 (38%)
+Quake 2 won (of course), with Duke Nukem Forever coming in at second 
+(obviously the name has some pull). QUAKE.FAME - GFKiller
+>>
+
+Wow.  Cool to see Duke Nukem Forever come in a "strong" second without
+release of a single screen shot or other materials ;)  I think this bodes
+well for the future.  Thanks to all you boys abd girls that voted for us.
+We won't be dissapointing you.  
+
+
+[George's Movie Review #10: "Conspiracy Theory"]
+
+Very, very good movie.  Wouldn't be surprised to see Mel Gibson get
+an Academy Award nomination out of this.  Julia Roberts is also
+good in this movie (after a run of bad one's).  It's a little long
+and not high in the action movie, but it's well thought out and
+interesting to watch the whole way through.   
+
+Rating: 9 / 10
+
+
+[Duke action figure]
+
+This is a "done" deal now, and we're getting a final review
+sculpture soon to approve.  Looks like all you good boys and
+girls will have one for Xmas after all.  ReSaurus, Inc. is doing them,
+and is well known for doing some Jurassic Park dinos etc too.
+
+
+[Duke Nukem Forever Mini FAQ]
+
+This is sort of a mini FAQ since I keep getting the same 
+questions over and over.  It also gives people something
+to put on the dozens of Duke Nukem Forever sites I've
+seen go up.  (Thanks for the support guys).
+
+* The game will be set in and around Las Vegas, and that's
+about all you're going to get out of us for the time being.
+
+* We don't want beta testers.  Sorry.  If we need some
+later, we'll let you know.
+
+* Release:  "When it's done", but it should be in 1998.
+
+* We will be using the Quake 2 engine, and bypassing
+Quake 1.  My feeling is that after Quake 2 comes out,
+the Quake 1 engine will be "old".  Also we're in a good
+spot timing wise to do so, as we're just now getting 
+into the main development.
+
+* Since we are using the Quake 2 engine, you can assume
+we will do what it does.  That means:
+- DLL support (The game will be expandable ala Quake)
+- Client/server Internet play (For free too, not just TEN)
+- GL / 3Dfx support (anything Quake 2 does)
+- All the neat stuff like model interpolation
+
+* If you want to know why we didn't use the Prey engine, see 
+www.3drealms.com, under About Us/Press Releases
+
+* Yes, we will have super interactive environments like Duke 3D
+
+* Yes, we will keep Duke's voice, sense of humor and character in
+place and expand upon it.
+
+* And finally, the most asked question so far? "Strippers?"  
+Hey, it's Duke, and we're 3D Realms.
+	
+    

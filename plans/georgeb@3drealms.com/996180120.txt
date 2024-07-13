@@ -1,0 +1,20 @@
+Account Name:  georgeb
+Email address: georgeb@finger.3drealms.com
+----------
+7/26/2001 - 4:00 pm
+
+Max Payne update.
+
+[Win2K/GeForece 3 bug]
+
+The problem has been found and a patch made for it.  Remedy said it was a memory leak (a 2 line code change) and that it was actually affecting all systems.  It just affected GeForce 3 systems more.
+
+The problem has been reproduced at 3DR, Remedy and Take 2 and the patch has been verified to fix the problem.  We will test the patch for a bit and probably release it soon (for the weekend).  
+
+It's going to be small - weighing in at about 6 megs.  We will contact many, many web sites and give the patch directly to them.  No single source nonsense.
+
+We're really sorry this slipped through, but something just had to.  I'm glad Rememdy was able to isolate it so quickly and prepare a patch.
+
+We also appreciate all the fan support and understanding so far.  People seem to like the game and Max has been selling quickly (around here at least).
+
+Remedy and 3DR will continue to support the game to the best of our abilities.

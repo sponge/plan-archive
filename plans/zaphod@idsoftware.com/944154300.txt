@@ -1,0 +1,362 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Some Guy
+Project: 
+Last Updated: 12/02/1999 12:22:26 (Central Standard Time)
+-------------------------------------------------------------------------------
+12/02/99
+
+In preparation for the full release.
+
+The motd/master/auth servers run on ports 27950, 27951, 27952.  The default game server
+is on port 27960.  If youre firewalled against these ports youll need to get unfirewalled to
+play the game.  If we work on the servers from now on well notify the community and schedule
+the maintenance for the slowest period of the day (currently around 6am Dallas time).
+
+We have what we consider a gold build of the demo.  Were putting it through the final push
+of QA at Activision before releasing it since this build is going to be more or less prevalent
+throughout the known universe.
+
+11/23/99
+
+Activision has asked to test the full authorize server, so it's now up and running.  I can quite
+understand this.  I'm working to get the full demo out the door as quick as possible.
+
+11/23/99
+
+Im working on updating the full demo today.  Well bash on it a bit and get it out there over
+the next few days.  Once its out there Ill be updating the cdkey authorize server to the final
+version.  Unfortunately this is not compatible with the demo test, so youll need to upgrade to
+either the full version of Q3A (woo hoo!) or download the new demo.
+
+Oh, and I'm going to finish Homeworld darn it.
+
+11/20/99
+
+We're at RC2.  Life is good.
+
+11/18/99
+
+I'm debugging some stuff on the authorize server (and using you guys as testers on it).
+If you can't authorize for the next few hours please be patient!
+
+11/17/99
+
+Okay, the Macintosh Test build is going up real soon now.  It's all built and working well.  I'm
+really happy with the way we're working on the Mac.  I've been building the new id servers
+on a G3 using Java and it's been a real nice change from the PC.
+
+You'll need the newest version of OpenGL for the Macintosh, which came out today.  It's
+available at http://asu.info.apple.com/swupdates.nsf/artnum/n11545.  Go download that
+while we're coordinating on getting the Mac build out there through Sandpiper.
+
+BTW.  There's been over 1 million downloads of the Win32 build!!!
+
+11/16/99
+
+We've got a debug server up on 192.246.40.115, if people could connect to it and bash on it
+that would be great.
+
+11/15/99
+
+It's out there.  We're aware of some issues which are documented in the readme, otherwise
+I expect a lot of you to be missing many hours of sleep tonight!
+
+11/14/99
+
+Quake 3 Arena demo test should be out tonight.  Watch the skies!
+
+Just so were all sure.  This isnt the general demo.  If all goes well well
+upload the general demo in a few days.
+
+The demo contains four maps (q3dm1, q3dm7 (q3test1), q3dm17 (q3test2)
+& q3tourney2 (q3tourney) and six characters (Sarge, Visor, Major, Grunt,
+Daemia, & Stripe).  Bots are in there on five difficulty settings (from I can win!
+to nightmare!).
+
+11/6/99
+
+I asked everyone to come up with Tips Of the Day for Q3A, it was a serious endeavor
+to get some cool tips into the product (a fun game is trying to match the id employee
+with the quote).
+
+Here are some gems from the masters:
+
+Often there are secrets hidden below the hellfog.
+
+Every map has a special exit. Chat with the bots to find it.
+
+If you get negative 10000 frags something cool happens.
+
+Save money by calling our tech support from the office phone. 
+
+To open secret level press the reset button immediately after completing Tier 5.
+
+Run over the armor backwards to obtain optional armor pants.
+
+Ain't nothin' like four bare feet in a bed. Unless you have five bare feet in a bed in
+which case one belongs to an amputee not a freak with three feet.
+
+Save water. Shower with a friend.
+
+Never eat spinach with a stranger.
+
+You call me Francis, I'll kill ya.
+
+Don't look at the glass eye.
+
+Try and keep Klesk from getting the railgun on q3tourney3
+
+Q3A ownz jooo!
+
+Strafe to the right, strafe to the left... now everybody jump around, jump around.
+
+Monkey thinks bandannas more ripe at top of the tree.
+
+Take the blue pill; you aren't the one.
+
+Complain a lot about lag, LPBs, and packet loss; you'll still lose, but you'll sound
+smarter.
+
+Bind forward to control, jump to alt, and attack to delete.  Then amaze everyone
+with your running jump shots!
+
+When about to lose a big game, throw the Big Red Switch then come back on
+and bitch about your ISP.
+
+Always hit your enemy and never let them hit you.
+
+Never tell Adrian that you hit his Viper.
+
+The Red Fog is bad for your health.
+
+11/2/99
+
+The MOTD server and master server will be up and down over the next few days, if you don't
+get a response that's probably the reason why.
+
+9/29/99
+
+Ah, grappling hook hoopla  when I read about the hoopla over UT grapple CTF I knew wed
+have a similar impact (BTW, believe it or not, there is room for both games in the universe!). 
+The grapple code is still going to be in Q3A (through bot reachability and so forth), its just
+not on the maps were shipping with the product.  The CTF maps we have in there are designed
+for non-grapple use.  CTF and grapple are not tied implicitly together.
+
+Mr. Elusive (aka Jan Paul) is over here from The Netherlands helping finalize the game.  He is
+of course the famed author of the Gladiator bot for Quake II.  As some of you have been
+guessing hes been working with John Cash on the bots in Q3A.  Were very pleased to have
+Jans expertise on Q3A.
+
+9/25/99
+
+A few of you have asked about the message of the day text.  Its giving you your exe
+startup number since last Monday.  So basically, weve had over 2 million Quake 3 Arena
+games start worldwide since 9/20/99.  That works out to around 4 games every second.
+
+9/2/99
+
+I see a lot of people are playing with nude reptiles!
+
+We are not doing a Matrix game.  When we finish Q3A we'll start on the next
+project.  We will try and fit the words "welcome to my underground lair" into
+the next game, mostly because we think Steed would be good at making fembots.
+
+Okay, that's more of a suggestion than a truth.  We'll probably do something
+completely different based on stories of the Quake 3 Bus and the Nevada desert.
+
+9/1/99
+
+Some of you have commented on the master server being a bit odd right now.
+It's actually running just fine, it's just responding to queries for protocol
+41, which is not entirely compatible with protocol 40.  Only servers with
+people on there will actually show up.  You can force showing the empty
+servers with the keyword "empty", but this isn't so useful since in 1.08 you
+can't combine that with game types (e.g. you can't say "empty tourney").  For
+completeness's sake, you can also say "full".  But heck, if you type in "nude
+reptiles", you can scan that too and get exactly zip.
+
+All of this is of course fixed in the new test and browsing gametypes,
+keywords, and so forth is easier than ever.  You'll swoon.  Trust me.
+
+For those of you, and there's a bunch of you, who believe that our previous
+efforts had better network support than 1.08, we've set up servers here for
+you to get side to side experiences.  Go try them and let me know.
+
+Q3test 1.05			-		192.246.40.68:27961
+Q3test 1.08			-		192.246.40.68:27960
+Quake 2 version  3.20		-		192.246.40.68
+QuakeWorld version   2.30	-		192.246.40.68
+Quake version  1.09		-		192.246.40.68
+
+We're pretty confident you'll be seeing things our way pdq.
+
+Eric, our in house live human, bet Tim that he couldn't make a fun map in under
+an hour.  Tim, being Tim, took him up (the exact nature of what was bet remains
+somewhat fuzzy, but it may have involved lunch).  Forty-five minutes later we
+had "fun", which has remained interestingly addictive throughout the last week
+to the entire company (of course, listening to Tim tell this story, it's down
+to thirty-five minutes while he had no power, and the mouse was disconnected
+from his machine).
+
+The lesson from all this is either that Tim really values something fuzzy to do
+with lunch, or that Quake 3 is so darn cool you can toss together maps in less
+than an hour.  Okay, maybe knowing what Tim knows helps, so we're going to dissect
+his brain for science and get him working as our own personal AI (John swears it's
+possible) churning out 24 levels a day 24/7 until some odd Y2K bug causes him to
+make every telephone in the world ring at once.  Oh wait, that was Lawnmower Man.
+
+
+8/13/99
+
+BTW.  You can search for Q3A Internet Servers using the keywords "ffa",
+"tourney", "deathmatch", "team" and "tournament" in the Internet game
+browser screen to only show specific types of maps.
+
+8/3/99
+
+Q3Test 1.08!!!  Go bring down your favorite Internet site.
+
+Because it's once again a full download, we've included a new model
+(Sarge) with this version of the test as a consolation prize.  You need
+to select him from the console using the "model sarge" command.
+
+7/21/99
+
+Mac Users!  We're not ignoring you, we're just having a slight technical
+problem with the Macintosh build right now.  BTW, I'm in love with that
+new iBook!  When they ship that's going to be /the/ portable.
+
+7/20/99
+
+1.07 is out there.  Please try and find cheat exploits and report them to us!
+
+Also, keep in mind that this is a test, and not the final product.  There's a lot
+in the test which is very temporary, so while we've taken great pride in
+putting out very solid test releases, we're still working hard on the final
+product and very much appreciate your feedback (q3feedback@idsoftware.com)
+in getting this product right for you - the players -
+
+I get a bunch of feedback from people wanting this product to be more like
+Quake 1 or Quake 2, while others look for us to innovate and make something
+brand new.  Quake 3 is arcade deathmatch, nothing more and nothing less.  It's
+not Quake 1 nor Quake 2, but does nod it's head in the direction of the online DM
+version of both those products (and apparently pissing off both parties at the
+same time).
+
+Look to the next id product to give you the "brand new" gameplay and world.
+Quake 3 Arena will keep basically with what you've seen and read about up
+until now and it's now time to put this one to bed.
+
+7/19/99
+
+Not tonight.  We're fixing the cheat exploits.  Users who downloaded the current
+build should expect a 3-5 meg update (so you don't have to download the
+whole thing).
+
+7/19/99
+
+Okay.  More.  Must Sleep Soon.
+
+We're testing a new version of the build right now that has some new stuff in it:
+
+- the ; key now remains bound (for all you lefties)
+- the timescale exploit has been plugged (again, actually this was in the last
+  version of the test and a lot of people were silently using it)
+- LAN servers display properly
+- IPX is working
+- the enabling cheat exploit has been fixed
+- CPU time for servers should be nicer
+- an exploit in the tourney map has been filled
+- joystick support (there is no conspiracy here, but this might require more time
+  to fix than just tonight)
+
+We're looking to get win32/Macintosh out there, hopefully tonight, but probably
+tomorrow by the time we're through checking all this out.
+
+BTW, I finished DK2 (with Adrian screaming at me most of the time to build a bigger
+torture chamber).
+
+THAT GAME ROCKED!
+
+7/19/99
+
+SOCKS Proxy Support
+
+There are five cvars that control it. They are only settable from the at init
+time (from the OS command line).
+
++set net_socksEnabled 1
++set net_socksServer 
++set net_socksPort 
++set net_socksUsername
++set net_socksPassword
+
+Please note that you use the address (name or IP number) of the SOCKS server
+(firewall machine), NOT a Q3ATEST server. The port number defaults to 1080,
+you should not need to change this.
+
+It supports no authentication and username/password authentication method
+(RFC-1929); it does NOT support GSS-API method (RFC-1961) authentication.
+
+7/17/99
+
+Some variable things we missed or are hard to find in the readme:
+
+g_gametype
+
+A value of 0 here indicates classic Free For All, a value of 1 indicates
+Tournament Play and a value of 2 indicates Team Deathmatch.
+
+So, to start a dedicated server in tournament mode, you would use:
+
+quake3 +set dedicated 2 +set sv_zone tournaments +set g_gametype 1 +map q3tourney
+
+The warmup time for tournament play is set with g_warmup.  A tournament
+game is implicitly a one on one match, and further players are automatically
+entered as spectators (note, when the game starts, all clients, including the
+spectators respawn).  You can follow the players by using team follow1,
+team follow2, and you can be a scoreboard by using team scoreboard.
+
+We appear to have broken joystick support somewhat between the first IHV
+drop and the final release of the test.  Well address that (so dont start the
+email bombardment on it!).
+
+Expect the master server to be up and down over the weekend, now we have
+protocol 38 servers out there in large numbers were able to tune that stuff so
+it works a wee bit better.
+
+Thanks for the support!
+
+7/16/99
+
+Okay, it's there (as I'm sure you all know).
+
+I'll update tomorrow on how to set up servers in zones so you can easily
+find/check/get to servers in groups.  It's a nifty new feature.  Until then
+I'm sure you'll all be slamming each other down on Xian's excellent new
+tournament map.
+
+As usual, send bugs to q3feedback@idsoftware.com
+
+7/16/99
+
+A new build of q3test (win32) has been constructed in your workshop.
+That's a little DK2 joke there...
+
+We're hacking on it a bit before it's public, but it's looking good to go!  I'll
+update my plan file once it's out and fill you all in on what's new.
+
+Good bug find by Sherman Archibald today for all you Riva 128 owners.
+
+7/16/99
+
+You can all go to sleep.
+
+7/9/99
+
+So whos the best at id?
+
+We were playing Xians new tourney map 

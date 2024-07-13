@@ -1,0 +1,42 @@
+Account Name:  20152
+Email address: tomk@2015.com
+----------
+Welcome to the 2015 Finger Server
+
+User name: Underdog
+Name: Tom Kudirka
+Email: tomk@2015.com
+Occupation: President
+Project: Wages of SiN (SiN Mission Pack)
+
+Plan modified: Tue Jan 12 11:101:18 1999
+
+************************************************************************
+ NOTE: Any views expressed here do not reflect the official position
+ of 2015 Inc. They are my own views and should not be confused with
+ those of the company.
+************************************************************************ 
+
+OK, Here's the scoop. For those of you interested on the status of the 
+official SiN Mission Pack. The game is entitled "Wages of SiN" is being 
+published by Activision and should be available in February.
+
+We believe its the most expansive add-on pack ever created. It includes 
+17 new single player levels, 7 new weapons, 12 new deathmatch levels, 4 
+new characters, 12 new enemies that include 2 end-level bosses. We have 
+made changes to the AI, vehicle code, particle effects, etc. 
+
+We created new music tracks, sounds, dialog, cinematics, effects, traps 
+and a completely new storyline, which of course teams us up with Blade and 
+his side kick JC. 
+
+Something else thats new to the SiN universe is the Hoverbike. Weve 
+created from scratch new vehicle code, which allows the player to ride 
+around on something similar to a levitating motorcycle. Its equipped with 
+3 weapons and a turbo-boost that can really accelerate your speed. We have 
+so much fun playing Hoverbike Deathmatch that we think it will be the next 
+big thing. 
+
+Anyway, enough of me tooting my horn. Just needed to do the official plan file thing.
+
+Tom

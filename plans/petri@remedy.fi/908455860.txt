@@ -1,0 +1,63 @@
+Username: petri                     In real life: Petri Jarvilehto      
+
+
+Plan:
+[151098]
+
+Gosh,
+
+The Futuremark guys (finally) came out of their den (they've been
+using the conference room for 5 days now, wrapping up the 3D Mark
+demo) and told that they would let us (the Max Payne team) to see 
+what they've been up to (they're using MAX-FX in some parts of the 
+demo, so we've naturally been bugging them to let us see how the 
+whole thing turns out).
+
+All of us rushed to the conference room, we turned out the lights
+and turned on the volume and let the show begin.
+
+...and it's freakin' awesome. I mean, most of us have a background in
+the demoscene, and we know where demos are at the moment, but seeing
+3D Mark run on a 400 P2 with TNT was totally amazing. It's good.
+It's darn good. Dunno how much impact this will have on the demo-scene,
+but hopefully it might draw them out kicking and screaming into the
+age of 3d acceleration.
+
+Anyways, that's all for now, we're off to another brainstorm on Max Payne
+final content and design. 
+
+
+[131098]
+
+Hi all,
+
+Just to clear up some confusion. In a recent article it was mentioned
+that Max Payne requires a 3D accelerator, a direct quote was: "with
+a 3dfx compatible card". I've been getting quite many questions on
+this regard, and to set the thing straight, MAX-FX is running now
+on DirectX6.0 and we support pretty much all DX6.0 compatible 3d cards. 
+To run Max Payne properly you'll need a card that is at least as 
+powerful as 3DFX generation 1 card, and if you have a faster accelerator,
+you'll end up getting more visual detail.
+
+And some miscellaneous notes:
+
+1) We're not doing any more interviews for the time being. Talking
+with people is certainly good fun and all, but it's also pretty easy
+to get distracted with all the press etc. We're now going to close 
+all the doors, turn off the lights, crank up the volume and do some
+heavy duty game developing for the next 4-5 months... We'll tell
+more about the game when we're closer to the release, ok? :-)
+
+2) We're very close to getting the new mapper to join us shortly... 
+it's been taking longer than expected to get all the practical 
+matters solved out (work permits, place to live etc.), but Marty 
+is going to fly from Australia in a week or two. 
+
+3) Lately we've been doing huge planning sessions, nailing down the
+final content for the game as well as planning out the implementation
+of that content. It's been a pretty good (though exhausting) 3 weeks,
+and we're now confident that the vision we have on the gameplay is
+something that we can deliver.
+
+

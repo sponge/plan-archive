@@ -1,0 +1,249 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Robert A. Duffy
+Email: raduffy@idsoftware.com
+Description: Programmer
+Project: 
+Last Updated: 03/06/2000 15:02:57 (Central Standard Time)
+-------------------------------------------------------------------------------
+A new point release beta is out and on the FTP. We anticipate removing the beta tag in the very near future. We have been doing a lot of testing on connection issues, cheat preventions, auto-downloading as well as running a lot of the new mods through it. Things look good, some of the mods heading our way look fantastic!
+
+This also contains a CTF version of Q3Tourney6 which is tons of fun for 2 on 2 CTF. 
+
+One key thing is that when connecting to a pure server both sides will have to be using the latest point release as we updated the pak2.pk3. This is not much of an issue once this version propogates a bit but it is something to keep in mind.
+
+There are 3 issues of note with this version ( 2 of them Linux only )
+
+- ZFree errors, on some Linux systems you may see ZFree allocation errors. This happens mostly when fiddling with the mouse etc. during map loads. We are looking into this ( as is Loki ).
+- Mods directory does not show mods ( Linux only )
+- Starting a team game with bots does not automatically assign the player ( you ) to a team.
+
+As before, please forward bug and other information to raduffy@idsoftware.com
+
+
+
+2.21.00 11:23pm
+---------------
+New executables for the point release beta are on the FTP. 
+
+-Zombie/Ghost unpure clients no longer remain connected.
+-Recursive File System error corrected when running mods with logfile set to 1
+-The Auto-download rate is controlled by 'sv_maxRate', specify this value in bytes per second. The maximum band rate caps out around 25K per second.
+
+
+
+
+
+
+2.20.00 5:12pm
+---------------
+Point Release Stuff
+
+There was a lot of new functionality added in the latest point release, primarily centered around mod development support. We are still sifting through all the feedback e-mail but here are some problems and solutions based on what we have found so far.
+
+1. If you are are not seeing the new "Mods" menu, it is likely that you are running something that replaces the UI. ArenaSpy and several other mods have their own UI DLL's or QVM's so you will not be able to see the point release UI. This can be remedied by removing any extra UI mods. This can also cause a problem with auto-download in that if you connect to a server that sends you something, you cannot see the download progress because the UI your using does not support it. The download is working but you just see "Awaiting gamestate" ( because your not using the new UI ). If you see partial files in baseq3 or an fs_game path this is what happened. Again, using the UI that comes with the point release solves this problem.
+
+2. If you have chosen a 3rd party model or skin, you CAN still connect to and play on pure servers. The caveat being that you will temporarily revert to Sarge. This works just like it always has.
+
+3. If you are using a cracked executable, you will no longer be able to connect to pure servers. "You ruined the game, I cannot cheat anymore!" is not a valid complaint.
+
+4. If you are not able to join a server and you get an "unpure" client message, it is likely that you are loading content from an invalid PK3 file, loading DLL's for gameplay or loading content outside of PK3 files. If you have modified any of the official PK3 files this will also cause you to not be able to connect to pure servers. The other case in which I have seen this is if the server was set to pure and not restarted. I am still looking into this one.
+
+5. I have seen reports of non-pure clients not getting kicked fully and remaining semi-connected. I have be unable to duplicate this problem. If you have details on this please forward them to me.
+
+6. If you cannot see a 3rd party model, I have tracked this down to the method which it was zipped. It appears that some zip programs do not store directory names as individual entries in the zip files. I use Winzip and it works fine.
+
+7. You can use 3rd party UI's to launch games and connect to pure servers. Once you have connected to a pure server, the client will reload the UI based on what the server flags is ok. This will explain running a new UI ( like ArenaSpy ), playing on a pure server, exiting back to the menu and ArenaSpy is gone.
+
+8. There have been a couple of reports of not being able to load nn number of maps, others have reported no problems. We load around 2500 maps from the development directory here and with that and locally I have not been able to duplicate this issue. And no, there are not 2500 maps we did not release.. these are largely successive numbered versions of the same maps.
+
+If you have any information that could help identify a problem or an exact set of reproduction steps for unpure clients not getting fully kicked or not being able to load maps from baseq3, please forward the information to me at raduffy@idsoftware.com.
+
+And for those of you wanting to try out that new Mod menu, I highly suggest HeadHunters or Fists of Fury those along with many others are Very Cool.
+
+
+
+
+
+
+
+
+
+2.18.00 11:49pm
+---------------
+Q3A 1.16i Beta is now on our ftp site. This is a small executable only patch that enhances security. It is available in three flavors, Win32 ( a .zip file ), Linux ( a .gz ) and Macintosh ( a self extracting archive ). 
+
+
+
+
+
+
+2.17.00 8:19pm
+--------------
+The point release is now available on our ftp site. It is marked as a beta as there are a lot of functionality changes and we have a finite number of machines and scenarios we can test with. The included readme contains a lot of information, please review it. The release is available for all three platforms, Win32, Macintosh, and Linux. 
+
+If you encounter problems or bugs, please e-mail them to me at "raduffy@idsoftware.com"
+
+
+
+
+
+
+
+
+
+1.31.00 5:14pm
+--------------
+The point release is still in progress. We are addressing several things, among them auto downloading, mod support, cheating, and a few other things. It is moving into testing now and should be done "soon".
+
+One area that we are working hard to improve on is releasing things for all three platforms at the same time. As we have still not released the final point releases for the Macintosh or Linux based systems, the new point release will be available in all three flavors at the same time. 
+
+
+
+
+
+
+
+1.17.00 4:41pm
+--------------
+We will be releasing a point release within a week that addresses the fs_game problem that exists in the current executable. This problem forces clients to start with the same fs_game parameter as the server. It does not affect normal game play but keeps the server from specifying which "game" directory to use. This is a bug. Mod authors do not have to wait for the fs_game patch to get started as the code will be the same either way on their end. 
+
+There are two other basic issues for mods that have come up:
+
+1. DLL use for mods
+Our position on DLL use for mods is that it is a bad thing. DLL's are not multi-os compatible and they pose a much greater security risk than qvm's. Note, I did not say that qvm's are totally secure, they are not, but they are definately more secure than DLL's. DLL's are for debugging only and qvm's are the only official supported way to produce and distribute a mod. Period.
+
+2. Auto-downloading
+We are currently exploring several options for auto-downloading. There will support at some level for mod surfing and downloading. This support is geared towards the "mod" type of add-on as opposed to downloading maps or models ( or skins ). The goal is to not consume server bandwidth for downloads but push the bandwidth use to some sort of a dedicated "mod" server or something.
+
+
+
+
+
+
+
+1.14.00 8:12pm
+--------------
+The game source is out. It should start appearing on mirrors soon. It is in idstuff\quake3\source\ and named "Q3AGameSource.exe"
+
+There is a "How to make a mod" text file included which shows the very basics of building the source for debugging ( Win32, Visual C++ ) and building the vms for distributing mods. It also shows steps to get your mod to run with the engine.
+
+PLEASE NOTE: The game source MUST BE INSTALLED in \quake3\ off of whatever drive you like. This is so the batch files and the lcc compiler can find all the right stuff for building vm's.
+
+The tool source and video compressor will be out next week. This will include source q3data, q3map, q3asm, q3radiant, our version of lcc and the executable for the video compressor. 
+
+
+
+1.13.00 6:08pm
+--------------
+The Point Release ( Win32 version ) is out. It should start appearing on mirrors soon. 
+
+The three primary fixes in this version over the 2nd beta are:
+
+-crash when bots chat on dedicated servers
+-crash when bots chat under linux
+-bots no longer "keep" trying to score after they respawn if they died carrying the flag
+
+
+
+
+1.11.00 7:01pm
+--------------
+The 2nd Point Release Beta (version 1.15b) for Quake III Arena is out. It should start appearing on mirrors soon. This version contains several bug fixes and should go final within a day or so. The source should be available shortly after that ( within a few days ). Per usual, all dates and time frames are subject to change.
+
+Changes:
+-Control menu works properly
+-Pure server connection notification
+-2D Armor icon appears properly
+-.arena files are accumulated properly across pk3 files
+-A few other smallish fixes
+
+
+
+
+12.22.99 8:30pm
+---------------
+I have placed a new install for the tools on the ftp site. Our ftp gets hammered but it should show up mirrored pretty quick as well. 
+
+ftp.idsoftware.com/idstuff/quake3/tools/Q3ToolSetup_Dec221999.exe
+
+There are quite a few changes, see the readme for a list.
+
+This release contains new content or updates for the following:
+
+-Q3Radiant, this is named 'Q3Radiant_181.exe'. This will allow you to revert to the older version in case there are unforeseen problems.
+-Q3Map, some fixes.
+-Q3Data, see the Modeling manual which was put together by Paul Steed and Paul Jaquays.
+-Model_manual_ps.doc, the above mentioned model manual.
+-bspc - see the included text file for changes.
+-Museum.map, Museum.shader - A map done by Kenneth Scott to illustrate a wide variety of shader effects. Cool stuff.
+-MapMedia.pk3 - additional content required by the museum
+
+The museum takes quite a while to light when running Q3Map on it. Be patient :-)
+
+
+
+
+
+
+12.16.99 2:38pm
+---------------
+I should be releasing an update to the editor soon. There are a few outright crashes I have fixed and I am looking into some other issues. If you are seeing stability problems, it is more than likely a driver issue. I am doing what I can to get these resolved. 
+
+We are seeing quite a few reports of fullbright levels when you preview new levels in the game. If you are having this problem can you drop an e-mail to tools@idsoftware.com along with your video configuration and whether or not bringing the console down solves the problem ( press ~ to bring down the console and see if the level lights ).
+
+We will also be re-releasing the .shader files soon. The .shader files in the shipping PK3 and the ones I included in baseq3/scripts include a lot of unused ( and in many cases non-functional ) shaders that are left over from the entire project. We are going to trim that down to the actual shaders used in the game.
+
+'q3data.exe' will also be in the update which will allow you to convert ASE's to MD3's. This should help getting new player and map models in the mods.
+
+
+
+
+12.15.99 1:10am
+----------------
+A small update. To build a map, q3map requires that 'quake' exists somewhere in the path. It uses this to derive the base path to figure out where to find things. What this means is that if you installed Quake III Arena ( and the tools ) to 'c:\q3' then q3map will fail with a < SetQdirFromPath: no 'quake' in C:/Q3/baseq3/maps/unnamed.map > error. I realize this can be somewhat of a pain but it is the way the tools work ( it is also the way the tools have always worked ). 
+
+If you installed the game and the tools to the default or the name you chose has quake in it then this will not apply to you. If you installed to a path that does NOT have 'quake' in the name you will need to rename it to get q3map to work properly.
+
+
+
+12.14.99 11:40pm
+----------------
+
+The editor and tools are now available, the install can be found at ftp.idsoftware.com/idstuff/quake3/tools/q3toolsetup.exe. They should also appear on Quake3World soon.
+
+The readme contains a LOT of information, make sure you peruse through it after installation. You MUST install the tools to the same path as Quake III Arena. This will allow the editor to just work ( or it should ). If you installed Quake III Arena to c:\Program Files\Quake III Arena\ then make sure you install the tools to c:\Program Files\Quake III Arena\
+
+These are unsupported tools. Even so, you may e-mail questions and problems to tools@idsoftware.com. I cannot guarantee a reply or a fix but I will try to address major issues.
+
+The source code for the editor, q3map, related tools and the game will be available soon. I do not have an ETA yet but it should be in the not too distant future.
+
+As far as hardware required to run the editor, here is how testing went for us. All testing was performed on a P2-300 with 64 mb of ram and Win98. Testing was done with the GLSetup drivers in most cases, but we grabbed the latest reference drivers if problems showed up. NT 4.0 will probably provide different results. I will be working with the vendors to try and get the problems worked out with the drivers and/or the editor. 
+
+TNT1 - Runs well.
+TNT2 - Runs very well.
+GeForce 256 - Smokes :-)
+Riva 128zx - Runs ok, slow but usable.
+ATI Rage 128 - Runs very well.
+ATI Rage Pro - Runs sort of, not usable.
+S3 Savage 4 - Editor crashes.
+Matrox G200 - Editor crashes.
+Matrox G400 - Editor crashes.
+3DFX Banshee - Ran the editor. No grid in XY Window but appeared ok otherwise.
+3DFX Voodoo3 - Ran the editor. No grid in XY Window but appeared ok otherwise.
+Intel i740 - Ran very well.
+
+
+The readme has a list of the latest changes.
+
+
+
+
+12.10.99 09:02pm
+----------------
+
+A couple of things. First, things look like they are still good to go on getting the editor and map building tools out early next week. I am shooting for Tuesday sometime but that can change based on a variety of things. In any event it should be soon. Secondly, the editor and shader manuals will not be available right then but will follow shortly after. The shader manual probably within a few days of the tool release, the editor manual a bit after that. 
+
+At this point, the tools should ship with three sample maps ( all from the game ) and the additional shader textures and "mapobject" models required to build those three maps. The maps represent a nice cross section of shader and entity functionality for everyone to digest. 
+
+We have been using a P2-300 running Win98 with a variety of cards for testing. To produce a production level map ( full vis and -extra light ) it takes 36 minutes for Q3DM1. Fast vis and normal light takes about 4 minutes

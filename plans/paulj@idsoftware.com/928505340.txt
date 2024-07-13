@@ -1,0 +1,97 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Paul Jaquays
+Email: paulj@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+Last Updated: 06/04/1999 10:33:57 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+Skill Portfolio/Background:  See bio on id web page for details
+
+Current projects:   Quake 3: Arena maps/Q3:A Documentation
+
+**********************************************************************
+DISCLAIMER:  THE FOLLOWING IS THE PERSONAL OPINION OF THE AUTHOR AND DOES
+NOT REPRESENT THE OFFICAL POSITION OF ID SOFTWARE, ITS OWNERS, EMPLOYEES,
+DISTRIBUTORS, LICENSEES, OR ANYONE ELSE)
+**********************************************************************
+**********************************************************************
+June 4, 1999  10:50 AM CDT
+**********************************************************************
+Toby Goldstone noted that I am spending too much time around computers ... 
+it's "ISBN" not "ISDN".
+
+Also, I'm succumbing to the temptation to add yet another link to the
+Judge's Guild web page ... the recipe for "Rat on a Stick" just has
+to be shared (I know I want to try it!) [Here come the flames about using
+my .plan to share recipes]
+
+http://www.judgesguild.comfunstuff/ratonastick.htm
+
+**********************************************************************
+June 4, 1999  8:15 AM CDT
+**********************************************************************
+
+These posts seem to run in clusters ... two updates for me in as many days.
+
+First: Let me express some thanks from Nicholas Marks that you folks nearly
+shut down his freetextures.com web page yesterday.  He was getting so many
+hits that he couldn't get on to do updates.  If you're a commercial hosting
+site looking for some hot content, he's also looking for you.
+
+Second: It seems that I may have given a semi-incorrect ISBN number for the
+Game Design: Secrets of the Sages book.  The one I gave yesterday came off 
+the back of the book, but is apparently for a "not for resale" version." I've 
+changed the ISDN to the one that Amazon.com is using.  And by the way, Amazon
+has a price deal on the book right now.
+
+Third:  A long time fan wrote yesterday to let me know that my long-ago
+employer, Judges Guild, is back in business and has an on line site.
+If you are an "old" D&D player (meaning your involvement in the hobby predates
+1981), you'll probably remember the Guild and most likely you used or at least
+saw their licensed D&D game books in hobby stores.  I worked for Judges
+Guild in the late 70's and cranked out a handful of game adventures for them.
+What surprised me most is not that the Guild is back, but that it's not under
+"new ownership. " This isn't someone who bought the right to use the name (as 
+had been rumored some time back).  Bob Bledsaw, the founder of the Guild has
+been convinced that the time is right for the phoenix to rise from the ashes 
+(so to speak).  Well, if you're interested in role-playing game supplements
+and/or adventure gaming nostalgia, check out the Guild at:
+
+http://www.judgesguild.com
+  
+
+**********************************************************************
+June 3, 1999  8:45 AM CDT
+**********************************************************************
+Plug time.
+
+I've got a couple items to tout here ... and while they don't have direct
+relevance to Quake 3: Arena, they should both be of interest to those of
+you who make your own maps or have an interest in a game-related career.
+
+First: 
+
+Looking for some some interesting textures or good source art for 
+game textures?  Then you need to put the FREETEXTURES web site on your
+list of daily visits.  Why daily? Because Nicholas Marks, the artist who
+operates the site is putting up 10 new textures or pieces of reference art
+each week day.
+
+http://www.freetextures.com
+
+Second:
+Game Design Secrets of the Sages  ISBN: 1-56686-904-8
+
+This is a new book on the topic of computer game making from MacMillan 
+Digital Publishing, edited by Marc Saltzman.  In essence it is a 
+compilation of "How I do it" anecdotes harvested from the illuminatii of
+the game biz (read that as "the people who do the work") and is organized
+into a pretty interesting read.  It looks to be particularly useful to 
+those folks who think they want to make a career in game making.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+If it's not here, it's vapor.  Check out somebody's archives if you want to read my previous bits of wisdom and flame.

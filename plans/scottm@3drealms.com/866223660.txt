@@ -1,0 +1,315 @@
+[mailhub.gte.net]
+
+Account Name:  scottm @3drealms.com
+Email address: scottm@3drealms.com
+----------
+Scott Miller, head of Apogee Software, Ltd.
+(3D Realms Entertainment is a division of Apogee)
+
+========================================
+June 13, 1997 (my birthday!)
+
+* Go get 'em guys.  Loved the Open Letter to Microsloth,
+stating that MS needs to further support OpenGL for game
+developers as well as they support DirectsuX.  (Golly, can
+I be any more mean to MS?  I shouldn't be--they're really
+good guys, just misdirected sometimes.)  The signatures on
+this letter read like a Who's Who of the members of GameTech,
+so these are truly the best people to get MS to change their
+ways.
+
+* Yesterday Apogee was part of a star-studded group of
+initial inductees in the newly established Shareware Hall of
+Fame, founded by the Shareware Industry Awards Foundation.
+In all, there are 52 inductees, consisting of authors and
+companies that made a significant contribution to the world of
+shareware.  Said the press release:  "Many of the inductees
+have provided an invaluable contribution to both the shareware
+industry and the global computer market, including Eudora,
+Apogee Software and PKWare."
+
+Apogee and id Software are the only two game companies
+inducted.  Other notable inductees include Bob Wallace,
+Jim Button (the two pioneers of shareware, back in 1982),
+and Marshall Magee, another early shareware pioneer who
+wrote Automenu and was the first President of the
+Association of Shareware Professionals.
+
+More information is at www.sic.org.
+
+* Still no luck finding a new name to replace Apogee.
+Rambo Studios is the current leader on our list.  :)
+
+* UPDATE:  This name stuff is just a joke!    Please
+stop sending me suggestions.  Although I really liked
+these sent to me by those in on the joke:  Rancid Games,
+Rejection Interactive and Rectum Studios.  ;)
+
+========================================
+June 12, 1997
+
+* Got the DOOM Music CD from good friend Bobby Prince
+yesterday.  It's fantastic, chilling and highly recommended!
+70 minutes worth of the best DOOM music remastered and
+made better in most songs.  Visit www.bpmusic.com for details
+on ordering this.  My copy is autographed:  "To Scott, the man
+who got me started! -- Bobby."  Bobby has created the music
+for at least ten of our games, including Duke 3D, Keen,
+Wolf 3D, ROTT, Xenophage, Duke II and Cosmo.  For being a
+retired attorney, he's a decent guy and a heck of an artist. ;)
+
+* Looks like we forgot to check our Apogee trademark and
+someone else owns it.  Drats.  We're thinking of new names:
+Rogue, nope--taken.  Raven, nope--taken.  Ritual, nope--taken.
+Better stay away from names starting with "R"--it's getting a
+bit crowded and confusing in that arena.  ;)  Actually, it's
+too bad Hipnotic wasn't available for them--it's a much better
+name than Ritual because of all of the word-play potential,
+with "Hipsters," "our games hypnotize you," etc.  Still, a
+quality name is not nearly as important as a quality game,
+and I'm sure there they'll do well, especially with all the
+Duke talent they have.    (Just kidding, sheesh.)
+
+* We were recently notified by PC World magazine that Duke
+Nukem 3D won "Best Game of 1996."  Another award, yawn.
+
+* Been playing the work-in-progress for the N64 Duke 3D,
+and the explosion effects rival those in Turok.  Very
+cool stuff.  Also, we're redoing some of the weapons
+altogether, taking advantage of the N64's abilities.
+
+* Finally, Altec Lansing, as cool a company as you're going
+to find, just delivered to us a truck load of high-end
+computer speakers.  These speakers are black, which fit
+nicely with our new charcoal/black desks we recently
+bought for everyone here.  We have speaker companies trying
+to give us free stuff all the time, but Altec's stuff is
+what everyone here uses.  (That's an endorsement for those
+who have trouble reading between the lines. ;)
+
+========================================
+June 9, 1997
+
+Going through more older books (deciding which get kept or
+tossed) and found the 1985 Programmer's Market, a book I used
+to help me find publishers to sell my games to when I was
+first entering the business.  I think this book is still
+updated yearly and sold, btw.
+
+Anyway, here are some of the developers and publishers from
+back then I notice are not still around:  Avante-Guard,
+Big Five (Miner '49er), CBS Software, Datamost, Epyx
+(Jumpman, Impossible Mission), MicroLab, MicroSpec (Trek-64),
+Muse Software (Castle Wolfenstein), Quality Software,
+Penguin Software, Sirius.  I'm sure there are dozens and
+dozens of others.
+
+Also, Ken Williams, CEO of Sierra, had this to say:  "I see
+lots of programs that use three-dimensional scrolling
+terrains.  It's a cute effect, but some much of the machine's
+power goes into moving the landscape that the game suffers.
+Graphics are important, but secondary to gameplay."  This was
+quite true for back then, but then FMV came along and gameplay
+became less than secondary, it became a tack-on at the end.
+
+Duke Nukem just keeps selling and selling and selling...  Our
+1st quarter 1997 royalty check from GTIS was huge, and GTIS
+told us they've already sold more in that Q than they were
+expecting to sell all year.  Also, in Europe Duke won't die.
+In the weekly sales charts I get from Europe, Duke Atomic
+continues to stay in the Top Ten, this week rising from
+spot 10 to 9.  (By comparison, Quake, which came out five
+months after Duke, has been below Duke for months, currently
+at spot 18.  BTW, this isn't meant to be a put down of Quake,
+I'm using it just as a good reference.)  As they say in the
+business, Duke has legs.
+
+In our offices Carmageddon seems to be the game of the week.
+It's the kind of game we wish we would have time to make
+here.  ;)
+
+E3 is just around the corner!  If our plane goes down this
+company is a goner...  
+
+Con Air:  We've seen all the predictable explosive effects
+before, but the fun characters make this one a winner.  Why
+do we cheer for the escaped psycho-lunitic-killer at the end?
+Why ask why?  ;)
+
+Ghost and the Darkness (on video):  DON'T WASTE YOUR TIME!
+
+Frank Zappa, "Guitars" (compilation of best guitar solos up
+to the mid-80's, no singing):  Great, great stuff!  Two
+CD's of very creative, diverse instrumental mastery.  What
+I like about Zappa's music is that he always worked with
+very, very talented musicians, such as Steve Vai and Terry
+Bozzio.
+
+========================================
+June 5, 1997
+
+Digging through my library of computer books I've kept for
+the past 20 years, I came across Dvorak's Guide to PC
+Telecommunications, released in 1990 (over 1050 pages long).
+There's a chapter on shareware, which contains this text:
+"Shareware is not a good plan for all programs...As a rule,
+the following genres of shareware programs haven't been
+clearly successful:  Games, Utilities & Vertical programs."
+
+For games specifically, Dvorak comments:  "Game players
+tire of the game and decide not to register.  Some see
+games as trivial--something to play with, but certainly
+not to pay for.  Younger game users just don't have the
+money to pay for games."
+
+A visionary Dvorak was not!  ;)
+
+However, in all fairness, games did do poorly when
+released as shareware up until Apogee showed the world
+how to do it properly with our breakthrough technique
+of releasing a portion of a full games as shareware,
+and selling the remaining episodes direct.  Up until
+that point all shareware authors made the mistake of
+releasing their *entire game* as shareware, which
+leaves little to no incentive for players to pay up.
+
+It wasn't until Apogee's Kingdom of Kroz in 1987,
+and our later games in 1990 and beyond, that an
+effective way for games to make money in shareware was
+discovered.  Epic Megagames was the first company to
+copy the "Apogee Model" in 1992 with their Jill of the
+Jungle game, and id followed suit after departing from
+Apogee and releasing DOOM late in 1993.
+
+Before the Apogee Model, authors like Nels Anderson
+(Super Fly, EGA Trek, many others) and Mike Denio
+(Captain Comic) released their full games as shareware
+and made very little money from honest players who
+sent in the game's requested registration.
+
+It was the Apogee Model that made shareware games
+profitable, and without this model I doubt that
+any major game would be released as shareware nowadays.
+
+Movie shorts:
+
+Lost World:  Great eye candy, but just as poorly done
+as ID4.  The professor's daughter was only in the movie
+to be scared?!  Great role...not.  First 20 minutes a
+big bore.  Why was the T-rex in the hold of the ship
+when it crashed?!  Lots of other stupid stuff.
+
+Break Down:  The first rule of when you finally have
+the bad guys at gun point is to ***shoot them!***
+Otherwise they always escape to come back to get you.
+Other than this aggravation, a very good movie.
+
+Warriors of Virtue:  (Had to take my son.)  Fell
+asleep after finishing my popcorn with oil (I
+refuse to call it butter).  Not for adults.
+
+Ransom:  (On video)  Better than I thought.  The
+father did all the right things against the FBI's
+recommendation.  Good twist near the end.
+
+========================================
+May 30, 1997
+
+Just hired another programmer for Prey, who will primarily
+handle AI and other general game programming.  We'll have
+more details about this person soon.  The Prey team has
+nine full-timers now.  We'll be looking for another level
+designer to add to the team soon after E3.
+
+Our Portal Technology in Prey is utterly unbelievable to
+see.  It is so powerful it can fry your thought process
+just looking at it.  This is truly the future of 3D gaming
+technology.  Prey can do tricks that defy reality.
+(Whoops, maybe I'm hyping a bit too much. )
+
+We're looking for a low-level, hardcore programmer to add
+to the Duke Nukem Forever team.  Anyone interested?  ;)
+
+The Shadow Warrior books (a two-book set) are being written
+as I type.  I've been told the writers are currently
+nominated for Hugo and Nebula awards, so we're expecting
+these books to be of very high quality and content.
+
+There'll be 10 of us heading to E3.  Apogee/3D Realms will
+have a larger section of GT Interactive's (our retail
+publisher) than any other developer GTI works with.  Plus
+we'll have a back room invitation-only area for demo'ing
+Prey and Duke Forever.
+
+Paul Steed, the newest artist at id, visited us yesterday
+and saw a little demo of Prey (not our Portal Technology,
+though, which was broke at the time).  He noted that the
+screen shots don't do the game justice (they never do).
+
+========================================
+May 22, 1997
+
+The Prey project is moving along very swiftly and with
+amazing results.  We have an amazingly talented, dedicated
+and focused team, and they're all doing above-and-beyond
+work.  The UK version of PC Gamer arrived yesterday and
+had a major news item on Duke Nukem Forever.  There's a
+paragraph about Prey in there, that reads:
+
+"3D Realms are, of course, working on their next
+generation Prey engine, but as Prey slips to late 1998, the
+need for a stop-gap is obvious.  [Speaking about Duke 4.]
+We were granted a furtive glance at Prey on a recent visit
+to Texas and it looks so good it should be worshipped as
+a god.  it uses coloured [that's how they spell it] lighting
+to phenomenal effect and pixellation has been eradicated
+almost as effectively as smallpox."
+
+For Duke Nukem Forever, which will use Quake technology,
+PC Gamers said:  "This is the news that almost caused us
+to put this latest, scoop-packed issue on hold as it
+arrived on deadline day...On the one side there is the
+innovative interactivity of Duke Nukem, and countering it
+are the breathtaking 3D effects only found in Quake.  Those
+with vision dream of a time when all these elements can be
+united in one fantastic, universal game--A kind of Theory
+of Everything for 3D first-person-perspective games.  3D
+Realms' licensing of Id's Quake II engine makes this dream
+a stark, frothing reality."
+
+I guess the pressure is on us to pull this off.  :)
+
+We recently hired a superior artist, who will soon join the
+Duke 4 team.  Ruben should be here the first week of June.
+We get an average of 40 artist submissions per month, so we
+have the luxury of picking from the best of the best.  Ruben
+is truly one of the best.
+
+The current issue of GameFan has both Duke and The Quake Guy,
+guns blaring, on their cover.  This cover may become a
+collectors item 10 or 20 years in the future, as representing
+two of the most successful games in computer history.  We've
+bought at least 25 for ourselves.
+
+Shadow Warrior pre-orders are taking off in a huge way.  We
+promise that customers pre-ordering will get their game
+first.
+
+Finally, we have an unannounced game that has been underway
+for some six months now that is looking spectacular.  This
+game is being developed by a developer partner in Europe,
+and uses a 3D engine that's as good as the best I've seen.
+Soon after E3 we'll create a web page for this game and
+begin showing screen shots.
+
+========================================
+May 9, 1997
+
+Apogee Software is 10 years old.
+
+I started this company in 1987 with the release of two
+text adventure games (like the popular Infocom games of
+that era), titled Beyond the Titanic and Supernova.  I
+released these games as shareware, and they bombed.  These
+were two very good games so I knew the problem wasn't with
+their 

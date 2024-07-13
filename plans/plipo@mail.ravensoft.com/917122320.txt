@@ -1,0 +1,78 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Pat Lipo
+Email: plipo@mail.ravensoft.com
+Description: Lead Programmer/Prog. Manager
+Project: Heretic II
+Nickname: Vertigon
+Last Updated: 01/23/1999 16:09:56 (Central Standard Time)
+-------------------------------------------------------------------------------
+1/23/99 (PM)
+    All right, enough is enough!  There has been a lot of talk on
+the Heretic II forums about a VERY bad joke made by Shubes on one
+of the discussion groups...  I'll tell you straight up.  There 
+ABSOLUTELY POSITIVELY WILL NOT be a nude Kiera skin released with
+the Heretic II Enhancement Pack!
+    Ultimately I am responsible for every single file and change 
+that will go into the patch, and trust me that I have no intention 
+of doing something as STUPID as this.  Even if for some reason I 
+was inclined to do so, there are many other people this is passed 
+by as well, including Steve Stringer and Activision QA.
+    The root of the joke is the fact that, yes, there was a nude
+skin created for Kiera here at Raven.  However, before you get 
+your undies in a bunch, there was a similar skin created for 
+Corvus as well.  Jeff Butler does these to get the character's 
+anatomy in the proper locations before adding clothes to the skin.  
+This "nude skin" is then the foundation of every other skin made 
+for the model it's made for.  It's a necessary part of working 
+with these models, and Jeff has in all done a tremendous job of 
+bringing these detailed textures to our polygon characters.  He is
+an incredible artist, and I think you'll like the job he has done
+on Kiera as much as you enjoyed Corvus.
+    Unfortunately this has ignited an argument from some people
+out there that figure "why not release it, there aren't enough
+women out there to matter."  That's crazy talk!  I've been really
+happy with the amount of attention Heretic II has garnered from 
+female gamers.  There is absolutely no way that I would do anything
+to try to offend such an important and growing segment of the 
+game-playing community.  I personally want to do everything I can 
+to attract as many women to our games as possible.  I'm hoping that
+with the release of a female character, a strong capable one and not
+some irritating Barbie-doll with breasts the size of beach balls,
+we'll bring even more our way.
+    Guys, look at it like this.  There's getting to be as many 
+women out there as there are of us.  The more of them that play
+Heretic II, the more PEOPLE we have playing Heretic II.  That 
+means more servers, more people on those servers, more fun!  Who
+can argue with that?
+    To get into the community around Heretic II, please visit
+http://forums.hereticii.com
+
+Let's be careful out there,
+Pat
+------------------------------------------------------------------
+1/23/99
+    So people are calling me crazy.  I've been here non-stop
+for the past couple of weeks working on the enhancement pack.  Once
+Shubes finished up the Kiera model, it just inspired me to start 
+wailing on things.  My wife's going crazy, since she thought that
+crunch time like this would be over for a while (she very patiently
+endured the six-or-so months of crunch time I had finishing up
+Heretic II.)  Mercifully, she knew full well that she was marrying
+someone who was married to his games.  (Does that make me a
+bigamist? :-)  
+    We should have some good stuff ready for you very, very soon.  
+The pack should enter full QA at the beginning of next week.  I
+JUST added a very new, but Very Cool Thing (tm) to the game.  We
+still have to test it, but if the mechanics of it are satisfactory,
+I think it'll completely rock!
+    That reminds me of something.  If I'm messing with the game a
+tad here, how much do you trust us?  For a radical mechanic like
+I'm working on, I'm going to add a convar to turn it off, but 
+should every "enhancement" be optional in your opinion?  I know,
+hard to say without a definitive list (once it get further into
+QA we can get a list out to y'all), but let me know what you think...
+
+Take care,
+Pat
+ 

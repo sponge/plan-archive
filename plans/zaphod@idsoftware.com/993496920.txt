@@ -1,0 +1,15 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+Last Updated: 06/25/2001 15:44:46 (Central Standard Time)
+-------------------------------------------------------------------------------
+Quick update on Mac OS X
+
+If you run with s_chunksize 2048 you get a noticable framerate improvement over the default.  Please note that I forgot to latch s_chunksize, so you need to quit the game and restart after you've changed the value of that cvar.
+
+Mac OS X 10.0.4 seems a lot snappier to me too.
+
+Graeme.

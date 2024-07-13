@@ -1,0 +1,44 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: slothboy
+Plan modified: Tue Apr 07 11:21:54 1998
+
+Mar 6, 1998
+===========
+
+Been awhile since the last update.  
+
+UberEngine:
+The geometry is almost complete.  I had 3 major worries about the curved 
+surfaces and LOD that finally came to a head this week.  Two of them are 
+completely fixed and the other remains at 80% complete.  That is what I 
+will be focusing on in the next couple of weeks.  The "adjustment" that 
+Gary and I came up with a few weeks ago is working out very nicely.
+
+The Level Designers seemed to be pretty happy with the way the tools
+will function, and there is little to no preprocessing necessary for
+generating the levels.  More details on this in the future.  
+
+Gary has been busy pluggin away at the lighting code and has the 
+basics up now.  We have another big intergration coming toward the
+end of this month.  At that point, we should actually have some nice
+looking geometry (textured and lit).
+
+The Game:
+The game design is coming along as well.  This has been a big time
+sink in the past month.  There are some really cool ideas floating
+around the group.  Can't wait until we are able to start talking about
+specifics.  The major "plot" of the storyline is almost complete, the
+Level Designers are thinking about what they would like to do with
+the given environments, and characters are being flushed out.  All in
+all things are going pretty well.  I am really excited about this 
+project.
+
+I know that the updates thus far have been somewhat cryptic, but as the
+technology is getting more solidified we will definitely open up.  As a
+matter of fact Gary and myself are talking at CGDC about Hardware and
+Engine Scalability.  Some of UberEngine will probably make an appearance
+in that talk.
+
+Until next time....

@@ -1,0 +1,147 @@
+Login: ljackson       			Name: Lee Jackson
+Directory: /usr/home/ljackson       	Shell: 
+Plan:
+Date: 09-26-1997  Time:  0:08:50
+
+Another Balls of Steel recording session is done, and the files are out the
+door. Just a few final additions to the voices prior to Wildfire finishing
+up the project.
+
+I've yanked the MIDI file from my .plan to prevent user irritation. It may
+have sounded cool at first, but trust me - you'll get tired of it if you
+hear it enough.
+
+Looks like I'll be keeping my work-related info here on 3dportal.com for
+the time being. My ISP is setting something up for me to post personal drek
+on. We'll see how it works.
+
+Still problems with the AWE64 - there's a nasty hiss coming from the right
+channel.  No hiss from the left.  Might be something in my wiring, but the
+only way to tell is to yank it and replace it with one of the others that
+Creative Labs sent us.  That may get done tomorrow.
+
+
+Date: 09-24-1997  Time: 22:07:00
+
+Thanks to Brad Wernicke, my finger info is back up, albeit on 3dportal.com
+instead of my ISP. I'm still trying to get my ISP to solve their problem.
+
+
+Date: 09-18-1997  Time: 22:27:00
+
+Shadow Warrior has been sent to NARAS. Maybe that'll get them moving on
+adding a couple of multimedia categories to the Grammy awards. The only way
+to get their attention is to send stuff in.
+
+Finally managed to get an AWE64 Gold in my MIDI machine. Had a hell of a
+time doing it, due to a problem with Windows 95's MIDI subsystem. Turns out
+that Win95 won't let you have more than 10 MIDI devices activated, but it
+will let you go ahead and install more than 10 without saying a thing about
+it. That is, until you try and access anything that involves MIDI, when it
+gives you GPFs in MMSYSTEM.DLL. I sure hope they fix this in Win98.
+
+In case you're wondering, 8 of the MIDI ports are part of the Music
+Quest/Opcode 8Port/SE rackmount MIDI patch bay, and one was a virtual piano
+driver that Cakewalk installed. That left 1 port, and the AWE64 tried to
+install 3. Had to disable the 8Port/SE, reinstall the AWE64, disable 2 of
+its ports (FM and external), then re-enable the 8Port/SE. Everything works
+now.
+
+
+Date: 09-17-1997  Time: 18:36:01
+
+I've been back in the office since Monday, basically getting things back in
+shape to work on again. No really new developments yet, but a couple of
+things to note.
+
+First, Paul and I had our first discussion on sounds and music for Prey.
+We're still in the early, early, early planning stages, but at least we're
+in sync now.
+
+Second, it looks like I might be doing one last round of work for Balls of
+Steel. Nothing big - probably just beefing up the voice content a bit.
+
+Finally, now that Shadow Warrior has hit the shelves, I can finally talk
+about the "secret track" on the CD. If you play track 14, you will hear a
+song called, appropriately enough, "Lo Wang's Rap". Enough said. 
+
+
+Date: 09-12-1997  Time: 12:53:07
+
+I'm nearing the end of my first vacation in ages, and it's been a pretty
+horrible one. Not even halfway through it, I catch a case of acute
+bronchitis from my wife. Today marks the first day since the 5th that I've
+been able to get out of bed and do anything productive.
+
+Assuming that my lungs clear themselves out this weekend, I'll be back to
+work on Monday the 15th. I have a lot of things lined up for when I get
+back - preliminary work on Duke Nukem Forever's music and sounds,
+discussions with the Prey team, and a million other things that have been
+put off until I finished my work on Shadow Warrior and Balls of Steel.
+
+Finally, I'm planning on doing something totally futile. I want to submit
+Shadow Warrior to NARAS (the Grammy Awards people - see personal info
+below) for nomination consideration. It has a snowball's chance in hell of
+actually getting nominated for anything, but I hope to at least make it
+appear on the ballots.
+
+Why bother to do this? Well, there isn't a Multimedia category in the
+Grammy Awards yet. IMHO, there should be. By submitting Shadow Warrior,
+I'll hopefully stir things up a bit and get the necessary committees to
+look into the situation.
+
+That's all for this go-around. Watch this space for updates.
+
+(This finger page is a bow to those on IRC who've said I should set one
+up.)
+
+PERSONAL INFO (for those who care)
+==================================
+
+ Name:                 Lee Jackson
+
+ Date of Birth:        November 19, 1963
+
+ Current Position:     Music and Sound Director, Apogee Software,
+                       including the 3D Realms Entertainment and
+                       Pinball Wizards divisions
+
+ Music/Sound Credits:  Apogee Fanfare (current version)
+                       Rise of the Triad (LC, VPT)
+                       Stargunner (SC, cinematic FX, VPT (music))
+                       Duke Nukem 3D (CC, CFX, VPT)
+                       Duke Nukem 3D - Plutonium Pak/Atomic Edition
+                        (SC, LFX, VPT)
+                       Shadow Warrior (SC, LFX, VPT)
+                       Balls of Steel (CFX, VPT)
+
+ Current Projects:     Duke Nukem Forever
+                       Prey
+
+key:  CC  == contributing composer
+      LC  == lead composer
+      SC  == sole composer
+      CFX == contributing sound effects
+      LFX == lead sound effects
+      VPT == voice performance talent (did a voice heard in game)
+
+As you can see from my credits above, I work for Apogee Software. I began
+on May 10, 1993, as a Technical Support Representative. I was in the tech
+room for over 2 1/2 years, but on January 15, 1996, I became Apogee's/3D
+Realms' first Music and Sound Director. According to Joe Siegler, I have
+the privilege of becoming the first person ever promoted to development
+from tech support. I'm honored .
+
+I accepted in mid-1997 into the National Academy of Recording Arts and
+Sciences (NARAS) as a full voting member, based on my work for Duke Atomic
+and Stargunner. NARAS is the organization that gives out the Grammy Awards
+every year.
+
+My job responsibilities include composing music and designing sounds for
+in-house games, as well as for some done by outside development teams. I
+also coordinate voice talent and direct voice recording sessions.
+
+George Broussard would tell you that I'm also quite good at spending the
+company's money on gear and software. I keep telling him to shop and
+compare - he'd soon see that I'm a cheap date. 
+

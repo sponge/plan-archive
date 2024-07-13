@@ -1,0 +1,39 @@
+Account Name:  Chris Hargrove
+Email address: chrish@3drealms.com
+----------
+Name: Chris "Kiwidog" Hargrove
+Position: Code Boy
+Project: Duke Nukem Forever
+Email: chrish@3drealms.com
+
+3/4/97
+------
+Ah, the joys of fixing things.  The last 24 hours have been extremely productive, and if my brain holds out, the next few days look to be the same way.  Yesterday evening while continuing the rework of the guts of Cannibal, I had a "vision" (so to speak), and everything about where this tool should be going slammed into my brain within a matter of minutes.  I finally knew how this thing should turn out in the end (something which was rather hazy until this point), and everything became clear.  Implementing it was another matter altogether, but I racked my brain before going to bed on how to deal with a couple of these problems, and then more so this afternoon.  But early this evening it started to fit, and I've been rolling with it since.  Even at this stage, I can already tell the end result is going to be one of the coolest interfaces I've ever worked on.  In a couple weeks when we start thinking about screenshots, you'll know why I'm all excited about it again.  I was worried for a while that the extra time I'm taking on this wouldn't really measure up to the added gains... but that worry is long gone now. :)
+
+The only frustrating part is not being able to show you guys how cool this thing is yet.  Time will resolve that problem though...
+
+Back to the freak show, :)
+
+
+3/2/97
+------
+It has only been one day, and it is only 3 PM in the afternoon, and I am already having to stop myself from killing someone.  Many thanks for all the support emails I've gotten from people since yesterday; I really do appreciate it.  Somehow I'm starting to fear this may not be the right time though.  Loonyboi sent me a pretty inspiring email about how he quit, but he pointed out a very important point... before you quit, you have to know why you're quitting.  Aside from the obvious slew of health reasons though, I don't know why I want to quit yet.  Probably the main reason is like he pointed out, just to prove to myself that I'm not a prisoner to this drug.  The thing is though that I _like_ my cigarettes.  I enjoy them, and I don't want to give them up completely... at least, not all of me does, and if even 1% of me still wants to smoke, it'll still prevent the 99% that doesn't from quitting.  This nicorette gum really does help (while I still want to kill someone, it's keeping me from acting out such urges), but even more than the addiction, I'm finding myself wrestling with a much more mental issue... not just "can i", but "do i want to".  The fact is, I don't think I want to, not yet.  When I have a wife and a family to think about at some point, then this question will probably have a very different answer.  But for now, I like my smokes.  They've been part of how I've defined myself for the past three years, and now is not the time for me to call who I am into question.  If I'm going to dedicate time to soul searching, I'd rather do it when I have the time to dedicate.
+
+So I'm going to accept the fact now that this will not be a successful attempt to quit.  Loonyboi is right, I have to know why I want to quit before I can do so, and I don't have enough reasons yet.  But I already paid the money for this gum, and fortunately it doesn't go moldy or anything, so I'm going to keep it ready in my house for when the time comes.
+
+Sorry for my extremely short-lived effort to all of you out there who mailed me... but I really, really do appreciate what you've sent.  You guys have shown me over and over that it can be done.  The only thing I have to work out in my head is my reasons why, and I don't have those reasons now.  Hopefully later, a couple years down the road, that will change.  When my mind is finally ready for this though, the gum (and the support of my friends) will hopefully still be here.
+
+Many thanks, all of you.
+
+
+3/1/97
+------
+Well, this week has been semi-productive.  Been doing a lot of Cannibal update work since it appears to be more of a task than I had originally anticipated.  Fortunately Nick more or less got the script stuff finished up, so he's moved on to integrating the entity system (which I started earlier and would've been working on now instead), so it all works out; this way our time is well spent on both fronts.  Hopefully sometime this week I can get the first of the updated versions out to the artists, so they can start taking advantage of the new features.  Ideally this week will be more productive than this past one, as much of the Duke crew has been addicted to playing Worms 2 lately, including myself.  If I don't keep myself under control, I might have to delete the thing from my hard drive... it's that damn fun.
+
+Speaking of Cannibal, I've been getting a lot of email lately requesting more info on the tool, like screenshots and editing details and stuff like that.  For those of you writing me about this, I apologize if I haven't replied to you.  Once this tool is out of the way I'm fairly sure we'll be putting up a screenshot or two of it, so don't worry about that (I would volunteer some screenshots of the existing tool, but they'll be obsolete in a week).  As for more details, I'm not sure how much I can/should reveal at this point; hopefully you'll understand.  We'll make all things clear when the time comes though.
+
+On a personal note, tonight begins my third attempt at quitting smoking.  I've tried twice before, both cold turkey, and neither attempt lasted more than a week.  I love my smokes, but I've been doing this for three years and I can already start feeling the consequences.  So this time I broke down and bought a thing of nicorette gum, so we'll see if that helps.  The last cigarette in the last pack I have on me should be gone by around midnight tonight, at which point Round 3 in my quest to rid my system of this damn drug should commence.  Wish me luck, I'll keep you posted how things go.
+
+- Chris
+	
+    

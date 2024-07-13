@@ -1,0 +1,69 @@
+Login: gateway        			Name: Steve Tietze
+Directory: /usr/users/gateway       	Shell: /usr/local/bin/tcsh
+Last login Fri Mar 13 13:33 (CST) on ttyp4 from vision
+New mail received Fri Mar 13 13:54 1998 (CST)
+     Unread since Fri Mar 13 13:54 1998 (CST)
+Mail forwarded to: "|exec /usr/local/bin/procmail"
+Plan:
+^M
+Please read first.  I am the worst speller on the earth so be warned ^M
+now :) .  Also anything that I say is not personally the view of     ^M
+Rogue Entertainment and should not be confused with those view of our^M
+company.             ^M
+-------------------------------------------------------------------^M
+
+3/13
+
+happy friday the 13th.. ugg.. :)
+
+Congratulations to Scott McNutt for winning the level design contest.
+He did a excellent job with First Strike map.  Scott wins a Permedia2 board 
+With 8 megs of ram.
+
+2. mutated - YooShin Yang
+3. abandon - James Parkman aka "gloom"
+4. mercy - Brad Kiefer
+5. mixspq1- Matt Fox [Mix]
+
+I would like to thank everyone who entered the contest.  It was a tough
+Decision and there where a lot of good maps.
+
+A couple of observations I noticed on the maps that where turned in:
+
+On brush entities some times when they arnt fully lit you can use 
+This command in the entitites panel when setting it up.
+Key: _minlight Value: and use a .3 or .2 u can play with this value.
+
+Monsters are facing the wrong way when you come around a corner.
+
+When you first start a level its always a good idea not to attack the
+Player right away.  It's a good thing to let them get there barring first
+Then the next place they go into get them.
+
+When making single player maps make sure there are enough 
+Weapons/ammo/items to make it though the level.  This is a big
+One that we saw on most of the levels.
+
+This is just some advice.. but all in all things looked really good.
+
+Once again Congrats to Scott McNutt.
+
+
+BTW we are looking for a level designer apply to
+Jimm@rogue-ent.com 
+
+
+
+3/10
+
+Well Contest is over and we received about 24+ levels.
+We will be mulling over these levels this week and are
+hoping to post the winner by Friday or Monday at the latest.
+
+something really good might come out of this :) *GRIN*
+
+I wish everyone that submitted the best of luck.
+
+I think we are planning on releasing the levles as
+soon as we get this contest over and i would like
+to thank everyone who entered.

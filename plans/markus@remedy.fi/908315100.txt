@@ -1,0 +1,47 @@
+Username: markus                    In real life: Markus Maki           
+
+
+Plan:
+------------------------------------------------------------------------
+14 October 1998
+
+Sami, Kim and I have been working hard on 3DMark's demo mode. Haven't 
+gotten much sleep. But this has been lots of fun.
+
+A note on the Voodoo2 DirectX6 drivers. We've noted a quite large
+speed increase (20+%) on multi-texturing apps (Max Payne & 3DMark's 
+First Person game test). But it comes with a price.
+
+For a DX6 3D engine writer the "odd" (or different) behaviour of Voodoo2
+is a slight problem. The problem comes from the separate texture memories,
+as you know Voodoo2 is the only current card that cares where in memory
+the textures are placed if multi-texturing is used.
+
+It means in practise that the programmer needs to know very early which 
+TMU needs the material and that's not a very optimal case. It also means
+that Voodoo2 dual TMU support requires special cases (and they are always
+BAD).
+
+This is probably why SHOGO had it disabled in the release, and enabling 
+it is easy but causes some minor problems like that the textures might
+needed to be allocated two times, once for each TMU... (Note, this was
+one of the problems we faced, and Shogo might not have this problem)
+
+Also remember that the free trilinear filtering ability is gone...
+
+(check finger.planetquake.com for old plan updates)
+--------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+

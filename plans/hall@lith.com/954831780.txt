@@ -1,0 +1,208 @@
+
+*** Monolith Production's Finger Server
+
+User name: hall
+Plan modified: Tue Apr 04 01:50:56 2000
+
+ 
+					4/4/2000
+
+Keeping a small promise to post this in my .plan-
+
+http://hypothermia.evilavatar.com/Lisa_Dixon_wk2.htm
+
+Side note -At the bottom there are recent pictures of Mark Surfas (CEO of Gamespy) and Rick Raymo, (producer of titles like Duke Nukem 3D, Blood, and  Duke Nukem Forever to name a few - He is now a BIZ guy over at GameSpy...) for those that are interested in seeing what these guys look like these days. Very nice people. Working on the weekends no less!
+
+Anyhow, next item...
+
+I am trying to contact Richard Garriott. I am having trouble locating him. Before I really start digging, I thought I'd try the easy way and ask if anyone out there had his new contact information? If you could help me out on this, it would be much appreciated!
+
+Please e-mail hall@lith.com if you can help.
+Thanks!
+
+
+
+ 
+					4/2/2000
+
+I posted this on a wesite thread, but I thought it'd be useful for others since I'm getting some e-mail on the topic...
+
+A few comments about the demo videos: 
+
+Contrary to what some people on the net are saying, the video footage (at http://www.lith.com/lithtech/release/) is not just a recording of some custom created demo, there is in fact some footage from 3 different games included in the video. These are games that have to work on the widest possible number of systems as well. Sanity, NOLF, and Psycho Circus have some representation in the demo reel. So I assure you that this technology is is in full use, being developed for "regular/everyday" gamer computer systems (not just super high end machines) not only by us, but by other companies as well. LithTech is by no means "VaporWare". I assure you that companies won't pay good money for nothing. 
+
+Secondly, there have been comments such as "Give me timedemos. Give me benchmarks. Until then, it is VAPORPROG" and "Monolith should have a self containted mini-engine demo. This 'demo' would have all the 'in engine' features of the engine. This demo would have compatatbility with almost all combinations of popular hardware." These comments are understandable, and I'm happy to say that all this stuff exists, but you must understand that these are demands that we currently only meet for our potential licensees, not for game players. 
+
+Potential licensees get to see and play with all this stuff first hand. They get the demos, test for compatibility, get physical proof that every claim we make is true, etc. Obviously, our ability to provide and demonstrate all that information and key points is a big factor in why LithTech is being licensed so much. It definitely shows and proves. 
+
+Unfortunately, game players will have to wait for these questions to be answered when a completed product comes out from Monolith or another LithTech licensee later this year. Until that time, the only way for us to show the game community any of the neat features in action is either through a video, or at a trade show. 
+
+Please remember, that everything you see in the videos was demonstrated hands-on in real-time in front of the public at GDC around a month ago. This includes the games as well. So, it doesn't really make a whole lot of sense to doubt what you are seeing in the videos. These demos have been physically shown, to a discriminating developer audience out on a show floor - not in some private "appointment only" booth. We just can't send EXE's out just yet. 
+
+Lastly, I must point out that MONOLITH and LITHTECH are 2 different companies. Monolith makes games, LithTech Inc. makes technology. Monolith is focused now more than ever on making great games, and that strong focus is resulting in some fantastic product. I'm anxious for people to see the proof of this. Soon! 
+
+LithTech Inc, is focused on making great technology and serving its licensees. 
+
+Just wanted to clarify that. 
+
+Jace 
+
+
+
+ 
+					3/31/2000
+
+Ok, here is the LithTech GDC Demo Stuff we displayed.
+
+Since we are not releasing LithTech 2 executables to the general public yet, the only way I can show you this stuff is through recorded and compressed movies. This kinda sucks since you can't see how crisp and clear everything looks but it will have to do for now.
+
+Here are some items of note about these movies:
+
+There are three of them.
+
+LithTechAlphaDemoFull15fps.mpg - this movie contains small clips of the technology demos and some of the games that we were showing at GDC this year. This movie is 6 minutes and 30 seconds. Because it is so long, I needed to do everything possible to bring the size of the file down. I wound up making the movie's framerate 15fps (this saved a ton of space, it started at 30fps). The downside to this is that at 15fps, the granularity sucks, so a lot of the smooth, parabolic camera rotations that move through the worlds look somewhat choppy. This is especially noticeable when viewing the Chromed 15,000 polygon female model.
+
+That really pissed me off, so I made a slightly higher framerate version (15000polys.mpg) of just the 15,000 polygon model rotation segment for you to see that indeed, the act of creating the mpg created the "choppiness". 
+Anyhow, I just don't want people thinking that LithTech is choking on that model in any way. It's not. It runs quite smoothly. In the end, if we release the real time demo that this footage was taken from you'll see and judge for yourself.
+
+LithAlphaShort15fps.mpg - is a truncated version of LithTechAlphaDemoFull15fps.mpg. This movie is about 2 and a half minutes shorter and doesn't contain the demo footage of Skeletal Animation, Weather Systems, Seamless indoor/outdoor Transitions and Curved Architecture.
+
+Again, please realize that all this footage is internal company test stuff. Even though it does show some in-game footage of some titles, they are by no means finished and are certainly not to be taken as game demonstrations.
+
+This video is finally being released so that the public can take a quick first look at some of the technology that is contained within the LithTech system. This is the first time in quite a while that LithTech is being placed in public view to stand as a pure technology without any one particular game product driving its interest.
+
+We are working very hard on our technology and I hope you are pleased with what you see. We are still holding back a few surprises though. Please feel free to e-mail me at Hall@lith.com to let me know what you think!
+
+Also, here is a special bonus:
+
+Holy cow!I just got my hands on 5 LithTech PS2 screenshots of the GDC PC demo in action. Obviously, this demo is designed for the PC (no NURBS, less polys in the models, etc.) but WOW, the shots really show how far LithTech on the PS2 has come in the last few weeks (specifically, everything is in hi-res now... you see it pays off to spend time on good texture management system programming early on). Just the fact that all of this is running and all of our tools can export to the platform so quickly is impressive. The shots from the PS2 look extremely similar to the state-of-the-art PC shots! On a TV it looks incredible! Good work engine team!! Perhaps I'll release a movie of the PS2 stuff running (although it will just look the same as what I'm releasing today)...
+
+http://www.lith.com/lithtech/release/
+ 
+Other things -
+I'm very excited to be working with RealNetworks. VERY, VERY smart people over there...More on that front later.
+
+I saw the editorial article on LithTech in the new issue of PCGAMER. A good read! It is good to see that more and more gamers are interested in getting info about the technology that is going to be driving so many upcoming games!
+Kudos goes out PCGAMER for their leadership in exploring this area. Hopefully there will be more!
+
+BTW - More license announcements soon... You'll flip when you find out who they are!
+
+
+
+
+
+ 
+ 
+					3/24/2000
+
+Well alrighty then... It looks like someone enjoys being up on the net. I'm thinking that there may be an "exhibitionist-type" tendency going on here.
+
+As promised, the interview:
+
+http://hypothermia.evilavatar.com/Lisa_Dixon.htm
+
+Well, if she can forge new relationships with cool websites, I'm all for it I guess...
+
+Those of you that are interested in getting a bit more fit, dropping some bodyfat, or getting some insight into what it takes to be successful in the fitness industry may be interested in that interview as well. 
+
+I found that the most interesting part was how much she admits to loving gamers. That's news to me! Maybe this industry has rubbed off on her... oh no! ;)
+
+Anyhow, on to new subjects -
+
+Next week I'm planning on working on getting the new LithTech 2 demo real-time cinematic (the one we showed at GDC) into an MPEG or AVI format so that people can get a closer look at it. I'll make sure to include both levels (the one with the kung-fu girls, and the one with the 15,000 polygon reflective-type model).
+
+GDC was cool and I got a chance to meet a lot of interesting people while I was there. All in all, a good experience.
+
+Licensing has REALLY picked up, so you should expect more 'significant' (heh) announcements soon on that front. Also, we are really starting to move more swiftly forward on our LithWorld project.
+
+Again, we are hiring and looking for lots of good people. If you are interested in working on some cutting edge stuff, please go to our website and look up the available positions and then send your resume!!
+
+Other items of note - 
+
+NVidia dropped by. Can't really say what we talked about, but LithTech is obviously something impotant that appears on their radar screen. It was good to talk to them. I like what they are doing. I think that you can expect to see some interesting things happen with LithTech and NVidia in the time to come.
+
+Sanity is getting closer to being done and is looking mighty good. It runs really smooth and is very fun (at least for me!). There is polish on top of polish on this one. Man, the difference having a finished engine makes... I can't wait until Sanity comes out. I'm very interested in the public reaction to this game. 
+
+That's about it. I keep the other projects that we are working on "under my hat" for the time being, but you should expect to see some goodness at E3 for sure.
+
+
+
+
+
+
+ 
+					3/9/2000
+
+Quick note before I go to GDC! (Plane leaves in 2 hours)
+
+
+I sent www.evilavatar.com some exclusive LT2 screenshots. These shots are taken from the demo that we will be showing at GDC. They are never-before-seen!
+
+
+Some notes about the shots -
+
+The chromed girl is 15,000 polygons. No joke. We get a lot of questions about how many polygons can LithTech handle in each of its characters. The answer is - A LOT. Here's proof.
+
+She is also standing on a reflective surface.
+
+In some of the other shots you'll see 3 girls (which are playing back a sophitacated animation sequence). Each one of those girls are around 1000 - 1300 polys, and they are standing on a reflective surface that winds up doubling that number for them and the terrain,trees, etc.
+The entire scene including the girls represents a tremendous amount of polys on screen.
+
+LithTech can handle extremely high polycounts very well.
+
+Other things to note - 
+
+The "Stone BHUDDA head" that is sprouting up from the ground is actual world geometry. Not a model. This helps demonstrate how much detail you can put into your world construction if you like. We could have made it higher in poly count but remember, this bhudda head is in the same level as all the other stuff you are seeing and we were taking these shots on a p2 350 with a TNT 1 card, so it needed to run well on that platform. Moderation was needed.
+
+You'll also notice that the terrain is extremely round and smooth. No jaggiez really to speak of. Again, LOTS of POLYS.
+
+I encourage all developers to try to reproduce this scene/demo in your engine of choice, but unless it is LithTech you may run into some trouble! This demo does a great job of highlighting some of LithTech's new and important features.
+
+If you are going to GDC, please stop by our booth and see this demonstration and more run in real-time.
+
+Also, please check out our PS2 demo while your are there. Oh wait, the PS2 version of LithTech is also 2.0 - could we be showing the same thing running on the PS2??? Come and find out! ;)
+
+
+
+
+
+
+ 
+					3/1/2000
+
+Quick update:
+
+I was recently contacted by a website that requested an interview of me. The site explained that it would be great if I could take the time to help them out. I saw no reason as to why I shouldn't, so I did.
+
+After I answered the interview questions I THEN went to the site to see what kind of site I was responding to. Much to my pleasure I found a really cool site, with a lot of recent and interesting interviews already up.
+
+The site somewhat departs from the classic game-news format and I think that it really adds some uniqueness. Anyhow, if you are interested and have the time, I recommend that you check it out. 
+
+The link is:
+
+http://www.planetquake.com/polycount/cottages/hypothermia/
+
+and they have interviews with people like:
+
+Billy "Wicked" Wilson
+Aurora from GameGirlz
+JCal from Stomped
+Etc.
+
+It's pretty casual and has some interesting perspectives.
+
+The interview I did is located at:
+http://www.planetquake.com/polycount/cottages/hypothermia/interview_JasonHall.htm
+
+Hopefully, more development people will want to do some great interviews, and we all can get to know more about each other (except for the 3 minutes we see everyone at GDC and E3)...
+ 
+Anyhow, I want to with Steven Lynch the best of luck with his site! He is off to a great start.
+
+
+
+ 
+					2/28/2000
+
+Although it has been sent out through some channels, I'm putting our GDC announcement in my .plan for those who may have missed it. I will comment further at the bottom of this update - 
+
+LithTech, Inc. GDC 20

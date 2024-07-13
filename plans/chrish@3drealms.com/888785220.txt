@@ -1,0 +1,138 @@
+Account Name:  Chris Hargrove
+Email address: chrish@3drealms.com
+----------
+Name: Chris "Kiwidog" Hargrove
+Position: Code Boy
+Project: Duke Nukem Forever
+Email: chrish@3drealms.com
+
+3/1/97
+------
+Well, this week has been semi-productive.  Been doing a lot of Cannibal update work since it appears to be more of a task than I had originally anticipated.  Fortunately Nick more or less got the script stuff finished up, so he's moved on to integrating the entity system (which I started earlier and would've been working on now instead), so it all works out; this way our time is well spent on both fronts.  Hopefully sometime this week I can get the first of the updated versions out to the artists, so they can start taking advantage of the new features.  Ideally this week will be more productive than this past one, as much of the Duke crew has been addicted to playing Worms 2 lately, including myself.  If I don't keep myself under control, I might have to delete the thing from my hard drive... it's that damn fun.
+
+Speaking of Cannibal, I've been getting a lot of email lately requesting more info on the tool, like screenshots and editing details and stuff like that.  For those of you writing me about this, I apologize if I haven't replied to you.  Once this tool is out of the way I'm fairly sure we'll be putting up a screenshot or two of it, so don't worry about that (I would volunteer some screenshots of the existing tool, but they'll be obsolete in a week).  As for more details, I'm not sure how much I can/should reveal at this point; hopefully you'll understand.  We'll make all things clear when the time comes though.
+
+On a personal note, tonight begins my third attempt at quitting smoking.  I've tried twice before, both cold turkey, and neither attempt lasted more than a week.  I love my smokes, but I've been doing this for three years and I can already start feeling the consequences.  So this time I broke down and bought a thing of nicorette gum, so we'll see if that helps.  The last cigarette in the last pack I have on me should be gone by around midnight tonight, at which point Round 3 in my quest to rid my system of this damn drug should commence.  Wish me luck, I'll keep you posted how things go.
+
+
+2/18/97
+-------
+Lotsa stuff happening these days.  Been keeping busy trying to get all this model crap out of the way; got most of the engine changes resolved, very little left to implement there, but the code to upgrade Cannibal is a more major undertaking.  The tool to this point has been primarily 3dfx-based, and it's only popped back into Windows viewing for things like load/save file boxes (which I didn't feel like writing controls for in the 3dfx... the windowing system I made for Cannibal is nice and all, but I'm only going to take it so far).  But some of the new additions were making the 3dfx-side interface become more and more prohibitive, so I've had to make the thing a more dual-screen type of thing, where you use the windows side for model control just as much as the 3dfx side for actual manipulation, and use a key to toggle between the two.  I didn't like the idea of restricting this to a two-monitor tool though, so it has the option of working on one monitor (with the only cost being more mode switching than a two-monitor setup would do).  Altogether though I think it's turning into a nice and powerful little tool.
+
+BTW I want to throw my thanks out to Mark Dochtermann over at Ritual for giving me a bit of an assist in our plight to simplify 3DS MAX exporting.  I had written a bit of plug-in stuff previously, but a little chunk of code he threw my way made my life much easier.  Many thanks man, I owe you one. :)
+
+On a semi-related note, as I've been adding this Windows-side UI I was reminded how annoying Win32 can be sometimes.  In particular, the lack of one simple function for single-line user input.  The MessageBox function is so commonplace in Win32 code, why couldn't they have made a similar function called "InputBox" or something that looked just like a MessageBox, but with a small one-line edit box control to type in text and return it.  I get sick of manually having to make dialog boxes for stupid crap like this, when Win32 should do it already.  I just want something generic, it's not too much to ask.
+
+Well, since it's not there, I threw one together.  For you Win32 programmers out there, if you don't already have a function to do this (you very well might), this could be handy for you.  Here's a small C/C++ code block and a corresponding .RC block to drop in your resource file (I didn't feel like constructing the dialog frame manually in the C code).  Maybe in the next version of Win32 this kind of menial code won't be necessary to do the most basic of things... *sigh*
+
+/* Don't read this on a web page directly if you want the code to look readable whatsoever! */
+
+
+
+// Generic Input Box Function:
+// char *InputBox(HWND parenthwnd, char *caption, char *definput, char *text)
+// Parameters:
+//     parenthwnd = parent window to the input box (NULL is the same as HWND_DESKTOP)
+//     caption = title bar of the input box
+//     definput = initial (default) string to put in the edit box itself
+//     text = string prompting for user input
+// Returns:
+//     String typed in the edit box (up to 1024 characters) if user hit OK, or NULL if user hit Cancel.
+//     This string pointer will be valid until the next InputBox call (copy it if you need it longer).
+
+//------------------------------
+// Begin .RC resource block:
+//------------------------------
+
+IDD_GENERICINPUTBOX DIALOG DISCARDABLE  0, 0, 212, 74
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Caption Automatically Inserted Here"
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_EB_GENERICINPUTBOX,7,31,198,13,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "OK",IDOK,47,53,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,113,53,50,14
+    LTEXT           "Prompt Automatically Inserted Here",IDC_ST_GENERICINPUTBOX,7,7,198,19
+END
+
+//------------------------------
+// End .RC resource block:
+//------------------------------
+
+//------------------------------
+// Begin C/C++ code:
+//------------------------------
+typedef struct
+{
+    char *caption;
+    char *text;
+    char *definput;
+} inputBoxInfo_t;
+
+static BOOL CALLBACK GenericInputBox_df(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam)
+{
+    static char outbuffer[1024];
+    inputBoxInfo_t *info;
+    RECT rect;
+
+    switch(msg)
+    {
+    case WM_INITDIALOG:
+        GetWindowRect(hwnd, ▭);
+        SetWindowPos(hwnd, HWND_TOP,
+            (GetSystemMetrics(SM_CXSCREEN)-(rect.right-rect.left))/2,
+            (GetSystemMetrics(SM_CYSCREEN)-(rect.bottom-rect.top))/2,
+            rect.right-rect.left, rect.bottom-rect.top, SWP_SHOWWINDOW);		
+        info = (inputBoxInfo_t *)lParam;
+        SetWindowText(hwnd, info->caption);
+        SetDlgItemText(hwnd, IDC_ST_GENERICINPUTBOX, info->text);
+        SetDlgItemText(hwnd, IDC_EB_GENERICINPUTBOX, info->definput);
+        return(1);
+    case WM_COMMAND:
+        switch(GET_WM_COMMAND_ID(wParam, lParam))
+        {
+        case IDCANCEL:
+            EndDialog(hwnd, (unsigned long)NULL);
+            break;
+        case IDOK:
+            GetDlgItemText(hwnd, IDC_EB_GENERICINPUTBOX, outbuffer, 1023);
+            EndDialog(hwnd, (unsigned long)outbuffer);
+            break;
+        default:
+            break;
+        }
+        break;
+    }
+    return(0);
+}
+
+char *InputBox(HWND parenthwnd, char *caption, char *definput, char *text)
+{
+    inputBoxInfo_t info;
+
+    info.caption = caption;
+    info.definput = definput;
+    info.text = text;
+    return((char *)DialogBoxParam(m_hInst, MAKEINTRESOURCE(IDD_GENERICINPUTBOX), parenthwnd,         (DLGPROC)GenericInputBox_df, (LPARAM)&info));
+}
+
+//------------------------------
+// End C/C++ code:
+//------------------------------
+
+
+
+
+2/12/97
+-------
+Doh... been a week or two since my last update; things have been nice and busy lately.  Been doing the late thang since about the beginning of this month, coming in at a ridiculously late hour and leaving a little before everyone else starts coming in.  It's nice to take a week or two here and there where hardly anybody is around to bug you so you can just sit back and get stuff done.
+
+Nick's been polishing up the script integration with the engine and the few bugs that have come up as a result, but those should all be knocked out in a day or two.  This thing's becoming so flexible it's scary.  In the meantime I've been dedicating my graveyard-shift time in "the hole" (as George has now labeled our office when I turn the blacklight on) to engine updates.  
+
+Changed a bit of the game logic's connection with the server code so it'll be a little less of a pain to move over when the script goes online... also changed the way resources were managed between the client and the refresh DLLs so precaching is no longer necessary.  We still want to register most of the resources used in a level when it starts, but I didn't like the idea that "register" in this engine had also implied "load me now".  That may have worked fine with Q2, but I anticipate the number of registered resources with Duke (even if many are rarely used) would leave too much of a memory footprint if we had kept that arrangement.  That's one of the only downsides to interactivity... the sheer amount of resource "stuff" you have to account for is daunting at times.  So now register-time loading is still an option if you have the memory, otherwise by default it'll only load resources (models, images, sounds, etc) when they're needed, for drawing or playback or whatnot, and then caching them out later if necessary.  At first I thought the speed hit for doing this could be bad, but it's surprising how well this works.
+
+Also been working a bit on the network's handling of entity models, since our model control logic is considerably more complex than quake's.  Fortunately the added flexibility doesn't look like it'll be much of a network hit at all, so I'm looking forward to getting this finalized.  Still have to change Cannibal to account for some of the new model features, but luckily the artists are already designing things with these in mind.  By the time I get all this stuff wrapped up, Nick should have the script fully integrated (and hopefully bug-free), and then it's all sweets from here on out.
+
+Hmm, almost sunrise...
+
+- Chris

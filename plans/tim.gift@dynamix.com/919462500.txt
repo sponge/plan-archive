@@ -1,0 +1,63 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-------------------------------------------------------------------
+User Name: tim.gift     Plan Last Modified: 02/19/1999 16:07:39 PST
+
+Real Name: Tim Gift
+Nickname: Slacker
+Job: Director/Lead
+Project: Starsiege Tribes
+
+2.19.99
+
+Finally upgraded the servers this morning.  A little
+embarrassing that it took us so long.  Right after we
+released 1.2, we found a few server problems, and
+I didn't want to upgrade all 29 servers to 1.2 just to
+turn around and upgrade them all again to 1.3. The
+OpenGL driver was in testing at that point, and so we
+decided to just wait and roll OpenGL into 1.3.
+Unfortunately, we kept running into problems with the
+driver. The OpenGL driver has been a little trickier
+than we originally  anticipated.  For some reason, we
+had an optimistic, "this is going to be easy" attitude
+towards OpenGL, just port it over and it's going to
+work great!  Should have known better :)   Dave is
+still on it full time, including weekends (he feels the
+pressure). The driver is also going into Starsiege, so
+Dave has been spending time with the Starsiege team to
+help them integrate and test the driver with their
+game.  The Starsiege team is definitely intent on
+shipping with OpenGL to avoid the flak that TRIBES has
+been getting :) At this point TRIBES/OpenGL is going
+through final QA, soon as our QA lead thinks it's ready
+for beta, it's out the door.  Should be sometime next
+week.  We are going to have an open beta, as there
+seems to be a lot of people who want to test it. There
+are still a number of outstanding issues with OpenGL,
+we'll have them all documented in the release notes as
+well as a list of all the cards that we've tested with.
+We'll be looking for feedback on the driver,
+compatibility problems, performance issues, etc.
+
+The OpenGL beta patch will include a few other
+client side fixes as well; no longer linking directly
+to the OpenGL library (GLU32), a client side badword
+filter, keyboard break fix, few other items.
+As this the patch is not a major release, we don't
+recommend that you download it unless you are having
+problems with the current release, or want to test the
+new features.
+
+IRC is temporarily under control again :)  We'll see
+how that holds out. I'll be looking at alternatives.
+
+I should also mention that my email back log is
+currently 72, ah, make that 73 messages, It's way past
+the point where I can answer all the mail that comes
+in, I just don't have the time. I'm going to try
+passing some of it off on to other guys on the team,
+but some of it may go unanswered, don't take it
+personally :)

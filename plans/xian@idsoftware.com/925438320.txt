@@ -1,0 +1,40 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: Quake 2
+Last Updated: 04/28/1999 22:05:03 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+Apr.28.1999 @ 10:00pm
+
+ If anyone knows of an NFS Server for NT that allows you to serve network
+drives, please drop me a line. (eg: I wish to run the NFS server on system X
+which links to an NT share on system Y. I'd like for system X to serve
+files via NFS from system Y.)
+
+ Thanks,
+
+ -Xian
+
+
+
+---
+
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, leaky roof, broken glass, mud slides, forest
+fire, or projectile (which can include, but not be limited to, arrows, bullets,
+shot, BB's, paintball, shrapnel, lasers, napalm, torpedoes, or emissions of
+X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.). 
+
+---

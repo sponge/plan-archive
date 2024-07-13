@@ -1,0 +1,211 @@
+
+*** Ion Storm's Finger Server
+
+User name: pdeupree
+Plan modified: Fri Sep 04 12:31:42 1998
+
+09/04/98
+--------
+
+Whew.  The code is done and the CD should be burning soon for the ECTS demo.
+Battle mode is looking AWESOME now.  Corrinne gave me a mystech effect to use
+that is very cool, and Will made some music that is awesome (though Tom didn't
+have the CD handy, so he put in the Star Wars theme and that worked also).
+There is this map with a good wide open space and we've got a battle set up
+between 3 different enemy types, and 3 party members.  With getting this
+working so that it looks good, flows well, has enemies with some form of
+intelligence, and ends with a flourish it's been quite a month.  In addition
+I got the code for storing inventory for the party and NPC shop keepers, and
+allowing purchase and sales interaction with the shop keepers in there.  We
+don't quite have the interface for this interaction yet, but it's still
+progress.
+
+Now it's off to a restful labor day weekend of getting my butt kicked by a bunch
+of high rank Karate folks.  I can already feel the pain.  :)
+(But it's a good pain.  Honestly.)
+
+08/25/98
+--------
+
+Been busy, busy, busy on Anachronox battle mode stuff.  I've hooked up the
+character animations and sound so that the battle have a lot more life.  It's
+really cool to see the battle play out with sweeping camera movements,
+enemies jumping over to whack your character in the head with the chunk of wood
+they're carrying, and laser beams cutting into your enemy.  We don't quite
+have the Leviathan spell from the Final Fantasy VIII demo yet, but Lee's
+thinking of things.  Even if I've said it before, I'll say it again.  This game
+is going to be very cool.
+
+
+08/03/98
+--------
+
+I've changed my mind.  I'm playing Final Fantasy II instead of Resident Evil
+now.  I picked up the game in an auction a little ways back and I never got
+around to playing it, so now I'm taking the time (late at night) to get my
+money's worth from the game.  To be honest, it's games like that that show
+me that graphics aren't everything.  Since this game is many years old, the
+graphics are obviously very substandard to todays, but I am very absorbed in
+the game because of pure gameplay and plot.  It's also really interesting
+to see just how much of the Final Fantasy series has survived over the years
+(including that silly song that plays when riding a Chocobo).
+
+In addition, my wife and I went to an arcade game auction this Saturday and we
+picked up a pinball machine and two video arcade games that need a little work,
+so I'm breaking out the old soldering iron and getting back into electronics in
+my spare time.  That should be pretty cool.  I have not had a decent electronic
+project since maintaining my Apple II as a kid.  Anyone out there know of a good
+place to get schematics for arcade games that are around 3 years old?
+
+In the meantime, Anachronox is coming along very well.  I spent some time last
+week wandering around in one of our battle test maps and getting my butt kicked
+by the enemies on the map.  I cranked up their stats because they were too easy
+to beat one on one, but then when fighting 3 of them it became a bit tougher
+since they heal themselves and start throwing the big guns at you when they are
+low on health.  So, I think it's time to lower those stats a bit.  I'm also
+working on making things a bit easier for Jake and Tom to import their
+character and item related data into the game.  Ultimately I want to make an
+editor for that data, but right now it's too much fun getting the visuals going.
+
+This game is going to be very cool.
+
+07/24/98
+--------
+
+Well, I finally finished Final Fantasy VII.  I've got a huge stack of games at
+home that I keep intending to finish, but I end up distracted by silly stuff
+like new games that come out.  But I really wanted to finish this one off, so
+I finally did.  Beside which, Tom has a FFVII watch that he told me he would
+give me if I finally finished the game.  :)
+
+I think I'm going to work on finishing Resident Evil next since that's another
+one that got put to the side.  I've vowed not to buy another adventure or RPG
+until I finish some of these, so finish them I will.
+
+Anachronox is getting pretty cool.  I've gotten the battle system core and
+the character stat/inventory system in there so we can have characters
+progressing from battle to battle.  I have to say that after doing engine work
+for quite a while it's going to be a lot of fun to finally just do gameplay
+programming.  I've always been the type that loves to see everything really
+come together in a game or project.  It's also great to get back to doing 3D
+programming since I had been doing 2D stuff for 7th Level and Ion Storm for
+the better part of 3 years.
+
+Now for some non-game related stuff, this is for all those people that are
+scared to drive next to a cement barrier with no shoulder on the highway.  I
+think those fears are justified.  I was on my way north last night and the
+highway was jammed because there was a semi in the right lane with a car
+wedged between it and the cement barrier.  The car was almost literally
+vertical, so it was pinned in there pretty well.  I think it's time they set
+up a no semi policy on that stretch of the highway (like they have with Lake
+Shore Drive in Chicago and the Merit Parkway in Connecticut).  It's pretty
+dangerous to have such wide and long vehicles on a 2 lane stretch with concrete
+on both sides.
+
+07/15/98
+--------
+
+I sent e-mail to one of the anonymous anti-Ion web page folks out there
+and heard no reply.  So, I'm going to post information on two of the topics
+that I addressed with them.
+
+I really want to correct a very common misconception that I've seen
+numerous times when people talk about Dominion in the press.  I have seen
+people talk about how long it took to develop Dominion, and how they saw
+the game 3 years ago.  Dominion was not even conceived of until January of
+1996, meaning that the statement that someone first heard about it 3
+years ago is not correct.  Information about this title, and glances at it
+only first happened at E3 in 1996, which would have been around May, meaning
+that the first anyone in the general public would have heard of the title
+would be a little over 2 years ago.  As a heads up, the first news of Starcraft
+arrived before anyone would have really heard of Dominion.
+
+Here is my best recollection of Dominions development history:
+
+
+January 1996: One programmer was assigned to work on Dominion, plus a
+week or two worth of work that I did "on the side".  It hadn't even been
+approved at this time and work on it was done for the purpose of convincing
+the powers that be that it was a viable thing to do.
+
+February 1996: Andrew Welch was added and began working on map editing code.
+
+April 1996: Dustin Nulf was added and took over the editor while Andrew moved
+into more engine programming.
+
+July 1996: I joined the team.  Here's where everything started to hit the fan.
+Two days after I joined, the original programmer was let go from 7th Level and
+Andrew was officially assigned as the Lead Programmer.  The original programmer
+had been having personal problems during his work on the original tile code,
+and as a result it was more or less unusable due to performance issues.  In
+addition, 7th Level changed the architecture of their tool so that we had to
+rewrite everything but the editor to fit into this new architecture.  The result
+is that we threw away all the game code that had been written to that point
+and had to start over.
+
+Here's where I don't remember exact months, so I'll be a bit more general.
+
+4th quarter 1996: Mario was added to Dominion and worked on the AI
+programming.  In addition, it was at this time that Todd left 7th Level to
+co-found Ion Storm.
+
+2nd quarter 1997: Three GNome programmers were added, but they could only
+work on the game part time while they prepared a patch for GNome.  They
+did not really work on the game full time until the later part of the
+quarter.  During this time, 7th Level also began to shop around for
+companies to publish all of their games (at the time, that was Monty
+Python's Meaning of Life, Return to Krondor, and Dominion).
+
+3rd quarter 1997: Dominion got sold to Ion Storm.
+
+4th quarter 1997: The Dominion team became employees of Ion Storm and shortly
+thereafter Mario left to work for Ensemble.  Dan had to get familiar with
+and take over the AI since most of the actual gameplay AI had not been
+added up to that point.
+
+2nd quarter 1998: Dominion ships.
+
+
+I understand why some people seem to think Dominion took longer than it
+really did.  I imagine it's due to the fact that 7th Level originally said
+the game would be released by September/October of 1996.  The problem is
+that most titles at 7th Level had a 6 month development cycle, and they
+assumed that Dominion would not take much longer than the rest of their
+titles.  However, Dominion started with an engine with no scrolling,
+tiling, network, or acceptable sound merging technology and it wasn't
+an edutainment or multimedia sprite game.
+
+As I mentioned, StarCraft probably took the same amount of time to develop
+that Dominion did.  However, they started with an existing engine that was
+capable of scrolling, tiling, network gameplay, and decent sound support.
+In addition, it was created by a stable company of game players and seasoned
+game developers that didn't have to fight non-game players over design
+decisions in the game.
+
+All things considered (or even all things not considered), I'm quite happy
+with what we were able to do with Dominion and I think that we were able
+to do a lot of work in a relatively short amount of time.
+
+The next topic I'm going to address is the fact that Dominion was sold
+for $29.95 on the week it was released at CompUSA.  I've seen some folks
+say this is a "bargain software" price.  If that's the case, I bought
+Unreal for $31.95 on the week it was released, so I guess it's in just
+about the same boat.
+
+The reality is this.  There is a marketing study someplace that says when
+a person goes to a store to buy an item, they will more than likely
+buy more than just what they originally came there for.  So, what most
+stores will do is advertise a game for a "bargain" price when it is first
+released, and thereby pull in customers and possibly sell another game,
+or a music CD, or a hard drive, or memory.
+
+Due to the fact that I'm a game addict on a limited budget, I will pretty
+much not buy a game for more than $35 (unless I REALLY, REALLY want it).
+In order to keep within that budget, I either have to buy a game when it
+first comes out so that I can take advantage of these initial release
+prices, or I have to wait for it to be out for six months or so and get
+it in the "bargain bin"
+
+So, long winded as I might be, I wanted to clear up these two issues
+regarding Dominion.
+

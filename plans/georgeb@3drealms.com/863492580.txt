@@ -1,0 +1,134 @@
+[mailhub.gte.net]
+
+Account Name:  georgeb @3drealms.com
+Email address: georgeb@3drealms.com
+----------
+(George Broussard, President, 3D Realms)
+
+Shadow Warrior update (Monday 5/12/97 - 11:55 pm)
+=================================================
+
+GOOD LORD PEOPLE!  I just checked my mail and had over
+200 "Where is Shadow Warrior" messages!!??  Thanks for
+the emails, but obviously I can't keep up with that 
+many.  
+
+Also, #swarrior on Undernet IRC is crawling with 
+people waiting for and talking about the game. 
+Drop by.
+
+The game is DONE!  It will be uploaded sometime mid
+Tuesday.  We are testing until the wee hours of the
+morning, then Joe Siegler will zip, test and upload
+the file hopefully around noon or so.
+
+Enjoy...We're gonna sleep all day, then start to
+work on the full version of the game.
+
+
+Shadow Warrior update (Saturday 5/10/97 - 5:47 pm)
+==================================================
+
+The game testing is going well.  We typically get a new
+version, and test it for 5-6 hours, then fix the few minor
+things that have popped up and start over.  We really 
+aren't even touching the code now, unless it's a crash
+bug or a flat our error.  The last real logic error we 
+found was in Friendly Fire mode.  You weren't hurting
+your buddies, but you could also walk up to a monster,
+fire a rocket at point blank and you would take no
+damage.  Fixed.  The current plan is to keep testing
+over and over and over, getting new builds of the game
+on longer anf longer intervals. If all goes well
+tonight, we can make a final build with demos, test it
+all day Sunday and part of Monday and "maybe" release
+late Monday night, or Tuesday morning.
+
+
+Shadow Warrior update (Wednesday 5/7/97 - 2:24 pm)
+==================================================
+
+Well, we've been on major bug hunts for 3 days now and they
+keep coming.  All of the smaller stuff is being stomped, but
+there are 1-2 major ones, we're hoping to get later tonight.
+The game is really stable (never crashes or locks) and we 
+haven't seen net problem in 3 days, so we feel pretty \
+comfortable with that.  We're just chasing screwups and logic
+errors at this point.  We added the demo loop to the game 
+and that's causing a never ending stream of bugs and 
+"ooops, forgot that" type things, but it's mostly resolved 
+now.
+
+Still planning on a shareware release to the net early next
+week.  The critical thing will be getting things stable by 
+Friday, so we can test 2-3 days and release.  I think it's
+pretty doable.
+
+Beta #4 went to our beta testing team, so we epxect them to
+find their usual share of things we missed.  GT Interactive
+is putting the game through their QA process as well, and
+we're all just ready to get it out the door.
+
+
+[5/4/97 3:42pm]
+
+In other news, I was surprised when some Prey dudes walked into
+my office and said "Hey, the new map guy's here".  They were
+of course speaking about Matt Wood, our new mapper for Prey.
+Welcome aboard Matt!  This officially puts Prey into high gear
+as we have key people in every spot now.
+
+[3D Realms Movie Review #1:]
+A few of us went to see Volcano last night.  Mainly because 
+going to see a movie resembled some part of the life we used
+to have.  It was 'aight.  Nothing great.  Typical disaster
+flick that was so ridden with cliche's it was sad, but the 
+effects were pretty cool.  I haven't seen Dante's Peak yet,
+but other people said they liked it better.  
+Rating: 7/10 (wait for cable)
+
+
+[5/1/97 6:30 pm]
+
+Had a nice visit from the Rogue team today, and we just sat
+around talking about projects etc that we're working on.  It was 
+nice to see some of the guys again, as we've been so busy lately.
+
+
+[Duke Nukem Forever Info ]
+
+This is sort of a mini FAQ since I keep getting the same 
+questions over and over.  It also gives people something
+to put on the dozens of Duke Nukem Forever sites I've
+seen go up.  (Thanks for the support guys).
+
+[NEW INFO]
+
+* Yes, we will maintain Quake C, so you can modify Duke 
+Forever all you want?  DLL's?  Don't know, but don't count
+on them.
+
+[OLD INFO]
+* If you want to know why we didn't use the Prey engine, see 
+www.3drealms.com, under About Us/Press Releases
+
+* We plan on maintaing all of Quake's functionality in the free
+play over the Internet.  To save some text space, since it's 
+based on the Quake engine, you can assume we will keep most of 
+what is already there and add to it, where we can.
+
+* We are developing for the Quake 1 engine and will get Quake 2 at
+a later date, and try to add what we can from it.  If you want
+Quake 2 info...you will have to wait.
+
+* 3Dfx?  Yes, we will maintain GLDuke, and will probably do extra
+stuff for the version to make it cooler.
+
+* Yes, we will have super interactive environments like Duke 3D
+
+* Yes, we will keep Duke's voice, sense of humor and character in
+place and expand upon it.
+
+* And finally, the most asked question so far? "Strippers?"  
+Hey, it's Duke, and we're 3D Realms.
+

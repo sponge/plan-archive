@@ -1,0 +1,154 @@
+Login name: arkiva    			In real life: REINHART
+Directory: /homec/arkiva            	Shell: /usr/bin/ksh
+Last login Fri Aug  7 15:23 on ttypb from port01.max1.tope
+Project: Getting everything in FF7.
+Plan:
+My neighbor is out in his backyard building a wrestling ring
+to send in to the Tonight Show so that the Nitro Girls will
+come over to his house.
+
+My life just keeps getting weirder.
+
+
+
+
+
+Greatest Bosses of All Time?
+
+Here are my top five picks:
+
+5. That Giant Crab, Master Blaster
+   This is a boss that takes pure skill to defeat.  Master Blaster
+   is a limited lives, limited continue game and by the time
+   you get to the Giant Crab you are really low on lives and
+   conintues.  Fighting him is pure adrenaline.  As you damage
+   him, he's attacks become more difficult to dodge, taking
+   incredible amounts of dexterity to overcome.
+
+4. Heihachi Mishima, Tekken
+   I just like Heihachi.  His story is told without words, through
+   the rendered cutscenes...but he has an attitude nonetheless.
+   "Grow old with Heihachi."
+
+3. Cyber Demon, Doom
+   When you first run into this guy you drop a load.  Talk about
+   a great boss.  The Cyber Demon characterizes the Doom design
+   philosophy.
+
+2. Kefka, Final Fantasy 3
+   I like bosses with attitude...character bosses.  A boss isn't
+   something you shouldn't see until the end.  Square Soft
+   knows how to do bosses.  Kefka is an madman with complete
+   attitude.  By the end of the game, you WANT to kill him.
+
+1. Sephiroth, Final Fantasy 7
+   The best boss I have seen yet.  Better than Kefka, Sephiroth
+   takes you on a roller coaster.  Who is he? What does he want?
+   His intentions and evil become all to clear as you progress
+   through the game.  You don't just want to kill him, you
+   want to annihilate him.  
+
+Had a hard time coming up with memorable bosses.
+
+OMG, FLA's Oblivion is godlike!!
+
+I noticed unrealed.com has a TCPLink tutorial available here:
+http://www.unrealed.com/unrealscript/tutorials/tcplink/
+
+This comes a little early as I am currently in the process of completely
+rewriting TCPLink.  I would urge caution in working with the current
+TCPLink class, because the new TCPLink class is quite a bit different.
+Different in a good way, though.  Its much easier to use.  I've got
+most of the new TCPLink code written, but testing is going slow because
+every time I break something in sockets Windows blows away my PPP
+connection, so I have to dial up again, change the code and start
+testing again.  Yuck.
+
+Anyway, I suggest you take the existing TCPLink class with
+a grain of salt as it will not only be changing, but the current
+implementation doesn't always work correctly.  I hope to have my changes
+done by tommorrow and off to Tim.  I'm a little behind schedule,though,
+because I lost most of my C: drive and had to reinstall windows98 (oh boy!).
+
+(I keep all my gaming stuff and development stuff on a seperate drive.)
+
+I got my two Wicked3D 12 Mb Voodoo2s and H3d set today.  $499 for
+the whole deal. Wh00p.  Playing Unreal and Quake2 in SLI is amazing
+and the H3D is really cool.  I'm going to see if I can't dig up some
+Glide demos to play with the H3D.  Oh, I also got a 21" monitor...
+I'm never going back!  Save up for one of these puppies, they rock.
+I got the Nokia 445Xi.  Now I need to run out and buy an 8meg APG
+video card, because 1024x768 is way too big.  
+
+Hopefully I'll be able to last a while now without having to upgrade.  
+(Yeah right, as soon as you think you're top of the line, John Carmack
+or somebody comes along and raises the requirements again. Hehe.
+I can just imagine myself shelling out for some Voodoo3 64 Mb SLI
+speed demon and liking it.  Sheesh.)
+
+Now if this Battlezone Large Assests file would just finish downloading...
+(Modems suck.  I want my cable back!)
+
+Games I can't wait for:
+	Dune 2000
+	C&C: Tiberian Sun
+	System Shock 2
+	EverQuest
+	Fallout 2
+	Heavy Gear 2
+	Duke Nukem Forever
+
+There are so many games under development right now that look so damn
+cool I get excited just thinking about it. 
+
+Oh man, System Shock 2.  Do you think it'll be as good as the first?  The
+first is my favorite game of all time.  Nothing compares.  I LOVE
+SYSTEM SHOCK.  I'm genuinely surprised that it never got as much
+attention as it deserved...this is a game that scares the bejesus
+out of me every time I play it.  I love a game that feeds on my fear.
+Real fear, not gore fest fear.  (Horror, fear, and terror are
+completely different things.)  Fear is something you carry with you.
+It pecks at you as your walk around dark corners.  Terror is
+an experience...its quick, intense fear.  The System Shock environment
+was so immersive that you felt fear...you cared whether you lived or died.
+
+I wonder if deathmatch style games will ever be capable of creating
+fear.  Certainly the potential for immersiveness exists.  In a deathmatch,
+however, death is a fundamental part of the game's rules.  You can't
+fear death in a deathmatch because its a basic part of the learning
+experience/play experience.  If you die, just hit fire to respawn.
+I suppose you could fear dying in, say, Quake2 or Unreal if there
+were big stakes on the line like at a tournament...but then you are
+actually fearing failure, not death.  Something to think about.
+What would it take to make a multiplayer combat in which:
+
+	- Players fear death and their environment.
+	- Players fear other players?
+	- There aren't any "denial of play" punishments.
+
+"Denial of play" is where you do something like "no one respawns
+until everyone is dead."  I dislike that.  The fun in playing
+comes from the playing...you shouldn't fear death because
+you can't play if you die.  Hell, I wouldn't fear that, I'd just
+get frustrated. :-)
+
+Someone needs to write a book on computer game theory.  Design
+philosophy.  I wish more people would update their .plans talking about design
+philosophy.  We need more game designers that have solid backgrounds
+in psychology and theology.  I know that not everyone likes games
+that strike close to home or are emotional roller coasters (granted,
+I wouldn't want to play fear games all the time myself.), but I
+think that this is an area that still hasn't been tapped.
+
+I like games that run on adrenaline (quake2, unreal), games that run
+on thought (civ2, age of empires), and games that run on
+a combination of the two (system shock, starcraft).  Seeing that
+the two most popular genres are FPS and RTS I think most people
+probably agree with this.  Hmmmmm.... 
+
+I better stop, I could write on this stuff forever and I'm a scene
+newbie!  Damn, I wish I could get inside Warren Spector's head
+and truly become enlightened!  Game design will always hold sway over
+technology. 
+	
+    

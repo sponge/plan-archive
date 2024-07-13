@@ -1,0 +1,16 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+Last Updated: 01/12/2002 17:35:33 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+There is a beta 4 build up of the Macintosh Quake 3 1.31 executable.  This time there is also a Classic
+build.
+
+If those of you brave enough to test these out could get back to me with problems, then we'll see if we
+can quickly follow up with a full final installer for 1.31
+
+Graeme.

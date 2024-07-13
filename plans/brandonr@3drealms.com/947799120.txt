@@ -1,0 +1,53 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+On since Thu Jan 13 18:06 (EST) on ttyp1 from 216.27.43.234
+   5 minutes 18 seconds idle
+Last login Thu Jan 13 18:30 (EST) on ttyp2 from 216.27.43.214
+Mail forwarded to brandon@epicgames.com
+Mail last read Thu Jan 13 04:00 2000 (EST)
+Project:
+Unreal Tournament
+Plan:
+Thursday, January 13, 2000
+
+Cliff wants to call this a "bonus pack" so I changed the text
+to reflect that.
+
+We'll soon be releasing an "bonus pack" for Unreal Tournament.
+Some of the fan sites have mentioned it and maybe posted a few
+screenshots, but nobody has really had many details.  The pack
+is a freely downloadable set of additional toys for UT.
+
+Its not a patch and its not a required download, but will have some
+cool stuff.  New models, new maps, and our runes system.  Some of
+the runes are classics, some are new.
+
+Here is a list of the Relics (runes) and their functions:
+
+Relic of Strength.       
+   Doubles your damage.
+
+Relic of Defense.        
+   Halfs damage taken. 
+
+Relic of Regeneration.   
+   Regain 10 health every 2 seconds.
+
+Relic of Speed.		 
+   Increase movement rate by 30%
+   Also improves air control.
+
+Relic of Redemption.	 
+   If you die while holding this relic, you are teleported away
+   from battle with your weapons intact and health restored.
+   (Instead of dying)
+
+Relic of Vengeance.
+   If you die while holding this relic, a skull floats above your
+   body for a brief period of time.  About 1.5 seconds later, the
+   skull explodes killing with the force of a Redeemer blast.
+
+This pack will be a free download.  We are still playtesting the
+Relics so their rules might change over the next few days.
+	
+    

@@ -1,0 +1,29 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Mon Mar 20 18:36 (EST) on ttyp0 from 216.27.43.206
+Mail forwarded to brandon@epicgames.com
+Mail last read Mon Mar 20 03:00 2000 (EST)
+Project:
+Unreal Tournament
+Plan:
+Monday, March 20, 2000
+
+Unreal Tournament server-authoritative netcode is that way for a reason.
+The author of Zero Ping seems to think that we didn't know what we were
+doing when we wrote it. :)
+
+Zero Ping might make a game feel more responsive, but it seriously opens
+up servers for client side exploitation.  Security is a critical part
+of online gaming and multiplayer fairness.
+
+Even though Zero Ping makes the game feel more responsive to the
+shooter, it detriments the victim.  You might think you got out of the way...
+hell the server might even agree that you DID get out of the way...but
+Zero Ping ignores that and empowers the client's machine to make critical
+gameplay decisions.
+
+I encourage mod authors to avoid using the Zero Ping Unreal Tournament mod.
+Finally, realize that ngWorldStats will reject stats reports from servers
+using the Zero Ping mod.
+	
+    

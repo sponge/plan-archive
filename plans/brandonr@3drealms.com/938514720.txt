@@ -1,0 +1,103 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Sun Sep  5 12:24 (EDT) on ttyp1 from tpfl.demon.co.uk
+Mail forwarded to brandon@epicgames.com
+Mail last read Fri Aug 20 17:58 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Tuesday, September 28, 1999
+
+If you run the Linux server and get an immidiate segmentation fault, it probably
+means your machine is using libc5.  The Linux server requires glibc.  I have
+no plans to make a libc5 version.  Upgrade!
+
+Monday, September 27, 1999
+
+Okay, the UT full demo linux server will start showing up on various sites for you
+to download now.  I'm spreading it to some various sites for distribution and I'm
+sure it'll find its way around the net.
+
+In the morning we'll release the UT full demo.
+
+Note: The full demo is not network compatible with previous versions.  You _must_
+upgrade.  ngWorldStats will go online and only accept stats from updated servers.
+There will be a 7 meg patch available for people with the 3dfx demo.
+
+Here are the notes for the linux dedicated server.  This doesn't include any UT
+338 release notes.  I'll see if we can get those on unreal.epicgames.com soon.
+
+This doesn't include the linux client which will be released later.
+
+----
+
+Unreal Tournament Dedicated Server Readme
+
+Bug Reports: utbugs@epicgames.com
+Linux Specific Feedback: brandon@epicgames.com
+
+Version: 338
+
+I. Installation.
+
+Currently, the dedicated server is being distributed as a tarball.  
+Copy the tarball into the root target directory and unarchive it:
+
+> gunzip UTDemo-337.tar.gz
+> tar xvf UTDemo-337.tar
+
+This will unarchive the utdemo directory into the current directory.  
+I use /usr/local as my demo directory, but you might want to use /usr/local/games.
+
+II. Starting a Server.
+
+The best way to configure a server is to start a basic server and then configure 
+it using the remote administration tool.  Change to the utdemo/System directory 
+and edit the UnrealTournament.ini.  Do a search for the [UWeb.WebServer] section 
+and set bEnabled=True.  This will enable remote server administration.  Start your 
+server using the following command: 
+
+> ucc server DM-TurbineDEMO
+
+This will start a deathmatch server on the Turbine map.  Its important to use the 
+correct case when specifying the startup map as the demo map check is case sensitive 
+right now (this will be fixed soon).
+
+Now that your server has started, open up Netscape and connect to your server:
+
+http://127.0.0.1/ServerAdmin/
+
+Username: admin
+Password: admin
+
+You can change the username and password under the [UTServerAdmin.UTServerAdmin] 
+section in the UnrealTournament.ini.
+
+Configure your server using this interface.  You might need to change the ListenPort 
+for the server web interface inside the UnrealTournament.ini
+
+Refer to UT documentation on unreal.epicgames.com for further information.
+
+III. Stuff.
+
+Stuff you _need_ to know.
+
+- There is no ngStats or ngWorldStats for Linux yet.  Do not enable them.  If you enable 
+them you'll probably get a crash when the level changes.  This will be fixed as soon as 
+NetGames gets me a Linux version.  Definitely will be fixed for the retail version.
+
+- When specifying a startup map for your server using "ucc server" use correct case.
+
+- Sorry about the crappy documentation.
+
+- Please email me (brandon@epicgames.com) any performance profiles you collect.  
+General information on performance is also appriciated.
+
+- The client is playable, but needs a performance increase.  I should have it in good condition when UT ships.
+
+- I really don't want people sending me features suggestions.  I will be adding a console 
+interface to the server.  I'm primarily interested in performance reports.
+
+Brandon "GreenMarine" Reinhart
+Epic Games, Inc.
+

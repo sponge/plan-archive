@@ -1,0 +1,264 @@
+[crack.com]
+
+Login: ken            			Name: Kenneth Baird
+Directory: /u/ken                   	Shell: /bin/bash
+Last login Mon Jun 16 17:45 (CDT) on ttyp5 from a
+Mail last read Tue Jun 24 15:57 1997 (CDT)
+Plan:
+Tuesday, June 24th, 1997
+
+Had a great time at E3!  Met alot of cool people from all over.  I actually
+started to list off who but it got too long.
+
+I actually blended in there were so many geeks haha!  I looked halfway normal
+and my normal conversational screwups were blown off.  Everyone understood
+how tired and brain damaged everyone else was I guess.
+
+I won't go into the games, everyone else has them covered.  As for ours, I
+think our booth was in a bad spot.  It was right across from Myth, which
+really seemed to draw eyes to it.  The Diamond folks were very cool.
+
+I missed most of the parties.  I went to one at the omni which I think was the
+Ziff party.  It was pretty lame... spent most of my time waiting to get a beer.
+I DID however have a blast later.  Got to hang out with Richard Garriot and the
+Origin folks alot.  I can't explain how cool that was.  I'm a huge huge huge
+Ultima fan and Garriot was my idol growing up.
+
+Back to work:
+  Thought of some good ideas in the shower.  A level preprocessing program to
+  precalculate level of detail adjustment for the terrain, and maybe mip and
+  object detail level as well.  Pre-calcing it leaves it entirely open for
+  heavy math.  The main problem in LOD terrain is that during a change in
+  detail, there is a visible pop.  It's mostly in the shading for polygons
+  that don't border the sky, and I'm sure some decent math could get rid of
+  that.  Visibility doesn't really need calculating at this point.  I'm almost
+  sure that our current culling system works almost all the time, but if not,
+  I can calculate visibility as well.
+
+  I just got some trivial case things done for models.  It's working now on
+  buildings, and as soon as it's done compiling, I'll add it for vehicles
+  and other models too.  This eliminates doing any draw calculations for 
+  models not in the view frustrum.  It also allows objects completely inside
+  the view to be directly drawn without clipping.
+
+  Our visibility check is next.  It should work well in the average case.
+
+  Software Zbuffering...  I have a very nice method thought up, but it needs
+  to be implemented to see if it's as useful and fast as I think it is.
+  Software is currently on hold (can't tell why).
+
+  Shadows need optimizing...  The shadow code is horrendous.  I've also kept
+  a spark of hope alive that I can continue my quest for shadow perfection.
+  Chris Hecker thought he knew a way (other than the appel which I can't find).
+
+
+
+Sunday, June 15th, 1997
+
+Ultima Online... wow.
+
+What a bad bad bad time for UO to hit beta.  I got my cd friday and was of
+course immediately and hopelessly hooked.  Even now I feel the call... my
+UO crack pipe is talking to me.  
+
+Here's a recap of some of the stuff I did:
+  Ran around Britain getting money (a secret way), then bought some magic
+  and some cool red clothes.
+
+  Posed over a dead Ettin that very nearly killed me.  And to those of you
+  who mailed in your congratulations... I didn't kill it.  I was running for
+  my life when a guard wench strolled up and dropped the smack down on his
+  ass ahahahaha.  She then walked away saying something like "Thou wilt regret
+  thine actions swine!" or something ahahaah.
+
+  Got very powerful with magic and killed everything I came across...  I had
+  a pack full of bear hides and deer hides and meat and stuff.  Found a dead
+  dragon and went up north to Yew and looked at the gigantic trees.
+
+  Here's where I messed up... I walked into a moongate there that took me
+  halfway around the world.  I think I ended up on Verity Isle where the city
+  of Moonglow is.  I'm not sure because after I took a few steps, I crashed
+  and couldn't get back in the game at all with that character.  Oh well I
+  had work to do anyway :)
+
+  I sent a ghost to find the location, and ran into a Chaos shrine... see
+  below for a shot.
+
+Here's places to find screenshots:
+  http://www.moongates.com/
+    This is Auric's site and DAMN he gets around.  He has the best shots from
+    the widest variety of locations.  None of mine are here.
+
+  http://www.outdoor.com/uo/
+    This one is Newton Dragon's.  He's a swell guy and put 2 of mine here.
+
+  http://rampages.onramp.net/~webb/Journal2.html
+    This one rocks!  It has my discovery of the chaos shrine.  And a shot of
+    a sea serpent I took.  The chaos shrine is totally cool.  I'm sure many
+    will be searching for it... It had the look of a place where power could
+    be taken.
+
+  http://ultima.scorched.com/betashots.html
+    Here's some wide shots.  Some shots of Moonglow?  I thought I was the first
+    on Verity Isle... mebbe not.
+
+Well I have my work cut out for me.  When I got my cd on friday I knew that I
+was likely to abandon the world to play.  Some quick thinking led me to swear
+an oath that would bind me as surely as the taer-angreal oath rod of the aes
+sedai.  I told Dave and the others that they could have my cd... to break or 
+burn or destroy... if I didn't get my stuff done this weekend.
+
+Well, it's 10:22pm and I have a lot to do... I'd better get on it ahahhaha.
+
+
+June 8th...
+
+Maybe MSVC Inline doesn't suck...
+
+Jonathon has been on mah ass for a long time to get rid of MASM and the extra
+object files.  I finally started screwing around with it and got funky results
+just like the last time I tried it.  And the last time, I very nearly became
+enraged and violent ahahhaah.  I DO want it to work inline, mainly because 
+I've had my home PC here doing nothing more than sitting in DOS running simple
+bat files to compile my asm files.  Here's an example of the wierdness:
+
+This code in inline would generate bad opcodes:
+  adc   esi,[4*ebx+UVintVfracStep]      ; U pipe only
+  generated ...   adc  esi,[UVintVfracStep]
+  mov   eax,dword ptr[4*eax+cTable+8000h]
+  generated ...   mov  eax,[cTable+08000h]
+
+Masm handled the above fine generating the right stuff...
+
+It turned out that the inline just wanted it written differently... to get the
+above working, you just have to reorder it like so:
+
+  adc   esi,[UVintVfracStepVNoCarry+ebx*4]      ; U pipe only
+  mov   eax,dword ptr[cTable+8000h+eax*4]
+
+It took a cool head to see the above... I've despised MSVC's "meddling ways"
+trying to type my stuff and scale my offsets uninvited.  If Dave hadn't been
+looking, no doubt I would never get my computer back. :)
+
+Meanwhile, Jonathon and Trey are working on other optimizations which will
+make the real difference in how the game runs.  In the old days, rasterization
+was the focus, and where 90+% of the time was spent.  Now just shoveling
+stuff down the pipeline can bring a game to it's knees unless some shortcuts
+are made.  Level of detail adjustment is a heavy problem.  We've been throwing
+around ideas, and the initial tests are a huge improvement.
+
+We're also toying around with the idea of zbuffering.  Chances are I will write
+a quick one and we will see how it affects performance.  Zbuffers allow some
+nice effects that are difficult otherwise.
+
+Well... back to the inline... 
+
+
+June 3rd... werd...
+
+We've got eleven steps to speed.  It reminds me of Myrkul's rituals in the 
+time of troubles.  
+
+We'll kick ass on em... just don't know how long it will take.  Szass Tam
+himself would be proud... werd.
+
+The main thing... vis, needs Netherese elemental magic.  Hmm... Karsus's
+time displacement spells...
+
+ack 6am&!^%@
+
+
+May 23rd... werd...
+
+Here's a poll:
+
+Whoever is reading this, would you like to see a console in Golgotha similair
+to Quake's?  I personally love them, but keep in mind that any heavy decision
+like the one above would be made by Dave or Jonathon.  I had one in that little
+quakeish engine I did and it was really cool for development...  Of course I
+really don't need it now, because I can just use 2 monitors...  And our plugin
+stuff will be dll...  Hmm...  It sure might help out people running the directX
+versions who can't get two monitors going.  I dunno.  Send me your thoughts.
+
+Normal plan stuff...
+
+Figgered out that clipping is what is hozing my p correct mapper.  So I'm like
+writing (er well... stealing) cohen sutherland and sutherland hodgman (sp?)
+clipping stuff.  I'll use whichever one is quickest and does the texture 
+coordinates right.  
+
+This weekend I will try to accomplish the following:
+
+Test various span subdivision widths in Vtune.
+Unify the 16 bit directdraw code to work on all platforms.
+Possibly merge the d3d/gdi/ddraw/glide into a single exe... Dunno if i can do 
+  that alone.
+Look at alternative lighting methods...  Color inaccuracy and banding is making
+  the two byte lookup approach not seem so cool now...  Perhaps it is time to
+  pull out some bizzare sorcery to get my funky psuedoscale going...  Perhaps
+  them crazy fins can help me.
+Test out different edge setup options...  Right now it seems logical for distant
+  gons to use a simple affine divide per scanline (can store 1/dx as a lookup
+  cheaply), and yet Hecker's DDA is also lookin good...  The only thing is the
+  added expense of full blown gradient calculation, which is a bunch of floatz.
+
+
+May 19th...
+
+Had a cool weekend.  Got the bugs worked out of 4 of the 5 asm mappers, hung out with an old
+friend of mine from stillwater (who taught me MUCH about programming) Mark Morgan, killed 
+everyone as much as possible in quake and blood and abuse... and that's about it.  Oh I also
+tried to kill Trey driving home last night... attempted to slam his blazer into the Origin
+concrete wall, but he cut me off :(
+
+
+Ye godz!!
+
+Insomnia.... baaaaaaaad
+
+I still need this article dammit!@&!@%!@.  My bud schizm is gonna find it for me, I have faith.
+
+author =       "Arthur Appel",
+title =        "The Notion of Quantitative Invisibility and the Machine Rendering of Solids",
+year =         "1967", journal =      "Proc. ACM Natl. Mtg.", pages =        "387-393",
+keywords =     "hidden line",
+
+Trey is calling to get tickets and stuff for E3.  Looks like it Trey and I and Stephen and of
+course Dave & Carly.  I've got a zillion people to meet from #ultima and DBN3 and and and stuff.
+
+Work has absolutely ruled lately.  Asm gathers a crowd :)  It's the coolest funnest thing to do,
+and the other dudes haven't been able to resist helping me.
+
+BTW... for those of you who didn't know, Dave is damn good at assembly!
+
+Looks like the mappers for now will be around 14 cycles lit perspective...  This is the standard
+approach with lookups.  I found that even though we have power of 2 textures, the modarray trick
+for non-power of 2 that abrash/hecker/miles/carmack/whoeverthehell came up with works better.  I
+had a killer idea that used bswap but bswap doesn't bloody pipe with anything.
+
+Now the question is... how to do perspective with mmx...
+
+Advice for 16 bit mappers...
+
+Avoid words like the plague:  Word instructions give you the dreaded prefix penalty that hozes
+  everything.  Sometimes they work and are better if you can get them in a V after a shift.
+  They can also cause delays if lots of addressing tricks are used because the instruction
+  turns out to be too long or something.  Like add ax,word ptr[4*eax+table+08000h] would go in U
+  only.
+
+Keep your texture pointer shifted left by one:  If you store half your texture pointer, you can
+  read from it with  mov al,[2*esi], but step it normally with adc.  I never would have imagined
+  this worked, but it does.  Dude named raster on the stealth.net #coders told me that one :)
+
+Do your light step fdiv during setup:  Theres usually enough traffic setting up the initial
+  pointers and self modifies to cover an fdiv.
+
+Use MASM:  Inline is too wierd... theres not enough control, and everything is referenced in a
+  bizzare way.  I tried it at first, but pushing ebp and trying to stick inline in a template
+  just weren't working.  Plus with masm you can be staring at your code in vtune, make changes
+  in your editor on the same machine, hit build on your dos machine, and vtune says, "Object
+  updated: Rebuild analysis?" and in about 5 seconds you have results.  It rules.
+
+yikes this is big... Time to work...
+
+ken@crack.com

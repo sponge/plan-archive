@@ -1,0 +1,33 @@
+Account Name:  joes
+Email address: joes@finger.3drealms.com
+----------
+10:36 AM 12/18/2001
+
+Work Stuff:
+
+Just a short note..  Yesterday morning I saw the Max Payne Xbox version with my own eyes at Best Buy.  So it's out there.  If you have an Xbox, go pick this up, it's awesome!   Other stores besides Best Buy had it, but they said they sold out immediately when they put theirs out for sale.
+
+
+
+2:08 PM 12/13/2001
+
+Work Stuff:
+
+Remedy is close to releasing a new 1.04 patch for Max Payne. The issue of getting the "Out of memory: Vertex buffer creation" error should be fixed now.
+
+They're looking for a few volunteers (who have gotten the error and know how to reproduce it) to test the patch before releasing it.
+
+If you want to give it a shot, please send email to: mpbugs@remedy.fi and we'll provide you to a download link.  **DO NOT EMAIL 3D REALMS DIRECTLY ABOUT THIS - YOU MUST EMAIL MPBUGS@REMEDY.FI FOR THIS ISSUE**
+
+The patch will be about 6.5MB in size. The 1.03 version was not released in case someone was wondering about the version numbering.
+
+
+Non Work Stuff:
+
+Is anyone familiar with the program Favorg?  It's a program where you can update the icons in your Windows favorites, as well as correct them if they've moved/forwarded/etc..
+
+Anyway, since I've gone to Windows XP, I can't get this program to work.  It can find my favorites OK (in their new XP location), but it doesn't "do" anything when I tell it to start updating my favorites.
+
+Anyone run into this?  If so, how did you fix it?   Or, is there an alternate program available to do this?
+	
+    

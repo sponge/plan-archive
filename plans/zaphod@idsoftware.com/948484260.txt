@@ -299,4 +299,188 @@ software prices might fall, Doom 2000 might come out, or the Y2K bug may not bur
 
 So yes.  Use a SOCKS server (we will authenticate multiple CD Keys off a single IP), open up those
 ports on your firewall (you can resolve master.quake3arena.com and just use that IP address),
-but please dont belie our intentions.  Well work extremely hard, 24 hours a day, to mak
+but please dont belie our intentions.  Well work extremely hard, 24 hours a day, to make
+everything in Q3A work flawlessly for you, but well also work on another game with the money
+we get from sales of Q3A, and by the time its done we may be able to release on DVD-ROM and
+piracy will be a non-issue.  But alas, I fear, if its there, it will be copied.
+
+These are my views, although I think id also frowns at piracy.
+
+12/02/99
+
+In preparation for the full release.
+
+The motd/master/auth servers run on ports 27950, 27951, 27952.  The default game server
+is on port 27960.  If youre firewalled against these ports youll need to get unfirewalled to
+play the game.  If we work on the servers from now on well notify the community and schedule
+the maintenance for the slowest period of the day (currently around 6am Dallas time).
+
+We have what we consider a gold build of the demo.  Were putting it through the final push
+of QA at Activision before releasing it since this build is going to be more or less prevalent
+throughout the known universe.
+
+11/23/99
+
+Activision has asked to test the full authorize server, so it's now up and running.  I can quite
+understand this.  I'm working to get the full demo out the door as quick as possible.
+
+11/23/99
+
+Im working on updating the full demo today.  Well bash on it a bit and get it out there over
+the next few days.  Once its out there Ill be updating the cdkey authorize server to the final
+version.  Unfortunately this is not compatible with the demo test, so youll need to upgrade to
+either the full version of Q3A (woo hoo!) or download the new demo.
+
+Oh, and I'm going to finish Homeworld darn it.
+
+11/20/99
+
+We're at RC2.  Life is good.
+
+11/18/99
+
+I'm debugging some stuff on the authorize server (and using you guys as testers on it).
+If you can't authorize for the next few hours please be patient!
+
+11/17/99
+
+Okay, the Macintosh Test build is going up real soon now.  It's all built and working well.  I'm
+really happy with the way we're working on the Mac.  I've been building the new id servers
+on a G3 using Java and it's been a real nice change from the PC.
+
+You'll need the newest version of OpenGL for the Macintosh, which came out today.  It's
+available at http://asu.info.apple.com/swupdates.nsf/artnum/n11545.  Go download that
+while we're coordinating on getting the Mac build out there through Sandpiper.
+
+BTW.  There's been over 1 million downloads of the Win32 build!!!
+
+11/16/99
+
+We've got a debug server up on 192.246.40.115, if people could connect to it and bash on it
+that would be great.
+
+11/15/99
+
+It's out there.  We're aware of some issues which are documented in the readme, otherwise
+I expect a lot of you to be missing many hours of sleep tonight!
+
+11/14/99
+
+Quake 3 Arena demo test should be out tonight.  Watch the skies!
+
+Just so were all sure.  This isnt the general demo.  If all goes well well
+upload the general demo in a few days.
+
+The demo contains four maps (q3dm1, q3dm7 (q3test1), q3dm17 (q3test2)
+& q3tourney2 (q3tourney) and six characters (Sarge, Visor, Major, Grunt,
+Daemia, & Stripe).  Bots are in there on five difficulty settings (from I can win!
+to nightmare!).
+
+11/6/99
+
+I asked everyone to come up with Tips Of the Day for Q3A, it was a serious endeavor
+to get some cool tips into the product (a fun game is trying to match the id employee
+with the quote).
+
+Here are some gems from the masters:
+
+Often there are secrets hidden below the hellfog.
+
+Every map has a special exit. Chat with the bots to find it.
+
+If you get negative 10000 frags something cool happens.
+
+Save money by calling our tech support from the office phone. 
+
+To open secret level press the reset button immediately after completing Tier 5.
+
+Run over the armor backwards to obtain optional armor pants.
+
+Ain't nothin' like four bare feet in a bed. Unless you have five bare feet in a bed in
+which case one belongs to an amputee not a freak with three feet.
+
+Save water. Shower with a friend.
+
+Never eat spinach with a stranger.
+
+You call me Francis, I'll kill ya.
+
+Don't look at the glass eye.
+
+Try and keep Klesk from getting the railgun on q3tourney3
+
+Q3A ownz jooo!
+
+Strafe to the right, strafe to the left... now everybody jump around, jump around.
+
+Monkey thinks bandannas more ripe at top of the tree.
+
+Take the blue pill; you aren't the one.
+
+Complain a lot about lag, LPBs, and packet loss; you'll still lose, but you'll sound
+smarter.
+
+Bind forward to control, jump to alt, and attack to delete.  Then amaze everyone
+with your running jump shots!
+
+When about to lose a big game, throw the Big Red Switch then come back on
+and bitch about your ISP.
+
+Always hit your enemy and never let them hit you.
+
+Never tell Adrian that you hit his Viper.
+
+The Red Fog is bad for your health.
+
+11/2/99
+
+The MOTD server and master server will be up and down over the next few days, if you don't
+get a response that's probably the reason why.
+
+9/29/99
+
+Ah, grappling hook hoopla  when I read about the hoopla over UT grapple CTF I knew wed
+have a similar impact (BTW, believe it or not, there is room for both games in the universe!). 
+The grapple code is still going to be in Q3A (through bot reachability and so forth), its just
+not on the maps were shipping with the product.  The CTF maps we have in there are designed
+for non-grapple use.  CTF and grapple are not tied implicitly together.
+
+Mr. Elusive (aka Jan Paul) is over here from The Netherlands helping finalize the game.  He is
+of course the famed author of the Gladiator bot for Quake II.  As some of you have been
+guessing hes been working with John Cash on the bots in Q3A.  Were very pleased to have
+Jans expertise on Q3A.
+
+9/25/99
+
+A few of you have asked about the message of the day text.  Its giving you your exe
+startup number since last Monday.  So basically, weve had over 2 million Quake 3 Arena
+games start worldwide since 9/20/99.  That works out to around 4 games every second.
+
+9/2/99
+
+I see a lot of people are playing with nude reptiles!
+
+We are not doing a Matrix game.  When we finish Q3A we'll start on the next
+project.  We will try and fit the words "welcome to my underground lair" into
+the next game, mostly because we think Steed would be good at making fembots.
+
+Okay, that's more of a suggestion than a truth.  We'll probably do something
+completely different based on stories of the Quake 3 Bus and the Nevada desert.
+
+9/1/99
+
+Some of you have commented on the master server being a bit odd right now.
+It's actually running just fine, it's just responding to queries for protocol
+41, which is not entirely compatible with protocol 40.  Only servers with
+people on there will actually show up.  You can force showing the empty
+servers with the keyword "empty", but this isn't so useful since in 1.08 you
+can't combine that with game types (e.g. you can't say "empty tourney").  For
+completeness's sake, you can also say "full".  But heck, if you type in "nude
+reptiles", you can scan that too and get exactly zip.
+
+All of this is of course fixed in the new test and browsing gametypes,
+keywords, and so forth is easier than ever.  You'll swoon.  Trust me.
+
+For those of you, and there's a bunch of you, who believe that our previous
+efforts had better network support than 1.08, we've set up servers here for
+you to get side to

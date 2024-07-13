@@ -1,0 +1,129 @@
+Account Name:  George Broussard
+Email address: georgeb@3drealms.com
+----------
+George Broussard
+President, 3D Realms
+Project Leader: Duke Nukem Forever
+Executive Producer: Prey
+
+[Friday 1/23/98 - 1:10 am]
+
+* Ok, I'd only like the hint books for Monkey Island 1 and 2 now ;) 
+Thanks to the dudes, that helped with the others.
+
+* SW 3Dfx v1.1.  Have what appears to be final code again.  The
+config files between software and 3Dfx were being really 
+problematic, so we just decided that the 3Dfx version will have
+it's own config file (it already has it's own setup program).
+Not an elegant solution, but it works and will be transparent
+really.  God, it will be nice to never again try to shoe-horn
+new technology into an older engine again ;)
+
+* Duke Nukem Forever stuff.  Nick added lot's more coolness 
+to DukeEd.  First he got it running on Win95 (a few things to
+address later, but it looks very doable for end users).
+Just don't be surprised if you need a fast PC to pull off a
+decent framerate in the editor.  Good texture management
+stuff like search and replace and texture usage counts (so
+you can dump lesser used textures). No hard promises, but
+I'd expect us to ship this editor with the game, running
+under Win95, when the game ships.  Will be cool to make
+levels oout of the box like Duke 3D allowed.  Only problem
+will be the 15-20 hour vis/bsp/qrad times you will have to
+suffer through ;)  You should all have a deep respect for
+users patient enough to make add on's for this technology ;)
+
+Sent a couple-o-screen shots of DNF for a 3D shooter round up
+that will appear in Strategy Plus in the near future.  Look
+for it.
+
+Brian is skinning weapons and, oh-my-god...(shudder)...
+
+We welcome Chris Johnson this week as a new modeller/animator
+for DNF.  He comes to us from over at Ion where he got caught
+in a lay off type deal.  He fits right in, and his CD's and
+action figures have already begun invading his desk.  Wonder
+what he'll do when we start putting his action figures in
+compromising situations late at night when he's not looking ;)
+
+* We really like the Snork skins that were released for Q2, 
+especially the Duke Snorkem one ;)  Check em out over at 
+bluesnews.com.  Also, everyone really digs the JailBreak 
+patch.  It rocks, and I personally wouldn't mind seeing it 
+take over CTF.  Nothing like being in jail, and being 
+helpless until your team mates free you.
+
+* The new web site re-design should be online late next week.
+It's much nicer, slicker, professional, and all of that stuff.
+I think you will all like it a lot.  Look for more focus on news
+and our gaming sections once the new stuff is online.  With
+DNF, Prey and Max Payne all hitting their strides now, you can
+expect a ton of web site updates over the next year.
+
+* Saw Good Will Hunting tonight.  The movie rocks.  Go see it.
+Hope some part of it wins an Academy award for something.
+
+
+[Thursday 1/22/98 - 3:30 pm]
+
+* The internet is cool ;)  I got hint books for DOTT and The Dig.
+Here's what I'm looking for now.  If you got em', email me.
+- Full Throttle, Monkey Island 1 or 2, Indiana Jones and the
+Fate of Atlantis.  Thanks.
+
+
+[Wednesday 1/21/98 - 7:15 pm]
+
+* Finally got plan's back.  Should be here to stay.
+
+* 3Dfx Shadow Warrior.  Seems to be the project from hell.
+Burned a few days on what turned out to be different versions
+of obj's that we had and 3Dfx had.  Dammit.  This is what happens
+when you attempt "virtual" projects where programmers are in 
+different spots.  We're still waiting on yet another stat bar
+issue, then we can test the final.  Been slow going.  Don't know
+what to say, except that it won't happen in the future.
+
+* I need a favor.  I'm looking for hint books for the following games:
+Full Throttle, The Dig, Day of the Tentacle.  Tried to order from
+amazon.com, and they aren't available anymore.  If you have copies, 
+please email me at georgeb@3drealms.com and I'll either buy them
+from you, or send you a t-shirt or something.  I'm looking for the
+real hint books here and not just "guides" from magazines etc.
+
+* Duke Nukem Forever.  Where to start?
+
+QE4 (Now DukeEd). Nick has been adding lot's of cool things to 
+QE4, so it's easier for us to edit things.  Items like:
+
+- Build-like scaling, panning and rotation of textures, so we don't 
+have to go through the surface inspector interface.  All this works 
+with the KBD or mouse.  It's so cool to grab the mouse and rotate a
+texture to "just" when you want it.
+
+-Instead of a green box for a light entity, we actually see a 
+pyramid (denoting a light) and the pyramid is the color of the 
+light (not just green).  
+
+- Texture lock.  Thank God.  You can now move brushes in the editor
+where you want, without the textures moving around.
+
+- Can "fit" a texture to a brush automatically.
+
+- Can "scale" a brush.  Say you build a chair to big?  No problem.
+Just scale it down.
+
+- There are more planned editions, but we've got a lot of the basics
+we want, and now Nick will join Chris on the engine stuff.
+
+Chris has been working on getting 16 bit skins into the game. 
+Should be by Friday.  Both Chris and Nick have been working on a new
+entity system to moves and control anything in the game.  Will be
+similar to what Quake C was, so we don't have to be 100% DLL based.
+This should also make end user add ons simpler.  Modellers all 
+working on models and character sketches.  All the mappers and 
+texture artists are all focused on one "zone" of the game now, 
+so everyone works from the same mindset, and we get the correct
+look and feel.
+
+More later...

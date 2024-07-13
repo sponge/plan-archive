@@ -1,0 +1,408 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Some Guy
+Project: 
+Last Updated: 07/16/1999 00:13:24 (Central Standard Time)
+-------------------------------------------------------------------------------
+7/16/99
+
+You can all go to sleep.
+
+7/9/99
+
+So whos the best at id?
+
+We were playing Xians new tourney map (it will be in the next release of
+q3test) within the company and Tim decided it would be a hoot to have a mini
+id tournament.  We huddled in the observation room watching (and shouting
+a great deal) match after match unfold in the new spectator modes until the final
+game.  Everyone at id played and when they werent playing, they were watching
+and cheering intently.
+
+So whos the best?
+
+John The Terminator Carmack won quite handily, convincing us all further that
+there really is some code in there that says If (player==Alloy).  Second place
+went to our esteemed CEO Todd Hold Still Dammit While I Frag You Hollenshead.
+The rest of us where suitably humbled(but we all claimed its because we work
+so much).
+
+It was a good test of the tournament code and great fun.  We will be doing the
+same thing in-house again soon since the method led to some good changes.  Next
+time however, there will be a few changes.  The emergency phone call to Todd from
+Activision is already planned, and were thinking the arrival of a new Ferrari catalog
+mid game for John will throw him off for the required microseconds to remove the
+ball from his mouse.
+
+So wheres that darn test?
+
+Like the Great Prophet Zarquon said, all sorts of things popped up.  Its still soon.
+We need to merge code, test, and do a drop to IHVs to make sure everything is
+hunky-dory with them.  The tourney map needs a wee bit more tweaking, and some
+of the tourney code needs a little bit more work and testing.  Theres a lot of new
+stuff in there!
+
+BTW, Dungeon Keeper 2 is one of the best games Ive played in a long time.  It's not
+delayed the test at all.  Honest.
+
+6/21/99
+
+We had the Ion Storm guys over last week to play a little deathmatch, and while
+I wont say who won between Romero and Killcreek, I can tell you it wasnt the
+male of the species.  But boy, can those Ion guys talk smack.
+
+The reason we asked them over was to have them check in on the status of our
+tournament map, which we hope to get out there soon with the next version of the
+test (to give you all time to practice on it before QuakeCon, you are going to
+QuakeCon right?).  Were also looking at a /lot/ of bug fixes, changes, and tweaks
+so were gearing up for your feedback.  Ill let Chris Hecker speak for glsetup,
+but were looking to get that updated and support for 3Dfx in there.
+
+Soon can be defined as soon.  And thats probably not this week.
+
+6/05/99
+
+Mailbombs suck.  They can cause delays and make it hard to find the meaningful
+emails from the noise.  Please stop.  I can't even read the language the email is
+in to know what it says!
+
+Okay.  A series of misunderstandings between id and Tom's Hardware has led
+to a "vs." benchmark war.  We're cool with Tom, and he's cool with us.  We're
+both going to move on and start over afresh.
+
+I just don't understand why my Riva 128 isn't more popular...
+
+6/03/99
+
+Okay.  Wow.  The Linux community has far exceeded any kind of expectations
+I had on feedback!  I've been blown away.
+
+Mike Warfield and Mark Hazen helped me out on the Samba timestamp problem.
+It seems RH 6.0 is compiled with a special fix for mounting Win95 drives,
+but that causes issues with NT and Win98 drive mounts.  The solution is to
+recompile the kernel.
+
+Several people helped me out with the compile of smbmount.c, and in the end
+I got that going by adding a #define NR_OPEN 1024 at the beginning of that
+code.
+
+On the email front, and I think this is one of the ongoing gating issues to
+true corporate use of Linux.  A lot of people use VMWare to run Win32 apps
+that have no equivalent in Linux land yet.  Out of them all, XEmacs + VM
+seems to be the most stable/complete solution, and perhaps that will make
+it's way to my desktop, but I don't see that making it way onto everyones.
+
+It seems to me that if someone wrote a bunch of Java apps using the Swing
+UI we could have very nice cross platform tools that worked in every
+OS we had to boot in the office.
+
+More than anything, I'm just blown away by how positive the community is.
+
+Q3Test answers.
+
+Yes, it should have SMP support, there are some issues with it (on some
+drivers), so it's not enabled by default.
+
+Joystick support is mostly there, but John is still working on a couple of
+the more interesting flavors.
+
+6/02/99
+
+We're working on a new Q3Test update, no schedule other than "soon", but the
+fixes are almost all internal.  We've still got a few issues we want to get
+going internally at id (notably multi-network machines).
+
+Brian is leaving, and I just want to wish him well.  He shall be missed.  We're
+not going to be bringing anyone else in during Quake3 development.
+
+I'm a bit behind on feedback email and it's all Lilith and Eve's fault.  I
+went to watch their show over the weekend and Realplayer said I needed to
+upgrade, so I did, and since then I've been toast.  I'm sure it's not
+Realnetwork's fault, there's simply too much beta about my Windows install
+to make it safe for things like DLL files.
+
+Since then I've shifted to Linux (RedHat 6.0) as my major desktop.  No more
+Win32!  My questions to the techies amongst you are:
+
+	- we've had issues with Linux machines randomizing timestamps on Win32
+	  filesystems when we use smbmount to mount NT servers.  How do we fix
+	  this?  I'm unable to get smbmount to compile in the Samba 2.04b (it
+	  errors out with a bad identifier -- NR_OPEN).
+
+	- the email client situation is not quite on par with Win32.  Netscape
+	  seems the nicest, but KMail, Balsa, and others I've looked at seem
+	  to be in active development and not quite ready for solid use.  Is
+	  this the case?  I like Outlook type interfaces over Pine type 
+	  interfaces.
+
+I looked online, usenet, and other misc. mailing lists, but wanted to see
+what real world people out there are using and doing.
+
+5/12/99
+
+Off to E3.  I'm the point on q3feedback, so the soonest I'll be picking up
+email is Sunday, so don't expect a response the next few days!  You can
+catch us at the Activision booth if you want to let me know in person just
+how long you had to wait for the Win32 test.
+
+Anyone with tapes of last weeks X-Files?
+
+The main issues we're seeing are:
+
+3Dfx drivers seem to be pretty darn difficult.  About 50% of the emails
+comprise of 3Dfx issues including BSOD on NT, crashing during level changes,
+and crashing due to in game mode changes.  We're working with 3Dfx on this.
+
+The next biggest problem is that people run the game without running GLSETUP
+to update their drivers.  Arrgh.  Arrgh.
+
+People claim that the TNT slows to a crawl when you in-game change the video
+color depth to 32bpp, but it's fine after a restart.
+
+There's a "lag trap" quirk of firing the plasma gun 12 times at a wall, as
+people approach it the overdraw slows their systems and makes them
+vulnerable to hits.
+
+There's a lot of people trying to run the game with 32mb of RAM.
+
+Setting everything to "highest" (highest resolution, color depth, etc.)
+causes artifacts on the TNT.
+
+Alt-TAB on a Matrox G200 causes the system to crash.
+
+A lot of people wrote to let us know that they just love the game.
+
+The main game feedback seems to be:
+
+1. the new railgun sucks / and / or is / awesome.
+2. the game is too slow / too fast.
+3. make it more like quake 1 / quake 2.
+4. the rockets are too slow / too fast.
+5. people die too slow / too fast.
+6. the graphics are awesome / too cartoony.
+7. don't touch a thing / change everything.
+
+5/10/99
+
+Here (at long last for most of you) is Q3Test version 1.05.  We've worked long
+and hard to get this to you and we look forward to your feedback on what's
+right and what's wrong with it.
+
+There's one known issue with the Linux dedicated server taking up way too much
+CPU time.  As other known issues come to light we'll try to keep you all in the
+loop.  Please try and email q3feedback with a good sensible subject line, mention
+what sort of system/OS you have, and remember that humans read all the feedback.
+
+GLSetup will have it's own press release sometime later this evening, but we're
+very excited to be part of this venture.  But I'll let Chris Hecker tell you all
+about it.
+
+5/10/99
+
+IMPORTANT!
+
+You must completely nuke your old Q3TEST install before installing the update.
+The config files from the old build are BAD voodoo.
+
+You can also type "exec democycle" to watch a bunch of id people play the map.
+
+
+5/10/99
+
+Q3Test 1.05 is DONE!
+
+New Linux/Mac versions are going up right now, and we're finishing up the installer
+for the Win32 version.
+
+If all goes well, the Win32 version will follow in a few hours (few == six or so).
+
+5/9/99
+
+We're getting closer, but I think it'll be tomorrow before we're out.
+
+Internally we're bashing on the new maps, code, servers, and clients.  There is a
+/lot/ of new stuff in there and we want to bang on it for a bit before we release.
+
+We are building installers, pak files, and so forth, so our confidence level is good,
+but since it's only been 15 minutes since the last bug fix (which was a doozy of a
+find BTW) and the new maps are still being bsp'd.  All of this makes a release tonight
+seem like a bit of a risk.
+
+If all goes well we will bash on it tonight and tomorrow, and once John gets in
+tomorrow we'll be ready to go.
+
+5/7/99
+
+We're looking to release Q3Test for Win32 on May 19th.
+
+Just kidding.
+
+We're approaching what we consider a good build on Q3Test for Win32, and our current
+estimate, barring any problems, is that we will release it on Sunday evening.  We will
+release Q3Test updates for Mac and Linux a few hours before Win32 to check for any
+bonehead issues.
+
+There will be completely new data for this version of the test, old versions will not
+be compatible with the new version, and old and new servers do not mix.
+
+If things change I'll let you all know.  But this is the current plan.
+
+5/1/99
+
+Rent day and I need to pay!
+
+I see several people are going for the master server right now.  That's fine, but
+we're changing the format of the server pretty radically over the next few days so
+the packet size will be nice and small and queries can be more detailed.  If you're
+a hacker out there and you want to email me with suggestions, that's cool.
+
+We will be publishing the specs to the master server and MOTD server really soon, we're
+anxious for people to look over that stuff.
+
+4/30/99
+
+The G3 firmware update is at:
+
+http://asu.info.apple.com/swupdates.nsf/artnum/n11361
+
+4/29/99
+
+We're about to update (tonight) the executables to 1.03 of q3test, there is a
+seperate download for win32 and mac that just contains the updates, and the
+main files have been updated as well.  Win32 is still only available as a
+dedicated server.
+
+We're also releasing the Linux version of q3test, this will available as a RPM
+and as .tar.gz.
+
+If you have a G3 system, I highly recommend the new firmware update from Apple,
+that gave us a noticeable (to humans) framerate improvement.
+
+Here's the update list:
+
+
+Mac specific
+------------
+improved networking stability
+improved device scanning
+improved speed
+improved memory checking
+improved sound latency
+
+Generic
+-------
+global motd/update server
+added drop shadow to field characters and fixed scrolling
+fixed edge-of-bounce-pad misprediction error (server side)
+removed broken weapon-stay dmflag
+made menu gfx never picmip
+cheat protect r_lightmap
+cheat protect r_nocurves
+clear sound buffer before any file IO
+continuous scoreboard / ping update when tab is down
+put version number on menu background
+dim out behind floating menus
+fixed server crashing string bug
+adjusted scoreboard for 8 players
+show hostname on connection screen
+fixed null model warning on startup
+more space for hostname on local servers screen
+sv_privateClients, sv_privatePassword
+"server is full" message on connect screen
+archive handicap in config file
+
+
+4/26/99
+
+Here's the most common bugs we're getting.  The first two bugs account for
+75% of all the bugs we're getting.  After that, the texture corruption bug
+seems to be the most common, and then the rest are noise or install related.
+
+Generally, unless the detail is clear, I've waited to get a bug twice before
+reporting it.
+
+If you get a crash, and it's repeatable, the Macsbug app syslog would be
+greatly appreciated!
+
+Graeme.
+
+Macintosh:
+
+--
+
+Turning up everything to the highest level of detail makes Mac crash on
+loading level.  This is by far the most common bug (50% of bugs).
+
+--
+
+This one is about 25% of the bugs:
+
+Rage Pro with 6mb of RAM on iMacs boots out with "need 4mb" error.  Works
+fine on G3 systems.  Others with G3 systems report that they are getting the
+"need 4mb" error as well.
+
+Someone did narrow this down to:
+
+If you try to use an ADB mouse rather than a USB mouse, Q3 bails out with an
+error that says "you must have at least 4MB of video memory."
+
+--
+
+Apparently after going through the underground area (that you must flip the
+switch to open), certain curved surfaces (such as arched ceilings) draw with
+garbage textures, as do a few other (flat) surfaces.
+
+May be related to:
+
+When running in 32-bit color depth, lighting effects (such as from a weapon
+firing) cause the affected textures to temporarily turn to garbage.
+(System:  Blue tower G3)
+
+--
+
+MacQuake3 test on a B&W G3/400.  When I try to run the app it refuses to run
+with the error "InterfaceLib--AddDurationToAbsolute could not be found."
+
+--
+
+random crash (but with Macsbug syslog)
+
+  Sys_GetPacket: OTLook 64
+  Sys_GetPacket: OTRcvUDErr 27547436
+
+I was then dropped into Macsbug inside CalcC_LerpVertexes.
+
+--
+
+G3 Global Village modem overrides game display with "connected" status bars.
+
+--
+
+Every time I try to go through the silvery warp portal when playing on your
+server (does not occur on local game) I crash (q3test1)
+
+--
+
+Exit game crash (but with Macsbug syslog)
+
+--
+
+Installation of the OpenGL driver from Apple breaks their DVD player
+software.
+
+--
+
+Players running around as axial models (null models).
+
+--
+
+There is a flaw in the Mac OS.  It thinks 800x600 at 120Hz will work with my
+monitor, but it doesn't.  Since the OS thinks this refresh rate will work,
+Quake also thinks it.  Therefore, when I switch to 800x600, my monitor
+blacks out and could possibly be damaged.
+
+In the options, Quake should show ALL possible monitor configurations with
+ALL refresh rates.  That way, the user can pick the one that will work best
+with his setup

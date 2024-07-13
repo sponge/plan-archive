@@ -1,0 +1,40 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Cash
+Email: jcash@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 02/04/1998 16:59:42 (Central Standard Time)
+-------------------------------------------------------------------------------
+Thanks
+------
+A special thanks to Mark Fisher over in the UK.  He helped
+me out with a nasty math problem I was looking at.  I'm glad
+there are people out there who like math enough to actually
+remember all of that stuff; I was not looking forward to
+breaking out the trigonometry books to do it myself.  I did
+have the base problem correct, but I couldn't remember all
+those nifty trig transforms needed to actually reduce and solve
+the thing.  I probably ought to get the books out and relearn
+some of that stuff; it's not fun knowing you used to know the
+answer but don't anymore.  Thanks Mark, have fun in Switzerland.
+I'll be putting it to good use, I assure you.
+
+Point Release (3.12)
+--------------------
+It's in Activision's testers hands right now.  That means we
+should be able to release it Real Soon Now.  Looks like Zoid
+is on track too.
+
+Diet Update
+-----------
+There was a Twinkie and Ho-Ho recall in 20 some states last
+week.  Don't they know that those are staples of my diet?  It's
+been rought, but I survived with a few substitutions.  Watch
+out Hostess, I've been hangin' out with Little Debbie.  It was
+scary, but at least it wasn't a recall of beer or red meat!
+
+--------------------
+John Cash
+jcash@idsoftware.com
+"Hellrot"

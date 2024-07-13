@@ -1,0 +1,75 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Paul Jaquays
+Email: paulj@idsoftware.com
+Description: Designer
+Project: Quake 2
+Last Updated: 12/01/1997 23:43:29 (Central Standard Time)
+-------------------------------------------------------------------------------
+Name:  Paul Jaquays
+Position:  Level Designer/Occasional Artist at Id
+E-mail:  paulj@idsoftware.com
+Skill Portfolio/Background:  See bio on id web page for details
+
+Current projects:  Sleep, Q2 Deathmatch maps, Mission Pack.
+
+**********************************************************************
+DISCLAIMER:  THE FOLLOWING IS THE PERSONAL OPINION OF THE AUTHOR AND DOES NOT REPRESENT THE OFFICAL POSITION OF ID SOFTWARE, ITS OWNERS, EMPLOYEES, DISTRIBUTORS, LICENSEES, OR THE GUYS WHO STOCK THE SODA CLOSET AND THE REFRIGERATOR FULL OF ICE CREAM TREATS (WHICH I AM NOT EATING ANY MORE)
+**********************************************************************
+
+**********************************************************************
+DECEMBER 1, 1997 (11:21 PM)
+**********************************************************************
+
+DESIGNER WORKLOG
+
+Have lost track of individual actions (though I remember documenting changes and map bug fixes that have come in for days now).
+
+Near the end, I made a lot of bug-isolation maps.  Caught a bunch. Felt really good to be a part of John C's bug-gooshing team and be appreciated for it.
+
+-----
+
+It's done.  The fork is in.  Quake 2 is a part of gaming history now.  I can't top Christian for expressing the feeling of the moment, or John for telling you all what we're doing and where we're going, but I can share a couple of maudlin moments from the end.
+
+The project end for me came at around 6:00 AM Sunday morning.  But that end had started the day before.  In the wee hours of Saturday morning (about 28 hours earlier), we had completed another build (John's code revisions and map clean-ups by Christian, Brandon and myself).  We went home, got a few hours sleep and came back to keep testing what we all hoped would be the final release build.  Around midnight Saturday, it became apparent that we (read that as John Carmack) needed to go one more round to stomp a killer program bug.  I hate to say it, but even at that late hour, Brandon and I were hoping we'd get the chance to open the maps again and "polish the apple" some more.  John and Adrian gave us that opportunity.  Once more into the breach.
+
+Well, Brandon and I opened map after map, tweaking, fixing, adjusting and polishing until 6:00 AM Sunday morning, and John Carmack put together another build.  And then, for me, it was simply done (I wouldn't even be in the office Monday when we went gold). Just as well.  If I kept testing, I'd probably see things I wanted to tweak. Part of being a good artist is knowing when to quit.
+
+Afterwards, it was cool to sit around for a half hour or so, be bleary, be mellow, listen to Brian Hook excitedly explain the details of the deathmatch map he had been building that day (taking seriously the order that he learn to use our current editor), see the big smile on John Carmack's face, and ... start chatting about Trinity.  Nothing specific, just hearing John's visions for what it might be able to do ... and starting to get excited about it (John told YOU not to get worked up about it ... part of my job IS getting worked up about the tools that John and Brian are going to be creating for us to use in the coming months ... and just being allowed to have input into that process almost makes me feel like a fan-boy ... almost).
+
+But between now and then, we've got work to do. I'm already thinking about deathmatch maps and what makes them uniquely QUAKE 2 deathmatch maps (playing against Thresh forces you to learn a few things about the sport), and I've got some ideas for a special Co-op mission map that I want to play around with, and of course there's the next mission pack.  I can't wait for Tim to get back from Oz, so we can discuss them.
+
+Meanwhile, I've a wife and family to spend a whole lot more time with, games to play, an office to clean (the Mesquite health board now requires decontamination and 60 days of quarantine if you enter my office without an enviro suit), sleep to catch up on (gotta get that sleeping bag and cot outta my office ... no joke), Need to get ready for that Labor Day barbe .... (already gone ... It couldn't be that late), well, then Halloween costumes to (I missed that one? When did ... ), well, ummmm a turkey to ... (I missed that one too?), OK, Christmas shopping then!!! (THREE WEEKS??? ARGHHH! I hope everyone wants Quake 2 for Christmas).
+
+Paul J.
+
+**********************************************************************
+November 19, 1997
+**********************************************************************
+I worked "programmer shift" yesterday, in addition to coming in at my regular time.  I had some serious vis bugs in two of my city levels and I worked at isolating them so John Carmack could analyze them and find out why his code was handling them improperly. Turns out they were caused by funky content that I put in some of the brushes in the affected regions.
+
+Had a lot of positive comment on "designer work logs." I don't want to try and maintain a "real" one.  Even at an overview level, it would be near impossible to track the tweaks and changes we make in a day (without spending the whole day documenting changes instead of making them ... hmmmmm, maybe all the designers need "administrative assistants" to handle that function).
+
+Worklog
+* Eliminated a major vis bug in City3 by rebuilding it.  In retrospect, the problem was probably one that was solved in the wee hours of Thursday morning by John Carmack.  Oh well, the player has a bit more floor space to move around in now.
+* Modified an elevator shaft in City3 to improve single player play variety and add a new path for DM play. (started over when I realized I was modifying the wrong version of my map ... arrrrrgh!!!)
+* Removed a few entities here, so I could add a few entities there in city3.
+*oooh'd and ahhhh'd over the multiplayer skin selection interface and Adrian's multiplayer skins!!!  If you make or use custom player skins, you're gonna love this feature.
+* Isolated vis bugs into region maps of city1 and city3
+* Set up a monster reinforcement situation for between map movement to make solving a puzzle a bit more exciting. Gahhhh!!! Where'd those berserks come from?!!
+* Adjusted lighting in several maps.
+* Watched Ben play part of city2 over and over in order to analyze why problems were occuring.  Changed the timing of triggers and spawns that form a multi-action trap to reduce the amount of things happening at the same time.
+* Watched Todd play another one of my levels in order to analyze why another bug was occuring.
+* Used eyedrops frequently.
+* Probably did other stuff, but am too bleary to remember.
+
+What I'm reading:  Found a few hours Sunday to start Glen Cook's THE BLACK COMPANY (I really like his fantasy detective novels featuring Garret the private investigator)
+
+What I'm listening to:  "Best of" movie soundtrack music collections.  Randy Stonehill (rock 'n roll Christian recording artist/comedian who was touring when I was in college 20+ years ago ... and is still making great music).
+
+
+
+******************************************************************
+OLD STUFF
+******************************************************************
+Gone.  Check out somebody's archives if you want to read my previous bits of wisdom and flame.

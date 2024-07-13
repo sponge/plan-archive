@@ -1,0 +1,88 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Robert Gee
+Email: rgee@mail.ravensoft.com
+Description: Artist
+Project: Star Trek
+Last Updated: 08/20/1999 11:49:53 (Central Standard Time)
+-------------------------------------------------------------------------------
+08.20.99
+********
+
+GUYS: No shirt, no service.  GALS: No shirt, no charge.
+
+********
+
+Hey all, ST:V - Elite Force is moving ahead apace. We got some more
+approvals from Paramount, including some creature models we recently
+finished up - so I started final setup on one and will begin animating
+it today. Eric and Shubes helped me set up some nice little expressions
+including a complicated IK system married to a constrained directional
+null system. This beastie should make a few eyes pop when it's done.
+I am confident it will kick ass. More later...
+
+As for some personal news - for those that know and care, my daughter's 
+most recent cardio appointment (quarterly) was yesterday. My wife summed
+it up thusly to some family friends, and thought I'd share it with all
+the .plan readers out there and a few old internet friends:
+
+  Katie's appt. went better than expected. Although the news wasn't all 
+  good it was not as bad as it could have been. Her atrium is 
+  increasing in size to compensate for the ventricle loss so her 
+  fatigue is a bigger factor. Also, her blood is "pooling" and 
+  circulating in a small area making clotting a major issue but she is 
+  on blood thinners to combat it. The Dr. has suggested that we "bond" 
+  with a transplant center because when the time comes things will move 
+  quickly and we need to be prepared so we are now considering 
+  Milwaukee as a center because it is close and we can keep 
+  Christopher's "world" semi normal.
+
+That's it for now True-believers.
+Till Kim & Kenn are revealed as the current Sith Lords, make mine Mignola.
+
+
+
+08.02.99
+********
+
+As long as there are tests, there will be prayer in public schools.
+
+********
+
+Elite Force is coming along nicely. The newest mission area (undisclosed at this time) is in the
+final stages of defining it's overall look. The designers and artists have most of the "major" areas
+done and have been tweaking out textures, architecture and lighting effects for final approvals. The
+entire mission area is really looking great - the original concept sketches were done with Quake III's
+curved surface capabilities in mind. Needless to say, it won't be a very friendly neighborhood when
+it's done ;).
+
+While I'm waiting for some model approvals to be reviewed, I've spent some more time setting up some
+additional animations for the scavengers. We've been fortunate to have access to the SoF animation
+data base, as well as using the CHIMAERA system for our humanoid models to apply the animations to.
+We're using a fair number of the mo-capped scenes that Scott and Eric set up with hOuse of mOves.
+But unfortunately, there are a few animations we can't use. Most Star Trek races have a very distinct
+body language and just wouldn't look right doin that gang bang thang. Klingons just don't go talkin
+smack while they cap :) A big thanks to Eric Turman for the ungodly hours he put into setting up the
+CHIMAERA system. He has much honor.
+
+Shubes is working on the creature that will be found hanging around the newest levels, mentioned above.
+Brian P. is working with Bill to get our official website finalized - it's really looking pretty sweet.
+Mark has been doing more concepts, as well as helping Brian get the story boards done for future cinematics.
+Lampo has been a big help exporting all the anims for me so that Mike can edit and reclip them into the 
+game. Kim has been working with Les to get the characters' heads and faces done. B'elanna is looking hot.
+hmmmmmmm.... B'elanna. Les has been busy making models and working with Steve R. on some new effects that the
+designers will be able to set up in their levels. Todd, Mark, Kim, and our newest artist - Andrew Trabbold -
+have been creating some very impressive textures for the new levels. 
+
+So, as I said, things are coming along nicely.
+
+A big welcome back to Chris Foster and Kenn Hoekstra. Both Soldier of Fortune and STV: Elite Force had a
+strong showing at the Activate Conference in Scotland. Sounds like they had a good time and were able to
+enjoy some of the sights and tastes of Scotland. My Granny Mac would be happy to hear of two more haggis
+converts added to the clan. :)
+
+And a big welcome to Andy. He's a fellow UW-Eau Claire art alumni and a Water Street veteran. Andy has 
+been a regular artist for many of the Vampire Dark Ages and Mage books published by White Wolf Game Studio.
+For those of you who don't know what Water Street is - it's the most concentrated number of bars in a two
+block area in the state of Wisconsin. It's the heart of the city's college party scene and one of the
+deepest pits of Hell. God, I miss it....

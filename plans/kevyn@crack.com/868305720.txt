@@ -1,0 +1,9 @@
+[crack.com]
+
+Login: kevin          			Name: kevin tyler
+Directory: /u/kevin                 	Shell: /bin/bash
+Never logged in.
+New mail received Mon Jul  7 16:13 1997 (CDT)
+     Unread since Mon Jul  7 10:44 1997 (CDT)
+Plan:
+This .plan is empty.  Do not be alarmed.

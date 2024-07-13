@@ -1,0 +1,77 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Pat Lipo
+Email: plipo@mail.ravensoft.com
+Description: Lead Programmer/Prog. Manager
+Project: Heretic II
+Nickname: Vertigon
+Last Updated: 09/28/2000 14:49:14 (Central Standard Time)
+-------------------------------------------------------------------------------
+------------------------------------------------------------------
+9-28-00
+
+Not much going on today...  just a bunch of brainstorming and
+planning.  Yep, planning, scheduling, that boring stuff that you
+probably think that "real game developers" don't have to do.  Well, 
+when you're working on new technology, and want a game that has all
+its major tech elements available to the designers a good year
+before you go gold, you gotta plan.  Hopefully, that also means
+that you, the consumer, don't have to put up with endless delays.
+
+Getting set for the annual Raven paintball trip on Saturday...  I 
+can't find my camo clothes, but as long as I am well-padded (which 
+is of course way important), I should be right as rain.  ...okay, 
+I'm going to be in a lot of pain come Sunday morning, but it should 
+be a good time.
+
+Mucho thanks once again to Brian and Activision for funding another
+bout of painful welts and friendly fire! :-)
+
+------------------------------------------------------------------
+9-26-00
+
+Wow...  It's been a long time since I've updated this.  I guess
+my 30th birthday last week really made me think about the stuff
+I've been neglecting...  :-)  
+
+Now that I'm a creaky old "trigenarian", I'll try to keep this more 
+up to date, honest!  Really, for real this time. :-)  I'm even going
+to finish up my web page so I can put it up.  I'm hoping to get 
+some content regarding the things that I have learned about game
+development in the past seven years.  Not necessarily technical 
+stuff, just overall lessons that became apparent as I went from
+project to project.  A while back I tried to maintain a doc of 
+advice for aspiring game developers, but unforunately didn't have 
+the time to follow through.  This time I'd like to make good.  
+Any suggestions would be appreciated...  plipo@ravensoft.com
+
+Anyway, things have been pretty quiet around the Raven front lately,
+thank goodness.  It's been a real relief after a pretty-much nonstop 
+year...  Crunch time on Soldier of Fortune bled directly into crunch
+time on Elite Force for a small group of exhausted Ravenites, of 
+which I was a member.  Ste made me feel a little better when he 
+chastised: "It's your own faults for making yourselves so useful." 
+(or something like that, it was very late at night.)
+
+However, we (Keith and Dan and Jake and Chris Reed and I) just did 
+all the multiplayer stuff.  Of course the real accomplishment goes 
+to the  full-time Elite Force team...  a great group of people who 
+pulled off a game that came as close to a movie (in production and 
+in the end product) as I've ever been involved with!
+
+Today, we just got a brand new Crisis Zone machine in our break room.
+Man, what an intense game.  It really gets the blood pumping and 
+keeps us thinking about new ways to make our games even cooler.  
+Thanks to Brian Raffel and Activision for a little Raven 10th 
+anniversary present!
+
+But things are pretty quiet, as I said, and everything is ramping up 
+slowly, including MY project (thank goodness!).  The Playstation 2 
+is a bucking bronco that the programming team, Jake, Gil and 
+especially Marcus, are taming quite adeptly.  Our new game is going
+to blow you all away.  I've also been thinking a lot about the games 
+Raven is planning, and this is probably the most excited I've ever 
+been during my time here.  It's going to be quite a year!
+
+Pat
+------------------------------------------------------------------

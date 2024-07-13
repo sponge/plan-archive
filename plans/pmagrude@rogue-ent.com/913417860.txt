@@ -1,0 +1,320 @@
+Login: pmagrude       			Name: Patrick Magruder
+Directory: /usr/users/pmagrude      	Shell: /usr/local/bin/tcsh
+On since Fri Dec 11 17:34 (CST) on ttyp0, idle 0:36, (messages off)
+    from fireball
+On since Fri Dec 11 17:37 (CST) on ttyp1 (messages off) from fireball
+Last login Fri Dec 11 17:51 (CST) on ttyp2 from fireball
+New mail received Fri Dec 11 19:10 1998 (CST)
+     Unread since Fri Dec 11 19:10 1998 (CST)
+Mail forwarded to: "|exec /usr/local/bin/procmail"
+Plan:
+#include "stddisclaimer.h"
+12/11/98
+Disruptor for Unix, take 2.
+
+*snap of director's board*
+
+Courtesy of Zoid, I've put the Quake II:Ground Zero Disruptor Enabled 
+game libraries for Unix Quake II on our web site's file area.
+
+You can access them, as well as the DLL for Intel Win95/98/NT systems,
+by going to:
+
+http://www.rogue-ent.com/files/
+
+For the web enabled finger files:
+
+Rogue Files
+
+Hopefully, this time it will work better.  Last time I really blew the
+HTML .. forgetting quotes is a BAD thing.
+
+12/11/98
+(old plan update removed since it was messed up)
+
+12/09/98
+Due to demand, you can find a DLL which enables the 
+Disruptor in Quake II: Ground Zero on our web site at
+
+http://www.rogue-ent.com/disruptor.zip
+
+You may need to do a "save this link as..." to get it to save correctly.
+
+Read the README.txt that comes with it.  For the impatient, install it right
+over the gamex86.dll file in your quake2/rogue directory.  Make sure that
+you're running Quake II 3.20.
+
+The Disruptor is a totally different kind of weapon.  First off, it tracks
+your target.  It ignores power armor.  It glows dark.  It does damage over
+a short period of time, instead of all at once.  There's nothing quite
+like knowing you're about to die .. and getting of that last shot gaining
+a mutual death.
+
+The Disruptor, as I mentioned before, is sprinkled about on our deathmatch
+maps.
+
+Unix versions should be out shortly.
+
+Correcting something I said before .. commenting out the #define is
+the "correct" way to reenable the Disruptor.  Simply turning the 
+flag from 1 to 0 enables it on the maps, but it messes some other things
+up (for example, you can't give the weapon or the ammo).  Sorry about 
+the confusion.  I recommend that all of you enterprising folks out 
+there correct this mistake by recompiling or using the DLL 
+we're providing.
+
+Finally, remember that this is unsupported, use at your own risk, your
+mileage may vary, do not taunt happy fun quake, etc.
+
+12/02/98
+Well, now that the source has been released, I guess that answers the
+questions people had about when our source code would be released.  How
+about now?
+
+Some enterprising folks might try changing a #define (hint .. KILL_DISRUPTOR,
+line 38) in g_local.h from 1 to 0.  Who knows what new weapons might end up 
+back in the game. (hint .. disruptor).  You might even find a few on our
+deathmatch maps (rdm4, rdm5, rdm6, rmd7, rdm8, rdm9, rdm13 .. and maybe more).
+
+Yes, the weapon is called weapon_disintegrator, and the ammo is ammo_disruptor.
+
+If interest warrants it, we'll try to arrange for a precompiled DLL on our 
+website.
+
+Enjoy!
+
+11/30/98
+Every now and then you stumble across some interesting and useful information.
+This is information that should be useful to anyone aspiring to be a 
+programmer .. or anything else in the gaming industry, for that matter.
+
+What information is that?  Caffeine levels in various drinks, of course.
+This list, while certainly not complete (no coffee, but we all know that it
+has huge amounts of the stuff) should help for planning those late nights
+we all en(dure/joy).
+
+(information from the Dallas Morning News, 11/18/98, page D1, serving
+size is 12 oz.)
+
+Soda             Caffeine (mg)
+Jolt                71.2
+Sugar-Free Mr Pibb  58.8
+Pepsi One           55.5
+Mountain Dew/Diet*  55.0
+Kick citrus         54.0
+Mellow Yellow       52.8
+Surge               51.0
+Tab                 46.8
+Coke/Diet Coke      45.6
+Shasta Cola/Cherry  44.4
+Mr. Pibb            40.8
+Sunkist Orange      40.0
+Dr Pepper           39.6
+Storm               38.0
+Pepsi               37.2
+Diet Pepsi          37.0
+RC Cola/Diet        36.0
+Canada Dry          30.0
+Barq's Root Beer    23.0
+Diet Canada Dry      1.2
+Mug Root Beer        0.0
+Minute Maid Orange   0.0
+
+* Mountain Dew apparently doesn't have Caffeine in Canada.  How strange.
+
+As you can see, even though there are some new contenders, Jolt still is
+the Caffeine King.  I would argue that there's such a thing as TOO much
+caffeine (after all, twitching hands do not make for accurate typing) but
+some would condemn me for heresy.  Mountain Dew's level is sufficient to
+keep me going for those LATE nights.  I often wondered why Diet Pepsi just
+didn't seem to have the same effect as Diet Coke .. now I know.
+
+What really surprised me was the differences between the Orange and Root Beer
+sodas.  Some have none, some have plenty.
+
+Stuff to remember.
+
+11/17/98
+While I really appreciate the credit Blue gives me for the AI in Ground
+Zero (about time!), I need to point out that Pete Mack did every bit as much
+on the AI as I did.  It was a collaborative effort, we each did our part.
+Some parts are very visible, other parts so subtle you don't actually notice
+them, but believe me, they are there and you'd notice their absence.
+
+That having been said .. what Blue says does, indeed, work.  We haven't
+tested it very much, and we know that there are "issues" (what a nice way of
+saying it).  One of the key new features (hint paths) of the AI won't be 
+there, as there are no hint path nodes in the original maps for the monsters 
+to follow.  There will be cosmetic glitches as well (conveyor belts don't
+work the same way in our pack).  Needless to say, it's totally 
+unsupported.. ;)
+
+For those who don't read Blue's page, here's how to play the original Quake2
+maps with the new monster AI (needless to say, you need to have the Rogue
+pack installed).  Substitute whatever skill you want to play at for the "X":
+
+\quake2\quake2 +set game rogue +skill X +map base1
+
+If you're really looking for a challenge .. make it skill 3.  I keep saying
+this over and over .. but a lot of the AI improvements we made are skill
+level dependent.  Just one example, the flyers circle-strafe you 0%, 50%, 75%, 
+or 86.67% of the time.  The daedalus do it a bit more .. they're supposed to
+be tougher.
+
+Has anyone notice the relatively obscure effects each of our new weapons have?
+For example, the ETF Rifle .. it may just LOOK like a regular projectile
+shooter.  Tried it in deathmatch?  Notice what it does to armor and power
+armor?  It totally ignores armor (200 red = 0), and takes away twice as
+many cells as regular damage.  The other two also have similar (in
+style, not necessarily in effect) "special" characteristics.
+
+Professor .. I like the sound of that .. 
+
+10/29/1998
+Thanks to everyone who's filling out our Ground Zero survey!  We really 
+do appreciate the comments (both good AND bad).  I'm really surprised 
+(and pleased) at a lot of the really small details that people are 
+noticing and commenting on .. it's nice to know that folks out there 
+are as nitpicky as I am!
+
+If you haven't filled out our Ground Zero survey and you have something
+to say after having played our mission pack (and who wouldn't?), what 
+are you waiting for?!
+
+
+http://www.rogue-ent.com/gz_survey/survey.html
+
+
+Thanks!
+
+10/1/1998
+A couple of tips for having more fun in single player.
+
+1)  Don't cheat .. or whatever you do, don't do a 'give all'.  It gives you
+all the keys, etc. -- it really spoils the flow of the levels, and can lead
+to LOTS of confusion.  If you must, do a 'give weapons' or 'give ammo' or
+'give health' or 'give armor'.
+
+2)  Play on a skill level above easy.  Many of the AI features we added
+were disabled for easy .. to keep it easy.  No real dodging, blindfire, circle
+strafing, etc (the list goes on) occur at that level.  On the other hand, 
+nightmare is truly nightmarish, and there's a nice gradiation between 
+the levels to satisfy every taste.  Go ahead, try it on nightmare.. 
+
+9/28/1998
+A continuation on tech support with Ground Zero (and other Quake II extensions)
+
+One problem we've heard some reports of is entities not showing up,
+working incorrectly, or other strange behavior that makes little sense. 
+This is likely caused by a gamex86.dll file in your Quake II directory.
+There should NOT be a gamex86.dll file there.  If there is, most likely
+what happened is that some mod you installed didn't install correctly, for
+whatever reason.  This won't happen to you if you're running one of the 
+official mission packs (thanks to the installer), but it could happen to 
+you if you're running one of the many popular add-ons.
+
+This could also happen if you're running an older Linux version .. the early
+versions were compiled with the wrong dll included (not really a dll on Linux,
+but hey).  Get the latest version, it shoud clear things up.
+
+Another one is having problems with the keyboard configuration in Ground
+Zero.  To fix it, type the following into the console (hit the ` key to 
+get the console window).  
+
+exec default.cfg
+
+This will overwrite any configuration information you may already have, and
+replace it with the default configuration as specified in the manual.  The
+only change we made after printing the manual was that we moved the Tesla
+Mine to the 'm' key to make it more convenient.
+
+The problem people are having is that when QuakeII fails to find a config.cfg
+file in the game directory (in this case, the rogue directory) it first
+checks the baseq2 directory for a config.cfg file, and ends up copying it
+to the game directory .. instead of running the default.cfg file that's in the
+pak file.  So you end up with your configuration for QuakeII, not the new
+configuration.  Our apologies to anyone who had problems with this.
+
+We will be updating our web page shortly with even more configuration 
+information, but this should get you started.
+
+For those of you viewing this in a web browser ..
+Here's the link to our web page:
+Rogue's Main Page
+
+.. and directly to our support page:
+Rogue's Support Page
+
+Enjoy!
+
+9/11/98
+Woo whoo!  Just saw Ground Zero at the Electronics Botique in Town
+East Mall .. $29.99, and well worth every penny.  Seeing it on the shelves 
+makes it all worthwile.  I'm sure it'll be in other stores as well .. this is
+just the first one I saw.
+
+8/17/98
+Wow .. gotten a lot of interest in our new Tag game.  For the curious, it's
+a heck of a lot like our previous tag implementation for Quake Mission
+Pack 2:Dissolution of Eternity.  We've made some changes, of course, but
+the basic game has the same feel.
+
+Yes, you'll still hear cries of "Goin' Quad!" coming from our office ..
+
+8/16/98
+Had a blast with that interview on Shooters.  Thanks to Blue for the
+opportunity, hope you all enjoyed it too.
+
+I realized, after the show, that we totally forgot to mention our new
+multiplayer game .. Tag!  A lot like regular deathmatch .. but with a
+significant twist.  One of the players is IT .. don't worry, you can't miss it.
+You get bonus frags for killing the player who is it, as well as bonus frags
+for killing when you are it.  Of course, if you manage to kill the person 
+who is it, you get a nice bonus .. in the form of health and armor.  There's
+more to it, of course, but that's enough for now.  Suffice it to say it's 
+a heck of a lot of fun.
+
+The whole AI puzzle of how to make a monster look smart in the 1-5 seconds it
+lives is an interesting one.  The obvious one is to make the monster smart
+enough to live longer (by dodging, ducking, weaving, taking cover).  The
+other trick you can pull is to have one monster distract the player, while the
+other monster does something smart.  Pursuit code is also very important,
+so the players can't just hop out of sight, figure out the strategy, and
+pop back in and mow the monsters down at the player's liesure.  It's quite
+a sight to see a monster take a plat after a player ..
+
+Ah well, enough for now.  Have a nice day.
+
+7/30/98
+
+Wow, it's late.  Wow, I'm tired.  Just saw some models from our animation.
+Those Russians are good!  I'm duly impressed.
+
+Working hard on the game, getting all the stuff tweaked out just right.  You'd
+be amazed how interesting of a problem our tesla mines pose for monsters, for
+example.
+
+Turrets, Medics, Gunners, and Widows, oh my!
+
+Now, if there was only a way to get my to-do list to SHRINK instead of grow
+every day, I'd be a much happier man ..
+
+Old plans:
+----------
+
+
+
+News on the DVD front .. Warner Brothers Home Video reports over $100 million
+in revenue for DVD disks.
+
+Good.
+
+There's an article on www.nando.net (techserver) but since they have a pretty high turnover rate, the url probably won't work.
+
+http://www.techserver.com/newsroom/ntn/info/070898/info17_17680.html
+
+Buy DVD.  Blow off DIVX, tell everyone you know the same.  If you don't know why, check out:
+
+http://techzone.weezy.com/dvd-faq.htm
+
+P

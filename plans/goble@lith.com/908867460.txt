@@ -1,0 +1,551 @@
+Login: goble          			Name: Brian Goble
+Directory: /home/goble              	Shell: /bin/bash
+Never logged in.
+New mail received Thu Sep 17 17:07 1998 (PDT)
+     Unread since Thu Jul  3 22:56 1997 (PDT)
+Plan:
+10/20/98
+
+Both Shogo and Rage of Mages are in stores!
+Buy a copy today! http://store.lith.com
+
+Shogo is doing great but we're still busting
+our bunz working on making it even better.
+The patch is coming along well and I'm really
+hoping we can have it out *before* the November
+15th deadline!  Mike is adding more player
+info stuff (ping times, connect time, etc.)
+so I will add that to ShogoSrv soon.  My todo
+list is growing, but Blood2 has priority for
+me currently.  Read on...
+
+Over the weekend, I some how volunteered
+myself to lead the task of putting together
+the Blood2 demo.  That's right, there will be
+an awesome Blood2 demo coming your way soon!
+Should be out early next week at the latest.
+(once I get something into QA's hands, I'll
+have a better idea--it could be sooner)
+
+This wouldn't be so bad except that we're
+also going to be putting together the gold
+master CD for the full version of Blood2 this
+weekend as well!  There's Blood everywhere!
+
+Now that I've been programming on Blood2 for
+a little while, I am totally blown away by 
+the fact that we are putting out two AAA
+game titles within a few short weeks of each
+other.  The more I work with LithTech, the
+more I am convinced that there's going to be
+a lot more cool games using it in the future.
+
+I've been trying to help out the tech support
+guys by keeping up on the forums.  Actually,
+I've gotten kind of addicted to the forums
+lately.  I try to help people when I can and
+I've gotten a bunch of emails saying "thanks!",
+"you guys rock!", etc. etc. and I just wanted
+to say that those emails mean a lot to me. We
+know our products aren't perfect but we really
+do try to help people and continue to improve
+our games.  Your support is very much
+appreciated.  We also listen to feedback from
+other gamers...so don't be shy!  :)
+
+
+^^^10/13/98
+
+Rage of Mages is out!  This game is incredible.
+Check it out at: http://www.rageofmages.com
+
+Then, buy a copy at: http://store.lith.com  :)
+
+Shogo is doing pretty darn well.  We're getting
+some really good reviews and there's less than a
+week until it hits the stores!
+
+I've got about a dozen items to do for the Shogo
+patch that we're working on.  Most of them are
+minor tweaks to the launcher and some new options
+to the stand-alone server (tractor beam stuff,
+run speed adjustments, etc.)
+
+In my last plan update, I mentioned that the 
+GameSpy support was in, but I forgot to give a
+big "thanx!" to the GameSpy guys!  Supporting
+GameSpy was actually pretty darn easy--by I did
+have a few questions and they were always quick
+to respond with helpful info.  Thanks again 
+guys!  :)
+
+I put in a bunch of the voice sounds into Blood2
+for the four "chosen" characters.  The "taunts"
+are awesome.  You can also customize the various
+sound groups with your own wave files if you 
+like--this made Rick *really* happy.
+
+
+^^^10/7/98
+
+The Shogo demo is out!  In general, people seem
+to really be enjoying it.  There are a few small
+problems, of course--but we are taking care of
+those issues as quickly as we can.
+
+I've been spending most of my time on answering
+questions on the Shogo forums and helping out
+on Blood2.  Thanks to Stephens, I can now be
+even more helpful as a member of the (elite)
+Blood2 engineering team.  :)
+
+Blood2 is really moving along now--we're in full
+super-duper-extra-deluxe-twin-turbo-intercooled
+crunch mode.  Wasn't I just here...oh wait, that
+was Shogo.
+
+Blood2 is really interesting because it's a LithTech
+game (which is impressive in itself, that LithTech
+can release a second game a month or so after the
+release of it's first game) yet it has a totally
+different atmosphere.  This game has actually scared
+me a couple of times already.  And those spiders!
+I hate spiders!  They freak me out!  But, they're
+in Blood2 and I had to test some AI stuff...so I
+had to "man it" and deal with the spiders.  Life
+is rough sometimes.  :)
+
+Rage of Mages will be in stores on October 12th and
+Shogo hits the shelves on the 19th.  This is a
+really exciting time for Monolith and I can't wait
+to see how our games do!  Thanks to everyone out
+there for all there support! :)  
+
+Last week, I finished up GameSpy support for both
+Shogo and Blood2.  Blood2 will ship with GameSpy
+support out-of-the-box and the new stand-alone Shogo
+server will be ready for downloading on Shogo's
+release date.  People seem to really like the
+multiplayer setup wizard in Shogo...which makes me
+happy since I was a little worried about how that
+would be received by other gamers.
+
+Well, my big compile is done and I have all the new
+Blood2 resourdces...gonna check out some new stuff
+now...
+
+^^^10/1/98
+
+Yes!  We are still on target for releasing
+the Shogo Demo at 12:01am (west coast time)
+on Friday (so basically, late Thursday night).
+
+I just finished playing what very may well
+be the final Shogo demo.  We only had to
+make a few tweaks to it this week so QA will
+hopefully give us the green light on Thursday
+afternoon.
+
+The Shogo demo has two playable levels--one
+mecha and one on-foot.  About 1/3 of the
+weapons are available and there's tons of
+stuff to blow up and you'll also get a taste
+of how the story gets conveyed and how the
+NPC interaction works.  It's really quite
+awesome and Shogo never ceases to impress
+me whenever I play.  I wish more of my code
+was in there.  :)
+
+The demo is 39.8 Meg and it does include
+some music so you will get to hear how IMA
+works (dynamic music based on what's going
+on in the game).  It really is an awesome
+audio addition to a game.  I think you'll
+really like it.
+
+Blood2 is also coming along really well.
+I've been helping out on some programming
+odds-and-ends now that we are getting closer
+to completion.  GameSpy support (this goes
+for Shogo too) is so very close to being
+done.  I just one or two more things to
+iron out.  The GameSpy guys are great and
+have been really helpful.
+
+Ok, I managed to sneak in a few vehicle
+updates for those who care.  Here's a quick
+summary and some links...
+
+A local shop now has a dyno so I gave it a
+spin and pumped out 287.6hp at the rear
+wheels!  This equates to around 335ish hp
+at the flywheel (stock is 255).  Ignition
+amplifier is next.  Check out some pics
+and vids at:
+
+http://www.users.lith.com/~goble/rx7/dyno.html
+
+I've had the micron pipe on the motorcycle
+for a couple months now and I finally made
+the "after" video.  I also took a couple
+more pictures of my new gear.  This stuff
+is now on my web site.  Check it out at:
+
+http://www.users.lith.com/~goble/goof/index.html
+
+Oh yeah, I updated the credits for Blood2
+today and the winning "one-liners" from the
+contest are a combination of "hilarious"
+and "totally awesome"! :)
+
+
+9/24/98
+
+Wowzers!  The buzz on the net and the
+gaming mags is that Shogo is a mega hit!
+I don't disagree either. :) I am really
+impressed with this game and can't wait
+for it to hit the shelves!
+
+Check out what the Quake/2 lovers had to
+say about Shogo after seeing it and playing
+it themselves:
+
+http://www.planetquake.com/reviews/shogopg1.shtm
+http://www.planetshogo.com/features/testify.shtm
+
+I am almost finished with adding GameSpy
+support into both Shogo and Blood2 (in the
+stand-alone servers).  This is going to be
+really cool and was actually fairly easy
+to add.  I set things up so all of our 
+future games can support GameSpy with only
+a few lines of code.  :)
+
+Starting tomorrow I am 97% on Blood2.  Yeah,
+management has fallen to about 3% of my time.
+but fortunately, everyone has too much work to
+do to really need anything or be causing any
+problems.  :)
+
+Tobez got a new motorcycle jacket today...and
+I rode in as well...so we cruised the strip a
+couple times today.  The dual Micron pipes
+sounded real good.  :)
+
+Played the NeedForSpeed3 demo briefly today.
+Hmmm...
+
+
+
+9/13/98
+
+Practically the entire company is busting bunz on
+Gruntz, Blood2, and Shogo.  All of our sleep schedules
+are completely screwed up and our diets have definitely
+fallen below FDA standards I'm sure.
+
+However, the games are looking and playing awesome and
+that's what's important, right?  :)
+
+I built the stand-alone server for Blood2 and now
+multiplayer BloodBaths have become a nightly ritual.
+
+Get Medieval continues to get more great reviews.
+Check out the review AND interview (with yours truly)
+on Gamer's Alliance:
+
+
+http://www.gagames.com/news/interviews/getmedieval.html
+
+http://www.gagames.com/games/reviews/getmedieval.html
+
+Lastly, I just wanted to say that we all really
+appreciate all the great emails we've been receiving
+recently, supporting us in our efforts to put the
+finishing touches on our upcoming games.  So far, no
+one has had to go to the hospital--although Bouwman
+is clearly losing his mind.  Thanks again for all
+your support!  :)
+
+
+9/10/98
+
+No sleep and my neck is killing me.  But Shogo
+is looking incredible and I'm even getting started
+on some Blood2 gramming.
+
+Gruntz is going to be done in a few days...but they
+don't seem to need much from me these dayz.  :)
+
+We released the Get Medieval demo and the editor
+today.  The editor is kind of "pre-release" because
+we plan on making a bigger help file and releasing
+more template levels for each dungeon set.  However,
+the editor is fairly easy to use--so I think we'll
+be seeing some cool new GM levels very soon.  :)
+
+There was an interesting article in this month's
+PC Gamer magazine on Monolith.  Check it out if you
+haven't already.
+
+Well, not much else is going on...just been working
+a ton...Shogo, then Blood2, then relax.
+
+
+8/27/98
+
+Get Medieval is out!  The game is getting great
+reviews!  It's fun!  It's funny!  It's fast!  Buy
+a copy today!  :)
+
+We're in super-duper-extra-crunch mode on Shogo.
+Things are really coming together.  We're feature
+complete now so we're focusing on bugs, balancing,
+and tweaks.
+
+My efforts on the network interface and stand-alone
+server are almost done.  I'll still help out with
+playtesting and bug fixes...but I'm getting ready
+to dive into Blood2 stuff in a couple of days.
+
+The Blood2 team is working just as hard as the Shogo
+team.  Basically, the whole company is working like
+crazy trying to get our games out to the world.  It's
+a lot of work...but it's worth it.  :)
+
+The Gruntz team has been working incredible hours as
+well and I think we've really got a unique game on
+our handz.  
+
+After Blood2, the late nights should end and I can
+take a breather. (you've probably noticed that I
+haven't been talking about car stuff lately...no time
+right now  :|
+
+It's really exciting that Get Medieval is out and 
+doing well.  I hope you go out and buy it and have
+as much fun playing GM as we had making it.  We want
+to keep making great games for everyone to play!  :)
+
+Gotta fix a ShogoSrv bug now...   :)
+
+
+8/27/98
+
+Get Medieval is out!  The game is getting great
+reviews!  It's fun!  It's funny!  It's fast!  Buy
+a copy today!  :)
+
+We're in super-duper-extra-crunch mode on Shogo.
+Things are really coming together.  We're feature
+complete now so we're focusing on bugs, balancing,
+and tweaks.
+
+My efforts on the network interface and stand-alone
+server are almost done.  I'll still help out with
+playtesting and bug fixes...but I'm getting ready
+to dive into Blood2 stuff in a couple of days.
+
+The Blood2 team is working just as hard as the Shogo
+team.  Basically, the whole company is working like
+crazy trying to get our games out to the world.  It's
+a lot of work...but it's worth it.  :)
+
+The Gruntz team has been working incredible hours as
+well and I think we've really got a unique game on
+our handz.  
+
+After Blood2, the late nights should end and I can
+take a breather. (you've probably noticed that I
+haven't been talking about car stuff lately...no time
+right now  :|
+
+It's really exciting that Get Medieval is out and 
+doing well.  I hope you go out and buy it and have
+as much fun playing GM as we had making it.  We want
+to keep making great games for everyone to play!  :)
+
+Gotta fix a ShogoSrv bug now...   :)
+
+
+8/15/98
+
+Still working on network stuff for Shogo.  The game
+is so awesome.  We're shooting for having a really
+good build for Monday.  I've got the stand-alone
+server working and now I'm working on adding support
+for DirectPlayLobby--it's almost working.  I'll be
+on Portal a bunch so logon and say "hi"!  :)
+
+We released a beta build of Gruntz to the company
+yesterday.  The game just needs a little tweaking
+and balancing and the remaining final sounds and it
+should be done!  There was this really interesting
+bug that kevin, tobez, and blong were hunting down
+for a few hours.  It turned out to be a really subtle
+bug relating to multiplayer out-of-syncs and timing
+when starting a level.  It turned out that all they
+need to do was read the WAP manual and they would
+have quickly...oh wait, there is no WAP manual.  Well,
+they added some really good debugging aids so if any
+other out-of-syncs pop up, they should be able to find
+them instantly.  :)
+
+In less than 3 weeks, "Get Medieval" should be on
+the shelves!  I can't wait!  We added a "reviews"
+section to the GM site...so check out what the 
+reviewers are saying (summary: fast funny fun)  :)
+
+http://www.getmedieval.com
+
+
+Well, I gotta get back to work on Shogo...wait, what's
+that over the horizon...it's Blood2!  :)
+
+
+7/31/98
+
+I was over at Jace's today and I think I am the
+first one to see the new Shogo movie he made.
+This is probably the best movie he has ever made.
+It's going out on video tape to a bunch of our
+contacts in the press as well as many retailers.
+It's almost 2 minutes long and it's more like the
+intro to a TV show.  The whole thing is very anime.
+He's been working on it day and night for the past
+couple of weeks.  Way to go Jace!  :)
+
+We're starting to play (I mean, uh, test) a lot more
+shogo multiplayer these days.  I think Kevin's
+test level is the current favorite--although I
+noticed that Craig checked-in a new multiplayer
+level recently.  I'm sure will be playing it later
+this evening.
+
+I finally caved in and got the Micron pipe for my
+motorcycle.  It sounds awesome.  There's a video of
+my old stock pipe (and how it sounds) on my personal
+site.  I will have a video with the new pipe up over
+the weekend.  I now know what Jace goes through to
+make those movies--it's a major pain! (but also fun)
+
+I'm going to be helping out on Blood2 soon!  Although
+I will probably be dead from Shogo, I can't wait to
+get more into Blood2!!!  Stay tuned!  :)
+
+
+
+7/22/98
+
+There's a review of Get Medieval up!  Check it out
+at:
+
+http://www.3dgaming.net/reviews/arcade/get_medieval/
+
+We got an A- !  :)
+
+Tobez is putting the pressure on me to get a pipe for
+my motorcycle.  It's very tempting because he got one
+for his bike and it sounds SO good.  We'll see.
+
+Shogo networking stuff is really shaping up.  I think
+Kevin is working on a new build for the company.  I 
+have one more feature to add and then I will move on
+to some other interface type stuff.  :)
+
+
+7/20/98
+
+The Get Medieval forum sure has been active the
+past couple of days.  I guess people are working
+on reviews of the game since we recently sent out
+about 100 review copies.
+
+As expected, a few people immediately complain that
+the game is not 3D.  I always find that interesting
+because I always judge a game, ultimately, by how
+much fun it is to play.  From our perspective, it
+didn't make sense to make GM a 3D game.  We won't
+just make a game 3D because "3D is where it's at".
+We'll only do it if it makes sense--there's lots
+of tradeoffs in terms of features, viewpoint, time,
+detail, speed, memory, animations, etc. that all
+go into a decision like that.  Ultimately, we strive
+to make a game that is really fun to play...both
+for our customers (and potential customers) as well
+as ourselves.  :)
+
+I dunno, maybe I am way off base here.  Should we
+just make all of our games 3D even if our gut says
+that it won't be as fun in the end?  Is the game's
+engine/technology the most important aspect in the
+end?  Let me know what you think: goble@lith.com
+
+Anyway, it's really cool to see a bunch of support
+and people really looking forward to getting their
+hands on Get Medieval.  I'm looking forward to
+playing multiplayer with all of you.  :)
+
+In the end, we do understand that we can't please
+everyone all of the time.  But we really do try.  :)
+
+
+
+
+7/12/98
+
+Marketing has shifted into high gear and things are
+really moving forward for our end-of-summer product
+launch!  Jace and ButterBunz are doing a world tour
+and apparently everything is being really well
+received by the game press (of course, this info went
+through the "Jason Filter").  ;)
+
+I'll be helping out doing some programming on Shogo
+and LithTech until we ship.  I'm mostly helping out
+on some network interface stuff for Shogo, but I've
+also been doing a little network API stuff for the
+engine--which has been fun.
+
+I'm a Seattle native and I've really noticed over the
+past 4 years that the summers here have really started
+to suck.  We used to have great summers up here in
+the great northwest.  Now, we get two periods of great
+weather, each about two weeks long--and that's it.
+Maybe a few "singles" but that's about it.  I know
+it's all tied to overpopulation (but isn't almost
+everything "bad"?) but I will just stop there.  :)
+
+
+
+7/4/98
+
+I've really got my teeth into the Shogo and LithTech
+net-start code now.  Things are going pretty good too.
+Stephens and I just played a quick multiplayer game
+after connecting flawlessly with the new code.  Life
+is good.
+
+It's hard to believe it but Lambert has actually only
+given me one or two engine requests recently.  Gruntz
+is really coming along.  The whole company is waiting
+for the next build.  I've been playing some of the
+newer levels and they are awesome.  Bo and I will be
+doing 28.8 (and slower) multiplayer testing this week
+to see what type of punishment the net code can take.
+
+Well, I think I mentioned that I was working on 
+updating my personal web site in a previous plan update.
+I have been doing that and I put the new stuff up.
+It's not even close to having everything I wanted, but
+it's got some good pics and links and I will try to
+update it a little more often this time.  Check it out
+at:
+
+http://users.lith.com/~goble
+
+...and tell me what you think.  :)
+
+Now that we've been starting to show GM to the press
+and the r

@@ -1,0 +1,415 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake Arena
+Last Updated: 03/03/1999 18:15:18 (Central Standard Time)
+-------------------------------------------------------------------------------
+3/3/99
+------
+On the issue of railgun firing rates -- we played with it for a while at
+the slower speed, but it has been put back to exactly Q2's rate of fire.
+
+I do agree with Thresh that the way we had it initially (faster than Q2,
+but with the same damage) made it an overpowered weapon in the hands of
+highly skilled players, which is exactly what we should try to avoid.
+
+An ideal game should give scores as close to directly proportional to
+the players reletive skills as possible.  The better player should win
+in almost all cases, but the game will be more entertaining if the
+inferior players are not completely dominated.
+
+Quake 1 had really bad characteristics that way -- Thresh can play
+extremely talented players and often prevent them from scoring a single
+point.  We wouldn't put up with a conventional sport that commonly
+game scores of 20 to 1 in championship matches, and I don't think
+we should encourage it in our games.
+
+Eliminating health items is probably the clearest way to prevent
+blowout games, but that has never been popular.  Still, we should
+try to avoid weapon decisions that allow the hyper-skilled to pull
+even farther away from the rest of the crowd.  They will still win,
+no matter what the weapons are, just not by as wide a margin.
+
+
+
+1/29/99
+-------
+The issue of the 8192 unit map dimension limit had been nagging at me for
+a long time now.  The reason for the limit is that coordinates are 
+communicated over the network in 16 bit shorts divided as a sign bit,
+twelve unit bits, and three fractional bits.  There was also another
+side to the representation problem, but it was rarely visible:  if
+you timescale down, you can actually tell the fractional bit granularity
+in position and velocity.
+
+The rest of the system (rendering and gameplay) has never had any issues
+with larger maps, even in quake 1.  There are some single precision
+floating point issues that begin to creep in if things get really huge,
+but maps should be able to cover many times the current limit without
+any other changes.
+
+A while ago I had changed Q3 so that the number of fractional bits was
+a compile time option, which allowed you to trade off fine grain precision
+for larger size.  I was considering automatically optimizing this for each
+level based on its size, but it still didn't feel like a great solution.
+
+Another aspect of the problem that wasn't visible to the public was that
+the the fractional quantization of position could cause the position to
+actually be inside a nearby solid when used for client side prediction.
+The code had to check for this and try to correct the situation by jittering
+the position in each of the possible directions it might have been
+truncated from.  This is a potential issue whenever there is any loss of
+precision whatsoever in the server to client communication.
+
+The obvious solution is to just send the full floating point value for
+positions, but I resisted that because the majority of our network
+traffic is positional updates, and I didn't want to bloat it.  There have
+been other bandwidth savings in Q3, and LANs and LPB connections are also
+relevent, so I was constantly evaluating the tradeoff.
+
+Dealing with four or five players in view isn't a real problem.  The big
+bandwidth issues arrive when multiple players start unloading with rapid
+fire weapons. (as an aside, I tried making 5hz fire weapons for Q3 to save
+bandwidth, but no matter how much damage they did, 5hz fire rates just
+seemed to feel slow and weak...)
+
+I finally moved to a bit-level stream encoding to save some more bandwidth
+and give me some more representational flexibility, and this got me thinking
+about the characteristics of the data that bother us.
+
+In general, the floating point coordinates have significant bits all through
+the mantissa.  Any movement along an angle will more or less randomize the
+low order bits.
+
+My small little insight was that because missiles are evaluated
+parameterically instead of itteretively in Q3, a one-time snapping of the
+coordinates can be performed at their generation time, giving them fixed
+values with less significant bits for their lifetime without any effort
+outside their spawning function.  It also works for doors and plats, which
+are also parametrically represented now.  Most events will also have
+integral coordinates.
+
+The float encoder can check for an integral value in a certain range and
+send that as a smaller number of bits, say 13 or so.  If the value isn't
+integral, it will be transmitted as a full 32 bit float.
+
+The other thing I am investigating is sub-byte delta encoding of floating
+point values.  Even with arbitrary precision movement deltas, the sign and
+exponent bits change with very low frequency except when you are very
+near the origin.  At the minimum, I should be able to cut the standard
+player coordinate delta reps to three bytes from four.
+
+So, the bottom line is that the bandwidth won't move much (it might even
+go down if I cut the integral bits below 15), the maps become unbounded
+in size to the point of single precision roundoff, and the client doesn't
+have to care about position jittering (which was visible in Q3 code that
+will be released).
+
+
+1/10/99
+-------
+
+Ok, many of you have probably heard that I spoke at the macworld
+keynote on tuesday.  Some information is probably going to get
+distorted in the spinning and retelling, so here is an info
+dump straight from me:
+
+Q3test, and later the full commercial Quake3: Arena,  will be simultaniously
+released on windows, mac, and linux platforms.
+
+I think Apple is doing a lot of things right.  A lot of what they are
+doing now is catch-up to wintel, but if they can keep it up for the next
+year, they may start making a really significant impact.
+
+I still can't give the mac an enthusiastic reccomendation for sophisticated
+users right now because of the operating system issues, but they are working
+towards correcting that with MacOS X.
+
+
+The scoop on the new G3 mac hardware:
+
+Basically, its a great system, but Apple has oversold its
+performance reletive to intel systems.  In terms of timedemo scores,
+the new G3 systems should be near the head of the pack, but there
+will be intel systems outperforming them to some degree.  The mac has
+not instantly become a "better" platform for games than wintel, it
+has just made a giant leap from the back of the pack to near the
+front.
+
+I wish Apple would stop quoting "Bytemarks".  I need to actually
+look at the contents of that benchmark and see how it can be so
+misleading.  It is pretty funny listening to mac evangelist types
+try to say that an iMac is faster than a pentium II-400.  Nope.
+Not even close.
+
+From all of my tests and experiments, the new mac systems are
+basically as fast as the latest pentium II systems for general
+cpu and memory performance.  This is plenty good, but it doesn't
+make the intel processors look like slugs.
+
+Sure, an in-cache, single precision, multiply-accumulate loop could
+run twice as fast as a pentium II of the same clock rate, but
+conversly, a double precision add loop would run twice as fast
+on the pentium II.
+
+Spec95 is a set of valid benchmarks in my opinion, and I doubt the
+PPC systems significantly (if at all) outperform the intel systems.
+
+
+The IO system gets mixed marks.  The 66 mhz video slot is a good step
+up from 33 mhz pci in previous products, but that's still half the
+bandwidth of AGP 2X, and it can't texture from main memory.  This
+will have a small effect on 3D gaming, but not enough to push it
+out of its class.
+
+The 64 bit pci slots are a good thing for network and storage cards,
+but the memory controller doesn't come close to getting peak
+utilization out of it.  Better than normal pci, though.
+
+
+The video card is almost exactly what you will be able to get on
+the pc side: a 16 mb rage-128.  Running on a 66mhz pci bus, it's
+theoretical peak performance will be midway between the pci and
+agp models on pc systems for command traffic limited scenes.  Note
+that current games are not actually command traffic limited, so the
+effect will be significantly smaller.  The fill rates will be identical.
+
+The early systems are running the card at 75 mhz, which does put
+it at a slight disadvantage to the TNT, but faster versions are
+expected later.  As far as I can tell, the rage-128 is as perfect
+as the TNT feature-wise.  The 32 mb option is a feature ATI can
+hold over TNT.
+
+
+Firewire is cool.
+
+
+Its a simple thing, but the aspect of the new G3 systems that
+struck me the most was the new case design.  Not the flashy plastic
+exterior, but the functional structure of it.  The side of the
+system just pops open, even with the power on, and lays the
+motherboard and cards down flat while the disks and power supply
+stay in the encloser.  It really is a great design, and the benefits
+were driven home yesterday when I had to scavenge some ram out of old
+wintel systems yesterday -- most case designs suck really bad.
+
+
+---
+
+I could gripe a bit about the story of our (lack of) involvement
+with Apple over the last four years or so, but I'm calling that
+water under the bridge now.
+
+After all the past fiascos, I had been basically planning on ignoring Apple
+until MacOS X (rhapsody) shipped, which would then turn it into a platform
+that I was actually interested in.
+
+Recently, Apple made a strategic corporate decision that games were a
+fundamental part of a consumer oriented product line (duh).  To help that
+out, Apple began an evaluation of what it needed to do to help game
+developers.
+
+My first thought was "throw out MacOS", but they are already in the process
+of doing that, and its just not going to be completed overnight.
+
+Apple has decent APIs for 2D graphics, input, sound, and networking,
+but they didn't have a solid 3D graphics strategy.
+
+Rave was sort of ok. Underspecified and with no growth path, but
+sort of ok.  Pursuing a proprietary api that wasn't competetive with
+other offerings would have been a Very Bad Idea.  They could have tried
+to make it better, or even invent a brand new api, but Apple doesn't have
+much credebility in 3D programming.
+
+For a while, it was looking like Apple might do something stupid,
+like license DirectX from microsoft and be put into a guaranteed
+trailing edge position behind wintel.
+
+OpenGL was an obvious direction, but there were significant issues with
+the licensing and implementation that would need to be resolved.
+
+I spent a day at apple with the various engineering teams and executives,
+laying out all the issues.
+
+The first meeting didn't seem like it went all that well, and there wasn't
+a clear direction visible for the next two months.  Finally, I got the all
+clear signal that OpenGL was a go and that apple would be getting both the
+sgi codebase and the conix codebease and team (the best possible arrangement).
+
+So, I got a mac and started developing on it.  My first weekend of
+effort had QuakeArena limping along while held together with duct
+tape, but weekend number two had it properly playable, and weekend
+number three had it brought up to full feature compatability.  I
+still need to do some platform specific things with odd configurations
+like multi monitor and addon controlers, but basically now its
+just a matter of compiling on the mac to bring it up to date.
+
+This was important to me, because I felt that Quake2 had slipped a bit in
+portability because it had been natively developed on windows.  I like the
+discipline of simultanious portable development.
+
+After 150 hours or so of concentrated mac development, I learned a
+lot about the platform.
+
+CodeWarrior is pretty good.  I was comfortable devloping there
+almost immediately.  I would definately say VC++ 6.0 is a more powerful
+overall tool, but CW has some nice little aspects that I like.  I
+am definately looking forward to CW for linux.  Unix purists may
+be aghast, but I have allways liked gui dev environments more than
+a bunch of xterms running vi and gdb.
+
+The hardware (even the previous generation stuff) is pretty good.
+
+The OpenGL performance is pretty good.  There is a lot of work
+underway to bring the OpenGL performance to the head of the pack,
+but the existing stuff works fine for development.
+
+The low level operating systems SUCKS SO BAD it is hard to believe.
+
+The first order problem is lack of memory management / protection.
+
+It took me a while to figure out that the zen of mac development is
+"be at peace while rebooting".  I rebooted my mac system more times
+the first weekend than I have rebooted all the WinNT systems I
+have ever owned.  True, it has gotten better now that I know my
+way around a bit more, and the codebase is fully stable, but there
+is just no excuse for an operating system in this day and age to
+act like it doesn't have access to memory protection.
+
+The first thing that bit me was the static memory allocation for
+the program.  Modern operating systems just figure out how much
+memory you need, but because the mac was originally dsigned for
+systems without memory management, significant things have to be
+laid out ahead of time.
+
+Porting a win32 game to the mac will probably involve more work
+dealing with memory than any other aspect.  Graphics, sound, and
+networking have reasonable analogues, but you just can't rely
+on being able to malloc() whatever you want on the mac.
+
+Sure, game developers can manage their own memory, but an operating
+system that has proper virtual memory will let you develop
+a lot faster.
+
+The lack of memory protection is the worst aspect of mac development.
+You can just merrily write all over other programs, the development
+environment, and the operating system from any application.
+
+I remember that.  From dos 3.3 in 1990.
+
+Guard pages will help catch simple overruns, but it won't do anything
+for all sorts of other problems.
+
+
+The second order problem is lack of preemptive multitasking.
+
+The general responsiveness while working with multiple apps
+is significantly worse than windows, and you often run into
+completely modal dialogs that don't let you do anything else at all.
+
+
+A third order problem is that a lot of the interfaces are fairly
+clunky.
+
+There are still many aspects of the mac that clearly show design
+decisions based on a 128k 68000 based machine.  Wintel has grown
+a lot more than the mac platform did.  It may have been because the
+intel architecture didn't evolve gracefully and that forced the
+software to reevaluate itself more fully, or it may just be that
+microsoft pushed harder.
+
+Carbon sanitizes the worst of the crap, but it doesn't turn it
+into anything particularly good looking.
+
+
+MacOS X nails all these problems, but thats still a ways away.
+
+I did figure one thing out -- I was always a little curious why
+the early BeOS advocates were so enthusiastic.  Coming from a
+NEXTSTEP background, BeOS looked to me like a fairly interesting
+little system, but nothing special.  To a mac developer, it must
+have looked like the promised land...
+
+
+
+12/30/98
+--------
+I got several vague comments about being able to read "stuff" from shared
+memory, but no concrete examples of security problems.
+
+However, Gregory Maxwell pointed out that it wouldn't work cross platform
+with 64 bit pointer environments like linux alpha.  That is a killer, so
+I will be forced to do everything the hard way.  Its probably for the
+best, from a design standpoint anyway, but it will take a little more effort.
+
+
+12/29/98
+--------
+I am considering taking a shortcut with my virtual machine implementation
+that would make the integration a bit easier, but I'm not sure that it
+doesn't compromise the integrity of the base system.
+
+I am considering allowing the interpreted code to live in the global address
+space, instead of a private 0 based address space of its own.  Store
+instructions from the VM would be confined to the interpreter's address
+space, but loads could access any structures.
+
+On the positive side:
+
+This would allow full speed (well, full interpreted speed) access to variables
+shared between the main code and the interpreted modules.  This allows system
+calls to return pointers, instead of filling in allocated space in the
+interpreter's address space.
+
+For most things, this is just a convenience that will cut some development
+time.  Most of the shared accesses could be recast as "get" system calls,
+and it is certainly arguable that that would be a more robust programming
+style.
+
+The most prevelent change this would prevent is all the cvar_t uses.  Things
+could stay in the same style as Q2, where cvar accesses are free and
+transparantly updated.  If the interpreter lives only in its own address
+space, then cvar access would have to be like Q1, where looking up a
+variable is a potentially time consuming operation, and you wind up adding
+lots of little cvar caches that are updated every from or restart.
+
+
+On the negative side:
+
+A client game module with a bug could cause a bus error, which would not be
+possible with a pure local address space interpreter.
+
+I can't think of any exploitable security problems that read only access to
+the entire address space opens, but if anyone thinks of something, let me
+know.
+
+
+
+11/4/98
+-------
+More extensive comments on the interpreted-C decision later, but a quick
+note:  the plan is to still allow binary dll loading so debuggers can be
+used, but it should be interchangable with the interpreted code.  Client
+modules can only be debugged if the server is set to allow cheating, but
+it would be possible to just use the binary interface for server modules
+if you wanted to sacrifice portability.  Most mods will be able to be
+implemented with just the interpreter, but some mods that want to do
+extensive file access or out of band network communications could still
+be implemented just as they are in Q2.  I will not endorse any use of
+binary client modules, though.
+
+
+11/3/98
+-------
+
+This was the most significant thing I talked about at The Frag, so here it
+is for everyone else.
+
+The way the QA game architecture has been developed so far has been as two
+seperate binary dll's:  one for the server side game logic, and one for the
+client side presentation logic.
+
+While it was easiest to begin development like that, there are two crucial
+problems with shipping the game that way

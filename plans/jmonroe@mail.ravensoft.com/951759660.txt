@@ -1,0 +1,12 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: James Monroe
+Email: jmonroe@mail.ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: James' Web Site
+Last Updated: 02/27/2000 19:05:27 (Central Standard Time)
+-------------------------------------------------------------------------------
+more fixes:
+specular and environment mapping now work correctly on the inview weapon!  very spiffy.

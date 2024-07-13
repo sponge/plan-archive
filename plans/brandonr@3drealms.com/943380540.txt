@@ -1,0 +1,39 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Tue Nov 23 15:00 (EST) on ttyp1 from 216.27.43.214
+Mail forwarded to brandon@epicgames.com
+Mail last read Tue Nov 23 04:00 1999 (EST)
+Project:
+Unreal Tournament
+Plan:
+Tuesday, November 23, 1999
+
+Bah. I need to get a spell checker!
+
+I have permission from Tim to open source certain parts of the engine
+for the purposes of improving Linux support.  What I would like to
+do is make available the code I have written for Glide, Mesa,
+input, and audio.  I would appreciate Linux programmers taking the
+time to submit improvements to me at brandon@epicgames.com.
+I will look into putting up a webpage for this and perhaps a
+discussion forum.  Please email me your input or ideas.
+
+I'm leaving to go home for Thanksgiving tomorrow, so I may not be
+able to start on this until I get back on Friday.  Right now I'm
+working on the Mesa renderer, because I would like to release that
+soon, if possible.
+
+The code that I open source will not allow you to really dig very
+deep into the engine, but it will let you do a lot of stuff to
+the renderer and X windows interface.
+
+Since my time is split between non-Linux related projects, the Linux
+port could no doubt be improved if it gets some attention from
+experienced Linux programmers.
+
+In the Unreal Universe interview I said that Epic was not going to be
+persuing more Unreal patches.  I talked to Tim and he said that he
+was going to release one more Direct3D update with the latest
+changes/fixes and that would be it.
+	
+    

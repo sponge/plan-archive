@@ -1,0 +1,76 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: wieder
+Plan modified: Fri Aug 07 13:56:22 1998
+
+Who did you just finger?: Charlie Wiederhold
+Nick: Wieder
+Email: wieder@ritual.com
+What do I do?: Level/Game Design
+
+========================================================================
+Disclaimer!!!
+The views expressed here are solely that of my own and in no way reflect
+the official position of Ritual Entertainment. Simply put: Don't mind me
+And if I misspell something... it was on purpose. Trust me.
+========================================================================
+
+8-07-98
+===============
+
+To my wonderful roommate sCary...
+
+"You can pick your friends, and you can pick your nose, but you can't
+pick your friend's nose." -- It's the golden rule dude! 
+
+It goes right along with "Thou shalt not kill" (unless the person is 
+really really annoying) and "Thou shalt not commit adultry" (unless she 
+is so hot that you have no choice), etc.
+
+Now if I could just get Langsuyar to stop asking if he can pick my nose.
+I think he's obsessed now.
+
+A site that I found hit home pretty well and I had a good laugh with.
+Some of you parent types might not find it so funny but, oh well.
+Remember, I'm only 21. ;)
+
+http://www.sonic.net/uglyfish/portman.html
+
+On to more relevent things pertaining to Sin. I kept forgetting to post a
+couple of the more common scripting questions. Now that the demo has been
+out for a little while and people are starting to delve into messing around
+under the hood I'll finally post a couple of those questions.
+
+Q) I'm wondering about how the parm. command seems to be used. I _think_ 
+   it's being used to pass on reference variables for thread commands... 
+   but I'm not totally sure.
+
+A) That's exactly it. When you see a variable that has parm. before it
+   that means it's being used to pass values from one thread into another.
+   A parm. variable will exist in the game until there is a wait or a pause.
+   It will then be cleared and you no longer have access to it. So it's a 
+   good idea to convert your parm. variables into local.variables if you are 
+   going to be using them much in the new thread.
+
+
+Q) $object_two bind $object_one <-- How exactly does this affect the two
+   objects in question?
+
+A) What happens in that line is $object_two is now attatched to $object_one.
+   Whenever $object_one moves $object_two will move right along with it. So
+   if you were to make $object_one move up, $object_two would also. Same with
+   rotation and anything else. $object_two can still move by itself without 
+   affecting $object_one at all. This is how some of the more complex 
+   movements are achieved in Sin (such as Danny the robot and the Macarena 
+   robot shown at E3). Each body part is bound logically (fingers to forearm, 
+   forearm to upper arm, upper arm to shoulder, shoulder to upper body, upper
+   body to base, etc) and then moved in the way you would expect. If 
+   $object_two were to get blocked so that it can no longer move, $object_one 
+   would stop also. Ditto for the other way around.
+
+Hope that clears up a little bit. Feel free to send in any other questions. 
+I'll get to them as soon as I can.
+
+Wieder rolls on outta here...
+

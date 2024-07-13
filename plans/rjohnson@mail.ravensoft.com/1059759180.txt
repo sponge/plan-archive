@@ -1,0 +1,56 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Rick Johnson
+Email: rjohnson@ravensoft.com
+Description: Lead Programmer
+Project: Quake 4
+Nickname: Superfly
+Web Page: Rick's Web Site TurtleCam! mEATwagon Cult
+Last Updated: 08/01/2003 14:28:06 (Central Standard Time)
+-------------------------------------------------------------------------------
+8/1/2003
+   Have you got the DOOM II GBA DM skills to pay the bills?
+ 
+   Caryn 'Hellchick' Law and I have decided to throw down at this year's QuakeCon. We're bringing our 
+      Gameboy Advances, DOOM II on the GBA, and link cables, and we're challenging QuakeCon gamers to take us 
+      on in an old-school DOOM 2 deathmatch...but on the GBA. 
+ 
+   We'll be bringing some swag to give away to anyone who can beat us (and you have to beat both of us) -- 
+      DOOM t-shirts from id, Raven t-shirts, GBA games, whatever we can scrounge up between now and QuakeCon. 
+ 
+   If you want to take us on, you'll need to bring two things: your own Gameboy Advance, and your own copy of 
+      DOOM II for the GBA. We'll bring link cables to link up.
+ 
+   When and where: we're not sure yet. As soon as we nail down our QuakeCon schedules, we'll announce when 
+      and where you can show up to take us on. 
+ 
+   Practice up, and we'll see you there.
+
+5/2/2003
+   I saw Jewel this morning on the NBC Today show and she has completely switched her image to a Britney Spears pop star.
+      I feel like she really sold out... ugh
+
+   I put up a test verion of GL Black Crypt.  You can find it on the Black Crypt Website.
+
+4/11/2003
+   Going to be putting out a simple test version of the GL port of Black Crypt in a few days.  Check out the Website.
+
+   Just got a Toshiba PocketPC yesterday.  Can anyone recommend any good apps / games for it, as I'm fairly 
+      new to the whole realm.
+
+   Oh, and TomServo, stop rambling!  You are just making Paranoid Android more paranoid.  :)
+
+2/4/2003
+   We are in the process of switching DNS entries for the SoF2 Master Server.  You may experience a disruption
+      for a few days until the DNS changes propagate.  Here's a link to an explanation.
+
+1/15/2003
+   *** ATTENTION MOD MAKERS ***
+
+   Based on feedback we received at the mod maker round table sessions at QuakeCon, we created a private 
+   forum for mod makers.  This forum is a place for all mod makers of all engines / games (not just Raven 
+   games) to come and discuss any issues associated with mod making, such as programming, scripting, mapping,
+   modeling, textures, sounds, etc.  This forum is only open to people actively involved in making content.  
+   If you wish to join, create an account on our forums and then email me with your account name 
+   and Ill give you access.  There is also a small website associated with this whole endeavor.  
+   Again, this is for all people making mods for all games / en

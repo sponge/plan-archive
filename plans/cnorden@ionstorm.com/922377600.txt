@@ -1,0 +1,33 @@
+
+*** Ion Storm's Finger Server
+
+User name: cnorden
+Plan modified: Thu Mar 25 11:45:20 1999
+
+Ah...no updates in awhile...sorry.  We've all been really busy working
+towards our Alpha 2 milestone.  Been working on more weapons, our skill
+and augmentation systems, bugfixes, gameplay tweaks, and tons of gameplay
+scripting for the first couple of missions.  We recorded audio for the
+first two missions, and I've also been putting in all of the new art
+and sound effects.  It's really looking kick ass now, some of the new
+maps will just blow people away.  In a few short weeks, you'll be able
+to play completely through the first two missions (they will still need
+some final tuning and balancing, but for the most part, they'll be
+finished.)
+
+Over the next few weeks, Albert and I will be finishing up the scripting
+for the first couple of missions.  Albert will also be making sure that
+the conversation system is complete and the UI screens rock, and Scott
+will be tweaking the new AI that he's been working on.  I'll also be
+adding lots of cool little special effects and putting even more sound
+and art in the game.
+
+We're also getting ready for our first big E3 appearance...this will be
+the first time that we have shown Deus Ex to the public, so if you're
+going to be there, come by and see us.  I'm really interested in how
+many people actually read these, so if you're reading this right now
+and you will be at E3, find me and say 'Hi' (I'll probably be in the
+Eidos booth in front of the Deus Ex computers almost the entire show.)
+
+-cnn
+

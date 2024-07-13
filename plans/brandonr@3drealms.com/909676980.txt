@@ -1,0 +1,154 @@
+User:   greenmarine
+Read:   0
+Unread: 0
+Time:   Thu, 29 Oct 1998 10:03:08 -0800
+Plan:
+October 29, 1998
+
+If you played Unreal Deathmach before and didn't like it, try it again.  You
+REALLY owe it to yourself to check it out with the 218 patch.  Our netplay
+quality is now at record levels and its just plain fun.  Its like a
+different game!  You can get the new patch at http://unreal.epicgames.com/.
+Check it out!  We'll soon have a patch out with a lot of bugfixes and
+answers to interface issues that players have been raising.
+
+I know a lot of people stopped playing Unreal because they thought that
+while the single player was great, the multiplayer sucked.  Yeah, it did
+suck.  TRY IT AGAIN.  You'll like it, trust me.  Netplay has greatly
+improved and we are now moving to high level changes to network efficiency
+(answer the question What should be sent instead of How to send it.)
+
+Tim will be working on a few bugfixes and tweaks to the netplay code and
+also working on the commercial version of UnrealED in the coming weeks.
+Steve and I are working on bugfixes all across the board, as well as working
+on the as of yet top secret add-on.  The next patch (219) will answer issues
+raised with 218.  The patch after that (220) will most likely contain a lot
+of new fixes and things after Steve and I integrate our code with Tim's
+central codebase.
+
+Check Unreal multiplayer out.  Epic is dedicated to bringing top notch
+deathmatch to our players and the patch has really gone a long way towards
+that goal.
+
+---
+What follows is a plan update I wrote four days ago, but lost
+because the PlanetQuake .plan interface is a little funky. :-)
+I have since beaten Metal Gear Solid.  The game has like three
+endings and a second quest!!
+---
+
+October 25, 1998
+
+"Now! Make me feel it, make me feel alive again!"
+
+Metal Gear Solid is the second greatest game ever made.  Absolutely amazing
+game.  Incredible.  Its a lesson.  Any person in the games industry should
+play this game to its completion.
+
+"His dreams of global domination did not interest me...I just needed an
+excuse to kill as many people as I could."
+
+Every character has a unique personality.  You feel like you know the people
+as you interact with them.  The story is excellent.  The bad guys are
+excellent.  The good guys are excellent.  The good guys who might be bad
+guys or not are excellent.  The effects are excellent.
+The music and sound is excellent.
+
+"She's amazing isn't she?  Once she's picked a target, she never stops
+thinking about them.  Sometimes, she falls in love with them before she
+kills them."
+
+When I had to submit to Revolver Ocelot's torture I was like "Fuck! Fuck!"
+I can't believe I lost her!  I felt like shit that I had to submit to
+torture and had to sacrifice Meryls life.  That's a great game, when you
+care about the characters that much.  (To the rational extent you can care
+about a character in a game.)
+
+"I, I, I can still help...I want to...help...."
+
+I now suspect that Meryl isn't dead, just because of all the flashbacks to
+the scene where Sniper Wolf shoots her up.  Very "Full Metal Jacket" that
+scene.
+
+"If you die, there are no continues.  I see you haven't saved in a while,
+Snake.  Do you really want to have to walk that long road again?  Submit
+now, lets make this easy.  If you die during the torture, its GAME OVER."
+
+Metal Gear Solid is a game that plays out intelligently, without any
+misconceptions about what it is.  This is a game that knows its a game.  The
+cutscenes are flawlessly integrated with the engine.  No shitty FMVs of some
+famous actor telling you a briefing.  You become the character.  You as a
+PLAYER become a character.
+
+"No tricks here Snake.  Just true power."
+
+So few game designers and programmers play games anymore...I mean really
+PLAY games.  You can just load up a game, run around for a bit and say "Oh
+that texture looks nice, that model sucks, lets use that in our next engine,
+my god what were they thinking."  Then stop and never check out the game
+again.  You have to play the game...you have to step into the shoes of the
+12 year old kid who got the game for Christmas and PLAY the game.
+
+"Sometimes people hardened from many battles gain a sort of sixth sense...a
+sort of feeling.  Learn to trust your feelings Snake.  As a warrior.  As a
+gamer."
+
+MGS is just a lesson waiting to happen.  People come into my
+office/roomspace thing when I'm playing it, look at it and say "Wow, that's
+a cool game." then walk off.  These guys will NEVER understand it.  I don't
+think you can just play Quake or Quake2 for an hour a night or whatever and
+call yourself a gamer.  Playing games like playing sports doesn't mean you
+are a gamer.
+
+"Unfortunately, killing is one of those things that gets easier every time
+you do it."
+
+I can understand, though, how game developers get caught up in not playing
+games.  When you develop a game, you are playing that game all the time.
+You are developing all the time.  That's the excuse anyway, "I don't have
+time to get into a game right now."  That's too bad, because six months or a
+year from now, when you do have time, someone else is going to have learned
+the lessons already and put them into practice.
+
+"Smoke is bad for your health though.  It makes you weak in mind and body."
+
+I understand that different people like different games.  I like the
+action-story game...the kind of game personified by System Shock and Metal
+Gear Solid.  This is my bread and wine.  The things which dreams and holy
+experiences are made of :-)  Hehehe.  I understand that some people like
+adventure games, others like RTS games, others like pure action games or
+what not.  But if you just look at a game and pass judgement, are you really
+learning anything?  Some games, like Battlezone or Uprising, only show their
+greatness after they have been experienced; really played.
+
+"Why? WHY? WHY CAN'T I READ YOU!!! WHY!!!"
+
+I used to know this guy in high school who would only read the Wheel of Time
+by Robert Jordan.  While this is a very interesting and entertaining series
+(a series which would no doubt teach an aspiring fantasy author many
+lessons), reading it exclusively is just another form of closemindedness.
+The guy would take a look at other books, maybe read a chapter or so, then
+go back to reading a WoT book.  WTF?  Its literally judging a book by its
+cover and its just like what a lot of so called hard core gamers do.  They
+look a game, realize that it isn't Quake, or Quake2, or Zelda or WHATEVER
+and they immediately pass judgement.  Game artists are interested in a
+game's art.  Modelers are interested in a game's models.  Level designers
+are interested in a game's levels.  Programmers are interested in a game's
+code.  All of these people are game developers.  Are any of them game
+DESIGNERS?
+
+"Huh? What was that noise?"
+
+Maybe I'm not making any sense.  Maybe my lips is movin' but you ain't
+hearin' no words.  I dunno...I like to ramble.  I think I'm making sense,
+but I might not be.  I'm too subjective.  I just get pissed when someone
+looks at a game and says "Oh man that sucks that's terrible." or "Oh that's
+really cool." and then never looks at the game again.  Graphics and
+technology, while very nice, do not a great game make.  While each element
+of these are key to a good game, it is their synergy that is fundamental,
+not any one in particular.  Ultimately, it comes down to what the gamer
+feels while he or she plays.  Textures do not entertain, levels do not
+entertain.  When these things are combined in certain magical ways THEN you
+become entertained.
+
+"Just stay still...just lie still I'm getting you out o

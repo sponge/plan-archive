@@ -1,0 +1,20 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: beau
+Plan modified: Fri Jun 19 15:52:08 1998
+
+You have reached Beau Anderson's .plan
+beau@ritual.com
+Artist - 3d Modeler/Texture/Animator Guy
+
+6/19/98
+
+On feet sliding:  A cool thing about the Sin animation system
+is that the movement for each character is saved off with the
+animation.  We actually animate him moving in the world and
+his deltas get exported with the animation.  It's really cool
+and allows for perfect foot placement in strafes, walks, taking
+a step back in pain, etc.  This also keeps thrusts and quick
+world movement by a character in the hands of the animator and
+the programmers don't have to touch it.

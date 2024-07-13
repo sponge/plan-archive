@@ -1,0 +1,28 @@
+User:   greenmarine
+Read:   0
+Unread: 0
+Time:   Wed, 24 Feb 1999 12:07:33 -0800
+Plan:
+Since .plan tracking is distributed across a lot of different services these
+days, I thought I'd just post this here.
+
+My .plan will be at:
+greenmarine@finger.epicgames.com
+I should be listed as Brandon Reinhart, Programmer
+
+Also you can now get our lead designer James Schmalz at:
+james@finger.epicgames.com
+he should be listed as James Schmalz, Lead Designer
+
+Alan Willard, Pancho and some others will be getting plans also, I'll try to
+figure out what the major tracking services are and send their maintainers
+emails before then.
+
+There is also a web server running at:
+
+http://finger.epicgames.com/
+
+I don't know what I'll put up here.  Maybe just a "cool shit from the dev
+team" page with various bits.  Shane and some of the others have been
+frustrated that the Epic programmers have a "Tech Page" :-)
+

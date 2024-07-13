@@ -1,0 +1,199 @@
+Username: markus                    In real life: Markus Maki           
+
+
+Plan:
+-------------------------------------------------------------------------
+5 May 1998
+
+Now with the emerging new 3D accelerators and AGP 2x, everybody's hyping 
+that "it doesn't matter how much video memory the card has because 
+textures can be transferred through AGP".
+
+Yes, they can. Nobody just seems to realize the difference in bandwidth
+between local video mem and AGP memory. If you have a P350+ with 100MHz 
+frontside bus (64 bits), that's 800MBytes/s bandwith to memory. Compare
+this with e.g. RIVA 128's 1.6GBytes/s bandwith. There is a difference.
+
+(not that I don't welcome AGP :)
+
+-------------------------------------------------------------------------
+4 May 1998
+
+Did I tell you I hate Mondays? :)
+
+If you read Petri's plan update for today, you heard about the e-mail
+spoofing attack received by House of Payne. It's a relatively small 
+issue, technically, but it has kept me busy for a few hours. If it 
+wouldn't have been our own product in line I would have had fun 
+tracking down the *sshole (who wasn't very clever btw).
+
+Sending fake e-mail is so easy that it's not fun :) I wish everybody 
+would update their mail server software so that it would not allow
+outside people to use the server for relaying messages. We notified 
+this (Bahrain-based) ISP our spoof went through that their systems 
+are not "up to date" (nicely put) but there must be thousands of similar
+systems anybody can use.
+
+Well, I'll have my fun when this guy *burns* :) Sometimes I 
+just love the digital world where you leave trails everywhere you go
+(unless you're very very good).
+
+-------------------------------------------------------------------------
+27 April 1998
+
+23:40 and still at the office (since 9am) -- wanna be a game developer? 
+Well, I do! Today's one of these "hey, let's just quickly do this AVI of
+this realtime 3d piece" and 6 hours later... :)
+
+And of course our coke machine is out of coke. DOH! Full service my a**.
+They hyped they have a modern computer tracking system so they know to come
+and fill it up before it runs out. Now they tell me their system crashed :)
+
+We definitely need a "Joe Siegler" here at Remedy (hi there Joe :-). It 
+would be nice if somebody would have time to update our web site once in a 
+while. Which brings to mind, we'll have a new MP web site in "Alpha" now
+(it's online whenever it's done) (later)...)
+
+Did a checklist on installing Win95 today. 19 steps and approximately same 
+amount of reboots. Yippee! No offense MS but Linux does the same in one
+reboot. Well, I'll still take Win95 over Linux anyday for workstation use :)
+
+More bitching :) I read the 3DS Max2 license agreement a while back
+(had too much time I guess), and found out that you are not allowed to
+sell that software onwards without permission from Kinetix (Autodesk. 
+Called the Finnish retailer and they said "We haven't given those 
+permissions". So you buy a  program and can't sell it if you don't
+need it anymore. That's what I call a "good deal" ...NOT!
+
+Three favorite games here at the office: BattleZone, Q2 & Starcraft.
+
+--------------------------------------------------------------------------
+18 April 1998
+
+Thanks for everybody who e-mailed me ideas for the next benchmark,
+and sorry that I haven't been able to give you feedback earlier.
+We've been having serious planning sessions for the last week and the 
+concept is starting to take form.
+
+First off, the benchmark will not be called "Final Reality 2" or '98. 
+It's a completely new product. We've now "practised" once, and now we 
+can do it better. Then, to the feedback.
+
+Many of you wanted to have an OpenGL benchmark (about 25% of e-mails).
+That's not going to be in on this one for a couple of reasons. We want
+to committ to Direct3D at the time, and test one platform properly.
+Second, there's only one OpenGL out at the time (Quake) and you can do
+your OpenGL benchmarking with that pretty well. But don't worry, we will
+not forget OpenGL, we just have to return to that subject later :-)
+
+So, it's gonna be D3D (DX6), no bus tests like in FR, no 2D tests. 
+Pure 3D. It's for Win95/98, and why not for NT5 Microsoft releases it in 
+time (which I doubt). NT4 is a no-no because of DirectX. Don't blame us :)
+
+Other requests:
+ - It's gonna be gaming oriented & real world (again!)
+ - I'm not promising DirectSound3D but we'll see...
+ - Glide won't be there, at least not by default...
+ - Don't worry, support for the new features of DX6 will be there (bump,
+   texture compositing etc.)
+ - Multiple resolutions / color depths? You got it!
+ - We'll do our best to take the "demo" mode back to the "old school" 
+   style and make it rock much more than FR.
+
+We have lots of other stuff in mind as well but I don't want to reveal you
+too much just yet - just so that the excitement keeps up, you understand :)
+
+My favourite game for this week: BattleZone. Although it's a bit of a  
+"stressy" game because you have to do too many things at once...
+Still waiting for Jane's F15...
+
+Got a coke vending machine here at the office yesterday. Rocks, although
+drinks are not exactly free as in some game companies ;) Cheap though.
+
+--------------------------------------------------------------------------
+11 April 1998
+
+Happy Easter, everyone.
+
+We're just starting to have initial plans of  our next 3D benchmark - if 
+anyone has any GOOD ideas what a 3D benchmark should have, and how we can
+improve Final Reality (can be found from our web site at 
+http://www.remedy-ent.com), e-mail me at markus@remedy.fi. Please put
+the words BENCHMARK IDEAS to your subject line so I can filter them.
+
+Then, sheesh! Yesterday I saw a music video of a German band, having a 
+badly made shootout/hand to hand combat with an animated Lara Croft. 
+What is the world coming to? Besides, the song sucked :)
+
+--------------------------------------------------------------------------
+07 Apr 1998
+
+Hmm.. I need to start doing these updates more often.
+
+During the past month -- Remedy has announced a new sister company,
+Futuremark Corporation at http://www.futuremarkcorp.com, focusing
+on 3D Benchmarks, so we're continuing in the footsteps of Final
+Reality. Should be interesting enough.
+
+Two new people started yesterday. Aki Maatta started as a mapper for Max
+and Mika Tammenkoski as a technology programmer. Two too good people.
+It's getting busy around here :-)
+
+Got Voodoo2's finally (a bit more than a week ago)! They rock. Don't 
+take me wrong, the opinions below count still. But it's a good solid 
+working package, with speed & image quality you want.
+
+Most expected game for me is Jane's F-15. Finland's just lagging a week
+behind in game availability. DOH!
+
+--------------------------------------------------------------------------
+06 Mar 1998
+
+Finally we seem to be on the winning side in this long battle against
+the internet and ISP's. We've now under a new ISP, new Linux servers,
+and everything seems to work fine. 
+
+Also the finger service is back online - it just needs a bit of tweaking
+still.
+
+I've been following the 3D accelerator market very closely for the past
+year and I'm getting huge laughs out of this 3Dfx Voodoo 2 - Creative -
+Diamond issue that's been on the news. Now for some analysis and 
+personal opinions:
+
+Everybody talks about the "Voodoo 2" chip. It's actually three chips; two
+TMU's and one frame buffer unit (+ a heck of a lot of memory chips). It
+looks to me like a Voodoo design, doubled, and spiced up a bit (better
+MHz, bump mapping, more polygon init stuff). To me making a product with
+that many components is very expensive. Compare the solution to the ones
+from Intel, NVIDIA, ATI, Rendition. All of them are one chip solutions AND
+include 2D as well. 
+
+The other side of the coin is memory. Voodoo 2 needs a lot of it and as a
+game developer, I would hope that 8MB Voodoo2 boards would not have been
+invented at all (too little texture memory). 12MB mem on a Voodoo 2 board
+compares roughly to a 8MB RAM with a more sensible design from somebody
+else. Plus, don't forget the AGP nonlocal video memory support. Where's
+that on the Voodoo 2?
+
+So others save two chips and 4MB memory - if they'd get to the same
+level of performance. And they will. I believe this is the last generation
+of cards when 3Dfx is in the lead.
+
+Now, don't take me wrong, I actually haven't seen a Voodoo 2 board in
+action yet and I'm sure when I get one I'll sing praises for it :-)
+
+Next week --- My 2c on DirectX 6 and some analysis :-)
+
+p.s. how much of your product is downloaded from the web in one day?
+We had 17.8 GB worth of Final Reality downloads when version 1.01 was
+released...
+--------------------------------------------------------------------------
+
+DISCLAIMER: ALL OF THE COMMENTS HERE ARE MY OWN OPINIONS AND MY OPINIONS 
+ALONE.  
+
+
+
+
+

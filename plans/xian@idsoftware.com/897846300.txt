@@ -1,0 +1,43 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 3
+Last Updated: 06/14/1998 14:29:53 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+June 14th, 1998 @ 2:27 pm
+-------------------------
+
+ I've set up a server here running the deathmatch maps from Xatrix's 
+mission pack.
+
+ It's up at;
+
+ 192.246.30.37:27911
+
+
+---
+"Gonna get the girl, gonna kill the baddies, and save the entire planet"
+                                                  -Pop Will Eat Itself
+---
+
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, damage from improper .planfile reading, incorrect line voltage,
+improper or unauthorized use, broken antenna or marred cabinet, missing or
+altered serial numbers, removal of tag, electromagnetic radiation from 
+nuclear blasts, sonic boom vibrations, customer adjustments that are not 
+covered in this list, and incidents owing to an airplane crash, ship sinking 
+or taking on water, motorvehicle crashing, dropping the item, falling rocks, 
+leaky roof, broken glass, mud slides, forest fire, or projectile (which can 
+include, but not be limited to, arrows, bullets, shot, BB's, paintball, 
+shrapnel, lasers, napalm, torpedoes, or emissions of X-rays, Alpha, Beta and
+Gamma rays, knives, stones, etc.). 
+
+---
+

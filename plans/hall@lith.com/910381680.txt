@@ -1,0 +1,256 @@
+Login: hall           			Name: Jason Hall (CEO)
+Directory: /home/hall               	Shell: /bin/bash
+Never logged in.
+No mail.
+Plan:
+11/6/98
+
+I figured that I'd give a general status update for the weekend:
+
+Blood 2 is now much better optimized n' stuff and is now GOLD. GT has it and they are now "doing what they do" with it! Expect it in the stores very soon.
+
+Now that Blood 2 is gold, we are planning on re-releasing the more optimized demo. All that is really left for the new demo is for it to be tested (I'm installing it now - whoo hoo!). As soon as it passes all testing, we will make it available for the people who are interested! People who played the original Blood 2 demo and had speed/mouse/bug issues should be much happier with the new one.Once again, thank you all for your helpful input! This newer demo will also be a better gauge to determine how fast the final version of B2 will run on your system!
+
+On to Shogo stuff:
+
+The Shogo Multiplayer Point Release (SMPR) is right on track for the Nov. 15th deadline! It is looking fantastic and we are really excited about it. The final 1.1 patch will bring you some "client-side-goodness" for sure. Interestly enough, I've noticed a couple of things that are really cool with the upcoming patch...
+
+1.) There is current "uncomfirmed and secret" plan to release some awesome custom made deathmatch only levels with the patch! Kick Ass! I hope that those levels make it in!
+
+2.) There seems to have been quite a few options added to the ShogoServer stuff. One option in particular comes to mind...  ramming damage ...No ROACHES in the HOUSE, for those that can't stand "roaching"...heh
+
+The shogo tools are being worked on / documented as we speak. We could just release them *as is* but we want to make them as useful as possible before we let them out. Yes, we are still going to give the world the game tools and source so not to worry. With the release of this stuff you are going to be able to MOD the hell out of Shogo.
+Also, GT has green lighted the release of Blood 2's source and tools as well, so when both games have all their stuff out there you are seriously going to be in "CONTENT CITY". It is hard for me to actually communicate how much MOD/TC power you are going to have in your hands. I can't wait to see what the community does with this stuff!
+
+Anyway, right after we release the SMPR, we will be finalizing the STSR (Shogo Tools and Source Release), and should be able to get it to you VERY SOON thereafter. And when Monolith says VERY SOON, it is a real VERY SOON! :)
+
+Other things:
+
+I have been seeing some KICK ASS Shogo character art pop up on the internet that has been created by end-users. I just want to tell the people out there doing it that I think that it is AWESOME! I'd like to see more of it! If enough pictures get made we could put up an area on our site to showcase it all! That would be cool...It could also land you a job in the future on Shogo 2!! ;)
+So far I've only seen pictures from PsychoKick (wyoon@panix.com) and Andraax(beld@pacbell.net)- BTW, thanks guys, you rock!
+Maybe there is more out there? If there is please e-mail me!
+
+Question for those that want to answer:
+
+Shogo is selling quite well in the market. We are dedicated to that product and will support it with our best efforts. The multiplay (when the patch is released in 9 days) will be near flawless (from a smoothness / lag perspective) and we will be releasing the tools and source to help the community grow...Shogo is getting strong reviews (PCGamer gave it a 90%, PCGAMES gave it an "A-", no word from CGW yet...) The question is, what in your opinion can Monolith do to help Shogo continue to sell well and gain more and more strong product interest that is capable of going well outside of the core-gaming market?
+Bear in mind that Monolith can't afford 6 page ad spreads in every magazine on earth for the next 12 months. This means that we have to be creative and compelling with whatever we do. There are going to be some Shogo add on packs of course, and that should be good, but what else can we do? I looking for something that hasn't be done before. Something unique. Something that breaks or changes the rules of "The standard ways you make your game successful..."
+
+We have some ideas of our own, but before we jump into them, I'm interested in "hearing from the people" so to speak...
+
+
+^^^11/3/98
+Quick update!
+
+Because of all the great input from the helpful gamers out there, we have made some SUBSTANTIAL improvements to Blood 2 recently and we think that the gaming public will be pleased with the end result.
+
+For example:
+
+Serious optimizations have been made (and are still being made).
+
+It is WAY (and I mean WAY) faster now on ALL systems (especially lower end). If you can currently play Shogo with a reasonable framerate, you *should* be able to play Blood 2 just fine.
+
+The mouse "feel" has been fixed. Much smoother. MUCH, MUCH SMOOTHER! The way it should be...
+
+Tons and Tons of little bugs/issues have been resolved, but generally an all around "finish" is present in the game, and it really makes me excited to see it all come together so quickly...
+
+In any case, we will be releasing a newer version of the Blood 2 demo with the new stuff in it. It should make your Blood 2 experience with the demo "feel" much improved! It will also be more representative of the kind of speed you can expect from the final version of the game.
+
+I would like to mention that we do understand that you may not want to download the demo again, and that there may be some anger about that. All we can do is thank you for your patience and encourage you to get the new demo if you were having performance problems with the old one. If you weren't having any issues at all with the demo, then there is really no need for you to get the new one (unless you want to see what the new mouse code is like - and perhaps get even a better framerate)...We are just releasing a new Blood 2 demo for the gamers out there who want it!
+
+Once again, I'd just like to say that without the support of the gamers out there, we wouldn't be able to do what we do as fast as we do it! Thank you for your help, input, and support!
+
+We will be releasing the improved demo soon (ACTUALLY VERY SOON)...
+
+Hang tight.
+ 
+
+
+11/2/98
+
+Quick update!
+
+Because of all the great input from the helpful gamers out there, we have made some SUBSTANTIAL improvements to Blood 2 recently and we think that the gaming public will be pleased with the end result.
+
+For example:
+
+Serious optimizations have been made (and are still being made).
+
+It is WAY (and I mean WAY) faster now on ALL systems (especially lower end). If you can currently play Shogo with a reasonable framerate, you *should* be able to play Blood 2 just fine.
+
+The mouse "feel" has been fixed. Much smoother. MUCH, MUCH SMOOTHER! The way it should be...
+
+Tons and Tons of little bugs/issues have been resolved, but generally an all around "finish" is present in the game, and it really makes me excited to see it all come together so quickly...
+
+In any case, we will be releasing a newer version of the Blood 2 demo with the new stuff in it. It should make your Blood 2 experience with the demo "feel" much improved! It will also be more representative of the kind of speed you can expect from the final version of the game.
+
+I would like to mention that we do understand that you may not want to download the demo again, and that there may be some anger about that. All we can do is thank you for your patience and encourage you to get the new demo if you were having performance problems with the old one. If you weren't having any issues at all with the demo, then there is really no need for you to get the new one (unless you want to see what the new mouse code is like - and perhaps get even a better framerate)...We are just releasing a new Blood 2 demo for the gamers out there who want it!
+
+Once again, I'd just like to say that without the support of the gamers out there, we wouldn't be able to do what we do as fast as we do it! Thank you for your help, input, and support!
+
+We will be releasing the improved demo soon (ACTUALLY VERY SOON)...
+
+Hang tight.
+ 
+
+
+10/23/98
+
+Hey all! I'm pretty sure the ALPHA patch is going out right now and I just wanted to say some things -
+
+Shogo multiplayer patch 1.1 (Alpha)
+-------------------------------------------------------------------------------
+
+WARNING this is an ALPHA version of the Shogo 1.1 patch.  The only thing we guarantee is that it will not be perfect and there will still be some bugs.
+It may cause problems with the retail version (1.0) of Shogo.  
+
+USE AT YOUR OWN RISK!
+-------------------------------------------------------------------------------
+
+Games saved using version 1.0 will not work with version 1.1 (Alpha)
+
+Not all of the net optimizations are complete.  If you have a high ping time and are on a 28.8k or 33.6k connection, you may experience issues and extra lag in games with lots of players.  
+
+We suggest that if you have a slower connection, that you keep the number of players down low...
+
+We are planning on moving firing to the client side so there won't be a firing delay when you have a high ping time.
+
+BIG ISSUE: There is currently a DirectPlay problem where if a client disconnects from the game ungracefully, the drver will hang for about 1 minute, then sometimes come back.
+This gives the appearance that the server has crashed and happens fairly frequently in games with lots of players.  The only way around this is for us to get rid of DirectPlay for TCP/IP games, which we WILL be doing before Nov. 15th.
+
+There is a new combo box in the net connection dialogs where you can choose your connection speed.  Make sure to choose the appropriate one, especially if you're playing over a modem.  If you have problems with a certain connection type, the safest one to choose is a modem connection.
+
+If you've manually edited your autoexec.cfg file and renamed ##mouse to anything else, make sure that it is ##mouse again.  This enables a workaround for some of the USB mouse problems.
+----
+Ok,
+
+I want personally to thank everyone who is willingly participating in our Alpha patch test program. Through a collective effort, it is our goal to make sure that when we release the final 1.1 patch by Nov. 15th that we have taken care of all the outstanding issues.
+
+With all your help we should be able to do just that!
+
+Please do not download the ALPHA patch if you are just waiting for perfection and are not interested in helping us test and find bugs! I assure you that it will be a much more pleasant experience for you if you just wait until Nov.15th and get the final version!! 
+
+Please, please, please report ANY problems that you are having with this ALPHA patch to :
+http://www.shogo-mad.com/patch/bugreport.asp
+
+We absolutely need your feedback to get this right. We can't do this in a vaccuum!
+
+You are GOING to have problems with the ALPHA patch. If you didn't have problems with this patch, it would not be called an ALPHA!!! We are releasing this patch for the gamers out there who want to see what progress is being made, and are perhaps interested in helping us out!
+
+Monolith is still a small company trying to make the good stuff. We really can use a lot of help from the game community in terms of feedback on this ALPHA patch.
+
+We are doing this because we believe that it will help make a better game. We want to be sure that when we release the final patch that we promised, that it meets expectations.
+
+So, if you downloaded the alpha patch expecting it to be done and perfect and stuff, our apologies - we have tried to be very forthcoming with all information pertaining to our work.
+If you downloaded the alpha patch with the hopes of taking a peek at what is going on and maybe helping a little, PLEASE PLEASE PLEASE send your feedback to 
+http://www.shogo-mad.com/patch/bugreport.asp!
+
+With lots of good feedback you mayhave the patch that we promised BEFORE Nov.15th.
+
+Thanks for the support! It is what makes all this work worthwhile, ya know?
+
+
+
+
+10/23/98
+
+Quick update:
+
+We've been testing the Alpha patch a lot, and as far as I can tell, some of my fears were unfounded. The single player aspect of the game does not get messed up at all by the changes we made (it is still an alpha though)- so things are lookin mighty good!
+
+Most of the AI improvements are in this Alpha patch, and I tell you, it is a whole new experience again! So I strongly suggest that you d/l this alpha patch and play through Shogo again (if you already finished it)! 
+
+USB mouse support is all good n' stuff now...
+
+The Alpha is all ready to go and will be released at exactly 10pm PST on www.planetshogo.com. It is only about 2 - 3 megs in size.
+
+Please make sure that you are at the irc party at 9:30 (planetshogo for more details)!
+
+We will be releasing the source code and tools for Shogo very soon now.
+
+Other things -
+
+Blood 2. Oh my! The blood 2 team decided to use the 2X overbrightening support that LithTech has, and man oh man, it looks MARVELOUS! 
+Blood 2 should be gold in a few days. The demo is nearly done as well!
+
+I can't wait to see what people do with all of this Shogo/Blood 2 content swapping stuff once they get all the source and tools for both games..
+
+Only about 8 hours left before Shogo's multiplay goes to a whole new level... 
+There are going to be a lot of servers springing up tonight! 
+
+
+
+10/21/98
+
+My .plan updates have been running long so I'm going to try to keep this one as concise as possible!
+
+HOT NEWS:
+
+We have been continuing to test the Shogo patch and things are coming along nicely. Last night we were playing with the Gamespy guys (along with a bunch of other people around the US) and had an awesome time deathmatching. At one point we had around 17 people playing in there and there was just so much carnage that it was hard to see!
+We were testing various configurations, modems, net speeds, etc., and I am pleased to say that we are really coming through on this.
+
+Of course we encountered some issues (were are working on them), but if we didn't IT WOULDN'T BE an ALPHA!!
+
+In any case, here is some good news:
+
+We are going to release the Multiplayer Alpha patch to the public via www.planetshogo.com at 10pm PST on this Friday!
+
+Some things to know -
+1.) This is only an ALPHA. It will not be perfect. Not even close. We are still on track to have the FINAL version of the patch by Nov 15th.
+2.) This patch MAY make your single player game get screwed up. What I mean by this is that it is highly likely that once you use the ALPHA patch, you will not be able to play all the way through the single player game of Shogo. 
+Not to worry, when the final patch comes out on or before Nov.15th, this won't be the case! 
+If you do use the alpha patch and then want to revert back, you may need to reinstall Shogo again (make sure that you copy your saved games to somewhere else!)
+
+The reason that we are releasing this ALPHA Multiplayer patch is because we know that a lot of people are chomping at the bit waiting to whoop it on in some DM Shogo!
+
+We feel the same way, and since the current state of the patch makes kick as Internet play possible, we figured that there are enough people out there who would gladly disable their single player game in order to be able to have GOOD, SMOOTH internet multiplay RIGHT NOW.
+
+Please understand that we are very concerned about people feeling that this ALPHA patch is the FINAL version. It is not. I repeat, it is NOT THE FINAL VERSION. The final version will be tested, tested, and tested, and will address many of the various bugs/issues outstanding.
+
+Basically, this ALPHA is just for the hard core internet multiplayer freaks, who just simply can't want to have SOMETHING that lets them rock!
+
+Releasing this patch is also one way of proving to everyone that we are indeed working our butts of on the multiplayer stuff! We are fast, diligent, and very thankful for the patience afforded us by the gamers out there. We just want you to know that we are the kind of company that is NOT going to hang you out to dry...
+
+Ok, 
+This Friday at 10pm PST the Alpha Multiplayer patch will be launched, GameSpy will have MASS servers UP AND READY to go (this Alpha patch has all the gamespy stuff in it - I hope it works... more testing...), and since the PQ beatdown will be going on at the same time, everybody can jump in and play Shogo against them! It is going to kick ass!
+
+Also, there is going to be an IRC party celebrating this event at 9:30! GameSpy is going to announce the winners of the Shogo Gold Master CD contest too!
+
+See PlanetShogo.com for more details on this event.
+
+Once again, I feel compelled to be clear about this -
+This is only an ALPHA, not the FINAL.
+The Final is still on track for Nov. 15th, the alpha will help us test stuff, and make sure the final is good.
+
+The ALPHA DOES have MUCH smoother internet play, and will enable the game community to whip it on! (with some bugs I'm sure)...
+
+In any case, this is a big deal for us, cuz you are going to see firsthand the beginning of the LITHTECH multiplay advancements. I hope you will be pleased! I am...
+
+OH! I almost forgot! Last night I secretly video captured some of the multiplay alpha patch testing that we were doing with the gamespy guys!
+
+There were anywhere from 8 to 16 people playing at any given time. Some where on fast connections, some were on 28.8 modems, etc. It was really fun. People were logged in from around the US.
+
+We found some issues, but all in all it was a great success!
+
+Anyway, there is a short Quicktime movie (needs indeo 4.4 codec) of some of the action during the mulitplay over the internet. It is located at ftp://ftp.lith.com/pub/shogo/mtest.mov
+
+It should be on planetshogo.com too.
+
+The server was in LA, I was in Seattle using a modem. The movie's frame rate is only 15fps, so it really doesn't convey how SMOOTH the game looks...
+
+It is there for you to see if you are curious...
+
+
+
+10/19/98
+
+Oh my goodness...
+
+It is time for an update (for those that care)!
+
+I just got done playing the alpha version of the new Shogo Multiplayer patch with a few people, and I can honestly say that I was blown away!
+
+I tested out various ping times while connected to the server over my modem ranging from 50ms to 300ms, and although you can obviously feel a difference between a 50 and 300 ping in any game, you can't really tell a difference in lag between a 300 ping in Shogo and a 300 ping in Quake 2 3.19!!! So I think we are there! Not bad for a first pass! OF course we'll still improve it...
+
+Please believe me when I say that I know how it is supposed to "feel" at various pings, and I tell you, it "feels" great. It should meet expectations. Heck, it has already met mine! Ultimately though, the game community will be the judge of this, I know that well...
+
+I must say that Mike and the Lithtech team have really outdone themselves. From my perspective they have done somethi

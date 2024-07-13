@@ -1,0 +1,26 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Scott Rice
+Email: srice@mail.ravensoft.com
+Description: Lead Artist
+Project: SoF
+Last Updated: 02/01/1999 12:59:53 (Central Standard Time)
+-------------------------------------------------------------------------------
+I haven't written in ages, but I have to voice my excitement for SOLDIER OF FORTUNE!!!  It has been a 
+pleasure working with the fine people on this project, especially Eric Biessman and Rick Johnson.  As 
+far as the game goes, all I can say is I felt quite exhilerated when I zoomed in with my sniper rifle, 
+pulled the trigger, and watched that skinhead fall in a disturbingly realistic manner yesterday (thanks
+to the fully tweakable motion capture innovations of lead animator Eric Turman).  I firmly believe this
+game will shock all of you at first.  Thrill will come later.
+
+Hello everyone.  I'd like to start giving a Soldier of Fortune art update every week or so.  We are doing
+some revolutionary things on this project.  New technology combined with the ambition of our staff has
+allowed for some really fantastic features in this game.  Today I want to focus on one of the most important
+but often over-looked elements of game art:  textures.  Since just last year, photoshop has allowed us
+to crank through hundreds upon hundreds of textures in just a few months.  The program in combination 
+with the superb and fast work of 2D artists like Kevin Long, Gina Garren, and Joe Koberstein (who 
+brought his photoshop expertise to Raven) gives us the variety of level location we have always thirsted
+for.  That in combination with better cards and more texture memory makes for more realistic, varied and
+weathered environments.  Already we have texture sets for 6 international military hot beds.  Within 
+each texture "wad" we average about 450 tiles.  That means we have already created nearly 3,000 textures
+for the game!  That volume far surpasses any game I've ever worked on.

@@ -1,0 +1,78 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: levelord
+Plan modified: Wed Apr 29 12:44:44 1998
+
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************
+
+04/29/1998
+=================
+
+Be warned... ...there's an "interview" up on DEATHMATCH.ORG and it's not the typical "So, how does one get in the gaming industry?" kinda interview.  Man, I miss Janitor Bob and The New Vore Times!  There's also a screen shot of a new deathmatch level HIPDM2 "Further Down The Oblivion" but it was only meant to piss off Nort.
+
+Came across an interesting Trivia Question as I wrapped up my morning's session of wake-the-fuck-up music... ...what do the following albums have in common... NIN's "Pretty Hate Machine", Megadeth's "Cryptic Writings", Stone Temple Pilot's "Core", AC/DC's "Power Outage", Nuclear Assault's "Game Over", and Twisted Sister's "Under The Blade"?
+
+04/24/1998
+=================
+
+"The Levelord Drinking Game"?  Okay, I'm in ;)  I bet we could make a pretty penny with the travel version.  Seriously, you're a funny man, Joe... ...that's why I keeel you laaaast!... ...just in case any are taking this seriously, Master Siegler and I meet at the Outback Steakhouse in Mesquite every few months.  He goes for the Bloomin' Onions and I... ...well, let's just say I get very pedophilic with all the high school waitresses and their short, short little skirts showing just a hint of flowery panties underneath and their amply round melon-sized boobs bouncing up and... ...or dear, ...that's two drinks for me!
+
+While I got some of you here... ...is anyone else truly heart broken hearing the The Springer Show may in fact be Jerry Rigged?  Who can you trust anymore!   
+
+04/23/1998
+=================
+
+...they don't kill him, errr, CALL him One Thumb for nothing.  Don't I feel fucking stupid, too.  The very HIPDM1 page I was looking for was the Bash Norton page.  I need more drugs!
+
+04/23/1998
+=================
+
+Just a few words on SiN Scripting, the Russians (or Soviets, or whoever), and some fruitcake named Norton.  Before we get into all that, though, let me say "Carpe Diem!" to you.  As we all know, but seldom remember, be happy for all the little things and be thankful for just making it home each day.  One of these days, sure as shit goes through a goose, you won't be coming back... ...ever again.  We're sorry we couldn't help you more, Neil!
+
+Okay, ...on to Sinful programming.  The scripting language that the evil Dr. Dose has concocted is truly awesome!  It could merit him an honorary YACC doctorate and has elevated me from mere lord to that of a demigod.  However, I'm starting to worry about a few things.  First, SiN script writing feels an aweful lot like some weird combination of RPG, Pascal, and LISP.  The syntax scheme reminds me of RPG coding sheets, the variable naming convention is so Blaise, and I feel that same unsteadiness that one gets when  using lambdas.  I do not want to know how he's handling his stack controls...   ...Second, I only today realized that I'm programming with goddamned GO-TO's!
+
+Next... ...playing the Russians in Quake!  ... ;)  I was searching the web yesterday looking for a site that I know I've seen before, but can't seem to find again.  It's a sub-section, actually, and has a good 2-3 pages of HIPDM1 stuff in it (tricks for best times, screen shots, etc.).  Does anyone know what I mean and know where it's at?  I feel shitty because I had email from the dudes and everything, but can't find any reference anywhere in all my boxes ;(  
+
+...Anyhow, while I was searching for "HIPDM1", I came across a few interesting things.  I found a few Swedish sites, ...but those will have to wait for a later finger.  More interestingly, I found a few Russian pages dedicated to Quake/Quake II... ...with references to The Edge of Oblivian.  ...in Russian!  Very cool, I thought, the Rusians playing *my* level!  The Russians... ...wait a moment... ...those are the bastards whose nuclear submarines I used to track as they circled the Atlantic and Pacific just 20 years ago... ...and now I can play deathmatch with them?  Very cool!
+
+Finally... ...on to Norton.  I also found an interesting HIPDM1 referencing page run by some dude named Norton.  Very strange, dude, very strange indeed.  The page reminds me of when Janitor had time to entertain us all with his wit.  If you want a laugh on the bizarre side, check out  HTTP://WWW.DEATHMATCH.ORG.  Beware, though, this guy is truly fucking weird and I'm not sure whether to laugh, feel empathy, or be afraid!  I asked for the license plate, BTW, but he said I'd have to buy the car... ...$17,000 he said.  Interesting number.
+
+04/14/1998
+=================
+
+And now for something completely different... ...a bit of Pythonesse.  I'm always amazed at how accurately Monty Python captured the human beast.  I can barely observe anything anymore without being reminded of one of their skits, spoofs, or vinuettes.  I'll also frequently discover that what seemed to be merely one of their splashes of British nonsense humor was in fact based on actual history.  There was, indeed, a sect of Christianity that thought anything smooth must be holy (Seekers of Smooth Things).  Last night I watched an incredibly informative and very entertaining special on castle seiges (can't remember the show's name nor even the station).  Anyhow, it was centered about the French and English and discribed how both sides would hurl dead animal carcasses at each other hoping to infest the opponents with disease and at least a foul smell and disgust... ...RUN AWAY!
+
+Another bit of interesting fair... ...you know the English version of flipping someone off?  ...the two fingers raised in a backward peace/victory signal?  Know where that came from?  Apparently the French were so pissed at the devastating effects of the English and their Welsh Long Bows, that any archer caught would have his two fingers cut off.  The archers, therefore, would flash their two fingers at the French as a taunt... ...very cool, yes?  ...now go away or I shall... ...oh, just bugger off! 
+
+04/08/1998
+=================
+
+It wasn't me, Officer! ...I don't even smoke any more!  Got here at 6am this morning, cruising off the highway into the lovely West End when what do I see? ...the Ritual offices on fire!  Yes, yes, 3 fire trucks and an assortment of other municiple vehicles circling our offices.  It turns out that one of the bars downstairs had a bad neon sign... ...bad sign, bad!  Harry's office, situated just above this sign, is a real mess and he's gonna love seeing this when he arrives.  The lo-ly levelord got pictures, BTW... ...film at 11.  ...or whenever the Digitally Challenged arrives today ;)
+
+03/29/1998
+=================
+
+Well, well, well, ...the psychosis spreads!  I get to work pretty fricken early, pretty fricken sick early, actually.  I get in this morning at 5:30 and look who's here - Mr. Paradox!  Sick, sick, sick.
+
+Speaking of sick, I found a piece of perversion right here in the Dallas Alley.  We've got this rather robust country singer that used to torture us with the same six songs each and every night when our offices were on the other side of the building.  Anyhow, just before I left yesterday, at about 2pm, I stopped by the restroom to make sure the tank was empty and ready for bouncing and careening up 75.  As I finished my tinkle, I heard the women's bathroom flush next door.  As I washed the piddies, I heard the women's door open and close.  Strange, me thinks to me self?  The Rolling Weider and I are the only ones in the office... ...who could be in the girlie's loo?  Well, as I headed for the elevator just around the corner from the latrines, who is standing there with a shit-eaten grin but our beloved 300lb country boy.  He had just come to rest from walking away from the bathrooms, BTW.  Now, I didn't "see" all this connected, but again, there were only two level designers in the building, I heard the female can flush and the women's head door open and shut, and then I saw this prevo dude.  I hope it's not true, ...I mean, we do not allow that shit in Texas, but there you have the facts as I saw them.
+
+...Ahhhhh!  ...the Digitally Challenged One is here, too!  ...we've gone clinical and need help!
+
+03/23/1998
+=================
+
+The Decline of American Culture?  ...well, what has happened to today's youth!  We had a Ritual picnic yesterday (Mother Miller is always looking after our all-round well being) and I must say that I am depressed (we should have gone much further, much faster) with the state of the next generation.  When we had picnics in my time, everyone tried their best to loose as many brain cells as possible.  There were potables and smokables, droppables and inhalents, and just about any psychotropic substance imaginable.  Today? ...the kids go to a party and they play computer games!  Where we were into heavies like horse, they're into the MULE.  It's sad, it's pathetic, and I don't understand... ...I want to go home!  ...;)
+
+Actually, it was a very cool party on a very beautiful day.  Although there was indeed a large "group" of pasty-white tribespeople inside playing games most of the day, we did have a great time!
+
+03/13/1998
+=================
+
+Is it really Dallas, or is it just me?  You know how you become sensitive to certain things once you become aware of them... ...like you buy a new red Suburban and all of a sudden that's al you seem to see... ...red Suburbans, ...or you hear the name Rubenowitz for the first time and then all of a sudden you hear of a dozen other Rubenowitzs?  ...Rubenowitzii? ...whatever.  Anyways, it seems that every time I hear of some fruitcake person or wacko (sounds like Waco) event... ...it's in Dallas.  For instance, I watch The Daily Show and they have a section called "God's Stuff" in which the do short exposes on religious nuts.  Last night they did a half dozen or so and, yes, most of them seemed to hail from right here down yonder way.  Great show, BTW, and does anyone else think Craig Kilborn is a clone for Doug Wood (Valve artist, did a little Duking, too)?
+

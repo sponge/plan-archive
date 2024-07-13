@@ -1,0 +1,103 @@
+
+*** Monolith Production's Finger Server
+
+User name: jeremy
+Plan modified: Wed Jun 02 16:03:44 1999
+
+ 
+06/02/1999
+---
+Whew!  Lots of stuff been going on the past couple weeks.
+Several new external Lithtech projects, keeping me busy
+with support tasks.  Plans to release source code to allow
+people to load/save Lithtech file formats (.abc, .dtx, etc.)
+as well as possibly some specification writeups.  Lots
+of people contacting wanting information on Lithtech 2
+(talk to Jason!  Talk to Jason!  I just support the current
+'release' version, and that's 1.5!)
+
+Of course, I'm not the only one here who's been working
+away. :)
+
+Webd00d Spen's been working his m4d HTML sk1llz endlessly
+without sleep or food - though at least his girlfriend has
+camped in his office a few times - and finally you can all
+see what he's been slaving away over.  The new Monolith
+website is online, check it out!  A very different look and
+feel than before.  To go with that launch, there's various
+screenshots and other cool stuff in the various game pages.
+Go!  Visit http://www.lith.com/!
+
+In other news, I finally took some time outside of work
+to play a game that I didn't have to work on (*gasp!*).
+I picked up the English version of 'Lunar Complete' for the
+Playstation... hey, I was a fan of the old Sega CD game
+(it was, in fact, the reason I BOUGHT a Sega CD), and played
+the Saturn remake in Japanese.  I must say, though, I was
+a little disappointed in one or two ways... as a fan, and
+one who speaks Japanese, I always find the strange dialogue
+alterations that Working Designs does to RPGs to be...well,
+irritating at best and downright horrifying at worst. (The
+Rayearth game translation honestly scared me.)
+
+The translation appears about the same as the old Sega CD
+version, though, so it's certainly bearable.  Just jarring
+after playing through the game in Japanese last time. :)
+Overall, I do still highly recommend the game, since the
+original Lunar is one of my old favorites.
+
+--Loki
+------------------		
+05/17/1999
+----
+Whee!  Post-E3. :)
+
+I actually didn't go to E3; I was the Lithtech team member
+who stayed behind to man the fort, as it were.  But from
+what I understand from my co-workers who did go, it went
+great this year.  Apparently people really liked the tech
+demo of Lithtech 2.  (Heh... and they thought those 
+screenshots Jason put up were doctored..)
+
+Hopefully, we should have Internet versions of the trailers
+for games that were shown at E3 ready in a while...don't
+know about a Lithtech 2 technology demo trailer, but I
+think it'd be fun to put that out.
+
+External users of Lithtech have been doing some impressive
+stuff.  The folks at 3rdLaw seem to be doing a great job
+with LT with the KISS game... and I had the enjoyment of
+playing with a very early build of 'VOLT' (Virtual OnLine
+Tournaments), which Tasman Studios is making.
+
+VOLT really impressed me, I must say (I haven't had a chance
+to play the 3rdLaw KISS game, so I can't judge it firsthand
+and can't really compare).  Though it's very early on yet,
+it has a definite solid base there, and already seems to
+be developing a bit like a cross between Tribes and Team
+Fortress... an interesting (and enjoyable) multiplayer
+combination.  I had some fun playing with the 0.53 build
+against some of our QA folks here and some of the Tasman
+folks, and would happily be joining into a game to test 
+their new 0.54 build tonight if I weren't going to have to
+be at my parents' house (family obligations; I turn 22
+today, so I'm obligated to go and eat dinner with them).
+Sorry, Moriarty.  I'm sure Sticks'll frag you a few times,
+though. ;)
+
+I tossed up a brief page with some VOLT screenshots from
+my own dinking around with 0.53 (with Tasman's permission):
+http://users.lith.com/~jeremy/volt/
+
+Anyway, it sounds like there are a lot of cool games that
+were demo'd at E3... I look forward to seeing many of them
+in future months.  Need some new stuff to play. :)
+
+--Loki
+------------------
+Old archives are at:
+http://www.users.lith.com/~jeremy/plans/
+
+
+
+

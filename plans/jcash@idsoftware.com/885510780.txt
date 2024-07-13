@@ -1,0 +1,60 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Cash
+Email: jcash@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 01/22/1998 17:43:08 (Central Standard Time)
+-------------------------------------------------------------------------------
+Yikes!  Been way too long without an update here.
+
+1998
+----
+Did ya know that 1998 = 666+666+666?  As sCary would
+say, "like... Happy New Year and stuff".  Does anyone
+have my predictions I made last january?  I forgot to
+save them off; I'm kinda curious how I did.
+
+QuakeII
+-------
+The next release is nearing completion.  It will be
+out, dare I say it, "When It's Done". heh.  It will
+NOT be in the next week.  We're putting this one
+through some real good testing so we can avoid doing
+rapid fire releases again.
+
+The release has a bunch of bug fixes, but you already
+knew that.  Some of the other things include:
+	Cooperative play - including load and save
+	CTF support - not CTF, stuff that CTF needed
+	More DM options - including obituaries
+	NAT support - that's Network Address Translation
+
+A couple of the fixes will feel like new features since
+they were borked before.  Like teamplay and rcon, for
+example.
+
+Please don't email me asking if feature here> has been added.  You'll know soon enough
+and I'm done adding stuff.
+
+Miscellaneous Ramblings
+-----------------------
+This is stuff I just wanna go off about a bit.  Watch
+for large doses of sarcasm.  I'll try to keep it PG-13.
+Or is that TV-MA-11-BEFORE8-3.1415-USA...  guess you
+could say I'm not a big fan of those silly TV ratings.
+
+Clinton.  heh.  His people say it's a embarassment to
+the whole nation to allow our President to be made to
+stand trial.  So, is like say, having him going around
+poking 21 year old coeds going to improve this image?
+Of course we all know she's lying.  Or is she lying about
+lying?  Or is that lying about not lying???  Ummmm...
+now I'm confused.  Oh wait, that's the whole idea, isn't
+it?  I guess Paula Jones is lying too.  And so are all
+those other women.  Except Hillary, of course.
+
+--------------------
+John Cash
+jcash@idsoftware.com
+"Hellrot"

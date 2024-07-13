@@ -1,0 +1,60 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 2
+Last Updated: 01/22/1998 21:29:47 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+ --- Jan.22.1998 (10:39pm) ---
+
+ Big thanks out to Zoid for fixing up the QuakeWorld Masters in the latest
+round of hax0r attacks. Looks like some brainiac flooded our masters with fake
+"New Server" messages and caused chaos for GameSpy and our QuakeWorld webpage.
+
+ Should be fixed now. 
+
+ --- Jan.19.1998 (8:30pm) ---
+
+ I've received a number of e-mails from people inquiring about methods they
+can use to optimize their maps for speed in Quake II.
+
+ My immediate response is "Do you know about Area Portals and Hint Brushes?"
+Chances are they've heard about areaportals, but Hint Brushes produces a "Huh?"
+
+ So I took some time today while one of my maps was BSPing to make a quick tutorial
+on how to use hint brushes.
+
+ Quake II: Hint Brushes Demystified
+
+ Hint Brushes (a brush with a texture name of "hint") are a way of telling the viser to 
+treat the contents of the brush as a seperate volume. This is particularily usefull in 
+forcing the viser to break the PVS in certain cases.
+
+ Given our Sample Area (Screenshot: 12k), we can enable a feature of
+Quake II that the designers here at id have all grown to know and love, gl_showtris 1.
+This tells Quake II to draw all the triangles which make up a scene (PLEASE NOTE: You will
+need a GL card with a full OpenGL implementation in order to use this feature. This does not
+work on 3DFX.) This is particularily usefull because you can see where the PVS breaks
+(if it breaks at all) in any given area, as well as showing you the complexity of a
+scene. By turning on r_speeds 1 and gl_showtris 1 for the scene in our
+sample map, we see that the speeds run at a respectable 310 and we can see the 
+triangles which make up the scene (Screenshot: 81k). Hardly in need of optimization but,
+assuming that this was a horribly complex area...
+
+ What I would do in this case, is stick an 8 unit wide hint brush a ways into each
+left and right pipe, as well as the pipe which runs vertically through the floor.
+This takes a bit of knowledge of how the vis process works and you have to sort
+of second-guess the engine as to what it might see from any given spot.
+There is no "correct" way to do this, you sort of have to go on your gut feeling
+as to where to place the hint brushes (Editor Screenshot: 96k).
+
+ After re-bsping the map with hint brushes in place, we can see that we've shaved off
+57 polygons (Screenshot: 77k) from that particular view. Not
+a tremendous savings in this case, but sometimes it really makes a difference when you 
+try to have your levels running at sub 600 poly scenes.
+ 
+ Go forth and experiment =)
+

@@ -1,0 +1,139 @@
+[mailhub.gte.net]
+
+Account Name:  georgeb @3drealms.com
+Email address: georgeb@3drealms.com
+----------
+(George Broussard, President, 3D Realms)
+
+Shadow Warrior update (Monday 5/26/97 - 9:30 pm)
+================================================
+
+The v1.1 patch is done and Joe Siegler is preparing
+it for release now.  Count on about 2 hours for it 
+to get online making it approx (11pm CST).
+
+This patch will fix most major problems and lot's of
+little design tweaks.  I'd list it all here, but 
+there are at about 50 itmes and I don't wanna clog
+the space.  Just read the readme's when you get the
+patch.
+
+We are now fully focused on getting the full version
+done.
+
+[3D Realms Movie Review #3: "Lost World"]
+Awesome special effects that cannot be missed.  
+Plot weaker than a wet paper bag.  First 20 
+minutes should have been scrapped or redone.
+Kids? Don't need em?  At least in first movie
+they "did" something besides whine and be a
+burdon.  But the action and special effects 
+make it a "must" see.  Too bad everything else
+ruined a shot at cinematic greatness. No repeat
+value except to look for glitches in the effects.
+Rating: 8 / 10
+
+Shadow Warrior update (Monday 5/19/97 - 9:21 pm)
+================================================
+
+It's been a week since the last update, so I 
+figured it was time.  The response to the shareware
+version have been pretty overwhelming, and we 
+appreciate all the mail we have been getting.
+
+V1.1 Patch - We are working on a patch right now
+and I think it'll be ready sometime in the next
+week.  Here are some things we are addressing.
+
+* Save/load locks - (DOS mode mostly)
+* Out of syncs
+  - UZI fire (DOS mode again)
+  - cheat codes that slipped through.  SWTRIX etc
+* Going under water in Win95 locks (NOTE: I have
+  noticed that this happens when people have an
+  Ensoniq SoundSacpe. (Get a real card ;) )
+* Small things like:
+  - higher mouse sensitivity
+  - Re-wording of 50 play message
+  - Speed up start of level 3
+  - Anything esle we can do in a week
+
+Thanks for the support again, and look for a patch
+really soon.
+
+[3D Realms Movie Review #2: "The 5th Element"]
+Pretty good flic all in all.  Cool, believable
+world, Bruce Willis and naked Milla ;)  Starts
+out awesome, but the whacky DJ guy at the end
+ruined it.  Since when in the hell does Bruce
+Willis need a sidekick?  Didn't they learn
+from Die Hard 3?  If this movie had half the 
+action of Die Hard 1/2, it would have kicked 
+all ass.  As it is, it's a good movie, but it
+could have been a GREAT movie. 
+Rating: 7 / 10 (go see it, but don't expect
+greatness)
+
+
+[5/4/97 3:42pm]
+
+In other news, I was surprised when some Prey dudes walked into
+my office and said "Hey, the new map guy's here".  They were
+of course speaking about Matt Wood, our new mapper for Prey.
+Welcome aboard Matt!  This officially puts Prey into high gear
+as we have key people in every spot now.
+
+[3D Realms Movie Review #1:]
+A few of us went to see Volcano last night.  Mainly because 
+going to see a movie resembled some part of the life we used
+to have.  It was 'aight.  Nothing great.  Typical disaster
+flick that was so ridden with cliche's it was sad, but the 
+effects were pretty cool.  I haven't seen Dante's Peak yet,
+but other people said they liked it better.  
+Rating: 6 / 10 (wait for cable)
+
+
+[5/1/97 6:30 pm]
+
+Had a nice visit from the Rogue team today, and we just sat
+around talking about projects etc that we're working on.  It was 
+nice to see some of the guys again, as we've been so busy lately.
+
+
+[Duke Nukem Forever Info ]
+
+This is sort of a mini FAQ since I keep getting the same 
+questions over and over.  It also gives people something
+to put on the dozens of Duke Nukem Forever sites I've
+seen go up.  (Thanks for the support guys).
+
+[NEW INFO]
+
+* Yes, we will maintain Quake C, so you can modify Duke 
+Forever all you want?  DLL's?  Don't know, but don't count
+on them.
+
+[OLD INFO]
+* If you want to know why we didn't use the Prey engine, see 
+www.3drealms.com, under About Us/Press Releases
+
+* We plan on maintaing all of Quake's functionality in the free
+play over the Internet.  To save some text space, since it's 
+based on the Quake engine, you can assume we will keep most of 
+what is already there and add to it, where we can.
+
+* We are developing for the Quake 1 engine and will get Quake 2 at
+a later date, and try to add what we can from it.  If you want
+Quake 2 info...you will have to wait.
+
+* 3Dfx?  Yes, we will maintain GLDuke, and will probably do extra
+stuff for the version to make it cooler.
+
+* Yes, we will have super interactive environments like Duke 3D
+
+* Yes, we will keep Duke's voice, sense of humor and character in
+place and expand upon it.
+
+* And finally, the most asked question so far? "Strippers?"  
+Hey, it's Duke, and we're 3D Realms.
+

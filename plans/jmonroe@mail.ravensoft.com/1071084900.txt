@@ -1,0 +1,34 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Lead Programmer
+Project: Jedi Academy
+Nickname: Emorog
+Web Page: James' Web Site
+Last Updated: 12/10/2003 14:36:34 (Central Standard Time)
+-------------------------------------------------------------------------------
+Happy Holidays!  Bonus maps for Jedi Academy from Raven Software
+ 
+6 New Maps:
+ 
+duel_bonus1 - Coruscant
+ctf_bonus1 - Rift of Shadows
+ffa_bonus1 - Gas Mine
+ffa_bonus2 - The Fortress
+ffa_bonus3 - Conquest of Byss
+ffa_bonus4 - Ord Mantell Canyon
+ 
+Unzip to your Jedi Academy Installation folder.  
+The maps will appear at the top of the map selection menu when you host your own game in multiplayer.
+
+Download here:
+- 3D Gamers 
+- 3D Downloads 
+- Gamer's Hell 
+- Loadedinc(registration required) 
+- Worthplaying 
+
+
+
+These maps are released "as is" and are not supported by Raven Software, Activision, or LucasArts.  

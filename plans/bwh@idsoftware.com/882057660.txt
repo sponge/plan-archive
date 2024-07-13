@@ -1,0 +1,133 @@
+December 13, 1997 (part 2)
+------------------
+
+Every now and then a beast walks the landscape and devours all within its path,
+knowing no natural enemy.  These are the things of legend: Michael Jordan,
+Walter Payton, the great white shark, early Mike Tyson, and...
+
+3DFX, ca. 1997
+
+I've said this before and I'll say it again -- I left 3Dfx for a reason, and
+it didn't have anything to do with wanting to branch out and expand my
+horizons.  It had to do with the fact that I thought 3Dfx was confused and had
+a severe lack of management and direction.  So when I say good things about
+3Dfx, it's not because I love that company or anything -- sure, I have some
+stock in 3Dfx, but the amount I have is a pittance (I negotiated poorly for
+stock, and I left after only 1/4 of it vested), so I don't have a financial
+reason to like 3Dfx.
+
+If I say good things about 3Dfx, it's because their hardware rocks like no 
+other hardware company can dream of.  I empathize with their situation -- 
+they make what is  arguably the single most important piece of consumer PC 
+hardware since the SoundBlaster, and all we keep hearing about are all the 
+"Voodoo Killers" that are gonna show up "any day now".  I cannot stress to 
+the world what kind of an amazing achievement the Voodoo was/is -- it easily 
+spanked it's nearest competitor by a factor of three, which is practically
+unheard of.  Typically when looking at performance claims between hardware 
+it's impressive to see someone listed as "25% faster".  But THREE HUNDRED 
+PERCENT?!
+
+That, my friends, is amazing.  And yet at times I STILL think people are
+constantly looking at the horizon wondering what's going to be the "Voodoo
+Killa", instead of appreciating the magnitude of what Scott Sellers, Gary
+Tarolli, and Jim Margeson accomplished.
+
+id had to hear the same noise after Quake when all the "Quake killers" were
+gonna show up and even the landscape....sure, there were pretty screenshots
+and big performance claims and projected release dates, but when it came down
+to it, the first Quake killer to ship was...Quake 2.
+
+It must be nice being a competitor of 3Dfx, since it's easy to aim for that
+plume of dust they're leaving in their trail.
+
+"So, what's the big deal?" you may ask.  Why the big 3Dfx Cheerleading all of
+a sudden?
+
+To answer that, let's just say "I ran the numbers".  But first, let us
+establish some things:
+
+1.  The test system, as I mentioned the other day, is a pretty big, macked
+out, p1mped up system from hell.  It's an HP Pavilion 8190 Pentium 2/300 with
+AGP, 6GB HDD, some kind of soundcard (disabled for testing), etc. etc.  A
+pretty nice system.  Oh, and 96MB of RAM.
+
+2.  Now, please do NOT send me mail whining that this system is not indicative
+of what everyone has.  I KNOW this already.  But if I test on a Pentium/200MMX,
+people are gonna complain that they don't know what kind of p1mped out new
+system to get, or they'll complain that my test system should match our
+minimum requirements.  If I test on a P5/133, people are gonna complain, once
+again, that they don't know what kind of NEW system to get, or they'll complain
+that I'm testing CPU performance, not hardware performance.
+
+3.  Yes, certain accelerators are very dependent on CPU performance.  If I had
+a P5/133, I would NOT get a PowerVR or a RIVA128 -- these two chipsets are
+real dependent on CPU performance, more so than their competitors.
+
+4.  A Pentium 2 was pretty much needed because I wanted to test AGP parts along
+with PCI parts.  Also, some chips like the RIVA128 are going out standard on a
+lot of Pentium 2 machines, so NVidia will have a (valid) argument that if I
+test a RIVA on a P90 that this is NOT typical of a RIVA in the field.
+
+So, I know I can't make everyone else happy, but I CAN make myself happy.  I'm
+sure other people will run the benchmarks on lower end systems and print their
+results, so all is not lost.
+
+5.  These numbers, and chipset opinions, are GOING TO BE DIFFERENT FROM THOSE
+OF GLQUAKE.  This may seem like common sense, but I KNOW some people are going
+to whine that the numbers are lower than GLQUAKE's, so please...don't.  Also,
+the performance dependencies of Quake2 are significantly different than that of
+GLQuake -- we have lots more triangles going on, and I believe a lot more
+textures.  This means that boards that work great with GLQuake (e.g. PowerVR
+PCX2) aren't so hot with Quake2, and vice versa (Permedia2 is arguably a better
+board for Quake2 than Quake because its triangle setup performance makes up for
+its poor fill-rate).
+
+Tests were run 640x480 and 512x384, fullscreen, at 16bpp resolution, with
+sound disabled, using "sync to retrace" disabled if at all possible.  Tests
+were run twice, and the best of the two scores was recorded.  I did not get
+a chance to test the ATI Rage Pro because I don't have NT installed -- all
+the more reason to see these guys support an ICD -- and I did not get a 
+chance to test the Rendition V2100 boards since they don't seem to work with
+the V2200 software Rendition provided.  I used DEMOMAP DEMO1.DM2 to run 
+the test.  I also did not exec ANY configs, since this can throw off figures
+if you inadvertently set "hand 2" or something.  All tests were performed
+under Win95 OSR 2.1 with no other applications running.  Occasionally I would
+run a test at higher resolution "just because".
+
+As a "control" number I ran the test in software, fullscreen, using DirectDraw
+on the Permedia2.
+
+No overclocking of any type was done, and I did not run any "tweaks".  I'm
+trying to represent the type of performance Joe User would get if he bought his
+system at CompUSA, grabbed some add-in board (if necessary), then went home
+and played.
+
+****************************************************
+* sorted alphabetically                            *
+****************************************************
+Board				Chipset					Resolution		FPS
+
+3Dfx Reference		3Dfx Voodoo Rush 6MB	640x480			18.2
+3Dfx Reference		3Dfx Voodoo Rush 6MB	512x384			22.9
+
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	1024x768		61.4
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	960x720			61.4
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	800x600			67.1
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	640x480			67.5
+3Dfx Reference		3Dfx Voodoo2 SLI 4/4/4	512x384			67.3
+
+3Dfx Reference		3Dfx Voodoo2 4/4/4		800x600			56.6
+3Dfx Reference		3Dfx Voodoo2 4/4/4		640x480			65.5
+3Dfx Reference		3Dfx Voodoo2 4/4/4		512x384			67.4
+
+3Dfx Reference		3Dfx Voodoo2 SLI 2/2/2	800x600			66.4
+3Dfx Reference		3Dfx Voodoo2 SLI 2/2/2	640x480			66.8
+3Dfx Reference		3Dfx Voodoo2 SLI 2/2/2	512x384			67.2
+
+3Dfx Reference		3Dfx Voodoo2 2/2/2		640x480			65.4
+3Dfx Reference		3Dfx Voodoo2 2/2/2		512x384			67.3
+
+Canopus Pure3D		3Dfx Voodoo 6MB			640x480			27.0
+Canopus Pure3D		3Dfx Voodoo 6MB			512x384			39.6
+
+Diamond Monster3D	3Dfx Voodoo 4MB			64

@@ -1,0 +1,108 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 3
+Last Updated: 04/04/1998 12:02:41 (Central Standard Time)
+-------------------------------------------------------------------------------
+
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+
+April 4, 1998
+-------------
+
+Accelerating a Viper in 1st while turning is a Bad Idea.  No damage, but
+that was my first real scare in that car.
+
+Viper Rule #4: If you have to punch it to merge with traffic, just wait.
+
+I'm a CTF freak, as anyone that plays on satan:27913 would know.  Some 
+comments:
+
+CTF STRATEGY
+
+A CTF Strategy Guide should be required reading before you play.  I've seen
+so many people just treat the game as a free-for-all w/ grapple instead of
+an actual team game.  Common mistakes include:
+
+- grabbing health and armor in front of your flag carrier
+- not escorting your flag carrier
+- not clearing enemies out of your base while your flag carrier is trying not
+  to get killed
+- leaving the base undefended
+- getting engaged in pointless 1-v-1 battles -- killing the enemy doesn't
+help that much unless you're denying them a tech item or unless you're clearing
+out an area.
+- if you're lagged, do NOT BECOME THE FLAG CARRIER!
+
+CAMPING IS COOL
+
+FOV 30 + railgun + sensitivity 1.0 = angel of death.  Do NOT get in a railgun
+match with a 0-ping guy with resistance + armor. :-) Railgun + double damage
+equals instant death.
+
+Snipers work in pairs, a spotter/close-in person to defend the sniper while
+the sniper is doing his/her thing.  The Stronghold is bad that way -- you can
+get in the sniper zone while someone walks up behind you and puts a blaster to
+your head.  You need sniper teams on that level.  But one sniper team can 
+easily kill one person every 15 seconds and keep that area clear.
+
+TECHS
+
+The Autodoc is a little too powerful, should probably not refresh the armor I
+think.
+
+The Shield isn't powerful enough.
+
+BFG SUCKS FOR CTF
+
+That's just my opinion, but it really isn't fun when some no-talent just hops
+in the water, grabs a BFG + cells, then clears out the base in three shots.
+
+SPECTATORS ON SATAN SUCK
+
+There is a HUGE line of people trying to get on Satan at any given time, so if
+you're spectating you're preventing someone else from playing.  When I'm on I'm
+pretty insistent that spectator play or leave.
+
+PEOPLE THAT QUIT PLAYING BUT STAY CONNECTED SUCK
+
+Even MORE annoying are people that play the game, then have to go to the
+bathroom or get a drink or answer the phone and don't disconnect.  They take
+up a valuable slot just sitting there, but since the line is so long to get
+on Satan people don't want to disconnect because they might not get on 
+again.  That sucks.
+
+If I'm playing and someone is just standing on a spawn spot and doesn't respond
+to a hail, I kick them.
+
+April 3, 1998
+-------------
+
+Someone else asked "Why not the M3?"
+
+Pros:
+
+- pretty fast
+- "sleeper" appeal
+- not very expensive (relatively speaking)
+- seats 4 comfortably
+
+Cons:
+
+- 15% of id employees already have a black M3
+- Cash's M3 is having a supercharger installed
+- not exotic enough
+
+I probably knew I was getting a Viper a long time ago when Carmack said to
+me many months ago:  "You should get a Viper, it suits your personality."
+ 
+People have pointed out (with varying degrees of politeness) that if I truly
+wanted to comment about upcomingn products based solely on a

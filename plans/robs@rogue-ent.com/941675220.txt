@@ -1,0 +1,12 @@
+Login: robs           			Name: Robert Selitto
+Directory: /usr/users/robs          	Shell: /usr/local/bin/tcsh
+Last login Wed Nov  3 20:13 (CST) on ttyp0 from 207.136.25.17
+New mail received Wed Nov  3 20:20 1999 (CST)
+     Unread since Wed Nov  3 20:20 1999 (CST)
+Mail forwarded to: "|exec /usr/local/bin/procmail"
+Plan:
+11/3/99
+
+It's that time again..... 
+
+go NY go NY GO!!!!

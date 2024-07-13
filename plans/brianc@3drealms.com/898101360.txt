@@ -1,0 +1,209 @@
+Account Name:  Brian Cozzens
+Email address: brianc@3drealms.com
+----------
+Brian "Whaleboy" Cozzens
+Description: 3D Modeler/Animator/Artist
+Project: Duke Nukem Forever
+3D Realms / Apogee Software
+EMAIL: Brianc@3drealms.com
+---------
+
+June 16, 1998
+
+Quoted from the TechZone -
+
+"in the video there are some really stellar character animation's like the 'old miner' that does some talking. Looks very cool, and I hope the Unreal engine is up to the task. when playing Unreal I did not see any examples of where the engine could do something like the talking characters I saw in the Duke forever video."
+
+for everyone that's concerned, as far as the art side goes there's nothing to worry about with the switch. you'll still see the same talking characters with their mouth's moving that you did in the video. you'll still see Bombshell run around and do her thang. All of the models, animation, and art that you saw in the video can be seamlessly integrated into the Unreal engine. so you'll still get what you saw in that video in the final product. :)
+
+END OF LINE.
+
+------------------
+
+May 6, 1998
+
+I think I like the idea of DukeTroopers..
+
+And no this wasn't an idea for the name of Duke deathmatch groups... ;)
+
+------------------
+
+April 22, 1998
+
+I was gonna update my .plan and whine about people whining, but somebody already beat me to it. :)
+
+------------------
+
+March 26th, 1998
+
+For anyone looking for a 3D Accelerator for 3DS Max R1 and R2, you might wanna check out Diamonds FireGL1000 Pro. I had asked around for recommendations on a board, and this was mentioned to me several times. Now it's not a completely awesome board mind you, but for its price its a steal. Especially if you don't wanna blow all the cash on a card after you just spent 2k+ on R2. :)
+
+In other news, we're all working hard on the game. Which of course isn't a news flash. But hey, makes it look like I have lots of important things to talk about here!
+
+Chris (who I still have to slap around occasionally) discovered that one of the add-ons you can get for Maya (see previous .plan updates) allows you to paint deformations on geometry, and can paint weights on CV's. Basically painting a fall-off value for a displacement map. The name of the add-on is Artisan, for those who are curious.
+
+This is cool for things like a cape, where you can use the painting technique for less movement at the top, and more free flowing at the bottom. And the fact of you actually being able to paint it on there, instead of traditional methods is awesome.
+
+And just for the ones that asked previously, Maya is a new Animation/Modeling package for the SGI - soon to be ported to NT platforms.
+
+END OF LINE.
+
+------------------
+
+March 17th, 1998
+
+I figured anyone starting out on 3D work, may it be modeling or animation might find this list of a few general rules helpful.. :)
+
+Animation:
+
+1) The Principles of Animation (this is a book in itself)
+
+2)  Organic "character" motion should flow as one smoothly moving machine. All of the "parts" of a character are set in motion and "driven" by other parts of a character (the main force being the body). Walk cycles, in particular, need to look like they're being driven by the body (especially in a character that really has weight).  The body of a realistic character should almost always reflect any motion in its appendages.
+
+3) Breaking the laws of physics in an animation can actually make things look more realistic and "proper" to the eye. (ie. slamming a fist down on a hard wooden desk... warping the impacted surface slightly for a frame or two may give you a better overall effect than keeping what would normally be a very solid desk solid.)
+
+Modeling:
+
+1) "Bevel/dull" edges for a more natural look (very few things in the real world have very sharp or perfectly 90 degree edges).
+
+Composition:
+
+1) The "Rule of thirds" (and other rules of composition).
+
+Camera Work:
+
+1) Set an establishing shot...let your audience know where they are.
+2) Avoid moving the camera unnecessarily. (Which is to say, "Just because it's a lot easier to move a camera in the 3D realm than it is in the real-world, doesn't mean you should move it").
+
+Lighting:
+
+1) As with color choices, proper use of warm and cool lighting can
+significantly enhance a scene.
+
+General:
+
+1) Everything for a reason.  Never be flashy for the sake of being flashy. Never use a tool just because you can.  Everything in a scene or animation should have a purpose.  This includes everything from colors to motion and
+more.
+
+2) Be consistent.  If you are choosing a particular style for a project, stick with it.  Don't "jar" your viewers unintentionally.
+
+3) Don't overkill, but also remember that details (or lack of) can make or break a piece of work.
+
+4) Accept criticism.  It can be your best friend.
+
+5) Storyboard.  Plan out what you are going to do in advance.  Remember the saying, "Failing to plan is planning to fail".
+
+
+END OF LINE.
+
+------------------
+
+3-12-98
+
+I had to send a slightly disconcerted Marilyn Manson fan this email.
+
+"Hey, cool down light bulb. I think Manson is cool and all. I just was saying that I had three gorgeous young ladies in a Saleen Mustang try to catch my Diablo, stop me at the light so one could give me her number, end up calling it and finding out she was really a he, and it all happened while I was listening to that classic Manson song. I just hope she/he hasn't given her/his number to anyone else."
+
+are we having fun yet? :)
+
+END OF LINE.
+
+------------------
+
+3-11-98
+
+On a further note, I've been told that if you go down to a college bookstore, or any other place that might sell academic versions of software you can pick up TrueSpace2 for about $79 and TrueSpace3 for $150. Now thats a steal. :)
+
+END OF LINE.
+
+------------------
+
+3-10-98 Part 2
+
+Just recieved word that Maya NT is in beta, and seems to run fine on a Pentium Pro 200 with an average Glint 500 board. Rumor has it that it won't be released till probably next winter.
+
+I'm also glad to see SGI is trying to penetrate the mid-range market. Which appears to be what they're doing as they will be offering some machines that run NT in the next few months.
+
+They don't promise that the NT versions of Maya will keep up with the IRIX versions, but hey - having it available on NT rocks.
+
+On another note, I've gotten a few questions about what package is cheapest and most decent to learn modeling in. I myself first started in 3D Designer, which was a watered down version of Topaz, it was cheap for what it offered, but difficult to model in. Pretty sure they don't make it anymore.
+
+It was when I finally bought TrueSpace that I learned the fundimentals of modeling and animation, in fact the interface was so simple I rarely ever had to look at a manual or help file. I just ended up winging it. From there I worked myself to Lightwave, then 3DS Max. I actually know of alot of modelers that originally began in TrueSpace2.
+
+So for learning the fundimentals easily, I would most likely recommend TrueSpace2 or 3. You can even download a free demo here:
+
+TrueSpace2
+http://forms.caligari.com/forms/ts2down.html
+
+TrueSpace3
+http://forms.caligari.com/forms/ts3down.html
+
+Retail price on these cute little packages are $199.00 for 2, and $495.00 for 3.
+
+hope that helps. :)
+
+END OF LINE.
+
+------------------
+
+3-10-98 Part 1
+
+Well, from what I hear Maya looks to be ported to NT eventually, which will be extremely cool. Most of what I've heard about it has been word of mouth, up to and including someone already testing a beta. Has anyone else heard or can confirm a Maya NT port? If so, drop me a line.. :)
+
+END OF LINE.
+
+------------------
+
+3-6-98
+
+Cannibal rocks! Its a rocking rockful utility made for us rocking artistic gods here! We crush our enemies with this rocking utility made by our rocking programmer Kiwi, who crushes and rocks! rocking!
+
+It's Hard Core!!!
+
+:)
+
+END OF LINE.
+
+------------------
+2-19-98
+
+I had gotten an e-mail asking about some palette issues. One of which was a process of having an algorithim look at a group of textures, grab the colors from those, and then average them out into one 256 color palette. This would technically be ideal, except for the fact that you have an intensity table.
+
+  In the Quake engine, lets say you've got a wall. Purple wall, with a light near the top of the wall. Now the top of the wall, would be bright and the bottom dark - of course. What if this algorithim that generated this palette didnt find any bright purples/dark purples in any of the textures it averaged from? Or if it only found 3 different shades? What does this mean? Basically it means you'll have a purple wall, that shades down only three times.. ick! 
+
+And it will try and find the next best color to ramp down from light to dark on the texture. Not helpful in the banding department, and doesnt look hot either.
+
+  So for anyone out there trying this process, this should be helpful. For your enviroment to look its best, for every different color you have, you need to have an accompanying shade for it. But this is only the case in 8-bit.
+
+Did I mention I LOVE 16-bit?
+
+Oh, almost forgot. Why cant Chris figure out bi-peds dont have 3 legs? You'd think a modeler would know this! :)
+
+-Brian
+
+END OF LINE.
+
+------------------
+2-18-98
+
+Its raining outside, damnit.
+
+And to think earlier today was gorgeous, this must be some sort of a compromise!
+
+Anyhoo, update? I myself have been busy working on weapon models and their animation, including their skins. One of which being a rocket launcher, which I'm just now applying the final tweakies. Been doing a little multi-tasking with some texture work. Also been pullin out some concept sketches and all that good stuff.
+
+As far as web graphics, I'm almost finished. Joe is still prodding me every 5 hours for a new graphic. ;)
+
+Mikey is busy workin' on character animation and concepts. He's been comin' up with some very cool stuff! That animation is groovin' along too.
+
+Mr.Johnson, which I have to occasionally slap around is also working on some excellent character animation.. His current target is a chick model. As we all know, unattractive female characters don't exist in games, especially ours. ;)
+
+Was working with Kiwi on utility tweaks, wee! He's been working on a MAX plug-in which should make the character animation process so much easier it hurts. Of course, it would simplify pretty much anything with animation. But the important part is, it drastically decreases the time it takes to bring the model from MAX toour format.
+
+I would follow the .plan trend and talk about 3D cards and their features, but work calls!
+
+-Brian
+
+END OF LINE.
+	
+    

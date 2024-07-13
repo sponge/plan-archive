@@ -1,0 +1,42 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+Last Updated: 12/10/2001 00:55:18 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+RTCW/Q3A Authorize server news.
+
+The Q3A master/auth server fell over on Saturday, I went into the office and re-started.
+When I got up this morning (Sunday), it was down again.  It seems an uptime of 200 days
+straight is a little much on the computer.
+
+I took the opportunity to upgrade the Q3A master/auth code to the same codebase as RTCW
+this brings up all the anti-piracy measures that have been employed in the RTCW codebase.
+
+So apologies for the downtime, we were on it as soon as possible.  The authorize server
+resorts to "auth all" when it's down, but the internal browser will not work when the
+master server is down.  Any problems beyond that were, of course, your own.  :-)
+
+If you get an "invalid_cdkey" message back from a server, that REALLY means that the
+authorize server has recieved your cdkey, decoded it, and found it to be BAD.  Re-entering
+your cdkey should fix this problem.  It does not ever give this message with good cdkeys.
+
+If you get the message "client unknown to auth", this means that the authorize server has
+yet to hear from you (the player).  Make sure you can ping authorize.quake3arena.com (type
+"ping authorize.quake3arena.com" from a command or ms-dos prompt).  If you do not see
+"192.246.40.56" in the responses, then this is why you're not getting to play.
+
+If you're playing behind a firewall or NAT router, ensure that the ports to the server,
+and the authorize server are open through your firewall or for your NAT IP address.  Refer
+to your firewall or router manual, there should be a section for games in it.  The authorize
+server runs on port 27952, most servers run on port 27960.
+
+There's a lot of people using the same few cdkeys on Quake 3 right now.  These keys will be
+added to the ban list.  If you see "banned cdkey" when you try and connect to a server
+this is because your cdkey is in general distribution, and while it will not work that way
+(you will get a cdkey in use error), we do now keep lists of banned keys for both RTCW and Q3A.
+
+Graeme.

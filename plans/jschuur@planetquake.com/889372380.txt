@@ -1,0 +1,111 @@
+Login: jschuur        			Name: joost schuur
+Directory: /home/jschuur            	Shell: /usr/local/bin/tcsh
+On since Sun Mar  8 09:32 (PST) on ttyp8, idle 0:18, from 209.117.180.1
+No Mail.
+Mail forwarded to: jschuur@onlinemagic.com
+Project: Quake and Unreal Archive Maintainer.
+Plan:
+s l i p g a t e   c e n t r a l - t a n g l e d
+
+Spring '92, Ireland
+
+March 8th, 1998
+---------------
+
+I've long kept this opinion for myself, but I think the time has 
+come now for someone to say this in public and my humble little .plan
+file (which certainly doesn't get as much exposure as some of the
+others out there) seems just the right place.
+
+Aren't we all tired of a certain 3D News page constantly making
+excuses for poor news coverage? Days go by without an update, then
+all of a sudden a long winding, whining excuse why a big piece of
+news in the Quake editing scene hadn't been posted. Well guess what?
+Planet Quake too received ample forewarning of the Worldcraft 1.6
+patch and we managed to post about it quite quickly. And this is not
+just an isolated case. Infrequent updates, blatent requests for free
+stuff and glaringly obvious elitism have reduced what was once a big
+name in the news scene to a joke that's only worth following for it's
+comical value.
+
+If you can't stand the heat, then stay out of the frying pan. If
+you can't properly fulfill the needs of the Quake community by
+adequately reporting on news from the scene in a reliable way,
+then for God's sake, stop resting on your laurels and your 
+occasional trips to games companies. Constant name dropping
+of your 'good friend soandso' and your 'buddies at soandso' won't
+help cover up the fact that your site simply doesn't have the 
+content to keep up with the developments in the Quake scene that
+other sites who take this job much more seriously seem to be able 
+to do just fine.
+
+Your high time is over, take the consequences and please remove 
+yourself from the news race.
+
+Those of you seeking real news, please consider this: ask yourself
+what news site you visit again and again and again, because you've
+grown to count on it for the information you need in the quality you
+expect and the timeliness you can rely on. Whether it's Blue's or 
+Planet Quake or even another site, don't be fooled by hype or people
+who've been in the biz for 2 years. Stick with who actually delivers.
+
+Comments on this .plan update are welcome and encouraged.
+
+
+March 7th, 1998
+---------------
+
+Since Stomped is still blocking all of my mail to any of their 
+email accounts, I'll have to resort to my .plan file to comment
+on Process' suspicions that someone impersonated him on Quakecast.
+
+The last time Process was on was a few months ago to talk about
+Respawn. We did talk about Respawn a few weeks back, but noone
+claimed to be him. Unless someone was refering to one of the
+Quakecast spoof sites out there, no impersonation occured.
+
+
+Febuary 28th, 1998
+------------------
+
+I'm amazed at how easy it was to find an apartment here in New York
+after all. I'd basically been my old slacker self and postponed the
+apartment hunt until the last possible week (I had to move out by
+the end of the month where I was) and after looking at only 3 places
+I found a nice studio apartment on 12th street for a really good
+deal ($915 a month!). This weekend i get to furnish it, move my few
+belonings across town and buy all that cool stuff I keep seing at 
+Urban Outfitters (which btw is a very cool shop). Anyone looking
+for an apartment in New York, look up 'York Real Estate Inc.' on
+Broadway between 18th and 19th, these guys ar really decent brokers!
+
+On another note, the levels/team_fortress dir on ftp.cdrom.com's 
+idgames2 archive has grown awefully big lately and I'd like to 
+subdivide it alphabetically like the regular deathmatch dir. I
+realize this will break a lot of links pointing to that dir, but
+even with the release of Quake II, the number of TF levels is still 
+growing strong (no doubt due to TF II not being out yet). The switch 
+will probably happen tomorrow and be announced on PlanetQuake's news 
+section.
+
+I also finally got a chance to play The Neverhood, a zany claymation
+puzzle game that I picked up from a bargain bin for $20 2 weeks ago.
+While an 'older' game (almost a year old), it's a hell of a lot of fun
+and followup for the Playstation, 'Skullmonkeys' has just recently been
+released.
+
+
+Febuary 12th, 1998
+-----------------
+
+SHAMELESS SELF PROMOTION: Woo! Kickass Planet Quake redesign! Run, don't
+walk there now:
+
+http://www.planetquake.com
+
+Finally a site that doesn't use a black background.
+
+Oh and double Woo! Beatdown LAN party at PQ headquarters this weekend.
+I'm psyched!
+
+Joost Schuur (jschuur@onlinemagic.net)

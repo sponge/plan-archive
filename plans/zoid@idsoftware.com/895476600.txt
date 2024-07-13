@@ -1,0 +1,384 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Dave Kirsch
+Email: zoid@idsoftware.com
+Description: Programmer
+Project: 
+Last Updated: 05/18/1998 01:47:29 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+May 17th/1998
+
+I've been working all day on some of the problems in the 2.20 release. 
+
+As with any major release, there is bound to be problems. I made some 
+incorrect assumptions this time around, namely how many people had 
+watervised their maps. This has certainly been causing problems for a 
+lot of people. 
+
+I'm working on 2.21. I hope to release it soon since there are some ugly 
+bugs in 2.20 (such as random overflows on servers sometimes). There will 
+be a server upgrade and a client one, but 2.20 clients and servers will 
+be able to talk to 2.21, though I strongly recommend that everyone upgrade 
+to 2.21 when it comes out. 
+
+For watervised maps, vis data is no longer included in the map checksum. 
+The 2.21 server turns off checksums BY DEFAULT. Server admins can 
+enable map checksumming by typing 'sv_mapcheck 1'. This map checksum 
+is almost the same as before, except that vis data is not included in 
+the check. This means that maps that just has the vis/portal information 
+changed (for watervis) will pass the checksum test. Maps with hacked 
+textures, removed walls, or waterhack will not. 
+
+Note, people believes this gives an advantage to GL users, and normally 
+it would. But the server can control whether the GL user can turn on 
+r_wateralpha (by setting it less than 1) or not using the watervis 
+server variable. watervis 0 means that GL users can not enable 
+transparent water, which levels the playing field. Quake was never really 
+designed for transparent water and neither were the maps originally. 
+
+So for admins that are using servers for strict competition should enable 
+sv_mapcheck and leave watervis to 0 so that no one gets transparent water. 
+
+There was a minor bug in the movement code as well. This bug was only 
+really noticable on ctf4 up the steps to the rocket launcher. You sort 
+of bounced up the steps. This has been fixed. 
+
+There also seems to be an issues where the servers are consuming much 
+more CPU than before. I think this may be related to some checksumming 
+code I put in to defeat proxies. I'm changing these routines to use 
+a more CPU friendly algorithm that should help on the servers. 
+
+I'd like to apologize for some of the problems with this release. I can't 
+please everyone, but I try to make the game as fun, secure and reliable 
+as I can. QuakeWorld was meant to be a more net friendly version of 
+Quake--that was it's goal. This is why I spent the time integrating 
+movement code that matched the original Quake. I wanted to end the 
+NQ/QW split that existed, since it doesn't serve anyones' best interest. 
+
+Quake is a great game, and one I love to play just like everyone else. 
+
+Common Problems and Solutions for 2.20
+--------------------------------------
+
+Q: I get a localid error and told I need to upgrade my browser, what 
+is this?
+A: You must use GameSpy 1.53 or 2.0beta2 with the new client.  This
+was caused by some necessary changes for security reasons.
+
+Q: I get a map checksum error.  It says my map doesn't match the server.
+What is this?
+A: You are using modified maps (such as watervis or waterhack) and 
+because of this, your map doesn't match the one on the server.  Another
+case is also when you have correct maps, but the server is using watervis
+maps.  2.20 requires you to have the same map as the server.  For now,
+it's probably best to stick to original maps (off your Quake CD) since
+most server admins will be using the originals.  2.21 will address this
+problem by having map checking off by default, and when enabled, not
+including vis/portal information in the check.
+
+Q: Some llama keeps pausing my game!  How do I stop this?
+A: Pause is back in QW.  I put it in since it's very handy in 1on1
+games and clan matches in case someone has a biological need or
+other emergancy.  Server operators can disable pause by setting
+"pausable 0" in the server.cfg file (or via console/rcon).
+In 2.21, spectators can not pause the game.
+
+Q: Water movement seems so slow!  Why did you change it?
+A: Water friction was not probably implemented in QW.  The movement
+code now reflects the original friction values of Quake.
+
+Q: I keep getting overflow errors shortly after I connect to servers
+running mods like QWRing.  If I try a few times, I eventually get in.
+Why does this happen?
+A: QWRing stuffs a lot of text at the client (almost 2K worth!). In
+order for me to get it to work with 2.2 which has reduced packet
+sizes for broken routers, I had to write some internal handling
+for some of this data.  It mostly works, but there is a small bug
+in it that seems to be randomly hit on signon.  2.21 servers will
+fix this.
+
+Q: My server seems to be using way more CPU than before.  I can't
+run as many servers and when they max out, all my clients get
+massive packet loss.
+A: These seems to be related to some of the checksum code I put
+in to defeat proxies mucking with stuff.  2.21 features a new
+set of checksum codes that are much more CPU friendly.  Should
+help out a lot.  I wish I could get more data on this, but
+MSVC++5.0 just doesn't want to do a damn profile for me.
+
+I hope that clears up some of the issues.  2.21 forthcoming.
+
+/// Zoid.
+
+
+May 16th/1998
+
+I've released QuakeWorld 2.2.  I've also added a couple new ports for this 
+release: Sun Solaris x86 and Linux Alpha for servers.  The new QuakeWorld 
+should work through various broken routers that previous versions of 
+QuakeWorld did not work with before.
+
+QuakeWorld 2.2 is NOT COMPATIBLE with old versions (2.1 or earlier).
+
+The changes focused on security, cheating and gameplay.  QW2.2 plays as
+close as possible to the original Quake, but with the benefits of prediction.
+My beta testers were very excited about the changes, and I hope everyone
+will enjoy them.
+
+Please note:  Team Fortress 2.6 currently doesn't work with QW2.2. The
+Team Fortress team is aware of this and will be releasing a small patch
+for servers ASAP.
+
+As always, QuakeWorld is an unsupported product.  If you have any problems
+tho, you can report them to bugs@quakeworld.net.
+
+The release packages:
+
+QuakeWorld Client For Windows 95 and NT
+
+QuakeWorld Server for Windows 95 and NT
+
+
+
+
+QuakeWorld Client for Linux i386
+
+QuakeWorld Server for Linux i386
+
+
+
+
+QuakeWorld Server for Linux Alpha
+
+QuakeWorld Server for Sun Solaris x86
+
+QuakeWorld Server for BSDI3.0 i386
+
+QuakeWorld Server for Sun Solaris (sparc)
+
+
+/// Zoid
+
+May 05/98
+
+As John mentioned, there is a security backdoor in QW and Quake2.  I'm working very
+hard on getting the new releases of QuakeWorld and Quake2 out ASAP in order to
+address this (the new releases also have several other features).
+
+In the meantime, I'd like to thank crt for providing an interim solution.  He has
+a web page up that
+describes the problem and has a simple program that patches the binary to fix it.
+I recommend that all server operators grab this patch until I get QuakeWorld 2.2
+and Quake2 3.15 out the door.
+
+/// Zoid.
+
+Apr 19/1998
+
+I've been quiet for a while, but that certainly doesn't mean I haven't been busy. :)
+
+As Rick Johnson mentioned in his plan, I am tinkering around with a new QuakeWorld
+version.  Mostly just to address some of the nasty bugs that have shown up over the
+last few months and some security issues.  Also, I'm taking a stab at defeating
+proxy bots, since they make life miserable.  Proxies that don't "mess with the data"
+are still fine, tho.  Map checksumming is in now, so hacked bsps are out of the
+picture as well.
+
+Also, I'm using some of the new port allocation code from Quake2 in the new QW which
+will fix some people using brain dead NAT routers.  I've also reduced the packet size
+to 1400 bytes (from 7000), which is another fix for broken routers (ones that don't
+handle fragmented UDP in this case).  The packet size change does break a couple
+mods (notably, QWRing, which will have to be patched), but the change is for the 
+better since it allows people to play who couldn't before.
+
+And yes, the GLQuakeWorld sprite bug will be fixed.  Sorry about that.
+
+I'm also working on the next Quake2 version (currently 3.15).  There are a lot of
+new features in it, some of the most notable being QW player movement (air control),
+autodownloading (with resume!), protocol optimizations for projectiles (the
+hyperblaster won't lag you as bad anymore), flood protection, Server IP banning and
+minor other fixes.
+
+I also have a new version of Q2CTF in the works.  Minor bug fixes, plus a full
+new competition mode with voted admins, map changing, timed match startups, etc.
+The match mode will certainly help with clan CTF matches.  :)
+
+I've also added two new operating systems for server ports:  Solaris x86 and
+Linux Alpha.  This brings the total to five:  Win32, Linux i386, Solaris Sparc,
+Solaris x86 and Linux Alpha.  BSDI will be support for the new QW release, but
+not for Q2 (since I hate a.out jump tables).
+
+As usual, there's no date set for the release of all this.  It's the old adage, "When
+It's Done."  But I'm getting close to release on all of them. 
+
+In other news, I will be attending Gamescon in Vancouver
+on May 1st through the 3rd.  I'll be speaking at the event about all things Quake,
+CTF and the online gaming community.  I'm lucky that it's easy to attend, since
+Vancouver is where I'm living and working from.  Be sure to check out the
+Gamescon homepage and sign up to join in the festivities.  
+(I still can't believe m0user talked me into speaking at the event).  I hope to have a great time there in May.
+
+/// Zoid.
+
+Mar 11/98
+
+The Sparc Solaris Quake2 dedicated server has been released at
+ftp://ftp.idsoftware.com/idstuff/unix/q2ded-3.14-sparc-sun-solaris2.5.tar.Z
+It includes a Makefile for building the game source for Solaris as well
+(grab the Linux shar archive and run it to get the game source on Solaris).
+Obviously, it only runs as a dedicated server and supports TCP/IP only.
+Enjoy.  I had fun testing it as a coop server with a couple buddies.
+It was a riot running around in coop taking out the Strogg.
+
+The BSDI port has stalled.  Creating a.out jump table libraries isn't fun
+and honestly, I looked around and couldn't find a good way to build the game
+library for BSDI.  :(
+
+/// Zoid.
+
+Mar 06/98
+
+Man, I didn't know BSDI wasn't ELF yet.  I've never built an a.out jump-table
+based shared library before, nor do I know how to load one.  Anyone got
+some tidbits on how to go about it (the man pages aren't too clear, and
+mostly talk about system shared libraries).  I need to create a game
+shared lib with one entry in the jump table (GetGameAPI).  Some example
+code for building the library and loading it would be nice.
+
+Got the Solaris Sparc port pretty much done.  Going to beat on it today.
+
+I was considering writing a 'tournament' mode into Q2 CTF.  The server op
+can set the server into a tourny mode and players pick teams, a timer counts
+down and the game goes off and running.  Should help clan matches.  I'm
+looking for ideas on how it should work (stuff like how teams are picked,
+what the menu looks like, what options the players should have for setting
+up the game and the game settings, etc).  Drop me a line if you have some
+ideas.
+
+Mar 04/98
+
+The game and CTF dll source is up on ftp.idsoftware.com.  It'll be fun to
+see what people will be doing with it.  I know everyone's been waiting
+to hack the crap out of them.  :)
+
+I've been working on the Solaris and BSDI dedicated server ports.  Hit a
+snag with the Solaris version today that slowed me down (damn byte order
+problems).  I hope to have them soon.
+
+Currently, I'm only targetting the following platforms for the Quake2 server
+ports:
+	Linux i386 (server and client)
+	Solaris Sparc
+	BSDI i386
+
+I've been asked about lots of other operating systems such as HP-UX,
+Solaris x86, FreeBSD, etc.  The three I'm targetting are the most widely used
+and I haven't had enough interest in the other platforms yet.
+
+Note that mods will need to be compiled for each platform.  Fortunately,
+the game code is portable and doesn't require any changes to compile on
+any of the platforms.  I'll be including Makefiles for each platform and
+precompiled game and CTF shared libraries.  This is a warning to mod authors
+to make sure they write portable code--you're mod may end up on a Solaris
+server someday!
+
+On another note, a popular server that used to be up here on the West Coast
+has returned.  BlackTongue was a very popular west coast QuakeWorld CTF
+server.  It was offline for a month or so, but has returned as a Quake2
+CTF server!  The host address is quake.threewave.com and it's basically
+my home server now (since I get a 14ms ping to it on my ADSL connection).
+You'll see me there sometimes along with lots of my Burning Chrome
+clan mates.   Hop on for some CTF action sometime.
+
+/// Zoid.
+
+Mar 03/98
+
+Quake2 3.14a for Linux is up on
+ftp://ftp.idsoftware.com/idstuff/quake2/unix/quake2-3.14a-i386-unknown-linux2.0.tar.gz
+This fixes the 100% cpu usage problem in the 3.14 release that was out early
+this morning (I goofed during the 3.14 source merge, oops).
+
+ThreeWave Q2CTF 1.02 was released as well.  This includes the bug fixes from
+the main 3.14 source and adds the new player identification HUD display.
+The HUD display came out really well--it only adds a single byte to the
+network packets when it changes.  To enable it, type 'id' at the console.
+The setting isn't saved across levels yet, but I'll be looking at it.
+
+The timeouts for capture assists have been increased for the fact Quake2 is
+a somewhat slower paced game.  This can result in double assists.  If the
+flag is stolen, returned, stolen and returned in a very short period of time
+and then a capture happens, a double assist can happen.  Each player will
+only get one assist, but more than one player can get the assist now.
+
+The power armor is changed in CTF.  Trying to kill a guy with 200 Power Armor,
+200 Body Armor and the Disruptor Shield was REALLY rough.  Power Armor used
+to absorb two damage per cell, this is now one damage per cell.  I did this
+as a balance issue.
+
+John Cash and I are going to be looking at completely rewriting the save game
+system in a forthcoming release.  This is a major change but will offer many
+benefits--save games will become platform indepenant as well as compatible
+across minor version changes.  Not to mention getting them to load properly
+under Linux.  Save games are still touchy under Linux and will sometimes
+segfault on load.  This is due to the original design of the save game system,
+unfortunately.  The rewrite will require a substancial change the the
+game source, so we'll probably be re-releasing it again later on.
+
+Cash and I are also planning to release the 3.14 and Q2CTF 1.02 source
+either later today or tomorrow pending on how stable the 3.14 release turns
+out.  We've been holding it so that you guys get one major update and not
+half a dozen little ones--I've had enough fun trying to keep the Linux version
+sync'd with the main code over all these minor upgrades.  It's alot easier
+to get one major upgrade than lots of smaller ones.
+
+I'm hoping to put together the Solaris and BSDI dedicated servers later
+today or tomorrow so we can get some more servers out there.
+
+Sorry to keep pumping out quick releases like this, but it seems to be
+the best way to get stuff out there and tested and fixed.
+
+/// Zoid.
+
+Feb 20/98
+
+Wow, it's finally out.
+
+Q2 CTF is the result of about two and half months of work.  I'd like to
+thank the beta testers for working out most of the bugs (the release seems
+to be pretty stable 'cept for the server crashing problem that isn't
+Q2 CTF specific), Kevin, Adrian and Paul at id for putting out some amazing
+art and models for the pak, and Tom 'Bjorn' Klok for putting together
+some kick ass grapple sounds.
+
+There only seems to be two major issues in Q2 CTF--one being if someone
+has the cyborg model they appear as the default male/grunt guy so you have
+no idea what team he's on.  The other is aliases for grapple switch/fire,
+unlock/switch weapon back don't seem to work well.  You get stuck to the
+wall.  I've fixed the grapple one and I'm working on the model/skin one
+(just politely ask the player to switch to using either the male or
+female models when playing for now).
+
+I'm going to hold off on any patches and the Q2 CTF game source code release
+until I see how Q2 CTF shakes down over the next few days.  Want to make
+sure I cover any bugs that pop up over the next few days and release
+a 1.01 server dll and source in one shot.
+
+As for Linux, I'm working on a point release for it right now.  I've already
+fixed the save game problem that plagued Linux 3.10.  I'm working on fixing
+some of the security problems mentioned on rootshell--quake2 will refuse
+to run if it's setuid since loading shared libraries under that condition
+is evil and bad.  You will have to su or login as root to run the SVGALib
+(soft) or MesaGL (gl) renderers.  Since they only work on the system console
+there isn't much problem with that.  As usual, the X11 version doesn't
+require any special permissions.  This isn't an ideal solution.  The ideal
+solution is for the next GLIDE that uses /dev/3dfx so you don't need root
+to do 3DFX GL stuff, and for software, supporting a ref_ggi that doesn't
+require root.  These won't be in my next release, but I'm still planning
+a ref_ggi in the near future.
+
+Hope everyone enjoys the new release!  It's amazing to see all the Q2 CTF
+servers popping up and people having a blast on them.
+
+/// Zoid.

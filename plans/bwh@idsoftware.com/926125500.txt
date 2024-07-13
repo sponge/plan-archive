@@ -1,0 +1,50 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 3 Arena
+Last Updated: 05/07/1999 21:36:32 (Central Standard Time)
+-------------------------------------------------------------------------------
+// 
+// All personal musings on my part are available at:
+// 
+// http://www.voodooextreme.com/ask/askmenu.html
+// 
+// All GMB related e-mail sent to me at id software will be
+// deleted unread
+
+May 7, 1999, part deux
+----------------------
+
+Ugh, the e-mails have begun..."how will accelerator XYZ work with 
+Q3TEST?"
+
+Here's a quick run down of accelerators we have tested and that we
+find acceptable or better for Quake3, assuming the most up to date
+drivers are installed (note: up to date drivers for nearly all of
+the following accelerators will be available when Q3TEST is released).
+
+3Dfx Voodoo Graphics
+3Dfx Voodoo2
+3Dfx Voodoo2 SLI
+3Dfx Voodoo3*
+3Dfx Voodoo Rush (tested out of house, but supposedly stable)
+3Dfx Voodoo Banshee
+3DLabs Permedia 2 (ugly, some serious visual artifacts)
+ATI Rage Pro (4MB and 8MB)
+ATI Rage128*!&
+Intel i740
+Matrox G200 &
+NVidia Riva128
+NVidia RivaTNT*!&
+NVidia RivaTNT2*!&
+Rendition V2x00 (not very fast, but it works)
+S3 Savage3 &
+
+* high performance
+! supports stencil volume shadows
+& 32-bit rendering
+
+We have not done significant testing on the following boards simply because
+they were not undergoing full s

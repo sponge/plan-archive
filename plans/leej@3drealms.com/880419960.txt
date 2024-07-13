@@ -1,0 +1,474 @@
+Login: ljackson       			Name: Lee Jackson
+Directory: /usr/home/ljackson       	Services: FTP
+Plan:
+Mon 11-24-1997 8:52:25 pm^M
+^M
+NARAS (the Grammy organization) apparently received and did not^M
+trash the copies of Shadow Warrior I submitted for nomination^M
+voting.  I just received the Nominations Entry List for this^M
+year's voting (all 150 pages of it), and Shadow Warrior / Lo^M
+Wang's Rap are all over the place.  It's entered in Record of the^M
+Year, Album of the Year, Song of the Year, Best New Artist, Best^M
+Pop Album, Best Rap Performance by a Duo or Group, Best Instrumental^M
+Composition (Attention, Leep's Prophecy), and Producer of the^M
+Year.  Heh.^M
+^M
+Keep in mind that there are two stages to the voting.  The first^M
+stage weeds out everything and comes up with the stuff that is^M
+actually nominated (i.e., that gets read on the TV awards show).^M
+The second stage covers only those works that won nominations.^M
+^M
+In other words, I have a snowball's chance in hell of getting a^M
+nomination.  Be real - I'm up against the likes of Puff Daddy,^M
+Janet Jackson, Will Smith, etc., in most of the categories.^M
+However, this little exercise is more of an attempt to prove the^M
+point that the Grammys need categories for Multimedia and Game^M
+music.  If you're a game music author and you're reading this,^M
+visit http://grammy.com, join up,^M
+and help me convince the powers that be of this fact.^M
+^M
+In other news, work on the Mind Control CDs is almost finished.^M
+This is real grunt work, folks.  Only a severely killer CD will^M
+convince me to buy an audio-only set in the future.^M
+^M
+Had a brief interruption for a bit of voice file work last week.^M
+New stuff, complete with recording session time.  As always,^M
+editing was tedious, but the ends justify the means.^M
+^M
+^M
+Mon 11-17-1997 4:17:34 am^M
+^M
+I'm back, attempting to recover from the events of this past^M
+weekend.  What an experience - my first time to march with the^M
+University of Texas Longhorn Alumni Band (LHAB), my first time to^M
+march at all in over 13 years, and I decide to attend in a year^M
+that would have frozen me solid given a chance.  Don't get me^M
+wrong - it was a great time, and I'll probably do it again next^M
+year.  However, no matter what the weather forecast says, I'm^M
+bringing gloves next time.  LHAB calls itself the "Blast from the^M
+Past."  A lot of us were calling ourselves the "Arctic Blast from^M
+the Past" after this weekend.^M
+^M
+I went to Austin on Friday for rehearsal and learned my first^M
+lesson that night - the flag section doesn't show up until^M
+Saturday.  There were only 2 of us there that night, but our^M
+numbers grew to around 34 or 35 on Saturday.^M
+^M
+Since the game began at 1:00pm Saturday, and we had only one day^M
+to learn the show (Friday was a playing rehearsal only, hence, no^M
+flags), the rehearsal started at 7:00am with check-in at 6:00am.^M
+Overnight, an arctic front blew through, bringing freezing rain^M
+and strong winds.  The temperature was only supposed to get down^M
+into the mid-40s (F), but it decided to drop further than that.^M
+It was 32 degrees F at 6:00am, wet, and windy.  It stayed that^M
+way all through rehearsal and kept raining until halftime.  When^M
+kickoff finally rolled around, the temperature was 36, with a^M
+wind chill of 17.^M
+^M
+Now, for those of you from northern climes, this isn't much.^M
+However, this is downright brutal for a 4th generation native^M
+Texan like myself.  Especially when you listen to the weatherman^M
+and don't bring hand protection.  After 3 hours of rehearsal^M
+holding a 10-foot-tall flag in sub-freezing wind chill and rain,^M
+my fingers hurt like they've never hurt before.  They're still^M
+sort of stiff, but they're recovering.^M
+^M
+Still, when you disregard the weather, it was a lot of fun.  I^M
+met up with people I hadn't seen in ages, got to relive my days^M
+as a member of Longhorn Band, found out that marching a halftime^M
+show is like riding a bicycle (once you've done it enough, you^M
+never forget how), and generally had one helluva good time.  Oh,^M
+yeah - the Longhorns won the game, too. ^M
+^M
+Now, it's back to the Kurzweil and finishing up the Mind Control^M
+CDs.  That is, if my fingers will ever warm up....^M
+^M
+^M
+Thu 11-13-1997 17:02:30^M
+^M
+Things are once again moving along, after a bit of a delay. The^M
+Kurzweil developed a bad SIMM which caused corruption problems^M
+with some of the samples I was trying to load from the Noise^M
+Loops and Mind Control CDs.  Fortunately, that's all fixed now.^M
+^M
+In response to all of the mail I received about CD grabber^M
+software, I went out and found one that actually works with the^M
+Plextor 4Plex I have in my MIDI/Sound Forge machine.  It does the^M
+job, but it isn't much faster than the other method that everyone^M
+was complaining about.  It also isn't any more reliable - all my^M
+attempts to use jitter correction give me waveforms that look^M
+like The Blob sat on top of them and sound even worse.  Before^M
+any of you write and tell me to get a better CD drive, be advised^M
+that nothing else gets upgraded until I can convince George that^M
+it's time to get a new computer for the studio.  Sigh.^M
+^M
+Quick personal note - if the Texas/Kansas game is televised this^M
+weekend, and if by some miracle they happen to put on any of the^M
+halftime show, be looking for a roundish, bearded fellow carrying^M
+one of the 10-foot-tall flags.  That'll be yours truly.  I'm^M
+going to march in a halftime show for the first time in 13 years^M
+this Saturday, as part of the Longhorn Alumni Band.  Wish me luck^M
+- gametime is 1:00pm Central.^M
+^M
+^M
+Mon 11-03-1997 22:55:49^M
+^M
+I've had a few e-mails about how I'm pulling audio off of CDs.^M
+People have said that I should be using a program to pull the^M
+data directly, such as CDDA or something similar.  There's a^M
+good reason why I don't do this - it's unreliable on my systems.^M
+^M
+For some reason, these programs have never got along with my^M
+CD drives (a Plextor 4Plex SCSI and a Smart & Friendly CD-R^M
+2000).  They'll work sometimes, but other times the programs will^M
+either a) fail to recognize the drive, b) pull nothing but^M
+zeros, or c) pull data with gaps/pops/snorks/whatever.  So,^M
+I've given these puppies up for lent.^M
+^M
+Instead, I use the Toslink digital output of the harman/kardon^M
+FL8400 CD Player I have in the studio.  This pipes the data^M
+directly from the CDs through a fiber-optic link, into a Core^M
+Sound DFT (digital format translator).  Here, it is converted^M
+into S/PDIF coaxial signals, still digital, and sent into the^M
+digital input of my I/O CardD.  From start to finish, the data^M
+stays digital - no analog translation or other re-recording.^M
+^M
+I just wanted to clear that up before the pro audio community^M
+decided to have me flogged.^M
+^M
+^M
+Sat 11-01-1997 23:27:23 pm^M
+^M
+Noise Loops and Mind Control have arrived.  Good stuff, but with^M
+one small problem that we knew about in advance.  They're audio^M
+CDs - not formatted for any sampler and not in WAV/AIF format.^M
+So, job one is to massage them into useable format.^M
+^M
+This isn't as easy as it sounds. First, you have to pull the data^M
+from the CDs. Starting with the Noise Loops CD, I actually play^M
+the data out through a fiber optic port on the back of the^M
+player, route it through a fiber to coaxial converter, and then^M
+record it through the I/O CardD into SAW Plus. Depending on how^M
+you do it, this gives you some rather huge files that need to be^M
+split.^M
+^M
+Sound Forge gets the next job - yanking all of the usable audio^M
+from the files. In this case, I wound up with 224 files. I ran^M
+these files through a filter to remove all of the frequencies^M
+below 20Hz (speakers can't reproduce frequencies below that level^M
+anyway), trimmed the silence, and saved the filtered files.^M
+Finally, I burned a CD with both the filtered files^M
+(uncompressed, ready-to-use) and the unfiltered files (compressed^M
+with WaveZIP - had to in order to get them onto one CD).^M
+^M
+After all of this, I started playing with them a bit.  I first^M
+tried loading them into SAW Plus and sliding things around a bit.^M
+It worked, but it seemed like it would be a lot more efficient to^M
+have them available for use by the Kurzweil K2500RS.  So, I tried^M
+loading a track's worth of the 100 beat-per-minute WAVs into the^M
+2500, making a custom keymap (after reconsulting the manuals and^M
+training video, just in case), and saving them as a "program"^M
+that the 2500 can reload at any time.  Success.  They're huge (a^M
+program containing all of the 100bps WAVs takes up 50+ megs), but^M
+they work.^M
+^M
+So, now I am finishing up making K2500 programs out of the WAV^M
+files from the single Noise Loops CD.  I have three more of these^M
+to go, for the Mind Control collection.  It's going to take a^M
+long time to finish this up, but once I'm done, I'll have a^M
+really powerful set of samples ready to use at a moment's notice.^M
+^M
+^M
+Sun 10-26-1997 2:06:47 am^M
+^M
+Our copy of Opcode's fusion:VOCODE package arrived.  It rocks^M
+unbelievably hard.  Exceedingly strongly recommended, unless^M
+you're a competitor of ours:  in that case, it sucks - don't^M
+buy it - you don't need it, trust me!!! (evil grin>^M
+^M
+Spent most of the week working on Prey stuff, with a bit of^M
+test work for DNF.  They asked me for a few WAVs to test^M
+out some features, so I obliged.^M
+^M
+My alma mater (University of Texas at Austin) has a football^M
+team with a serious problem - they can't get their quarterbacks^M
+to think under pressure to save their lives.  Geez, I hope they^M
+do better when I go down there to march with Longhorn Alumni Band^M
+at the halftime of the Kansas game.^M
+^M
+^M
+Fri 10-17-1997 5:43:41 am^M
+^M
+An uneventful week has passed, except for my coming down sick^M
+again this Wednesday.  Don't know if it was a reprise of what hit^M
+the family earlier or some new bug flying in for a visit.^M
+Probably the latter, since I seem to be mostly over it.^M
+^M
+Kurzweil released a new flash ROM (v2.52) for the K2500RS, which^M
+includes among a few bug fixes a feature called KB3 mode.  In^M
+short, this turns your K2500 into a Hammond B3 organ, with full^M
+drawbar functionality.  You've heard a B3 before if you've ever^M
+listened to any rock music from the late 60s or early 70s,^M
+especially "A Whiter Shade of Pale".  Good stuff.  If there is^M
+any chance of working this into DNF, I'm going to try.^M
+^M
+Been looking at another potential plug-in for Sound Forge.  This^M
+time, it's from Opcode .^M
+It's a vocoder that looks pretty cool, and has a lot of potential^M
+for use in Prey (and maybe even DNF).  If you're interested,^M
+check out the page, and then check out their dealers:  the price^M
+that Opcode is selling it for direct is about $40 more than the^M
+dealer price.^M
+^M
+Finally, some folks have been asking me to plug their sites or^M
+products here.  Sorry, but that's not my style.  I may talk about^M
+some of the stuff I use or am looking at, but these things are^M
+almost always either currently being used in the studio or will^M
+soon be used.  Either that, or they're on the wish list.  I make^M
+very few exceptions to this:  the only one so far was to announce^M
+the fact that my kid's system was moving up in the world.  For^M
+the most part, though, unless it's something that I use (or am^M
+going to use) in the execution of my job, don't expect to see it^M
+here.^M
+^M
+For those of you who really want to know what I do in fact use,^M
+hold tight - I'm working on rewriting my web site and will^M
+include a complete list of hardware and software.^M
+^M
+^M
+Fri 10-10-1997 5:40:34 am^M
+^M
+Once again, it's way too early (or way too late, depending on^M
+your perspective), and I'm editing my .plan file.  I have no idea^M
+why:  it just seemed like something I should do.^M
+^M
+Paul and I hit Mars (the music store, not the planet) and demoed^M
+a few sample/loop CDs. We found a couple that we really liked^M
+from Voice Crystal, but^M
+they were temporarily out of stock.  Paul plans on hitting their^M
+web site when he gets a chance.  The CDs in question are "Mind^M
+Control" and "Noise Loops".^M
+^M
+Big dealings have begun for a bit of music in Duke Nukem Forever.^M
+I won't say exactly what they are, because (1) they might not^M
+come through, and (2) I don't want to spoil the surprise if they^M
+do come through.  Don't send me e-mail asking what the dealings^M
+are, because I'll most likely just route the mail to /dev/null^M
+and give you a link here^M
+instead of answering.  Just watch this space - that's all for now.^M
+^M
+^M
+Mon 10-06-1997 3:18:39 am^M
+^M
+I sent a copy of Shadow Warrior off to Dr. Demento on Friday.^M
+Here's hoping he likes it.^M
+^M
+Spent some time this weekend setting up my kid's new system.^M
+It's a Zenon K6-200, 32MB RAM, 2.5gig HD, 16X CD system with an^M
+ATI 3D Xpression video card and Win95 OSR2.  Runs quite well, and^M
+contrary to popular belief, it plays Quake (and Shadow Warrior)^M
+without a hitch.  Besides, it was cheap ($955 including^M
+shipping), and we couldn't afford much.  The only drawback is^M
+that my 486DX/4-100 is now the slowest system in the house.^M
+Sigh.^M
+^M
+Also spent some time this weekend searching for sample CDs for^M
+use in the Kurzweil K2500RS.  I think I found some at our local^M
+pro-audio UltraMegaSuperStore (Mars), which I am going to try and^M
+drag Paul out to on Monday for a listen and maybe a purchase.^M
+Regardless of what we get, I'm hoping to use it on both Prey and^M
+Duke Nukem Forever.^M
+^M
+^M
+Date:  Thu 10-02-1997 Time:  12:35:45 am^M
+^M
+I'm spending some time listening to CDs lately, trying to purge^M
+my mind of all of the oriental music I've fed it over the past^M
+year.  I need to get some serious shredding in there in its^M
+place, so I'm listening to some of the same things I listened to^M
+during Duke 3D development, along with a few new things.^M
+^M
+As I write this, Pantera's "Cowboys From Hell" is playing, and^M
+several others are cued up.  This list includes CDs from Tool,^M
+more Pantera, Ministry, Megadeth, and even more Pantera.  There's^M
+a common thread there, but I just can't seem to figure out what^M
+it is...^M
+^M
+Gotta take a minute to hype something.  If you're ever in the^M
+market for a pair of powered speakers, for whatever reason, get^M
+yourself a pair of Event 20/20bas studio monitors.  They run^M
+around $795 a pair, which may seem like a small fortune, but^M
+that's actually cheap compared to other pro-audio speakers.^M
+^M
+Listening to CDs on these things is downright scary.  These^M
+monitors reproduce so cleanly that, IMHO, sitting between them is^M
+almost a religious experience.  Everything, warts and all, comes^M
+through in pristine fashion.  I find myself spending more time^M
+being in awe of the sound than I do actually paying attention to^M
+the music.  I hate to see how I'll respond to other speakers^M
+after I've really gotten used to these.^M
+^M
+Nothing replaces a good pair of ears, and while mine are by no^M
+means golden, a set of monitors like these certainly can't hurt.^M
+Hopefully, they'll be a big asset when it comes time to do sounds^M
+and mixdowns for Duke Nukem Forever and Prey.^M
+^M
+^M
+Date:  09-26-1997 Time:  0:08:50^M
+^M
+Another Balls of Steel recording session is done, and the files^M
+are out the door.  Just a few final additions to the voices prior^M
+to Wildfire finishing up the project.^M
+^M
+I've yanked the MIDI file from my .plan to prevent user^M
+irritation.  It may have sounded cool at first, but trust me -^M
+you'll get tired of it if you hear it enough.^M
+^M
+Looks like I'll be keeping my work-related info here on^M
+3dportal.com for the time being.  My ISP is setting something up^M
+for me to post personal drek on.  We'll see how it works.^M
+^M
+Still problems with the AWE64 - there's a nasty hiss coming from^M
+the right channel.  No hiss from the left.  Might be something in^M
+my wiring, but the only way to tell is to yank it and replace it^M
+with one of the others that Creative Labs sent us.  That may get^M
+done tomorrow.^M
+^M
+^M
+Date:  09-24-1997 Time:  22:07:00^M
+^M
+Thanks to Brad Wernicke, my finger info is back up, albeit on^M
+3dportal.com instead of my ISP.  I'm still trying to get my ISP^M
+to solve their problem.^M
+^M
+^M
+Date:  09-18-1997 Time:  22:27:00^M
+^M
+Shadow Warrior has been sent to NARAS.  Maybe that'll get them^M
+moving on adding a couple of multimedia categories to the Grammy^M
+awards.  The only way to get their attention is to send stuff in.^M
+^M
+Finally managed to get an AWE64 Gold in my MIDI machine.  Had a^M
+hell of a time doing it, due to a problem with Windows 95's MIDI^M
+subsystem.  Turns out that Win95 won't let you have more than 10^M
+MIDI devices activated, but it will let you go ahead and install^M
+more than 10 without saying a thing about it.  That is, until you^M
+try and access anything that involves MIDI, when it gives you^M
+GPFs in MMSYSTEM.DLL.  I sure hope they fix this in Win98.^M
+^M
+In case you're wondering, 8 of the MIDI ports are part of the^M
+Music Quest/Opcode 8Port/SE rackmount MIDI patch bay, and one was^M
+a virtual piano driver that Cakewalk installed.  That left 1^M
+port, and the AWE64 tried to install 3.  Had to disable the^M
+8Port/SE, reinstall the AWE64, disable 2 of its ports (FM and^M
+external), then re-enable the 8Port/SE.  Everything works now.^M
+^M
+^M
+Date:  09-17-1997 Time:  18:36:01^M
+^M
+I've been back in the office since Monday, basically getting^M
+things back in shape to work on again.  No really new^M
+developments yet, but a couple of things to note.^M
+^M
+First, Paul and I had our first discussion on sounds and music^M
+for Prey.  We're still in the early, early, early planning^M
+stages, but at least we're in sync now.^M
+^M
+Second, it looks like I might be doing one last round of work for^M
+Balls of Steel.  Nothing big - probably just beefing up the voice^M
+content a bit.^M
+^M
+Finally, now that Shadow Warrior has hit the shelves, I can^M
+finally talk about the "secret track" on the CD.  If you play^M
+track 14, you will hear a song called, appropriately enough, "Lo^M
+Wang's Rap".  Enough said.  ^M
+^M
+^M
+Date:  09-12-1997 Time:  12:53:07^M
+^M
+I'm nearing the end of my first vacation in ages, and it's been a^M
+pretty horrible one.  Not even halfway through it, I catch a case^M
+of acute bronchitis from my wife.  Today marks the first day^M
+since the 5th that I've been able to get out of bed and do^M
+anything productive.^M
+^M
+Assuming that my lungs clear themselves out this weekend, I'll be^M
+back to work on Monday the 15th.  I have a lot of things lined up^M
+for when I get back - preliminary work on Duke Nukem Forever's^M
+music and sounds, discussions with the Prey team, and a million^M
+other things that have been put off until I finished my work on^M
+Shadow Warrior and Balls of Steel.^M
+^M
+Finally, I'm planning on doing something totally futile.  I want^M
+to submit Shadow Warrior to NARAS (the Grammy Awards people - see^M
+personal info below) for nomination consideration.  It has a^M
+snowball's chance in hell of actually getting nominated for^M
+anything, but I hope to at least make it appear on the ballots.^M
+^M
+Why bother to do this?  Well, there isn't a Multimedia category^M
+in the Grammy Awards yet.  IMHO, there should be.  By submitting^M
+Shadow Warrior, I'll hopefully stir things up a bit and get the^M
+necessary committees to look into the situation.^M
+^M
+That's all for this go-around.  Watch this space for updates.^M
+^M
+(This finger page is a bow to those on IRC who've said I should^M
+set one up.)^M
+^M
+PERSONAL INFO (for those who care)^M
+==================================^M
+^M
+ Name:                 Lee Jackson^M
+^M
+ Date of Birth :       November 19, 1963^M
+ Place of Birth:       Austin, Texas (USA)^M
+^M
+ Current Position:     Music and Sound Director, Apogee Software,^M
+                       including the 3D Realms Entertainment and^M
+                       Pinball Wizards divisions^M
+^M
+ Music/Sound Credits:  Apogee Fanfare (current version)^M
+                       Rise of the Triad (LC, VPT)^M
+                       Stargunner (SC, cinematic FX, VPT (music))^M
+                       Duke Nukem 3D (CC, CFX, VPT)^M
+                       Duke Nukem 3D - Plutonium Pak/Atomic Edition^M
+                        (SC, LFX, VPT)^M
+                       Shadow Warrior (SC, LFX, VPT)^M
+                       Balls of Steel (CFX, VPT)^M
+^M
+ Current Projects:     Duke Nukem Forever^M
+                       Prey^M
+^M
+key:  CC  == contributing composer^M
+      LC  == lead composer^M
+      SC  == sole composer^M
+      CFX == contributing sound effects^M
+      LFX == lead sound effects^M
+      VPT == voice performance talent (did a voice heard in game)^M
+^M
+As you can see from my credits above, I work for Apogee Software.^M
+I began on May 10, 1993, as a Technical Support Representative.^M
+I was in the tech room for over 2 1/2 years, but on January 15,^M
+1996, I became Apogee's/3D Realms' first Music and Sound^M
+Director.  According to Joe Siegler, I have the privilege of^M
+becoming the first person ever promoted to development from tech^M
+support.  I'm honored .^M
+^M
+I accepted in mid-1997 into the National Academy of Recording^M
+Arts and Sciences (NARAS) as a full voting member, based on my^M
+work for Duke Atomic and Stargunner.  NARAS is the organization^M
+that gives out the Grammy Awards every year.^M
+^M
+My job responsibilities include composing music and designing^M
+sounds for in-house games, as well as for some done by outside^M
+development teams.  I also coordinate voice talent and direct^M
+voice recording sessions.^M
+^M
+George Broussard would tell you that I'm also quite good at^M
+spending the company's money on gear and software.  I keep^M
+telling him to shop and compare - he'd soon see that I'm a cheap^M
+date.  ^M
+^M
+^Z^M
+	
+    

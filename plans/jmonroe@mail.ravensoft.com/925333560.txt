@@ -1,0 +1,15 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: James Monroe
+Email: jmonroe@mail.ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: James' Web Site
+Last Updated: 04/28/1999 17:54:18 (Central Standard Time)
+-------------------------------------------------------------------------------
+Raven Software is now offering for download, the script compiler for Hexen (acc-source.zip: 113KB), used to compile the level scripts that were used to control things like keys and doors, etc. 
+This program is being offered so users can make modifications to the compiler, when using the previously released Hexen source code. 
+Although this software isn't supported, if you have any technical questions, you can send an email to James Monroe.
+
+Link: http://www.raven-games.com/

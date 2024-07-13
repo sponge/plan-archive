@@ -1,0 +1,115 @@
+Account Name:  George Broussard
+Email address: georgeb@3drealms.com
+----------
+George Broussard
+President, 3D Realms
+Project Leader: Duke Nukem Forever
+Executive Producer: Prey
+
+[Thursday 7/2/98 - 3:45 pm]
+
+RE: 8 hour work days in the game industry.
+
+If you punch an 8 hour time clock, you are working at a "job".  You 
+have little passion, and unless you have a 30 man team you will not 
+deliver a triple A title in a timely fashion.  Your co-workers that 
+do work more than 8 hours a day will start to resent you.  Friction 
+will develop and bad things will happen.  It is not management's fault 
+if you need to work over 8 hours a day.  It's the dedication that is
+required to produce excellence.  75% of all the people I know in the
+game industry work over 8 hours a day on a regular basis.  They
+work weekends.  They endure and work around spouse complaints, and
+find compromises in their personal lives.  They do all this freely 
+and they enjoy it.  Why?
+
+Passion.
+
+If you love and enjoy what you do, you will go beyond the bounds and 
+limits set forth before you.  You will do what is necessary to achieve 
+greatness.  You will sacrifice.  You will innovate, and in the end 
+you will succeed and enjoy the praise of your peers.  You would do all
+this for free, but you are lucky and talented enough to get paid for 
+it, and you repay that luck with devotion and hard work.  You will do 
+all this because of one thing.  
+
+Because you love games and you have a passion for them.
+
+
+RE: Gossip pages.  They do need to exhibit some sort of journalistic
+integrity, and there should be some lines that are not crossed.  When
+you do, expect the feel the heat.  I'm glad Texas Martini is gone now.
+After the initial day or two of posts, it became apparant that this
+individual would post anything and everything, true or not.  When you
+post slanderous material about people's personal lives, you have 
+sunk to the level of the scum that is Hollywood gossip mags.  Ah well, 
+tis' all a natural evolution of our growing game business.  We have 
+to expect a few thorns amoung the roses.
+
+
+[Wednesday 6/24/98 - 8:15 pm]
+
+I simply have to update on what I see as the next great thing to happen
+to the web (at least as far as gaming is concerned).  The evolution of
+the opinion pages, when people post their true thoughts, and weed through
+the spin doctoring and bs.  Sites that call it like it is, even though
+us on the other side don't like it sometimes.  Sure it hurts to be stung,
+but maybe these sites will keep us in line a little, or at least offer
+amusing bits for us to read.  For a fresh, sometimes, too fresh look at
+the gaming world, visit...
+
+www.gaminginsider.com
+http://www.geocities.com/TimesSquare/Maze/9363/
+
+Used to be a cool page up on stormtroopers.com called The Cynic's Corner,
+but I think he got ran out of town on a rail.
+
+
+[Monday 6/15/98 - 10:55 pm]
+
+Geeeeesssshhhh.  I've been doing interviews and emails (over 400)
+for the past 4-5 hours.  Here's some common things I will address
+in the DNF engine switch to Unreal.  There really are only a couple
+of concerns for people.  This will hopefully address them.
+
+1) Internet play.  Yes, it stinks in Unreal now.  Yes, Epic is
+working on it hard to fix it.  I believe they will.  Why wouldn't
+they?  They have the #1 game in the country that is poised to take
+over net play.  It is in their interest and their dozen or more
+licensees to make net play rock.  Give it a little time. Even Quake 1/2
+has net issues upon release. Even if the unthinkable happens and 
+they don't, we will.  There is plenty of time for that before 
+DNF is released.
+
+2) High system specs.  Yes, Unreal likes power.  That's the price
+of advancement folks.  Sorry, but those P150/166's aren't going
+to cut it anymore.  Unreal runs reasonably well on a P200/64 megs
+and a voodoo 1 cased card.  I know.  I've run it here on that
+system.  It runs silky on P266/64 megs and voodoo 1.  The only time 
+it really bogs is on some maps where not enough care was taken with 
+texture usage and poly counts.  Chalk that one up to running out 
+of time.  Clearly we will optimize Duke maps for speed.  We are 
+frame rate junkies like all of you.  But the bottom line is that 
+you will need a P200/64 negs and a voodoo 1 card (at least) to run 
+DNF.  This should not be an issue in 1999.  I mean don't expect 
+Quake 3 or any other leading edge 3D game to run on your P166's 
+either.  Please correct me if I'm wrong.
+
+3) Delay.  Folks, DNF was likely a 1999 game in the first place.  At
+least early in the year.  This decision is not going to cost us 6
+months or more, and if it does it means we are adding cool stuff like
+strippers and pool tables.  The actual conversion to the Unreal engine
+is nearly trivial.  We have Unreal code.  We have analyzed it and what
+we need to do.  We are not the least little bit concerned.  What 
+concerns us is that we can make maps MUCH larger than we were and that
+means more time to make them, but that's a good thing.  For you.
+
+That's it.  In 300-400 emails I got "ROCK ON DUDE", or a complaint
+about one or more of the above 3 items.  That means to me that we are 
+on the right track.  
+
+I know this is an utter shock to most of you out there, but trust
+us, have a little faith, and let us do our jobs.  This is in the 
+interest of delivering you the best game we can, and we have a lot
+of work to do, but we are up to the task and you will be rewarded.
+	
+    

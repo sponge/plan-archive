@@ -1,0 +1,61 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Project 3
+Last Updated: 01/26/1999 18:29:18 (Central Standard Time)
+-------------------------------------------------------------------------------
+1/26/99
+
+Well, the beta play testing of the Enhancement pack is going on. We've already found a bunch of small
+stuff cropping up, not the least of which is problems with Visual Source Safe 6. Pat just doesn't get
+all the files he should we grabbing new, and since he's our principle build maker, we end up with iffy
+builds half the time. Anyway, now we know this, half the problems went away as soon as we got a clean
+build.
+
+Update on whats in the EP
+
+So far we've added - 
+Team Play in Deathmatch.
+A modifiable Welcome message in multiplayer.
+The Female model - NO NUDE SKIN ! READ MY LIPS, or fingers as it should be.
+A3D 2.0 support, and boy, does this kick ass.
+Creative SBLive! EAX support - EAX is cool. Really needs to be implemented from the word go though, the
+implementation is one of those things that you really need to code into your maps from the start. I did
+my best here, and it sounds cool, I just wish we'd had this from the begining. Oh well. SOF will make
+use of it.
+Downloadable skins and maps from server to client. Note - this works the same way Quake does, the
+skins have to be on the server to be downloaded, if its just on your client machine, no one will 
+see it.
+Player code has been moved into its own .DLL so mod makers can go mad on it.
+We have an ignore feature finally, you can ignore specific people now, by name or client number.
+We also have a better way of setting deathmatch flags for dedicated (or otherwise) servers. Much
+more user friendly.
+Speaking of the deathmatch flags, we changed some of them, and added a specific one to allow blade only
+deathmatch. Not even the flying fist will be accessable in that scenario.
+There is now client prediction operating on the client effects associated with the player, as well as
+sounds he produces too. Kudos to Marcus for getting this to work - It was tough, but he was the man for
+the job.
+There are a ton of silly small things, like an armor meter, and stuff like that.
+There are three other really cool things that I'm not allowed to talk about, since they are new and might
+interfer with the balance of the game. Its better to not talk about them, and have the surprise, than
+talk about them, and then have them yanked at the last minute, methinks.
+
+We fixed everything we could - that SZ_GetSpace thing should be dealt with. Fingers crossed. We could never
+get it to happen here anyway, but we think we found what it was. The joystick has proper support, demo
+sounds are fixed, there are a hundred little things we found and fixed.
+
+After this, I'm probably going to have an attempt at a Dec/Alpha port. I'm not promising anything here,
+specially since we don't have a machine here to do it on. I'll work something out though.
+The Linux Port should be ready to go pretty soon too. It will be dedicated only, and will run on the same
+code base as the enhancement pack.
+
+So who's going to GDGC this year ? I'm gonna be there for once.. and looking forward to it :)
+
+Song of the day :- You bet your Life. Lightning Seeds. From their album DizzyHeights. Anyone know if this
+lot are still playing / touring ? They ROCK !
+
+Joke of the day :-  Two Dutch girls are cycling home along a cobbled street. One says to the other: "I
+haven't come this way before".
+The other says: "It's the cobbles."

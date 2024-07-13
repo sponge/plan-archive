@@ -1,0 +1,18 @@
+2-25-98
+=======
+So, just got back from California and visiting with some of my friends at the old stomping 
+ground -- 3Dfx.  It hasn't been too long since we (Gary and I) left to work on the UberEngine and
+a game based on the technology, but it really has grown a lot.  I literally did not recognize 1/2 
+of the people in the office.  Everyone seems to be doing well and in good spirits.  
+I saw some really cool stuff while there.  Quake 2 at 1024x768 on a Voodoo2 SLI rig was 
+running VERY playable frame rates.  I once thought that 640x480 with good visual quality was 
+good enough for games, but seeing Quake2 at 1024x768 changed my mind.  Since 3Dfx calculates 
+MIP mapping per pixel and the resolution of the games is as high as it is -- the top most MIP 
+map level is typcially used everywhere, thus the images look really sharp.  Also of note was the
+aliasing, or more importantly the LACK of noticable geometric aliasing and MIP map banding at this 
+resolution.  It was stunning to say the least.  For all of you out there who play Quake or 
+Quake2 -- a Voodoo2 SLI rig is what you have been dreaming of.  If you are a speed freak -- Quake2 
+with this configuraion at 800x600 was running at a constant 60 fps -- very sweet.  Can't wait to 
+get mine.  Creative boards should be out in stores at I write this.
+
+Until next time.....

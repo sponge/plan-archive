@@ -1,0 +1,42 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: SoF
+Nickname: Superfly
+Web Page: Rick's Web Site TurtleCam! mEATwagon Cult
+Last Updated: 11/01/1999 18:36:05 (Central Standard Time)
+-------------------------------------------------------------------------------
+11/1/99
+   ** Big SoF News **
+
+   There is going to be a Linux port of both the client and server.  Unfortunately, because of the 
+      lateness of this decision, it will not be ready by the time the game ships, but will be available 
+      to download as soon as it is available (hopefully within a month of release).
+
+   We have completed a major AVI and will be releasing it very soon.
+
+   ---
+
+   Little clarification, is that I guess the Linux version will be a separate retail product.
+
+
+10/30/99
+   Happy Halloween!
+
+   Check out what the Avault had to say about their hands on experience with SoF at the Frag3.
+      It is at the 1:00PM Time in the article.  Sounds like they only played the first level though...
+
+   Monday I should have some important news about SoF...
+
+10/27/99
+   We're just about to go gold on one of the OEM versions of SoF (for Razer Mice).
+      This version contains 4 Single Player levels.  This is by far, Raven's best game ever.  Finishing the full 
+      game is just around the corner.
+
+   Limited beta testing will probably start next week for SoF DM.  With the SP OEM out the door, most of us
+      can concentrate on DM.  
+
+   During the low times in the last few weeks, a few of us here have been playing zDoom and the mega.wad.
+      I forgot how much fun these levels were, and just getting back to some classic doom DM.

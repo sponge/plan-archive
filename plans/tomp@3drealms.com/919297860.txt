@@ -1,0 +1,18 @@
+Account Name:  Tom Pytel
+Email address: tomp@3drealms.com
+----------
+extern "C" int Reality (GOD *god);
+
+void *GOD::Query (const double *meaning)
+{
+  if (!Reality (this))
+    return Query (meaning);
+  else
+    return NULL;
+}
+
+// Note: It is not known whether the Reality function is NP complete or not.
+//       At the current time, it is implemented in external hardware using
+//       statistical sampling methods of random quantum fluctuations. Though
+//       some advances have been made in calculating the function using very
+//       small bits of string.

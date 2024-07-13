@@ -1,0 +1,330 @@
+
+Welcome to Linux version 2.0.0 at lith.com !
+
+  7:07pm  up 8 days, 21:34,  0 users,  load average: 0.16, 0.21, 0.21
+
+Login: hall           			Name: Jason Hall (CEO)
+Directory: /home/hall               	Shell: /bin/bash
+Never logged in.
+New mail received Sun Sep 13 12:16 1998 (PDT)
+     Unread since Wed Jul  2 16:14 1997 (PDT)
+Plan:
+9/17/98
+
+My goodness, when it rains, it pours!
+
+I've just received word that RAGE OF MAGES has officially gone gold!!
+
+It will be on the shelf on Oct. 12th!!!
+
+We have released the cool demo (in case you didn't know) and launched the full Rage of Mages website.
+
+It is www.rageofmages.com -
+
+You can download the demo there!
+
+So Shogo is GOLD! - whew!
+Rage of Mages is GOLD! - whew!
+and now,
+
+time to finish BLOOD 2!!!!
+
+Thanks everybody for your congratulatory remarks on Shogo going gold. Everyone here appreciated that!
+
+
+
+
+^^^9/16/98
+
+The Eagle has landed....
+
+Shogo: Mobile Armor Division (www.shogo-mad.com) has gone gold. 
+
+It is my strongest suggestion to the gaming public that is anticipating the release of Shogo, that they go to the store NOW and reserve a copy. There will only be a certain amount available on the first day (Oct. 19th).
+
+This also means that the LithTech Engine v1.0 is officially feature complete, fully tested, and mother approved...!
+
+I want to personally thank the gamers out there for their support of Monolith and the Shogo team. The support REALLY has a big effect on team morale and energy. In a real way, you all helped to get Shogo out the door.
+
+A couple other things...
+
+We recently had a visitor up at Monolith who goes by the name of Billy Wilson. He runs a website called VoodooExtreme.com.
+
+He was very interested in taking a closer and more thorough look at Shogo, so we sat him down and let him have at it. 
+This guy is meticulous!!! He had sooo many questions! Stuff like, lemme see it run on a P200 with a VooDoo 1. Ok now lemme see it in low detail. Ok, now lemme see it...etc., etc. You get the picture.
+
+Anyhow, it was a pleasure to have him drop by and I'm hoping he came away with a favorable impression .( He e-mailed me and told me that he is going to put up his personal preview sometime today ). I am going to be checking his site to see his comments.
+
+So here it is, your chance to hear from somebody who had their hands all over Shogo. I left him in a room to play with it by himself for quite some time - no supervision or "demo people..."
+
+This is Monolith's philosophy in action. No frills, no hype, no nothing... just Billy and Shogo. This could be REAL BAD for us, or REAL GOOD. I mean, the dude gets a lot of hits on his site... The bottom line is, we let our products stand on their own, and we believe in what we do.
+
+Shogo is an incredible game.It is our fondest wish that you enjoy it!
+
+Once again, thank you for all your support!
+
+^^^9/9/98
+
+I try to only update my .plan when I have something interesting to say, so I hope you find this interesting!
+
+First things first -
+
+Due to popular demand, and promises that must be kept, tomorrow we are going to release a couple items to the public:
+
+The Get Medieval demo!
+AND
+The Get Medieval level design tool!
+
+The level design tool we are making available is the actual one that we used to make the game. It is very powerful and not a scaled down version.
+
+There are already people talking about making a TC of Get Medieval into an "Aliens" game. I also know of some people who want to actually re-make every Gauntlet level for Get Medieval! Holy Mackerel!
+
+Make sure that you keep an eye on our website all day tomorrow to be sure that you are one of the first people to get some of this stuff. It is going to be busy!
+
+While on this topic, I might as well let everyone in on some more cool news... In a few weeks we are planning on releasing the first "player patch" for Get Medieval. It will overlay a new character into the game, temporarily disabling an "older" character and substituting the "new" one. The first character overlay is none other than our very own CALEB from our games Blood and Blood2!!
+
+All Blood fans make note of this! This is a MUST HAVE...
+
+That's right, full version owners will get to GET MEDIEVAL with Caleb. Guns akimbo and all. It is going to be totally hilarious and awesome! I can't wait for it. (The audio is already PIMP)
+If it goes over well, we may release a Captain Claw, Sanjuro (shogo), and Grunt (Gruntz) player overlay (with audio).
+
+Once Shogo ships (which is soon) and we release our REZ (resource) tools, people will be able to make their own full blown TC's for Get Medieval, complete with absolutely everything. (Our games use the same resource editor) I think it's cool because it is just not that complicated to make a Get Medieval TC (when compared to a 3D shooter) and it will give a lot of people the ability to create games. We'll see how it goes, but at least it will be out there! :)
+
+OK, next item of business...
+
+There have been a LOT of positive previews popping up regarding Shogo, and we would like to thank all the previewers as well as the community at large for the recognition!
+If you want to see one, you can check www.gamespot.com or look in the October edition of PC Gamer -
+or you can go to www.shogo-mad.com and look for some links from there.
+
+Shogo is looking totally fantastic and the Shogo team needs a HUGE pat on the back for bringing this Anime game to life. Way to go!
+Right now, they are busting ass to get everything done, and if you get a second, please feel free to e-mail them some encouragement! Just send it to monolith@lith.com! They are putting some serious LOVE into Shogo! Whoo hoo!
+
+I am going to be at the next BeatDown Quake-thingy on Sept 18th, and will be showing Shogo to the people there. I'm hoping that everyone will come away will a good impression! My goal is to let the product speak for itself, and I think that getting up in front of some die hard Quake players with a non-Texas-based engine and game, then saying "This rules!!! What do ya think?" will be one of the more ultimate ways of testing Shogo's goodness...!
+
+...bead of sweat runs down side of face...
+...lips tremble...
+
+Heh, well anyway, on to more things...
+
+Monolith has a new Director of Marketing!! Her name is Samantha Ryan! Samantha took the job only after we told her how cool she'd be if she worked with us! She still doesn't really believe me, so I think we all should give her a big "Welcome Aboard!" Her e-mail address is:
+
+samryan@lith.com
+
+Please feel free to let her know that game community is happy to have her aboard Monolith!! heh heh heh :)
+
+Oh and...
+
+There will be some new info coming up soon regarding a possible Shogo 2... stay tuned for details!
+
+
+
+
+
+8/31/98
+
+I was approached by our cool Product Acquisitions guy (his name is Dan) about getting the word out that we are looking for some titles to acquire and publish. So I figured I'd put what he sent to me in my .plan with the hopes that maybe some cool developer types would consider working with us!
+
+Here is the message:
+"Monolith is looking for cool games to publish.
+
+We are currently looking for a couple of great games to publish in the first quarter of 1999. If you are a developer who has a game which is nearing or at its completion, talk to us about publishing it through Monolith. We offer competitive advances and a generous royalty structure. 
+
+As many of you know, we are publishing Shogo and Get Medieval. We are also quite pleased that Rage of Mages, our first acquired title, will be coming out in October.
+
+Join the Monolith family! :) Please email Dan Bernstein at dbernstein@lith.com, our Director of Product Acquisitions if you have or know of a great game in need of a gamer oriented publisher."
+
+On to other things...
+
+Shogo is looking KICK ASS. This game should be making some people nervous! It rocks. Ultimately I know that the gaming community will be the judge of that, but I'm just sharing my unasked opinion..:)
+
+For those that care, I will be attending the next Beatdown Lan party in Los Angeles. Certain people doubt my skillz, and I think it is time to speak with actions rather than words! I am also going to bring down a copy of Shogo to demonstrate, so if you are interested in seeing it go, you'll have your chance there!
+
+Also, some GameSpy people stopped by the other day, they saw Shogo... You can ask them what they thought... :)
+
+Monolith has been receiving a ton of support from the gaming community, and I want to once again say THANK YOU VERY MUCH for everything you have done for us. It is at the point now that even the mass media is contacting us for info. This goes to show how much power the game community has over a game company's success, and I want Monolith to be the first developer to kneel before it and pay the due respect.
+
+I will keep everyone updated, every step of the way. You will be able to see our success or our failure, and your influence on the events that transpire. 
+
+Once again, thanks...and we will do our best to continue to make fun games!
+
+
+8/26/98
+
+THE SHOGO MOVIE IS OUT!!!
+
+GET MEDIEVAL IS IN THE STORES!!
+
+GET THEM BOTH!!
+
+YEA! :)
+
+You can go to www.shogo-mad.com and get the Shogo Movie!
+Or you can go to these awesome mirror sites:
+
+ftp://ftp.cdrom.com/pub/planetquake/revolt/intro_small.mov and
+ftp://ftp.cdrom.com/pub/planetquake/revolt/intro_big.mov
+
+Later planetquake's mirror will catch up and mirrors will be listed at:
+
+http://asp.planetquake.com/dl/dl.asp?revolt/intro_small.mov and
+http://asp.planetquake.com/dl/dl.asp?revolt/intro_big.mov
+
+You can also try:
+ftp://lavafields.magma.ca/shogo/shogo-big.mov
+ftp://lavafields.magma.ca/shogo/shogo-big.zip
+ftp://lavafields.magma.ca/shogo/shogo-small.mov
+ftp://lavafields.magma.ca/shogo/shogo-small.zip
+
+I believe Redwood's site will be mirroring as well although I don't have a link just yet. 
+
+In any case, I'm sure that there will be plenty of places to get it. The support has been great, and it is totally appreciated!
+
+Please check out the movie, and spread it around!
+
+Also, feel free to send me your thoughts on it! We honestly hope that you enjoy it, and eagerly anticipate Shogo!
+
+AND - GO BUY A COPY OF GET MEDIEVAL AT THE STORE!! THE GAME ROCKS!!! - I'm such "the salesman..." :)
+
+
+
+
+8/25/98
+ATTENTION!!! ATTENTION!!! ATTENTION!!!ATTENTION!!! 
+
+THIS IS IT!!!
+
+TOMORROW Get Medieval officially hits the store shelves!!!
+TOMORROW we release the Shogo Movie to the net!
+
+I have received a great response to the request to have the Shogo movie mirrored. Many thanks to you all for your support and help!
+
+The Shogo movie will be made available at MIDNIGHT PST tonight! You should be able to get it from the shogo web site (www.shogo-mad.com) or anywhere else! :) -A kool-aid smile...
+
+A few things about the video -
+
+It uses the indeo 4.4 codec...
+There is a big one around 50meg (30 meg zipped I think)
+and a small one around 14 meg (10 meg zipped I think)
+
+The big one is 320x240 15fps 16bit22khz stereo.
+The small one is 160x120 8bit 11khz mono..
+
+I recommend getting the BIG ONE!! :) Looks better IMHO..
+
+It was created about 4 weeks ago, and it still has some placeholder stuff in it. If you think that Shogo looks good in this video, trust me when I say that you'll be blown away by what you will see in the final product!
+
+The song you hear when watching the video is an actual song composed in Japan by a popular music group specifically for Shogo. You see, whenever you watch one of the Anime tv shows like PATLABOR or GUNDAM, or Neon Genesis Evangelion, they ALWAYS have a Japanese pop tune to open up the TV series. We want to be as authentic as we can, so weM-^d thought we try and do something never before attempted!
+ 
+Almost all the actual M-^in gameM-^ music is all jungle/technoM-^
+
+Oh, and PLEASE PLEASE PLEASE let everyone know that GET MEDIEVAL is going to be in the stores tomorrow!!! Tell everyone to buy a copy!!! Monolith needs to have a good "debut publishing launch!" We don't need to break any records, but a reasonable showing at retail will do WONDERS for Monolith's ability to continue to exist and make kick-ass games for you! :) A SUPER BIG kool-aid smile...
+
+Seriously though, I can never say it enough, thank you all very much for the love and support...!!
+
+Enjoy the movie! Also, feel free to e-mail your comments on the movie to me!
+
+
+
+
+
+
+8/24/98
+
+THE COUNTDOWN CONTINUES...
+
+
+
+"Get" Get Medieval!
+
+
+
+Only 2 More days till Get Medieval officially hits the store shelves.
+Only 2 More days till we release the Shogo Movie to the net.
+
+It's gunna be cool...!
+
+We are going to try to make the Shogo movie available to websites earlier in order to try to reduce the bandwidth suckage on us. If you are interested in Mirroring this file, please e-mail me and we will try to hook you up with the goodness beforehand...
+
+Also, those of you who have seen the movie already (there are like 5 of you) make sure that you get the new one. It is a little different! :)
+
+
+
+
+8/21/98
+
+Ok...
+
+THE COUNTDOWN CONTINUES...
+
+Only 5 More days till Get Medieval hits the store shelves.
+Only 5 More days till we release the Shogo Movie to the net.
+
+Get ready! :)
+
+Also, I'd like to thank Mike Wilson for his encouragement and support of Monolith's efforts. We really appreciate the kind words he affords us!
+
+And Mike, I know how much work it takes to get into the channel, and everywhere I go (and speak to buyers about Monolith stuff), it sounds like you are making quite an impact on the retailers! Congrats!
+
+Here is more cool info:
+We just put up a small movie sample of our soon to be released RPG "Rage Of Mages" on our website. Feel free to go there and check it out. The game rocks, and it is not going to slip past its release date for this fall!
+
+Here is the link -
+www.lith.com/ROM/  
+
+
+
+
+8/19/98
+
+I have some cool announcements to make.
+As you probably already know, Monolith is making the attempt at self-publishing some of it's titles. Fortunately, we have had some success in our efforts and that means we owe a big "THANK YOU" to the gamers out there that have supported us by helping to get the word out on our titles! It works - the gamers out there CAN and DO make a difference, and Monolith wants to be one of the first companies to openly acknowledge that, and show appreciation.
+We will do our best to provide you with lots of quality-kick-ass-fun games!
+
+For right now, one way that we can show our appreciation is by giving the game community a little bit of inside info...
+
+So here it is:
+Although our recent press release officially indicates that our new product "GET MEDIEVAL" will hit the stores on 9/1 I know that in actuality it will hit the shelves on 8/26 (next Wednesday). I also know what stores it will be in initially -
+
+(Partial list Alphabetical order)
+Babbages
+Circuit City
+CompUSA
+Computer City
+Electronics Boutique
+Fry's Electronics
+Future Shop
+Inca Computers
+Media Play
+Micro Center
+Software Etc.
+
+Here are some links with comments to some reviews:
+
+http://www.avault.com/reviews/gm.asp
+"Get Medieval is a game about action, action, and more action" 
+
+http://www.gamepost.com/reviews/getm.html
+"The gameplay in the GM was very fast-paced and tons of fun." 
+
+http://www.processed.net/html/previews/getmedieval.html
+"...it reminds you that it's just a game and that you shouldn't go postal on the designers who've made you addicted to it." 
+
+http://www.3dgaming.net/reviews/arcade/get_medieval/
+"The game is rabidly addictive, and you will want to play the game as each different character simply to hear what they have to say" 
+
+enough of that...
+
+There are more reviews which may affect your buying decision on www.getmedieval.com if you want more info.
+You can pre-order it by going to this link
+http://www.getmedieval.com/preorder.asp
+
+Make sure you race to the store and buy a copy! :)
+
+On to other things...
+
+Since there are only 7 days left in the GET MEDIEVAL COUNTDOWN until the very first Monolith published title hits the shelves, I'd thought I'd make it even more interesting by making it a DOUBLE COUNTDOWN and include some awesome Shogo stuff as well.
+
+Here is what I mean...
+
+Shogo will be hitting the stores this fall and in anticipation of that, we created an Intro/Gameplay movie that demonstrates clearly what kind of action you can expect from Shogo. This movie is actually part of the intro of the product and the whole idea was to make it similar to the intro of a Japanese Anime TV series (but only use in-game stuff to do it).
+We ha

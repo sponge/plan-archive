@@ -1,0 +1,498 @@
+Welcome to Raven Software's Finger Service V1.4!
+
+Name: Mike Gummelt
+Email: mgummelt@mail.ravensoft.com
+Description: Programmer
+Project: ???
+Last Updated: 05/01/1998 15:57:16 (Central Standard Time)
+-------------------------------------------------------------------------------
+Friday, May 1, 3:54 PM
+
+Don't kill me!
+
+I've decided Siege could use some more testing before
+I release it to the public and I need some more
+time to put in some more art, write the .doc up
+nicely, etc.  And since Lynn (my fiancee) is here
+until Sunday afternoon, I won't get much done
+between 6PM today and Sunday, so it's going to
+have to wait (This is her first time out here
+since I moved out here over a year ago!  You
+understand...)  Anyway, I fully expect a very
+nearly complete, easy-to-use, stable version
+of Siege to be out on Wednesday, May 6 after a few
+solid days of testing and tweaking...
+
+Thanks for your patience...
+
+cut here
+8<---------------------------------------------------
+
+Thursday, April 30, 3:02 PM
+
+OK, I have an idea, and I'm seriously considering it...
+A new playerclass for Siege- the Dwarven Fighter.
+
+He would have an axe and hammer, he would be half
+player height, run faster than a crouched player but
+slower than a standing player, he would be immune to
+poison and magic, he would have a good number of
+hitpoints, be fairly strong, be the best tunneler,
+a poor swimmer, could be shot farther by catapults,
+his armor would be the best since Dwarves are so
+good at metallurgy and binding magic into their metals-
+his weapons would either be pretty strong or have some
+sort of magic effect bound to them, and he may have
+some sort of "danger sense" since Dwarves are supposed
+to be fairly prescient.
+
+What I need is: A model!  It would have a Viking type
+of outfit, with the horns on the helmet...  He could
+be animated at 10 fps rather than 20, no problem to 
+implement codewise, and he would need these animations:
+standing - axe (12 frames)
+standing - hammer (12)
+running - axe (6)
+running - hammer (6)
+hitting - axe (6)
+hitting - hammer (6)
+pain - axe (6)
+pain - hammer (6)
+swimming - axe (10)
+swimming - hammer (10)
+death (20)
+decapitation (20)
+
+I'd estimate maybe 130 frames, but the hammer/axe
+versions could be duplicated depending on the 
+animation method used- the decap could simply 
+be the death anim with the head shoved in the neck, 
+so it could probably be done with only 60 unique 
+frames to animate.
+
+And I would call him "Hank"
+
+If anyone is seriously interested in being a
+part of HISTORY, and you think you can do it
+within 2 weeks, let me know!
+
+cut here
+8<---------------------------------------------------
+
+Wednesday, April 29, 9:37AM
+
+Siege is coming along nicely, I've stopped working
+on implementing big new features or heavy bug-fixing
+and I'm working on making it more user-friendly and
+pretty.  I put in an icon for the .exe, a new
+console backdrop, and put some special characters
+in the font for the Siege info display that replaces
+the standard frag count display- this one shows
+how much time is left, how many defenders have
+been killed and how many attackers have been killed.
+I also replaced the standard help screens with some
+helpful information on how to play Siege.
+
+I've been talking to some people who volunteered to
+do artwork for me and I've very grateful for all the
+responses- the artists here are very busy with
+Heretic 2 and while I can scribble a decent doodle,
+I'm no artist.  If I can get all the things these
+guys are offering, Siege will look very nice indeed!
+
+In addition, I'm talking to Phoebus over at
+HexenWorld about setting up an official Siege
+website for me- hosted by HexenWorld.  If that gets
+going, then I'll have a nice, neat official place
+to put my updates, news, tips, requests, and downloads...
+
+Thanks for all you enthusiasm!
+
+cut here
+8<---------------------------------------------------
+
+Tuesday, April 28, 10:15AM
+
+Hey All,
+     Well, I've been working on Siege just about a week and
+a half now and I think I'll be ready to release a beta on Friday.
+It's been a little difficult to test here since everyone else is so
+busy on their respective projects.  The version I release should
+have all the main features except a few spells maybe, and won't
+look as pretty as the final version and I try to get some art made
+(any volunteers?) for this and that and get Terata to finish up the
+map Perf Cuervo made.  So far it's got the weapons for each
+class, most of the spells for them, the abilities I've done so far,
+and all the other stuff I mentioned in my finger as well as a couple
+things I was going to try to get in there- mainly the greek fire,
+the sapping tunnel, and the ripples in the pool to detect diggers.
+I'll try to test it and tweak it the remainder of the week and try
+to get that first beta out on Friday.  Do me a favor and playtest
+it (I'll include full instructions) and let me know of any bugs you
+find (I'm sure there'll be a few) and any comments, suggestions, etc.
+you may have about it...
+
+cut here
+8<---------------------------------------------------
+
+Monday, Aprill 20, 7:40 PM
+
+Well, from what I know from Rick, there will be one
+more release (with some stuff from Zoid) and that
+version should be fully compatible with (but may not
+include) Siege.  Rick is going to put in a system for
+some extended entity-to-entity client side physics
+to that pushing barrels and catapults doesn't look
+really freaky to people with lag.  Siege itself should
+just be a map, some sounds & models, and a new 
+progs.dat.  Siege should be out within 2 weeks- I 
+just put in Greek Fire today- next I want to work on
+putting in the mining/sapping tunnel that you can use
+to collapse a wall- but a pool in the center of the
+castle court will show ripples if someone is digging-
+this will allow the defenders to start a counter-tunnel.
+
+BTW, thanks for all the suggestions so far, I'll let
+you know what I end up implementing...
+
+
+cut here
+8<---------------------------------------------------
+
+Saturday, April 18, 6:35PM
+
+Alright, here's the specifics on which class has what
+and what tactics/engines are in the game so far:
+
+Note that all players start with all their weapons and
+abilities.  They require "ammo" for some weapons, but
+require mana only for spells.
+
+Paladin:
+The paladin has a Sword (which is better against flesh
+than, say, wood), an Axe (which is better against wood),
+and a bow (which he is not accurate at all with but
+has nice range).  He is the best swimmer and has higher
+strength and health than the others and comes in full
+armor.
+
+Assassin:
+The assassin has a dagger, with which she can backstab
+with.  Her second weapon is a crossbow, her third is a
+welsh longbow with flaming arrows, and her final "weapon"
+is her tripwire explosives.  She has no spells, but she
+has three special abilities- she can backstab, hide in
+shadows, and scale walls.  She comes with one piece of
+armor.  She is the 2nd fastest and most accurate of the 5
+classes.
+
+Crusader:
+The crusader only has one weapon, a hammer.  However, he
+has several spells- casting cost in parentheses:
+Heal (5) - Heals 5 points of health on self or other.
+Enchant Hammer (10) - Basically "tomes" hammer
+? (15) - open slot - suggestions?
+Mercurial Speed (20) - Super-speed (self/other)
+Berzerker (30) - Super-strength (self/other)
+Cloak of Perseus (40) - Invisibility (self/other)
+Wrath of God (full mana, sacrifice) - Crusader dies, but all
+     within his view are struck by lightning.
+As of now, I have no special abilities for the crusader.
+He comes with 3 pieces of armor.
+
+Necromancer:
+The Necromancer has his sickle and a bow for weapons-
+he has poor range and accuracy with his bow.  He has
+six spells in addition to these weapons:
+Magic Missiles (2) - Like his 2nd weapon in HW.
+Poison (15) - Poisons someone (like Succ. glyph in HW)
+Polymorph (30) - Turn someone into a sheep.
+Delayed Fireball (40) - Like the paladin's glyph in HW
+Summon Imp (60) - Like the Summoning Stone in HW
+Become Beast (100) - You become a giant beast for
+     3 minutes, able to trample people, crush catapults,
+     bash down doors, take great amounts of damage,
+     and start quakes by jumping.
+The Necromancer has no armor and no abilities.
+
+Succubus:
+The succubus is the balance between fighter and mage-
+she has 4 weapons and 4 spells and 1 ability.
+Her weapons are her bloodrain, a sword, a crossbow,
+and grenades.  Her spells:
+Repulsion (10) - Like the Disc of Repulsion
+? - Unused slot- suggestions?
+? - Unused slot- suggestions?
+Flight (100) - Allows her to fly freely for a couple
+     minutes.
+Sher has the ability to glide slowly and comes with
+2 pieces of armor.  She is the fastest runner of all 5
+classes.
+
+Mana regenerates slowly, there is none to pick up, and
+you start with none.  Mana regenerates faster for the
+Crusader, but the Necromancer has a higher maximum mana
+limit.  The Crusader utilizes blue mana, the Necromancer
+and Succubus require green mana.
+
+There are no artifacts to pick up besides:
+
+They Throne Room Key (opens the throne room)
+A key-finding device (the former cube of force)
+Imprisonment Icon (teleports target into the prison- they
+     can try to break out)
+Ring of water-breathing (makes pirhana ignore you, can
+     hold breath a long time).
+
+And, of course, arrows, grenades and tripwire glyphs.
+
+Also, as the time limit approaches, the outdoor
+light sources fade down, simulating nightfall and
+giving attackers a cover of darkness to operate under.
+
+Siege machines/tactics implemented so far are:
+
+Defense:
+4 Ballistas on the defense towers.
+Spikes on the front of the tower to skewer anything (or
+anyone) trying to catapult over)
+Ramparts to provide cover while attacking and also to
+     prevent people from catapulting over.
+A moat with ravenous pirhana in it.
+A prison to keep captured attackers in.
+Several doors and gates that can be closed and locked,
+     but can also be bashed down.
+A small contigent of Mezzomen to guard the inner court.
+
+Attackers:
+Catapults
+Possible sewer entrance.
+Device to help find locate the position of the key.
+
+Other ideas planned, if desired:
+Trebuchets?
+Greek fire (both sides)
+Highly unstable but powerful bombard.
+Mining/sapping techniques.
+Battering rams?
+Siege towers/ladders?
+
+Any other ideas? Comments?
+
+cut here
+8<---------------------------------------------------
+
+Friday, April 17, 2:26PM
+
+Ok, Project Y is coming out very soon, within two weeks
+hopefully (I'm the only one working on it right now, so
+that's the reason for the delay). It's a multiplayer 
+mode for Hexenworld that somehow got leaked to PC Games
+so I presume it's okay to talk about it... it's called 
+"Siege" and basically it goes like this:
+
+The map is a castle/keep with ramparts, a drawbridge, a 
+moat with pirhana, a prison, ballistas, a porticullis
+and a sewer. The defenders must keep the attackers from
+getting into the castle and capturing the crown.  The 
+attackers have catapults (I'm working on a couple other 
+siege engine ideas) and unlimited ammo (the guys on the 
+inside starts with more ammo but it doesn't respawn). 
+There is a time limit and the attackers must find some 
+way to get into the castle (there's the obvious way of 
+breaking down the main gate, plus some more obscure ways-
+I'm going to try to simulate sappers). The outdoor lighting
+gets darker as the game goes on and when the time limit is
+over, the defenders win (simulating the arrival of an army
+to lift the siege). If the attackers do get in the castle,
+they must find the keymaster (a defender who has the key to
+the throneroom), kill him and get up the tower and into 
+the throneroom to capture the crown. The weapons are limited
+to the realistic ones with some characters having magic 
+spells and special abilities (for example: the Assassin can
+scale walls, the Demoness can fly if she has enough mana
+to cast that spell).
+	Anyway, I'm going to try to get this done within 
+2 weeks, so keep an eye out for Project Y AKA "Siege".
+
+Tomorrow I'll list the weapons, spells and abilties of
+each class as well as the siege engines and tactics implemented.
+I'd be happy to recieve any suggestions for more ideas to
+implement as well, after I've listed those.  Check back
+tomorrow.
+
+cut here
+8<---------------------------------------------------
+
+Thursday, April 2, 2:27PM
+
+Hmmm... so what's new?  Well, now that I'm working
+on HexenWorld, I have some time to update my finger.
+HexenWorld's next release is coming along nicely.
+I put in the fifth class and other changes from
+the Mission Pack and Nathan is almost done makeing
+her "net-friendly".  Also, I believe the MP hit the
+shelves today so take a hammer to those piggy banks
+and buy the sucker- it's worth it!  And, of course,
+those of you luck enough to have the MP will be able
+to play the Demoness in HexenWorld (others will just
+have to watch others fragging them with the Tempest
+Staff and such).
+
+Once HexenWorld is done, I'll be adding "Project Y"
+to it as a new multiplayer mode- we tried it out
+here about a couple months ago and it was I big
+hit- I think you'll all love it!
+
+After HexenWorld, I believe I'll be on Heretic II
+for a short time, then move over to "Project Z" (or
+"Project XXX" and Rick likes to call it for publicity
+purposes...)
+
+By the way, I recently bought some CD's now that I'm
+being paid for my work (I finally paid off my
+indentured servitude!  Woo-hoo!).  No, seriously, though,
+I bought Madonna's album, Kundun, Dark City and
+Siouxsie and the Banshee's classic "Peepshow".  All
+of these are excellant albums and I highly recommend
+them!  Other techno/soundtrack stuff I highly recommend:
+Peter Gabriel's "Passion"
+Lords of Acid- "Voodoo U" and "Our Little Secret"
+Fluke- "Risotto"
+Alien3
+Bram Stoker's Dracula
+Conan the Barbarian (newly mastered version)
+The Piano
+
+Ok, now that I've been presumptuous enough to think
+you care what music I like, I'll go away...
+
+Oh, one last little note- as of tomorrow, April 3,
+I'll have been here at Raven for exactly 1 year!
+Yay me!  Unfortunately, that means I've been apart
+from my fiancee for 1 year... but, good news is
+she's coming up to visit me at the end of April!
+Woo-hoo!
+
+Au revoir
+
+cut here
+8<---------------------------------------------------
+
+Thursday, March 19, 4:51 PM
+
+Well, I haven't updated my finger in a while,
+and I suddenly find that I have a lot of free
+time on my hands (meaning...?) Yes, you should
+be seeing the Mission Pack very very soon if
+all goes well!  And I guarantee it will be much
+more stable than Hexen 2 when it shipped (unless
+I'm completely missing some major bugs!).  The
+Mission Pack really rules, it's got some great
+new features and lots of little details and fixes
+like:
+
+First the obvious stuff:
+New class!  Demoness is a kick-ass character-
+	and she looks GREAT!  She has some very
+	cool new weapons with some awesome effects-
+	I especially like the firestorm and the
+	lightning ball weapons, very cool.
+Yakman - These guys are really cool, very tough,
+	and pretty scary- they can charge you,
+	gore you, freeze you and slap you silly.
+	Very effective!
+Pentacles - The wall-crawlers- these guys are working
+	perfectly now- they can crawl along walls
+	and jump from surface to surface to get to
+	you- and they blend in with the wall so
+	they're hard to see...
+New werecats!  The Were SnowLeopard and Siberian
+	WereTiger will kick your ass, plain and simple.
+Snow!  Looks really good, in GL there are actually
+	four different snowflake textures
+
+And:
+Overall loading speed much increased- due to much
+	smarter precaching and better model
+	compression.
+Ally Vision- the coop view from Doom is back - now
+	you can cycle between your teammate's views
+Better physics- I went though the code and fixed a
+	few bugs left over from the ugly mating of
+	the Quake & Quake 2 engines Rick was forced
+	to do for Hexen 2- monsters should move much
+	better now (the guy who was working on the
+	bot should find the bot should work much better
+	now) and the rotating brushes work like they
+	should have as far as collision and pushing
+	goes.
+King of the Hill (and deathmatch in general) has been
+	fixed- no cheats and better weapon balance-
+	and the force cube actually rocks now!  The Raven
+	Staff has been fixed as have the Paladin's and
+	Crusader's glyphs.  Experience is now awarded
+	per hit instead of just upon killing so frag-
+	stealing isn't an issue if you're concerned
+	about King of the Hill or level advancement in
+	Co-op.
+There are a couple console commands to help slow or 
+	low-RAM machines out- these will effect how
+	much snow there is, how active it is, and turns
+	off and on dynamic lights.
+My chase camera is also now actually in the game, you
+	can turn it on with Impulse 27.
+James has done a lot of optimizing which generally makes
+	the game run better, and he's addressed a lot of
+	bugs, especially in GL... he even made it so that
+	certain sounds can constantly update their position
+	so that they can travel through the world as they
+	play- some moving sounds!
+Some networking issues have been adressed to make the game
+	more network-friendly, but that's really going to
+	be taken care of in Hexen2World (more later)
+Lots of little touches- players can push each other now,
+	in low-gravity, you can push off a wall by facing it
+	and pressing the jump button, etc, etc.
+There's a pretty cool intro included with the game that
+	we recorded as a demo- in in-game cinematic, but
+	very well scripted and nicely done...
+AND, there's tons and TONS of new stuff for level
+	designers, you can really go nuts and do some
+	cool stuff.
+Speaking of levels, the guys here have made a few Deathmatch
+	levels, and they're pretty damn cool!  I especially
+	like Jeremy's (Terata) tubes level which takes the
+	hipdm1 open style a bit further and made a multi-level
+	DM level with lots of wind tunnels- very very cool.
+	Unfortunately, they probably won't make it onto
+	the CD since Q&A would have to test them if they
+	were officially supported, but we will release them
+	to the web and make them as available as we can...
+And so on and so on...
+
+After this, I'm hoping to go on to helping those guys with
+putting the Mission Pack into Hexen2World, that should be cool.
+Deathmatch with these characters really kicks ass- much better
+than Quake or Quake2 in my opinion, anyway...  And after THAT...
+Project "Y"...
+
+cut here
+8<---------------------------------------------------
+
+Tuesday, March 3, 9:44 AM
+
+So this is what morning looks like!  I don't
+see what all the fuss is about, it's way too
+bright and cold!
+
+Okay, so the Mission Pack is going very well,
+we have a few small bugs to work out, nothing
+all that major.  We're doing a lot of playtesting
+now (BTW, thanks a lot to Chad and Steve for
+coming all the way from Santa Monica to test
+for us- you guys were very helpful!).  I
+really think the public is going to like this
+game, there's definitely a lot of new stuff,
+and we've optimized some things (including
+load times

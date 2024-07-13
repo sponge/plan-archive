@@ -1,0 +1,13 @@
+Account Name:  Lee Jackson
+Email address: leej@3drealms.com
+----------
+What's gone on in the studio over the past couple of weeks? Hardware and software hell, that's what.  No fewer than 5 total system crashes on two different systems, each accompanied by "DELTREE WINDOWS", and problems with 3 separate backup strategies, including one from Microsoft itself which insisted on crashing every time it processed file number 5001. Fortunately, I was able to save almost all of my data, but I gained way too much experience in reinstalling my applications.  As you can guess, I think I'm back up and running now.  Cross your fingers, and don't breathe too hard.
+
+Okay, here's some real news.  The SXSW Interactive conference was very educational, and the panel I participated in was a lot of fun.  Fellow panel members included George Oldziey from Origin, George Sanger (a.k.a. The Fat Man), Keith Karloff (leader of the Gone Jackals and of "Full Throttle" fame), and Rick Lawn from the University of Texas at Austin.  We discussed many different aspects of music and games, including how music affects the mood of a game.  For this part of the panel, I got to have a bit of fun by running Quake with the original CD in the drive, and then with Manhattan Transfer's "Bop/Doo Wop" CD.  If audience response is any indication, we got our point across. ;-)
+
+Cool Tool of the Month: run, don't walk, to http://www.ghisler.com and grab a copy of Windows Commander v3.50.  I've used this program for years (license #224), and this new version is the best yet. He's included an FTP client this time (who needs WS_FTP anymore?).  It's available in 16 and 32 bit flavors.
+
+=================================================================================
+"Remember...at any time, at any place, our snipers can drop you. Have a nice day." 
+	
+    

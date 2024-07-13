@@ -1,0 +1,123 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 3
+Last Updated: 04/02/1998 23:44:40 (Central Standard Time)
+-------------------------------------------------------------------------------
+
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+
+April 2, 1998 (part 3)
+-------------
+
+One thing I neglected to mention earlier was that I was really happy with
+my scores because of other factors:
+
+- I hadn't driven a stick shift in almost 10 years
+- I picked up the car on Monday
+- the drag strip was the first time I've EVER just revved a car and popped
+the clutch
+
+In other words, I'm not the most experienced driver in the world.
+
+I've looked at mods for the Viper, but I'm holding off for at least another
+year or so before pursuing that.
+
+April 2, 1998 (part 2)
+-------------
+
+I wish people would quit ragging on Randy Moss' character "flaws", he's been
+clean for almost two years, give the guy a chance -- we all make mistakes.
+
+Oh, I guess I forgot to mention that I settled on a sports car -- I ended up
+getting a 1997 Dodge Viper GTS (red, no stripes).  Had a great time at the
+drag strip today.  The Viper is quite simply the best sports car you can get
+for the money.  Other considerations were:
+
+- Porsche 95+ 911 Turbo
+
+Fast, fast, fast, and AWD.
+
+Expensive, air-cooled, most people can't tell it apart from a 1984 Targa, and
+we already have two 911s at id.
+
+- Porsche Boxster
+
+Looks great.
+
+Way overpriced, not very fast, Christian has one already, difficult to come by.
+
+- 1992 Lamborghini Diablo
+
+Fast, fast, fast, and sometimes AWD (the VT).  VERY exotic.  Unknown 
+reliability.
+
+REAL expensive, no Lambo service centers in Texas.
+
+- 1998 Corvette C5
+
+Very fast, great car for the money.
+
+Not exotic enough.
+
+- 1995 Ferrari F355
+
+Looks great.  It's a Ferrari.
+
+Still looks, er, sorta like a Mustang or something.  Not all that fast.
+
+- 1992 Ferrari Testarossa
+
+Fairly exotic.
+
+Very old, expensive parts, very expensive car, not that fast, has a Miami Vice
+vibe going for it.
+
+- Others
+
+At no point did I consider a Mustang, Camaro, or other low-cost muscle car, not
+even with supercharging yadda yadda yadda.  At no point did I consider a
+tweaked out Japanese import either.
+
+- The Viper 
+
+The Viper is unique enough to make me happy, costs well under six figures, is
+fast as beyond all belief, and is new (w/ warranty).
+
+April 2, 1998
+-------------
+
+People have been sending me mail bitching and moaning about how Quake 3 won't
+run on their systems because their system doesn't meet Q3's stated minimum
+requirements.  This is an unfortunate by product of technological progress.  We
+are not purposefully and maliciously excluding people with P5/133 processors
+and PowerVR PCX2 accelerators, but we are faced with an age old dilemma - how
+do we offer something better to the people with pimped out systems without
+completely ruling out the large market with older systems?
+
+The easy answer?  We don't.  Q3 will be released during a major transition
+point for the entire PC industry -- the transition from crap 3D acceleration
+to ubiquitous good 3D acceleration.  This is tough, because if we wanted to
+expand our potential market greatly then we would have a software renderer, but
+that's just not reasonable for the degree of technology we will be exploiting.
+Most other engines coming out in similar time frames are also hardware only, 
+and this is the cost of progress.
+
+People bitched when VGA-only games came out, people bitched when Pentium only
+games came out, and people will bitch when hardware only games come out.
+
+People just like to bitch.
+
+For some of the real cool effects that John has done we're looking at lots and
+lots of passes.  That means we need hardware with 2-4x the fill rate of today's
+hardware.  Yes, we will still run on a Voodoo, but no, it won't be "awesome" on
+a Voodoo -- keep in mind that the Voodoo, as cool as it is, is a very very old
+3D accelerat

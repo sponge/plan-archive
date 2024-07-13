@@ -1,0 +1,64 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: markd
+Plan modified: Mon Feb 01 18:53:22 1999
+
+02/01/99
+========
+
+Status of 3DNOW support, 1.02 patch, 2015 pack "Wages of Sin"
+
+The 1.02 version contains:
+
+- AMD 3DNOW support
+- Creative EAX support
+- specific support for 2015's mission pack, "Wages of Sin"
+- save game fix, which fixes crash in Area 57
+- software crashes on Dam
+- various bug fixes
+
+1.02 is FULLY COMPATIBLE with 1.01, so servers will not need to upgrade unless
+they want to.  1.01 save games will be FULLY COMPATIBLE with 1.02.
+
+Originally, I was going to release the 3DNOW support and EAX support as a
+public beta.  Because of the timing of "Wages of Sin", Activision and us
+mutually agreed to hold back another version so that there would only be one
+version 1.02.  That version is currently in heavy beta testing and as soon as
+Activision's QA signs off on it, it will be released to the net.
+
+I apologize for the delay (especially to the 3DNOW users out there).
+
+Wait until you play "Wages of Sin", especially in Deathmatch.  The 2015
+development team have done an amazing job and I think a lot of people are
+going to dig it.
+
+Shameless requests for help
+
+1.  I am interested in finding software (linkable library, source, or stand alone
+utility) which will take a sound file and dump out time coded phoenemes.
+Obviously this is for a lip synching application.  I am curious how other
+developers have dealt with this, specifically if they had this technology
+which they could then animate a characters face on demand or if all animations
+with speech were specifically created for each piece of dialog.  Thanks in
+advance.
+
+2.  Ritual has a bunch o' video (arcade) games and in some of them we have some
+annoying problems.  Super Sprint for example has monitor blanking issues.  I
+was hoping that someone out there in the DFW area would be able to offer their
+services to give me a brief tutorial on dealing with fly back transformers and
+any knowledge they might have on machines.  I am a CE, so I know my away
+around a circuit, but I have never dealt with high voltage electronics like
+monitors.  What is in it for you?  Depending on how much you help ;) an
+autographed copy of Sin, a T-shirt and lunch (or dinner) on us.  Thanks.
+
+=========================================================================
+=  = = Mark Dochtermann = Ritual Entertainment
+=========================================================================
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************
+pleasant email 

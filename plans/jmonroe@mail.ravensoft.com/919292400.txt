@@ -1,0 +1,16 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: James Monroe
+Email: jmonroe@mail.ravensoft.com
+Description: Ld. Programmer/GURU
+Project: Project 3
+Last Updated: 02/17/1999 18:46:00 (Central Standard Time)
+-------------------------------------------------------------------------------
+here's some tips for the day concerning cds,
+
+when labeling, be sure to write on the NON-data side.  i know this sounds obvious,
+but i was recently sent one with a blue data side and a silver side ready for a label, not the normal gold with writing.  so i guess the person made a simple error mistaking the silver side for data.  luckily, the writing was outside the data track, so no harm done.
+
+never use a ball-point pen!  this one might not be so obvious.  but i got one with the gold writing surface, with writing attempts visible.  i didn't forsee any problems, but there was a data error on the disk on certain files.  i flipped it over to inspect the data tracks, and, sure enough, i could see a few letters shining through the reflective backing behind the data medium.  really odd, you can't tell from the gold side, it must have been the pressure.
+
+here's something i found out.  i can't remeber where i read about it, but i have first hand knowledge that some DVD drives cannot read burned (not commercially pressed) cds.  has to do with the laser focus i think.  i really should remember where i read these things...

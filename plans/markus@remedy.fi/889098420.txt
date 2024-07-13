@@ -1,0 +1,27 @@
+Login: markus         			Name: (null)
+Directory: /home/markus             	Shell: /bin/tcsh
+Last login Thu Mar  5 14:41 (EET) on ttyp1 from markus.remedy.fi
+Mail last read Thu Jan  1 02:00 1970 (EET)
+Plan:
+[ Tue Nov 25 11:02:51 1997 ]
+Phew. After months of contemplating we finally got this system online. I'm still a bit sceptical that people will keep interest in writing info here. Anyway, here I am - writing.^
+^
+Moving to new offices gives me tons of work at the moment. I have to investigate new phone system, see what new furniture we need and order it, build a network to the office (involves probably a kilometer of TP Cat5 cable), and of course arrange internet connection there. I don't know if it's the same outside Finland but here it seems to be impossible to get the ISP's to make you an offer. Either it takes forever or then they don't get back to you.^
+^
+We're planning for a direct 512kbit/s connection. It'll have to be enough for Finnish users, for others we have our blazing www.remedy-ent.com with a DS-3 connection (44Mbit/s). Yesterday our total transfer from there was 1.7 Gigabytes. Mostly Final Reality downloads. Gosh.^
+
+
+Login: ppp            			Name: Markus PPP User
+Directory: /tmp                     	Shell: /etc/ppp/markus_pppstart
+Never logged in.
+Mail last read Thu Mar  5 14:52 1998 (EET)
+No Plan.
+
+Login: steinm         			Name: Markus Stein
+Directory: /home/steinm             	Shell: /bin/tcsh
+Never logged in.
+New mail received Thu Mar  5 15:34 1998 (EET)
+     Unread since Thu Mar  5 14:35 1998 (EET)
+No Plan.
+	
+    

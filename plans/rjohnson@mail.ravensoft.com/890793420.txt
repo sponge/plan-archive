@@ -1,0 +1,249 @@
+Welcome to Raven Software's Finger Service V1.4!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: H2World
+Last Updated: 03/24/1998 22:27:59 (Central Standard Time)
+-------------------------------------------------------------------------------
+3/24/98
+   Since people have been complaining that the GL version can be a little
+      chuggy, I've added an option so that you can scale sprite graphics
+      independently from other graphics.  This should cut down on some
+      of the chugginess, while keeping texture quality for most of the world.
+
+   If you do experience lag, you can try changing your "rate" or "pushlatency"
+      rate indicates how much data / second the server is allowed to send to you
+      pushlatency you generally want to set to the opposite of your ping 
+         (i.e. if your ping is 330, set pushlatency to -330)
+
+   These appear to be active servers:
+      Raven:
+         equalizer.ravensoft.com
+         208.135.137.25:26950
+         208.135.137.25:26960
+      Others:
+         208.220.34.36
+         205.138.187.3
+
+   In case you get annoyed by the taunts, you can turn them off by
+      setting the console variable "talksounds" to 0
+
+3/23/98
+   We've replaced the server install program with just a zip file, so you
+      can download the file reference below and start your own server!!!
+      Install the zip into your Hexen2 directory.  Make sure you do a full
+      directory expansion (so that it creates an HW subdirectory with files
+      in it).
+
+   More Servers.  These are only temporary servers:
+      208.135.137.25:26950
+      208.135.137.25:26960
+
+   The GameSpy people are also running a server:  204.182.161.3
+
+   You can download the HexenWorld Client Beta V0.09 from
+      http://www.hexenworld.com/files/hwcl_b1.exe
+   and the HexenWorld Server Beta V0.09 from 
+      http://www.hexenworld.com/files/hws009.zip
+ 
+   Remember that the first letter in Beta is B, which stands for Bugs.
+      Expect some, embrace your bugs, and love your bugs.
+
+   Scripting source code will not be released with this version, as it
+      is still going under constant revisision.  This version also does
+      not support the mission pack (i.e. the new character class), though
+      we will be adding support for that this week and will be available
+      in a future release.
+
+   Be sure to check up on the HW Bug finger (h2w@mail.ravensoft.com).  
+      Refer to the included documentation on how to report bugs, comments,
+      character balance issues, etc.
+
+   I'll be running the first server, which will be under the top entry
+      of the address book in the multiplayer menu.  There are two new
+      deathmatch levels included (hwdm1 and hwdm2).  hwdm2 will give you
+      a preview of some of the graphics for the upcoming Mission Pack.
+
+   One thing that I may have not mentioned is random class.  Every time you
+      re-spawn, the server will pick a new class for you.  You can set this
+      under the Multiplayer -> Options menu.
+
+   PingTool (http://pingtool.telefragged.com) currently supports HW, and 
+      GameSpy will be supporting it shortly (within a day or two).
+
+3/22/98
+   ARGH!   http://www.fox.com/pressrel.html
+
+   Stupid Stupid Stupid Fox!   Like I want to buy another DVD player, so I can
+      play their DIVX movies on.  Like I want to run a phone line to my
+      DVD player.  Like I want to pay $xxx everytime I want to watch the movie.
+      Like I want to pay $xxx to show off a cool scene to my friends.
+
+   "Protect us from those video pirates" Fox cries!  You can't protect yourself.
+      All of us who live in the gaming universe know that every protection
+      scheme gets cracked.  The best way to "fight pirates" is to offer 
+      quality products that people want to own.
+
+3/20/98
+   Hexen2World is now going to be referred to as HexenWorld
+
+   The current plan:
+      1. Release the last version to the alpha testers today (V0.08)
+      2. Work over the weekend to get as much done as possible
+      3. Release a public beta version of the server and client on
+         Monday (V0.09)
+      4. Work on bugs and intergrating mission pack stuff into HW
+
+   Also, if you haven't sent in a response to the question below, please do so.
+      People have been writing a lot about their opinions on the subject,
+      and has been very interesting reading.
+
+3/19/98
+   Weekly Question:  How important is it that games coming out in 6 months
+      or later have software rendering support?  i.e. does the thought of
+      hardware only games scare you?  Or are you looking forward to games
+      that can take advantage of hardware?
+
+   Send your opinion to opinion@mail.ravensoft.com
+
+3/16/98
+   Got the gl version mostly working - few minor glitches.  Next update to the
+      alpha testers will be Tuesday and will include the gl version.  Probably
+      will also include a few new DM levels that will not be shipped with
+      the upcoming Mission Pack.
+
+   If everything goes well with this test, then we may release a beta version
+      of both the client and server to the general public late this week.
+
+3/14/98
+   Started work on the gl version of h2w.  Should be included in the next
+      alpha update to the testers.
+
+3/12/98
+   H2W testing is going great!  Thanks to all of those who continue to help
+      test.  A public release of the client and server is very near, though
+      this will be labeled as "beta".
+
+   Kenn created a new deathmatch level for h2w which is being play tested for
+      the first time today.  Looks great, Kenn!
+
+3/10/98
+   With all this talk about Q2 being banned in Germany, thought I would mention
+      something a little closer to home.  A few months ago, Hexen2 was banned
+      in Sam's Club (yes, in the U.S.) because of its cover.
+
+3/7/98
+   H2W testing is going extremely well.  Finding bugs, creating new ones :)
+
+   I'll be expanding the testing group by another 20 or so on monday.
+
+3/6/98
+   People are now testing the initial alpha version.  Although it has its share
+      of bugs at this stage, everyone I've asked so far indicates that it is
+      very playable over the internet :)
+
+3/4/98
+   Just sent out an email to 41 people to help alpha test this weekend.
+      If you didn't get chosen, don't worry, as there may be something in the
+      near future.  I tried to select a wide range of applicants, from low
+      pings, to high pings, to people in distant countries.
+
+3/3/98
+   Things are progressing well on H2W.  I'll probably notify the people who
+      have been selected to help alpha test H2W sometime on Wednesday.  I'll
+      be choosing around 20 to 30 people.
+
+   The underlying practice that the programmers have been following on H2W is
+      to make the weapons better for net play.  This has meant that some of
+      the weapons may function slightly different or the effects will look
+      different, but nothing too radically different.  In the end, they will
+      most likely look better.
+
+   1.  Checked off the few remaining files that needed updated from H2 to H2W
+   2.  Fixed the rain system
+   3.  Fixed a problem where the player could get stuck in rotated brushes
+   4.  Added ping times to the deathmatch overlay
+   5.  Investigating a problem where a particular teleporter gets you stuck
+
+3/2/98
+   "Windows 95 Aids Age of Empires Conquest"
+   http://www.microsoft.com/windows/dailynews/022798.htm
+
+   Microsoft sure does hype up their Win95 OS as some incredible piece of
+      work, and without it, games such as AOE wouldn't exist.  Now I'm
+      not criticizing AOE (it is a great game - a bunch of us have been 
+      net playing it lately), but wasn't there a similar game that came out
+      several years ago, that was made for DOS?   hmmm, the name Warcraft 2
+      should ring a few bells.  Each game has cinematics, has a lot of 
+      character animation (though AOE has a ton more then W2), each game 
+      is in a higher resolution, cd music, etc.  The only surprising thing
+      in the article was that they didn't mention Direct X.
+ 
+2/26/98
+   We are going to try to have a private alpha test of h2w over the weekend
+      of March 7-8.  This private alpha test will only include the software
+      renderer and the demo levels.  A server version will not be released
+      (which dictates you must connect to a server we will be running).
+
+   If you wish to be considered for the testing, you must be on a modem
+      connection from 28.8 to 56 kbps.  You must have an ok ping time to our
+      internet (try pinging to mail.ravensoft.com).  You must also be able to
+      retrieve files via ftp.
+
+   If you meet those requirements, send an email to h2w@mail.ravensoft.com
+      with the following info:
+         Name
+         Age
+         Location in the world
+         Amount of experience with quake1, quakeworld, quake2
+         Ping results from pinging mail.ravensoft.com  (paste the whole
+            contents from the dos prompt)
+         Computer specs (processor type, speed, ram, modem speed)
+         Operating System (Win95 / NT4)
+
+   Do not expect an email response, as I'm sure I will get swamped.  I will
+      be selecting around a dozen or so individuals.  Also, this is not a firm
+      date for when it will be tested, but just a likely date as the way things
+      appear to be working out.
+
+2/20/98
+   1.  Put in the new splash screen
+   2.  Few misc entity fields weren't being passed through the networking
+   3.  Got all of the rendering changes made to H2 moved over to H2W.
+
+2/19/98
+   Survived skiing, though I still got the DamNathan (tm) cold virus.
+
+   Work is progressing well, though I'm not at 100% strictly because of the
+      cold.  All major components are in and functioning.  Nathan, Ron, and
+      Steve are still busy going through all of the weapons and other effects
+      (i.e. breakable brushes) and optimizing them.  I'll probably start
+      concentrating on getting some of the rendering effects back in
+      (translucency, etc).
+
+   It appears that the best timing to release H2W would be near the mission
+      pack's release.  This will allow us to release one version of H2W that
+      works with both the retail and the mission pack.  The version will
+      probably be both included on the mission pack CD as well as being
+      available for download.
+
+   It also appears that there may be two testing stages:  a private alpha
+      and a public beta.  In both cases, people would be able to get only
+      the client executeable and the "demo" pak file.  More on this later.
+
+2/12/98
+   Last update until Tuesday.  Going up to White Cap for a skiing outing with
+      a bunch of people from Raven - should be a ton of fun!  In case you are
+      interested, it is located near the top of Wisconsin.  5 hour drive from
+      Madison.
+
+   Nathan, Ron, and Steve are examining everything.  I expect that they should
+      be able to do wonders with net optimization.  I've been mainly
+      concentrating on areas of the code that they will be changing, so that
+      it is in a final state for them.  Still don't have an approximate
+      release date, though it is starting to take shape.
+
+2/11/98
+   1.  Gil's been taking some more of my time today still
+   2.  Ron, Steve, and Nathan have all joined i

@@ -1,0 +1,22 @@
+Login: ridah          			Name: Ryan Feltrin
+Directory: /home/ridah/             	Shell: dev/null
+Never logged in.
+No Mail.
+Plan:
+
+Ryan Feltrin
+ridah@frag.com
+
+Programmer, Xatrix Entertainment
+
+
+19-Apr-99
+---------
+
+Request: I'm looking for a fast Aussie server to do some network
+technology testing on. If you think you might be able to help, please
+drop me a line: ridah@frag.com
+
+In other news, it has recently been brought to my attention, that my
+.plan file dating system is not Y2K compatible. You can rest assured,
+I will get to the bottom of this.

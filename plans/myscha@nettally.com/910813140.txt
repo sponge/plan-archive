@@ -1,0 +1,139 @@
+Account Name:  Cannon, T. Elliot
+Email address: myscha@nettally.com
+----------
+Myscha the sled dog
+User: T. Elliot Cannon-Architect
+UNREAL Level Designer-
+Designer/Consultant to EPIC-MegaGames
+
+*The following statements are ownership of the author and in no way should be  considered by a statement from Epic MegaGames.*
+===================================
+Wednesday November 11th, 1998
+
+Mark Rein ask me to take a moment and clarify a note I put in my previous update regarding our "upcoming merge" and the concept of "free" :)
+
+Here's the detailed explanation:
+
+Tim Sweeney, as you all know has been spending months working hard as hell to improve Unreal's networking architecture in an attempt to increase internet perfromance for all users of varying bandwidth. This to date, has included many "BETA" style patches where gamers can test for themselves and send their feedback to Tim, who can then address more specific issues coming from the horses mouthes (the gamers)
+
+His last multiplayer BETA patch has shown tremendous improvement and I feel it's smoothe as silk. He is finalizing this now for an upcoming OFFICIAL patch-to be caled Version 220-whereas the out of the box version was 200.
+
+We will be testing this in deathmatch and Cooperative in the next week in an effort to finally fix and improve and stamp with a MegaSeal of coolness.
+
+This upcoming "merge" is also to include many enhancements and improvements that were originally slated to be included in next year's Unreal Tournament Product, but the team felt that portions of this content should be released along with and integrated with the upcoming 220 version as a reward for;
+
+1. Gamers being patient while Tim improved the networking architecture and code for the long haul
+
+2. Response to many criticisms regarding weapon "power" and "feel"
+
+etc. etc. I will not and cannot reveal EXACTLY what additional Goodies are to be included with Version 220-but I know that the consensus here in Raleigh has been give out as much "cool whip ass enhancements for free" as possible. Mostly geared towards giving folks a brand new bloody way to get online and start maiming each other.
+
+I can tell you that unreal deathmatch feels VERY STRONG now. If you grab Tim's upcoming 220 patch, my understanding is that you'll get tons of improvements and an evil lurid smile should creep across your face as you realize the degree of destruction you can attain.
+
+Unreal Tournament-is a completely different product that using hardly ANY existing content whatsoever. It's completely different. Don't ask me about it-I'm not in charge or at liberty to discuss that. :)
+
+So, for a gamer-look out for Tim's final 220 merged Official Patch to be released-which will include lots of free content previously not intended for release.
+
+Hopefully that will help clarify what I was talking about this past Monday.
+=======
+In other info.
+
+Kira Argounova is a UO character I run on Pacific. My ICQ list for her is closed and basiclaly restricted to UO players.
+
+If you want to contact me drop me email. Thanks!
+
+Monday November 9th, 1998
+
+Been a while since I rambled.
+
+While nobody was lookin-I was able to sneak that 33rd birthday in on Friday. 
+
+KING'S X-TapeHead- GET IT NOW!!
+(of course I am a major King's X fan-owning every single recording available.)
+
+Made a covert visit to Dallas last week and was able to survive a bomb threat at the hotel. At least they were nice enough to make sure it happened after 9am-I needed to get up anyways.
+
+Raleigh? What can I tell you-I've only had a chance to explore a 12 block radius thus far.
+Maybe for the holidays I'll rent a convertible and explore the whole region. The weather has been perfect. Traffic is a hell of a lot better than freaking Tallahassee, Florida!
+
+Work? Well since GT slipped the Cat out of the bag-yes I've been working some on "Unreal Tournament" among other things. I'm really excited, however about this upcoming merged version of Unreal that's going to be released for free on the net which includes many improvements to weapons and the final Multiplayer pass.
+
+Other notes:Game Observations
+
+I really really like what Raven has done with Heretic 2
+
+1. Fantastic Colorful effects-the best fire I've seen to date.
+2. I also relaly like how they resolved the maneurverability issues with players. Being able to jump, climb, and pole vault obstacles gives the gameplay a more vertical and interesting feeling-whereas  "standard" shooters with a default jump height means ramps and stairs and lifts everywhere. I like the Heretic solution the best!
+
+3. I love Melee combat-
+
+Other Games:
+
+Fallout 2
+1. Wow- I missed out on Fallout 1 due to production on Unreal. Outstanding design work on this sequel.
+
+2. Took me about 3 days to come off Ultima style combat to get into the turn based stuff, but once I was able to do so, I have enjoyed exploring the settings and pulling off creative solutions to otherwise standard roadblocks. Not 30 minutes goes by at 1 am when Brandon and I aren't yelling at each other across the office "Yo man check this out!"
+
+The only weird thing I've noticed is the abiltiy for NPCs encounters that are hostile to blaze off the screen (taking all your party members with them) You can't access them, but they continue to kick the shit out of each other.)
+
+During the "Gang Raid on Tyler's men" in DEN, Lara, another gang member and myself were chasing a fleeing member of Tyler's crew. We ultimately reached the far right boundary of DEN and all the NPCs continued fighting off screen. I had to sit there for 20 minutes and continue clicking to forfeit my combat round until they finally killed each other off screen. Not a big deal- but that one has happened to me three times so far.
+
+I absolutely loved the combat, the music, and the designs, the dialogue is very natural and the degree of maturity is a welcome relief in a world filled with kiddie happy little world stuff. If you have a limited profanity coefficient-be sure to click the  profanity filter on.
+
+If you haven't gottent Fallout 2-I strongly encourage you to grab both the original and this sequel.
+
+Baldur's Gate-Still waiting-am excited to see how it plays compared to Fallout 2. 
+
+Inoxx still has the Sin CD-haven't been able to play it yet-once he's done I'll give it a whirl.
+
+That's it for now.
+
+
+Monday November 2nd 1998
+
+Tim just dropped a BETA of the multiplayer patch and I played online on a crappy connection for a few hours and it's really good! My movments were really smoothe and I didn't have to adjust a bunch of highly technical parameters either-I just installed it and BAM.
+
+I can't give out details for fear of verbal abuse from Mark Rein, but lots of OTHER improvements to CORE aspects of Unreal are headed out the door to die hard gamers for FREE!!
+
+If you thought Unreal's multiplayer was poor in the past-grab that latest patch and unzip it all to your Unreal/system directory and give it a shot. I think you'll be really happy with the improvement! There is more to come that's NOT just code--stuff you can KILL with and WELL>
+
+:)
+Grab Da patch here.
+ http://unreal.epicgames.com/versions.htm
+
+
+
+
+Saturday October Halloween, 1998
+Ultima Online the Second Age Rocks booty!
+My favorite aspects of it are as follows;
+
+1. NO DAMN HOUSES!
+2. Hardly any players (yet)
+3. TONS of monsters-some REEEAAALLY tuff.
+4. Instant respawns on some creatures-aka Skeleton ruin-You can totally destroy shades, wraiths, spectres, skeletons by the hundreds without moving too much.
+5. The world's coolest and nastiest CROW PATCH in Delucia!!!
+6. The super fertilized farm in Delucia over 25 billion lettuces sold!
+7. Lot's of unexplored lands
+8. Tons of untamed Horses.
+9. Two other coworkers to play with (Brandon and Alan)
+10.More fun than Britannia! Cool new Monsters that are super tough!
+
+
+Saturday, October 24th, 1998
+----------------------------
+Raleigh, North Carolina is now home for the sled dog and his truckload of siberians. Florida and it's flagrant misuse of humidity has worn it's welcome out after 26 years there (moved there when I was 7)
+
+Now that most everyone is together in the same temp office (Unreal team)we can really start cranking (at least that's the idea)
+
+Virtual Office had it's advantages such as Freedom, scheduling, loud music, subwoofers permitted, comfortable, smoking permitted etc. etc.
+
+But this way we should be able to actual get more accomplished, which is the best for everyone, especially gamers.
+
+Contacting me:
+
+Email addresses that work.
+myscha@nettally.com
+myscha@epicgames.com
+
+UO ICQ 17472325 Kira Argounova-Pacific

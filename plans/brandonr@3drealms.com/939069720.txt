@@ -1,0 +1,42 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Sun Sep  5 12:24 (EDT) on ttyp1 from tpfl.demon.co.uk
+Mail forwarded to brandon@epicgames.com
+Mail last read Fri Aug 20 17:58 1999 (EDT)
+Project:
+Unreal Tournament
+Plan:
+Monday, October 04, 1999
+
+I saw a CTF server running with a 50 playerlimit.  Running servers with more than 32 players is
+a no-no because there are hardcoded assumptions about the max playerlimit.  Maybe I'll talk with
+Steve about increasing it to 64.  (I guess there isn't really any reason to choose programmer
+numbers like 32 and 64 for something like this.)  I seem to recall at one point there being a very
+good reason for us keeping it at 32.  Certainly server performance would be...ah...highly questionable
+at 64 players :)  Anyway, running with more than 32 in the current demo will probably cause a lot of
+odd error messages to get logged when the 33rd person joins.
+
+void IRS_PaymentPlan()
+{
+	int PaymentStatus = CheckForPayment();
+	switch(PaymentStatus)
+	{
+		case PaymentReceived:
+			DemandMoreMoney();
+			break;
+		default:
+			FreezeAllAssests();
+			DispatchNinjaAssassins();
+			break;
+	}
+}
+
+Whoever wrote the HUGE weapons mutator deserves a pat on the back.  Its freaking helarious.
+JbP has posted a Getting Started modifying the UT demo document on the Mutation Device:
+
+http://www.planetunreal.com/mutation/tutorials/getstart.html
+
+I've been working on my own mod authoring doc.  Its not finished, but maybe I'll stick it online
+so people can get started with it.
+	
+    

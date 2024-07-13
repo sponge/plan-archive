@@ -1,0 +1,53 @@
+
+Welcome to Linux version 2.0.0 at lith.com !
+
+  1:52am  up 189 days,  7:49,  0 users,  load average: 0.00, 0.00, 0.00
+
+Login: shade          			Name: James "Shade" Wilson
+Directory: /home/shade              	Shell: /bin/bash
+Never logged in.
+No mail.
+Plan:
+4/11/98
+
+------------
+
+Jay Wilson (Shade)
+shade@lith.com
+Position:  Blood 2 Project Lead / Lead Game Designer
+
+Let me reassure everyone that despite the changes that have occured on the Blood 2 team recently B2 development has not been adversely affected to any great degree.  We are still on target for a Fall release.
+
+Ben Coleman, our new level designer, interned for several months at Monolith making DM levels for Riot, so was familiar with all of our tools, and is already on his THIRD of roughly ten maps he has been assigned and is kicking MUCH ass.  He also brought along a nifty DM level that Riot couldn't use!
+
+Paul Lord finished quite a few systems for B2, and wrapped up his major work before leaving the team.  He is still working with us on a remote basis to bug-fix or tweak anything in his code.  Andy, our new engineer, has started working on interface, which has required little learning time since it is fairly standard code, and doesn't require engine knowledge (and I must say he and Eric are doing some really slick stuff).  He's getting well acquainted with the engine in the mean time, so he'll be ready to start busting out weapon effects soon!
+
+Changing the subject,, I've been playing Starcraft in the precious few moments I have to myself, and I must say that the more I play it the more I like it.  I've played most of the major RTS's, and while I like them, I wasn't expecting a game that would take such standard conventions and make them so engrossing.  Blizzard always makes quality products, and Starcraft is no exception.  They are one of the few companies whose games I purchase the day they arrive, no questions asked. :)  More proof that quality gameplay is the most important selling point of any game.  So, to all of those out there playing SC, what's your favorite race?  Despite the difficulty in using them effectively I have to go for the Zerg, based purely on the satisfaction of hearing pitiful humans scream in terror as my Zerg swarm pours over them. :)  The Protoss seem to be the easiest to succeed with, although I find the races to be generally well-balanced.  Someone who uses the Zerg well can be just as effective.
+
+
+
+
+
+4/10/98
+
+------------
+
+I failed to mention this earlier, but I'd like to welcome Andrew Mattingly to the Blood 2 Team as an engineer.  Andy has already gone a long way towards finalizing our interface and will be working on weapon effects and other miscellaneous things.  Andy is replacing Paul Lord.
+
+Also, I failed to mention that Mike King has left the Blood 2 team, which is why we hired Ben Coleman.  Mike left to pursue other opportunities in the industry.
+
+
+
+
+
+4/6/98
+
+------------
+
+Lots of people have been sending me e-mail about this, so I wanted to post it (hopefully the web doodz won't hunt me down). :)
+
+The official Blood 2 site should be up real soon.  I won't say exactly when, but we're talking less than a week most likely.  The site will have a lot of new info on it, and we'll be doing weekly updates on B2's progress once it is up.  Personally, I think it is an awesome looking site, and the web doodz really outdid themselves, and I haven't even seen it completed yet!
+
+The 'official' press release announcing B2 will also go out soon (we aren't even an official product yet, kinda weird).  But I'll let everyone know, Blood 2's official name is:
+
+Blood 2: The Chosen.

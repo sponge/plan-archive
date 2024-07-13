@@ -1,0 +1,62 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 06/10/1999 10:45:38 (Central Standard Time)
+-------------------------------------------------------------------------------
+6/10/99
+
+I normally don't do this, two updates a day apart, but I felt the need to clarify something.
+Yesterday I said some bad things about Descent Freespace. Well, I stand by my comment that the game crashing bug
+was a bloody stupid thing to allow through QA, BUT, I did give it another chance when I took the disks home last
+night. And I'm glad I did. This is the kind of game that makes me feel like I was born 300 years too early. I spent
+6 hours playing it last night, having a whale of a time blasting the crap out of nasty aliens, much the dis-pleasure
+of my wife.
+Good Job Violition.
+
+By the way, message to the news guys ? Can we stop this habit of publishing Carmacks work log on the news pages ?
+I realise he's cool, and working on the 'game of the moment', but if I want to read it, I'll go and look. Lets face
+it, it means diddly to most people out there..
+
+6/9/99
+Out on the Raz last night at a local bar, and now my head hurts. Why do I do this to myself on a week night ?
+I mean, going out and getting blasted is a good and healthy thing to do, just on a week night ? What was I thinking ?
+An old friend once said to me "Every now and then, you need to go out and get really f***ed up, just so you know
+why you shouldn't". Wise words indeed.
+
+Enough of my HangOver though. Although it does deserve capital letters.
+It appears I am helping out SOF for a week or two. This is cool, since the game is really coming together. Graphically
+it is very rich, and there are one or two technical advances that I wouldn't have thought possible in the Quake II
+engine. There's life in the old banger yet :)
+
+I spent the last couple of weeks doing research on LOD for Trek. Whether or not the technology I came up with goes in
+or not remains to be seen. Its an interesting conumdrum though. The secret is to Pre-process everything. Just like
+everything else we do, pre-process is king :)
+
+While researching LOD, I came across a polygon reduction tool called "rational reducer". Does anyone else out there
+in video game land use this tool ? If you do, drop me a line, I'd love to chat with you about it...
+
+Project 3 is slowly solidifying. I can't say anything about it yet, suffice to say that its going to be different,
+thats for sure.
+
+As an Amendment ;-
+Our server was down today, while we changed ISP's. So I thought, great ! Time to play. I recently took delivery of
+a Logitech Wingman Force feedback joystick, and it came with a bundled copy of Descent Freespace. So I thought, even
+cooler !! I love space sim type stuff. I was weaned on Elite, and played Wing Commander to death. I thought, ok, while
+the Server is down, I'll play this. And cool it is indeed. However, after I had to shut my system down over this ISP
+business, Freespace won't boot again. It goes through the into movie, asks me to select my pilot, and then sits there,
+looping sounds, with a black screen. Well. Or to borrow a Ken H. phrase.. WTF??? I don't know what anyone else says
+but I have to say this is a pretty piss poor bit of QAing on Interplays part. I'm afraid this kind of bug is going to
+relegate the FreeSpace disks to the back of the CD rack, no matter how good the game is. If I can't get to it, then
+whats the point ?
+
+Time to wait for Babylon 5, and Homeworld methinks.
+
+Music of the day ;- Northern Exposure. I've no idea who this lot are, except that its great code music. I borrowed
+the disc from the local Juke Box of Josh Weier :)
+
+Joke of the day :-
+Q: What do you get if you cross a nun with a computer?
+A: A system that won't go down.

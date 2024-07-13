@@ -1,0 +1,62 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 09/14/1999 13:58:30 (Central Standard Time)
+-------------------------------------------------------------------------------
+9/14/99
+
+Finger update time again. Not that I've got anything really constructive to say, but what the hell.
+Firstly, thank you Creative for getting on the ball and sending us some goodies. Always appreciated.
+
+Secondly, SOF is coming along great guns. I'm busy dealing with the sound system issues and also trying
+to get Force Feedback working correctly. The microsoft Force Feedback system is a tad easier to actually
+use, since all the effects are kept in ROM on the joystick itself, its just a call, and wham, there it 
+goes. The Logitech system is a bit more complicated, since you have to create the effect yourself, with
+attack/decay/sustain/release stuff like we used to have back on the old C64. Its more complicated yes, but
+its infinitely more flexible than the microsoft stuff, since thats limited to whats in the ROM. If we do 
+this right, and I'm hoping we can, then we will actually have an editable file so you can create your
+own feed back effects, assuming that you have a logitech joystick. Thats the plan anyway, and its all
+subject to change of course.
+Oh, and we are doing our best to support the Force Feed back Mouse too. The drivers right now are a bit
+iffy, but we are working with Immersion, the guys responsible for these, to get them right.
+
+Star Trek is coming along well too. There is much discussion right now about whether we use the new
+skeletal animation system that Carmack is developing, and what this would do to our timelines if we did.
+While there is an argument for using it, the amount of re-development time it would take us to rebuild
+and animate our models is in question. The guys at Id can afford to do it easily since they only have about
+40-50 frames per guy to deal with. We start at 200 and go up from there. You can see the problem of balance.
+Its basically memory vs re-development time. I'm just glad James Monroe makes that call. :)
+
+I want to make some comments regarding the recent Homeworld and Star Fleet command Demo's. Firstly, the guys
+at Sierra suck. Why ? Cos I'm playing, and having an absolute blast, and the bloody demo ENDS!!! You GITS!!!
+I was getting seriously stuck in there, having a good time, and it just STOPS?? WTF?? I know its a demo, but
+I WAS HAVING A GOOD TIME AND IT ENDED. and I wasn't happy about it. I can see this one getting bought the
+moment it hits the shelves. I feel another Dungeon Keeper coming on here, that was another game that seriously
+threatened my marriage.
+
+Actually, a quick aside, and a story. I used to work for a project manager named Paul Jacobs back in England, 
+when I developed for Firebird Software, when it was still owned by BT (Showing my age here). Anyway I remember
+him telling me a story about a time when he was called up as an expert witness for a court case where a wife
+was suing her husband for divorce over him playing Elite all day instead of attending her. He was called to
+testify that video games were addiciting, and it wasn't his fault. Kinda made me chuckle.
+
+Ok, Star Fleet command. Its visually impressive. The control isn't as intuitive as I would have liked, and
+the demo all appeared to be on one plane, rather than true 3D. Also, I found my photon torpedoes zipping
+through the target instead of hitting it, which was frustrating, and the weapon recharge times also felt a
+touch too long. However, I did find my self desperately *wanting* to like this. I think I'm gonna buy this
+anyway, since it is so cool though. I've watched others having a blast with this, so I think I'm gonna have
+to invest some more time in this one.
+
+And here's a request I don't expect to get granted. The models from StarFleet Command kick ass. There's no
+doubt about it. Now, I'm working on this OpenGL screen saver thing, and I need some low poly count Star Trek
+models... and I was just kinda wondering if there was any chance I could persuade anyone at Interplay to send
+me one or two?? Just for kicks. Nothing to do with my professional life, just something I'm doing on my own.
+
+We'll see what happens.
+
+Tip of the day.
+X-Files fans. Create the effect of being abducted by aliens by drinking two bottles of vodka. You'll invariably
+wake up in a strange place the following morning,having had your memory mysteriously 'erased'.

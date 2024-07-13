@@ -1,0 +1,81 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Eric Biessman
+Email: ebiessman@mail.ravensoft.com
+Description: Prime Minister
+Project: SoF
+Web Page: The Waste
+Last Updated: 12/13/1998 14:01:23 (Central Standard Time)
+-------------------------------------------------------------------------------
+12-13-98 *** SUNDAY ***
+
+Whew, I just spent the last 10 hours typing my fingers to the bone. 
+	What's scary is that I am not even halfway done with what 
+	I am trying to do.
+
+	I decided that the design doc for SoF did not correctly reflect
+	the game that we were working on.  With that in mind, I made
+	it my mission to rewrite the entire document in order to 
+	get everyone on the right track.
+
+	I never realized that it would take so long.
+
+	Luckily, I was able to take a good hard look at everything
+	and do some tweaking here and tweaking there... I think
+	that it will help everyone out on the project.
+
+	It also allowed me to review all of the cool stuff that we
+	are doing with this game.  You kind of lose sight of it when 
+	you are working on it day in and day out.
+
+	Realistic weapons, over-the-top violence, tons of enemies,
+	die-hard combat and action, infiltration... and that is just
+	the beginning.
+
+	Add the fact that *you* get to chose which missions to play,
+	*you* decide how you want to play (stealth vs. action), 
+	*you* decide if you want to be bad guy or a good guy, 
+	it just makes the game better and better.  After all, don't
+	you want to be the person who defines their own playing style 
+	and game instead of leaving it up to us to force you to play
+	a certain way?
+
+	And this isn't even mentioning all of the new technolgy that 
+	we are placing in the game.  New AI, physics, scripting language,
+	model system (GHOUL)... That and a ton of other things. I think 
+	that we are covering all of the bases.  Heck, you should see the 
+	net game stuff that we have planned.
+
+	Military adventure sums the game up in my opinion: heavy combat
+	with immersive exploration and atmosphere.  Get your guns locked 
+	and loaded, we're going in!  
+
+And they say that making video games is easy.
+
+Oh yeah, one more thing.  Beginning this week, I am going to start
+	discussing the development of SoF in greater detail.  This
+	includes new things that we are implementing, sneaking 
+	some screenshots in there, and also how we go about problem 
+	solving... STAY TUNED FOR ACTION!
+
+
+*************************************************************************
+
+If anyone is actual reading this, I hope that you enjoy.
+If you get bored, send me some mail with the subject "Because of 
+your stupid finger..."  I will get back to you, it just may take
+me a little time.
+
+just mail ebiessman@mail.ravensoft.com  
+
+Oh, and if you're REALLY, REALLY, REALLY bored, check out my first
+attempt at a webpage... The Waste
+
+One last thing... check out the mEAT wagon.  Be afraid, be very	afraid. 
+
+mEAT wagon
+The Waste
+HeXenWorld
+DEADLANDS
+
+Please remember that the opinions expressed in here are my opinions alone.

@@ -1,0 +1,28 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Cash
+Email: jcash@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 02/19/1998 22:49:20 (Central Standard Time)
+-------------------------------------------------------------------------------
+Point Release (3.12)
+--------------------
+In case you've been asleep, it's out.  New DM maps, Coop play, and
+bunches of little tweaks and fixes.  CTF was put up at the same time.
+Go get 'em both and play.  Game dll source should be uploaded in a
+couple of days.
+
+Not Quake
+---------
+A couple of more opinions...
+
+Finished Jedi Knight.  "Emporer Hellrot" has a nice ring to it.
+
+I forgot to mention Myth: The Fallen Lords.  It takes a bit to get
+used to this one, but I really kinda like it.
+
+--------------------
+John Cash
+jcash@idsoftware.com
+"Hellrot"

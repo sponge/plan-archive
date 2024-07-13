@@ -1,0 +1,178 @@
+[idsoftware.com]
+
+Login name: bwh       			In real life: Brian Hook
+Directory: /raid/nardo/bwh          	Shell: /bin/csh
+Last login Thu May 29 16:49 on ttyp5 from idtokay
+Plan:
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+July 30 (part 2)
+------------------
+
+One more comment on stipple -- if two transparent objects overlap each other
+and you're using stipple, one will disappear completely since the stipple
+pattern is aligned in screen space.  This is apparent when rendering a 
+translucent sprite (e.g. rocket blast) over a window; in our case, windows
+are always rendered last and thus the window overwrites the sprite since
+they're on the same stipple grid.
+
+To counter this I introduced a "stipple polarity" that is even for alpha
+surfaces (water, windows, etc.) and odd for sprites (explosions).  This means
+that sprites and windows/water can overlap correctly, but windows/water won't
+overlap each other very well, which is actually better behaviour than if we 
+offset the stipple grid for windows differently than that for water.  In the 
+latter case water+windows would become completely opaque, which isn't 
+necessarily a good thing.
+
+July 30
+------------------
+
+Slight correction and clarification to yesterday's plan update.
+
+For starters, I goofed and printed particle times in software on a 
+Pentium/90 and in hardware on a PPro/200!  Oooops.  The actual numbers
+should be about 8ms/frame for software on a PPro/200 and about 20ms/frame
+on PPro/200 w/ 3Dfx and about 40ms/frame w/ Realizm.  These are all at
+640x480.  So sorry about the confusion.
+
+So a particle drawing extension (hi Chris!) is still a good idea, but I
+haven't gotten around to specing out the extension.
+
+I've also received a lot of mail about inline asm, so I thought I'd talk
+a little bit about it some more.
+
+Some more comments/advantages of using the inline asm include:
+
+- you can use the C preprocessor
+- you can put a bunch of asm statements inside a single asm block a la:
+
+__asm 
+{
+   mov eax, value
+   mov ebx, value
+   add eax, ebx
+}
+
+- you can intersperse C and asm:
+
+value = 10;
+
+__asm 
+{
+   mov eax, value
+   mov ebx, value
+   add eax, ebx
+}
+
+printf( "blah" );
+
+HOWEVER, I would NOT recommend mixing C and asm in the same function.  It
+sounds like a good idea in theory, but in practice, it's a kind of evil you've
+never read about.
+
+- I'm using Microsoft Visual C++ 4.2, for those of you wondering
+- According to some e-mail I received, MSVC 5 supports MMX instructions
+- I'm unclear when an LEA is necessary vs. a MOV to load a pointer value into
+  a register.  I just haven't gotten around to experimenting with this, but
+  this is definitely something you need to watch out for -- sometimes when
+  you think you're updating what a pointer's target you're in fact only
+  updating the pointer's target ADDRESS!
+
+July 29, 1997 (part 2)
+------------------
+
+Just tested the performance of particle rendering.  Particle performance 
+on OpenGL is pretty, um, sucky.  On a Pentium Pro 200 we're seeing about
+30-40ms/frame being consumed for particle rendering on Realizm, and about
+20ms/frame being consumed on 3Dfx.
+
+In software, the C-only path is about 18-19ms/frame, and the optimized
+routine I just did in assembly gets about 12-13ms/frame (30+% increase
+in performance).  I could spend another day tweaking it some more and 
+maybe eke out another 5%, but that simply isn't worth it.
+
+It's getting close to time to specing out the particle drawing extension
+for OpenGL.  I think that even a basic set of speedups should garner
+25-50% better performance -- hell, having to do only 1/3rd the transforms
+would help, and in the case of PowerVR and 3Dfx they could even optimize
+their triangle setup (although this may not be worth it since it would
+mean bypassing SGL/Glide).
+
+Doing a glDrawParticlesQUAKE extension won't help that much with timedemo
+or single player performance, since particles don't consume that much time
+in those types of games.  But with deathmatch play, particle rendering is
+going to consume a SHIT load of time.  With the rail gun, explosions, rocket
+trails, blaster trails, and sparks, I could see our particle buffer being
+full for lengthy periods of time (the buffer holds 4K particles right now,
+and we aren't that anxious to crank it up).
+
+July 29, 1997
+------------------
+
+Spent last night and a little bit of today working on the assemblified
+version of the particle drawing code.  It should be a lot faster now,
+but we won't know until we do some comprehensive benchmarking on it,
+which hopefully will occur within the next day or two.
+
+I used inline assembly for the whole thing, and it seems to work 
+quite well.  You get access to static and global variables very cleanly,
+including structure definitions.  No more need for .INC files and 
+stressing over your C struct declarations having the same offset values
+that your ASM modules are expecting.
+
+For example, you could do:
+
+typedef struct
+{
+   float x, y, z;
+} vector;
+
+vector a, b;
+
+__declspec( naked ) void DotAB( void )
+{
+   __asm fld  dword ptr [a.x]
+   __asm fmul dword ptr [b.x]
+   __asm fld  dword ptr [a.y]
+   __asm fmul dword ptr [b.y]
+   __asm fld  dword ptr [a.z]
+   __asm fmul dword ptr [b.z]
+   __asm fxch st(2)
+   __asm faddp st(1), st
+   __asm faddp st(1), st
+   __asm fstp  result
+   __asm ret
+}
+
+Note that the above code isn't tested, so don't go cutting and pasting
+and blaming me for any bugs!
+
+Anyway, point being that the structure declarations carry over straight into
+the inline asm with no muss and no fuss.
+
+One thing you can't do is jump to a label that is out of scope.  This means you
+can't do:
+
+void blah( void )
+{
+   __asm jmp thingy
+}
+
+void foo( void )
+{
+thingy:
+   __asm ret
+}
+
+Because "thingy" is in a different scope than "blah()".  This may be solvable
+but it's not a big enough issue that I'm going to worry about.
+
+A note about optimization -- it's VERY easy to get bogged down when writing 
+asm code with stupid details in places that don't matter.  It becomes a matter
+of habit to do things like watch for pairing, AGIs, 16-bit prefix stalls, etc.
+when looking at code, and you can easily get sucked in

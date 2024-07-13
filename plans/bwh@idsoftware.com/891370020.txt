@@ -1,0 +1,116 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 3
+Last Updated: 03/30/1998 18:24:31 (Central Standard Time)
+-------------------------------------------------------------------------------
+
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+
+March 30, 1998
+--------------------
+
+Saw Brian Bruning's comments on Voodoo Extreme, and I'd like to clarify the
+issue of 16-bit vs. 24-bit framebuffers with regards to id's technology.  It
+is quite true that 16-bit dithered looks nearly as good as 24-bit graphics
+_for most games_.  Even with GLQuake and Quake 2 the issue of 16-bit vs.
+24-bit was largely irrelevant.  However, with Quake 3 we plan on rendering
+with a LOT of passes, so the issue of framebuffer precision is amplified.
+
+Also, he had a factual inaccuracy when he said that "*no game* has used 24-bit
+rendering even though Rendition supports it."  Quake 2 will use whatever bit
+depth a particular accelerator will support -- it runs in 24/32-bit mode
+on Rendition V2x00 and 3DLabs Permedia 2 just fine.
+
+Finally, his statement that "...Quake 3 will look and play incredibly on Voodoo
+and Voodoo 2" was not entirely accurate.  We expect Quake 3 to be playable on
+a Voodoo, however Voodoo will define the bare minimum performance and feature
+set that will be acceptable for Quake 3.  A Voodoo 2 should be sufficient for 
+Quake 3 with most rendering features enabled.  And a true 24/32-bit accelerator
+will most likely look noticeably better than a comparable Voodoo or Voodoo 2.
+
+March 26, 1998
+--------------------
+
+The ZIP file issue has been resolved to my satisfaction (for now).  First off
+I converted PAK0.PAK and PAK1.PAK to ZIP0.ZIP and ZIP1.ZIP by using an
+unpacker that John wrote a while ago in Java.  After unpacking the PAK files
+I rezipped them using InfoZip (sans compression) into ZIP0.ZIP and ZIP1.ZIP 
+(yes, I could've put them into a single file, but what the hell, this was
+faster).
+
+Then I had to write the ZIP stuff.  I went ahead and made the assumption that
+the beginning of the end-of-central-directory header was exactly 22 bytes from
+the end of the file.  This means no ZIP file comments (oh darn), but simplifies
+my life a hell of a lot.  After reading the EOCD header I take that info and
+skip to the start of the central directory.  From there I read the directory
+entries and store them in the pack_t format we have internally, so to the rest
+of the code that uses the file system it could care less if we're using ZIP,
+PAK, or files on disk.  Coolness.
+
+The only gotcha is that the ZIP central directory entries store offsets to
+the local file headers, not to the data themselves.  Obviously if I went
+ahead and read the local file headers to get the proper offsets I may as
+well just scan the entire ZIP and index it anyway, since reading all the
+headers is sort of what I'm trying to avoid.
+
+So instead I do a lazy evaluation of file positions whenever we try to open
+a file within the ZIP file, i.e.:
+
+if ( pack file is a ZIP file )
+{
+   seek to local header position for subfile;
+   read local header;
+   seek to uncompressed data start;
+}
+else
+{
+   seek directly to uncompressed data start;
+}
+
+So that's out of the way for now.
+
+March 25, 1998 (part 2)
+--------------------
+
+I was ambiguous about the DVD/multi-CD thing.  What I MEANT to say was that
+Quake 3 is hopefully going to be a single CD, but any project AFTER Quake 3
+will likely need more storage than a single CD can provide, which means that
+the game-after-Q3 will either need multiple CDs or a DVD.  I hope it will be
+DVD, but that may not be realistic depending on the time frame we're looking
+at.
+
+Thanks for all the pointers on the ZIP file info, however I can't get to the
+central directory structure by zipping to the end of the file unless there
+is no comment in the file.  Irk.  I'm still investigating.
+
+March 25, 1998
+--------------------
+
+Xian was kind enough to let me drive his new p1mp mobile, a Porsche Boxster,
+since I've been deliberating about getting a sports car for some time now
+(roughly about the same amount of time I've been at this company).  Problem
+being, of course, that getting a new sports car typically involves learning
+how to drive a stick shift.  Now, I DO know how to drive a stick shift, but
+I just haven't driven one since borrowing my sister's Isuzu I-Mark ca. 1990,
+so I didn't feel like I REALLY knew how to drive a stick.
+
+So I managed to convince Xian to let me drive his shiny new, candy like 
+babe attraction device, and I found out that driving a stick is like
+riding a bike -- you never quite forget how to do it.  Didn't stall out
+once, and only caused it to really lurch badly one time.
+
+So that pushes me closer to sports car land again.  I'm hoping that my
+rational side will prevail soon, but we'll see what happens.
+
+Yesterday I was not in The Zone.  I couldn't concentrate for shit, too much
+shit going on in my life or whatever.  Today, I was much more in The Zone,
+an

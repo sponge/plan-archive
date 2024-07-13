@@ -1,0 +1,294 @@
+Account Name:  scottm @3drealms.com
+Email address: scottm@3drealms.com
+----------
+Scott Miller, head of Apogee Software, Ltd.
+(3D Realms Entertainment is a division of Apogee)
+
+========================================
+August 13, 1997
+
+I am stunned!
+
+I've never seen so much positive response of an issue--over 1000 messages,
+all supportive except for one.  For those who don't know what's going on,
+visit www.3drealms.com and read the top news item, regarding the patent
+issue.
+
+The full patent and letter that Apogee received has been scanned in and can
+be viewed at:  http://www.nconnect.net/~tookycat/apogee/ 
+
+If you care to voice your opinion to this attorney, Ernest Kettelson's law
+office numbers are:
+
+Phone:  815-467-1400
+Fax:  815-467-1461
+
+Obviously, this patent was one that should not have been granted because
+it's so obvious in nature, and too broad.  The Software Publishers
+Association (SPA) has been following this patent and has a report on
+their site, at:
+
+http://www.spa.org/gvmnt/wash1_8.htm#anchor1744787
+
+I've heard from a dozen patent attorneys who've stated that it's their
+opinion that this patent cannot hold up in court.  Here's the message from
+one such attorney:
+
+----- message begins -----
+
+Saw your plan update.  BTW, I'm the author of the Quake editor BSP, so I
+follow this community.  I'm also a patent attorney, so I was interested
+in what Kettelson's client was trying to do.  I don't think I met with
+you at e3, though I did meet a bunch of people in the community.
+
+Anyway, I looked at the patent ('635) in question.  The claims (all 2
+(not impressive) of them) look narrow in scope.  Don't believe the hype
+in the letter.  Have your patent attorney pull the file history on this
+patent and see what concessions the inventor had to make to get the
+patent and what prior art was cited to the office.  The inventor may
+have shot himself in the foot.  Has '635 been asserted against others? 
+Any successes (previous litigation of the patent will show up in the
+patent's file history, too).  Has the patent ever been reexamined?
+
+To infringe, you would have to be doing each and every thing in one of
+_the claims_.  Their spin on the claims is not relevant.  I would doubt
+that you are doing _every_ thing in those claims.  If you are not doing
+even a single "element" or "limitation" of the claim in question, you do
+not infringe.  Those claims have a _lot_ of words (i.e., probably a
+narrow patent).
+
+Anyway, you probably knew that.  I think you guys will get past this one
+pretty readily.
+
+Between you and me, and I certainly haven't done any research and don't
+know the facts, the patent seems bogus and its assertion makes us patent
+attorneys look pretty low.  I can understand why the gaming community is
+somewhat anti-patent... when this kind of stuff occurs.
+
+----- message ends -----
+
+The press has jumped on this story and nearly every major web site has
+covered it, with more to come, including print magazines.  I'm hoping the
+the patent owner (Craig Enokian of Illinois) and his attorney, feel the
+heat from both the press and game players, and back off this scam.  I'll
+post more news as I get it.
+
+========================================
+August 12, 1997
+
+Next Generation magazine (August issue, page 95) has a preview of Ritual's
+SiN in which is stated:  "Hipnotic...employees include Duke Nukem 3D's head
+level designer..." (referring to Richard "Levelord" Grey, a previous
+developer at 3D Realms now at Ritual--formally Hipnotic).
+
+A small correction needs to be made:  Richard Grey, as fine a mapper as
+there is, was never the "head level designer" on Duke Nukem 3D.  Allen Blum,
+who was a level designer on the first two Duke Nukem games, was the *head
+mapper* on Duke Nukem 3D (and is the head mapper and asst. producer on Duke
+Nukem Forever, too).  Richard was brought in halfway through Duke 3D's
+development to assist Allen and get the game done faster.
+
+Richard himself said, in a level design article for PC Games (Sept. 1996
+issue, pg. 50), "A special thanks to Allen Blum for letting me do my thing
+in his sandbox; he is a god among us lowly lords."
+
+Next Generation's SiN article continues, referring to Ritual's Quake
+Mission Pack No. 1 as "Hipnotic's first post-Duke effort."  How can
+anything they do be considered a "post-Duke effort" if none of them but
+one (Richard) was a core member of the Duke 3D team?
+
+Looks like Next Generation did a sinful job on getting their facts straight
+on this story.  ;)
+
+========================================
+August 11, 1997
+
+I'm trying to avoid hyping Prey too much in my plan, but
+PC Gamer (US version) just arrived and said many glowing
+things about Prey that I want to repeat.
+
+Jason Bates, news editor for PC Gamer, who said in his
+column several issues ago that Prey was greatly hurt by
+certain developer departures, had this to say in the
+current issue after seeing the game at E3:  "Prey...was
+a huge surprise, catching me completely off guard...anyone
+who saw the portal technology and the rest of the engine
+in action could make the case that this was the show
+stealer."
+
+Elsewhere in the issue:  "Easily one of the top three games
+at E3, it would be a shoe-in for game of the show if the
+gameplay was actually in place."
+
+Lastly, in a separate large feature on Prey, PC Gamer wrote:
+"After a stellar performance at E3, Prey--once considered a
+big question mark on the 3D Realms product schedule--has
+become not only 3D Realms' star attraction but a signpost
+for 3D games in 1998.  Prey is a technological tour de force,
+beyond both Quake and Unreal; in plain English, this game
+rocks."
+
+Max Payne, first unveiled at E3, also had strong praise:
+"Another impressive title is Max Payne...it looks like this
+game will be one of the top tier in terms of technology in
+the upcoming year."
+
+PC Gamer mentioned that there was no sign of
+Duke Nukem Forever ("...not even a screen shot...") at
+E3.  That's because it's our intention to keep news on this
+game at a minimum until it's much, much closer to release.
+However, the November issue of PC Gamer will have
+a nice cover story on Duke 4, and this will likely be
+the only significant Duke 4 press coverage until
+several months into 1998.
+
+In other news, Johnny Wilson, top dog Editor-in-Chief of
+Computer Gaming World, will be here in just a few minutes
+to have a look at Prey.  He's heard so many great things
+about it (he missed it at E3) that he is flying down for a
+personal gander and a lunch stop at On the Border.
+
+========================================
+August 7, 1997
+
+It's almost unavoidable that when a large publicly traded corporation
+buys a small, focused company that the small company loses its identity,
+passion, and many of their key people who don't want to work under the new
+rules, system, culture or bureaucracy.
+
+It's worth noting that there are few independent development houses left
+that can truly guide their own destiny and create games without corporate
+pressures and budgets.  The following list of once independent development
+groups is now under a corporate umbrella that in part or in whole dictates
+budgets, release dates and game content:
+
+Core Design -- Eidos
+Dynamix -- Sierra
+Papyrus -- Sierra
+Bullfrog -- EA
+Origin -- EA
+Maxis -- EA
+Shiny -- Interplay
+Blizzard -- CUC
+Raven -- Activision
+...and many, many others.
+
+Apogee has been courted by several much bigger publishers (including
+Sierra), but we're turned down all offers, and we have no intention on
+losing the total freedom we now have.
+
+I hope that the few independent developers that are left plan to stay that
+way.  I know we will.
+
+========================================
+July 24, 1997
+
+Hey, Epic and id are both stealing their character ideas from
+Rise of the Triad damn it!  We had male and female characters way
+back in 1994.  ;)  :)
+
+The fact is that *all* developers copy good ideas from other games,
+both intentionally and unintentionally.  If you're a developer that
+talks about your game's key ideas on the net, then you'd better expect
+that other developers will see these ideas and consider using the
+good ones--we certainly do (see good ideas and use them, if appropriate).
+
+It's unfortunate for Epic and the Unreal team that their game has taken
+so long to come out.  This has dwindled it's technology advantage, and is
+obviously causing some misplaced ill-feelings toward competing developers.
+
+It's also an unfortunate coincidence that Quake 2 has similar characters
+to those in Unreal.  I'm sure id didn't do this on purpose and probably
+had no idea that Unreal had the very same characters (bald male and
+female with ponytail).
+
+In any case, to whoever gets their game out first will go the spoils.
+That's survival of the fittest, and the way it should be.
+
+========================================
+July 15, 1997
+
+What's wrong with AOL?  Here's one big problem:  They're running off
+their top content providers in the gaming industry.  We're the latest to
+receive a "Termination of Interactive Services Agreement" letter.  They're
+closing down our AOL forum August 1st.  Sure, they'll let us keep it running,
+but only if we agree to pay them $55,000 a year!  Yes, we get to pay AOL to
+provide them content and make their service more valuable to their customers.
+That's clever of them.  The result is that we're outta there, along with
+several other top content providers, developers and publishers in our industry.
+AOL is outsmarting themselves into oblivion.  The web is going to kill AOL
+soon enough, but I guess they prefer to put a gun to their own head and get
+it over with sooner rather than later.
+
+========================================
+July 12, 1997 (edited July 14)
+
+(Note:  The following was edited due to it being perceived as too
+inflammatory, which was not the intention.)
+
+Just read on GameSpot (www.gamespot.com/previews/quake2/index.html) a
+Quake 2 preview that contains scathing comments against John Romero by
+members of id Software.  Id claims to be much, much better off with all
+of their departures, saying they have a lean, more dedicated, better
+focused team.  (Id's CEO also speaks on this subject on Inside Games at
+http://www.actionworld.com/insidegames/.)
+
+We've had a lot of turnover lately, too, and this has allowed us to
+significantly improve the talent level within our company by hiring better
+new people.  New people tend to be much more passionate and dedicated, plus
+our ability to hire cream-of-the-crop talent continually improves, as well
+as the talent level of developers who apply for positions here (thanks to
+our continually improving reputation in the industry).
+
+So I can see why id makes the comments they do about people leaving their
+company, and their company being better off because of it.  We've
+experienced the same phenomenon.
+
+========================================
+July 9, 1997
+
+* I just want to reinforce what Jay "Shade" Wilson has written in his plan file
+about the fact that Blood is not a 3D Realms game (which has been incorrectly
+reported by a few press sources, such as CGW).  Blood was originally going to
+be released by 3D Realms as shareware, with FormGen (remember them!) having
+the retail rights.  At the time of the deal's inception, in 1994, Blood was being
+developed by Q Studios, headed by Nick Newhard.
+
+Over the course of the game's development, GT Interactive bought FormGen,
+thus acquiring the game's retail distribution rights (actually, it wasn't this
+straight forward, but the end result is the same), and Q Studios was acquired
+by Monolith Productions.  3D Realms (knee deep in Duke ports, Shadow Warrior
+development and Prey development) and Monolith both agreed it'd be better for
+Blood's success to change the deal and remove 3D Realms out of the creative
+loop.  This allowed them to focus totally on Blood, and allowed us to focus more
+on the stuff we had going.  Basically, the deal became a simple Build engine
+licensing deal for Monolith.  (This is much like what happened with Ruins,
+another Build engine game, by Lobotomy Software, which became strictly a
+Lobotomy game and a Build engine license arrangement.)
+
+We've learned here that you shouldn't try to be involved with too many games at
+a time because you'll lose focus and end up not doing anything really well.  That's
+a big reason why we separated from both the Ruins and the Blood projects, and in
+the end Blood was a better game because it allowed both companies to really
+focus without distractions from the other company.
+
+========================================
+July 3, 1997
+
+* Prey got a full paragraph in the New York Times today, along with
+about 10 other games (from the 1500 at E3).  Just more praise heaped
+onto the project and its next-generation Portal Technology.  Also,
+The Adrenaline Vault has given me a preview of their coming Prey
+write up, which I won't spoil for anyone, but it's basically
+saying that Prey will redefine the 3D shooter market when it arrives.
+
+* Looks like a Duke toy action figure is coming out for Xmas.
+We're meeting with the manufacturer next week to review what
+they've done so far (which is very cool--their whole positioning
+is based on *quality*, and they did the Lost World action line).
+We're also going to have them help us design some very unusual
+characters for Duke Nukem Forever, both for the game and more
+action figure toys.
+
+* PC Magazine has a list of the top 100 influential computer
+companies of all time.  I wrote to them stating that it wa

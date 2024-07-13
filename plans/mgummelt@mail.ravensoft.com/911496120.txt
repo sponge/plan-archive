@@ -1,0 +1,359 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Mike Gummelt
+Email: mgummelt@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 11/19/1998 13:07:34 (Central Standard Time)
+-------------------------------------------------------------------------------
+Oh, we went GOLD last night...
+
+Cut Here:
+8<--------------------------------------------------------
+
+When John Glenn returns from space, everybody dress in Ape Suits.
+Pass it on.
+
+Cut Here:
+8<--------------------------------------------------------
+
+1:55 PM, Tuesday, October 27, 1998
+
+I usually don't have time to update my finger, but this
+kinds of needs to be said:
+
+THERE IS NO LISCENCE AGREEMENT VIOLATION IN RUNNING
+THE TWO SINGLE PLAYER MAPS FROM THE DEMO ON A DM SERVER.
+
+There.  Now unless Activision contacts me and paddles
+me, this is the truth as far as I've been able to
+figure out.  Probably some happy fanboy being an
+asscake.
+
+Now that I've said that, let me caution you:
+
+You shouldn't run the canyon DM.  The problem is that
+the endgame trigger at the end of the canyon wasn't
+disabled in DM.  So any player who doesn't know better
+can step into it and everyone will go to the happy
+end demo "thanks for playing now buy the game" screen.
+
+Also, there are kill brushes on the map at long drops
+that kinda suck in DM...
+
+I'm working on a server-only fix for these.. the endgame
+trigger will be disabled, and those death triggers will
+become random teleports.  When the final version of the
+game comes out, though, those maps will be altered to
+work better in DM.  For now though, wait for the server-only
+DM fix Pat Lipo will be releasing...
+
+Cut Here:
+8<--------------------------------------------------------
+
+3:43 AM, Friday, October 24, 1998
+
+Ok, a real update this time!
+
+Just played MORE Heretic 2 DM... I really think it's
+ten times better than 1st person DM... seeing just how
+close you got to be fried but escaping is really cool.
+
+Anyhow, I'm going to throw my hat in the ring as well
+about taking suggestions.  I've done most of the monster
+coding and wuold appreciate any comments and suggestions
+on those.  But, seeing as how there's no time for
+new animations and such, any new stuff is going to
+be severely limited.  In addition, I'd like to get all
+you comments (I'm going to regret this) on multiplayer.
+I want to make sure it's balanced, fair, diverse, and
+fun.  Of my work on Hexen2 and HexenWorld and Siege, 
+MP stuff has always been a lot of fun, and something I
+feel like I've become a bit of an authority on.
+
+So.
+
+Barring rediculous last-minute suggestions ("Make 3 more
+player classes!", "More weapons!", "Siege!"), please
+send me your suggestions/comments.  I know a lot of
+people have been asking for a real female player model,
+but this is one of those last-minute things that are
+just unrealistic.  What I would like to do is see if we
+can get Brian Shubat to make one after the game is out,
+apply all of Corvus' 230+ anims to her (maybe a new
+skirt node for more costume variations?) and have
+our artists do about 3 or so skins for her.  I think
+that would add a lot and satisfy all you women who
+want to play a woman (and all you sexually confused
+Xena-wannabe men too!!!)
+
+Anyhoo, doors are open to suggestion, e-mail me at:
+
+mgummelt@mail.ravensoft.com
+
+Cut Here:
+8<--------------------------------------------------------
+
+
+12:50 AM, Monday, Octorber 19, 1998
+
+James Monroe wrote a Quake2Unreal.exe (AKA C2UScript)
+code conversion tool last weekend, it takes about
+3 hours, but it's almost perfect.  We'll be working
+on a Q2Build and a Q2Doom utility too, cross-engine
+compatibility is the key to $$$!  Our quake2 engine
+demo will be the first to be released, followed by
+the Unreal a week later, then Build, then Doom, and
+finally a version made with a Q2DeerHunter conversion
+tool.  This game will work on ANY machine and appeal
+to everyone!
+
+More developments tomorrow...
+
+Cut Here:
+8<--------------------------------------------------------
+
+Friday, October 16, 1998
+
+So, work on "InterGalactic Baby CyberMonkey-Seals 
+Must Be Eviscerated: Heretic 2" is going well.
+You should see the box art!  Basically, as the story goes,
+sometime after Corvus defeated D'Spairil, the "BananaRama",
+a spaceship of InterGalactic CyberMonkey Pirates crash-lands
+on the polar cap of Parthoris.  The CyberMonkey Pirates,
+their ship in ruins, explore the polar cap and come upon
+a group of cute, cuddly, little baby seals.  Being pirates,
+they rape them.  When the bastard abomination baby hybrid
+monkey-seals are born, they are barely alive and the 
+CyberMonkeys use the remnants of their ship to give them
+cyber-implants to protect them from the cold.  Then, the
+adult CyberMonkeys die of exposure to the elements.  The
+InterGalactic Baby CyberMonkey-Seals, made emotionally
+unstable by the loss of their loving parents, go on a
+rampage and find their way to the peaceful lands of
+Parthoris, raping and pillaging along the way.  There is
+only one Man/Elf who can stop them.  Corvus.
+
+Speaking of Corvus, his size DD breasts are coming along
+nicely.  Our "Breastagons" are working out very well- its
+a specialized polygon system designed specifically to 
+perfectly mimic real-world mammarian physics and 
+triple sales figures.  We're even doing "Dead or Alive"
+one better by giving you a "breast bounciness" SLIDER,
+not just on/off.  And our breasts are independantly
+dynamic- if you do the right combination of moves, you
+can get the left one rotating clockwise and the right one
+counter-clockwise (or even vice-versa with slight alterations
+to your movement!)  They will be on Corvus' back so the
+player can see them during gameplay, unlike Tomb Raider!
+
+Ok.  Ok, so I lied.  Everything I've just said is a base,
+evil deceit.  Oh well,maybe next game.
+
+NEXT: What we're REALLY doing...
+
+Cut Here:
+8<--------------------------------------------------------
+
+October 2, 11:07 AM
+
+I'm back!  Actually, I'm updating my finger to tell y'all
+to check out a screenshot posted by Mr. Josh Weier that
+shows off some of our cool-ass in-game weapon effects.
+This particular weapon effect is a flaming staff.  This
+screenshot also shows off some of our awesome gibs-
+I must say, our game has the most satisfying death and
+dismemberment I have ever seen in a game to date, no
+joke!  So check out that screenshot at:
+
+http://www.activision.com/games/hereticii
+
+And NO, it's not doctored, it's an actual in-game
+screenshot, unmodified in any way.
+
+The game in general is coming along really well, our
+effects look incredible, are maps are really cool,
+our art is still the best in the business, and the monsters
+are doing some cool stuff now that I've had a chance
+to go back and work more on the Buoyah Navigation
+System.  Monsters should be able to find you
+just about anywhere and get there intelligently.
+The designers are now going through and doing some
+cool and creative monster placement, and we have some
+very cool scripted in-game cinematic sequences- this
+game is seriously going to rock!!!
+
+
+Cut Here:
+8<--------------------------------------------------------
+
+August 11, 9:56 AM
+
+"NAM" Rocks!!!  BUY "NAM"!!!
+(more below)
+
+I'm back!
+
+So I've been married for almost
+three weeks now, and we're still
+unpacking!  Next we buy a couch,
+some nightstands, a few filing
+cabinets and a buttload of
+bookshelves!  Anyway we made
+our first home-cooked meal last
+night in the new kitchen so
+it's starting to feel like home.
+
+The wedding and reception itself
+went off really well, Lynn had
+arranged it on a river boat and
+the weather was perfect.  Couldn't
+have gone any better.  Our
+Honeymoon was very nice too, 
+even though I did get sunburnt...
+
+Ok, so I'm back and working on
+Heretic 2.  So far I've worked
+some on the Plague Elf, penisaurs
+(gorgons), Plague Ssithra, 
+Assassins and now the T'Chekrik.
+(I've also worked on a few small
+but nice player things and Josh
+Weier and I devised a pretty cool
+high-level AI and the awesome
+Buoyah! Monster Navigation System.
+Coming soon to a store near you!
+
+NAM!
+
+Ok, so a few weeks ago I saw NAM
+in the stores, thought "oh,
+that's kinda a cool idea", picked
+it up and looked at the back and
+said "oh my god, what is this,
+Doom?" The graphics were pixelly
+and it certainly didn't look very
+3-D.  Nowhere on the box did it
+say what engine it was using so
+I figured it was a poor Doom
+clone engine.
+
+So I come back from my Honeymoon,
+I look at the box again and I
+realize the guy who did Marines
+Doom made NAM.  Marines Doom was
+a really cool, really different
+mod for Doom.  Also, I had worked
+with Dan Snyder and Lt. Burnett on
+a Marines Doom 2 in which I added
+medics, land mines, spreading
+fire, air strikes, suicide bombers
+that run up to you and explode,
+attack helicopters, hostages, 
+and a few more nice funky things.
+So I figured I'd pick it up if
+for no other reason but to see
+what Mr. Snyder did with the game.
+Then I found out it uses the Build
+Engine which in my opinion is still
+a valid gameplay engine- Duke
+Multiplayer was my favorite
+multiplayer- still is besides
+Siege & NAM.  (Outlaws is up
+there too, though that is awesome
+single player too).
+
+Anyway, I brought it back here,
+a couple of us tried it out and
+everyone's first reaction was
+"my god that is UGLY!"  And it
+is.  But we kept playing.  And
+playing.  And playing.  So far
+now we've played a 2 man coop
+through Tour of Duty I and a 4
+man coop though Tour of Duty II.
+
+********************************
+I can honestly say that this is
+by far the most fun Multiplayer
+I HAVE EVER PLAYED!!!
+********************************
+
+(excluding Raven's own "Siege" since
+I'm a bit biased there).
+
+It's hard to say what makes it so
+much fun.  There are tons of enemies,
+well hidden in the brush, the level
+design is well done to create confusion
+and tension, the graphics are just
+good enough to be forgivable once you
+start playing, there's some nice
+little touches, and the action is
+really hectic and warlike- just
+total chaos.  I love the fact that
+one or two shots can kill you DEAD,
+one of the things that really got
+me into the original Marines Doom
+so much...  And NAM is a lot of fun
+when you play coop and actually get
+people to cooperate, you can get
+some nice results.  Very cool.  But
+most of all, the thing that I think
+adds the most to the game besides
+the general gameplay flow is the
+sound.  The SOUND in NAM just ROCKS.
+They did an AWESOME job with creating
+a war ambience, all the sounds (with
+the exception of the player's voice)
+really is extremely well-done, well
+placed, and adds so much to the
+illusion of war.  Josh W. sits next
+to me and has a subwoofer and hearing
+those bombs go off in the distance
+makes me feel like I'm in Saving
+Private Ryan (sound-wise).  It
+just kicks ass to have everyone 
+running around trying to ID each
+other, trying to coordinate and
+yelling over the sounds of gunfire,
+mines, and air strikes.  The sound
+work in it is rivalled only by one
+other game- one we made a demo for
+but (sadly) never got the go-ahead
+to make.
+
+In short, NAM rocks.  There are
+certain graphic and engine limitations
+when you use the build engine, so I
+can forgive the pixelly graphics and
+up/down perspective shearing.  In
+all other aspects of the game- design
+and sound, though, this game really
+shines.  It's an almost perfect
+example of a game that doesn't have
+to look pretty to be FUN!!!
+
+So BUY NAM!  I'm afraid a lot of
+people won't because the box doesn't
+say it uses the DUKE 3D engine and
+the graphics look DOOM-era, but trust
+me, this game is ten times more fun
+than DOOM and Duke Multiplayer.
+
+(TOMORROW:  MY suggestions for the
+Add-On to NAM that GT MUST MAKE!!!)
+
+BUY NAM!!!
+
+
+BUY NAM!!!
+
+
+BUY NAM!!!
+
+
+
+
+
+What are you still doing here? BUY NAM!!!

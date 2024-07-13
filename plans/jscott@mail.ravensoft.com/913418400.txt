@@ -1,0 +1,151 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: John Scott
+Email: jscott@mail.ravensoft.com
+Description: Programmer
+Project: SoF
+Last Updated: 12/11/1998 19:12:28 (Central Standard Time)
+-------------------------------------------------------------------------------
+Nick: Pagan
+Project: Soldier of Fortune
+
+Disclaimer - The opinions expressed herein are personal and
+in no way represent that of Raven Software or Activision.
+
+11/12
+
+Nathan and Steve converted all of SoF to C++ yesterday,
+this should help us with bug hunting in the future ;)
+
+I`ve put in ARB Multitexturing unto SoF today, so the
+TNT and ATI users should see a very pleasant speedup.
+
+I`m working with Matrox and there ICD at the moment,
+it is very functional, but there are some performance
+issues. I would stick with the g200gl d3d wrapper for
+the moment.
+
+The new 3dfx ICD doesn`t seem to work at all with
+Heretic2 on my SLI setup, this requires further
+investigation. If I finish my christmas shopping early
+tomorrow, I might pop in and do some more work on it.
+
+Courtesy of Raven, most of us have just been to see 
+Insurrection at the local cinema (for various reasons
+*grin*). I liked the film a lot, the special effects
+were excellent, the story was pretty good and it was
+told well, and there was quite a bit of humour in 
+there. The only major downpoint was the amount of cheese
+slipped in by Mr Frakes. Picard`s woman and Data`s childhood
+should have just been cut completely, or at the very least
+shortened to the point where it wasn`t boring. You`ll see
+what I mean if you go to the movie.
+
+I would recommend this movie, especially in a THX theatre.
+
+10/12 
+
+There are a quite a few of us at Raven that read the forums
+at http://forums.hereticii.com/. Any civil question posted
+there is normally answered within one working day, unless
+there is no answer, or we don`t know the answer :(
+
+A word to the unfortunate Germans out there. Your censors
+forced us to lock the blood_level to zero or we would have
+been banned :( What Heretic 2 does is check the Windows 95
+language for "German(standard)" and if it is, forces the 
+blood level to very boring mode. So if you go to Regional
+Settings in the control panel, and change your language to
+anything else (including the other German languages),
+and restart your computer, when you next run Heretic 2 you
+will have gained a violence level slider in the options menu.
+
+Now everyone can enjoy Heretic2 in its full glory !!!!
+
+9/12
+
+Thanks for all the offers for doing Linux ports :) I`m afraid
+I don`t have time to answer many, but most of my questions have
+been cleared up. Apologies for not replying...
+
+As a few people were asking this....
+Heretic 2 uses DirectDraw to create the software rendering 
+screen, elements of DirectSound for the sound mixing (or
+reverts to the wav device under NT) and DirectInput for the
+joysticks. In short, we don`t use much of DirectX at all.
+All of the heavy lifting is done in our code or OpenGL.
+
+A couple of clarifications on yesterdays plan....
+
+1. This is to get things working. The ideal, optimal (but very
+space hungry) way is to define your own. A minimum of 100MB and
+a max of 500MB should be fine. Putting this file in its own
+partition with no other files may gain a little speed too. 
+However, my suggestion is if you are in any doubt as to the
+meaning of what a swapfile is, just let Windows handle it :)
+
+4. I am, of course, referring to the toolkit.
+
+
+
+8/12
+
+I`ve moved on to Soldier now.. but I`m still trying to help out
+with Heretic2 support whenever I can :) I can help with video 
+cards, compiling the tools and a few other generic things. I 
+cannot help with design probs, load save issues or coop issues
+(because I didn`t code any of these).
+
+All seems to be going pretty smoothly with the Heretic 2 release,
+not too many problems are being reported, but of the ones that are,
+here are some common tips to help you out....
+
+1. Always let Windows handle your virtual memory and make sure you
+have at least 100Mb hard disk space free (200Mb recommended). Hr2
+uses a lot of virtual memory when it is loading. Jake & Co will 
+likely be addressing this for the EP.
+
+2. If your video card doesn`t work, try the latest reference
+drivers for your card. eg if your Diamond Monster II shows 
+problems, download the latest drivers from 3dfx. The problem is
+the actual chip used on the card is sometimes well hidden. 
+
+3. Even if you have a p2/450 with a Riva TNT, you won`t 
+necessarily get a low ping in a net game. Ping is to do
+with the quality of your net connection, modem speed and
+number of hops to the server.
+
+4. We use VC6 at Raven to compile the game. Apparently, you
+can compile with VC5 (with VS SP3), but this is not recommended.
+The documentation is wrong in this case. If requested, I`ll
+place some documentation up somewhere on some "how to" stuff. 
+As I`ve been working on the stuff for 11 months , it all seems
+perfectly straightforward to me, so you`ll have to suggest 
+what you want me to publish info on :)
+
+5. There is a problem with the joystick code. Certain joysticks
+were broken in the demo, unfortunately the fix broke something 
+else :( We are working on a fix for this for the 10 or so
+joystick users. This will be fixed in the EP at the latest.
+
+6. "unauthorised access" error in the demo. We accidentally 
+left in some anti piracy code for the demo (ooops). You need
+to download a new dll from the Activision site.
+
+7. Linux version. We are all Windows peeps here at Raven. We
+are extremely unlikely to do one, although subcontracting this
+out may be an option. What is involved in doing a Linux port ?
+All our servers are NT based, so testing would be another 
+problem.
+
+1/12
+
+Heretic 2 retail support..
+http://www2.ravensoft.com/heretic2
+
+Heretic 2 developer support..
+http://www2.ravensoft.com/users/rjohnson/heretic2/wwwboard/wwwboard.html
+
+Some video card timings for Heretic 2 -
+
+http://www2.ravensoft.com/users/jscott/timings.htm

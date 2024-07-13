@@ -1,0 +1,171 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: William Mull
+Email: wmull@mail.ravensoft.com
+Description: Website Admin
+Project: General
+Last Updated: 05/06/1999 10:30:24 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+[Thurs., May 6, 1999]
+In honor of this week's massive History of Raven Software, loonygames cracks
+open some of Raven's Classic Games and gives them a fresh look. This article
+covers CyClones, Black Crypt, Hexen, Take No Prisoners, and MageSlayer. So head
+to loonygames and get ready to get nostalgic!
+
+--------------------------------------------------------------------------------
+
+[Wed., May 5, 1999]
+Just a real quick reminder to check loonygames for the three-part Definitive History
+of Raven, which started on Monday, Pt.2 continues today, and Pt.3 will finish
+up this massive documentary in good stead on Friday, so look for it!
+
+Also, I leave this Sunday for Los Angeles and E3 (Electronic Entertainment Expo),
+and will return the following Sunday, so to those friends and associates I won't
+see during my stay in LA, I'll have Net access, so you can still reach me via email.
+Have a great week!
+
+--------------------------------------------------------------------------------
+
+[Mon., May 3, 1999]
+Be sure to check out Inside Raven Software, which is a week-long feature over
+on loonygames. This definitive history of Raven Software goes all the way back
+from Black Crypt, to Soldier of Fortune, and everything in between. Comments
+from eleven Raven employees are included, along with tons of never before heard
+information about current projects (Soldier of Fortune and Star Trek: Voyager),
+and even some projects never revealed before now. This is one humongous
+article, spread out over Monday, Wednesday and Friday, so head back to
+loonygames all this week for the unabridged History of Raven!
+
+--------------------------------------------------------------------------------
+
+[Thurs., Mar. 18, 1999]
+My buddy Jason "loonyboi" Bergman's here for a big piece on Raven for
+loonygames. So I've been busily trying to arrange all of his
+interviews. It's been great fun having him here, both from a work
+standpoint, and for after hours Q1 & DK demo deathmatching fodder! Not to mention
+loony's burgeoning kick-ass Tekken 3 skillz, which were giving me
+some problems! He seems to be making the transition to 3D fighting games
+amazingly well! ;)
+But, I got my revenge and then some, last night when we deathmatched the
+just released Heretic II Expansion Pack! (Nice transition, eh?)
+Head to HereticII.com and download the Heretic II EP, and the six all-new EP DM Maps! Lovin' it!
+If you can't download the files right away,
+be sure to try the mirrors. The response has been overwhelmingly great so far,
+let me know what you think!
+
+--------------------------------------------------------------------------------
+
+[Mon., Mar. 8, 1999]
+One of the evolving features / trends that's come about on HereticII.com, is a
+growing list of Resource Shrines. What are these, you may ask? Well, they
+just sort of came about of their own accord. They're what I call particular
+hosted sites that offer definitive help, knowledge, and / or file resources.
+They're precipitated by, and dedicated towards a particular need in the
+community. In the same way Shrines provide necessary resources on your journey
+through Parthoris within Heretic II, these help to build up the community and
+make it better, which is what we're all about. I'd like to extend an invitation
+to anyone else out there who has an idea for a Heretic II Resource Shrine.
+Put together a temporary site online (note: please don't send me a ZIP of your
+site! ;-), and send me an email with the URL to take a look at it, and I just
+might host it. Thanks, much!
+
+Resource Shrines
+Cults - The Shrine
+Walkthrough - The Spirit Shrine
+Skins - The Ghost Shrine
+Maps - HereticII Atlas
+
+--------------------------------------------------------------------------------
+
+[Wed., Mar. 3, 1999]
+I've been very much in transition, both at work and at home, since I first
+transferred here to Raven, almost four weeks ago. For the first two weeks, the
+apartment I moved into had been undergoing renovations in both the kitchen and
+bathroom, but the end result is definitely worth all the mess and disturbance
+it caused during that time. Likewise, the new area here at the Raven offices
+is finally coming to fruition, and I'll be getting all settled in to my very
+first real office later today! w00 h00!
+
+--------------------------------------------------------------------------------
+
+[Tues., Mar. 2, 1999]
+We know the natives are getting restless, so we thought we'd give you a word of
+assurance.
+Right now, the EP is done. Jake (The Gent) Simpson has finished with the coding
+that I observed him working on first-hand yesterday. The EP has been turned
+over to QA for one, hopefully final session of bug inspection. But this won't
+be a week-long QA thing - although, obviously no one involved is about to
+release a buggy EP, which is why this process has gone on as long as it has.
+But as you can tell, things are wrapping up, and you should be playing the EP
+VERY soon now!
+
+--------------------------------------------------------------------------------
+
+[Mon., Mar. 1, 1999]
+Hi, my name is William Mull. I'm known online as Phoebus, and my friends and
+family call me Bill. In the future, I'll be using my .plan file to help keep you
+informed on all the projects we're working on here at Raven. But for whoever's
+interested, I'll begin with a quick summary of how I came to work for Raven
+Software.
+
+I worked for a year and a half as Activision's Online Production Coordinator.
+Three weeks ago today, in fact, I transferred to Madison, WI to work full-time as
+Raven Software's Website Administrator. It has been quite a journey from the
+time I first discovered computers, which lead to the spark that changed my life,
+the first time I played Wolf3D, and when I first successfully connected via modem
+with my buddy in Doom. Which lead me to discover Heretic and Hexen when
+those games were released. At the time, of course, I had no idea that I would
+eventually find myself here at Raven, working for the developers of the games I
+truly love the most.
+
+After receiving my undergrad degree in English at the University of Georgia, I
+decided to get my Master's in something to do with computers, and decided on
+Instructional Technology. Although I earned my Master's degree with honors, I had
+already come to the conclusion around the halfway point, that what I really
+wanted to do didn't directly involve my course of study in the least. But it did lead
+to me teaching myself HTML and becoming consumed with the computer gaming
+scene. All of this came at a the right time for me, having played bass guitar in
+the late 80's in the local music scene in Athens, GA (Seven Simons, Kilkenny Cats,
+and Lotus Eaters). I look back fondly to that ten year period of my life, with lots
+of great memories and no regrets. But, I realized that I didn't want to pursue the
+proverbial "Rock and Roll Dream" anymore, right around the time I first
+discovered computers.
+
+I've been involved with Raven for quite a while now, ever since Hexen II was first
+announced on the Net. At that time, I was running my first website, Cult of
+Phoebus. Raven asked me to redesign their site, and I become their webmaster,
+which was my first big break in the gaming industry. My next website,
+HexenWorld, was very much a labor of love. Along with Bakshra, Richard
+Connery, Upaboveit, Filth, and other online peers from those very early days of
+the fledgling and often-troubled Hexen II scene, I've had the unique pleasure of
+helping build from scratch and nurture an entire community.
+
+In addition to helping to develop websites for all of Activision's games, I
+continued working on my own to improve Raven's online presence. I have always
+been connected and devoted to Raven. When they asked me if I'd be willing to
+transfer to Wisconsin and become their Website Administrator - a new position
+here, created for and by me - it didn't take me very long to reply in the
+affirmative. Now that I'm here, although I'm still getting settled in, I have come
+to realize that this is the creative environment I've always dreamed of working in.
+
+If you'd like to get in touch with me, or check out what I've been working on
+lately, here is my email auto-sig., which should give you a good idea of the sites
+I'm now officially working on for Raven Software:
+
+William (Phoebus) Mull
+Web Site Administrator
+Raven Software
+wmull@mail.ravensoft.com
+
+Raven Software Network
+http://www.ravensoft.com
+http://www.Soldier-of-Fortune.com
+http://www.Raven-Games.com
+http://www.HereticII.com
+http://www.HexenWorld.com
+
+Thanks to everyone in the community I've come to know and love. Your loyalty
+has greatly benefitted myself, the games, and Raven as a company. And I'm very
+glad to be here to tell you that. Stay tuned for more great things to come!

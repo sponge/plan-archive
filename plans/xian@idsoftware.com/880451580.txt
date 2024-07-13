@@ -1,0 +1,129 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 2
+Last Updated: 11/25/1997 05:41:53 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+ --- Nov.25.1997 (5:25am) ---
+
+
+"The stress of completing Quake II becomes too much as Paul Steed takes out his aggressions on John Carmacks door with a sword..."
+
+ --- Nov.24.1997 (6:46am) ---
+
+ "Here comes the suuuuunnnn... Here comes the suuunnnnnnn..."
+
+ --- Nov.23.1997 (7:25am) ---
+
+ *yawn*
+
+ Well, here comes that flaming ball of fire in the sky called the sun again.
+
+ Coffee and Coke (tm) are my friends.
+
+ /me stumbles to the coffee pot
+
+ --- Nov.22.1997 (7:24am) ---
+
+ Work log for today:
+
+* did stuff
+* got frustrated when stuff was giving me tude
+* played Q2 deathmatch with the Ritual guys, Vik Long, and Thresh
+  (sCary's kung-fu is better than my kung-fu)
+* killed Thresh a few times (w00!)
+* went back to cursing why stuff was giving me tude
+* got Brian to look over stuff
+* did the happy dance of joy when Brian found source of tude
+* proceeded to do more stuff
+* decided to go home and sleep when I saw the sun peering through my
+  office window
+
+ /me goes to bed
+
+ --- Nov.20.1997 (6:48pm) ---
+
+ Just a quick note. Our DS3 came online today linking us into Mae-East (blech). 
+John Cash informs me that our link to Mae-West should be operational
+in two weeks or so. 
+
+ I'm taking Inferno (our QuakeWorld server) down, and I've replaced it 
+with three new servers (satan.idsoftware.com);
+
+ Death32 	192.246.40.37:27000
+ Deathmatch32   192.246.40.37:27002 (DM2 through DM6)
+ Episodes32	192.246.40.37:27003 (The episode levels)
+
+ I know that quite a few of you have complained about shitty pings to
+our QuakeWorld servers since we've switched providers. The routes are still
+settling and probably will be for the next few hours or so, but we're fairly
+confident that the new links should improve your pings to us now.
+
+ Please let me know if you are a regular on our servers and you've noticed
+any changes for better or worse as a result of the new pipe.
+
+ /me goes back to work
+
+ --- Nov.17.1997 (12:43am) ---
+
+ Zoid just demonstrated to me the Teardrop (IP Fragment overlap) exploit
+by crashing my NT box =) Symptoms of this exploit are a completely locked machine
+(You need to power down to restart).
+
+ Thankfully, Microsoft has released a patch for NT users. You must have Service
+Pack 3 installed first.
+
+
+ftp://ftp.microsoft.com/bussys/winnt/winnt-public/fixes/usa/nt40/hotfixes-postSP3/simptcp-fix/
+
+ --- Nov.15.1997 (1:34am) ---
+
+ Oh my god! It's snowing in Texas!
+
+ --- Nov.13.1997 (later) ---
+
+ I've recieved quite a few e-mails from people about my musical
+tastes and where I get my stuff from. Apparently, FLA's 
+"Columbian Necktie" is hard to get ahold of.
+
+ I order a good 80% of my CD's from Isolation Tank (http://www.isotank.com) 
+They are quite good at stocking a lot of CD's. Definately check them
+out if you are into Ambient, Techno and Industrial.
+ 
+ Tell 'em Xian from id sent ya =)
+
+ --- Nov.13.1997 ---
+
+ Heh, all this talk of Quake II release dates on the various 
+web pages brings to mind an outing Brian and I had last week.
+
+ We went to Electronics Boutique to look around for new stuff
+and I asked the sales clerk for a release date for G-Police.
+He rambled off a date after consulting his "Book of Dates".
+
+ Feeling cocky, I asked him for a release date for Quake II.
+After consulting his sacred "Book of Dates", he proudly proclaimed
+"November 24th!". Brian and I looked at each other and chuckled.
+
+ After identifying ourselves, we shot the shit for a while and
+explained to him that any dates that have been provided are
+pure speculation. We're shooting for Christmas, and will go
+to a gold master "soon", in "two weeks", and "when it's done" =)
+
+ /me goes back to work
+ 
+
+ CD's I'm Listening To
+ ---------------------
+ CyberTec - "Darker"
+ Front Line Assembly - "Columbian Necktie"
+ Wumpscut - "Music for a Slaughtering Tribe"
+ The Grid - "Electric Head"
+ Haujobb - "From Homes to Planets"
+ Delerium - "Duende"
+ The Drum Club - "Drums are Dangerous"
+ Fuckin' Hardfloor - Volumes 1 & 2
+

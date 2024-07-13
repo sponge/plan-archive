@@ -1,0 +1,93 @@
+Welcome to id Software's Finger Service V1.1!
+
+Name: Paul Jaquays
+Email: paulj@idsoftware.com
+Description: Designer
+Project: Quake 2
+Last Updated: 08/26/1997 13:41:31
+-------------------------------------------------------------------------------
+Particulars
+
+Name:  Paul Jaquays
+Position:  Level Designer/Occasional Artist at Id
+E-mail:  paulj@idsoftware.com
+Skill Portfolio/Background:  See bio on id web page for details
+
+Current projects:  Designing and developing several Quake 2 game levels.  Writing back story for game.
+
+**********************************************************************
+DISCLAIMER:  THE FOLLOWING IS THE PERSONAL OPINION OF THE AUTHOR AND DOES NOT REPRESENT THE OFFICAL POSITION OF ID SOFTWARE, ITS OWNERS, MANAGERS, EMPLOYEES, SHAREHOLDERS, DISTRIBUTORS, LICENSEES, OR THE GUYS WHO STOCK THE SODA CLOSET AND THE REFRIGERATOR FULL OF ICE CREAM TREATS.
+**********************************************************************
+******************************************************************
+AUGUST 26, 1997
+******************************************************************
+QUAKE STORY
+
+I've had a request (which means that there's a lot more of you out there who don't write) to explain why I'm saying that Quake 2 is not a sequel to Quake.  The word sequel implies a continuation of what has gone before.  In this case, a continuation of the battle against Quake, the mythical overlord of evil, by soldiers fighting in an undefined army in undefined places.  Although many of the features of Quake 2 will be similar to Quake players (such as a 3D environment, some weapons that function similar to those of Quake, lava, slime and use of game's logo in certain special game powerups), it is not a continuation of the Quake story.
+
+With Quake II, id has chosen to follow a different story line (and they did this before I got here).  Instead of a vague "Kill the minions of Quake" sort of imperative, we have created a brand new story with a solid, homogenous, entirely  futuristic, totally  militaristic story line.  In Quake 2, you are a soldier in the TCM (Terran Confederation of Man) army, a combined force put together from the surviving armies of nations on the planet Earth and those of Earth's colonies on the Moon and the new independent nation of Ares on the planet Mars.  Humanity is commited to what we hope will be the terminal battle of an ongoing war to not only repell alien invaders from our system, but to destroy their ability to make war of any kind. The battle (in this episode) takes place on the planet Stroggos, the alien homeworld, the core of their barbaric "civilization."   Levels are designed to be played in a logical, sequential progression.  And here, your mission doesn't end until the big guy, the core of the problem goes down for the long dirtnap.
+
+OK, now WHY are we calling it Quake 2, when it's not really a sequel to Quake?  Several reasons.  Trademarking.  The names we were going for, the ones that to our thinking, really expressed the concept and theme of the game were owned by someone else (when it appears that  you may have money to actually cover real or imagined damages, "foxxing" really gets ugly. They don't just tell you to cease and desist).  We kept putting forward names to our copyright attorneys and they kept telling us "You're not safe from liability with that one."  The deadline for having our real and true name in time for E3 came, and our hands weren't grasping that one great name.  And there it was waiting for us like an old lover ... our working title ... Quake 2.  It knew we'd come home to it at last.  It should have been obvious.  We've built up a great deal of name recognition with Quake.  We shouldn't just throw that away.
+
+Now let's get back to ol' Quake.  When I was in Role Playing Games, it was common practice for people to play pre-made scenarios (kind of like Quake is a premade scenario).  Often, the writer of the scenario would leave some unanswered questions in it.  Dungeon Masters would latch onto these and make new adventures that resolved those story lines (sort of like home brew Partial Conversions).  Id has left a big story thread hanging here ... where's Quake?  What's he like?  What are his powers? Might be real cool if somebody ran a contest to create the ultimate Quake PC, a couple episodes of single player game action in which the player actually gets to confront the mythical Quake in his lair ... and take him the cleaners.
+
+MACQUAKE
+
+I've been helping Bear just a teeny bit in getting this out, mainly by confirming that it runs on my Mac at home, which is the baseline machine (a 6100 Power PC).  If you don't have a 3 button mouse for your Mac yet, get one to play this game (I like the one from Logitech).
+
+QUAKE 2 EDITOR
+
+I HAVE THE POWERRRRRRR!!!  The new BSP system just landed last night and John Carmack linked it to our editor tools.  Oh, MY!!  The things we can do with brushes now!!  Christian's map that was taking a full day (+)  to BSP, zipped through in 39 seconds!!!  I can make any texture squirm and warp, flow like a river, act like water, do damage, be slippery, glow, be transparent, be really transparent .... the possibilities are near endless.  WOW!!
+
+Duty calls (and boy is my duty ever  fun!!)
+
+I don't listen to a lot of music, so here's the books I'm listening to, and/or  reading in my spare time:
+
+HONOR BOUND  by W.E.B. Griffin (WWII military fiction about the Marines) (on book tape)
+EXECUTIVE DECISIONS by Tom Clancy (more tales of Jack Ryan in Washington.  Picks up where DEBT OF HONOR ended).
+
+
+******************************************************************
+AUGUST 24, 1997
+******************************************************************
+PAC*MAN
+How the past comes back to haunt you.  It's been 16 years since one of these sat outside my office and I had to play it to design the PAC*MAN tabletop electronic game for Coleco.  Now Tim Willits buys one at auction and there it sits ... outside my office.  Its siren call echoes through the hushed halls of the id sanctum.  I play, and find that I'm just as good at it now as I was then.  Which is to say ... not at all.  :)
+
+WORLD SCIENCE FICTION CON
+I'm hoping to get down to San Antonio for a day over the Labor Day weekend  to visit with some of my artist friends (current and former TSR staffers) who will be at the con (Todd Lockwood, Alan Pollack and Stephen Danielle).
+
+Quake 2 Stuff
+First pass archictecture is done for all my levels.  Now it's add the monsters and tweak the textures and wait to see how the next round of BSP changes afffect things (I already know I have to chop stuff out of several of them).
+
+One of the news items on Tin's Quake2 Nutshell pointed me to a website that was putting up reader contributions.  The subject: The plot for Quake 2.  I read through 'em and it quickly became obvious that either A) our message about what Quake 2 was about  wasn't getting through, or B) nearly everyone who contributed was a tad short in their clue inventory. I put together this little piece to honor the occasion:
+
+Sudden Realization
+
+Your ears ring from the force of impact ... or is that echoing rocket fire? Your vision only just now begins to clear. Around you, the shattered remnants of your single man drop pod lay scattered. With your hide safe on the planet surface, their work is done. Your eyes focus and adjust to the light of an alien sun. Anxiously you search the grim, metallic ruins around you in shock and dismay.  It's different, not what you had imagined at all.  Where are the occult references, the satanic symbols, the mish-mosh of medieval fantasy and modern military surfaces? Dammit! Where are the rock band references?!! 
+
+And suddenly it dawns on you.  You finally understand what everyone has been trying to tell you for months.
+
+This ain't just another Quake mission.
+
+It's Quake 2!  And it  ain't no sequel.
+
+
+COMING SOON TO A PENTIUM COMPUTER NEAR YOU
+
+Copyright 1997. id software, inc.
+
+
+******************************************************************
+AUGUST 9, 1997
+******************************************************************
+
+GENCON SEMINAR UPDATE
+There's a Real Audio seminar called RPGs: Past, Present & Future, featuring Dave Arneson & Gary Gygax (creators of Dungeons & Dragons), Peter Adkinson (President of Wizards of the Coast AND TSR), Bill Slaviscek (game designer at TSR working on their new Alternity SF game system) and Thomas Reid one of the "brand managers" of TSR's gaming worlds.  They discuss the birth of role-play gaming industry and one of the topics is supposed to deal with gaming and electronic media.
+
+Find it at: http://www.wizards.com/Leagues_and_Tournaments/Cybercast/GenCon97.html
+
+
+******************************************************************
+REALLY OLD STUFF
+******************************************************************
+Gone.  Check out somebody's archives if you want to read my previous bits of wisdom and flame.

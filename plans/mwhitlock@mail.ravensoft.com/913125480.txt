@@ -1,0 +1,65 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Marcus Whitlock
+Email: mwhitlock@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 12/08/1998 09:43:50 (Central Standard Time)
+-------------------------------------------------------------------------------
+12/08/98
+--------
+
+More Heretic2 netplay stuff. Even on a 500 odd ping I've managed to have some 
+decent DM sessions so I'm pretty happy with the performance, even more so when 
+considering the far more complex nature of Heretic2's 3rd person client-
+prediction compared to 1st person games like Quake2. That said, over the last 
+couple of days, I've been working on some tweaks to client-prediction. Also, 
+it's nice to see people are already hard at work on 'King of the Hill' and CTF 
+mods (saves us the task of doing so and allows us to concentrate on adding new 
+core features (i.e. CTF would involve a whole new game.dll) and improving core 
+functionality and performance). This doesnt rule out a Raven CTF mod totally of 
+course. But anyhow, way to go guys!
+
+12/04/98
+--------
+
+Important tip regarding Heretic2 network play.
+
+Ok - I've been reading the posts on the message boards for Heretic2, esp. 
+regarding network play. A small number of folks are reporting having a little 
+trouble playing with bad ping times. Heretic2 SHOULD still be playable under 
+these conditions, but there are some things that you need to do ensure a decent 
+game with a crappy ping.
+
+Set (at the console) cl_frametime to 1. See what is printed - i.e. your 
+framerate. If your framerate is really good - say 60fps, then try capping this: 
+set cl_maxfps to say 30. How does that play? Better? Good - you can play around 
+a bit more. raising cl_maxfps if you're really framerate conscious. No - still 
+sucks? Ok you may need to experiment a little and reduce it further (if your 
+ping is really lousy). Of course, the best thing is to go find a server (use 
+gamespy that came with Heretic2) server that gives you a much better ping. One 
+more thing - just because ping times are good - still doesn't mean your 
+connection is wonderful - intermittent packet-loss (not lag) can strike at any 
+time.
+
+Explanation: Heretic2's client-side prediction (CP) (and of course, Quake2's CP 
+- people have experienced the same problem with Quake2) can handle predicting a 
+limited number of CLIENT frames ahead while your machine (the client) is waiting 
+for the next update frame sent by the server. So if your ping is really sucky 
+and your framerate is very high (say you've got a voodoo2). it is quite possible 
+that prediction is EFFECTIVELY wanting to predict too many frames ahead and 
+can't cope. Hence, reducing the maximum displayable framerate via cl_maxfps, 
+reduces the number of frames it will try to predict and thus you won't bust the 
+limit I just described. As some observant folks have pointed out - sometimes 
+changing to software rendering makes the problem go away - because of course, 
+software is probably slower than your super-charged, turbo-nutter-bastard TNT or 
+Voodoo 2.
+
+Hope this makes for smoother play for those of you who are affected.
+
+
+Marcus Whitlock, aka Scorpio.
+
+HereticII Programmer / Brit guy - Raven Software Corp.
+
+http://www.gunhed.demon.co.uk/home.htm

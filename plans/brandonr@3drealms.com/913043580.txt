@@ -1,0 +1,109 @@
+User:   greenmarine
+Read:   0
+Unread: 0
+Time:   Mon, 7 Dec 1998 09:17:15 -0800
+Plan:
+Unreal 220 is in the final stages.  Tim is going to finish up the package
+file patcher (so that the 220 zip isn't a 40 meg download) and then we'll
+have a test with the usual beta test suspects.  After that, if everything
+checks out, we'll release it.  I'm thinking you might see it around the
+middle of this week.
+
+There are four types of game mode now.  Novice, Normal, Hardcore, and Turbo.
+Hardcore sets the gamespeed at 110% and increases damage by 170%.  Couple
+this with increased knock around and splash damage from splash-based weapons
+and you get a much faster, rougher game.  Turbo mode does everything that
+Hardcore does, but it also sets the players speed from 400 units to 600
+units.  Playing in Turbo mode is INSANE.  You move like the way DoomGuy
+moved.  Its very crazy fun.
+
+I took out the sparkley trail on the Dispersion Pistol, because it was slow.
+Steve might decide to rewrite it, but if he doesn't want to then it'll stay
+out.  The DP is much less annoying now that the trail is gone.
+
+220 will also introduce (as has been mentioned before by Tim) new sound
+effects for each weapon.  The old sound effects were pretty weak and the
+ones we have now kick all ass.  The Stinger actually feels like a useful
+weapon (although it is still rather ineffective, something that will be
+addressed in Unreal Tournament).  The sound of a weapon really defines the
+weapon's character.  The new flak cannon sound is very cool.
+
+All the issues people have complained about in the past with HUDs and
+scoreboards have been addressed.  The scoreboard key is now F1.  The
+scoreboard is now much more readable and contains extra information like the
+game time elapsed, the map author's name, the map's LevelEntryText line, the
+map's SuggestedPlayerCount and the server's name and MessageOfTheDay.  All
+of these elements are configurable by either the mapper or the server
+operator respectively.
+
+What else?  I've added weapon based deathmessages.  The server operator can
+edit their UnrealI.int and UnrealShare.int files to change the deathmessages
+for their server.  (We've split the massive UnrealI.u file into two smaller
+..u files, UnrealI.u and UnrealShare.u).  Here is how you change
+deathmessages:
+
+In UnrealShare.int you will find a section that looks like this:
+
+[DispersionPistol]
+PickupMessage=You got the Dispersion Pistol
+ItemName=Dispersion Pistol
+DeathMessage=%o was killed by %k's %w.  What a loser!
+
+The DeathMessage= line is the deathmessage for the Dispersion Pistol.  Each
+of the %o codes are replaced by a string when the deathmessage is shown.
+Here is the key to the % codes:
+
+%o - Victim's Name
+%k - Killer's Name
+%w - Killer's Weapon Name
+
+So "%o was killed by %k's %w.  What a loser!"
+becomes
+"Myscha_Sleddog was killed by GreenMarine's Dispersion Pistol.  What a
+loser!"
+
+You could, for example, change the line to:
+DeathMessage=%k smacked down %o with a healthy dose of radiation.
+
+Which would result in:
+GreenMarine smacked down Myscha_Sleddog with a healthy dose of radiation.
+
+You can leave out any of the % codes you want to.  Just be nice, and don't
+make meaningless death messages (people won't play on your server if you
+do).
+
+Other elements of the .int files can be changed...some will work on the
+server some wont.  Just experiment.  The .int files exist so that we can
+easily translate Unreal.  Every English language string in the game is
+exported to .int files.
+
+Tim, Steve, and I have prepared a file for mod authors and licensees that
+lists all the relevant script changes in 220.  This file will be included
+with the patch (and a version that details C++ changes will probably be
+included with the new source distribution).  Mod authors should read it,
+because 220 will break compatibility with nearly every mod out there.  On
+the bright side, UnrealED 220 will load broken mods and point out errors in
+code!
+
+I suspect that we will release a new deathmatch map around the time 220
+comes out as well, but I'm not sure.  Keep your eyes peeled.
+
+If you played Unreal in the past and didn't like the multiplayer, get out
+your CD, brush it off, and try again when 220 comes out.  There are massive
+changes here and the game is much more multi-playable.  220 is essentially
+the patch that answers most of the issues that USERS have raised.  If you
+were frusted by bugs in the past, check out Unreal deathmatch now.  Not only
+is the game's network play faster but its a lot more fun, too.  (Oh, that
+reminds me, Steve fixed the jerkyness when riding on movers in a network
+game.  Its as smooth as silk now.)
+
+I haven't covered half of the issues that 220 answers here, just the ones
+that are probably the most immidiately interesting the players.  Oh, just
+remembered something else cool...the GameSpy reporting code now asks the
+GameInfo class for rules information (see the GetRules() function in
+GameInfo).  This means that mod authors can override GetRules and send their
+own fields/rules to GameSpy clients.
+
+Anyway, there is a bunch more in 220 but I don't remember it all right now!
+
+

@@ -1,0 +1,141 @@
+Welcome to id Software's Finger Service V1.2!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 08/29/1997 14:02:26
+-------------------------------------------------------------------------------
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+August 29, 1997
+-----------------
+
+Okay, quick tech support issue for you folks trying to run GLQuake on a 
+system without 3Dfx, e.g. a RIVA 128, Permedia2, or V2200 system.  By
+default GLQuake et. al. will look for an OPENGL32.DLL in the current
+directory first, and unless you have a 3Dfx board installed, this is 
+NOT what you want it to use.  So rename OPENGL32.DLL in your Quake
+directory to OPENGL32.OLD, and GLQuake should magically begin to use
+the installed system OpenGL implementation.
+
+This should fix problems for you RIVA users running under NT.
+
+August 29, 1997 (early AM)
+-----------------
+
+NO, I CAN'T SEND YOU THE RIVA128 OPENGL DRIVERS!  Sorry, I got like a billion
+e-mails asking me that.  Talk to NVidia or STB or Diamond or whoever about
+getting the drivers.  If they're not released yet, then they're not released
+and there's not much I can do about it.
+
+Today I spent adjusting to a fucked up sleep schedule, which caused me to
+show up for work at 7:45AM, nap from 6 until 9:30, then work again from 10PM
+until 3AM.  And I wonder why I'm not healthy...
+
+In the early morning hours I rearchitected a lot of the refresh interface
+so that it wasn't such a kludge.  It's now a pretty clean and simple interface,
+and it should be pretty stable.
+
+The big news is that fullscreen DirectDraw modes now work, as do the DIB 
+section windowed modes that use an identity palette.  A lot of weird and hard
+to identify bugs went away after the rearchitecture -- goes to show that when
+code gets a little too weird and screwy, that stepping back and figuring out
+exactly what you're trying to do before you keep typing is probably the smart
+thing to do.
+
+I haven't done exhaustive testing of the DirectDraw or GDI stuff -- order of
+operations are A.) get it working on my machine, B.) get it wor
+
+Got an Enorex 500MHz DEC Alpha system today so that I can begin porting our
+stuff over to DEC Alpha.  These DEC Alpha WinNT systems are suh-weeet!  Their
+big oversight is a lack of a "Boot to VGA" startup option, but they make up 
+for it in so many different ways -- no need for a boot disk, EVER, since you
+can boot from CD-ROM through the BIOS ("Install Windows NT from CD-ROM" is
+a boot menu option!).
+
+The system came with a 3COM Etherlink III XL that didn't seem to work, so we
+yanked it and put in a DEC 500 Ethernet card, and we were up and running very
+quickly.  I then yanked out the Matrox Millenium it came with and replaced it
+with a Permedia 2.  I then had to go off and install NT SP3 (since the system
+came with the Evil SP2), and then I had to install Microsoft Visual C++, RISC
+Edition, along with SP1 and SP2 for MSVC 5 RE.  What a pain in the ass, but
+now it's purring like a happy kitten.
+
+Hopefully tomorrow I'll get to work on the DEC Alpha port, and I imagine it
+will take a day or two for it to come together, barring catastrophic problems.
+By next week we should have a test level and EXE that we can ship to IHV
+partners for testing.
+
+Our porting strategy consists of the following levels:
+
+- port to another processor of a similar type (little endian) on the same OS,
+  which will eliminate processor dependencies
+- port to a similar or same but on a different OS, which will eliminate OS and
+  compiler dependencies
+- port to another processor of a different type (big endian) on a different
+  OS, which will eliminate all other dependencies hopefully
+
+Our respective platforms for the above are:
+
+different processor, same OS			- DEC Alpha Win32
+similar processor, different OS			- Linux (Zoid is handling this I think)
+different processor, different OS		- Rhapsody (John is doing this soon)
+very different processor, different OS	- SGI Irix (grab an SGI MTS to do it)
+
+I'm hoping the Linux port will just run on about every CPU out there.  Obviously
+the OpenGL stuff won't run on a Linux implementation that doesn't have a decent
+OpenGL available for it.
+
+MSVC 5 SP2 is out, so go grab it if you're using MSVC 5.
+
+We're still investigating the idea of having Rendition do a separate REF_VTE
+so that V1000 users aren't left out in the cold.  The V2200 should work fine
+
+Speaking of hardware accelerators, we finally got new drivers for the V2200 and
+we got a couple of 8MB Rage Pro boards in.  We're having some issues with both
+of these boards, and until they're resolved we won't be running new benchmarks.
+
+For all you Voodoo Rush folks, we're trying to get a Rush board in here for
+performance testing also.
+
+August 26, 1997
+------------------
+
+Okay, a couple of quick things:
+
+- Fullscreen Rendering
+
+We're probably going to stick with DDRAW for fullscreen software rendering,
+but I haven't implemented it yet so I don't know what issues will creep up,
+but whatever they are we can solve them (hopefully).
+
+- 3D Hardware
+
+I have new drivers from Rendition for their V2200, and ATI sent me a couple
+of their Rage Pro boards to test.  When I get to a stopping point I'll do
+yet another round of tests, and maybe even test on the P2/266.  At this point
+I'm disinclined to do much testing until we can get numbers on Quake2, since
+GLQuake is not necessarily indicative of what we're doing today.
+
+- The Epic Deal
+
+Alright, I blew out of control and was overly abusive to the Epic guys.  One
+thing I keep forgetting is that an interview involves a great deal of spin
+doctoring and bias on the part of the journalist, so often times the interview
+comes off massively skewed.  A plan file, on the other hand, is pure, uncut,
+and unadulterated "what you have to say" -- and in this case, there's no excuse
+except naivete and overzealousness on my part for blowing out of control like
+that.
+
+So my apologies to Perry, Schmalz, and Sweeney.
+
+I guess my opinion of magazine journalists has been steadily dropping lately,
+and I just need to start taking print ads with a grain of salt.  A journalist
+isn't trying to get out information or the truth, they are typically trying to
+get some shit stirred up -- controversy and

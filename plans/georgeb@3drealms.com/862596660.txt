@@ -1,0 +1,92 @@
+[mailhub.gte.net]
+
+Account Name:  georgeb @3drealms.com
+Email address: georgeb@3drealms.com
+----------
+George Broussard, President, 3D Realms
+
+Shadow Warrior update (Friday 5/2/97 - 2:23 pm)
+===============================================
+As far as we're all concerned the game is done and everything that 
+needs to be there is there.  We finished the shareware ending
+animation last night which was the last bit of gameplay content to 
+add.  Now we are on serious bug hunts.  Over the last 7-10 days we
+added lot's of code to finish the game and things got de-stabilized
+as usual.  Not to worry though.  The game is frozen and no more game
+design features will be added.  All we will do from this point is
+play test and fix bugs that occur.  I see a release in the immediate
+future and will keep you all posted every couple of days.
+
+Also, started removing some of the old Shadow Warrior updates, so this
+plan won't clog up people's pages with unecessary text.
+
+5/1/97 6:30 pm
+
+Had a nice visit from the Rogue team today, and we just sat
+around talking about projects etc that we're working on.  It was 
+nice to see some of the guys again, as we've been so busy lately.
+
+
+Shadow Warrior update (Wednesday 4/30/97 - 4:15 pm)
+===================================================
+Today is about the last content addition day we will have.  Lee got 
+back from a voice session with John Galt (Lo Wang) and this should 
+wrap up the voice work for the shareware version.  Hopefully by late 
+tonight/early tomorrow, we will be done.  The only thing left to do 
+content wise, is add ending screens, and the shareware ending 
+sequence. This should also maybe be done tonight or tomorrow.  My 
+plan is that we freeze code Fri-Sat, then start hammering for bugs 
+only.  With any luck a release will follow shortly thereafter.  The 
+team is extremely pumped up as we can smell the release and nobody 
+wants to do anything but work. 
+
+
+4/28/97  11:22 pm
+
+I just heard from Paul Schuytema (Prey Producer) who is attending the 
+Computer Game Develoepr's Conference (CGDC), that Duke Nukem 3D won 
+"Best Action Game" and we got another nifty trophy.  The nominees 
+were : Super Mario 64, Quake, Tomb Raider, Tekken 2, Duke Nukem 3D.  
+I'd like to thank all those who voted for us.  We really appreciate 
+it.
+ 
+Also spent a good part of the day doing interviews about 
+Duke Nukem Forever and responding to hundreds of user emails 
+supporting us, or asking questions.  Thanks for the support and 
+feedback guys.
+
+
+4/27/97 - 10:49pm
+The news is pretty nuch out that we have licensed the Quake/Quake II
+engine for the next Duke Nukem game called "Duke Nukem Forever".  We
+see this as an awesome deal with awesome potential.  Mixing Duke's
+innovative gameplay with the amazing Quake engine should yield a
+massively fun game to play.  See our web site for press releases
+pertaining to this.  Here are some general answer's to common questions
+I've been getting.
+
+Q: Why license the Quake engine and not use your own Prey engine?
+A: It is simply a buisness decsion and a matter of timing for us.  The
+Prey engine is in good shape and the project is marching along, but we
+are skipping a generation of tech with Prey and going 100% hardware
+only.  By the time Prey comes out, the market will be there.  In the
+meantime we wanted to make a new Duke Nukem game, and our goal is to
+have it out in mid 1998.  The obvious choice was Quake.  It is
+production code that is stable and out.  id Software is 5 minutes away
+and we have a good relationship with them.  It seems like a slam dunk
+decision.
+
+Q: Will you maintain Quake's free play on the Internet model?
+A: Yes.  Duke Nukem Forever will be on TEN, but will also be available
+across the net in the same fashion Quake is.
+
+We aren't discussing any more about the game at this time.  We have been
+doing R&D and design work since December and suffice to say, we have a
+fairly solid game design plan to follow.  We know what we want to do to
+push Duke Nukem as a character and a game, and for the most part we know
+how to do it all.  We will be posting some survey's to see what you want
+in 1) a Quake engine game and 2) a Duke Nukem game.  We will then go into
+a cave for the next year and work steadily on the game.  When we emerge,
+you should be able to play something really cool.  The official release
+for the game is, as always "When it's done".
+

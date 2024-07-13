@@ -1,0 +1,275 @@
+Login: ljackson       			Name: Lee Jackson
+Directory: /usr/home/ljackson       	Shell: 
+Plan:
+Fri 10-17-1997 5:43:41 am
+
+An uneventful week has passed, except for my coming down sick
+again this Wednesday.  Don't know if it was a reprise of what hit
+the family earlier or some new bug flying in for a visit.
+Probably the latter, since I seem to be mostly over it.
+
+Kurzweil released a new flash ROM (v2.52) for the K2500RS, which
+includes among a few bug fixes a feature called KB3 mode.  In
+short, this turns your K2500 into a Hammond B3 organ, with full
+drawbar functionality.  You've heard a B3 before if you've ever
+listened to any rock music from the late 60s or early 70s,
+especially "A Whiter Shade of Pale".  Good stuff.  If there is
+any chance of working this into DNF, I'm going to try.
+
+Been looking at another potential plug-in for Sound Forge.  This
+time, it's from Opcode .
+It's a vocoder that looks pretty cool, and has a lot of potential
+for use in Prey (and maybe even DNF).  If you're interested,
+check out the page, and then check out their dealers:  the price
+that Opcode is selling it for direct is about $40 more than the
+dealer price.
+
+Finally, some folks have been asking me to plug their sites or
+products here.  Sorry, but that's not my style.  I may talk about
+some of the stuff I use or am looking at, but these things are
+almost always either currently being used in the studio or will
+soon be used.  Either that, or they're on the wish list.  I make
+very few exceptions to this:  the only one so far was to announce
+the fact that my kid's system was moving up in the world.  For
+the most part, though, unless it's something that I use (or am
+going to use) in the execution of my job, don't expect to see it
+here.
+
+For those of you who really want to know what I do in fact use,
+hold tight - I'm working on rewriting my web site and will
+include a complete list of hardware and software.
+
+
+Fri 10-10-1997 5:40:34 am
+
+Once again, it's way too early (or way too late, depending on
+your perspective), and I'm editing my .plan file.  I have no idea
+why:  it just seemed like something I should do.
+
+Paul and I hit Mars (the music store, not the planet) and demoed
+a few sample/loop CDs. We found a couple that we really liked
+from Voice Crystal, but
+they were temporarily out of stock.  Paul plans on hitting their
+web site when he gets a chance.  The CDs in question are "Mind
+Control" and "Noise Loops".
+
+Big dealings have begun for a bit of music in Duke Nukem Forever.
+I won't say exactly what they are, because (1) they might not
+come through, and (2) I don't want to spoil the surprise if they
+do come through.  Don't send me e-mail asking what the dealings
+are, because I'll most likely just route the mail to /dev/null
+and give you a link here
+instead of answering.  Just watch this space - that's all for now.
+
+
+Mon 10-06-1997 3:18:39 am
+
+I sent a copy of Shadow Warrior off to Dr. Demento on Friday.
+Here's hoping he likes it.
+
+Spent some time this weekend setting up my kid's new system.
+It's a Zenon K6-200, 32MB RAM, 2.5gig HD, 16X CD system with an
+ATI 3D Xpression video card and Win95 OSR2.  Runs quite well, and
+contrary to popular belief, it plays Quake (and Shadow Warrior)
+without a hitch.  Besides, it was cheap ($955 including
+shipping), and we couldn't afford much.  The only drawback is
+that my 486DX/4-100 is now the slowest system in the house.
+Sigh.
+
+Also spent some time this weekend searching for sample CDs for
+use in the Kurzweil K2500RS.  I think I found some at our local
+pro-audio UltraMegaSuperStore (Mars), which I am going to try and
+drag Paul out to on Monday for a listen and maybe a purchase.
+Regardless of what we get, I'm hoping to use it on both Prey and
+Duke Nukem Forever.
+
+
+Date:  Thu 10-02-1997 Time:  12:35:45 am
+
+I'm spending some time listening to CDs lately, trying to purge
+my mind of all of the oriental music I've fed it over the past
+year.  I need to get some serious shredding in there in its
+place, so I'm listening to some of the same things I listened to
+during Duke 3D development, along with a few new things.
+
+As I write this, Pantera's "Cowboys From Hell" is playing, and
+several others are cued up.  This list includes CDs from Tool,
+more Pantera, Ministry, Megadeth, and even more Pantera.  There's
+a common thread there, but I just can't seem to figure out what
+it is...
+
+Gotta take a minute to hype something.  If you're ever in the
+market for a pair of powered speakers, for whatever reason, get
+yourself a pair of Event 20/20bas studio monitors.  They run
+around $795 a pair, which may seem like a small fortune, but
+that's actually cheap compared to other pro-audio speakers.
+
+Listening to CDs on these things is downright scary.  These
+monitors reproduce so cleanly that, IMHO, sitting between them is
+almost a religious experience.  Everything, warts and all, comes
+through in pristine fashion.  I find myself spending more time
+being in awe of the sound than I do actually paying attention to
+the music.  I hate to see how I'll respond to other speakers
+after I've really gotten used to these.
+
+Nothing replaces a good pair of ears, and while mine are by no
+means golden, a set of monitors like these certainly can't hurt.
+Hopefully, they'll be a big asset when it comes time to do sounds
+and mixdowns for Duke Nukem Forever and Prey.
+
+
+Date:  09-26-1997 Time:  0:08:50
+
+Another Balls of Steel recording session is done, and the files
+are out the door.  Just a few final additions to the voices prior
+to Wildfire finishing up the project.
+
+I've yanked the MIDI file from my .plan to prevent user
+irritation.  It may have sounded cool at first, but trust me -
+you'll get tired of it if you hear it enough.
+
+Looks like I'll be keeping my work-related info here on
+3dportal.com for the time being.  My ISP is setting something up
+for me to post personal drek on.  We'll see how it works.
+
+Still problems with the AWE64 - there's a nasty hiss coming from
+the right channel.  No hiss from the left.  Might be something in
+my wiring, but the only way to tell is to yank it and replace it
+with one of the others that Creative Labs sent us.  That may get
+done tomorrow.
+
+
+Date:  09-24-1997 Time:  22:07:00
+
+Thanks to Brad Wernicke, my finger info is back up, albeit on
+3dportal.com instead of my ISP.  I'm still trying to get my ISP
+to solve their problem.
+
+
+Date:  09-18-1997 Time:  22:27:00
+
+Shadow Warrior has been sent to NARAS.  Maybe that'll get them
+moving on adding a couple of multimedia categories to the Grammy
+awards.  The only way to get their attention is to send stuff in.
+
+Finally managed to get an AWE64 Gold in my MIDI machine.  Had a
+hell of a time doing it, due to a problem with Windows 95's MIDI
+subsystem.  Turns out that Win95 won't let you have more than 10
+MIDI devices activated, but it will let you go ahead and install
+more than 10 without saying a thing about it.  That is, until you
+try and access anything that involves MIDI, when it gives you
+GPFs in MMSYSTEM.DLL.  I sure hope they fix this in Win98.
+
+In case you're wondering, 8 of the MIDI ports are part of the
+Music Quest/Opcode 8Port/SE rackmount MIDI patch bay, and one was
+a virtual piano driver that Cakewalk installed.  That left 1
+port, and the AWE64 tried to install 3.  Had to disable the
+8Port/SE, reinstall the AWE64, disable 2 of its ports (FM and
+external), then re-enable the 8Port/SE.  Everything works now.
+
+
+Date:  09-17-1997 Time:  18:36:01
+
+I've been back in the office since Monday, basically getting
+things back in shape to work on again.  No really new
+developments yet, but a couple of things to note.
+
+First, Paul and I had our first discussion on sounds and music
+for Prey.  We're still in the early, early, early planning
+stages, but at least we're in sync now.
+
+Second, it looks like I might be doing one last round of work for
+Balls of Steel.  Nothing big - probably just beefing up the voice
+content a bit.
+
+Finally, now that Shadow Warrior has hit the shelves, I can
+finally talk about the "secret track" on the CD.  If you play
+track 14, you will hear a song called, appropriately enough, "Lo
+Wang's Rap".  Enough said.  
+
+
+Date:  09-12-1997 Time:  12:53:07
+
+I'm nearing the end of my first vacation in ages, and it's been a
+pretty horrible one.  Not even halfway through it, I catch a case
+of acute bronchitis from my wife.  Today marks the first day
+since the 5th that I've been able to get out of bed and do
+anything productive.
+
+Assuming that my lungs clear themselves out this weekend, I'll be
+back to work on Monday the 15th.  I have a lot of things lined up
+for when I get back - preliminary work on Duke Nukem Forever's
+music and sounds, discussions with the Prey team, and a million
+other things that have been put off until I finished my work on
+Shadow Warrior and Balls of Steel.
+
+Finally, I'm planning on doing something totally futile.  I want
+to submit Shadow Warrior to NARAS (the Grammy Awards people - see
+personal info below) for nomination consideration.  It has a
+snowball's chance in hell of actually getting nominated for
+anything, but I hope to at least make it appear on the ballots.
+
+Why bother to do this?  Well, there isn't a Multimedia category
+in the Grammy Awards yet.  IMHO, there should be.  By submitting
+Shadow Warrior, I'll hopefully stir things up a bit and get the
+necessary committees to look into the situation.
+
+That's all for this go-around.  Watch this space for updates.
+
+(This finger page is a bow to those on IRC who've said I should
+set one up.)
+
+PERSONAL INFO (for those who care)
+==================================
+
+ Name:                 Lee Jackson
+
+ Date of Birth :       November 19, 1963
+ Place of Birth:       Austin, Texas (USA)
+
+ Current Position:     Music and Sound Director, Apogee Software,
+                       including the 3D Realms Entertainment and
+                       Pinball Wizards divisions
+
+ Music/Sound Credits:  Apogee Fanfare (current version)
+                       Rise of the Triad (LC, VPT)
+                       Stargunner (SC, cinematic FX, VPT (music))
+                       Duke Nukem 3D (CC, CFX, VPT)
+                       Duke Nukem 3D - Plutonium Pak/Atomic Edition
+                        (SC, LFX, VPT)
+                       Shadow Warrior (SC, LFX, VPT)
+                       Balls of Steel (CFX, VPT)
+
+ Current Projects:     Duke Nukem Forever
+                       Prey
+
+key:  CC  == contributing composer
+      LC  == lead composer
+      SC  == sole composer
+      CFX == contributing sound effects
+      LFX == lead sound effects
+      VPT == voice performance talent (did a voice heard in game)
+
+As you can see from my credits above, I work for Apogee Software.
+I began on May 10, 1993, as a Technical Support Representative.
+I was in the tech room for over 2 1/2 years, but on January 15,
+1996, I became Apogee's/3D Realms' first Music and Sound
+Director.  According to Joe Siegler, I have the privilege of
+becoming the first person ever promoted to development from tech
+support.  I'm honored .
+
+I accepted in mid-1997 into the National Academy of Recording
+Arts and Sciences (NARAS) as a full voting member, based on my
+work for Duke Atomic and Stargunner.  NARAS is the organization
+that gives out the Grammy Awards every year.
+
+My job responsibilities include composing music and designing
+sounds for in-house games, as well as for some done by outside
+development teams.  I also coordinate voice talent and direct
+voice recording sessions.
+
+George Broussard would tell you that I'm also quite good at
+spending the company's money on gear and software.  I keep
+telling him to shop and compare - he'd soon see that I'm a cheap
+date.  
+

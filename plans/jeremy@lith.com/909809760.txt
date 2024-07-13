@@ -1,0 +1,42 @@
+Login: jeremy         			Name: Jeremy Blackman
+Directory: /home/jeremy             	Shell: /bin/bash
+Never logged in.
+No mail.
+Plan:
+10/30/1998
+----
+There was a bug in the Shogo alpha patch involving the
+SoftSnd.dll sound module.  If you have been unable to
+initialize sound, snag the replacement from:
+
+ftp://ftp.maison-otaku.net/pub/shogo/patch/SoftSnd.dll
+
+Be warned; that's my personal machine and a) I've put
+limits on the FTP load, and b) if it gets pounded into
+the ground under downloads, I'll be highly annoyed. :)
+
+Hopefully it'll be mirrored to Blues and Planetshogo and
+whatnot soon. :)
+
+--Loki
+------------------
+Old archives are at:
+
+http://www.users.lith.com/~jeremy/plans/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

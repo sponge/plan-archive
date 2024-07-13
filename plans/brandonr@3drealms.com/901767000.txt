@@ -1,0 +1,51 @@
+Login name: arkiva    			In real life: REINHART
+Directory: /homec/arkiva            	Shell: /usr/bin/ksh
+Last login Wed Jul 29 23:36 on ttypf from dv052s53.lawrenc
+Project: Getting everything in FF7.
+Plan:
+Brandon "GreenMarine" Reinhart
+greenmarine@planetunreal.com
+Contract Programmer, Epic MegaGames
+Contract Programmer, Creative Carnage
+Lead Programmer, Lead Designer, Skaarj Corps
+
+Note: I'll not be posting any more opinion related information
+here.  I think you will be more interested in my work log.
+If there is an interest, I will include my SkaarjCorps work log.
+
+Project: Epic MegaGames
+Title:   Work Log
+Updated: 07/29/98
+
+* Done
+/ In Progress
+- Scheduled
+? Unknown
+
+- Toss Encrypt() "rearchitect bad architecture" :)
+- Fix Listen/Open and Close
+- Implment receiving with TMOD_Text and TMOD_Line
+- Fix Received* notifications
+- Reclass TcpLink and UdpLink under InternetLink
+- Rewrite TcpLink and IpDrv.dll to improve support for
+  mod authors
+- Rewrite ServerBeacon to greatly reduce broadcast activity
+* Rewrite UdpLink, derivatives, and IpDrv.dll to improve support for
+  GameSpy and other query programs.
+
+Feedback:
+Would appreciate feedback regarding projects the community
+is currently working on that would use InternetLink classes.
+This will help me determine other features that might be
+useful, although ideally the interface will be as simple as
+possible.
+
+Goal:
+My focus at this point is to rewrite the TcpLink class so that
+mod authors have an easy base upon which to construct net aware
+modifications (IRC clients, sideways server links?, etc). 
+
+Goal Date:
+08/07/98 - Complete above tasks.
+	
+    

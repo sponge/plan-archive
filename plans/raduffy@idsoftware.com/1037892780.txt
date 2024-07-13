@@ -394,5 +394,4 @@ QCon 2 on 2 SMACK DOWN.
 Last year Tim and I had an open challenge in the nVIDIA booth in 2 on 2 CTF. The prizes were T-shirts for the winners. We only lost one out of about 25 matches. This year, we have some great prizes as we figure it is time for us to whip everyone's butt again in 2 on 2 CTF courtesy of nVIDIA and all the QuakeCon sponsers and volunteers.
 
 Here are the details:
-
-This year we will have two id teams, Tim and myself and Todd and Marty. We will take on any and all 2 person teams in 2 on 2 CTF. Matches will probably be to either 6 or 8 with a 5 minute time limit. This will
+<b

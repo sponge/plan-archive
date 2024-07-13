@@ -1,0 +1,105 @@
+User:   amaxwell
+Read:   0
+Unread: 0
+Time:   Tue, 1 Sep 1998 13:28:56 -0700
+Plan:
+  Well folks, it's another week and another review.  Let's just jump into
+it.
+
+	The first question on some people's minds is, I'm sure, what happen to last
+weeks review?  When I did the review for the week before (8/21) it was so
+late that it seemed pointless to me to do another one 3 days later.  SO I
+held off until this week.
+
+   We're working on adding and tweaking a bunch of the gameplay right now.
+I can't go into too much detail (which I'll explain below), but we're
+basically continuing our quest to make the game as fun and enjoyable as
+possible.  I spent last week going over all of the special abilities and
+powers.  As it stands right now, the game has an awesome assortment of
+items, weapons, abilities and powers.  In othe words, not only is each
+member of your gang going to be unique in appearance and basic function,
+their higher level abilities will set them apart as well.
+
+    From a technical standpoint we spent a lot of last week worrying about
+viruses. ;)  No, seriously with all of the CIH and Marburg news we were
+surprised to find our systems virus free (well except for one system with an
+annoying word-macro virus).  but actual technical work included more engine
+tweaking for performance (hey I'm a designer, I know what they're doing, but
+I'll be damned if I know how. ), and some more polishing of the level
+editor.  We also did a rework of the shell, but that's a change that I'm not
+sure anyone will notice since there have been very few screenshots of the
+shell released, and only the folks at E3 or who have stopped by our office
+have seen it in action...
+
+   So...  On to the forums.  There were a lot of interesting posts on the
+sec-net and elm (now www.deathlands.com)message boards.  A few that caught
+my eye compared Third World to 2000AD (Well, compared our Wardroids anyway)
+and Darklands (one of the coolest rpgs I've played by the way).  While these
+were interesting comparisons that I'd be proud of, they don't really match
+up.  Third World may share some elements with both, such as atmosphere, or
+the size of your gang, but beyond that Third World is set in a world that
+hasn't been seen before.  It's a world with its own detailed history and
+problems.  We don't need anyone else's. ;)
+
+   The other thing that I've noticed is that a lot of people want this game
+to way more then it can ever possibly be.  That's a pretty blunt statement,
+so let me explain a bit:  A lot of the post mention cool features to add to
+the game (called shots for example), but the context that these features are
+described in is the context of an online world like Ultima Online.  I blame
+myself for this really since I know I haven't been all to clear on the scope
+of the game.  That's something I intend to remedy now.  Third World will
+include an online portion with _SOME_ world persistance.  What does that
+mean?  Well, I'd rather you see our online world before I describe it, but
+that means that the world is going to be changing at a drastic pace at
+times.  Which means, no, you can't buy your own castle and prey on innocent
+travellers.  I'm sorry. ;)  Another thing that seems to confuse people is
+the style of play.  In Ultima Online, for example, you have no clear goal,
+other then "have fun".  You're dumped into the world to do as you please.
+Which is cool, trust me, I dropped a lot of cash into Ultima Online. ;)
+Third World is a little different.  TO begin with, you're controlling a gang
+of five characters that contracts mercenary work through sec-net, a
+monolithic on-line recruiting and employment database.  In other words, you
+may not have a clear end goal, but part of what you do in the game is
+already explained for you.
+
+   Even controlling 5 different characters makes a huge difference.  Instead
+of creating a single character that you want to be a kickass (insert job
+here), you're creating 5 characters that hopefully have a usefull balance of
+skills and abilities between them.  That's going to change how you make
+decisions, and ultimately, how you play the game.  Third World isn't Ultima
+Online, and it's not [snip], that action oriented game that debuted the
+[snip] game service, you know the one where you were fighting your way down
+to the big bad boss [snip] and collecting weapons and other stuff along the
+way?  Third World is somewhere in between.  It has to be because of its
+style of play.  The pure action of [snip] is great (especially when playing
+with 3 friends online), and so is the open-ended epic that is Ultima Online,
+but both games require different styles of play to succeed.  I mean, [snip]
+would not have been as fun if it had the complexity of Ultima Online, the
+scope is too small for that.  Ultima Online would have been boring if it
+only contained the action of [snip], the world is too large, the game too
+open-ended, and the number of people playin too great to be just an action
+game.  Like I said, Third World lies somewhere in the middle.  It's not just
+action like [snip] and it's not the complex hundred skill system of Ultima
+Online.  Instead it's a game where combat is not the only option, and even
+when combat is innevitable, you'll have to devise a strategy to win.  On the
+other hand it's not soo open-ended that your assault level wardroids will be
+cutting trees down to make chairs either. ;)  Whew, ok I'm rambling a bit,
+but here's the skinny...  There are some limits to what you can and can't do
+in Third World, they are not so imposing that you're forced through every
+aspect of the game like a tourist taking the tram tour at Universal Studios,
+but limits do exist.  These limits have to exist to prevent online games
+from degenerating into total chaos, and to keep the single player game fun,
+involving, and moving as well.
+
+   OK, I'm sure I'll get comments on that one. ;)  Now onto some other
+things.  RPGs:  Why is it that when everyone talks about their favorite old
+RPGs, no one mentions Ultima 5?  That's definitely my favorite in that
+particular series, and probably my favorite RPG of all time.  Hell, Ultima 5
+was the first computer game I bought!  Before that I got my games as...
+umm...  err..  gifts.  I swear.  What does everyone have against it?!
+
+Hmm, I think I'll wrap it now for now folks, there's more...  There's always
+more. ;)  but I'll save it until after I hear some of your remarks.
+- Adam "Wager" Maxwell
+  09/1/98
+

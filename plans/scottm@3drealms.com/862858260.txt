@@ -1,0 +1,156 @@
+[mailhub.gte.net]
+
+Account Name:  scottm @3drealms.com
+Email address: scottm@3drealms.com
+----------
+Scott Miller, head of Apogee Software, Ltd.
+(3D Realms Entertainment is a division of Apogee)
+
+========================================
+May 5, 1997
+
+Cool news:  Pocket Books has agreed to write and publish
+four books, two based on Lo Wang, star of Shadow Warrior,
+and two based on Duke Nukem.  The Shadow Warrior books
+are being written first.  The Duke books will be written
+and released hopefully timed with the release of Duke
+Nukem Forever.
+
+These books will *NOT* be rehashes of the stories and
+events taking place in our games--they will be all-new
+stories that continue the adventures of these two
+characters.
+
+Prey News:  The June issue of Computer Gaming World has
+an article on Prey (pg. 78) with two older screen shots
+(remember, mags have a 6-8 week lead time) that are not
+nearly as nice as our newer stuff, which can be seen on
+our web site now.
+
+Today Matt Wood started work on Prey as a mapper (level
+designer), and is Prey's first full timer in this
+position, so hopefully we'll start to see some decent
+levels soon (sorry Paul ).
+
+Ecco Pro is awesome for managing project and task
+lists.  I just wish it had a speel checkar.
+
+Shadow Warrior's Rabbit-Sim is one of the funniest things
+in gaming history.  Can't say no more.  :)
+
+========================================
+May 2, 1997
+
+Yesterday everyone from Rogue Entertainment dropped by
+to chat, which was a nice surprise.  Rogue, as many of
+you know, came in to being after Scott Host left the
+team.  When Scott Host was there they called themselves
+Cygnus Studios, and were responsible for the popular
+scrolling shooter, Raptor.
+
+Rogue went on to make Strife, using the DOOM engine,
+and they released released The Quake Mission #2
+through Activision.  Now they're working on a full
+blown Quake engine game.
+
+George and I spoke with them on Quake stuff for a
+while then we showed them a Prey demo and a few of
+the levels from Shadow Warrior.
+
+We'll probably make a visit to Rogue soon after
+Shadow Warrior is wrapped up.
+
+I want to thank Rogue for bringing us a copy of
+their Quake pack and an oversized and very cool
+version of the box.  Maybe we can get GTIS to
+make something this cool for our future games.
+
+I wish Rogue the best of luck and success.  They're
+great guys and deserve it.
+
+========================================
+April 30, 1997
+
+Just wrote another press release that's being posted
+today on our web site, about Duke 3D winning a bunch
+of awards at the Computer Game Developers Convention,
+including Best Action Game (for the second year in
+a row).
+
+========================================
+April 28, 1997
+
+And so it begins, my first finger update...
+
+Today is a Big News day, with the announcement that
+Duke Nukem Forever will use id Software's Quake
+technology.  This news leaked a few days ago and the
+big question posed so far online is why aren't we
+using our Prey technology.  We answered this with
+a press release on www.3drealms.com, currently News
+item #2.
+
+The short answer is that if we had used the Prey
+engine we would have to delay Duke 4's release
+because the Prey engine is still a work-in-progress.
+Inevitably, both Duke 4 and Prey would end up
+coming out very close to each other and that's not a
+good thing for the best success of each of those
+games.
+
+Plus, we want Prey to be the flagship game to use our
+Prey technology--makes sense I hope.
+
+We carefully reviewed the Unreal engine, too, which
+is a stunning engine, but the decision for us came
+down to the fact that the Quake technology was done
+and user tested, allowing us to get Duke 4 out much
+sooner than if we had gone with the Unreal engine.
+And now that Quake will support colored lighting, the
+gap between these two engines has closed
+significantly.
+
+I want to thank Tim Sweeney, Mark Rein and Jay
+Wilbur for visiting us at a moment's notice and
+presenting us a deal that was very hard to pass up.
+Players have a lot to look forward to with Unreal.
+
+With Prey and Duke 4 heavily in development, we've
+got a lot to be excited about around here.  But the
+game of the moment for us is Shadow Warrior, which I
+believe is really going to surprise people in a few
+weeks when the shareware version is expected to hit
+the digital streets.
+
+A recent preview in GameSlice Weekly said that
+"Shadow Warrior cremates the competition..." and while
+that might be a bit too bold I think that players are
+going to be mostly happy by what they get in this
+game, especially if they are fans of Duke Nukem 3D.
+
+Finally, I've been interviewed several times by the
+press lately and a common question is, "Why are there
+so many development groups in the Dallas, Texas area?"
+The truth is that most of the big names (Id, Ion,
+Hipnotic) are here because Apogee was here first.  Id
+moved to this area to be near Apogee (we were their
+shareware publisher at the time, and when they moved
+here Wolfenstein 3D was just beginning).
+
+The rest of the groups eventually branched off from
+Apogee and id, or a combination of the two (as in Ion's
+case).  (A few others, such as 7th Level and Terminal
+Reality are not here in connection with Apogee--though
+3D Realms did release Terminal Reality's first game,
+Terminal Velocity.)
+
+Dallas is a great area for game development because
+it's basically a high tech city, there's not a lot
+of distractions, like the beach or snow skiing, and
+the cost of living is relatively low, especially
+compared to the Silicon Valley, Los Angeles and
+California in general.  There's not a state tax,
+either.
+
+[EOF]
+

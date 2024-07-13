@@ -1,0 +1,13 @@
+Account Name:  Chris Hargrove
+Email address: chrish@3drealms.com
+----------
+Name: Chris "Kiwidog" Hargrove
+Position: Code Boy
+Project: Duke Nukem Forever
+Email: chrish@3drealms.com
+
+3/2/98
+------
+Linking to DLLs... it's __declspec-tacular!
+	
+    

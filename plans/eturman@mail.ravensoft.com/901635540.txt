@@ -1,0 +1,80 @@
+Welcome to Raven Software's Finger Service V1.5!
+
+Name: Eric Turman
+Email: eturman@mail.ravensoft.com
+Description: Animator
+Project: SoF
+Last Updated: 07/28/1998 11:15:59 (Central Standard Time)
+-------------------------------------------------------------------------------
+11:00 AM 07/28/98
+
+I had to give up animating the last half or so of the multi canted creature for Heretic II as I've been fully engrossed in SoF.  I've innovated a new "null hierarchy" system (a method of animating in Softimage) and expect that we should be able to get smoother, more natural animation results.  That is key.  We are striving for realism.  Rick J. came up with some very cool new scripting stuff that should really add to the experience.  I can't wait until I can talk about some of these things in detail, because they really set us apart from companies that will never score.
+
+*****************
+5:30 06/05/98
+
+I'm finally in the full swing of Soldier of Fortune!  I still have a few things left to animate for Heretic II, but I can get to those later (thanks Brian P.).  I wish that I could tell you more about the specific cool elements that we're adding to the engine/game, but oh well.  This comming week I'm going to make a third build of the low poly human and plan out & organize the animations.  The amount of actions that we are going to have the enemies do is going to blow everything away.  I can't wait to jump into it.  The level's already look kickbutt!!  The textures for the levels are awesome as well.  And the special effects form the programmers...well were talking Raven here...of course they are top notch.  
+
+-->Turmanator
+
+*****************
+3:30 05/26/98
+
+Chaos is moving in a few days.  A bunch of us From Raven are going to help him load up the moving van Thursday night.  You've been a good friend, Mike, and will be missed.  But there's always e-mail.  Best of luck in the future!  You deserve it.
+
+Compound canted legs, its seems as though I can't get away from them ;).  I thought that I would be burned out on animating compound-canted legs after the mission pack.  But after a couple "normal" monster break, It feels good to do another one.  I've kept the arms attached to the torso while keeping the poly count low.  I'm very pleased with the deformation ability, and it looks a lot better than 'jamming' the arms into the body.  The Yakman's arms were attatched too, but it had many more polys (I was so wasteful back then ;) )  The animations for this Heretic II creature are comming along smoothly.  I feel its the best work I've done yet.
+
+The weekend of the 17th was hot here in Madison  (96 *and* humid.)  And of course The builders hadn't installed the central air into the house yet...well, the day that they came and put it in, the temp cooled down 20 degrees outside and its stayed that way.  So  I'm waiting to see how bad the electric bill is going to be.
+
+Better get back to work.
+
+-->Turmanator
+
+******************
+
+10:00 05/19/98
+
+Well, I'm doing one last character for Heretic II.  Then, in a few weeks, I'll be fully into SoF.  I've made a preliminary low poly human (293 polys)...but you wouldn't guess that its that low by looking at it.  There are several reasons for wanting such low counts.  Faster load time, takes up less memory less memory blah blah blah...but what I think is the coolest possibility of it is tons of different animations and a lot of enemies on screen simultaneously.  No more of this two or three guys attacking you at once...you'll wish you were so lucky.  Yet they won't just be "clones" of each other...hmmm...More on that in the future.
+
+
+-->Turmanator
+
+
+******************
+
+3:00 03/26/98
+
+I can finally reveal that the project "x" or "y" that I'm working on is Heretic II.  As you may have read it's a third person view game with the original heretic hero.  The fact that its 3rd person seems to have caused quite a stir!  Well let me try to calm your fears. The look of the game is rock solid; no crappy polygon-popping or seams that other games have.  There is going to be a ton of action...enough to satisfy the most hardcore gamer.  Don't let the fact that its a third person throw you, you won't be dissapointed.  A lot of attention is being payed to every little detail.  I liked Hexen and Hexen II well enough, but this is the first Raven game since Heretic that I have been emphatically excited about.  Hopefully that'll clue you in on how cool this game is going to be.  If not, you can get a taste of it at E3; check it out for yourself if you don't beleive me.  Well, enough about that, now on to the past...The creature that I was animating is a flyer.  When I get some time on the weekends I'll be able to put extra anims in to add to the...ambient behavior of the creature. Then the programmer will need to find some extra time to add it in (at the tail end of the project of course).  But the basics of the flyer are done (for now):).  Now, I'm working on an amphibious creature that Shubes modeled (he did a kick ass job on it).  When I got the model, it was 697 polys!  Brain Pellitier wanted the count to be around 600.  So I got out my poly clippers and trimmed it down to just over 520.  Then took a look at where some extras would be cool.  The final count landed at a slim 548, almost 150 poly savings and 52 below the target #.  And, as with the flyer, it has more form where it will be noticed.  I've got a while to work on this creature, and its got quite a few anims, so I'm sure that you'll find it very cool.  Its in the realm of possibility that you may be able to see the amphibian at E3!  You may ask yourself, "Why should I care about what you're doing to the poly count?"  The lower I can make a creature in poly count without comprising its quality, the faster the game will run and/or the more creatures can be shown on screen at once.  I'm just doing my part to make your playing experience better. I'm really looking forward to animating a biped that doesn't have compound canted legs (the amphibian that is).  Not that I didn't enjoy animating the Demoness and the Gyak, but it'll be a nice change of pace.  I'll reveal more about this amphibian as I am allowed to. 
+
+--> Turmanator
+
+************************
+
+2:15 PM 03/16/98
+
+I decided thatI should add a few more interesting things on the creature...so up went the poly count (man, any little thing you add just shoots the poly count up..FAST)  The good news is, its still under the 500 cap and i'm much happier with it.  I've finished with the movement animation for it and am working on alternate move anims.  Animating is definately a lot more cool than setting it up, but setting it up makes you apreciate animating it that much more.  One thing that the programmer, Ben Brammer, and I want to do with this creature is to make it vicious, evil, and believable enough to envoke a fear response in the player to the point that when the player hears the 'idle sound' they franticaly search for the source.  (What a run on sentence {:^S)  But if I don't get back to work,  It'll never get to that point.
+
+**************************
+10:10 AM 03/11/98
+
+Well, I'm doing a fun creature for project X or Y...whatever its codename is... and my polygon count target was 500.  When I finished modeling it it was almost 550! So, I stood back and took a look at how to seriously reduce the poly count without sacrificing form and managed to cram it down to 371 polys.  Whats crazy is that the form is actually better now than at the 550 poly count.  Using less polys makes one pay attention more to form, volume and deformability...its defineately the way to go.  Animating it is going to be a blast!
+
+
+***************************
+
+4:55 PM 2/12/98
+
+Hey all, my name is Eric Turman.  I'm the newest 3D animator on board Raven, but not new to 3D (i've been doing 3D animation for 5 to 6 years now). I've worked with Chaos and Shubes quite a bit in the past.  In the mission pack, i've modeled or modified, and animated the weapons, player character, and yak creature.  
+
+The weapons provide a bit of a challenge due to the fact that there is such a crazy lense angle that the objects get distorted (kinda' like a fisheye).  I developed a tool in the animation software that 'softens' the angle making it much easier for us to get better looking results.
+
+I finished the animation of the yak creature the very begining of last week.  Mike G. needs to do a few AI tweaks, but already he is one tough badass.  
+
+
+*** A little history ***
+
+I first heard about Raven when my highschool art teacher, Brian Raffel, came in to where I was working at the time and bought a synthesizer from me for Kevin Schilder.  At that time, he offered to give me a tour of the place.  Brian Shubat and I went to take a look at Raven that following week.  We were really impressed (they were working on heretic at the time) and really would have liked to work here then.  But, several years later, here we are.  I'm happy to finally be part of the Raven team.  And i'm looking forward to animating more cool characters and creatures.
+
+
+
+---> Turmanator

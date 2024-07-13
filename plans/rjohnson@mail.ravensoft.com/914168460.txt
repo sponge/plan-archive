@@ -1,0 +1,40 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: SoF
+Nickname: Superfly
+Web Page: Rick's Web Site TurtleCam! mEATwagon Cult
+Last Updated: 12/20/1998 11:34:00 (Central Standard Time)
+-------------------------------------------------------------------------------
+12/20/98
+   In case you were wondering where to put the 4 new DM map files that
+      were released a few days ago for Heretic2, you'll need to create
+      two directories.  In your Heretic2 installation directory, create
+      a directory called "base".  Inside of this new directory, create
+      one called "maps".  Then place the DM maps in the "base/maps" directory.
+
+12/16/98
+   I was informed that today is the anniversary date of another game
+      "release".  But finding out what this one is will take a little
+      research on your part :)
+
+12/11/98
+   Well, after 3+ years of slow development, I've finally put out 
+      the initial test release of Black Crypt, Raven's first game.
+
+   Originally coded for the Commodore Amiga, you can now play it on
+      the PC.  It should run on 95/98/NT 4.0 SP 3 with DX 3.0 or above, on
+      a 486 and above, with 16 megs.  Remember that this is a complete conversion
+      of the original game and that nothing has been modified.
+
+   This first release includes only the first dungeon level (two playable
+      levels).  This limited release is only to test the compatibility and
+      stability of the conversion.  A future release will contain the 
+      entire game.  The download is only 389k, so it is pretty small.
+
+   Visit the Black Crypt Website for further information and to download
+      the initial release.
+
+   Enjoy!

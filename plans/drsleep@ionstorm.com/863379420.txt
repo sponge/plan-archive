@@ -1,0 +1,269 @@
+[ionstorm.com]
+
+Ion Storm
+
+User Name.........drsleep
+Full Name.........John W. Anderson
+Description.......Level Designer
+Last NT Logon.....Sunday, May 11, 1997 at 14:32
+
+
+
+ 
+
+Extracts from the Sleep Notebooks:			
+
+4:24 PM 5/11/97
+---------------						
+
+Well, it's a beautiful Sunday afternoon, and I'm stuck at work trying to make
+something that looks convincingly like ropes. The first level is essentially
+finished except for some cool extra details, which will be added this week.
+
+Tom Hall is here showing everyone a home-made video of his new house, which is
+extremely nice and situated a few blocks from John Romero's house. I must say
+that the camera work is exceptional: it's one long tracking shot that rivals
+Carpenter's opening HALLOWEEN sequence. 
+
+If anyone knows how I can get a copy of EDGE magazine, which is published in
+Britain, let me know. A friend of mine in Scotland wrote to say he saw the
+Daikatana team's picture in it, along with a story on the game. 
+
+ 
+ 
+7:46 PM 5/8/97
+--------------						
+
+Our alpha is finally running on all four threads. The level I'm working on which
+used to take almost four hours to vis on a PPro200 with 128MB, now takes only
+13 minutes. :) 
+ 
+3:40 PM 5/3/97
+--------------						
+
+Been busy lately with the move and all, not to mention getting two levels ready
+for E3 in June. Our Alpha should be up soon, so vising a level should take 3
+minutes instead of the 3 hours at which I'm currently stuck. 
+
+The new building is terrific, though I'm not sure the older residents are used
+to us yet. In fact, even the maintenance staff sniff at us. Maybe it's just my 
+imagination. 
+ 
+6:07 PM 4/17/97
+---------------						
+
+The first Daikatana deathmatch was played today, using dog-launchers. 
+ 
+11:48 AM 4/14/97
+----------------						
+
+Working with new textures provided by the artists. Since John has already spilled
+the beans, I guess it's safe to say that we're going to have some levels ready for
+E3. 
+
+On another note, Sverre is finally here, making the Daikatana design team complete.
+He and I checked out Wes Craven's SCREAM on Saturday (terrific film), and on the
+drive up I managed to catch myself on fire when the ember from my cigarette fell
+down my shirt. Smoking is hazardous to your health.
+
+Matt "DaBug" Hooper (also known as the Boo Radley of Level Design) is ready to mend
+his ascetic ways and put out a .plan file. I think the description of him as "some
+kinda roachy bug looking thing" on the Eye on Ion page hurt his feelings a little.
+ 
+5:36 PM 4/2/97
+--------------						
+
+Happy birthday, Shakyamuni.
+
+Will finished the first song for Daikatana (and my level) on this date. I can't get 
+the tune out of my head, and the intro just gives you the chills. Great stuff.
+ 
+5:31 PM 4/1/97
+--------------						
+
+I've just heard a snatch of Will's music for my first level. It is, as they say,
+totally, totally awesome, I wish I sat closer to his area so I could hear this tune
+over and over as he works on it. Gorgeous and exciting adventure music.
+
+I've got a great start on my level, using a few textures whipped up in Texture 
+Creator (thanks Walla!). Kee's lighting tricks are going to give Daikatana a very 
+different look from Quake. I mean, a bunch of us were just standing here running 
+through my level, dazzled at just how unQuakelike it truly looks.
+
+I was stunned to hear of the attempt on Tom's life. Personally, I walk the non-
+violent path of Gandhi, and I live by the credo "Never strike out in anger -- unless 
+you're absolutely sure you can get away with it." Still, Tom has been a warm and 
+fuzzy source of inspiration for all of us here at ION. I know many folks here who 
+would pull their own heads off rather than see anything happen to Tom. 
+
+
+3:39 PM 3/31/97
+---------------						
+
+Just got an e-mail from Sverre Kvernmo, who'll be coming in fresh from Xatrix on 
+April 4th to complete the Daikatana level design team. Apparently, the American 
+embassy in Norway made him wait a month before they'd stick a stamp on his visa.
+
+Finally met most of the rest of the Hipnotic crew Friday night (Jim Dose, Paradox, 
+Giggler, et al.) Tom and Mike and I exchanged Epic stories, then we went through the 
+Rogue pak and counted misaligned textures and other anomalies. (Just kidding.)
+
+(Not really.) 
+ 
+2:22 PM 3/28/97
+---------------						
+
+Matt and I conferenced with Jerry and some of the artists the other day to work out a 
+preliminary set of textures. We're hoping to have a few to use sometime next week. 
+Kee and Nelno have some way cool stuff cooked up, programming wise. In short, work on 
+the first few levels for Daikatana should begin in earnest on Monday. 
+ 
+4:36 PM 3/24/97
+---------------						
+ 
+"There is only one thing worse than being talked about, and that is NOT being talked 
+about."							
+                                               --Oscar Wilde
+ 
+
+10:33 AM 3/20/97
+----------------					
+
+Our new level designer (for Tom's Anachronox) should be arriving soon. For a hint of 
+his talents, download Fane of the Diabolist.
+
+Finally got to meet Mark Dochtermann (thanks for the Scourge box!) the other day. I'm 
+still looking forward to meeting the rest of the Hipnotic crew. While I'm at it, I 
+should mention just how terrific the Scourge pack is (though I'm sure you've all 
+heard this already from anyone who's looked at it). Seriously (and I'm not just 
+saying this because of the warm and fuzzy relationship we have with Hipnotic), the 
+levels are marvels of modern engineering. I particularly like The Lost Mines. The 
+weapons are swell, and the Gremlins are wonderful. Scourge really makes single-player 
+Quake a joy.
+
+ 
+
+4:22 PM 3/14/97
+---------------						
+
+Just got back from RETURN of the JEDI. The little additions still don't make this one 
+add up for me (EMPIRE is my favorite). Melodrama instead of drama, too many damn 
+Ewoks, Anakin Skywalker still looks like Humpty Dumpty when his mask is removed.
+
+Anyway, as John mentioned in his .plan, the Daikatana design doc is huge. Weapons are 
+finished, as are most of the artifacts (power ups, armor, etc). Quite a few surprises 
+for folks, I should think. 
+
+A few folks wrote me to ask about the relevance of the Maugham quotation. Its 
+pertinence is to myself, and means only that I intend to compose my .plans in 
+Standard English. 
+ 
+6:22 PM 3/11/97
+---------------							
+
+The Cleaner is in the house (thank goodness for another smoker), being the latest 
+addition to the design team on Tom's game. This place is getting crowded! You can't 
+swing a mouse without hitting three or four artists now.
+
+Brainstorming today for weapons. Wow. Wish I could say what some of them are. Rest 
+assured, they're all groovy (so far). 
+
+The police have persuaded me that an APB on my underwear would yield few useful leads 
+on the social deviants who broke into my car. 
+
+My ISDN is ripping! 128kps is working. I'm very pleased, and the ISPs down here in 
+the Dallas area are charging only $50 for unlimited access. 
+
+
+ 
+6:20 PM 03/10/97
+----------------						
+
+"It is very easy to persuade oneself that a phrase that one does not quite understand 
+may mean a great deal more than one realizes. From this there is only a little way to 
+go to fall into the habit of setting down one's impressions in all their original 
+vagueness. Fools can always be found to discover a hidden sense in them."
+					-- W. Somerset Maugham
+ 
+2:10 PM 03/10/97
+----------------
+
+Erraunt Ydyls:
+Had my car broken into yesterday while parked in the local grocery store parking lot. 
+Wasn't gone five minutes and come out to discover the passenger-side window smashed 
+in, my portable CD missing, along with a bag of dirty laundry containing mostly 
+underwear and a couple pair of jeans. They'll make a Republican out of me yet (now 
+that I'm a liberal who's been mugged). It's a sad commentary on the state of this 
+country when a man's underwear isn't even safe. In the meantime, if you see anyone 
+wearing Polo bikinis (non-mesh) with the days of the week written on the back of the 
+inside band, let me know.
+ 
+5:20 PM 03/06/97
+----------------
+ 
+Polish and Monolith stopped by for a quick deathmatch showdown with John. I 
+understand the Hipnotic bunch will be by later as well for a three-on-three match. 
+DaBug just crushed me 20-1 in a single-player match (the sun was in my eye). Deus, 
+will all this work never end!?
+
+Kee just lost two hours work when a Microsoft app crashed. We're still trying to talk 
+him off the ledge of the sixth floor here.
+
+My ISDN was installed today, but I haven't had a chance to play with it yet. :(
+
+ 
+11:55 AM 03/05/97
+-----------------						
+
+More brainstorming last night. Just as I was running out of ideas, good fortune was 
+kind enough to intercede in the form of a challenge to John from Shadow. At any rate, 
+I think the scenario for each of the levels is pretty much complete at this point. 
+Many details will change later, I'm sure, but the locations are solid and now make 
+much more sense.
+ 
+Erraunt Ydyls:						
+I've spent several nights in my new house now, and for a while I had been hearing 
+some strange noises coming from the attic. I've had some experience with this sort of 
+thing in the past -- ghostly goings-ons, that is -- and I must admit that I was a tad 
+disappointed to discover that the various squeaks and moans were just the side 
+effects of a not-often-used heating system kicking in. Having a haunted house could 
+have made for some lively morning discussions at ION. I mean, who hasn't at some time 
+in the middle of the night felt the cold, chilling hand of the dead on their 
+shoulder? (Not me, thank god, but some have.) To make matters worse, some local do-
+gooders perched themselves on my doorstep this morning to foist copies of The 
+Watchtower on me. I had to decline their invitation to become a Jehovah's Witness, as 
+I hadn't seen the accident.
+ 
+2:00 PM 03/04/97						
+----------------
+
+Noel is putting the finishing touches on Kill Creek's shrine; DaBug is making QuakeEd 
+easier to live with; The ION Storm Roving Reporter is going to be nailing Kee, 
+WhaleBoy, and my humble self sometime this afternoon for something new coming up on 
+Pseudo Online; I'm still twiddling with a little level I've been playing around with 
+here, trying to dream up new texture ideas on the fly.
+
+On a personal note, I'm finally getting ISDN installed at my house this Thursday. I 
+haven't played a single game of Quake on the Net since I got down to Dallas, and I'm 
+getting a little itchy. ('Course, when we get our T3 at ION, I'll be able to exact 
+revenge on a few folks who used to dance circles around me and my 300 ping.)
+
+Also, I'm trying to talk Kornelia (of Clan 311) into coming over from LA and playing 
+John a deathmatch. :)
+ 
+10:41 AM 3/03/97						
+----------------
+
+The past week and a half consisted of brainstorming sessions, and we've basically got 
+the entire scenario for each of the levels in at least three episodes. Matt's episode 
+was the most fun as far as  extemporization goes; my episode required a little more 
+effort to concoct (one must needs avoid being derivative); and John's episode has the 
+best-named creatures, not to mention some ultra-cool and (we hope) hilarious 
+situations.
+
+Single-player fans should be VERY happy.
+
+
+
+
+(File last updated on Sun 11 May 1997 at 16:32)

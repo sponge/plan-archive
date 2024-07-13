@@ -1,0 +1,90 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: onethumb
+Plan modified: Thu Aug 06 18:18:36 1998
+
+
+Name:  Don MacAskill         
+Email:  onethumb@ritual.com
+Occupation:  Jedi Master
+
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************       
+
+
+
+- 8/6/98 6:09 pm -
+
+-[ Joey Liaw Leaves ]-
+
+Apparently there are more young women (young being a maximum of  14
+in this case) out in California.  Or maybe it's more Anime.  Actually, now
+that I think about it, I'm sure it's both.
+
+What am I talking about?  A good friend is leaving out midst, bringing about
+the end of an era.  Joey Liaw, programmer on Anacrhonox for ION Storm, is
+finally heading off to college after a one-year hiatus from the formal 
+education thing.
+
+He graced us (us meaning the Dallas area developers and friends lucky 
+enough to have known him) with his complete lack of humor and amazing 
+hardware-hoarding ways for an entire year.  Alas, I moved out to Dallas only
+a little more than 6 months ago... but it's been an enlightening experience
+being around and dealing with Joey.
+
+He's quite a character, and a good friend.  I'm sure he'll do very well out
+at Stanford, and lucky for me, my family lives out there so I can still 
+harass him on visits.  I'm not convinced that he'll be able to leave the lure
+of making video games, however, despite what he says over ION's website.  
+We'll see.
+
+Anyway, I suppose all good things must come to an end.  It's been wonderful
+knowing you, Joey, and I'm sure I speak for all of us when I say that we'll
+enjoy harassing you from afar, even if it's not quite as satisyfing.  Oh, yes,
+and anytime you want to get shown how to really play DOOM, you know my number.
+
+- Don
+ 
+
+For more Joey stuff, check out ION's website  -- it's an ALL JOEY UPDATE!
+
+http://www.ionstorm.com
+
+Joey Update Today!
+
+
+
+- 8/6/98 2:23 pm -
+
+-[ Creative SoundBlaster Live! ]-
+
+Got a few emails today from people asking if I've tested the quality and
+performance of the SB Live! yet.  The answer is no - I don't have a card to
+test with.  :)
+
+If/When I do, I promise I'll post my thoughts and observations here...  And
+I do know some stuff about their A3D emulation, but I want to hear it 
+first-hand before saying anything...
+
+
+
+- 7/31/98 5:01 pm -
+
+-[ Linux Sin? ]-
+
+Now that the demo's out, there's a strong possibility that we'll start 
+work on the Linux Sin port soon.
+
+I've already emailed those who responded to me earlier about doing the
+Sin Linux port, but if there are any more of you out there, we're looking
+for a volunteer to port Sin over to Linux.  And you must live in or near
+Dallas.
+
+Email me (onethumb@ritual.com) if you're interested.  
+
+

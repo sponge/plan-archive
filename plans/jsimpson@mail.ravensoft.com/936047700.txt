@@ -1,0 +1,33 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 08/30/1999 20:09:26 (Central Standard Time)
+-------------------------------------------------------------------------------
+8/30/99
+
+A quick update and a request.
+
+Firstly, ATI ROCKS! Wow.. we got some goodies from them today, and I have to say it, some of their new
+all-in-wonder cards are pretty sweet. If you ever need to do video capture AND play games, these are the
+cards for you!
+Secondly - Creative also ROCKS! More goodies from them too... Those new Digital Speakers are awesome. SOF
+sounds great on them. Well, they will once we get the properly setup anyway :) Now we just have to persuade
+them at Creative to send out those NOMAD mp3 players they were promising at Creativity :)) heheheheh.. can 
+you say "Greedy Bastard Techno Lust" ??
+
+Now, onto the request. We've been experiemnting with phoneme analysis for accurate lipsynching on Voyager.
+We've played with the MicroSoft Lingustics package, and very cool it is too. Not sure how it is going to work
+on other languages but we'll worry about that when the time comes. The question of the moment though is - does
+anyone out there have a file format for the .LWV files that this marvellous tool spits out ? I've done some
+web searching and come up dry. Anyone out there got these ?
+My understanding is that Grim Fandango used this system - anyone from LucasArts out there willing to lend a
+little light to this darkness ?
+
+A message to George Broussard. (See ? I spelled it right this time :)) You, my friend, are a way cool individual.
+Raven is now a part of the 3D Realms campaign to kill of Jar Jar Binks, and we have the T-Shirts to prove it!
+
+Tip of the day :-
+An empty aluminium cigar tube filled with angry wasps makes an inexpensive vibrator.

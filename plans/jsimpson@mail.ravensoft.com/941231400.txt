@@ -1,0 +1,60 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+Last Updated: 10/29/1999 20:04:12 (Central Standard Time)
+-------------------------------------------------------------------------------
+10/29/99 - UPDATE
+
+Everyone has been reporting this as SOF figures. These figures below are NOT representative of SOF results.
+This is something I was doing myself, that I just tested on a GEForce256 card. The idea being that since
+everything I was doing was done in GL, rather than pre-transforming anything.
+Sorry if there was any confusion guys.
+
+By the way, thanks to the guys at Stomped for the T-Shirts. A nice gesture there :)
+
+10/29/99
+
+First things first. If you haven't seen this yet, go to www.tie-tanic.com and download the AVI there. Its
+the funniest thing I've seen in a long time.
+
+Bob Love is going to come in for some lovin real soon, after all the updates he's doing about me. I was thinking of
+a Glaswegian Kiss actually, for those that know what that is:) The beauty of this plan is that he's been sick
+recently, and has no more PTO. So he'd have to come into work. hehehehehe. He deserves it. I have no sympathy.
+
+Ok - time for some actual figures on the GEForce thingi now that I've had some time to play with it. I was doing
+some GL stuff with something I've been playing with at home, and since we have one of these lying around, I
+thought I'd *cough* slip my code on it *cough* and see what happened.
+So, in 1600x1200 mode - lets go worst case here - 32bit color, with a TNT2, and a 20,000 poly model, I get 9fps.
+Not too shabby when you think about it. With a GEForce256, same set up, I get 21fps. 
+Some background for the programmers amongst us. Thats not doing anything special with the GL code. No clever extensions,
+except for glLockArray. I'm using vertex arrays for Normals, texture coordinates and the vertices them selves,
+locking the array and then using glDrawElements to wack them out. I AM using GL to do all the lighting, and there are
+two world lights out there. So we are seeing a 100% plus increase in speed here.
+BUT. And this is a big But. When I use a smaller poly count model, say 6000, and I don't get half the speed increase.
+Its goes from 30-31fps with a TNT2 to 35-38fps on the GEForce256. So what's going on here? Well it looks somewhat to
+me that the larger the vertex arrays are in the first place, the more the hardware T&L engine can do its thing
+efficiently. So the conclusion is that if you have lots of small models, the GEForce may not give you quite as much
+of a boost as you might want it to.
+Remember, this is not a game I'm testing here, it's just some results I got with what I was doing with GL. Your results
+may vary.
+Remember also that there is no specialized code in my tests. There are a ton of new extensions for GL detailed on the
+nVidia website, and I didn't use any of them. Using some of those may/should get you a ton more speed boosts from the
+card.
+I think the main point I'm making here is that the GEForce WILL give you some benefit on existing OpenGL games, just
+not as much as we might have all thought. However, with the right approach, both coding and design wise, the card can
+pay off in spades.
+
+Other stuff.
+Where's the Porche? My Boss, Brian Raffel is starting to get anxious about it. I mentioned that we are going to be doing
+a driving game involving porches, and we expected to have Porche contact us about supplying some free ones immediately.
+And yet nothing! Whats going on eh?? So much for the power of .plan files eh? :)
+
+Before you get upset about that bit above, its a JOKE!
+
+Seriously, if anyone knows a rep from Dev Rel at Sony, (the PC division, not the PSX part), I'd love to have a quick
+chat with you. Thanks.
+
+If your bored, take a trip around JAKEWORLD!

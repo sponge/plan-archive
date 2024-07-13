@@ -1,0 +1,74 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: onethumb
+Plan modified: Fri Jul 10 00:58:36 1998
+
+
+Name:  Don MacAskill         
+Email:  onethumb@ritual.com
+Occupation:  Jedi Master
+
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************       
+
+
+
+- 7/10/98 12:50am -
+
+-[ Sin Scripting Demo ]-
+
+Well, we sorta stepped out on a limb with this Sin Scripting Demo we released,
+we certainly hope you all dug it.  But I'm curious how everyone felt about
+it -- was it a good thing?  Is it valuable for those of you waiting to create
+Sin stuff?  Does it adequately start to show you all how to create stuff?
+Does it help for companies like Ritual to release this sort of stuff in
+advance?  I certainly hope so, but I'd really love to hear what everyone
+thought of it.  Most game companies seem to release lots of action-packed
+movies and whatnot (and we're no exception), but I think it's important that
+we try to help those of you who extend the lifetime of these games as well, and
+truly make cool magic happen.  
+
+Also, I'm wondering what everyone thought of the multiple format video release.
+I know in the past, I've been pissed when I couldn't download a better version
+of a video (say, when I'm on a T1) or a smaller version (when I'm on a 
+modem) and always wished someone would give me a choice.  Well, I figured
+I'd give it a shot and give you all a choice this time.  If you liked it,
+we'll see about doing it in the future as well.  Just let me know.
+
+If you have no idea what I'm talking about, check out the Ritual Outpost
+where you can find out all about it:
+
+http://www.ritual.com/news/
+
+Ritual Outpost
+
+And if you've got some opinion or insight to share with me about the above
+stuff, drop it to me:
+
+Email:  onethumb@ritual.com
+
+Mail Me
+
+
+-[ SinEd ]-
+
+Along with this scripting release, I suppose it's appropriate to remind 
+everyone that SinEd will be included, free of charge, on the Sin CD.  Since
+the scripting language is in text format, and you'll be equipped with the
+editor right out of the box, there shouldn't be anything stopping mod makers
+from creating amazing environments to show off.
+
+
+-[ AMD K6-2 3DNow! ]-
+
+I've gotten some email wondering what's up with Sin and AMD's 3DNow! stuff.
+I can tell you that we have a couple of boxes here, and we're actively working
+with AMD on including support.  No promises of course, but it's looking good.
+
+
+

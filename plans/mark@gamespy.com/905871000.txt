@@ -1,0 +1,91 @@
+User:   markplan
+Read:   0
+Unread: 0
+Time:   Tue, 15 Sep 1998 09:50:35 -0700
+Plan:
+9/15/98  8:30 AM GameSpy Central Time (Newport Beach, CA)
+
+[GameSpy]
+Big news: GameSpy 3d is closing in on 2.5 million total unique installs and over 100,000 users per day.  Our community is certainly growing quickly!  How do we know this? Here's a little secret:
+
+When you install GameSpy 3d the first time it generates a (hopefully) unique installation code based on the date and time. When you fire up GameSpy 3d a request is made to our Message of The Day Server for the latest MOTD. The GameSpy 3d client sends the MOTD server the unique install code and the version of GameSpy that is running (so we can activate the "upgrade now" button if needed).  We keep track of the number of unique install codes.  No, we don't collect any other information from your machine other than the version and the unique install code, so don't start some wacky anti-GameSpy campaign.
+
+Why is this important? It's critical that we share these numbers with developers so that they architect their games to enable GameSpy access to their game servers.  Unbelievably there is still a tendency for game developers to sell "online exclusives" to pay-for-play services in return for a check.  Many developers still believe that multiplayer gaming is insignificant and the only way to get any money out of it is to simply sell the online rights to a Heat, TEN, WON, Mplayer or something similar.  This has been the status quo for a while... but times are changing.. for the better.  
+
+More and more developers and publishers are rejecting this concept and looking for the *best* way for their games to be accessed and played online.  They are driven by the new reality that people *really* do play games online and buy games based on their multi-player features.  
+
+When I tell publishers that GameSpy has 2.5 million installs and that there is an audience for great multi-player games outside of commercial gaming services, they are listening.  This is very cool stuff for those that love online multiplayer games, and quite a difference from where we were a year ago.  Thanks to id software's leadership and the massive success of Quake and Quake2, the concept of user run dedicated servers is looking to become a standard for any savvy developer.  As a multi-player addict I think we are all highly fortunate that online gaming is moving in this direction. Okay, enough self promoting drivel. Here, now, The News:
+
+GameSpy 3d 2.03 will be released to registered users today or tomorrow... and you will likely see a flurry of new releases / announcements as we strive to support every excellent game that is released. 
+
+GameSpy 3d 2.03 supports Monolith's highly anticipated / upcoming Shogo-MAD and the long-awaited Unreal patch.  Hallelujah!  
+
+The GameSpy Developer Spec is now at version 1.42. Please contact me (mark@gamespy.com) if you'd like a copy.  Adding GameSpy support to your gameserver takes less than a day, including debugging and testing! 
+
+GamePlayers - Feel free to contact your favorite developer, tell them to support GameSpy and send 'em my way! There's a T-shirt as well as miscellaneous items from the BeatDown booty pile in it for you if they mention you by name to me. :) (end of shameless bribery)  In all seriousness, developers need to hear from you and want to know that you care about multiplayer gaming.  Feel free to email me as well if there is a game you want us to support that you think may be released without being GameSpy enabled.
+
+
+
+
+7/24/98 4:20 PM GameSpy Central Time (Newport Beach, CA)
+
+It's been a busy week.  We released new versions of GameSpy and GameLaunch.  
+
+GameLaunch now features extensive Unreal support - cool stuff. If you haven't tried it yet... give it a whirl.  Developers - please feel free to contact us before your game is released so we can be ready for you when the game hits the shelves. 
+
+GameSpy:
+We released version 2.02, which fixed many bugs and added proxy support, among other cool things.  The major item that hasn't come together yet is Unreal support.  We're waiting for Epic to release a server side patch that allows udp querying and enables some standard variables that a server should expose to querying systems. Epic has devoted additional resources to this problem and is working closely with us. 
+Judging on the latest update from them.... it's going to be out *Real Soon Now*
+
+The current GameSpy client is intended to work with the new unreal servers - it won't work with the current servers.  
+
+Developers:
+We have released version 1.0 of the GameSpy Developer Spec.  If you'd like to have your game work out of the box with GameSpy and GameLaunch, please contact me for a copy of the spec at Mark@gamespy.com
+
+
+
+6/18/98 5:30 PM GameSpy Central Time (Newport Beach, CA)
+
+GameLaunch .99 beta 10million or so will be out either Monday or soon after, with full support for Unreal! Tbis beta fixes the current interoperability problems with GameSpy 2.01. as well.   I'm *really* interested to see how the Scriptmaster feature for unreal looks.  
+
+
+GameSpy 2.01 - the feedback has been really excellent.  Server list refresh times are now mighty speedy again.  
+
+
+
+6/13/98  5:00 PM GameSpy Central Time (Newport Beach, CA)
+
+2.01 is now available.  If you're using 1.x or 2.0 now is the time to upgrade.  This is a beatdown weekend (www.planetquake.com/beatdown) so we'll all be testing the hell out of it...  I'm planning on deathmatching for 48 hours straight.  Which begs the question: Where did the term "DeathMatch" originate?  A free GameSpy registration to the 5 best answers that I get this weekend.  Send 'em to bastard@planetquake.com
+
+
+
+6/12/98  9:30 AM GameSpy Central Time (Newport Beach, CA)
+
+First major bug: Some users are having problems with retrieving server lists via http.  Tim has identified the source of the problem and we'll be releasing 2.01 tonight.  This will be the wide release that goes up on tucows, etc.  No one ever trusts a .0 "dot oh" release anyway. ;)  I recommend waiting for this update before moving up to 2.x
+
+
+6/11/98  9:30 AM GameSpy Central Time (Newport Beach, CA)
+
+The Intel Registration server is getting overwhelmed. :) Here's a direct link:
+http://www.intel.com/home/club/home.htm
+
+
+6/11/98  9:30 AM GameSpy Central Time (Newport Beach, CA)
+
+GameSpy 2.0 is out. Take a look at: http://www.intel.com
+
+Here's the coolest part about being involved with GameSpy:  People from all walks of life love to play games online - you never know who is going to call next.  When the guys at Intel called up and said "hey we love GameSpy, how can we help?" it was truely a cool and memorable moment. 
+
+Another memorable moment: When we realized last month that GameSpy had over 1.1 million users. ROCK!
+
+GameSpy 2.0 has been in development for a loooong time and the changes aren't going to be readily apparent from the interface.  The architecture has changed tremendously however, enabling a lot of interesting possibilities.  The multi-player gaming scene is changing quickly and we intend to be a part of it for a long time to come.  We sure aren't going to get rich, but as long as we deathmatch until 5am and can't wait to do it again the next day, GameSpy will rule my world.  Just can't get enough.
+
+That said - be prepared for a flurry of updates over the summer.  I won't spoil any of the surprises... but there will be quite a few.  
+
+My hat is off to the GameSpy development team - Joe, Jack and Tim for months of hard work.  Our truely cool beta testing team has also been critical: Recoding an entire piece of software created a lot of bugs. :)  They have worked hard so that the gaming community would benefit.
+
+I also can't say this enough: The brilliant GameSpy logo that so many of us know and love was created by Walter |2| Costinak.   Thank you Walter!
+
+Most of all, I'd like to thank our registered users.  This workload would not be possible to manage without your support. 
+
+Developers interested in GameSpy support for their upcoming games should contact: mark@gamespy.com

@@ -1,0 +1,102 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: markd
+Plan modified: Sat Aug 08 20:47:16 1998
+
+08/08/98
+========
+
+- Mike Werckle has headed back up north.  He is pursuing a freelance job in
+Chicago which will last approximately 3 months.  At the end of that time he
+may come back to rejoin the tribe.  His leaving was amicable and we wish him
+the best of luck.
+
+08/07/98
+========
+
+Thought Update
+==============
+- Jan Brady is 40.
+- The reason I mentioned the commodore was because the memory increase was a
+cool 2^10.  Yeah, 20 years ago in '78 I use my first TRS-80 with 16k and
+100khz, which would mean a 2^13 increase in memory and 3000 times increase in
+speed, but I thought this was cooler.
+- Maybe I shouldn't have said "named" after the planets.  I got numerous
+etymological accounts how this day was based on this Norse god etc.  What I
+should have said was that if you look at all the modern european languages
+(where english was partially derived from) the days of the week are based on
+the fact that there were 7 planets.  So the "concept" of 7 days came from the
+pagans, and Norse mythology lent us a whole bunch of "snazzy" names (Not!).
+
+08/06/98
+========
+
+Some Thoughts
+=============
+- Marsha Brady turned 42 yesterday.
+- 10 years ago I was using a Commodore 128 with 128k RAM at 1Mhz, today I use
+a Pentium II 300 with 128Mb of RAM, That is 1024 times the memory and 300
+times the speed.
+- The days of the week are named after the 7 planets (pagans thought there
+were only 7 including the moon and the sun)
+- Never mention a surprise even if you don't nail down a date ;)
+
+Demo News
+=========
+- the demo patch continues.  Activision has been doing some QA on one, and
+some more stuff cropped up, but it shouldn't be too much longer.  3.17 has
+been successfully merged in the code.  The network traffic has been
+dramatically reduced.  Everything mentioned below has made it in there.
+- Has anyone made their own HUD files out there?
+
+07/30/98
+========
+
+I am blown away by all the cool things happening online with Sin. The response
+has been beyond words, and the team spirit at Ritual is high.  We are
+anxious to finish the rest of the game as I am sure you are anxious to play
+it.  Here is some info:
+
+- There will definitely be a patch to the demo to fix a number of issues, most
+of these have to do with multiplayer:
+1.  Remove cheat codes we overlooked (sorry)
+2.  Speed of net traffic (there were a few optimizations that didn't make it
+in before the demo)
+3.  Fix Zombie problems on servers
+4.  Fix dedicated server heartbeat problems.
+5.  Camgun problems in Bank
+6.  Menu options which are active but don't affect anything in game (these
+will be disabled)
+7.  Initial 3D Audio support
+8.  sounds not playing when fov > 90
+9.  A bunch of other stuff that escapes me.
+
+- Don( OneThumb ) will be putting a known bugs section in front of the Sin Bug
+submission form, so we can cut down on dupe submissions.
+
+- It is great to see benchmarks out there, BUT please keep in mind that Sin
+has really not gone through the optimization phase yet.  This is something I
+had planned before the demo, but alas, time sux.  The numbers you see around
+are sure to increase by the time the game ships.  We will most likely still be
+a little slower than Q2, because our world and model poly counts are just
+plain higher, but I think the benchmarks will be a lot closer.
+
+- look for a Ritual surprise next week :)
+
+- One more thing, Sin is not a 3rd person game, but if you hit F6 or
+"toggleviewmode" it will put you in 3rd person, the update to the demo should
+have the 3D crosshair we had in at E3, which actually allows you to play the
+game from a 3rd person perspective.  This can be fun.
+
+
+=========================================================================
+=  = = Mark Dochtermann = Ritual Entertainment
+=========================================================================
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************
+pleasant email 

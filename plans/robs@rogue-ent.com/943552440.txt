@@ -1,0 +1,12 @@
+Login: robs           			Name: Robert Selitto
+Directory: /usr/users/robs          	Shell: /usr/local/bin/tcsh
+Last login Thu Nov 25 13:16 (CST) on ttyp0 from 208.216.126.229
+Mail last read Thu Nov 25 13:19 1999 (CST)
+Mail forwarded to: "|exec /usr/local/bin/procmail"
+Plan:
+11/25/99
+
+Happy Thanksgiving! 
+
+     I'm back in New Jersey for the holidays and I'm having a blast. I just wanna wish everyone a happy and safe Thanksgiving. See ya!
+

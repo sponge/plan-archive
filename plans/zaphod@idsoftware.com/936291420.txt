@@ -411,4 +411,47 @@ Q3Test 1.05 is DONE!
 New Linux/Mac versions are going up right now, and we're finishing up the installer
 for the Win32 version.
 
-If all goes well, the Win32 version will follow in a few hours (few =
+If all goes well, the Win32 version will follow in a few hours (few == six or so).
+
+5/9/99
+
+We're getting closer, but I think it'll be tomorrow before we're out.
+
+Internally we're bashing on the new maps, code, servers, and clients.  There is a
+/lot/ of new stuff in there and we want to bang on it for a bit before we release.
+
+We are building installers, pak files, and so forth, so our confidence level is good,
+but since it's only been 15 minutes since the last bug fix (which was a doozy of a
+find BTW) and the new maps are still being bsp'd.  All of this makes a release tonight
+seem like a bit of a risk.
+
+If all goes well we will bash on it tonight and tomorrow, and once John gets in
+tomorrow we'll be ready to go.
+
+5/7/99
+
+We're looking to release Q3Test for Win32 on May 19th.
+
+Just kidding.
+
+We're approaching what we consider a good build on Q3Test for Win32, and our current
+estimate, barring any problems, is that we will release it on Sunday evening.  We will
+release Q3Test updates for Mac and Linux a few hours before Win32 to check for any
+bonehead issues.
+
+There will be completely new data for this version of the test, old versions will not
+be compatible with the new version, and old and new servers do not mix.
+
+If things change I'll let you all know.  But this is the current plan.
+
+5/1/99
+
+Rent day and I need to pay!
+
+I see several people are going for the master server right now.  That's fine, but
+we're changing the format of the server pretty radically over the next few days so
+the packet size will be nice and small and queries can be more detailed.  If you're
+a hacker out there and you want to email me with suggestions, that's cool.
+
+We will be publishing the specs to the master server and MOTD server really soon, we're
+anxious for people to look over that stuff.<

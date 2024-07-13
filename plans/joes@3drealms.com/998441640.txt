@@ -1,0 +1,16 @@
+Account Name:  joes
+Email address: joes@finger.3drealms.com
+----------
+9:21 PM 8/21/2001
+
+As you probably have read, our web forums have been down, and that was due to our old crappy hosting solution.  We were having problems with our old box being too slow, and then the Max Payne videos came out, and it died a horrible, screaming death.  Anyway, after much work and deliberation, our new server is up and online right now.  Our forums have also returned.  The new box is a major screamer, and as such, the slowness of the past is gone.  We've also got a great new host, and we are ready now.  :)
+
+One change in this new box is that it allows us to finally do what we want, we're not bound by the silly restrictions of some of our previous web hosts.  Most of this is background stuff, but it should allow us to be more flexible in the future should future demand or other issues come up.  Due to this change, we've slightly altered the location of the forums.   There is a new location for the forums - so if you used to have them bookmarked, you'll need the new location.  That new location is this:
+
+http://forums.3drealms.com/cgi-bin/ultimatebb.cgi
+
+The forums are live now, so check it out now, and it's good to be back!
+
+If you go to http://www.3drealms.com and don't see the lead story about the server being new, then you have old DNS.  You need to either update your DNS yourself, or wait a day or so, and your ISP should have it updated.  If you can't wait, you can use this URL to get to the web site -> http://216.39.68.180 (Don't bookmark that, as you should continue to try http://www.3drealms.com until it works correctly for you).
+	
+    

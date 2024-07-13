@@ -1,0 +1,43 @@
+Account Name:  Joe Siegler
+Email address: joes@3drealms.com
+----------
+3:14 PM 3/16/98
+
+Trivia Question:
+
+I'm repeating my last question, since it appears to have been missed (it didn't turn up on the usual web site, nor did I get any Emails about it).
+
+Q: Other than Scott's parents, who was the first person ever hired as an Apogee employee?
+
+
+Netscape Problem:
+
+Is there anyone out there who uses Netscape v4(.04) and is adept at the prefs.js file? If so, I'd like to know if you've figured out how to do this:
+
+In the Netscape v4 composer window, is it possible to set the default width of that screen?  If so, I can't figure out how.  For example, if you have your right hand column set for wider than the default of 72 (mine is 79), you can't get it to come up with the correct screen size for your expanded right hand column, and as such, it tries to make the lines look "correct", and it's a big mess.  The lines themselves are right, they're just not displayed on your machine correctly.
+
+So, the bottom line is this:  Is there a way to force Netscape v4 to make the compose window come up in a size other than the default all the time?  I had a look in the prefs.js file, and saw a parameter that seems like it should be it, but it doesn't appear to be it.
+
+If you have any info on this, please let me know (I've already looked at the Netscape UFAQ, that didn't help).  Seems that you can retain the window size if you use "Send HTML", but I would rather not do that (as I'm one of these people who believes that HTML does *NOT* belong in Email).
+
+
+Misc Stuff:
+
+1) The New Van Halen album (Van Halen III) comes out tomorrow.  Should be interesting, as I was a big Extreme fan, too.
+
+2) People keep sending me Email asking what "Fnord" means.  You want the true meaning of Fnord?  Well, the truth is that there is no meaning, but if you must have something, then download this file: http://www.3drealms.com/stuff/fnord.zip.
+
+3) It's rained here for almost the last four days.  I think it's because of my "El Nino" remark a few plan updates ago.  :)
+
+4) Is there anyone out there reading this living in the UK that is into Blake's 7?  If so, can you please Email me?  Thanks.
+
+
+CD's I'm Listening to:
+
+Joe Satriani - Crystal Planet
+Madonna - Ray of Light
+Black Sabbath - The Eternal Idol
+Pink Floyd - The Final Cut
+Van Halen - Best of Vol 1
+	
+    

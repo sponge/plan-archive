@@ -1,0 +1,24 @@
+Username: markus                    In real life: Markus Maki           
+
+
+Plan:
+------------------------------------------------------------------------
+14 October 1998
+
+Sami, Kim and I have been working hard on 3DMark's demo mode. Haven't 
+gotten much sleep. But this has been lots of fun.
+
+A note on the Voodoo2 DirectX6 drivers. We've noted a quite large
+speed increase (20+%) on multi-texturing apps (Max Payne & 3DMark's 
+First Person game test). But it comes with a price.
+
+For a 3D engine, ...
+
+(check finger.planetquake.com for old plan updates)
+--------------------------------------------------------------------------
+
+
+
+
+
+

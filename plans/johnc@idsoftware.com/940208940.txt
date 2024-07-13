@@ -1,0 +1,261 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 3 Arena
+Last Updated: 10/17/1999 21:36:10 (Central Standard Time)
+-------------------------------------------------------------------------------
+10/17/99
+--------
+The next release will be the full "demo" release for quake 3.
+It will include bots and a new, simple level that is suitable for
+complete beginners to play, as well as the existing q3test maps.
+
+The timing just didn't work out right for another test before we
+complete the game.
+
+We plan on releasing the demo after code freeze, when the entire
+game is in final testing, which will give us a few days time to
+fix any last minute problems that show up before golden master.
+
+No, I don't have an actual date when that will be.
+
+---
+
+I got an iBook in on friday.  It is sort of neat (I need to go
+buy an AirPort, then it will definately be neat), but it is
+currently way too slow to play Q3 on.
+
+Apple's high end G3 and G4 systems with rage128/rage128pro cards
+and latest drivers are just about as fast as equivelant wintel systems,
+but the rest of the product line is still suffering a noticable
+speed disadvantage.
+
+The new iMac has a rage128, but it is only an 8mb/64bit version.  Still,
+with agp texturing it is a solid platform with performance that is
+certainly good enough to play the game well on.
+
+Existing iMacs have 6mb ragePro video.  ATI's windows drivers for
+the pro have come a long ways, and Q3 is plenty playbale on
+windows with a rage pro (ugly, but playable).  On apple systems
+(iMacs and beige G3's), the performance is sometimes as low as HALF
+the windows platform.  The lack of AGP contributes some to this, but
+it is mostly just a case of the drivers not being optimzed yet.  The
+focus has been on the rage128 so far.
+
+The iBook is also ragePro based, but it is an ultra-cheap 32 bit
+version.  It does texture over AGP, but it is slooooow.  I suspect it
+is still driver issues, because it is still very slow even at 320x240,
+so that leaves hope that it can be improved.
+
+Another issue with the Apple systems is that Apple 16 bit color is
+actually 15 bit.  I never used to think it made much difference, but
+I have been doing a lot of side by side comparying, and it does turn
+out to be a noticable loss of quality.
+
+
+
+* new lg splash
+* added channel number for local sounds so feedbacks
+	don't override announcers
+* remvoed scoreup feedback sound
+* expand score tabs as needed for large scores
+* fixed bfg obit
+* fixed swimming off floors
+* fixed swim animation when jumping in shallow water
+* fixed first weapopn switch problem
+* convert all joystick axis to button events (twist is now bindable)
+
+
+10/14/99
+--------
+* make sure video is shutfown for errors on startup
+* automatic fallback to vm if dll load fails
+* compressed jump tables for qvm
+* removed common qfiles.h and surfaceflags.h from utils and game
+* don't load qvm symbols if not running with developer
+* "quake3 safe" will run the game without loading q3config.cfg
+* ignore network packets when in single player mode
+* dedicated server memory optimizations.  Tips:
+	com_hunkMegs 4
+	sv_maxclients 3
+	bot_enable 0
+* fixed logfile on mac
+* new time drifting code
+* fixed file handle leak with compressed pk3 files
+* q3data changed to remove shader references from player models
+* throw a fatal error if drop errors are streaming in
+* fixed com_hunkMegs as command line parm
+* spawn spectators at intermission point
+	(info_spectator_start has been removed)
+* new sound channel for local sounds
+* fixed follow toggle on bots
+* don't write to games.log in single player
+* fixed improper case sensitivity in S_FindName
+
+
+10/11/99
+--------
+* handle window close events properly
+* enable r_displayRefresh selection and feedback on mac
+* avoid AGEN_IDENTITY when CGEN_DIFFUSE_LIGHTING
+* colorized railgun muzzle flash, impact flash, and mark
+* exactly synced animating textures with waveforms and collapsed
+	all explosion sequences into single shaders
+* removed unneeded black pass on hell skies
+* fixed grenades sticking to steep slopes
+* scan for next highest fullscreen resolution when exact
+	mode fails (fixes SGI flat panel failing to init)
+* all cgame cvars now have a cg_ prefix (crosshair, fov, etc)
+* clear clientinfo before parsing configstring
+* make all feedback voiceovers share the same channel
+* fixed nodraw curves
+* fixed obits from shooter entities
+* fixed chat char issue
+* separate gentity_t fields into sharedEntity_t
+* reintegrated q_mathsys with q_math
+* cg_forcemodel also forces player sounds
+* unknown cmd commands don't chat
+* fixed strip order on text quads
+
+
+10/7/99
+-------
+* r_primitives 3 path for non-vertex array testing
+* specify sex in model animation.cfg file
+* proper dropping of failed bot inits
+* removed identical pain sounds
+* serverTime strictly increasing across levels
+* added GL_DECAL multitexture collapse
+* windowed mouse on mac
+* fixed byte order issue with curve clipping on mac
+* made com_defaultextension buffer safe
+* fixed levelshot and added antialiasing to image
+* don't clear bot names before kick message
+* made servercommand sequences strictly increasing across
+	level changes
+* unpause on vid_restart
+
+
+10/5/99
+-------
+* fixed steady snapshot test
+* fixed incorrect 0 ping if past client messages
+* fixed loser-disconnecting-at-tourney-intermission
+	sorting problem
+* general purpose flood protection, limiting all user
+	commands to one a second by stalling the client,
+	so the commands don't actually get dropped, but
+	are delayed as needed
+* replace headnode overflow with lastCluster
+* fixed bad extrapolation on unpausing
+* fixed player twitch on unpausing
+* print client names on loading screen
+
+
+10/4/99
+-------
+* allow cg_thirdPerson and cg_thirdPersonRange in games
+* added execed .cfg files to journal file 
+* single pass plasma explosion effect to save overdraw
+* rescaled and sized gib and mark blood to save a lot
+	of overdraw
+* fixed cg.time < snapshot time on vid_restart
+* cl_showSend network debugging tool
+* back to requiring a \ before commands on the console to
+	distinguish them from chat messages.  Tab completion
+	automatically adds the slash.
+* new tab command completion with complete to longest common,
+	multiple match listing, complete first token, etc
+* separate version check for game/cgame in addition to system
+* show r_finish in gfxinfo
+* never show self as attacker icon
+* callvote 
+	vote 
+	Caller automatically votes yes
+	vote has a 30 second timeout
+	each client can only call 3 votes a level
+	vote is displayed on screen with totals
+* renamed cg_gun to cg_drawGun
+* box cull triangle soup models
+
+
+
+10/1/99
+-------
+* 10 crosshairs to select from (cg_drawCrosshair 1 - 10)
+* cg_crosshairx / cg_crosshairy adjustment
+	I'm not convinced these are a good thing, because
+	the crosshair is accurate in Q3 at the default
+	position (unlike Q2, which had an offset firing
+	position)
+* more packet encryption
+* join as spectator in all team games
+* cg_predictItems 0 option to not do local prediction of item
+	pickup
+* rank players counting ties, so the third player when 
+	the lead is tied is third place, not second
+* properly stack all status elements in upper right and lower
+	right corners so they can all be visible
+* faced q3map problem giving black corners in vertex light
+* fixed +button4 not causing footsteps
+* fixed bad groundplane clipping on angled jumppads
+* show "snc" on lagometer when g_syncronousClients
+* new shader command: rgbgen const (    )
+* new shader command: agen const 
+* snap dropped item positions
+* randomized offsets of bubbles
+* fixed cgame restarts processing snapshots from 0
+* proper setup for external/predictable player events
+* fixed q3map vertex lighting bug after alphashadows
+* do personal pain sounds on health transitions
+	so they can never be missed
+* timeout clear player events
+* fixed hang in UI_ProportionalStringWidth
+* quad event implicit on weapon fire
+* fixed gamestate not retransmitting bug
+* fixed timeout issue when paused
+* subdivide command times if <15fps, fixing low
+	com_maxfps physics exploits
+* fixed footsteps playing when walking backwards
+* new options at start of animation.cfg file:
+	footsteps 
+	headoffset   
+
+
+9/29/99
+-------
+I wrote this in answer to a question on the mac opengl programming
+list, but it is of general enough interest to programmers that I am
+repeating it here.
+
+>You also mentioned display lists...  Can you explain what some of the
+>major things that should be rendered using a display list are?  I see
+>the importance of using them for characters (animation) and objects, but
+>what about using them for the rest of the world, particles, and other
+>things that are nifty.
+
+This is not yet a big issue, although even pure software OpenGL's could
+perform some optimizations with display lists that aren't possible with
+vertex arrays.  With hardware geometry acceleration, it can be an honest
+4x improvement in throughput.
+
+The important point is that once geometry acceleration becomes a primary
+target, practically everything will have to be rendered with display
+lists, or you will run into a nasty case of Amdahl's law.
+
+In a busy Q3 battle, the triangle count may be split roughly evenly
+between character models and world geometry.  Going from an empty scene
+to a pitched battle can result in a 50% performance drop if you are
+triangle limited.  Not great, but livable.
+
+If we kept the same ratios and designed for geometry acceleration with
+all the static world geometry in display lists, then the empty scene
+could have 4x the geometry and still be running the same speed.
+However, current OpenGL display lists can't really accelerate high
+quality skinned characters, so when an equal number of character
+polygons was in scene and passed through normal direct rendering, the
+performance would drop to 20% of the original.  Unacceptable.
+
+So, either you would have to u

@@ -1,0 +1,96 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+------------------------------------------------------------------------
+User Name: nels.bruckner     Plan Last Modified: 03/26/1999 10:37:51 PST
+
+Real Name: Nels Bruckner
+Nickname: Nailz
+Job: Programmer/Manager
+Project: Tribes (2)
+E-Mail: nels.bruckner@dynamix.com
+
+[3/26]
+     Just a quick note of clarification about the
+Quake(2) editor stuff.  The added support will allow
+3rd party editors to be used to make the buildings
+that get placed in Tribes maps.  Creating landscapes,
+placing objects, mission scripting, etc. will all
+still be handled via the various tools that ship with
+Tribes and/or get shipped in the near future in our
+free editing package/patch.  Obviously, it would be
+very limiting to use a Quake-style editor to try to
+make a whole Tribes level.
+
+
+[3/25]
+     ZED is dead, baby...
+
+     We are putting the (hopefully) finishing touches
+on the various mission building tools as well as a
+few tweaks to the OpenGL stuff.  We have decided to
+end development on our in-house building editor,
+"ZED".  We will probably release the current version
+of ZED with the other tools but in the near future it
+will be replaced with a converter for Quake-style
+maps.  Since there are so many good Quake(2) map
+editors around (WorldCraft, etc.) this is a pretty
+easy decision at this point.  Of course, way back
+when we started on Tribes there weren't very many
+nice editors available and it seemed like a good idea
+to build our own.  Ahhhh, what a difference a few
+years can make. :)
+
+[3/4]
+     Wow, it's been a long time since I updated.
+Lots of stuff has been going on, both with Tribes and
+Dynamix.  Things are kinda settling down now... just
+in time for me to head off to Cabo San Lucas for a
+little vacation!
+
+     On the Tribes front, I'm slowly adjusting to my
+new role with the team, which is basically a
+managment and coordination role.  I get to make sure
+all the loose ends are accounted for, make sure
+everyone is communicating, keep everyone both happy
+and focused.  Gee, should be a no-brainer. :)
+
+     Our sights are now set firmly on E3... we should
+have much cool stuff by then.
+
+[1/28]
+     Putting the finishing touches on the patch...
+NOT the OpenGL patch.  That comes next.
+
+     Just got all the GameSpy/PingTool/etc. stuff all
+put together and shipped off.  Hopefully a lot of
+these front-end programs will be supporting Tribes
+very soon (I think Kali already has it running and is
+just testing a bit... they say it will be out by
+Friday the 29th).
+
+
+--Nailz
+
+
+[Now Playing:]
+Overkill - Necroshine
+
+[Top 5 Bands:]
+Black Sabbath (forever, man)
+Corrosion of Confomity (Deliverance,Wiseblood,Blind)
+Mercyful Fate
+Overkill (a consistantly awesome band)
+Metallica
+
+[Car Lust:]
+McLaren F1 (duh)
+Ferrari F355 F1
+Lamborghini Diablo (any flavor)
+...maybe a Hummer or something 4WD... for the snow.
+
+[Favored Cigars:]
+Montecristo #2
+Opus X (#2, robusto, all of them)
+Cohiba Esplendito (melo, but tasty)

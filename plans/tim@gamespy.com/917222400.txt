@@ -1,0 +1,37 @@
+User:   timplan
+Read:   0
+Unread: 13
+Time:   Sun, 24 Jan 1999 18:00:07 -0800
+Plan:
+Some comments to looneygames, also mailed to them...
+
+I wanted to address some of the comments made about GameSpy.
+1) "However, I think one of the strikes against GameSpy's future is how
+bewildering it's interface and behavior is to beginners."
+Well, we do listen and Jack is working on this very problem for the next
+major release.  Admittedly, GameSpy is really powerful and you do need to
+use that power to get the most out of GameSpy.  Using the tabs really does
+help.
+2) GameSpy being slow.  Well tweak it!  I went to great pains to allow you
+to tweak it.  GameSpy is sort of tuned for modem to ISP use.  If you are on
+a network or have DSL or cable modem, then you should definately tweak it.
+Joe has DSL now and uses 60 threads I believe.  GameSpy averages several
+pings.  It sends one, waits for the response, and when it times out or
+receives the response, sends another.  Other programs blast multiple
+packets. GameSpy actually talks to the servers rather than sending ICMP
+packets.  We don't blast because we are not trying to flood the servers.
+There are a lot of GameSpy users.  Try reducing retries to 1.
+3) RTFM. That goes for any program, not just GameSpy.  'nuff said there.
+4) GameSpy is not really any slower than it used to be while querying.
+There are a lot more servers now.  Try the SmartSpy filters too.  Fewer
+servers means GameSpy finishes much faster.  Again tweak it.
+5) IPX/SPX.  There are very few things I hate in the computer world but
+Novell is one of them.  None of my computers has IPX installed.  That
+seriously helps Windows stability.
+6) GameSpy has chat.  RTFM or click the spy guy with the balloon.  Oh, read
+the tool tips.
+
+Timothy 'CMonster' Cook
+http://www.gamespy.com
+http://www.mindspring.com/~cookti
+

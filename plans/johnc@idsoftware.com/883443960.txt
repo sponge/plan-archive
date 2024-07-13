@@ -1,0 +1,282 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 12/29/1997 20:22:25 (Central Standard Time)
+-------------------------------------------------------------------------------
+------------------------------
+Dec 29: 8:00 PM CST:
+
+Please cool it a bit with the email to me unless it is really
+important.  I'll never get trinity done with the email pouring
+in the way it is right now...
+
+------------------------------
+Dec 29: 2:30 PM CST:
+
+The only widely reported problem with 3.09 is that the
+video playback is choppy.  The fix for the modem connections
+reduced video playback to 10 fps.  Its a one line fix, but
+I'll hold off on another version until a few more things
+accumulate.
+
+I am curious what the breakdown of opinion is on the rapid
+patch releases.  If one of the polling websites would pose
+the question, I would apreciate it.
+
+A more liesurely patch release would allow us more testing time, and
+some problems (like this cinematic bug) would certainly be killed
+before the public saw it, but I definately found a couple things from 
+the public that no amount of testing on our machines would have found.
+Some things only showed up with 48 people playing on our servers for
+several hours.
+
+Once again, we really didn't have a choice this time because of the
+server crashers, but we are planning another release in two to three
+weeks.
+
+I am happy to produce new versions fairly rapidly, rather than at monthly
+intervals, but I know that many people are getting a little irate at
+having to download new patches.  There is a simple solution -- if you
+don't want to be on the bleeding edge, wait a week after a patch is
+announced and see how it is working for other people.
+
+What finally helped me get to the bottom of some things was
+just getting people with problems we couldn't reproduce to call
+me and let me send them executables by email until I figured out
+what was going on.  From now on, if you send a detailed problem to me,
+include a phone number and times when you can be reached.  I'm not tech
+support, so you certainly can't count on a response, but if you have
+a nice repeatable case of a problem that is high priority for us that
+we can't reproduce otherwise, your personal help may be usefull.
+
+BTW, does anyone know why Quake 2 became a hacker target?  I can keep
+fighting attacks, but spending my time there doesn't help anyones game,
+and there are a bunch of things that fundamentally can't be stopped if
+people really set their mind to messing up the servers.
+
+------------------------------
+Dec 29, 2:25 AM CST:
+
+new version:
+
+ftp://ftp.idsoftware.com/idstuff/quake2/q2-309.exe
+
+This one has an install that makes sure things get where they
+need to...
+
+
+------------------------------
+Dec 28, 9:30 PM CST:
+
+If Quake2 is crashing on you after upgrading, it is probably
+because you still have the gamex86.dll from q2test in your
+quake2 directory.  The latest quake2.exe just started looking
+in the exe directory as well as the game directory to make
+debugging easier, and it brought out this problem.  You should
+only have gamex86.dll in baseq2 unless you are doing specific
+development.
+
+I had a version check in there, but I never bumped the game
+api version, so it was ineffective.
+
+We are going to release yet another new version tonight.
+
+The big news is that the modem connection and level changing
+problems are fixed.  They should have been fixed in 3.07, but
+a timing error kept it from functioning.
+
+I also found the "no such frame" warnings that scrolled by
+under some circumstances.  BFG gibbing crouching people would
+cause it.
+
+There are several other fixes in the menu and renderers as well,
+so everyone should upgrade.
+
+We are testing with 3.09 on our servers now, but I want to
+make an incompatable change before releasing:
+
+Right now, any client can send a "connect" message to the
+server and grab a client slot.  If they are the wrong version,
+they will tie that slot up until they time out ot abort the
+connection process.
+
+I am going to force clients to send their version number
+with the connection request, so that bad clients will never
+take up slots.
+
+That will require everyone to upgrade to 3.09 to play.
+
+I apologize for the flurry of versions, but this was a forced
+set of releases due to the server attacks, and lots of people
+are on vacation here.  It certainly could have been tested
+better, but I thought it better to try and get something out
+ASAP.
+
+
+Check back in the morning for a new version...
+
+
+BTW, we will release the new gamex86 source code after we are
+convinced that we aren't going to be making another patch
+for a couple weeks.
+
+------------------------------
+Dec 28, 5:00 PM CST:
+
+No crashes on any of the servers!
+
+A few comments on some reported problems:
+
+You have to press the "attack" button to respawn in deathmatch
+now.  This allows you to chat and go into the menu.  I have
+got several mails from people that are typing "kill" or
+reconnecting to servers after they die...
+
+Old savegames will NOT work with the patch.  Just cheat yourself
+to aproximately the same place you were before.  The game included
+config files for starting off at each unit.  You can exec one of
+those to get you close, then do "give" commands if you want to be
+more precise.  (bigguun.cfg, boss.cfg city.cfg, command.cfg,
+factory.cfg, hangar.cfg, jail.cfg, mine.cfg, power.cfg, space.cfg,
+warehouse.cfg).
+
+I think several people are failing to get the gamex86.dll into the
+baseq2 directory.  if "fov 120" doesn't change your field of view,
+the server doesn't have the right gamex86.dll.
+
+------------------------------
+Dec 28, 5:00 AM CST:
+
+Ok, two hours without a crash on four servers.
+
+Here is a new patch:
+
+ftp://ftp.idsoftware.com/idstuff/quake2/patch_08.zip
+
+3.07 and 3.08 can interoperate fine.  All servers should upgrade
+to 3.08, but if you gravved the 3.07 earlier today and only play
+as a client and don't need timedemo, you don't nned to upgrade.
+
+------------------------------
+Dec 28, 2:55 AM CST:
+
+There were a few problems with the 1.07 patch:
+
+Bodies stuck under doors caused a repeated explosion effect.
+Timedemo was broken.
+The servers crash about once an hour under full load.
+
+I have the first two fixed, and I hope the third.  The four
+servers at Id are running a new executable.
+
+If the servers don't crash in the next hour or two,
+I'll put another release out.
+
+------------------------------
+
+Dec 27:
+
+The 1.07 patch is out:
+
+ftp://ftp.idsoftware.com/idstuff/quake2/patch_07.zip
+
+Please mirror and distribute this.
+
+When submitting bugs, make sure you say that you already have the
+3.07 patch.
+
+Christian will go through and update the bug page when he gets back
+from vacation next week.
+
+This release does not fix all known problems.  We intend to have
+another release in a few weeks.
+
+------------------------------
+
+Dec 25:
+
+We are going to release a new quake 2 executable that fixes the
+malicious server crashing problems Real Soon Now.  It also fixes a
+ton of other problems that have been reported, so we are going to
+have to give it some good testing before releasing it.
+
+John Cash has two kids that would lynch him if he came in and worked
+on christmas, so we certainly won't be able to get a release candidate
+together before the weekend.  I am fairly confidant we will have it
+released to the public on sunday.
+
+I have been spending most of my time on trinity research but I have
+still made quite a few fixes to Q2.  John Cash has made many more (he
+is just finishing up the IPX coding, among other things).
+
+I have been doing a lot of testing over a proxy that gives me a very
+bad ping (400 - 800), so I was able to find and fix two significant
+errors with the prediction code.
+
+The reason why you get a jerk when running forward and firing rockets,
+blasters, or grenades is that the client side prediction code was
+blocking you on your own missiles.
+
+The jerky behavior on plats was due to a subtle error in the prediction
+error interpolation.  A prediction error was causing oscillations as long
+as your latency, instead of smoothing out over just 100 ms.  The plats
+are now smooth as long as you aren't dropping packets, and other
+mispredictions are also handled much better.
+
+There are still a lot of other things that will be fixed in an upcoming
+release, but this will definately be an executable worth grabbing.
+
+My fixes:
+
+* zombies aren't being removed properly
+* joystick not in menu
+* classname for rockets and bolts
+* no screaming when invulnerable and in lava
+* lowered water blend values
+* clear powerups when dead (no more breather sounds)
+* only play "computer updated" three times max
+* mapname serverinfo now updated properly
+* changed "rejected a connection" to "Server is full"
+* made console "rejected a connection" a developer only message
+* made WSAWOULDBLOCK warning silent
+* max 10 packets/second during connection process
+* set cl_maxfps to 90
+* increased loading plaque timeout value to 120 seconds
+* paused not default to 1
+* no savegame in deathmatch
+* fixed ; binding from menu
+* no crouch when airborne
+* removed half-baked $ macro expansion
+* pause on landing before re-jump (fixes no fall damage bug)
+* public server framework
+* no ; comment in config files
+* teleporter events
+* lower hyperblaster damage
+* don't use PORT_ANY for clients!
+* fix the entity number thing here
+* don't re-check CD after the first time
+* auto cddir from cd scan
+* dissallow kill from intermissions
+* faster rockets
+* less bfg effect damage
+* remove packet command from client
+* strip trailing spaces on cmd_args
+* added protocol to serverinfo
+* used CMD_BACKUP instead of UPDATE_BACKUP for phone jack
+* don't predict clip into your own missiles
+* good netgraph
+* validate userinfo for semicolons and quotes
+* don't copy savegames on dedicated servers
+* also check current directory for game dll loading
+* changed connect packet on client to differ from server
+* bump protocol version
+* fixed error interpolation on plats
+* only respawn with attack or jump
+* fov as a userinfo
+* show weapon icon if fov > 90
+
+
+-----

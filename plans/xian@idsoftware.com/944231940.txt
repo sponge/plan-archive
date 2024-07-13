@@ -1,0 +1,58 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+Last Updated: 12/03/1999 10:06:27 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+Dec.03.1999 @ 10:15am
+
+ Q3ADemo.exe for Win32 has been uploaded to Sandpiper. I'm waiting for a callback
+from their NOC to verify that replication has been started. It should hopefully
+be live sometime before 1pm CST if all goes well.
+
+
+12/02/99  04:27p            48,908,140 Q3ADemo.exe
+
+
+ On another note, I thought it important to address a security issue with your
+Quake 3 config files for the commercial release.
+
+ When you enter your CD Key, we store it in q3config.cfg in the cl_cdkey cvar.
+Unencrypted. Please treat your retail config files as you would the alarm code
+to your house, or the PIN number on your bank card. If you must send your configs
+to someone, please make sure to edit out the "set cl_cdkey xxx..." line.
+
+ It was brought to my attention that there was a scam with Half-Life CD Keys a
+while back where people were asked to e-mail their configs to HLSupport@hotmail.com
+or something to that effect, and I'd hate to see an innocent customer unknowingly
+succumb to a similar scam with Q3A.
+
+ Cheers,
+
+ -Xian
+
+PS: Hi Mom.
+
+
+---
+
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, mud slides, forest fire, or projectile (which can 
+include, but not be limited to, arrows, bullets, shot, BB's, paintball, shrapnel,
+lasers, napalm, torpedoes, or emissions of X-rays, Alpha, Beta and Gamma rays,
+knives, stones, etc.). 
+
+---

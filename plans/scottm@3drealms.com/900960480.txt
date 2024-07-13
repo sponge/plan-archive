@@ -1,0 +1,205 @@
+Account Name:  Scott Miller
+Email address: scottm@3drealms.com
+----------
+========================================
+July 20, 1998 (updated)
+
+News Bulletin:  DWANGO Beware!
+
+Oh no!  Will DWANGO be next?!  (http://www.dwango.com/)
+
+Their eyeball logo is surely a rip-off of the LucasArts logo.  And after all,
+considering LucasArts' prominence in the computer game industry, it is hard to
+believe that the DWANGO logo was not copied from the LucasArts logo!  (At
+least, that's what LucasArts' attorney's might believe, like they did with the
+Remedy Entertainment logo.)
+
+Who's eyeball will be poked out next by LucasArts?  We may soon see!
+
+
+News Bulletin:  Melbourne House Beware!
+
+Yikes!, Melbourne House (makers of KKND and KKND2 for EA) also has a logo with
+an eyeball:  http://www.melbournehouse.com/.  I can't believe they would so
+blatantly copy the LucasArts logo!  Don't they know that the prominence of
+LucasArts in the computer industry means that anyone with an eye in their logo
+MUST be copying the creative geniuses at LucasArts and their brilliant logo.
+Apparently, LucasArts owns the eyeball idea, and they're ready to "socket" to
+anyone else who's similarly brilliant.
+
+Watch out guys, expect LucasArts to send Darth Vader your way!
+
+Unfortunately for us developers, the Farce is among us.
+
+========================================
+July 17, 1998
+
+News Bulletin:  Developers Beware!
+
+It seems the attorneys at LucasArts think that the Remedy Entertainment
+company logo (can be viewed here: http://www.maxpayne.com/) is too similar to
+the LucasArts logo.
+
+FYI, Remedy Entertainment is working with 3D Realms to develop the PC game Max
+Payne, which recently garnered a great deal of positive feedback from the
+recent showing at the Gathering of Developers' E3 booth.
+
+A letter (dated July 9) from LucasArts' attorney, John Sullivan, of Fenwick
+and West LLP, claimed:  "The Remedy Entertainment logo so closely resembles
+the top portion of the LucasArts logo, which, like the Remedy Entertainment
+logo, forms an eye, that, considering LucasArts' prominence in the computer
+game industry, it is hard to believe that the Remedy Entertainment logo was
+not copied from the LucasArts logo."
+
+It's true that both logos have an eye, but beyond that aspect they are
+entirely different.  I can assure all that Remedy did not purposely
+incorporate an eye in their logo to copy the LucasArts logo--the fine artists
+at Remedy are a little more creative than that!  I'd say that the only people
+who are confused by these two logos are none other than LucasArts' attorneys. 
+I'll bet the rest of the gaming community has no trouble telling them apart.
+
+Mr. Sullivan than asks Remedy to stop using the logo:  "Accordingly, we ask
+that you conform no later than July 17, 1998 that plans to use the Remedy
+Entertainment logo have been abandoned and that another logo, which does not
+resemble the LucasArts logo, will be used instead."
+
+Remedy has decided to change their logo ASAP, but not all due to legal
+pressure from LucasArts.  Previous to this legal threat from LucasArts, Remedy
+had concluded that their logo looks like utter crap, and they had been working
+on a new design that better incorporates their company's name (much like the
+Apogee and 3D Realms' logos do), which should be ready in a few weeks.
+
+I'm quite bothered by this tough stance taken by LucasArts, and I just want to
+warn other developers not to include an eye in their logo!  May the Force
+leave you alone...  ; )
+
+Next Generation also wrote about this story: 
+http://www.next-generation.com/jsmid/news/3971.html
+
+========================================
+July 8, 1998
+
+A few people have reminded me that many months ago I said that I'd write about
+the negative effects that realistic and improved graphics have had on the game
+industry.  I guess it's time to pontificate.  Who knows, I might even have a
+valid point or two--sometimes I get lucky that way.
+
+Let's get this straight:  Everyone loves the improved graphics we're seeing in
+today's games.  The key problem is that too often developers focus on graphics
+and lose focus gameplay issues.
+
+This is why most FMV (full motion video) games fell flat on their pompous
+faces.  This is why the convergence of Hollywood and Silicon Valley won't
+revolutionize the game industry.  This is why Rocket Science never had a
+chance.
+
+Spin the date dial back to the late 70's and early 80's, when graphics were
+1-bit, we're talking black and white, but included masterworks like Asteroids,
+Space Invaders, Space War, Battlezone, and Pong.  Other 1-bit games used
+colored plastic overlays on the monitor itself, like Star Castle, Armor
+Attack, and Warlords, and on some machines those overlays even lined up
+correctly.
+
+But you know what, as unrealistic as those graphics were, those games were
+addictively fun.  Later games like Pac Man, Galaxian, Missile Command,
+Tempest, Defender, and Centipede graduated to 2-bit (4 color), and even 4-bit
+(16 color) graphics.  But still, the graphics weren't the selling point--it
+was still the balanced, polished gameplay.  Designers back then for the most
+part designed their games with gameplay in mind first, and the graphics were
+simply a medium to bring their game to life.  Look how these older games have
+been fondly remembered over the years.  There's a single, solid reason for
+that:  Gameplay.
+
+Nowadays, with graphics standards escalating on nearly a monthly basis, it's
+tough for developers to focus long and hard on the juicy meat of game design. 
+Imagine what the game chess might be like if the game designers had focused
+too much attention on the quality of the wooden or stone pieces, and the
+detail and shape of the pieces (polygon count?).  I can't imagine that these
+were important considerations when the game of chess evolved, meaning chess'
+gameplay (game rules and the interaction of the pieces) mattered most and
+could be polished without competing distractions.
+
+However, game players like to see something that looks better than they've
+seen before.  That's what puts the pressure on developers to focus on better
+graphics, and that deducts time from gameplay balance and polishing.
+
+Perhaps the real enemy of gameplay is advancing technology, such as faster
+CPUs and new 3D accelerated cards.  If we could freeze hardware technology for
+five years, then all developers could stop competing so hard on the graphics
+front and once again give due attention to gameplay concerns.  We might even
+have more time to think of a few more original games, since we wouldn't have
+the crutch of just doing what's been done before but with a better graphics
+engine.
+
+I think gameplay is the victim of advancing technology, which favors
+advancements in graphics over advancements in game design.  It's a rare
+development team that can overcome the seduction of advancing technology and
+give gameplay issues proper focus.  Every developers' first step in this
+direction is to be aware of the problem...
+
+========================================
+July 1, 1998
+
+I just read Geoff Keighley's editorial piece
+(http://www.gameslice.com/editorial/0701inside.shtml) about gaming gossip
+sites, such as GamingInsider.  While I like reading these sites, I wish they'd
+employ something close to a journalistic standard.  Much of the stuff posted
+regarding Apogee has been far from correct.  This makes me wonder how much is
+correct regarding the other companies that are mentioned.
+
+The downside with these sites is that they can print whatever rumor comes
+their way, without any need for verification, and without much of a penalty if
+the rumor is wrong.  The upside is that they're fun to read, and I'm sure hit
+close to the truth quite often.  But they should be read with the full
+understanding that what's being written is usually unsubstantiated, possibly
+opinionated, and often flat wrong.
+
+========================================
+June 22, 1998
+
+Geoff Keighley, editor of GameSlice, wrote an interesting article on shareware
+games today:
+
+http://www.gameslice.com/editorial/0622share.shtml
+
+In it, he asks  "Why arent there any new shareware companies or any exciting
+new shareware games being released?"
+
+Having been involved in the shareware industry since 1986, often in key ways,
+I think I can answer this question.
+
+Nowadays, it more often than not takes 10 to 20 person teams to make
+competitive games.  It used to be much different, and not all that long ago. 
+For example, in the early years of Apogee's existence, up until 1993, it was
+normal for a shareware development team to have only 3 to 5 developers, and in
+some cases these developers had day jobs, too.
+
+The original Duke Nukem (a platform style game, technically superior to
+anything comparable), released in mid-1991, was created by two full-time
+developers (Todd Replogle and Allen Blum), plus a few people who contributed
+bits and pieces (including me--I designed all the levels in the shareware
+episode and did most of the game's sound effects).  This game sold 1500 copies
+a month for nearly a year, at $30 a pop, with no middleman retailer or
+publisher.  Apogee was grossing $45,000 a month on a game that took six months
+and maybe $20,000 total to make.  Todd made a significant portion of that.
+
+Shareware in those days was a gold mine because there wasn't much competition,
+even from the retail market, where maybe 40 to 80 games were released a
+year--not the 1200+ that are released in recent years.
+
+The stakes are so much higher now that the game industry is so competitive.  I
+can't see that any small, unfunded shareware team has much of a chance unless
+that team breaks into a new area or opens up a new genre.  Even Wolfenstein
+3-D needed heavy funding from Apogee to get done.  id Software had to be
+guaranteed a significant five-figure advance before they agreed to do the
+game.  In hindsight that advance was insignificant, considering what the game
+made for both companies!
+
+Lots of people think Wolfenstein 3-D came out of nowhere to blow away the
+industry, but that was not the case.  By that time id was a professionally run
+company with several successful Commander Keen games behind them, and they had
+an incredible work ethic from their days working in the sweat shop known as
+Softdisk, cranking out a quality game a month (one of those games being the
+precursor to Wolfenstein 3-D, a 3D EGA title, Catacombs 3-D.)
+
+Geoff ask

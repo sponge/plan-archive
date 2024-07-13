@@ -1,0 +1,244 @@
+Account Name:  Scott Miller
+Email address: scottm@3drealms.com
+----------
+========================================
+Sept. 14, 1998
+
+Last week I went to ECTS in London, and then to Finland for a few days to visit Remedy 
+(developers of Max Payne).
+
+ECTS is a mini-E3, catering to the European game industry.  It's a worthwhile show because many 
+of the attendees don't make the long trip to E3 and this is their chance to see all the coming 
+games, hardware and meet people face-to-face.
+
+Max Payne was the only game 3D Realms was showing at the show (no Duke or Prey), which was 
+being demo'ed in the Take 2 booth, in a backroom area reserved for Gathering of Developer games.  
+(Take 2 is the exclusive distributor of Gathering games in Europe.)  Remedy's Petri Jarvilehto 
+(project leader) and Sam Lake (lead designer, story architect) showed the game for three solid 
+days to impressed crowds.  I've heard through solid sources that Max earned at least two Game of 
+Show honors from major industry publications (yet to be publicly announced).
+
+The other three Gathering games on display (TRI's Nocturne and FLY!, Pop Top's Railroad Tycoon 
+2) also impressed all who saw them.  Other mighty impressive games I saw at the show were 
+Anachronox, Outcast, King Pin, Super Bikes and Zelda.
+
+Went to see a very cool movie in London one night, "Lock, Stock and Two Smoking Barrels," (a 
+low-budget British film that's as good as Pulp Fiction) and who's buying a ticket right beside me!?  
+James... James Bond, a.k.a Sean Connery.  And he's seeing the same movie!  Too cool!  The movie 
+mentions "James Bond" and I turned around to see Sean chuckling with his female friend (maybe 
+his wife, don't know).  And no, none of us seeing the movie rudely asked for his autograph.
+
+After ECTS I flew to Finland with the Remedy crew, staying in Helsinki.  I can't do justice to 
+Finland's beauty, which I've heard it's comparable to northern Canada.  There are hundreds of 
+lakes all surrounded by green forest on rolling hills of rosy granite.  Most family's in Finland have a 
+computer, and *everyone* carries a cell phone--A Nokia phone, of course, since Nokia is a Finnish 
+company.  Unlike the USA, which is just now going digital, Finland went digital half a decade ago.  
+The just-out new Nokia phone is ultra small, all chrome, and doesn't have an antenna (its case it 
+the antenna).  I tried to buy one but unfortunately it won't work in the States.  Damn.  I did buy a 
+bulging sack of Finnish candy, though.  : )
+
+We spent two days of solid meetings on every facet of Max Payne.  These discussions were so 
+productive I'm returning in February to do it again.  Also did the Finnish sauna routine, 20 minutes 
+of 216 degree skin melting torture followed by a dive into icy cold lake water, the latter which I 
+refused to do!
+
+Finally, I got to meet Peter Molyneux (founder of Bullfrog), the PC game designer I respect most, 
+and spent copious time with Mark Rein of Epic Megagames, who is still full of ideas designed to rule 
+the gaming world.  Also got to hang out with several other designers I respect, like Justin Chin and 
+Dave Jones (head of DMA Design).  Overall, a terrific trip.
+
+========================================
+Aug. 28, 1998
+
+*  The premier issue of PC Accelerator says that Duke Nukem 3D is the greatest manly game of 
+all-time.  Wait until they see Duke Nukem Forever!
+
+*  I'm currently helping an author of one of the top gaming web sites write an article on 
+shareware, how it started, who the early players were, and where it's going.  Part of this will 
+include several tidbits about Apogee's early relationship with id, including the letter I original wrote 
+to John Romero (in 1990) in which he thought I was some psycho fan.  Luckily, I kept good 
+records from the "old days" and can quote directly from his letter.
+
+*  Most people know about the Duke Nukem movie we're involved with.  As Obi Wan said, "There is 
+another..."  Can't go into details yet.  This is why we make character-based games.  I wonder why 
+most other developers don't do the same.
+
+========================================
+Aug. 14, 1998
+
+*  Duke Nukem movie made a big leap yesterday.  The most recent story draft is finally something 
+that represents what we've been looking for.  We (Threshold and 3D Realms) have been molding 
+and rewriting this thing for six months, but now we have a concept that excites us, and therefore 
+we think will excite Duke fans.  Can't talk about details this early--sorry for the tease.  ; )
+
+*  In the Sept. issue of Game Developer magazine (www.gdmag.com) Warren Spector writes a 
+guest column ("Soapbox") that's hits on about a dozen design points that every game developer 
+should know before heading into the dangerous world of game design.  For example, a big game 
+world is not necessarily an interesting game world.  And conversational branching into a deep tree 
+is rarely fun (most game players end up trying every single branch anyway, just to make sure they 
+haven't missed anything, and this ends up being very tedious).  After reading this piece, I have 
+heightened enthusiasm for Warren's coming game, Dues Ex.  I recommend all developers give this a 
+read.
+
+========================================
+July 24, 1998
+
+Sequels:  The Lame Name Game
+
+Advice to publishers and developers of sequels:  Stop using the ultimate lame
+name device:  sequel numbers.
+
+3D Realms will never have a game title like Duke Nukem 4, Max Payne 2 or Prey
+2.  We think those "sequel numbers" that follow a game's title are both
+uncreative and lame.  Many movie sequels have equally lame titles, like the
+Lethal Weapon sequels, the Godfather sequels and the Rocky sequels.
+
+As an alternative, look at movie sequels that avoid using the lameness of
+sequel numbers.  The Star Wars sequels, thank George, are not named Star Wars 2
+and Star Wars 3.  Same with the Indiana Jones sequels, each having its own
+original name, making each movie seem more like an episode in a TV series. 
+George Lucas has figured out the sequel name game.
+
+The Batman sequels, the Alien sequels, and the James Bond series also rely on
+each movie having its own unique name, rather than simply attaching a lame
+sequel number.  But some sequels try to have it both ways, going with a sequel
+number and a new subtitle, like Speed 2:  Cruise Control, but this doesn't
+work--the lameness of the sequel number is still there, plus the name is way
+too long.  Why not just name the movie Cruise Control and lose the Speed
+reference?   (E.g.  The sequel to Jurassic Park wasn't Jurassic Park 2: The
+Lost World, it was simply The Lost World.  Lameness avoided!)
+
+From a marketing standpoint, sequel numbers seem like a good idea, because they
+build upon the awareness and equity built into the original title, but in the
+long run they are detrimental because they look like rehashes of the original
+product, rather than stand alone original works on their own.
+
+Tomb Raider 2 and Tomb Raider 3 are both extremely lame titles.  If Eidos had
+as much guts as their star character they'd have instead followed the Indiana
+Jones model for their game titles:  Raiders of the Lost Ark is equivalent to
+the first Tomb Raider title, in that in neither one is the starring character's
+name used.  But in the next two movies Lucas wisely emphasized Harrison Ford's
+character in the titles (Indiana Jones and the Temple of Doom, and Indiana
+Jones and the Final Crusade).  The second and third Lara Croft games should
+have followed this same model, with names like Lara Croft and the Lost City (or
+whatever is appropriate to the each game's story).
+
+The continued use of the Tomb Raider name in the sequels is lame in another
+respect, too, because it forces each game to take place in a tomb location
+every game, otherwise the title doesn't make sense.  Eidos is really missing
+the boat by not emphasizing the Lara Croft character in their game titles, and
+freeing up the versatility of the game's locations.
+
+At 3D Realms, we don't even view games as sequels, we think of them as new
+episodes in an on-going TV series.  Who thinks of each TV episode as a sequel
+to the previous episode?  No one.  We apply the same thinking to our games and
+our game titles, and so you'll never see a game named Duke Nukem 4, just like
+an episode of X-Files isn't titled X-Files 117.
+
+Here are more lame examples of sequel numbered games:
+
+Warlords III:  Darklords Rising -- Why not simply Darklords Rising?
+
+Blood 2:  The Chosen -- Why not just The Chosen?  Is connecting this game to
+Blood really that beneficial!?  Look at DreamWorks' game, Trespasser, which
+thankfully avoided the lame alternative, The Lost World: Trespasser--someone
+had the smarts to realize they didn't need to blatantly attach "The Lost World"
+brand to this game's title.
+
+Might and Magic VI:  The Mandate of Heaven -- Why not just The Mandate of
+Heaven and somewhere on the box have a Might and Magic logo, like James Bond
+has the 007 logo?
+
+Jazz Jackrabbit 2 -- I would have gone with the title Jazz and Spaz instead,
+since both characters are emphasized heavily in this game and on the box front.
+
+KKND2:  Krossfire -- Why not just Krossfire?  And if that's trademarked
+already, then think of something else as klever.
+
+Need for Speed III:  Hot Pursuit -- Should just be Hot Pursuit with a Need for
+Speed logo somewhere on the box front.
+
+Descent:  Freespace:  The Great War -- No sequel number, but this name is just
+out of control!  And why it's attached to the Descent series I can't figure
+out, what are we descending into?
+
+To be fair, Apogee has had one lame sequel name, Duke Nukem 2 in 1993, but
+since that time we got a clue.  Better late than never.
+
+========================================
+July 8, 1998
+
+A few people have reminded me that many months ago I said that I'd write about
+the negative effects that realistic and improved graphics have had on the game
+industry.  I guess it's time to pontificate.  Who knows, I might even have a
+valid point or two--sometimes I get lucky that way.
+
+Let's get this straight:  Everyone loves the improved graphics we're seeing in
+today's games.  The key problem is that too often developers focus on graphics
+and lose focus gameplay issues.
+
+This is why most FMV (full motion video) games fell flat on their pompous
+faces.  This is why the convergence of Hollywood and Silicon Valley won't
+revolutionize the game industry.  This is why Rocket Science never had a
+chance.
+
+Spin the date dial back to the late 70's and early 80's, when graphics were
+1-bit, we're talking black and white, but included masterworks like Asteroids,
+Space Invaders, Space War, Battlezone, and Pong.  Other 1-bit games used
+colored plastic overlays on the monitor itself, like Star Castle, Armor
+Attack, and Warlords, and on some machines those overlays even lined up
+correctly.
+
+But you know what, as unrealistic as those graphics were, those games were
+addictively fun.  Later games like Pac Man, Galaxian, Missile Command,
+Tempest, Defender, and Centipede graduated to 2-bit (4 color), and even 4-bit
+(16 color) graphics.  But still, the graphics weren't the selling point--it
+was still the balanced, polished gameplay.  Designers back then for the most
+part designed their games with gameplay in mind first, and the graphics were
+simply a medium to bring their game to life.  Look how these older games have
+been fondly remembered over the years.  There's a single, solid reason for
+that:  Gameplay.
+
+Nowadays, with graphics standards escalating on nearly a monthly basis, it's
+tough for developers to focus long and hard on the juicy meat of game design. 
+Imagine what the game chess might be like if the game designers had focused
+too much attention on the quality of the wooden or stone pieces, and the
+detail and shape of the pieces (polygon count?).  I can't imagine that these
+were important considerations when the game of chess evolved, meaning chess'
+gameplay (game rules and the interaction of the pieces) mattered most and
+could be polished without competing distractions.
+
+However, game players like to see something that looks better than they've
+seen before.  That's what puts the pressure on developers to focus on better
+graphics, and that deducts time from gameplay balance and polishing.
+
+Perhaps the real enemy of gameplay is advancing technology, such as faster
+CPUs and new 3D accelerated cards.  If we could freeze hardware technology for
+five years, then all developers could stop competing so hard on the graphics
+front and once again give due attention to gameplay concerns.  We might even
+have more time to think of a few more original games, since we wouldn't have
+the crutch of just doing what's been done before but with a better graphics
+engine.
+
+I think gameplay is the victim of advancing technology, which favors
+advancements in graphics over advancements in game design.  It's a rare
+development team that can overcome the seduction of advancing technology and
+give gameplay issues proper focus.  Every developers' first step in this
+direction is to be aware of the problem...
+
+========================================
+June 22, 1998
+
+Geoff Keighley, editor of GameSlice, wrote an interesting article on shareware
+games today:
+
+http://www.gameslice.com/editorial/0622share.shtml
+
+In it, he asks  "Why arent there any new shareware companies or any exciting
+new shareware games being released?"
+
+Having been involved in the shareware industry since 1986, often in key ways,
+I think I can answer this question.
+
+Nowadays, it more often than not takes 10 to 20 person teams to make
+c

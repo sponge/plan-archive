@@ -1,0 +1,252 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: onethumb
+Plan modified: Wed Apr 29 01:51:24 1998
+
+
+Name:  Don MacAskill         
+Email:  onethumb@ritual.com
+Occupation:  Jedi Master
+
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  They are my own views and should not be    *
+* confused with those of the company.                                  *
+************************************************************************       
+
+
+
+- 7/29/98 1:15 am -
+
+-[ Hardcorps Classified Update ]-
+
+While writing and polishing the README that came long with the demo, I tried
+to think of (with lots of excellent suggestions from the rest of the team) 
+things that were new (looting the dead) or even more important (strafing, 
+good aim) in Sin than other FPSes, and incorporate that into the Hardcorps:
+Classified section of the README so that people would understand how the
+new elements work.
+
+Unfortunately, I totally spaced on 2 biggies, which I apologize for.  I'll
+add some sections to the README tomorrow so that everyone can read them, 
+but here they are in short-and-sweet format so you can get cracking on them
+until I have time to write something a bit more clever:
+
+Sniper Rifle 
+To zoom in, simply hit "0" (or the key you've re-bound to be the sniper key)
+again once the weapon is out.  To zoom out, hit it again.  Etc.
+
+
+Weapons Getting Shot Out Of Hands 
+You can shoot weapons out of people's hands, and they can shoot weapons
+out of your hands.  Both in single player and in deathmatch.  I noticed that
+Geoff Keighley mentioned this in his editorial.  You can simply pick up
+your weapon again and begin using it...  What's cool about this is that
+in deathmatch you have a fighting chance with the magnum against heavily-armed
+opponents still... It's quite a rush to shoot a rocket launcher out of 
+someone's hands and then use it to finish them off.  :)
+
+
+I'll try to have something written up in the README later today, so hang
+tight.  
+
+Oh, and if you HAVEN'T yet read the Hardcorps: Classified section of the
+README, I highly recommend it -- your Sin game and understanding of the
+features will drastically improve.
+
+
+
+- 7/28/98 7:33 pm -
+
+-[ Remembering Sin ]-
+
+Man, I still remember when Tom Mustaine (Paradox) took me and a handful of 
+other fanatics over to the Ritual offices last year and showed us the
+preliminary helicopter stuff - complete with a scripted brush helicopter
+he had made!
+
+Awesome to see those things mature and come to fruition, even when no-one 
+else has done them before.
+
+
+
+-[ Response ]-
+
+The response has been wonderful from all of you, we're all pumped up to finish
+the final version of the game.  You guys all rule!  Thanks for all the
+constructive feedback about bugs and gameplay issues...  
+
+Please don't be upset if I can't respond to everyone who emails me, I've gotten
+hundreds and hundreds today alone.  I read them all - but we do have a game
+to complete.  :)
+
+
+
+- 7/27/98 1:11 am -
+
+-[ Sin Demo is OUT! ]-
+
+We had a fiasco with our FTP server for awhile -- too many rabid fans kept
+hitting it!  I think it's under control now, and lightning fast.
+
+If you want the demo, or to read the README (which contains lots of tips,
+tricks, and goodies as well as technical information and whatnot), head
+on over to the Ritual Outpost.
+
+
+http://www.ritual.com/news/
+
+Ritual Outpost
+
+
+Thanks go out to everyone who was very supportive and turned out in huge
+numbers on IRC to cheer us on.  That was incredibly cool.
+
+
+
+- 7/26/98 6:47 pm -
+
+-[ IRC Impersonators ]-
+
+I hate them.  Especially when they then don't believe that I'm the real
+deal.  (Hi Phelon!)
+
+
+
+- 7/26/98 1:14 pm -
+
+-[ Sin IRC Party! ]-
+
+Wow!  500 people and growing FAST!
+
+Come be a part of the Sin Demo release!!
+
+Server:  irc.3dnet.net
+Channel:  #sin
+
+See ya there!
+
+
+- 7/25/98 11:48pm -
+
+-[ Sinday, Bloody Sinday IRC Party ]-
+
+Sinday is 2 minutes away (in my time zone), the demo will be released later 
+today (no, NOT in 2 minutes :), but there are ALREADY 300 people in #sin
+hanging out having a party!
+
+How cool is that?
+
+Come join in the fun!   irc.3dnet.net   <---  server
+
+Join #sin
+
+Have fun.  :)
+
+
+- 7/25/98 2:15am -
+
+-[ Scourge Done Slick ]-
+
+Scourge Done Slick almost rivals Star Wars.
+
+
+
+- 7/23/98 2:23pm -
+
+-[ Planet Hollywood is a go! ]-
+
+49 people have responded that they're coming, so I went over to Planet
+Hollywood just now and got us a reservation for 55.   Should be fun.  :)
+
+But that also means that people just deciding to come over to Planet 
+Hollywood from CPL will need to wait for tables - and it's bound to be a long
+wait.  Only those who emailed me in advance have reservations, so remember
+that.
+
+See ya'll there!  (Ack, now I'm talking like Charlie  )
+
+
+
+- 7/22/98 3:26am -
+
+-[ Lunch Thing ]-
+
+Woo, looks like we'll have a good group going to Planet Hollywood (just got
+3 of people emailing me in the last 45 minutes... what are you crazy people
+doing up at 3:30 in the morning?!?!).
+
+I'm going to be giving Planet Hollywood a specific number of people coming, 
+so if you don't email me, you're going to have to fend for yourself and
+wait a looooong time for a table and stuff...  
+
+Just planning on tagging along is probably a Bad Thing(tm) is what I'm trying
+to say.  :)
+
+
+
+- 7/21/98 2:45pm -
+
+-[ Spontaneous CPL Lunch Thing ]-
+
+Oh a whim, I've decided to see if I can create, totally last minute, a fun,
+boisterous gathering of Quake fiends and fanatics for lunch this Friday
+at Planet Hollywood.
+
+For those who don't know, the event formerly-known-as-QuakeCon is happening
+this weekend, and so lots of Quake fans will be in town.  
+
+Planet Hollywood is about 2 miles (maybe less?) from the Infomart, near
+Downtown Dallas.  It's a fun place, and some of you may remember the huge
+gathering we managed at E3 last year in Atlanta.
+
+Well, I want to do it again.  Almost-totally spontaneously, even.  I'm very
+busy at work with the Sin demo, but I do have to eat and this may be my only
+chance to really hang out with everyone from CPL.
+
+So, noonish at Planet Hollywood (near McKinney and North Lamar, in the West
+End Marketplace), be there.  I can't give rides or anything like that, so
+if you want to come, you have to get there on your own.  
+
+Oh yes, and if you're coming, email me and let me know how many people I
+should make reservations for.  
+
+Wonder if this'll even work?  Wonder if I can convince any other Ritual folks
+to come?  Oh well, guess we'll find out.
+
+email:  onethumb@ritual.com
+
+Email me
+
+
+
+- 7/18/98 6:35pm -
+
+-[ Sound Cards Part Two ]-
+
+One on-the-ball reader of my .plan file sent in a link to an $89 Turtle 
+Beach Montego A3D!!  That's a total steal, since it's already at least
+as good (and I'm guessing better than) Creative Lab's new SoundBlaster
+Live! card.   Thanks Brad!!
+
+(It even says it has a "S/PDIF expander port" but that sounds like
+I have to plug something in to get S/PDIF... I'll do a little more
+digging.. S/PDIF stands for Sony/Phillips Digital InterFace, BTW.
+It means I can run pure digital to my receiver.  Yummy.)
+
+Update 6:49pm :  Just checked my Montego, there is indeed a "jack" for adding
+on a S/PDIF card.  No idea how I get one, anyone from Turtle Beach reading
+this?  I *really* want one of those.  It makes the card absolutely perfect.
+
+Update (con't): Also, just discovered that the signal-to-noise ratio is 
+better than 92dB (A weighted).  Yum.
+
+
+I apologize in advance for the long URL, but I thought folks might be
+interested...
+
+http://necxdirect.necx.com:8002/cgi-bin/auth/ifilelnk_q?nonce=guest_pscn&refer=pscn&key=0000124172
+
+<a h

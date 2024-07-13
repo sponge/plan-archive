@@ -1,0 +1,73 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+Home Directory....\\void\users\innerloop
+Last NT Logon.....Friday, June 23, 2000 at 15:50
+
+6/27/2000
+
+Just a quick status update on what we're working on here at the haven - 
+
+The final submission of the patch is going out to Activision today.  This
+is the patch that addresses the issues that Ray posted about earlier on the
+boards, but just by way of summary:
+
+- Save anywhere, named save slots, warnings on overwriting autosaves
+- Pause during combat to issue orders or adjust inventory, disciplines, etc.
+  (this looks really cool BTW - because you still have full camera control 
+   while the particles and effects are all paused, very matrix-esque)
+- Bug fixes (of course)
+- Tweaked AI use of disciplines a bit based on user feedback
+- Improved collision-avoidance and pathfinding issues based on feedback
+- Improvements to make the game more modifiable (changes to how files are
+  found and opened at startup, mainly, easier to add templates and skins)
+- Difficulty tweaked in a few key areas
+
+For MP:
+
+- Much lower bandwidth usage for MP games on modems
+- New Storyteller abilities:
+	- Rename characters in the game at will
+	- Change player generation and humanity stats
+	- Move NPCs between locations
+- Better WON.net performance with load-balancing on chat servers, etc.
+
+These are the main points, there are a lot of more minor tweaks throughout
+the game.  Most of the changes were based on user feedback on our web site
+and bug reports submitted to Activision's customer support folks.
+
+Since this is a fairly major patch, it will undergo a full QA sweep which
+will take several days, so we can't give a firm street date on the release
+yet.  Size shouldn't be too bad, since the changes are primarily code and
+not data.
+
+
+In other news, the first of TWO demos to be released should be arriving
+within a week from today and will be the Dark Ages demo, representing the
+first half of the game.  There will be a second demo for the modern-day
+portion of the game to follow shortly.  These demos use a newer version of 
+the engine so include many of the feature additions like save-anywhere and
+combat pausing.  The dark ages demo should be a bit smaller, around 87MB,
+and the modern day one is a bit over 100MB.  Pretty large, but there's a lot
+in there.  Hopefully you'll give them both a look, they play very differently.
+
+Finally, the first release of the SDK happened about a week ago and has been
+well received.  There is a second release in the works, the main difference
+is just the inclusion of the original .MAP files for the levels in the game,
+so you can see how they were constructed and play around with the original
+brushes, etc.  Overall that's a good way to learn Embrace/Radiant, starting
+with a map you're familiar with.  There are also some small tweaks to the 
+level editing tool for the next rev, but nothing major.  If you have SDK
+suggestions or requests, please use the Editing forum on our web board or
+any of the other editing sites that have popped up.
+
+As always please keep the feedback coming, all 12 of us are working hard to
+address the great feedback we've been getting from the user community to 
+make the game, multiplayer experence, and the SDK everything you want it to
+be.
+
+
+(File last updated on Tue 27 Jun 2000 at 11:02)

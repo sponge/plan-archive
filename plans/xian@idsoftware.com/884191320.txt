@@ -1,0 +1,89 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Jack of All Trades
+Project: Quake 2
+Last Updated: 01/07/1998 12:33:34 (Central Standard Time)
+-------------------------------------------------------------------------------
+
+
+ --- Jan.7.1997 (12:11pm) ---
+
+ Our web and FTP server will be down tonight between 11pm-12pm.
+I'll be working on upgrading the software and doing some maitenance
+on the machine.
+
+ Also, if anyone from Microsoft is reading this, I'm curious to 
+see if there is a solution to fixing bad TCP/IP drivers that Qfecheck 
+reports (ie: VTCP.386, VIP.386, WSOCK32.DLL, and a proper fix for WINSOCK.DLL, 
+short of renaming WINSOCK.OLD to WINSOCK.DLL) It seems that simply installing 
+an update to the Winsock drivers (ie: http://www.microsoft.com/communications/exes/wsockupd.exe) 
+does not fix the problem.
+
+ We've deduced that various connection problems with Quake II is not so much
+an "us" issue as it is a TCP/IP driver version mismatch issue which is beyond
+our control. If the drivers are out of whack, well...
+
+ Is there an update, short of reinstalling your OS, which updates all the network
+drivers to their latest versions? I'd appreciate direct correspondance to
+xian@idsoftware.com.
+
+ --- Jan.6.1997 (1:08pm) ---
+
+
+ Modem Fixes with QFECheck
+ -------------------------
+
+ Some users have reported that Qfecheck states that their WINSOCK.DLL is
+invalid. Upon searching their \WINDOWS directory, they report in having
+a WINSOCK.DLL and WINSOCK.OLD. Upon copying their WINSOCK.DLL to a temporary
+directory, then copying WINSOCK.OLD to WINSOCK.DLL, Qfecheck states that everything
+is up to date, and their connection problems go away.
+
+ --- Jan.5.1997 ---
+
+
+ ------------------------------------------
+ Quake II Modem Connection Problems (Win95)
+ ------------------------------------------
+
+ If you are experiencing various connection problems, I've tracked it 
+down to inconsistencies with Microsoft's TCP/IP drivers (ie: You've installed
+update patches, and for whatever reason, some older version of the driver
+were not updated. eg: VIP.386 or VTCP.386 in your \windows\system directory)
+
+ Microsoft has a utility called Qfecheck which reports the status or your drivers and which ones are out of
+date or are causing you problems. Please download this utility if you are experiencing 
+problems connecting under Windows 95, and if it reports that your TCP/IP drivers 
+are giving you problems, please e-mail me directly with the filenames that it's 
+complaining about. I'll try to have more information available on this within the next
+24 hours as I'm still trying to find a solution for this and working with people
+that have been e-mailing me about this.
+
+ It would be *VERY* helpful, if QFECHECK reports problems with your TCP/IP subsystem,
+take a screen capture of the QFECHECK screen, and attach it in an e-mail to me.
+
+ --- Jan.4.1997 ---
+
+ Just a quick note because I've received e-mails about this already,
+but the 3.10 patch is incompatible with 3.09 servers over the net.
+If you want to play with 3.10, the server you are connecting to needs to
+run 3.10 as well.
+
+ Also, just like it states in the setup program for 3.10, your previous
+savegames are incompatible with patch updates. If you REALLY need to
+patch to the latest version, you can always cheat yourself to an approximation
+of your last savegame.
+
+ --- Dec.30.1997 ---
+
+ Got back from visiting family and friends back in Toronto, and all
+I can say is, I don't know how I put up with Canadian winters as long
+as I did. I brought back a killer cold with me which has left me feeling 
+miserable, but it's really good to be back in Texas. 
+
+ I have a lot of catching up to do, so apologies if I'm late in returning
+any e-mails.
+
+ -Xian

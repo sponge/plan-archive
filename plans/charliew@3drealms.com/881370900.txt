@@ -1,0 +1,85 @@
+Who did you just finger?: Charlie Wiederhold
+Nick: Wieder
+Email: wieder@ritual.com
+What do I do?: Level/Game Design
+
+========================================================================
+Disclaimer!!!
+The views expressed here are solely that of my own and in no way reflect
+the official position of Ritual Entertainment. Simply put: Don't mind me
+And if I misspell something... it was on purpose. Trust me.
+========================================================================
+
+12-5-97
+===============
+
+Work Stuff
+----------
+Quick thing before I get started: Yes, I am working on a 100+ player DM map,
+and am talking to people who write me to discuss the different implications
+of this sort of game. Does this guarantee that SiN will have 100+ player
+DM capability? No. I guess it was easy to assume that that was the case, and
+I apologize for that. Since we are using the Q2 license, we are pretty much 
+bound to what comes from id, and what we add to it after that. We have no 
+idea if the 100+ player stuff will ever work, and I kinda just assumed that 
+everyone who reads .plan files would know that. As far as we know 100+ player 
+stuff isn't working yet. Anyways, to clarify... I'm working on this map... 
+because it intrigues me and is something that is a lot of fun to work on while 
+I wait for the time to start on the future projects. It is also nice to talk 
+to the community about how to handle the situations... because I'm just as 
+eager to try these things out as the next guy. :) And if the whole deal 
+doesn't work out, then I'll just take the map and break it down into some 32 
+and 16 player DM maps. Thus no lost time. Sorry to mislead anyone into 
+thinking that anything was certain. Heck, we may even find out when/if Q2
+gets the capability for 100+ games that it isn't any fun at all. We are all
+flying by the seat of our pants until we actually just get to sit down and
+play.
+
+A n y w a y s.....
+
+Some really good ideas have come up regarding handling the dynamic changing
+of the map size. Some people have suggested really tall elevators that only
+operate when a certain quota is met. The main problem with this is it will
+limit the way you design the map. Right now mine is rather sprawling on the
+x-y axis rather than a whole lot of z-axis changing. As the map comes 
+together the z axis will be put more into play... but I don't really want
+to break it all up to make long elevators.
+
+Quite possibly the best solution for several reasons is the whole teleport
+all players in no longer valid areas back into the valid playing field. You
+re-enter the play with same health, ammo, etc that you had before. This has
+been tried and proven in some of the QTeam mods which is why it is the most
+attractive. Other suggestions have been playing a sound for a while saying
+something to the effect that the area is closing, giving players time to get
+out before they are locked in. But then what do you do with the players still
+stuck in there who don't make it out? Another: simply make teleporters that go
+from the valid play area to invalid play area no longer work giving players
+still in the invalid area the chance to use teleporters to get back into the
+valid field of play.
+
+One of the cooler ideas I have heard so far is the concept of an entire
+tournament in one map. Everyone connects (kinda like showing up to a track
+meet) and does their event. You could setup the map to have Rocket Arena
+areas, regular 1 on 1, Team Fortress, etc. The server could setup events where
+people go in to compete in their respective division, etc. And something else
+that would be cool for stuff like this would be the ability to hop around to
+different games to see what is going on while you wait for your turn in your
+"event". Obviously this is just one scenario... there are simply all KINDS of
+things that could be setup. Imagine taking all the different Rocket Arena maps
+that are popular and setting up an elimation tournament. As you win rounds
+you move on to another arena to fight and move up in the rankings. If you die,
+you could say drop back to the bottom and have to work your way up. If you
+make it to the top you could stay there until you are defeated. Because things
+might get lonely at the top... you could have people waiting their turn
+challenge the champ just for fun so both can stay warmed up, etc. Might be
+interesting.
+
+Oh well, I'm really tired so most of this probably makes absolutely no sense.
+
+Other Stuff
+-----------
+I had some good catfish at lunch... that's about it.
+
+Wieder rolls on outta here...
+	
+    

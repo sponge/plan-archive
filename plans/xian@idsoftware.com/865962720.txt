@@ -1,0 +1,45 @@
+[idsoftware.com]
+
+Login name: xian      			In real life: Christian Antkow
+Directory: /raid/nardo/xian         	Shell: /bin/csh
+On since Jun  9 19:05:53		19 hours Idle Time
+   on ttyp2 from underworld.idsoftware.com
+On since Jun 10 10:56:26		3 hours 12 minutes Idle Time
+   on ttyp4 from underworld.idsoftware.com
+Plan:
+
+
+
+ Incase you guys haven't checked the id page lately, you might want to be
+checking the Quake II page daily as I'm adding stuff to it...
+
+ Depends (tm) are optional.
+
+---
+
+ Well, seems like my request for serveradmins to use the correct port went
+largely unheard. Here's the new structure.
+
+ 192.246.40.12:27000    Limbo (Big, unorganized mess)
+ 192.246.40.12:27006    Deathmatch 
+ 192.246.40.12:27002    CTF
+ 192.246.40.12:27003    Team Fortress
+ 192.246.40.12:27004    Modified Progs
+
+
+---
+
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+ This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, damage from improper .planfile reading, incorrect line voltage,
+improper or unauthorized use, broken antenna or marred cabinet, missing or
+altered serial numbers, electromagnetic radiation from nuclear blasts, sonic
+boom vibrations, customer adjustments that are not covered in this list, and
+incidents owing to an airplane crash, ship sinking or taking on water, motor
+vehicle crashing, dropping the item, falling rocks, leaky roof, broken glass,
+mud slides, forest fire, or projectile (which can include, but not be limited
+to, arrows, bullets, shot, BB's, shrapnel, lasers, napalm, torpedoes, or
+emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.). 
+

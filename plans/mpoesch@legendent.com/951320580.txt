@@ -1,0 +1,110 @@
+2000.02.23
+Regarding game performance under Win2K, here's the full summary of my tests from yesterday:
+
+60% Infernal Machine
+- Win2K recognition failed (no effect on install)
+- load game and resume cause crash (possibly due to prior Win98 install)
+- lost audio after restarting (recovered following reboot)
+- graphics problems (white screen -- unrecoverable... game still playing)
+- audio lost during game-play
+
+100% Delta Force 2
+- no problems
+
+80% System Shock 2
+- NT test succeeded "Win2K/DX7 not supported" -- ABORT INSTALL!
+- Website tech support recommended command-line install workaround (switch)
+- copy protection failed under Win2K (indicated by tech support)
+- patch applied successfully -- fixed copy protection
+- audio mixing problems (snap, crackle, pop) -- minor, but annoying
+
+0% Tomb Raider III
+- total install failure
+- no tech support help on website
+
+100% Homeworld
+- no problems
+
+100% Half-Life
+- Applied TFC patch
+- no problems
+
+100% Unreal Tournament
+- no problems
+
+100% Quake3
+- no problems
+
+95% Freespace 2
+- minor cutscene crackle (possibly due to CD drivers)
+
+95% Final Fantasy VIII
+- CD read hitch during opening cutscene
+
+
+2000.02.22
+My inbox is piled high with responses to my previous update... all six of you. ;)  So... I guess I'll have to put my "PR" hat on more often.
+
+Friday was a long day -- 4.5 hours down and 4.5 hours back (fortunately, Bob drove) to see Brandon and Tim's work on the PS2 port of the engine.  It's looking *way* cool.  Brandon and Tim are true geniuses. :)  We had several good discussions, and I got a special bonus...
+
+I convinced Tim to take me for a test drive in his new Ferrari... Wow!  "I have got to get me one of these!" was the line from "Independence Day" that kept ringing in my ears.
+
+More "real" news soon...  Paul and I are about to meet to discuss the U2 user interface design... gotta go!
+
+
+2000.02.17
+Hmmm... so much for regular updates.  My huge (all five of you) fan-base will be diminishing if I don't get my act in gear.
+
+Tim just posted:
+>I just got the final Windows 2000 today.  There have been some lukewarm articles 
+>about Windows 2000 lately, which I think really understate the progress of this 
+>new OS.  I've been beta testing Win2K for about 15 months, and can testify that 
+>it's the most thorough and productive operating system I've ever used*.  
+>Combining the rock-solid stability of NT 4.0, and the latest peripheral and 
+>Direct3D support for Windows 98, it's a game developers' dream system.  
+>It should be in stores in a few days. 
+Ah... I can see Microsoft has given Tim his latest "pod" upgrade. ;)
+
+I went through the Win2K acclimation process toward the end of the year -- based on Tim's comments about RC2, I figured, "never a better time than now!"  Well.... RC2 was slow as hell!  I never researched it carefully, but I suffered through a week of app installation and configuration until I finally had it right.  Lucky for me, the RC4 CD showed up... followed by a final "Eval" copy.
+
+I ran into two major problems: access to our color printer was screwed up -- eventually that was resolved (stupid user config problems)... and I lost my Voodoo3 3000 support.  Eventually, I was able to resolve this with Win2K drivers from 3Dfx.
+
+Now, Im a happy camper.  Win2K seems to have all of the benefits of Win98 and WinNT, but few of the drawbacks of each.   DirectX support is solid, driver support seems to be thorough and solid (although T1 Internet access is a plus for dealing with any hick-ups).
+
+Device management (especially for hard-drives) is nice.  My 18G SCSI-3 drive was showing up as a 36G drive with two 18G partitions.  Although I could have used the space, something seemed wrong.  I still havent fixed the underlying problem, but Win2K made it easy to sweep it under the carpet by hiding the second phantom partition.
+
+If I get any indication that someone is reading this, I might actually start talking about Unreal2-related stuff... ;)
+
+For the past three months we (especially me) have been in "planning" mode.  Now that the rubber has finally hit the road, I should have more that I can talk about.
+
+
+2000.01.07
+Here are a few soundtracks that I've enjoyed a lot recently:
+
+- "Contact: Soundtrack" -- the primary theme (only 14 notes!) is awesome.  I bought the CD primarily because I loved the music during the end credits so much.  The "theme" provides commonality between several of the pieces -- a lot like the work John Williams did for Star Wars.
+
+- "James Bond: The World Is Not Enough" -- if the movie was half as good as the sound track, it'd be awesome.  Classic John Berry style mixed with "Matrix"-like (techno) elements.  Again, the theme from the title song runs through many of the pieces providing a nice sense of continuity between the pieces.  Drama and intensity had me on the edge of my seat in several pieces. :)  On the other hand, the final track was so bad that I didn't listen to it all the way through...
+
+- "Grosse Pointe Blank" DVD -- I don't know exactly what it is, but there's something in these pieces that just make this movie "pop" -- perfect.  (I watched this movie three times within a week... I loved it!)
+
+- "Matrix" DVD -- very cool -- you can play the sound with music and commentary only -- awesome analysis.
+
+
+2000.01.03
+Happy New Year!
+
+I guess the Y2K bug didn't end the world... yet.
+
+I'm still recovering from Christmas and New Years.  Once I'm back in gear, I'll spew something more substantial...
+
+
+1999.11.24
+Cool!  Duane has a new "dynamic finger page" running for the entire company... at any given moment in time, you can check to see who's wasting the most time updating their plan file. ;)
+
+Lots of planning underway for Unreal2 -- many things afoot... but, nothing I can talk about right now.  It's all too preliminary.  I'm going to start updating more regularly once we get out of pre-production.
+
+I'll probably have more follow-up info re: WoT at some point as well.  Although, Glen's updates at http://www.wheeloftime.com probably say everything that needs to be said.  Between our BBS, our readme at http://www.legendent.com/wheeloftime/readme/english.htm and GT's support link at http://www.gtisonline.com/pc/wheeloftime.html, I think we're almost at the point of providing too many sources of information.  What do you think?   Write to Sam on our BBS.
+
+Hey, I guess you can tell it's been a while since I've visited the BBS -- cool new format.  I love the "summary icon" -- not too many thumbs downs... that's always nice. ;)
+
+Check it out: http://forums.gtgames.com/ubb/forumdisplay.cgi?action=topics&number=6&SUBMIT=Go

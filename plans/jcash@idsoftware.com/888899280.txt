@@ -1,0 +1,113 @@
+Welcome to id Software's Finger Service V1.4!
+
+Name: John Cash
+Email: jcash@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 03/02/1998 21:53:47 (Central Standard Time)
+-------------------------------------------------------------------------------
+Version 3.14 is ready and will be uploaded shortly.  We have both intel
+and alpha versions ready.  I believe Zoid had the Linux version ready
+and the latest CTF to boot.  So get them bits a burnin.  My apologies
+to all the ISP's who are trying to figure out why all their links just
+maxed out.
+
+The game dll source will be uploaded tomorrow evening (tuesday, March 3rd)
+provided there are no major problems encountered with this version.
+
+There were no changes for fun/extended/whatever names.  I don't know how
+to make it any clearer than saying we have no plans at all to change the
+code that deals with names.  The only really good argument I've heard was
+from somebody in europe who pointed out that there are a number of characters
+used by other languages that reside in that part of the normal character maps.
+I might have seen fit to do the work needed if we actually had those
+characters in our table, but we do not.
+
+
+Here's the bug fix list from 3.13 to 3.14
+=========================================
+Fixed a problem with target_laser; this was breaking the
+laser drill in mine4
+
+Made it so most client commands are disabled during
+intermissions.  Only say, say_team, help, score, and
+players are still allowed.
+
+Fixed a problem with the bfg10k and power armor.  If
+you fired the bfg and then took hits to the armor that
+reduced your cells below 50, the bfg still fired and
+you wound up with negative cells.
+
+Stopped the player's weapon from drawing a really gross
+looking shadow
+
+Fixed a case with the game cvar not getting reset properly
+
+Fixed hitting water after a high fall with jump held caused
+falling damage as if you had hit solid ground.
+
+Fixed the water warping effect in software was not being
+cleared whan a player was moved to the intermission spot.
+
+Rewrote a portion of the mouse input code.  Xian says it's
+smoother and more responsive now.  Hopefully the m_filter
+people will be happier too.
+
+Fixed the wrong sound was being played when you ran out of
+cells with power armor active
+
+Fixed "give health "
+
+Fixed "give armor" wasn't taking away lesser armor
+
+Fixed "give all" was not giving a power screen
+
+Added a cvar cl_minfps.  The default value is 5.  The game's
+simulation framerate is clamped at this on the low side.
+
+Added some client side code to check for bad key bindings
+like "bind x +nosuchcommand" and not forward them to the server
+and spam everyone
+
+Fixed a bug where if you get a weapons icon up and invuse it
+and then invdrop it before the current weapon has finished
+dropping, you can drop the weapon and still use it even though
+you don't have one in inventory anymore
+
+Fixed binding to specific IP addresses was not working
+
+Fixed typing pretty much anything at the console while connecting
+caused a crash
+
+Removed a bad call (closing a findhandle that was not open) in
+the menu code for the models and skins
+
+Fixed final drowning sound was not being played
+
+Fixed a crash in ref_soft due to FOV > 90
+
+By fixing some other problems, it is now possible to do a command
+line like "map base1; god" and have it do what you would expect
+
+Fixed power armor was taking damage when DF_NO_ARMOR was set
+
+Changed it so that whenever "game" is changed, the autoexec.cfg for
+that game will be executed if it exists.
+
+Added more checks for the names and values of info cvars to prevent
+bad ones from exisiting
+
+Added a cvar called sv_reconnect_limit to stop yet another lamer's
+idea of fun
+
+Fixed a place in the client code where another client disconnecting
+was causing it to generate names for and try to find files that do
+not exist.  This was harmless, but produced message if you had set
+developer 1.
+
+Pretty sure I've finally solved the WSAEADDRNOTAVAIL problem.
+
+--------------------
+John Cash
+jcash@idsoftware.com
+"Hellrot"

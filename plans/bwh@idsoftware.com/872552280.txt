@@ -1,0 +1,148 @@
+Welcome to id Software's Finger Service V1.1!
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 2
+Last Updated: 08/25/1997 20:28:43
+-------------------------------------------------------------------------------
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+August 25, 1997
+------------------
+
+The latest issue of BOOT has an article called "Carmackageddon" that makes the
+Unreal guys look like a bunch of frustrated high schoolers.  Really guys, can
+you shove your collective feet ANY further down your collective mouths?!
+
+Go check it out -- it's pretty funny the shit they talk for never having 
+shipped a 3D product.  They note how Quake is "dated", yet not a single other 
+full 3D environment shooter has shipped since Quake.  Unreal has been under 
+development, according to that article, for 3.5 years -- since before Quake.  
+Yet they haven't shipped.
+
+If these guys were so damn studly and original, they'd be doing something other
+than trying to one-up the God of First Person Shooters.  I mean, they're welcome
+to try, but I just want to save them some embarrassment...
+
+Number of times Epic mentions Quake in their interview: 21
+
+Some choice quotes:
+
+Schmalz: "...a lot of people say their games have amazing AI, but we have the 
+proof to back it up".
+
+Um, so where can I buy this proof?
+
+Schmalz: "I expect Quake 2 to be pretty impressive...when it comes out."
+
+The ellipses were his, not mine.  I KNOW you aren't trying to say we have a 
+problem shipping on time....
+
+Schmalz: "We've been creating content for the latest technologies.  A lot of
+          the other games coming out in the next little while are bland; the
+		  content is obviously affected by the older technologies."
+
+If you quit worrying about the latest technologies maybe you'd ship a game
+before id ships TWO.
+
+Interviewer: "What kind of unique weapons are there in Unreal?"
+Schmalz:  "There's one weapon we call the 'Stunner'.  It's like a charge-based
+           thing; you press it down and it charges up and blases the guy."
+
+Gee, kinda like the plasma cannon from Descent?  I thought he asked for
+"unique."
+
+Sweeney: "Unreal is designed to be a game engine rather than a specific game."
+         "The engine itself is based on a little programming language I set up
+		  called Unreal Script."
+		 "When you see people buying Unreal three years from now, it won't be
+		  because we made it such a great game initially, it will be because
+		  the game was expandable enough that the community developed around it
+		  and was able to do cool stuff with it."
+
+Gee, kinda like....
+
+"Unreal(ized), the RC Cola of First Person Shooters"
+
+August 24, 1997 (early AM)
+------------------
+
+This is a HUGE plan update, so fair warning...
+
+...ON THE MIRACLE OF SETENV AND MAKING QUAKE2 INTO AN OS:
+
+I told John about my "putenv" gamma hack for 3Dfx, and he thought it was pretty
+cool, but in typical Carmack fashion he improved on it by simply suggesting the
+(obvious to anyone smarter than carrot, that set of people not including me
+unfortunately) addition of a new command called, ta-da, "setenv".
+
+This would work much like the Unix "setenv" command and all it does is simply
+set the given environment variable to some value for the life of the program.
+Easy enough.  For 3Dfx you could change your gamma, swap interval, dual head,
+and whatever other configuration stuff you want very easily.
+
+]/setenv SST_GAMMA 1.3
+]/vid_restart
+
+Woo-hoo!  Way more general than just doing a new command called "gl_gamma" or
+"3dfx_gamma" or something.
+
+There have been requests from people to pretty much make Quake2 into a full-
+fledged operating system.  I have friends at 3Dfx and SGI that basically do
+this with Emacs, but they're freaks.
+
+Now, believe it or not, it would be reasonably trivial for us to make Quake2's
+console into a complete shell.  It would probably take less than an hour to
+do basic stuff like spawning commands:
+
+]system WinWord
+
+Then we could add "ls", "cd", "cp", command line completion, and...
+
+Oh God, the horror, the horror....
+
+Okay, I digress.  Point being it's possible, but it's also a slippery slope
+once you start doing stuff like this.  Security issues, robustness issues,
+portability issues, whatever.  Not cool, and we're not going there.
+
+...ON OUR NEW GRAPHICS ARCHITECTURE
+
+Anyway, we've decided to ditch MGL, at least in terms of our all-in-one
+super-ultra-graphics-lib.  There's nothing wrong with MGL, but we're simply
+more comfortable controlling all of our own code than we are outsourcing
+part of it.
+
+The MGL (http://www.scitechsoft.com) is an abstraction library that literally
+does EVERYTHING.  It will render graphics for you to GDI, to VESA 2.0 modes
+via WinDirect, to DDRAW surfaces, to OpenGL systems based on MESA, SGI, or
+Microsoft OpenGL.  It does a LOT of stuff, and for many game developers it's
+the right choice.  Hell, id used it for WinQuake.
+
+But lately we've been trying to re-stress portability -- I realized earlier
+tonight that a lot of my code was becoming alarmingly Win32-centric, and
+pulling all that the Win32isms out was what I did tonight.  Now porting to
+another platform should only take a day or so, and that's something we'd
+like to test in the near future (e.g. porting to IRIX on our O2).
+
+And when you use someone else's graphics library, you've lost portability, or
+at least it's out of your immediate control.
+
+So that's one issue.  Other issues include the fact that MGL was a very complex
+library that did a lot of things that we didn't need to use, but which we had
+to work with anyway.  This extra complexity for features unnecessary to us  
+was proving to be cumbersome.  Also, we ended up having to link MGL directly
+into our QUAKE2.EXE instead of into the rendering DLLs, and that gave both
+John and I a pretty uneasy feeling.  If Rendition wanted to do a Verite 
+rendering DLL, then it would have become a serious issue very quickly.
+
+Finally, this comes back around to my "NIH is good" philosophy that makes
+software engineering professors cringe in pain.  NIH, for those of you
+just now joining us, is the "not-invented-here" syndrome that lots of 
+companies and computer scientists bitch about.  It's where you arbitrarily
+ref

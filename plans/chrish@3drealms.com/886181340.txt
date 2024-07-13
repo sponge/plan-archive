@@ -1,0 +1,71 @@
+Account Name:  Chris Hargrove
+Email address: chrish@3drealms.com
+----------
+Name: Chris "Kiwidog" Hargrove
+Position: Code Boy
+Project: Duke Nukem Forever
+Email: chrish@3drealms.com
+
+
+1/30/97
+-------
+If you're looking for a response to all of yesterday's shenanigans, don't.  As I said before, I've said my peace, so it's done.
+
+theQuestion = 0x2B | ~0x2B;
+
+Why didn't Douglas Adams choose 43 as the ultimate answer instead of 42?  He could have been much more profound with 43.  The statement above gives a clue as to why.
+
+Got the final logistics of the new entity logic system down and implemented; this is going to be some kickass stuff, especially when it comes to making mods to DNF.  More details later...
+
+Some of the crew took a jaunt down to that one-day CGDC gettogether in Austin today.  I was originally planning on going, but decided to pass in the end (I'll be going to another conference there in a couple months anyway, and that's enough for me until the big multi-day conferences come up a little later in the year).  But Nick said he'll bring me back a copy of the proceedings if he can buy extras, so it's all good.
+
+Back to work,
+
+
+1/29/97
+-------
+Part 2:
+
+Not a real update, I just changed my phrasing  on a couple sentences (don't want to quote made-up numbers or give people the wrong idea in general).
+
+Part 1:
+
+Rant warning.  If you don't want to see me bitch, stop reading now.
+
+I've been following an exchange between Randy Pitchford (RBR) and Scott Miller, one of my bosses, and until I read Randy's .plan from yesterday, it seemed like a semi-private argument between the two of them, no big deal.  Until yesterday.  To Randy: You may think you're just insulting the company and Scott, but in fact you're insulting the intelligence of every developer who actually _likes_ working here.  Even if the royalties weren't the ideal percentage as you claim, I'll take a lower percentage of a million copies over a higher percentage of ten thousand copies any day of the week.  The ten thousand figure is arbitrary, not intended to belittle RBR, the point is simply that 3DRealms has name recognition, and it generates sales.
+
+How many companies have games whose main character has had not only action figures, but porcelain statues made out of him?  I certainly can't name too many.  The fact is, even if I got "screwed" on my royalties (which I doubt I will since I seem to like and trust this place more than you), getting screwed with Duke Nukem is still better than winning the lottery with other games.  The sales capacity is enormous.
+
+As for your "golden handcuffs" example, that's not valid for people who aren't in a rush to get out of the company.  Personally, I like it here.  And even if it took a full year after Duke is launched for all my royalties to get to me (which isn't really the case, since royalties start at 100% from day 1 unless you leave) then so be it; I don't plan on going anywhere.
+
+Finally, regarding your comment that your game will "blow us away" when you ship, I hope that "blow away" was in reference to us just being impressed or amazed or whatnot, and not a "blow away" in comparison to something we're making here.  If it's the former, then you may be right, and I wish your company all the luck in getting that "wow" result, not just from us but from everyone.  On the other hand, if it's the latter.... then you've got another thing coming.
+
+For the rest of your argument, I'll let you argue with Scott; it's business between the two of you, not me.  I've said my peace.  Just keep in mind that at some point when you attack our company, you start attacking us personally.  
+
+I'll never understand why so many people insist on burning bridges every time they leave one place to go to another.  You never know when you may need to cross that bridge again.
+
+I spend over 90% of my waking hours at this office, of my own free will, because I love what I do.  Don't think for a second that you can trample on it and not have us take notice.
+
+
+
+
+1/23/97
+-------
+Woop, looks like Quakefinger got all our new fingers added... thanks guys, you rule.
+
+Spent most of yesterday improving the new model support and setting up frames for the additional chunk information once I add it to Cannibal.  For the moment they more or less act like existing md2 models, but that will change next week once i drop the sequencing chunk in.  
+
+Also made some improvements & bugfixes in Cannibal like a fullscreen model view mode and an animation playback toolbar, so Brian and Michael won't have to bring up the console window and change mdl_animspeed every time they want to animate (yes the thing has a console, it's just a bit different in behavior than Quake's, since Cannibal has separate windows that have window-specific bindings and functions, etc).
+
+Next on the list is either the sequence chunk or better control of the p-frames, I haven't decided yet.
+
+It looks like Nick got DukeEd (formerly qe4) running fairly well under win95 now, so it's no longer just an NT thing... the only caveat for now is that with perspective/mipmap mode on it appears to be slow as hell in software.  But with linear it's pretty darn speedy, provided the swimming won't nauseate you :)
+
+Anyway, have a nice weekend people... I'm sure in a couple hours the whole office will be playing jailbreak again (that is one _fun_ q2 mod!)
+
+Later mis amigos...
+
+
+- Chris
+	
+    

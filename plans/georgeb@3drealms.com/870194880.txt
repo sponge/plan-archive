@@ -1,0 +1,131 @@
+[mailhub.gte.net]
+
+Account Name:  georgeb @3drealms.com
+Email address: georgeb@3drealms.com
+----------
+George Broussard
+President, 3D Realms
+Project Leader: Duke Nukem Forever, Shadow Warrior
+Executive Producer: Prey
+
+[Tuesday 7/29/97 - 1:23 pm]
+
+[Shadow Warrior]
+
+We now have the final boss in the game, and other than a day of 
+tweaking he's done.  Our goal is to be content complete by next
+Monday, and here's a list of all we have left to do:
+
+* Populate 1-2 levels.  Playtest the 4 new ones
+* Create two end boss cinematics
+* Add the new character voices that are being recorded today.
+* Add sound effects for 2 final bosses
+
+That's about it.  Other than playtesting for bugs and minor
+level tweaks, we're done with the game.  We are looking very
+good for being done by mid-August.
+
+Beta #2 will hit the testers Thursday, and all they are finding
+are minor things and tweaks (which is good for us).
+
+3Dfx - Still seems to be going slowly.  I really hope they can
+have it ready when we're done with the game, because we'd like
+to ship 3Dfx out of the box, but I don't know how long we can
+hold the game for it.
+
+
+[Misc]
+
+* We finally got our Quad PPRO machine in to vis Quake levels
+at light speed.  Thanks to American McGee for coming over
+asap after a phone call to help us get it set up.
+
+* We got a kick as pinball machine from GT (Elvira - Bally).
+So naturally, productivity took a nose dive this last week as
+everyone is fighting it out for 1st place.  They should really
+all stop though as my current score of 31 million and change 
+will stand forever ;)  Of course my posting the top score has
+plunged productivity even more, as everyone is trying to knock
+me down a nocth.  Yawn.. ;)  I'm going back to work now.
+
+
+[Duke action figure]
+
+This is a "done" deal now, and we're getting a final review
+sculpture soon to approve.  Looks like all you good boys and
+girls will have one for Xmas after all.
+
+
+[Duke Nukem Forever Mini FAQ]
+
+This is sort of a mini FAQ since I keep getting the same 
+questions over and over.  It also gives people something
+to put on the dozens of Duke Nukem Forever sites I've
+seen go up.  (Thanks for the support guys).
+
+* The game will be set in and around Las Vegas, and that's
+about all you're going to get out of us for the time being.
+
+* We don't want beta testers.  Sorry.  If we need some
+later, we'll let you know.
+
+* Release:  "When it's done", but it should be in 1998.
+
+* We will be using the Quake 2 engine, and bypassing
+Quake 1.  My feeling is that after Quake 2 comes out,
+the Quake 1 engine will be "old".  Also we're in a good
+spot timing wise to do so, as we're just now getting 
+into the main development.
+
+* Since we are using the Quake 2 engine, you can assume
+we will do what it does.  That means:
+- DLL support (The game will be expandable ala Quake)
+- Client/server Internet play (For free too, not just TEN)
+- GL / 3Dfx support (anything Quake 2 does)
+- All the neat stuff like model interpolation
+
+* If you want to know why we didn't use the Prey engine, see 
+www.3drealms.com, under About Us/Press Releases
+
+* Yes, we will have super interactive environments like Duke 3D
+
+* Yes, we will keep Duke's voice, sense of humor and character in
+place and expand upon it.
+
+* And finally, the most asked question so far? "Strippers?"  
+Hey, it's Duke, and we're 3D Realms.
+
+[George's Movie Review #8: "Air Force One"]
+
+This is EASILY Harrison Ford's best movie outside of Star
+Wars/Indiana Jones.  The only one that comes close is
+The Fugitive.  The movie simply rocks all over the place and
+I think it's probably in contention for the best movie of the
+year so far.  It's totally entertaining the whole way through,
+and especially if your a Ford fan.  He's still a great action
+guy, even in his fifties.  Gary Oldman plays the usual
+psychotic very well, as he always does.  Go see this movie.
+
+BTW, saw an extended preview for Starship Troopers.  Um, we 
+were totally blown away.  This thing truly looks like it could
+be another Aliens 2, if they don't screw it up.  Effects were
+the best I've seen outside of Jurassic Park.
+
+Rating: 9 / 10
+
+[George's Movie Review #7: "Contact"]
+
+Very cool flick, that I had been looking forward to since the
+previews.  It's long (2.5 hours), so there are some "slow" 
+spots, but I didn't mind much.  It was all pretty interesting.
+There are a few hokey leaps of logic in the movie, but what
+movie doesn't have them thesedays? (But it just seems that
+people reviewing the script would go "Hey, this is kinda
+stupid.")  Jodie Foster is good in the movie, but I keep
+hearing "Nell in Space" ;)  This is definately one of the top
+movies of the summer content/quality wise.  Don't expect a
+high body count or any real gibs, but go see it anyway.  As 
+part of your $6 donation, you get a half boob shot of Jodie,
+so what the heck?  What else you gonna do.  Hang on IRC ;)
+Rating: 9 / 10
+

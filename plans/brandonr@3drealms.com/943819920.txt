@@ -1,0 +1,21 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+Last login Sun Nov 28 17:11 (EST) on ttyp1 from 216.27.43.234
+Mail forwarded to brandon@epicgames.com
+Mail last read Sun Nov 28 04:00 1999 (EST)
+Project:
+Unreal Tournament
+Plan:
+Sunday, November 28, 1999
+
+I'm working with DeWitt Clinton (who wrote the Linux UT installation
+instructions webpage) to test and fix issues with the port.  One of
+the things we have found is that you need to have Joilet extensions
+compiled into your kernel in order to see the long filenames
+on the UT CD.
+
+Joilet extensions are enabled by default in most distributions,
+but if you have customized your kernel, you may not have them
+included.
+	
+    

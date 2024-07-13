@@ -1,0 +1,85 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Directory: /home/greenmarine        	Shell: /bin/bash
+On since Sat May  1 23:49 (EDT) on ttyp0 from 216.27.43.214:0.0
+   1 hour 6 minutes idle
+No mail.
+Project:
+Unreal Tournament
+Plan:
+Brandon "GreenMarine" Reinhart
+Unreal Team Programmer
+Epic MegaGames, Inc.
+
+Sunday, May 02, 1999
+
+Haven't updated my .plan recently because I haven't
+had anything to say and I need to move my .plan off of
+finger.epicgames.com.  We decided a while back that
+anyone at Epic can have a .plan file if they want,
+but they can't host it on company hardware.  (A good
+decision in my own estimation.)
+
+Personally, I've been becoming more and more frustrated
+with internet gaming media.  Tabloidism seems to have
+infected every news site out there, with the goal of the
+scoop story outweighing accuracy in reporting.  Its the
+man just trying to get me down.
+
+- Unreal 224V
+
+The Unreal 224V patch has been released.  You can get the
+patch by visiting unreal.epicgames.com/versions.htm.
+Everyone at Epic apologizes for the tardiness of the patch.
+Its a textbook example of software feature creep.  Frederick
+Brooks would be ashamed :-)
+
+As a result of the feature creep, Unreal 224V has some cool
+features to check out.  The patch is our first public run
+of Erik de Neve's new mesh level of detail code.  Big fights
+with lots of players and pickups on the screen should not
+result in any significant loss of frame rate.  The code
+collapses meshes very cleanly, so player meshes should look
+like players even at 15% their original poly count.
+
+Mod authors should check out Erik's LOD notes at:
+http://unreal.epicgames.com/LODTechnologyNotes.htm
+
+The other very cool feature in 224V is Tim's new OpenGL
+renderer.  If you own a Riva TNT card you definately need
+to check it out.
+
+- Unreal Tournament
+
+I've been working on things all over the board for Unreal Tournament.
+Finalizing tutorials, fixing gameplay issues, implementing the
+single player game, writing parts of the story, writing bot
+descriptions, working on the heads up display, and so forth.
+
+We released a shot of a few of the UT skins.  Each of those skins
+has 4-8 faces you can pick from and 4 different color variations.
+We wanted skin designs that covered some different bases: military,
+criminal, "hero."  The shot we release are of the skins on the
+actual models.  They look GREAT in game.  The face customization
+is really fun.  Some of the faces are military types, some are
+action heroes, some are drugged up criminals, some are just mean
+mother fuckers.  Pretty sweet all in all.
+
+Shane Caudle modeled and skinned the top row and James Schmalz
+modeled and skinned the bottom row.  Having a lot of looks and
+personalities to choose from right from the start rocks.
+
+- Japanese Game Titles
+
+Put down that Irritating Stick!  Cliff sent me this URL where you
+can generate your own Super Turbo Doki Doki Japanese Game Titles:
+
+http://www.nationalgamereview.com/99.4.26/words/japan.html
+
+My personal favorite is "Ultra Mekka Jesus Testes" but
+"Hello Kitty's Rotten Kitty Dildo" comes a close second.
+
+- Neat Thing
+
+I turn 21 in 42 days.
+	
+    

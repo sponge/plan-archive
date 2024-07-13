@@ -1,0 +1,80 @@
+Account Name:  George Broussard
+Email address: georgeb@3drealms.com
+----------
+George Broussard
+President, 3D Realms
+Project Leader: Duke Nukem Forever
+Executive Producer: Prey
+
+Nothing major to update, just snickered a little when I read the 
+following.  It was from UK PC Gamer, #45, July 1997.  This was
+pertaining to their top 100 games of all time, where Duke Nukem
+3D came in #24.
+
+"Duke Nukem 3D will never call itself a Top 20 game, simply
+because the lead character is such a pumped up, adrenalinised
+mouthy arse, and someone that none of us at PC GAMER really 
+want to be."
+
+;)  Oh really, now?  I think we can really see the difference
+between US and UK personalities.  I wonder if the person that
+wrote that still has a job?  Is it ok to be clueless and still
+write for a magazine?  From the reviews I see, I'd have to 
+say yes to that ;)
+
+Here's to continuing to make Duke Nukem the most over the top
+action hero the world has ever seen!  Perhaps the UK PC GAMER
+types would rather be a large breasted woman with a tight ass
+that runs around and hardly utters a word.  Yeah, I think 
+that fits them quite nicely.  ;)
+
+Duke Nukem Forever
+==================
+
+We're about where we wanted to be after the swicth.  The
+mappers are all 100% up to speed now and can do anything and
+everything with the editor.  There is nothing in Unreal that
+they don't know how to do, and they've done some new things 
+that make people go 'Whoa!' when they walk by their desks.
+The guys are all working on "real" levels now.
+
+Textures and models have been continuing as if the switch 
+never happened.  Actually we seem to be able to have higher
+res textures under Unreal and still run fine, so you can 
+expect that.  We also know a few tricks to speed up Unreal
+and/or the maps to make it run acceptably on a P200 64 megs.
+I think 90% of the bog people are reporting are map abuse or
+texture usage related.  These are things that are easy to 
+control.
+
+The programmers have been busy as well.  We added a 
+significant low level piece of tech I will talk about later,
+as well as basic stuff like the USE key.  We also enhanced
+the Unreal keyframe, moving object system A LOT and now we
+seem to have nearly unlimited freedom.  It's great to walk
+up to a swicth, USE it and see something happen.  Something
+very complex at that.  Also reworked the resource system
+so we don't have to recompile a 10 minute file every time 
+we add a piece of art.  Very hand for fast updating of data.
+In short, the foundation is there, and we're ready for the
+new and "fun" stuff.  The programmers will be moving to
+AI, guns, and game play type things asap.
+
+Keith is prototyping his "back of the truck" map we showed
+at E3.  This is mainly to test out the new object system and
+get any last little things that would keep that type of map
+from working.
+
+At this point, we are really in full production mode again on
+the game.  We expect to have gun and guys walking around any
+day like we never switched engines.
+
+The progress from here should be exponential, as we just drop
+in new data, and the programmers focus on gameplay more than
+tech additions.
+
+Don't be surprised if we're silent for awhile.  We plan to 
+just keep working hard on the game and keep our mouth's shut
+about what we are doing.
+	
+    

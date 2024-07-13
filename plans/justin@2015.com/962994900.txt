@@ -1,0 +1,22 @@
+Account Name:  20158
+Email address: justin@2015.com
+----------
+Welcome to the 2015 Finger Server
+
+
+User name: Justin
+==========
+Account Name:  justinknight1
+Email address: justin@justinknight.com
+----------
+CustomerID: 22868
+==========
+Account Name:  nationalbus2
+Email address: justin@nationalbus.com
+----------
+CustomerID: 17267
+==========
+Account Name:  pbslice4
+Email address: justin@pbslice.com
+----------
+CustomerID: 23570

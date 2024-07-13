@@ -1,0 +1,221 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake Arena
+Last Updated: 09/10/1998 02:43:36 (Central Standard Time)
+-------------------------------------------------------------------------------
+9/10/98
+-------
+
+I recently set out to start implementing the dual-processor acceleration
+for QA, which I have been planning for a while.  The idea is to have one
+processor doing all the game processing, database traversal, and lighting,
+while the other processor does absolutely nothing but issue OpenGL calls.
+
+This effectively treats the second processor as a dedicated geometry
+accelerator for the 3D card.  This can only improve performance if the
+card isn't the bottleneck, but voodoo2 and TNT cards aren't hitting their
+limits at 640*480 on even very fast processors right now.
+
+For single player games where there is a lot of cpu time spent running the
+server, there could conceivably be up to an 80% speed improvement, but for
+network games and timedemos a more realistic goal is a 40% or so speed
+increase.  I will be very satisfied if I can makes a dual pentium-pro 200
+system perform like a pII-300.
+
+I started on the specialized code in the renderer, but it struck me that
+it might be possible to implement SMP acceleration with a generic OpenGL
+driver, which would allow Quake2 / sin / halflife to take advantage of it
+well before QuakeArena ships.
+
+It took a day of hacking to get the basic framework set up:  an smpgl.dll
+that spawns another thread that loads the original oepngl32.dll or
+3dfxgl.dll, and watches a work que for all the functions to call.
+
+I get it basically working, then start doing some timings.  Its 20%
+slower than the single processor version.
+
+I go in and optimize all the queing and working functions, tune the
+communications facilities, check for SMP cache collisions, etc.
+
+After a day of optimizing, I finally squeak out some performance gains on
+my tests, but they aren't very impressive: 3% to 15% on one test scene,
+but still slower on the another one.
+
+This was fairly depressing.  I had always been able to get pretty much
+linear speedups out of the multithreaded utilities I wrote, even up to
+sixteen processors.  The difference is that the utilities just split up
+the work ahead of time, then don't talk to each other until they are done,
+while here the two threads work in a high bandwidth producer / consumer
+relationship.
+
+I finally got around to timing the actual communication overhead, and I was
+appalled: it was taking 12 msec to fill the que, and 17 msec to read it out
+on a single frame, even with nothing else going on.  I'm surprised things
+got faster at all with that much overhead.
+
+The test scene I was using created about 1.5 megs of data to relay all the
+function calls and vertex data for a frame.  That data had to go to main
+memory from one processor, then back out of main memory to the other.
+Admitedly, it is a bitch of a scene, but that is where you want the
+acceleration...
+
+The write times could be made over twice as fast if I could turn on the
+PII's write combining feature on a range of memory, but the reads (which
+were the gating factor) can't really be helped much.
+
+Streaming large amounts of data to and from main memory can be really grim.
+The next write may force a cache writeback to make room for it, then the
+read from memory to fill the cacheline (even if you are going to write over
+the entire thing), then eventually the writeback from the cache to main
+memory where you wanted it in the first place.  You also tend to eat one
+more read when your program wants to use the original data that got evicted
+at the start.
+
+What is really needed for this type of interface is a streaming read cache
+protocol that performs similarly to the write combining:  three dedicated
+cachelines that let you read or write from a range without evicting other
+things from the cache, and automatically prefetching the next cacheline as
+you read. 
+
+Intel's write combining modes work great, but they can't be set directly
+from user mode.  All drivers that fill DMA buffers (like OpenGL ICDs...)
+should definately be using them, though.
+
+Prefetch instructions can help with the stalls, but they still don't prevent
+all the wasted cache evictions. 
+
+It might be possible to avoid main memory alltogether by arranging things
+so that the sending processor ping-pongs between buffers that fit in L2,
+but I'm not sure if a cache coherent read on PIIs just goes from one L2
+to the other, or if it becomes a forced memory transaction (or worse, two
+memory transactions).  It would also limit the maximum amount of overlap
+in some situations.  You would also get cache invalidation bus traffic.
+
+I could probably trim 30% of my data by going to a byte level encoding of
+all the function calls, instead of the explicit function pointer / parameter
+count / all-parms-are-32-bits that I have now, but half of the data is just
+raw vertex data, which isn't going to shrink unless I did evil things like
+quantize floats to shorts.
+
+Too much effort for what looks like a reletively minor speedup.  I'm giving
+up on this aproach, and going back to explicit threading in the renderer so
+I can make most of the communicated data implicit.
+
+Oh well.  It was amusing work, and I learned a few things along the way.
+
+
+
+9/7/98
+------
+I just got a production TNT board installed in my Dolch today.
+
+The riva-128 was a troublesome part.  It scored well on benchmarks, but it had
+some pretty broken aspects to it, and I never reccomended it (you are better
+off with an intel I740).
+
+There aren't any troublesome aspects to TNT.  Its just great.  Good work, Nvidia.
+
+In terms of raw speed, a 16 bit color multitexture app (like quake / quake 2)
+should still run a bit faster on a voodoo2, and an SLI voodoo2 should be faster
+for all 16 bit color rendering, but TNT has a lot of other things going for it:
+
+32 bit color and 24 bit z buffers.  They cost speed, but it is usually a better
+quality tradeoff to go one resolution lower but with twice the color depth.
+
+More flexible multitexture combine modes.  Voodoo can use its multitexture for
+diffuse lightmaps, but not for the specular lightmaps we offer in QuakeArena.
+If you want shiny surfaces, voodoo winds up leaving half of its texturing
+power unused (you can still run with diffuse lightmaps for max speed).
+
+Stencil buffers.  There aren't any apps that use it yet, but stencil allows
+you to do a lot of neat tricks.
+
+More texture memory.  Even more than it seems (16 vs 8 or 12), because all of the
+TNT's memory can be used without restrictions.  Texture swapping is the voodoo's
+biggest problem.
+
+3D in desktop applications.  There is enough memory that you don't have to worry
+about window and desktop size limits, even at 1280*1024 true color resolution.
+
+Better OpenGL ICD.  3dfx will probably do something about that, though.
+
+This is the shape of 3D boards to come.  Professional graphics level
+rendering quality with great performance at a consumer price.
+
+We will be releasing preliminary QuakeArena benchmarks on all the new boards
+in a few weeks.  Quake 2 is still a very good benchmark for moderate polygon
+counts, so our test scenes for QA involve very high polygon counts, which
+stresses driver quality a lot more.  There are a few surprises in the current
+timings...
+
+---
+
+A few of us took a couple days off in vegas this weekend.  After about
+ten hours at the tables over friday and saturday, I got a tap on the shoulder...
+
+Three men in dark suits introduced themselves and explained that I was welcome
+to play any other game in the casino, but I am not allowed to play
+blackjack anymore.
+
+Ah well, I guess my blackjack days are over.  I was actually down a bit for
+the day when they booted me, but I made +$32k over five trips to vegas in the
+past two years or so.
+
+I knew I would get kicked out sooner or later, because I don't play "safely".
+I sit at the same table for several hours, and I range my bets around 10 to 1.
+
+
+
+8/17/98
+-------
+I added support for HDTV style wide screen displays in QuakeArena, so
+24" and 28" monitors can now cover the entire screen with game graphics.
+
+On a normal 4:3 aspect ratio screen, a 90 degree horizontal field of view
+gives a 75 degree vertical field of view.  If you keep the vertical fov
+constant and run on a wide screen, you get a 106 degree horizontal fov.
+
+Because we specify fov with the horizontal measurement, you need to change
+fov when going into or out of a wide screen mode.  I am considering changing
+fov to be the vertical measurement, but it would probably cause a lot of
+confusion if "fov 90" becomes a big fisheye.
+
+Many video card drivers are supporting the ultra high res settings
+like 1920 * 1080, but hopefully they will also add support for lower
+settings that can be good for games, like 856 * 480.
+
+---
+
+I spent a day out at apple last week going over technical issues.
+
+I'm feeling a lot better about MacOS X.  Almost everything I like about
+rhapsody will be there, plus some solid additions.
+
+I presented the OpenGL case directly to Steve Jobs as strongly as possible.
+
+If Apple embraces OpenGL, I will be strongly behind them.  I like OpenGL more
+than I dislike MacOS. :)
+
+---
+
+Last friday I got a phone call: "want to make some exhibition runs at the
+import / domestic drag wars this sunday?".  It wasn't particularly good
+timing, because the TR had a slipping clutch and the F50 still hasn't gotten
+its computer mapping sorted out, but we got everything functional in time.
+
+The tech inspector said that my cars weren't allowed to run in the 11s
+at the event because they didn't have roll cages, so I was supposed to go
+easy.
+
+The TR wasn't running its best, only doing low 130 mph runs.  The F50 was
+making its first sorting out passes at the event, but it was doing ok.  My
+last pass was an 11.8(oops) @ 128, but we still have a ways to go to get the
+best times out of it.
+
+I'm getting some racing tires on the F50 before I go back.  It sucked watching
+a tiny honda race car jump ahead of me off the line. :)
+
+I think ESPN took some footage at the event.

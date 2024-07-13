@@ -1,0 +1,199 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: aldie
+Plan modified: Wed Feb 17 20:48:58 1999
+
+Scott Alden - Programmer - Ritual Entertainment
+Email: aldie@ritual.com
+-----------------------
+02-17-99
+--------
+Sin Update
+
+Congratulations to the 2015 guys on getting the mission pack done!  It is
+really fun to play and they took advantage of a lot of stuff that we
+didn't get a chance to use in Sin...
+
+Other Sin news - If you hadn't seen it on www.ritualistic.com yet,
+a bunch of us here are Ritual and the Cops and Robbers team are 
+co-working on SinCTF.  Things are coming together pretty nicely
+and quickly... I don't know when we're going to be finished with it, 
+but the development team is whipping stuff up pretty fast.
+
+Go to www.ritualistic.com for more information, and look for a
+beta soon!
+
+
+01-22-99
+--------
+To listen to the cheesy Sin Deathmatch Song type these 
+commands in the console when you are in a level:
+
+soundtrack rammdm
+music normal
+
+Song was written by Zak Belica
+Performed by The Ritual Crew
+Mixed by Zak Belica
+
+11-08-98
+--------
+Crash bug in Sin - Area57 - Mutant Mode
+
+Don't save your game in this level.  Try to complete it 
+without dying.  This will allow you to transform back 
+to human form and continue the game.  If you are having
+trouble finishing this level, use the health cheat 
+( Type "health 200" at the console ) to give yourself 
+a boost.
+
+There is a bug with savegames and mutant mode, and the
+game will crash when you receive the antidote to be 
+transformed back to a human.
+
+11-06-98
+--------
+
+Part II
+--------
+Resolution changing problem with the menus has been isolated.  960x720
+was left out of the menu, so all the modes are off by 1 after 800x600.
+
+If you're so lucky as to be able to run at 1024x768, crank the setting
+over to 1152x864.
+
+------------------------------------------------------
+
+***SIN LOADING TIMES***
+
+If you want to increase your loading speed for quick saves
+type these commands at the console before you start a game:
+
+developer 1
+set flushmap 0
+
+This speeds up "quick" loads i.e. when you already have the
+map loaded.  Dying in the game isn't as painful now :-)
+
+By setting developer to 1, it will not draw the status bar, so you
+won't get to see in between level information. This will save you 
+about 20 or so seconds of loading time on just about any map. You 
+will probably also see some warnings printed out since developer
+provides verbose information about what's going on in the game.
+
+"flushmap" was used to explicitly free maps after they are already loaded 
+for development purposes.
+
+These fixes will be incorporated into the first patch and these commands
+should help in the meantime.  The status bar has been optimized as to 
+not take up as much time, and flushmap will explicitly be set to 0.
+
+
+10-30-98
+--------
+Just walked into the office this morning to hear that Sin went
+( GM ) Gold Master sometime last night.  I think that the word has been
+sent out to all the news sites.  
+
+We've all been busting our asses to get this thing finished, and the
+last few days have been pure hell,  but I think that it will
+all be worth it.  The epsiodes really came together in these last 
+few weeks, and I have to thank all the Sin level designers and
+artists for putting up with all the code thrashing and 
+functionality changes they had to go through in the last 
+moments. 
+
+We'll probably be writing up a post-mortem on the development of
+the game, so look for that sometime soon.  
+
+Start looking for Sin in stores sometime next week!
+
+8-20-98
+-------
+Mark and I took a break fron Sin coding tonight and played 
+Motocross Madness.  Wow.  This game is a LOT of fun!  
+We spent about an hour trying to jump over the finish 
+line's top girder.  It can be done...
+
+8-12-98
+-------
+Happy 2nd birthday to Ritual Entertainment!
+
+I can't wait for the birthday party tonight. 
+
+8-6-98
+------
+First, I just wanted to say thanks to all the people that sent in 
+constructive and positive comments about Sin.  This is my first
+"official" game, so it feels pretty good that the Sin demo gave
+people a lot of enjoyment.  We're working hard to fix the bugs
+and a few more little things to make the final game even more 
+immersive.
+
+Sin Bug Fun:
+------------
+An interesting bug popped up in one of the deathmatch games I was in
+the other day.  It happens when a player shoots someone with a rocket,
+the person who gets hit dies ("Player died" gets printed to the console)
+and he loses a frag, and the person who killed em gets nothing.
+
+It was interesting to see that the rocket blast changed the victim's 
+velocity with a downward momentum, thus pushing him into the ground and
+triggering the falling damage routine.  So, if you hit someone directly
+with a rocket doing 97 points of damage the falling damage works out
+to about 7 points which credits the "ground" with the frag instead of
+the shooter :-)  I'm fixing it now...
+
+Thanks to the guys that pointed it out to me while I was deathmatching
+on their server.
+
+Anybody figured out how to make their own HUD yet???
+
+7-9-98
+------
+Just wanted to add my 2 cents about the Sin scripting video which
+Charlie forgot to mention ;-)
+
+The computer terminal that is being used to control Danny is also
+fully integrated with the script system so you can design
+custom menu systems to control your stuff (if it wasn't obvious from the video).
+
+5-12-98
+-------
+It's been 3 months since my last .plan update, so I guess it's about time 
+for a new one.  
+
+Sin Info
+--------
+I've been busy working on interface / 2D things for Sin.  We are now 
+finalizing the way the interface is going to work.  I've taken the layout
+commands from Quake2 and added about 50 new features.  This will let anyone
+create custom interfaces for the game menus and the HUD.
+
+The layout commands are kind of like a primitive form of HTML, so if you can
+make a webpage, you probably can create a Sin menu or HUD.  One of the cool
+things is that everytime I add a new command for the HUD, it can also
+be used on the in-game consoles.  This lets you put things like the 
+player's health or name on a 3D screen in the game.
+
+I also had to add some networking stuff to get the multiplayer aspect of 
+in-game consoles to work and that took a little bit of time. Most of the time
+was spent learning how the Quake2 networking system works and fitting in the
+new baselines/states for consoles.  I didn't think that something as simple as
+a console in the game would be so tricky, but I ran into many problems
+while designing them.  A lesson to be learned about multiplayer game aspects
+I guess.
+
+Other Stuff
+-----------
+I didn't get to go to CGDC this year, but Gary McTaggart took a bunch of pics
+for me to re-live the experience.  It just wasn't the same :-(  
+
+Until next time...
+
+
+
+
+
+

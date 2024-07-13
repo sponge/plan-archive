@@ -1,0 +1,39 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-----------------------------------------------------------------------
+User Name: rick.overman     Plan Last Modified: 11/19/1999 13:34:09 PST
+
+//-----------------------------------------------------
+Real Name:  Rick Overman
+Job:        Senior Programmer
+Project:    Core R&D, Tribes2
+E-mail:     rick.overman@dynamix.com
+
+ 
+Just back from a short vacation in 'The Big Easy', aka
+New Orleans.  Spent most the time visiting friends and
+throughly enjoying the Cajun cuisine and music.  I don't
+think I could ever have too much of that place, I've
+already made plans to go back for Jazz Fest 2000.
+
+But back to the coding front...  I'm starting to
+research and design the sound system for the Tribes2
+engine.  Under Windows we'll obviously be using
+DirectSound, A3D and EAX. I'm a little new to sound
+scene and gottchas on the Macintosh and Linux platforms.
+If there is anyone out there with a few words of wisdom
+concerning Macintosh SoundSprockets or the various sound
+API's under Linux I'd like to hear from you
+(rick.overman@dynamix.com).
+
+I just finished up the terrain generation and texturing
+editors for Tribes2.  Forget everything you knew about
+making terrains in Tribes1, I started from scratch on
+this one with MOD makers in mind. It's like Bryce custom
+tuned for Tribes.  In engine, nice gui interface,
+instant feedback.  Just takes a few seconds to generate
+something truly amazing.
+
+--Rick

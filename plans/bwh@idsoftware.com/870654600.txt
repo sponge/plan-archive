@@ -1,0 +1,42 @@
+Login name: bwh       			In real life: Brian Hook
+Directory: /raid/nardo/bwh          	Shell: /bin/csh
+Last login Thu May 29 16:49 on ttyp5 from idtokay
+Plan:
++---------------------------------------------------------------------------+
+| NOTICE: If you are a commercial publishing house that is quoting any      |
+| part of this text in either an electronic or printed form, PLEASE         |
+| contact me before reprinting any of this.  I'm willing to work with you   |
+| print publications, so please don't piss me off.                          |
++---------------------------------------------------------------------------+
+
+July 3, 1997
+------------------
+
+After long discussions with Chris Hecker I've decided to try and use more
+industry standard extensions instead of trying to do stuff specific for 
+Quake2.  Right now we're interested in the following types of extensions:
+
+- multitexture
+- paletted texture
+- particle systems
+
+For the multitexture stuff the SGI stuff looks like it may not suck, but
+until I mess with it some I may not know for sure.
+
+I'd like to use the glColorTableEXT that is part of the OpenGL for Win32.
+I'm going to talk to 3DLabs and 3Dfx as to why they each did not support
+this extension to make sure there aren't some technical foibles behind it.
+
+I think that we may be able to use the SGI glPointParameterfSGI extension
+for particle systems.  It's not _ideal_ for what we'd like to do, but I
+think it's good enough.  It allows us to specify a min and max size for
+scaled particles, and it allows us to change the size of particles via
+the standard glPointSize API.  It also scales over distance, etc.
+
+Next week I'll mess with this stuff some more, since the software renderer
+is pretty much up to speed.  I'll also be spending the end of next week getting
+SciTech Software's MGL code reintegrated into Quake2.
+
+CD of the Week: Soundtrack to the movie "Spawn"
+
+The movie itself was "eh".

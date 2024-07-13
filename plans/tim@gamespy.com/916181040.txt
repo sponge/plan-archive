@@ -1,0 +1,57 @@
+User:   timplan
+Read:   0
+Unread: 2
+Time:   Tue, 12 Jan 1999 16:43:52 -0800
+Plan:
+GameSpy:
+2.07 looks like it will be out shortly.  2.05 and 2.06 users will want to
+upgrade because 2.07 fixes a stupid mistake in those versions.  Besides new
+games are included in it too.
+2.10 is well under way.  Jack and I are really making some changes.  Jack is
+working to make things simpler, from a user perspective.  I am working to
+make things harder.  Ok, not really, just more robust.  Joe was/is working
+on 2.07.  This version will fix a nasty problem that has existed since at
+least 1.5. You want to lock up GameSpy? Start an update.  While it is
+running, click on a menu item and leave it open until it finishes.  Walla,
+you can't quit GameSpy. Here is why:
+GameSpy passes messages from the threads letting the main thread (the UI
+thread) know when a server is completed (so it can be displayed), and when
+the threads complete their work.  Works great UNLESS you happen to click a
+menu then Windows will eat every message generated.  Needless to say,
+GameSpy will never get the message things are done. Well, 2.10 rips that
+idea right out.
+Word to the innocent, don't rely on Windows message passing for any kind of
+IPC or ITC, I learned the hard way on that one.
+To avoid the problem, don't mess with the menus while an update is
+occurring, especially when the update is nearing completion.  You can play
+with the chat menus though, I think.
+
+If you are an NT user and GameSpy never seems to finish, go into Options and
+give the threads a priority boost. Seems to fix the problem but I don't know
+why.  Possibly related to the problem above.
+
+2.07 will not have Tribes support.  We are waiting for Dynamix to send us
+some information regarding their protocols.  Jack really likes the game so
+you can bet it will happen pretty quickly once we get the info.
+
+GameSpy Java:
+Looking quite good.  Decided to forgo many graphics right now and
+concentrate on the core engine.  I have three of the six base classes
+fleshed out.  The design is laid out too.  The java version will store data
+slightly differently than normal GameSpy.  Normal GameSpy associates the
+servers with the sources which had them.  The Java version dumps them into
+the bucket associated with the game type.
+
+Been having fun with spammers.  Three out of six so far have lost their
+email accounts, perhaps more.  They probably don't care but it makes me feel
+better.  One of them had the audacity to put in the message according to
+Congress, it was not spam.  Since when was Congress correct about anything
+technical?  BellSouth.net agreed with me. ;-)
+
+Jags are out of the playoffs.  They were just too banged up.  I went to see
+the Pittsburgh and the playoff game with New England.  They played pretty
+well during those games.  Against the Jets, well...  It may finally be a
+decent Super Bowl this year.
+
+Timothy 'CMonster' Cook
+
