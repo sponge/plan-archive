@@ -31,7 +31,7 @@ enum DisplayType {
 const App: Component = () => {
   const [currentUser, setCurrentUser] = createSignal<string>(''); // current user (or company)
   const [searchTerm, setSearchTerm] = createSignal<string>(''); // search body for this term
-  const [displayType, setDisplayType] = createSignal<DisplayType>(DisplayType.Trimmed); // how you want to view the plans
+  const [displayType, setDisplayType] = createSignal<DisplayType>(DisplayType.Full); // how you want to view the plans
 
   // grab the static plans file
   const fetchPlans: ResourceFetcher<true, PlanFile[], unknown> = async () => {
@@ -92,13 +92,15 @@ const App: Component = () => {
     if (displayType() != DisplayType.Full) {
       const prevIdx = plansByUser()[plan.by].findIndex(test => test === plan) - 1;
       const prevStr = plansByUser()[plan.by][prevIdx]?.contents ?? '';
-      diffs = diffLines(prevStr, plan.contents);
+      diffs = diffLines(prevStr, plan.contents, {ignoreWhitespace: true});
 
       // filter out additions, however if it's empty (plans are identical) just use the whole array
       let additions = diffs.filter(d => d.added);
       if (!additions.length) additions = diffs;
       largest = additions.reduce((a, b) => (a.count ?? 0) > (b.count ?? 0) ? a : b).value;
     }
+
+    console.log(diffs);
 
     return {
       ...plan,
@@ -150,7 +152,7 @@ const App: Component = () => {
               <li><a href="#" onClick={[setPlansVisible, false]}>close all</a></li>
               <li>
                 <select onChange={ev => setDisplayType(ev.target.value as DisplayType)}>
-                  <option value={DisplayType.Trimmed}>trimmed</option>
+                  <option value={DisplayType.Trimmed}>trimmed (very WIP!)</option>
                   <option value={DisplayType.Full}>full</option>
                   <option value={DisplayType.Diff}>diff</option>
                 </select>
