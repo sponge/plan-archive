@@ -29,6 +29,7 @@ enum DisplayType {
 
 const App: Component = () => {
   const [currentUser, setCurrentUser] = createSignal<string>(''); // current user (or company)
+  const [currentTime, setCurrentTime] = createSignal<number>(0);
   const [searchTerm, setSearchTerm] = createSignal<string>(''); // search body for this term
   const [displayType, setDisplayType] = createSignal<DisplayType>(DisplayType.Full); // how you want to view the plans
   const [showHelp, setShowHelp] = createSignal(false); // show the help text
@@ -36,13 +37,13 @@ const App: Component = () => {
   onMount(() => {
     addEventListener('popstate', (ev:PopStateEvent) => {
       setCurrentUser(ev.state.user);
+      setCurrentTime(ev.state.time);
     });
 
-    if (document.location.hash) {
-      console.log(document.location.hash);
-      setCurrentUser(document.location.hash.slice(1));
-    }
-  })
+    const params = new URLSearchParams(document.location.search);
+    setCurrentUser(params.get('user') ?? '');
+    setCurrentTime(parseInt(params.get('time') ?? '0'));
+  });
 
   // grab the static plans file
   const fetchPlans: ResourceFetcher<true, PlanFile[], unknown> = async () => {
@@ -92,6 +93,7 @@ const App: Component = () => {
     const isUser = currentUser().includes('@');
     return plans()
       .filter(plan => isUser ? plan.by == currentUser() : plan.by.endsWith(currentUser()))
+      .filter(plan => currentTime() > 0 ? plan.time == currentTime() : true)
       // FIXME: half-assed text search. look into fuse.js
       .filter(plan => plan.contents.toLowerCase().includes(searchTerm().toLowerCase()))
       .sort((a, b) => a.time - b.time);
@@ -131,9 +133,20 @@ const App: Component = () => {
 
   const clickNav = (user: string) => {
     setCurrentUser(user);
+    setCurrentTime(0);
     history.pushState({
-      user
-    }, '', `#${user}`);
+      user,
+      time: 0,
+    }, '', `?user=${user}`);
+  }
+
+  const clickPerma = (user: string, time: number) => {
+    setCurrentUser(user);
+    setCurrentTime(time);
+    history.pushState({
+      user,
+      time,
+    }, '', `?user=${user}&time=${time}`);
   }
 
   return (
@@ -164,7 +177,7 @@ const App: Component = () => {
                 <strong>
                   <Show when={currentUser().length || searchTerm().length}
                     fallback={`${plans().length} total plans`}>
-                    {filteredDisplayPlan().length} plans
+                    {filteredDisplayPlan().length} {filteredDisplayPlan().length == 1 ? 'plan' : 'plans'}
                   </Show>
                 </strong>
               </li>
@@ -183,7 +196,7 @@ const App: Component = () => {
             </ul>
           </nav>
           <For each={filteredDisplayPlan()}>
-            {plan => <PlanReader displayType={displayType()} plan={plan} />}
+            {plan => <PlanReader onPermaLink={clickPerma} displayType={displayType()} plan={plan} />}
           </For>
         </main>
       </Suspense>
@@ -259,6 +272,7 @@ const App: Component = () => {
 interface PlanReaderProps {
   displayType: DisplayType
   plan: DisplayPlan
+  onPermaLink: (user: string, time: number) => void
 }
 
 const PlanReader: Component<PlanReaderProps> = props => {
@@ -273,8 +287,16 @@ const PlanReader: Component<PlanReaderProps> = props => {
     });
   };
 
+  const permaClick = (ev: MouseEvent) => {
+    ev.preventDefault();
+    ev.stopImmediatePropagation();
+    props.onPermaLink(props.plan.by, props.plan.time);
+  }
+
   return <details open>
-    <summary>{props.plan.by} - {new Date(props.plan.time * 1000).toDateString()}</summary>
+    <summary>
+      <a onClick={permaClick}>#</a> {props.plan.by} - {new Date(props.plan.time * 1000).toDateString()}
+    </summary>
     <Switch>
       <Match when={props.displayType == DisplayType.Diff}>
         <article>
