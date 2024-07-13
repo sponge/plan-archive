@@ -1,4 +1,5 @@
-import { For, Match, ResourceFetcher, Show, Suspense, Switch, createMemo, createResource, createSignal, type Component } from 'solid-js';
+import { For, Match, ResourceFetcher, Show, Suspense, Switch, createEffect, createMemo, createResource, createSignal, type Component } from 'solid-js';
+import _ from 'lodash';
 
 import './App.css';
 import linkifyStr from 'linkify-string';
@@ -20,18 +21,21 @@ const App: Component = () => {
 
   const [plans] = createResource(fetchPlans, { initialValue: [] });
 
+  // list of all domains that plans have came from
   const domains = createMemo(() => plans()
     .map(plan => plan.by.split('@')[1])
     .filter((value, i, array) => array.indexOf(value) == i)
     .sort((a, b) => a.localeCompare(b))
   );
 
+  // list of all users
   const users = createMemo(() => plans()
     .map(plan => plan.by)
     .filter((by, i, array) => array.indexOf(by) == i)
     .sort((a, b) => a.localeCompare(b))
   );
 
+  // map of each domain and all of the users, without domain
   const usersByDomain = createMemo<UserByDomainEntries>(() => domains()
     .map(domain => [
       domain,
@@ -41,9 +45,10 @@ const App: Component = () => {
     ])
   );
 
-  const [currentUser, setCurrentUser] = createSignal<string>('');
-  const [searchTerm, setSearchTerm] = createSignal<string>('');
+  // map of all plans by a specific user
+  const plansByUser = createMemo(() => _.groupBy(plans(), 'by'));
 
+  // all plans that are currently in the user's requested filters
   const filteredPlans = createMemo(() => {
     if (!currentUser().length && !searchTerm().length) return [];
     const isUser = currentUser().includes('@');
@@ -52,6 +57,25 @@ const App: Component = () => {
       // FIXME: half-assed text search. look into fuse.js
       .filter(plan => plan.contents.toLowerCase().includes(searchTerm().toLowerCase()))
       .sort((a, b) => a.time - b.time);
+  })
+
+  // for all plans in the current view, find the current plan and the previous plan
+  // posted by that same user, in order to allow them to be diff'd
+  const prevCurrentPlanPairs = createMemo(() => {
+    return filteredPlans().map((plan) => {
+      const prevIdx = plansByUser()[plan.by].findIndex(test => test === plan) - 1;
+      console.log(prevIdx);
+      return [plansByUser()[plan.by][prevIdx], plan]
+    })
+  })
+
+
+  const [currentUser, setCurrentUser] = createSignal<string>('');
+  const [searchTerm, setSearchTerm] = createSignal<string>('');
+
+  createEffect(() => {
+    console.log(prevCurrentPlanPairs());
+    // console.log(plansByUser());
   })
 
   // bit of a hack, shouldn't touch the dom like this
