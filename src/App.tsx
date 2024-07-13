@@ -37,8 +37,9 @@ const App: Component = () => {
   // grab the static plans file
   const fetchPlans: ResourceFetcher<true, PlanFile[], unknown> = async () => {
     const resp = await fetch('/plan-archive/plans.json');
-    const plans: PlanFile[] = await resp.json();
+    let plans: PlanFile[] = await resp.json();
     // sort by time here so we can depend on this in any further operations
+    plans = plans.map(plan => { return {...plan, contents: plan.contents.trim()}})
     return plans.sort((a, b) => a.time - b.time);
   }
   const [plans] = createResource(fetchPlans, { initialValue: [] });
