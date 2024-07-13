@@ -155,7 +155,7 @@ const App: Component = () => {
                   <option value={DisplayType.Diff}>diff</option>
                 </select>
               </li>
-              <li><input type="search" placeholder="Search" onInput={val => setSearchTerm(val.target.value)} /></li>
+              <li><input type="search" placeholder="Search" onChange={ev => setSearchTerm(ev.target.value)} /></li>
             </ul>
           </nav>
           <For each={filteredDisplayPlan()}>
