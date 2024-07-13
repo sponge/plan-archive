@@ -1,6 +1,6 @@
 import './App.css';
 
-import { For, Match, ResourceFetcher, Show, Suspense, Switch, createEffect, createMemo, createResource, createSignal, type Component } from 'solid-js';
+import { For, Match, ResourceFetcher, Show, Suspense, Switch, createEffect, createMemo, createResource, createSignal, onMount, type Component } from 'solid-js';
 import _ from 'lodash';
 import linkifyStr from 'linkify-string';
 import { Change, diffLines } from 'diff';
@@ -21,7 +21,6 @@ interface DisplayPlan extends PlanFile {
   largest: string
 }
 
-
 enum DisplayType {
   Trimmed = 'trimmed',  // the largest chunk of new text for people who post new on top
   Full = 'full',        // the whole thing
@@ -33,6 +32,17 @@ const App: Component = () => {
   const [searchTerm, setSearchTerm] = createSignal<string>(''); // search body for this term
   const [displayType, setDisplayType] = createSignal<DisplayType>(DisplayType.Full); // how you want to view the plans
   const [showHelp, setShowHelp] = createSignal(false); // show the help text
+
+  onMount(() => {
+    addEventListener('popstate', (ev:PopStateEvent) => {
+      setCurrentUser(ev.state.user);
+    });
+
+    if (document.location.hash) {
+      console.log(document.location.hash);
+      setCurrentUser(document.location.hash.slice(1));
+    }
+  })
 
   // grab the static plans file
   const fetchPlans: ResourceFetcher<true, PlanFile[], unknown> = async () => {
@@ -119,20 +129,27 @@ const App: Component = () => {
       .forEach(dom => { if (dom instanceof HTMLDetailsElement) dom.open = show })
   }
 
+  const clickNav = (user: string) => {
+    setCurrentUser(user);
+    history.pushState({
+      user
+    }, '', `#${user}`);
+  }
+
   return (
     <main class="container">
       <Suspense fallback={<span aria-busy="true"></span>}>
         <aside>
           <nav>
             <h2>Users</h2>
-            <p class="help"><a href="#" onClick={[setShowHelp, true]}>what is this?</a></p>
+            <p class="help"><a onClick={[setShowHelp, true]}>what is this?</a></p>
             <For each={usersByDomain()}>
               {domain => <details>
                 <summary>{domain[0]}</summary>
                 <ul>
-                  <li><a href='#' onClick={[setCurrentUser, domain[0]]}>All</a></li>
+                  <li><a onClick={[clickNav, domain[0]]}>All</a></li>
                   <For each={domain[1]}>
-                    {user => <li><a href='#' onClick={[setCurrentUser, `${user}`]}>{user.split('@')[0]}</a></li>}
+                    {user => <li><a onClick={[clickNav, `${user}`]}>{user.split('@')[0]}</a></li>}
                   </For>
                 </ul>
               </details>}
