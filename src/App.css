@@ -20,3 +20,13 @@ main.plans article {
   font-family: monospace;
   white-space: pre-wrap;
 }
+
+article .removed {
+  background-color: var(--pico-color-red-900);
+  color: var(--pico-color-red-50);
+}
+
+article .added {
+  background-color: var(--pico-color-green-900);
+  color: var(--pico-color-green-50)
+}

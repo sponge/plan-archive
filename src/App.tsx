@@ -1,26 +1,45 @@
+import './App.css';
+
 import { For, Match, ResourceFetcher, Show, Suspense, Switch, createEffect, createMemo, createResource, createSignal, type Component } from 'solid-js';
 import _ from 'lodash';
-
-import './App.css';
 import linkifyStr from 'linkify-string';
+import { Change, diffLines } from 'diff';
 
 type UserByDomainEntries = [string, string[]][];
 
+// this is what comes from the browser response
 interface PlanFile {
   by: string
   time: number
   contents: string
 }
 
-const App: Component = () => {
-  const [currentUser, setCurrentUser] = createSignal<string>('');
-  const [searchTerm, setSearchTerm] = createSignal<string>('');
+// the plan reader wants diffs, but for the sake of splitting up code lets make
+// this a different type
+interface DisplayPlan extends PlanFile {
+  diffs: Change[]
+  largest: string
+}
 
+
+enum DisplayType {
+  Trimmed = 'trimmed',  // the largest chunk of new text for people who post new on top
+  Full = 'full',        // the whole thing
+  Diff = 'diff'         // show a line by line highlighted diff
+}
+
+const App: Component = () => {
+  const [currentUser, setCurrentUser] = createSignal<string>(''); // current user (or company)
+  const [searchTerm, setSearchTerm] = createSignal<string>(''); // search body for this term
+  const [displayType, setDisplayType] = createSignal<DisplayType>(DisplayType.Trimmed); // how you want to view the plans
+
+  // grab the static plans file
   const fetchPlans: ResourceFetcher<true, PlanFile[], unknown> = async () => {
     const resp = await fetch('/plan-archive/plans.json');
-    return resp.json();
+    const plans: PlanFile[] = await resp.json();
+    // sort by time here so we can depend on this in any further operations
+    return plans.sort((a, b) => a.time - b.time);
   }
-
   const [plans] = createResource(fetchPlans, { initialValue: [] });
 
   // list of all domains that plans have came from
@@ -31,6 +50,7 @@ const App: Component = () => {
   );
 
   // list of all users
+  // FIXME: store the full email so we can do stuff like collapse mail.ravensoft.com/ravensoft.com into one?
   const users = createMemo(() => plans()
     .map(plan => plan.by)
     .filter((by, i, array) => array.indexOf(by) == i)
@@ -62,19 +82,30 @@ const App: Component = () => {
   })
 
   // for all plans in the current view, find the current plan and the previous plan
-  // posted by that same user, in order to allow them to be diff'd
-  const prevCurrentPlanPairs = createMemo(() => {
-    return filteredPlans().map((plan) => {
-      const prevIdx = plansByUser()[plan.by].findIndex(test => test === plan) - 1;
-      console.log(prevIdx);
-      return [plansByUser()[plan.by][prevIdx], plan]
-    })
-  })
+  // posted by that same user, and diff them for the various display modes
+  const filteredDisplayPlan = createMemo(() => filteredPlans().map(plan => {
+    let diffs: Change[] = [];
+    let largest = '';
 
-  createEffect(() => {
-    console.log(prevCurrentPlanPairs());
-    // console.log(plansByUser());
-  })
+    // find the post this user made before this one, default to empty string so diff works
+    // minor optimization: don't bother doing this if you don't need it
+    if (displayType() != DisplayType.Full) {
+      const prevIdx = plansByUser()[plan.by].findIndex(test => test === plan) - 1;
+      const prevStr = plansByUser()[plan.by][prevIdx]?.contents ?? '';
+      diffs = diffLines(prevStr, plan.contents);
+
+      // filter out additions, however if it's empty (plans are identical) just use the whole array
+      let additions = diffs.filter(d => d.added);
+      if (!additions.length) additions = diffs;
+      largest = additions.reduce((a, b) => (a.count ?? 0) > (b.count ?? 0) ? a : b).value;
+    }
+
+    return {
+      ...plan,
+      diffs,
+      largest
+    };
+  }));
 
   // bit of a hack, shouldn't touch the dom like this
   const setPlansVisible = (show: boolean) => {
@@ -109,7 +140,7 @@ const App: Component = () => {
                 <strong>
                   <Show when={currentUser().length || searchTerm().length}
                     fallback={`${plans().length} total plans`}>
-                    {filteredPlans().length} plans
+                    {filteredDisplayPlan().length} plans
                   </Show>
                 </strong>
               </li>
@@ -117,11 +148,18 @@ const App: Component = () => {
             <ul>
               <li><a href="#" onClick={[setPlansVisible, true]}>open all</a></li>
               <li><a href="#" onClick={[setPlansVisible, false]}>close all</a></li>
+              <li>
+                <select onChange={ev => setDisplayType(ev.target.value as DisplayType)}>
+                  <option value={DisplayType.Trimmed}>trimmed</option>
+                  <option value={DisplayType.Full}>full</option>
+                  <option value={DisplayType.Diff}>diff</option>
+                </select>
+              </li>
               <li><input type="search" placeholder="Search" onInput={val => setSearchTerm(val.target.value)} /></li>
             </ul>
           </nav>
-          <For each={filteredPlans()}>
-            {plan => <PlanReader plan={plan} />}
+          <For each={filteredDisplayPlan()}>
+            {plan => <PlanReader displayType={displayType()} plan={plan} />}
           </For>
         </main>
       </Suspense>
@@ -130,7 +168,8 @@ const App: Component = () => {
 };
 
 interface PlanReaderProps {
-  plan: PlanFile
+  displayType: DisplayType
+  plan: DisplayPlan
 }
 
 const PlanReader: Component<PlanReaderProps> = props => {
@@ -138,7 +177,7 @@ const PlanReader: Component<PlanReaderProps> = props => {
     const date = new Date(props.plan.time * 1000);
     const waybackTime = `${date.getFullYear()}${(date.getMonth() + 1).toString().padStart(2, '0')}${date.getDate().toString().padStart(2, '0')}000000`
     const baseURL = `https://web.archive.org/web/${waybackTime}/`;
-    return linkifyStr(props.plan.contents, {
+    return linkifyStr(props.displayType == DisplayType.Full ? props.plan.contents : props.plan.largest, {
       target: '_blank',
       formatHref: (href) => baseURL + href,
       validate: { email: false },
@@ -147,7 +186,18 @@ const PlanReader: Component<PlanReaderProps> = props => {
 
   return <details open>
     <summary>{props.plan.by} - {new Date(props.plan.time * 1000).toDateString()}</summary>
-    <article innerHTML={contentsWithLinks()} />
+    <Switch>
+      <Match when={props.displayType == DisplayType.Diff}>
+        <article>
+          <For each={props.plan.diffs}>{diff =>
+            <div classList={{ 'added': diff.added, 'removed': diff.removed }}>{diff.value}</div>
+          }</For>
+        </article>
+      </Match>
+      <Match when={true}>
+        <article innerHTML={contentsWithLinks()} />
+      </Match>
+    </Switch>
   </details>
 }
 
