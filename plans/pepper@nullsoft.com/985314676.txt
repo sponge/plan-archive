@@ -195,4 +195,3 @@ i'm looking forward to not having dreams about the mob.
 
 everyone give steve a round of applause.  today he mastered his first php
 script (a .plan rotator) and cron, all in an hour.  not bad for a web monkey.
-

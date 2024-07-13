@@ -72,4 +72,3 @@ affects the outcome of the game.
 
 One of the most important parts of making team deathmatch variations 
 fun single player games is making the bots more than just target dummies.
-

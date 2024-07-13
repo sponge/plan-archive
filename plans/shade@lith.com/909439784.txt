@@ -218,5 +218,3 @@ Still plugging away on the interface, but getting close to done.  The new interf
 We integrated all the character voices, so the Chosen are ridiculing everything that dares to look sideways at them.  Scorpio (Brian Goble) put in an awesome system that sets up all the character sounds as different types of directories, like kills, death, pain, suicide, etc.  We just fill the directories with sounds and the player plays them.  I'm sure you mod authors can dream up the possibilities.  You'll also be able to create a directly called "taunt", put as many sounds in it as you want and push the "taunt" key to automatically select play one of them. :)
 
 So it is coming together.  It's starting to go from fun to very fun.  Most of the levels are almost completely finished, with music, ambient sounds, and all the bells and whistles. :)  I'm really proud of how Blood 2 has come together.  Well, I've talked enough, back to the levels so we can get this puppy in your hands as soon as possible.
-
-

@@ -8,4 +8,3 @@ okay, I am back from my wedding and honeymoon and am ready to get working on wra
 My immediate V12 tasks will be integrating the recent Tribes2 patches to the V12 code base and making any necessary changes to get get the V12 up and compiling with VC++.
 
 --Rick
-

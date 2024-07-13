@@ -247,8 +247,4 @@ takes off you can really feel it.
 
 I plan to get a playable networked game working before everyone gets back.  
 I've done so much network code in the past that it's pretty easy going so 
-far.  I'm teaching Jacob, our 15yr old intern, networking as well. 
-
-
-
-
+far.  I'm teaching Jacob, our 15yr old intern, networking as well.

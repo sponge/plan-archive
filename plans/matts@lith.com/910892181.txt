@@ -1,4 +1,3 @@
-
 *** Monolith Production's IonFingerD Server 1.0 beta
 
 User name: matts
@@ -131,6 +130,3 @@ Looks like we might have permanent visitors in building 20.  Should be an inters
 Matt Saettler
 Director of Product Development
 Monolith Productions
-
-
-

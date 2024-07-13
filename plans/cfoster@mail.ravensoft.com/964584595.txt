@@ -1,4 +1,3 @@
-
 Name: Chris Foster
 Email: cfoster@mail.ravensoft.com
 Description: Lead Designer
@@ -18,5 +17,3 @@ send me mail!
 --------
 
 I hope the game is better than the movie.
-
-

@@ -1,4 +1,3 @@
-
 Name: Graeme Devine
 Email: zaphod@idsoftware.com
 Description: Designer / Project Manager
@@ -14,5 +13,3 @@ The filename is quake3-macosx-129f-2.dmg
 I'm now working on the Classic release.
 
 Graeme.
-
-

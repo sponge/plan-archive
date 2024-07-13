@@ -92,4 +92,3 @@ The trick is to pick the features that don't fight each other.  The problem is t
 Sigh.
 
 Sometimes the decisions are REALLY hard, like making head to head modem play suffer to enable persistant internet servers.
-

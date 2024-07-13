@@ -1,4 +1,3 @@
-
 Name: Tim Willits
 Email: twillits@idsoftware.com
 Description: Level Designer
@@ -19,12 +18,4 @@ Requirements:
 5. Avid game player with an open mind and understanding of games and gamers in general
 6. Willing to play on team id during Capture the Flag games.
 
-If you are interested please send email to twillits@idsoftware.com. All inquires will be strictly confidential. 
-
-
-
-
-
-
-
-
+If you are interested please send email to twillits@idsoftware.com. All inquires will be strictly confidential.

@@ -295,4 +295,3 @@ but I'm not sure if a cache coherent read on PIIs just goes from one L2
 to the other, or if it becomes a forced memory transaction (or worse, two
 memory transactions).  It would also limit the maximum amount of overlap
 in some situations.  You would also get cache invalidation bus traffic.
-

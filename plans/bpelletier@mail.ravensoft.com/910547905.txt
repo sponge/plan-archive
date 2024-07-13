@@ -1,4 +1,3 @@
-
 Name: Brian Pelletier
 Email: bpelletier@mail.ravensoft.com
 Description: Project Leader/Art Director
@@ -303,5 +302,3 @@ We are making the game for you, so please give us your feedback.
 OK, I'm done.
 
 For now.
-
-

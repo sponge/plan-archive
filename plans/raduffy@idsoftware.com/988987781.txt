@@ -1,4 +1,3 @@
-
 Name: Robert A. Duffy
 Email: raduffy@idsoftware.com
 Description: Programmer
@@ -14,4 +13,3 @@ At the same time, I will finally get the UI stuff release for mod teams. This wi
 There are some really nice looking mods going on right now, Urban Terror, Q3F, WFA, Annihilation, Navy Seals are all looking really good. Quake The Movie is also looking really really good, the guys at Tritin were kind enough to send us the first 13 or so minutes and it is amazing stuff. Overall the source changes mod teams will need to integrate are quite small.
 
 Work progresses well on Q3A/TA, Wolf and DOOM.
-

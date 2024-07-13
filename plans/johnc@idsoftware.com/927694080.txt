@@ -325,4 +325,4 @@ forced out because of malicious attacks on all the public servers, so I
 want to try and flush out what I can during Q3's testing phase.
 
 There is a server running in the debugger here at crashtest.idsoftware.com
-(192.246.40.68).  Anyone that 
+(192.246.40.68).  Anyone that

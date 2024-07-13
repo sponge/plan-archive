@@ -17,4 +17,3 @@ great, solid state for online play.
 
 Server operators: Remember to edit your server name and Message of the Day
 in the Advanced Options.
-

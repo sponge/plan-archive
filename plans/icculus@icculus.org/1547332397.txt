@@ -585,6 +585,3 @@ When this .plan was written: 2019-01-12 16:33:17
 Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
 
 Cobwebs fall on an old skipping record
-
-
-

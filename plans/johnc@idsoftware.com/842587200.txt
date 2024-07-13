@@ -8,4 +8,4 @@ There is new source code available. ftp://ftp.idsoftware.com//idstuff/source/qut
 
 I also uploaded the DOOM ipxsetup / sersetup source code, which we haven't had on our ftp site before.
 
-We are going to begin internal testing of a 1.05 Quake release tomorrow. When we upload for general release, we will also upload the current .qc source. The old qcc.tar.gz file is still present on the ftp site for the original .qc files for now. 
+We are going to begin internal testing of a 1.05 Quake release tomorrow. When we upload for general release, we will also upload the current .qc source. The old qcc.tar.gz file is still present on the ftp site for the original .qc files for now.

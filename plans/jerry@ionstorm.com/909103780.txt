@@ -1,4 +1,3 @@
-
 *** Ion Storm's Finger Server
 
 User name: jerry
@@ -196,4 +195,3 @@ cellpadding="4">
 </center></div>
 </body>
 </html>
-

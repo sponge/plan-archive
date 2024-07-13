@@ -38,5 +38,3 @@ http://www.planetunreal.com/mutation/tutorials/getstart.html
 
 I've been working on my own mod authoring doc.  Its not finished, but maybe I'll stick it online
 so people can get started with it.
-	
-    

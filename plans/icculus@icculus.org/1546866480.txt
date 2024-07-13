@@ -381,6 +381,3 @@ When this .plan was written: 2019-01-07 07:08:00
 Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
 
 We're out of the shallow, now.
-
-
-

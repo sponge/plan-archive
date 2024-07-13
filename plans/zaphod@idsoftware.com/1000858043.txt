@@ -1,4 +1,3 @@
-
 Name: Graeme Devine
 Email: zaphod@idsoftware.com
 Description: Designer / Project Manager
@@ -19,4 +18,3 @@ There's a new OS X build of WolfMP up (build b3).  This fixes issues with dual m
 My heartfelt thanks to everyone out there who downloaded and tested these builds.  The reports and encouragment have been excellent.
 
 Not a single email asking for Classic support though.  I thought that was interesting (I'm sure they will flood in now).
-

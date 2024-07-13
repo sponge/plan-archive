@@ -1,4 +1,3 @@
-
 Name: John Carmack
 Email: johnc@idsoftware.com
 Description: Programmer
@@ -520,6 +519,3 @@ static dma buffer is the fact that textures may be swapped in and out,
 causing the register programming in the buffer to be wrong.  With 
 virtual texture addressing, a texture’s address never changes, and an 
 arbitrarily complex model can be described in a static dma buffer.
-
-
-

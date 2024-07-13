@@ -1,4 +1,3 @@
-
 Name: Graeme Devine
 Email: zaphod@idsoftware.com
 Description: Designer / Project Manager
@@ -22,4 +21,3 @@ I'll release it along with the next release of the Mac build.
 Dreamcast.
 
 I read today in a news report that the Dreamcast failed to compete with the "more powerful Nintendo 64 and Playstation".  Wow.  I was under the impression the Dreamcast kicked their butts.  The Dreamcast is a great machine, I'm saddened by todays news.
-

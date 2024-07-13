@@ -184,4 +184,3 @@ can use the keyboard only or use a serial mouse until the patch is
 out. The patch will be sent to all registered users. You will also
 be able to D/L the patch from most ftp sites and BBS's.
 _*_*_*_*_*_*_*_*_*_*_*_*_*_
-

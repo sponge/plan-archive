@@ -1,4 +1,3 @@
-
 Name: Robert A. Duffy
 Email: raduffy@idsoftware.com
 Description: Programmer
@@ -21,4 +20,4 @@ This is the combined source code for Quake III Arena and Quake III: Team Arena. 
 
 idstuffquake3sourceQ3A_ToolSource.exe
 
-This contains the source code for the Quake III Arena and Quake III: Team Arena tools. It contains source code for Radiant, Q3Map, Q3Data, Q3Asm and related support files. It does NOT contain prebuilt executables or end user friendly gizmos. 
+This contains the source code for the Quake III Arena and Quake III: Team Arena tools. It contains source code for Radiant, Q3Map, Q3Data, Q3Asm and related support files. It does NOT contain prebuilt executables or end user friendly gizmos.

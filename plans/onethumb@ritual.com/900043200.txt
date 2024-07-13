@@ -1,4 +1,3 @@
-
 *** Ritual Entertainment's Finger Server
 
 User name: onethumb
@@ -69,6 +68,3 @@ from creating amazing environments to show off.
 I've gotten some email wondering what's up with Sin and AMD's 3DNow! stuff.
 I can tell you that we have a couple of boxes here, and we're actively working
 with AMD on including support.  No promises of course, but it's looking good.
-
-
-

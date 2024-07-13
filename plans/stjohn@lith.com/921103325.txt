@@ -1,4 +1,3 @@
-
 *** Monolith Production's Finger Server
 
 User name: stjohn
@@ -13,7 +12,3 @@ Plan modified: Wed Mar 10 13:55:37 1999
  http://pc.ign.com/previews/11237.html
 
      As for the development of Sanity, everything is going along swimmingly. We are right on schedule or ahead of schedule with most of the content and features. The development of the psionic abilities is in full swing. We’ve pretty much tied up the rest of the mission and story progression for the single-player. This story is so weird and cool, we want our single-player adventure to be new and refreshing for gamers used to all the standard game plot themes. I’ve started plotting out some of the more advanced AI capabilities for special summoned creatures and end-level bosses. We’ve also been working on getting the levels populated with all kinds of nifty interactive things to do, clue elements, and puzzles. The in-game interface has finally gotten refined to a state where it is concise, simple, easy to use and visually cool to look at. I’m going to get the engineers to add in the stuff for “going insane” and for head explosion, hopefully in the next couple of weeks. We also have to start ramping up to an E3 demo that has as much cool stuff in it as possible. There’s lots of stuff to do before we’re done of course, but things are going well, the team’s psyched there’s no big road blocks, we are going for the gold….whooeee, I’m so excited, I think I need to do some jumping jacks....oh..yeah !!!...owch,that hurts!
-
-
-				
-

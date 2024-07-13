@@ -1,4 +1,3 @@
-
 Name: Tim Willits
 Email: twillits@idsoftware.com
 Description: Level Designer
@@ -10,4 +9,3 @@ Id CTF Challenge!!
 Team id kicked butt!!
 
 Thanks everyone for playing!!
-

@@ -1,4 +1,3 @@
-
 *** Monolith Production's Finger Server
 
 User name: dussault
@@ -300,4 +299,4 @@ better to be using 32-bit textures and a 16-bit screen than
 The TNT2 owns me.  It's very interesting to be working in 
 this paradigm where the card isn't the bottleneck anymore.  
 The bottleneck is much more on the processor and data 
-structure side.  
+structure side.

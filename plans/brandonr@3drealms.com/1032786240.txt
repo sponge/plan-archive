@@ -16,5 +16,3 @@ One piece of advice.  When you install the Maya PLE, put it in a directory witho
 Oh and just so ya know...3D Realms doesn't use Maya internally.  I believe Maya is becoming more popular now because Universities are using it as a teaching tool, however.  We do make use of both Smacker and Miles from Rad Game Tools, however (they rock!).
 
 END OF LINE
-	
-    

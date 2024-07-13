@@ -21,5 +21,3 @@ people :
 This poll stemmed from the last plan which
 was based around textures leaning towards photorealism and if that should be of importance now that theres no 256 colour limit (for some games). After all that, eventually the question was raised, does it make that big a difference...ah, guess ya had to be there ;) but at least it confirms to
 me that photorealism is the way to go. 8)
-	
-    

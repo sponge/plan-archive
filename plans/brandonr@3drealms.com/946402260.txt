@@ -63,5 +63,3 @@ plate is pretty full with high priority projects.
 
 If you are an experienced C++ programmer interested in helping
 contribute to the project feel free to email me at brandon@epicgames.com.
-	
-    

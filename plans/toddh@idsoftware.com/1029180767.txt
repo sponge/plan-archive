@@ -1,4 +1,3 @@
-
 Name: Todd Hollenshead
 Email: 
 Description: CEO
@@ -68,5 +67,3 @@ required to pay the fee if you abide by the GPL, of course.  But some people
 have been interested in maintaining their own source and not releasing it, so
 we offer this option as an alternative.  The technology licensing page on our 
 website will be updated to reflect this after the start of the new year.
-
-

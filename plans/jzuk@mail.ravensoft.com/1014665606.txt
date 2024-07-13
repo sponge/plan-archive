@@ -1,4 +1,3 @@
-
 Name: Jon Zuk
 Email: jzuk@ravensoft.com
 Description: Lead Designer
@@ -27,4 +26,3 @@ MP game types
 There's probably more that I'm forgetting, but you can see why it will take us a bit to get docs for all of it.
 
 3-25-99 - apparently the last time I updated this thing!!
-

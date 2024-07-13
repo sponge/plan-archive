@@ -147,5 +147,3 @@ Also been working a bit on the network's handling of entity models, since our mo
 Hmm, almost sunrise...
 
 - Chris
-	
-    

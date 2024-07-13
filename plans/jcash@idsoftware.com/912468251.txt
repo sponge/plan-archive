@@ -1,4 +1,3 @@
-
 Name: John Cash
 Email: jcash@idsoftware.com
 Description: Programmer
@@ -88,4 +87,3 @@ Anyone from HP out there listening?  The clock is ticking...
 John Cash
 jcash@idsoftware.com
 "Hellrot"
-

@@ -1,4 +1,3 @@
-
 Name: Robert A. Duffy
 Email: 
 Description: Programmer
@@ -522,4 +521,3 @@ July 28.2001
 There is an issue if you download the full ( 25MB ) 1.29g install and apply it on top of 1.29f. The installer does not overwrite the existing baseq3pak6.pk3 and missionpackpak1.pk3. AUTO-UPDATE works just fine so if you have 1.29f it is best to do that anyway as the update is much smaller. The installer also works fine on any version prior to 1.29f. Most people will have just ran auto-update but for those that cannot or don't like auto-updaters can remove the above pak files before running it and it will work fine. 
 
 The game will run either way as the .exe is compatible with either set of pak files. Our install/setup person is out of town until tomorrow night. Once he is back we will get an updated setup that works properly.
-

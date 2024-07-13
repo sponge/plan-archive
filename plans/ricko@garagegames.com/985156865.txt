@@ -12,4 +12,3 @@ If you have not heard by now Tribes2 has gone gold.  That also means that Garage
 -stubbed in makefile support for Microsoft VC++
 -clean up #ifndef, #define wraps in all headers
 -#ifndef all includes in header files to speed up compile times (19% faster)
-

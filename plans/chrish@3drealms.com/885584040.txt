@@ -54,5 +54,3 @@ Keep in mind that I do love MSVC++, and I do like Win32 quite a bit.  But some o
 Anyway, I'm done rambling.  Email me if you have any thoughts,
 
 - Chris
-	
-    

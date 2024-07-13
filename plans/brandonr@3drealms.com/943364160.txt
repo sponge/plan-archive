@@ -12,5 +12,3 @@ In the Unreal Universe interview I said that Epic was not going to be
 persuing more Unreal patches.  I talked to Tim and he said that he
 was going to release one more Direct3D update with the latest
 changes/fixes and that would be it.
-	
-    

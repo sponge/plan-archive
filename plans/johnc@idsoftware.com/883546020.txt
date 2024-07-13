@@ -251,4 +251,4 @@ more precise.  (bigguun.cfg, boss.cfg city.cfg, command.cfg,
 factory.cfg, hangar.cfg, jail.cfg, mine.cfg, power.cfg, space.cfg,
 warehouse.cfg).
 
-I think several people are failing to 
+I think several people are failing to

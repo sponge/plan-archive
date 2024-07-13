@@ -1,4 +1,3 @@
-
 Name: James Monroe
 Email: jmonroe@ravensoft.com
 Description: Ld. Programmer
@@ -17,4 +16,4 @@ Version C:
 previous fixes:
 * fixed a uninitialized variable in the glm model loader which *may* have been causing a crash after a player joins. (this was a dedicated only bug)
 * fixed part of a bug in the code which runs the VMs that was causing the "opStack corrupted in compiled code" (followup note: it didn't fix all of the opStack corrupted errors.)
-Thanks to Rick for fixing this nasty little bugger!  
+Thanks to Rick for fixing this nasty little bugger!

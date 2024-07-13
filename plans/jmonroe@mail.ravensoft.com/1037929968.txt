@@ -1,4 +1,3 @@
-
 Name: James Monroe
 Email: jmonroe@ravensoft.com
 Description: Ld. Programmer
@@ -44,5 +43,3 @@ This has not been tested in any way, but I wanted to get the source out there as
 
 Special thanks to "The Dark Project", who have been diligently producing the modifcation "Voyager: Insurrection", for pointing out the need for this SDK.
  * Watch http://www.darkproject.org closely in the next few weeks for important news! *
-
-

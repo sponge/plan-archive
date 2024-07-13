@@ -1,4 +1,3 @@
-
 Name: James Monroe
 Email: jmonroe@mail.ravensoft.com
 Description: Ld. Programmer
@@ -21,4 +20,3 @@ intro:
 http://www.dailyradar.com/features/game_feature_page_2113_1.html
 jump right to raven:
 http://www.dailyradar.com/features/game_feature_page_2113_4.html
-

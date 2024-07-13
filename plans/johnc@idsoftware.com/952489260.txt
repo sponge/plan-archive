@@ -133,4 +133,4 @@ style scenes to render without swapping.
 
 Clever programmers can always work harder to overcome obstacles, but in 
 this case, there is a clear hardware solution that gives better 
-performance than anything 
+performance than anything

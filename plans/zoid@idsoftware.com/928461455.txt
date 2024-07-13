@@ -1,4 +1,3 @@
-
 Name: Dave Kirsch
 Email: zoid@idsoftware.com
 Description: Ports
@@ -34,4 +33,3 @@ setup and initialization sequence.
 Wakes up on packet or stdin under Unix.
 
 /// Zoid.
-

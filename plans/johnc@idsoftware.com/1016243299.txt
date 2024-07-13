@@ -1,4 +1,3 @@
-
 Name: John Carmack
 Email: johnc@idsoftware.com
 Description: Programmer
@@ -152,4 +151,3 @@ already in the position of having to trust the other players to a degree.  The
 problem is really only solvable by relying on the community to police itself,
 because it is a fundamentally unwinnable technical battle to make a completely
 cheat proof game of this type.  Play with your friends.
-

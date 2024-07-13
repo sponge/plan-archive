@@ -1,4 +1,3 @@
-
 Name: John Cash
 Email: jcash@idsoftware.com
 Description: Programmer
@@ -66,4 +65,3 @@ http://www.clan311.org/311/cash/
 John Cash
 jcash@idsoftware.com
 "Hellrot"
-

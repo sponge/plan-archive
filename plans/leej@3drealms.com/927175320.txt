@@ -15,5 +15,3 @@ Swim swim eat Jar Jar.
 
 
  -=> INSERT SHASH HERE <=-
-	
-    

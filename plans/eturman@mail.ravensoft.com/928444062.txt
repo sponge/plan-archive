@@ -1,4 +1,3 @@
-
 Name: Eric Turman
 Email: eturman@mail.ravensoft.com
 Description: Senior Animator
@@ -220,5 +219,3 @@ everyone else’s. ;)
 -->Turmanator
 
 **************************************************************************************
-
-

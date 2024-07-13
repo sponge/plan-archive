@@ -1,4 +1,3 @@
-
 Name: Brian Pelletier
 Email: bpelletier@ravensoft.com
 Description: Project Leader/Art Director
@@ -140,4 +139,4 @@ helped but not to the point where they did all the work and eventually
 we got something that felt really fun for the player. It's funny now 
 when I hear people say that the teammates were stupid because they hardly 
 killed any enemies or that the enemies always attacked the player but 
-hardly the teammates; If they only knew how 
+hardly the teammates; If they only knew how

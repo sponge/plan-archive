@@ -1,4 +1,3 @@
-
 *** MumboJumbo's Finger Server
 
 User name: andrew
@@ -79,5 +78,3 @@ when volume is 0
 * film playback is fixed yet again. sigh.
 * logos and colors are now inherited by gibs, animated attachments,
 detachments, attack projectiles, and just about everything else
-
-

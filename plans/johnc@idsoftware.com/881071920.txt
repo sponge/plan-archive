@@ -87,4 +87,3 @@ I am going to rapidly wean myself off of working with quake so I can concentrate
 Everyone should keep in mind that any next-generation game that we produce is a LONG way off, so don't start getting all worked up over it, ok?
 
 For the curious, it does look like java is going to start playing a significant role in our future projects.  All of the lightweight utilities will be java applications (some requiring OpenGL bindings).  The heavy duty number crunching utilities will probably stay in C.  It is still unclear how much of the game framework and the level editor we can get away with doing in java.
-

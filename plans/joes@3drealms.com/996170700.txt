@@ -15,5 +15,3 @@ http://www.mcafee.com/anti-virus/viruses/sircam/default.asp?cid=2360
 This morning at about 8AM I set up my spamkiller software to deal with this virus, and just since then (which is 1:40 minutes since I set up the filters), I've had 18 hits on them - ACK!
 
 Folks, please go clean out your systems - our support mail account got a ton of them, too.  Or, you could do something better and pay more attention when you open file attachments!
-	
-    

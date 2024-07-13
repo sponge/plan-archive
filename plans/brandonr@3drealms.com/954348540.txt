@@ -19,5 +19,3 @@ I'm really pissed about losing my email.  I assumed that Outlook kept its
 mailbox data in the Program Files hierarchy, but it keeps it in the
 Windows hierarchy.  So I toasted my drive but kept Program Files which
 had my other important data and lost all my email.  What fun.
-	
-    

@@ -13,4 +13,3 @@ I have not had time to make an installer, or extensively test this build.  SO IT
 The filename is quake3-MacClassic-1.29f-BETA.sit
 
 Graeme.
-

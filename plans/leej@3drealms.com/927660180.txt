@@ -16,5 +16,3 @@ Then the first 3 letters of the TOWN YOU WERE BORN IN.
 
 
 -=>INSERT SHASH HERE<=-
-	
-    

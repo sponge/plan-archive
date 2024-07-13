@@ -1,4 +1,3 @@
-
 Name: Robert Duffy
 Email: raduffy@idsoftware.com
 Description: Programmer
@@ -152,6 +151,3 @@ ToDo
 -Add bot bsp option to bsp choices
 -Run all paths through a path cleaner
 -GL compatibility testing per driver set as required
-
-
-

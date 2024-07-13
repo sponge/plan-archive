@@ -18,4 +18,3 @@ Right now I only get to take advantage of the cull. The other 90%+ of the
 data can be accepted so the driver is wasting its time attempting to clip.
 
 Thanks.
-

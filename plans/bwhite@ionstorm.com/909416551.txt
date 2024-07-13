@@ -1,4 +1,3 @@
-
 *** Ion Storm's Finger Server
 
 User name: bwhite
@@ -30,4 +29,4 @@ Five Most Needed Elements That Should Be Added To Games
 2. Clever use of suspense to heighten emotions in the player rather than throwing everything at them.
 3. Intelligent reasoning for alarm systems and traps
 4. Good writing for character dialogue (not, "I am a picker of locks, Take these lock picks...") 
-5. A solid testing cycle so that the game does not need constant patching. 	
+5. A solid testing cycle so that the game does not need constant patching.

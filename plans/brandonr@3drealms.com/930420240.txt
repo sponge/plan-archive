@@ -21,5 +21,3 @@ Saturday, June 26, 1999
 
 "I pity the foo who uses anonymous structs inside unions."
  - Mr. T.
-	
-    

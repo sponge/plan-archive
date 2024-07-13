@@ -12,5 +12,3 @@ http://forums.3drealms.com/cgi-bin/ultimatebb.cgi
 The forums are live now, so check it out now, and it's good to be back!
 
 If you go to http://www.3drealms.com and don't see the lead story about the server being new, then you have old DNS.  You need to either update your DNS yourself, or wait a day or so, and your ISP should have it updated.  If you can't wait, you can use this URL to get to the web site -> http://216.39.68.180 (Don't bookmark that, as you should continue to try http://www.3drealms.com until it works correctly for you).
-	
-    

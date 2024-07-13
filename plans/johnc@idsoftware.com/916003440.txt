@@ -64,4 +64,4 @@ out of its class.
 
 The 64 bit pci slots are a good thing for network and storage cards,
 but the memory controller doesn't come close to getting peak
-utilization out of it.  
+utilization out of it.

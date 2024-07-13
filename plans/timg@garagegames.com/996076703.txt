@@ -8,4 +8,3 @@ Boy, this has been a busy past few weeks.  Rick and I have been working hard on 
 I uploaded all my current changes to the server yesterday, which included the new "My Garage" tab.  The new tab has the developer home page and will also include all the  "private" sections that a developer has access to (if you purchase the V12 SDK, you get access to a private V12 area).  The purchasing pages are not open to the public yet. I still have a few more changes to make, then we need to do some serious testing with our beta guys.  Getting close though (seems like I've been saying that for a while now). Even though it's been a year since I left Dynamix, it's only been four months since we received our first "T2 final" code drop.  Feels a lot longer than that.
 
 I've fallen behind on the forums, I'll try to do some catch-up over the next few days...
-

@@ -27,8 +27,3 @@ Wheel of Time International patches that can have our Q/A Stamp of Approval.
 With all the various (but minor) differences between the US and Intl versions of
 WOT this is turning out to take much longer than I had expected.  We _should_ 
 have International versions ready to send to GT QA by Friday.
-
-
-
-
-

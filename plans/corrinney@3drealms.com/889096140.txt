@@ -1,4 +1,3 @@
-
 *** Ion Storm's Finger Server
 
 User name: corrinne
@@ -107,5 +106,3 @@ Maybe Ms. Carly Taylor can give out Carly points to Carmack and Hook for program
 I am also bounded by the polygon-based nature of Q2 model animation format, which with its now higher polygon count, data cache thrash minimization is becoming a problem. After putting in polygon-based LOD into Q2, poly-based appears to be even less probable than description-based as what I would choose as a LOD solution. I would appreciate experiencial testimonials from other LODers out there.
 
 Yes, my New Year's resolution list is actually my Christmas vacation task list summary. This way I cheat and have a better chance of meeting my own resolution. :) Happy New Year to you all.
-	
-    

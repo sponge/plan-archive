@@ -1,4 +1,3 @@
-
 Name: Eric Webb
 Email: eric@idsoftware.com
 Description: Monkey
@@ -12,4 +11,4 @@ The IP address is 192.246.40.160
 
 If you could hop into this server and help test we would greatly appreciate it. If you can get in, then all of this confusion will clear up as more people update to the current release. 
 
-If you have any further questions about router related issues, or if the above does not work for you, please email me at eric@idsoftware.com and include "Quake III Router" in the subject. 
+If you have any further questions about router related issues, or if the above does not work for you, please email me at eric@idsoftware.com and include "Quake III Router" in the subject.

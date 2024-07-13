@@ -65,4 +65,4 @@ SET LMOUSE=C:MOUSE
 lh C:logitechmouseMOUSE.EXE
 c:cddosmscdex.exe /D:mscd001 
 
-As you can see I use Logitech's mouse driver and again the last line is my CDROM Drive line. (I have the drivers for the CD in the c:cddos> directory) the /D:mscd001 stands for the name that you are giving your CDROM drive. I use the default (mscd001) this does not really matter UNLESS you have it as /D:CDROM DO not name your cdrom this. 
+As you can see I use Logitech's mouse driver and again the last line is my CDROM Drive line. (I have the drivers for the CD in the c:cddos> directory) the /D:mscd001 stands for the name that you are giving your CDROM drive. I use the default (mscd001) this does not really matter UNLESS you have it as /D:CDROM DO not name your cdrom this.

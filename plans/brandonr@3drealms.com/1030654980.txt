@@ -18,5 +18,3 @@ I've also been playing Magic Online.  I was in 2nd place in my Oddessy block lea
 The prize structure in Magic Online is far too top heavy.  You get about 80 boosters for winning a league, but only a couple for coming in 17th place.  Second place earns about 40.  Why the geometric payscale?  I think it would make more sense to award 40 to the 1st place (which is about 120 bucks worth of packs) and spread the rest of the prize out to make an even progression.  Anyone who places in the top 32 of a 256 player league deserves to win something they can brag about.
 
 I promise my next .plan update will talk about game programming.  I just have to think of something I can write about.
-	
-    

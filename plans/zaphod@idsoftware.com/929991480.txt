@@ -462,4 +462,4 @@ pay as much attention to as real issues with the technology.  We're looking clos
 and cable play to see how our new network code works, and how that works when a bunch of different
 connections are playing together on the same server.  We're anxious to gauge server load and use
 with the maps we have to see how the server works under heavy use, and to make sure we've got a lot
-of the new client/server 
+of the new client/server

@@ -1,4 +1,3 @@
-
 *** Monolith Production's IonFingerD Server 1.0 beta
 
 User name: blong
@@ -41,8 +40,3 @@ i'm doing a couple of things on gruntz right now, the most important of which ar
 i have resolved to limit this plan file to solely reflect on the progress of gruntz and related goings on here at monolith for reasons that should be obvious to people that regularly hit finger.planetquake. so i nuked all the old stuff in this plan file. from now on, any personal info can be found at my homepage, http://members.tripod.com/~NutritiousTreat. at the moment, it's pretty F'in empty, just like any good personal web page should be.
 
 brian.
-
-
-
-
-

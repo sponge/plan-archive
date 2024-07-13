@@ -15,5 +15,3 @@ Anyhow, I figured it's been a while since I posted a worklog and let everyone in
 - Did some work on "CodeSwitcheroo()" because that's a funny function name.
 
 So anyway, that's what my day has looked like so far.  Now maybe you can understand how this game programming job is so much work!
-	
-    

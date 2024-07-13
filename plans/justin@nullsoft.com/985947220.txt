@@ -7,4 +7,3 @@ Plan:
 Played around signing NSIS exe's with an Authenticode certificate. Seems to be pretty
 easy (if you turn CRC checking off :).. Just gotta go through the pain of getting a real
 certificate from Verisign..
-

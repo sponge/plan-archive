@@ -1,4 +1,3 @@
-
 *** Ion Storm's Finger Server
 
 User name: romero
@@ -64,4 +63,3 @@ align="left">&nbsp;</p>
 
 </body>
 </html>
-

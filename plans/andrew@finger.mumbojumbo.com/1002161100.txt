@@ -1,4 +1,3 @@
-
 *** MumboJumbo's Finger Server
 
 User name: andrew
@@ -8,7 +7,3 @@ Plan modified: Wed Oct 03 19:00:58 2001
 Over the course of today, I've come to realize that while I definitely did get in the shower and turn on the water this morning, I apparently stood there in a daze for a few minutes without washing anything, turned off the water, got dressed, and came to work.
 
 Yet somehow I expect myself to debug code.
-
-
-
-

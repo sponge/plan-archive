@@ -1,4 +1,3 @@
-
 Name: Graeme Devine
 Email: zaphod@idsoftware.com
 Description: Designer / Project Manager
@@ -13,4 +12,3 @@ I've been running it on my machine without problem, in game and out.  However, I
 Meanwhile, if you want to play the BLEEDING edge client, you can grab it from my iTools public folder (graemedevine).  You'll need to have downloaded and installed a full PC build because this is just the app, so this limits the # of you that can play it to experts and desperate types..  I've been updating the build here for people to test on since I only have a few OS X machines here to play with.
 
 Please ONLY send bug reports on this build to me (zaphod@idsoftware.com) and try to include a clear step by step way to replicate the error you have.  Please also include the OS X build you have running and what kind of video card you have installed.
-

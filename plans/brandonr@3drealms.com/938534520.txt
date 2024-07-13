@@ -40,5 +40,3 @@ performance.
 
 Hey, wouldn't it be cool if GameSpot had a secure polling system that people couldn't
 use flood bots against?
-	
-    

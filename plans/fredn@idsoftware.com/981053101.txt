@@ -1,4 +1,3 @@
-
 Name: Fred Nilsson
 Email: fredn@idsoftware.com
 Description: Animator

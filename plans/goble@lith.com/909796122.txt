@@ -1,4 +1,3 @@
-
 Welcome to Linux version 2.0.0 at lith.com !
 
   9:22pm  up  6:21,  0 users,  load average: 0.67, 0.42, 0.27
@@ -519,6 +518,3 @@ http://www.getmedieval.com
 
 Well, I gotta get back to work on Shogo...wait, what's
 that over the horizon...it's Blood2!  :)
-
-
-

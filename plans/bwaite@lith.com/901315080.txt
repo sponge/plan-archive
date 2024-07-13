@@ -1,4 +1,3 @@
-
 Welcome to Linux version 2.0.0 at lith.com !
 
   4:26pm  up 1 day,  1:10,  0 users,  load average: 0.40, 0.29, 0.14

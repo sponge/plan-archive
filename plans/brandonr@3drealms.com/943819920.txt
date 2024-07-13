@@ -17,5 +17,3 @@ on the UT CD.
 Joilet extensions are enabled by default in most distributions,
 but if you have customized your kernel, you may not have them
 included.
-	
-    

@@ -19,4 +19,3 @@ E Pluribus Enum
 
     ...
 };
-

@@ -1,4 +1,3 @@
-
 *** Welcome to the 2015 Finger Server ***
 
 User name: vince
@@ -17,5 +16,3 @@ Project: Game X
 
 
 This is a test of the new 2015 finger system.
-
-

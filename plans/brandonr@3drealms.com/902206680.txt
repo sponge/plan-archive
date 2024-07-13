@@ -13,5 +13,3 @@ actually burn the guy!
 I'm pondering why .plan files are useful.  Sounds like a good
 topic for a PlanetQuake editorial!  Seems like the quickest way
 to get yourself in trouble is to type 'vi .plan'
-	
-    

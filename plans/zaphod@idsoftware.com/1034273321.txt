@@ -1,4 +1,3 @@
-
 Name: Graeme Devine
 Email: 
 Description: Programmer
@@ -17,4 +16,3 @@ I'll check out the mods that don't work asap.
 Since OS X leaves the keyboards as "device independent" I'll double up the ESC key for the console.
 
 Keypad Enter is fixed.  French keypad "," is added.
-

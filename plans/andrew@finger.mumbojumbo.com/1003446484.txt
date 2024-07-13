@@ -1,4 +1,3 @@
-
 *** MumboJumbo's Finger Server
 
 User name: andrew
@@ -33,5 +32,3 @@ As soon as the Mac version is final.
 Other Features
 -------------------------------------
 There were some not-so-cool things that we thought would be cool until we actually put them into the game and subjected them to the harsh reality of playtesting. A few of those things were mentioned publicly early in the game's development, and some people who thought those things were just as cool as we did at the time may feel disappointed that they aren't in the game. We made the decision to have every feature in the game play well rather than have twice as many features that played poorly, and looking at the finished game I don't regret that decision at all. Overall I'm quite proud of what's been put together by a team and company that didn't even exist a year ago today.
-
-

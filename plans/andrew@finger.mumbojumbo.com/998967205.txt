@@ -1,4 +1,3 @@
-
 *** MumboJumbo's Finger Server
 
 User name: andrew
@@ -8,4 +7,3 @@ Plan modified: Sat Aug 25 01:57:37 2001
 Is this thing on? Progress goes well. I have nothing more to say in that regard.
 
 Bizarre fact of the day: Myth 3 as it exists at this moment could still speak to Bungie.net. Basically, it would look to the server as if you were running a copy of Myth 2 with a completely insane set of 3rd-party mods installed. You couldn't join an actual game of Myth 2, but if, just hyopthetically, we were suicidal enough to piss off Microsoft, everybody in the office could log on and we could play a game of "Myth 2 with lots of plugins" with each other on Bungie.net. We're not going to do anything that stupid, and I expect to have this "feature" entirely stripped out in the next 18 hours, but from a purely engineering perspective I find it interesting to note that we've managed to bang on this thing for nearly 10 months yet haven't broken that aspect of the code.
-

@@ -1,4 +1,3 @@
-
 Name: John Carmack
 Email: johnc@idsoftware.com
 Description: Programmer
@@ -1614,4 +1613,4 @@ even in the best case...
 * fixed bug with >8 portal areas
 * added area print to r_shwocluster
 * removed all the partial shader match cruft, fixing a crash-on-load
-* fixed bug with personal shadows not 
+* fixed bug with personal shadows not

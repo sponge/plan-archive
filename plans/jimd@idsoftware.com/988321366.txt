@@ -1,4 +1,3 @@
-
 Name: Jim Dose
 Email: jimd@idsoftware.com
 Description: Programmer

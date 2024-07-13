@@ -1,4 +1,3 @@
-
 Name: Graeme Devine
 Email: 
 Description: Programmer
@@ -22,4 +21,3 @@ Okay!  Got tons of input!  Punkbuster support requires additional files from Eve
 Okay, thanks for the test run.  Let me zoom through these and update you all asap.
 
  - oh and if anyone wants to make a pass at a splash screen, go right ahead.
-

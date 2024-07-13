@@ -192,6 +192,3 @@ few YEARS, so it might look like we are shooting a bit high for the first
 release, but by the time it actually ships, there will be a lot of people 
 with brand new accelerators that won't be properly exploited by any other 
 game.
-
-
-

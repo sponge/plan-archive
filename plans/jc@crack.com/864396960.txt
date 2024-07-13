@@ -116,6 +116,3 @@ compressed textures are stored on the net drive with a low mip level
 directory stored locally.  Also made a software transparent (holy) texture
 mapper, 16 bit scaled sprite blitter, and met with Oliver Yu.  Looks like
 he will be coming on board shortly.  Going to Vegas tomorrow!
-
-
-

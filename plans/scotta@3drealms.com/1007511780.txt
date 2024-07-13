@@ -7,5 +7,3 @@ Is this thing on?
 Well today is my first day at 3D Realms.  It was a tough decision for me to leave Ritual Entertainment, and I have had a great 3 years working there.  
 
 I'm really looking forward to get started on the Duke 4 multiplayer code, but it looks like I'll have to study this Unreal code a bit before I jump in.  It's kind of a shock to be working with Quake tech for 3 years, and then jump over and work on Unreal.  Well at least I get to see how both systems really work.
-	
-    

@@ -53,5 +53,3 @@ Directory: /home/steinm             	Shell: /bin/tcsh
 Never logged in.
 Mail last read Fri Mar  6 16:24 1998 (EET)
 No Plan.
-	
-    

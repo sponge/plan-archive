@@ -448,4 +448,4 @@ tournement play, and new executables with server and game modifications, but
 will not require downloading a new pak0.pk3.
 
 The release after that will introduce various teamplay rules on the original
-two maps.  This version will likely be another full download, because 
+two maps.  This version will likely be another full download, because

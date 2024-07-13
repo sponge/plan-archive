@@ -105,5 +105,3 @@ GameInfo).  This means that mod authors can override GetRules and send their
 own fields/rules to GameSpy clients.
 
 Anyway, there is a bunch more in 220 but I don't remember it all right now!
-
-

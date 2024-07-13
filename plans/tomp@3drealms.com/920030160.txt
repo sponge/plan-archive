@@ -10,5 +10,3 @@ I have a serious question for all you wild and crazy mappers and mod freaks out 
 ) A fully integrated, but simpler in-game editor. With a fully integrated, powerful, very C-like scripting language (too powerful actually, cuz a bug could crash the game).
 
 Basically, the question is one of power and flexibility vs. ease of use and quicker prototyping. Any comments?
-	
-    

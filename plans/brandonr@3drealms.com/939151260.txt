@@ -17,5 +17,3 @@ But that player's ngWorldStats totals and stats only take into account human vs.
 human interaction. All bot information is ignored for those totals. 
 The ELO rating system (which will be documented in the coming days) only takes 
 into account wins/losses/frags/etc. against human players."
-	
-    

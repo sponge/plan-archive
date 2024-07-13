@@ -86,5 +86,3 @@ final content for the game as well as planning out the implementation
 of that content. It's been a pretty good (though exhausting) 3 weeks,
 and we're now confident that the vision we have on the gameplay is
 something that we can deliver.
-
-

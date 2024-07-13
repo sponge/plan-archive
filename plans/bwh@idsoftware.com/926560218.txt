@@ -1,4 +1,3 @@
-
 Name: Brian Hook
 Email: bwh@idsoftware.com
 Description: Programmer

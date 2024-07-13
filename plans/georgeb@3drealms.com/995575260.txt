@@ -16,5 +16,3 @@ A Max Payne status update (after talking with Take 2).
 - Remedy and 3DR are working on the demo for Max Payne now.  Expect it out a couple of weeks after the game hits the shelves.  It looks to be fairly large, and could easily be in excess of 120 megs.  This is due to lots of art, sounds, and map data.  We're basically not going to trim the content of the demo to make it an easy download.
 
 UPDATE:  I should be more clear about the demo size.  It's not that we're lazy and leaving data in there.  It's that the demo is just going to be that large with the maps we're giving out.
-	
-    

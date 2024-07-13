@@ -1,4 +1,3 @@
-
 Name: James Monroe
 Email: jmonroe@ravensoft.com
 Description: Ld. Programmer
@@ -15,4 +14,3 @@ r_allowExtensions 1
 vid_restart
 
 enjoy,
-

@@ -39,4 +39,4 @@ Last Updated: 02/11/1998 15:09:43 (Central Standard Time)
        than current time.  This caused a few infinite loops on the server.
    2.  X-Files on tonight!
 
-   Opinions:  If you loved the original Blues Brothers movie, 
+   Opinions:  If you loved the original Blues Brothers movie,

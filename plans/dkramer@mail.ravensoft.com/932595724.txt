@@ -1,4 +1,3 @@
-
 Name: Dan Kramer
 Email: dkramer@mail.ravensoft.com
 Description: Programmer
@@ -18,4 +17,3 @@ Though I did some editor work on Heretic II, this is the first project I've ever
 the very beginning.  It really feels good to see your hard work in action!
 
 Dan
-

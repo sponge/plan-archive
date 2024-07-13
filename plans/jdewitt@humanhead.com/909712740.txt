@@ -183,4 +183,4 @@ put into Hexen 2 for testing purposes and thats it.  It was completely a HACK!
 been so bad is because no one has tried very hard to implement a 3P camera.  Just because you can get to it doesnt mean 
 it was developed for the game to be played that way.  Tomb Raiders camera was developed as a 3P camera, hence it works 
 pretty good.  And it was also developed with a puzzle solving game in mind, were developing Heretic2 with an action game 
-in mind so trust us, it will be different.  I can completely understand the fear some people have but I dont think you 
+in mind so trust us, it will be different.  I can completely understand the fear some people have but I dont think you

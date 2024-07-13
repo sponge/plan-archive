@@ -1,4 +1,3 @@
-
 Name: Graeme Devine
 Email: zaphod@idsoftware.com
 Description: Designer / Project Manager
@@ -6,4 +5,3 @@ Project:
 -------------------------------------------------------------------------------
 
 I'll be putting up an OS X build of WolfMP2 soon.  Been busy working on another game today.
-

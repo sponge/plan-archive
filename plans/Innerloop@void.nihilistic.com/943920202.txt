@@ -67,5 +67,3 @@ game not only pretty but also fun.  Also still working on a few editor
 features here and there to improve the lighting in the worlds, most 
 notably to get the staticly-placed objects to cast nice shadows into the 
 world so they seem more solidly part of the surrounding geometry.
-
-

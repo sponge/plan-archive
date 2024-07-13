@@ -275,4 +275,4 @@ We're at RC2.  Life is good.
 11/18/99
 
 I'm debugging some stuff on the authorize server (and using you guys as testers on it).
-If you can't authorize for 
+If you can't authorize for

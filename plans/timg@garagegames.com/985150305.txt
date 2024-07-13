@@ -8,4 +8,3 @@ Well, in case anyone hasn't heard, I'm back working on the Tribes 2 code... exce
 So far we've reorganized the source directory structure, setup a new development environment, ported over to GNU make, and have a preliminary set of initialization scripts running.  The init scripts take care of bringing the whole engine up which includes initializing the graphics, sounds, windowing system, GUIs, built-in tools, client/server code, etc.  Rick and I have to sort through all the scripts, code and art and remove all the T2 specific stuff while implementing a new V12 demo! This is definitely going to be a bit of work :)
 
 We get a few short breaks though, the first of which is GDC.  Jeff, Rick and I head down tomorrow.  We won't be back until Sunday afternoon, so don't be surprised if we're not very active on the boards. Hope to see some of you there!
-

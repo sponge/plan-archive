@@ -258,4 +258,4 @@ goals with the project, and not letting the engine itself *be the game*,
 but instead the engine must *support the game*.
 
 Id Software did this perfectly with Wolfenstein 3-D (and DOOM to a great
-extent), in which we saw all-new engine technology 
+extent), in which we saw all-new engine technology

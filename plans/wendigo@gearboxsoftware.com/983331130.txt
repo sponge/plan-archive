@@ -4,4 +4,3 @@ Project:
 HLPS2
 Plan:
 ".plan files are so 1998."  -- Mike Wardwell
-

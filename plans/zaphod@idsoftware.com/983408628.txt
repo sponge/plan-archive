@@ -1,4 +1,3 @@
-
 Name: Graeme Devine
 Email: zaphod@idsoftware.com
 Description: Designer / Project Manager
@@ -24,4 +23,3 @@ What's not done.  The sound code is still taking up more CPU time than it should
 What's not there.  The altivec enhanced version and the OS X build.  I've not had time yet to build those and update them.  The OS X work done for the keynote address demo in Tokyo pulls directly across to the OS X Q3A build, so it should be very straightforward.
 
 Given the beta hardware, daily builds of OS X, hourly patch dumps for the GF3 OpenGL driver, and content/code changes from id, the keynote build ran exceptionally well.  We did not have time to completely optimize for PPC or OS X, as I understand more and more about PPC and Altivec programming, I'm seeing more and more opportunities.
-

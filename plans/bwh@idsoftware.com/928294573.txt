@@ -1,4 +1,3 @@
-
 Name: Brian Hook
 Email: bwh@idsoftware.com
 Description: Programmer
@@ -58,4 +57,3 @@ I've ended up. :-)
 Signing off,
 
 Brian Hook
-

@@ -1,4 +1,3 @@
-
 Name: Christian Antkow
 Email: xian@idsoftware.com
 Description: Level Designer
@@ -12,4 +11,3 @@ Sep.25.2001 @ 12:45pm
 testing. They should be back up some time later this afternoon.
 
  -Xian
-

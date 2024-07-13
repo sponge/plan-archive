@@ -51,4 +51,3 @@ ftp.idsoftware.com      id "Official" anonymous FTP site.
         For tech support send mail to:
         support@gtinteractive.com
         -----------------------------------------------
-

@@ -333,8 +333,3 @@ When this .plan was written: 2019-01-19 05:40:41
 .plan archives for this user: finger icculus?listarchives=1@icculus.org
 
 Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
-
-
-
-
-

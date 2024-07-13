@@ -1,4 +1,3 @@
-
 Name: James Monroe
 Email: jmonroe@ravensoft.com
 Description: Lead Programmer
@@ -25,5 +24,4 @@ Download here:
 - <a href="http://www.3ddownloads.com/ravensoft/JediAcademy/BonusMaps/JABonusMaps.exe">3D Downloads</a> 
 
 
-These maps are released "as is" and are not supported by Raven Software, Activision, or LucasArts.  
-
+These maps are released "as is" and are not supported by Raven Software, Activision, or LucasArts.

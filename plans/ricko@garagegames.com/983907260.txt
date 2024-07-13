@@ -4,4 +4,3 @@ Use the link to see the HTML version of the plan along with any posted
 comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=588
 
 Several big changes to the GarageGames.com web site, I just home you don't notice them!  huh? I just finished rewriting the security and access rights module for the site, so if everything goes as planned you should not even notice there where any changes.  What this will enable us to do is, for any area of the site, grant read, edit and submission rights to any GarageGames site member.  Now we can do things like have forum moderators, book moderators, have news reporters, administrators, etc,.  We are expecting to see much more traffic as start making some very surprising announcements in the coming weeks, so having a flexible security system to help the community manage itself is very important.
-

@@ -21,5 +21,3 @@ http://YourServersIP/ServerAdmin to log in.
 Server Admins should probably run servers with a playerlimit of around
 8 to 10.  The deathmatch maps in the demo aren't really large enough to handle big
 free for alls.
-	
-    

@@ -1,4 +1,3 @@
-
 Name: Steve Stringer
 Email: sstringer@mail.ravensoft.com
 Description: Producer
@@ -34,5 +33,4 @@ Oh, and my departure before the release of the EP is entirely
 coincidental.  The EP is still in the final, final stages of
 testing and will be handled on my end by <a href="mailto:jtam@activision.com">John Tam</a>.  Everything
 is still going along fine with the EP and it should be out...
-repeat after me, everyone..."when it's ready!"  =)  
-
+repeat after me, everyone..."when it's ready!"  =)

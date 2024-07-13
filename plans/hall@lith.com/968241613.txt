@@ -1,4 +1,3 @@
-
 *** Monolith Production's Finger Server
 
 User name: hall
@@ -646,49 +645,4 @@ So what is really cool is that you can have a Talent Card that no one else has, 
 
 We will be making information available on how to get new cards as Sanity gets closer to shipping. There will most likely be "card packs" and other things like that that will be distributed online. An example of this would be that we could make a special card for each gaming website to distribute, like a "GameSpot Flaming Hands" card, or a "VoodooExtreme spicy shield" card. Each card would be unique, work flawlessly on all versions of Sanity (without other users having to download anything to see the talent and be affected by it) and perhaps a gamer can get the card if they visit the website enough times to qualify for the download. This is just an idea, but it is stuff like that that Sanity supports. These Talent cards are tradable as well.
 
-Anyhow, enough of that. Check it out, you may like it. 
-
-
-
-
-				
-					 
-				
-				
-				
-				
-				
-				
-				
-				
-
-				
-				
-				
-				
-				
-
-				
-
-				
-				
-
-				
-				
-				
-				
-				
-				
-				
-
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-
+Anyhow, enough of that. Check it out, you may like it.

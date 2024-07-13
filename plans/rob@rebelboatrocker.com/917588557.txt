@@ -11,5 +11,4 @@ the actual game.  However, the arctic scenes were not rendered in the game
 engine, but were 3DS Max renders that I had done for my own personal portfolio,
 which was sitting on our local linux box.  I gave Jobe (boatrocker.com) the OK
 to post them once they got out since I didn't feel it would do any harm, but I
-do apologize for any confusion that has resulted. 
-
+do apologize for any confusion that has resulted.

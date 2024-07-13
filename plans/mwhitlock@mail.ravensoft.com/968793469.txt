@@ -1,4 +1,3 @@
-
 Name: Marcus Whitlock
 Email: mwhitlock@mail.ravensoft.com
 Description: Programmer
@@ -16,4 +15,3 @@ Raven Software,
 Email: mwhitlock@ravensoft.com
 Tel: (608) 833-5791 x285.
 Current project: I'd tell you, but then my superiors would have to kill you.
-

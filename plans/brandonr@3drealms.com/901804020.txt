@@ -50,5 +50,3 @@ modifications (IRC clients, sideways server links?, etc).
 
 Goal Date:
 08/07/98 - Complete above tasks.
-	
-    

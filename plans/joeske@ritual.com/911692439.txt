@@ -1,4 +1,3 @@
-
 *** Ritual Entertainment's Finger Server
 
 User name: joeske
@@ -40,6 +39,4 @@ An animation issue with Assault Rifle and HV Chain Gun in Multiplayer has been f
 Fixed Quantum Destabilizer bug where you could vaporize a character that had an idcard. 
 Case sensitivity for Missile Silo password entry is fixed. 
 A few "wait for player" issues which could effect vehicles and some cinematics have been fixed. 
-A memory leak has been fixed. 
-
-
+A memory leak has been fixed.

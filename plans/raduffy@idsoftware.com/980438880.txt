@@ -15,9 +15,4 @@ Point Release Status - We are getting close to finishing up fixing issues, from 
 
 Menu Content Release - To help facilitate and allow mod makers to utilize the new menu scripting in vanilla Quake III: Arena, we are going to release the .menu files and related shaders and textures used in the Quake III: Team Arena user interface. This will allow mods to use the new menu system without having to worry about the problems with re-releasing content from Quake III: Team Arena
 
-Q3GridIron ROCKS - We have been playing the heck out of this thing at the office. Hail Mary! 
-
-
-
-
-
+Q3GridIron ROCKS - We have been playing the heck out of this thing at the office. Hail Mary!

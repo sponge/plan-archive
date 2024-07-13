@@ -1,4 +1,3 @@
-
 Name: James Monroe
 Email: jmonroe@ravensoft.com
 Description: Ld. Programmer
@@ -20,4 +19,3 @@ http://www.3ddownloads.com/?file_id=145614
 i also noticed why it only worked as a Debug build, so now it's Release and should be a couple of times faster.
 
 oh, and i replaced the batch files with the ones SA made, which should work in win95.
-

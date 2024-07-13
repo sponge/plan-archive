@@ -8,5 +8,3 @@ Software Question:
 Is there anyone who uses Forte's Agent out there?  (Not Free Agent, but the paid for version, Agent.)  My question is this.  Do you know a way to import a Netscape Communicator Address book into Agent?  I can't figure out a way to import a Netscape 4 address book into Agent.  I found a program out there that will convert a netscape 3 address book into Agent, but not Netscape 4.
 
 Netscape 3 used to keep it's address book in an html file, but Netscape 4 has it's own address book format.   If anyone out there reading this knows of a way, I'd love to hear from you.  Thanks.
-	
-    

@@ -2,4 +2,4 @@ A preliminary release of glquake and the 3dfx driver has been put on our ftp sit
 
 one hour later...
 
-3dfx gave me a new vxd for glquake that fixes crashing problems on some pentium pro systems.  glquake1.zip now contains the current files. 
+3dfx gave me a new vxd for glquake that fixes crashing problems on some pentium pro systems.  glquake1.zip now contains the current files.

@@ -1,4 +1,3 @@
-
 *** Monolith Production's Finger Server
 
 User name: paulb
@@ -22,5 +21,4 @@ Shogo multi-player demo with DM maps and GameSpy support next week
 Press release on new LithTech additions next week
 
 
-In continues so I better stop there. All of these are being worked on right now but might move around by a day or so. We just have to make sure everything is proper and get the OK from all the people involved. 
-
+In continues so I better stop there. All of these are being worked on right now but might move around by a day or so. We just have to make sure everything is proper and get the OK from all the people involved.

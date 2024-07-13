@@ -1,4 +1,3 @@
-
 *** Welcome to the 2015 Finger Server ***
 
 User name: adam
@@ -18,5 +17,3 @@ Project: Medal Of Honor Allied Assault
 
 1.6.2001
 ----------
-
-

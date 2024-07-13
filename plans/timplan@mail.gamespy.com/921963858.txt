@@ -28,10 +28,3 @@ laptop with the screwed up IE4 installation is going to get reinstalled.
 Another one.  The Visual Studio which supports Win2K will not be out until
 about six months after Win2k is released.  Good plan folks.  Question, with
 what tool are you building it?
-
-
-
-
-
-
-        

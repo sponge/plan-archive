@@ -89,4 +89,3 @@ Server Side Changes:
   players with  healing kits and grenades.
 - Ammo stations now heal players re-supply them with
   healing kits, and grenades.
-

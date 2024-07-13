@@ -15,5 +15,3 @@ I experience *long* (up to 5 minutes) lag times before the program finishes open
 It happens after the splash screen and then
 just sits there. Is anyone else getting these
 problems? FP Tech support has been a dead-end. Arrrgggh!
-	
-    

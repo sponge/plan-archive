@@ -1,5 +1,3 @@
-
-
 User Name.........johnc
 Full Name.........John Carmack
 Home Directory....\\limbo\johnc$
@@ -174,4 +172,4 @@ So, we added groups of frames and groups of skins, and a couple ways to control 
 
 In the end, we only used auto-frame-animation for torches, and we didn't use auto-skin-animation at all (Rogue did in mission pak 2, though).
 
-Ah well, someone might use the feature for something, and its 
+Ah well, someone might use the feature for something, and its

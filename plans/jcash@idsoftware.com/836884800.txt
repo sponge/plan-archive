@@ -95,15 +95,19 @@ Win95 with dial-up networking only sometimes crashes unless -noipx???
 
 
 6/24:
-*Typing long hostname or modem init field in the menus causedcrashes
+*Typing long hostname or modem init field in the menus caused
+crashes
 *Under Win95 IPX can be detected but not functional, resulting in sys_error
 *If -nosound, got "S_LocalSound: can't cache" on every keypress in the menu
-*reliable message streamgetsstopped up, resulting in frag counts and talk
-	messages no longerbeing delivered, but game movement continues
+*reliable message stream
+getsstopped up, resulting in frag counts and talk
+	messages no longer
+being delivered, but game movement continues
 *The menu com port settings were getting saved & restored but not used
 *Direct serial connections did not work with slist
 *qlaunch.exe freqeuntly failed to execute on the first attempt
-*quakeudp.dllwas running out of buffers when running a server
+*quakeudp.dll
+was running out of buffers when running a server
 
 
 6/25:

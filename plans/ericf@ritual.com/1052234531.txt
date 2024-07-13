@@ -1,4 +1,3 @@
-
 *** Ritual Entertainment's Finger Server
 
 User name: ericf
@@ -20,8 +19,3 @@ C) Easier to access the number keys.  In most FPS's you use the numbers to switc
 So if you use the default configuration in most games, try out ESDF sometime and see if it works better for you.  It's probably tough to tell the difference when you switch to it... but visa-versa, when I try WASD I feel very cramped on the left side of the keyboard, with less functionality.
 
 That's my rant for the day. :)
-
-
-
-
-

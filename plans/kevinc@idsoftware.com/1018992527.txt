@@ -1,4 +1,3 @@
-
 Name: Kevin Cloud
 Email: 
 Description: Artist
@@ -21,6 +20,3 @@ r_overbrightbits in 0 2
 r_picmip in 0 2
 rate in 2500 25000
 snaps in 20 40
-
-
-

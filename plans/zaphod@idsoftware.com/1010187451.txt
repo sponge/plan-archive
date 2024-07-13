@@ -1,4 +1,3 @@
-
 Name: Graeme Devine
 Email: zaphod@idsoftware.com
 Description: Designer / Project Manager
@@ -36,4 +35,3 @@ since only the updated pak files are included.
 
 I've not built Classic Q3A 1.31 yet.  I seem to have accidently nuked my install of
 CodeWarrior.
-

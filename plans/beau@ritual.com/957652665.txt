@@ -1,4 +1,3 @@
-
 *** Ritual Entertainment's Finger Server
 
 User name: beau
@@ -24,5 +23,3 @@ Lately I've been finalizing the weapon models and effects.  They are pretty much
 all done thanks to the ease of our effects system.  I cried for full artist control 
 over the effects system after Sin and definately got it.  Tearing up a monster 
 with a chainsword is pretty cool too.
-
-

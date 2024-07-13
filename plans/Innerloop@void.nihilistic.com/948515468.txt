@@ -88,6 +88,3 @@ I suppose writing all this up is just an excuse for not working on fixing some
 of the aforementioned bugs... Assuming all this gets ironed out in the end,
 you'll never even notice it.  If anyone is working on similar systems and has
 ideas to share, drop me an email.
-
-
-

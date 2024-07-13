@@ -1,4 +1,3 @@
-
 *** Ritual Entertainment's Finger Server
 
 User name: zor
@@ -28,7 +27,3 @@ I did however find <a href="http://redwood.stomped.com/E3/morbidE3.html">this</a
 *** Note this will hopefully be the last time I ever include html in my .plan file.
  think it's silly but I decided against my better judgement to include for your
 convience :)  ***
-
-
-
-

@@ -1,4 +1,3 @@
-
 Name: Graeme Devine
 Email: zaphod@idsoftware.com
 Description: Designer / Project Manager
@@ -12,4 +11,3 @@ I'll be putting up a full public installer today.  We've moved the network proto
 It's time for me to get back to DOOM stuff, I've been coding for it under OS X btw, using the builds of 10.1 that Apple has been dropping to me.  10.1 is an excellent OS.  I can't wait for MS Office under X native as well.
 
 Next up for my spare time I think I'm going to finish off this little side project..  it's a native Cocoa 7th Guest client that plays the game if you have the CDs.  I get a lot of requests for that, and Trilobyte is still around kicking, owned by me and owns all the rights, so perhaps one day something will happen there.
-

@@ -1,4 +1,3 @@
-
 *** Ritual Entertainment's Finger Server
 
 User name: onethumb
@@ -37,5 +36,3 @@ Even just .ZIP would be awesome, but I don't want to have it split only at
 Does anyone know of any utilities that do either of these?
 
 Thanks much!
-
-

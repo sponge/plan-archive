@@ -237,4 +237,4 @@ that:  Gameplay.
 Nowadays, with graphics standards escalating on nearly a monthly basis, it's
 tough for developers to focus long and hard on the juicy meat of game design. 
 Imagine what the game chess might be like if the game designers had focused
-too much attention on the quality of the wooden or 
+too much attention on the quality of the wooden or

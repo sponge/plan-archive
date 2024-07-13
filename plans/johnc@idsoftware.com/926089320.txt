@@ -250,4 +250,4 @@ the game smoother.
 * "server is full" message on connect screen
 * archive handicap in config file
 * cheat protect r_nocurves
-* byte order independent 
+* byte order independent

@@ -240,4 +240,4 @@ of AGP memory, there will be no texture thrashing at all, even with the full
 resolution textures.
 
 Rendition 2100/2200
-The 2100 should run about the speed of a voodoo 1, and the 2200 should 
+The 2100 should run about the speed of a voodoo 1, and the 2200 should

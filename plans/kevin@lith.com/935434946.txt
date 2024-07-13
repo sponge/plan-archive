@@ -1,4 +1,3 @@
-
 *** Monolith Production's Finger Server
 
 User name: kevin
@@ -61,4 +60,3 @@ and
 <a href = http://pc.ign.com/previews/11237.html>http://pc.ign.com/previews/11237.html</a>
 
 GPF.
-

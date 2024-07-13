@@ -1,4 +1,3 @@
-
 *** Ritual Entertainment's Finger Server
 
 User name: ericf
@@ -42,5 +41,3 @@ every system, but for some reason, through the entire testing session at Ritual,
 we never encountered it.  Scott ran across it yesterday for the first time, and
 that's all it took to track it down.  You can now get the patch 1.02a and it should
 fix the crash bug, and a few slow down problems introduced in 1.01.
-
-

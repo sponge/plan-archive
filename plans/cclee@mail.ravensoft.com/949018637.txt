@@ -1,4 +1,3 @@
-
 Name: Chia Chin Lee
 Email: cclee@mail.ravensoft.com
 Description: Sound / Music
@@ -19,4 +18,3 @@ Basically, 3D audio throws in a whole new dimension to the overall balance that 
 I would love to hear your thoughts concerning this issue, and how you overcame these setbacks...or if you even encountered these problems.  :)
 
 I must also take a moment to thank Keith Charley (and his excellent Eagle tool for EAX) at Creative and Micah at Aureal for all their help in implementing the 3D audio in Soldier of Fortune.  They are working hard to cater to our needs and constantly solving problems for us.  Thank you guys!
-

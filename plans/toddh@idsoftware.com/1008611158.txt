@@ -1,4 +1,3 @@
-
 Name: Todd Hollenshead
 Email: toddh@idsoftware.com
 Description: CEO
@@ -43,4 +42,3 @@ with the ads to get these deals in your favorite store.
 
 [Query:  Do the online reviews that criticized the game because of the price have to 
 now be re-written?]
-

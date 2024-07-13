@@ -22,5 +22,3 @@ Directory: /home/steinm             	Shell: /bin/tcsh
 Never logged in.
 Mail last read Thu Mar  5 20:32 1998 (EET)
 No Plan.
-	
-    

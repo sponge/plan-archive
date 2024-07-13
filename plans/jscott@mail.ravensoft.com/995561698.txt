@@ -1,4 +1,3 @@
-
 Name: John Scott
 Email: jscott@ravensoft.com
 Description: Programmer
@@ -34,5 +33,3 @@ think the demo machines have them.
 The Raven SETI team....
 
 http://setiathome.ssl.berkeley.edu/stats/team/team_6644.html
-
- 

@@ -56,4 +56,3 @@ Please note: Server admins must update their servers to the new
 may be scarce until all servers upgrade to 1.01.
 
 ##############################################################
-

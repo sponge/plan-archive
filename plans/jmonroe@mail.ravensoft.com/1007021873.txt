@@ -1,4 +1,3 @@
-
 Name: James Monroe
 Email: jmonroe@ravensoft.com
 Description: Ld. Programmer
@@ -20,5 +19,4 @@ http://www.lucasarts.com/products/outcast/
 
 here's a hoot, Star Wars in ASCII via telnet:
 
-telnet towel.blinkenlights.nl 
-
+telnet towel.blinkenlights.nl

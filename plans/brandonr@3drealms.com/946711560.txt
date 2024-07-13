@@ -60,5 +60,3 @@ people.  Mirroring them on fan sites is probably not appropriate.
 
 There are binary archives for guard and slowguard.  You can read
 about the difference on the site.
-	
-    

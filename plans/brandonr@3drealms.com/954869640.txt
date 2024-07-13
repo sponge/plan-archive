@@ -25,5 +25,3 @@ website, openut.sourceforge.net.
 
 There will also be a new public source distribution to follow the 413
 Linux release.
-	
-    

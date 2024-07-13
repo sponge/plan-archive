@@ -15,5 +15,3 @@ libraries and executables will not be available in the box.
 
 Instead, I will make them available for download when UT hits shelves.
 You'll need to own a copy of UT to use them, obviously.
-	
-    

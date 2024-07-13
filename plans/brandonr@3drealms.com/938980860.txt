@@ -14,5 +14,3 @@ correct account creation requires that the connect URL be created by the game.  
 
 October 1st was the beginning of the new ngWorldStats quarter, so the quarterly ladder was reset.  Note that
 even though the ladders get reset on a periodic basis, your all time stats are still there.
-	
-    

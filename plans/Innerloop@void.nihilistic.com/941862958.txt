@@ -41,5 +41,3 @@ weeks, finding various ways to avoid an extra copy or transform or
 conditional statement.  VTune is helping a lot in this regard, thank god
 for that program.  I still have to get IPeak wired up for testing, I hear
 that's a damn useful rig also.
-
-

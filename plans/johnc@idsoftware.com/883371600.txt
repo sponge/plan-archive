@@ -31,5 +31,3 @@ Please cool it a bit with the email to me unless it is really important. I'll ne
 We have rebuilt the 3.09 patch with a new version of the install program. Some people were not able to run the installer because a temp directory wasn't setup correctly. There are NO OTHER CHANGES in this, so if you were able to install the last 3.09, don't bother getting this one.
 
 ftp://ftp.idsoftware.com/idstuff/quake2/q2-309-2.exe
-
-

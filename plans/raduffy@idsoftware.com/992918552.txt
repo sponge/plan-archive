@@ -1,4 +1,3 @@
-
 Name: Robert A. Duffy
 Email: raduffy@idsoftware.com
 Description: Programmer
@@ -12,6 +11,3 @@ Point Release Beta 1.29 is up. Check www.quake3arena.com and mirrors.
 The readme is here http://www.quake3arena.com/readme129f.html
 
 We should go final with this soon once we see how feedback is.
-
-
-

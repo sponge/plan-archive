@@ -1,4 +1,3 @@
-
 *** Ritual Entertainment's Finger Server
 
 User name: onethumb
@@ -85,6 +84,4 @@ Sin Linux port, but if there are any more of you out there, we're looking
 for a volunteer to port Sin over to Linux.  And you must live in or near
 Dallas.
 
-Email me (onethumb@ritual.com) if you're interested.  
-
-
+Email me (onethumb@ritual.com) if you're interested.

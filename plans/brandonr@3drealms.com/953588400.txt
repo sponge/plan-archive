@@ -25,5 +25,3 @@ gameplay decisions.
 I encourage mod authors to avoid using the Zero Ping Unreal Tournament mod.
 Finally, realize that ngWorldStats will reject stats reports from servers
 using the Zero Ping mod.
-	
-    

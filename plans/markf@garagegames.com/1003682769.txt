@@ -6,4 +6,3 @@ comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=1601
 Well, I'm back in Europe... but this time only for a week and a half.  I'll be giving a talk at the University of Abertay Dundee in Scotland on Tuesday about network programming in the Torque Engine.  Then it's on to London on Friday, and back to the US the Tuesday after.  If any GG'ers in the Edinburgh or London areas want to get together for a beer while I'm over here, drop me a line :)
 
 If anyone is interested in attending the talk, check out http://www.iccave.com/Services/Masterclasses/index.htm
-

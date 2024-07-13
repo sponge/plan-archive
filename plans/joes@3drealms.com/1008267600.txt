@@ -21,5 +21,3 @@ Is anyone familiar with the program Favorg?  It's a program where you can update
 Anyway, since I've gone to Windows XP, I can't get this program to work.  It can find my favorites OK (in their new XP location), but it doesn't "do" anything when I tell it to start updating my favorites.
 
 Anyone run into this?  If so, how did you fix it?   Or, is there an alternate program available to do this?
-	
-    

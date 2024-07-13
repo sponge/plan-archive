@@ -1,4 +1,3 @@
-
 Name: Dave Kirsch
 Email: zoid@idsoftware.com
 Description: Ports
@@ -38,4 +37,3 @@ projects.
 So long and thanks for all the captures.
 
 /// Zoid.
-

@@ -49,4 +49,3 @@ a tremendous savings in this case, but sometimes it really makes a difference wh
 try to have your levels running at sub 600 poly scenes.
  
  Go forth and experiment =)
-

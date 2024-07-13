@@ -43,5 +43,3 @@ Thanksgiving and haven't looked into it.
 
 By far the largest number of reports are about the
 glibc-2.1 problem.
-	
-    

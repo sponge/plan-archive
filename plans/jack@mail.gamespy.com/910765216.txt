@@ -31,4 +31,3 @@ is almost as dumb a bug as the "hey, you can only use sockets in one thread
 unless you hack around" bugs in MFC for VC++ 6 (that was fun to track down)
 
 Thanks.
-

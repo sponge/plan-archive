@@ -50,4 +50,3 @@ tool of choice around here.
 9/2/97
 
 Currently looking at the integration of Facial animation system.
-

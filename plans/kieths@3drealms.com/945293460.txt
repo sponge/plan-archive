@@ -35,5 +35,3 @@ So how are they going to fix the problem this time? Cap the bandwidth at 64k? Th
 If you have been considering upgrading from your 56k or ISDN connection, then I highly recommend you pass up the cable modem and leap straight to DSL. If you currently use a cable modem, then you are already familiar with the situation as I've described it, and you should be aware that things probably aren't going to get any better. Avoid subscribing to @Home, and save yourself a lot of headaches. If you live in an area where DSL is not available, but cable modem is, then you should be ready for the problems you're probably going to face.
 
 Of course, who knows. I might be writing a similar .plan update a few months from now, warning people to stay away from DSL and get a T1. We shall see.
-
-

@@ -624,6 +624,3 @@ When this .plan was written: 2019-01-01 09:32:56
 Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
 
 This is the greatest show.
-
-
-

@@ -1,4 +1,3 @@
-
 *** Welcome to the 2015 Finger Server ***
 
 User name: brada
@@ -21,4 +20,3 @@ haiku about chicken:
 I like chicken
 chicken is good
 I like chicken
-

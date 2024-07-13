@@ -1,4 +1,3 @@
-
 Name: Brian Hook
 Email: bwh@idsoftware.com
 Description: Programmer
@@ -1501,4 +1500,4 @@ So to reiterate: there will be support for 3Dfx, and I believe 3Dfx will
 be posting Q3TEST compliant drivers on their Web site over the weekend
 in anticipation of Q3TEST's release.
 
-As an aside, during testing 
+As an aside, during testing

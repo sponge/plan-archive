@@ -1,4 +1,3 @@
-
 Name: Graeme Devine
 Email: zaphod@idsoftware.com
 Description: Designer / Project Manager
@@ -31,4 +30,3 @@ server (because you sent your cdkey to 127.0.0.1).
 Thanks to everyone who helped me test these past 48 hours.
 
 Graeme.
-

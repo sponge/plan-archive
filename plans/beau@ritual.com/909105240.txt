@@ -1,4 +1,3 @@
-
 *** Ritual Entertainment's Finger Server
 
 User name: beau
@@ -18,4 +17,3 @@ and allows for perfect foot placement in strafes, walks, taking
 a step back in pain, etc.  This also keeps thrusts and quick
 world movement by a character in the hands of the animator and
 the programmers don't have to touch it.
-

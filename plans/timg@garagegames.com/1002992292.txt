@@ -54,4 +54,3 @@ My changelog since my last plan:
 Rick has a first pass at the new sounds system in and running.  There still some work to be done on it, and we haven't put a lot of sounds into our test app yet, but it's nice to have it going.  I was getting tired of the silent treatment.
 
 We'll be spending the next few days making sure CVS is holding up, and there aren't any major issues with this 1.1 release. After that we'll be full steam on the demo code, more bug fixes, engine cleanup, and of course, new features.  Being able to distribute updates almost instantly with CVS should have a big effect on our development community, this is going to be fun :)
-

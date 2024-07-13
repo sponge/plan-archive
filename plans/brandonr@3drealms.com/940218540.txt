@@ -63,5 +63,3 @@ Almost forgot! Right now the client only works with glide.  I need
 to slap a G400 in my machine or something and finish up the Mesa
 renderer.  I tried to do this two weeks ago, but had a hell of a time
 with my TNT2.
-	
-    

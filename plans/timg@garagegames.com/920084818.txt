@@ -65,6 +65,3 @@ Chas), http://www.shogo-mad.com/patch/fix.as, pretty
 cool. We'll look into to doing something similar
 ourselves.  It should help keep you guys informed as to
 what we're working on.
-
-
-

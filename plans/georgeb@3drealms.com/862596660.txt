@@ -89,4 +89,3 @@ in 1) a Quake engine game and 2) a Duke Nukem game.  We will then go into
 a cave for the next year and work steadily on the game.  When we emerge,
 you should be able to play something really cool.  The official release
 for the game is, as always "When it's done".
-

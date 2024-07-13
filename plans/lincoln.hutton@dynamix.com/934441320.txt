@@ -53,4 +53,4 @@ A fair amount of control of the drones IS possible from
 script already and some clever scripting COULD probably 
 effect better AI.  The example mod can be used as a 
 starting point, plus a reference doc to the AI console 
-functions is just about done and will be posted.  
+functions is just about done and will be posted.

@@ -72,5 +72,3 @@ MMJB:
 
 Anyway, now if only Apple would give us their SDK so we could have good, 
 fully compatible ipod support in winamp 2.9's media library.
-
-

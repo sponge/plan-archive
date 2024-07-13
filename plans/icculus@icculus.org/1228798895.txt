@@ -92,4 +92,3 @@ When this .plan was written: 2008-12-08 23:47:09
 .plan archives for this user: finger icculus?listarchives=1@icculus.org
 Powered by IcculusFinger v2.1.21 (http://icculus.org/IcculusFinger/)
 Stick it in the camel and go.
-

@@ -1,4 +1,3 @@
-
 Name: Graeme Devine
 Email: zaphod@idsoftware.com
 Description: Designer / Project Manager
@@ -12,4 +11,3 @@ As we see cdkeys being distributed over the Internet those keys are being added 
 If you've been playing for a while, get disconnected from your modem, and want to rejoin, you can rejoin the exact server you were on only.  Because your IP address has changed, you'll need to wait for the key lease to timeout before you can join another server.  The timeout period is 5 minutes.
 
 Wolf uses the same cdkey generation technology as Q3A.  THERE HAS NOT BEEN ONE SINGLE HACK on this system.  Many so-called cdkey generators are in fact virus attacks that steal your own good cdkey, or worse, corrupt your files.
-

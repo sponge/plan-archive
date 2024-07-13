@@ -394,4 +394,4 @@ On a normal 4:3 aspect ratio screen, a 90 degree horizontal field of view
 gives a 75 degree vertical field of view.  If you keep the vertical fov
 constant and run on a wide screen, you get a 106 degree horizontal fov.
 
-Because we specify fov with the horizontal measurement, you need to 
+Because we specify fov with the horizontal measurement, you need to

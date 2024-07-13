@@ -1,4 +1,3 @@
-
 Name: James Monroe
 Email: jmonroe@ravensoft.com
 Description: Ld. Programmer
@@ -12,4 +11,4 @@ http://news.bbc.co.uk/hi/english/uk/newsid_1326000/1326657.stm
 
 Java Hitchhiker's Guide To The Galaxy 
 by Douglas Adams & Steve Meretzky 
-http://www.douglasadams.com/creations/infocomjava.html 
+http://www.douglasadams.com/creations/infocomjava.html

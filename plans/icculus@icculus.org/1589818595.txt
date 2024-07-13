@@ -69,6 +69,3 @@ When this .plan was written: 2020-05-18 12:16:35
 Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
 
 Stick it in the camel and go.
-
-
-

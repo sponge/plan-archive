@@ -1,4 +1,3 @@
-
 *** Monolith Production's Finger Server
 
 User name: goble
@@ -489,4 +488,4 @@ master CD for the full version of Blood2 this
 weekend as well!  There's Blood everywhere!
 
 Now that I've been programming on Blood2 for
-a little while, 
+a little while,

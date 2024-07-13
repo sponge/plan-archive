@@ -15,5 +15,3 @@ stupid little friends on the phone.  :-)
 Another cool thing about GetRight is that it can interface with your
 Virus scanning software.  It'll automatically run a scan on the file after
 its downloaded.  Pretty cool.
-	
-    

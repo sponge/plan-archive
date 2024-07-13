@@ -1,4 +1,3 @@
-
 Name: Rick Johnson
 Email: rjohnson@mail.ravensoft.com
 Description: Ld. Programmer / Network Admin
@@ -49,4 +48,3 @@ April 20, 2000
 
 Note: This patch should be considered BETA software and has not been fully tested.  
       You should re-install the game if you need to return to V1.03.
-

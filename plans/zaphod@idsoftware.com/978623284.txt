@@ -1,4 +1,3 @@
-
 Name: Graeme Devine
 Email: zaphod@idsoftware.com
 Description: Designer / Project Manager
@@ -54,4 +53,3 @@ MOD authors need to take note of the call UI_usesUniqueCDKEY() and make sure the
 If you're starting your game from Gamespy arcade there were some intermittent problems over the weekend that we've resolved through an update on Gamespy's side of things.
 
 Lastly, I see some servers have mistakingly copied the Team Arena pak file into the baseq3 directory and not the missionpack directory.  I'll be filtering these out of the master server listings today, please make sure you've put the pak files in the right place so users can correctly connect to your servers.
-

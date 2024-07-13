@@ -1,4 +1,3 @@
-
 Name: Robert Gee
 Email: rgee@mail.ravensoft.com
 Description: Artist
@@ -53,5 +52,4 @@ Congrats to both Id and Epic for helping me put down AoK for a while. Every lunc
 admiring your work and efforts. Haven't had this much fun since HereticII bladematch! It'll
 be a while before I go back to my RTS ways....
 
--RG 
-
+-RG

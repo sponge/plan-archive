@@ -1,4 +1,3 @@
-
 Name: Christian Antkow
 Email: xian@idsoftware.com
 Description: Level Designer
@@ -12,4 +11,3 @@ There is a problem with the server (not found / lost / timed out)
 This means that the server running the playfield you requested, the
 one containing your charachter right now, is not running. Please wait
 one or two minutes, and try to log in again
-

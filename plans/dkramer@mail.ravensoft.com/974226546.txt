@@ -1,4 +1,3 @@
-
 Name: Dan Kramer
 Email: dkramer@mail.ravensoft.com
 Description: Programmer

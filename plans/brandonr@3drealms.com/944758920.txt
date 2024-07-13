@@ -15,5 +15,3 @@ ngWorldStats batcher.
 Since the patch has been released and distributed, I'll
 fix the bug right now and release a shared lib to fix
 the problem.
-	
-    

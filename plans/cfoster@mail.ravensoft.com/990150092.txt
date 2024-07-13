@@ -1,4 +1,3 @@
-
 Name: Chris Foster
 Email: cfoster@ravensoft.com
 Description: Lead Designer
@@ -41,5 +40,3 @@ Bob, you owe me half a bag of Doritos.
 --------
 
 I hope the game is better than the movie.
-
-

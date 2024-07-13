@@ -1,4 +1,3 @@
-
 Name: Graeme Devine
 Email: 
 Description: Programmer
@@ -16,4 +15,3 @@ Let's try this again with a less buggy compiler...  We've been battling gcc 3.1 
 ---
 
 There's a new build of Quake3 for Mac OS X on the id ftp server.  This is for 10.2 or later only.  This version fixes support for certain add in audio sound cards, adds a brand new ppc QVM compiler, and "tada" adds Altivec code to aid MD3 rendering.  Thanks go to Apple and especially Ken Dyke over there for making this happen.
-

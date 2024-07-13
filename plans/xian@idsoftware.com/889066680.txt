@@ -64,5 +64,3 @@ of players on all of the servers that reports to us.
 
  You can check it out at http://inferno.idsoftware.com/usage. I'll probably update
 the graph on a daily basis.
-
- 

@@ -25,6 +25,3 @@ These few minor fixes will make a big difference and will definitely be in the f
 We owe special thanks to those of you who posted specific examples of AI problems. Those examples made it simple to track down the bugs. :)
 
 As for complaints about our enemies' defensive tendencies, put yourself in their position and ask yourself if you'd go charging around a corner after some guy with a shotgun. Didn't think so. ;)
-
-
-

@@ -1,4 +1,3 @@
-
 *** Monolith Production's Finger Server
 
 User name: jeremy
@@ -210,12 +209,3 @@ well... this should help!
 Old archives are at:
 
 http://www.users.lith.com/~jeremy/plans/
-
-
-
-
-
-
-
-
-

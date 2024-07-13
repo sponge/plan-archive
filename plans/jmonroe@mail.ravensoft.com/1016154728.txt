@@ -1,4 +1,3 @@
-
 Name: James Monroe
 Email: jmonroe@ravensoft.com
 Description: Ld. Programmer
@@ -20,4 +19,3 @@ transcript of:
 
 our official site:
 <a href="http://www.lucasarts.com/products/outcast/default.htm">Jedi Outcast</a>
-	

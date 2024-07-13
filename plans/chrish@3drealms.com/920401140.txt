@@ -9,5 +9,3 @@ Email: chrish@3drealms.com
 3/2/98
 ------
 Linking to DLLs... it's __declspec-tacular!
-	
-    

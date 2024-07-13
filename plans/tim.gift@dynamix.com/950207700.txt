@@ -70,7 +70,3 @@ the shape file. It should be fairly easy for mod
 authors to build and customize new vehicles.
 
 Tim
-
-
-
-

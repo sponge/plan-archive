@@ -37,5 +37,3 @@ is work out some windowing issues with standard Mesa.
 DGA mouse input is in and working, but DGA support is broken under
 the 3dfx X server.  I'm talking to a few people to find workarounds
 for the 3dfx X server DGA problem, if there is any.
-	
-    

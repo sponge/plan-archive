@@ -69,5 +69,3 @@ As far as DirectEngine, Mike and I have to make sure the physics is all things t
 I just moved up to Seattle 6 months ago.  To sum up my experiences so far:  the people are great, the scenery is beautiful, the rain is...er...wet, and DirectEngine ROCKS!
 
 Having several games being developed using DirectEngine in-house really helps us keep it a great game engine rather than just a spin-off engine.  Riot, the first game developed with DirectEngine, is really looking sweet.  I can't wait until it's done and the multi-player rioting begins.
-
-

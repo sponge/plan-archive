@@ -1,4 +1,3 @@
-
 Name: Todd Hollenshead
 Email: toddh@idsoftware.com
 Description: CEO
@@ -123,4 +122,3 @@ take a look at this.  It's a reference document for our technology
 licensing program and contains a ton of information.
 
 http://www.idsoftware.com/corporate/idtech/index.html
-

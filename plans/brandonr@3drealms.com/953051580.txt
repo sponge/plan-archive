@@ -31,5 +31,3 @@ the X-Box allowing PC developers to bring their software to the console
 with very little additional work.
 
 I'll talk more later.
-	
-    

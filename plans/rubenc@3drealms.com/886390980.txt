@@ -92,5 +92,3 @@ Version 2 represents a complete rewriting of the application from the ground up.
                     Modular User Interface 
 
 these could be subject to change :)
-	
-    

@@ -25,4 +25,3 @@ On another note, at least the .plan files are being updated; for
 a while webdog couldn't seem to tell when we changed them.
 
 - Chris Jacobson
-
