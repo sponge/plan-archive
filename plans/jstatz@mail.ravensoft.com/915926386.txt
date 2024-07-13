@@ -1,0 +1,146 @@
+
+Name: Jeremy Statz
+Email: jstatz@mail.ravensoft.com
+Description: Designer
+Project: Heretic II
+-------------------------------------------------------------------------------
+<------------------------------ 80 columns! ----------------------------------->
+1-9-99
+
+Thought for today: Destroying a crate is not interactivity.
+
+
+"D'oh!  They're not nipples, they're buttons!" -- Josh Weier, 0:32, 1-8-99
+
+1-5-99
+
+Kenn softened up the block of ice before I chipped it away with my keys on
+sunday.  Was quite proud of the trench I dug through the snow to get out of the
+building on saturday, too.  heh
+
+Thanks for people's recommendations on modelling programs... pretty much the
+only one people mentioned was Moonlight Creator, a very full-featured
+modelling/rendering package for Linux and Windows.  Anyone who's interested can
+check out http://rpmfind.net/linux/moonlight/ for info.  The official homepage
+is at http://www.cybersociety.com/moonlight but it seems to be down.
+
+Been scripting some nice destruction for SoF... nothing beats a good explosion.
+
+1-3-99
+
+Just noticed that Rust has a Heretic 2 editing forum up.  Check it out!
+
+<a href="http://www.gamedesign.net">Rust</a>
+http://www.gamedesign.net
+
+1-2-99
+
+There's a six-foot snow drift stacked against the front door.  That rules.
+
+Was just checking out Pricewatch, and found a bunch of places selling i740 cards
+for around $35.  Pretty decent speed for the money if you haven't got a 3D card
+yet.
+
+12-31-98
+
+Anybody out there who wants to read the HereticEd manual/tutorial that came with
+the game, but doesn't have Word97 or Acrobat available, can get a Word97 viewer
+from Microsoft's site.  It's around 3 meg, and works nicely for this purpose.
+
+URL:  http://officeupdate.microsoft.com/downloaditems/wd97vwr32.exe
+
+If you're experimenting with your config and are kind of frustrated with
+the double-tap system, keep in mind that the game also supports command-
+shifting.  Bind a key to +command to make it the shifter, then bind_command a
+key to a function.  So, if I have ALT bound to +command, then "bind_command X
++defend", I can defend by hitting ALT + X.  You can look at the gamepad configs
+that're included with the game to see this in action, as it's used throughout
+them. (they're in the heretic2/base/config directory)
+
+Also built about 2/3 of a Heretic 2 DM map over vacation.  I learned in the
+process that 800x600 isn't a real great resolution for level editing.  Even so,
+was a productive holiday between games and the map.  heh
+
+I can now get as far as the third level of Radiant Silvergun without a death, if
+I'm lucky... that wireframe boss towards the end of the second level screws me
+over frequently, though.  I'm an hour or two away from finishing both Breath of
+Fire 3 and Panzer Dragoon Saga.  Have to finish Magic Knight Rayearth after
+that, then start into Suikoden.
+
+Oh also, is anybody aware of a free modelling program with source available, for
+either DOS or Windows?  Doesn't need to do anything real complex, I'm mostly
+interested in something bare-bones that I could build onto.
+
+12-22-98
+
+Best game I played this year is definitely Radiant Silvergun.  Nothing seriously
+comes close.  Panzer Dragoon Saga, StarCraft, and Metal Gear Solid kick some
+ass, too.
+
+12-18-98
+
+Quick mention regarding the DM map pack.  The first zip we sent to the
+webmasters was missing a file, which was corrected a few minutes later.  The
+original one was up for a couple minutes on some of the sites, though, so if you
+grabbed it right as the link shows up, you might be missing one of the BSPs.  If
+the zip you got isn't 1.74 meg, or you're otherwise missing DMBloodFeud, you're
+missing a cool map!
+
+Was purely an accident, and wasn't up for too long, but thought I'm mention it
+in case you see the map on a server and aren't sure where to get it.
+
+12-16-98
+
+I felt like updating this because Oz was watching me.  And he is a psycho.
+
+12-15-98
+
+Not sure if any of the more general news pages noticed this...
+
+There's an update zip of Heretic 2's dev toolkit available now that adds a few
+missing things and fixes the path weirdness with the QE4 project file.  It also
+includes a bunch of example qdt files.
+
+http://www.hereticii.com/misc/h2tools_update12-10.zip
+
+Oh yeah, and there's a shot of one of the enhancement pack maps up on
+www.heretic2.com if you want a look.
+
+12-10-98
+
+Anybody trying to get the "random DM start" flag on a teleporter to work should
+know that you still need to target the teleporter at a destination.  The 
+destination will get used in single-player, and it'll do the random thing in DM
+games.
+
+12-6-98
+
+Also, a quick reminder that if you want to name your Heretic 2 map, or have a
+trigger or whatever print a message, you have to use the text_msg field.
+Message simply prints a line from the levelmsg.txt file (used because it's easy
+to translate).
+
+It works the same as Quake 2's message field, just a different name is all.
+
+-----
+
+Anyone working on a Heretic 2 map who wants to use scripts may have noticed the
+lack of a script_runner entity in the list.  Unfortunately, the included
+Heretic 2 project file is told to look for *.c files, while the comment for the
+script_runner is in a .cpp file (the only one in the directory).
+
+So, find your heretic2.qe4 file (should be in toolkit/designer/hereticed), open
+it in notepad, and change the line where it says:
+
+"entitypath"            "....programminggamecodegame*.c"
+
+to read:
+
+"entitypath"            "....programminggamecodegame*.c*"
+
+The added wildcard will make it scan that file, so script_runner will show up
+in your entity list.  Apparently a number of the ent lists for other editors
+are missing this entity too (probably for a similar reason), so if you
+maintain one of these lists, please take a look and make sure you didn't miss
+it -- scripts are central to doing a lot of the more complex stuff with a
+single-player map.

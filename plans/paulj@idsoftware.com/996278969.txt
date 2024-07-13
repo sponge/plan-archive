@@ -1,0 +1,195 @@
+
+Name: Paul Jaquays
+Email: paulj@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+Skill Portfolio/Background:  See bio on id web page for details
+
+Current projects:   DOOM
+                    
+
+**********************************************************************
+DISCLAIMER:  THE FOLLOWING IS THE PERSONAL OPINION OF THE AUTHOR AND DOES
+NOT REPRESENT THE OFFICAL POSITION OF ID SOFTWARE, ITS OWNERS, EMPLOYEES,
+DISTRIBUTORS, OR LICENSEES, (OR ANYONE ELSE FOR THAT MATTER).
+
+**********************************************************************
+July 27, 2001
+**********************************************************************
+A couple more QuakeCon updates.
+
+MODEL CONTEST
+
+First, if you're reading this and had hoped to get a technical review from the contest coordinator (me) on your map object model contest submission, you've now missed the deadline for getting that kind of help. You'll need to seek it elsewhere. Before submitting your entry, you should definitely get together with a mapper who is using GTK Radiant TA 1.1 and verify that your model works. The first model has already been submitted and installed in the new gallery map ... so the pressure is on.
+
+As noted in the previous post below ... I'm out of the office until August 3rd. I will be checking the hotmail email address I note below, but not my main id or map contest accounts.
+
+NOTE: Participation by Judges noted below will depend upon their availability at the time the gallery map is ready for review.
+
+SEMINAR: TRASH MY MAP
+
+One of the seminars I'm hosting at QuakeCon is going to be an off the cuff, shoot from the hip, no-holds barred (leave your sensitive egos at home), on the spot map review of maps made be convention attendees. It takes place Saturday August 10th at 10:30 AM in the seminar ballrooms.
+
+I've twisted the arms of a couple Q3A engine level designers from other companies who are going to be at the show and convinced them to sit in on this with me (and I expect to hear from a couple more after this). We've got barely and hour and we'll run through (not play) as many maps as we can in that time frame (no more than 5 to 10 minutes per map). One of us will drive and we'll run through the map on the big screen making comments, criticisms and hopefully useful suggestions for fixing up maps in production.
+
+That's right ... maps in production ... not final released maps. To be reviewed, a map must work with vanilla Q3A or Team Arena. Any textures not in the original games must be in the map's pak file. The map MUST be compiled and in a pak file. No map files.  Finally only maps by convention attendees will be reviewed ... and the map maker must be present in the seminar.
+
+To submit a map for review, send an email to the main QuakeCon model contest address: <a href="mailto:qc01model@idsoftware.com?subject=Trash My Map Submission">qc01model@idsoftware.com</a>. In the email give me a download link that I can grab after August 4th. If you need to make other submission arrangements let me know.
+
+Maps to be reviewed and the order of review will be chosen by random drawing prior to the seminar. If the map maker is not present in the seminar room, we move onto the next victim. Looking forward to seeing you there bright and early. ;)
+
+SEMINAR: HOW DO I GET YOUR JOB?
+
+This bit of informal dicussion (probably a panel of "famous" game makers if I can convince them to reveal their life stories), will discuss breaking into the industry. If we run out of steam on that topic, we can move onto general questions from the audience that don't require that the panel members to reveal corporate or trade secrets. Takes place at 2:00 PM on Thursday, August 9th.
+
+SEMINAR: WHEN DOES TRIBUTE BECOME TRESPASS?
+
+This panel presentation seminar at 1:30 PM on Saturday deals with the sticky issue of "Foxxing" ... where mods are shut down for infringement on intellectual property rights. We intend to present a history of "foxxing", give an overview of copyright law as it relates to game mods, touch on "fair use" in the same light, and give some insight into why companies must protect their copyrights and trademarks. Ideally, we'll have some time for discussion. As long as everyone understands that we aren't dishing out legal advice or establishing company polices, we'll do just fine. 
+
+See you at QuakeCon!
+
+**********************************************************************
+July 23, 2001
+**********************************************************************
+
+QuakeCon 2001 Map Object Model contest News Update
+
+A reminder to contestants: The deadline is the end of the business day on August 3rd, 2001 to submit your map-ready model submissions.
+
+Second, contest coordinator, Paul Jaquays will be away from his email from July 28th through August 3rd. Should you need to contact him for assistance in any way during this time, use the following email address: qc01model@hotmail.com. No attachments please.
+
+Judges Selected
+
+The following are the judges who have volunteered to review and score the models for the QuakeCon 2001 Map Object Model Contest. 
+
+AstroCreep. Level Designer. AstroCreep is a map-making hobbyist who has devoted much time and energy recently to developing the map making skills of others. After working with mappers and modelers for over a year and a half on the Quake3World forums as moderator of the content creation forums, he recently created forums at http://www.aimoo.com/forum/freeboard.cfm?id=316457 devoted to Quake III mapping. 
+
+Eric Biessman. Level Designer. Eric is the Design Services Director at Raven Software and was the Design Coordinator on Soldier of Fortune. His  credits can be found on a string of titles going far back in Raven Software’s past,  including CyClones, Heretic - Shadows of the Serpent Riders, Hexen, Hexen - DeathKings of the Dark Citadel, Hexen II, Hexen II - Portal of Praevus, Heretic II, Soldier of Fortune, and (finally!) Star Trek Voyager - Elite Force.
+
+Duncan Brown. Level Designer. Duncan recently departed his position as a level designer with Lucas Arts (where his name appears on numerous Star Wars titles)  to work as a consultant with ZenLux , a virtual real estate company, specializing in the conception, production and maintenance of online environments. 
+
+Andrew “ALPHAwolf” Gilmour. Artist. Andrew took first place in the QuakeCon 2000 and now finds himself busy as an artist Ritual.
+
+Richard “levelord” Gray. Level Designer. Levelord is justifiably infamous for a long list of game projects over the years. He continues to push the envelope in level design on Ritual’s yet-to-be-announced project.
+
+Jim Hughes. Level Designer. Jim currently handles the responsibility of design lead for Raven’s Solder of Fortune and a future, yet-to-be-announced project.
+
+Brandon James. Level Designer. Brandon is president of Nerve Software, currently working on yet-to-be-announced projects. Brandon’s level and game design work can be seen in Quake 2, Quake III Arena, and American McGee’s Alice.
+
+Brian “bobo_the_seal” Jones. Artist. Brian is busy with modeling and texturing chores on Ritual’s yet-to-be-announced project.
+
+Brian Pelletier. Artist. Most recently Brian served as Project Leader on Raven Software’s Star Trek Voyager: Elite Force. He’s shift back to doing creative goodness for one of Raven’s future, yet-to-be-announced projects.
+
+John “HAL-9000” Schuch. Level Designer. He is currently working on the James Bond game for EA and contributed to the first Team Arena Map Pack.
+
+Kenneth Scott. Artist. Kenneth has worked at id as a texture artist and modeler on Quake III Arena, Quake III: Team Arena. He currently applies himself as conceptual artist, model maker and texturer on id’s new Doom project.
+
+John Turner. Artist.  John is an artist and animator on the Nerve Software team, focusing mainly on modeling and animation.
+
+Timothy Willits. Level Designer. Tim is the lead level designer on Doom and did the same task for Quake II, Quake III Arena and Quake III Team arena.  His string of professional design credits goes back to Final Doom.
+
+
+**********************************************************************
+June 19, 2001
+**********************************************************************
+For a while, I've been hinting to folks on model making forums that there would be some changes in the next point release regarding the creation of teams for Team Arena and also some changes to skin handling for Q3A.
+
+The primary focus of the new document is making new teams for Quake III: Team Arena, but there's also huge amount of information in it on making TA and Q3A models, and a look at some new code involving both TA and Q3A models. There are RTF (Rich Text Format ... compatible with many Word Processors) and html versions available as separate downloads.
+
+Anyone who has been itching to re-skin James and Janet or make their clan team (and have it work in game) will now have their chance.
+
+The new release also supports new models for teams in TA, use of Q3A head models on TA models (these are not modified models and most look ugly as sin when in place on Janet and James), and a skin-naming convention that will allow the team color variations of user made Q3A model skins to replace the skin in team games, instead of the model's default skin.
+
+The manual is about 34 pages long, but don't be overwhelmed by that. A good share of the document is examples of scripts and directory contents.
+
+As I write this, id's ftp site is currently being hammered by folks wanting to download the beta version of the 1.29f point release, so access to our servers may be difficult. But you will be able to grab the documents from: 
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/misc/html_q3ta_teams.zip">HTML Format version of Team Arena Team Creation Document</a>
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/misc/rtf_q3ta_teams.zip">RTF Format version of Team Arena Team Creation Document</a>
+
+Paul
+
+
+**********************************************************************
+June 13, 2001
+**********************************************************************
+
+QUAKECON 2001 MAP OBJECT MODEL CONTEST KICKS OFF!
+
+id Software, polycount, QuakeCon 2001 and its sponsors invite entries into the second annual QuakeCon Map Object  Model contest. As before, it’s a competition to create outstanding models for maps used by Quake III: Arena, its expansions, and community-made game modifications. This year, the contest has a simple theme:  “Impressive.” We’re looking for centerpieces, models or suites of models so incredibly impressive that they inspire mapmakers to build play spaces simply to house them. Maybe “inspire” isn’t the right word here. They should DEMAND that maps be built around them. We want model makers to knock our socks off.
+Models can be for any style or theme of map or mod, including gothic, tech, or realistic. They just need to be overwhelmingly impressive.
+As before, model makers will be competing for some great prizes, which will be announced at a later date as details are finalized. The contest begins with this announcement. All contest entries must be complete and in the hands of the contest coordinator before midnight, CDT August 3, 2001. A panel of industry judges will review accepted entries and cast their votes prior to Quakecon. Contest winners will be announced at QuakeCon 2001 in Mesquite, Texas.
+Complete rules and contest details can be found at <a href="http://www.planetquake.com/polycount/contest/mapmodel2k1/qc01mmc.shtml">www.polycount.com contest page</a>. 
+
+Here are important highlights:
+·	All contest entrants younger than the age of 18 must submit a signed consent form prior to contest judging.
+·	All contest entries must be original works and unreleased or undistributed in any form prior to the contest.
+·	All entries must be the work of the entrant.
+·	Entries may be the work of teams, but only one prize will be awarded per entry.
+·	Models must be textured or “skinned”. 
+·	Models must be submitted as working .md3 format models (Quake III Arena model format) in pk3 file form.
+·	Entries remain the property of the entrants.
+·	The decisions of the contest coordinator and judges are final.
+
+Questions and concerns may be directed to the contest coordinator, Paul Jaquays, at 
+
+<a href="mailto:qc01model@idsoftware.com?subject=qc01model@idsoftware.com">qc01model@idsoftware.com</a>
+ 
+
+**********************************************************************
+May 14, 2001
+**********************************************************************
+Three months to the day after releasing Team Arena Map Pack 1, we're proud to announce the release of a second map pack for the Quake III Arena game expansion, Quake III: Team Arena. As before, this id-approved map pack contains the work of four mappers from the on-line gaming community. This time, three are conversions of previously released Quake III Arena Capture the Flag maps (Dynatron by Ned Man, Courtyard Conundrum by Casey of Threewave, and Smear Campaign by riscchip). The fourth map (PYRmageddon)is an original map, created for Quake III: Team Arena. These maps have be modified and updated to work with the four Team Arena game types: Capture the Flag, One Flag CTF, Overload, and Harvester.
+
+These maps are an exciting addition to the growing number of maps available for Quake III: Team Arena and will make a great addition to the map rotation on any server.
+
+You can download the TA_mappak2 at id's ftp site. 
+
+<a href="ftp://ftp.idsoftware.com/idstuff/teamarena/map_paks/TA_mappak2.zip">Team Arena Map Pak 2</a>
+
+File size is 17.35 mg. Other download mirrors will be announced here as they become available.
+
+Paul Jaquays
+
+Mirrors for Team Arena Map Pack 2
+<a href="http://www.fileplanet.com/index.asp?file=60226">File Planet Mirror</a>
+<a href="http://www.bluesnews.com/files/idstuff/teamarena/map_paks/ta_mappak2.shtml">Blues news Mirror</a>
+<a href="http://www.3dgamers.com/dl/games/quake3arena/Missions/ta_mappak2.zip.html">3DGamers.com Mirror</a>
+<a href="ftp://ftp.cdrom.com/pub/idgames/idstuff/teamarena/map_paks/TA_mappak2.zip">CDROM.com Mirror</a>
+<a href="http://www.3ddownloads.com/?file_id=146845">3D Downloads Mirror</a>
+
+
+**********************************************************************
+February 19, 2001
+**********************************************************************
+Mirors for Team Arena Map Pack 1 updates
+
+<a href="http://www.q3arena.net">Q3arena.net </a> Mirrors
+<a href="http://www.q3arena.net/files/?id=1509&download=1">hal9000_b_ta</a>
+<a href="http://www.q3arena.net/files/?id=1510&download=1">TA_mappak1b</a>
+
+<a href="http://www.xgr.com">X-Treme Gaming Radio</a> Mirror
+<a href="http://www.xgr.com/downloads/hal9000_b_ta.zip">hal9000_b_ta</a>
+
+<a href="http://www.bluesnews.com">Blue's News </a> Mirrors
+<a href="http://www.bluesnews.com/files/idstuff/teamarena/map_paks/hal9000_b_ta.shtml">hal9000_b_ta</a>
+
+<a href="http://www.bluesnews.com/files/idstuff/teamarena/map_paks/ta_mappak1b.shtml">TA_mappak1b</a>
+
+<a href="http://www.planetquake.com/lvl/">lvlworld.com (..::Lvl)</a> Mirror
+<a href="http://dl.fileplanet.com/dl/dl.asp?lvl/g-l/hal9000_b_ta.zip">hal9000_b_ta</a>
+
+
+**********************************************************************
+January 15, 2001
+**********************************************************************
+Team Arena Model Mesh Art
+
+The link below will download the installer (with EULA) for the wire mesh art used to create the character skins for the Team Arnea models. Included are the mesh layouts for the two team models (male and female), all 11 character heads, and the mesh layouts for Pi and Fritzkrieg, the two tourney models.
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/tools/Q3Tools_EditorSupport.exe">Team Arena Skin Meshes</a>
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+If it's not here, it's vapor.  Check out somebody's archives if you want to read my previous bits of wisdom and flame.

@@ -1,0 +1,57 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Jedi Knight2
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+Attention win95/98 users attempting to compile the VMs!
+
+Win98 does not support the set command that my batch files use.  You can fix it by doing a search and replace on the set command.
+
+everywhere you see 'cc' you have to replace it with the text to the right of the = sign below:
+
+set cc=......inlcc -A -DQ3_VM -DMISSIONPACK -S -Wf-target=bytecode -Wf-g -I....cgame -I....game -I....ui
+
+cc ../g_main.c
+
+becomes:
+......inlcc -A -DQ3_VM -DMISSIONPACK -S -Wf-target=bytecode -Wf-g -I....cgame -I....game -I....ui   ../g_main.c
+
+
+sorry for the troubles, but win98 sucks in this reguard.
+
+
+---------------------------------------
+JK2 Editing Tools Release 2 is now out.  
+
+<a href=http://www.jediknightii.net/tools2.shtml>JediKnightII.net mirrors</a>
+
+Contents of Tools2:
+ 
+EffectsEd.exe - the editor we used to create EFX files.
+BehavEd.exe   - the editor we used to create Icarus scripts.
+IBIZE.exe     - the Icarus script compiler (Note: the ICARUS compiler used in JK2 is the same as the Elite Force version, but the BehavEd.bhc file has changed.)
+roq.exe       - tool to compile images into a RoQ video.
+ 
+and these Documents:
+ 
+bot_tutorialot_tutorial.txt - how to make bots for MP
+Bot waypoint tutorial.doc
+Guide to SOF2JK2 Vertigons.doc
+Guide to SOF2JK2 Weather.doc
+ICARUS Manual.doc
+JK2_Model_Tutorial_by_Tim_Appleby_JK2.doc
+Model Constuction Conventions.doc
+Using_EffectsEd.doc
+and SPscripts.zip - all the scripts from JK2 Single Player as reference.
+ 
+ 
+It will also extract the game source folders:
+ 
+Code     - all the source code for the game VMs.  (see CodeMakeAMod_readme.txt for more info)
+bin      - the folder for code compiling
+ui       - support folder to compile code
+ 
+Plus some more example maps and models to Base as well.

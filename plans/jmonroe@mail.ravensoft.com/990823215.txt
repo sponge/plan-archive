@@ -1,0 +1,23 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Jedi Knight2
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+Elite Force SDK update:
+
+fixed a bug, (thanks maxbowsher)
+Correct behaviour:
+outputFilename set to argv[2]
+OLD behaviour:
+outputFilename set to argv[1] - i.e. '-o'
+
+reget the package from here:
+http://www.3ddownloads.com/?file_id=145614 
+
+i also noticed why it only worked as a Debug build, so now it's Release and should be a couple of times faster.
+
+oh, and i replaced the batch files with the ones SA made, which should work in win95.
+

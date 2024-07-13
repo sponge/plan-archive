@@ -1,0 +1,28 @@
+Login: steve          			Name: Steve Gedikian
+"|IFS=' ' && exec /usr/local/bin/procmail -f- || exit 75 #user"
+Project:
+Do things that people tell me I can't do.
+
+<a href="http://genghis.winamp.com/~steve/plan/">Read my archived journals.</a>
+Plan:
+June 13, 2002 - 4:38PM
+
+Doh! Grandma went off to a better place this 
+morning. Her health's been failing for quite
+some time now, so it wasn't a surprise or 
+anything, but it still sucks. Too bad I didn't
+even get a chance to say good bye or anything.
+
+I'm heading to LA on monday or tuesday for the
+funeral. I think I'll probably get back 
+sometime the following week, I'm expecting on
+monday or something. I don't know tho. Good
+thing my schedule is such that it isn't going 
+to be to detremental to anything.
+
+Shucks, death sucks.
+
+-s
+
+Login: swoods         			Name: Steve Woods
+No Plan.

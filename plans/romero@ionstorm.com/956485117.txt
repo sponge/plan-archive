@@ -1,0 +1,147 @@
+
+*** Ion Storm's Finger Server
+
+User name: romero
+Plan modified: Sat Apr 22 17:00:48 2000
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Plan File</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="Microsoft Theme" content="none">
+<meta name="Microsoft Border" content="none">
+</head>
+
+<body style="background-color: rgb(0,0,0); color: rgb(192,192,192); font-family: Arial">
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">Current project: <font color="#FF0000">Daikatana</font></p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; April 22, 2000</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">As per the readme.txt in the Daikatana Demo:&nbsp; My god, it's
+finally finished.&nbsp; And I thought working on a game for 1.5 years was
+long....wow.&nbsp; I wish everyone would take a nice, objective look at the game
+and not base their criticisms on hype, but on play value and what we've worked
+to achieve: a really fun single-player experience.&nbsp; We did not develop
+Daikatana to take on Quake 3 or UT, but we put multiplayer in the game because I
+really like my single-player games multiplayerable.&nbsp; Is that a new
+word?&nbsp; :)</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">&nbsp;There have been a few technical issues with the demo that you
+can fix or workaround with the following information:</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">(Q1) Multiplayer is laggy or extremely choppy.</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">(A1) The server should have its <b>CONNECT RATE </b>turned up to <b>T1/LAN
+</b>(in the Multiplayer Menu).&nbsp; Make sure your client connect rate is
+turned up as well.</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">(Q2) Daikatana doesn't work with a <b>Voodoo2</b>.</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">(A2) There are two fixes for this: (1) edit your config file (in
+the DATA subdirectory) and change &quot;<b>opengl32</b>&quot; to <b>&quot;3dfxgl&quot;
+or &quot;3dfxvgl&quot;</b>, (2) download and install the <b>miniGL driver </b>from&nbsp;
+<a href="http://www.3dfxgamers.com/view.asp?PAGE=V2drivers">http://www.3dfxgamers.com/view.asp?PAGE=V2drivers</a></p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">(Q3) Running the <b>DKDEMO.EXE </b>on <b>Windows 2000 </b>gives you
+an error (Insert Disk 1)</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">(A3) Use WINZIP to extract the <b>DKDEMO.EXE </b>file, then run the
+<b>SETUP.EXE</b> program to install the demo</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">(Q4) The game pauses for a long time when you're playing
+multiplayer (seems like a lockup)</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">(A4) This is a bug in the <b>demo only </b>that occurs when you are
+attempting to connect to the <b>Catacomb </b>level (Greek time period).&nbsp;
+Just wait 20 seconds and you'll connect.</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">(Q5) The game is too dark</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">(A5) Check out the README.TXT file, it has some useful tips.</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">So far, these cover 99% of the problems that people are
+having.&nbsp; I'd like to say thanks to everyone who has been emailing me their
+raves and congrats -- thanks a lot, you guys make it all worth it.</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">&nbsp;</p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; December 10, 1999</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">It was six short years ago, down to the hour.&nbsp; I remember
+staying up the last 30 hours doing exhaustive testing before Jay Wilbur uploaded
+the shareware version of DOOM to the University of Wisconsin's FTP site.&nbsp;
+We couldn't get in -- too many people were sitting on the site, waiting for our
+upload.&nbsp; The target directory was full of bogus files with names like
+&quot;when.is.it.coming&quot; and &quot;hurry.up.id&quot;, but finally we got
+the sysop to up the connect limit to 250 and we barely got in.&nbsp; After that
+upload, things changed.</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">I remember the crazy lockup bug we had the day before -- if DOOM
+sat running for too long, it would just lock up.&nbsp; Turned out to be a value
+that was being incremented by the 140-tic-per-second timer function that was
+wrapping around (it takes a very long time for a LONG to wrap, even at
+140-tics-per-second,&nbsp; but this one was uninitialized so it took even less
+time).&nbsp; So, we finished it up and sent it out, just knowing everyone would
+have a lot of fun with it.&nbsp; Happy Birthday, DOOM.</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">I forgot to mention three birthdays in the past few months, the
+birthdays of Spear of Destiny (Wolfenstein retail) on September 18th (7 years
+old), DOOM II on October 10th (5 years old) and Hexen on October 31st (4 years
+old).&nbsp; Got about three more birthdays coming up this month, too!&nbsp; And
+one new arrival in the next couple weeks... :)</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">P.S.: Congrats to the guys at id for producing perhaps the most
+beautiful and polished game I've ever seen.</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">&nbsp;</p>
+
+</body>
+</html>
+

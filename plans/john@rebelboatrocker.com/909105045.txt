@@ -1,0 +1,391 @@
+Login: john           			Name: John Faulkenbury
+Directory: /home/john               	Shell: /bin/bash
+Last login Fri Oct 16 21:43 (CDT) on ttyp1 from 3.dallas-01.tx.dial-access.att.net
+New mail received Thu Oct 22 21:36 1998 (CDT)
+     Unread since Thu Oct 22 21:34 1998 (CDT)
+Project:
+
+Prax War 2032
+
+Plan:
+[03sep98]----------
+
+Cliffy, don't feel bad.  I think Sandra Bernhard is a *hottie*. :)
+
+[18aug98]----------
+
+This is driving me *MAD*. :)  There was a game for the Apple,
+and possibly the 8 bit Atari and/or C64, that was called
+something like "The Factory", and I *think* it was from
+Spinnaker Software.  Anyway, it was an educational game
+where you started with a square of raw material, and were
+shown a 'finished product', essentially the square cut and
+punched in all sorts of interesting ways, and the idea of
+the game was to assemble machines in the correct order to
+fabricate the final product from the raw square.  Does that
+make any sense? :)  Anyway, I only vaguely remember this
+game, but would love to find out what it was really called,
+and if it's out of copyright, etc, a disk file image for
+any of the classic systems it might have been for.
+
+Thank you, and good night. ;)
+
+
+[06aug98]----------
+
+Once again, life is a wonderful thing:
+
+URINAL TABLET.
+
+[02aug98]----------
+
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+[30jul98]----------
+
+Regarding Texas heat:
+
+We game developers have a saying.  "God created Dallas
+to test the faithful.  One does not go against the will
+of God."
+
+
+Regarding developer squabbles:
+
+"The only consensus worth having is a creative one achieved
+ in the combat of fully engaged intellects.  Such a consensus
+ is born of sleepless nights, fear of rejection, and trials
+ of personal courage.  Conflict, which usually presages
+ growth, is the hallmark of such consensus."
+
+   - Jim McCarthy
+
+[26jul98]----------
+
+FYI: I need to sign an NDA for the SDK to the H3D API. :)
+
+[14jul98]----------
+
+"I will go first"
+        -- [POW]Raven
+
+[13jul98]----------
+
+Things that suck:
+
+1) People who drop a freeware project, release their
+source code, and then insist that you're not allowed
+to make a derivative project, or release any changes,
+based on the source code.
+
+2) Other stuff I can't think of right now.
+
+[10jul98]----------
+
+It's a 450 pound Virtua Cop machine.  I had to help
+get it to the 5th floor of the building, and I have the
+freight ticket, too. :)
+
+[08jul98]----------
+
+:(
+
+I have just learned that Dani Bunten Berry, creator of
+M.U.L.E., and recipeint of the Lifetime Acheivement
+Award from this year's CGDC, has died.
+
+If you need me, I'll be mourning. :( :( :(
+
+"WE SEE FARTHER"
+
+
+[03jul98]----------
+
+The interface/menu/hud stuff is gonna RULE. :)  I can't
+spill the beans on it just yet, but believe me, this
+is beyond (conceptually) anything anyone else is doing.
+Sorry to sound so pumped, but I am.  Heh.
+
+While looking for a program to use to do layout and
+prototyping of the menu system, I came across a cool
+little tool called "Grids".  It's a vector drawing
+and design program, it's freeware, and it kicks the
+*hell* outta Visio. :)
+
+http://www.geocities.com/SiliconValley/Lab/3719/
+
+Most of the docs and sample shape libraries are in
+French, and what's not is fairly poorly translated.
+
+I've written the author, and if he responds, I'm going
+to offer to make up a quick and dirty tutorial in
+english to show how to get up to speed with it.  But
+definitely check it out, tasty stuff.
+
+[01jul98]----------
+
+Mmmmmmmmmm, stale Rolos. DOH!
+
+Happy July, and stuff.
+
+Game is coming along nicely, I'm working with Brian on
+the hud, and in game interface stuff (status bar, menu
+system, and console.)  Taking advantage of some of the
+neat things about Java, the hud/console stuff is gonna
+blow some socks off. ;)  But... this is also a little
+bit of an RFC; if anyone has any STRONG thoughts about
+what sucks or what's cool about any (and I mean ANY,
+from any game ever, and any genre) status/hud system,
+then just send 'em my way.
+
+As it coelesces, I'll post more specifics about how
+the whole thing is gonna rock^H^H^H^Hwork. ;)
+
+[30jun98]----------
+
+If anyone has a Mac Classic (the little black and white
+one that's all one piece, sans keyboard) that they'd
+like to part with/sell/dump on someone, I'm dying to
+get ahold of one.  Had a deal with a bud before I
+moved to Dallas, but it fell through.  Just testing
+the waters a little. :)
+
+[15jun98]----------
+
+I've noticed recently that caffeine is starting to wear
+down a little, for myself and a few of the other team
+members.  It's just not having the same effect that it
+used to... we're apparently building an immunity.  We
+don't make enough to move to the next level and all
+become speed freaks, so the project might be in peril.
+
+[03jun98]----------
+
+I ate a Big Mac.
+
+[07may98]----------
+
+I found a really wackass (sp?) Sokoban applet, but it's
+web based and not an actual application... though the
+graphics, etc, are outstanding.
+
+http://www.pimpernel.com/sokoban/
+
+[03may98]----------
+
+On a whim, and to show off Java's power, I am going
+to replace all my commonly used apps with their Java
+counterparts... freeware or GPL, or something similar.
+
+If anyone has any suggestions, please let me know.
+
+Here is the list so far:
+
+Web browser
+Email client
+Image viewer
+Zip archiver
+Dock/Wharf
+FTP client
+Telnet client
+IRC client
+Sokoban or Minesweeper
+biff-like mail notify
+
+I'm running Windows95 so any suggestions that aren't
+100% pure should be runnable on Win32.  I have a couple
+of ideas for some of the programs on the list, and am
+looking around... but for some I have no idea at all. :)
+
+[30apr98]----------
+
+DAMN that was efficient.  Thanks to all the people
+that have written me about the side-scroller in the
+FIFTEEN MINUTES since I made the plan update. :)
+
+Now, about that text adventure... hehe.
+
+[30apr98]----------
+
+I have found such a great use for my plan file! It's
+an excellent supplement to my USELESS memory. :)
+
+Does anyone know where to find the text adventure
+of 'Quake' that someone made?  I saw a link to it
+on a page a loooong while ago, but didn't get it
+then, and can't find it now.
+
+Oh, and Rob is looking for the side-scroller that
+someone made in Quake, and can't find that either.
+
+Mail either one of us. :)  Thanks!
+
+[28apr98]----------
+
+POWERDROME.  Found it on my own, so there. :P
+
+[27apr98]----------
+
+Does anyone remember a spaceship racing game, kind
+of similar to WipeOut, for the Amiga?  It would
+have to be about 8 years old now.  It was 3d poly
+based, and when you pulled into the 'pit', you
+could visually repair the damage to your ship with
+a big full screen top down picture of your ship.
+The ships raced on different planets, with varying
+atmospheres (I remember that you had to use some
+sort of dust filter or your engines would jam up
+on certain planets) and there was a scow that
+would come get you if you broke down, or blew out
+your engine...  I'm going NUTS trying to recall
+the name of this game!
+
+Billy Quote of the Day:
+
+"It takes less time to write a GUI component than
+ to learn somebody else's."
+
+[23apr98]----------
+
+Thanks to everyone for the email about my big band
+mp3 question... now here's a tougher one (perhaps):
+
+Does anyone know if the hits of Benny Goodman have
+been re-recorded in a better quality format than
+all his original stuff?  I'd love to have some of
+those old songs ('Sing Sing Sing' most specifically)
+but without all the muted sound and hiss...
+
+[21apr98]----------
+
+Man-o-man, is Dexter cool! :)
+
+(Hey! I bet you won't fit in this clothes drier!)
+
+[20apr98]----------
+
+If anyone knows where you can get Black Jack
+chewing gun in the North Dallas area, please slap
+me an email...
+
+[20apr98]----------
+
+Just eating Jelly Bellies and I accidentally made a
+Cherry Margarita.  Oh my!
+
+[16apr98]----------
+
+Glenn Miller Orchestra, I think it's called.  I need
+to pick up some CD's... I stumbled on a midi file of
+"In The Mood", which made me think of Ray Stevens'
+version (with chickens), which in turn made me think
+of the GMO, who did that originally (again, I think).
+
+Correct me if I'm wrong, or send me .mp3's of cool
+big band jazz. ;)
+
+[12apr98]----------
+
+Looks like old Billy over here received some Purple
+'Peeps'(tm) for Easter.  Guess that makes him a
+
+Two eyed, no horned, coding purple peep eater.
+
+[09apr98]----------
+
+Billy and I have decided that, along with all the other
+"computer nostalgia", ASCII porn is going to make a big
+comeback.
+
+[29mar98]----------
+
+Something that you MUST check out... this is really very,
+very cool... if you've ever used a NeXT, or used AfterSTEP
+under Linux, then you will dig on this big time. ;)
+
+http://www.anandtech.com/litestep/
+
+[12mar98]----------
+
+Welp, I guess I should have seen this coming. :)  A bunch
+of my friends are asking for ANY INFO I CAN GIVE (that's
+really how they say it, I swear) on the game... so I just
+HAVE to appease.  (or is that tease? :)
+
+My position is "Game Programmer".  That means, basically,
+that I'm writing all the stuff that goes into making the
+game what it is; weapon control, player physics, special
+effects, pretty much everything that isn't actually part
+of the engine, that's my job.  So, at this point, I've
+come a long way into learning what Billy's coding
+philosophy is all about, and by reconstructing pieces
+here and there, and adding a lot of my own glue, I've
+got a 'playable' (you will notice the quotes) game
+running.  It's really simplistic.  Imagine a slightly
+MORE buggy version of Qtest1, but with nobody else in
+there to thump on. :)
+
+But everything is rocking (pardon the pun) and starting
+to come together in a recognizable package.  All the
+talent here is simply amazing, and the modelers and
+mappers are riding my ass to get their stuff into a
+playable game. :)  To put it bluntly, the coding
+shall progress, or the coder shall hang.  Hehe.
+
+No pressure. :)
+
+[10mar98]----------
+
+I just wanted to say that I knew Alpha_Male when he was
+still an unknown. :)
+
+Nice work, man.
+
+[03mar98]----------
+
+Well, golly.  My sincerest apologies the the Onyx 
+boys, BetaMax and Slight.  This would appear to be
+the problem with both acceptance speeches, and greetz.
+
+:)
+
+---
+
+The ION Storm party was amazingly cool.  Great place they
+have there, great time WE had there, basically just great.
+
+---
+
+I have my family back!  w00!  We got everyone moved in on
+Sunday, and now the UNPACKING can begin. :(  Oh, well...
+...I suppose there are worse things (name one.)
+
+[21feb98]----------
+
+Well, isn't this odd.
+
+---
+
+Greetz go out to Ender, ]KM[Alpha_Male, DaBumble, Odd,
+and Fury.
+
+---
+
+Played some CTF Quake2 tonight.  It was, well, intense.
+
+To put it bluntly, don't think I'll be walking right for
+days.  Thanks to Landon for keeping me from dying TOO often,
+and thanks to Jason and Reichert for putting the hurt on.
+
+[20feb98]----------
+
+Boy, did I get the spanking of a lifetime tonight.  Landon
+(nexus-6) challenged me to a good-ol' Quake1 deathmatch.
+
+Um, oops.
+
+DM4: 13, -3 (Landon's favor)
+DM5: 43, 6 (Landon's favor)
+
+Again, oops. :)

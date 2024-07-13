@@ -1,0 +1,47 @@
+
+*** Ion Storm's Finger Server
+
+User name: jake
+Plan modified: Thu Mar 29 02:05:00 2001
+
+It's been a few years since I've made a plan file. 
+
+My use of the english language has deteriorated since being on Anox, SPPOOT, so if some words don't seem to make sense, don't worry... it's my new form of English.
+
+I've just finished the new Battle Teaser.
+it weighs in at 1:19.
+the formats will be 
+640x480 mpeg
+320x240 mpeg
+640x480 avi
+320x240 avi
+640x480 mov
+320x240 mov
+
+it was edited on Final Cut Pro and a nifty G4 (Thanks Kavanaugh!). The past Trailers (Anox & a Daikatana one that I did) were cut on Speed Razor, a PC editing program. I really liked it, but the Perception Video board died a miserable death and took all the video files with it. So I switched to FCP, which I'm still getting a handle on.
+
+To get a really clean Video File, Anox can render out 30 screenshots a second. You can then import these screens into any program (like Premiere, Speed Razor, FCP, etc) as a targa sequence and then generate a video file. The Video files look great and you don't have to use a capture board/VGA converter (which i think looks Crummy). But you would still have to capture the Audio. Which is what I did. What's great for all the Digital movie makers out there is that they can make a movie (using Planet, see below) , render it out and edit scenes in Premiere, and then add all kinds of FX using programs like Adobe After Effects. Which is also what I did with the Intro and Outro to the Battle Teaser (titles and other stuff).
+
+Planet is the tool used to make all the in engine cines and all the battle scripts. It's awesome. It's very much like a real editing system, it uses a time line and all entites and cameras can be controlled on it. Roll, focus, Animation, Alpha, and much much more.
+
+Now, some may say, oh so the teaser is all rendered footage, well... yes.... it is. But the footage was recorded as I was playing battle, the images that the trailer contains are all real in engine battle scripts(what A player will see, whenever we finish this damn game). I would just press the render button, and it would slow down and start writing a bunch of screenshots. In fact, some great things happened during the recording, I cast slow 3 on one of the enemies I was facing, and Boots happened to be in the foreground, so the shot was a cool silouhette of Boots in front of a bright blue Slow 3 Mystech spell in a really dark level. A bunch of that kinda stuff happened while I was recording. Since the Battle scripts are all relative, some really neat images can sometimes occur. Squirrel wrote a config for me to turn off the menu icons display, cuz I didn't want those in the teaser, which is why a lot of the framing is in the upper 3/4 of the screen. the bottom 1/4 is reserved for the menus (If anyone was wondering about the composition).
+
+I made all the Mystech, battleskill & weapon scripts. There are 8 main Mystech types, each with 4 different levels. the 7 main characters have 4 battleskills each, and 4-6 weapon types.
+Travis 343 Doggit is responsible for all the Monster scripts. of which there are about 70 I think. Each monster has between 2-3 different types of attacks.
+Each script is unique, So there was LOTS of material to choose from. 
+
+Putting the teaser was both Heaven & Hell. I'm finished with it so I'm writing a plan file to celebrate.
+
+Rich & I finished recording all the main actors dialogue. Noel has been helping out with the Magpie Mouth files, which is really Awesome.
+So the next few weeks I will placing all the dialogue into the cinematics. oh Happy Day!
+
+The Trailer should be avialble for download in the next week or so. Enjoy.
+Laytuh 4 alla U's
+-Strider
+
+
+
+
+
+
+

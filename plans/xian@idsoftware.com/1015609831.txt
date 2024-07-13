@@ -1,0 +1,59 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Designer
+Project: 
+-------------------------------------------------------------------------------
+
+Mar.8.2002 @ 11:40am CST
+------------------------
+
+ For those of you who frequent our game servers, I've now set up 
+a message board, so that you can all talk after the game, trade
+tips, talk smack, etc...
+
+ It's available off the Server Stats page at;
+
+<a href="http://underworld.idsoftware.com/wolf">http://underworld.idsoftware.com/wolf</a>
+
+ -Xian
+
+
+Mar.1.2002 @ 3:00pm CST
+-----------------------
+
+ Well, doesn't look like the large 64 player server was very popular, 
+so in it's place, I've now set up a MP_BEACH server at;
+
+ gameserver2.idsoftware.com (192.246.40.64)
+ [id] Xian's MP_BEACH Server
+
+ Check it if you are a regular on any of our servers. If it becomes
+popular, I'll start keeping stats for it.
+
+ Maxlives are in full effect.
+
+ -Xian
+
+
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, leaky roof, broken glass, mud slides,
+forest fire, and/or projectile (which can include, but not be limited to, 
+arrows, bullets, shot, BB's, paintball, shrapnel, lasers, napalm, torpedoes, 
+or emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.)
+</font>
+---
+</tt>

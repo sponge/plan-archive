@@ -1,0 +1,58 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+<font color="white">
+
+<b><u>Sept.16.2000 @ 1:20pm CST</u></b>
+
+ <u>Network outage update</u>
+
+ Router maintenance will be rescheduled for a future time (probably at
+some ungodly hour in the morning during the week). It was brought to my attention
+that a lot of Europeans play league games on Sundays.
+
+ Maintenance on our DNS server will go ahead as planned however. DNS will be down
+between 2pm and 4pm CST on Sunday, Sept. 17th. This <b>should not</b> affect your
+ability to access the Q3A master.
+
+ -Xian
+
+
+<b><u>Sept.15.2000 @ 1:30pm CST</u></b>
+
+ <u>Planned network outage</u>
+
+ I'm going to be doing some maintenance work on our internet servers and
+routers this <b>Sunday, September 17th between the hours of 2pm and 4:30pm CST</b>.
+ 
+ Our router should be down for no more than 30 minutes starting around 4:00pm
+CST. If you have difficulty accessing the Quake III master server, this is why.
+
+ DNS will be disrupted during this maintenance period.
+
+ -Xian
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, Y2K bug, mud slides, forest fire, or projectile 
+(which can include, but not be limited to, arrows, bullets, shot, BB's, 
+paintball, shrapnel, lasers, napalm, torpedoes, or emissions of X-rays, Alpha,
+Beta and Gamma rays, knives, stones, etc.). 
+</font>
+---
+</tt>

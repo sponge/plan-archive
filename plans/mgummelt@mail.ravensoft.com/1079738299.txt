@@ -1,0 +1,55 @@
+
+Name: Mike Gummelt
+Email: mgummelt@ravensoft.com
+Description: Programmer
+Project: ?
+-------------------------------------------------------------------------------
+NOTE: to Siege Destroyer Server Admins 
+
+Well, it's finally out and I've seen a good number of (full) servers running it already, so that's great!  I have just a couple bits of advice for servers running the map...
+
+First: never let sv_maxclients be above 16 (there's only 16 ships available, so the 17th guy's gonna be really annoyed...  )
+
+I've noticed some people running their servers on cable and DSL modems (some not even dedicated or are running a client and server on the same machine). Unless your server has good bandwidth (upload), you should probably set the sv_maxrate to whatever is appropriate for your server. Generally, a sv_maxrate of 6000 is the lowest you can set and still have it be fully playable. Here's a more detailed write-up:
+
+sv_maxrate is the maximum bandwidth the server will send to each client. You can set this low so that clients with low rates (on modems) get the same amount of data as high-speed clients (for fairness, I guess). Since vehicles and this map pretty much requires good bandwidth, and the maximum number of players is 16 (though 8 is probably best), I'm not sure it's much of an issue. The only real thing to beware of is clients who set their rate super-high to try to eat up all your bandwidth! So a high number is recommended. Basically, divide your bandwidth by the max number of players you allow in the map and that's a good sv_maxrate (use the formula below)
+
+A complete description of sv_maxrate:
+
+sv_maxRate - sets the maximum allowable rate a client may have set when connected to the server. The default is 0, which is no limit. A suggested setting is 8000 or 10000 so server bandwidth is not used up by high speed clients, thus allowing modem players to have a smoother game. 
+Usage: sv_maxRate <#####>
+
+The sv_maxrate setting in your server config file determines the maximum connection rate allowed for each client / player. Clients that have a rate higher than the sv_maxrate have their rate capped at the sv_maxrate.
+
+The higher your rate, the more data that is sent back and forth between the server and the clients. A higher sv_maxrate means a smoother game for clients who have fast internet connections, but the higher the sv_maxrate the higher the bandwidth consumption on ther server.
+
+Note that if a couple of clients were to set their rates to very high values eg 1000000, then they could take all the server bandwidth leaving other players with very little bandwidth, even if they have cable modems! Obviously not good! 
+
+"What should I set the sv_maxrate to?"
+
+Server admins should set their sv_maxrate to an appropriate value taking into the account the number of clients / players and the bandwidth / connection speed of the server.
+
+MATH 
+[Connection Speed] / ([Num Clients] x 8 ) = [sv_maxrate] 
+
+So, in the case of a server with a 256 kbps connection... 
+16 players... 
+256,000 / (16 x 8 ) = sv_maxrate = 2000 
+10 players... 
+256,000 / (10 x 8 ) = sv_maxrate = 3200 
+8 players... 
+256,000 / (8 x 8 ) = sv_maxrate = 4000 
+
+JKA will work with sv_maxrate as low as 3000, but it will not be enjoyable for the players. 
+
+And in the case of a 100mbps server (like servers hosted by Art of War) with... 
+20 players... 
+100,000,000 / (20 x 8 ) = sv_maxrate = 625000
+16 players... 
+100,000,000 / (16 x 8 ) = sv_maxrate = 781250
+10 players... 
+100,000,000 / (10 x 8 ) = sv_maxrate = 1250000
+
+These are ridiculously high, and I have capped the sv_maxrate on our server to 25000, the rate that most clients with cable modems will use.! 
+
+Note that the connection is not the only aspect to take into account when determining the number of players to allow on your server. Sometimes the specs of the server are the bottleneck, rather than the connection. A P3-550 server with 256Mb on Linux will hold 10-12 players before it gets choppy.

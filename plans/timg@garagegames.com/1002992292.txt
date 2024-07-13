@@ -1,0 +1,57 @@
+GarageGames plan resource for Tim Gift
+Posted Saturday October 13, 2001 at 16:03 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=1567
+
+This has been a busy week resolving last minute CVS server issues and making sure there are no major problems with our 1.1 release...  I've made this plan "public", so people outside of the GarageGames community will be able to see this.  I usually keep my plans local the GG site, but I thought I'd announce the fact that our CVS server is now running, and developers who have purchased the Torque SDK can now access the latest and greatest as it's checked in :)  (Not actually recommended, since the head revision can be unstable, but still cool :) )
+
+The CVS also contains are first developement checkpoint: Release 1.1, this is not our demo release, that's coming up, but it does include all our work on the demo, bug fixes, etc.  It's been almost three months since release 1.0, so there are quite a few changes.  With the CVS now running, distribution of future release should be a little different, considering everyone will have up-to-the-minute access to our development source :)
+
+Mark Frohnmayer's is now fully onboard and cranking out code, it's nice to him up to speed.  With the three of us (Mark, Rick and I) plugging away, the engine is getting whipped into shape in a hurry.
+
+My changelog since my last plan:
+
+- Fixed profile problem with the mission editor object creator dialog
+- Set playerlist to not activate the cursor
+- Fixed bug with player list not getting updated when a client exits
+- Release 1.1.0
+- Update VC6 ide to reference the nasm in cvs
+- Added nasm to the cvs
+- Fixed/added comments to some of the fps/server scripts
+- Fixed escape disconnect message to reflect local or server connection
+- Removed last bounce snap from rifle bullet casings
+- Moved health bar display from ShapeNameHud to the CrossHairHud
+- Checked in a new footprint
+- Fixed default client connection message to use the torque name
+- Updated VC6 install doco
+- Added new very basic cross-hair hud (I have plans for this one)
+- Renamed vc++ directory to vc6
+- Added new VC6 single unified workspace (torque/vc++/Torque SDK.dsw) for the SDK. Glu2d3d & opengl2d3d dlls now work correctly when built with the new projects.
+- First pass at updating the install and tool docs to use the Torque name.
+- Changed rifle smoke trail to match explosion
+- Removed references to player.h from shapeBase.cc and vehicle.cc
+- Moved all the game fx related objects into the new game/fx dir
+- Moved all the game net objects into a new game/net dir.
+- Moved vehicle code into game/vehicles
+- Fixed mission editor mode button (was broken recently)
+- Cleaned up and added some comments to fps/server/defaults.cs
+- Global rename "V12 Engine" -> "Torque Game Engine" in *.cc, *.h, *.cs, *.gui
+- Added two new very basic stand-alone hud controls: GuiHealthHud & GuiClockHud.
+- Renamed the ShapeNameHud to GuiShapeNameHud.
+- Temporarily removed HUD example dir (need to find a place for it).
+- Moved AIConnection & AIPlayer (which doesn't compile) into game
+- Changed createCanvas to take the window title as an argument
+- Renamed WorldCraft v12.fgd file to torque.fgd
+- Renamed V12 to Torque in the tools (map2dif, maxExporter, etc).
+- Remove v12.rc
+- v12Game.h and related class changed to demoGame
+- CVS repository renamed to torque
+- Added new ShapeNameHud which display name & damage level ubove shapes
+- Added particles to rifle explosion (still needs work)
+- Added get/set shapeName to ShapeBase.  The name is converted to a tag and is transmitted to the clients.
+- Cleaned up more ShapeBase and Player code.
+
+Rick has a first pass at the new sounds system in and running.  There still some work to be done on it, and we haven't put a lot of sounds into our test app yet, but it's nice to have it going.  I was getting tired of the silent treatment.
+
+We'll be spending the next few days making sure CVS is holding up, and there aren't any major issues with this 1.1 release. After that we'll be full steam on the demo code, more bug fixes, engine cleanup, and of course, new features.  Being able to distribute updates almost instantly with CVS should have a big effect on our development community, this is going to be fun :)
+

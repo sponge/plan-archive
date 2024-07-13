@@ -1,0 +1,21 @@
+User:   timplan
+Unread: 0
+Plan:
+It has been a long time since the last update.  The 3.0 engine is pretty
+much complete.  Working (occasionally) to make it conform more to the
+C++ standard (ie not MS MFC) between trips.  Since late October I have
+not	been home much more than two weeks combined. I confess I have not
+been working that hard on GS but then again, my part is pretty much
+done.
+
+The last couple of days I have been working on 2.19 and adding true
+Quake3 support.  The "problem" with names should be fixed. Q3Test will
+be deprecated in this version so all servers will be attached to it will
+be lost. So save your favorites before upgrading. It would have been
+done sooner if someone had given me the source code before he got
+married.
+
+I have been looking at ideas for 3.1.  This would be easier if 3.0 was
+out the door.  Version 3 is getting closer.  Jack finally sent us a GUI
+update and it looks sweet.  Still fairly broken but sweet. For my part I
+am getting the finishing touches in 3.0 also.

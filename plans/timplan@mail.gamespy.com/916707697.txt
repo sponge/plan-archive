@@ -1,0 +1,47 @@
+User:   timplan
+Unread: 2
+Plan:
+Been a busy weekend here.  Actually managed to get GameSpy 2.10 to load.
+Installed a CD/R/RW drive. Moved the printer off the old 133 and the Pilot
+stuff to the P2. The 133 is going to run Linux except when making CDs.
+Basically, it is going to be a server.
+
+Now for the real news.  A couple of weeks ago I announced the team was
+having success getting WinGate to run with GameSpy and other programs.  The
+Kirk (a nick) suggested I try WinRoute. So I downloaded both today.  The
+results:
+1) I have not installed WinGate yet.  Took forever to download.  They really
+need to upgrade their network.  Also requires to you to register for a trial
+key and that took a few hours to get.  I have everything but not until long
+after I had WinRoute running.
+2) WinRoute is MUCH smaller than WinGate. Setting it up required
+installation on the P2 (it has the faster modem). A reboot later and it was
+ready.
+
+Next I tried to set up the 133 under Linux.  Gave up after a while.  I knew
+what to do, just not where to do it.  Now I know and will do it later.  When
+in doubt, read the FAQ. Linux has great FAQs.
+Rebooted the 133 to Win95.  Set up the Gateway and DNS to point to the P2,
+rebooted, and while IE worked just fine, GameSpy would not.  I scratched my
+head a few times and then remembered GameSpy was setup to use a Proxy on
+that machine. Turned that off and GameSpy worked like a champ.
+
+Next up was the laptops.  Set up the Gateway and DNS again, reboot, and the
+Toshiba worked but the IBM did not. I had one little typo in the DNS entry.
+Picky, picky. Fixed that and it worked great.
+
+The verdict: WinRoute works great and required no changes to the clients
+except for Network settings (ie no additional software).   The team says
+WinGate also works.  There is another out there, I think its name is SyGate.
+If you need to use GameSpy and other software to access the net from a
+private network, check one of these out.
+
+Also if you get these, you may not need a proxy setup under gamespy or your
+browser depending on your ISP.
+
+
+Timothy 'CMonster' Cook
+http://www.gamespy.com
+http://www.mindspring.com/~cookti
+
+

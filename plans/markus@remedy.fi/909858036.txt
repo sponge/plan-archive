@@ -1,0 +1,68 @@
+Username: markus                    In real life: Markus Maki           
+
+
+Plan:
+------------------------------------------------------------------------
+31 October 1998
+
+Couple of comments on 3DMark 99.
+
+3DMark downloads exceeded 1 terabyte in just three days. Cool, eh?
+
+Our results web pages at www.3dmark.com will be online early next week.
+The system is nearly complete. We can already get data from SQL and 
+print graphs to the screen. Now we just need to fine tune it a bit
+and then we can start mass-producing different kinds of views of 
+the data we have.
+
+Why TNT doesn't seem to be able to do two texels / clock on single 
+texturing fill rate? We don't know for sure. Current best guess is
+that they can't do two (additive) alpha blends per clock but they
+could draw two solid texels per clock. Or something.
+
+The TNT seems to be quite driver dependant. Installed the .37 reference
+drivers and my results dropped quite much. 
+
+Oh yeah, those with a Banshee, yellow screen in 3D rendering is a 
+feature. We don't know the reason but it happens sometimes with 
+ALL 3D progs. Cool, eh?
+
+The top score we've received so far is 4187 (in 640x480). It's done with
+an SLI but how the heck much has that dude overclocked his Voodoo2's? My
+SLI setup gave only 3681 on our fastest (OC'd to 500MHz) system.
+
+Huge thanks go to the AGN3D guys for helping us with the downloads.
+For the occasion, I bought a  unlimited traffic virtual web
+server, but they e-mailed me after 8000 3DMark downloads that their 
+server can't take it anymore :)
+
+Well, 200 gigs for  - a good deal...
+
+------------------------------------------------------------------------
+25 October 1998
+
+3DMark release is tomorrow. That is tomorrow US time. Not Finnish
+time. Anyway, go to http://www.3dmark.com and download your own 
+copy.
+
+Phew. Everything seems to have clicked to it's proper place. But it's 
+been a heck of a crunch.
+
+Anyway, I hope you all like 3DMark and it's some value to you. I think
+at least the demo mode should blow some of you away. It has some creative
+uses for particles...
+
+(check finger.planetquake.com for old plan updates)
+--------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+

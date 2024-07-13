@@ -1,0 +1,18 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Jedi Knight2
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+Official Jedi Outcast Site Launched
+
+it's supposed to up, but it seems to be swamped:
+
+http://www.lucasarts.com/products/outcast/
+
+
+here's a hoot, Star Wars in ASCII via telnet:
+
+telnet towel.blinkenlights.nl 

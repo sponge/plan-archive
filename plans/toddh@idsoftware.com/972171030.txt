@@ -1,0 +1,54 @@
+
+Name: Todd Hollenshead
+Email: toddh@idsoftware.com
+Description: CEO
+Project: 
+-------------------------------------------------------------------------------
+10/21/2000
+
+http://abcnews.go.com/onair/2020/2020Friday_001020_violence_feature.html
+
+An excellent article  (thanks www.shugashack.com proving sCary *is* good
+for something).  I'm going to get the scientific review and read it myself.  
+As soon as I saw that silly "1,000 studies" claim I knew it would only be 
+a matter of time before someone debunked it.
+
+10/20/2000
+
+If you're a professional or amateur game development team, you should
+take a look at this.  It's a reference document for our technology
+licensing program and contains a ton of information.
+
+http://www.idsoftware.com/corporate/idtech/index.html
+
+1.25 info:  We won't be able to finalize the 1.25 release this week, but
+we'll try and see if we can get it wrapped up next week.  There are few
+remaining issues to fix and test.
+
+10/12/2000
+
+A new beta release is forthcoming.  We intend to release 1.25y within
+the next couple of hours.  There are a few things that should be
+mentioned in advance so that users can decide whether to download the
+release or not.  You should only download and install this release if 
+you are interested in providing feedback to id.  
+
+Please send all feedback and bug reports to bugs@idsoftware.com.
+
+The major change for this release is the physics code, which should
+make the game feel like 1.17.  We're looking for feedback from players
+specifically on this issue.  There are a number of other fixes, which
+are detailed in the readme.
+
+Mods based on 1.17 are not compatible with this release.  If you play 
+lots of mods, you may not want to download this release.  Mod authors 
+will need to update their mods once we upload the game code for the 
+final release before mods are playable with the new executable.
+
+Players should also be aware that we plan on releasing another update
+sometime next week once we've confirmed that the new physics changes
+are in place and working.  Therefore, players may prefer to wait until
+the final release before downloading.
+
+The release should start showing up on the usual mirrors and at
+http://www.quake3arena.com/news/index.html once it's out.

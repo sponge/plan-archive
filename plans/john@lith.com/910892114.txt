@@ -1,0 +1,15 @@
+
+*** Monolith Production's IonFingerD Server 1.0 beta
+
+User name: john
+Plan modified: Tue Nov 03 21:09:00 1998
+
+9/2/98
+
+Since I'm doing a fresh get on SourceSafe on 2 machines in my office and this takes about 37.5 hours (depending on the tides), I figured I'd pass the time by updating my .plan.
+
+So what's new.  ModelEdit.  Say it with me.  MODEL. EDIT.  You get to EDIT MODELS.  With MODEL EDIT.  Over and over.  The same ones.  Sometimes different ones.  Until you screw something up.  Then you get to do them again.  And again.  The joys.  I'm almost done.
+
+Besides exploring the joys of ModelEdit, I'm happy to say that Shogo's currently in beta, which is cool. New build goes to QA tomorrow ...we're getting closer...
+
+

@@ -1,0 +1,5 @@
+Login: justin         			Name: Justin
+"|IFS=' ' && exec /usr/local/bin/procmail -f- || exit 75 #user"
+Plan:
+why does the world hate me?
+just kidding.

@@ -1,0 +1,43 @@
+
+Name: John Scott
+Email: jscott@mail.ravensoft.com
+Description: Programmer
+Project: SoF
+-------------------------------------------------------------------------------
+Nick: Pagan
+Project: ?
+
+Disclaimer - The opinions expressed herein are personal and
+in no way represent that of Raven Software or Activision.
+
+28/8
+
+More CD key fun. It seems there was an anomaly when printing
+out the CD keys (read: someone screwed up and is going to get
+shouted at), and '0's were not printed.
+
+The format of the key is XXXX-XXXX-XXXX-XXXX-HH where HH is
+a hex number and the only place where '0's can occur.
+So, if you seem to be missing a digit at the end, put a '0'
+in its place.
+
+This will be fixed in future duplication runs.
+
+Apologies for the inconvenience.
+
+24/9
+
+Just a reminder, do NOT send your CD Key to anyone. No one 
+at Raven or Activision will EVER ask for it. Any request for
+your CD Key is a ploy to steal it from you.
+
+Treat the key as you would your car keys.
+
+26/8/99
+
+As there is a Duke SETI team, why not a Raven team ? Sign up
+if you wish!
+
+http://setiathome.ssl.berkeley.edu/stats/team/team_6644.html
+
+ 

@@ -1,0 +1,522 @@
+
+Name: Kenn Hoekstra
+Email: khoekstra@ravensoft.com
+Description: Project Admin
+Project: General
+Web Page: <a href="http://www2.ravensoft.com/users/khoekstra">Kenn's Web Site</a>
+-------------------------------------------------------------------------------
+The following positions have recently opened at Raven Software:
+
+Console Tech Programmer:
+Raven Software is seeking a talented programmer to 
+play an important role in a triple-A console title 
+currently in development.  We are looking for an 
+experienced technology guru who can integrate with a 
+capable development team and make a great game even 
+better.  Responsibilities include working with technology 
+designed to work cross-platform for the Playstation 2, 
+Gamecube and Xbox.
+
+The ideal candidate would have:
+--Minimum of five years of programming experience in 
+  game development or real-time graphics applications, 
+  with at least two shipped products.
+--Full mastery of C++ and working with as well as creating 
+  object-oriented systems.
+--Excellent oral and written communications skills.
+--Proven technical expertise with at least one console 
+  platform such as Playstation 2, Xbox or Gamecube.
+
+Additional strong assets:
+--Bachelor’s Degree or better in Computer Science, 
+  Engineering, or Mathematics.
+--Experience and comfort with low-level assembly and 
+  hardware API’s.
+--Skills with cutting-edge graphics work such as advanced 
+  rendering techniques, animation, or optimization.
+--Previous experience with developing a cross-platform 
+  product.
+--Experience with game-oriented graphics technology such 
+  as Renderware, Intrinsic Alchemy, or NetImmerse.
+
+Character and Combat Programmer:
+Raven Software is seeking an inspired programmer to help 
+refine a triple-A console title currently in development.  
+We are looking for a game coder with a keen eye who can 
+take a game character and hone the look and feel of movement 
+and hand-to-hand combat to perfection.  Responsibilities 
+include working with and fleshing out an established game 
+design and working directly with an animator in creating the 
+proper moves.
+
+The ideal candidate would have:
+--Minimum of four years of programming experience in game 
+  development, with at least two shipped products.
+--Full mastery of C++ and working with object-oriented 
+  systems.
+--Excellent oral and written communications skills.
+--Experience with implementation of character animation 
+  and control in a previous game product.
+
+Additional strong assets:
+--Proven experience with at least one console platform 
+  such as Playstation 2, Xbox or Gamecube.
+--Previous experience with developing a cross-platform 
+  product.
+--Strong passion for console games, including fighting 
+  games and action RPG’s.
+--Knowledge of and/or passion for martial arts or 
+  cinematic-style fighting.
+
+Game Programmer:
+Raven Software is seeking an enthusiastic programmer to 
+assist in the completion of a triple-A console title currently 
+in development.  We are looking for a self-driven game coder 
+who can integrate with a strong, experienced programming team 
+and help make a game the best it can be.  Responsibilities 
+include taking on specific game systems and seeing them to 
+completion without constant supervision.
+
+The ideal candidate would have:
+--Minimum of two years of programming experience in game 
+  development or in another professional environment.
+--Strong grasp of C++ and object-oriented systems.
+--Excellent oral and written communications skills.
+--At least one shipped game product or completed independent 
+  game project, such as a demo or mod.
+
+Additional strong assets:
+--Previous experience with developing a cross-platform 
+  product.
+--Strong interest in console games, including fighting 
+  games and action RPG’s.
+--Experience with character motion or game character AI.
+--Strong knowledge of mathematics and physics.
+--Demonstrable drive to work on a major game product.
+
+These positions are available to be filled as soon as the 
+proper candidate is selected.  They are full-time positions 
+that require relocation to Raven Software offices located 
+in Madison, Wisconsin. 
+
+Please send materials to <a href="mailto:programming@ravensoft.com?subject=Raven Programming Openings">programming@ravensoft.com</a> or via snail mail to:
+
+Raven Software
+Attn: Michael Crowns
+Three Point Place, Suite 1
+Madison, WI  53719
+
+Rock and roll!
+
+**********************************************************
+
+November 15th, 2002 - Thanks to everyone for their 
+assistance in my recent Heretic II quest.  I appreciate
+all of the help.
+
+Your reading assignment for the weekend...  Go to Kevin
+Spacey's film project website at <a href="http://www.triggerstreet.com">http://www.triggerstreet.com</a>,
+register, and read my first screenplay, entitled "Cold Front."
+You'll find it in the Horror section, or by searching the
+screenplay section of the site for...Cold Front.  ;-)
+
+I hope you enjoy it...  Comments?  Feedback?  <a href="mailto:khoekstra@ravensoft.com?subject=Cold Front Comments">Send it</a>.
+
+Have a great weekend!
+
+
+*******************************************************
+
+October 29th, 2002 - An unusual request here, but does 
+anyone out there by some act of God have the .zip file of
+Heretic II screenshots I released on or about January of
+1999?
+
+Yeah, yeah, yeah...crazy, right?  As I recall, I put out a
+bunch of shots right around the time the EP released and
+called Heretic II the "bloodiest game ever."  Those five
+or six shots illustrated my point, if you know what I
+mean?  ;-)
+
+Well, if anyone out there happens to have those or know
+where I can find them, let me know.  Thanks!
+
+**********************************************************
+
+October 23rd, 2002 - If you're wondering why Ravensoft.com
+is down, it's because of another DNS change that is in the
+process of propogating.  Once everything's back in place,
+there shouldn't be any more surprises for quite a while.
+
+I'd guess it should be widely available again by this
+weekend sometime.
+
+Thanks for your patience...
+
+*********************************************************
+
+October 18th, 2002 - Just a heads up to all of the Elite
+Force players out there.  We're migrating the Elite Force
+Master Server to Activision and we'll be submitting the
+DNS changes on Monday.  Over the course of the next week,
+we'll be running the two master servers concurrently and
+if everything propogates correctly, we'll shut down the
+existing server and leave the new one up permanently.
+
+If you experience any troubles playing Elite Force over
+the next week (starting Monday), please e-mail us at
+<a href="mailto:trekdns@ravensoft.com?subject=Elite Force DNS Problems">TrekDNS@ravensoft.com</a> and report the error.  Thanks in
+advance for your patience and assistance.
+
+Speaking of Elite Force, Activision recently announced
+the Star Trek Action Pack, which includes Elite Force, the
+Expansion Pack and Star Trek Armada I and II for the very
+reasonable price of $29.99.  'Twould make a great holiday
+gift, methinks.  You can grab it <a href="http://www.ebgames.com/ebx/categories/products/product.asp?pf_id=229099">here</a>.
+
+Oh yeah...and thanks for all the help with finding that
+Simpsons .wav file.  The search is over.  Have a great
+weekend!
+
+***********************************************************
+
+October 9th, 2002 - Totally non-work related...  
+
+Does anyone out there have a .wav file of Homer Simpson 
+saying "Urge to kill...rising" from the Treehouse of Horror V 
+episode from Season Six?  The line is from the skit that was a 
+takeoff of the Shining...
+
+I've been looking for it for some time now with no success.  I 
+found one from later in the episode, "Urge to kill fading...
+fading...RISING...fading...gone" but not the original one.
+
+Any help would be appreciated.  E-mail me at: <a href="mailto:khoekstra@ravensoft.com?subject=Urge To Kill...Rising">khoekstra@ravensoft.com</a> 
+
+Thanks!  Carry on...
+
+
+****************************************************************
+
+
+October 1st, 2002 - Raven has just released (yesterday) the .map
+source files for the multiplayer maps in the ORIGINAL Soldier of
+Fortune (including Gold and Platinum editions).  
+
+You can download them (5.40MB) at:
+
+- <a href="http://www.3dgamers.com/dl/games/soldierfortune/Thirdparty/sofmapfiles.zip.html">3D Gamers</a> 
+- <a href="http://www.worthplaying.com/article.php?sid=6100">Worthplaying</a>  
+- <a href="http://www.fileshack.com/file.x?fid=1232">Fileshack</a> (Registration Required)  
+- <a href="http://www.sof2files.com/file.info?ID=5969">SoFFiles</a> 
+- <a href="http://www.fileplanet.com/files/110000/113511.shtml">Fileplanet</a>
+
+On a personal note, today is my birthday...my last year as a
+twenty-something.  When I started at Raven I was 23, going on
+12.  Now I'm 29, going on maybe 16.  Heh...
+
+Have a good one!
+
+********************************************************************
+
+September 26th, 2002 - The <a href="http://sof2.ravensoft.com/faq.htm">Soldier of Fortune II FAQ</a> has been updated
+with a new section that addresses issues with the 1.02 patch.  
+
+Check out the new <a href="http://sof2.ravensoft.com/faq.htm#patches">1.02 patch section here</a>.
+
+
+
+********************************************************************
+
+September 24th, 2002 - The 1.02 Patch for Soldier of Fortune II
+has been released!  You can grab it at:
+
+- <a href="http://www.activision.com/downloads/406.asp">Activision</a>
+- <a href="http://www.3dgamers.com/games/soldierfortune2/">3D Gamers</a>
+- <a href="http://www.sof2files.com/file.info?ID=5757">SOF2Files</a>
+- <a href="http://www.fileshack.com/file.x?fid=1156">FileShack</a> (Registration Required)
+- <a href="http://www.3ddownloads.com/?file_id=161376">3DDownloads</a>
+- <a href="http://www.worthplaying.com/article.php?sid=5970">Worthplaying</a>
+- <a href="http://www.fileplanet.com/files/110000/113289.shtml">Fileplanet</a>
+
+The 1.02 Patch is approximately 20MB in size and features new
+maps, new weapons, a host of fixes and PunkBuster support, among
+other things.  The 1.02 patch requires you to have the 1.01 Patch 
+installed for it to work.  You can grab 1.01 at:
+
+- <a href="http://www.activision.com/downloads/402.asp">Activision</a>
+- <a href="http://www.3dgamers.com/dl/games/soldierfortune2/sof2-101patch.exe.html">3D Gamers</a>
+
+The 1.02 Linux Dedicated Server Utils have also been released at:
+
+- <a href="http://www.3ddownloads.com/?file_id=161415">3DDownloads</a>
+- <a href="http://www.fileshack.com/file.x?fid=262">FileShack</a> (Registration Required)
+
+Enjoy!  
+
+On a personal note, I'm heading back to school for the first time
+in almost 8 years.  I've decided to get my MSM (Master of Science
+in Management) from Cardinal Stritch University.  I'll be going to
+class every Tuesday night from 6 - 10pm and I'll finish the program
+in about 16 months.  I've been wanting to go back to school for 
+some time now.  I'm glad I finally found the courage (and the time)
+to do it.  Should be fun...
+
+Take care, all!
+
+
+************************************************************
+
+September 12th, 2002 - Rumors of my death have been greatly
+exaggerated...  I'm still alive and well.
+
+I'm excited to see that <a href="http://www.macplay.com">MacPlay</a> has brought over <a href="http://www.macplay.com/games/hexen2.shtml">Hexen II</a>
+and <a href="http://www.macplay.com/games/heretic2.shtml">Heretic II</a> to the MacOS.  Best of all, they're selling
+at the very palatable price of just $19.99 each!  Thought
+I'd pass that along...
+
+Oh, and did I neglect to mention that MacPlay also
+has <a href="http://www.macplay.com/games/sof2.shtml">Soldier of Fortune II</a> available?  
+
+Let's see...  What else has been going on?  Raven 
+continues to grow.  We're up to 65 people now with 8
+more on the way.  I think we're going to start having
+the new guys wear nametags or something.  
+
+I finished the screenplay I was working on and I've 
+started another.  If all goes well, my friends and I will
+start shooting it in the next few weeks.  That should be
+an interesting learning experience.
+
+That's about it...  Have a great weekend everybody!
+
+
+******************************************
+
+Support for the full version of Soldier of
+Fortune II is being handled by Activision.
+You can visit their <a href="https://activision.custhelp.com/cgi-bin/activision.cfg/php/enduser/home.php">support page here</a>.
+
+To help out, we've put up a resource page
+at <a href="http://sof2.ravensoft.com">http://sof2.ravensoft.com</a> that includes
+<a href="http://204.97.248.99/ib/ikonboard.pl">brand new forums</a> and a <a href="http://sof2.ravensoft.com/faq.htm">Top Solutions FAQ</a>.
+
+
+********************************************
+
+Tuesday, May 7th, 2002 - The 1.03 patch for
+Jedi Outcast has been posted over at 
+LucasArts' website.  You can grab the 
+patch here:
+
+- <a href="http://support.lucasarts.com/patches/jedioutcast.htm">Jedi Outcast 1.03 Patch</a>
+
+If you're having problems installing the
+patch and you get the error "Directory is
+Invalid! Target files could not be created"
+
+I have a few suggestions for you:
+
+1. If you're using a pirated copy of the game,
+don't.  :)  That's one cause of the error.
+
+2. IF any of the patched files are marked READ ONLY 
+this message will appear.  Since some people have 
+uninstalled, my guess would be that people have their 
+own assets2.pk3 that doesn’t get uninstalled and it 
+is marked READ ONLY.
+
+3. IF the launcher or JK2 is running, then this will 
+happen.  Re-booting may help
+
+If all else fails, you can uninstall the game,
+re-install it to a custom directory like
+c:jk2 and it will re-write the registry
+entries and the patch will install fine.
+
+Updated Linux and Win32 Dedicated servers
+are also available.  You can get them (or
+will be able to, soon) at:
+
+- <a href="http://www.3dgamers.com/games/jedioutcast/">3D Gamers</a>
+- <a href="http://www.3ddownloads.com/?directory=/ravensoft/JediOutcast/">3DDownloads</a>
+- <a href="http://www.shacknews.com/onearticle.x/20310">ShackNews</a>
+- <a href="http://www.jk2files.com">JK2Files.com</a>
+- <a href="http://www.massassi.net">The Massassi Temple</a>
+- <a href="http://www.jedicenter.com">Jedi Center</a>
+- <a href="http://www.jedi-outcast.com">Jedi-Outcast.com</a>
+
+A list of what's fixed in the 1.03 patch
+can be <a href="http://support.lucasarts.com/patches/jedioutcast.htm">found here</a>.  
+
+The <a href="http://www2.ravensoft.com/jedioutcast/">Jedi Outcast Resource Page</a> will be
+updated soon with new links, awards and new 
+FAQ entries.
+
+*******************************************************
+
+Monday, April 22nd, 2002 - The tools and level editor
+for Jedi Outcast have been released to the public.  The
+4MB download includes:
+
+JK2Radiant - The map editor.
+MD3View - Model viewer for .md3 format models
+ModView - Model viewer for .glm (Ghoul2) format model
+ShaderEd2 - The shader editor/viewer
+sof2map - The map compiler, you will not be using this directly, JK2Radiant uses this.
+
+You can download it from:
+
+- <a href="http://www.fileplanet.com/index.asp?file=87277">FilePlanet</a>
+- <a href="http://www.shacknews.com/files/fileshack2.x?JK2EditingTools.zip">ShackNews</a>
+- <a href="http://www.3ddownloads.com/?file_id=159544">3DDownloads</a>
+- <a href="http://www.jediknightii.net">JediKnightii.net</a>
+
+I expect mirrors will appear shortly at:
+
+- <a href="http://www.bluesnews.com">Blue's News</a>
+- <a href="http://www.jk2files.com">JK2Files.com</a>
+- <a href="http://www.massassi.net">The Massassi Temple</a>
+- <a href="http://www.jedicenter.com">Jedi Center</a>
+- <a href="http://www.jedi-outcast.com">Jedi-Outcast.com</a>
+
+Feel free to download and mirror these files as you see
+fit.  Remember of course that these are released "as is"
+and are unsupported by Raven/Activision/LucasArts.
+
+Another Jedi Outcast fix for you:
+
+If you're getting the CL_ParsePacketEntities error in JK2
+multiplayer, it's likely because you are using the cracked
+executable.  That's the only instance we've seen the error.
+Shame on you.  ;)
+
+
+******************************************************
+
+Friday, April 19th, 2002 - The Soldier of Fortune II 
+multiplayer test is out there!  You can grab it from
+the list of mirrors at:
+- <a href="http://www.bluesnews.com/files/sof2/demos/sof2_test.shtml">http://www.bluesnews.com/files/sof2/demos/sof2_test.shtml</a>
+
+If you want to give feedback or need tech support, 
+go to:
+
+- Email: <a href="mailto:sof2mptest@ravensoft.com">sof2mptest@ravensoft.com</a>
+- Form:  <a href="http://sof2.ravensoft.com/testfeedback/form.htm">http://sof2.ravensoft.com/testfeedback/form.htm</a>
+- Forum: <a href="http://www2.ravensoft.com/cgi-bin/yabb/yabb.pl">http://www2.ravensoft.com/cgi-bin/yabb/yabb.pl</a>
+
+So far it looks like the response is overwhelmingly positive!
+I'm glad everyone is enjoying it.  Our GameSpy chat yesterday
+drew a record number of chatters...more than doubling the
+previous record!  Thanks, all for showing up to rap with us!
+You can find a <a href="http://www.planetsoldier.com/features/interviews/ravenchatapril2002.shtml">transcript of the chat here</a>.  You can also 
+find an <a href="http://www.gamespydaily.com/news/fullstory.asp?id=3298">interview</a> that Rick and I did for GameSpy Daily and 
+read the 3DActionPlanet <a href="http://www.3dactionplanet.com/features/firstlooks/sof2mptest/">MP impressions here</a>.
+
+A few notes:
+
+1. For those who think the speed of the game is slower than
+the original SOF, you can change the speed of the players on
+the server using the g_speed console command.  You can change
+it to whatever you like (for all you speed freaks out there).
+
+2. Those wondering about the gore, keep in mind that there is
+less gore in the MP version of the game because of networking
+concerns.  SOF2 multiplayer will support 64 players.
+
+3. If you're getting an "invalid game version" error message
+when attempting to connect to servers, it's because you're
+using the leaked version.  Shame on you.  ;)  Get the new one!
+
+4. For dedicated servers, +set dedicated 1 is a dedicated LAN.
++set dedicated 2 is a dedicated internet public server.
+
+Happy fragging!
+
+**************************************************************
+
+
+Sunday, February 3rd, 2002 - Today is my Five Year Anniversary
+with Raven Software.  Five years ago today I started work with
+a PPRO 200 with 128 MB of RAM and a 2GB hard drive with a copy
+of Windows 95 and 3D Studio Max 1.2.  I'd never seen the real
+Internet before, only muds and a vax at UW-Whitewater. 
+
+A month or so after I started, Jon Zuk and I got Monster 3D 
+Voodoo1 cards from Best Buy and proceeded to put colored lighting 
+into a Raven title for the first time.  God, has it been that 
+long?  I can hardly believe it...
+
+At that time, we were working on Take No Prisoners, MageSlayer
+and Hexen II for Red Orb, GT Interactive and Activision.  Raven 
+consisted of about 25 people, all of which actually fit around 
+the table and in the chairs of our main conference room.
+
+In the five years since I started, I've watched the building
+expand twice and the team expand to 60 people.  We released
+those three games we were working on, were bought by Activision
+and we went on to produce Portal of Praevus, Heretic II, Soldier 
+of Fortune (+Gold and Platinum), Elite Force, Elite Force Expansion 
+Pack and we're closing in on the completion of Jedi Outcast and 
+Soldier 2 with two more titles waiting in the wings.  
+
+My machine today has upgraded by 10 times the MHZ, 3 processors, 4 
+times the RAM, 40 times the hard drive space, 16 times the video 
+memory, four versions of MAX and five or six OS's.
+
+I had just watched the Packers beat the Patriots in Superbowl XXXI
+and now, five years later, I'm about to go home and watch another
+Superbowl (featuring the Patriots, no less).
+
+It's been a good five years.  Here's looking at five more...
+
+*************************************************************
+
+Friday, December 22nd, 2000 - I posted an article that I
+wrote a while back on our www2 server that may be of interest 
+entitled: <a href="http://www2.ravensoft.com/getajob.htm">How To Get A Job In The Game Development Industry</a>.
+
+If you're bored, you may want to give it a read.  If you 
+know of any websites or insights that are missing, feel
+free to <a href="mailto:khoekstra@ravensoft.com?subject=Get A Job Article Addition/Comment">drop me a line and let me know</a>.  
+
+***********************************************************************************
+
+Wednesday, May 26th, 1999 - A new day has dawned in Kenn's World...  Last night, I
+asked Michele, the love of my life, to marry me.  And she said YES!  Thank you, Michele...
+You've made me the happiest man in the world!  I look forward to spending the rest of
+my life with you...  You are the most wonderful person I have ever known...
+
+Thanks to Rob "Beroge" Gee for ring shopping with me and special thanks to 
+Kim "Lee Majors" Lathrop for giving me the final "get in there, son...we need
+a base runner" speech.  =)  Oh...and thanks to 94.1 WJJO for playing "Rainbow In The Dark"
+during my drive to "the big moment."  I couldn't have done it without all of your help...
+
+Hey Matt!  You're next, buddy...  In the immortal words of "Nature Boy" Ric Flair....WHOOOOOOOOO!
+
+******************************************************************************************
+
+IN LOVING MEMORY - Kenneth Lee Hoekstra (August 26th, 1937 - April 23rd, 1998)
+
+Sunset and evening star.
+And one clear call for me!
+And may there be no moaning of the bar,
+When I put out to sea.
+
+But such a tide as moving seems asleep
+Too full for sound and foam.
+When that which drew from out the boundless deep
+Turns again home.
+
+Twilight and evening bell,
+And after that the dark!
+And may there be no sadness of farewell,
+When I embark;
+
+For though from out our bourne  of Time and Place
+The flood may bear me far
+I hope to see my Pilot face to face
+When I have crossed the bar.				...Alfred Tennyson
+
+********************************************************************************************************

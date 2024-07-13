@@ -1,0 +1,21 @@
+Login: ddt            			Name: ddt
+Plan:
+Mon October 26, 1998
+
+--------------------
+
+  If you miss a TV show aired on a broadcast network, is there a service
+    out there you can order from to get a tape of the show?  Seems like half
+    the time I program our VCR, I suffer from some kind of brain fart which
+    results in recording at the wrong time or getting the wrong channel.
+    Thanks.
+
+  Thanks for the replies on the 24-bit color question.  It seems most
+    cards support a 32-bit padded byte mode, which is a very good thing,
+    though it appears the S3 Virge line doesn't.
+
+  Anyone know whether 24-bit color framebuffers typically have a padding
+    byte on each pixel?  I'm talking 2D video cards or 2D/3D video cards,
+    but not dedicated 3D accelerators.  I'm looking for confident answers
+    and/or hard numbers.  Thanks!
+

@@ -1,0 +1,37 @@
+User:   timplan
+Unread: 0
+Plan:
+GameSpy - not much done on it this week.  I was taking a class Creating and
+Managing Web Servers using IIS 4 class at night.  By Friday, my butt was
+dragging.  Lessons learned:
+1) Site Server Express is pretty cool.
+2) The indexer does not work when you only have 2M free on the disk.  It
+complains about not having enough disk space.  Go figure...
+Next week is the InterDev class.
+
+Got my linux machine running ip masq.
+
+If you are planning on heading toward central florida or points south via
+I-75, change your plans for the next few weeks.  A truck hit an overpass and
+took out 3 out of 4 lanes somewhere near Gainesville.  Needless to say, it is a mess.
+Go I-95 or travel with fresh engine coolant.
+
+In the you-just-gotta-love-microsoft department.  Thursday IE5 was announced
+and I went to try and download it from Microsoft. Clicked the download link
+from the page extolling all the IE5 virtues and it says "You are running IE
+4.01 which is the latest version."  I could download the small version off
+Tucows but I could not get it from Microsoft.  Turns out to be a good thing
+because there are reports that IE5 does not play well with Visual Studio and
+MS will address those issues on a service pack this spring.  I guess that
+laptop with the screwed up IE4 installation is going to get reinstalled.
+
+Another one.  The Visual Studio which supports Win2K will not be out until
+about six months after Win2k is released.  Good plan folks.  Question, with
+what tool are you building it?
+
+
+
+
+
+
+        

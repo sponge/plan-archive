@@ -1,0 +1,26 @@
+
+Name: Kevin Cloud
+Email: 
+Description: Artist
+Project: 
+-------------------------------------------------------------------------------
+4-16
+
+I've been following the controversy over the recommended Wolf MP Punk Buster cvar restrictions. Although I support people playing the game as they choose I believe that altering cvar settings to create an advantage forces other players to do the same or compete at a disadvantage. Eventually, players who would not normally choose to adjust their graphics to low or odd settings are forced to do so to remain competitive. To keep this from happening a set of common standards should be applied equally. The only standards id can recommend are those which keep the game closest to how it was originally designed. These recommendations are not fixed. Server admins are free to change these ranges or run with no restrictions at all. However, these are the standards that best represent the game as it was intended to be played. 
+
+cg_bobup in 0 0.005
+cg_bobpitch in 0 0.002
+cg_bobroll in 0 0.002
+cg_fov in 90 140
+cl_maxpackets in 15 100
+cl_timenudge in -50 0
+r_gamma in 0 2
+r_intensity in 0 1.5
+r_mapoverbrightbits in 0 2
+r_overbrightbits in 0 2
+r_picmip in 0 2
+rate in 2500 25000
+snaps in 20 40
+
+
+

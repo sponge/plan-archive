@@ -1,0 +1,42 @@
+User:   timplan
+Unread: 0
+Plan:
+4/15/99
+A lot has been going on this week.  Last week was a bit slow because I pulled a muscle in my lower back by doing something really dumb like not lifting a piece of luggage with my legs.  It only took a couple of days to heal.
+
+GameSpy - by itself not much done.  See below Java though.
+
+GameSpy Java - started debugging the engine.  Got an inspiration this week and wrote a lot of code tying the pieces together.  The engine grabbed the map data file but failed to parse it correctly.  Something about the passing by reference not really being a reference.  Grr. I have learned a lot about Java this week.  
+I also prototyped an idea for GameSpy using Java.  Will be writing that code in C++ this weekend.
+I changed my mind on one of the design items for java.  It now looks like C++.  In fact, the entire engine is pretty much the same design now.
+
+I have played with Visual J++ and JBuilder.  Microsoft really needs to supply a standard Java.  The GameSpy engine itself is now based entirely on standard java. I had some JBuilder supplied stuff for managing lists but pulled that out so the engine can compile on any Java compiler.  The UI is Swing based.  MS does not supply Swing with J++ and it does not look like they are going to.  In fact, J++ may be abandoned entirely.  After having used both, I like JBuilder's adherence to standard but I really like J++'s IDE.  JBuilder is a bit pokey even on a P2-333. And when they say you need 48M, they mean it.  My 40M laptop crashed regularly trying to run JBuilder.
+
+Linux - learned some interesting stuff here too.  Was trying to play a CD but I did not have permission's on /dev/cdrom.  Checked it, permissions are ok.  Login in as root.  Plays fine so it is definately a permissions problem.  Poked around a bit then it occured to me to check the device which was /dev/hdd.  Don't have permission there.  Quick change and walla, tunes!  Nothing quite like a $2,000 CD player which is now worth about $500.  And CPU utilization is non-existant.  Lesson learned - remember to check the entire link chain because a permission on the link will not grant you any greater permissions than exists on the actual file and/or device (the lesson was how unix handles devices and in following all the links).  Working on getting the CD-RW drive working and the parallel port zip drive working.
+
+Also tried to install linux on a laptop at work (an old IBM 755CD). Did a hard disk install but it would not reboot.  This is not a linux problem though because the laptop did the exact same thing to me yesterday and linux had not even touched it yet.  The machine will finally reboot if you let it sit for a while with the power off.  Don't know why it is doing this but I think it may be the battery.  When the boot fails, I see no signs the BIOS checks are even occuring.  Also, in windows the battery life says something ridiculous like have 8 hours of life. NiMH batteries don't last that long in laptops.
+
+Laptops - last time I asked for an opinion on the Dell and Quantex 15" laptops.  Still have not bought one but I decided against the Quantex for two reasons:
+1) Warranty.  Dell has 3 years, Quantex 1 year.
+2) Customizability. Dell has more options.
+The laptops appear to be made by the same company.
+I may settle for a 14.1" and get more RAM (and less weight).  Have not decided this yet.  The Sony 14.1" 366 (forget the model) looks pretty cool but has only a 90 day warranty.  Personly if I am spending that much on a laptop, I expect it to last me last a while and the company to stand behind it.  The Sony was one of the factors getting me to consider about the smaller screen though. 14.1" is pretty big.  I may also get the 333 but I am undecided on this also.  Don't want to be penny wise and processor foolish.
+
+Finally, I been have fun playing StarCraft with TGS member Jay, his son, and some of their friends (Chris and Adam) on Wednesdays.  Chris and I won last night but it was a nasty fight.  A word of advice, if you are serious about gaming then you need a provider which will not interrupt you with ads or time you out after an hour.  Major hint here, AOL is NOT one of them!  There are also AOL ads saying they are the Internet.  Totally not true.
+
+
+
+
+
+
+
+        
+
+
+        
+
+
+        
+
+
+        

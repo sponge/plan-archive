@@ -1,0 +1,34 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------
+User Name: dave.moore     Plan Last Modified: 03/12/1999 11:57:17 PST
+
+Real Name: Dave Moore
+Nickname:  SymLink
+Job: Technology Programmer, Lord High Miscellany
+Project: Starsiege Tribes
+
+  I promised an update on the new cards we're working on,
+I've been a bit lax.  Just wanted to quickly note that I've
+been working on making sure the Rage 128 works with TRIBES.
+To cut things short, it does.  For TRIBES, with the drivers
+I've been using, I've been very impressed.  There don't
+seem to be any more pauses or "hitching" than on my Voodoo2.
+That's unfortunately a qualitative impression right now, but
+we're thinking about adding some sort of demo timing feature
+to TRIBES so we can begin to post some more solid numbers.
+The dithering artifacts in 16-bit mode are a bit more
+noticable than on the TNT, but nothing to sweat over.
+
+  TRIBES as it sits now (@1.3), may work with the public
+version of the 128 drivers if you set the game up for the
+i740, though you'll notice the same black lines on the
+terrain as with the G200. This will be corrected in the next
+release of their OpenGL ICD, when the texture_edge_clamp
+extension is merged into the released drivers.  Apparently
+there exists a problem with polys close to the viewplane in
+the Win9X version of the driver (doesn't happen on NT, which
+I've been using), but if you can live with this, give it a
+shot!

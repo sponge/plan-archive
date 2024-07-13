@@ -1,0 +1,57 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-------------------------------------------------------------------
+User Name: tim.gift     Plan Last Modified: 01/24/2000 15:19:33 PST
+
+Real Name: Tim Gift
+Nickname: Slacker
+Job: Programmer/Designer
+Project: Starsiege TRIBES
+
+1.24.00
+
+Let's see. Recent activity...
+
+- Finished all the client side player prediction.
+
+- Added support for setting player animations from
+script functions on the server. This is used to play
+death animations, celebrations etc.
+
+- Added in all the damage state and auto-repair code
+for all gamebase objects. You can now damage any
+gamebase objects including players and static shapes.
+It's also tied in with ClarkF's decal animation so you
+see the damage on the object (similar to TRIBES 1).
+
+- The player can now be killed (and repaired, etc.)
+
+- Added the Linear Projectile class (server and client
+prediction code). So now you can run around and shoot
+other players :)
+
+- Added all the basic inventory scripting. Can pick up,
+use and throw items, weapons, etc. There's more work to
+do here, but now that the structure is in place,
+someone else will probably flush it out.
+
+Current activities...
+
+Started on the wheeled vehicles last week.  I've been
+re-arranging and updating the rigid body code I wrote
+earlier, getting it all into the networking and
+rendering framework.
+
+Also been working on the networking article Mark
+Frohnmayer and I are presenting at CGDC.  Should wrap
+that up this week.
+
+
+Tim
+
+
+
+
+

@@ -1,0 +1,34 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+
+The Quake 3 Master Server
+
+Everything seems to have been smooth for the past 24 hours.
+
+We've replaced the master server hardware, changed the software to be
+(hopefully) more attack proof, and separated out the processes so that
+if one is attacked heavily the others will be okay.  We've weathered
+attacks before, but each one is always an education.
+
+I got a bunch of emails on people with routers not being able to connect.
+When the authorize server is down the game server automatically authorizes
+all clients, this is why people attack the authorize server to bring it down.
+The only way you can get a denied to connect from the game server is when
+the authorize server sends that packet to the game server, when there is
+no authorize server, the game server errs on the side of caution and lets
+everyone play.
+
+The solution of setting your hosts file to 127.0.0.1 for the various id masters
+will cause a few things.  You will no longer be able to get the in-game browser
+to work, and worst of all you will not be able to play on game servers that you
+connect to because the game server will get a deny packet from the authorize
+server (because you sent your cdkey to 127.0.0.1).
+
+Thanks to everyone who helped me test these past 48 hours.
+
+Graeme.
+

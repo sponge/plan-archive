@@ -1,0 +1,35 @@
+Login: justin         			Name: Justin
+"|IFS=' '&&exec /usr/local/bin/procmail -f-||exit 75 #deadbeef"
+Plan:
+4/17/03
+Yay winamp 2.91 will be out today or tomorrow.
+Next week francis and I will be integrating winamp3 skin support via
+a general purpose plug-in. Francis already has it limping, but we'll
+get it solid and give people who want it alphas to play with. Leet.
+
+Christophe has been making the NSV live capture tools solid and able
+to keep sync. Yay. We should be putting up a new nsv encoder tool package
+this week. It'll include all of our tools, including:
+  * nsvenc:   command line NSV encoder for converting from MPEG/AVI/MOV/etc as
+              well as live capture sources to NSV. Can output to file or 
+              SHOUTcast server.
+  * nsvate:   GUI batch encoder for converting from files to NSVs. Ryan's been
+              making this for a bit, and it's really quite good.
+  * nsvcap:   a gui app for live encoding from capture devices to file or 
+              SHOUTcast server. Based on amcap, it provides full control over
+              the capture process (and uses less CPU for live shit than nsvenc).
+  * nsvscsrc: a command line app for broadcasting NSV files to a SHOUTcast
+              server. Useful for running non-live streams.
+  * nsvubmux: a utility for mergine .srt/.sub subtitle files into an NSV
+  * nsvtag:   an NSV tag editor.
+  * nsvdemux: an NSV demuxer utility for analyzing your files.
+
+And of course, Winamp 2.91 supports NSVs a lot better. Yay.
+
+Fun times.
+
+--
+
+just reread this for the first time in a couple years
+
+http://www.caranddriver.com/xp/Caranddriver/features/1997/October/199710_feature_battl.xml

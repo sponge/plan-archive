@@ -1,0 +1,15 @@
+
+Name: Eric Webb
+Email: eric@idsoftware.com
+Description: Monkey
+Project: 
+-------------------------------------------------------------------------------
+Ok, Several of you have been on the message boards and writing into bugs@idsoftware.com about router issues that you have been having. It is possible that these aren't router issues at all. The three different versions of Quake III that have been released in the last week can have problems connecting into each other. We need a controlled testing environment so here's what we'd like you to try.......
+
+Make sure that you have the absolute latest version of the point release (version 1.29h BETA). When in doubt.....run "Check For Quake III Arena Updates" from your Quake III directory. I am going to set up a server here at id that will be running that same latest version. 
+
+The IP address is 192.246.40.160
+
+If you could hop into this server and help test we would greatly appreciate it. If you can get in, then all of this confusion will clear up as more people update to the current release. 
+
+If you have any further questions about router related issues, or if the above does not work for you, please email me at eric@idsoftware.com and include "Quake III Router" in the subject. 

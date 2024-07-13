@@ -1,0 +1,19 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+Mac News
+
+Build b4 is going up, this should fix the "unexpected quit" issue.  All of the other bugs have been an installation issue that will be fixed with the installer.
+
+Basically, if you're getting Create VM on UI falied as an error, this means that your .bundle files are not in the same folder that the demomain folder is residing.  WolfMP expects this.
+
+ftp.idsoftware.com/idstuff/wolf/osx
+
+On a personal side note, I was at the Ideal Home Exhibition when it was bombed (late 70s, early 80s) by the IRA (I think).  As the glass came down from the roof, the lights dimmed, and the crowd panicked my Mom and I became separated from my Dad, brother and sister.  As we ran, we both saw and heard someone say "it's easy, just mix in with the crowd" in an Irish accent.  We stared at them, they stared at us.  When we finally got home, my Mom decided that going to the police was something she was not going to do.  For me, that day, and from that day forward forward, terrorism had done what it had intended to do, terrorize a family.
+
+I've stood in front of the World Trade Center.  I've looked up and seen it touch the sky.  I'm still not sure totally how to feel or what to do, but I do think back to the day terrorism touched my family, and feel for the families out there now enduring loss, chaos, and fear.  The world should be a safe place by now.  It's upsetting that my daughter has to grow up with the repercussions of terrorism.
+
+Thanks for reading that.  Once again, that's entirely personal.  Nada to do with anything else.

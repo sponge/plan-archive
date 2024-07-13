@@ -1,0 +1,60 @@
+Login: pdeupree       			Name: Patrick Deupree
+   21 minutes 25 seconds idle
+Plan:
+11/11/99^?
+^?
+Now that it's official, I can start talking.  We've gone gold and Opposing^?
+Force is a lot of fun.  I played through the entire game a few times and^?
+still enjoy playing it (and Deathmatch is a blast).  I think this is the^?
+first time since the first game I worked on almost 5 years ago that I've^?
+played the entire game all the way through.  We had our office "gold" party^?
+on Monday (there wasn't much we could do while just waiting for the official^?
+"word") and it was a blast.  We went to the Malibu Speedway (a local place^?
+with go-kart tracks, a "drag" strip, and all that mini-golf/arcade action^?
+that's typical of such places.  I may not have won many races, but I did^?
+a good job of blocking people on the slick track.  heh heh.^?
+^?
+In the meantime, a lot of us have been catching up on the games we weren't^?
+able to play while finishing up Opposing Force.  I finally finished Final^?
+Fantasy VIII.  I enjoyed this incarnation of the FF series much more than^?
+I enjoyed Final Fantasy VII (I didn't finally finish off VII until I joined^?
+the Anachronox team and Tom offered me a Final Fantasy watch he had sitting^?
+around if I finished the game).  I started playing Omikron and I've got to say^?
+it's an AWESOME game.  Visually I have to say it's one of the most stunning^?
+games I think I've seen yet.  It definately requires a little horsepower to^?
+get the most out of it, but it's worth it.  Various friends of mine are playing^?
+it also and are loving it.  I've also just picked up Sim Theme Park which is^?
+very cool (if your into theme parks, which I am).  Being able to ride the^?
+rides is a very cool feature.^?
+^?
+I also have a ton of console games to play that I have barely had a chance^?
+to play (Tony Hawk Pro-Skater and Soul Calibur to name 2 of the most^?
+significant).^?
+^?
+Well, until we have anything official to announce about our future^?
+plans, I guess most of us won't have any business related updates in our^?
+plan files.  Sorry.^?
+^?
+^?
+8/2/99^?
+^?
+Working in C++ again in the Half Life game code is very, very cool.  I've^?
+been working on the characters in the game.  I started by putting in the^?
+friendly grunts.  We have a test map Randy talked about in his .plan^?
+update with 3 friendly grunts next to you that you can use, plus 3 in^?
+another room that repel down from the ceiling.^?
+^?
+If you use them they follow you and you can enter a room with 12 enemies^?
+and at that point all hell breaks loose.  I don't want to give away too^?
+much, but suffice it to say there are grenades, green goo, and^?
+electricity everywhere (and eventually dead bodies).  Recently I got the^?
+medic in there also which is cool.  The one Randy saw didn't quite have^?
+the code in yet to heal other squad members, but I've got that in now.^?
+^?
+Now I'm working on a sub-boss that I won't say anything about, but this^?
+guy should be pretty cool.^?
+^?
+On the somewhat personal front, the new Gearbox office we just moved to a^?
+few weeks ago is about 5 minutes from my house as opposed to the 30 minute^?
+drive I had to make to downtown Dallas.  I have to say that I do NOT miss^?
+driving down the Central Expressway every day to get to and from work.^?

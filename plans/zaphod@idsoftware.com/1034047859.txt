@@ -1,0 +1,16 @@
+
+Name: Graeme Devine
+Email: 
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+
+Mac Point Release 1.32
+
+I have been working hard on the Mac point release.  I am currently experiencing extreme performance degradation of the application running under OS X 10.2, with that in mind, and the 7fps frame rate, the app is not worth releasing until the issue is fixed.  I 100% believe this is our issue, not an issue with the OS, since previous Q3A builds are running just fine under 10.2.  Due to an internal misunderstanding I did not have correct source until today.
+
+I apologize, and am working diligently on the issue.
+
+Graeme.
+
+

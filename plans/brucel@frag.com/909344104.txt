@@ -1,0 +1,32 @@
+Login: brucel         			Name: Bruce Lewis
+Plan:
+7 October, 1998
+
+The alpha testing of glDoom is going relatively well.
+There have been some problems with Windows98 and some
+driver incompatibilities that we're working on ironing
+out.
+
+I did some work on the light attenuation code today. I
+put the fog code back in (black fog) and have tweaked it
+some.  I also put a cvar in to control whether it tries
+to use that.  The cvar gl_fog 0/1 will turn it off and
+on.  I did this because some cards either don't support
+it at all or don't do it right. (very strange looking)
+
+5 October, 1998
+
+Well, what do you know.  My very own .plan file...
+
+glDoom went into alpha testing today.  I'm as nervous as
+a cat.  I've never taken someone else's software (especially
+not as popular as Doom) and made such drastic changes to
+it before.
+
+I really don't know what to expect from the testers at this
+point.  All I know about how it will fare is how well it works
+on my systems.  Still, I've got high hopes for it.
+
+I should know in a day or two how things are progressing.
+
+Stay tuned...

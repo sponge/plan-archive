@@ -1,0 +1,12 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Jedi Knight2
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+interesting note about MSIE.
+i switched machines recently and decided it would be "a good thing" to delete the passwords and autocomplete text from the old machine.  sounds easy enough, right?
+you just open up IE, go to Tools, Options, Content, and click Auto Complete.  There you will find two nice buttons marked Clear.  One would imagine these buttons would do what i want.
+Well, i pushed the Clear Forms button over a week ago, and it's still churning away. 90% CPU use by Services, so i guess it's still thinking... sigh.

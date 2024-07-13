@@ -1,0 +1,113 @@
+Login: pdeupree       			Name: Patrick Deupree
+Plan:
+6/09/2000 (2)
+
+OK.  I suck at HTML, so please excuse the fact that the back slashes
+in my previous post all disappeared.  I still suck at HTML so I have
+no idea if the fix I just put in will work on all viewers.  So, if you
+see double back slashes in your viewer, just change then to single
+back slashes.
+
+Or you can just eliminate all that crap at the end of the map names
+since that information is just there to ensure that you support enough
+players on your server, and it also turns weaponstay on (which I
+imagine some servers might want turned off).
+
+6/09/2000
+
+We've noticed a couple things since releasing the Opposing Force patch
+that I just wanted to comment on.
+
+One is that I messed up and forgot to include the new mapcycle.txt file
+in the installer, so a lot of servers seem to rotate to a deathmatch
+map when the level changes.  For anyone running an Opposing Force CTF
+server, this is the contents of the mapcycle file that should have been
+included:
+
+op4ctf_mortar "\minplayers\1\maxplayers\32\mp_weaponstay\1\"
+op4ctf_wonderland "\minplayers1\maxplayers\32\mp_weaponstay\1\"
+op4ctf_chasm "\minplayers\1\maxplayers\32\mp_weaponstay\1\"
+op4ctf_crash "\minplayers\1\maxplayers\32\mp_weaponstay\1\"
+
+The other thing we've noticed is that a lot of servers seem to be going
+down.  I was messing with some dedicated server stuff here and had a
+problem as well.  According to Valve there's a slight bug that slipped
+through that involves users downloading decals from each other at
+signon, so they've suggested running servers with "sv_allowdownload 0"
+in the "server.cfg" file for the time being.  A fix will be forthcoming.
+
+Hopefully these two things will fix a lot of the problems people may have
+had.  Just as a side note, I'm still testing some new stuff here at the
+office, so if anyone happens to join a server and they can't because the
+client dll is different, then that's probably me.  I'll start a test
+server here at the office sometimes and by the time I'm done about 10
+people have tried to join and get booted because of that.  One of these
+days I'll just set a password, but in the meantime, sorry about that.
+
+5/15/2000 (2)
+
+Darn DOS to Linux conversion.  I never read my own plan updates on the
+web pages, so I didn't notice those damn carriage returns at the end
+of each line.  Anyhow, I just ran a perl script to strip that crap off
+so hopefully this update is more readable.
+
+5/15/2000
+
+Well, I just got back yesterday from E3.  This has been the first year
+that I've really been able to just look around the show, and overall
+it was a lot of fun to do so.  I actually got a chance to play some
+games I'm looking forward to (most notably Conkers Bad Fur Day and
+Chrono Cross).  I also got a chance to wander around and meet up with
+a lot of people I used to work with at various places.
+
+Probably the most amazing moment at E3 for everyone at Gearbox, though,
+was getting a call on Thursday night from Randy who was at the
+Third Interactive Achievement Awards with Landon saying that we had
+won the award for PC Action Game of the Year.  We were at Ensemble's
+E3 party at the House of Blues at the time, and man, there was a lot
+of celebrating going on there since Ensemble had won 3 awards at the
+same ceremony including Strategy Game of the Year and Computer Game
+of the Year.  That's a shameless plug for the guys that provided
+free food and free booze for us Thursday night.  ;)
+
+The web site listing the PC game award recipients is at:
+http://www.interactive.org/iaa/winners_pc.html
+
+The cool part about this award is that the games listed by this group
+are all good games.  At one point in time a game I worked on 4 years
+ago (Monty Python and the Quest for the Holy Grail) was nominated
+by some group for Strategy Game of the Year.  To this day I still
+have no idea how someone thought that was a fitting category.
+
+For those people that weren't able to go to E3, or weren't able to 
+stop by the Havas booth at E3 while we were there, here's an update
+on our progress with Opposing Force CTF and the Linux port.  
+For both of these we want to wait for the new update to Half-Life
+to be released.  We have passed the Linux port to a few places
+that have tested it here and there and it seems to work fine.
+In addition I've been using the linux server to test the new CTF
+multiplayer game so that I don't have to continually bug other
+people here at the office to join a game with me.
+
+There's the latest word from the box for now.
+
+2/28/2000
+
+Last week I was looking for some stuff on http://www.imdb.com and
+decided to goof around and enter "Deupree" in there.  I figured I'd
+see if anyone in the family was ever involved in a film or
+something of the sort.  Much to my surprise, I found myself listed.
+It turns out that a game I worked on about 4 years ago, "Monty
+Python and the Quest for the Holy Grail" is listed in IMDB.  While
+jobs such as programmers aren't in the credits, I was also listed as
+one of the designers in the credits for the original game.  So there
+I am, listed as a "Production Designer" on the game (sharing the list
+with Eric Idle).  To be honest it's pretty damn cool to be in a list
+of credits including the Monty Python crew since I've been a fan of
+their stuff since I was a kid.  While Grail might not have been the
+best title as far as gameplay goes, I must admit that I really
+enjoyed working on it.  Even after hearing the line "bring out your
+dead" over 100 times, I still really enjoy the film.
+
+You never can tell where your name might pop up these days.
+

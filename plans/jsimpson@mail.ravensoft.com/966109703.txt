@@ -1,0 +1,59 @@
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+8/12/00
+
+Wow, Raven is SOOO quiet. It's a saturday, and I'm in finishing up some code on project X and I'm alone here.
+What with GenCon going on in Milwaukee, and Voyager in code release, all done bar the sign off, it's made Raven
+a ghost town. I don't remember when it was last this quiet here. Except for us sad acts that have nothing else to
+do on a nice Saturday. The beer festival was sold out of tickets, what can I say?
+
+I have to make a correction to something I said in my seminar at QuakeCon. I informed the audience that we at Raven
+had lowered the max number of clients possible on a Holomatch server from the 128 that Quake III can theoretically
+support to 32, since we were having problems with memory allocation at numbers over 48. However, it appears that
+while I was at QuakeCon, the offending piece of code was found and threatened with a recompile it would never forget,
+and it now works. This is nice, we can maintain that 128 client limit. The only reason I mention this is that there
+was a gentleman at the seminar who mentioned that he runs a server / website that is dedicated to running the largest
+game he can run. He was concerned at this lower limit, and I just would like to take this opportunity to correct my
+mistake.
+
+What follows are personal musings, and not the official stance of Raven software on anything.
+
+Now on to a subject I have been kicking around for a while now. Last night I booted up FAKK2 and spent some time 
+running around and admiring Julie Strains very nicely contoured bottom. Anyway I found all the possibilities when it
+came to utilising weapons and so on very cool, but sometimes too much to deal with when in complex combat situations.
+Now I'm not bashing FAKK2 at all here - the guys from Ritual were kind enough to send this to me:) - more I'm bashing
+my own ability to handle this complex a game play. There is so much to bear in mind when playing a game with this much
+combat depth that I am rapidly approaching my own limits on what I can handle. When I play FreeSpace II I have my joystick
+all programed with all the hot keys I think I need, however, I keep forgetting which one is which, and end up thrusting
+when I should be shooting. 
+And this got me to thinking. I wonder why it is that I can't handle this? Am I just an idiot with the reflexes of a dead
+cat, as Lowtax would have you believe, or is there more to it? I'm 32 now, and I was brought up on the old Atari and
+Commodore 64 games, where there really wasn't that much depth in them, bearing in mind you had to fit an entire game into
+32k or less. John Carmack's comments about playing lots of console games because they are dip games, where you can sit down
+play for 20 minutes, then get up and leave and never think about it again, really struck a cord with me, since that's the
+kind of game I tend to play.
+Investing time and energy developing a character, and sweating it all out to get the latest spells and so on has never 
+really been my style, and I was thinking about the reasons for that. Being in the business, often your time is not your
+own, simply put you don't often get the time to sit down and build a character from the ground up. Secondly, I want to play
+a game for an end result, IE the end of the game, rather than spend the time playing so I can get a new spell. - There is a
+difference I think, one gives you a sense of closure and "I did that", and the other simply allows you to continue playing
+ad-infinitum.
+Then there is my own personal history, I was brought up on dip games, and my 6 years at Midway developing arcade machines
+reinforced this. There are no loads and saves or pausing in an arcade game. Game play is literaly WYSIWIG. Up til now I've
+never questioned why I feel this way about involvment games, but recently I have, what with the success of EverQuest and such.
+Now, while I may have good reasons for feeling this way, the latest crop of game addicted kids don't think this way. They
+have time and energy to spare investing in character development, and I can only surmise that it's because they don't have the
+same history in 'simple' games that I do. They have grown up with games much more complex that I did, and are better equipped
+and more inclined to handle it. That's not to say there isn't a place for this kind of game in todays world - god knows
+Quake III and Unreal Tournament prove this, just that the market share for this is diminishing over time. People expect
+and demand greater content and 'depth' - whatever that is defined as at the time - and as a developer I see it getting harder
+and harder to properly fufil this demand in an interesting and fun way.
+There's no real point to all this stream of consciousness, I was just interested in seeing where it would all go if I got it
+down in black and white, rather than just rattling around my head.
+If you have comments on this, drop me a line. I may get around to penning an article about it sometime.
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/users/jakeworld">JAKEWORLD!</a>

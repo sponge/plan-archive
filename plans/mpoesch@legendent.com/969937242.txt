@@ -1,0 +1,45 @@
+Current Project: Unreal II, Technical Lead
+
+
+2000.09.25
+
+Resumes, weblinks, and mods (re: the programmer positions open on the Unreal II team) have been streaming in all weekend -- keep them coming!  Given the rate of response, I'll probably keep the process open for at least another week or two.
+
+If you love programming mods for Unreal Tournament, and you've really wanted to break into the game industry, this could be your big chance.  If you have a solid OO programming background, we're particularly interested!  Even if you haven't programmed in UT, try it out!  We're also looking for people who can learn rapidly.
+
+
+2000.09.22
+
+Hi All!
+
+It's been a while... so much for my regular "weekly" .plan updates.
+
+A vacation to Europe (London, Paris, Munchen, Salzburg, and Venice) took me out of commission for a couple weeks in June.  But, hey, if you have to take a break from making games, Europe is a great place to take a break! ;)
+
+Work on another project kept me busy for another six weeks.
+
+It's great to be back 110% dedicated to Unreal II.
+
+But, the biggest news comes in the form of the people leaving and joining our programmer team for Unreal II.
+
+As you may have read by now, in July, Jess Crable left us to go work with 3D Realms on Duke Nukem Forever.
+
+On exactly the same weekend, Ryan Ovrevik also left us to go work at a local e-company.  ...their departures were entirely coincidental -- in every sense of the word!
+
+We wished them both well, and I settled back into the planning process -- the most ironic part of their timing was that I had *just* put the finishing touches on our Technical Project Plan -- which just had two major holes blown in it. :P
+
+But, that's not where the irony or incredible coincidences ended... at almost exactly the same time, Chris Hargrove announced that he had given notice at 3D Realms -- in an interview, he said that he was returning to the Northern VA area, and that he was interested in staying in the game industry.
+
+A couple of phone calls, and several weeks later, and it's official.  Chris has been working with us for a few weeks now!  Chris' arrival couldn't have been more perfectly timed -- he has already proven himself to be an incredible asset to our technical team.
+
+And last, but not least, news for Unreal programmers looking for a chance to be part of an incredible team developing an incredible product like Unreal II:
+
+We looking for one or two top programmers to join us.  Here's what we're looking for:
+- Demonstrated UnrealScript experience (mods, mutators, weapons, special effects, custom AI, etc.) is a must.
+- Interest in developing game-code: game-play scripting, AI, weapons, and everything game-play related is a must.
+- Experience in the game industry is a plus, but isn't required.
+- Ability to communicate effectively and work well with a team is a must.
+- Experience with C++ is a plus -- but, we will probably orient the majority of the tasks (80-90%) toward UnrealScript.
+- Must be willing to relocate to Northern Virginia -- about 30 miles west of Washington D.C.
+
+If you're interested in applying for the position, send email with your resume and/or webpage with the subject "Resume: your name here" to me at mpoesch@legendent.com  (Warning: I'll immediately delete resumes that don't include the "Resume:" header -- being able to follow directions is also a requirement for the position! <g>)

@@ -1,0 +1,40 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Mail forwarded to brandon@epicgames.com
+Project:
+Unreal Tournament
+Plan:
+Instead of bitching like a baby, I'll post some links to information.
+
+http://www.planetunreal.com/mutation/
+The Mutation Device - A really good site with basic tutorials on mod
+authoring, specifically mutators.
+
+http://www.planetunreal.com/modcentral/
+Mod Central Unreal - An excellent site with information and links to
+mod sites and mod design.  Good overall mod news.
+
+http://unreal.epicgames.com/
+The Unreal Tech site.  There are some good docs under Programming for
+UnrealScripters.  Some of the docs I wrote need updated now and have
+some typos (yuck!)
+
+http://www.planetshane.com/
+Shane Caudle's model site was here, but it seems to be broken at the
+moment.  It used to be at www.scott.net/~shane  I'll ask him about it
+later.
+
+The biggest resources for level designers can be found among the older
+Unreal level design tutorials.  A lot of those older tutorials are still
+completely relevant to Unreal Tournament level design.  Planet Unreal
+and Unreality both have sets of tutorials.
+
+Finally, for mailing lists, check out the UnrealScript list at www.egroups.com
+Epic runs a UTMods list for the same kind of discussion (but more general
+to any mod type topic) that is open to the public.  Just email me your
+address and I'll add you to the list.
+
+And Cliff wanted me to mention his Ownage site.  Its his own reward system
+for map authors that impress him.  He's expanded the site to cover just
+about any project now.
+
+http://www.planetunreal.com/cliffyb

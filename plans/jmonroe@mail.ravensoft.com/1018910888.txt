@@ -1,0 +1,20 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Jedi Knight2
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+Oh what fun, it is to crash servers.
+
+I just released Version C <a href="http://www.jediknightii.net/files/index.php?category=5"> dedicated JK2 servers </a> for linux and win32.
+
+Version C:
+*fixed the exploit that could crash the servers by sending an empty connect message.
+*minor improvements to the win32 dedicated console (tab "complete" and one-line history)
+
+previous fixes:
+* fixed a uninitialized variable in the glm model loader which *may* have been causing a crash after a player joins. (this was a dedicated only bug)
+* fixed part of a bug in the code which runs the VMs that was causing the "opStack corrupted in compiled code" (followup note: it didn't fix all of the opStack corrupted errors.)
+Thanks to Rick for fixing this nasty little bugger!  

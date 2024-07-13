@@ -1,0 +1,30 @@
+
+Name: James Monroe
+Email: jmonroe@mail.ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+patch news:  
+RELEASED!
+
+http://www.3ddownloads.com/showfile.php3?file_id=112600
+
+or
+
+http://www.fileplanet.com/index.asp?section=560&file=52851&download=1 
+
+
+STEF Patch 1.10
+
+HoloMatch Changes (stvoyhm)
+New option to treat the joystick X or Y axis as buttons instead of analog movement/turn.
+Nextmap defaults to map restart instead of reloading current map.
+UI attempts to validate CD-Keys with missing zeros.
+
+StoryMode Changes (stvoy)
+New option to treat the joystick X or Y axis as buttons instead of analog movement/turn.
+Fix for missing triggers when game is running at very poor frame rates.
+Fix animation completion tests when game is running at very poor frame rates.
+Fix for dynamic lights on G400 and Radeon

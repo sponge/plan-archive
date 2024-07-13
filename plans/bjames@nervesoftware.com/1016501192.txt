@@ -1,0 +1,33 @@
+
+Name: Brandon James
+Email: bjames@nervesoftware.com
+Description: Game Director
+Project: WolfMP
+Nickname: What?
+Web Page: <a href="http://www.nervesoftware.com">Nerve Software's Web Site</a>
+-------------------------------------------------------------------------------
+"Medic!"
+
+The WolfMP 1.3 patch has hit the net fixing numerous bugs and exploits while also introducing support for Punk Buster, auto-updates, MP_ICE (which seems to be a hit!) and the groundwork for loading up user-created Mods. While squashing and ridding the world of these bugs, we introduced a new issue that is affecting gameplay..
+
+Most notably, the problems related to reviving and the teleportation, or warping that some have experienced on certain maps. Luckily, these issues are all a byproduct of a fix for reviving players on and around script_mover's (the giant doors in mp_assault). We've been testing the fix for this internally and others have been testing it as well and everything appears to be back to normal. The fix is a server side issue, which can be tested if you connect to one of the servers listed below.
+
+192.246.40.64:27960 - Xians MP_BEACH server 
+192.246.40.45:27960 - Xians MP_DESTRUCTION server
+192.246.40.43:27960 - Xians MP_ICE server
+192.246.40.45:27961 - Xians MP_BASE server 
+192.246.40.66:27961 - Fred's MP_BASE server
+192.246.40.108:27960 - Xians MP_TRENCHTOAST server
+
+Information, stats and forums for Xians servers can be found at:
+http://underworld.idsoftware.com/wolf
+
+If all goes well with this fix, the update will be in your hands after thorough testing. As always, an announcement will be made prior to release.
+
+Detailed bug reports can be sent to: wolfbugs@idsoftware.com and wolfbugs@nervesoftware.com
+
+Most of us involved in the project can be found trolling around Wolfenstein specific sites such as planetwolfenstein.com, wolfensteinx.com and rtcwcentral.com. If there is a concern or bug reported at any of the above, we've seen it.
+
+Big thanks to Fred and Xian at Id for testing this out!
+
+-B

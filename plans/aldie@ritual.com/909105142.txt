@@ -1,0 +1,99 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: aldie
+Plan modified: Thu Aug 20 23:09:48 1998
+
+Scott Alden - Programmer - Ritual Entertainment
+Email: aldie@ritual.com
+-----------------------
+
+8-20-98
+-------
+Mark and I took a break fron Sin coding tonight and played 
+Motocross Madness.  Wow.  This game is a LOT of fun!  
+We spent about an hour trying to jump over the finish 
+line's top girder.  It can be done...
+
+8-12-98
+-------
+Happy 2nd birthday to Ritual Entertainment!
+
+I can't wait for the birthday party tonight. 
+
+8-6-98
+------
+First, I just wanted to say thanks to all the people that sent in 
+constructive and positive comments about Sin.  This is my first
+"official" game, so it feels pretty good that the Sin demo gave
+people a lot of enjoyment.  We're working hard to fix the bugs
+and a few more little things to make the final game even more 
+immersive.
+
+Sin Bug Fun:
+------------
+An interesting bug popped up in one of the deathmatch games I was in
+the other day.  It happens when a player shoots someone with a rocket,
+the person who gets hit dies ("Player died" gets printed to the console)
+and he loses a frag, and the person who killed em gets nothing.
+
+It was interesting to see that the rocket blast changed the victim's 
+velocity with a downward momentum, thus pushing him into the ground and
+triggering the falling damage routine.  So, if you hit someone directly
+with a rocket doing 97 points of damage the falling damage works out
+to about 7 points which credits the "ground" with the frag instead of
+the shooter :-)  I'm fixing it now...
+
+Thanks to the guys that pointed it out to me while I was deathmatching
+on their server.
+
+Anybody figured out how to make their own HUD yet???
+
+7-9-98
+------
+Just wanted to add my 2 cents about the Sin scripting video which
+Charlie forgot to mention ;-)
+
+The computer terminal that is being used to control Danny is also
+fully integrated with the script system so you can design
+custom menu systems to control your stuff (if it wasn't obvious from the video).
+
+5-12-98
+-------
+It's been 3 months since my last .plan update, so I guess it's about time 
+for a new one.  
+
+Sin Info
+--------
+I've been busy working on interface / 2D things for Sin.  We are now 
+finalizing the way the interface is going to work.  I've taken the layout
+commands from Quake2 and added about 50 new features.  This will let anyone
+create custom interfaces for the game menus and the HUD.
+
+The layout commands are kind of like a primitive form of HTML, so if you can
+make a webpage, you probably can create a Sin menu or HUD.  One of the cool
+things is that everytime I add a new command for the HUD, it can also
+be used on the in-game consoles.  This lets you put things like the 
+player's health or name on a 3D screen in the game.
+
+I also had to add some networking stuff to get the multiplayer aspect of 
+in-game consoles to work and that took a little bit of time. Most of the time
+was spent learning how the Quake2 networking system works and fitting in the
+new baselines/states for consoles.  I didn't think that something as simple as
+a console in the game would be so tricky, but I ran into many problems
+while designing them.  A lesson to be learned about multiplayer game aspects
+I guess.
+
+Other Stuff
+-----------
+I didn't get to go to CGDC this year, but Gary McTaggart took a bunch of pics
+for me to re-live the experience.  It just wasn't the same :-(  
+
+Until next time...
+
+
+
+
+
+
+

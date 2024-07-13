@@ -1,0 +1,51 @@
+Login: ridah          			Name: Ryan Feltrin
+Plan:
+
+Ryan Feltrin
+<a href="mailto:ridah@frag.com">ridah@frag.com</a>
+
+Technology & AI Programmer, <a href="http://www.xatrix.com/">Xatrix Entertainment</a>
+
+
+21-Nov-99
+--------------
+
+I'm in the process of putting together an updated Kingpin Linux server. This will
+actually be v1.22, and will be released alongside an updated Win32 release.
+
+I'd like to have the updated linux binary tested a bit though before release, so
+if you're willing and able to test beta binaries on your server, please drop me
+an email. Thanks.
+
+
+14-Sep-99
+--------------
+
+The Kingpin SDK is on it's way.
+
+There are several processes that need to be undertaken before it can be released,
+most of which are out of my direct control.
+
+Please be patient.
+
+
+26-Aug-99
+--------------
+
+The linux Kingpin v1.20 port can be downloaded from the following location:
+
+http://impact.frag.com/ridah/kptest/kingpin-1.20_glibc-i386-linux2.0.tar.gz
+
+This is an unofficial full client build. I will be putting together a server
+only official build soon, which will hopefully find it's way onto the official
+Kingpin page.
+
+Why server only? Because the full client needs a lot more work before it could
+be considered official. If there are any linux developement houses out there
+that would like to continue the work, they can contact me and I'll put you
+in touch with the appropriate Interplay representation.
+
+Also worthy of note, is the v1.20 contains a bonus two maps made specifically
+for Bagman. I know the Bagman fans have been wanting more maps, now they have
+them. You can thank KungFu (Dave Ward) for his efforts putting together the
+new maps.

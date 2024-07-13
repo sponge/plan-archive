@@ -1,0 +1,38 @@
+
+*** Ion Storm's Finger Server
+
+User name: tom
+Plan modified: Sun Jun 11 10:33:58 2000
+
+<html>
+<body bgcolor=#000000 text=#22FF22>
+<font size=4><hr>
+<p>
+<center>
+<font size=6 color=#ffcc00>
+MY CREZZY .PLAN</font>
+</center>
+<center>
+<font size=5 color=#ffcc00>
+by Tom Hall</font>
+</center>
+
+<hr>
+<p>[ 6/11/2000 N ]
+<p><font size=4 color=#dddddd>THIS MOVIE IS...</font>
+<hr>
+<p>Yesterday I said: I remember a movie about the U.S. and some other country deciding that rather than lose millions of lives in a war, they would just have the best soldier from each side go to an island, and whichever soldier killed the other one would win the war for his country. I think it was a 70's movie...  HELP!
+<p>
+<p>Today, a Michael Beard came up first with the TV Movie, The Challenge (1970) starring Darren McGavin and Mako.  The director was so proud of it, he used the standard pseudonym Alan Smithee.  Thanks, Michael!
+<p>(Paolo Perrotta and David Webber also wrote in with the correct answer.  Thanks!)
+<p><font size=4 color=#dddddd>OTHER GOO</font>
+<hr>
+<p>Work is going well.  I'm doing the quests in three different levels at once, while simultaneously adding commands to APE.  The first command is assign, which allows easy assignment of many values to consecutive elements of an array.  The next two are loadarray and savearray, for simple I/O.  They will be cool.
+<p>
+<p>I still have to go get Vampire.  Got Legend of Mana  And Fight Club DVD is out.  Aieeee!
+<p>
+<p>
+<hr>
+<p>---*-*--*-*----*-*---*--*--THE MISTS OF TIME----*----*--*-*--*---*--*----*---
+<p>---*---*----*----*--*---*-have eaten 67 entries.-*----*---*-*--*---*----*----
+</html>

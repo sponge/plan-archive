@@ -1,0 +1,36 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+
+2/04/00
+
+Ok, I finally figured out a great new use for .plan files - a place to post
+some of the more amusing bugs that come up during the final stages of a game's
+development..
+
+Here's one to kick things off:
+
+From: ATVI_Test
+To: Bugs
+Subject: BUG: Willie hates the Smithy's horse when he is on Offensive mode
+
+When we walked by the Smithy's shop, Willie began attacking the horse when he 
+was in offensive mode.  Willie began firing his bow at the horse as well as 
+using the awe discipline.  When I switched to Willie and put Cristof in 
+attack mode, he began to cast disciplines on the horse as well.
+
+
+Other good subject lines (body text removed to protect the innocent coders!)
+
+BUG: Joining a game that doesn't exist will cause the client to go out of synch
+BUG: Disloyal Servants (a Fox Special "When Summoned Pets Go Bad!")
+BUG: Dead Man Walking
+BUG: Christof can walk through a wall of wooden beams
+BUG: Discipline Summon Elemental  will kill your party members and maybe even you!
+
+Ok, I'm starting to think maybe these are only funny to me...
+
+

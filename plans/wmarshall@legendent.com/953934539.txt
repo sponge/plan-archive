@@ -1,0 +1,79 @@
+Name        : Warren "Taskmaster" Marshall
+Email       : wmarshall@legendent.com
+Description : Level Designer
+Project     : Unreal2
+
+February 25, 2000
+=================
+
+This is the new UnrealScript editor in U2Ed.  All scripts are edited within the same window now.  At the left side, is a list of all scripts that are currently open and available for editing ... double clicking the names changes from script to script.  There is a regular Windows toolbar here with compile/search options ..
+
+To the right hand side of the screen is the actor browser.  At the bottom of that window is a list of package names that can be saved at any time.  You select the ones you want to save, and it remembers your selections. Clicking the "Save Pkgs" button will save out all selected packages - this is very handy if you're working on scripts that live in multiple packages.
+
+<a href="http://www.legendent.com/~wmarshall/images/U2Ed.jpg"><img src="http://www.legendent.com/~wmarshall/images/U2Edsm.jpg" border="0" alt="U2Ed screenshot - Click to enlarge"></a>
+
+Check out <A HREF="http://www.legendent.com/cgi-bin/fingerlist.pl">http://www.legendent.com</A> for the rest of Legend's .plan updates.
+
+
+Sept 22
+=======
+
+WOW has it been a long time since I updated this.  :)  I was reading a bunch of plan files on Blue's and was getting sort of irritated.  Does anyone ever post anything work related anymore?  I mean, we get to hear about everything going on in the persons personal life, and then a quick, "Oh, and the game's going great ... can't tell you much more than that!".  Great.
+
+So on that note ... here's my worklog for tonight.  :)  As you read in the weekly update (you did read it right?), I'm working on mission_18 ...
+
+* top of skybox in AS citadel
+* cave at top of ladder hard to get into near whitecloak area
+* whitecloak patrolling outside church
+* move mordeth citadel so Legion cannot be heard in world level
+* performance around portal stones
+* decalmanager
+* angrealpreloader
+* block the whitecloak temple door
+* mission objectives
+* mine cart moves faster
+* changed rubble in mine entrance to portcullis, operated from the outside - tastes great, less nodes
+* levers are hard to hit
+* changed level title
+* cut scene trigger (after getting fix from Mark)
+* seals on the desk are aligned wrong
+* start player in white tower
+* you can get stuck beside the wooden ladder
+* world level needs healing zone in church
+* cave in for Mordeth cave
+* whitecloaks behind church
+* NO spirit shields
+* angreal in church
+* have some warders/sisters wandering around the white tower ... eye candy.
+* angreal stash in Amrylin chamber
+* need a teleporter effect
+* check zoning in Mordeth citadel
+
+Of course, I still have a few brain cells left awake, so I'm going to continue onwards...
+
+
+May 19
+======
+
+Back from E3.  Whew.  What a ride.  :)  It's a tough show, and it's a LOT of work for the exhibitors.  We were basically standing up and talking for 3 straight days.  My body has never ached so badly.
+
+Lots of good stuff there though ... one of the best things for me was getting to meet so many people I knew from the web.  I can finally put faces with a lot of the names ... crash, Shaithis, Jens, etc ... it was great meeting you guys!
+
+I know I'm somewhat biased here, but I've been working so closely on my maps, I temporarily lost focus on the project as a whole.  Over the last few weeks (and especially over E3) I've had a chance to actually sit down and play it a bit.
+
+The single player is a lot of fun .. the monsters attack me intelligently, and if I'm not careful, easily kick my ass.  I really have to dodge and move around in some areas to avoid getting creamed. :)  They're fun to fight!  Fighting Whitecloaks is MUCH different than taking on Trollocs ... great stuff!
+
+The scripted sequences add a lot to the experience as well!  "I -will- find you!"
+
+The arena mode is wonderful as well.  There are so many ways to kill and be killed, it's staggering!  Watching the interactions between the angreal is really a kick, and knowing what's in your hand and using it effectively is a great change from most FPS games.  I got a lot of pleasure from just countering attacks and taking people down with their own projectiles -- even more so than if I shot them myself.
+
+The mad dash to cast an AMA when the seekers are rounding the corner. Balefiring someone on the other side of a pillar.  Reflecting someone's seekers back into their face at point blank range.  Turning on reflect and running into a firefight -- letting your opponents projectiles help YOU to kill THEM.  Having someone latch onto you with lightning and then they run through a puddle of water and kill themselves.  Running into someone else's AMA to remove your taint and then smashing them with a fireball when it wears off.
+
+It's just getting REALLY REALLY fun!  I would honestly say at this point, that I would rather play WoT Arena than Half-Life or Quake2 DM.  Seriously.
+
+Anyway, just wanted to say that.  Heh.
+
+
+
+
+---anything below this line is lost to the void---

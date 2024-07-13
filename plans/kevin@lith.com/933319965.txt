@@ -1,0 +1,57 @@
+
+*** Monolith Production's Finger Server
+
+User name: kevin
+Plan modified: Thu Jul 29 20:59:18 1999
+
+				Name : Kevin Lambert
+Alias : GPFault
+E-mail : <a href = mailto:kevin@lith.com>kevin@lith.com</a>
+Position : Game Designer / Programmer
+Project : Sanity
+
+<b>7/29/99</b>
+The clouds parted, the choir sang in joyful harmony, and rays of light shined down upon Garrett's computer today as we all finally agreed that the new talent cards were gold. (gold Jerry! gold!)
+
+During a heated discussion yesterday, we came up with a solution that will simplify the way the talent animations work.  Basically, all of our talent animation lengths will conform to one of a few standard values so that it will be much easier to sync up the FX to the animations...  That is of course, unless we decide to rip out all the new code and go back to variable length talent anis again...
+
+*The theme song from Last of the Mohicans starts playing*
+*John LaCasse walks in*
+*Music fades out*
+Kevin: Hey LaCasse... what's up?
+LaCasse: Dude... we are NOT going to rip out that new talent animation code.
+Kevin: Whoah, how did you know that I just typed that?
+LaCasse: Dude, I will NOT waste my time writing this stuff if we aren't going to use it.
+Kevin: Hey I was just kiddin man... we all agreed on it, remember?
+LaCasse: Dude, all I know is that component video is WAY better than standard video... it's totally tubular man.
+Kevin: Whoah, are you feeling alright there man?
+LaCasse: Dude, it's JUST NOT POSSIBLE!  I gotta get outta here... there's a special on the discovery channel tonight about how to turn off the red gun on a projection screen television so that when you get hit in a game of Blood, you can still see what's going on.
+Kevin: Uh, sure thing man... have fun.
+LaCasse: Dude... AC3 audio man... it'll give ya mondo sound waves bro.
+Kevin: All righty then... take it easy.
+*LaCasse walks out*
+
+More Sanity info:
+<a href = http://www.gamelinks.net/data1/previews-sanity-01.html>http://www.gamelinks.net/data1/previews-sanity-01.html</a>
+<a href = http://www.ugn3d.com/qa/monolith/qa004-01.htm>http://www.ugn3d.com/qa/monolith/qa004-01.htm</a>
+
+GPF.
+
+
+6/18/99
+
+Forgive me father Miyamoto for I have sinned.  It's been a few months since I last played Zelda 64.  I'm really looking forward to Donkey Kong 64 though... please let it have better gameplay than Banjo Kazooie... Not that I didn't like Banjo Kazooie, actually I enjoyed it thoroughly.  It's just that after collecting red feathers, gold feathers, eggs, notes, jinos, mumbo tokens, jiggys, and extra lives, I began to wish for a little more continuity in the game.
+
+Anyhow, enough about that!  Sanity is coming along very well.  Garrett is crankin' away on the script and deciding how best to unfold the story while making sure not to give too little or too much plot info away.  
+
+I finally finished the Psionic Talent list and am currently finishing up identifying where the player will acquire each of the talents.  After that, it's back to the boss encounters which is definitely one of the most fun aspects of the design of Sanity. :)
+
+For those who haven't yet seen Sanity, be sure to check out the Sanity website at <a href = http://www.lith.com/sanity/>http://www.lith.com/sanity/</a>.
+
+If that's not enough for you, you might look at:
+<a href = http://www.ragesofsanity.com>http://www.ragesofsanity.com</a>
+and
+<a href = http://pc.ign.com/previews/11237.html>http://pc.ign.com/previews/11237.html</a>
+
+GPF.
+

@@ -1,0 +1,10 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+joy o joy.
+i have been trying to merge in some newer q3 point updates into HoloMatch. (remember our only point release was way back on q3 1.17)  I think this update will solve the troubles people have been having with pure servers stupidly not allowing clients to connect.

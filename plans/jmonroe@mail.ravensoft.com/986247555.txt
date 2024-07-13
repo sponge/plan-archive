@@ -1,0 +1,12 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+'been looking at our master server for the past couple of days.  we've been getting flooded by a few servers recently.
+this one (adsl-208-191-243-16.dsl.ltrkar.swbell.net [208.191.243.16]) has been confusing the server for a while.  it seems that it is a DSL router.  it must be misconfigured to block our return packets and the master server keeps trying to check it - continuously!  
+
+if i had any spare time, i'd try to update the master server code to handle this more gracefully... sigh.  i'll get to it when i can.

@@ -1,0 +1,23 @@
+
+*** Monolith Production's Finger Server
+
+User name: paulb
+Plan modified: Tue Nov 24 15:06:42 1998
+
+
+11/24/98
+I looked at the daily pic at planetblood.com and saw that my 15mins of fame was going to be that of a pr0n star. However it is a classic pic,  http://www.planetblood.com/pics/index.asp?id=13548 and you need to take a look.
+
+So everyone knows now that the Shogo game source and LithTech tools, level editor and model editor, will be out tomorrow the 25th. Sorry that we kept the mod people in the dark about the date and release for awhile. Jeremy was taking some heat since I put the hush on him. I’ve already talked to some people that have some really good mods in mind. Maybe Spen and I could do an ASP/SQLserver mod! It would be like:
+
+IF Shogo.EOF = TRUE Then
+	Response.write(make_shogo_do_something_cool)
+else
+	Response.write(make_shogo_do_something_really_cool)
+End IF
+
+Hmmmm, maybe I better leave it up to other people. The tools will work for both Shogo and Blood2 along with the model editor. The B2 source will be out after the point release, although I bet people will start making mods before then. We are thinking about doing something special for the best mods out there. Better start soon!
+
+We are going to be releasing a lot of info in the next few weeks. I’m sure that everyone is wondering what the teams are doing now that Shogo and Blood2 are done.… So prepare for the flood of press releases in the near future. Along with the games we are developing we have some other goodies to talk about.
+
+

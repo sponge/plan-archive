@@ -1,0 +1,12 @@
+
+Name: Graeme Devine
+Email: 
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+
+Hey.
+
+We will be releasing the Macintosh Quake 3 client hand in hand with the Win32 / Linux clients.  We'll also require Mac OS X 10.1 or later for this release.
+
+DOOM is up and running under 10.2, which as an OS is really quite cool (speed is much better than 10.1, although resizing a browser window is still painful).

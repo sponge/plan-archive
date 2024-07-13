@@ -1,0 +1,56 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+<font color="white">
+
+<b><u>Sept.22.2000 @ 12:01am CST</u></b>
+
+ A user wrote in and recommended <a href="http://cr.yp.to/ucspi-tcp.html">ucspi-tcp</a> as 
+a solution for limiting the number of connections to the ftpd under OpenBSD.
+
+ Due to the nature of how ucspi-tcp works, and the reputation of D.J. Bernstein
+for writing rock solid apps, I found this to be an acceptable solution outside
+of the standard OpenBSD 2.7 installation.
+
+ Thanks for the recommendations.
+ 
+ -Xian
+
+<b><u>Sept.21.2000 @ 8:45pm CST</u></b>
+
+ If anyone is familiar with OpenBSD 2.7's standard ftpd, and knows of a way
+to limit user connections, please drop me a line. I've been going through docs
+and just about every site I could find on the net, and can't find a way of
+doing it.
+
+ I'm not interested in running ProFTP, muddleftp or any other package, other
+than what comes in the standard OpenBSD 2.7 installation.
+
+ Thanks,
+
+ -xian@idsoftware.com
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, Y2K bug, mud slides, forest fire, or projectile 
+(which can include, but not be limited to, arrows, bullets, shot, BB's, 
+paintball, shrapnel, lasers, napalm, torpedoes, or emissions of X-rays, Alpha,
+Beta and Gamma rays, knives, stones, etc.). 
+</font>
+---
+</tt>

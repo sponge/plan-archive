@@ -1,0 +1,28 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-----------------------------------------------------------------------
+User Name: rick.overman     Plan Last Modified: 09/02/1999 13:40:14 PST
+
+//-----------------------------------------------------
+Real Name:  Rick Overman
+Job:        Senior Programmer
+Project:    Core R&D
+E-mail:     rick.overman@dynamix.com
+
+I'm finally full time on the new engine, ahhh... and
+just to liven things up I decided to port the platform
+dependant layer of the engine over to the Macintosh and
+see how things looked before we made too much more
+progress. We were all pleasantly surprised when I had
+the engine testbed app up and running after just 2
+weeks time. (did I mention this is the first time I've
+ever worked on a Mac?) I spent a few minutes today
+testing OpenGL compatibility with Mesa OpenGL for the
+Mac and experienced no problems (MacG3 with
+Voodoo3-2000 and Mesa OpenGL). I'm hoping the ease at
+which the platform dependant layer ported to the Mac is
+an indication of how simple the Linux port will be.
+
+--Rick

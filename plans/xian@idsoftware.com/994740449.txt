@@ -1,0 +1,12 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+
+<b>ERROR!</b>
+
+The login handler is unable to process the charachter login now.
+Please wait one or two minutes, and then try to log in again. If this
+problem persists, contact Support.

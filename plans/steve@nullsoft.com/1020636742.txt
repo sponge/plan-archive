@@ -1,0 +1,41 @@
+Login: steve          			Name: Steve Gedikian
+"|IFS=' ' && exec /usr/local/bin/procmail -f- || exit 75 #user"
+Project:
+Do things that people tell me I can't do.
+
+<a href="http://genghis.winamp.com/~steve/plan/">Read my archived journals.</a>
+Plan:
+May 5, 2002 - 2:24PM
+
+Happy Cinco De Mayo everyone. Let's all go
+out and get trashed while shooting our hand
+pistols in the air!
+
+All I have to say is holy fucking shit. So
+where to begin, huh? All I have to say is
+that we've all been working our fucking
+asses off. It seems like most of us are 
+working like 16-18 hour days. All I gotta 
+say is when this work is done, I'm taking
+a fucking vacation.
+
+I have to tell ya though... It's been a 
+lot of fucking fun working lately. There's
+still so much to be done and there's no 
+doubt about that, however, it's been pretty
+exciting finally seeing things REALLY start
+coming together. It makes me proud to be 
+part of this team of really talented people.
+
+I think that once Winamp3 is done... The 
+really kick ass shit is going to begin. Some
+of you might be disappointed with what Winamp3
+has to offer, but patient the cool stuff 
+comes later.
+
+Anyway, I gotta book my flight for e3...
+
+-s
+
+Login: swoods         			Name: Steve Woods
+No Plan.

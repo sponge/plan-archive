@@ -1,0 +1,63 @@
+
+Name: Rick Johnson
+Email: rjohnson@ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: Quake 4
+Nickname: Superfly
+Web Page: <a href="http://www2.ravensoft.com/users/rjohnson">Rick's Web Site</a> <a href="http://www2.ravensoft.com/users/rjohnson/turtlecam.asp">TurtleCam!</a> <a href="http://www2.ravensoft.com/users/meatwagon">mEATwagon Cult</a>
+-------------------------------------------------------------------------------
+12/2/2001
+   Be aware, there is a <a href = "http://www.sarc.com/avcenter/venc/data/w32.eira.57344@mm.html">Virus</a> going around pretending to be a Quake4 demo.
+   Of course there is no Quake4 demo!
+
+9/21/2001
+   Here's a quick way to do a small (free) donation to help hunger in general:  <a href="http://www.chunky.com/click_for_cans.asp">Chunky Soup</a>
+
+8/15/2001
+   Well, I’m back from QuakeCon, still trying to catch up on my sleep.  Just wanted 
+      to say Hi to everyone that I met – had a blast down there, especially announcing 
+      Quake 4.  Met up with a bunch of people from Ritual, Nerve, and even George 
+      Broussard himself.  I heard that he was giving away free copies of Max Payne - pretty cool!
+      Also wanted to say thanks to id Software for putting on this event for their fans.
+
+   I held two sessions on “What do you want in Quake 4” as well as attended the JK2 
+      presentations and a group discussion with mod people.  It was interesting 
+      listening to the mod people, their concerns and gripes.  Hopefully I’ll be 
+      back next year to participate even more in these discussions to help shape Quake 4.
+
+7/9/2001
+   Well, unfortunately, the SoF 1.07 patch that was released on Friday had a crash bug
+      in it.  You should download the <a href = "http://sof.ravensoft.com/download/sof107fBetaPatch.exe">1.07f Beta patch</a>.  You will need
+      to re-install 1.06 first, then apply this patch.  From all of the reports that I've
+      read on our message board, this clears up all issues.  Make sure that when you are in
+      the main menu, that the version in the lower right says 1.07f
+
+   There were several reasons why QA didn't catch this bug, even though it was blatant when
+      the patch was released to the public.  It is one of those bugs which is difficult to find
+      in QA, given that they don't have the dynamics of people on the internet nor the sheer
+      amount of people.  I do apologize for this incident, and hopefully we'll find a better
+      approach in the future, such as a limited beta release.
+
+6/13/2001
+   Wednesday the 13th!
+
+   As you may have read, we will be releasing a patch for SoF which will be adding
+      direct GameSpy support.  We've also addressed a few minor deathmatch issues.
+      The patch is going through QA and should be out "soon".  Around that time, I will
+      also release a new SDK for SoF which will contain the SoF Gold Game source.
+
+5/7/2001
+   Some of our web sites, sof.ravensoft.com, eliteforce.ravensoft.com, 
+      www2.ravensoft.com will be down for a short period of time as we are moving
+      them over to a new web server.  Thank you, please drive through...
+
+5/2/2001
+   We were going to release pictures of Raven staff actually working on a demo
+      of SoF2 for E3, but instead, I have this little anecdote for you.
+   
+   On our Cub Foods run, several members of the late night Raven Posse were 
+      heading back, and Brian Raffel was talking about his fixation of doughnuts, 
+      "You know, the great thing about doughnuts is that you can only have one 
+      or two of them, before you start to get sick."  And so I ask, "Hey Brian, 
+      how many did you buy?"  "Three...  I couldn't resist, they were only 
+      $0.25 each", was his reply.

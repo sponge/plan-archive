@@ -1,0 +1,49 @@
+Login: steve          			Name: Steve Gedikian
+"|IFS=' ' && exec /usr/local/bin/procmail -f- || exit 75 #user"
+Project:
+Do things that people tell me I can't do.
+
+<a href="http://genghis.winamp.com/~steve/plan/">Read my archived journals.</a>
+Plan:
+June 7, 2002 - 5:01AM
+
+Wow, when was the last time I did an update
+at round abouts 5:00AM? By my count, at
+least a year or so. What do you owe this
+great occasion to? Well, me and the boys are
+all up working on Winamp3 right now at
+Brennan's house. This is the second thursday
+in a row that we've done this and frankly,
+it's starting to wear me down big time.
+
+I think I'm probably going to take a nap in
+a little while. I was supposed to have a 
+meeting of some sort tomorrow but there's
+just now way in hell that I'm going to be
+around for any fucking meeting. If no one 
+can understand that, then fuck them I guess.
+
+I miss my bed at nights. I miss sleeping next
+to Sharon. It totally bites balls when
+you're just far enough that it's not really
+feasible to try to go home just to hop in the
+same bed.
+
+I'm starting to see how much of a toll
+Winamp3 is really taking on all of the team.
+We're all quite irritable and we find reasons
+to snap at each other quite too often. I think
+that the tensions are higher than they've
+probably ever been, at least in terms of most
+of the group. I'm looking forward to the day
+that this release date is behind us and Winamp
+is just out there and being used by people. 
+We're not too far off and this is always just
+the hard part.
+
+Anyway, I can't think anymore. I'm gonna nap.
+
+-s
+
+Login: swoods         			Name: Steve Woods
+No Plan.

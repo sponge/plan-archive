@@ -1,0 +1,58 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+
+Oct.12.2001
+-----------
+
+ I saw today on <a href="http://www.securitynewsportal">www.securitynewsportal.com</a> that the Sircam
+worm is due to unleash it's potential payload on Oct. 16.
+
+ According to SNP;
+
+"the worm will delete all the files and folders contained on the hard drives 
+of randomly selected SirCam-infected computers."
+
+ Our mailserver detects and bounces, on average, 250+ SirCam infected messages
+each day, so this is one damned virulent worm (granted, 95.2% of the incoming
+emails are from spamhouses, so perhaps this is poetic justice), but for the
+4.8% of you out there that have legitimate reasons for emailing us, you may
+wish to scan your systems in the next few days just to make sure you are all
+clean =)
+
+ For more information on this worm, see;
+
+<a href="http://www.cert.org/advisories/CA-2001-22.html">http://www.cert.org/advisories/CA-2001-22.html</a>
+<a href="http://vil.mcafee.com/dispVirus.asp?virus_k=99141&">http://vil.mcafee.com/dispVirus.asp?virus_k=99141&</a>
+<a href="http://news.cnet.com/news/0-1003-200-6660198.html">http://news.cnet.com/news/0-1003-200-6660198.html</a>
+
+ And for those of you who are interested, we are using Stalker's 
+Communigate Pro (<a href="http://www.stalker.com">www.stalker.com</a>) along with the
+McAfee Viruscan plugin. I've evaluated loads of email servers, and this one
+is by far the best one I've come across yet.
+
+ -Xian
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, leaky roof, broken glass, mud slides,
+forest fire, and/or projectile (which can include, but not be limited to, 
+arrows, bullets, shot, BB's, paintball, shrapnel, lasers, napalm, torpedoes, 
+or emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.)
+</font>
+---
+</tt>

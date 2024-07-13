@@ -1,0 +1,40 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........magicman
+Full Name.........Steve Thoms
+Description.......Level Designer
+
+==============================================================
+
+11/6/99
+
+It's nice to see a design decision work out basically how we intended 
+it to. From the beginning, Ray and the rest of us have wanted the end 
+users to be able to take levels that we ship with the game and reuse 
+them in new chronicles of their own making.
+
+We have one file that tells the game all of the locations available 
+for this particular chronicle and handles all the connections from 
+level to level (which exit will take you to which entrance on another 
+level). We call this our chronicle file (go figure). There is nothing 
+in the levels themselves that specifies which level you will get taken 
+to when you walk through this door or into this tunnel. 
+
+What this all means is that it's very easy for you to take a few of our 
+levels, create a new chronicle file (very simple text file), write a 
+few scripts if you want, and create a brand new chronicle you and your
+buddies can play through. You can make it as complex or as simple as 
+you want (many Storytellers may not want scripts to handle any of the 
+events or conversations and simply play them all out like you would 
+around a table - in which case, creating a brand new chronicle couldn't 
+be easier).
+
+Within a few hours of receiving the first multiplayer chronicle design 
+doc from Ray, I had the chronicle file and scripts written. The next 
+day we were using it to test some Storyteller capabilities (note: 
+dropping a taxi cab and a parking meter in the middle of Twelfth 
+Century Prague is a sure way to confuse the players).
+
+-magicman
+

@@ -1,0 +1,59 @@
+
+*** Monolith Production's Finger Server
+
+User name: dussault
+Plan modified: Mon Mar 15 11:20:25 1999
+
+				
+3/13/99
+
+Just finishing up the implementation of skeletal animation 
+for Lithtech 2. This will REALLY help our games have more 
+models with better animation. There are several key 
+advantages of skeletal animation we'll be using extensively
+in our LT2 game:
+                     
+Shared animation sets - Models with the same skeleton can 
+share animation sets.  This will save the animators TONS of 
+time in exporting and tweaking animations.  This also 
+allows us to change the geometry of the character very 
+easily without changing the animation. 
+                                        
+Memory savings - Skeletal animation itself cuts the memory 
+requirements of model animation down by a factor of 2-3.  
+Using shared animation sets should halve it again.  
+Basically, animation memory will NOT be a problem!
+
+Rotatable nodes at runtime - This will allow us to move 
+character heads, eyes, limbs, and mouths independent of the 
+animation they're playing.  One thing we might experiment 
+with is a 'ragdoll' mode a model can be put into where 
+their bones use realistic physics without any specific 
+animation being played for infinite variety in the 
+character deaths and recoils.
+                                                            
+The attachment system is being reworked to allow MUCH more 
+flexibility. Attachments points on models used to be 
+geometry nodes in the model.  This took up lots of memory 
+for the extra animation data.  Now, the 'sockets' will 
+simply be a position and rotation offset from a bone in the 
+model.  This means we can have MANY more attachment points 
+for free and they can be repositioned inside ModelEdit very 
+easily.
+
+Other than that, LT2 is proceeding very nicely.  There are 
+new optimizations in the preprocessor that help reduce the 
+final poly count a LOT.
+
+Pultzar is on DEdit now - the new DEdit is kicking butt.
+
+We now have model exporters for these modeling packages: 
+SoftImage, 3DSMAX, Lightwave, and Maya.   
+
+The next few months are going to be heavy graphics R&D.  
+I'll describe the specifics of the features we're doing 
+later (doing want to speak too soon :).
+
+
+				
+

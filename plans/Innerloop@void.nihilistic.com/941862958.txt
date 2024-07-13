@@ -1,0 +1,45 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+
+11/5/99
+
+Well, seems like a good time for a periodic development update.
+
+The last few days we've had an engineer from WON.net in the office to help
+get the on-line matchmaking process ironed out.  We made a lot of good 
+progress on it, and the whole process of getting into the chat rooms and
+finding opponents is very clean.  The whole system works a lot like 
+battle.net, but has some unique twists.  For instance, you can switch your
+character persona while in the chat rooms and other people can view your
+character details, etc.  So its a bit like role playing inside the chat
+room.  Still have some work to do here, but the basics are up and running,
+so now its all refinement and polish.
+
+Yves has been working mostly on AI stuff lately, and its getting to be 
+very cool.  Just today he was testing some of the party-based command modes,
+and it looks like its going to work out as good or better than we had 
+hoped.  Basically you can click a single button and send your party members
+out into the level "looking for trouble" as it were, or click another button
+and have them form on their leader (ie: you) and form a defensive huddle. 
+Its cool when they first enter a fight they'll automatically use some of 
+their blood pool (like mana, essentially) to cast some stat-enhancement
+effects (ie: buffs).  Still a lot of work left, but they are starting to
+feel human.  Very obediant, undead humans...
+
+Also been working on support for various 3D cards under Direct3D.. Our 
+biggest challenge on the rendering speed side is still definitely the
+transform througput of the high-polygon models and worlds.  We just got
+another K7 machine (thanks guys!) and it makes a big impact on the 
+framerate, so we're still very dependent on the CPU speed, which is not
+a good thing really, but we're working hard on it.  I must have re-written
+the basic world rendering pipeline two or three times in the last few
+weeks, finding various ways to avoid an extra copy or transform or
+conditional statement.  VTune is helping a lot in this regard, thank god
+for that program.  I still have to get IPeak wired up for testing, I hear
+that's a damn useful rig also.
+
+

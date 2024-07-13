@@ -1,0 +1,50 @@
+
+Name: John Scott
+Email: jscott@ravensoft.com
+Description: Programmer
+Project: SoF2
+-------------------------------------------------------------------------------
+Nick: Pagan
+Project: SoF2
+
+Disclaimer - The opinions expressed herein are personal and
+in no way represent that of Raven Software or Activision.
+
+6/8
+
+I've been working on a SoF1 dedicated server guide on and
+off for some time now. Anyway, here is my first shot
+
+http://www2.ravensoft.com/users/jscott/sof/dedguide.htm
+
+If you have any suggestions, clarifications, additions,
+please feel free to email me.
+
+Good to see a lot more servers up since our last patch =)
+
+19/7
+
+We're very busy here working on an internal demo until early
+next week. So, apologies for not getting back to a few people
+with press quotes, technical questions, sof1 patch issues and
+a FAQ I am working on - all should be back to normal next week.
+
+17/5
+
+We've just about recovered from killing ourselves making the
+E3 demo... I hope you all like it! We're stuck up here in
+Wisconsin with no way to get in touch with the boys at E3;
+an email of your thoughts on Sof2 would be greatly appreciated!
+
+The game is running at picmip 1 - so none of the textures are
+displayed in their full glory. You really need a 64Meg card
+to view them (even with texture compression), and I don't
+think the demo machines have them.
+
+26/8/99
+
+The Raven SETI team....
+
+http://setiathome.ssl.berkeley.edu/stats/team/team_6644.html
+
+ 

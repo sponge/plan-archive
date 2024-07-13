@@ -1,0 +1,10 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Lead Programmer
+Project: ?
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+well EF Fans, for some reason the EF Master Server machine didn't reboot correctly after the latest MS Security update.  I just checked it and it seems to be running okay now.  Email me if there's any more trouble. Sorry for the delay in getting it fixed. :(
+-jmonroe

@@ -1,0 +1,375 @@
+Login: mobius         			Name: Alan Willard
+Plan:
+
+Legals would have gone here if I had spent many years
+in college to be a lawyer.  As, however, I have not done that, this
+is not a valid statement of Epic Games.
+
+*\____________________________________________________________________/*
+
+1-11-2k***
+
+ The new UT patch (405b) was released today, pick it up at your favorite UT website.
+It is COMPLETELY network compatible with previous versions of UT, so never fear, if
+you don't download it and your favorite server does (or vice versa) you will still 
+be able to connect and play!
+
+ - Alan
+
+1-10-2k***
+
+  Rather than make a long boring post about some lame thing I found on the web,
+I'll just say this:
+
+ The long wait for the release of those free maps we mentioned awhile back
+WILL BE worth it.  
+
+ 'Nuff said.
+
+ - Alan (who will be making sporadic appearances on the Etherlife T3 server
+                            (128.208.47.165)
+
+1-7-2k***
+
+Scientist proved today that 90% of Brandon's neural network has been replaced
+by complex caffeine molecules.
+
+ - Alan
+
+
+12-28-99***
+
+ Happy birthday to Ross K. Jacobs, who turned 25 today.
+
+ Having read some of the recent reviews of UT and Q3A, I have noticed one 
+fairly serious misconception which has been floating around for quite
+awhile now...
+
+ Ping, the latency between two computers on a network, either WAN (internet)
+or LAN, is a measurement of network connection response, NOT of the efficiency
+of a program's network code (other than TCP/IP itself).  The correct measurement
+of a game's network code is in how well it deals with high or low pings.  The
+game in no way causes high or low ping, it is totally dependent of your connection
+to the internet, the server's connection to the internet, and all the systems between
+you (the client) and the server.
+
+ This means that if you play any game on a server with a ping over 250 or so, and it plays
+well, that game has good network code.  If you play a game on a server with the same ping,
+but the gameplay is laggy, stutters, or is downright unplayable due to connection
+problems, the netcode for that game is not quite up to snuff.
+
+ Also, some games calculate ping differently (don't ask me how, I ain't no programmer!)
+so even that simple number is really only a general idea of how good your CONNECTION TO
+THE INTERNET is.
+
+ - Alan
+
+12-25-99***
+
+ Merry Christmas to all!  In honor of the holiday, I just wanted to throw out
+a quick line of cheer and goodwill to all.
+
+Or as my mother would say (and often has):
+
+ Remember, the bigger the pile, the brighter the smile!
+
+ - Alan
+
+12-19-99***
+
+ I've been reading alot of online comics lately, and I just wanted to complement
+the author/artists who do them!  
+
+www.etherlife.net > Zach Stroum, really blows my mind... *groan*
+
+www.penny-arcade.com > If you've never been there, you're truly missing out!  I
+ am totally looking forward to their Christmas Carol interpretation!
+
+www.sluggy.com > Oh god, sheer mayhem!  This is one of the strangest and most oddball
+ comics I've read ever... A mini-lop with a switchblade?
+
+www.herdthinners.com > Much fun to read, more along the lines of traditional 
+ newspaper comics.  Innocent and funny.
+
+Happy Holidays to everyone!
+
+ - Alan
+
+12-11-99***
+
+Playing Planescape:Torment, and I have to say, the story is very very good. I've 
+been an RPG'er for a long time now, pen and paper, digital, whatever, and this one
+has a very good feel to it.
+
+ - Alan
+
+
+12-3-99***
+
+ Ok, so I'm looking for something.  I have a Laser FX(tm) Light show thingy, one of
+those things that does a pattern on the ceiling/wall that responds to music. I got it
+as a gift quite a few years ago, and I know it was purchased at Spencer Gifts.  Now,
+what I am looking for is the upgraded model, which has 2 light array thingys on a 
+single pedestal and can take a stereo input.  Any info anyone can dig up on this
+would be greatly appreciated. There is a tag on the bottom of mine that says it was
+manufactured by the Samil Enterprise Co., LTD: part # SF-102.
+
+Anyone who can find me the upgraded version will be my best friend :)
+
+Email anything you can find to alan@epicgames.com
+
+
+11-17-99***
+
+UT being done and all, I thought I'd leave a quick message here and thank all
+the people who put faith in me and taught me the skillz I use today.
+
+In no specific order:
+
+Jay D. for being very patient with someone who forgot to add startpoints to Doom maps!
+
+Ross J. for all those late night co-op Doom games :)
+
+Kevin F. Viva!
+
+My parents, for letting me live in the garage for some months being a bum and sitting
+at the computer 24-7
+
+Melanie B. though I know she'll probably never see this, for putting up with me without
+a job
+
+Doran G. for running that bad boy
+
+id Software for making level design-able games
+
+Shane C. for making an offer in an airport. (get your mind outta the gutter.)
+
+Cliff B. for putting up and only very occasionally shutting up!
+
+Tim S. for being a genius
+
+Brandon R. for being angry :)
+
+If I forgot anyone, I'm sorry. If you didn't want to be on this list, I'm sorry.  If
+you demand to be on this list, go to hell.
+
+
+Holy S**t, we did it...
+
+10-22-99***(EARLY morning)
+
+  James Green, Jack Porter, and myself went down to the loading dock and played
+some 'street' style hockey... Alright, I wasn't wearing rollerblades, and we
+didn't play for a score or anything, but I am nice and sore and out of breath (quitting
+smoking three months ago is the only reason I even survived tonight!), but we had
+a good time acting like complete fools in front of the security camera.  In more
+directly work related news, the programmers are squashing bugs like madmen, and 
+the level designers are finished with all their known stuff.  While it feels 
+REALLY nice to be at the end of this project, I can't seem to relax yet, and I
+don't think I'm going to until I actually SEE it for myself in stores.
+
+  Those of you who have been to Epic's offices here would truly NOT recognise the
+place at the moment... Cliff and I share an office, and we've been going a little nuts
+decorating it this week (not for Halloween or anything, just finally got up the energy
+to go and do what we've been talking about for awhile) and now our office is very...
+ummm eccentrically lit.  The disco balls are interesting, but I think the 
+blacklites and the fog machine really give it that extra 'Umph'.  Think I'm kidding?
+Take a look. <a href="http://www.mindspring.com/~mobius/officepic.jpg">Here.</a> Its been awhile since I've done any html, so forgive
+me if this is badly done. Our little corner of the world now looks like a bad club.
+
+A very bad club.
+
+
+Listening to:
+
+Type O Negative: World Coming Down (GREAT album, Creepy Green Light rules!)
+Various: Mortal Kombat Sountrack
+Delerium: Karma
+Creed: Human Clay
+Crystal Method: Vegas
+
+ - Alan
+
+
+09-17-99***
+
+  WE NEED SERVERS :) We have more players than servers right now, so EVERYONE who can
+run servers!  (obviously the higher your bandwidth, the better!)
+
+
+  Cliff Bleszinski is a punk ass bitch.  He apparently doesn't feel it necessary to
+mention all the SMACK DOWNS he's received in Insta-Gib... He can't Shock Rifle
+to save his narrow ass 8}
+
+Listening to:
+
+Fear Factory: Obsolete
+Stabbing Westward: Darkest Days
+
+07-02-99***
+
+  Well, 'Private' Greenmarine obviously just doesn't know how to make an
+effective assault against a superior force. Superior in intellect and in
+architecture! Heheh. We had a big discussion last night, and we've basically
+agreed that the first units that Cavedog releases for Kingdoms have to do
+something to balance Zhon... Zhon being all that I play, so I can do a very
+quick build to harpy-dom :)
+
+Listening to:
+
+Tool: Aenima
+James Horner: Krull
+James Horner: Star Trek 2 & 3
+James Horner: Aliens
+Crystal Method: Vegas
+
+
+06-26-99***
+
+ Kingdoms and Mechwarrior 3 both kick much ass!  I've been tinkering around
+with both of them as time permits, so I've not gotten very far in the single
+player aspects of either, but when I do play, I'm loving it!  Whipped up a 
+TA:K map over the last two nights, and emailed it to some of the Kingdoms
+sites, so it may pop up on a few of them in the next few days.
+
+ I also plan on starting Thomas Harris' 'Hannibal' today sometime, though I'm
+not sure that's such a good thing!  The last thing I read by Stephen King was
+his review of this book, and unfortunately got hit by a van.  That does not
+bode well.
+
+ - Alan
+
+
+06-16-99***
+
+ Just to clarify a bit:
+
+	James' post on the UnrealTournament.net site does NOT mean the game
+is done! It just means that we've locked down on all revisions of code
+not necessary to bugfixes.  This means we could still have a few weeks or
+more of testing and revisions before we can properly go gold.  Which we are
+not now, again, we are NOT done with UT, nor have we gone gold.
+
+ - Alan
+
+
+06-08-99***
+
+Congratulations to Dave and Shannon Ewing, who were married this Saturday
+(06-05-99) to the applause of friends and family.  It was a wonderful
+wedding, and all attending had a great time.
+
+ Have fun in Cuba guys!
+
+Listening to:
+
+Anthrax: Persistence of Time
+Tool: Aenima
+Tool: Undertow
+White Zombie: Astro-Creep 2k
+Tangerine Dream: The Private Music of
+Tangerine Dream: Dream Music 2
+ZZ Top: Antenna
+Kid Rock: Devil Without a Cause
+
+
+ - Alan
+
+05-27-99***
+
+Just a quick update to thank all the people in #unrealed on gameslink.net
+for trying to help me find DmScruular, an old map of mine... I got it now!
+
+  - - - Warning! Long rant ahead! - - -
+
+ I've been doing some thinking on the state of the industry alot lately, and
+I've gone over and over it in my head, and I can't figure out why we (the general
+we, not Epic) are so interested in the so-called Ion-Gate scandal... Its not MY
+company, and its not my games that are being delayed by it...  While I have up
+till now been avidly watching BitchX, OldManMurray, and Flamethrower dig up the
+data on everything happening in the Ion offices, I've come to the realization that
+I don't really WANT to know everything that happens behind their doors.  They are
+a company that obviously has problems dealing with the press in regards to their
+business decisions, and everyone who've left there whose opinions I have read have
+not had good things to say, but ITS NONE OF MY BUSINESS!  Unless I was to go to
+Ion Storm and apply for a job, I don't need to know what they're doing in a business
+sense.  Now, I do agree that there are lots of reasons for the prospective employee
+of a company to want/need information on the business practises of an employer, 
+so that said prospective employee can make an informed decision on who s/he wants
+to push the hardest to gain employment with.  BUT. I do not think it is right that
+quite so much gloating and general vulture (vulpine?) behavior is being evidenced
+over the internal rumblings of a company that's not saying a word about their
+rumoured squabbles, true or not.  What it comes down to for me, as a consumer of
+their product, and only as that, is do I enjoy the game?  I'll find that out when
+I play the full versions of Daikatana and Anachronox.  I enjoyed what I saw of it
+at E3, and the same it true of Anachronox (though being a long time RPG fan, I'd
+probably buy Anachronox first, given the chance).  I'm going to try and act a
+little more respectfully and not pry so much into the affairs of a company that I
+have no legitimate business prying into.
+
+$.2
+
+ - Alan
+
+05-24-99***
+
+ For all those guys in #unrealed... Groan.
+
+ - Alan
+
+05-21-99***
+
+ Well, back in the office now after E3... Spent some time with my folks after
+E3, went and saw Star Wars with my Dad, which was really cool! Needless to say
+I thought Star Wars was extremely good, as a matter of fact Pancho and I have
+been reminiscing (sp?) about the movie all day, and quoting our favorite bits.
+
+ Back at work today, and it feels REALLY good... I've been out of the office since
+the 10th, so its really nice to sit and check my email (all 178 of them) and see
+whats been happening in the world.
+
+Well, not much of an update, but there you go, I'm a boring kinda guy.
+
+ - Alan
+
+05-17-99(later)***
+(realized that i was using the date and the time zone, but no time. Doh!)
+
+Just wanted to add in here that not only did Rune rock, but so did Deus Ex.
+They've got some truly cool shit in there.
+
+ - Alan
+
+05-17-99***
+
+WOW!  E3 was just freakin' incredible!  We all had a great time, got to look at
+almost everything we wanted to, and had some free drinks and snacks here and
+there to boot!  The only thing I hate about post-E3 is now I have to wait 3-6
+months to play all those really cool games again! Had alot of fun meeting some of
+the licensees, and getting to demo UT to the public.  The positive reaction we got
+from everyone who played it was truly heartwarming, and I'd like to thank everyone
+who came by the booth for all your positive comments.
+
+p.s. Rune is going to kick serious ass.
+
+ - Alan 
+
+05-10-99EST***
+
+  Well, we had one hell of a blast last night, what with all the webmasters here!
+Evil Avatar, Apache, Arcane, Billy 'Wicked' Wilson, Mia'cova, and Dark Viper it was
+a pleasure having you all here, and hearing your ideas on the game surely has inspired
+us to even greater heights!  
+
+  To all those who will be attending E3 this year, feel free to drop by the booth and 
+drop your greets off!  We'll be at the booths from time to time, I'm sure! I'll be out
+of here tomorrow, heading to the old homestead to spend some time with my folks before
+jetting to LA for the event.  Its going to be very strange watching people play with
+our toy! I got such a great feeling yesterday watching all those people play UT and
+enjoy it!
+
+till then. 
+
+ -= Alan Willard   =-
+ -= Level Designer =-
+ -= Epic Megagames =-

@@ -1,0 +1,28 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: beau
+Plan modified: Sat May 06 17:37:17 2000
+
+.plan
+Beau Anderson
+beau@ritual.com
+Lead Artist - Heavy Metal - 
+
+05/06/00
+
+The Julie model and new screenshot can be seen at 
+http://www.avault.com/news/displaynews.asp?story=562000-123118
+
+Also, some new shots on the Gathering site at 
+http://www.godgames.com/?section=games&page=heavymetal
+
+I'm pretty happy with the way the model came out. She'll have quite a variety of
+outfits throughout the game.
+ 
+Lately I've been finalizing the weapon models and effects.  They are pretty much 
+all done thanks to the ease of our effects system.  I cried for full artist control 
+over the effects system after Sin and definately got it.  Tearing up a monster 
+with a chainsword is pretty cool too.
+
+

@@ -1,0 +1,115 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-------------------------------------------------------------------
+User Name: tim.gift     Plan Last Modified: 12/22/1999 11:44:19 PST
+
+Real Name: Tim Gift
+Nickname: Slacker
+Job: Programmer/Designer
+Project: Starsiege TRIBES
+
+12.22.99
+
+Doesn't seem that long ago... Last Friday was the 1
+year anniversary of Tribes.  We received final Sierra
+certification for duplication Thursday 12/17/98 at 7:46
+PM.  By the following Monday the warezers were online,
+and by the middle of the week there were players who
+had actually purchased copies!
+
+These days it's all Tribes 2 programming & game design.
+My role on the project has changed quite a bit over
+the past few years :) (a long story)  Now I'm mostly
+coding all the "game" part of the Tribes 2 engine.
+
+The big items that I've been working on:
+
+    Client & Server object process management
+       Move processing and inter-frame interpolation
+       architecture Client->Server move/input
+       synchronization This is part of an interesting
+       client/server infrastructure that MarkF and I
+       will discuss at the next CGDC.
+    Spatial collision database
+        Architecture and basic collision methods
+        Extruded polytopes and other misc. clipping
+        routines. Tribes 2 employs polytope -> poly
+        collision (completely different from what I did
+        on Tribes 1, which was basically polytope to
+        BSP).
+    Rigid body physics class
+        Pretty standard stuff. Though resolving contact
+        friction in a reasonable amount of time always
+        causes me problems (Not the first time I've
+        written one, but I never seem to end up using
+        it). Will probably use this for the vehicles
+        this time.
+    Server->Client datablock architecture
+        Datablocks are used to transmit static object
+        attributes to clients.
+    Game base class
+        Overall architectural design for game objects
+        and their interface to the scripting language.
+        This base class provides a lot of  common game
+        object functionality including datablock,
+        energy, damage and multi-threaded animation
+        management as well as Item image mounting, a
+        number of script interface functions, etc.
+        Server->client packet code as well.
+    Item Images
+        Images are items mounted on objects, such as
+        weapons and packs. Items now have a table
+        driven state engine. The states are defined as
+        part of the image datablock and are used to
+        control all animation, sound, recoil and
+        effects on the items in response to trigger,
+        ammo, loaded and timer input. I hard coded
+        these states in Tribes 1, but now they can be
+        defined on the server (by Mods) and are
+        downloaded to the client.
+    Camera Class
+        Observer camera (actually runs on the server
+        and uses the  client/server move architecture).
+    Static Shape class
+        The class used for all stations, sensors, etc.
+        This class doesn't really do a whole lot as all
+        the behavior for these objects is scripted.
+    Item class
+        Basic items, both stationary rotating items, or
+        items thrown/ dropped by players.  Includes
+        client side prediction for moving items, which
+        I skimped in Tribes 1.
+    Player class
+        Been spending a lot of time on this one
+        recently.  I had the basic player running
+        around a while ago, but then went off to work
+        on  other things.  I just finished cleaning up
+        and finalizing all the player movement code,
+        stepping (over things), sliding off corners and
+        along creases, etc.  Tribes 1 had a few
+        problems in this area which I never got around
+        to fixing. Tribes 2 is much smoother. The new
+        approach is cleaner, uses less code, and works
+        better :) The player is now almost done, bunch
+        of misc. stuff (including death and celebration
+        animations), but the only big thing left is
+        client side movement prediction, which I should
+        start on this afternoon. He currently moves on
+        other clients, but doesn't interpolate or
+        predict (this is handled differently than your
+        own player).
+
+After player client prediction, some projectile code,
+then the code I expect to have some fun with: vehicles.
+
+I guess that brings me up to date.  Hope I haven't
+bored anyone... (kind of a long post)
+
+Tim
+
+
+
+
+

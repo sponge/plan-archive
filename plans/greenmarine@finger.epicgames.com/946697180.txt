@@ -1,0 +1,36 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Mail forwarded to brandon@epicgames.com
+Project:
+Unreal Tournament
+Plan:
+Friday December 31, 1999
+
+9:58 PM
+
+A new patch for UT Linux is available at openut.sourceforge.net.  Follow
+the link to the project root page and download from the column on
+the right.  Feel free to leave bug reports, but please register with
+Source Forge first so I can contact you if necessary.
+
+This patch is version 402B and is a Linux patch only.  It contains fixes
+for two critical Linux issues:
+  * UT Linux now runs under Enlightenment.
+  * UT Linux will properly shutdown glide after a critical crash.
+It also has a few other fixes and incidentals.
+
+There will be no 402B patch for Windows.  The next multiplatform UT
+patch will be 403 (we'll probably release the first UT expansion pack
+around that time).
+
+I will release the open source archives tonight or tomorrow, depending
+on how long it takes to get organized.
+
+The UT open source project page also contains debugging binaries.  You
+can read about these in the Announcements forum.  WEB SITES: Please don't
+mirror these, they are 20 megs each and its not necessary for
+most users to get them, only programmers will want them.  Running the
+game with debugging libraries is slow and not a good idea for most
+people.  Mirroring them on fan sites is probably not appropriate. 
+
+There are binary archives for guard and slowguard.  You can read
+about the difference on the site.

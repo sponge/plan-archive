@@ -1,0 +1,16 @@
+Login: justin         			Name: Justin
+Plan:
+9/6/01
+-=-=-=-=-
+
+I realized today that writing software for other people can be really
+rewarding, really depressing, or both at the same time.
+
+Thus, from now on (a few months back on, really), I'm going to focus
+on writing software for myself, and sometimes other people. 
+
+(Update: just to clarify, I mean, writing software that other people
+will use. And give suggestions, and so on. Not necessarily what other
+people want you to make. )
+
+-Justin

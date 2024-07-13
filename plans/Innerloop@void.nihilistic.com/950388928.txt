@@ -1,0 +1,75 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+
+2/12/00
+
+Wow.. Such great weather outside how can I not do a plan update!
+
+Things are cruising right along on the game.  This is really the part of
+development that's the most fun, where everything comes together and cool
+new stuff gets added almost on a daily basis.
+
+One of the coolest parts of the final phases of a project, for the programmer,
+is when you see new features for the first time that exceed your expectations
+of what the game is capable of.  That might not make much sense, but what I
+mean is, as a programmer I work on the project one small feature at a time.
+One day I might be working on path-finding, or the next day working on the
+collision systems, and when I work on each part of the game, I usually make a
+small test case or boot up one room of someone's level and test the feature in
+the exact same place, time after time.  So there are PARTS of this game that I
+know like the back of my hand.. The starting room in the Azenka's convent, the
+streets of Old Town Prague, or the area outside the east gate of the town, for
+instance.  And I know a few of the in-game cutscenes and dialogs because there
+are always a few bugs and tweaks to make in that system.  But I rarely get a
+chance to really look at the game as whole.  Part of that is just lack of time,
+my day is plenty full putting in final touches and fixing bugs, but part of it
+is intentional.. I WANT to be shocked and surprised by stuff when I play the 
+final game.  Its like shaking your gifts under the tree before Christmas, some-
+times its more fun NOT to know what's inside.  This was really driven home the
+other day when we got a whole bunch of new screenshots sent over from our
+publisher to be used for web sites and stuff.. I went through them one by one
+and the majority of them were of areas or characters I had never laid eyes on
+before, and the quality and variety of it all really blew me away.  I'm lucky
+because I'm one of the few people on the team that can still be surprised by
+this stuff anymore -- the artists and level designers deal with the art and
+design content every day.  So if I had to pick one part of the project I 
+enjoy the most, its that feeling of surprise and amazement you get when you
+realize how the final product is becoming much more than the sum of its 
+programmed parts.
+
+As for the parts I'm focused on lately, been playing around with the "gibs"
+system, kinda morbid stuff, but hey, we're rated "M"!  Ray did some polish on
+the lighting halos and fixed the last lightmap-related issue, so now we've 
+got some neat levels where lightning illuminates accurately through windows
+and stuff with blowing curtains and correctly timed thunder, its pretty 
+convincing.  The new batch of screenshots I mentioned should filter out
+slowly through the proper channels and shows off some new features like proper
+cast shadows from statically place objects onto walls, weather effects, some
+of the most elaborate discipline special effects, and so on.  There are
+also a couple videos being worked on, but I don't know exact ETAs on those
+or where they'll appear first - hang in there.
+
+One last thing before I wrap this up -- There's another Game Programming class
+starting up at the San Francisco Berkeley Extension campus in the City.  I
+thought this 5-week course last year and it went really well, it was a lot
+of fun and I've kept in touch with a lot of the students, several of whom have
+landed new jobs in the industry.  This semester the course is on Tuesdays
+at 6:30 at the new Market Street location (I haven't actually been there yet
+myself, but they tell me its at 425 Market, 8th floor).  The class runs for
+5 weeks and can be taken for credit.  Its most appropriate for people with a
+good grasp of C or C++ and want to learn the specific structure and tricks used
+to write games using Windows / DirectX.  If you already do 3D math in your
+sleep and already know what an A* search is, then its probably too basic for
+you.  Last time we had about 25 people which is about the limit for these I 
+think, but this year I am told its only about 15 so far, so there's still
+lots of room.  I'm also going to do another Tutorial session at GDC in March
+that is more intermediate-level and it held during one 8-hour day.
+
+
+
+
+

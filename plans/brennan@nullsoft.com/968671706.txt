@@ -1,0 +1,158 @@
+Login: brennan        			Name: Brennan Underwood
+Project:
+Why, none other than architect and head such-and-such for Winamp 3.0.
+Codename Wasabi. Why this fails to get me all the chicks I'll never know.
+
+Plan:
+11-Sep-2000 3:48 AM
+
+Wow, it was only about 1 year and 1 month ago that I started working at
+Nullsoft. I got my computer, stole a table from Spinner, sat down,
+and created an empty project in MSVC called 'studio.' My, how it's grown
+since then...
+
+Winamp 3 is...
+
+...a 100% from-scratch rewrite of Winamp. Everything in it or about it is
+next-generation. Less than 1% of code from Winamp 2 has been imported to 3
+(mostly some random win32 shell programming code etc.)
+
+It features
+  - A brand new core playback system by Justin
+  - A brand new skinning system by Christophe
+  - A brand new music database system by Francis
+  - A brand new component-based plugin system architecture by yours truly
+  - An evolved and refined user interface by Steve and me
+
+...going to go into a private beta in a few weeks. This is not the beta
+you may have signed up for, this one has to be kept to a (very) small number
+of people due to software licensing restrictions.
+
+...going to rock butt.
+
+...not finished yet.
+
+...never going to be truly "finished." Instead, it will steadily rock more
+and more butt over time.
+
+...about all I've thought about or worked on for the entire previous year
+of my life (besides the binge drinking, trips to Vegas, bikini models, etc.),
+and so it is very exciting and not a little scary to almost be able to
+present it to you. I can't wait! I hope you like it.
+
+
+05-Sep-2000 5:19 PM
+
+Good morning!
+
+Phun Winamp 3 Phact #1: Nitrane is going bye-bye. We are going to ship a
+version of Fraunhofer's codec with Winamp 3 for MP3/MP2 playback. It might
+end up being magically faster than the stock codec, too.
+
+Phun Winamp 3 Phact #2: I just rewrote the shuffling. Then I spent about
+half an hour with a notepad making tick marks making sure it played every
+file in the playlist once before reshuffling. So if you can get it to
+play the same song twice in a row or just come up too often, I'll give you
+a cookie. I'm thinking of having a global shuffle option too, which makes
+sure you haven't heard any one song in your library more than another,
+even as you switch from playlist to playlist, given the songs in the current
+playlist to choose from.
+
+What else? Lots. But I'm going to go outside now. :)
+
+
+30-Aug-2000 6:57 AM
+
+Whew, a marathon, 16-hour coding session comes to a close. Winamp3's
+usability is growing by leaps and bounds. I love working on the top-level
+interface/usability stuff. It's so much more instantly gratifying than
+low-level architecture stuff. Not that I'm not busting butt to finalize
+that too, 'cause I am. In fact my "Retarded Code To Fix Before Anyone
+Sees It" list is getting nice and short.
+
+I'm sincerely hoping we will get the private beta out in just a couple of
+weeks. We'll see. I especially want to get copies to our Forum Moderators,
+who are all wonderfully patient people, I'm told. ;) Please don't kill me
+if I have to push the date back a few times. And don't worry if you didn't
+make the beta list. We all know some hoser is going to share his copy
+"accidentally" on gnutella or something. Although AOL will probably sue
+them if they do, 'cause they would be violating their NDA. At least it
+would prove gnutella is about file swapping in general, not just mp3/porn
+swapping.
+
+Can it be piracy if it's free software? I dunno. All I know is, this is
+the big push at the end where everything comes together. Bear with us.
+We think you'll like what we're making for you.
+
+
+28-Aug-2000 1:41 PM
+
+Yeah, that inside.com story was pretty interesting. People are finally
+noticing that you never hear from us any more.
+
+
+22-Aug-2000 5:30 PM
+
+Ah, glorious! I recently declared by fiat (under cover of "asking") that the
+Winamp 3 client team works from home Monday through Wednesday.
+
+I am now getting my home office set up and it is great! Well, having to use
+VPN kinda sucks, but that's getting fixed. I have Monkey Radio coming in on my
+big fat speakers in the living room, the whole house is open and being invaded
+with fresh air, there's no one else here to distract me, and I just wandered
+across the street to buy a pint of ice cream...
+
+Ahhh... this is MY Nullsoft.
+
+
+19-Aug-2000 4:40 PM
+
+2 days later and more of the same. Except I can actually close my jaws now.
+That's nice. On the other hand, part of my lip is still numb due to possible
+nerve damage during surgery. That's not so nice.
+
+I have managed to get some work done on the laptop, though. Some old
+design decisions that made sense at the time but then were never updated
+as outside concerns prevailed are now getting cleaned up. All of which
+will make life easier on the component writer.
+
+By the way, my entire life has been stalled by this tooth thing. Sorry.
+I am usually slow to respond (if I ever do :) to emails anyway, and this week
+everything is just halted.
+
+Someone recently emailed asking about support for the blind in Winamp 3.
+Don't worry, it's very important to me that it be as usable by the blind
+as Winamp 2.x was, if not more. That means key bindings, nonmodal
+interfaces, things like that. I'm even trying to avoid colorblindness
+issues (there are probably some anyway; I can't control what people do with
+skins.)
+
+I haven't yet looked into hooking into the screen reader type stuff yet,
+but it's on my to-do list for 3.1. Heck, maybe we'll provide enough hooks
+for someone to write a native reader component.
+
+At some point me and Francis intend to mess around with the
+public speech recognition packages out there and write an interface
+from one of them to the script system. Which would be cool for everyone,
+of course.
+
+"Computer!"
+"Bee-do-boop!"
+"New playlist. Add music, artist DMX Krew. Randomize. Play."
+
+OK, so I doubt public speech recognition is up to this yet, but we'll see. :)
+
+p.s. www.monkeyradio.net
+
+
+----------------------------------------------------------------------
+
+
+17-Aug-2000 3:50 PM
+
+Gawd, my face hurts. I had my wisdom teeth out this past Tuesday. Healing
+seems to be taking much longer than I anticipated. So... lots of soup,
+drugs, and almost no work getting done. :( Oh well, at least I can plan
+what I'll do when I get back.
+
+

@@ -1,0 +1,57 @@
+
+Name: Robert Gee
+Email: rgee@mail.ravensoft.com
+Description: Artist
+Project: Star Trek
+-------------------------------------------------------------------------------
+08.20.99
+********
+
+On the other hand, you have different fingers.
+
+********
+
+Well, it looks like we'll be getting the skeletal system up and running some time next
+week or soon after Christmas vacation (is it really a vacation when most of it is spent
+driving?). It sounds like it should make the whole animation process much easier for us
+and look better too. Double Bonus! Gil has taken some time out from SoF to set it up for
+us and James has devoted much of his time to it as well. 
+
+There's something else I hope the skeletal system will take care of: This whole "Katherine
+Hepburn" effect that's created by the tag system that QuakeIII Arena uses. It's a great
+solution to allow anyone to create a player model in almost any modeling/animation package
+that will work with the Q3 engine. It was designed for all you mod-makers out there, so be
+damn grateful that's the way they did it. It does, however, make things a bit complicated
+for us developers -> The only unfortunate side-effect is the Hepburn Effect that crops up
+when different player components (torso and legs, let's say) share separate animations.
+The legs are idling nice and smoothly but the rest of the model from waist up does this
+little funky spasm thing that is best described by Katherine Hepburn's physical condition
+as seen in Golden Pond. No disrespect to the Late actress, but it accurately describes the
+effect so there is no confusion when someone brings it up. "Borg on Golden Pond"
+
+It's something to do with the interpolation in the MD3Viewer and in the game itself. It's
+barely noticeable in QuakeIII because of the fast-speed action game play. But the kind of
+game we're making requires to have models (people) standing around casually while they
+work or interact. It's these simple and subtle animations where the Hepburn Effect becomes
+a big problem. We've solved the problem using Softimage's expressions tools, or I should say
+that Eric Turman fixed it for us - basically a "constraint switch" that we can turn on or off
+before exporting the geometry. It's been an additional step that I hope the skeletal system
+can alleviate. We shall see....
+
+Other EF News -> We'll be updating the website in the next few weeks with some new renderings
+of aliens, weapons and Hazard Team members so keep checking back there and you'll finally
+see what Munro looks like. The Hazard suit itself is getting a new look sometime soon - after
+it's been approved we'll be sure to make some screenshots available to show it off =)
+
+The game is looking great - things are starting to gel and it's starting to "feel" like a
+game. We're at that point where the majority of our tools, utilities and procedures have
+been tested and hammered out so things are being done faster and more efficiently. Kinda
+like when the team is able to shift up a gear and you're able to see what this baby can
+do. Wish I could say more, but I won't.
+
+Congrats to both Id and Epic for helping me put down AoK for a while. Every lunch hour is spent
+admiring your work and efforts. Haven't had this much fun since HereticII bladematch! It'll
+be a while before I go back to my RTS ways....
+
+-RG 
+

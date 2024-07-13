@@ -1,0 +1,152 @@
+
+Name: Nathan Albury
+Email: nalbury@mail.ravensoft.com
+Description: Programmer
+Project: SoF
+-------------------------------------------------------------------------------
+1-15-00
+
+It seems like there's still a fair amount of confusion on some of the more
+controvertial issues in Soldier of Fortune, so here's my sad attempt to
+clear it up a bit.
+
+In regards to enemy spawning and limited saves, these two attributes of the
+game are dictated by the difficultly level.  HOWEVER, in addition to our 5
+preset difficultly levels, we have a custom difficultly level submenu that will allow
+you to adjust the game more to your liking if you aren't pleased with our
+defaults.  So, for example, if you like smart enemies but can't stand spawning,
+you can set up the game to accomodate that.  Or, if you are more interested in
+a higher intensity, more Doom-style shooter, you can crank up the spawning and
+drop the enemy ai down.  The game can be played according to your tastes.
+
+With that said, I'm extremely hopeful that once people get a hold of our demo
+they'll at least give our vision of the game a chance.  We've taken the feedback
+we've gotten into account, and honestly we've now had the chance to play the game a lot
+more.  The amount of tweaks that have occured since our last OEM and the present
+demo are quite vast.
+
+In particular, the AI has come a long way since our previous version.  It's
+finally to the point where playing the game stealthily can be entertaining,
+if that's what you're looking for.  I'm still of the opinion that maxing out
+enemy AI to inhuman levels isn't a good approach to game creation, but
+I do think that our guys are reacting in a much more believeable, enjoyable
+fashion.
+
+As far as the spawning is concerned, we've greatly refined and adjusted the
+play mechanics behind it so that it enhances rather than confuses the gameplay.
+Probably the most common complaint about spawning is that it invalidates stealthy
+play... and I think that's a fair point.  In our current system, the spawning
+exists in large part to ENHANCE the stealth.  There are no more instances where
+you can wander around quietly, taking great care to lean around corners and
+pick people off, only to get shot in the back by some wandering punk.  If guys
+are spawning, it's exclusively because you're making a whole lot of noise and
+carnage.  In fact, our challenging difficultly level (4 out of 5) is
+almost impossible if you don't rely on stealth - the enemies are quick enough
+and powerful enough that if you draw a crowd, you will fall over.  And, once
+again, if you really don't like spawning to the point of religiousness, you
+can turn it off.
+
+Hopefully (fingers crossed) this will help clear up a few things that seem to
+be distressing a lot of you.  Well, back to work, I suppose...
+
+
+
+12-1-99, part 2
+
+Just for the record, I don't think "Canada is gay", whatever that would mean.
+Canada is not gay, and neither am I, therefore, technically, I am as gay as
+Canada, no more, no less.  I picked it (along with Hitler and Macintosh)
+because of the silly nationalistic wackiness that always ensues in newsgroups.
+
+I also think it's rather instructive (and probably very sad) that I've gotten
+several e-mails from people mentioning my disparagement of Canada, but nary a
+one bothered by my use of the term gay below.  This leads me to believe that
+one of the following must be the case: a) There aren't a lot of actaully gay
+people who read .plan files, b) Gay people tend to be more literary than
+Canadians and thus understood that I didn't actually condone the examples I
+was using, c) Gay people have a lot thicker of skin than Canadians because there
+are more people intolerant of gayness than Canadianess, d) Gay people already
+hate me and couldn't care less about my opinion whereas Canadians are just
+approaching that point or e) I'd better stop right here because I can't see
+any of you anymore from the bottom of this incredibly deep hole I've just dug
+myself into.
+
+Thanks to everyone who's written me to assure me that not everyone out there
+is thoughtless and arrogant and that Canada is not in fact gay.  I think these
+are very important points to remember.
+
+Um, please don't be offended by this .plan update, also.  Tongue is planted
+firmly in cheek here and all that.
+
+12-1-99
+
+I must say, good job, Epic.  Unreal Tournament is extremely cool.  I wasn't
+expecting to get into any of the upcoming deathmatch-only games as I haven't
+been into deathmatch for a while, but UT is just too cool to pass up.  Nice!
+
+I've given this a lot of thought, and I regret to say that if I had to judge
+humanity as a whole based solely off my exposure to it via the internet, I
+have a strong feeling I would put everyone to death and make the world a
+better place.  Is it really so difficult to have a bit of civility?  Is it so
+tough to see past your own tiny little nose and realize that the rest of the
+world doesn't exist solely to entertain you?  (I don't mean you as in you,
+whoever is reading this, of course...  Instead I mean you, the people who are
+frustrating me to no end.)  Here's a thought;  if, for whatever reason, you
+want to persuade someone else to do something for you or to see something
+from your point of view, here are some good approaches: Ask nicely.  Bring up
+logical reasons.  Be polite in your requests.  Give the other person as much
+respect as you want them to give you.  Go in knowing that the other person
+doesn't owe you anything.  Now, with that out of the way, here are some bad
+approaches: "Your game sucks!!1!  i was playing it and the ai was gay.  i
+shotted tons of gusy and way to many of them died - youre game should only
+have about 10 guys each level.  Having a lot of guys is unrealiztic.  You
+better take respawning out - who ever put that in made a huge mistkae.  Respawnig
+is really really gay.  I cant believe you guys couldnt see how much respawning
+sucked when you put this out.  I really hope you plan on spending a lot more
+time on this game, because this is totally unacceptable."
+
+I am programming AI, and I am working on spawning, now to the exclusion of all
+else.  I really and truly want to improve and/or change them if it's going to
+help Soldier of Fortune out, and to be honest they're very interesting and
+enjoyable challenges.  I'm actually glad that Blue mentioned the spawning a
+while back, because it made a few of us take a closer look at it, and in
+retrospect I can see why he would complain.  I have a lot of ideas that I plan
+on trying out to make it a much more viable play mechanic - but none of us here
+have any intentions of removing it completely.  It will just be adjusted / changed
+until it is more fun, which is, after all, the point of a game.
+
+But if you honestly want to provide critisism and have your opinion be a factor
+at all when discussing things in a public forum that developers have access to,
+I can tell you one method for certain that doesn't get me thinking, "By Jove,
+this fellow IS right!  I hadn't noticed it before, but, watching my men run
+around, their AI is totally gay.  I can't believe how gay their AI is.  I
+better make it straight."  (Well, I guess, anyway.  I have no idea what the
+opposite of "gay ai" is.)  Nevermind that announcing that other people
+who are working hard at a difficult job have made a huge mistake while you lounge
+around on your chair downloading goat-porn-granny-fellatio-pix is incredibly rude;
+nevermind that spouting off from your ivory tower that matters of opinion are
+subject to your decrees as gospel truth is the height of pomposity; nevermind
+that making this game has swallowed 2 full years of most of our lives compared to the forty
+dollars that you'll have to shell out if you really decide not to warez it from
+your 13374ZZ buddies anyway, which no one is even FORCING YOU TO BUY.  Nevermind
+all that, because even if you don't consider any of it, the fact remains that
+when you treat developers like crap, they ignore you.  Except when they get
+particularly pissed off and update their fingers.  That's the only time they
+don't ignore you.
+
+Not everyone will like Soldier of Fortune.  No game can ever please everyone.
+Our game is about action and violence, and if you're looking for something else,
+particularly if you come in deciding what our game has to be rather than
+taking the time to see what it is, you're likely to be extremely disappointed, and
+I'm sorry.  I truly am.  We're doing what we can to make Soldier of Fortune as
+cool as possible, and I really think we're succeeding.  Lots of gameplay elements
+including the AI have come a long way recently, and it's cool seeing that come
+together.  But... ah, nevermind, what's the point.  Most of you really don't
+need to read this, and the people who do are probably going to skim over it
+and then start a huge flame war on various message boards with threads like
+"Nathan is gayer than Canada" and "Macintosh was invented by Hitler vs. gay
+atheists."  
+
+
+Okay, ventings over.  I feel better now =)  Whew.  You can all come out from
+hiding.  If I don't ever update my plan again it's because I'm gayer than Canada.

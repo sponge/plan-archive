@@ -1,0 +1,73 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+<font color="white">
+
+<b><u>Oct.13.2000 @ 10:26pm CST</u></b>
+
+<u>Quake 3 v1.25y Beta Stuff</u>
+
+ First off, thanks to all of you who chose to download and help test out the
+latest beta release.
+
+ An annoying issue was brought to light as a result of testing this evening, and
+rather than have bugs@idsoftware.com be inundated with e-mails about this bug,
+I thought it best to post an acknowledgement of the issue, and a temporary 
+solution here.
+
+ There appears to be a problem with your baseq3/q3key file being reinitialized
+to a virgin state when you connect to an original 1.25p server with your 1.25y
+client (they are incompatible.) The result of this bug is that Quake 3 will 
+print "Invalid CDKey" when you exit the game, reload it, and try to connect 
+to servers on the net.
+
+ I was able to replicate this issue in-house and have mailed the programmers.
+
+ If you wish to save yourself some aggravation while testing this release, I 
+would suggest the following after you've ensured that q3key contains your
+valid CD-Key;
+
+- If you are an MS-DOS h4x0r, CD to your quake3aseq3 directory and execute
+"attrib +r q3key" at the command prompt. This will make the q3key file 
+read-only (after you are certain that it contains your valid CD key.)
+
+- If you are not comfortable using the command prompt, open up "My Computer"
+and head over to the directory where you have Quake 3 installed. Open the "baseq3"
+directory, right click on the "q3key" file. Select "Properties" and on the bottom
+of the panel, you should see a "Read-only" check box. Check that, and hit "Ok" to 
+apply the changes.
+
+ We'll get this issue resolved in the next release.
+
+ Thanks again for helping us test out this release, and please remember to mail
+bugs@idsoftware.com if you come across any further issues.
+
+ Cheers,
+
+ -Xian
+
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, Y2K bug, mud slides, forest fire, or projectile 
+(which can include, but not be limited to, arrows, bullets, shot, BB's, 
+paintball, shrapnel, lasers, napalm, torpedoes, or emissions of X-rays, Alpha,
+Beta and Gamma rays, knives, stones, etc.). 
+</font>
+---
+</tt>

@@ -1,0 +1,64 @@
+
+*** Monolith Production's IonFingerD Server 1.0 beta
+
+User name: billv
+Plan modified: Tue Nov 03 21:12:00 1998
+
+6/3/98
+
+Got back from E3 a few days ago. Aside from a steadily-worsening cold, I pretty much had a good time there. Got to see lots of cool stuff... I was most impressed by Metal Gear Solid, C&C: Tiberian Dawn, Half-Life and a sweet-looking spelunking game called Beneath. Tonic Trouble and Spiro the Dragon also caught my eye. Sin and Daikatana seemed lacking, but I understood that I was playing unfinished products (much like B2) so I'll hold my tongue for now.
+
+Got some good feedback on B2 stuff, too. There was a lot we didn't show, so it was hard to swallow some of the negative comments, but rest assured that we are listening to what the fans have to say. :) Also, in the few days that we were gone at E3, the LithTech team had time to put in some pretty cool stuff... I'll leave it at this: B2 and Shogo are up there with the rest of 'em, rest assured...
+
+
+
+
+5/2/98
+
+Just picked up the Call of Cthulhu RPG 5th edition, which isn't new but it's something I've been meaning to get for a while. Looks meatier than the previous boxed versions, and I was glad to see that S. Petersen was still in the credits. Should make for good reading during vis down-time... well, except for the fact that the processor is so fast now that there is no down-time. (Dammit, Mike... -grin-)
+
+That's one nice thing I think all of the aspiring level designers out there will really appreciate... the fact that the LithTech editor and processor will work really well even on lower-end user systems. I still use my secondary system (no less than a 133!) for vising when I have my dev system maxed out on other things. There are plenty of things you can do in the editor to make it go faster, as well. If I am working on a huge level, I can hide specific parts of it if I want, or reduce the visible range of the 3D view to something more manageable. If you're already in the Quake editing scene and are familiar with the editors out there, the learning curve to the LithTech editor is very low.
+
+(Have I said all that before? Feels like I have. Damn. Time has no meaning...)
+
+
+4/22/98
+
+Sigh... sharked at pool again... -grin-
+
+Not much to say right now, but I figured I'd update my plan anyway... level work continues to go well on Blood 2. I am continually impressed by LithTech's lighting capabilities... multi-colored lightsources, full directional control, several ambient effects... just to name a few. I've found that my LT lighting style seems to have become very liquid and painterly. The degree of subtleness which can be achieved is simply beautiful.
+
+I can't wait until I get to the more bizarre levels on my list. I'll just say that if you've ever read Lovecraft, you'll recognize in Blood 2 the kinds of places old HP only dreamed of. ;) (Okay, so that's a pretty bold claim... I don't think you'll be disappointed, though.)
+
+I just killed a room full of fanatics. One guy lost his head before he could draw his gun, and I blew his leg off while swinging my shotgun around to target the next guy. I dropped him with one shot to the chest, and he rolled around on the ground next to the twitching body of the first dude. The other two guys were trying to give me some AJ with their Berettas, but I pulled out my "big gun" (which will remain nameless for now...) and ended up sending everything in the area to oblivion. Oh well. Fun while it lasted! Guess I should stick to the slug-thrower until I get some skillz.
+
+Sleep...
+
+
+3/26/98
+
+There's been some shankage on Claw lately, mainly because it managed to get a Codie nomination for best Action/Adventure game of '97 and certain prominent individuals in the game industry don't agree with that. I'm not particularly anxious to praise or defend the Codie Awards on the whole, but in this case I feel Claw was wrongly singled out by the Codie's detractors and so I want to say a few words about it.
+
+Claw has gotten a lot of good press, much more than the small amount of bad press it's seen. As far as the bad press goes, the biggest complaint has been that it's "dated." By that I assume that because they didn't see a 3DFX logo pop up when they loaded the game, Claw's negative reviewers lifted their noses and waved it away. There really is no other way to call Claw "dated" unless you are simply not a fan of side-scrollers. Claw delivered what it promised, a richly-illustrated fantasy side-scroller in the classic vein, with a strong storyline to boot. 
+
+I realize that the Codie Awards are given out by the SPA, which is a membership-based organization and thus doesn't necessarily include every developer in the industry. However, the nominees are voted on by peers within that organization, and so I am flattered by the award nomination. To say the nomination should have gone to Quake 2 or Tomb Raider 2 because Claw is a bad game is not only a mistake, but an insult. Q2 and TR2 are great games, and certainly greater achievements in terms of technology, but Claw was recognized -by its peers- as a significant piece of work. To use influence as a major game developer or game reviewer to try to tarnish that recognition seems petty to me. It is also a poignant sign of the times in the game industry.
+
+Anyways, that's the end of my rant. Have a nice day, and remember your roots.
+
+
+
+20/3/98
+
+Taking a few moments here to update my plan... did some pretty cool stuff for the recent milestone. Things are coming together well and mostly on schedule. The core of episode two is done, with the exception of one and a half levels... I'm probably looking at about two to three more weeks of work before I start seriously fleshing things out.
+
+Jay pimped me in a B2 bloodbath a while ago. That sucked. Stupid proxes, hehe... dual weapons rock, tho. I love seeing shell cases and debris flying everywhere as I shoot up a hotel room or laundromat. Especially if Jay is in it. ;)
+
+Claw is on the shelves. Go buy it, it's a beauty!
+
+Whopper of an update, eh? Later...
+
+
+
+
+
+

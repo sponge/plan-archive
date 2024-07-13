@@ -1,0 +1,184 @@
+
+Name: Robert A. Duffy
+Email: raduffy@idsoftware.com
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+Jan 19.2002
+-----------
+To clear up a bit of confusion, what we released yesterday was the level editing tools and not the full SDK for Wolfenstein. Everything is there to create both single-player and multi-player maps. Also included is Escape ( from single-player ) and Beach ( from multi-player ) for reference.
+
+The source code will be available soon.
+
+
+
+
+Nov.12.2001
+-----------
+Somewhere out there I am sure a 3DFx Glide 2 SDK exists. I am in need of one if anyone has the original download let me know. I'm also looking for the latest Glide 3 SDK but can do without that. Thanks!
+
+
+
+
+Nov.5.2001
+------------
+
+The Wolf MP Test 2 client installs for Linux are now available ( Thanks to TTimo ). THe smaller version does NOT have media so you will need the Win32 setup if you get it. The larger version has everything you need. 
+
+Grab them here ftp://ftp.idsoftware.com/idstuff/wolf/linux/
+
+
+
+
+
+
+
+
+
+Oct.21.2001
+-----------
+
+The Q3A Master Server will be back up ASAP. We are having some issues with the hardware at the moment. 
+
+
+
+
+Sept.22.2001
+------------
+
+The client installs for Linux are now available. THe smaller version does NOT have media so you will need the Win32 setup if you get it. The larger version has everything you need. 
+
+Grab them here ftp://ftp.idsoftware.com/idstuff/wolf/linux/
+
+
+
+
+
+Sept.16.2001
+------------
+
+The dedicated Linux server installs for Linux are now available. THe smaller (2 MB) version does NOT have media so you will need the Win32 setup if you get it. The larger (65MB) version has everything you need. In general server commands are very similar to Q3A if not identical. 
+
+Grab them here ftp://ftp.idsoftware.com/idstuff/wolf/linux/
+
+
+
+
+
+
+Sept.15.2001
+------------
+It appears that GameSpot did not update to the latest build we sent them. The correct file is WolfMPTEST0915.exe.
+
+Both versions will work but you will want the later one for some compatibility, performance and other issues.
+
+
+
+
+Wolf Notes.
+
+I thought I'd share a bit of information about the Wolf MP Test. Basically some strategies and techniques we use around here.
+
+The key to Wolf MP is teamwork, you need good class balance to perform the objectives. There is no health on the map, and no ammo either. You will need a Medic to supply health and a Lieutenant to supply ammo. Here is a quick run down on some stuff. More info is in the readme that will accompany the test but this will get you started. Wolf MP was designed to have friendly fire on, you can turn it off but it is much more fun on. 
+
+All classes carry a knife, pistol, 2-handed weapon, grenade(s).
+
+Soldier - Can carry any two handed weapon. ALL classes are limited to one 2 handed weapon at a time. You can drop your weapon and pick up a different one. When you are wielding one of the heavier weapons, Venom, Panzerfaust, you move sllloooww.. but you can move at normal speed if you have your knife or pistol out.
+
+Engineer - Carries half the normal ammo initially can pick up more but starts out with half. Carries dynamite and tools, can defuse dynamite and fix the MG42 mounted guns. 
+
+Medic - Carries half the normal ammo initially and only 1 grenade. Can produce health packs based on the charge bar. All the class charge bars are on the right of the hud, the left hand bar is stamina. Also carries a syringe ( with 5 charges ) that can revive fallen comrades. You will see a revive icon over them if it is possible. When you die you can choose to go straight to limbo ( press jump ) or wait for a medic. PAY attention to the reinforcement timer on the scoreboard so you know when to jump to limbo.  Medic's also give a health bonus to your team up to 120, just having 2 medics alive on your team means you spawn in with 110 health instead of 100. Medics are your friend.
+
+Lieutenant - Carries smoke grenade which calls in an airstrike, ammo pack ( recharge system like the medic ) and binoculars for calling in artillery. The latter is particularly useful for erradicating enemy snipers that are hard to find. 
+
+You can change classes when you are in limbo and/or change weapons as a soldier. This is important as roles evolve based on what is going on during the game play. 
+
+If you are on the allied team, initially you are going to need an engineer, some snipers, a medic to help get the engineer up the beach. Once you have blown the door and the wall you do not need any more engineers unless you just like blowing stuff up in a major way. If you can capture the forward spawn point in the bunker you will mostly reinforce in there so at this point snipers become less critical. You will want soldiers and at least one medic and lieutentant. It is usually a fight down to the war room and then up to the radio room. 
+
+The axis team is going to want a lieutenant and a sniper or two to start out with. You will want to man the MG42's ASAP so you can chew the beach up and keep the door and wall up as long as possible. You can even get sneaky and have an engineer jump over the wall to defuse the dynamite if you can keep him covered well enough. Once they are inside the base you will want keep a group in the war room and in the radio room. A medic is handy near the radio room to keep people alive during the last push. A good Axis sniper can dominate the beach in the beginning.
+
+That is just a taste of what is coming your way from a game play perspective. The map is even fun one on one you just have to change classes to win! 
+
+Oh yeah, USE the SPRINT key, it is really helpful getting your butt outta bad places. Also don't forget the voice chats, called "Quick" chat in the menu system.
+
+For server ops the .script file in the maps directory ( outside the pak file ) contains mission time etc.. 8 Minutes is a good place to start. 
+
+
+Have fun!
+
+
+
+
+
+
+
+Aug 9.2001
+----------
+QCon 2 on 2 SMACK DOWN.
+
+Last year Tim and I had an open challenge in the nVIDIA booth in 2 on 2 CTF. The prizes were T-shirts for the winners. We only lost one out of about 25 matches. This year, we have some great prizes as we figure it is time for us to whip everyone's butt again in 2 on 2 CTF courtesy of nVIDIA and all the QuakeCon sponsers and volunteers.
+
+Here are the details:
+
+This year we will have two id teams, Tim and myself and Todd and Marty. We will take on any and all 2 person teams in 2 on 2 CTF. Matches will probably be to either 6 or 8 with a 5 minute time limit. This will happen Saturday afternoon and will take place in the nVIDIA booth. If you feel like getting your butt whipped in 2 on 2 CTF, grab a friend and get in line.
+
+We have some cool prizes this year for everyone.
+
+The first team that beats one of the id teams gets their choice of either Two GameBoy Advances ( and a game ) or Two GE-Force 3 cards. The 2nd team that wins gets whatever the first team did not choose. The next two winning teams will get framed and signed prints of Team Arena and we will also have T-Shirts and other gizmos and stuff on hand to reward great play and other winning teams.
+
+Good luck!
+
+
+
+
+
+
+Aug 2.2001
+----------
+
+Linux 1.29h is up on our FTP.
+
+
+
+
+
+
+Aug 1.2001.early.evening
+------------------------
+
+The 1.29h source is up on our ftp under quake3source. I don't anticipate many if any changes before the 1.30 final.
+
+
+
+
+Aug 1.2001
+----------
+
+I am going to get the latest source up for mod teams later today ( it might be late tonight ) but it should appear soon. There should be minimal changes if at all before this turns into a non-beta 1.30.
+
+
+
+
+
+July 31.2001
+------------
+
+The 1.29h point release is up. You can auto-update to it from 1.29f or 1.29g or grab the whole sha-bang from our ftp. The Linux version will be up asap. This is STILL a beta, we plan to go final with it after QuakeCon.
+
+Changes
+
+- Fixed Server exploit
+- Fixed Mouse wheel 
+- Fixed NT 4.0 Sound
+- FPS Boost
+- in_mouse set to -1 will provide 1.17ish sensitivity, in_mouse set to 1 will provide current sensitivity
+
+Thanks.
+
+
+
+
+
+
+July 30.2001
+----

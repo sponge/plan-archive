@@ -1,0 +1,96 @@
+IcculusPlan
+
+
+
+13 files left to hand-merge with the Serious Engine open source release. It's
+
+kind of funny to me that I'm back on this .plan file writing about my
+
+progress on Serious Sam, just like how I started writing here. Everything old
+
+is new again!
+
+
+
+The nostalgia of all this is *overwhelming*. I spent so much effort on this
+
+project, at a time when everything was in transition.
+
+
+
+At the time, I was working a cash register and scrubbing toilets at a
+
+cybercafe, and racing home to my parents' house after to work on this game
+
+until I passed out from exhaustion and then repeat again the next day.
+
+
+
+Everything I was struggling to change in the world evaporated with Loki.
+
+Serious Sam was the only evidence I had that the last two years weren't
+
+a huge waste. The rest of the Loki crew went and got real jobs, either doing 
+
+interesting work on important games or got the hell out of the industry
+
+entirely.
+
+
+
+But I kept tilting at the windmills, stubborn idiot that I am.
+
+
+
+I was broke as fuck, living with my parents, doing menial labor for less than
+
+minimum wage under the table, and holding onto a hopeless dream. I was never 
+
+happier in my whole life.
+
+
+
+It's nice to revisit. Looking through the diffs, I can see some wild decisions
+
+that I made in response to wild decisions Croteam made. I can see where I
+
+learned so much during that project, and I can see how much more I still had
+
+to learn.
+
+
+
+Most people won't care about this source code because they don't have to.
+
+Someone will make sure it works on new platforms and such, the same way that
+
+someone got Quake 3 running on Raspberry Pi, and everyone will benefit without
+
+having to dig deep themselves. And that's great and how it should be. But I'm 
+
+pretty grateful to be given this opportunity to excavate the past and live 
+
+in this time for a little longer.
+
+
+
+I still tilt at windmills. Every goddamned windmill I see. If I'm lucky, I'll
+
+be writing this post again in 2031, too.
+
+
+
+--ryan.
+
+
+
+---------------------------------------------------------------------
+
+When this .plan was written: 2016-03-22 12:21:08
+
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+
+Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
+
+We drove that car as far as we could.
+

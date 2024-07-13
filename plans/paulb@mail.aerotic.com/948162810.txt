@@ -1,0 +1,18 @@
+User:   paulb
+Unread: 8
+Plan:
+Paul A. Bullman
+Aerosoftware Technologies
+
+1/14/99
+--------
+weird question..
+
+I recently installed a soundcard on a friend's PC. A certain computer
+maker forgot to put one on originally. Everytime the computer is
+put in sleep mode, it automatically reboots. Other than reinstalling windows,
+do you have any ideas?
+
+thanks!
+
+paulb@aerosoftware.com

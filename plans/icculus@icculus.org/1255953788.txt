@@ -1,0 +1,51 @@
+Useless, but not for long.
+
+
+
+FatELF:
+
+ I got sick of Mac developers pointing out that Linux doesn't have anything
+ like their "Universal Binaries," so I did something about it.
+
+    http://icculus.org/fatelf/
+
+ Comments welcome. I'm submitting the kernel patches later today when
+ I figure out how to do it without looking like a n00b, but feel free
+ to play with it. There's even a whole proof-of-concept virtual
+ machine, with Ubuntu 9.04 x86 and amd64 installs glued into one.
+
+
+SDL 1.2:
+
+ (You're running out of time. Wrapping in ~24 hours. 1.2.14 will be the
+ final 1.2 release, so test svn and report bugs!)
+
+ Since last update: PulseAudio is the default audio target, ALSA has
+ more fixes, lots of other things.
+
+
+Other stuff:
+
+ I was told that I should update my .plan because people were sick of the
+  picture of the dog.
+
+ So here's me jumping over him, Mario-style, instead. [1]
+
+ You ask, I respond.
+
+ Also, he just turned one yesterday! [2]
+
+--ryan.
+
+
+
+
+     [1] http://www.flickr.com/photos/cochal/3763748758/
+     [2] http://www.flickr.com/photos/cochal/4024285608/
+
+--------------------------------------------------------------------
+When this .plan was written: 2009-10-19 05:38:45
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.23 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

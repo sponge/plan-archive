@@ -1,0 +1,174 @@
+IcculusPlan
+
+
+
+
+
+The first text message I ever got on an iPhone was this, on August 23rd, 2008:
+
+
+
+*"Barack has chosen Senator Joe Biden  
+
+ to be our VP nominee. Watch the first  
+
+ Obama-Biden rally live at 3pm ET on  
+
+ www.BarackObama.com. Spread the word!"*
+
+
+
+That's right, historically significant spam! Thanks Obama!
+
+
+
+And since that day, I never deleted my messages, because they weren't really
+
+in the way. But then Carrie and I adopted a dog and would text each other
+
+pictures of him doing funny things, and then we had a baby and you know *that*
+
+gets out of control with a quickness. Suddenly we had to pay money to store 
+
+our constantly-ballooning iCloud backups.
+
+
+
+Sorting through the list of what apps are taking space on the phone...where
+
+the hell was it all going? Turns out: iMessage. Lots and lots of baby pictures.
+
+And then we started using iMessage for lots of things:
+
+
+
+"Hey, I'm at the grocery store, is this the brand of cereal you want?"  
+
+*[5 megabyte picture of a Corn Flakes box]*  
+
+"No."
+
+
+
+And then one day I woke up and iMessage has devoured 25 gigabytes of my
+
+phone, with eight years of texts. Over ninety-eight thousand messages!
+
+
+
+I hate throwing data away. But y'all: *iMessage holds your data hostage*.
+
+Message searching sucks, both on iOS and macOS, there's no option available
+
+to migrate your data out of it, hell, you can't even reliably scroll back
+
+in the damned chat window. It's a non-optional part of your iCloud backup,
+
+which means you have to pay to store it as it balloons up to fill your
+
+phone, or delete it forever.
+
+
+
+I finally decided to do something about it.
+
+
+
+[Here's a fairly complex perl script I wrote called imessage_archive][1]. It
+
+will take your iMessage chat database and turn it into emails, which there
+
+are already lots of tools to work with, for searching, sorting, storing.
+
+
+
+It works with both the Messages app's database in Mac OS X^W^W^WmacOS and
+
+the iOS database pulled from an unencrypted phone backup you can do with
+
+iTunes. Later runs will know where it left off, so you can run it in a
+
+cronjob and archive just the new messages that were sent/received since
+
+last run.
+
+
+
+My plan was to archive all the chats from my phone this way (since it has
+
+every message ever), and then move over to archiving from a cronjob on my Mac,
+
+which has everything from the point where Mac OS X 10.8 shipped.
+
+
+
+The script can write out text and HTML versions (both in the same email, so
+
+it can be read from most email clients _and_ look nice in pine/mutt). The
+
+HTML version looks like iMessage chat bubbles, it inlines thumbnails of
+
+photos you took, and turns videos into simple animated .gifs, to give you a
+
+good idea of what the chats actually looked like. Original files are added
+
+to the emails as attachments, if you want a pristine archive, but can also
+
+be resized before attaching to reduce the size, or eliminated if you just
+
+want the conversation and inline thumbnails. You can still optionally keep
+
+all the other attachments (vcards and audio clips, etc). You probably already
+
+have high-quality copies of all those photos organized elsewhere anyhow.
+
+
+
+For me, with full attachments, my 25 gigabytes of Messages became like a 35
+
+gigabyte email archive. With just the inline thumbnails/animations, it was
+
+like 2 gigabytes. With no attachments and no thumbnails, it was 75 megabytes.
+
+
+
+An email consists of every text between two people that happened without
+
+30 minutes of silence. It seems to work pretty well for finding the edges of
+
+conversations.
+
+
+
+User info is pulled from your Mac's (or iPhone's backup's) address book, so
+
+you get real names in the chat archives.
+
+
+
+Anyhow, I hope this is useful to you. Send me comments, questions, complaints,
+
+and patches!
+
+
+
+  [1]: https://icculus.org/imessage_archive/
+
+
+
+--ryan.
+
+
+
+---------------------------------------------------------------------
+
+When this .plan was written: 2016-06-22 01:44:39
+
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+
+Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
+
+I am not throwing away my shot.
+
+
+

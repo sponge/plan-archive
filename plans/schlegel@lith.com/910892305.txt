@@ -1,0 +1,54 @@
+
+*** Monolith Production's IonFingerD Server 1.0 beta
+
+User name: schlegel
+Plan modified: Tue Nov 03 21:12:00 1998
+
+10/16/98
+
+Word.
+
+It is 5am and I woke up a couple of hours ago.  Got a good 15+ hours sleep after 3 days with less than 8 hours of sleep.  I now believe it is quite possible to condition yourself to a high stress/low sleep lifestyle.  I also believe that sometime in the near future I'm going to keel over because of said lifestyle. Gotta love crunch time. :)
+
+Got done a huge release candidate build for GT yesterday.  The AI is looking a lot more pimp as well as deadly.  Most navigation issues are taken care of while keeping low tick counts and NO SCRIPTING.  Attacking tactics have been beefed up. The AI will deal and react to stuff like gunfire, bullet impacts nearby, differences in height, ledges, distance, damage and ammo amounts (the AI will take ammo and health pickups that are sitting around if they need them), searching and chasing, retreating, inter-AI fighting (Cabal vs monsters), etc.  I have been playing through levels looking at how the AI behave in the actual levels. I can't even make it through a bunch of the levels and they aren't even done.  The AI plays with the same restrictions and constraints as the player so there is none of that wack-ass bot crap like in Unreal.  It is tough but reasonable and believable.  And the best of all the AI is SCARY!! 
+
+Later...
+
+Schlegz aka "Pookie Smoothbone"
+
+
+
+10/7/98
+
+This is the best .plan lovin' I can give with all the stuff I'm dealing with right now:
+
+anger
+
+-Schlegz aka Pookie Smoothbone
+
+
+
+9/26/98
+
+Note: These are my personal opinions and views.
+
+Jesus H. Christ.
+
+I had no idea the cardinal sin i committed 2 days ago.  NOT!
+The warez kiddies are turning a harmless prank into a big deal. So here is my stance.  Love it or leave it.
+
+Kid tries to put up warez site with a pirated game.  I scare the kid sh*tless and he erases it. *I* get the bad rap.
+
+I am puzzled by the response and discussions/arguments I have had about this.  So let's analyze this for a minute.  Pirated software, warez, etc equals stolen, illegal, etc. Such activity, in theory or reality, can potentially affect my company as a whole and me, the employee.  Penalty for such activity can result in fines and/or jail time, determined by the severity of the activity.  
+
+Now, I have heard over and over again that trying to stop pirated software is futile.  Not necessarily.  I didn't go after some Joe Schmoe who had a copy of the game.  That, I agree, is futile.  I went after someone who was going to make it so 100s and 1000s of Joe Schmoe's could have the game.  That is not futile.  There is a noticeable difference between $50 and $50,000.
+
+What gets me is the response to how I treated this kid.  Believe me, the things done have been done by many people just like me in the same position with the same kind of kid on the other end (I've read some pretty funny logs of similar IRC situations).  What people don't understand is did this kid *actually* get turned in and punished correctly? NO.  This kid is doing no jail time.  This kid is paying no penalties or damages.  And most importantly for this kid in particular: his dad never found out.  All that happened to him was he got a very bad scare for 2 hours.  Slap on the hand (even less than that). 
+
+And what *if* he was turned in?  I would probably still get the same reaction.  So that leads me to believe that the backlash is not because of *what* I did, but because I actually *did* something.  I find it incredibly hard to believe the numerous people on IRC channels trying to justify to me their possession of stolen software.  Get a clue kids: STEALING IS STEALING.  Do you steal a car and try to explain to the officer that you were just driving around to see if you wanted to buy it?
+
+So that's that.  A constructive statement about my side of this issue (unlike the garbage I've been getting in my inbox recently).  If the opportunity arises again, I'll do it again.  Those were my actions and I stand by them.  Hey, if I saved us $5000 or even $50,000, great.  Just stop and think about what you are doing and who it affects.  Try to see it from my side, our side, before firing off a piece of garbage flame e-mail.
+
+
+
+

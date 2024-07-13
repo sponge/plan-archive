@@ -1,0 +1,46 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: zor
+Plan modified: Thu Jun 03 12:16:00 1999
+
+-- June 3rd, 1999 -- 
+
+-12:10pm CST-
+
+Also just bought a Sony W900 Widescreen monitor...
+So if anybody wants to come up with a fix to the problem with lower rez widscreen
+mentioned in onethumb's plan that would make me very happy as well :)
+
+-11:40pm CST-
+
+Has anybody had this problem and found the solution?
+
+Yesturday evening I went to my local Best Buy and purchased a Creative Labs 
+3D Blaster Riva TNT2 Ultra for my home computer. I happily ripped out the
+aging FireGL 1000 pro (a card that has served me very well) and plopped the
+new bad boy into the Supermicro SUPER P6DBE PCB REV 1.xx motherboard.  The rest of the
+instilation was quick and easy for 98 but I get strangeness in NT.
+
+When I boot up it asks me to change the display settings because they are
+"not valid".  So I change the display settings and test them (they appear just 
+fine).  But when I hit apply or OK then it says I need to reboot to see the
+changes.  I do so and when I reboot it says I have selected invalid display
+settings.
+
+I updated the bios on the motherboard and the video card but to no avail.
+The only hint of what the problem may be is in one of the readmes with the
+card.  It says if NT will only boot in 16 color mode then "assign IRQ to VGA
+in your system bios".  I can't find anything that resembles that in my bios
+what so ever.
+
+Am I a monkey?
+
+Or do I return this card for a different brand?
+
+Any Creative Labs/Supermicro support people possibly listening?
+
+zor@ritual.com
+
+
+

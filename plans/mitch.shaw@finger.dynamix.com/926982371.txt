@@ -1,0 +1,144 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------
+User Name: mitch.shaw     Plan Last Modified: 05/17/1999 11:34:30 PST
+
+Who am I? Mitch Shaw
+Handle:  Skeet
+Project: Starsiege Tribes/Tribes 2
+Email: Mitch.Shaw@dynamix.com
+
+5/17/99
+
+  Wow, I've been neglecting the old .plan file lately.
+My apologies to anyone who cares.
+
+  Looks like the good old TRIBES raiding party has
+returned triumphant from E3. A lot of people were
+impressed, as we knew they would be, by the snippets
+of TRIBES 2 that were shown. If you didn't see any
+screenshots or hear any reports of what T2 is like so
+far, don't fret -- you'll probably be hearing and
+seeing a lot more in the upcoming weeks.
+
+  Whilst the higher-ups were busy unveiling the
+innovations in LA this last week, dBack and me were
+busy with something else -- the long-promised (to
+ourselves) and long-awaited (by... um, well there
+has to be someone out there) dBack & Skeet Smack
+Pack, or if you prefer, the Skeet/Back Smack Pack.
+It's been posted on Planet Starsiege already (if
+you haven't been, http://www.planetstarsiege.com)
+and I just posted it on my old reliable Geocities
+page (http://www.geocities.com/Area51/Dunes/8338).
+It's more fun than a pocketful of fire ants, and
+slightly less painful than a poke in the eye with
+a sharp stick. Check it out!
+
+3/3/99
+
+  Phew.  We got the 1.3 patch out the door, which happens
+to be the first patch that I actually processed. (Tim's
+been doing it till now.)  That whole patch-making dealie
+is both simpler and more complicated than I thought --
+figure that one out.  I'll be the joker cobbling up the
+release notes and readme files for the patches now too,
+so you can blame me directly for any and all bits of
+absolute gibberish.  Please be gentle, I'm not used to
+writing documentation :)
+
+  I'm starting to get pretty excited about the ideas I've
+overheard about Tribes 2.  (Or is Meddish right, should it
+be Tribes II?  Or maybe just a different title without
+numbers at all, like Tribes: Apocalypse?)  Anyone who
+likes the original is gonna be pretty jazzed about the
+sequel too -- lots of cool stuff.
+
+  I've got lots more on my plate these days -- in addition
+to doing the patches and internal builds, I've got a heap
+of new stuff to learn, like how to be an IRC admin, how to
+remotely upgrade the Combat servers, how to write legible
+documentation for tools that I don't entirely understand,
+as well as get more involved in the script-writing and
+eventually, coding.  It was nice to have a couple of months
+where the pace was a little slower though :)  Oh yeah, and
+the webpage-based status report that Dave Moore mentioned,
+I'll be responsible for compiling that info too.
+
+  We're gearing up for a tools release soon -- mission
+editor, ZED (interior builder), and graphics-processing
+stuff to get your source art in a form TRIBES can use.
+With this new release, you'll be able to create your own
+bases and buildings, it'll be much easier to make a new
+terrain for a mission, all sorts of fun.  With the amount
+of new things I've already seen people do just messing
+around with the scripts, it's going to be really impressive
+to see what they can do when they have all the mission-
+building tools at their disposal...
+
+
+2/3/99
+
+ I've gotten some great feedback on the crosshair
+stuff I did, and I'm working on making up a bunch
+of new ones based on a few things I learned from
+our resident GUI guy, "Thulsa Doom" Tinman. Since
+several people e-mailed to ask questions on the
+subject, I'll share some info with you.
+
+* Crosshair bitmaps can actually be any size or
+dimensions. They don't have to be symmetrical, and
+they will automatically be centered on the screen.
+* There is nothing you can do to change the big
+black "zoomed in" crosshair except turn it off.
+Press K to bring up the GUI options box, and
+uncheck	the "Sniper Cross" item. When you zoom in,
+your "regular" crosshair will remain on screen at
+the normal small size (as opposed to growing to
+fill the screen).
+
+ I'm trying to come up with some ideas for some
+interesting and useful new crosshair designs.
+If you have any ideas, please leave a guestbook
+entry on the GeoCities page mentioned below --
+I've seen what happened to Scott when he asked
+people to send suggestions to his normal e-mail
+address :)
+ 
+
+2/1/99
+
+ For those of you who want a different shaped
+or colored crosshair for Tribes, I cobbled up a
+small collection of different ones -- circular,
+tiny dots, etc. in a variety of fashionable colors.
+I'll zip them all up and put them on my old
+GeoCities screen shot page for anyone who's
+interested -- the URL for that is
+http://www.geocities.com/Area51/Dunes/8338
+
+ Don't expect much from this page -- I just threw
+together some screen shots a couple of months ago
+before the game came out, and added some lame
+attempts at funny captions. The link for the zip
+file should be near the top of the page, above the
+screen shots. Unfortunately, there isn't any way
+of keeping track of the number of downloads, so if
+you grab it and find it useful (or have suggestions
+for new, useful crosshairs), drop me an e-mail if
+you would be so kind.
+
+ The file should be up on the GeoCities page by
+2:00 PM PST today. I'll throw a README in too, but
+just in case you're one of the 95% who don't bother
+to read such files -- unzip the zip file (duh) and
+browse thru the BMPs. (I recommend ACDSee) If you
+find one you like, copy it to your tribesase
+directory and rename it to H_Reticle.BMP (if you
+don't do this, your crosshair will not change).
+Enjoy!
+
+ Oh yeah, and I almost forgot, happy birthday Mom.
+:)

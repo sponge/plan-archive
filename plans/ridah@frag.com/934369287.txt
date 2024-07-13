@@ -1,0 +1,42 @@
+Login: ridah          			Name: Ryan Feltrin
+Plan:
+
+Ryan Feltrin
+<a href="mailto:ridah@frag.com">ridah@frag.com</a>
+
+Technology & AI Programmer, <a href="http://www.xatrix.com/">Xatrix Entertainment</a>
+
+
+11-Aug-99
+---------------
+
+A bunch of people have been asking me about the new file download code that has
+shown up in recent Kingpin builds. So here's a brief explanation of how it works.
+
+The original download code implemented in QuakeWorld was meant for use with low
+sized files, like low resolution pcx skins, and for that it did a good job.
+
+However, todays files are much larger, especially with the high detailed skins
+found in Kingpin. So I set aside a few hours to see if I couldn't speed things
+up.
+
+What I came up with was a communication stream between the client and server,
+which basically eliminates the need for a low-latency connection, and as a bonus,
+will scale much better for faster connections. If you've ever tried spreading Quake/Quake2
+levels on a LAN for example, from within the game, you'll know that it doesn't quite
+run at it's full potential.
+
+So, what I did was break the file being sent, into "chunks" of 1024 bytes. This way
+the client can keep a record of which "chunks" it has recieved, giving it the ability
+to have multiple pending requests for data at once.
+
+Anyway, that's the basic principle. Some obstacles here were finding the right balance
+between sending too many requests, and not sending enough. This was handled by
+adjusting the maximum number of pending requests with the current RATE setting, which
+worked out pretty well, and didn't involve a lot of effort.
+
+It was an interesting experiment, and one I'm happy to say was a reasonable success.
+I still have one issue involving duplicate chunks being recieved, which doesn't cause
+any harm other than wasting some bandwidth. I think it has to do with requests timing
+out on the client before the server has had a chance to send it. Nothing major, but
+something I'll no doubt make sure gets cleared up before our next game ships. :)

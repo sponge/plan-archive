@@ -1,0 +1,34 @@
+User:   jack
+Unread: 0
+Time:   Wed, 11 Nov 1998 01:21:42 -0800
+Plan:
+10/11/98 - 12:45am
+
+Welp, today (yesterday really) was my last day at 3Dfx...  Man was that ever
+awkward.  Oh well :)
+
+Oh, and seems 2.05 *finally* got out the door.  Ugh.  About time :).  The
+Sin support should be nice and good, and SmartSpy should be neat.  If
+anyone's wondering why it has an awkward interface, it's because the current
+implementation is there as a placeholder until I can do it the right way in
+2.1.  Also, the SmartSpy options for filtering are only available to
+registered users.  Make sure you update your server list periodically
+(Tools/Updates...) as we add SmartSpy lists (they're the ones called
+"GameSpy Network."  Wanna do the filtering?  Right click them and go to
+"Properties."  Yes, a *real* UI will be attached in 2.1 :).  2.05 is what
+happens when we really need to cram a bunch of stuff in, though we tested
+this release some more than normal, but I'm sure with all the underlying
+network stuff we changed for future things, that there's gonna be a crash
+here and there.
+
+Also, I noticed something quite disturbing (and STUPID) about Win98's WebTV
+for Windows.  It installs its own auto dial handler, which, under heavy load
+conditions (say, oh, scanning for servers in GameSpy) it'll crash in
+SDDATA.DLL trying to copy the string "tvx.exe" into memory address 1 (as in
+NULL + 1 byte).  If anyone can get me in touch with a Microsoft person to
+fix this for the Windows service pack, I would soooo appreciate this.  This
+is almost as dumb a bug as the "hey, you can only use sockets in one thread
+unless you hack around" bugs in MFC for VC++ 6 (that was fun to track down)
+
+Thanks.
+

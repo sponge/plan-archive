@@ -1,0 +1,81 @@
+Login: jwaters        			Name: Joe Waters
+Project: The Hundred-Dollar Firecracker
+Plan:
+22 December 2k
+
+OK, since it seems that NOBODY uses the secondary eyestaff attack and EVERYBODY
+(even the cheat and hint guides) thinks the second Queen is so goshdarnawful
+tough to beat, here's a hint:
+
+USE THE SECONDARY EYESTAFF ATTACK ON THE SECOND QUEEN.
+
+Yay.  The blunderbuss, despite its cool factor, does not have the highest
+damage/mana ratio in the game if you start with a full charge.
+
+Since it's Christmas time and since these didn't make it into the cheat book,
+a couple more weapon type hints:
+
+o	each boss has a weapon that it's particularly vulnerable to.
+o	the secondary eyestaff attack will drop projectiles on each visible
+	enemy in sequence.  If you've got 10 guys on screen and 10 projectiles,
+	each guy will get blasted on the noggin once.
+o	nobody ever uses the secondary icewand ice wall.  Everybody complains 
+	about how hard the boss projectile attacks (Jabberwock eyebeam & 
+	breath, Red King & Queen1 beam attacks, queen2 projectile attacks)
+	are to defend against.  Somebody should try the icewall against them.
+o	at the entrance to the tweedle fight (where the three swinging pipes
+	are) there's that one clockwork automaton that is mostly out of range
+	or difficult to hit.  If you've got the jacks, the secondary jacks 
+	attack will knock his ass into the mercury.
+o	tweedles burn good.
+
+
+That's OK tho, because nobody knows I work at Rogue so my .plan file isn't
+mirrored anywhere.
+
+Merry Christmas.  Don't get hit by a bus.  If you haven't yet, buy Alice.
+It's fancy.
+
+-------------==============================-----------------
+
+4 June 2k
+
+Don't get all excited, I'm not really a big .plan guy.  But I figured I should
+put something here since everybody else does.  I actually started at Rogue
+last month, but things have been busy and I just now got around to logging
+into the unix box to set up my file, so there.
+
+For any crazy game-developer-stalker folks, I might as well help you start 
+your dossier: I'm currently a software engineer at Rogue working on American 
+McGee's Alice.  Prior to that (at still, to some extent) I ran a small 
+independent game development house out of Albuquerque, New Mexico.  We shipped 
+one title (back in February
+'98) and had another couple in development.  I still provide technical
+support for the shipping product, but the other projects are on indefinite 
+hold until I decide what to do with them.  One is pretty close to completion,
+so I could theoretically finish it during my piles of "spare time", but so
+far that's amounted to about 2 nights of work in the last month that I've been
+here.
+
+On my primary home machine, Linux is my friend.  It should be yours too.
+
+I picked up Digital Anvil's Starlancer and poked around with it for an hour or
+so today (about as much as I get to play any game -- now it'll sit on my HD
+for 2 months until I eventually take it off and acknowledge that I don't get to
+play *anything* but what I'm working on for more than a few minutes).  It's
+pretty.  I like it.  Hope I get a chance to play some more.
+
+-----
+
+* All expressed opinions are mine and mine alone, and don't reflect those of
+Rogue Entertainment.  I am not a role model for your life.  Emulating my speech
+habits, mannerisms, or thought processes may be harmful or fatal if swallowed;
+in case of emergency landing over water, my ideas can be used as an extremely
+poor flotation device.  I miss Cooler Ranch Fritos.  Wu-Tang Fo The Children.
+
+
+
+
+
+
+

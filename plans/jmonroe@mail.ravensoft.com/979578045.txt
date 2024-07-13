@@ -1,0 +1,24 @@
+
+Name: James Monroe
+Email: jmonroe@mail.ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+some cool sites:
+
+*3D Spotlight
+this is what i like to see, a very complete tweaking guide for Elite Force:
+http://www.3dspotlight.com/tweaks/voyager/index.shtml
+
+the only change i would mention, is that setting in_mouse -1 instead of 1 to turn on the mouse, but leave OFF direct input.  This will allow you to use your windows settings for right/left handedness and sensitivity.
+
+*Daily Radar
+"So we have decided to put together a list of the best developers in the business for the year 2000. Some are huge Japanese troupes creating some of the most ambitious games in the world, and others are quiet Wisconsin guys who just regularly put our reliable hits." 
+
+intro:
+http://www.dailyradar.com/features/game_feature_page_2113_1.html
+jump right to raven:
+http://www.dailyradar.com/features/game_feature_page_2113_4.html
+

@@ -1,0 +1,28 @@
+
+*** Ion Storm's Finger Server
+
+User name: cnorden
+Plan modified: Tue Oct 13 11:52:11 1998
+
+Ah...vacation.  I'm back from Vegas (hello to Lana - wherever you are -
+thanks for making my trip even better.)  Well, we're still waiting on
+the final Unreal code update, but I'm going to integrate the 217 build
+into our current source so we will already be that far ahead when Tim
+releases the "final" code.  Al's currently putting the final touches
+on the conversation system editor and getting Christian up to speed
+on how to use it to write our convos.  Scott's finishing up our UI
+library so he can continue work on our AI.  I'm finishing up some
+documentation, doing some web interviews, and integrating new code.
+
+Next up, more cool weapons.  More cool animation enhancements.
+
+Everybody who owns a DVD player must go out this week and buy lots
+of DVDs.  Must...destroy....DIVX....
+
+Gonna pick up a new Sony 36" XBR Wega TV in a couple of weeks...if
+you haven't seen this set, it is by far the best looking analog TV
+in the world.  Perfectly flat screen (horiz. and vert.) and the best
+color and detail that I have ever seen.
+
+-cnn
+

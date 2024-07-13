@@ -1,0 +1,41 @@
+
+Name: Jarod Showers
+Email: jshowers@ravensoft.com
+Description: Animator
+Project: Jedi Academy
+-------------------------------------------------------------------------------
+August 24, 2000
+
+Today, as I wait for our license server to go back online, I thought I would write a 
+little about my experiences with cheating in video games.  Recently, I’ve been playing a 
+certain role-playing video game with some fellow co-workers over the past few lunch hours.  
+One particular partner of mine found out he was able to edit our characters and, to make 
+the game more interesting, he boosted up the gold for them.  We decided to play this way 
+in secret as to not ruin the playing experience of the other non-cheaters; one of whom 
+included Brian Raffel.  Our cover was blown when Brian and I both died and we each picked 
+up each other’s gold by accident.  Brian originally had 6,000 gold collected but now had 
+my 90,000.  A simple mistake, but now people knew what we had done.  At the time, I didn’t 
+think anything was wrong with cheating in a game, but sad to say, Brian no longer played 
+with us and in his eyes, I am eternally condemned as a “game cheater”.
+
+This made me wonder as to what I had really missed out on by playing this way. I was able 
+to purchase items that kept me alive longer.  I still experienced fighting bosses and 
+exploring, just not dieing so much.  For me, I hate dieing in games repeatedly.  If I die 
+too much at the same point, the game no longer becomes fun.  With virtually unlimited gold, 
+I didn’t have to worry about collecting lots of other worthless things to sell at the 
+local shop.  This saved a lot of time.  For me, if a game takes too many hours to win, 
+it no longer becomes fun; I think.  I guess I had lost out on experiencing the “worrying” 
+part of the game.  What was coming up?  Would I have enough health?  What if I don’t have 
+what I need?  Had my ideas of what makes a game fun really changed so much since becoming 
+a developer?  I’m curious as to how many other people cheat in video games and how much it 
+adds to, or subtracts from, the total game playing experience.  Maybe I’ve just become more 
+impatient in my “more mature” years (23 is getting up there).  I’m not saying that it’s 
+hard for me to have fun playing games anymore; just that if I am going to beat a single 
+game with a definite beginning and end, there is a certain time frame that it needs to be 
+done in and I mustn’t “worry” too much.  These are things I tend to think on.  Feel free 
+to e-mail me on this topic to help me finish out this train of thought.  Maybe it's just
+too early in the morning for me.
+
+As to what I am working on currently; I am building some models for one of our yet-to-be-
+announced games.  We have just gotten some estimates as to the number of polygons we have 
+to play with, and I am very pleased.  More later…

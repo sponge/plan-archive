@@ -1,0 +1,225 @@
+User:   paulb
+Unread: 0
+Plan:
+<html>
+<head>
+</head>
+<body text="#FFFFFF" bgcolor="#000000" link="#C0C0C0" vlink="#C0C0C0"
+alink="#CCCCCC">
+<font face="Arial,Helvetica"><font size=-2>[html enhanced]</font></font>
+
+<br><font face="Arial,Helvetica"><font size=-2>**Please scroll to the
+bottom
+to read the disclaimer **</font></font>
+<br><font face="Arial,Helvetica">&nbsp;</font>
+<br><font face="Arial,Helvetica"><font size=-1>Name: Paul A.
+Bullman</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Email: <a
+href="mailto:paulb@aerosoftware.com">paulb@aerosoftware.com</a></font></font>
+
+<br><font face="Arial,Helvetica"><font size=-1>Company: <a
+href="http://www.aerosoftware.com" target =
+"_top">AeroSoftware</a></font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Position: Technologies,
+Designer</font></font>
+<br><font face="Arial,Helvetica"><font size=-2>&nbsp;</font></font>
+<br><font face="Arial,Helvetica"><font size=-1></font></font>&nbsp;
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 COLS=1 WIDTH="375" >
+<tr>
+<td><font face="Arial,Helvetica"><font
+size=-1>03.09.99&nbsp;</font></font>
+<br><font face="Arial,Helvetica"><font
+size=-1>-------------</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>First things first.. Keep
+
+those resumes coming!!</font></font><font face="Arial,Helvetica"><font
+size=-1></font></font>
+<p><font face="Arial,Helvetica"><font size=-1>Thanks to everyone who has
+
+sent information my way in regards to the Texture Artist and Modeller
+Positions.
+If you haven't sent in your resume yet, and you would like to play a
+major
+role in this project, I highly suggest the sooner the better. I do
+require
+at least several samples, as well as previous game, or mod development
+experience. This mini-game is 100%<b> freeware</b>.</font></font><font
+face="Arial,Helvetica"><font size=-1></font></font>
+<p><font face="Arial,Helvetica"><font size=-1>If you don't know what i
+am talking about, click <i><a
+href="http://www.bluesnews.com/cgi-bin/finger.pl?id=236&time=19990307020838"
+target = "_top">&lt;here></a></i></font></font><i><font
+face="Arial,Helvetica"><font size=-1><a
+href="http://www.bluesnews.com/cgi-bin/finger.pl?id=236&time=19990307020838"
+target = "_top"></a></font></font></i>
+<p><font face="Arial,Helvetica"><font size=-1>I have gotten quite a few
+questions regarding our latest project. The only item mention so far is
+that we are doing something with the Genesis3d Engine, which include
+Exodus
+Enhancements.</font></font><font face="Arial,Helvetica"><font
+size=-1></font></font>
+<p><font face="Arial,Helvetica"><font size=-1>Here are some common
+questions:</font></font><font face="Arial,Helvetica"><font
+size=-1></font></font>
+<p><b><font face="Arial,Helvetica"><font size=-1>What type of features
+are in this Genesis3d Engine w/o enhancements?</font></font></b>
+<br><font face="Arial,Helvetica"><font size=-1>True RGB colored lights
+that mix properly in the environment</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Fog</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Mirrors</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Dynamic
+shadows</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Animated
+textures</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Real time water surface
+distortion</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Real time light
+diffraction</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Vertex
+morphing</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Fully animated seamless,
+soft-skin polygonal characters</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Dynamic mesh manipulation
+
+for realistic character motion</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Traditional hierarchical
+polygonal characters&nbsp;</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Translucent
+textures</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Texture
+morphing</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Level of Detail
+technology</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Character
+morphing</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Software rasterizer, 3DFX
+
+Glide, and D3D support</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Benefits from MMX but
+does
+not require it</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>Open scripting
+API</font></font>
+<br><font face="Arial,Helvetica"><font size=-2>(previous taken off of <a
+href="http://www.genesis3d.com" target =
+"_top">genesis3d.com</a>)</font></font><font
+face="Arial,Helvetica"><font size=-2></font></font>
+<p><font face="Arial,Helvetica"><font size=-2>*Note that the above are
+features supported. We may choose not to use any particular
+feature.</font></font><font face="Arial,Helvetica"><font
+size=-1></font></font>
+<p><b><font face="Arial,Helvetica"><font size=-1>What are Exodus
+Enhancements?</font></font></b>
+<br><font face="Arial,Helvetica"><font size=-1>Basically, they are
+updates,
+modifications, and entire rewritten parts of code to the genesis3d core
+engine which will be made by the 3d Coding-Tech-Guru, Mike Thacker. Most
+
+updates will be created as development continues.. more to
+come..</font></font><font face="Arial,Helvetica"><font
+size=-1></font></font>
+<p><b><font face="Arial,Helvetica"><font size=-1>When will more
+information
+be publicly known?</font></font></b>
+<br><font face="Arial,Helvetica"><font size=-1>As soon as we feel we are
+
+nearing completion, we will publicly release more information. Up to
+that
+point, look out for leaks around the net. &lt;hint,
+hint>;-)</font></font><font face="Arial,Helvetica"><font
+size=-1></font></font>
+<p><font face="Arial,Helvetica"><font size=-1>A website is
+forthcoming.</font></font><font face="Arial,Helvetica"><font
+size=-1></font></font>
+<p><font face="Arial,Helvetica"><font size=-1>--</font></font><font
+face="Arial,Helvetica"><font size=-1></font></font>
+<p><font face="Arial,Helvetica"><font size=-1>A big thanks goes out to
+Doug W. for the correction to the John Lennon quote seen
+below.</font></font><font face="Arial,Helvetica"><font
+size=-1></font></font>
+<p><font face="Arial,Helvetica"><font size=-1>So who's in your final
+4?</font></font>
+<br><font face="Arial,Helvetica"><font size=-2><a
+href="http://espn.go.com/ncaatourney99/ncb/bracket_lite.html" target =
+"_top">(http://espn.go.com/ncaatourney99/ncb/bracket_lite.html)</a></font></font>
+
+<br><font face="Arial,Helvetica"><font size=-1>I haven't completed my
+brackets
+quite yet, but the more I look into Arizona, the more I feel they might
+be in. Unfortunately, I have only gotten the opportunity to watch
+Arizone
+via television 4 or 5 times this year.</font></font><font
+face="Arial,Helvetica"><font size=-1></font></font>
+<p><font face="Arial,Helvetica"><font size=-1>Duke looks impressive.
+Definite
+final 4. I did see Cincy(the only team to beat Duke this year) in person
+
+when they lost to Saint Louis University. The Bearcats are a solid team,
+
+as I suppose any is under Bobby Huggins, but I just don't see them doing
+
+entirely that well. Maybe Sweet 16. Maybe.</font></font><font
+face="Arial,Helvetica"><font size=-1></font></font>
+<p><font face="Arial,Helvetica"><font size=-1>As far as Kansas goes, I
+really do see them doing well. Possibly meeting Arizone in the Elite
+8.</font></font><font face="Arial,Helvetica"><font
+size=-1></font></font>
+<p><font face="Arial,Helvetica"><font size=-1>At this time I would put
+my money on Duke vs UConn in the finals, but what's so fun about college
+
+basketball is, you never really know until the final buzzer sounds. stay
+
+tuned.</font></font><font face="Arial,Helvetica"><font
+size=-1></font></font>
+<p><font face="Arial,Helvetica"><font size=-1>- Paul</font></font></td>
+</tr>
+</table>
+<font face="Arial,Helvetica"><font size=-1></font></font><font
+face="Arial,Helvetica"><font size=-1></font></font>
+<p>
+<hr ALIGN=LEFT SIZE=1 WIDTH="39%">
+<br><font face="Arial,Helvetica"><font size=-2>Cool
+Quotes:</font></font>
+<br><font face="Arial,Helvetica"><font size=-2>"Imagination is more
+important
+than knowledge." - Albert Einstein</font></font>
+<br><font face="Arial,Helvetica"><font size=-2>"The important thing is
+not to stop questioning." - Einstein</font></font>
+<br><font face="Arial,Helvetica"><font size=-2>"I might have found
+10,000
+ways which don't work, but I did not fail." - Thomas
+Edison</font></font>
+<br><font face="Arial,Helvetica"><font size=-2>"Living is easy with eyes
+
+closed.... misunderstanding all you see" - John Lennon</font></font>
+<br><font face="Arial,Helvetica"><font size=-2>"Get Frustrated, Go
+Crazy,
+or become a writer." - D.J. Quik</font></font><font
+face="Arial,Helvetica"><font size=-2></font></font>
+<p><font face="Arial,Helvetica"><font size=-2>**Disclaimer
+**</font></font>
+<br><font face="Arial,Helvetica"><font size=-2>Everything stated in this
+
+file is from the mind of Paul A. Bullman, and in no way
+represents</font></font>
+<br><font face="Arial,Helvetica"><font size=-2>AeroSoftware's position
+on any issue. If you would like to use this .plan, or its
+contents,</font></font>
+<br><font face="Arial,Helvetica"><font size=-2>please do, as long as you
+
+mention that it is from my .plan.</font></font><font
+face="Arial,Helvetica"><font size=-2></font></font>
+<p><font face="Arial,Helvetica"><font size=-2>I will exercise my right
+to free speech as a citizen of the United States of
+America.</font></font>
+<br><font face="Arial,Helvetica"><font size=-2>Questions? Comments?
+Suggestions?
+I love feedback!</font></font>
+<br><font face="Arial,Helvetica"><font size=-2>mailto:<a
+href="mailto:paulb@aerosoftware.com">paulb@aerosoftware.com</a></font></font>
+
+<br>&nbsp;
+</body>
+</html>
+
+

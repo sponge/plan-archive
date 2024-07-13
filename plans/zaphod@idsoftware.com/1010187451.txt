@@ -1,0 +1,39 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+
+Second Update:
+
+There's a new build up.  It's marked BETA2.
+
+Mouse movement is now back to normal.  The side effect of this is that the mouse isn't
+staying accelerated when you quit the game again.  It shows it's accelerated in System
+Preferences, but you need to reclick the position to make it happen.  Uggh.  I really
+really really call the system functions to put the settings back.
+
+You can now switch out of the app as well.
+
+
+------------------
+
+Man, do people watch that id ftp server or what..  Didn't get a chance to update before
+it's on the news sites!
+
+Quake 3 1.31 for OS X has been posted on the id ftp site.  We don't have the benefit of
+outside testing for OS X builds, so it is a BETA release (ie. use at your own risk).
+
+Fixed:
+	-	stereo sound
+	-	works every time on powerbooks
+	-	mouse stays accelerated when you quit
+	-	some dual monitor stuff
+
+You need to have Quake 3 1.30 installed for OS X before you update to this build of 1.31
+since only the updated pak files are included.
+
+I've not built Classic Q3A 1.31 yet.  I seem to have accidently nuked my install of
+CodeWarrior.
+

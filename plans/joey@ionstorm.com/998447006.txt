@@ -1,0 +1,153 @@
+
+*** Ion Storm's Finger Server
+
+User name: joey
+Plan modified: Tue Aug 21 21:09:22 2001
+
+----------
+
+2001-08-21
+
+Patch 2 is testing at Eidos.
+
+Some of us are still active on www.planetanachronox.com forums
+if you want to reach us about the game.  I also set up a website at
+
+    http://www.geocities.com/anoxtechfaq/ 
+
+to address the most common tech-support issues people have brought 
+up on the Anachronox forums.  A lot of people have also expressed
+interest in editing using our powerful cinematic scriptor and
+scripting language -- we are preparing documentation for a subsequent
+release that will be announced on the forums.
+
+I'm one of the last people to clean up my cube.  Right now I'm
+backing up parts of our data tree and sourcesafe databases in case
+Eidos needs us to fix something for the patch.  Our network is being
+dismantled in a few days, I hear.... all the reusable equipment is
+going down to the Austin office.
+
+It's reeeaal quiet up here.
+
+Sort of sad to be finally packing up.  All the cubes are empty.
+Lots of memories and friends made up here.  Not to mention the lines
+and lines and lines of code :)
+
+Well, that's enough melodrama.
+Best of luck to all ex-Anox team on our job searches...
+See you guys around.
+
+----------
+
+2001-07-30
+
+Although Ion Storm Dallas is no longer, a few of us are using the last 
+couple days of rent left on our space to make one more patch for 
+Anachronox while the network and our data trees are still intact.  
+Details can be found at:
+
+http://www.forumplanet.com/planetanachronox/topic.asp?fid=2221&tid=265673
+
+Thanks for everybody who has supported us during this long journey.
+
+----------
+
+2001-07-02
+
+Patch 1 is released.  Download and install please.  Fixes many random
+crash problems across all operating systems.
+
+Graphical fixes in the patch not in the patch readme:
+
+- Environment mapping supported on low-end cards with sorry drivers 
+  (glTexGen calls replaced with internal software calculations).
+
+- Polygon z-fighting problems on multi-pass models, on certain cards
+  (especially TNT/TNT2) fixed.
+
+Also, there is a _dramatic_ speedup on map file loading times (can be
+up to 1000% on some systems).
+
+By the way, just so you guys know, all three core programmers on
+Anachronox develop under Win2K .... so we have run the game thousands
+of times without problems. I, personally, have only completely locked
+up my win2k anachronox development box two times in the past several
+months, and I suspect it was either due to overheating or when I
+accidentally kicked the case really really hard with my left foot
+when I tripped into my work area :P
+
+I suspect it is an unfortunate, unlucky combination of hardware and
+software that is causing these persistent win2k (and other os) crash
+problems, even with the just-released patch.
+
+We tried to do the best we could testing all the hardware out there.
+I even forced one of our team members to suffer under an Evil Kyro
+card!! -- just because I was trying to get as diversified an
+environment as possible in the office. (I think he hasn't yet
+forgiven me for the pain he had to endure while working on Anachronox
+.... with all the problems on that card).
+
+Unfortunately, we just don't have the testing "army" the size of
+Microsoft, and with the pc hardware market in the state it is in 
+today.... it is impossible to test all 40 x 10^100 hardware / 
+software combinations.
+
+At this point, the only suggestions I can make are (if you have
+already installed the patch).....
+
+- Make sure all your memory chips are good -- VERY IMPORTANT.
+  The best one I've used is at http://www.memtest86.com/ 
+- Quit all background applications (icq, norton, ALL antivirus).
+- Turn off 3d sound by using setupanox.exe
+- Do a full install to an _uncompressed_ drive.
+- Experiment with using the anox_640gl or anox_1280gl or anox_window
+  batch files.  Do NOT use the anox_v2v3 batch file.
+- Experiment with flipping your desktop color depth between 16 and
+  32 bit.
+- Make sure you have the latest drivers for your video card.
+- Make sure your virtual memory settings are "let windows decide" 
+  or "automatic" and you have a good amount of free disk space on
+  your operating system install drive.
+- On Win2k, install service pack 2.
+- On Win2k, don't use "compatibility mode" to run Anachronox.
+- On Win9x, make sure you have installed all critical updates.
+- Fiddle with your cdrom dma settings (if you are very brave).
+
+These are of course, general suggestions that might apply to any
+software incompatability problems.  I hope this helps the few
+remaining ones out there who are suffering from post-patch problems.
+
+----------
+
+2001-06-30
+
+Well, well.  First plan file update in several YEARS.
+
+Anyways, we are done with the patch, but Eidos will not
+complete testing until Monday.  My apologies to those
+of you who have bought Anachronox but are suffering from
+instability issues.  Please bear with us; we don't want
+to release a buggy patch.
+
+In the meantime, here are some things you might try, if
+you are having problems getting past the initial logo
+cinematic:
+
+- If running win2k, install service pack 2.  This is 
+  available as an automatic download from Windows Update.
+
+- If running win2k, disable EAX or any other 3D sound.
+  You can do this without running Anachronox by running
+  SETUPANOX.EXE from the Anachronox install dir.
+
+- If using a voodoo2 or voodoo3 card, make sure that 
+  wickedGL's opengl32.dll is copied to the Anachronox
+  install dir.
+
+- Install the application under windows 95B or 98 if at
+  all possible.
+
+Also, core team members regularly visit the official
+Anachronox BBS at www.anachronox.com as well as the
+forum on www.planetanachronox.com.  The demo will be
+ready sometime after the patch is released.

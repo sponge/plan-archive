@@ -1,0 +1,22 @@
+</p>
+[idsoftware.com]
+Welcome to id Software's Finger Service V1.4!
+
+Name: Paul Steed
+Email: psteed@idsoftware.com
+Description: Artist
+Project: Quake Arena
+Last Updated: 06/26/1998 12:50:44 (Central Standard Time)
+-------------------------------------------------------------------------------
+6/26/98
+FRIDAY WORKLOG
+ShooterCast was cool last night.  I expected the guys to be rougher on me than they were.  Hopefully I didn't sound as flat as I felt, though.  I also dug the ad for Mynx's page of erudition heard during a station break. 
+
+As far as what I've been up to here at work: explosions.  I spent yesterday reviewing and culling out the better explosions from VCE's Pyromania and PyromaniaPro twin pyrotechnic cd sets.  These 4 cds are very good reference by which to model (arghh) explosions and pyrotechnic effects.  Carmack wants to have a unique ordinance hit for each weapon so I'm going to build up an inventory of explosions and little mushroom cloud & shockwave effects.  Hopefully mine will be as good as Kevin's from Quake2 (I gave up in despair during Q2's development).  
+
+A note on tools, though.  Since I still live in the stone ages and use AniPro and 3ds4 occasionally (less the latter since coming up to speed in Max), I have to convert tgas and jpegs to gifs for use in the former.  Paintshop Pro v5 is great for this since it has a batch converter built in.  Very easy to use and fairly fast.  I know Debabilizer serves this purpose as well, but with PPro 5 you get the utility of an image tweaker as well.
+
+Tryptophan and lysine are the memory recall helpers I referred to previously in my plan, BTW.  Turkey and lean chicken are great sources for these amino acids but too much tryptophan will induce drowsiness so beware.
+
+<a href="http://www.idsoftware.com/crackwhore">http://www.idsoftware.com/crackwhore</a>
+

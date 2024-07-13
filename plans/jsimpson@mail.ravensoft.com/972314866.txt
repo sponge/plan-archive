@@ -1,0 +1,24 @@
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+10/23/00
+
+Since I'm not seeing many .plans updated recently, I thought I'd update mine. Not that I have anything work related to say.
+We've all been sworn to such secrecy that I think we are working on games for the NSA. Or the CIA. Whatever.
+
+Wait, I do have something to ask. I was thinking of extending the C tutorials I wrote to add a another tutorial on writing code
+for the Quake III engine. I'd be aiming it at Modders, with some stuff thrown in there about how some of the .exe works too. There
+would be some "ahhh, that explains alot" answers in there (hopefully). I'm aiming it at those with no prior knowledge of Quake code
+but that do have some idea of 3D, so when I mention a vector they don't go screaming from the room. I have Id behind it, but my
+question to you guys out there is "Would this be useful?". I don't really want to spend the time doing this if no one is going to get
+anything out of it.
+
+I'm really doing it because I ran out of home projects to do, and since we here at Raven are pretty familir with the Q3 engine, I 
+thought this would be a natural extension of the C tutorials. Drop me a line if you would be interested in this.
+
+Nothing much else to say. Normal programming will resume in a moment.
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/users/jakeworld">JAKEWORLD!</a>

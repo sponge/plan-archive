@@ -1,0 +1,63 @@
+Name: Richard Cowgill
+----------
+iggy@contrabandent.com
+Current Project:  Abducted
+
+
+
+
+"Capture the New Zealander" Walkthru guide
+
+
+1. Find NZ'er folded laterally into oblong crate.  It will be mixed liberally among other crates marked "health" and "ammo".
+
+2. Goto hangar bay where crate is delivered.  Note that there are crates stacked everywhere, yet no palettes exist.  Hit the 'ponder' button repeatedly to gain 10 extra mental points.
+
+3. Find NZ'er by smashing open crates with crowbar.  Alternately, hit '1' again and cycle to your fists, use them instead.  No gun available on the hangar bay level, but lots of ammo.
+
+4. While trying to find NZ'er you may take damage from falling crates, crate debri or crate spore given off by momma crates protecting their crate younglings.  Move cautiously.
+
+5. Crate spore can be annoying, blurring your vision by shaking your camera POV for up to 3 minutes and doing 1 point of damage or less.  This has a tendency to waste the healthpacks as they give 50 health each.
+
+6. Crate debri can be equally annoying, make sure to use "psi-crowbar" trick where you swing about 10 feet away from a target crate while running backwards, destroying it at a safe distance.  Practice on crate younglings.
+
+7. Hit f7 to reload your last quicksave as often as you need to, especially after taking 1 point of damage from annoying crate spore.
+
+8. The boss for this level is a giant mutant robot zombie sheep accidently shipped over from New Zealand from a mad scebientist experiment gone wrong, and he just happens to be in a crate right next to your New Zealander target.  And he smashes out of his crate just as you approach it.  And he really really wants to protect that crate with the NZ'er in it.  And he really really really hates you!  Yeah.
+
+9. Recommendation:  leave your AI controlled buddy and at the loading docks near the beginning of the level.  You'll be able to reach the Nz'er much easier.  Come back for him after defeating the boss.
+
+
+
+
+
+
+---------------------------------------
+
+
+
+
+Updated Nov 8 2002, 01:22:41
+
+
+
+<a href="http://www.contrabandent.com/game_development.jpg">Game Development</a>
+
+
+
+
+---------------------------------------
+
+
+
+
+Updated Oct 9 2002, 21:30:43
+
+
+new screenshots were posted.  <a href="http://www.contrabandent.com/abducted/media.html">http://www.contrabandent.com/abducted/media.html</a>
+
+our site has been hit pretty hard.  we wanted to get some high fidelity screenshots out to really show the detail in this engine, so they ended up being pretty big files- 1600x1200 jpegs, averaging 4-500k each.
+
+abducted is a 3rd person adventure game, with elements of horror, scifi and action.  i know the website is a little thin on info right now, we're due to give it an overhaul in the coming month (with alot more info i hope).
+
+ATI sent us some love the other day in the form of radeon 9700 cards to develop abducted on.  thanks ATI!  this was much needed.

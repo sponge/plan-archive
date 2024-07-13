@@ -1,0 +1,223 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------
+User Name: dave.moore     Plan Last Modified: 02/26/1999 19:21:33 PST
+
+Real Name: Dave Moore
+Nickname:  SymLink
+Job: Technology Programmer, Lord High Miscellany
+Project: Starsiege Tribes
+
+This is intended to be something of an open letter
+to Tribes players that are asking about the ongoing
+OpenGL work, and anyone else who might be
+interested.  As usual, my opinions are my own, are
+to be taken with a grain of salt, and I welcome any
+corrections in my assumptions.
+
+In the field of genetic algorithms, one is often
+concerned with the problem of local maxima: regions
+in fitness space where your fitness function is at
+a local peak, unable to move against the gradient
+to seek a potentially better solution elsewhere.
+If I may stretch this idea to make an analogy, I
+believe that we have reached such a position in
+respect to OpenGL support on current consumer-level
+hardware.
+
+OpenGL drivers for consumer-level 3D accelerators
+are written for the Quake* engine.  (Here * means
+I, II, and soon 3: Arena.)  When Brian Hook can
+make a statement like: "I hope to have new
+benchmark numbers posted in a couple weeks after
+the IHVs get a fair chance to update their
+drivers," it's clear which company is driving
+development.  I do not intend this to be construed
+as bitterness, or expression of an unrealistic
+picture of the current environment in which a
+chipset vendor must operate.  This is entirely
+rational at this point: a chip must support Quake*
+or it's toast in the market.
+
+However, while the Quake* class of game is
+important, and has produced what are, in objective
+terms, some of the most popular games ever, it is
+only one class of game, and I am worried that the
+massive interia of several million installed Quake*
+games is keeping us at a local maximum. I'd like to
+explain what I mean, and why I'm concerned that
+this singular focus by IHVs could potentially keep
+game developers from developing entirely new
+classes of applications.  (I'm speaking of the
+graphics effects only, not gameplay.)
+
+At left is a sketchy representation of several game
+types.  (You can see why I became a programmer
+rather than an artist.  For those of you not
+reading this on TribesPlayers, you can access the
+image at http://www.tribesplayers.com/tribesplayers/plan/plan-DMooreSketch.GIF.
+
+Geometric complexity is fairly self-evident, say,
+average triangle primitives visible.  I intend
+texture complexity to represent a somewhat
+squishier metric, say, number of textures visible
+in the environment from a given viewpoint that
+either cannot be determined at load time, or for
+which it would not be feasible to do so.  I'm
+ignoring such things as positioning of models; if
+you want, read "environment" as "environment in a
+given state."
+
+Doom gets a zero for texture complexity, because
+every texture visible on the walls and floor is
+determinable at load time, no textures are
+generated in the course of gameplay.  (Even though
+Doom wasn't hardware accelerated, bear with me.)
+Moving to the Quake generation, the geometric
+complexity is increased, but the texture complexity
+as measured here is only slightly higher, the only
+dynamically created/modified textures in this class
+were the lightmaps near projectiles, players, and
+explosions.  Quake2 is more of the same, low
+texture complexity, higher geometric complexity.
+Quake3: Arena is listed with a question mark next
+to it, since it isn't available for inspection yet,
+but based on what information is publically
+available, it seems likely that we won't see new
+uses of dynamic texturing in Quake3. Again, we've
+stepped only in one direction, geometric
+complexity.  (But it's a BIG jump!)
+
+Next is Unreal, which is placed (arbitrarily) at
+the level of Quake2 for geometric complexity, but
+moves farther out along the texture complexity
+scale due to the fairly pervasive use of dynamic
+procedural textures. Unreal ran into significant
+problems during their OpenGL port due to this, as I
+understand things.
+
+Now, we come to Tribes.  Tribes is, by design, less
+geometrically complex than Unreal or Quake2, and
+more complex than Quake.  Tribes uses procedural
+animation for some interior lightmaps, dynamically
+generates lightmaps for projectiles and explosions,
+and, what "hurts" most, generates a large number of
+textures in our terrain engine for detailing
+purposes.  The terrain in Tribes was designed to
+trade geometric detail for texture detail in order
+to achieve a good trade off for software rendering
+and Glide for Voodoo1/2.  Every problem we have run
+into in implementing OpenGL for Tribes has boiled
+down to: no OpenGL card/driver combo currently
+available is prepared to handle the amount of
+dynamic texture shuffling that Tribes requires.
+
+Let me state it baldly.  There is no excuse for
+this that I can see in a current AGP card.  Take
+the Voodoo1 as counterpoint.  A card several years
+old, with a fill rate less than half of a good
+second generation card like the TNT, the Voodoo1
+can download upwards of 300-400 kb of textures per
+frame, at 30 fps, all the while running an app at
+640x480 with a depth complexity of ~3.  The cards I
+have been testing on are sometimes hit with huge
+frame rate penalties (30-50%) when downloading less
+than 8 kb of textures (10-30 small lightmaps) per
+frame with a DC slightly above 2.  Swinging your
+head around on the Tribes terrain can cause pauses
+of a large fraction of a second.  (The "hitches"
+I've mentioned before.)  I'll freely admit I'm not
+a hardware engineer, but let's look at the math.
+The Voodoo1 downloads across the PCI bus at 33 or
+66 Mhz.  AGP 2x has an access rate several times
+that, and the cards have the capability to leave
+the textures in system memory, and access them
+directly as needed.  (I should say, theoretically
+have the capability, it's not utilized in some
+drivers, notably the TNT Detonator driver set) Why
+is the AGP card slower?
+
+Now, for Tribes, this is a problem.  But that's not
+really what I want to talk about.  This state of
+affairs is pushing new games in the wrong
+direction, at least for developers using OpenGL.
+Ideally, when we start to think about the next
+game, we'd like to move along the "Desired" arrow.
+CPUs on the market now have the horsepower to
+generate textures for some really cool effects.
+Procedural fire/smoke.  Swirling fog volumes
+generated by raycasting into textures.  Rippled,
+animating, water that responds to external events.
+(Bullets, footsteps, etc.)  Water sheets cascading
+down rock faces. Those are just a few ideas tossed
+out as examples, each of them rendered impossible
+because the channel that we download through is
+unacceptably narrow.
+
+Games at present are being pushed in the "forced"
+direction. Higher geometric complexity/fill rate is
+coming at the expense of lower dynamic texturing
+ability, in the OpenGL world-as-it-is. New cards
+coming out with reported fill rates in excess of
+250 MTexels per second are going to allow games to
+run in 1024x768x32 with depth complexities in
+excess of 4.  But entire classes of graphic effects
+are going to be ruled out for the reasons above.
+
+I would like to propose the following.  Benchmarks
+on hardware websites should begin to use
+applications that at least exercise the texture
+channel.  The benchmarks used now, Forsaken, Quake,
+Turok, etc., are applications where all textures
+are created and bound at load time, and are really
+nothing more than tests of the raw fill rate of a
+card.  An Unreal demo in a room with large amounts
+of procedural texturing would be a good start.
+Card manufacturers will not add the capability we
+need for advanced texturing effects until we show
+that it's important to us for them to do so.
+
+Failing that, what are the options for a developer
+wanting to use highly dynamic texture effects?  At
+present, you can port to a card specific API for
+3Dfx, Savage cards, and the Verite family, hoping
+that you have better control over texture
+placement.  This doesn't seem like the right way to
+go though. Once you've raised your 3D library to a
+sufficient level of abstraction that you can wrap
+two different card libraries, it's not that
+difficult to get a third up and running, but
+becoming enough of an expert to write a driver that
+approaches optimal is time-consuming, and it leaves
+your optimization opportunities at a very low
+level.  In addition, it damages your ability to
+support non-conventional platforms such as Linux,
+Mac or the BeOS, and leaves out the TNT, the i740,
+and the G200.  You can write to Direct3D which has
+reached a usable state, and for which drivers have
+improved greatly in the last 2 years, but again,
+your multi-platform potential is eliminated. In
+this case, that also includes NT4, since MSoft has
+seemingly defaulted on providing accelerated
+DirectX for that platform. Developing for DirectX
+on Win9X is also not as easy, enjoyable, or as
+robust as developing for OpenGL on NT.  At this
+point, we're also not sure that we wont run into
+the same problem in a different form under DX6.
+
+I can't see any general solution to this dilemma
+that does not begin with the card manufacturers.
+OpenGL is manifestly the best way to develop,
+except for these frustrating stopping blocks.  We
+may end up adding DX6 support to Tribes, simply
+because we are determined to have multi-card
+support in the game, and refuse to accept that
+these cards are incapable of handling the load we
+place on them.  We will be releasing what we have
+thus far for public inspection soon, with listed
+support for the TNT, and the i740.  G200 support
+will be added as soon as some driver issues are
+resolved.  After that?  We'll keep you posted as
+more information becomes available.

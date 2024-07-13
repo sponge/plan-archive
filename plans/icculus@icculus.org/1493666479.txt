@@ -1,0 +1,164 @@
+IcculusPlan
+
+
+
+
+
+I decided to take on [Vito's challenge][1] and port Unreal Engine 1 to
+
+[Emscripten][2].
+
+
+
+You can see the results [here][3]. This is the final C++ source code to
+
+Unreal Tournament 1999, compiled to run in a web browser.
+
+
+
+It'll use the hot new [WebAssembly][4] if your browser supports it, or
+
+[asm.js][5] if not, which works on most other things, presuming they can
+
+otherwise provide the needed functionality.
+
+
+
+Game data gets downloaded to an IndexedDB, so you don't have to pull down
+
+the same 100 megabytes again if you reload it later.
+
+
+
+I can't believe how quickly WebAssembly became feasible; Firefox and Chrome
+
+support it out of the box, Safari supports it in their current Technology 
+
+Preview, and Microsoft Edge supports it as an experimental feature in the 
+
+Windows 10 Creators Edition. Right now, an asm.js fallback makes sense for
+
+another few months until Safari and Edge flip the final switches, but wow,
+
+we're almost there already.
+
+
+
+This flyby demo works on all the modern major browsers, and apparently even
+
+works on recent builds of Android. Mobile Safari crashes while starting up,
+
+presumably due to some memory limit. I don't know yet.
+
+
+
+This port uses the ancient OpenGLDrv code, that Daniel Vogel wrote at Loki,
+
+with [libRegal][6] making the fixed function code look like OpenGL ES 2.0, which
+
+Emscripten turns into WebGL (...which some Windows implementations then push
+
+through libANGLE to turn into Direct3D...how do computers even work at all?).
+
+In addition, glDrawArraws and glDrawElements both failed for different reasons
+
+in this frankenstein configuration, so this is actually rendering in GL 1.0 
+
+immediate mode: glBegin and glEnd pairs. Seriously! There are so many
+
+rendering wins we don't have access to until this code is rewritten; this game
+
+should, even in a web browser, get 60fps without struggling, but that's not
+
+the fast path we're on.
+
+
+
+Daniel Vogel once joked, about OpenGLDrv, that in modern times, it should just
+
+put the entire map in a single Vertex Buffer Object. It's not like we're
+
+hurting for GPU memory and the maps are tiny datasets in 2017. I think that
+
+would be an interesting experiment some day.
+
+
+
+The immediate takeaways of Emscripten porting, for me, are this:
+
+
+
+- Porting is _way_ easier than you'd expect, with one exception:
+
+- You can't block, on _anything_, or it won't work. So you might
+
+  have to redesign some small things, or one gigantic everything,
+
+  depending on your program, but most things work pretty well. Solving
+
+  the blocking problem on the web browser end is the most important thing
+
+  that can be done by Mozilla/Google/Apple/Microsoft/etc.
+
+- OpenAL and SDL 1.2 are built in with Javascript reimplementations,
+
+  and SDL 2.0 itself has an Emscripten target that Just Works. Basically
+
+  anything that's been ported to Linux or macOS will probably take a
+
+  week (or a weekend) to get running.
+
+- New tech (like WebAssembly) can become ubiquitous pretty fast; we don't
+
+  live in a world where we have to worry about Internet Explorer 6 anymore
+
+  (or Internet Explorer at all, discounting the most unlucky developers).
+
+  If someone is on Firefox or Chrome, you probably have the latest and
+
+  greatest and will continue to get the latest and greatest, and if you
+
+  aren't, you probably have the option to use Firefox or Chrome.
+
+
+
+Enjoy!
+
+
+
+![UT99/emscripten screenshot][7]
+
+
+
+  [1]: https://twitter.com/vitor_io/status/845485957906337797
+
+  [2]: http://emscripten.org/
+
+  [3]: https://icculus.org/ut99-emscripten/
+
+  [4]: http://webassembly.org/
+
+  [5]: http://asmjs.org/
+
+  [6]: https://github.com/p3/regal
+
+  [7]: https://icculus.org/ut99-emscripten/screenshot.png
+
+
+
+--ryan.
+
+
+
+---------------------------------------------------------------------
+
+When this .plan was written: 2017-05-01 14:21:19
+
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+
+Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
+
+Hank Williams hasn't answered yet.
+
+
+

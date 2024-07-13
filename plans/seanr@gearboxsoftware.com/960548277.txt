@@ -1,0 +1,179 @@
+Login: seanr          			Name: Sean Reardon
+Project:
+
+Shhh
+
+
+Plan:
+  Everyone has been so extremely kind in answering
+my .plan request about NZ info.  Thanks to all who
+wrote in (Nicola Simpson, David Gillespie, Chris
+Bokitch, Chris Van Doren, Adam Glick, Kevin Davidson,
+Raja, Daniel Sewell, Michael Besnard, Mario Wynands,
+and Neil Graham.)
+
+  I thought I would do a reverse slashdot interview
+here.  On slashdot, lots of people ask questions
+and one person answers.  Here, I've asked several
+questions, and lots of people answered.
+
+  In formatting these responses, it became very 
+clear that New Zealanders are very friendly, 
+outgoing people.  If Gearbox doesn't wind up in
+NZ, it won't be because of the people.
+
+  Special thanks to David Gillespie who points out
+that there are 11 sheep for every person in New
+Zealand.
+  And also to Chris Van Doren of Ensemble
+Studios who points out that 11 sheep just might
+be enough for Gearbox Software's Mike Wardwell.
+
+
+
+How New Zealand compares to the US in the following
+areas:
+
+1) Movie release dates ---------------------------------
+
+From Kevin Davidson:
+"Not that crash hot mostly ... seem to be somewhere 
+between a week or 2 through to 6 weeks behind release 
+dates in the US  ... seems to be speeding up tho."
+
+From Daniel Sewell:
+"Most movies are simultaneous release (Star Wars, 
+Matrix etc). Others are a bit behind (!?). I believe 
+we have some kind of record for seeing so many movies 
+per year per head"
+
+From Mario Wynands:
+"Not bad.  Well after the US but usually before Europe."
+
+From Neil Graham:
+"MI:2 opens in a week or two.
+X-Men opend August 17.
+Usually release dates are a month or two behind the US."
+
+
+2) Good Internet connection availability ---------------
+
+From Kevin Davidson:
+"Excellent for local stufff and not too bad for
+overseas. By local I mean we get good 56k modem 
+connections to NZ servers (110-180 ping times) where as 
+I see a lot of US messages (in forums, list messages
+etc) that seem to have a heap more problems getting 
+good connections with acceptable pings. We have ADSL 
+connections with good rates as well (now - only been 
+available for last 12 months publicly) so game pings 
+of 20-70 ms are the norm for those guys.
+(bastards :-) )"
+
+From Daniel Sewell:
+"ADSL (almost) everywhere. 20-40ms Q3 ping times."
+
+From Mario Wynands:
+"Pretty good.  An 800MB limit on an ADSL connection 
+will be about US$50 per month.  You can get unlimited 
+transfers at 56k for about US$20 per month. No charges 
+for local residential calls either."
+
+From Neil Graham:
+"All you can eat 56k6 $35-$40 NZ (halve roughly for 
+US dollars).  Plenty of active competition.
+High speed connections are available at varying costs.  
+A Cable service is speading around the country, which 
+is causing all of the competition to drop prices as 
+it turns up. "
+
+
+3) Xena cast member sightings --------------------------
+
+From Kevin Davidson:
+"(can't help here - sorry)"
+
+From Daniel Sewell:
+"Yes (further north of here). Lord of the Rings is 
+just down the road."
+
+From Mario Wynands:
+"You see them around every now and again (more in 
+Auckland than Wellington where we are based though).  
+As it happens I went to an American Football training 
+camp last week and met Mark Nua and one of the stunt 
+trainers from Xena.
+Cast members also turn up regularly on locally 
+produced television programmes and celebrity events."
+
+From Neil Graham:
+"Depends on where you are.  Chances are better in 
+auckland.  Spotting major cast members is as about 
+as rare as you would expect for seeing someone in a 
+decent sized city.  On the other hand you get to see 
+local productions on TV with most of the cast members.
+Quite a few people turn up in Xena with relativly small 
+parts who happen to be locally famous.  We have a 
+dreadful hospital soap which has had most of the cast 
+do a stint on Xena.  
+We are actually quite a way behind In seeing Xena though."
+
+[**take note of that last sentence there.  shiver..**]
+
+
+4) Cost of living --------------------------------------
+
+From Kevin Davidson:
+"I would have to say cheaper than the US for basics but 
+for commercial property and cars etc it will be dearer. 
+for example - I went to the States knowing that our 
+exchange rate is half yours (i.e. $1 NZ gets me 
+50cents US ) ... went to buy milk and bread etc and 
+they were the same price as they are here ! ($2.50 US 
+for 2 litre milk! shit me! it only $3.00 NZ for the same
+here!) ... I mentioned this to a friend in the US and he
+started waffling on about wages/salaries, rents etc etc 
+etc ... as a holidayer it was expensive in the US but 
+I'm guessin it evens out and the US has a boatload more 
+people to average consumer prices amongst which should 
+mean lower prices on a lot of stuff (i.e. 
+refrigerators - your prices are WAAAY cheaper than ours 
+for good models)."
+
+From Daniel Sewell:
+"Junk food is half the price of Aussie. I don't really 
+have a reference to go by."
+
+From Mario Wynands:
+"Again quite low compared to the US (lets see - a 
+Big Mac meal combo will cost about US$2.50, a room in 
+a half decent apartment will cost between US$50-75 a 
+week, a movie ticket for a new release is about US$5).
+However, salaries are in line with that.  An entry level
+programmer will earn the equivalent of about US$18,000.
+A top dog programmer/project manager might earn up to
+US$45,000 depending on the company."
+
+From Neil Graham:
+"Auckland  1 Million People - Very expensive.   
+Have to drive everywhere.  Wellington - Slightly 
+Expensive.  Mostly have to drive eveywhere.  
+Chistchurch 200 thousand people - Cheaper.  QueensTown 
+- Bloody Freezing.  A bit Expensive (for Skiing buffs)
+Various small towns - Some are dirt cheap but deathly 
+dull.  You can buy the entire town of Otera for 
+under a million.  It is between two mountains and gets 
+about 2 hrs singlight a day.  Mostly a ghost town now.
+I live in Christchurch and like it enough to not want 
+to move to Wellington or Auckland to get a real job.  
+It is also what I know.  Rent is $250-$350nz per week 
+for a house.  A 1.5 Litre bottle of coke costs $1.50 
+from a supermarket or $2.50nz from a service station.
+Cans of coke cost $1 - $1.20nz 
+I have been either a student or a struggling game 
+programmer for a few years.  You can live off $8000nz 
+per year here, but it isn't nice. $50,000-70,000nz 
+is a good income. $30,000nz is an ok income."
+
+
+You're still here?  The movies over.  Go home.

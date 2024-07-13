@@ -1,0 +1,13 @@
+GarageGames plan resource for Rick Overman
+Posted Monday January 14, 2002 at 4:07 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=1975
+
+It is very exciting for me to finally announce the launch of [b]Development Snapshots[/b] here at GarageGames.com.  This has been awhile in the making...while the surface interface to the site is quite simple, I have added a considerable amount of underlying support code to the site to make things like image handling and form processing much simpler.  We had been using PHP´s built-in GD based image handling routines throughout the site but their lack of gif support and incomplete win32 implementation made developing and testing the site a nightmare.  Development Snapshot uses a new set of image handling routines based on [url=http://www.imagemagick.org/]ImageMagick´s[/url] robust collection of image processing tools making our cross platform web development much simpler.
+
+Since there is so much new code it would not surprise me if your guys find a bug or two so if you have any problems while posting your snapshot please copy and error messages from the page and send me an e-mail ([email]webmaster@garagegames.com[/email]) describing what you were doing when the problem occurred.
+
+So, start getting your snapshots and descriptions ready. Posted snapshots will be featured on the Make Games home page for 24 hours and will always be available for viewing in the [url=http://www.garagegames.com/mg/snapshot/gallery.php]gallery[/url]. Images must be Jpeg and no larger than 640x960 pixels.
+
+--Rick
+

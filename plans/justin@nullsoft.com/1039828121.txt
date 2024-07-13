@@ -1,0 +1,6 @@
+Login: justin         			Name: Justin
+"|IFS=' '&&exec /usr/local/bin/procmail -f-||exit 75 #deadbeef"
+Plan:
+Friday, Dec 13th, 2002
+
+I could have gone to the playboy mansion once, but I'm glad I went to Spain to see Radiohead twice instead.

@@ -1,0 +1,28 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Jedi Knight2
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+NOTICE:
+The Elite Force Master Server has moved to 63.146.124.45
+
+(This included the MOTD and Authorize Servers)
+
+Your DNS may not have updated yet as there are still several people hitting the old one here at raven.
+If you're handy with your HOSTS file you can force the change now.  But either way, you will need to quit and restart your servers to enact the change.
+
+Until everyone has updated you may not be able to find your favorite server.  If they are talking to the old Master and you are talking to the new one, or vice versa.
+
+If you want to check if your DNS has updated, try pinging.  You should see the following if you're updated:
+C:>ping master.stef1.ravensoft.com
+
+Pinging sx03.ravensoft.com [63.146.124.45] with 32 bytes of data:
+
+Reply from 63.146.124.45: bytes=32 time=69ms TTL=117
+...
+
+Thanks, carry on.
+james

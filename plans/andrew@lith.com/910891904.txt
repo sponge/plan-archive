@@ -1,0 +1,66 @@
+
+*** Monolith Production's IonFingerD Server 1.0 beta
+
+User name: andrew
+Plan modified: Tue Nov 03 21:24:00 1998
+
+6/16/98
+
+Wow! Time sure does go by fast! I didn't realize that it's been that long since my last update... but anyway, here's the latest scoop.
+
+Eric and I are on special FX detail full-time now... so we should start seeing some major 'beef-up' in the use of our weapons and the damage they'll do! The menus still need some additions, but those will be added as new engine features become available (or not... depending on time restraints for our team and the LithTech team).
+
+Now, I've been looking at some effects for some of the other games out there... and while some seems to have two or three good FX, most of them aren't very dramatic, fun, or unique. Well, we've come up with some good ideas for making our weapons as fun to use as possible (which is what many people liked about the original Blood). I'm not going to go into any details just yet... for the sake of not having a visual to go along with the description. If our ideas come across well, however, I don't think you'll be upset with the results!  :)    Eric and Ernie have been putting all the 'character' into the weapons and how they'll work... I'm just going to be bringing all that into the game!   Should be an exciting ride!!
+
+At the moment we're just concentrating on one weapon at a time, though. So... the most frequently used, and more simple, weapons are the current agenda (which is why there's a current lack of really cool visuals... but those are coming up soon).
+
+If you've looked over our weapons in the game specs and have some cool ideas of what you'd like to see... feel free to write and let me know.  I can't promise that it'll be in the game, of course... or maybe it is already there, who knows!  :)   But if you don't mind sharing your thoughts... I'd like to hear them!
+
+     --- Andy Mattingly
+
+
+5/22/98
+
+Well... E3 is rapidly approaching, and everyone is really busy. There aren't many plan updates happening right now... but I'm sure that most people will write one after E3 is over!  :)     See you at the show!
+
+          --- Andy Mattingly
+
+
+5/5/98
+
+   Ok... it's been a while since my last plan update, but the rush in on to get as many new features into the game as we can for E3 time. Most of these include special effects, multiplayer and networking options, character modification, character dialog, and a way to configure the control.
+
+   I just recently finished up all the inventory swapping stuff so people can trade off items during multiplayer and get rid of their unwanted belongings in singleplayer. The spellbook now allows you to memorize and remove the spells you choose (rather than just sit there and look at the pretty graphics... which is all it was good for not too long ago).   :)
+
+   Right now I'm working on the character generation and modification interface which will let you choose a different character, modify your physical attributes to your desire, choose your starting weapons / items / spells for multiplayer, change your name, and choose different skins for the model. This is going to be a partial 3D / 2D interface... which will be integrated seemlessly into the single player game, and act as a small selection level in multiplayer. It's all partially implemented right now... but still need much touching up.
+
+   After I have that setup enough for E3, I'll start working on a new special effect for our grenade and missile explosions. We're planning on doing some really awesome particle and deformation techniques for this and many of the other FX in the game. We're hoping to really impress all of you at E3... just wait to see what we've got up our sleeves!   :)
+
+   Anyway... away from work news:
+
+   Almost everyone here has gone to the Computer Game Developers Conference today and will be gone for the rest of the week. I've decided to stay back and hold down the fort! :)  (Guess that makes me in charge... uh... maybe?)
+
+   Once everyone gets back... most of them will only have a week or two more before going to another conference (E3). It looks like I might actually make it there too (I haven't missed one yet, so why start now right?)   Anyway, we hope to see all of you die hard Blood fans there... so make sure you stop by our booth and check out what's in the works!
+
+   That's it for now... gotta get back to character gen! :)
+         ---  Andy Mattingly
+
+
+4/17/98
+
+Well, I'm the newest member of the Blood 2 team... my name is Andy Mattingly.  I've been at Monolith for about a month, and so far my current tasks have dealt mostly with the in-game and out-game menus / interfaces.
+
+When I first got here... there was a temporary in-game interface showing only a couple of statistics. But... after what seems to be several hundred changes (including three complete face lifts), I think we've finally got something that may stick around for a while! I must admit though... all of the changes were well worth it, because I think it's tons better than it was originally.
+
+Right now we're displaying almost all the necessary (and much optional) information about the current character status and level details. The inventory and spell selection bars are done and looking cool... so now I'm working on ways to drop the items and spells you don't want, and memorize new spells.  Eric is working on the graphics for these, and I must say that it looks quite awesome so far!!
+
+Details other than work:  StarCraft is the latest craze in the office... everyone has been playing it recently. I couldn't resist either, so I went and bought it the other day. After playing it, I must say that I'm NOT disappointed. Of course, I didn't figure that I would be with a game coming from Blizzard.    I have yet to play a multi-player game yet, but the single player is excellent. Good characters and story... and excellent cut scenes (at least the two that I've seen so far). If you haven't got it yet, I suggest you go buy it... tons of people are having rebates on it right now too! I ended up getting it for $25.
+
+Anyway... that's enough for now. I deprived myself of lunch again this morning... so I think I'll go grab some now.
+
+--- Andy Mattingly
+
+
+ 
+
+

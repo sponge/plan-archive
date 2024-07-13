@@ -1,0 +1,90 @@
+IcculusPlan
+
+
+
+**Markdown:**
+
+
+
+I added [Markdown] [1] support to IcculusFinger. Whatever, I do what I want.
+
+
+
+One of the problems with the existing IcculusFinger markup is that
+
+it assumes you are writing ASCII but might want some enhancements,
+
+like underlining, etc, so it tries to format it to match, even on
+
+webpages...including newlines. This turned out to be awful on smartphones,
+
+since it intentionally wouldn't reflow text. Plus, when writing a .plan,
+
+you had to make concessions that line length would change with markup,
+
+etc. Markdown solves this by being WYSIWYG (no, really!) for text
+
+output, and does the right thing for HTML output. Everyone wins.
+
+
+
+Basically: if you ever find yourself writing a .plan here again,
+
+just wrap the whole thing in a markdown block.
+
+
+
+This is probably a fool's errand; maybe this will be the only time
+
+the finger daemon will ever see a piece of Markdown. This was sort of
+
+a stumbling block to longer-form blogging for me, though, since it
+
+was hostile to how people used the web, so I would either tweet,
+
+or do longform blogging on Google+ (a fool's errand in itself, no
+
+doubt). I feel like this gives me back some control, without having
+
+to do something grownup like install Wordpress, y'know.
+
+
+
+Maybe I'll blog ("plan"?) more now. We'll see.
+
+
+
+
+
+**Other stuff:**
+
+
+
+...but right now, most of my deep, deep realtime shower thoughts are still
+
+found on [Twitter] [2].
+
+
+
+--ryan.
+
+
+
+   [1]: https://daringfireball.net/projects/markdown/syntax "Markdown"
+
+   [2]: https://twitter.com/icculus  "Twitter"
+
+
+
+---------------------------------------------------------------------
+
+When this .plan was written: 2016-03-14 10:54:36
+
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+
+Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
+
+'Cause the haters gonna hate, hate, hate, hate, hate...
+
+
+

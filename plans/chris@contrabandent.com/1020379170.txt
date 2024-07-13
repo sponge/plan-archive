@@ -1,0 +1,28 @@
+Name: Chris Jacobson
+----------
+Icewind Dale has shipped.
+"Spikey" is Hexen 2 and should be shipping soon.
+"Madonna" and "Wargames" may be revealed in the near future.
+A new project will be given a codename soon.
+"Nessie" has been retired.  It had no final name.
+"Tracker" has been retired.  It had no final name either.
+
+ADDENDUM - 5-2-02
+
+I would like to follow up by mentioning that "Nessie" and "Tracker"
+were not official projects, they were internal sideprojects that
+were being persued in spare time.  They have since been cancelled (or
+at least put on indefinite hold) due to time constraints.
+
+"Wargames" has been announced, and is "Uplink", a popular game by
+a company called Introversion (http://www.introversion.co.uk).
+In Uplink, you play a hacker who has been hired as an agent for
+a company, and have various missions to accomplish to get better
+hardware and software and infamy.
+The publisher has yet to be announced.
+
+On another note, at least the .plan files are being updated; for
+a while webdog couldn't seem to tell when we changed them.
+
+- Chris Jacobson
+

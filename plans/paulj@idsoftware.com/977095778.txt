@@ -1,0 +1,37 @@
+
+Name: Paul Jaquays
+Email: paulj@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+
+Skill Portfolio/Background:  See bio on id web page for details
+
+Current projects:   DOOM
+
+**********************************************************************
+DISCLAIMER:  THE FOLLOWING IS THE PERSONAL OPINION OF THE AUTHOR AND DOES
+NOT REPRESENT THE OFFICAL POSITION OF ID SOFTWARE, ITS OWNERS, EMPLOYEES,
+DISTRIBUTORS, OR LICENSEES, (OR ANYONE ELSE FOR THAT MATTER)
+
+
+
+
+**********************************************************************
+September 5, 2000 2:35 PM
+**********************************************************************
+
+The server batch files for Team Arena were accidentally left off the Team Arena disk. They'll be in a future point release, but for now, you can download them here: 
+<a href="http://www.quake3world.com/files/q3ta_serv.zip">q3ta_serv.zip</a>
+
+
+**********************************************************************
+Quake3World Level Editing Forum
+
+<a href="http://www.quake3world.com/cgi-bin/forumdisplay.cgi?action=topics&forum=Level+Editing&number=6">Quake3World Level Editing Forum</a>
+
+**********************************************************************
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+If it's not here, it's vapor.  Check out somebody's archives if you want to read my previous bits of wisdom and flame.

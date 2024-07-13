@@ -1,0 +1,21 @@
+
+Name: Tim Willits
+Email: 
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+9/9/03
+Technical Help Requested with Bluetooth Connectivity.
+
+I am posting a .plan file hoping that someone can help me with a technical problem I am facing.
+
+Here is my problem:
+I have a Nokia 3650 mobile phone, my service provider is AT&T. I also have a Sony Clie PEG-TG50. I want to connect to the internet on my Clie via Bluetooth using my Nokia 3650 phone (GSM/GPRS). My Clie can see my phone and I can get a Bluetooth connection but I am unable to get it connected to the internet.
+I’ve been able to get this working with my Powerbook and my phone but unable to achieve the same success with my Clie.
+
+If someone can help me with this problem they will receive a free signed copy of Doom 3 as soon as it is finished. I’ll also give you some cool id stuff while you wait for your free copy of Doom 3.
+
+Thank You
+Tim Willits
+twillits@idsoftware.com
+

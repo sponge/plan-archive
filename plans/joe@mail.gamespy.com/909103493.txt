@@ -1,0 +1,21 @@
+User:   joe
+Read:   0
+Unread: 2
+Time:   Thu, 22 Oct 1998 20:46:00 -0700
+Plan:
+Well, I made it back to Jacksonville, FL safely after attending my first
+Beatdown.  That's a <strong>long</strong> flight ... FL to CA and back
+again.  Fortunately, for me, I'm able to sleep on planes :)  I ended up
+having a really good time!  Thanks to Bastard for providing me with a P2-300
+w/Voodoo2 (this was the first time I've had a chance to play on a Voodoo2
+machine) to play on.  I met some really interesting people at the Beatdown
+(hi HickBoy).  I had the most fun playing Rocket Arena 2 while I was there.
+Everyone seemed rather underwhelmed at the Denny's turnout ... only around
+two dozen this time.
+
+What?!  You want a GameSpy update too?!  Tim did some tweaking on the SSL on
+the flight out and back ... the SSL is <strong>much</strong> faster now.
+You will be very impressed.  We just gave a final RC to the QA team today
+and don't really expect them to find anything.  I anticipate GameSpy 2.02
+being released this week.
+

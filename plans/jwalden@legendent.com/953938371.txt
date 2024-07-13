@@ -1,0 +1,134 @@
+============
+11.2.99
+============
+WOW!! Wot has finally shipped. I am thoroughly stoked. I cannot describe how amazing it has been to be on the project. I know this plan entry will sound like a shameless plug for the game, but I just want to try and get in touch with that unjaded, untainted perspective of the wide-eyed game player in me, and talk a moment about WoT.
+
+I am a big-eyed freak. Visuals impress me more than anything else. I like big stuff more than small stuff. Bright more than drab. I consider myself a sensitive guy who tries not to look at women as objects. But I could be in traction, and a visually hot-looking woman could still always be able to yank my head around to some extent. When I was working in a crappy job as a retail electronics salesman in Boise, Idaho a few years ago, one of the guys there had a pack of about 6-8 floppy disks. It was the demo for Quake 1. He installed it on one of the pc's on display while the rest of us watched the sales floor. He ran the game... And I about @#&% my pants. The demo was playing from e1m4 -- the Grizly Grotto -- which is still one of my favorite levels to date in a 3d game. The mood, the sounds, the scrags.... the splatters of acid they'd spit, the bouncing, dark red, juicy gibs... I was in love. The sounds of your persona gagging and gasping for air as he emerges out of the water in the submerged air pocket in the building below the big grotto area. The visuals of that experience were the most engulfing, amazing thing I'd seen on a computer screen. 
+
+That same gluttony for visuals is what WoT satisfies for me the most. I just really dig the details that these guys put into their level design and effects for this thing. I mean, if you didn't know they were there, you'll pass up about 50% of the details in any given level the first time or so you play through it. Anyway, I don't want to spoil the experience for any of you who may actually be reading this plan file. But I will just say this, as honestly and objectively as I can, being a member of the team here:
+
+About 60% of my brain is hooked up exclusively to my eyeballs. Another 20% is dedicating to sex drive, and another 10% dedicated to securing food. The remaining 10% is spread out among the other senses, motor skills, and a rambling, impulsive verbal autopilot that blurts out whatever pops into my head at any given time. (Which alternates between being mildly funny and persistently annoying for those around me. I usually blame it on my mild case of Tourette's Syndrome.) I like pretty stuff, scary stuff, and other stuff for my eyes to gobble up. If there's cool sounds to back up what I see, that's even better. If you are even remotely like this when it comes to choosing what video game to buy this month (or whatever), WoT is what you should invest in. Get UT when you can. Quake 3 looks good too. But if you just have a perma-woody for incredible graphics and environments, get WoT. That's all I'm saying...
+
+Oh, and it has some kick ass multiplayer too. Okay, now *THAT* is all I'm saying. :)
+
+
+============
+9/2/99
+============
+Wow. A long time since I've updated this thing. Well, let's see... the baby... (I promise I'll get to game-related stuff within three sentences or so. Stay with me...) 
+
+Sarah's getting a lil' round belly. She's really stoked. Not as barfy/nauseous/moody as I thought she would be. (Seeing how she's usually barfy/nauseous/moody NORMALLY). She's ALREADY collecting a stash of diapers and baby crap though. We saw an ultrasound of the little Jellybean... MAN that was cool...
+
+But to keep my promise to update this thing with game/development-related material...
+
+MAN-oh-man is this game looking sweet. Okay -- that's not all I was gonna say.
+
+ANIMATION MAN!!!
+That's my new title, (minus the exclamation points) complete with bright red spandex leotard and neon green plastic kneehigh boots, and a big gold vinyl "A" on the chest... I have to pay for my own cup though. Which sucks... And I'm starting to think the guy who had the job before me had some kind of fungal infection... That and he really stretched out the seat of the tights. But I digress...
+
+Now I get a chance to use my newfound super-powers to better the lives of those around me, and deliver unto the computer gaming public the excellence in game graphics they so justly and profoundly deserve!!...
+
+Okay, I'm fixing animation bugs.
+
+Well, actually, that's what I *WAS* doing for the longest time. Now I'm actually doing all new animations. The Minion has needed work for a LONG long time. He's undergone a total makeover, by yours truly, in both his model and his animations. He no longer looks like he's fending off a neatly-groomed vest-wearing biker who's *ALSO* grabbing for that *LAST* pair of simply *FABULOUS* patent leather hip boots on the rack at Jeeno's Exotic Men's Store.
+
+I.e. -- he now looks a little tougher.
+
+He now is much beefier, more scary, and with a lot better skin. I hope his ALL NEW animations and model are a highlight in our already stunning game. Now we only need new sounds for him. The old ones kinda sound like a constipated great-grandmother who's just discovered that the senna-oat bran herbal remedy Marge told her about at church last Sunday really *WAS* the best thing since shaved cats.
+
+...So I've redone the Minion. I've already redone his skin once before, and now I do it once again for the new model. I can't tell you how many things I have REDONE since I started working here. MAN alive! Why didn't they just hire me like... twelve months earlier... Oh yeah! That's right. I was too busy being yelled at by some red-faced inbred redneck over the phone because it was Micron Computer's tech support policy to not support a Linux operating system for a computer that was shipped with Windows 95. That, and he couldn't get his joystick working with Quakeworld.
+
+But I'm happy to have the work. To be able to find a niche in such an awesome game. I can't tell you how lucky I am. I just happened to fall into the ONE area of the game which really needed work. Makes me look REALLY good to have so much to improve. If I'd started as a level designer or whatnot I'd be hard pressed to make a huge impact on what was done before my arrival, as awesome as things look in that department. 
+
+I only wish there were more time to redo things. If I could I would do for ALL of the models what I've done for the Minion -- a total facelift for all the models and occasional tweeking or redoing of animations. They still look great as is. But I guess I'm just a control freak when it comes to this stuff. 
+
+Ahh.. the clean slate of Unreal 2...
+
+:) 
+
+
+============
+6/16/99
+============
+Well, this isn't really video game related, but holy sheep dip, I just can't keep it a secret from you, my loyal multitudes of fans who I know wait with bated breath to read ANYTHING which I may update to this plan file... But.. it turns out that I, God help the world, have successfully reproduced!! My wife and I are expecting a baby! We're both recovering from the shock. But we're both seriously stoked... Feburary 19th, 2000 is the expected due date.
+
+Just thought I'd share that little tidbit with all of you... But now I see the looming shadow of Glen Dahlgren, peering around the corner, bullwhip in hand... must get back to work before... aaaiihghhhhghh!!!.....
+
+
+============
+6/2/99
+============
+Just got done playing some Cooperative DOOM 2 with Marc Tetrault, the other texture artist here. Man it was fun. It was the first time I'd played multiplayer on that old game. And as I'd expected it taught me something. Part of its fun is to have lots of action flying around you all over the place. Lots of things you have to weave your way through... demonic fireballs, minigun bursts, shotgun blasts, and, as Marc discovered, friendly fire from an idiot teammate. Hehe. Sorry Marc.
+
+Anyway, there's a lot to be gained from "retracing your roots", as Marc calls it. I hope that our game gives the player that same kind of overwhelmed feeling, whether its in the art, or in the action. That seems to be what make up an immersive environment.
+
+I need to get going. Not as much of a complete thought today. Lots and lots of crap to do.
+
+
+============
+5/19/99
+============
+Wow. Opening day of the new Star Wars movie. Cool. I can already see the parents this holiday season clawing past other parents in a gluttonous rampage to scoop up the movies action figures their children won't be able to grow up and become fully functioning adults without. I wonder which of the little hunks of plastic will be the new furby or t.m. elmo. (The man who invented the FURBY, by the way, class, is from Idaho. That's right. The furby was first born in the Gem State.) I'm certain the movie will be an awesome one. The theaters will be full of fans who can recite the entire script along with the actors onscreen for the previous installments of the saga. Now as missing pieces of the Star Wars universe shift together, those same people will now be whispering back and forth things like: "Ohhhh... so THAT's where they first got that..." 
+
+...I hope I don't annoy anyone too badly.
+
+I was a Star Wars freak as a kid, as any healthy, normal kid was in the late 1970's. I was invited to play along with the other kids in the neighborhood if for no other reason than I was semi-freakishly large for my age, and was strong enough to be a good tauntaun -- I.E. piggyback rides, running around in my friend's yard in a loping gait, making the whining sound of the two-legged critters from the icy planet Hoth. I also did a pretty good impression of Yoda, but my size just threw the whole visual effect of the perfomance. The part went to one of the little, runty, dweeby kids who lived further on down the street. For a time we contemplated lipsynching for a joint effort at duplicating the little green dude's role in the movie.
+
+Star Wars, though, for all its fun, did nothing but make my life miserable. It was such an utterly cool movie that so consumed a young kid's life that you just HAD to have every toy, magazine, and hunk of merchandise associated with it. Not until Star Wars did I realise just how broke my parents were. In an upper-lower class family with five kids, and being a Star Wars freak, you were condemned to a life of torment, endlessly pineing over the pictures in Sears and Ward's catalogs, straining to funnel the vast OCEAN of toys and accessories in the Star Wars universe down to a microscopic handful that you figured you'd stand a chance of actually getting for Christmas. And typically, around my family, Santa wasn't big on giving you EXACTLY what you wanted. Dad claimed it was because to give us EXACTLY what we wanted spoiled the element of surprize. I always wondered if that were really the case, or if Santa just didn't read the lists that carefully, or waited til the last minute to go shopping and what I wanted wasn't there anymore. Thus I got the Droid Factory when I wanted... well... everything else. Not that I was unhappy with it. What I got I was lucky to have, so you'd never hear me complain. 
+
+Still, I'll never forgive George Lucas for inventing Star Wars. Star Wars, for all its magic and wonder, twisted the day to day life of childhood into a depraved obsession for toys, and a life where each day held little meaning other than one less day until Christmas came, and we could hurl ourselves atop our far too puny mound of Star Wars memorabilia.
+
+Kids, (as if any kid would read this plan file) do yourselves a favor. Enjoy the movie. Thrill over the characters and the cool effects. Then when it's over, GO HOME. TRY AS HARD AS YOU CAN, to not let your life get all wrapped up in the toys, the trading cards, the accessories, the comic books. You can only revisit a two and a half hour movie experience SO MUCH. As much as you're tempted to make it into a religion, remind yourself IT'S ONLY A MOVIE! 
+
+And watch out for that other kid who's thrown his life completely and unabashedly into the Star Wars cult. You'll know him when you see him. He'll be the one who won't stop doing bad impressions of the characters from the movie, and constantly bringing to school toys or magazines based on the movie. He will likely be a kid with parents just slightly better off than other kids. And he'll have a cluster of fellow priests of the cult hunkering around him at recess as he produces yet ANOTHER starship or action figure from his backpack. Beware of him and his kind. Go outside and play catch. Swim. Learn to play an instrument. Do anything but become one of them...
+
+(later.)
+
+
+============
+4/27/99
+============
+Working on pain skins still. First I was sure we were doing pain skins. Then not so sure. Then more sure again. Now I'm just doing them and if they put pain skins in the game, then great...
+
+============
+4/21/99
+============
+Didn't mention anything about what I'm doing these days. Mostly RE-doing is what I am doing. Redoing all the skins for the game. Okay, yeah, I said I was doing that much. But specifically I'm about to FINALLY start on pain skins. Since likely the only people who'll read this plan file are my non-video-game-playing parents and inlaws in Idaho, I'll explain: Pain skins are the textures that appear on a video game character showing that he, she, or it has sustained damage. In Wheel of Time, when the player throws powerful spells at monsters and opponents, and the target is damaged, the target then looks wounded with burns, scars, and so on. I'm also doing skins for dead victims of some evil monsters in the game. Everyone tells me I have a good eye for gore. Some have cast me a creepy sideways, nervous stare, saying it was "...a little TOO good."
+
+Must be the meateater in me begging to come out. (i.e. Turdfarmer = Vegga-ma-tarian)
+
+Anyway, finished the skins for the last of the Player Characters. (The Whitecloak Leader) He looks pretty dang good if I do say so myself. He's got a lot more detail now. Makes me wanna go back and redo the rest of the characters again... a little TINY bit.
+
+Well, I gotta get going -- stuff to paint. More later.
+
+
+
+============
+4/20/99
+============
+Whoa. My first entry in a plan file here at Legend Entertainment. Well, I suppose I should introduce myself. I'm Joel R. Walden, at this 
+writing the newest member of the Legend clan. I'm a potato-fed vegetarian 6'3" white boy, originally from southeast Idaho -- that's IDAHO. 
+
+Say it with me now... I - DA - HO...
+
+Not IOWA (flat with cornfields), not OHIO (located in the Midwest). That's IDAHO. Potatoes, Sawtooth Mountains, Snake River plains, Boise, Ruby Ridge separatist Randy Weaver??? Idaho, class, is located between Montana and Washington (State), Wyoming and Oregon, Utah/Nevada and Canada. It's the funny looking one that's square at the bottom with an odd, skinny panhandle at the top. It is in the NORTH-west, kids, NOT the MID-west.
+
+Okay, I think you all are up to speed. Sorry, I just get tired of people confusing my home state which has natural hot springs, jagged mountains, miles of lava caves, hundreds of square miles of lava floes and extinct volcanoes, rivers, lakes, a newly thriving wild wolf population, Sun Valley ski resort, the world's farthest inland ocean port (Lewiston), the state where television was first invented, part of Yellowstone Park, canyons, deserts, some of the biggest expanses of untouched natural forest/wilderness in the lower 48 states, moose, buffalo, home to one of the few types of boa constrictor indigenous to North America (the rubber boa, look it up), as well as more rednecks and Mormons than anyone could possibly need in one lifetime...
+
+... with IOWA... which, while certainly lovely, is known for flat land and cornfields...
+
+I started working here for Legend in January of this year (1999). Before that I was working for Revenant, Inc. a game company that was based in Houston, TX. (Holy *%$@##!!!* humidity, Batman!)
+
+Before that I was a struggling artist with tons of talent, recently ('96) graduating from Boise State University (go Broncos!) with a BA in Art, and wanting to break into the video game industry. I worked every speck of my spare time on a Quake2 Total Conversion (TC) project. Before I got on board it was a Doom TC, then a Duke Nukem TC, then a Quake 1 TC, then a Quake 2 TC... now I hear it is a Halflife TC. You know... one of THOSE kinds of TC's... It'll likely be finally released as a Quake 7 TC. I also did some work on the new/upcoming release from Evolve, BATTLEZONE-The Red Oddessy.
+
+I absolutely LOVE this life. I mean, let people whine about the long hours, let them gripe about the pasty skin and lack of sunlight and fresh air... (Which you don't really see around here unless you go up to the level designers' area) Okay.. byegones... 
+
+Really, though, I do love this work. The team is awesome. I am convinced that anyone who sees WOT and our future games will know that. WOT, I know, truly will set some new standards for excellence in game graphics.
+
+What I do here:
+I started here thinking I would be doing environmental textures. But since I started, I've done pretty much nothing (so far) but skins skins skins!! And I love every minute of it. (Except when my computer locks up.) Before Wheel of Time is released, I'll likely have partially or completely redone all the skins for the game. I've developed many little tricks to squish the skins on the game's existing models into half the texture space, while actually improving their appearance in the engine. I'm pleased to be able to help out the efforts this much to optimize the game's content.
+
+More later. I hope to chatter on incessantly whenever I have time. I don't expect (m)any people to actually READ this thing. As I've said before... I often feel, writing this plan file, like a lone talk radio D.J. in Antarctica, broadcasting across the frozen wasteland, not knowing if even one human soul is even listening to my transmission, but doing it anyway....
+
+JOEL "TURDFARMER" WALDEN 
+:)

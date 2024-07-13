@@ -1,0 +1,18 @@
+Login: greenmarine    			Name: Brandon Reinhart
+Mail forwarded to brandon@epicgames.com
+Project:
+Unreal Tournament
+Plan:
+Sunday, January 2, 2000
+
+If you are interested in C++ programming with the UT open source,
+please join the openut-development list at sourceforge.  We are
+getting into some nitty gritty details that will definitely help
+programmers get to know the Unreal engine.
+
+In fact, licensees might be interested in joining as well.
+
+You can find the list signup at openut.sourceforge.net on the root
+project page.
+
+

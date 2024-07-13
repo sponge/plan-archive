@@ -1,0 +1,614 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: hog_jonny
+Plan modified: Tue May 06 10:51:11 2003
+
+You've reached HoG_JoNNy @ Ritual Entertainment, a.k.a. Jon Galloway:
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  Etc... etc... etc...                       *
+************************************************************************
+
+05/06/2003
+======================
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 10 (filtered)">
+<title>It’s been a while</title>
+
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:Tahoma;}
+h1
+	{margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:Tahoma;}
+h2
+	{margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	page-break-after:avoid;
+	font-size:11.0pt;
+	font-family:Tahoma;
+	font-style:italic;}
+h3
+	{margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	page-break-after:avoid;
+	font-size:10.0pt;
+	font-family:Tahoma;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p.TitleHeading, li.TitleHeading, div.TitleHeading
+	{margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	page-break-after:avoid;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:Tahoma;
+	font-weight:bold;}
+span.EmailStyle16
+	{font-family:Arial;
+	color:navy;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US link=blue vlink=purple>
+
+<div class=Section1>
+
+<p class=MsoNormal><span style='color:navy'>It’s been a while since I’ve put
+out an update.  At Ritual, we have all had our heads buried in our work, trying
+to release what we consider to be two of this year’s BEST FPS games on the PC.</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>In case you didn’t know, Ritual is
+working on <a href="http://www.st-ef2.com/">Star Trek® Elite Force II</a> and
+also is developing Counter Strike: Condition Zero with Valve.  You can find
+more info on Ritual and what we are up to here at the ritual website:</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>            <a
+href="http://www.ritual.com/">www.ritual.com</a></span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>You can also find more info and
+participate in the message boards at our official fansite:</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>            <a
+href="http://www.ritualistic.com/">www.ritualistic.com</a></span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Specifically regarding </span><span
+ style='color:navy'>EF2</span><span style='color:navy'>, we are quickly nearing
+product release and plan to have a near complete (over 90%) to show this year
+at E3.  We feel you’ll be pleasantly surprised with what we have been able to
+accomplish.  The game looks GREAT and better yet is that the gameplay is good,
+solid, and we feel that this is a FUN game that will surpass most people’s
+expectations.</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>We recently passed <a
+href="http://www.ritualistic.com/forums/showflat.php?Cat=&amp;Board=news&amp;Number=114150&amp;page=0&amp;view=collapsed&amp;sb=5&amp;o=7&amp;fpart=1">Beta
+for EF2</a>, our <a href="http://www.st-ef2.com/">Official Star Trek® Elite Force
+II Website</a> has recently live, and this weekend we just distributed an <a
+href="http://www.fileplanet.com/files/120000/123120.shtml">EF2 Pre-release Demo</a>
+for the game, so it seems now is a good time for an update.</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>We are proud of the success of the
+Demo, with over 75,200 downloads so far within the last 3 days.  If you haven’t
+checked the demo out already, we’d urge you to do so… we hope you’ll enjoy it.</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Here is a list of sites or mirrors
+where the demo is available for download:</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-left:1.0in;text-indent:-.25in'><span
+style='font-family:Wingdings;color:silver'>§<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='color:silver'><a
+href="http://www.3ddownloads.com/Action/Star%20Trek%20Elite%20Force%202/STEF2_SP_Demo.exe"
+target="_blank">3D Downloads</a> </span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-left:1.0in;text-indent:-.25in'><span
+style='font-family:Wingdings;color:silver'>§<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='color:silver'><a
+href="http://www.3dgamers.com/games/steliteforce2/" target="_blank">3D Gamers</a>
+</span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-left:1.0in;text-indent:-.25in'><span
+style='font-family:Wingdings;color:silver'>§<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='color:silver'><a
+href="http://www.planet-pmp.net/files/STEF2_SP_Demo.exe" target="_blank">EF eXtreme</a>
+</span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-left:1.0in;text-indent:-.25in'><span
+style='font-family:Wingdings;color:silver'>§<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='color:silver'><a
+href="http://desi.teamwerkz.de/power/downloads.php?file_id=24" target="_blank">EF
+Professional League</a> </span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-left:1.0in;text-indent:-.25in'><span
+style='font-family:Wingdings;color:silver'>§<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='color:silver'><a
+href="http://www.effiles.com/file.info?ID=13445" target="_blank">Elite Force
+Files</a> </span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-left:1.0in;text-indent:-.25in'><span
+style='font-family:Wingdings;color:silver'>§<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='color:silver'><a
+href="http://www.fileshack.com/file.x?fid=2817" target="_blank">Fileshack</a>
+(free registration required) </span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-left:1.0in;text-indent:-.25in'><span
+style='font-family:Wingdings;color:silver'>§<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='color:silver'><a
+href="http://www.fileplanet.com/files/120000/123120.shtml" target="_blank">Fileplanet</a>
+(free registration required) </span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-left:1.0in;text-indent:-.25in'><span
+style='font-family:Wingdings;color:silver'>§<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='color:silver'><a
+href="http://www.gamershell.com/download_2044.shtml" target="_blank">Gamer's
+Hell</a> </span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-left:1.0in;text-indent:-.25in'><span
+style='font-family:Wingdings;color:silver'>§<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='color:silver'><a
+href="http://www.geekygamer.net/STEF2_SP_Demo.exe" target="_blank">Geekygamer.net</a>
+</span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-left:1.0in;text-indent:-.25in'><span
+style='font-family:Wingdings;color:silver'>§<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='color:silver'><a
+href="http://mirrors.voyager.net/games/hosted/STEF2_SP_Demo.exe" target="_blank">Voyager.net</a>
+</span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-left:1.0in;text-indent:-.25in'><span
+style='font-family:Wingdings;color:silver'>§<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='color:silver'><a
+href="http://files.worthplaying.com/files/modules.php?name=Downloads&amp;d_op=viewdownloaddetails&amp;lid=150&amp;title=Star%20Trek:%20Elite%20Force%20II%20-%20Demo"
+target="_blank">Worthplaying</a> </span></p>
+
+<p class=MsoNormal><span style='color:navy'>There has been a </span><span
+ style='color:navy'>LOT</span><span style='color:navy'> of response from the
+fans in regards to the demo; we’re really happy to see how well the demo has
+been received.</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>You can check out some other
+impressions of the released demo here:</span></p>
+
+<p class=MsoNormal><span style='color:navy'>(* NOTE: these reviews contain
+spoilers for the demo)</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>            <a
+href="http://www.ritualistic.com/articles/030501_ef2_demo_preview_01.shtml">Ritualistic
+Webmasters demo impressions</a></span></p>
+
+<p class=MsoNormal><span style='color:navy'>            <a
+href="http://www.3dap.com/eliteforce/display.asp?x=demo">Elite Force Universe
+demo impressions</a></span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>In addition to the other
+information in this update, I wanted to respond to some of the feedback we
+received:</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Some people are worried that </span><span
+ style='color:navy'>EF2</span><span style='color:navy'> is a bug hunt.  Let me
+tell you that this is NOT the case.  Sure there are action missions, lots of
+them, several of them do have you fighting the Exomorphs (which are our version
+of bugs…), but that is not all you fight throughout the game.  The two levels
+presented in the demo are only 2 of the 70+ levels in the game.  This is
+approx. 2-3% of the entire single player game… it’s impossible for us to
+represent all of the important aspects of </span><span style='color:navy'>EF2</span><span
+style='color:navy'> in such a small demo. We have 11+ action missions, roughly
+half of this action has you experiencing combat with humanoids including: 
+Romulans, Klingons, Borg, Andorians, various alien mercs… plus some surprises. 
+</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Some people found the demo to be
+more difficult to complete then they had expected.  Remember that this is a
+small portion of the fourth and seventh mission in the game… having played
+through the mission leading up to these areas it may not seem quite as
+difficult.  If you need help getting through the demo, there are some good
+walkthroughs already:</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>            <a
+href="http://www.totallyef.net/ef2/walk/">Totally Elite Force: EF2 Pre-release
+Demo Walkthrough</a></span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Some people are worried that there
+is not enough Star Trek in </span><span style='color:navy'>EF2</span><span
+style='color:navy'>.  In </span><span style='color:navy'>EF2</span><span
+style='color:navy'> we have roughly 7 missions in the game that deal with story
+telling and interaction in a more Star Trek friendly manner, allowing
+interaction with crewmates, Captain Picard, or gathering information while
+aboard the </span><span style='color:navy'>Enterprise</span><span
+style='color:navy'>.  But for those who aren’t Star Trek fans, we’ve done this
+in a manner that allows you to mostly stay in the action or enjoy the story
+without having to be into Star Trek.</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>In every way, we have strived to
+make </span><span style='color:navy'>EF2</span><span style='color:navy'> a
+complete and immersive experience.  In many cases, diversity in gameplay can
+detract from the overall quality of the game… but in the Star Trek universe
+this diversity is an unprecedented benefit and really makes the overall
+experience connect for the player.  This goes beyond just the types of gameplay
+mechanics put to use in the design or the experiences you as a gamer want to grasp
+onto as you play… but also allows you to complete the game, missions, or
+individual objectives in a number of different ways. </span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>OK, now off of my proverbial soap
+box…</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>People have already started doing
+all kinds of crazy things with the </span><span style='color:navy'>EF2</span><span
+style='color:navy'> demo, check out some of the forum threads at <a
+href="http://www.ritualistic.com/">ritualistic</a>.    We fully intend to
+support the mod community and will be releasing a full set of tools and
+utilities for modifying the game once the product is released.  If you are
+interested in making mods for </span><span style='color:navy'>EF2</span><span
+style='color:navy'> you can get a good taste <a
+href="http://www.ritualistic.com/forums/showflat.php?Cat=&amp;Board=UBB11&amp;Number=115647&amp;page=0&amp;view=collapsed&amp;sb=5&amp;o=&amp;fpart=1">here</a>,
+where Brian “Bobo the Seal” has put up a short tutorial on making changes to
+the assets released in the demo:</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>            <a
+href="http://www.ritualistic.com/forums/showflat.php?Cat=&amp;Board=UBB11&amp;Number=115647&amp;page=0&amp;view=collapsed&amp;sb=5&amp;o=&amp;fpart=1">Bobo’s
+pre-release EF2 modification tutorial</a></span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>We’d LOVE to see people mod the
+game… for instance we have a whole new set of utilities and tools for making
+cinematics in </span><span style='color:navy'>EF2</span><span style='color:
+navy'>.  In fact, we have over 2 hours of fully animated cinematics and
+cutscenes interspersed within the game.  These were all rendered in real-time
+using the game engine and in-game assets.  This is a good chance to see some
+really great <a href="http://www.machinima.com/">Machinima</a> in action.  We
+fully expect people to be able to make their own Star Trek episodes (if that is
+something someone <a href="http://www.hiddenfrontier.org/">would want to do… )</a></span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Ok, now off of that soap box…</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>The demo is running well on most
+systems out there; we’ve only heard of a small handful of problems.  If you are
+having problems running the demo, here are some suggestions:</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<ul style='margin-top:0in' type=disc>
+ <li class=MsoNormal style='color:navy'>Make sure you are running the latest of
+     the following: </li>
+ <ul style='margin-top:0in' type=circle>
+  <li class=MsoNormal style='color:navy'><a
+      href="http://www.microsoft.com/windows/directx/default.aspx">DirectX 9.0a</a>
+      </li>
+  <li class=MsoNormal style='color:navy'>Most current drivers for your video
+      card</li>
+  <li class=MsoNormal style='color:navy'>Most current drivers for your sound
+      card</li>
+ </ul>
+ <li class=MsoNormal style='color:navy'>If you have a VIA motherboard</li>
+ <ul style='margin-top:0in' type=circle>
+  <li class=MsoNormal style='color:navy'>Make sure you have the latest VIA
+      4-in-1 drivers installed</li>
+ </ul>
+ <li class=MsoNormal style='color:navy'>Make sure your hardware meets the
+     minimum specification for the demo.  I.e. P3-600, 128MB Ram, 32MB video
+     card (Nvidia TNT2, GeForce ALL, or ATI Radeon).</li>
+</ul>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>The demo was released with
+pre-compressed .dds textures.  Currently there are some issues with this on ATI
+cards with a Radeon chipset, where some users may crash while playing the game.
+</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>This can typically be resolved by
+installing the latest ATI drivers.  If you are unsure what driver you need
+installed for your ATI card, then you can find the proper information on the
+ATI website:</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>            <a
+href="http://www.ati.com/">www.ati.com</a></span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>If you are unable to get the proper
+drivers installed, there is a less optimal fix for this issue.  You will need
+to go into the install directory for the demo, for example:</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>            C:Program
+FilesActivisionStar Trek Elite Force II Single Player Demo</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>You have to create a shortcut for
+the demo .exe, and then in the properties dialog for this shortcut, add in the
+following line in the target after the .exe path</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>            </span><span
+style='color:blue'>+set r_precompressed_textures 0</span></p>
+
+<p class=MsoNormal><span style='color:blue'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>So it should look something like
+this:</span></p>
+
+<p class=MsoNormal style='margin-left:.25in'><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:.5in'><span style='color:blue'>&quot;C:Program
+FilesActivisionStar Trek Elite Force II Single Player Demo</span><span
+ style='color:blue'>EF2</span><span style='color:blue'>.exe&quot; +set r_precompressed_textures
+0</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>That should resolve most issues
+with running the demo on an ATI card.</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Some users have been enabling the
+Vertex Lighting option from the advanced video configuration screen in an
+attempt to improve their visual settings on their graphics card and make the
+game look better, but this is the wrong thing to do.  The Vertex Lighting
+option will make the game look worse and will significantly reduce the overall
+visual quality of the game.  This option is only intended for the lowest of the
+low-end minimum specification machines.  In the demo there were issues with the
+Vertex Lighting option.  These issues have been resolved for the released
+product, but for the demo I would not recommend running with this setting
+enabled.</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>The technology used in </span><span
+ style='color:navy'>EF2</span><span style='color:navy'> is a much enhanced
+version of the Quake™ III technology.  The system requirements for </span><span
+ style='color:navy'>EF2</span><span style='color:navy'> are well beyond what
+was originally required by Quake III and as such you will need to be careful
+setting your graphic settings too high beyond what you graphics hardware can
+handle.  We’ve provided some examples below for what settings should be used
+for optimum performance and to improve your gameplay experience.  </span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>If you want the details concerning
+our upgrades to the tech, tool, and engine… If you have a chance, come visit
+our <a href="http://www.ritual.com/">website</a>.</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Here is a pretty rough expectation
+for performance across a wide range of systems:</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span style='color:navy'>Min Spec:</span></b></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>600 mhz P3</span></p>
+
+<p class=MsoNormal><span style='color:navy'>32MB video card (TNT2 or
+equivalent)</span></p>
+
+<p class=MsoNormal><span style='color:navy'>128 MB</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Resolution:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+640 x 480 x 16</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Text Res:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+PicMip2  (texture detail <b>Low</b> from Advanced Video)</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Filtering:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bilinear</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>- Everything else off or on fastest
+setting.</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span style='color:navy'>Recommend Spec:</span></b></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>1 Ghz P3</span></p>
+
+<p class=MsoNormal><span style='color:navy'>64 MB video card (Geforce 2 Ultra
+or equivalent)</span></p>
+
+<p class=MsoNormal><span style='color:navy'>256 MB</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Resolution:        800 x 600 x 32</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Text Res:          PicMip1 (texture
+detail <b>Medium </b>from Advanced Video)</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Filtering:           Trilinear</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>- Everything else at reasonable
+mid-range setting</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span style='color:navy'>High-end Spec:</span></b></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>2 Ghz (or higher)</span></p>
+
+<p class=MsoNormal><span style='color:navy'>128 MB video card (the bigger the
+better)</span></p>
+
+<p class=MsoNormal><span style='color:navy'>256 MB+ (more is better)</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Resolution:        1024 x 768 x 32</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Text Res:          PicMip0 (texture
+detail <b>HIGH </b>from Advanced Video)</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Filtering:           Trilinear</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>To end this awfully LONG update,
+let me say that we extremely proud and happy due to the response we have
+received.  We hope that this title will meet and beat peoples expectations
+across the board… our goal has always been to raise the bar and expectations
+for a license based FPS, and to make the BEST Star Trek game ever.</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>By the looks of it, hopefully we
+will achieve that with the release of Star Trek® Elite Force II.</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>Thanks for your support.</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'><span
+style='color:navy'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='color:navy'>Jon Galloway</span></p>
+
+<p class=MsoNormal style='margin-left:.5in'><span style='color:navy'>Producer /
+Creative Director</span></p>
+
+<p class=MsoNormal style='margin-left:.5in'><span style='color:navy'>Star Trek:
+Elite Force 2</span></p>
+
+<p class=MsoNormal style='margin-left:.5in'><span style='color:navy'>Ritual
+Entertainment</span></p>
+
+<p class=MsoNormal style='margin-left:.5in'><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='color:navy'>&nbsp;</span></p>
+
+</div>
+
+</body>
+
+</html>
+
+---------------------------------------------------------------- 
+Jon Galloway - Producer / Creative Director
+Ritual Entertainment
+E-mail - jon@ritual.com
+Wk. (214) 871-0400 ext. 111
+----------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+

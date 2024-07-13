@@ -1,0 +1,23 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+
+Hi there!
+
+We're planning on releasing the final version of the 1.27 point release today.  Barring any last minute
+problems it should be out early this evening.  This release is 100% compatible with Team Arena, and addresses
+the great feedback we had from the 1.25 beta releases and Team Arena testing.  The physics in the point release
+(and Team Arena) are exactly the same as 1.17.  More details will be forthcoming, we just wanted you all to
+have a headsup to be prepared!
+
+I released a test version of the Macintosh build of the Team Arena demo to a few volunteer testers last
+night, and will continue to work with them on getting both the point release and Team Arena finalized.  I'll
+probably seed another test version out there tonight based on the first round of feedback I got today.  The
+first respones on this test version have been extremely positive.
+
+Loki has been busy working on the Linux build, and this is also up and running.  We can expect to see binaries
+posted from this "shortly".
+

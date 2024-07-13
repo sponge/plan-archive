@@ -1,0 +1,197 @@
+
+Name: Robert Duffy
+Email: raduffy@idsoftware.com
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+
+The 2nd Point Release Beta (version 1.15b) for Quake III Arena is out. It should start appearing on mirrors soon. This version contains several bug fixes and should go final within a day or so. The source should be available shortly after that ( within a few days ). Per usual, all dates and time frames are subject to change.
+
+Changes:
+-Control menu works properly
+-Pure server connection notification
+-2D Armor icon appears properly
+-.arena files are accumulated properly across pk3 files
+-A few other smallish fixes
+
+
+
+
+12.22.99 8:30pm
+---------------
+I have placed a new install for the tools on the ftp site. Our ftp gets hammered but it should show up mirrored pretty quick as well. 
+
+ftp.idsoftware.com/idstuff/quake3/tools/Q3ToolSetup_Dec221999.exe
+
+There are quite a few changes, see the readme for a list.
+
+This release contains new content or updates for the following:
+
+-Q3Radiant, this is named 'Q3Radiant_181.exe'. This will allow you to revert to the older version in case there are unforeseen problems.
+-Q3Map, some fixes.
+-Q3Data, see the Modeling manual which was put together by Paul Steed and Paul Jaquays.
+-Model_manual_ps.doc, the above mentioned model manual.
+-bspc - see the included text file for changes.
+-Museum.map, Museum.shader - A map done by Kenneth Scott to illustrate a wide variety of shader effects. Cool stuff.
+-MapMedia.pk3 - additional content required by the museum
+
+The museum takes quite a while to light when running Q3Map on it. Be patient :-)
+
+
+
+
+
+
+12.16.99 2:38pm
+---------------
+I should be releasing an update to the editor soon. There are a few outright crashes I have fixed and I am looking into some other issues. If you are seeing stability problems, it is more than likely a driver issue. I am doing what I can to get these resolved. 
+
+We are seeing quite a few reports of fullbright levels when you preview new levels in the game. If you are having this problem can you drop an e-mail to tools@idsoftware.com along with your video configuration and whether or not bringing the console down solves the problem ( press ~ to bring down the console and see if the level lights ).
+
+We will also be re-releasing the .shader files soon. The .shader files in the shipping PK3 and the ones I included in baseq3/scripts include a lot of unused ( and in many cases non-functional ) shaders that are left over from the entire project. We are going to trim that down to the actual shaders used in the game.
+
+'q3data.exe' will also be in the update which will allow you to convert ASE's to MD3's. This should help getting new player and map models in the mods.
+
+
+
+
+12.15.99 1:10am
+----------------
+A small update. To build a map, q3map requires that 'quake' exists somewhere in the path. It uses this to derive the base path to figure out where to find things. What this means is that if you installed Quake III Arena ( and the tools ) to 'c:q3' then q3map will fail with a < SetQdirFromPath: no 'quake' in C:/Q3/baseq3/maps/unnamed.map > error. I realize this can be somewhat of a pain but it is the way the tools work ( it is also the way the tools have always worked ). 
+
+If you installed the game and the tools to the default or the name you chose has quake in it then this will not apply to you. If you installed to a path that does NOT have 'quake' in the name you will need to rename it to get q3map to work properly.
+
+
+
+12.14.99 11:40pm
+----------------
+
+The editor and tools are now available, the install can be found at ftp.idsoftware.com/idstuff/quake3/tools/q3toolsetup.exe. They should also appear on Quake3World soon.
+
+The readme contains a LOT of information, make sure you peruse through it after installation. You MUST install the tools to the same path as Quake III Arena. This will allow the editor to just work ( or it should ). If you installed Quake III Arena to c:Program FilesQuake III Arena then make sure you install the tools to c:Program FilesQuake III Arena
+
+These are unsupported tools. Even so, you may e-mail questions and problems to tools@idsoftware.com. I cannot guarantee a reply or a fix but I will try to address major issues.
+
+The source code for the editor, q3map, related tools and the game will be available soon. I do not have an ETA yet but it should be in the not too distant future.
+
+As far as hardware required to run the editor, here is how testing went for us. All testing was performed on a P2-300 with 64 mb of ram and Win98. Testing was done with the GLSetup drivers in most cases, but we grabbed the latest reference drivers if problems showed up. NT 4.0 will probably provide different results. I will be working with the vendors to try and get the problems worked out with the drivers and/or the editor. 
+
+TNT1 - Runs well.
+TNT2 - Runs very well.
+GeForce 256 - Smokes :-)
+Riva 128zx - Runs ok, slow but usable.
+ATI Rage 128 - Runs very well.
+ATI Rage Pro - Runs sort of, not usable.
+S3 Savage 4 - Editor crashes.
+Matrox G200 - Editor crashes.
+Matrox G400 - Editor crashes.
+3DFX Banshee - Ran the editor. No grid in XY Window but appeared ok otherwise.
+3DFX Voodoo3 - Ran the editor. No grid in XY Window but appeared ok otherwise.
+Intel i740 - Ran very well.
+
+
+The readme has a list of the latest changes.
+
+
+
+
+12.10.99 09:02pm
+----------------
+
+A couple of things. First, things look like they are still good to go on getting the editor and map building tools out early next week. I am shooting for Tuesday sometime but that can change based on a variety of things. In any event it should be soon. Secondly, the editor and shader manuals will not be available right then but will follow shortly after. The shader manual probably within a few days of the tool release, the editor manual a bit after that. 
+
+At this point, the tools should ship with three sample maps ( all from the game ) and the additional shader textures and "mapobject" models required to build those three maps. The maps represent a nice cross section of shader and entity functionality for everyone to digest. 
+
+We have been using a P2-300 running Win98 with a variety of cards for testing. To produce a production level map ( full vis and -extra light ) it takes 36 minutes for Q3DM1. Fast vis and normal light takes about 4 minutes on the same map. That should give some idea on requirements but your results will vary.
+
+As always, everything here is subject to change ( timing and content ) but this is the current plan and I do not foresee any changes.
+
+
+Recent changes to the tools. 
+
+Q3Radiant
+-Project info dialog sucks less
+-Properly handle long path names ( embedded spaces mainly ) when calling q3map.
+-Better bsp execution, output is piped to dos window and console
+-Q2/Q3 Pref handling works
+-Finished Installation 
+-Better defaults all around
+-Better window resizing, defer'd decision to default to floating window resizing.
+-Fixed crash on loading new projects
+-Seperated block allocator and actual size allocator to reduce memory overhead
+-Failed textures only try to load once
+-Failed MD3's only try to load once
+-Cleaned up shader loading
+-Editor loads without requiring information from the user the first time ( assuming it was installed in the right place )
+-Fixed case comparision problems with some PK3 file contents
+-Fixed allocation bug when cleaning out PK3 files on project reload
+
+q3map
+-Fixed MD3 load failure
+
+Todo
+-Add bspc to bsp list
+-Finish GL card testing
+-Fix MD3 path load from dialog ( misc_model attach )
+-Decide on multiple PAK files ( multiple PK3's work fine )
+-Mirroring curves needs to invert the texturing as well
+-Mirroring embedded models needs to work properly
+-Need default layout for floating window mode ( sticky windows as well maybe )
+-New artwork into install
+-Finish readme
+-More stuff
+
+
+
+
+
+
+
+12.07.99 05:02pm
+----------------
+
+The editor and map building tools should be available in about a week. This will include a prebuilt editor, q3map, and additional support files to get you going with map design and construction. There will also be some sample maps and shader examples. 
+
+I'm in the process of running the editor against various GL configurations and making sure it runs well on Win98 machines. I'll post a list of confirmed GL setups that I found to work, with the release. If it runs on a driver set installed by GLSetup I'll call it good. 
+
+The tool and game source will follow sometime after this release. A few things still need done in that area but it should follow reasonably soon after the binaries.
+
+The "about a week" time frame estimate is just that. An estimate.
+
+Recent changes to the tools.
+
+Q3Radiant
+-PK3 Support
+-JPG Support
+-Plugins can now load files from pk3 files ( transparent to the plugin )
+-Shaders can now load from pk3 files
+-Failed shaders no longer load a "notexture" image
+-Shaders are loaded from shaderlist.txt instead of *.shader
+-Shader texture loading is deferred based on All, Common or None rules. New Pref based on this.
+-Models can now load from pk3 files
+-Fixed Win98 Copy/Paste bug
+-Fixed Win98 BSP execution bug
+-q3map supports 'Quake...anything...' instead of just Quake2 or Quake3 as a base
+
+q3map
+-PK3 Support
+-JPG Support
+
+General
+-Lib'd several things to make code sharing a bit easier
+
+ToDo
+-Finalize Q2/Q3 pref handling
+-Auto window resizing, default to floating window mode
+-Project info dialog sucks
+-Only try loading MD3's once per session
+-Verify no maps path is ok ( auto create paths ) 
+-Set default tex window scale to 50%
+-Install
+-Auto fill prefs if can find quake3.exe and baseq3
+-Add bot bsp option to bsp choices
+-Run all paths through a path cleaner
+-GL compatibility testing per driver set as required
+
+
+

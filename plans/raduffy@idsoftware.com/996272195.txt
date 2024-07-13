@@ -1,0 +1,14 @@
+
+Name: Robert A. Duffy
+Email: raduffy@idsoftware.com
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+July 27.2001
+------------
+
+Point Release Beta 1.29g is up on our ftp. Should be available on mirrors now too.
+
+
+
+

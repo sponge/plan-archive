@@ -1,0 +1,49 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+<font color="white">
+
+<b><u>Jan.06.2000 @ 10:20pm</u></b>
+
+<u>Connectivity Problems with Q3A</u>
+
+ To be blunt, we are currently the target of a major denial of service attack 
+which was started at 3pm CST this afternoon.
+
+ The perpetrators of this denial of service are saturating two full DS3's coming
+into Dallas, and are affecting all Savvis, UUNet, and Sprint connections locally.
+
+ To combat this attack, Savvis, UUNet, and Sprint have implemented access filters
+blocking certain traffic to our entire class C, and are blocking our DNS server
+entirely.
+
+ Savvis will be monitoring the situation throughout the evening, and I'm expecting
+a wakeup call at 8am from the morning tech crew at Savvis for an update. I will be
+calling the FBI in the morning to proceed legally on this attack.
+
+ I sincerely apologize for any inconvenience this is causing you. Believe me,
+we are as frustrated as you are. 
+
+<tt>
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, Y2K bug, mud slides, forest fire, or projectile 
+(which can include, but not be limited to, arrows, bullets, shot, BB's, 
+paintball, shrapnel, lasers, napalm, torpedoes, or emissions of X-rays, Alpha,
+Beta and Gamma rays, knives, stones, etc.). 
+</font>
+---
+</tt>

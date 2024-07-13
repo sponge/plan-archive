@@ -1,0 +1,378 @@
+
+Name: John Scott
+Email: jscott@mail.ravensoft.com
+Description: Programmer
+Project: SoF
+-------------------------------------------------------------------------------
+Nick: Pagan
+Project: Soldier of Fortune
+
+Disclaimer - The opinions expressed herein are personal and
+in no way represent that of Raven Software or Activision.
+
+10/7
+
+In the EF demo readme..
+
+"A. Elite Force does not currently support the Matrox G200 due
+to an incompatibility with the Bink movie codec."
+
+This is completely wrong on two different levels.
+
+1. Bink does not talk to the video card at all.
+2. It works fine on my machine now, and did when I tested
+it with the demo. (GlSetup 1.14 drivers)
+
+The G200 is a relatively old card, so do not expect awesome
+performance out of it, especially in 32 bit. But it does work
+and the picture quality is good.
+
+9/7
+
+I have no problems running Elite Force on a G200, but QA
+does - try it and see =)
+
+The problem video cards are the usual suspects -
+
+Permedia2
+Verite2200
+PowerVR
+ATI RagePro
+Sis
+
+- If you have one of these, the demo may work if you are lucky.
+
+28/6
+
+I just slipped anisotropic filtering into Trek and Sof.
+
+Compare - http://www2.ravensoft.com/users/jscott/trek/aniso_tri.png
+with - http://www2.ravensoft.com/users/jscott/trek/iso_tri.png
+
+- to see the improvement.
+
+I also made S3tc work on V5500 cards for SoF. These fixes will
+be in the next patch.
+
+Addendum: Then I upgraded my V5 drivers; and texture compression
+no longer works =) I'll be investigating their FXT scheme tho.
+
+The anisotropic filtering seems to be only on Geforce cards
+at the moment; but I could be wrong.
+
+For all you Brits out there...
+http://www.cnn.com/2000/WORLD/europe/06/19/britain.fringe.sex/index.html
+
+25/6
+
+Referring to Mr Carmacks .plan, and presuming the XBox will
+be a much larger market than the PC for games (likely). I must
+also say all of the following is pure speculation =)
+
+If the XBox does support OpenGL, then that will put NVidia
+in control of the development of OpenGL for the PC. They will
+be able to lead from the front and pretty much decide how the
+API develops in the future. If the XBox supports feature Y, 
+then all other card manufacturers will have to, or get left
+behind. Responsibly used, this control could be a very good
+thing for OpenGL.
+
+It is likely that the XBox will be the primary format for
+most games, and the PC will be of secondary concern. I think
+this will mean that the minimum spec for PC games will shoot
+up to somewhere around the XBox, and then stay there until XBox
+sales taper off. We can code some scalability in, but there is
+only so much we can do; especially if the PC is the minor
+market.
+
+Cross platform compatability is exactly what MS do not want.
+They want exclusivity to their console, or at the very least
+exclusivity to their OSes. They will make money from XBox
+game sales, and do not make any from PC game sales. MS could
+kill OpenGL support on the XBox for exactly this reason. The 
+biggest reason for them not to do this is Mr Carmack's plan
+update today. This was their original plan for DirectX, to
+charge a royalty for its use. OpenGL saved us there too. 
+
+Not checking later versions of MS products : guilty. The last
+time I looked into DirectX was over 2 years ago, but it
+did leave such a bad taste in my mouth that I am not eager to
+relive that nightmare, ever. I really ought to force myself 
+though.
+
+12/6
+
+Just had word from Matrox that their new drivers (the ones
+released today) fix the level loading problem in SoF.
+
+Enjoy =)
+
+5/6
+
+Random, completely non game related story of the day
+
+http://www.sky.com/news/showbiz/story14.htm
+
+12/5
+
+A big thank you goes to Mac Medics of Madison for fixing
+our PowerBook so it can be used for demoing at E3.
+
+7/5
+
+I must heartily concur with most people I have spoken to
+on this - Gladiator is a damn fine movie. It is a good
+story well told, with copious amounts of gladiatorial
+combat thrown in - the best thing since the Matrix, if
+not Braveheart.
+
+I'm on Trek now, and that is about all I'm allowed to say 
+on the matter =(
+
+7/4
+
+A word on maplists in Sof. The four used in the released version
+are at - 
+http://www2.ravensoft.com/users/jscott/sof/ravdm.lst
+http://www2.ravensoft.com/users/jscott/sof/ravrl.lst
+http://www2.ravensoft.com/users/jscott/sof/ravctf.lst
+http://www2.ravensoft.com/users/jscott/sof/ravassn.lst
+
+It should be quite easy to work out how to create one of your
+own =)
+
+If you put them in "user/maplists", then the menus will
+auto detect them and make them selectable. The ones in the 
+user folder will override the ones in the pak file.
+
+The reason we added a user folder is that we at Raven use
+one exe on a network drive, and the net drive was getting
+clogged up with everyones savegames and screenshots. It also
+means that the base folder holds nothing but Raven made stuff,
+making patching easier. Furthermore, you can set this to whatever
+you want on the command line. If there is anyone else who
+uses your machine, just setup two shortcuts like this
+
+sof.exe -user father
+sof.exe -user son
+
+...and all settings, savegames and demos will go to different
+folders depending on which shortcut you run.
+
+24/3
+
+I added some more timings, at the bottom of the page... different demo
+and different machine. I didn't test all the cards I have this time
+because I want to go out drinking :) I managed to dig up a 12Meg V2
+aswell.
+
+http://www2.ravensoft.com/users/jscott/sof/timings.html
+
+15/3
+
+Time for me to thank a few of the programmers who helped me
+out during the development of SoF. Apologies in advance if
+I forgot anyone!
+
+Chris Hecker for GLSetup (all hail its might!)
+Michael Gold for GL advice.
+Tom Forsyth of 3DLabs
+Tom Frisinger of ATI.
+Omar Yehia of Matrox.
+Sim Dietrich of Nvidia.
+Jim Bushnell and Chris Cagle of Pyramid Peak.
+Raja Koduri of S3.
+18/2
+
+http://www.planetsoldieroffortune.com/
+
+Enjoy!
+
+7/2
+
+Here's a quick rundown of the Video Settings menu which
+may be of some interest.
+
+Video Driver -
+Either Default OpenGL or 3DFx OpenGL. Voodoo3s use Default
+OpenGL as they are 2d/3d combo card. 
+
+Resolution -
+I don't think I'll go over this one :)
+
+Fullscreen -
+Not an option you get with V1, V2 or Rush cards as they
+only run fullscreen without special drivers. If you try and
+run a 16 bit only card on a 32 bit desktop, then it will
+not work.
+
+Bitdepth -
+Auto, 16 or 32. Auto picks the desktop display depth and
+uses that if it can, otherwise defaults back to 16 bit.
+Several cards (I740s, Riva128s and all 3dfx cards) cannot
+handle 32 bit rendering and will default back to 16 bit
+if you try it.
+
+Alternate Simple Textures -
+These are more generic textures used in place of the fluff
+type textures. For example, the graffiti in the subway level
+will change to the texture of the wall it is on if this
+feature is enabled. This results in the levels not looking
+as pretty but significantly less texture memory is used.
+
+Texture Quality -
+This is the mip value of the world textures. Lowering this
+setting will blur the textures but use much less texture
+memory. It is a speed vs looks tradeoff.
+
+Skin Texture Quality -
+As above, but for Ghoul textures.
+
+Texture Format (Translucent Texture Format) -
+The internal formats used by OpenGL to store texture data.
+As always it is a tradeoff between memory, quality and 
+performance.
+Low - This is 1 byte per texel (R3G3B2 and RGBA2). This can
+look spectacularly ugly on some cards, but not too bad on
+some others. 
+Medium - a short per texel (R5G6B5 and RGBA4). These are regular
+16 bit textures - average memory usage, good quality and all
+cards are optimised for this format.
+High - a long per texel (RGB8 and RGBA8). True 32 bit textures
+all around. This eats memory like nobodies business and 
+significantly increases the load on the AGP bus, but
+guarantees true 32 bit rendering.
+Default - what the drivers decide is best for you. Generally,
+for 16 bit rendering, this will be the same as the medium
+setting. If you are running at 32 bit, then the drivers MAY
+promote the textures to 32 bit, but this is not guaranteed.
+Some cards let you choose this setting in their display
+properties.
+S3TC - Automatically compress textures to reduce the system
+memory and AGP bus load. The BTC algorithm used by S3 doesn't
+play well conceptually with translucent textures and so is
+not implemented for them. The GeForce has S3TC in hardware but
+S3 will not license the tech to NVidia (or nVidia isn't
+offering enough in the way of $), which is why the GeForce
+OpenGL drivers do not have S3TC but the DirectX ones do.
+
+3/2 
+
+I've updated the dedicated.cfg at
+http://www2.ravensoft.com/users/jscott/sof/dedicated.cfg
+as things got added/changed.
+
+Please keep your comments coming to sof-demo@ravensoft.com.
+We do read them all - even though we don't get chance to reply
+to each one.
+
+Any technical problems, check out the messageboards and FAQ
+at http://sof.ravensoft.com. Kenn is doing an awesome job
+helping people out.
+
+
+27/1
+
+I've put up a list of dmflags for you server admins
+out there.
+http://www2.ravensoft.com/users/jscott/sof/dmflags.txt
+If someone wants to HTMLise these - feel free.
+
+http://www2.ravensoft.com/users/jscott/sof/diatrical.jpg
+These are the characters we base our fonts off. If
+you want to play with l33t h4x0r names, then check it
+out. You'll have to manually edit your config.cfg file
+though.
+
+Anyone know what a SiS530 video is ? (Apart from onboard
+and claiming to be 3D).
+
+ATI told me they were working the decal and shadow
+problems - I'll keep you informed.
+
+Kenn's brief poll of download sites yesterday revealed
+well over a 100000 downloads of the demo *grin*.
+
+I'm not feeling too well at all, forgive me if my email
+replies are a little short today.
+
+26/1
+
+Things are just a little hectic around here :)
+
+First off - check these out
+http://www.penny-arcade.com/modem.shtml
+http://www.penny-arcade.com/soldier.shtml
+http://etherlife.gamesmatrix.com/soldier.gif
+
+Thankyou for all your comments, please keep 
+them coming!
+
+For the many people that have complained about the
+lack on an invert mouse function - there is one in
+just under the mouse sensitivity sliders.
+
+For those of you that can't RTFM (like me) here's
+a rundown of the scalability options.
+
+Ghoul Light Method -
+* Flat - Ugly and quick. One point light source for the
+whole model.
+* Balanced - 4 light sources interpolated over the model
+and allows specular lighting.
+* High - As balanced, but takes into account dynamic
+lights.
+* Hardware - Uses the GL T&L path. This will be the slowest
+option unless you have a GeForce.
+
+Shadow Quality -
+* Off - No shadows.
+* Low - Blob shadows
+* High - Real time generated shadows (very expensive)
+
+Specular lighting -
+* Off - Not shiny models.
+* On - Shiny models.
+
+Detail Texturing -
+* Off - None. Use for low fill rate cards.
+* Ranged - Apply up to a range specified by the slider.
+* On - Apply on the whole world.
+
+Number of decals -
+Decals are the explosion burn marks and the blood
+splatters on the walls and floor. The further right
+the slider - the more the game will remember.
+
+Effect Overdraw -
+The number of pixels the effects system renders before
+culling out. Explosions especially but effects in general
+can really eat fillrate. If you have a high fillrate card
+(G400, GeForce/TNT2, V3) then slide this to the right for
+better visual effects. If you have a low fillrate card
+(V1, RagePro) then keep this slider to the left. The best
+thing to do is tweak your settings so as to get the best
+visuals with the least chug.
+
+Corpse Duration -
+This is the number of dead bodies lying around before they
+fade out to nothing. As bodies have the same number of
+polys as player models, they can be very expensive.
+
+Model Expressions -
+The number of facial expressions the enemies have. Turning
+this down will reduce the amount of textures loaded.
+
+Skin Variety -
+If you want to shoot a bunch of clones, turn this right 
+down. Again, use for video cards with not much memory or
+machines with low system memory.
+
+26/8
+
+As there is a Duke SETI team, why not a Raven team ? Sign up
+if you wish!
+
+http://setiathome.ssl.berkeley.edu/stats/team/team_6644.html
+
+ 

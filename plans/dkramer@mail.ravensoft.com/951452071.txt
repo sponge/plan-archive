@@ -1,0 +1,17 @@
+
+Name: Dan Kramer
+Email: dkramer@mail.ravensoft.com
+Description: Programmer
+Project: SoF
+-------------------------------------------------------------------------------
+3:33 PM 2/24/00
+
+===Little known SOF fact of the day===
+
+Number of lines in which the following words appear in the SOF codebase:
+
+please:	40
+don't: 854
+throw: 1339 (darn, two too many...  wonder if Rick'd authorize some rewording of comments after code freeze)
+monkey: 8
+crap: 40

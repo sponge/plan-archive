@@ -1,0 +1,20 @@
+
+Name: Dave Kirsch
+Email: zoid@idsoftware.com
+Description: Ports
+Project: 
+-------------------------------------------------------------------------------
+Dec 04/99
+
+A linux dedicated server binary is now available at:
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/linux/linuxq3ded-1.11-i386.tar.gz">ftp://ftp.idsoftware.com/idstuff/quake3/linux/linuxq3ded-1.11-i386.tar.gz</a>
+
+This allows server operators to run a Linux Quake3 Server (full version).
+
+The full linux demo should be out in a few days.  It'll include the new
+Loki installer.
+
+Enjoy.
+
+/// Zoid.

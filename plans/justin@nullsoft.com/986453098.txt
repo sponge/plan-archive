@@ -1,0 +1,23 @@
+Login: justin         			Name: Justin
+Plan:
+3/25/01 - boredom is freedom
+
+
+4/4/01
+phew.  things are getting back to normal. 
+
+Made a cool template generator for nsis: 
+http://firehose.net/free/nsis/maketemplate.html
+
+Thinking about making a zip->exe converter using nsis (i.e. it would unpack everything, 
+write out a .nsi file, compile it, and delete all the temporary stuff. For comparison,
+WinZip's sfx adds ~28k, and NSIS adds 32k (though if I took out a lot of the unused 
+options in NSIS, that goes down substantially). Would be fun, and help all the people
+who package up their plug-ins / avs presets for winamp.com.
+
+Just bought the newest Hooverphonic CD (some songs are damned good, others are quite
+strange, but I'll give a full review later) and the Requiem for a Dream soundtrack.
+Word.
+
+Heading to New Orleans tomorrow morning. Early. Will take lots of pictures.
+

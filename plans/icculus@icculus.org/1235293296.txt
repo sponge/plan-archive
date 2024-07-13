@@ -1,0 +1,62 @@
+Some people call me Maurice.
+
+
+
+Prey:
+
+ Here come new builds.
+
+   - Fixed to allow up to 8 mouse buttons (not counting mousewheel).
+   - Fixed installer crash on startup in Polish locale.
+   - Fixed installer to import your CD key from existing install (such as
+     one you got through Steam).
+   - More localization improvements in the installer.
+
+  Upgrading:
+
+    Demo users: just unpack this tarball (1.7 megabytes) over your existing
+     install, overwriting files:
+
+      http://icculus.org/prey/downloads/prey-demo-latest-files.tar.bz2
+
+    Retail users: use this one (1.6 megabytes):
+
+      http://icculus.org/prey/downloads/prey-latest-files.tar.bz2
+
+    I've also updated the full installers, but you don't need them if you
+    already installed. You can grab them here [1].
+
+Quick, Say Something (Nice|Mean) :
+
+ Last year for Valentine's Day, we put up Quick, Say Something Nice! [2]
+ This year we're all feeling a little darker, so we thought we'd try
+ Quick, Say Something Mean. [3]
+
+ For those that prefer their niceness and meanness doled out in small drips,
+ you can get them on Twitter once a day, here [4] and here [5].
+
+ Feel free to add some quotes. The would could use some more joy (and/or some
+ higher-quality trolling).
+
+
+Offload servers:
+
+ I need them. http://icculus.org/news/news.php?id=4465
+
+--ryan.
+
+
+
+
+     [1] http://icculus.org/prey/
+     [2] http://quicksaysomethingnice.com/
+     [3] http://quicksaysomethingmean.com/
+     [4] http://twitter.com/qssn/
+     [5] http://twitter.com/qssm/
+
+--------------------------------------------------------------------
+When this .plan was written: 2009-02-22 03:04:11
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.21 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

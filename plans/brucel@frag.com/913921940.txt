@@ -1,0 +1,114 @@
+Login: brucel         			Name: Bruce Lewis
+Plan:
+17 December, 1998
+
+Well, glDoom is a week old.  Over 230,000 downloads so far.
+I never expected glDoom to be this popular.  I've been
+pretty well flooded with e-mail since last Thursday.
+
+In the week prior to glDoom's release I got just over 600
+e-mails. (about 450 related to glDoom or about two thirds)
+Since last Thursday, I have gotten over 7200 e-mails. 95%
+related to glDoom. So you know why I'm a little slow at
+answering e-mail at times.  It's also easy to miss one
+along the way or accidentally delete one.
+
+I put up a maintenance release of glDoom last night 0.94D
+which fixes several problems and attempts to fix a few more.
+
+Overall response for glDoom has been quite good. I've gotten
+some complainers but they are far outnumbered by the people
+who like the program. I like that. It's what I was working
+toward.  Remember, it will only get better...
+
+At the end of this week, I will be taking a few days off for
+Christmas "break" so don't expect answers to e-mails until
+after Christmas. I wanted to get the maintenance release out
+and time for it to "flame tested" before I took a break.
+
+The release was last night (Wednesday) and I'm starting my
+break on Saturday.  Two days should be enough time for that.
+
+News Media Morons -- A diatribe (or rant)
+
+I normally don't say much of anything personal or political
+here. Today is an exception because of the complete idiocy
+I've witnessed. The more cynical might even view it as
+espionage.
+
+Today, our news media keeps spouting that British Tornadoes
+have taken off from Kuwait and are headed to Baghdad for more
+strikes. Are these people complete morons?  Do they want
+these air crews to get shot down? I'm surprised they didn't
+superimpose a map of Iraq on the screen with the exact positions
+of the incoming aircraft. Don't they realise that at some point
+they stop being news reporters and become intelligence tools?
+General Schwarzkopf was absolutely right to impose a news
+blackout during Operation Desert Storm. These cretins would have
+broadcast every troop movement and position to the enemy complete
+with maps.  And they wonder why the military is so hostile to the
+"news media"...
+
+Troop movements, emplacements, positions, strength and units are
+information that is important to only two parties. The military
+forces of the two parties engaged in the conflict.  It isn't
+"news" because it has no relevance to ANYONE's daily life who
+isn't actually engaged in that conflict. They are SECRETS to be
+kept from the opposing force. Broadcasting that information just
+gets people killed.  It's time our news media got a clue and shut
+the hell up about military movements until AFTER the conflict is
+resolved.  The old argument of "the people have a right to know"
+is complete horse hockey when it's balanced against the possible
+loss of life. You can't, after all, shout "FIRE" in a crowded
+theatre.
+
+29 October, 1998
+
+Alpha testing is proceeding with far fewer problems
+that before.  Some of the issues have been put to bed
+allowing me to focus on some of the less important
+issues.
+
+There will be a public showing of glDoom at The Frag 2
+this weekend.  Hanif Jhaveri will be showing the program
+for me.  I won't be there.  We may set up and ICQ or
+IRC connection so that I can field questions. That's
+undecided, as yet.
+
+I sent copies of glDoom to John Carmack and John Romero
+Tuesday evening. John Carmack's remarks were generally
+favorable.  John Romero has not made any remarks about
+the program, yet.
+
+/me goes back to work...
+
+7 October, 1998
+
+The alpha testing of glDoom is going relatively well.
+There have been some problems with Windows98 and some
+driver incompatibilities that we're working on ironing
+out.
+
+I did some work on the light attenuation code today. I
+put the fog code back in (black fog) and have tweaked it
+some.  I also put a cvar in to control whether it tries
+to use that.  The cvar gl_fog 0/1 will turn it off and
+on.  I did this because some cards either don't support
+it at all or don't do it right. (very strange looking)
+
+5 October, 1998
+
+Well, what do you know.  My very own .plan file...
+
+glDoom went into alpha testing today.  I'm as nervous as
+a cat.  I've never taken someone else's software (especially
+not as popular as Doom) and made such drastic changes to
+it before.
+
+I really don't know what to expect from the testers at this
+point.  All I know about how it will fare is how well it works
+on my systems.  Still, I've got high hopes for it.
+
+I should know in a day or two how things are progressing.
+
+Stay tuned...

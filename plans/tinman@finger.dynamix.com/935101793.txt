@@ -1,0 +1,294 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-----------------------------------------------------------------
+User Name: tinman     Plan Last Modified: 08/19/1999 14:25:17 PST
+
+Real Name: Tinman  (Yes, dammit, that is my real name!)
+Job: humble programmer
+Project: Starsiege: Tribes2
+
+
+<hr size=5>
+Thursday, August 19, '99
+
+Whew!  Another busy week.  Where to start...  well first off, Hunters v1.1 is now available -
+from the <b>Official Hunters Website!</b>  Check it out:
+<a href="http://hunters.datumplane.com">http://hunters.datumplane.com</a>
+Much thanks to James and Schnoz over at datumplane, they've been working hard, and the
+site looks great!!!
+
+Version 1.1 has a few bug fixes (what?!!  bugs in *my* code?), and few new features:
+
+-  The funk that happened when switching from Hunters to another mission type (like CTF) has
+   been cleaned up.  This includes restoring the team names, restoring the team damage voting,
+	that weird message in red that shows up when you switch teams, and the banned inventory items
+	have been reset.
+
+-  Ever notice that once in awhile, your firing is off in "UndergroundTesting"?  Well, it's fixed.
+   Don't ask, just be happy  :)
+
+-  Record flag returns are now persisted out to a file, and a new kind of record, the "Honorary Greed
+   Award" is given to whoever *dropped* the most flags during that mission.
+
+-  A few other odds and ends - capture messages of 5 or more appear in red now, inv stations are named...
+
+I've also had a few friends send some contributed maps. Matt "Ptavv" Timlin sent in a modified version
+of Bloody vengeance, called "PavillionOfTheGods".  It's currently running on my server "Kidney Thief's
+Domain", and is well worth checking out!
+
+As I said, it's been a busy week.  TribesCon was last weekend.  Heh, no more "your an LPB" excuses!  The
+weekend was a lot of fun.  Unofficially, I'm going to deny the rumors that "Reckless Abandon" worked
+the composite dev team *severly* in an exhibition match.  (Umm... they *really were* LPBs  :)
+We also *have* to mention that Steve "Presto" Eisner bought the dev team BEER!  He's working on some
+*seriously* cool modifications to his "Presto Pak", which we were able to see.  You think the original
+rocked...
+
+What else...  yes, Cornboy! is finally going.  My liver can't take any more of his goodbye parties, but
+the one last Sunday at Nailz' place was pretty intense!  The next day at work, my calendar already said
+Tuesday!  D'oh!!  See ya bud!
+
+Whew!  Well, back to Extreme!
+
+--tinman
+"Kidney Thief"
+
+
+<hr size=5>
+Wednesday, August 11, '99
+
+YARD SALE!!!  That's right!  <b>Hunters</b> is now available!  It's been a long
+couple of weeks, but its finally here:
+<a href="http://www.tribesplayers.com/tribesplayers/download/Hunters1.0.exe">Download Hunters Now!</a>
+
+And to further entice, Eric "Balefire" Lanz's <b>Rabbit</b> is right behind me!
+<a href="http://www.tribesplayers.com/tribesplayers/download/Rabbit.exe">Download Rabbit Now!</a>
+
+<b>Latest developments:</b>
+
+-  We now have 8 maps for Hunters - including an authentic Cornboy! map.
+   Much thanks Scott!  It's called "NightTrain" and it rocks!
+
+-  Record holders are now stored (until the server is restarted) for each
+   mission.  Remember that time when 12 people all killed each other, and
+	and left you standing dazed in a field of 67 flags?  Your legacy will
+	now live on!
+
+-  It seems I've finally decided on a freakin name for that place you return
+   the flags to.  The "Nexus" (suggested by Blake Hutchins) seems to work.
+	Incidently, I've modified all maps to point to the Nexus in observer mode,
+	for those who are just starting out, or who can't find it.
+
+-  The guys from <a href="http://www.datumplane.com">www.datumplane.com</a> have kindly offered to do up
+   a "Hunters" website.  I can't wait to see it!  :)
+
+<b>Future possibilites:</b>
+
+
+-   SLEEP!!!
+
+-   A client-side HUD for hunters might come in handy, although I'm sure
+    someone will beat me to the punch.
+
+-   "Team Hunters"?!!  Well see...  :)
+
+<b>Much Thanks:</b>
+-   To the makers of Headhunters for Quake.
+-   To Balefire, for leading by example in his creation of Rabbit.
+-   To Cornboy! for his mission.
+-   To the rest of the Tribes dev team who's screaming and swearing up and down
+    the hall let me know the mission type is a success.
+-   To the faithful core of players who kept my server (Kidney Thief's Domain)
+    in constant use, and provided much valuable feedback.
+-   (in advance) to the guys from Datumplane.
+-   Especially to my Fiancee, Cristine, who had to put up with my tired grumpy
+    butt for the last few weeks.
+
+Happy Hunting!
+
+--tinman
+"Kidney Thief"
+
+
+<hr size=5>
+Monday, August 2, '99
+
+I am so *stoked* about the number of people who have checked out and
+given me feedback on Hunters.  Thanks also to BluesNews, Adrenaline
+Vault, Planet Tribes, and anyone else who posted word of it today!
+(To think I had no idea anyone *ever* read my .plan file!)
+
+
+I've made some modifications (mostly in response to feedback) which I
+thought I'd mention - let me know if they help or hinder:
+
+
+-  The biggest drawback is not being able to tell how many flags an opponent
+   is carrying.  I've made an attempt with 2 changes - I've added a column
+   to the TAB menu, and, only a player carrying 5 or more flags has
+	a flag mounted on his back.
+
+-  Another helpful addition is a function to find out who currently has
+   the most flags, and to track that person with your compass.  To use
+   this function, you must add a key binding to query the server.
+
+
+   To do this, edit your "configautoexec.cs", and add the lines:
+   EditActionMap("actionMap.sae");
+	bindCommand(keyboard0, make, control, "z", TO, "remoteEval(2048, HuntersFindTarget);");
+
+
+   This feature may prove too much, but for now it's nice to have a target.
+
+
+-  Several people have been "stashing" - finding a hiding place for their flags,
+   and then capping them all at the end for mega points.  To discourage this
+	dropped flags will now disappear after 2 minutes.
+
+
+-  The "cacophony of sounds" as one person put it, has been toned down.  The
+   pick up flag sound only plays when you're the one picking up a flag, and
+	the flag cap sound only plays when someone caps 5+ flags.
+
+
+Again, thanks everyone, and happy Hunting!
+
+--tinman
+"kidney thief"
+
+<hr size=5>
+Saturday, July 31, '99
+
+It's 6:15am, do you know where my mind is?  It's been a busy week.
+Things are progressing well for Tribes: Extreme.  Not that I plan to
+tell you *anything*!  Too bad!  :)
+
+However, I finally decided that everyone else was having too much fun
+creating their own mission types, so I decided to get in on the action.
+I've adapted a new mission type for Tribes:  "Flag Hunters"!  (Much thanks
+to the creators of "Headhunters" for Quake - I loved that MOD!).
+
+The object?  Kill everyone of course, but besides that...  Everyone
+spawns with a flag.  If you die, you drop your flag and someone else
+can pick it up.  If you had picked up several flags before dying, you'll
+drop them all, plus the flag you spawned with.  The object is to take
+as many flags as you can to the "alter".  Scoring is additive,
+so the more flags you bring at once, the higher your score.  e.g.
+1 flag = 1 point, 2 flags = 1 + 2 = 3 points, n flags = 1 + ... + n points.
+
+This hasn't been released, so the only server you can play this on is:
+"Kidney Thief's Domain"  (address "IP:198.74.33.53:28001")
+
+So...  check it out.  Keep in mind that I'm not a mission designer, so
+I'd appreciate any *suggestions* about which maps (I've set up 5) work,
+which need improvement, and which just plain suck.  Also, any bugs.
+Please keep in mind that this was just a pet project, and not
+an officially sanctioned Dynamix release.
+
+A final note, if you live within travelling distance of Seattle,
+check out <a href="http://tribescon.teamplay.net">http://tribescon.teamplay.net</a> for an upcoming tournament.
+(And while you're there, if you like "Flag Hunters", you can buy
+me a beer!  :)
+
+Thanks all.  Happy hunting!
+
+--tinman
+"Kidney Thief"
+ 
+
+<hr size=5>
+Monday, July 26, '99
+
+Now that I'm sober enough to type again...  on Friday, we received
+5 cases of our favorite Mirror Pond Pale Ale!  Did you hear me?  I
+said WE GOT BEER!!!  Much thanks to Diane Lee and Wasif Azmat!
+
+A couple of new developments:  Frohny and I have coded up a debugger
+for the Tribes 1.7 patch.  Check out Mark Frohnmayer's .plan file
+for the details!
+
+Next, I've been feeling sorry for the HUD scripters out there, so
+I've added a few minor changes in the hopes that their lives will
+become easier.  The class: "FearGui::HudCtrl" has been fixed up to
+be used to drag HUD components around.  In addition, 2 new functions
+have been provided:  Control::setPosition(ctrl, x, y); and
+Control::setExtent(ctrl, w, h);  This will allow you to resize and/or
+reposition elements on the fly.
+
+Another *extremely cool* development, our lead QA, Eric "Balefire" Lanz
+has created a new mission type: "Rabbit".  It's currently only available
+on the "Pacific NW T1" server.  The object is to grab the flag, and run
+like hell while all the other players try to hunt you down.  Once the
+"rabbit" is dead (insert cautionary label for female players here), the
+new "rabbit" is whoever can grab the dropped flag.  All waypoints are set
+to the rabbit to increase the hunt intensity.
+
+That's all for now...  back those five cases of beer...  um..  I mean work.
+
+--Tinman
+"Kidney Thief"
+
+
+<hr size=5>
+Friday, July 02, '99
+
+Recovering well from Canada Day celebrations - as one of the *very*
+few Canadians here, we really have to make up for it!
+
+A recent development in Tribes has been the MOD developed by a "Rasia",
+a gamer who has taken it upon himself to script a new mission type
+called "Arena".  The game play is that of a team deathmatch.  It is
+*awesome*!  If you get a chance, check it out.
+
+I've been abducted!  I'll be joining Tribes: Extreme for the next
+3 or 4 months so help out with the AI development.  I'll let you know
+more as soon as I do.  All I can say is that our bots are going to be
+"Sofa King BaddAss!"  :)
+
+--Tinman
+"Kidney Thief"
+
+
+<hr size=5>
+May 17, 1999
+
+I suppose it's about time I updated my .plan file.
+
+Good news for all you budding Tribes scripters!  Recent developments
+for Tribes2 will make scripting a *whole* lot easier.
+
+I've been impressed by some of the additional HUDs that people have
+created.  My favorite, and one I use frequently is "MadHud", found
+at <a href=http://www.planetstarsiege.com/madhud>http://www.planetstarsiege.com/madhud</a>.
+
+After talking with several scripters involved, the limitations they
+have faced, such as very limited font selection, difficult graphics
+display methods, and a general shortage of creatable functional
+objects, should be a thing of the past.  Object creation is no longer
+necessary through the "newObject();" function with it's limited
+parameter specs.  Any GUI object can now be "instantiated", and *any*
+of it's properties can be specified.  This includes specifying font
+size, color, and style, and having access to base objects which may,
+for instance, be draggable, outlined, translucent, etc...
+The bad news?  You'll have to wait for Tribes2!
+
+On a personal note, SHE SAID YES!  Cristine Otazu, my girlfriend of
+2 1/2 years has agreed to marry me on July 29th, 2000.  The wedding
+will be in Victoria, B.C., and then off to Hawaii for a couple of
+weeks.  It's going to be a busy year!
+
+--Tinman
+aka "Kidney Thief"
+aka "Thulsa Doom"
+
+
+<hr size=5>
+
+
+
+
+
+
+
+

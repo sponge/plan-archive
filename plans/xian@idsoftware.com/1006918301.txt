@@ -1,0 +1,43 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+
+Nov.27.2001 @ 9:27pm CST
+------------------------
+
+ Wolfenstein Linux binaries are now up on our FTP server. *BIG* thanks to
+Timothee for kicking ass in getting this stuff up. 
+
+ I've been testing the OSX server at xian-osx.idsoftware.com that Graeme 
+built, and it seems pretty darn stable, so hopefully that will be released 
+in the very near future as well.
+
+<a href="ftp://ftp.idsoftware.com/idstuff/wolf/linux/wolfmp-linux-1.0.b2.x86.run">ftp://ftp.idsoftware.com/idstuff/wolf/linux/wolfmp-linux-1.0.b2.x86.run</a>
+
+ Cheers,
+ 
+ -Xian
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, leaky roof, broken glass, mud slides,
+forest fire, and/or projectile (which can include, but not be limited to, 
+arrows, bullets, shot, BB's, paintball, shrapnel, lasers, napalm, torpedoes, 
+or emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.)
+</font>
+---
+</tt>

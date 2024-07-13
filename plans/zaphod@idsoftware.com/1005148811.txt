@@ -1,0 +1,16 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+
+An OS X (10.1) build of the Wolfenstein MP Test 2 is up and available for download.  I've not gone through and fixed all the niggles I want to get done, but hey it's there.  There's also a separate command line dedicated server since that's been requested quite a few times.
+
+issues:
+
+* You need to nuke the old test before installing and running this one.
+* SMP doesn't currently work and is disabled by default.  Don't turn it on.
+* This is not a fully optimized build.
+
+Graeme.

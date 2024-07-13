@@ -1,0 +1,136 @@
+IcculusPlan
+
+
+
+
+
+I get asked, with some frequency, what to read to get started with OpenGL.
+
+
+
+I don't specifically know, because the last time I read an OpenGL book, it
+
+was about the fixed function pipeline, and it was 1999, and that doesn't apply
+
+anymore.
+
+
+
+BUT: if you want to learn this, here's what you need to know, generally.
+
+
+
+Shaders! Most OpenGL work now is setting up a little information, drawing a
+
+polygon, and then a program runs on the GPU. This runs separate from the rest
+
+of your program, and decides what that polygon eventually looks like.
+
+
+
+Shaders make OpenGL _way_ easier to learn in 2016 than it was in 2001.
+
+
+
+Your shaders will be written in a language called GLSL, which looks a lot
+
+like C. There are books dedicated to this (Google "OpenGL orange book"
+
+for the official guide, but I don't know if there are better ones out there.)
+
+
+
+Once you understand how shaders work, and how to write them in GLSL, you know
+
+90% of what you need to know.
+
+
+
+The rest is setting up some basic state, like how your polygon should blend
+
+with what's already been drawn, etc, uploading textures and vertex data,
+
+and issuing a draw call to draw as much as you can in one shot. More or less,
+
+that's the bulk of everything now. 15 years ago, there were 3 different ways
+
+to do everything, and some were faster than others, some were only supported
+
+on some GPUs, some were just a pain in the ass, and you probably had to write
+
+it all three ways anyhow. All of that mess is more or less cleaned up in
+
+modern times.
+
+
+
+The other thing I'd tell you is that OpenGL has different "profiles."
+
+One profile is called "core" and another is called "compatibility." Core is
+
+what you want. Compatibility covers everything that GL has ever offered, much
+
+of it bad in modern times, all of it too complex, and which pieces are 
+
+good isn't clear. Core is much simpler and works more like modern hardware.
+
+It's almost exactly what "OpenGL ES" looks like for mobile devices and 
+
+"WebGL" looks like for modern web browsers. If whatever you're reading
+
+doesn't focus intently on the core profile, stop reading it and read
+
+something else.
+
+
+
+I don't mean to minimize the whole system; there's still lots of complexity
+
+and GLSL is an entire turing-complete programming language where anything can
+
+go wrong, as things do--thanks for nothing Alan Turing!--but it's all pretty
+
+clear about how it works without a lot of super subtle unexpected interactions
+
+to go wrong behind the scenes.
+
+
+
+While not OpenGL, for Apple developers: consider looking at Metal instead.
+
+
+
+Metal limits you to macOS and iOS variants, but I believe it's way more
+
+friendly to new graphics hackers than any other modern GPU API. Everything
+
+you learn there will be applicable to whatever you do with OpenGL, Vulkan,
+
+or Direct3D later, so if it's an option, maybe explore that for a few days
+
+and get a textured cube spinning on the screen before moving on to something
+
+else. It might be the path of least resistance to a solid view of how modern
+
+hardware behaves. After that, it's all just API calls, no matter which API
+
+you use.
+
+
+
+--ryan.
+
+
+
+---------------------------------------------------------------------
+
+When this .plan was written: 2016-08-19 15:51:18
+
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+
+Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
+
+Look around, look around, at how lucky we are to be alive right now.
+
+
+

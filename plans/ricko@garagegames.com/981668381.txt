@@ -1,0 +1,9 @@
+GarageGames plan resource for Rick Overman
+Posted Tuesday February 6, 2001 at 0:57 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=447
+
+I have been spending a bit of time lately putting the finishing touches on our Linux web and mail server.  Sometimes I think it is the pain of getting all those packages compiled and talking to each other that make people really love Linux.  Some packages compile and install with frightening ease while others, like sendmail, make you wonder if Linux even has a chance.  Don't take me wrong, sendmail is a great package but its nearly infinite configurability is quite daunting.  After it all comes together and the pain and frustration are gone there is an incredible sense of accomplishment and confidence in knowing that if anything goes wrong you know how to fix it.  
+
+--Rick
+

@@ -1,0 +1,95 @@
+Any of a hundred styles.
+
+
+Prey:
+
+ Full retail version, and updated demo installer, good to go!
+   http://icculus.org/news/news.php?id=4487
+
+ I'm gathering some notes here, for everyone's benefit:
+
+ STEAM UPDATE 2: Okay, we figured this out. Apparently there's was an auth
+ server issue before confusing things. You can buy from Steam, but read
+ below.
+
+ Those installing from a Steam download: your CD key is in a text file
+  installed with the game. Look at:
+
+   C:Program FilesSteamsteamappscommonpreyasepreykey
+
+ Copy this file to $HOME/.prey/base/preykey ...
+
+ If the game prompts you for a CD key when you first start it, you did it
+ wrong. The preykey file is two characters less than you'll get from a
+ physical CD key.
+
+ Also, if you're on Win64, "Program Files" will be "Program Files (x86)".
+
+ I am updating the installer to handle copying preykey for you.
+
+ I have not tried the direct2drive version; someone tell me if it works.
+
+ If the game crashes on startup, and had written this to the terminal...
+
+    GL_VENDOR: NVIDIA Corporation
+    GL_VERSION: 1.4 (2.1.2 NVIDIA 177.82)
+
+ ...then your drivers are misinstalled. The red flag there is the "1.4" string.
+ The current nvidia drivers should look like this...
+
+    GL_VENDOR: NVIDIA Corporation
+    GL_VERSION: 2.1.2 NVIDIA 177.82
+
+ ...almost universally, the problem is multiple OpenGL libraries residing on
+ the system, and usually it's because you installed the closed-source Nvidia
+ drivers from a distro-provided package. My current guess is that the X server
+ package is installing a generic, Mesa-based GL, and the Nvidia package 
+ installs another.
+
+ In all cases, it appears that installing the drivers from nvidia.com--using
+ their installer--fixes it, probably because part of the installation process
+ is cleaning out old and incorrect libGL.so's that might be laying around your
+ filesystem. The downside is that your distro will no longer be able to
+ automatically maintain the package for you...but you're still using the same
+ binary-only driver at the end of the day, either way.
+
+ Some people have mentioned that the problem went away when updating the
+ distro-provided package, for various distros. I haven't done much research
+ into the specific causes and solutions; this is all anecdotal guesswork.
+
+ As for Intel GPU users, it looks like the video drivers are just wanged for
+ your hardware at the moment. Sorry, the game just isn't working at all from
+ what I've heard. I'm not certain this game is going to be playable on GMA*
+ chipsets anyhow, but you should probably talk to the x.org developers about 
+ it if you want to dig deeper.
+
+ To uninstall, run "uninstall-prey.sh" in the game's installation directory.
+ This will remove application menus, etc.
+
+ If distros want to repackage this, I don't care. I only ship the MojoSetup
+ installer so it works everywhere, but I think it's great that
+ distros can compete for the best user experience by making installation
+ uniform. The installer can be fully automated from the command line (email
+ me for specifics!), and failing that, it is a self-extracting .zip file, if
+ that's easier than running it. If you repackage it, please make the user 
+ agree to the EULAs (the game's and PunkBuster's!)...we have both EULAs
+ translated into four languages.
+
+
+Crysis Wars:
+
+ Linux dedicated server: http://icculus.org/news/news.php?id=4475
+
+
+Offload servers:
+
+ I need them. http://icculus.org/news/news.php?id=4465
+
+--ryan.
+
+--------------------------------------------------------------------
+When this .plan was written: 2008-12-08 23:47:09
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.21 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

@@ -1,0 +1,61 @@
+Login: ridah          			Name: Ryan Feltrin
+Plan:
+
+Ryan Feltrin
+<a href="mailto:ridah@frag.com">ridah@frag.com</a>
+
+Technology & AI Programmer, Grey Matter Studios.
+
+
+03-06-2000
+------------
+
+I would like to take some time to explain a few things regarding some comments
+I've recently read on the Shack boards.
+
+First, regarding the status of the Kingpin netcode.
+
+This is something I have looked at several times, after hearing some negative
+feedback from a few users. Each time I've looked into it, I have failed to 
+find any hard evidence of network code inefficiencies.
+
+I did spend a fair chunk of time cutting network traffic both during and
+after the completion of Kingpin. I introduced more delta compression in the
+entity packet stream, moved chunks of server code over to the client, and
+removed single-player legacy fields that were not important to multiplayer
+gaming.
+
+This does not equate to better network code, but it does at least suggest
+that we made an effort to make things better, even if the end result is
+that the network conditions will eventually decide whether the game is
+playable or not.
+
+There is no action game made to date, that can seemlessly counter
+an unreliable or lack of network bandwidth between you and the server.
+
+My advice is to look for a server with a consistent ping in your server
+browser. If a dozen pings return a wide range of times, it's probably not
+a very reliable server, and will likely result in higher packet-loss.
+
+Another thing to keep in mind, as that a higher percentage of win32 servers
+are likely to be sitting on a cable or DSL link (read: unpredictable) than
+are linux servers, which often sit on T1 or OC-x level connections
+(read: reliable).
+
+Unfortunately, Kingpin has a high percentage of servers running on win32,
+which increases the chances of players ending up on unreliable servers, due
+to the typical links these machines are behind, and the likelyhood that
+they are used for more than just a Kingpin server.
+
+Secondly, the timing of the Kingpin SDK might not have been ideal, but given
+the release schedule of the binary patches, it just didn't make sense to
+put out the SDK until the game was all patched up. Unfortunately I was unable
+to compile the 1.21 release for Linux at the time of release, so that was
+left at v1.2, and the v1.21 SDK was released only with win32 components.
+
+This has left Kingpin in a state of dissarry.
+
+Several changes have occured since the v1.21 release, which means I am
+not in the position to make statements regarding any future releases, since
+Kingpin is now officially the property of a company I no longer work for.
+All I can say, is that I will do the best I can to alleviate the situation.

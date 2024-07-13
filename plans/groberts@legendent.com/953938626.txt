@@ -1,0 +1,345 @@
+<div align="center"><center>
+
+<table border="0" cellpadding="10" cellspacing="0" width="90%"
+bgcolor="#000000">
+    <tr>
+        <td><p align="center"><font color="#FF0000" size="6"
+        face="OCR A Extended,arial">T H E</font><font
+        color="#FFFFFF" size="6" face="OCR A Extended,arial"> </font><font
+        color="#0080FF" size="6" face="OCR A Extended,arial">A M
+        A Z I N G</font><font color="#FFFFFF" size="6"
+        face="OCR A Extended,arial"> </font><font color="#008000"
+        size="6" face="OCR A Extended,arial">F O O D</font><font
+        color="#FFFFFF" size="6" face="OCR A Extended,arial"> </font><font
+        color="#FF8000" size="6" face="OCR A Extended,arial">M A
+        N</font><br>
+        <font color="#FFFFFF" size="4"
+        face="OCR A Extended,arial"><strong>I'm a tester.</strong></font></p>
+        </td>
+    </tr>
+</table>
+</center></div><div align="center"><center>
+
+<table border="0" cellpadding="10" cellspacing="0" width="90%">
+    <tr>
+        <td valign="top" width="20%" bgcolor="#404040"><p
+        align="right"><font color="#FFFFFF" size="5"
+        face="OCR A Extended,arial">12.8.99<br>
+        </font><font color="#FFFFFF" size="3"
+        face="OCR A Extended,arial">4:40pm</font></p>
+        <p align="right"><font color="#FFFFFF" size="3"
+        face="OCR A Extended,arial">Now playing:</font></p>
+        <p align="right"><font color="#FFFFFF" size="3"
+        face="OCR A Extended,arial">Fiona Apple<br>
+        &quot;Mistake&quot;</font></p>
+        </td>
+        <td valign="top" width="80%" bgcolor="#400080"><font
+        color="#FFFFFF" size="2" face="OCR A Extended,arial">I'd
+        like to apologize to my thousands of fans out there for
+        not updating my .plan file in the last two weeks. I've
+        been busy.</font><p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">Well, kinda. I'm not really
+        doing anything I wasn't doing a week ago.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">I did finish writing the
+        readme file for the Wheel of Time Server Configuration
+        Utility. I've been playing a lot of WoT multiplayer, as
+        well as Half-Life, Opposing Force...and Ultima IX.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">Ultima IX was a damned
+        nightmare. It was chock full o' bugs, it ran like
+        molasses on my 450-128-Voodoo3 machine, I had to read the
+        U9 message boards in order to make it past certain parts.
+        But it was still an Ultima. So I'm happy. I guess.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">Happy in that respect.
+        Circumstances beyond my control, but certainly not beyond
+        my reach, have conspired to make a very unhappy Grant
+        over the last three days. That's okay, though. I got my
+        Chalupa, and everything was fine.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">&quot;Getting the Chalupa&quot;
+        sounds like a sex euphemism, but I guess when your mind
+        works the way mine does, most things do.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">I have been beating the hell
+        out of Scott, Matt, Craig, Warren, and Duane at Soul
+        Calibur lately. You almost have to feel bad for them, but
+        then you have to remember that they all make more money
+        than I do. So I'm entitled to my little victories. :)</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">Unreal 2 is still in its pre-very
+        early stages. So nothing to report there. Although I
+        wouldn't be able to report anything even if we had
+        something. So never mind.</font></p>
+        <div align="center"><center><table border="0"
+        cellpadding="5" cellspacing="0" width="80%">
+            <tr>
+                <td bgcolor="#800000"><p align="center"><font
+                color="#FFFFFF" size="3"
+                face="OCR A Extended,arial">The Food Man's Pic o'
+                The Day</font></p>
+                <p align="center"><font color="#FFFFFF" size="2"
+                face="OCR A Extended,arial">I'd like to start
+                this feature off with not one. Not two. Not three.
+                FOUR pictures. This is a habit that I got into
+                for a while with my </font><a
+                href="http://www.ikuze.net/new" target="_new"><font
+                color="#FFFFFF" size="2"
+                face="OCR A Extended,arial">web page</font></a><font
+                color="#FFFFFF" size="2"
+                face="OCR A Extended,arial">, which I haven't
+                updated in over three months. Priorities!</font></p>
+                <p align="center"><font color="#FFFFFF" size="2"
+                face="OCR A Extended,arial">Standard thumbnailing
+                rules apply: Click on the image for a 640x480
+                version.</font></p>
+                <div align="center"><center><table border="0"
+                cellpadding="10" cellspacing="0">
+                    <tr>
+                        <td align="center" valign="top"><a
+                        href="http://207.233.128.55/temp/scott.jpg"><font
+                        color="#FFFFFF" size="2"
+                        face="OCR A Extended,arial"><img
+                        src="http://207.233.128.55/temp/scott.jpg"
+                        border="0" width="160" height="120"></font></a><font
+                        color="#FFFFFF" size="2"
+                        face="OCR A Extended,arial"><br>
+                        Scott (menacing)</font></td>
+                        <td align="center" valign="top"><a
+                        href="http://207.233.128.55/temp/craig.jpg"><font
+                        color="#FFFFFF" size="2"
+                        face="OCR A Extended,arial"><img
+                        src="http://207.233.128.55/temp/craig.jpg"
+                        border="0" width="160" height="120"></font></a><font
+                        color="#FFFFFF" size="2"
+                        face="OCR A Extended,arial"><br>
+                        Craig (immaculate)</font></td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top"><a
+                        href="http://207.233.128.55/temp/duane.jpg"><font
+                        color="#FFFFFF" size="2"
+                        face="OCR A Extended,arial"><img
+                        src="http://207.233.128.55/temp/duane.jpg"
+                        border="0" width="160" height="120"></font></a><font
+                        color="#FFFFFF" size="2"
+                        face="OCR A Extended,arial"><br>
+                        Duane (despondent)</font></td>
+                        <td align="center" valign="top"><a
+                        href="http://207.233.128.55/temp/grant.jpg"><font
+                        color="#FFFFFF" size="2"
+                        face="OCR A Extended,arial"><img
+                        src="http://207.233.128.55/temp/grant.jpg"
+                        border="0" width="160" height="120"></font></a><font
+                        color="#FFFFFF" size="2"
+                        face="OCR A Extended,arial"><br>
+                        Me (shadowy)</font></td>
+                    </tr>
+                </table>
+                </center></div></td>
+            </tr>
+        </table>
+        </center></div></td>
+    </tr>
+</table>
+</center></div>
+
+<p align="center">&nbsp;</p>
+<div align="center"><center>
+
+<table border="0" cellpadding="10" cellspacing="0" width="90%">
+    <tr>
+        <td valign="top" width="20%" bgcolor="#404040"><p
+        align="right"><font color="#FFFFFF" size="5"
+        face="OCR A Extended,arial">11.24.99<br>
+        </font><font color="#FFFFFF" size="3"
+        face="OCR A Extended,arial">1:10pm</font></p>
+        </td>
+        <td valign="top" width="80%" bgcolor="#400080"><font
+        color="#FFFFFF" size="2" face="OCR A Extended,arial">I
+        bought Ultima IX today.</font><p><font color="#FFFFFF"
+        size="2" face="OCR A Extended,arial">&quot;But it's all
+        buggy. The demo crashed all the time. Wait until January.&quot;</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">Yeah, right.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">In my twenty or so years of
+        playing computer games, I have found two universal
+        constants.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">1. Square.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">2. Ultima.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">I have never played a bad
+        Square game. I have never played a bad Ultima.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">(Yes, Ultima VIII was iffy,
+        but it was a good game. It just wasn't a good Ultima.)</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">I actually started wearing
+        ankh necklaces when I was a wee laddie because I thought
+        the Ultima series was so cool. Once I realized what they
+        symbolized in the &quot;real world&quot;, I felt a little
+        smarter (and less geeky), but the fact remains that a
+        video game has altered the way I present myself.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">It's all Garriott's fault.
+        When I used to work for Next Generation (which has gone
+        completely downhill since I left), I didn't really know
+        what to expect. There was a lot of fanboy hero worship
+        going on.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">I had never met someone who
+        was so animated and excited about what they were doing.
+        He gesticulated wildly, his eyes lit up with glee...it
+        was a sight to behold.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">The interview, or rather, the
+        material that the interview garnered, never made it into
+        Next Generation. I left the magazine before the big RPG
+        issue began. But the two hours I spent interviewing
+        Richard Garriott is one of my proudest moments. I'm sure
+        he's already forgotten about who the hell I was. Hell, he
+        probably forgot a few hours after I left. But I doubt I'll
+        be forgetting the trip to Austin any time soon.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">I actually saw Ultima IX in
+        its middle stages while I was down in Texas back in 1997.
+        (I was there to write a preview for Wing Commander
+        Prophecy, which started out as five pages but ended up
+        being one, since Origin wouldn't give us any screen shots.)
+        The game was so impressive, and so grand, that I couldn't
+        do anything besides say &quot;Oh, wow.&quot; Now, almost
+        three years later, the thing is finally in my hands. And
+        right before a five-day weekend. Life is good.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">So, since this is a plan file,
+        I guess I'm supposed to talk about work. Well, there's
+        not much to talk about. I try to play multiplayer WoT
+        every day for a long, long time. I try to keep up with
+        what's going on with the message boards, and tracking
+        bugs that I see. But mostly, today, I remember what
+        Garriott was like that day back in 1997, and hope that I
+        can be in his chair down the road.</font></p>
+        <div align="center"><center><table border="0"
+        cellpadding="5" cellspacing="0" width="80%">
+            <tr>
+                <td bgcolor="#800000"><p align="center"><font
+                color="#FFFFFF" size="3"
+                face="OCR A Extended,arial">The Food Man's Wheel
+                of Time Tip o' the Day:</font></p>
+                <p align="center"><font color="#FFFFFF" size="2"
+                face="OCR A Extended,arial">Learn what the
+                fireshield effect looks like. Once you've done
+                that, STOP SHOOTING FIREBALLS AT SOMEONE WHO IS
+                FIRESHIELDED, genius.</font></p>
+                </td>
+            </tr>
+        </table>
+        </center></div></td>
+    </tr>
+</table>
+</center></div>
+
+<p align="center">&nbsp;</p>
+<div align="center"><center>
+
+<table border="0" cellpadding="10" cellspacing="0" width="90%">
+    <tr>
+        <td valign="top" width="20%" bgcolor="#404040"><p
+        align="right"><font color="#FFFFFF" size="5"
+        face="OCR A Extended,arial">11.23.99<br>
+        </font><font color="#FFFFFF" size="3"
+        face="OCR A Extended,arial">2:15pm</font></p>
+        </td>
+        <td valign="top" width="80%" bgcolor="#400080"><font
+        color="#FFFFFF" size="2" face="OCR A Extended,arial">My
+        first .plan &quot;update&quot;. Duane was kind enough to
+        offer me a path to &quot;groberts.txt&quot;, which I
+        immediately (well, two filets-o-fish later) loaded up in
+        Frontpage and began to work with.</font><p><font
+        color="#FFFFFF" size="2" face="OCR A Extended,arial">I
+        love FrontPage. I don't love the version of FrontPage
+        that's on my communication machine (as opposed to the
+        testing machine). According to the Help--About data, this
+        is version 2.0.2.1131, and it is of the &quot;Express&quot;
+        flavor.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">I use FrontPage 2000 at home.
+        In my younger (three years ago) days, I used to create
+        web pages with text editors only, and I was damned proud
+        of that fact. I made a living for quite a while designing
+        web pages, and it was a good living, which is ridiculous;
+        ANYONE can make web pages. ANYONE can make GOOD web pages.
+        It's really not that hard at all. Hell, even </font><a
+        href="http://www.cs.rit.edu/~arl8258/index.html"
+        target="_new"><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">Aaron</font></a><font
+        color="#FFFFFF" size="2" face="OCR A Extended,arial"> can
+        do it. :) I've done it, many times. I've got my own
+        domain and everything. </font><a
+        href="http://www.ikuze.net" target="_new"><font
+        color="#FFFFFF" size="2" face="OCR A Extended,arial">See?</font></a></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">Where was I? Oh yeah, text
+        editors. I used to have a little graphic on my page,
+        saying &quot;Powered by WordPad&quot;. I thought it was
+        original at the time, but if you've been around the
+        Internet as long as I have, you know that nothing is
+        original any more. I steadfastly refused to use any
+        WYSIWYG editors, because they couldn't give me the level
+        of control that I needed to make my pages look good.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">Quietly, though, I moved to
+        FrontPage. I don't really remember why; I think it was
+        when I had to make a site with tables on every page.
+        Tables are really a lot easier to do in FrontPage.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">Why the hell am I telling you
+        this? Why the hell are you reading this?</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">I'll take those one at a time.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">I'm telling you this because
+        even after three months of working for Legend
+        Entertainment, I still feel like this is all one big
+        dream; one of those life dreams that is so real, you're
+        completely disoriented when you wake up.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">Everyone and everything at
+        this company has reinforced the dream I've always had of
+        working in the video game industry (no, Next Gen, video
+        game isn't one word). I know now that I'm going down the
+        right road, and I'm enjoying the scenery along the way.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">Now, why are you reading this?
+        I have no idea. I don't even know why I'm writing this. I
+        guess it's some kind of attempt at reinforcing my
+        position as someone who works in the &quot;industry&quot;.
+        Or maybe because we're done with </font><a
+        href="http://www.wheeloftime.com" target="_new"><font
+        color="#FFFFFF" size="2" face="OCR A Extended,arial">WoT</font></a><font
+        color="#FFFFFF" size="2" face="OCR A Extended,arial"> and
+        just starting a new project, and my days are long and
+        empty until I have something to test. So I guess I'll
+        probably be updating this thing a lot, because it's
+        cathartic to me to write.</font></p>
+        <div align="center"><center><table border="0"
+        cellpadding="5" cellspacing="0" width="80%">
+            <tr>
+                <td bgcolor="#800000"><p align="center"><font
+                color="#FFFFFF" size="3"
+                face="OCR A Extended,arial">The Food Man's Wheel
+                of Time Tip o' the Day:</font></p>
+                <p align="center"><font color="#FFFFFF" size="2"
+                face="OCR A Extended,arial">If you're standing in
+                water, don't use lightning.</font></p>
+                </td>
+            </tr>
+        </table>
+        </center></div></td>
+    </tr>
+</table>
+</center></div>

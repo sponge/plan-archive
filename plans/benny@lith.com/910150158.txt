@@ -1,0 +1,88 @@
+Login: benny          			Name: Benny Kee
+Plan:
+10/14/98
+
+Whew! Just finished answering all the e-mails from the SHOGO demo launch. Bob and I answered 1786 e-mails in 8 days!! Thats 223 e-mails each day!!! Holy Crap! No wonder we're both dog-ass tired! I'd like to see another Tech department with 2 people do that! :)
+
+Rage is FLYING off the shelves!! Ya hoo! Go get yourself a copy of this gem and experience the magic that is RAGE! If you see a character called Benny in a MP game, please don't PK me!
+
+Shogo launches in 5 days now. You have pre-ordered it, right? You better if you haven't, or you'll be left without when the game is released. To say SHOGO is great, doesn't come close to reality! For me, SHOGO is the most fun, best use of pixles in ANY 3D shooter out. :)
+
+Blood 2 is coming down to the wire now. I'll be busting my ass helping to test the game before we send her on her way. Damn! They want me to play an awesome game AND pay me to do it?? The things I do! ;)
+
+Benny
+
+
+7/17/98
+
+Rage of Mages is coming along nicely! I finished all my work on cleaning up the English for the game and the manuel. We also just finished recording the US voices for the game. It was an experience listening to the actors that played the voices for RoM. 4 people did over a dozen different parts. I contributed to the game as well, playing the part of a peasant (what else!) and a male Mage Mercenary. The funniest part was an actor named John who portrayed a drunken merchant. I was rolling on the floor when he recorded his lines! Now all we have to do is finish cutting the US dialog and stick it in the game, redo the music and complete the manuel (which is just about done now), and we're done with the game. I think a LOT of people are going to like RoM. It skillfully combines the RTS and RPG in a way that's fresh and exciting.
+
+Get Medieval is done!! I went through the "final" burn looking for goofs and couldn't find any. This game is going to rock!
+
+Gruntz is a really fun game. It's like Lemmings meets Syndicate on crack. Once you start playing, you can't stop. This is going to be a surprise to everyone when it comes out.
+
+What can I say about Shogo? Gimme this game NOW!!! Everytime I poke my head into one of the level designers offices, I'm completely blown away! Being a musician too, I found that Shogo's dynamic music adds to the game in a way that "normal" music cannot. The music fits the game perfectly and invokes feelings of tension, panic, etc.
+
+Blood 2 is sweet! I've never loved gibbing someone so much! I heard from a lot of people who are fans of Blood 1, about how concerned they are because Blood 2 takes place in the future. They're worried that the "horror" mood that Blood has won't be in Blood 2 and all I can say is don't worry! If you liked Blood in even the tiniest way, you are going to LOVE Blood 2!!
+
+Oh ya, on a side note, Benwa just bought himself a brand new, 1998, Chili Pepper Red, Dodge Durango. Benwa is happy! This SUV is the "bomb", the "shit" or whatever slang term you care to use. Power everything; a monsterous 5.2L Magnum V8 (gas-a-holic unfortunately); CD/tape/radio; cruise; trip meter; air; the list goes on. Monolith pays well for Technical Support! I love this company!! ;)
+
+B
+
+
+6/19/98
+
+I've finished translating Rage of Mages from really, really bad broken English, to really good understandable English. I ended up changing about 4.70 megs of just text in all. The game is taking on a new feel, now that the English is in. All we need now, is Dan the Man to record the voice for the game, and we got ourselves a RPG! This game is going to blow a lot of people away with it's depth and challenge. The game is HARD! You can't just run your way through the game. You'll need to carefully outfit your characters and plan your moves carefully if you want to finish this game!
+
+
+6/1/98
+
+Shogo testing starts real soon (you gotta see this game to believe it!), Blood 2 is looking awesome, and I've finished pre-translations of the Allods dialog. (Rage of Mages is going to be the new title) RoM looks like it would be a simple RPG, but it's fairly deep and very challenging. RPG'ers are going to love it!
+
+Oh ya, I finally bought myself a DVD player. If anyone knows of some kick ass martial arts, or sci-fi titles, e-mail me! :)
+
+
+
+
+6/1/98
+
+Just came back from a vacation to Vegas. I had tons of fun! Saw the Hoover Dam (good lord it's big!) a couple of "Vegas" shows, and hit the Star Trek Experience. WOW, if you are a Star Trek fan, you GOTTA see this! The first part is a huge timeline describing everything that ever happened in Star Trek. Opposite the Timeline is a meandering display case, filled with Star Trek props. Phasers, Tricorders, Zephram Cochran's First Contact outfit, three Borg drones plus the Borg queen's skull, Spock's transmitter that he built in "City on the Edge of Forever", Gorkon's throne and a wall of Klingon weaponry and tons more. After you finish looking at everything, you line up to board a transport to another area and then everything goes black. A huge gust of wind, shimmering lights and suddenly, you're on the Starship Enterprise! You could feel the thrumming of the ship under you. Riker comes on a monitor and tells the ensigns in the Transporter room to take everybody up to the bridge. After walking through the halls of the ship you enter the Bridge. The crew is walking around, doing their tasks, and then you see Riker on the viewscreen who fills you in on how you got here and why you are here. I'm not going to spoil it for you, but the shuttle escape is the most gut turning, effects ridden ride I've ever been on. It was SWEET! :) After the trip, I stopped in Quark's Bar and had myself a cool Romulan Ale! There's nothing like a strong, alien beverage! Ka' Pla!
+
+
+
+4/24/98
+
+Hi there! My name is Benny and I run the tech support and quality assurance department here at Monolith. I thought I'd start up a .plan file and see how it goes.
+
+What's new...lot's of people trying out the Blood 3DFX alpha patch. There are three main concerns that people are having. 
+
+One, the game is too bright. I've posted a fix for this on our Blood web site already. Hopefully we can "tone down" the gamma for the next version of the 3DFX patch.
+
+Two, the 3D cards are running out of texture memory. I don't know what to tell people about this problem, besides restarting the game again. If anyone out there knows why the 3D cards texture memory is not being flushed to allow for new textures, please, please e-mail me! :)
+
+Three, people are trying to use their RUSH and Voodoo 2 based 3D cards. I guess that when they downloaded the patch, these people missed the big letters that said "Voodoo RUSH and Voodoo 2 cards will NOT be supported!" I'm getting e-mails asking why they can't get their card to work, and all I can say is that these cards are not supported and may not work. Some daring people on the Blood forum have been able to get their Voodoo 2 cards to take the patch by fiddling around with the drivers, or settings, or whatever. I still haven't heard from a RUSH owner that's been able to get the patch to work. If you are that owner, drop me an e-mail describing what you did.
+
+RIOT: Mobile Armor is looking freakin' awesome! I can't wait to head up the bug testing on this baby. Whoever said "size doesn't matter" hasn't played RIOT yet! Stomping around in a 40 foot transformable Mech is the way to go. The level designers, Nathan, Craig and Todd are cranking out the levels like their lives depended on it. They get this glazed stare in their eyes...it's kind of freaky. I guess that's what happens when you eat, drink, and breath one thing for too long. The game is going to ROCK because of it, so I don't mind if they go insane! :)
+
+Blood 2 is looking sweet as well. Some of the things I've seen will make your skin crawl! Can't say much more than that, other than Jay and his Blood 2 crew are going to blow peoples minds!
+
+Get Medieval is thiiiis close '___' from being finished. I haven't had so much fun playing a game since I can remember. Keep your eye out for this gem. The beginning and ending movies are the funniest I've seen yet in a video game, and I personally own more than 800 games! GM is overflowing with humor and the 4-player action can have you reaching for your canister of oxygen! Very cool game! :)
+
+More things about me...I'm also a professional musician. Drummer is my trade. Been playing for 22 years now. Jazz and funk are my favorite styles to play. I've had the good fortune to tour Japan and California and I've played with some of the best in the music industry. I've setup my electronic kit here in my office, so anytime I feel the need to beat the hell out of something, I just switch seats and pound away. There's nothing better for stress.
+
+I'll start a movie review section here. Cool or Sucks are the ratings. Go see the cool movies and avoid the ones that suck!
+
+Lost in Space                     Cool
+Titanic                           Cool
+Good Will Hunting                 Cool
+
+I just picked up Acclaim's Forsaken today. Sweet graphics, but the single player game is hurting. There are only 15 levels to play! Not nearly enough. A game like Forsaken should have at least 30 levels to play, plus DM maps. Everybody is so wrapped up in this "Multiplayer" kick, that the single player games are starting to suffer. It's sad really. Oh well. At least our games aren't going down that path!
+
+That's about it for now. Until something exciting happens!
+
+Benny Kee
+Monolith Tech Support/Quality Assurance
+
+
+ 
+

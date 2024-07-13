@@ -1,0 +1,22 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+
+Okay.
+
+I've had a zillion emails today about this, so I guess it needs an update.
+
+Currently we compile Quake 3 under Win32, Mac OS 9/X, and Linux.
+
+It's been a long long time since there has been any sort of update for Quake 3 (well, it seems that way).  Originally a new point release way due out towards the end of March, which suited me fine because that coincided with the release of Mac OS X and it meant we would be right there with a point release as the operating system came out.
+
+Well, for several reasons, we're still working on the point release, and it's still a ways out.  We've been working extremely hard to get it to you, and working with the mod community to get all the features into the point that you've asked for, and it's all taking a little more time than we originally anticipated.  We've also been working hard on the various other work projects id has for Robert, Mr.Elusive and I.  Some of these have been on a critical time path in the past few months, and have required our utmost attention.
+
+That's not to say we've not been out there listening.  Paul Jaquays over on quake3world has been feeding us daily requests that we've strived to include in this, hopefully the last for a long long time, super mega point release.  By working with mod teams, I think you'll see some community work made now that was very hard to impossible to make with the previous point releases.
+
+So for now, please carry on playing Quake 3, with your current version, it's not that bust, broken or mangled, and in fact runs quite nicely.  The new point release will be available as soon as it's done, and not before.
+
+And finally, there is STILL no spoon.

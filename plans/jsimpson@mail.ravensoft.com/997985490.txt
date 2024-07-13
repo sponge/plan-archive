@@ -1,0 +1,37 @@
+
+Name: Jake Simpson
+Email: jsimpson@ravensoft.com
+Description: Lead Programmer
+Project: Pretty much everything
+Web Page: <a href="http://www2.ravensoft.com/jakeworld">JakeWorld</a>
+-------------------------------------------------------------------------------
+8/16/01
+
+Been a while since I updated this, so I thought I'd do one while waiting for a build.
+
+It's depressing seeing companies like Loki declare chapter 11, and Dynamix just evaporate. These are trying
+times for developers it would seem, particularly if you take FatBabies at face value. I just feel extremely
+lucky to be working for a company that is doing well right now. Our slate is full for the next 2 years at least,
+and it's all fun stuff that I am glad to be involved in.
+And we haven't finished announcing stuff yet either:)
+
+JKII Multiplayer is coming along - I got Ghoul2 in there and working, so we can use all the single player
+assets, which is cool. Makes building an MP game a ton faster when all the assets just translate over.
+Going through the Quake III code again inserting my stuff makes me appreciate once again how clever and 
+elegant the multiplayer design for that engine really is. Everytime I find what I think is a hole, I find
+that although the hole in question is never specifically addressed by code, that hole never crops up 
+because of the smart design behind the system in the first place.
+I could write an entire article just on that in fact.
+
+SOF II and JKII single player are coming along great guns from what I have seen. There is some interesting
+stuff going on in those games that I've not seen done before. John Scott's terrain system in particular looks
+very striking. For those that saw it (and JKII) at QuakeCon I think I can speak for most here when I say
+a huge thank you for all the kind words that have been directed at us. This makes a difference to us here
+in many many ways. I think every developer gets revitalised when they know that people are looking forward
+to what we are building.
+
+In other stuff, I've been playing StarTopia recently, much the annoyance of my wife. I can heartily
+recommend that one. It's fun stuff. Max Payne keeps winking at me from the shelf saying "Play me. Go on, 
+play me! I dare you!". *Sigh* so many games and so little time...
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/jakeworld">JAKEWORLD!</a>

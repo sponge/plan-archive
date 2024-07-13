@@ -1,0 +1,39 @@
+
+Name: Jake Simpson
+Email: jsimpson@ravensoft.com
+Description: Lead Programmer
+Project: Pretty much everything
+Web Page: <a href="http://www2.ravensoft.com/jakeworld">JakeWorld</a>
+-------------------------------------------------------------------------------
+8/5/01
+
+I just updated JakeWorld with a new editorial. I'm trying to get the jakeworld.net domain name I bought
+working, but helpfully Network Solutions.com won't let me. Apparently you have to set some option at 
+registration time in order to get forwarding to work, and of course, I wasn't aware of this. Do they have
+the ability to change this after it's been registered? They do not.
+Well done Network Solutions for taking my money yet not allowing me to do what I need. I am most impressed.
+
+I also added a guestbook to Jakeworld as well, and that doesn't work either, requiring permissions to be set
+on the server which can't be done until the URL works correctly. Satan farts in my face once again.
+
+In other news, any idea of using Windows XP went right out the window after reading <a href = "http://www.theregister.co.uk/content/4/19573.html">This</a>
+
+I dunno, is MS just going all out to exclude anyone and everyone from setting things the way they like it,
+instead of the way MS would prefer them to? Why is it that MS thinks they know better than I do when it comes
+to setting up my PC? At least let me turn all this crap off! And that whole MP3 exclusion thing is just so
+transparent it's untrue. I use an MP3 jukebox at home, and there is no way I'm going to stop using it, so MS
+just lost one sale right there.
+You really know how to make yourself popular there MicroSoft.
+
+Is it just me or those new BlockBuster and 7Up commericals hysterical? Finally humor used in advertising in
+the correct manner. Reminds me of the Heineken ads from back home...
+
+As Pat mentioned, we just hit a milestone in our PSx2 game. Maybe it might get announced one of these days:)...
+I've got to say, while we've barely started to scratch the surface of the what the PSX2 is capable of, I do 
+understand why people think it's hard to develop for. When optimising there are a ton of little fiddly things
+you can do, all of which won't make a huge amount of difference by themselves, but when you put them together
+can radically affect your frame rate.
+However I am fully confident that the technology being produced by our Tech team here of Lead Tech Gil Gribb, 
+Marcus Whitlock and Dave Blumenthal will rival anything on the market at release time. Way to go guys.
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/jakeworld">JAKEWORLD!</a>

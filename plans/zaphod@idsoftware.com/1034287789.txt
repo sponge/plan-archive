@@ -1,0 +1,27 @@
+
+Name: Graeme Devine
+Email: 
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+
+Mac Point Release 1.32
+
+
+I've put an update executable (the .sit file) up there for testing.
+
++ added the cvar "in_disableOSMouseScaling", which defaults to 1.  At 1 this does nothing to the OS, when set to 0, the OS is called to and the scaling is reset.  This is to get around the Apple non-reset bug.
+
++ added function key 13 option to pull down the console for international keyboards.
+
++ re-fixed the keypad enter key
+
++ added support for French keypad "," key
+
++ checked Q3F 2.2 Mod worked (had to bump up hunk memory)
+
++ use NSEvent timestamp for all mouse/keyboard events
+
++ fixed GameRanger support issue
+
+Sorry, had DOOM 3 stuff to do mostly today.

@@ -1,0 +1,11 @@
+Login: pmack          			Name: Peter Mack
+Plan:
+December 1, 2000
+
+If you download the alice demo, and the filename reads something
+like alice_demo_beta7a.exe, don't panic. That's the final
+version we shipped to EA for testing, but apparently some
+mirrors didn't get it renamed to a nice, final sounding filename.
+
+Sorry for the confusion.
+

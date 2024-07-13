@@ -1,0 +1,91 @@
+
+Name: Brian Pelletier
+Email: bpelletier@mail.ravensoft.com
+Description: Project Leader/Art Director
+Project: Star Trek
+-------------------------------------------------------------------------------
+10-19-99
+
+Well, It's been about 3 weeks since I've been back from my business trip 
+to Activision and Paramount in sunny LA. I was there for one day for 
+meetings and to show off our new game demo. At Activision, I presented 
+the game to the President of the company, Ron Doornink, Exec VP of world 
+wide studio's, Mitch Lasky, VP of sales, Ron Scott and many other top dogs 
+at Activision. It's not as bad as it sounds, everyone there is really cool
+and they're good guys who are down to earth, not your stuffy corporate
+types. Raven had two goals we needed to prove, make convincing NPC AI and 
+make the scipted events interactive. I am pleased to say that they were 
+very impressed. Raven achieved in the game what we said we would, which 
+I beleive went beyond their expectations.
+
+The demo went something like this: Beam into a Borg Cube with 4 NPC away
+team members. There are Borg in the room you are in but they ignore you.
+if you shoot them, then they will attack you or course. As you walk through
+the Cube your teammate follow right along with you and don't get in your
+way. They even talk amongst themselves. At one point a Borg comes out of an 
+Alcove in front of you start walking toward you and your tema. One of your
+teammates say's "should I shoot the Borg sir?" the player has the option now
+to respone with a yes or no command (Y and N keys) and control the action
+of the NPC teammate. if you press Y (yes) then he shoots the Borg. But by 
+doing that the Borg you left alone at the begining will come and attack you.
+If you press N (no) then he lowers his weapon and the Borg walks right by; 
+unless you attacked the Borg in the begining. If so the the Borg will walk
+up to that teammate and try to assimilate him. this is an example of our 
+interactive scripts. After that encounter you continue walking until you come 
+to a force field blocking your way. This is where you see your Hazard team
+members work intelligently. The technician walks to a Borg computer console
+and start tries to bring down the force field, but says "I can't access the
+force field from here." She then takes out a tricorder and examines a 
+generator thingy on the wall and says "Chang, blow up this generator." Chang,
+the demolitionist walks over to it and plants an explosive device on it and
+says "Take cover." The team then finds cover behind pillars and half walls. 
+The explosion goes off and the force field is deactivated. All of this 
+happens in game for the player to see and is not a cinematic! You encounter
+more Borg in the next room and they attack you and your teammates intelligently
+attack back. the battles are really cool too because your team talks amongst
+themselves and say stuff like "watch your back" "stay focused" and "assimilate
+this!" the overall feeling is that the team are real people fighting along with
+you which adds to the excitment of the battle. You as the player have to watch
+your teammates backs too because they could die. It seems like every time I 
+play the demo something different happens. it's never the same twice, and it's
+that unpredictibilty that is going to make playing this game so fun!!
+
+Okay, that's enough for now. Next time I'll talk about what happened at Paramount.
+
+Brian Pelletier
+- Project Leader: Star Trek Voyager Elite Force
+
+**********************************************************************************
+
+
+9-24-99
+
+Star Trek Voyager: Elite Force has an official website. It is loaded 
+with content ranging from screenshots, concept art, in game models, 
+and all kinds of game information. We, the development team have been 
+really busy developing the game, now we want everyone to see a little 
+more of what this game is about. We will be updating the site constatly 
+so come to it often, see what we're up to and join in on the message 
+board. Thanks for your interest in Elite Force and we promise to have 
+a fun informative web site monitored by the development team. We will 
+continue creating a kick ass action game and now you know where to go 
+for the latest information. 
+
+I will be writing a plan file on a regular basis from now on. at least
+once a month.
+
+I am flying to the Activision office in LA next week for one of the 
+games major milestones. I am showing a playable version of the game
+showing off the AI for the NPC Hazard team members that go on missions
+with the player. It's an awesome looking demo of a more finalized
+Borg cube and Borg drones complete with laser eye beams. I also go
+to Paramount studios to show them the demo and discuss the game. Maybe 
+this time I can get a set tour. My previous visits, I've been to busy 
+in meetings and getting reference from the ST reference library.
+
+later
+
+Brian Pelletier
+- Project Leader: Star Trek Voyager Elite Force
+
+**********************************************************************

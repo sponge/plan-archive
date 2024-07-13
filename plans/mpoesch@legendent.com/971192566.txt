@@ -1,0 +1,18 @@
+Current Project: Unreal II, Technical Lead
+
+
+2000.10.09
+
+The search for Unreal II game programmers is continuing to go well -- lots of talented candidates have applied.
+
+I want to focus on weapon coding for the next couple of days, so I will be procrastinating this round of evaluations until the end of the week -- there's still time to get your resume to me if you haven't applied already.
+
+We're looking for one or two top programmers with the following qualifications:
+- Demonstrated UnrealScript experience (mods, mutators, weapons, special effects, custom AI, etc.) is a must.
+- Interest in developing game-code: game-play scripting, AI, weapons, and everything game-play related is a must.
+- Experience in the game industry is a plus, but isn't required.
+- Ability to communicate effectively and work well with a team is a must.
+- Experience with C++ is a plus -- but, we will probably orient the majority of the tasks (80-90%) toward UnrealScript.
+- Must be willing to relocate to Northern Virginia -- about 30 miles west of Washington D.C.
+
+Send email with your resume and/or webpage with the subject "Resume: &lt;your name here&gt" to me at mpoesch@legendent.com  (Warning: I'll immediately delete resumes that don't include the "Resume:" header -- being able to follow directions is also a requirement for the position! &lt;g&gt)

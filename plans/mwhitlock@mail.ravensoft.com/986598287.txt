@@ -1,0 +1,17 @@
+
+Name: Marcus Whitlock
+Email: mwhitlock@ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+Just got done reading Chris Hecker's 'Soapbox' in this month's Game Developer, "Software Patents Should Be Abolished". I have to say "Well said!". How can it be justifiable to patent, say the XOR technique for saving and restoring a background. It's been done! Implementation and Software Copyright is one thing... but patenting an algorithm is plain old-fashion greed. There are a lot of smart people out there innovating and pushing back the boundaries, but it only takes one grasping, greedy fool to put a block on that progress with another stupid, ill-founded patent. I hope we will see some real progress in the law regarding software patents, or software development is going to become a lot more expensive and time-consuming than it already is.
+
+-M.
+
+Marcus Whitlock,
+PSX2 Technology Programmer / English Geezer
+Raven Software,
+Email: mwhitlock@ravensoft.com
+Current project: "A little something for PSX2..."
+All opinions expressed above are my own and do not necessarily reflect on the views and opinions of my employer.
+

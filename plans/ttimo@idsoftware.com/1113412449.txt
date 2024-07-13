@@ -1,0 +1,106 @@
+
+Name: Timothee Besset
+Email: 
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+Wed Apr 13 10:08:55 CDT 2005
+
+Wolfenstein Enemy Territory 2.60 SDK & misc D3 1.3 / ROE information
+====================================================================
+
+The SDK for ET 2.60 has been uploaded to our ftp:
+ftp://ftp.idsoftware.com/idstuff/et/sdk/
+ef938347cf8ac9cbd1e2b6fabf29c204  ET_2.60_SDK_Setup.exe
+51f929a7b24e5def093fcec1922e542f  et-linux-2.60-sdk.x86.run
+9784720e9d5904a86fe46b62fa1e5394  et-sdk-2.60.dmg
+
+Also, regarding the next Doom 3 patch ( version 1.3 ):
+- Resurection of Evil will be supported on Linux
+- release 1.3 has EAX HD support, PunkBuster and bunch of other goodies
+- we will release an updated SDK shortly after the patch release
+- it's not done yet
+
+Mon Mar 21 14:00:38 CST 2005
+
+Updated Mac OS X setup
+======================
+
+The initial setup had some permission bugs. We've put together a better one:
+b4f1ea8f8502ce7ad86bd64195724ed5  Wolfenstein Enemy Territory 2.60-2.dmg
+
+Wolfenstein Enemy Territory 2.60
+================================
+
+An updated version of Wolfenstein Enemy Territory [1] is available.
+
+We'd like to thank the ETPro mod team [2] for all the work they did helping us getting this release out. We also have a Mac OS X client thanks to Brad Oliver at Aspyr [3].
+
+A quick incomplete summary of the changes ( fully detailed information is available in the patch documentation ):
+- minor optimizations in server and client engine for lower cpu usage
+- demo recording and playing fixes. sound recording
+- server can redirect clients to other servers when full
+- mods menu
+- anisotropic texture filtering is now supported in renderer
+- fixed http download crashes
+- various server engine crashes fixed
+- fixed Antilag (it was dependent on client fps, and headshots weren't delagged)
+- upped the number of servers in the browser
+
+Downloads:
+----------
+
+MD5 checksums:
+a7ba6fdee3de6150b887068d58e91729  ET_Patch_2_60.exe
+94a7036471b90955a88339d677e467c2  et-linux-2.60-update.x86.run
+2d2373f29f02e18d365d7f1860eee435  et-linux-2.60.x86.run
+
+Where can you download the files? You can get them from id's ftp [4] or from the BitTorrent tracker [5]. Many websites will carry the files within a few hours too.
+
+--
+
+[1] http://games.activision.com/games/wolfenstein/ - Enemy Territory
+Wolfenstein Enemy Territory is a free, stand-alone, downloadable multiplayer game in which players wage war as Axis or Allies in team-based combat.
+[2] http://bani.anime.net/etpro/
+[3] http://www.aspyr.com/
+[4] ftp://ftp.idsoftware.com/idstuff/et/
+[5] http://zerowing.idsoftware.com:6969/
+
+Mon Mar 14 15:51:46 CST 2005
+
+http://www.macrumors.com/pages/2005/03/20050314150811.shtml
+congrats to Aspyr on shipping DOOM 3 for Mac today!
+
+Fri Nov 26 11:55:45 CST 2004
+
+Linux Doom III 1.1.1286 build:
+
+There are new GNU/Linux binaries for Doom3 on the ftp[1] and the BitTorrent tracker[2]. This build is compatible with the previous release, brings a number of bug fixes and new sound code. Alsa[2] and multichannel sound output are now supported.
+
+No GUI changes were made in order to remain compatible with the first release, you will need to set some cvars on the command line to configure your sound:
+
+set s_driver to best, alsa or oss. (best will just try alsa and fallback to OSS otherwise )
+set s_numberOfSpeakers to 2 for stereo, 6 for multichannel sound ( whatever your actual number of speakers may be ).
+
+For instance:
+doom3 +set s_driver alsa +set s_numberOfSpeakers 6
+will start doom3 using the Alsa sound backend in multichannel mode
+
+notes about OSS:
+
+The Linux kernel comes with the OSS/Free API, which works great in most cases but lacks multichannel support. You can download a binary OSS/Linux implementation from 4Front Technologies[4]. To sum up, the drivers are 'free for non commercial use'. You can use them to play Doom III. They have great multichannel support, and that's the drivers I used to develop the OSS backend.
+
+Thanks to everyone who helped testing this build .. and thanks for the positive Linux feedback emails we've been getting..
+
+TTimo
+
+[1] ftp://ftp.idsoftware.com/idstuff/doom3/linux/doom3-linux-1.1.1286.x86.run
+[2] http://zerowing.idsoftware.com:6969/
+[3] http://www.alsa-project.org/
+[4] http://www.opensound.com/
+
+==============================
+
+Tue Nov 16 15:52:29 CST 2004
+
+There is a new release of the DOOM3 SDK available. See http://www.iddevnet.com/ for details. This release is compatible with the Linux 1.1 release ( and includes scons build scripts ).

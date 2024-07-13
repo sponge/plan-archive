@@ -1,0 +1,130 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+
+12/30.5/99
+
+Wow.. Really slow day here at Nihilistic HQ.. Everyone is either
+jetting off to Vegas, holed up in a Y2K mountain bunker with a cache
+of weapons, or still in bed after an EQ all-nighter..
+
+So it seems a fitting time to goof off and do a .plan update rather
+than the more important work of adding UV animations to our material
+shader system (sorry Veldrin..)
+
+So what's new here?  In the month leading up to the Christmas holiday
+I worked almost exclusively on the multiplayer stuff, which is why the
+content of the screenshots hasn't changed that much (unless you got 
+screenshots of the multiplayer UIs, which you didn't, in which case 
+you would see massive changes, which you didn't..).  The multiplayer
+aspects were the least-complete part of the overall game pre-Xmas, so
+it was an important goal for us to "go alpha" on that stuff, getting
+all the UIs in there and functional.  We knew that implementing the 
+storyteller aspects of the multiplayer game would be time consuming,
+but probably didn't fully anticipate how complicated things can get.
+In the end there are probably something like 10 uniuqe interface panels
+to support the storyteller aspect, including special versions of the
+status bar display, setup screens, and the like.
+
+Our payoff for all this work was the ability to host our first public
+testing of the game, for which we borrowed the LucasArts terminology
+"pizza orgy" (not nearly as exciting as the name implies).  This is
+basically like a one-night beta test with other game developers and 
+friends from the local community to come in, play the game, and give
+anonymous feedback, while sucking down pizza and beer.  The feedback
+from this sort of test is very critical because its the first chance
+we get in a while to see someone sit down and try to figure this thing
+out without any coaching.  That feedback has already led to some really
+good interface/UI tuning, and we have a pile of gameplay suggestions,
+most of which will probably make it into the full game.
+
+The other big milestone was our first demonstration to the press of the
+storyteller aspects of the game.  Ray was the designated storyteller
+and our in-house Activision tester Sion was the "red-shirt NPC" for
+the evening.  We were working on various aspects of the storyteller
+system just hours before the demo, so I wasn't enjoying things too much,
+always expecting a massive crash to happen at any moment.  Ray was
+STing (DMing) a pre-packaged chronicle called "To Curse the Darkness"
+which will ship with the final game.  The interface was still a bit
+clunky, and Ray had to manually type a lot of the dialog that will
+be "triggerable" in the final version.  The chronicle starts in a
+tavern in the city of Temesvar.  The amazing thing, to me at least,
+was that the opening tavern scene, which sets the stage and gets the
+players started on the plot, ended up taking more than an hour to 
+complete.  And it wasn't because of bugs or problems, it was because
+the players were having so much fun just sitting around in the 
+travern interacting with the various NPCs (mostly played by the
+Storyteller, of course), that the story took on quite a bit more depth
+than we had anticipated.  Watching this, it became clear just how big
+a deal an experienced storyteller can be for an on-line RPG session.
+I can't remember ever spending an hour interacting with canned RPG
+NPCs without wanting to smash by monitor, but this first 'real' 
+Storyteller experience wasn't like that at all, Ray had to practically
+have a bouncer come over and toss them out of the travern to move them
+along.
+
+There were of course some problems, mostly UI stuff for the storyteller
+and a ton of enemy/weapon/stat balancing.  Its pretty easy for PCs to
+die currently, since only a first-pass tuning on stats and items has
+been completed.  And we did have a crash or two and forced some restarts,
+but besides those few problems, the test went really well and everyone
+on the team was pretty excited about it.  It seemed a bit risky to have
+a magazine guy here for what was essentially the first session ever
+played, but it all worked out in the end.
+
+One amusing feautre at the moment is the giant head.  When the storyteller
+wants to move around the world invisibly without posessing an NPC he/she
+can click on a button and use the "ghost" object, which is currently 
+modeled as this giant creepy head model.  The giant head floats around
+the levels (the players can't see this of course) and it has a weird idle
+animation where the head turns slowly from side to side.  Its very odd
+and disturbing looking for some reason, and I'm not sure why the story-
+teller is represented as a giant head, but whatever the reasons, that's
+what's in there at the moment.  We also had some odd moments where the
+storyteller could posess a door and start walking around the level as 
+a big wooden door and talking to people, but we got that one worked out.
+Come to think of it we had a bug in Jedi Knight during QA where one of
+the player became a door that ran around and shot lasers.. Guess its a 
+running theme with us...
+
+So now that the multiplayer milestone is done, I've been going back to
+doing some rendering and tuning work.  Got some new tools from Intel
+I've been playing with, fixing some soft-skinned problems with some of
+the 3D models, and adding some new functionality to the shader language
+to support stuff like water flows and cool effects.  Also continuing to
+tweak T&L support on the GeForce and tuning the texture caching under D3D.
+Hope to also enable cast shadows from static geometry into the world 
+lightmaps, which will help a lot to make work objects look more "in" the
+worlds they're placed in.
+
+My top games for 1999.  I always suck at these lists because I can never
+remember what came out in what year, so forgive me if I missed something
+obvious.
+
+EverQuest.  Even though it eventually drove me away with too much 
+repetition and slow progression, I have to admit it give me a lot of fun
+hours for my $45.
+
+Alpha Centauri.  Not a perfect game, but I keep coming back to it for 
+some reason, and playing most games through to completion.  The good 
+far outweighed the bad aspects for me.
+
+Q3Arena and Unreal Tournament.  Both pushed the graphical envelope and
+set the bar for the rest of us.  Just wish I was better at both.
+
+Freespace2.  I love a good space combat sim, and this was one of the best
+I've played.
+
+Baldur's Gate.  Was that this year or last year?  Can't remember, either
+way its on the list.  Didn't get Planescape yet.  Still time for a late
+Christmas gift, Feargus :)
+
+Railroad Tycoon 2.  Don't laugh, it was a damn fun game.
+
+Zelda64.  Actually come out in 98, I guess, but I wasn't able to play it
+until 1999, so I can still put it on my list.
+
+

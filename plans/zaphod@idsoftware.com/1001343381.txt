@@ -1,0 +1,15 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+
+Well, I've been getting a few hundred emails a day from people testing the OS X build of RTCW.  Thanks for ALL the feedback, unbelievably positive.  I've done my best to keep up with all of you in replying, but this morning, with 413 still unread, it's a wee bit daunting.  Thanks also for all the icons, wallpapers, and so forth.
+
+I'll be putting up a full public installer today.  We've moved the network protocol on internally, which makes making a compatible builds from here on in much harder, but a bunch of the bugs found by the OS X testers helped greatly in tracking down general bugs for all platforms.
+
+It's time for me to get back to DOOM stuff, I've been coding for it under OS X btw, using the builds of 10.1 that Apple has been dropping to me.  10.1 is an excellent OS.  I can't wait for MS Office under X native as well.
+
+Next up for my spare time I think I'm going to finish off this little side project..  it's a native Cocoa 7th Guest client that plays the game if you have the CDs.  I get a lot of requests for that, and Trilobyte is still around kicking, owned by me and owns all the rights, so perhaps one day something will happen there.
+

@@ -1,0 +1,6 @@
+Login: justin         			Name: Justin
+"|IFS=' '&&exec /usr/local/bin/procmail -f-||exit 75 #deadbeef"
+Plan:
+just reread this for the first time in a couple years
+
+http://www.caranddriver.com/xp/Caranddriver/features/1997/October/199710_feature_battl.xml

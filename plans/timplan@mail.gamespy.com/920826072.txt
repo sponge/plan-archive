@@ -1,0 +1,33 @@
+User:   timplan
+Unread: 23
+Plan:
+GameSpy - finished the redesign of the gamespy engine and I now need to
+merge it into the code base.  Not looking forward to that at all.  The merge
+will really break some stuff we just got working again but in the end,
+GameSpy will be better for it.
+
+GameSpy Java - I have written all of the pieces now I need to assemble it.
+The Java engine looks like the C++ engine.
+
+Linux - downloaded GNOME and Enlightenment and installed them. Sorry folks,
+they are not ready.  Windows just disappear and did not reappear until
+shutdown.  Of course, it could just be Enlightenment which is a 0.15 level
+product.
+
+MegaCon - my sister, her husband, and a friend came down Friday and we went
+to MegaCon which is a Sci-Fi, comic book collector type event on Friday and
+Saturday.  Saturday, J. Michael Straczynski of Babylon 5 was there (the
+reason I went). He discussed some B5 happenings and showed an episode of the
+Crusade series starting in June.  It looks to be pretty good.
+
+The bad news is on the way home the brake light came on in my Taurus.  It
+has enough brake fluid so I am not sure why it is on but that is something
+that will definitely get investigated.  The car has antilock brakes so it
+could be lots of things.  It is braking fine though.
+
+
+Timothy 'CMonster' Cook
+http://www.gamespy.com
+http://www.mindspring.com/~cookti
+
+

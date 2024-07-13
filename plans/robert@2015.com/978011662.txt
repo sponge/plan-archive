@@ -1,0 +1,21 @@
+
+*** Welcome to the 2015 Finger Server ***
+
+User name: robert
+Plan modified: Thu Dec 28 07:53:31 2000
+
+E-mail: robert@2015.com
+Handle: Robert
+Position: Programmer
+Project: Project X
+
+
+**************************************************************
+***  NOTE: Any views expressed here are personal    		***
+*** and do not reflect the official position of 2015 Inc.	***
+**************************************************************
+
+
+Finger file goes here.
+
+

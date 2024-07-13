@@ -1,0 +1,49 @@
+Let me sleep on it.
+
+
+Killing Floor:
+
+ ...is finally getting a playable female character! [1]
+
+ This ships tomorrow. Updated Mac builds are in place.
+
+ I /love/ this trend. Dungeons of Dredmor added the option to play as a
+ woman (and not one wearing a chainmail bikini, to boot) a few months ago.
+
+ Now Killing Floor is doing it too, adding a woman named "Ash Harding."
+
+ Hail to the queen, baby.
+
+Psychonauts:
+
+ Now shipping in Humble Indie Bundle #5!
+
+ This is a brand new native port. If you had the Mac version that's
+ on Steam, that's running under Transgaming's Cider tech. This is
+ a new Mac and Linux port, from scratch.
+
+Other stuff:
+
+ Humble Indie Bundle #5 shipped this morning, and at the 12 hour mark is
+ about to pass 1.5 million dollars, so apparently everyone agrees this is
+ a good batch of games.
+
+ My involvement with this one was porting Psychonauts, which brought
+ Shader Model 1 support (no, really!) to MojoShader, plus a bunch of
+ other fixes.
+
+ I've got tons of game work in progress right now: new stuff, patches to
+ older stuff, etc. It's sort of a hectic time around here right now.
+
+--ryan.
+
+
+
+     [1] http://www.killingfloorthegame.com/2012/04/19/killing-floor-gold-box-and-female-character/
+
+--------------------------------------------------------------------
+When this .plan was written: 2012-05-31 23:58:47
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.24 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

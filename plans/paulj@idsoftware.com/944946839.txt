@@ -1,0 +1,52 @@
+
+Name: Paul Jaquays
+Email: paulj@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+
+Skill Portfolio/Background:  See bio on id web page for details
+
+Current projects:   Q3Radiant Editor Documentation
+
+**********************************************************************
+DISCLAIMER:  THE FOLLOWING IS THE PERSONAL OPINION OF THE AUTHOR AND DOES
+NOT REPRESENT THE OFFICAL POSITION OF ID SOFTWARE, ITS OWNERS, EMPLOYEES,
+DISTRIBUTORS, OR LICENSEES, (OR ANYONE ELSE FOR THAT MATTER)
+**********************************************************************
+
+**********************************************************************
+December 11, 1999  2:55 PM CST
+**********************************************************************
+     Been a while since I did a plan update ... and even longer since I did one discussing Quake III Arena. Since the game is out now ... I can talk.  I recently posted a version of this on one of  Scary’s discussions boards and thought I’d make it available in a more general forum.  This is what happened to some of the "lost" things that have appeared in older screenshots, but not in the final game.
+
+Lost Models
+     There’s been some discussion on various boards as to whatever happened to the "designer" models that appeared in early screenshots. They were intended as tests for Steed and Carmack to work out the kinks in the MD3 models.  They were fun, but they weren’t final. Even with the eclectic mix of our final models, they would have been out of place.  And like the unused maps, the way they were constructed (including the use of multiple component piece skins) is not completely compatible with the final model versions.  
+
+Lost Particles
+     OK, now let’s talk about that weapon with the particle trail that the "xian" model is shooting in some old screen shots. I’m pretty certain that was an early version of the plasma gun.  It looks cool and I like the particles. We certainly could have done some awesome things with them as the shader functions matured, but as a game feature in Q3A, they were problematic at best. While testing Q3Test2 (now Q3dm17), we learned that a single rail shot added an instant hit of 3000+ triangle faces (all Q3 particles are made of polygon triangles) to the map. In bigger space maps that followed, it would have been far worse. So the feature changed.  We had similar problems with other functions using particles. And so, particles left the game.
+
+Many Hands
+     Touching on Tim Willits’ comments about many hands touching the maps. Generally speaking, one designer created the map ... usually after discussing feature ideas with the design group. He would work out the play concepts and establish a general architectural style. At some point during development, the map would be handed off to another designer to fix problems involving curves, tweak some play problems, and maybe punch up the appearance of some of the architecture. Then the artists would get involved, making special models and custom textures. They did for our maps what an interior decorator does for real world buildings -- taking fairly drab settings and making them into pieces of art.  And while everyone outside the company seems to want to pigeon-hole our artists into narrow task functions, I’d like to point out that ALL our artists worked on the arenas, not just Kevin Cloud and Adrian Carmack. I’d like to mention that several arenas owe their distinctive and totally awe-inspiring appearances to Kenneth Scott’s phenomenal "set design", model building and texture-making abilities (and everyone thinks he just does skins ... Hah!).  
+
+Lost Maps
+     Back on the topic of "lost" maps. Anyone who has ever made a map, professionally, semi-professionally, or just for fun, knows that map development goes through stages.  You build stuff. You make it look as "pretty" as a map guy can. You test it, debate it with your peers and then rebuild the parts that didn’t work. If it’s your job, you do this a lot. Along the way, you leave a pretty hefty debris trail.  Quite a number of the "lost" maps that show up in early screenshots are prototypes of the final maps (or at least things that ended up in the final maps).
+
+     By way of example, I can discuss Q3DM8: Brimstone Abbey. This map originally began as a sprawling, mostly flat map; a literal maze of corridors. Several early screenshots show parts of that "lost" map.  As the game matured, the design concept for that map was deemed inappropriate. That map was scrapped, but at least one feature was salvaged ... the cathedral room.  The next iteration was another big map combining the cathedral with the base portion of a CTF map that was under development.  It was scrapped, but now the cathedral had balconies and a lift up to the high ledges that connected to the power-up ledge. That level consisted of the central cathedral, some halls around the upper level (with stairs to the lower) and a large courtyard (where the drowing pool is now located).  The cathedral lift became a jump pad. Stairs were scrapped, the large courtyard became a pool (to show water at E3), the hall connecting the drowning pool with the cathedral was redesigned based on a suggestion from Jim Molinets of Rogue and the rocket launcher courtyard with it’s distinctive "pop-up toaster" jump pad was added.  But architecturally, it’s not far removed from that long lost original.
+
+     I took a look through the screenshots of the "lost" "organic" maps that everyone is mooning over.  They probably could be built with the current status of the engine (please note that the way we built curves changed at LEAST three times over the course of Quake 3 development).  But as you map makers will soon discover, curves are great, but their cost in polygons adds up fast. Add some fog and it only gets worse.  The IHV version of the mouth that appears in Q3DM1 had to be completely rebuilt to make it a playable area with a manageable polygon count.
+
+Pining for the Great Outdoors
+     Regarding large, outdoor maps that seem to be on everyone’s wish list.  I spent a lot of my development time trying to make naturalistic looking outdoor terrain work, including using both curve patches and the Q2 terrain-maker, Gensurf (which I really like).  During that period of development we had some issues with sloped surfaces, which made movement over the terrain something between unsatisfying and nearly impossible.  And, as it is with the space maps and large curve areas, when a lot of the map is in your view field all at once, those polies add up quickly.  None of these experiments developed into satisfying DM maps. So when the maps were sorted and culled into the final tiers, there were no outdoor maps selected for final development.  I haven’t abandoned the idea of large outdoor terrain maps and I am planning on more experimentation in that area.
+
+     Finally, we haven’t thrown out the old "lost" maps. If we do anything with them, it will be to go through them, pull out the workable ideas that didn’t fit the final production maps and include them in new maps.
+
+Paul Jaquays
+designer
+id Software, inc.
+
+And, by the way, a lot of the Q3A reviews I’ve been reading lately look a little rushed to me. I can’t help but wonder if they would been far better if they just had more paragraphs in them. ;-)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+If it's not here, it's vapor.  Check out somebody's archives if you want to read my previous bits of wisdom and flame.

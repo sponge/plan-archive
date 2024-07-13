@@ -1,0 +1,32 @@
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+28/2/00
+
+Well, Raven is in the grip of Release Candidate Tenision (tm). QA is pounding on the code pretty hard and we are fixing
+the bugs as soon as we get them. That's one nice thing about having a demo out there, QA tends to shake the code tree
+pretty hard for the demo release, leaving you with bugs at RC time that you've introduced since then. It narrows down
+where you need to look when you come to fix them. SOF is looking very solid, so fingers crossed we don't have to submit
+15 Release Candidates:)
+
+I've been seeing a lot of people talking about their lectures for GDC this year. As it happens I asked to do a talk there
+this year, but Miller Freemen were of the opinion that it wasn't required, apparently the roster was full. Oh well. So 
+much for that. I was going to do it on Humor in games, what to avoid, what works, what doesn't and so on. Not something I've
+ever seen covered in any depth so I thought I'd have a go. But you'll have to wait another year now. Maybe I'll just do it
+as an article on LoonyGames instead.
+*update* I just heard from Alan at GDC Central. He has graciously offered me access to the convention. Thanks Alan, that's a 
+nice gesture:)
+
+Actually, while I'm having a whine, I thought I'd mention that on JakeWorld I released my latest learning project. I'm having
+a stab at the intricacies of MFC, so I created a screen saver thingi. It allows you to randomly select screen savers in a list
+and have them fire off randomly rather than just the one that Windows allows you. You can even set them to change over time, so
+you can cycle them over 20 mins or whatever. Since I just did this as a learning experience, I decided to stick it up on the 
+web for free. There's even the source code there. Just go check out JakeWorld.
+I did actually send this out to some of the web news page guys and the guys at 3Dfiles, but I saw no mention of it so I thought
+I'd resort to some self pimpage:)
+
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/users/jakeworld">JAKEWORLD!</a>

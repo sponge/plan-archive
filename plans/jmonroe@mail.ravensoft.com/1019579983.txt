@@ -1,0 +1,33 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Jedi Knight2
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+I released the first GDK (Game Development Kit) for JK2 yesterday.
+
+Today I found a typo in the StarWarsMP.qe4, the entitypath is incorrect, it should be:
+"entitypath" "__QERPATHmp_entities.def"
+
+
+
+The GDK includes the following:
+JK2Radiant - the map editor.
+ShaderEd2 - the shader editor/viewer
+sof2map - the map compiler, you will not be using this directly, JK2Radiant uses this.
+MD3View - model viewer for .md3 format models
+ModView - model viewer for .glm (Ghoul2) format model
+carcass - the glm model compiler (uses car files) converts root.xsi to model.glm
+Assimilate - edits car files
+Max4ToolsXSIImporter.dli - a plugin for Max4 to load and save xsi files
+(note carcass requires no spaces in your path so you may have to move the files to build a model!)
+
+
+You can download it from:
+
+- <a href="http://www.fileplanet.com/index.asp?file=87277">FilePlanet</a>
+- <a href="http://www.shacknews.com/files/fileshack2.x?JK2EditingTools.zip">ShackNews</a>
+- <a href="http://www.3ddownloads.com/?file_id=159544">3DDownloads</a>
+- <a href="http://www.jediknightii.net">JediKnightii.net</a>

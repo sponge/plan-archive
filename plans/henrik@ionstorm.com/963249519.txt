@@ -1,0 +1,194 @@
+
+*** Ion Storm's Finger Server
+
+User name: henrik
+Plan modified: Mon Jul 10 12:12:49 2000
+
+
+12:14 PM 7/10/00
+
+A swift update on the silly, patriotic, Swedish side. 
+Klaus Lyngeled (of Shiny Entertainment) and I were 
+featured on the IT pages of Aftonbladet, one of Sweden's
+biggest daily newspapers, as "The Swedes behind the
+hottest games". Hehe. Swedes rule! ;-)
+
+Nuff of the "Ego Boost of the Day"...
+
+Anachronox is progressing and the environmental sound effects
+needs some swift whacks with the Debug Hammer (working on 
+that right now). Also, after having installed Windows 2000 
+on my dual machine at home, Anox has undergone some dual-CPU tests 
+and have come up on the winning side. It will run a few notches 
+faster on a dual machine, since a few of the external systems 
+(sounds, DirectMusic, and a few other things) run as separate 
+threads. The main renderer, though, is single-threaded so the 
+leap in FPSs won't scale linearly. Oh well. No surprise.
+
+All in all, life is good in AnoxVille. 
+
+    "My your railgun stand between you and harm in 
+     all the dark places you must go."
+
+
+/Switz
+
+
+--------------------------------------------------------------
+
+1:11 PM 5/17/00
+
+So, E3 is over. The Switz'n'Eva Production team went to E3
+to check things out. There were PLENTY of goodies to look
+at, but to keep intra-team relations at a reasonable level,
+Switz reports that he tried to restrict his oogling to 
+computer related products. Reportedly, he managed to keep 
+the drooling over fine Californian flesh to a minimum. (Yeah,
+right.) 
+
+MGS2 looked downright AWESOME! Oh my god, yes, I want to see
+more of that! I'm also happy that some people rated Anachronox 
+very very high..(Come ON?!? 9.3?!? :-) and it resulted in a
+spontaneous round of applause in our team meeting yesterday.
+
+Unfortionately, due to development complications, Switz'n'Eva's
+Project Tiny has been postsponed. The release date for Project 
+Tiny had to be readjusted. The Team still thinks that a 9 month 
+development cycle will be required, but forces beyond the 
+development team's control resulted in a premature cancellation
+of the project and the already existing code base can not be
+re-used when the development cycle is initiated the next time.
+
+Sounds weird, but apparently, that's how Mother Nature, everyone's
+ultimate Publisher, sets things up.
+
+The development team would like to thank everyone that sent us
+"Good Luck" wishes at the announcement of Project Tiny, and
+we are also sorry to have to make our fan base[1] wait even longer
+for the Projects release. We're both doing ok, so don't worry :-)
+
+Have a great summer, you all!!
+
+/Switz
+
+
+[1] = Mainly parents..;-)
+
+
+
+
+6:29 PM 4/13/00
+
+About 9 weeks ago, Switz'n'Eva Productions Inc, started 
+development on their latest project, Project Tiny. Tiny 
+will feature real-time light reflections, advanced sound 
+output and most likely a highly sophisticated DirectSmell 
+interface. Yours truly also have high hopes for the dynamic 
+and very strong AI functionality that the code base supports.
+
+A spokesperson for Project Tiny say that the estimated 
+development cycle will be 40 weeks, or 9 months and given 
+the current schedule, there is nothing that prevents a 
+timely release. 
+
+An early estimate says that Project Tiny will be going Gold 
+on November 22, 2000. Inspite of demands from the public, 
+there will be no playable demo out before that date. 
+Eventually a few screenshots might be presented to the 
+general public as development continues.
+
+So far, there is nothing in the design that prevents 
+Project Tiny from being a multiplayer game, but this 
+might be subject to change as more is publicly known 
+about the Project.
+
+Also, at this early stage, no base requirements are known. 
+The production team estimates that the game might require 
+a few patches after the initial release, and lets us know 
+that initially the game might require a lot of attention to 
+run smoothly. However, the production company has a firm
+belief that the final result will have a positive result 
+on the global community.
+
+
+:-) 
+
+/Switz
+
+
+-----------------------------------------------------------------------
+8:10 PM 4/5/00
+
+My head hurts. Yesterday, I found a VCR tape in my cube, starring 
+Richard Simmons, called "Dance your Pants Off - An Aerobic Concert". 
+It's featuring such aerobic hits as "Celebration", "She works Hard 
+For The Money", "Total Eclipse of the Heart" and "The Rose". 
+
+Ok, I grant you all that I'm not all that into aerobic workout, 
+but how in the blessed name of Bad Language can you do aerobic 
+workout to "The Rose"? 
+
+Come to think of it... I don't want to know. Do not tell me and 
+do NOT send any pictures or movies showing this off, ok? There's a 
+limit to what I can take. I have one tape showing it already, and 
+I do not intend to watch it.
+
+Someone, somewhere asked me who my favorite smurf is. That's 
+simple: GodSmurf, the Blue Belgian Bastard. Thanks, dude.
+
+To get this mildly on track: Anachronox is exciting. Really exciting. 
+I'm currently working on optimizing the way we load and start up our 
+in-engine cinematics. If we get them to start off just a tad smoother, 
+it might elevate the game experience a few more notches.
+
+The 3D sound system is now operational, with a few more niceness-tweaks
+left to implement, and hardware occlusion will be supported, inspite of
+Aureal's Chapter 11. 
+
+The programming team has hit a wonderfully effective pace and there's
+light at the end of the tunnel, so...
+
+Things will be good and life will be beautiful. 
+
+/Switz
+
+
+
+
+---------------------------------------------------------------------------
+9:04 PM 3/30/00
+
+Ahh... Finally!
+
+After 6..uhm..7.uhm..many months here at ION Storm, the time
+has finally come for me to hammer out my First Ever .plan file.
+
+I am a programmer. I work on Anachronox. I've boldly hacked new 
+holes in the original QuakeII code. I've put in a quite excellent 
+sound library by the name of Miles Sound System (Jeff Roberts 
+rule!), I've put in a flexible and cool game database and hooked 
+it up to the actual stats and inventories of the characters. I've 
+got our in-game music to work through Microsoft's DirectMusic 
+and...uhm...
+
+uhm... 
+
+...Hey, guys, help me out here.. I've done something more, haven't I?
+
+Oh, yeah, I just recently infected everyone in the Anox code-corner 
+with my fantastic cold, I've discovered Reese's (sp?) chocolate-covered 
+peanut butter treats for the first time, ( Yes, that's right. Last 
+Tuesday was the first time I tried one of those. See explanation below) 
+and I do my best to spread the Gospel according to Lemmy at the office. 
+No one around here seem to appreciate Motorhead (the band, not the racing 
+game), though, but my mission is NOT over!
+
+Also, I have to admit, I'm from Forreign. Forreign is a country that 
+lies outside of the Unites States, (and noone ever really heard about, 
+_anyway_, so why bother trying to remember the name of that silly country?) 
+and therefore I go by the name of Switz here. (They don't have Reese's 
+chocolates over there in Switz)
+
+That's all for tonight... Take care.
+
+

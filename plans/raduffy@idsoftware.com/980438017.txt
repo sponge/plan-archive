@@ -1,0 +1,22 @@
+
+Name: Robert A. Duffy
+Email: raduffy@idsoftware.com
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+
+Jan.25.01 9:51am
+----------------
+A few quick things.
+
+Point Release Status - We are getting close to finishing up fixing issues, from retail Team Arena and the 1.27g/h builds. No specifics yet but it should be in the not too distant future. This release will address all ( or most ) the bugs we have had reported and adds some new things as well. We have added a new "fs_basegame" so mod makers can base mods on other mods ( read that as use content from other mods ). There are more FPS speedups, some sound fixes, general ui fixes, better collision, etc. Lots of stuff and demos and protocols should all remain compatbile so 1.27g and above will all communicate just fine.
+
+Menu Content Release - To help facilitate and allow mod makers to utilize the new menu scripting in vanilla Quake III: Arena, we are going to release the .menu files and related shaders and textures used in the Quake III: Team Arena user interface. This will allow mods to use the new menu system without having to worry about the problems with re-releasing content from Quake III: Team Arena
+
+Q3GridIron ROCKS - We have been playing the heck out of this thing at the office. Hail Mary! 
+
+
+
+
+
+

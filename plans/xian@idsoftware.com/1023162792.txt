@@ -1,0 +1,68 @@
+
+Name: Christian Antkow
+Email: 
+Description: Designer
+Project: 
+-------------------------------------------------------------------------------
+June.3.2002 @ 10:13pm CST
+-------------------------
+
+ Caryn "Hellchick" Law over at Activision doesn't have a .plan file, so she
+asked if I'd mind posting this in my .plan here, so, uhh, yeah... here it goes.
+
+---
+
+Thanks to Xian, I'm now running a Wolf server that's dedicated to running maps
+(and mods, when they come out) from the community. The server name will show 
+up as [id] Hellchick's Community Server, and the IP is 192.246.40.42:27960.
+ 
+The server should be running a map rotation right now of five maps. You can 
+find out what's running at my quick and dirty info page: 
+<a href="http://www.hellchick.net/server/">http://www.hellchick.net/server/</a>.
+This page will have links and a list so you can grab what's running. 
+ 
+I'm planning on changing the map rotation every couple of weeks and I'd like 
+to run the community maps you guys all want to see. For now, you can email me 
+at hcserver@hellchick.net to tell me what maps you want to see running (and 
+let me know if there's any issues with the server variables -- they may need 
+changing). When I'm able to, I'll be moving all of the server information pages 
+over to the official site (castlewolfenstein.com) and putting up things like 
+polls so you can vote on what you want to play.
+ 
+Enjoy the server and let me know what you think!
+ 
+- Hellchick
+
+---
+
+ Just a reminder, to those of you who play on our servers, I'm running
+stats and forums at;
+
+<a href="http://underworld.idsoftware.com/wolf">http://underworld.idsoftware.com/wolf</a>
+
+ We have quite the little community built up around our servers ! I'll set up 
+a forum for Hellchicks servers as well. If you haven't played on any of our
+servers, by all means, stop by !
+
+ -Xian
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, leaky roof, broken glass, mud slides,
+forest fire, and/or projectile (which can include, but not be limited to, 
+arrows, bullets, shot, BB's, paintball, shrapnel, lasers, napalm, torpedoes, 
+or emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.)
+</font>
+---
+</tt>

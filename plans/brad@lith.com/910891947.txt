@@ -1,0 +1,76 @@
+
+*** Monolith Production's IonFingerD Server 1.0 beta
+
+User name: brad
+Plan modified: Tue Nov 03 21:06:00 1998
+
+7/13/98
+
+We're getting real close to the finish now and most of what's left is clean up.  I've been spending a lot of time on some of the physics.  Objects were tending to pass through each other, which was causing some big problems.  After spending way too much time thinking on it, I finally came up with a way to prevent the object tunneling without having to do too much extra processing.
+
+We're also putting in some solutions for low end systems.  For low memory, Bouwman's putting in some functionality to compress the size of cached sounds.  My initial tests show that there's hardly any quality change.
+
+Personal:
+Speaking of spending way too much time, I've been painting the inside of my house.  I can't wait for that project to be finished.  Of course there are plenty of other projects left on the list.  It is very satisfying, though, to be able to fix your own house up.  I'm getting into all the suburbanite mannerisms.  For instance, I'm very proud of my lawn.  I get excited when I get to replace the inner mechanisms of a toilet.  And I can't wait to get on that roof.  All I have to do now is build up a beer gut and fill up my garage with stuff I'll never use.
+
+
+
+5/28/98
+
+Oops.  I let my plan file lapse.  Here's what I've been doing:
+
+I've been focusing on getting Lithtech and Shogo faster.  There was a lot data being sent by the engine and the game, but much of it could be removed.  28.8 is a killer.  There were also some expensive functions getting called which left room for speeding up.  There's still more work to be done.  Mike put in object culling using the vis list which greatly reduced network traffic.  I put in a similar optimization for the sounds.
+
+Coming up:  I'll be looking into making the file access faster.  Plus testing out a massive multiplayer.
+
+Life:
+
+I took my folks up to Hurricane Ridge this weekend.  It's a place with spectacular views of mountains and glaciers from a 5500' mountain top.  Unfortunately, the cloud layer went from 5000' to 6000' that day.  It was a nice drive anyway.
+
+Along the way to Hurricane Ridge, we stopped in Bremerton to see the Battleship Missouri.  I was really looking forward to seeing it, but it was tucked between a bunch of other warships.  I was bummed, cuz the Missouri was leaving for Hawaii that same day.  By chance, several hours later, on the way back from Hurricane Ridge, the Missouri passed right in front of the ferry I was on.  It's a cool looking ship.
+
+
+4/20/98
+
+I just thought of a great new saying.  You know that plaque that hangs in your co-worker's office reading, "A clean desk is a sign of an idle mind".  I should get one that says, "An updated plan file is a sign a person with nothing to do" :)  That of course is a joke.  I'm just looking for an excuse for not updating my plan file in such a long time.  
+
+I'll just tell you what I've been doing.  Mike and I have been pounding out the engine.  Lately, I've been working on Load/Save game.  One thing I hope we can have is save games that don't get broken when you patch the game or the engine.  This would have to be done with some conversion utility.  Much of this conversion would be game specific, so the conversion utility would load the game dll and ask it to convert the data.  As a person that loves single player just as much as multiplayer, I have always wished for this feature.  Hopefully we can get it in. 
+
+
+
+9/17/97
+
+All right!  I finally made it to the bottom of the list.  Everyone has updated more often than me!  Kewl....
+
+So I have been busy...ok ok...lazy about updating, sorry.
+
+Lately, I have been upgrading the sound for DirectEngine.  Just to get by, we were playing any sound requested, regardless of what it did to frame rate.  So, my first order of business was to put in a sound scheduler.
+
+The scheduler has a limited number of voice slots that can play sounds.  It determines which sounds to put into a voice slot based on the sounds voice type and priority.  The voice types are categories of sounds that are independent of each other, such as player sounds, enemy sounds, ambient sounds, etc.  Some voice slots will only play certain voice types, which will insure that at least one sound of that type gets played.  The other voice slots are given out on a first-come-first-serve basis.  This should be able to adjust itself to improve frame rate on the fly.  With Mike's work on moving from Dscript to C++ DLL's and this sound scheduler, Riot's frame rate may just get too high! :)
+
+The sounds will be played through a plug-in DLL.  This lets us have different types of 3D sound.  Based on your frame rate, you can select the quality of the 3D sound, from simple panning to full 3D sound.
+
+
+
+8/5/97
+
+I have to share my last hiking trip with everyone.  Seattle has this big dormant volcano nestled right next to it and when the skies are clear, you get to stare at its beauty.  My wife and I decided to get closer, so we got in the truck and started driving.  This was around 1pm, and we hadn't had lunch yet.  If you know me, you know that I need to be fed or else everyone loses.  We decided to eat somewhere in Enumclaw, which was the last town before Mt. Rainier.  Enumclaw is a cute town out of the past.  Of course, when you're hungry, you want convenience, not cute.  Lucky for us, Enumclaw has this great little Italian sandwich shop right on 164.  I don't remember what it was called, but I doubt there are too many.  After filling up, we set off for the big mountain, which was another 30-45 minutes away.  The drive was fantastic, with sheer cliffs on one side of the road and little gushing springs on the other.  We parked at Tipsoo lake and walked around there a little.  There is a great picture spot from the road:  you get the lake and the mountain together.  We didn't know the trails, so we just guessed which trial head to take.  We took the one that starts near the log bridge the goes over the road.  This trail head appears to take you away from the mountain, and hence the fantastic pictures, but it is well worth the gamble, as you will soon find out.  The trail, called Pacific Crest trail, is under the shadows of a mountain that is blocking your view of Rainier.  Even though it was 80° out, there were large patches of snow everywhere.  We didn't know we would be walking through snow, so we didn't bring anything to slide on.  To compromise, we just sat down and slid on our butts.  Great fun, but the ice wedgies can sting.  We past a couple small ponds, too, which also made great pictures.  At the top of the climb the trail splits:  one way goes to Dewey Lake, the other way, we weren't sure.  Dewey Lake is pretty big, but it was getting late, so we took the trail that we hoped would lead us back.  Soon after the trail split, we were given the best photo op yet.  We came around the crest that was blocking our view and were presented with big green meadows in the foreground and Mt. Rainier in the background.  The reason the risk of taking that trail head paid off was because the rest of the way back, we had Mt. Rainier in front of us.  We made it back to the truck, put our muddy boots in the back and drove home.  Great trip.
+
+
+8/1/97
+
+I'm still working on improvements to DirectEditor.  It has really come a long way.  When the level designers aren't wrestling each other, they're playing with DirectEditor.  I love to insert some neat little feature and just put it on the net without telling anyone.  I stand back in the shadows as they uncover my little present.  The next thing for me to tackle is improving the resource management.
+
+As far as DirectEngine, Mike and I have to make sure the physics is all things to all people.  Some games will require non-realistic physics, like lack of linear momentum, or wacky gravity.
+
+
+
+7/25/97
+
+I just moved up to Seattle 6 months ago.  To sum up my experiences so far:  the people are great, the scenery is beautiful, the rain is...er...wet, and DirectEngine ROCKS!
+
+Having several games being developed using DirectEngine in-house really helps us keep it a great game engine rather than just a spin-off engine.  Riot, the first game developed with DirectEngine, is really looking sweet.  I can't wait until it's done and the multi-player rioting begins.
+
+
+
+

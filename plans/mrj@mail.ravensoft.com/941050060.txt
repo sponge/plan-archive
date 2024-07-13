@@ -1,0 +1,497 @@
+
+Name: Michael Raymond-Judy
+Email: mrj@mail.ravensoft.com
+Description: Designer
+Project: Heretic II
+-------------------------------------------------------------------------------
+10-27-99 addendum
+
+Jeremy says he has a brush nicer than the one Oz made. Must look into this,
+I have a place in my level that needs a new brush...
+
+
+MRJ
+
+--------------------------------------------------------------------------
+
+10-27-99
+
+Hmm, Oz haz accuzed me of ztealing hiz bruzhez for my map. Thiz iz not true!
+I merely liberated them from the opprezzive regime of hiz mapz to the free
+and open zociety of my own mapz. Which iz to zay that I took hiz bruzhez,
+ripped out the wallz and floorz and ceilingz, and made them pretty. In my
+map.
+
+
+One totally un-game-related note: Dumarest? Dray Prescot? Anyone? Anyone?
+Bueller?
+
+
+
+MRJ
+
+--------------------------------------------------------------------------
+
+10-21-99
+
+Tim, Tim, where are you? The Left Lane League is sorely in need of a
+few 9mm clips loaded with hollow point. Damn those hesitant drivers!
+
+
+MRJ
+
+--------------------------------------------------------------------------
+
+10-14-99
+
+Wow, sorry it has been so long since the last update, but things have
+been kinda busy. We're starting to really define the look and feel for
+the last area of STV:EF, and hopefully the levels should start coming 
+together in the next week or so. Also I have been spending a lot of
+time following the new message boards for STV:EF, SOF and our classic
+games, there has been a lot of really good response from people out
+there and I want you all to feel like we are actually paying attention.
+Just realize that some of your more crazy ideas will be treated as
+such ;)
+
+On the home front I am recovering nicely from the latest Favre-induced
+coronary, I hope to be off the pacemaker before the next game. This is
+really getting kinda stressful -- but at least we're still winning! The
+gods of football even took pity on poor Bob and Bobby (part of the morning
+team here at Radio Raven) and let the Bears and Dolphins win. The
+suicide watch has been temporarily suspended.
+
+See you on the boards...
+
+
+MRJ
+
+--------------------------------------------------------------------------
+
+9-27-99
+
+Well I have discovered the 3 primary factors that contribute to heart
+attacks in so many young Wisconsin men. 
+
+1) Excessive consumption of alcohol. Not only is Wisconsin the #1 per
+capita consumer of brandy, but the average college-aged (which here means
+under 40) male has a blood alcohol level of 0.15 BEFORE they start drinking.
+
+2) Cheese. My guess is that if you cut open one of our standard citizens,
+great globs of cheddar would come oozing out of their veins instead of 
+blood. Maybe we should make that a console variable for SOF: "turn on
+cheese gibs".
+
+3) The cumulative effect of watching the Packers (or more specifically Brett
+Favre) wait until the last 2 minutes of EVERY game before actually deciding 
+maybe they should do something significant, and then moving at an AMAZING
+pace down the field to a) make the final game-winning score in the last 
+6 seconds, or b) MISS the game-winning score in the last 6 seconds. Eventually
+the alternating win-loss stress creates a harmonic vibration that ruptures
+all the vessels in your head, causing great gobbets of cheese to ooze from
+your eyes, and brandy to snort from your nose.
+
+That's why I moved here.
+
+
+
+Oh, for those who care about work stuff, we're almost done with the latest
+Voyager area, we have only a little more to go before the endless cycle
+of script, tweak, rebuild sets in. I'm looking forward to that, too.
+
+
+MRJ
+
+--------------------------------------------------------------------------
+
+9-20-99
+
+Well as promised I checked out the suggestions sent to me in response to
+my rants about pop-ups and other annoying internet crap. Some of the 
+emails were sympathy only, some were suggestions of how to "fix" IE5,
+and some were links to programs that (supposedly) fixed one or more of the
+problems I was encountering. So, in order of how helpful these were to
+me:
+
+Sympathy - maybe this should not be at the bottom, it did make me feel
+like I was not the only one out there with major complaints and no idea
+how to fix them. Then again, it didn't get me any closer to my goal.
+But thanks anyway, it did lighten my mood a bit.
+
+IE5 "fixes": these ranged from "disabling JAVA" to some more arcane and
+esoteric juggling of security settings or the like. While some of these
+might have worked, the main reason I was bitching on my finger file rather
+than fixing it myself was that I am not a programmer, have no interest
+in getting into the guts of programs any more than necessary, even to
+the extent of going in to deep options and clicking a few buttons. I'm
+a designer, which means that program-wise I want the easiest (for me)
+solution available, so long as it makes what I am doing look pretty and
+do what I want. Besides. Some of the sites I do visit (like Yahoo!Bridge)
+just don't run without JAVA. So, again thanks for the ideas, I'm sure
+they would work for more enterprising people than me.
+
+Programs: Ok first a short list of programs that were suggested to me that
+I just didn't try. The main reason I didn't try them is that they either cost
+money (I'm cheap as well as lazy) or didn't seem to cover enough of what
+I wanted. And there was one that might have been good but the link was 
+expired. At least it wasn't a pop-up ;)
+
+<a href = "http://www.intercantech.com/">AdsOff! And PopOff!</a>
+These might have worked fine, but only PopOff was free, you have to pay for 
+AdsOff and we already know what a cheap bastard I am.
+
+<a href = "http://software.xfx.net/utilities/popupkiller/">PopUp Killer</a>
+At first this seemed very promising, it has a list of banned PopUp sites
+you can download to update your list, and you can send your list to their 
+site as well. But for some reason I could not get it to work. I even went
+to GeoCities (one of their banned PopUp sites) and still got PopUps. Maybe
+I did something wrong. Oh well.
+
+<a href = "http://www.intermute.com/">InterMute</a>
+Looks very nice, but it only has a 14-day trial and then you have to pay, and
+(all together again!) I am a cheap bastard.
+
+<a href = "http://www.atguard.com/">@Guard</a>
+Another possibly good program I am too cheap to buy.
+
+<a href = "http://www.netcaptor.com/">NetCaptor</a>
+Actually a very nice IE5 overlay, it separates windows into little tab groups
+so you can browse them faster and easier. It is free (little ads in the corner
+instead of the MS logo but that's no big deal, and you can get the "Pro" 
+version without ads for $15 if they really bug you), and does have a "no pop-up"
+feature, but you have to manually enter the sites that pop-ups come from, 
+which we all know (all together now!) I am too lazy to do. Also, an odd
+little annoyance is that there is no History button and I could not find
+an easy way to access History from the menu. Hmm.
+
+And now the winner, the program that meets all my stringent requirements (well,
+almost!). It is called <a href = "http://members.tripod.com/Proxomitron/">Proximitron</a>
+Proximitron is a very versatile program that can kill or limit banner ads,
+pop-ups, redirects and all sorts of nasty JAVA crap. It does take more
+customization than I would absolutely prefer (i.e. none), but the default
+settings would probably work for most people. You can even turn it on and off
+dynamically so I can load my Yahoo!Bridge game (cheer!). The only other
+oddity is that it is something called (I do not make this up) ShonenWare,
+and users are encouraged to go out and buy music from a group called
+Shonen Knife http://home.earthlink.net/~gwiz/ShonenLA.html to keep them
+making music which will keep the maker of Proximitron happy so he keeps
+making improvements to the program. Weird, but I will probably try the music
+anyway since this seems such a weird and cool way to do things.
+
+
+OK, hope this works for more of you people out there, hope I didn't piss
+anyone off (except the pushers of popups, redirects and banner ads, who can
+rot in hell for all I care), and until next time, just remember that
+
+Ph'nglui mglw'nafh Cthulhu R'lyeh wagn'nagl fhtagn!
+
+ 
+MRJ
+
+--------------------------------------------------------------------------
+
+9-17-99 Part II !!!
+
+Wow! Just go to lunch and see what my latest finger rant generated while I 
+was gone! My gentle little comments about frustrations with internet crap
+netted me not one or even two but SEVERAL suggestions (along with expressions
+of similar frustration at how messy the web has become). I am going to check
+them all out and will post my findings next week. Thanks to everyone who
+responded!
+
+MRJ
+
+--------------------------------------------------------------------------
+
+9-17-99
+
+Guess it's been a while since the last update...
+
+Work stuff first: been slaving away at the latest mission, it's totally cool
+stuff but totally different from the last mission (heavier look, less curves
+but more open space) so it's been a struggle to switch mental gears. It's
+really starting to pull together though. And it helps that we (the designers)
+all steal pieces from each other, are actually encouraged to do so for 
+"consistency" sake. Tom loved my crew quarter hallways, especially how he
+had to fix them since just two short segments somehow bloated his map to over
+8 megs ;)
+
+
+Non-work stuff now: edited Bob Love's book "The Land of Confusion" (the one
+he started online in his finger file), it was funny, but of course full of 
+typos. No wonder our code is so bug-filled if the programmers all type like
+that... ;)
+
+
+Now a short rant: I remember when I first got Win95, how annoyed I was that 
+the defaults for file/folder viewing were to hide all the things I want to see
+(system files etc.) , show files without extensions or info and with damn huge 
+icons, and open new windows every time I opened a folder. Sure I could 
+customize it to look the way I want, but that's a pain. Now I am on to 
+IE Explorer, or more accurately the fact that with every website out there
+now put up through some damn commercial site, every time I open a site or 
+click a link I get tehse stupid pop-up windows. Game sites are no better, 
+I signed up for some online contest and TEN little windows popped up in a
+pretty pattern, freezing my screen, crashing my programs and locking the modem
+because they all wanted to open at once. Then you have the ones with 
+"hidden" URLs that redirect you every time you try to back up (what the
+hell good is a back button if you can't back up past these things) or worse
+when you close a window a new one loads to (usually) some online casino or 
+porn site! IF I want porn I'll go get it myself, don't send me there when 
+I'm trying to look for game demos or freeware apps!!!! And then there are 
+(can you tell this has been stewing for a while?) those framed sites that 
+load up links INSIDE their frame, instead of letting me go there direct. And
+the links that instead of loading in the same window, open a new window, so 
+you can't back out from them either, you have to clsoe the new window (if you 
+notice it) and go to the old one, hoping you did not close THAT one by
+mistake. Sooooooooooo, what can we do about this? IE5 does not (as far as I
+know) allow you to disable ANY of these annoying "functions". What I would 
+love to see (email me if you know of one!) is some kind of IE5 overlay or
+plugin that would basically intercept/interpret these "functions" as they 
+are sent to the browser window, and deal with them appropriately (refusing 
+or ignoring pop-ups, keeping everything full-screen in the same window,
+bypassing "hidden" URLs). I'm sure this would piss off the advertisers and
+hucksters who make their money by how many hits they generate or how many 
+times people get lost on their sites, but all I can say to that is "Wahh!"
+
+And for all you advertisers or supporters who want to email me explaining 
+how un-annoying and beneficial these practises are, I say "go ahead". At least
+Office has a Junk Email filter that I can add your address to...
+
+
+
+MRJ
+
+--------------------------------------------------------------------------
+
+8-31-99
+
+Just in time for the end of the month, a couple of the guys from our office
+showed up at one of the local TV stations for a live interview. It's 
+wonderful what live (read: you-can't-take-it-back) TV does for such media-
+savvy guys as our typical programmers. Heh.
+
+Still, they did get a few good plugs for our current line-up. So, without
+further ado, I offer special thanks to:
+
+Jake "Porn Pipe" Simpson
+Rick "That's Gore Zone not Gorgon" Johnson
+Rob "Cut My Head Off Above My Beard" Gee
+and "The Silent Artist Not Even Dignified By Having His Head Cut Off".
+
+One last note, as far as I know there is no band named either Simpson & 
+Johnson or Rick & Jake. Yet.
+
+MRJ
+
+--------------------------------------------------------------------------
+
+8-26-99
+
+Trying to balance finishing up one level and starting another at the same
+time is really fun. Really. I like it. A lot.
+
+Did have some spare time while waiting for another full BSP to answer some
+questions about Heretic and Hexen for an <a href = "http://www.ngnetwork.com/interviews/raymond-judy260899/">interview</a> at <a href = "http://www.ngnetwork.com">ngNetwork</a>.
+
+Glad to see there is still some interest out there in our older stuff.
+
+
+MRJ
+
+--------------------------------------------------------------------------
+
+8-23-99
+
+There's nothing like taking a week off to visit family (in-laws actually)
+and returning to find yourself a week behind everyone else...
+
+Aside from the 85 emails I received (2 of which were relevant to work) I
+found that several major changes had been made and I had to re-BSP
+ALL my maps. Sigh. Also heard the unpleasant news that the trap I had
+set for the company picnic (schedule it the week I'm gone, will they?!)
+was circumvented by the local constabulatory and the amazingly persistent
+efforts of our own Raven staff. If it had been anyone else than Kim trapped
+inside, they would have left him to rot! But then, Kim is kinda cute (although
+not, as has been said about Bob Love, a "very attractive man"). Besides,
+if we left Kim there we'd have no one to introduce at the bi-weekly staff
+meetings...
+
+It almost makes me wish I had stayed in Idaho.
+
+
+
+
+Almost.
+
+
+MRJ
+
+--------------------------------------------------------------------------
+
+8-9-99
+
+Finally made it to GenCon this Sunday, it has changed (and gotten a lot
+bigger) since the long-ago days when last I went. More booths, more games,
+more weird costumes... I think the reason some of the people wear them to 
+GenCon is that it's probably one of the few public places they can do so
+without getting arrested. I'm not sure, but I think I may have offended
+one of the women there when I started laughing when I frist saw her.
+
+Both Star Trek: Voyager and S.O.F. got lots of attention and almost 
+completely good reviews by those who said things I could overhear. A few
+people picked on little details but the overall reaction seemed to be 
+amazed approval. More than a few people said "Finally, a Star Trek game
+that is fun!". Their words, not mine.
+
+Was also pleased to note the other Activision showings were getting 
+good reception too, I think it really helped having several Trek titles
+all together. Anyone with any interest in Trek at all could find something
+that appealed to them.
+
+We, back to finishing up my Stasis mission level, got to get it done by
+Friday...
+
+MRJ
+
+--------------------------------------------------------------------------
+
+8-5-99
+
+Hmmm, yet another long gap since my last update. I have been suffering
+I think from PMS (Patch Mesh Syndrome), which has made me cranky and
+uncommunicative. While I must say the new areas are super cool, and we
+have defintely pushed the Q3 limits on curves as far as any rational
+(or perhaps irrational) person should, it has also been a nightmare trying
+to line up all the weird angles. Finally got through my thick skull what
+seems to be the curve wall equivalent of "grid of 8". All patch meshes and
+curves which touch and you want to have textures line up on must have the
+same grid size (3x3 is best for most things). It only took having to scrap 
+a whole huge aera to figure this out.
+
+GenCon is this weekend, I won't get there until Sunday, but that's better
+than usual since I have missed the last 3 years running. At least by then I 
+can be sure that the demo machines are all set up and running :)
+
+Back to the salt mines for me...
+
+
+MRJ
+
+--------------------------------------------------------------------------
+
+7-15-99
+
+Well finally got the last part of my Scavenger area put together, it's
+full-vising now so I have a few minutes (OK about 2 hours) to catch
+up on stuff like this thing. Aside from the hassles of building things
+in segments for multiple elevations and then trying to line them up 
+vertically, things went pretty well for this level. Also had to remember 
+that any time I mirrored or flipped a curved surface I had to also re-
+flip the matrices. There's nothing like going into a room and seeing
+through the back of all the control consoles and walls...
+
+Can't wait to get started on the next area, what we have planned is really
+cool, lots of curves and animated textures. I'm still in planning stages
+and waiting for prototypes and "style" examples to be approved, but what
+we have so far is awesome.
+
+Well, back to the machine for now, I can at least get some writing done.
+
+
+MRJ
+
+--------------------------------------------------------------------------
+
+7-3-99
+
+Had to update this even if I'm at home for the weekend. My daughter (she's
+6) was reading about the battle of Agincourt, and was asking about some
+of the pictures. SHe was also trying to explain about the benefits of
+short versus long arrows, when suddenly she stopped and asked "which ones
+are the bad guys". I tried to explain to her that one side was English and
+the other French, therefor they were BOTH bad guys -- OK, actually I tried
+explaining that both sides thought of themselves as good and the other
+guys as bad, but the truth was more complex and not so easy to sort out.
+I guess this was hard for her, since 6-year-olds like their fights more
+"Disney-fied" with sinister villains and handsome heros and beautiful maids
+to be rescued. So I explained that they were not fighting between Good and
+Evil, but that they were fighting over a piece of land that both sides 
+thought belonged to them. Her response? "Fighting over a piece of land?
+That's STUPID Daddy!"
+
+Out of the mouths of babes...
+
+MRJ
+
+--------------------------------------------------------------------------
+
+6-28-99
+
+Well updating from home this time, hope this works.
+
+I have been working for the last weeks on one of the Trek scavenger levels, 
+wish I could tell you more but I think it will be a (hopefully pleasant)
+surprise. I had hoped that a simpler structural requirement would mean 
+easier building, but as always I have filled in all available space so that
+quantity overwhelms the engine anyway. When I can tell you more this will
+make sense (or not -- as I said this is from home and the Knockando is 
+starting to take hold).
+
+I took a week of "vacation" last week, not sure it was very restful. Spent
+a couple days cleaning and such, watching the Tribble (the new Trekker slang
+for my daughter) while the spousal unit did gardening, and generally 
+wathced a whole week of vacation slide by. Why am I so tired then?
+
+Will check with Starfleet about what more I can say about the scavenger
+stuff I am working on, otherwise just want to lament that so far I have
+failed to implement my trademark "pick up the goodie and get crushed or
+swarmed by monsters" trap scenario. I have so far managed this in every game
+since Shadowcaster (look it up if you haven't played it) and despite the
+"No Kill I" philosophy of Trek am looking for ways to insinuate it into 
+this game :)  There are a few acolytes (Tom OD seems to have picked up the
+habit) who might be able to implement it vicariously, but it's just not the
+same. Kind of like phone sex...
+
+More to follow.
+
+MRJ
+
+--------------------------------------------------------------------------
+6-1-99
+
+Well, I guess it's official. Today a representative of the Computer Games
+Paleontological Society sent me notice that from this date forward I will
+be viewed as a "relic". Yes, it was an amazing SIX YEARS AGO today that
+I started working at Raven Software. As indication of the vast temporal
+span which has passed since I began working here, consider the following:
+
+When I first started working at Raven...
+
+ 1. We were just UPGRADING to 386's. I was really pleased that I got a 14"
+    monitor instead of one of the old 13" ones.
+ 2. Wolfenstein was still a new game.
+ 3. Doom? Wasn't that the name of the sorcerer guy in that Conan movie?
+ 4. Microsoft shares were less than $10
+ 5. I still had visible hair on the top of my head. Ok on most of it. Well,
+    at least part of the top of my head was covered by a few hairs combed
+    in a big wave.
+ 6. Raven was still owned by Brian and Steve Raffel, although our souls
+    were held in lien by EA/Origin.
+ 7. My daughter was just 2 weeks old. Good thing I was already used to 
+    operating on long hours and no sleep.
+ 8. There were just 8 people at Raven (counting the 3 of us who started on
+    the same day).
+ 9. We did not have internet access at work. Our LAN was pretty shaky, too.
+10. RPGs were still hot, shooters were just emerging as a force, side-
+    scrolling puzzle-jumpers like Prince of Persia were the rage.
+
+Well, now that I am thoroughly depressed, it's time to go home and have a
+nice bottle -- uh, I mean GLASS, yeah, glass -- of scotch. BTW, the average
+price of the scotch I drank then: about $8 a bottle. Now? $50. How times
+do change things :)
+
+
+MRJ
+
+--------------------------------------------------------------------------

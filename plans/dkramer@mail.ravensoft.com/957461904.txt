@@ -1,0 +1,13 @@
+
+Name: Dan Kramer
+Email: dkramer@mail.ravensoft.com
+Description: Programmer
+Project: SoF
+-------------------------------------------------------------------------------
+12:34 pm, 5/4/00
+
+Two things:  
+
+1.  Happy Anniversary, Mom and Dad.  26 years is no small achievement.
+
+2.  I hope there is a special circle of hell for people who use undocumented parallel enums in different parts of code.  If there isn't, I'll pull some strings to make sure there IS one soon

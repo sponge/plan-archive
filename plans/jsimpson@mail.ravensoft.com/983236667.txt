@@ -1,0 +1,38 @@
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+02/26/01
+
+Since I have a couple of moments while waiting for someone to finish something, I thought I'd dump out a .plan update.
+I just read Warren Spectors Post Mortem of Deus Ex. What an interesting read. Deus Ex was/is a great game, but it's always
+interesting to see what happened while it was being made. And not only that, but it's nice to read something by someone 
+who evidently has more experience in the game development industry than most, but makes a point of stating "I don't have all
+the answers". Such honesty about what went on during development, and the personal and professional mistakes that were and 
+might have been made is very refreshing. 
+Congrats to the entire Deus Ex team for a job well done, and definitely congrats to Warren for an interesting article.
+
+On other subjects, I was going to make mention of our PSX2 project. While I still can't mention what it is, I can mention
+that I'm finally able to return to it after developing some new technology for our other PC based projects. It's nice to
+finally be developing tech that will be re-used in more than one project. We can finally start getting into game stuff on
+our PSX2 project which is nice, after spending so much time building basic systems. Programmers will know what I mean when
+I say it's a nice feeling when a system you've been building in an almost vacum starts getting used in a game environment, 
+and you start seeing people do things with it you didn't think of at the time.
+
+I wish I could say more, but things have to remain in the shadows for a little while longer. Believe me when I tell you that
+we here at Raven haven't been sitting on our hands, even though the lack of info coming from us makes it sound like it.
+
+And on the new Id engine demo - very very impressive guys. Now I wonder what will come from Tim and the guys at Epic. If anyone
+can approach and match what Id is doing, it will be Tim and his co-horts. The near future is going to be very interesting.:)
+
+One last thing. Why is no one doing a Doctor Who game? Why is there no Doctor Who TC or Mod for Quake or UT?? I WANT TO SHOOT
+DALEKS! Come on people... wake up! :)
+
+And one last last thing. Why is almost EVERY GAMING WEBSITE all running that damn annoying Shock the Monkey ad banner? Message for
+who ever runs the ad server - this is an annoying and dumb internet ad. It was annoying when it first came out, and it's even more
+annoying now. This has run it's course. You've done your duty to Satan and sufficiently irritated enough souls now. Can we just 
+get onto the next stage please?
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/users/jakeworld">JAKEWORLD!</a>

@@ -1,0 +1,64 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+
+10/13/99
+
+Damn, October already.. Haven't updated for like 2 months it seems.
+
+First the pimpage -- we're going to do our first team IRC chat tomorrow at
+noon pacific, 3 eastern.  Kind of a weird time, but they wanted to pick a
+time when people from Europe could attend, since we're not planning to do
+very many of these.  A pretty good % of the team should be there, so even
+if no one shows up, we can always talk to each other, I suppose.
+
+Ok, pimpage over, now for a tech update.  Been playing around with a re-
+write of our mesh/character rendering system for Direct3D optimizations. 
+Our Glide prototype was working well, but moving it over to other APIs 
+uncovered a few areas where it could be better.  The biggest thing I wanted
+to do while moving it over was to make the necessary adjustments for hardware
+accelerated transform and lighting.
+
+The big hurdle for us was that our soft-skin blending system from Maya 
+currently allows for as many as 6 bones affecting a single triangle (2 bones
+per vertex * 3 vertices per triangle = 6).  As it turned out, it very rarely
+went above 4, but that's still more than the current hardware supports 
+on a per-triangle basis.  So unfortunately on the skinned models we had to
+drop back a bit and do the mesh->world transformation in software like before,
+but use the hardware to do the world->view transform, clip, and lighting.
+
+I was a little worried that we'd lose most of the speedups by doing this,
+since obviously if you can put the vertices into a static buffer and never
+touch them, that's how you can hit those massive peak triangle rates.  But I
+was happy to discover there is still quite a bit of gain to be had even with
+this half-way implementation.  In a small model render test rig, our software
+renderer pumps out the test model (about 1700 faces, LOD disabled) at about
+140fps.  That's with 4 point light sources and all accurate math, no cheating
+on lighting or anything.  After implementing the new half-software/half-
+hardware path, the framerate shot up to 280fps, so we got a 2X speedup 
+by partially using the hardware geometry engine.  Both benchmarks were 
+done on the exact same machine/card, just using different rendering methods.
+The lighting looked nearly identical to our software lighting, perhaps 
+even a bit better.  This is pretty encouraging.  When I learned that the
+current hardware wouldn't support our native 6-matrix blending, I was afraid
+we wouldn't get any speedup, but obviously this isn't the case.  And
+of course lots of our models aren't skinned at all, and those should get
+even more speedup (doors, crates, decorations, etc.).  
+
+In other areas, Yves has taken over a lot of the AI work that was on my
+plate, and already has some neat stuff running that I always intended to
+get around to but never did.  Stuff like the ability to 'mesmerize' enemies
+in the game and make them do your bidding, summoning 'pets' to aid your party,
+and so on.  Of course a skeleton holding a sword wasn't the sort of pet I 
+grew up with, but he's from Belgium, so what can you do.. You can grill him
+on that in either English or French at the irc chat.
+
+Oh yeah -- last bit of pimpage -- be sure to check out the newly announced
+hard-core technical GDC seminars (hardcore.gdconf.com).  Carmack, Perlin,
+Hecker, Wu, what more can you ask for.  And the day after that is the Marin/SF
+GDC road show where a couple of Nihilistic folk will be speaking.
+
+

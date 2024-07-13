@@ -1,0 +1,44 @@
+
+Name: Tim Willits
+Email: twillits@idsoftware.com
+Description: Designer
+Project: Quake Arena
+-------------------------------------------------------------------------------
+Quake 3 Arena jersey update.
+
+Action Imprints is all caught up on their first batch of orders.
+They tell me the response has been great. 
+
+If you have seen the March issue of Next Generation then you
+probably noticed John Carmack wearing the very cool Quake 3 Arena jersey
+in some of the pictures. The jerseys where initially created for the
+folks at id. However, due to the enormous request for these jerseys,
+Action Imprints, the company that created the jerseys for us, will make
+them available for purchase to the general public. Further information can be found at:
+
+---
+
+http://www.minnesotaproshop.com/actionimprints/quakiiiarjer1.html 
+
+
+Don't forget to get your jersey before Quake Con 1999!!!
+
+=========================================================================================
+
+New Quake 1 map
+
+Q1edge Conversion
+
+I had an old Quake 1 map lying around so I thought I would release it.
+
+This map was originally built for the Quake 1 arcade game, a conversion
+of "The Edge" for Quake2. I added some teleporters to it in hopes of speeding up
+gameplay and help prevent camping. 
+
+For those of you who like to play Quake 1 I hope you enjoy this.
+
+Thanks, Tim
+
+ftp://ftp.idsoftware.com/idstuff/quakeworld/maps/q1edge.zip
+
+

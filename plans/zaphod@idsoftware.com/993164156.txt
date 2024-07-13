@@ -1,0 +1,15 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+A Mac Classic build of 1.29f is in the process of being posted to the id ftp site.
+
+I have not had time to make an installer, or extensively test this build.  SO IT MIGHT NOT WORK.  However, because of user demand I am making it available asap.  If you want to download the .sit file and give it a go, it'll be there shortly.
+
+The filename is quake3-MacClassic-1.29f-BETA.sit
+
+Graeme.
+
+

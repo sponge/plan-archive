@@ -1,0 +1,153 @@
+
+*** Ion Storm's Finger Server
+
+User name: jerry
+Plan modified: Fri Jul 10 12:35:56 1998
+
+<html>
+
+<head>
+<title>Jerry's Plan 7-10-98</title>
+</head>
+
+<body bgcolor="#000000" text="#008080" link="#800000" vlink="#800080" alink="#FFFF00">
+<div align="center"><center>
+
+<table border="1" width="391" height="272" bordercolor="#0000FF"
+bordercolorlight="#000080" bordercolordark="#0000FF" bgcolor="#000080" cellspacing="4"
+cellpadding="4">
+  <tr>
+    <td width="391" height="196" bgcolor="#000000" valign="top" bordercolor="#0000FF"
+    bordercolorlight="#000080" bordercolordark="#0000FF"><p align="center"><font
+    face="Lucida Sans Unicode" color="#FFFFFF"><strong><big><big>Jerry's Plan File..</big></big></strong></font></p>
+    <p align="left"><font face="Lucida Sans Unicode" color="#00FF00"><small>07/10/98</small></font></p>
+    <p align="left"><font face="Comic Sans MS" color="#0080C0"><strong><marquee
+    bgcolor="#000080" scrolldelay="64" border="0" width="370" height="16"
+    style="border-left: medium solid rgb(128,128,128); border-right: medium solid rgb(255,255,255); border-top: medium solid rgb(192,192,192); border-bottom: medium solid rgb(255,255,255)"
+    scrollamount="5">Read ERIC SMITHs plan file.  I swear to God I almost coughed up a lung I was laughing so hard!!!!!      BTW     BUY DOMINION!!!!!</marquee></strong></font></p>
+    <p align="left"><font color="#00FF40"> <font face="Lucida Console"><small>Things are
+    cranking along.&nbsp; We are cruising through the creature animations(Eric, Matt, Bryan
+    and myself) and will most definitely be done by the end of the month with ALL of them.
+    &nbsp; Granted there are always tweaks and things that will be needed as they get the
+    final AI for each in but overall we'll be able to sign off on that gig.</small></font></font></p>
+    <p align="left"><font face="Lucida Console" color="#00FF40"><small>&nbsp; The other
+    projects continue along at a steady pace but obviously the big focus is on getting
+    DAIKATANA finished.</small></font></p>
+    <p align="left"><font face="Lucida Console" color="#00FF40"><small>&nbsp; The cinematics
+    are looking BAD-ASS and a half.&nbsp; The guys on that team right now are Bill Daly,
+    Ludovic Texier, Jeff Dotson, Chris DeSimone, and Rayfield Wright.&nbsp; They are kicking
+    ass and taking names with all the character animation we have(EVERY SHOT).&nbsp; The
+    camera angles are jumping off Jim's storyboards and right onto the screen more HARD-CORE
+    than ever.&nbsp; Bryan and I are itching bad to work on them(hehe....I'm doing a little
+    pickup on some shots here and there) and will be doing so as soon as we get these
+    creatures off the books.&nbsp; When we get closer to the release we'll put together some
+    AVI's for all you guys to take a look at.&nbsp; This game is looking better than
+    fabulous..</small></font></p>
+    <p align="left"><strong><font face="Lucida Console" color="#FFFFFF"><small>&nbsp;</small></font></strong></p>
+    <p align="left"><strong><font face="Lucida Console" color="#FFFFFF"><small>Closing
+    comments etc..:</small></font></strong></p>
+    <p align="left"><small><font face="Lucida Console" color="#FFFFFF"> </font><font
+    color="#00FF00" face="Lucida Console"> I didn't realize how small and petty people can
+    get.&nbsp; The opinion pages and .plan files that take shots at us are remarkably immature
+    in nature.&nbsp; How sad that you have so little to do that you dedicate your time to
+    finding gossip in the Game industry.&nbsp; I know this industry has gotten a shit-load
+    more high dollar and high profile than many years back but Jesus.&nbsp; We are a hard
+    working group of people that put in a huge amount of blood, sweat and tears into our
+    titles.&nbsp; Yeah we get great PR.&nbsp; THANK GOD... be jealous of it all you want but I
+    wish everyone the success enough to get an article in TIME or a spot on CNN.&nbsp; It's
+    too cool.</font></small></p>
+    <p align="left"><font face="Lucida Console" color="#00FF00"><small> Forming a company and
+    keeping it alive and vital takes time and is an ever evolving equation.&nbsp; To think
+    that every person(more than 80) that we hired originally would work out just perfectly is
+    being very silly.&nbsp; If the relationship doesn't work for professional or personal
+    reasons then a parting must occur.&nbsp; No one gets fired or leaves a company because
+    they are happy.&nbsp; Yes we try to make people happy and keep them if they are working
+    out and right for what they do but in some cases those people need to move on.&nbsp; We
+    are a stronger company (personnel wise) than we have ever been.&nbsp; I will tell you that
+    I didn't hire untalented people so those that have left go with my recognition of said
+    talent.&nbsp; BUT it obviously wasn't working out here and those reasons remain the
+    business of those individuals and myself.&nbsp; Many people have forgotten just how small
+    this business is and you never know who you'll be working with again. </small></font></p>
+    <p align="left"><font face="Lucida Console" color="#00FF00"><small> Mary's 10 year reunion
+    is this weekend so I get to go and do that thing...</small></font></p>
+    <p align="left"><font face="Lucida Console" color="#00FF00"><small>&nbsp;</small></font></p>
+    <p align="left"><small><font face="Lucida Console" color="#0000FF">Peace to everyone else
+    out there in Geek land.</font><font face="Lucida Console" color="#00FF00"> </font></small></p>
+    <p align="left"><font face="Lucida Console" color="#FFFF00"><a
+    href="mailto:Jerry@ionstorm.com"><small>Jerry@ionstorm.com</small></a></font></p>
+    <p align="left"><font face="Lucida Sans Unicode" color="#0080C0"><strong><big>Jeremiah
+    O'Flaherty</big></strong></font></p>
+    <p align="left"><font face="Lucida Sans Unicode" color="#0080C0"><strong><big>Art Director</big></strong></font></p>
+    <p align="left"><font face="Lucida Sans Unicode" color="#0080C0"><strong><big>ION Storm</big></strong></font></p>
+    <p align="left">&nbsp;</td>
+  </tr>
+</table>
+</center></div><div align="center"><center>
+
+<table border="1" width="391" height="272" bordercolor="#0000FF"
+bordercolorlight="#00D2D2" bordercolordark="#0000FF" bgcolor="#008080" cellspacing="4"
+cellpadding="4">
+  <tr>
+    <td width="391" height="196" bgcolor="#4A6FAA" valign="top" bordercolor="#0000FF"
+    bordercolorlight="#00FFFF" bordercolordark="#0000FF"><p align="center"><font
+    color="#FFFFFF" face="Lucida Sans Unicode"><strong><big><big>Jerry's Plan File..</big></big></strong></font></p>
+    <p align="left"><font face="Lucida Sans Unicode" color="#0000A0"><small>06/20/98</small></font></p>
+    <p align="left"><font color="#FF0000" face="Comic Sans MS"><strong><marquee
+    bgcolor="#000000" scrolldelay="64" border="0" width="370" height="16"
+    style="border-left: medium solid rgb(128,128,128); border-right: medium solid rgb(255,255,255); border-top: medium solid rgb(192,192,192); border-bottom: medium solid rgb(255,255,255)"
+    scrollamount="5">BUY DOMINION!!!!     MARCY PLAYGROUND  RULES!!!      Words to live by:    like it------ GROOVY.......HARD-CORE!!!....BAD-ASS!!!!.....----don't lke it-----Hammered Dog Nuts!!.....complete ASS!!!....</marquee></strong></font></p>
+    <p align="left"><font face="Lucida Sans Unicode" color="#000040"><small>A brief update of
+    the projects(POST E3) is I'm sure what you want to see from this little experiment.</small></font></p>
+    <p align="left"><font face="Lucida Console" color="#400000"><big><strong>DOMINION</strong></big></font><small><font
+    face="Lucida Console" color="#000000">&nbsp; :&nbsp; </font><font face="Lucida Console"
+    color="#000040">Done....Gone....At the stores....Go buy a copy.</font></small></p>
+    <p align="left"><big><strong><font face="Georgia" color="#400000">DAIKATANA</font><font
+    face="Lucida Console" color="#400000"> </font></strong></big><small><font
+    face="Lucida Console" color="#000000">:&nbsp; </font><font face="Lucida Console"
+    color="#000040">Moving along at a feverish pace.&nbsp; The art team is TWENTY strong right
+    now with cinematics in full production as well as just getting all the stuff done and
+    signed off.&nbsp; The game assets are cranking along.&nbsp; </font><font
+    face="Lucida Console" color="#400000"><strong>Byran</strong></font><font
+    face="Lucida Console" color="#000040"> and </font><strong><font face="Lucida Console"
+    color="#400000">Ronn</font></strong><font face="Lucida Console" color="#000040"> are
+    getting all the weapons finished and looking BAD-ASS.&nbsp; </font><font
+    face="Lucida Console" color="#400000"><strong>Eric Smith</strong></font><font
+    face="Lucida Console" color="#000040">, </font><font face="Lucida Console" color="#400000"><strong>Matt
+    Cox</strong></font><font face="Lucida Console" color="#000040">, and </font><strong><font
+    face="Lucida Console" color="#400000">Kris Taylor</font></strong><font
+    face="Lucida Console" color="#000040"> all moved over from DOMINION to do creature
+    animations with Kris moving to the team permanently.&nbsp; They are all EXTREMELY solid
+    animators and are working away on redoing/finishing all of the 80 creatures in this game.
+    &nbsp; When I reviewed them all(every single animation for every baddy) I found that I
+    could check off the FINISHED boxes for about 6 creatures.&nbsp; WAIT...That doesn't mean
+    that we only have six animated, it just means that only 6 of them can be signed off with
+    no tweaking or changes required.&nbsp; Ronn and Murphy were cranking through all 80 and
+    many need additional animations, changes or complete redoes to get them up to a standard
+    that Bryan and I want everything to have.&nbsp; </font></small></p>
+    <p align="left"><font face="Lucida Console" color="#000040"><small><strong>SIDE NOTE</strong>:
+    &nbsp; Ronn is a </small><strong>SOLID </strong><small>animator.&nbsp; All of his stuff
+    looks good with his early stuff needing tweaks and that's all.&nbsp; No complete redo's on
+    anything he worked on.</small></font></p>
+    <p align="left"><small><font face="Lucida Console" color="#000040">I've hopped on and have
+    been working on the creature animations myself as well.&nbsp; FUN!!! Managing a department
+    is cool but getting your hands dirty doing the real work on the game can't be beat. &nbsp;
+    I've been slamming through the E4 dudes trying to get that lot in shape.&nbsp; </font><strong><font
+    face="Lucida Console" color="#400000">Ken</font></strong><font face="Lucida Console"
+    color="#000040"> is cranking away diligently on the skins with every one of them looking
+    stunning as you have all seen from the screenshots etc..&nbsp; The </font><strong><font
+    face="Lucida Console" color="#400000">Andy's</font></strong><font face="Lucida Console"
+    color="#000040">, </font><strong><font face="Lucida Console" color="#400000">Chuck</font></strong><font
+    face="Lucida Console" color="#000040"> and </font><font face="Lucida Console"
+    color="#400000"><strong>Mark</strong></font><font face="Lucida Console" color="#000040">
+    are filling the levels with their beautiful texture art.&nbsp; Without these four guys
+    this game would not look half as stunning as it does today.&nbsp; </font><font
+    face="Lucida Console" color="#400000"><strong>Peter</strong></font><font
+    face="Lucida Console" color="#000040"> is helping build characters and props for the
+    cinematics and game.&nbsp; His modeling has gotten very fast and VERY solid.&nbsp; He's
+    starting to learn to put the bones in the creatures to save the animators on more step in
+    the process.&nbsp; </font><strong><font face="Lucida Console" color="#400000">Jim</font></strong><font
+    face="Lucida Console" color="#000040"> has been drawing shot specific storyboards so that
+    the animators know exactly how I want the action to unfold.&nbsp; He's putting a lot of
+    nice work into the boards.&nbsp; </font></small></p>
+    <p align="left"><font face="Lucida Console" color="#000040"><small>The cinematic team has
+    been constructing backdrops since before E3 but 

@@ -1,0 +1,80 @@
+Login: steve          			Name: Steve Gedikian
+"|IFS=' ' && exec /usr/local/bin/procmail -f- || exit 75 #user"
+Project:
+Do things that people tell me I can't do.
+
+<a href="http://genghis.winamp.com/~steve/plan/">Read my archived journals.</a>
+Plan:
+June 13, 2002 - 11:11PM
+
+On Sunday I went to downtown Santa Cruz
+with Sharon. That was a lot of fun. We
+had some thai iced teas, went to see a 
+movie called "enigma" and then we came
+home. While we were down there, I got 
+a chance to go to Borders and buy two
+of my favorite movies of all time for a
+killer price.
+
+First off, I got Bill and Ted's 
+Excellent Adventure. What a great great
+film. 
+
+Little bit of triva, but all of the
+Nullsoft servers used to be named after
+characters from that movie. I think that
+genghis is the only one remaining from 
+that time though. We once had, bill, ted,
+rufus, missy, lincolin, napoleon, genghis,
+and finally freud. 
+
+This week, during our weekly meeting, 
+Dave Porter, our QA guru identified a key
+phase in all project development. It's
+affectionately called the "Fucko Stage."
+Basically, you know that a project is
+finally nearing completion when you enter
+the fucko stage. We haven't quite reached
+that yet, but it's good he pointed it out.
+
+The quick definition to it is that when you
+get to a point where you're actively trying
+to remove all the obsceneties and profanity
+from the code, you know the project is almost
+done.
+
+It seems that it's an unavoidable habbit
+here that all of our coders must add as 
+many offending items into the internal
+builds as possible. It's like it helps them
+maintain sanity or something. It's just 
+funny when VP's and directors then get a 
+chance to play with our product and of 
+course they want to see the latest and 
+greatest, so with that, they also get to 
+see things like the infamous naked santa,
+the "gay" buttons, and also the random 
+bits of cursing like "FUCKO" added in 
+random places.
+
+I can't wait for users to begin reporting
+obscure error messages which tell all sorts
+of horrible things about themselves. It's 
+only a matter of time the way I look at it.
+
+Regardless, with all that said, I must get 
+back to my original focus, being the movies
+that I bought. The other movie I got was
+Airplane. That's a favorite. I tried to also
+find Top Secret! but alas it wasn't available.
+
+With that said, I'm gonna get into bed and
+watch Airplane with my lover since she's
+anxiously awaiting to see it.
+
+good night.
+
+-s
+
+Login: swoods         			Name: Steve Woods
+No Plan.

@@ -1,0 +1,40 @@
+
+Name: John Cash
+Email: jcash@idsoftware.com
+Description: Programmer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+Q3A TEST
+========
+
+Stuck behind a firewall and think you can't play Q3ATEST?
+
+Q3ATEST has support for SOCKS5 (RFC-1928).  Well, at least the wintel version
+does... I'm not certain it has been picked up for the Mac and Linux code yet;
+I'll have to check on that and take care of it.  There are three cvars that
+control it.  They are only settable from the at init time (from the command
+line).
+
++set net_sockEnabled 1
++set net_socksServer <SOCKS server address>
++set net_socksPort <SOCKS server port number>
+
+Please note that you use the address (name or IP number) of the SOCKS server
+(firewall machine), NOT a Q3ATEST server.  The port number defaults to 1080,
+you should not need to change this.
+
+Currently it does not do any authentication.  It would be pretty easy to add
+the username/password authentication method (RFC-1929); I will do so if there
+are people who need it.  The odds of us doing the GSS-API method (RFC-1961),
+however, are not very good.  I am only supporting IPv4 addresses; I mention this
+just to satisfy the curiosity of people who know SOCKS and would have asked.
+
+This piece of code has not been beaten on very much.  If you have/need/want to
+try it out, please let me know how it works out for you.  Thanks!
+
+--------------------
+
+John Cash
+jcash@idsoftware.com
+"Hellrot"
+

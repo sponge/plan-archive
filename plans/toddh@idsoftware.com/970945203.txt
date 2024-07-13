@@ -1,0 +1,114 @@
+
+Name: Todd Hollenshead
+Email: toddh@idsoftware.com
+Description: CEO
+Project: 
+-------------------------------------------------------------------------------
+10/02/2000
+
+Here's the eBay link to the Origin 2000 for those interested:
+
+http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=457378398
+
+
+9/29/2000
+
+Origin 2000 sale redux:
+
+We thought we had the Origin 2000 sold a while ago, but realized that
+the winning bidder on Ebay had his account h4x0r3d.  So it's going
+up for sale again next week.  If someone is interested in it before
+it goes back to Ebay, feel free to contact Marty Stratton at 
+mstratton@idsoftware.com .  The Ebay description will appear as follows:
+
+id Software's SGI Origin 2000. This system was used to process all of the
+map data for Quake II and Quake III Arena. This system has 2 banks of 8 x
+180Mhz R10k processors for a total of 16 processors. The power supply to one
+bank of processors needs to be replaced (i.e. those 8 processors and the RAM
+associated with them are not working). We can investigate fixing this bank
+of processors at buyer’s expense. The system has 1.2 GB RAM (512MB of this
+RAM is working on the good power supply, the other 768MB will work once the
+second power supply is replaced).  This system also has 4GB of hard drive
+space, and is running Irix v6.4.  We paid approximately $500,000 in December
+of 1996 for this system.  For more pictures see:
+http://www.idsoftware.com/origin/index.html
+*Buyer must pay all shipping charges (will be substantial).
+
+9/25/2000
+
+Big update on the 1.25 release:
+
+We have received a number of emails and posted comments regarding
+the 1.25beta point release.  We want to thank everyone for the
+feedback and give you an update on the status of the current point 
+release including the major issues that we are addressing.
+
+We want to reiterate that 1.25 is a beta release.  We're looking 
+for feedback from those people who don't mind providing it. We will 
+be addressing many of the issues that have been reported over the 
+last few days, and are planning another beta point release in the 
+very near future. We will post the readme and documentation in 
+advance of this next beta release so players can decide whether 
+or not they would like to download it. You should only download 
+and install the next point release if you are interested in providing 
+feedback to id.  Please send all feedback and bug reports to 
+bugs@idsoftware.com.
+
+Mods - As everyone who has tried them knows by now, Mods are broken 
+by the 1.25beta point release. This is an inevitable side effect of 
+the changes that needed to be made in 1.25. If you want to continue 
+playing Mods, please do not install the 1.25beta patch. Once we have 
+a final point release, we will be supplying source to the mod authors 
+so that they can have their Mods running again.  Many of the changes 
+made in this point release are a direct response to requests made by 
+Mod teams, so in the end both the authors and the players of Mods 
+should really benefit.
+
+Global Rankings - This is a cool new statistics and ranking feature 
+that has been incorporated into Quake III Arena.  If you would like 
+more information on Global Rankings, please check out the website at 
+http://www.globalrankings.com/quake3arena/  As more information and 
+documentation becomes available, we will pass it along and include 
+it with releases.
+
+Diagnostic Tools - The "lagometer" and some other diagnostic tools are 
+broken in 1.25, but these will be fixed and enabled in the next release.
+
+Physics - There has been quite a bit of confusion regarding the physics 
+fix that was incorporated into the 1.25beta release. Simply stated, in 
+the original Q3A PC release (using .qvms) there was an inaccuracy in the 
+way player movement occured when compared to other versions of the game 
+(including compiled .dlls and other platforms).  This was a bug. It is 
+our position that all platforms should yield the same gameplay mechanics 
+and physics.  We are working on a fix that would return the "feel" of 
+rocket jumping and strafe jumping to the original release, while still 
+"fixing" the bug in the .qvm builds.
+
+CTF Scoring - In the 1.25beta release we made a modification to CTF 
+scoring. While we will use a similar scoring system in Quake III: 
+Team Arena, in the next point release we have decided to return to the 
+original CTF scoring system that was included with the retail release.   
+
+Known Workarounds - If you have downloaded and installed the 1.25beta 
+point release and would like to go back to the 1.17 version until the 
+1.25 version is final, you can follow these steps:
+1. Delete the pak4.pk3 file located in the aseq3 directory of your 
+Quake III Arena install.
+2. Download and reinstall the 1.17 point release which is available at 
+http://www.quake3arena.com.
+
+Demos - Prior demo files are not compatible with 1.25 and above. This is 
+due to the change in the network protocol and encryption layers.
+
+It is important not to use recompiled .DLL's as they are not compatible.
+Once the source for 1.25 or greater is released, the .DLL's will need to be
+rebuilt.
+
+Also remember that even seemingly harmless mods like HUD mods can cause 
+problems with the game.
+
+We are also working on fixes for a number of smaller bugs that have come 
+to our attention including various problems with sound, callvoting, global 
+rankings and a few other miscellaneous items.
+
+We will continue to keep everyone informed as best we can about progress.

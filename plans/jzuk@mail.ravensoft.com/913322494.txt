@@ -1,0 +1,194 @@
+
+Name: Jon Zuk
+Email: jzuk@mail.ravensoft.com
+Description: Lead Designer
+Project: Heretic II
+-------------------------------------------------------------------------------
+12-10-98
+
+I've had a few questions about creating puzzles.  So here's an explanation on how to do it.
+*******************************************************************************************
+Making Heretic II Puzzles: Puzzled?
+
+So you’re making a level and want to know how to insert a puzzle into your map.  
+Follow these step by step instructions and pretty soon you’ll be able to lock 
+everyone inside your map.
+
+1. Create the objects that will need the puzzle.  This can be as simple as 
+a locked door, or as complex as placing a piece to trigger a cinematic. 
+Let’s keep it simple and talk about doors.
+
+2. In front of the locked door, create a trigger_playerusepuzzle.  
+It is a brush entity, so you can resize it to your specifications.
+
+3. Create a trigger_puzzle also.
+
+4. Target the trigger_playerusepuzzle to the trigger_puzzle, 
+and target the trigger_puzzle to the door.
+
+5. Select the trigger_puzzle and enter "item" in the key field, 
+and the puzzle piece in the value field.  
+For example: Key item, value item_puzzle_tavernkey.
+
+6. Now hide the key in an appropriate place on the map.
+
+
+A trigger_playerusepuzzle is a trigger that simply acts as a field for Corvus.  
+While he is standing in the trigger, if the player presses "Use", Corvus will 
+attempt to use the target of the trigger.  There are extra flags for this trigger.  
+The notes in the editor explain them, as does the documenation I provided with the game. 
+
+Basically though, you can set these flags to use your inventory items without the player 
+hitting "use" and to not remove them.  The reason we implemented this was for 
+the Healer cinematic in andhealer.  After the first cinematic, there were two other 
+cinematics that could possibly play.  One played if you didn’t have both ingredients, 
+while the other played if you did.  We placed a trigger outside of his room so that you 
+had to go through it and it would automatically check without the players knowledge.  
+If you had both pieces, there was a pause while a new cinematic loaded.  
+
+The "no inventory" flag checks for a piece and uses it, but never shows the inventory bar.  
+This is to hide the check from the player.  
+
+The other flag, "don’t remove", is to make the trigger itself not remove.  Therefore, 
+if you are using it to check for multiple pieces and you have only one, the trigger won’t 
+remove itself so you can still use it for other pieces.
+
+A trigger_puzzle gets used by the trigger, but only uses its targets if Corvus has 
+the specified puzzle piece in his inventory.   There is a "No take" flag if you don’t 
+want the piece removed from inventory.  Thus, if you want the tavern key to open 
+every door in a level, use this flag.
+**************************************************************************************************
+
+Also, look for our contest, coming real soon!
+
+**************************************************************************************************
+
+12-8-98
+
+I'm glad to see the responses we're getting for our little contest contest.  Everyone will know sometime Thursday which lucky site will be chosen to host our contest.  It'll be a fun one!  
+
+BTW, everyone should check out Jeremy Statz's plan if they're interested in editing.  He brings up a very important point about entities.
+
+Also, I saw an article at http://defrag.evilavatar.com/ with Raven mentioned near the bottom.  Hmmm... very interesting.  Heretic II in fact took about 12 months.  The first couple of months though are writing a design doc and getting a feeling for the project, so we were in production for only about 10 of those.
+
+*******************************************************************************************
+
+December 7th, 1998 -  We've got a little contest going!  Here are the details...
+
+Greetings From Raven Software,
+
+	We at Raven are considering sponsoring a contest for Heretic II modifications.  We would supply 
+the prizes and judge the entries, but we need to find a suitable website to host 
+the contest itself.  If you are a web master and are  interested in hosting this 
+upcoming Heretic II competition, please contact Jon Zuk (jzuk@mail.ravensoft.com) 
+or Kenn Hoekstra (khoekstra@mail.ravensoft.com) by Wednesday, December 9th at 
+5pm CST.  After all bids are received, we will choose a website to host the contest 
+and we will post the details and contest rules.
+	Thank you for your time and consideration in this matter.  We look forward 
+to hearing from you.
+
+Sincerely,
+
+Jon Zuk
+Heretic II Lead Designer
+Raven Software
+
+Kenn Hoekstra								
+Project Administrator
+Raven Software
+
+*******************************************************************************************
+
+12-1-98
+
+I've had some questions on maps and creating your own stuff.  One thing that is confusing is creating your own textures.  We've written a program called qdata for converting .pcx's to .m8's but apparently we neglected to give any examples.  So, here is an example.
+
+A .qdt file is simply a text file for clipping textures, skies, and sprites.  If you want to do this, open a new text file in Notepad.  Following is an example of what needs to be in there:
+
+$mipdir General           	(Needed dir; in this case General)
+
+;=================================================
+; BRICKS AND STONES       	(Semicolon lines are comments and don't get used)
+;=================================================
+
+$load art/gfx/textures/general/final/teleport.pcx
+$mip	teleport   0	0	128	128	stone
+
+(This is to clip one texture.  The first line is to load a pcx from the specified path.  The second line after $mip is the name you want for the texture in the editor, its starting x and y values in the actual pcx [(0 0) is the upper left], the size of the texture, and its default sound.  You can also specify default surface flags such as transparency, water, sky, etc.)
+
+Save the file as "name.qdt", "name" being what you want your texture set to be called.  (Note:  If you create your own texture set, you have to modify your heretic2.qe4 file so that the editor will see it.)
+
+From the command line, go to the directory where the tools are installed and type "qdata name.qdt" to clip your textures.  Remember to give the appropriate path for the .qdt's location.
+
+This should get you started.  Again, if you have questions, feel free to email me.
+
+11-30-98
+
+It's great to see the positive response for Heretic II out there.  I just got back from
+a one week vacation to nowhere.  I stayed home and slept mostly.  But I also played Sin and
+Half Life.  I'm not quite done with Half Life yet, but I'm very near the end.  This game
+is really cool!  Other than that, it was nice to get a break after 14 months of crunch.  I
+went right from the Hexen 2 Mission Pack right to Heretic II without a break.  That's a long
+time to go without a vacation. 
+
+If anyone has any map making questions, feel free to email me.  We're going to try and put
+up a webpage of some sort to deal with design questions.  I'll post something here if we get
+that up and running.  The documentation should answer most questions, but I probably missed
+some things in the last few weeks.
+
+10-26-98
+
+Burning the late night oil again... still.
+
+I've been browsing the 'net while waiting for a map to vis and I checked out the reviews
+of our demo.  I have to say without a doubt, this is the best reception I've seen to one
+of Raven's games.  Everyone who has previewed or reviewed has been most favorable in their
+responses.  Thanks!  Just remember, the demo is just a demo!  Wait until the real thing.
+
+I've already been getting questions about making maps for the game.  Fear not!  Our
+wonderful (OK, passable) editor will ship with the game.  I've also written a manual to 
+explain the inner workings of all our stuff.  Right now, the manual is at 66 pages, and
+that's without the pictures.
+
+In the meantime, enjoy the demo and we'll finish the game up for ya.  Remember, bugs can
+be sent to heretic2bugs@mail.ravensoft.com.
+
+Suggestions that are not bugs can be sent to heretic2suggestions@mail.ravensoft.com.
+
+See ya soon!
+
+
+10-23-98
+
+Well, the demo is out.
+
+Sorry about the lateness of it, but some things were unforseen.  We had to make sure the 
+demo was as solid as possible and wouldn't re-format your HD or something.  
+
+It was nice to get on IRC (I was a newbie), and chat with some of the fans.  I think
+that my .plan file is a little safer... and slower.  I was having trouble keeping
+up with the constant changes in conversation.
+
+I hope everyone enjoys the demo.  If you have any problems (or praise), mail 
+heretic2bugs@mail.ravensoft.com.
+
+Now, we just have to get to Gold!
+
+
+
+10-22-98
+
+D-Day!
+
+Today is Demo Day for Heretic II.  As everyone knows, it'll be out sometime tonight.
+
+But, the real reason I've decided to update this thing after three months is to give out
+a huge thanks.  This thanks is to the whole Heretic team in general, and the programmers
+specifically.  They have worked their asses off this week to make sure this demo is complete,
+solid, and fun.  This game has the funnest deathmatch I've played in a long time.  
+
+Now that the sincerity is over with, remember to get on IRC tonight to chat with some of us
+Heretic guys.  For info, check www.hereticii.com, a new (and cool) page dedicated to all 
+things Heretic II.
+
+See ya in deathmatch.  I'll be Shifty. 

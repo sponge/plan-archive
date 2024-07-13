@@ -1,0 +1,22 @@
+
+Name: John Cash
+Email: jcash@idsoftware.com
+Description: Programmer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+There is a bug that may be giving Q3A mod developers some
+headaches if they are trying to add new holdable items.
+
+File cg_event.c, function CG_UseItem; the line:
+	itemNum = es->event - EV_USE_ITEM0;
+should be:
+	itemNum = (es->event & ~EV_EVENT_BITS) - EV_USE_ITEM0;
+
+This causes itemNum to be invalid about half the time, preventing
+any client side effect tied to the item from occurring.
+
+--------------------
+
+John Cash
+jcash@idsoftware.com
+"Hellrot"

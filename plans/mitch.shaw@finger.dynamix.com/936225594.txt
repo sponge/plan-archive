@@ -1,0 +1,46 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------
+User Name: mitch.shaw     Plan Last Modified: 09/01/1999 14:41:14 PST
+
+Who am I? Mitch Shaw
+Handle:  Skeet
+Project: TRIBES/TRIBES 2/TRIBES Extreme
+Email: Skeet@dynamix.com
+
+9/1/99
+
+  Well, a mixed bag of news this time. I'll just dump it
+all on you and let you sort out which is "good" and which
+is "bad".
+
+  I'm hip-deep in mission scripting for TRIBES Extreme now.
+Jesse Russell did the scripting for two of the training
+missions before moving on to campaign scripting, and I'm
+doing the others. I think it's going pretty well so far, I
+have about 80% of them in a good "first pass" state, and Scott
+"Cap'n America" Rudi is providing feedback and tweaking the
+text. The training missions for Extreme look like they're
+going to be much more comprehensive and "event-based" than
+the original TRIBES ones -- Greg had very little time to put
+those missions together, and I think he did an amazing job
+with them when you consider just how little time he had.
+
+  As a consequence of the head-down, full-on assault on the
+training mission scripting, Freeze has been put on hold for
+now.  There are still several problems with it, and I would
+dearly love to get it finished and released, but it's strictly
+a "free time" project. Hopefully I'll be able to get back to it
+before too long.  My apologies to anyone who's been waiting for a
+Freeze release (if there is anyone).
+
+  I would like to encourage everyone who hasn't done so recently
+to visit the TRIBES Extreme area of the website
+(http://www.tribesplayers.com/tribesplayers/extreme-index.html)
+and give a look at what we've been working at so hard lately.
+There's information about the game, screenshots, witty bon mots,
+and more stuff on the way. It's more fun than you can shake a
+barrel of monkeys at, or something like that.
+

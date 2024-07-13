@@ -1,0 +1,765 @@
+
+*** Monolith Production's Finger Server
+
+User name: stephens
+Plan modified: Mon Jan 04 18:28:26 1999
+
+1/4/99
+
+Don't buy Baldur's Gate if you value your free time.  I've put a good 30 hours into the game and I feel like I've barely scratched the surface :)
+
+If you are even remotely interested in RPGs BUY THIS GAME.  You will not be disappointed.
+
+-$-
+
+
+10/23/98
+
+First off I just want to make one thing about the Alpha patch perfectly clear.  It CAN mess up your single player game.  Shogo v1.0 saved games WILL NOT work with Shogo v1.1 (Alpha).  Period.  Jace was smoking crack when he wrote his plan file ;)
+
+Also, here are some other things that have been fixed in the patch:
+
+* Fixed frag screen being displayed between multiplayer levels.
+
+* Fixed MCA vehicle to on-foot level weapons bug (fun bug that allowed you to have MCA weapons in on-foot levels ;)
+
+* Fixed a bug that caused player to be stuck in first frame of an animation.
+
+* Picked up weapons don't get automatically switched to in Multiplayer.
+
+* Added "picked up" messages for all pick up items (that didn't already have messages)
+	
+* Fixed AI shooting through walls/doors bug.
+
+* Enhanced AI scent biscuit technology(tm) (They don't get caught on corners as much).
+
+* Picked up item sounds now play in client's head.
+
+* Added screen flashes for when items are picked up.
+
+* Removed explosion when killing MCA's with melee weapons (due to popular demand).
+
+* Moved 3rd-person camera intersect segments to client (allows for 3rd person view in multiplayer - which is now enabled).
+
+* AIs now are pushed down slopes.
+
+* Fixed ammo icon not always displayed correctly after reloading a saved game.
+
+-$-
+
+
+
+10/14/98
+
+The Shogo patch is really coming along.  Here are some of the things that I've recently worked on:
+
+
+Fixed the bug that caused scripted AIs to go into their idle state instead of their aggressive state (caused the bug that allowed you to walk right up to an enemy without getting a cap in your ass ;)
+
+Fixed the bug that caused AIs not to target enemies that were firing at them.
+
+Increased the visible range of the AIs (so they should always 'see' you when you can see them).
+
+Fixed AIs being sometimes afraid to go down stairs bug.
+
+Fixed muzzle flash not going away when you die (the "firefly of death" bug :)
+
+Increased death brush damage (sometimes you could bounce out of a death brush before you were killed)
+
+Made dead bodies disappear after 2 minutes in multiplayer (will probably make this a console command, so dead bodies can stay around as long as people wish ;)
+
+Fixed bug that allowed you to zoom (the sniper rifle) when in vehicle mode
+
+Increased energy grenade damage (makes this weapon a lot more useful, especially in multiplayer ;)
+
+Made player footstep sounds play in client's head (makes them a little louder, and sound more consistent)
+
+Added longer pause after you die before load screen comes up (fixes "why am I in the menus?..oh, I must have died" bug)
+
+Fixed red screen of death bug (bug that caused the screen to stay tinted red after reloading a saved game)
+
+
+Anyway, these are some of the game related fixes that I've made in the last few days.  I have many more on my list for the patch, but I don't see any problem getting them all done on time :)
+
+I should also note that MikeD has *totally* pimped out the multiplayer code.  Can you say "silky smooth", I thought you could ;)
+
+
+-$-
+
+
+8/28/98
+
+Word-up Sandi!  How's everything over there in accounting land?  You remember our deal don't you (one for Monolith, two for Money, two for Monolith, four for Money..hehe ;)
+
+
+
+-$-
+
+
+8/27/98
+
+It has been forever since I updated this thang...just too much work and not enough time I guess...
+
+Yeah, WHATEVER!
+
+I've just been slacking...
+
+Well.  I guess you probably want to hear something cool about Shogo…
+
+[No idiot we want to hear about your pathetic life as a programmer…let us guess: you work 12-to-12, eat lunch at Denny’s, you probably spend weekends writing code (or if you’re lucky playing games) or maybe you go out with your girlfriend (yeah, right!  Like you HAVE a girlfriend, haha –loser…why the hell am I reading this lame .plan file anyway?!?  Screw this, I wonder what’s going on over at gamegirlz…]
+
+…as I was saying before I was rudely interrupted by my Low Self Esteem™…
+
+Something cool about Shogo…well, heck, what ISN’T cool about Shogo! (hehe)
+
+[What the hell is this!  Does Jace write ALL their damn .plan files!?!  What a bunch of stuck up, conceited, propaganda slinging malarkey is this!?!…There are plenty of .plan files I can read if I want to hear how cool somebody thinks they are!  I thought these Monolith guys were different, but noooooo, give em an inch and they take a mile.  Some web site tells them that, “well, okay, maybe you guys don’t suck as bad as we thought you did” and the next thing you know they’ve all got attitude and all their .plan files have titles like “Senior Executive Supreme Code Guru A La Mode and Satchel Bunny”…]
+
+Down boy! Down!  Get….back…in your…cage!
+
+Hehe.
+
+Yeah, I really am “that fucked up.” ;)
+
+Okay, the goods:
+
+Shogo is finally, feature complete!  I can now spend some much needed time fine-tuning / bug fixing this beeyotch!  The end is in sight!  Who ha!
+
+MikeD and I went over some game optimizations yesterday [Read: removing all the sleep() calls from the AI…well, hell, I get tired sometimes, I thought maybe those guys could use a rest, I mean geeez, if you had to keep the entire known universe (what’s he talking about?) free from the type of vermin (okay, where is he going with this one) that those poor almost defensiveless (umm huh) little tick-eaters (what? – Nerd jokes sprinkled among a tangent to a tangent, I’m sorry we’re going have to take off style points for that one)…where was I…ahhh,  ummm…oh…never mind] and I actually implemented some of them today Woo Hoo! (who’d I pick that up from….hmmm, I wonder :)…
+
+So…soon the world will have a nice little [oh yeah, sure, NOW he’s humble] Anime action game to go with their, well, hell, what does an Anime game GO with anyway…ahh screw it…anime is kinda “weird” anyhow…
+
+I mean gamers don’t really want to play an Anime (*cough* Final Fantasy) inspired game.  We all know that there isn’t really room in the first-person shooter market for a game that isn’t about, well…what exactly are most first-person shooters about?…oh yeah, SHOOTING stuff!  So where was I…Anime and and first-person shooters…Come on.  Have you actually seen any of this Anime stuff?!?  It has all these “weird” things that just don’t fit in the first-person shooter genre.  Like these big robot things.  Come on, who really wants to run around in a giant robot stepping on people, and cars, and buildings, and…come on, where does that fit into the whole “dungeon crawl” experience that a first-person shooter MUST have.  Sure, these robot things carry big guns that do more damage than ever before seen in a first-person shooter (hmmm, maybe that’s the problem…do people really want big guns, and big explosions, and body / robot parts flying all over the place…that just distracts from being able to enjoy the whole “dungeon crawl” aspect that is required (isn’t it?) of a first-person shooter.  People don’t really want that (do they?)…
+
+And this whole thing about a story.  Come off it.  All I wanna do is SHOOT stuff…I don’t care if there are multiple endings, and that you don’t really know who’s on your side and who isn’t.  I just want to SHOOT somebody.  I don’t want my actions to affect anything that happens in the game.  I wanna know that every time I play level 35 that the creature on the left will yell “urgle blorg” (Note: since a real first-person shooter takes place in some sort of dungeon it must contain some type of “creature” that, of course, doesn’t speak English), and spit its acid snot at me, and that if I run down the tunnel to the right and jump into the lava that I’ll find the super-duper-special powerup that now makes me able to kill “urgle” with 15 shots instead of 25.  Now, THAT is what makes a first-person shoot fun!  Come on.  Most Anime doesn’t have this kind of stuff.  It has characters, that get developed, and grow, who you come to like (or hate).  And plots that makes you feel sad (or happy) when they die …I don’t want to feel sad, or happy, or any of those “fuzzy” ways…I just want to shoot things…
+
+Get real.  Look at the weapons in Anime…They’re just plain “weird.”  Who wants to shoot energy beams at people anyway?  And multiple rockets (coming out of the same gun at the same time?!?)…No sir-e-bob, one rocket was good enough for my father’s father, so dag-nab-it, one rocket should be good enough for me!
+
+Nope.  Anime is too “weird” to inspire a first-person shooter…
+
+
+Hehehehehehehehehehe….
+
+Sarcasm?  No thank you, I brought my own.
+
+
+(oh...one last thing...there was thiS certain person, who asked me to mention them in my .plAn file...well, I wasN't quite sure if she was really up to the high quality stanDards that I try to set, when writIng these...So, I decided to shank...hehehehehehe ;)
+
+
+-$-
+
+
+
+5/20/98
+
+PFP can bite me.
+
+
+Shogo:
+
+I spent last week getting demo functionality in for E3.  It is pretty cool, makes "manning the booth" a bit easier :)
+
+Now I'm working on fixing up the weapon effects a bit for E3, they've haven't been touched in a while (and it shows :).
+
+I just implemented a level-placed camera object, which should allow level designers to set up some pretty cool in-game stuff.  I think Shogo's levels really lend themselves to some cool cinematic sequences, so now we can exploit that a little more ;)
+
+
+My pathetic life:
+
+Saw Dogzilla (whatever) today.  It could have been worse.  If you haven't seen it and want to know what it is like, basically just mix Independence Day, Jurrasic Park, and Biloxi Blues (Ferris Bueller was awesome, but Mathew Broderick ain't no hero)...
+
+As long as I'm talking about over-hyped movies...Deep Impact...what a waste.  If you haven't seen it, don't.  Save your $.  I actually wanted the Asteroid to hit the Earth.  I was thinking "Gee if the Asteroid hits the Earth then maybe all these lame characters will be killed and the movie will be over!"
+
+After seeing the trailers preceeding Frogzilla, I'm afraid we're in for a long boring summer at the movies...oh well, there is always Shogo to look forward to ;^}
+
+
+-$-
+
+
+4/20/98
+
+I would have to agree with Pendle-bunz about the .plan thang :)
+
+So what have I been up to....hmmm, where to start.  I've spent quite a bit of time recently on the AI:
+
+Expanded my AI scripting system to support looping
+scripts, opportunity firing (i.e., stop the script to put a cap in your ass, then continuing the script) and different levels of blocking priorities (i.e., can the player block a
+scripted AI or does the AI push the player out of the way).
+
+Also implemented AI and player hand-held weapon models.  It is pretty cool to see the AI and player's hand-held weapon change when they switch weapons (and fall to the ground when they die so you can pick it up).
+
+Also implemented an initial version of texture (surface) specific special fx.  This is a pretty cool feature.  This allows us to tie certain sounds or fx to a texture so brushes with a metal/wood/etc. texture make the appropriate sounds when players/AI walk on them.  Also weapon impacts make the appropriate sounds and effects on these surfaces as well...Pretty cool...
+
+
+On the social side of things...JJ and I have been hitting the links quite a bit the last week.  Now JJ is a natural (we call him 'Tiger-Shark' since his game is a cross between Tiger Woods' and GregNorman's).  In other words, he is just plain intimidating.  When we're playing for money and I've got that 4 foot par putt and he's got a 50 yard chip over trees for par, and he holes it out...I'm just like "Damn, I've just been John Jacked!"...and of course I'm so pissed, that I miss my putt and end up throwing my putter into a water hazzard...
+
+It seems like a lot of people at Monolith have been talking about playing more.  Maybe we should start a Monolith tourney.  Hmmm, that could be interesting.  I'll have to think on that one...
+
+
+$
+
+
+1/26/98
+
+No comment.
+
+
+11/24/97
+
+FBI FILE #708231366
+Name: Kevin Stephens
+Whereabouts: Unknown
+Know Aliases: Money, BadAsh, MenuBoy
+
+MOST RECENT CRIME: EMAIL EXTORTION
+
+*** Following are excerpts from a string of internal 
+*** Monolith emails which, we believe, contain enough 
+*** conclusive evidence of email extortion to put
+*** #708231366, and the rest of his band, away for a 
+*** very, very long time.
+
+
+*** START OF MONITORED EMAIL ***
+
+From:	Kevin Stephens 
+Sent:	Wednesday, November 19, 1997 5:53 PM
+To:	All Monolith Personnel
+Subject:    SPY HUNTER E-MAIL-A-THON
+
+Hi All...
+
+I just got off the phone with **EDITED** from **EDITED** (I think where we got Rastan from) anyway, he told me that we can have our very own Spy Hunter machine (just like the arcade!!!) for around $500 bucks!  I know that I'm very interested in this (but I know not everyone is), anyway let me know if you would be willing to contribute to this very worthy cause!
+
+Please let me know about how much you'd be willing to contribute.
+
+Thanks!
+
+**EDITED**
+
+TARGET:    	$500.00
+
+p.s. HURRY, Only a few proud people will be able to say that THEY helped improve Monolith's Arcade...don't be left out...don't sit on the sidelines...take a stand...do something with your $...what good is it doing you in the bank anyway?!?
+
+Thanks!
+
+Kevin Stephens              (stephens@lith.com)
+Monolith Productions, Inc.  (http://www.lith.com)
+
+
+From:	Kevin Stephens 
+Sent:	Wednesday, November 19, 1997 5:53 PM
+To:	All Monolith Personnel
+Subject:    FW: SPY HUNTER E-MAIL-A-THON
+
+Contributions so far:	 Gift from Me
+
+Nick:      $25      (no more whining...for a while)
+Craig:     $50      ($50 worth of Crack - i.e. .0001 ounce)
+Kev S.:    $50      N/A
+Gobes:     $50      (Localizable dialog boxes for now on)
+
+Total:  $175 
+
+TARGET:    $500.00
+		
+		
+TIME IS SHORT!!! ACT NOW!!!
+
+Kevin Stephens              (stephens@lith.com)
+Monolith Productions, Inc.  (http://www.lith.com)
+
+
+From:	Kevin Stephens 
+Sent:	Wednesday, November 19, 1997 5:53 PM
+To:	All Monolith Personnel
+Subject:    MORE MONEY!
+
+SPY HUNTER E-MAIL-A-THON
+
+Contributions so far:		Gift from Me
+
+Bill V:     $25	        (Property:  "Crumbly")
+Ben O:      $50	        (uh, umm...hmm...my love?)
+Spen:	    $20	        (AAAAHHHHHGGGGUUUUUUIiiiiii)
+Kev L.:     $25	        (aaaaaaaaaaaaaAAAAAAAAHHHHHH!!!!)
+
+**EDITED**
+
+Total:	$295 
+
+TARGET:    $500.00
+		
+ONLY $205 more to go!!!
+
+Kevin Stephens              (stephens@lith.com)
+Monolith Productions, Inc.  (http://www.lith.com)
+
+
+From:	Kevin Stephens 
+Sent:	Wednesday, November 19, 1997 5:53 PM
+To:	All Monolith Personnel
+Subject:    The Love
+
+
+SPY HUNTER E-MAIL-A-THON
+
+Contributions so far:			Gift from Me
+
+Jeremy:    $30      (A Monolith sponsored LINUX server!!! :)
+Israel:    $33.27   (Explanation of integer math)
+Adam K:    $25      (my crap?!?...he asked for it...)
+Steve:     $19.95   (Fragrant Riot meetings)
+Joel:	   $20      (Only 1 plan file)
+
+**EDITED**
+
+Total:	$423 
+
+TARGET:    $500.00
+		
+ONLY $77 more to go!!!
+
+Now, this is what I love about working for Monolith...the love, the caring, the devotion to great gaming...We only have $77 more to go in this E-mail-A-Thon, and I want each and everyone of you to know that it has a been a privilege to be associated with such a class act...
+
+Now I know that it is easy to say, hey, why should I help pay for a Spy Hunter arcade game?  It won't even be in the building where I work...there will probably be lines when I want to play...I never did get to the boat stage anyway.  What if we all thought like this.  Where would the Monolith arcade be today?!?  No, the employees who pitched in for Rastan had a vision, and this whole E-mail-A-thon is about supporting that vision.  I want you to look deep into your heart (and pocketbook - ha, ha, ) and see if there is a Spy Hunter fan just begging to be free...I bet if you look close enough you'll find one...
+
+Kevin Stephens              (stephens@lith.com)
+Monolith Productions, Inc.  (http://www.lith.com)
+
+
+From:	Kevin Stephens 
+Sent:	Wednesday, November 19, 1997 5:53 PM
+To:	All Monolith Personnel
+Subject:    The Love
+
+SPY HUNTER E-MAIL-A-THON
+
+Contributions so far:		Gift from Me
+
+Ernie:	    $1          (Hooked on phonics)
+Nathan:	    $10	        ($10 worth of Craig's Crack)
+Jay:	    $10-20      (Shareable code :)
+Paul L.:    $27         (Helpful AI suggestions??? :)
+
+**EDITED**
+
+Total:	$471 
+
+TARGET:    	$500.00
+		
+ONLY $29 more to go!!!
+
+Now, I know not everyone can be a Platinum member of the Monolith Arcade club.  That's okay.  For a $10 contribution, you get all the privileges of the Platinum members (free Spy Hunter gameplay 24/7), but you don't get the best gifts from me...in fact, you might get a shank...
+
+This just in, Nathan just donated $10 and said: "Here's $10 bucks ... now leave me alone"... brings a tear to my eye.
+
+And Jay had this to say when he made his $10-20 contribution: "I could do more if it weren't so close to X-mas."  Saddled with X-mas obligations and STILL willing to sacrifice for the good of the Monolith Arcade...heros are born of less.
+
+When Paul L. donated his $27 he said: "Ok, Ok, I have tears ...".  Tears, from a grown man with children.  See, even men cry when the cause is noble enough...
+ 
+And when Ernie sent in his $1 (we all do what we can) donation, he said: "4 ur thx L8R =)".  I'm not sure what he meant by that, but it was touching none-the-less.
+
+Kevin Stephens              (stephens@lith.com)
+Monolith Productions, Inc.  (http://www.lith.com)
+
+
+From:	Kevin Stephens 
+Sent:	Wednesday, November 19, 1997 5:53 PM
+To:	All Monolith Personnel
+Subject: Who will put us over the top?
+
+SPY HUNTER E-MAIL-A-THON
+
+Contributions so far:		Gift from Me
+
+Pultz:	$27               (Let you beat me at Blood)
+
+**EDITED**
+
+Total:	$498 
+
+TARGET:    	$500.00
+		
+ONLY $2 more to go!!!
+
+Who will be the one...Or will it take more than one (Ernie).  You, yes you, can be the one to say "I put the Spy Hunter E-Mail-A-Thon over the top!"  You, yes you, can be the one to say "I made history, and helped all of Monolith return to a e-mail-a-thon free work day."  You, YES YOU, can be the one to say "I was the one to finally shut the ?@#$* Kevin up!"
+
+Or will you let someone else take all the glory?
+
+Kevin Stephens              (stephens@lith.com)
+Monolith Productions, Inc.  (http://www.lith.com)
+
+
+*** END OF MONITORED EMAIL ***
+
+*** At last count, #708231366 had raised over $1000 
+*** for the supposed use of adding games to 
+*** Monolith's arcade.  As of the writing of this 
+*** report only one, half-working Golden Axe machine 
+*** had been added to the arcade. In all likelihood, 
+*** that is all anyone will ever see of this money.      
+
+*** If you have seen, or know the whereabouts, of
+*** #708231366 (alias Money), please get in touch 
+*** with your local FBI.  We cannot allow this type 
+*** of blatant criminal activity to go unpunished.
+
+
+-$-
+
+
+
+11/10/97
+
+Alrighty then.
+
+Yes, this used to be BadAsh's .plan file.  I decided after
+working on Riot for that last few months, that I should probably move my .plan.  While BadAsh was a cool handle while working on B2, I decided it didn't quite work for Riot.  Thus, I opted for a more generic handle (see the movie Swingers for the intended meaning).
+
+Riot.
+
+What can I say, this game just gets better and better.  
+The whole Riot team busted ass the last few weeks to get 
+a completely functional level done for Microsoft.  I must admit it looks fantastic.  I'm sure there will be new screenshots up soon...
+
+Well, I've decided to update my most popular .plan file update ("Charlie and the Carnage Factory" posted on 8/31) with some pics sent in by one of my many fans...okay, so some guy (D. Butler) - who has just a bit too much free time :)
+
+Anyway, without further ado:
+
+
+ 
+Charlie "Want Some?!?" Bucket
+
+
+ 
+Willie "Pimp'n it" Wonka
+
+
+ 
+Veruca "I want it now!" Salt
+
+
+ 
+Umpa "What do you get..." Loompas
+
+-$-
+
+
+
+
+9/20/97
+
+Hmmmm.  What to say, what to say.  Does it really matter?
+I'm convinced that only myself and maybe one or two other
+people here at Lith even read this thing.  I get absolutely
+no mail from anyone outside the company saying "man, that
+thing you said in your .plan file was twisted.  I'm going
+to hunt you down and make you bark like the dog you are."
+Not that it matters, but I guess it would probably make me
+feel better to know that all of the *cough* effort, and
+*sniff* time I put into this thing is being appreciated by
+someone...Okay, so here it is:  If you don't work at Lith
+and are reading, have read, or know someone who doesn't 
+work at Lith who has read this or any other plan file of 
+mine (BadAsh or MenuBoy), please send me an email 
+(stephens@lith.com) stating, for the record that you:
+ 
+     A)like
+     B)dislike
+     C)don't give a rat's ass about
+     D)ask your lab partner
+     E)none of the above
+     F)all of the above
+     G)some of the above
+     H)A, C, E, F
+     I)A, most of the time but, B on Feb 2, 1953  
+
+my plan file.
+
+Thank you for your support.
+
+Okay, enough crying, whining and acting like a little
+girly-man from me for one plan update...
+
+What am I working on...Well, Miyayayk is just about done
+with the conversion of DE from using DScript to C/C++.  So,
+I've started to convert Riot from DScript to C++.  There 
+has been a rather heated debate going on here at Lith about
+whether we should code our games in C or C++.  I find the
+whole debate rather interesting (probably due to my 7 years
+in Academia where I heard/participated in numerous debates
+of this sort), so of course I'm on the fence throwing
+gas on the fire (and sitting back and roasting marshmallows:).
+
+The debate is basically this:  If we write our games in C
+then it will be much easier to port our games to other
+systems.  However, if we write our games in C++ we get all 
+the cool features of the C++ language, but would have more 
+work if we end up porting our games to other platforms...
+Well, for Riot, we are fairly certain that we won't be 
+porting it to other platforms, so we've decided to convert 
+the DScript to C++.  However, for some of the other DE 
+games we have in development (like B2), this isn't 
+necessarily the case...
+
+Now, to me, the whole debate is rather silly.  C++ really
+is just C with Object Oriented sugar-coating.  There are 
+VERY few things you can do in C++ that you can't do in C.
+The argument that C++ better supports Object Oriented 
+methodologies than C is true, however, it is not very 
+difficult to write good OO code in C.  In Fact, for DE to 
+support (polymorphic) C++ objects, the overhead of an extra
+function call is incurred on every function call DE makes 
+on the C++ objects (not to mention the overhead of 
+calculating which virtual function to use).  
+
+In defense of C++, the calculation of which virtual function 
+to use is something like a single addition to find the offset 
+into the virtual table (which is very minimal).  In addition,
+the ability to use overloaded operators for things like
+vector math is going to make the C++ code much cleaner than
+the corresponding C code.  Of course, C++ also better 
+supports the creation and destroying of objects than C.  
+Finally, most of the engineers here at Lith have been 
+writing their code in C++, so we are used to the 
+idiosyncrasies and pitfalls associated with C++ (not really
+an argument for C++, just something to note).
+
+Well, as you can probably tell, I'm on the fence.  I can see
+the good, the bad, and the ugly of using either language...
+
+All I know is that since we are NOT using DScript, life is
+good (for more on this see Mike Dussault's .plan file).
+
+Okay, I think I'm done with this installation of my plan.  
+If anything above seems incoherent, inconsequential, or
+just plain foolish, that is probably due to the fact that 
+it is.
+
+As always, forward criticisms to PackSand@Rat.Hole.
+
+-BA
+
+
+
+8/31/97
+
+Well, it looks like B2 decided not to re-negotiate my contract...
+and Riot decided to exercise their option to pick me up on the
+waiver wire...So, I'll be with  the Riot team at least until the playoffs...
+
+Okay, so what really happened is that Riot (which is using the 
+same engine as B2, but has a tighter timeline) needed a little 
+more engineering muscle and, hell, we all know what a
+beefcake (BEEFCAKE!) I am...So, Jay and Craig played a
+game of Quake for me, and we can all guess the outcome of 
+that...Okay, okay, okay...so it happened a little higher up the food-chain...but I think the Quake game would have been
+ more fun to watch...
+
+So what does this mean to the common layman...probably not a whole lot.  I'll be "officially" making cool shit for Riot, and B2 will just have to steal it :).  I figure if I can pull all the right strings (oh yeah, didn't you know?  Engineers run Monolith.  "Who runs 
+Monolith?" Master-Blaster runs Monolith...)  Sorry, I think I've seen one too many Mad Max movies...So, where was I...oh yeah... so I figure if I pull all the right strings I'll end up doing most of the AI for Riot and B2...Just picture it: futuristic, mechanized, metal bent to serve me in one game, and horrific, demonic, evil doing my biding in another...he.  he, he.  ha!  Ha...HAA BBBHAAAAAAAAAA, cha, chu *gasp* *choke*...
+
+Brainfart:
+Just had a cool idea for a 3D-shooter:
+
+     "Charlie and the Carnage Factory"
+
+You play the part of Charlie.  A shy, pre-pubescent boy growing
+up in "the hood".  Although you've had a rough life, you've 
+always managed to keep a smile on your face and a twinkle in
+your eye.  So, one day the worlds biggest drug lord (William
+"Willy" Wonka), who just happens to run the local drug factory,
+holds a contest for all his pushers.  He knows he won't live 
+forever (and he's already pushing 23, which is old for a drug
+lord), so he decides to find his replacement.  And, who better
+to be his replacement than someone that knows what today's
+discriminating crack-addict wants in a drug.  So, he places 5
+gold bars in 5 different shipments...
+
+Of course, you know nothing about this little contest, but as
+luck would have it you find a suitcase full of crack on your way
+home from church and decide you'd better return it to the local
+drug lord before you find you family, your friends, and your dog
+all dead.  Okay, so of course there is a gold bar in the suitcase,
+and of course Willy has lots of kids selling drugs, so he just 
+assumes that you are one of his pushers...anyway, you find
+yourself (and the 4 other contest winners) being escorted to
+ Willy's famous factory.
+
+Now, at this point you're just happy to be alive, so you pretend
+to be who Willy thinks you are...but, of course, everybody under
+Willy in the organization knows all the other pushers, so they
+figure you must be a Narc...However, at this point, you've
+already been introduced to all the factory workers (who all
+come from some small South American country, and call themselves "Ompa Lumpas").  Also, Willy has already shown
+ you all the new drugs (LSD wallpaper for children, model-glue soda-pop for teenagers, and of course, the "creme de la 
+creme" of the new drugs, the "everlasting job-stopper"
+(you take it once and you're either high forever, or you're
+dead..either way, you're set for life)...
+
+So, after hours of "interrogation" (most of it done with the back 
+of Willy's hand), Willy leaves you to die in the pit of his factory.
+
+Okay, so this is where the game would start...You've been
+pushed too far this time.  Your pleasant disposition is starting 
+to crack, that happy smile is turning into an evil grin.  You start
+to think, "Okay Charlie, you're under control, you're going to 
+be fine." when it  occurs to you that you were named after a
+woman's perfume...
+
+*SNAP*
+
+You're trapped in the drug factory surrounded by Ompa 
+Lumpas toting machine guns and rocket launchers.  So you
+have to fight your way out past an Army of Ompa Lumpas, 
+through rivers of corrosive toxic waste, and of course past
+the other 4 contest winners...
+
+Man, the spec. for this game just writes itself.  I can already
+see the bosses.  Yep, the other contest winners.  
+
+You've got "Augustus Glop", Willy's German connection.  He's
+a huge kid who's main attack is his teeth.  If you get too close
+to him, he'll actually try to eat you.  Of course, he is pretty easy
+to kill.  You just push him into one of the toxic waste rivers...
+
+Then you've got "Violet" Willy's Montana/Canada connection
+(you didn't know about the huge drug trade in Montana? 
+ You've obviously never been to Montana...the locals call it
+"Big High" country).  She has two main attacks.  Her most 
+common attack is to blow a huge bubble (you're not sure if
+she's using gum or snot), and then throw it at you.  If she can't 
+get you with that attack, she blows up into a huge blueberry
+ and rolls herself at you.  Now the only way to beat Violet is to
+ find the "Juicer" powerup and to attack her when she starts her blueberry attack...
+
+Next is "Veruca Salt" (no, not the band).  She handles Great
+Britain and the rest of Europe.  Her attack consists mainly
+of being a brat.  She'll run up and grab power-ups right before
+you grab them, and if you follow her around she'll show you 
+where all the secret rooms are (but of course she'll grab all the
+cool shit).  Also, she has the most annoying habit of just 
+breaking into song.  She'll also force you into corners and 
+make you say that she is the most beautiful girl in the world
+(and you can't move until you say it).  Anyway, after a few 
+minutes of being around her, you won't need an excuse to kill
+her.
+
+The last mini boss, is "Mike Teevee".  He handles Willy's
+Arizona/Mexico drug traffic.   He is almost as annoying as
+Veruca, however he also has the ability to shrink down to
+very small sizes.  His main method of attack is two
+six-shooters he always has with him.  However, since
+he lives in the world of television, he can pretty much attack
+you with whatever weapon he's seen on TV.  Needless to
+say he is a very tough guy to beat.
+
+Finally, the last boss is of course Willy.  Now, to make the game
+interesting there are multiple ways to beat Willy.  If you decide
+you want to, you can become his friend and take over the drug factory (of course this means you're evil, and you're going to
+hell, but heck it's just a game :).  All of Willy's attacks are based
+on mind control.  Willy did so many mind altering drugs back in
+the 60's (I know he's only 23 years old, but it is funnier this 
+way), that he can actually control other people's minds.  For
+example, you might be floating down the toxic river when all 
+of a sudden you start having all sorts of weird flashbacks
+and psychedelic colors start flashing on the walls (very 
+disorienting).  Or, you might meet Willy in the hallway and
+he'll say something to you like "We are the music makers,
+and we are the dreamers of the dreams."  Which, doesn't 
+seem like much of an attack, but as you try to contemplate 
+what the fuck he's talking about, he's liable to slip an
+"everlasting job-stopper" into your medkit.
+
+Okay, that went a little longer than I expected...
+
+This ought to hold off the Plan File Nazis for a couple more
+weeks...
+
+Oh, I almost forgot, what have I done for Riot lately:
+
+On-foot mode weapons, bullet-holes, cool explosions,
+simple damage physics, these are a few of my favorite
+things...
+
+
+8/16/97
+
+Well,  It looks like I'll be spending the pre-season (the next
+couple of weeks) working-out with the Riot team.  My agent
+told me it would help speed up the contract negotiations with 
+B2 if I keep my skills sharp...As usual, talks stalled on the
+ "Name Stipulation" section of my contract which demands
+that all  B2 team members refer to me as:  "Zeus", "The Lord, 
+our Savior", "One Bad Motherfucker", or "Bob." (What is it
+about Artists that makes them refuse to call you "Bob"????)
+
+...
+
+So, I'm working on the Player Modes for Riot (switching
+between different Mechas and the on-foot mode).  Also
+added a cool Spectator Mode (thanks for the help Mike D!).
+
+Also, as always there has been additional work on Claw
+(aka, the project that wouldn't die).  We just  finished up the
+Portuguese and  Spanish versions (can you say "localization
+is your friend"...I thought you could).
+
+Oh, and I think I'm supposed to be doing something with a
+Happ board and a Matrix (MAAATRrricks) for NANI...(Can you
+say the project that REALLY wouldn't die...)
+
+-BA
+
+
+8/3/97
+
+Welcome,
+
+Of course all you Blood fans out there probably know the 
+origin of my handle, if not go rent Army of Darkness...My real
+name is Kevin S. (just one of the 3 Kevins here at Lith).  I've 
+also been known to go by the name of Menuboy...
+
+What you probably want to know is: "What can I do for you?"
+Well...probably nothing.  I'm 1/2 of the Blood 2 (B2) engineering
+team, so I'll be helping to implement all the cool stuff that the 
+B2 team can think up...So, if you send me lots of $$$ I can put 
+in personalized cheats codes for you...no, not really,  but you 
+can still send me lots of $$$ ; )
+
+So far I've just been coming up to speed on the technology
+were using for B2 (i.e., DirectEngine).  Of course you all know
+how cool DirectEngine is (if not see www.directengine.com and riot.lith.com).  I've been very impressed with how easy it 
+has been for us to come up with a great prototype in a very 
+short amount of time...developing with DirectEngine
+"promises to be fun."
+
+Probably the one thing that excites me most about B2 (other
+than the fact that I'm working on it :), is the depth and detail of
+the B2 specification.  It is VERY important from an engineering
+point of view that we know as early in the development cycle
+as possible what we need to do.  Jay has done an outstanding
+job creating a spec. that details many of the issues that are
+often left till the end of the project (and are then often left out).
+
+Well, now that I've got my head firmly planted up Jay's ass, I 
+might as well spread the ass-kissing around a little... 
+
+I've also been very impressed with the rest of the B2 team. 
+I  worked with VanderShanks and Greg on Claw, so I knew
+those guys were awesome, but I had no idea what to expect
+from the rest of the B2 team.  What can I say!?!  I've really been impressed with Eric, Ernie, and of course Kevers.   All I can say
+is the Art for B2 will not disappoint.
+
+Okay, you've suffered enough of my ramblings for one sitting.
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,110 @@
+<div align="center"><center>
+
+<table border="0" cellpadding="10" cellspacing="0" width="90%"
+bgcolor="#000000">
+    <tr>
+        <td><p align="center"><font color="#FF0000" size="6"
+        face="OCR A Extended,arial">T H E</font><font
+        color="#FFFFFF" size="6" face="OCR A Extended,arial"> </font><font
+        color="#0080FF" size="6" face="OCR A Extended,arial">A M
+        A Z I N G</font><font color="#FFFFFF" size="6"
+        face="OCR A Extended,arial"> </font><font color="#008000"
+        size="6" face="OCR A Extended,arial">F O O D</font><font
+        color="#FFFFFF" size="6" face="OCR A Extended,arial"> </font><font
+        color="#FF8000" size="6" face="OCR A Extended,arial">M A
+        N</font><br>
+        <font color="#FFFFFF" size="4"
+        face="OCR A Extended,arial"><strong>I'm a tester.</strong></font></p>
+        </td>
+    </tr>
+</table>
+</center></div><div align="center"><center>
+
+<table border="0" cellpadding="10" cellspacing="0" width="90%">
+    <tr>
+        <td valign="top" width="20%" bgcolor="#404040"><p
+        align="right"><font color="#FFFFFF" size="5"
+        face="OCR A Extended,arial">12.8.99<br>
+        </font><font color="#FFFFFF" size="3"
+        face="OCR A Extended,arial">4:40pm</font></p>
+        <p align="right"><font color="#FFFFFF" size="3"
+        face="OCR A Extended,arial">Now playing:</font></p>
+        <p align="right"><font color="#FFFFFF" size="3"
+        face="OCR A Extended,arial">Fiona Apple<br>
+        &quot;Mistake&quot;</font></p>
+        </td>
+        <td valign="top" width="80%" bgcolor="#400080"><font
+        color="#FFFFFF" size="2" face="OCR A Extended,arial">I'd
+        like to apologize to my thousands of fans out there for
+        not updating my .plan file in the last two weeks. I've
+        been busy.</font><p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">Well, kinda. I'm not really
+        doing anything I wasn't doing a week ago.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">I did finish writing the
+        readme file for the Wheel of Time Server Configuration
+        Utility. I've been playing a lot of WoT multiplayer, as
+        well as Half-Life, Opposing Force...and Ultima IX.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">Ultima IX was a damned
+        nightmare. It was chock full o' bugs, it ran like
+        molasses on my 450-128-Voodoo3 machine, I had to read the
+        U9 message boards in order to make it past certain parts.
+        But it was still an Ultima. So I'm happy. I guess.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">Happy in that respect.
+        Circumstances beyond my control, but certainly not beyond
+        my reach, have conspired to make a very unhappy Grant
+        over the last three days. That's okay, though. I got my
+        Chalupa, and everything was fine.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">&quot;Getting the Chalupa&quot;
+        sounds like a sex euphemism, but I guess when your mind
+        works the way mine does, most things do.</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">I have been beating the hell
+        out of Scott, Matt, Craig, Warren, and Duane at Soul
+        Calibur lately. You almost have to feel bad for them, but
+        then you have to remember that they all make more money
+        than I do. So I'm entitled to my little victories. :)</font></p>
+        <p><font color="#FFFFFF" size="2"
+        face="OCR A Extended,arial">Unreal 2 is still in its pre-very
+        early stages. So nothing to report there. Although I
+        wouldn't be able to report anything even if we had
+        something. So never mind.</font></p>
+        <div align="center"><center><table border="0"
+        cellpadding="5" cellspacing="0" width="80%">
+            <tr>
+                <td bgcolor="#800000"><p align="center"><font
+                color="#FFFFFF" size="3"
+                face="OCR A Extended,arial">The Food Man's Pic o'
+                The Day</font></p>
+                <p align="center"><font color="#FFFFFF" size="2"
+                face="OCR A Extended,arial">I'd like to start
+                this feature off with not one. Not two. Not three.
+                FOUR pictures. This is a habit that I got into
+                for a while with my </font><a
+                href="http://www.ikuze.net/new" target="_new"><font
+                color="#FFFFFF" size="2"
+                face="OCR A Extended,arial">web page</font></a><font
+                color="#FFFFFF" size="2"
+                face="OCR A Extended,arial">, which I haven't
+                updated in over three months. Priorities!</font></p>
+                <p align="center"><font color="#FFFFFF" size="2"
+                face="OCR A Extended,arial">Standard thumbnailing
+                rules apply: Click on the image for a 640x480
+                version.</font></p>
+                <div align="center"><center><table border="0"
+                cellpadding="10" cellspacing="0">
+                    <tr>
+                        <td align="center" valign="top"><a
+                        href="http://207.233.128.55/temp/scott.jpg"><font
+                        color="#FFFFFF" size="2"
+                        face="OCR A Extended,arial"><img
+                        src="http://207.233.128.55/temp/scott.jpg"
+                        border="0" width="160" height="120"></font></a><font
+                        color="#FFFFFF" size="2"
+                        face="OCR A Extended,arial"><br>
+                        Scott (menacing)</font></td>
+                        <td align="center" valign="top"><a
+                        href="http://20

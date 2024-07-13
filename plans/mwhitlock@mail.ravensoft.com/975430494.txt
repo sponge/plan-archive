@@ -1,0 +1,19 @@
+
+Name: Marcus Whitlock
+Email: mwhitlock@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+Been a long time since I wrote anything worth writing here..
+
+Finally - we have a project for our new engine. Huzzah! As our engine is conceptually multi-platform, I am writing the PSX2 renderer portion of it, and liking it. Much to learn, but this is offset by PSX2's very elegant and flexible architecture. On the whole, a very pleasant departure from the crusty old PC architecture we all know and love!
+
+-M.
+
+Marcus Whitlock,
+PSX2 Technology Programmer / English Geezer
+Raven Software,
+Email: mwhitlock@ravensoft.com
+Tel: (608) 833-5791 x285.
+Current project: "A little something for PSX2..."
+

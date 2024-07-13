@@ -1,0 +1,104 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+
+3/13/2000
+
+Back from GDC.. What a nice little vacation!  Although with the lack of
+adequate sleep it hardly felt like a vacation.  For those that have inquired,
+I'm sending the powerpoint slides from my lecture over to our webmaster to get
+posted on our site when he's got time, but he's a full-time lawyer and only
+part-time Nihilist, so be patient, it might take a bit.  I'll be happy to email
+them to those in a hurry.
+
+Saw a lot of cool stuff at the show, the X-Box demos were amazing of course,
+as demos should be.  Normally it takes the games on a console platform 2-3 years
+to catch up with the quality of the pre-hardware demos, but hey, at least it
+gives us something to shoot for.  Most of the talks I was looking forward to 
+turned out to be good, so overall a good weekend.  Not a ton of new hardware
+stuff demo'ed, everyone's just kinda refining stuff, more T&L parts coming up,
+and the T&L stuff is getting more flexible for stuff like skinning, which is
+nice.  Got to see the Gigapixel stuff running, looks nice, should be a fun 
+board to experiment with.  Lots more cards showing off Anti-aliasing and other
+image-quality improvements, so gradual tweaks on all fronts, but fewer earth-
+shattering leaps seem to be the order of the day.
+
+I sat in on one roundtable where the conversation turned to how to craft a
+resume to break into the game industry, and it got me to thinking about all
+the resumes I've seen over the last couple years and a few rules of thumb I
+could provide.  So here for no particular reason is my top 10 things NOT to
+put on your resume:
+
+- Don't put down that you want to be either a programmer or an artist.  Or
+any other combination of two vastly different jobs.  Even if you have skills
+in both areas, figure out for yourself first what you want to do and pick one.
+Putting two doesn't double your chances, it more or less eliminates them.  No
+one wants to hire someone for a job that they aren't 100% certain is what they
+want to do.
+
+- Don't put specific game ideas or proposals into a resume or cover letter. 
+Most developers won't even read them because its too risky legally.  
+
+- DO send a cover letter personalized to the company.  We hire way too few 
+people to bother with anything that appears to have been mass-mailed to 200
+companies, we want to get the idea that someone spent a decent amount of time
+thinking about their reasons to apply for our company specifically.
+
+- Don't mention at the bottom of your cover letter "by the way, did you know
+your web site is totally insecure".  It makes people nervous that you even
+bothered to check :)
+
+- A resume isn't a platform for politics.  Don't put stuff like "Micro$oft"
+or "Winblows" in a resume to try and be clever.  Or don't go off on a huge
+Linux rant or something.  A good developer should be willing to work with
+the best tools for a given job without zealotry getting in the way.
+
+- Don't list all the different compilers or text editors you worked with.
+The language is what's important, not the tools you used, really.
+
+- If you send a demo (and by all means do), make sure it doesn't crash the
+machine or require a lot of weird drivers off the web to run it.  And an
+un-installer is definite bonus points!
+
+- Don't gripe about former employers in a resume or cover letter, no matter
+how bad you think they screwed you.  It just makes people wonder what you
+might put in your resume if you ever left them.  Save the war stories for
+the interview instead.
+
+- Don't criticize the work of the company or people you are applying to, even
+if its true.  It might seem like you'd get points for being honest, but in
+this situation its not the wise move.  No one likes an outsider they never
+met and don't (yet) respect giving advice or critiques of their work.  Even
+if your analysis is 100% correct, it leaves a negative impression.
+
+- Don't talk about money requirements in the resume or cover letter.  It just
+makes you seem greedy or focused on the monetary side of things.  Even though
+everyone likes to get paid, we all like to think that people's first thought
+is the job itself.  The money issues can wait for the interview.
+
+- Don't use a weird or goofy email address for your contact info.  It might
+reveal more than you want about yourself.  If you're main email address is 
+something like "PornK1ng@hotmail.com", consider making a new alias :)  And
+don't use a relative's or friend's email, it just confuses things and with 
+the hundreds of free email websites out there, there's not much excuse.
+
+- If you are not able to work in the country you are applying to without a 
+visa, don't try to hide that fact by listing a US address.  Likewise, if 
+your background includes foreign school or work but you ARE able to work
+in the country you are applying to, mention that specifically so there's
+no confusion.  Its a sad fact that the ability/inability to work without
+a visa is a big factor in hiring, especially at the entry level.  Its not
+the companies fault, so don't try to confuse them.
+
+
+Wow, that was even more than 10 things, I figured I'd run out of ideas at
+8 or 9.  Anyway, hope that helps someone out there.  These aren't based on
+any particular resume's we've gotten or anything, just a collection of 
+little things I've experienced over the years that might help someone out..
+
+Rob
+
+

@@ -1,0 +1,111 @@
+Account Name:  leej
+Email address: leej@finger.3drealms.com
+----------
+<B>ICANN Have a Bit of Fun Now and Then</B>
+
+In moments of total brainlock, which my wife would say happen more often than not nowadays, I use the web as sort of a shot of mental WD-40.  My most recent spraydown involved a trip to ICANN and IANA (the Internet Assigned Numbers Authority).  I'd read that the tiny island nation of Tuvalu, blessed with the top level domain abbreviation ".tv", was auctioning off registrations for ungodly sums of money.  This inspired me to have a look at other countries' top level domain (TLD) abbreviations, which I found at http://www.iana.org/cctld/cctld-whois.htm .
+
+Some of the TLDs listed, like .tv, .at, and .to, are already being exploited quite well.  Still, there are quite a few good ones out there that have yet to be exploited.  Belgium, for example, has a TLD that BeOS users would love (.be).  Anguilla's .ai extension is a natural for people working on artificial intelligence projects.  Quake fansites would have fun with Indonesia's TLD (.id), and porn sites would probably kill for a domain name based in Benin (.bj).
+
+Armed with this new information, I came up with some ideas for a few domain names that would fit certain companies and/or groups.  Here's a partial list, along with the country that owns the TLD:
+
+<Table border>
+<TR>
+<TD>Japanese &quot;cuteness&quot; fans:</TD>
+<TD>kawaii.aw (Aruba)</TD>
+</TR>
+<TR>
+<TD>Popeye fans:</TD>
+<TD>iamwhati.am (Anguilla)</TD>
+</TR>
+<TR>
+<TD>Deodorant manufacturers:</TD>
+<TD>getsridof.bo (Bolivia)</TD>
+</TR>
+<TR>
+<TD>Politicians:</TD>
+<TD>fullof.bs (Bahamas)</TD>
+</TR>
+<TR>
+<TD>Spammers:</TD>
+<TD>bulkmail.cc (Cocos (Keeling) Islands)</TD>
+</TR>
+<TR>
+<TD>MP3 nuts:</TD>
+<TD>rippedfroma.cd (Congo, Democratic People's Republic)</TD>
+</TR>
+<TR>
+<TD>Will Smith's former cohort:</TD>
+<TD>hestherapperImthe.dj (Djibouti)</TD>
+</TR>
+<TR>
+<TD>Solfeggio teachers:</TD>
+<TD>doremifasolati.do (Dominican Republic)</TD>
+</TR>
+<TR>
+<TD>Horror movie fans:</TD>
+<TD>scream.ee (Estonia)</TD>
+</TR>
+<TR>
+<TD>Bob and Doug Mackenzie fans:</TD>
+<TD>takeoff.eh (Western Sahara)</TD>
+</TR>
+<TR>
+<TD>Lucy Van Pelt:</TD>
+<TD>thepsychiatristis.in (India)</TD>
+</TR>
+<TR>
+<TD>Walter Cronkite:</TD>
+<TD>andthatsthewayit.is (Iceland)</TD>
+</TR>
+<TR>
+<TD>Lubricant manufacturers:</TD>
+<TD>jelly.ky (Cayman Islands)</TD>
+</TR>
+<TR>
+<TD>People who don't know the words to the song:</TD>
+<TD>lala.la (Lao, People's Democratic Republic)</TD>
+</TR>
+<TR>
+<TD>Non-metric butcher shops:</TD>
+<TD>buyitbythe.lb (Lebanon)</TD>
+</TR>
+<TR>
+<TD>Football players on the sideline:</TD>
+<TD>hi.ma (Morocco)</TD>
+</TR>
+<TR>
+<TD>Doctors:</TD>
+<TD>trapperjohn.md (Moldova, Republic of)</TD>
+</TR>
+<TR>
+<TD>A certain candy company:</TD>
+<TD>plainorpeanut.mm (Myanmar)</TD>
+</TR>
+<TR>
+<TD>Three Stooges fans:</TD>
+<TD>larrycurlyand.mo (Macau)</TD>
+</TR>
+<TR>
+<TD>Nancy Reagan:</TD>
+<TD>justsay.no (Norway)</TD>
+</TR>
+<TR>
+<TD>Perl users:</TD>
+<TD>script.pl (Poland)</TD>
+</TR>
+<TR>
+<TD>Unix editor nuts:</TD>
+<TD>edit.vi (Virgin Islands)</TD>
+</TR>
+</Table>
+
+I've left out a ton, I'm sure.  Send me an e-mail with "TLD" somewhere in the subject and with your ideas in the message body.  I'll post some of the better ones here in my next .plan file update.  Sorry, no prizes or anything - can't afford them, not on the salary of a musician/sound designer. ;-)
+
+
+
+
+
+
+
+-=>INSERT SHASH HERE<=-

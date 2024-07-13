@@ -1,0 +1,865 @@
+Name: William Mull
+
+Email: wmull@mail.ravensoft.com
+
+Description: Website Admin
+
+Project: General
+
+-------------------------------------------------------------------------------
+
+<base target="_top">
+
+<font face="Trebuchet MS, Arial, Helvetica" size="2">
+
+[Thurs., July 22, 1999]
+
+The Linux port for the <i>Heretic II</i> server is now available for download
+
+(<a href="http://www.planetquake.com/dl/dl.asp?hereticii/files/heretic2-1.06-linux-x86-glibc2.tar.gz">heretic2-1.06-linux-x86-glibc2.tar.gz</a>: 820 KB or <a href="http://www.planetquake.com/dl/dl.asp?hereticii/files/heretic2-1.06-linux-x86-glibc2.zip">heretic2-1.06-linux-
+
+x86-glibc2.zip</a>: 806 KB)! Feel free to mirror the file(s) and <a href="mailto:wmull@ravensoft.com">send me a quick
+
+email</a> with the location, and I'll keep an updated list on <a href="http://www.hereticii.com/">HereticII.com</a>. Be
+
+sure to check <a href="http://www.ravensoft.com/">Raven</a> Programmer <a href="mailto:jsimpson@ravensoft.com">Jake Simpson</a>'s upcoming .plan update
+
+for more info, and peruse the <a href="http://www.hereticii.com/misc/readme.txt">readme.txt</a> for installation and configuration
+
+instructions!
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Wed., July 21, 1999]
+
+Be sure to pick up this month's (September 1999) issue of Computer
+
+Gaming World (hardcopy gaming mag) - <i>Soldier of Fortune</i> and <i>Star
+
+Trek: Voyager - Elite Force</i> have been named 'Hot 100' upcoming games!
+
+
+
+<a href="mailto:jscott@ravensoft.com">John Scott</a> and <a href="mailto:nalbury@ravensoft.com">Nathan Albury</a>, Programmers on <i>Soldier of Fortune</i>, will
+
+be doing the IRC chat thing, answering some of your questions, this
+
+Thursday at 7pm cst/8pm est in <i>#gamedesign</i> on <i>irc.3dnet.net</i>. Head to
+
+<a href="http://www.gamedesign.net/">Rust</a> for more info!
+
+
+
+Speaking of <a href="http://www.gamedesign.net/">Rust</a>, they mentioned (by way of <a href="http://www.planetkingpin.com/">Planet KingPin</a>), that a future
+
+release of ArghRad is planned to support <i>Heretic II</i>! ArghRad (by Tim
+
+Wright) is a modified version of <a href="http://www.idsoftware.com/">id</a>'s lighting utility for Quake II, giving maps
+
+much more of a curve-y appearance. If you want to know more about it,
+
+check out <a href="http://www.planetquake.com/arghrad/">Radiosityland</a>!
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Mon., July 19, 1999]
+
+Congratulations to <a href="mailto:mschulenberg@ravensoft.com">Mike "Oz" Schulenberg</a> (Level Designer currently
+
+working on <i>Star Trek: Voyager - Elite Force</i>) and <a href="mailto:jhughes@ravensoft.com">Jim "Jersey" Hughes</a>
+
+(Level Designer currently working on <i>Soldier of Fortune</i>), who started
+
+here at <i>Raven Software</i> one year ago today!
+
+
+
+Lots of <i>Raven</i> birthdays to announce this month! <a href="mailto:bduncanson@ravensoft.com">Bobby Duncanson</a>
+
+(Artist/Modeller on Soldier of Fortune) and <a href="mailto:blove@ravensoft.com">Bob Love</a> (Programmer on
+
+<i>SoF</i>) were born today (some-odd years ago). Yesterday was head honcho
+
+<a href="mailto:braffel@ravensoft.com">Brian Raffel</a>'s birthday as well. <a href="mailto:ebiessman@ravensoft.com">Eric Biessman</a> (<i>SoF</i> Project Leader)
+
+celebrates his this Wednesday. And last but not least, <a href="mailto:ggarren@ravensoft.com">Gina Garren</a>'s
+
+birthday was on July 4th (and still is)!
+
+
+
+We've just put up our <a href="http://www.raven-games.com/forums/">Classic Raven Games Forums</a>, so all you old-school
+
+<i>Raven</i> gamers should check it out and let your presence be known!
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Thurs., July 15, 1999]
+
+For you hardcore <a href="http://www.hexenworld.com/">HexenWorld</a>ers out there, Desperado has made a new
+
+deathmatch map, called <a href="http://www.geocities.com/Area51/Nova/9098/breakdown.zip">Breakdown</a>. There are many things in the
+
+map's scenery that can be broken when shot, making for increasingly more
+
+interesting deathmatch scenarios. There are also traps with which you can
+
+either contain or kill your enemy. Pretty cool!
+
+
+
+According to <a href="mailto:rjohnson@ravensoft.com">Rick Johnson</a>, the best 3D accelerator card for <a href="http://www.soldier-of-fortune.com/">Soldier of
+
+Fortune</a> would be any one of the TNT cards, since we use them in-house.
+
+They have the best performance and 32 bit rendering, so of course they
+
+look really good in <i>SoF</i>.
+
+
+
+<a href="mailto:cclee@ravensoft.com">Chia Chin Lee</a>, Sound Designer/Composer on <i>Soldier of Fortune</i>, sends
+
+word that the final score for <i>SoF</i> will vary in style. Most levels will have
+
+music cues that punctuate the action, while some levels will have dynamically
+
+driven music segments that react to player actions.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Wed., July 14, 1999]
+
+<a href="mailto:mryssen@club-internet.fr">Michaël Ryssen</a> has just released <a href="http://www.raven-games.com/kokak/Heretic.htm">GLHeretic V0.7</a>, featuring dynamic (and
+
+colored) lighting! Check out <a href="http://www.raven-games.com/kokak/glhshot.jpg">this screenshot</a>! This new version of GLHeretic
+
+also supports MD2 files, as does his GLDoom! The problem is that there
+
+are currently no MD2 models for <i>Heretic</i>. So, if anyone knows where to
+
+find such models, or is brave enough to build MD2 monsters for GLHeretic,
+
+please contact <a href="mailto:mryssen@club-internet.fr">Michaël Ryssen</a>.
+
+
+
+If you are interested and able to help test the final version of <i>HexenWorld</i>
+
+(finally!) next week (Monday and Tuesday, July 19th and 20th), please
+
+send <a href="mailto:rjohnson@ravensoft.com?subject=Testing HexenWorld Final&body=Please do not remove the subject line!">Rick Johnson</a> an email. For more info, check Rick's latest .plan
+
+update.
+
+
+
+<a href="http://www.mirabilis.com/">ICQ</a> (everyone has that, right?) has a user-made <a href="http://www.icq.com/sounds/Computer_and_Electronic_Sounds.html">Sound Scheme</a> based on
+
+<i>Heretic II</i>. Head to <a href="http://www.icq.com/sounds/use-schemes.html">this page</a> for installation info! There's also a great new
+
+user-made <a href="http://www.stellarspace.com/maps/qe1m1test.zip">Heretic II DM map</a> currently playing over on the <a href="http://www.5assedmonkey.com/">5 Assed
+
+Monkey</a> (love that name ;) server (204.0.130.113:28910).
+
+
+
+A few people from the <i>Wisconsin State Journal</i> will be visiting the <i>Raven
+
+Software</i> offices, doing a feature article for their 'Rhythm' section. It will
+
+probably cover a lot about the company and the people who work here, as
+
+well as our work on <i>Star Trek: Voyager - Elite Force</i> and <i>Soldier of
+
+Fortune</i>. Check <a href="mailto:khoekstra@ravensoft.com">Kenn Hoekstra</a>'s .plan soon for more info about that.
+
+
+
+Check out the <a href="http://www.ga-source.com/images/101/fr1.jpg">new SoF screenshot</a> over on <a href="http://www.ga-source.com/">GA-Source</a>. The image
+
+features the female raider, who is a member of a terrorist organization you're
+
+trying to take down in the game.
+
+
+
+Latest word on the <i>Soldier of Fortune</i> Demo is that yes, we will be putting
+
+out a demo at some point, but we can't give a specific date or info on how
+
+much or what will be included in the demo. Things are looking really good,
+
+and we're on schedule. I'll post more info as it becomes available, but in the
+
+meantime if you'd like to comment, head to the <a href="http://www.soldier-of-fortune.com/forums/">SoF Forums</a>.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Tues., July 13, 1999]
+
+<a href="http://www.voodooextreme.com/">Voodoo Extreme</a> has posted a couple of new <i>Star Trek: Voyager - Elite
+
+Force</i> screenshots.
+
+
+
+Check out the <a href="http://3dgamegeek.com/interviews/rjohnson/">3DGameGeek interview with Rick Johnson</a>, Lead
+
+Programmer on <i>Soldier of Fortune</i>.
+
+
+
+Speaking of which, we've posted two new <a href="http://www.soldier-of-fortune.com/">Soldier of Fortune</a> screenshots
+
+over on our site for your enjoyment. And just to let you guys know ahead of
+
+time, we're currently working on a killer new <i>SoF</i> AVI for you guys! Can't
+
+say at this point when we'll release it, or where, but it will show more than
+
+the first AVI we released! <a href="http://www.sofnews.com/">SoFNews.com</a> has a couple of new <i>SoF</i> shots
+
+as well.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Mon., July 12, 1999]
+
+<a href="mailto:srice@ravensoft.com">Scott Rice</a>, Art Lead on <i>Soldier of Fortune</i> - an awesome artist, person,
+
+and friend to all of us here at <i>Raven</i>, just announced his upcoming
+
+departure in order to attend film school in Austin, TX. Check out his finger
+
+update. Best of luck, Scott, we'll miss you! :-)
+
+
+
+For the complete bio on John F. Mullins, <a href="http://www.ravensoft.com/">Raven</a>'s 
+
+exclusive <i>Soldier of Fortune</i> consultant - this man has definitely walked the
+
+walk! - check out the <i>Soldier of Fortune</i> <a href="http://www.soldier-of-fortune.com/articles.shtml">Articles</a> section.
+
+
+
+That two page preview of <i>Soldier of Fortune</i> in the latest issue of
+
+Next-Gen magazine is sweet! Be sure to check it out first chance you get!
+
+
+
+<a href="http://wirednews.net/eog/">Ear On Games</a> has a <a href="http://wirednews.net/eog/heretic2.html">review of Heretic II's sonic wonderments</a>.
+
+
+
+Congrats to Christopher (Gwynhala) Burke, who just released the first new
+
+<i>Heretic II</i> player model to use his Motion Capture utilities! Head to
+
+<a href="http://www.hereticii.com/">HereticII.com</a> for details on that, so you can start making your own
+
+custom <i>Heretic II</i> models!
+
+
+
+Les auteurs <a href="mailto:blove@ravensoft.com">Bob Love</a> et <a href="mailto:khoekstra@ravensoft.com">Kenn Hoekstra</a> are considering starting an online
+
+Sci-Fi/Fantasy Webzine. If you're interested in submitting your articles of
+
+fiction for publication, send them an email.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Sat., July 10, 1999]
+
+Just in case you can't get enough <a href="http://www.ravensoft.com/">Raven Software</a> news, check out
+
+<a href="http://www.agn3d.com/">AGN3D's 3D FPS popularity poll</a>, and vote for <i>Soldier of Fortune</i>,
+
+we need you! :-)
+
+
+
+There's an <a href="http://www.cgreview.com/features/eliteforce/">interview with Jeremy Statz</a>, one of our awesome level
+
+designers here at <a href="http://www.ravensoft.com/">Raven</a>, talking about his work on
+
+<i>Star Trek: Voyager - Elite Force</i>.
+
+
+
+<a href="http://www.avault.com/news/displaynews.asp?story=791999-112354">John Scott talks to Avault</a> about S3TC video card support in
+
+<i>Soldier of Fortune</i>, offering some screenshots and card comparisons.
+
+
+
+<a href="mailto:eturman@ravensoft.com">Eric Turman</a> does as good of a job <a href="http://www.online-extreme.com/cgi-bin/frame.cgi?go=articles/Stories/9.07.1999.SoFinterview.shtml">describing his CHIMAERA</a>
+
+(Control Hierarchy with Intrinsically Modular Adaptive
+
+Entities for Raven Animation) as any I've seen. :-)
+
+
+
+<a href="http://www.fgnetwork.com/features/preview_sof1-1.htm">FGN has a two-part SoF preview</a> as well.
+
+
+
+Head to <a href="http://www.soldier-of-fortune.com/">Soldier-of-Fortune.com</a>'s official <a href="http://www.soldier-of-fortune.com/forums/">Soldier of Fortune Forum</a>
+
+and let us know your thoughts on our upcoming game.
+
+
+
+Visit <a href="http://www.ravensoft.com/">Raven Software</a>'s network of sites for all <i>Raven</i>'s news and info
+
+that's fit to print!
+
+
+
+Have a great weekend :-)
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Fri., July 9, 1999]
+
+Just got back from vacation - a road trip across country with my girlfriend.
+
+Just to summarize, I flew to LA, where Laure met me at the airport.
+
+We drove straight down to San Diego and stayed for 2 days - went to the San
+
+Diego Zoo and the Wild Animal Park. Drove up to Las Vegas - seen one casino,
+
+you've seen them all (smokey, gaudy, and loud). I must say, Nevada has the
+
+ugliest desert of them all. When we crossed into Utah, it's as if the color
+
+was suddenly turned on. People are NICE in Utah. Our first stop in Colorado,
+
+we made a point to check out Red Rocks, that gorgeous natural ampitheater
+
+where U2 did that great live album. Boulder, CO is by far the most incredible
+
+town, absolutely loved it! We stayed there for 2 days, and it was the highlight
+
+of our entire trip. As it happens, President Clinton was visiting Rapid City,
+
+South Dakota at the same time we were driving through. The town was packed,
+
+for the above and whatever other reason, so we didn't have a chance to see
+
+Mount Rushmore. There weren't any vacancies anywhere around there, so we had
+
+to keep driving. We finally found a vacancy at 3am, in the exciting metropolis
+
+capitol of Pierre (where the exciting thing for people to do seems to be
+
+driving to Rapid City to see Mount Rushmore and the Dinosaur Museum). Our drive
+
+through Minnesota was about as exciting scenically as South Dakota. And finally
+
+back home to Madison, WI! Had a WONDERFUL trip! Great to be back, finally to
+
+have my girlfriend here with me, and to be back at work here at Raven! Took LOTS
+
+of pictures, don't know if I'll post them online (haven't seen them yet)! As you
+
+can imagine, after being gone for a whole week, it's been quite a job getting
+
+caught up with email, etc. all morning! Speaking of which . . . gotta go, more
+
+later! :-)
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Thurs., June 24, 1999]
+
+Just wanted to reiterate what <a href="mailto:braffel@ravensoft.com">Brian Raffel</a> here at <b><i>Raven</i></b> already said
+
+in his .plan today, and announce that <a href="http://www.ravensoft.com/">Raven Software</a> is nine years
+
+old today! It's quite an achievement - and I can contend, everyone here
+
+actually gets along really well! Onward and upward, to even better days
+
+here at <b><i>Raven Software</i></b> than the first 3105 have been!
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Wed., June 23, 1999]
+
+The initial "Coming Soon" page on <a href="http://www.eliteforce.net/">www.eliteforce.net</a> & <a href="http://www.hazardteam.com/">www.hazardteam.com</a>
+
+(both domains are for the same site) has gone live, alerting the masses
+
+to look for our official <i>Star Trek: Voyager - Elite Force</i> site, which
+
+we'll be unveiling in the near future! w00 h00, again!
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Tues., June 22, 1999]
+
+The brand spankin' newly redesigned <a href="http://www.ravensoft.com/">Ravensoft.com</a> site is finally
+
+online! w00 h00! Thanks very much to everyone who helped make the site a
+
+reality! Watch for more great things to come! :-)
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Sat., June 12, 1999]
+
+Just a quick update to say that today is my birthday :-)
+
+Myself and some friends from work here at Raven are going someplace
+
+good to eat (as yet undetermined), and then to see The Spy Who Shagged Me
+
+(yeah, bay-bee!). Thanks to my loved ones and friends, for all the kindness
+
+and joy you've brought to my life, and for thinking of me on this day.
+
+Everyone, have a safe and happy weekend, and have fun in my honor! :-Þ
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Mon., May 17, 1999]
+
+Back from E3! Had a wonderful, harried time jousting between <a href="http://www.ravensoft.com/">Raven</a>'s two
+
+booths where our games were showing. People got to see <i>Star Trek: Voyager
+
+- Elite Force</i> for the first time. Even in this early stage of development,
+
+I really enjoyed demoing the game and watching everyone's reactions.
+
+<a href="http://www.soldier-of-fortune.com/">Soldier of Fortune</a> was shown by appointment only, but that didn't keep
+
+people from talking about the game, as these articles can attest: 
+
+<ul><li> <a href="http://www.gamesmania.com/english/sneak/new/acte3/acte3.htm">Gamesmania</a></li>
+
+<li> <a href="http://pile.evilavatar.com/e3day1.htm">Evil Avatar</a></li>
+
+<li> <a href="http://www.sharkyextreme.com/games/glimpses/raven/sof/#1">Sharky Extreme First Look</a></li>
+
+<li> <a href="http://www.pcgamer.com/previews/14.html">PC Gamer Online</a></li>
+
+<li> <a href="http://www.avault.com/news/displaynews.asp?story=5111999-0648">Adrenaline Vault Interview</a></li>
+
+<li> <a href="http://www.avault.com/previews/preview_temp.asp?game=sof&page=1">Adrenaline Vault Preview</a></li></ul>
+
+I'll try to keep an updated list of all the E3 wrap-up reviews <i>SoF</i> has
+
+garnered on the <a href="http://www.soldier-of-fortune.com/">Soldier of Fortune</a> site, so keep checking!
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Sat., May 8, 1999]
+
+As I attempt to truss the remaining unfinished business here at work, before I leave
+
+for that deadly beautiful land of my former residence (namesake of that
+
+awesome ironic Frank Black song) and the manic splendor that is E3, please
+
+allow me to educe just this helpful quick reminder . . . Don't miss the excellent,
+
+<a href="http://www.loonygames.com/content/1.36/feat/index6.shtml">third (and last) installment</a> of <a href="http://www.loonygames.com/">loonygames</a>' comprehensive <a href="http://www.loonygames.com/content/1.36/feat/">History of Raven Software</a>,
+
+covering <i>Spectre</i> (<a href="http://www.ravensoft.com/">Raven</a>'s cancelled 3D engine), <i>Heretic II</i>, <i>Soldier of Fortune</i>,
+
+and <i>Star Trek: Voyager</i>. Have yourselves a great restful weekend, enjoy your week
+
+following, and I shall see you soon!
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Thurs., May 6, 1999]
+
+In honor of this week's massive <a href="http://www.loonygames.com/content/1.36/feat/">History of Raven Software</a>, <a href="http://www.loonygames.com/">loonygames</a> cracks
+
+open some of <a href="http://www.ravensoft.com/">Raven</a>'s <i>Classic Games</i> and <a href="http://www.loonygames.com/content/1.36/bgnbn/">gives them a fresh look</a>. This article
+
+covers <i>CyClones</i>, <i>Black Crypt</i>, <i>Hexen</i>, <i>Take No Prisoners</i>, and <i>MageSlayer</i>. So head
+
+to <a href="http://www.loonygames.com/">loonygames</a> and get ready to <a href="http://www.loonygames.com/content/1.36/bgnbn/">get nostalgic</a>!
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Wed., May 5, 1999]
+
+Just a real quick reminder to check <a href="http://www.loonygames.com/">loonygames</a> for the three-part <a href="http://www.loonygames.com/content/1.36/feat/">Definitive History
+
+of Raven</a>, which started on Monday, <a href="http://www.loonygames.com/content/1.36/feat/index5.shtml">Pt.2</a> continues today, and Pt.3 will finish
+
+up this <i>massive</i> documentary in good stead on Friday, so look for it!
+
+
+
+Also, I leave this Sunday for Los Angeles and <a href="http://www.e3expo.com/">E3 (Electronic Entertainment Expo)</a>,
+
+and will return the following Sunday, so to those friends and associates I won't
+
+see during my stay in LA, I'll have Net access, so you can still <a href="mailto:wmull@mail.ravensoft.com">reach me via email</a>.
+
+Have a great week!
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Mon., May 3, 1999]
+
+Be sure to check out <a href="http://www.loonygames.com/content/new/">Inside Raven Software</a>, which is a week-long feature over
+
+on <a href="http://www.loonygames.com/">loonygames</a>. This definitive history of <a href="http://www.ravensoft.com/">Raven Software</a> goes all the way back
+
+from <i>Black Crypt</i>, to <i>Soldier of Fortune</i>, and everything in between. Comments
+
+from eleven <i>Raven</i> employees are included, along with tons of never before heard
+
+information about current projects (<i>Soldier of Fortune</i> and <i>Star Trek: Voyager</i>),
+
+and even some projects never revealed before now. This is one humongous
+
+article, spread out over Monday, Wednesday and Friday, so head back to
+
+<a href="http://www.loonygames.com/">loonygames</a> all this week for the unabridged <a href="http://www.loonygames.com/content/new/">History of Raven</a>!
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Thurs., Mar. 18, 1999]
+
+My buddy <a href="mailto:jason@loonygames.com">Jason "loonyboi" Bergman</a>'s here for a big piece on <a href="http://www.ravensoft.com/">Raven</a> for
+
+<a href="http://www.loonygames.com/">loonygames</a>. So I've been busily trying to arrange all of his
+
+interviews. It's been great fun having him here, both from a work
+
+standpoint, and for after hours <i>Q1</i> & <i>DK demo</i> deathmatching fodder! Not to mention
+
+loony's burgeoning kick-ass <i>Tekken 3</i> skillz, which were giving me
+
+some problems! He seems to be making the transition to 3D fighting games
+
+amazingly well! ;)
+
+But, I got my revenge and then some, last night when we deathmatched the
+
+just released <b>Heretic II Expansion Pack</b>! (Nice transition, eh?)
+
+Head to <a href="http://www.hereticii.com/">HereticII.com</a> and download the <a href="http://www.hereticii.com/her2epdoc.html">Heretic II EP</a>, and the <i>six all-new EP DM Maps</i>! <i>Lovin' it!</i>
+
+If you can't download the files right away,
+
+be sure to try the mirrors. The response has been overwhelmingly great so far,
+
+<a href="mailto:wmull@mail.ravensoft.com">let me know</a> what you think!
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Mon., Mar. 8, 1999]
+
+One of the evolving features / trends that's come about on <a href="http://www.HereticII.com/">HereticII.com</a>, is a
+
+growing list of <i>Resource Shrines</i>. What are these, you may ask? Well, they
+
+just sort of came about of their own accord. They're what I call particular
+
+hosted sites that offer definitive help, knowledge, and / or file resources.
+
+They're precipitated by, and dedicated towards a particular need in the
+
+community. In the same way Shrines provide necessary resources on your journey
+
+through Parthoris within <i>Heretic II</i>, these help to build up the community and
+
+make it better, which is what we're all about. I'd like to extend an invitation
+
+to anyone else out there who has an idea for a <i>Heretic II Resource Shrine</i>.
+
+Put together a temporary site online (note: please <i>don't</i> send me a ZIP of your
+
+site! ;-), and <a href="mailto:wmull@mail.ravensoft.com">send me an email</a> with the URL to take a look at it, and I just
+
+might host it. Thanks, much!
+
+
+
+<b>Resource Shrines</b>
+
+<i>Cults</i> - <a href="http://www.HereticII.com/shrine/">The Shrine</a>
+
+<i>Walkthrough</i> - <a href="http://www.HereticII.com/walk/">The Spirit Shrine</a>
+
+<i>Skins</i> - <a href="http://www.HereticII.com/ghost/">The Ghost Shrine</a>
+
+<i>Maps</i> - <a href="http://www.HereticII.com/atlas/">HereticII Atlas</a>
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Wed., Mar. 3, 1999]
+
+I've been very much in transition, both at work and at home, since I first
+
+transferred here to Raven, almost four weeks ago. For the first two weeks, the
+
+apartment I moved into had been undergoing renovations in both the kitchen and
+
+bathroom, but the end result is definitely worth all the mess and disturbance
+
+it caused during that time. Likewise, the new area here at the Raven offices
+
+is finally coming to fruition, and I'll be getting all settled in to my very
+
+first real office later today! w00 h00!
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Tues., Mar. 2, 1999]
+
+We know the natives are getting restless, so we thought we'd give you a word of
+
+assurance.
+
+Right now, the EP is done. <a href="mailto:jsimpson@mail.ravensoft.com">Jake (The Gent) Simpson</a> has finished with the coding
+
+that I observed him working on first-hand yesterday. The EP has been turned
+
+over to QA for one, hopefully final session of bug inspection. But this won't
+
+be a week-long QA thing - although, obviously no one involved is about to
+
+release a buggy EP, which is why this process has gone on as long as it has.
+
+But as you can tell, things are wrapping up, and you should be playing the EP
+
+VERY soon now!
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+[Mon., Mar. 1, 1999]
+
+Hi, my name is William Mull. I'm known online as Phoebus, and my friends and
+
+family call me Bill. In the future, I'll be using my .plan file to help keep you
+
+informed on all the projects we're working on here at Raven. But for whoever's
+
+interested, I'll begin with a quick summary of how I came to work for Raven
+
+Software.
+
+
+
+I worked for a year and a half as <a href="http://www.activision.com/">Activision</a>'s Online Production Coordinator.
+
+Three weeks ago today, in fact, I transferred to Madison, WI to work full-time as
+
+<a href="http://www.ravensoft.com/">Raven Software</a>'s Website Administrator. It has been quite a journey from the
+
+time I first discovered computers, which lead to the spark that changed my life,
+
+the first time I played Wolf3D, and when I first successfully connected via modem
+
+with my buddy in Doom. Which lead me to discover Heretic and Hexen when
+
+those games were released. At the time, of course, I had no idea that I would
+
+eventually find myself here at Raven, working for the developers of the games I
+
+truly love the most.
+
+
+
+After receiving my undergrad degree in English at the University of Georgia, I
+
+decided to get my Master's in something to do with computers, and decided on
+
+Instructional Technology. Although I earned my Master's degree with honors, I had
+
+already come to the conclusion around the halfway point, that what I really
+
+wanted to do didn't directly involve my course of study in the least. But it did lead
+
+to me teaching myself HTML and becoming consumed with the computer gaming
+
+scene. All of this came at a the right time for me, having played bass guitar in
+
+the late 80's in the local music scene in Athens, GA (Seven Simons, Kilkenny Cats,
+
+and Lotus Eaters). I look back fondly to that ten year period of my life, with lots
+
+of great memories and no regrets. But, I realized that I didn't want to pursue the
+
+proverbial "Rock and Roll Dream" anymore, right around the time I first
+
+discovered computers.
+
+
+
+I've been involved with Raven for quite a while now, ever since Hexen II was first
+
+announced on the Net. At that time, I was running my first website, <a href="http://www.phoeb.com/">Cult of
+
+Phoebus</a>. Raven asked me to redesign their site, and I become their webmaster,
+
+which was my first big break in the gaming industry. My next website,
+
+<a href="http://www.hexenworld.com/">HexenWorld</a>, was very much a labor of love. Along with Bakshra, Richard
+
+Connery, Upaboveit, Filth, and other online peers from those very early days of
+
+the fledgling and often-troubled Hexen II scene, I've had the unique pleasure of
+
+helping build from scratch and nurture an entire community.
+
+
+
+In addition to helping to develop websites for all of <a href="http://www.activision.com/">Activision</a>'s games, I
+
+continued working on my own to improve Raven's online presence. I have always
+
+been connected and devoted to Raven. When they asked me if I'd be willing to
+
+transfer to Wisconsin and become their Website Administrator - a new position
+
+here, created for and by me - it didn't take me very long to reply in the
+
+affirmative. Now that I'm here, although I'm still getting settled in, I have come
+
+to realize that this is the creative environment I've always dreamed of working in.
+
+
+
+If you'd like to get in touch with me, or check out what I've been working on
+
+lately, here is my email auto-sig., which should give you a good idea of the sites
+
+I'm now officially working on for Raven Software:
+
+
+
+William (Phoebus) Mull
+
+Web Site Administrator
+
+Raven Software
+
+<a href="mailto:wmull@mail.ravensoft.com">wmull@mail.ravensoft.com</a>
+
+
+
+Raven Software Network
+
+<a href="http://www.ravensoft.com/">http://www.ravensoft.com</a>
+
+<a href="http://www.Soldier-of-Fortune.com/">http://www.Soldier-of-Fortune.com</a>
+
+<a href="http://www.Raven-Games.com/">http://www.Raven-Games.com</a>
+
+<a href="http://www.HereticII.com/">http://www.HereticII.com</a>
+
+<a href="http://www.HexenWorld.com/">http://www.HexenWorld.com</a>
+
+
+
+Thanks to everyone in the community I've come to know and love. Your loyalty
+
+has greatly benefitted myself, the games, and Raven as a company. And I'm very
+
+glad to be here to tell you that. Stay tuned for more great things to come!
+
+</font>

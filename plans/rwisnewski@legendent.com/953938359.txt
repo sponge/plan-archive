@@ -1,0 +1,12 @@
+09-04-98
+--------
+Well, I'm finally getting around to updating some of the stuff I've been working on, so here goes...
+
+I've taken a short break from working on creating some of the 3D angreal pick-ups and also the 3D visuals for the spell effects in order to work on 3D environmental items, such as trees, bushes, light sources, and other objects.  So far, I'm happy with the way the trees are looking, and I have a couple of light sources working nicely too.  As every 3D artist knows, it's always a struggle to keep a low polygon count and still have the objects look decent, and I think these pieces have a few more polys than other examples I've seen, but I definitely think that visually it's worth it.  I think they'll fit in quite well with the richness in texture and level design found in the rest of the game, which really looks awesome - I say this totally unbiased ;).
+
+For the next couple of weeks I will be continuing on with environmental decorations (indoor and outdoor), as well as some environmental landscape textures. I will also be working on developing some cool (hopefully) special effects for spells and some other items... more on that in the future.  Also on deck is finishing the 3D angreal pick-ups.
+
+As far as personal life goes, my wife is 6 months pregnant, my Golden Retriever, Murphy, (11 months old now) has picked up the habit of eating every magazine and/or remote control we happen to leave lying around, and we're working on fixing up several rooms in our house (yes,of course the future baby room too).  In addition, the indoor soccer league I play in starts up next Thursday (which I'm very much looking forward to, although my real wish is not to have a heart attack in the first game, seeing with all the other things I've been doing, I haven't really pushed the old cardio vascular system too hard for quite some time now).  I have to admit that I have been playing some Age of Empires here and there too, and judging from the screenshots and mini movies I've seen of AOE2, I'm saving a couple of bucks to get it when it comes out.  Pretty impressive looking, and like James,  I too like the depth of the game, strategy wise.
+
+That's it for now.  Back to the modeling/mapping/animating...
+

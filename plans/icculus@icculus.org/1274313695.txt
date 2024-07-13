@@ -1,0 +1,69 @@
+IcculusFinger v2.1.23
+
+Geeze, you don't update your .plan to pimp every little thing you do and
+everyone starts to think you're a welfare queen or something. Fine, here you
+go.
+
+
+Killing Floor:
+
+ Now available for Mac OS X, via Steam:
+   http://store.steampowered.com/app/1250/
+
+
+Braid:
+
+ Mac Steam version now shipping with Steam Cloud support, go buy it!
+   http://store.steampowered.com/app/26800/
+
+
+The Humble Indie Bundle:
+
+ Was a wild success! Read all about it, and the four ports I contributed, here:
+   http://www.wolfire.com/humble/
+
+
+Lugaru:
+
+ Now open source!
+   http://icculus.org/news/news.php?id=4590
+
+
+Aquaria:
+
+ Final official Linux version was in the Humble Indie Bundle, along with a
+ brand new Mac OS X port. Source code coming up soon!
+
+
+RoboMath:
+
+ If you're a teacher in Canada, go request a copy for your classroom:
+   http://www.asc-csa.gc.ca/eng/missions/sts-127/robomath.asp
+
+
+SDL:
+
+ I've been improving the iPad support in 1.3 for some projects, and we've got
+ five Google Summer of Code students this year.
+
+
+SouthEast LinuxFest:
+
+ I'll be talking again this year, this time about kernel development:
+   http://www.southeastlinuxfest.org/node/116
+
+
+Other stuff:
+
+ I work on lots of things that I don't announce here. I really irks me that
+ people think I'm sitting here doing nothing, especially when everything I
+ work on wants more time than there are collectively hours in the day.
+
+--ryan.
+
+--------------------------------------------------------------------
+When this .plan was written: 2010-05-19 17:31:12
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.23 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

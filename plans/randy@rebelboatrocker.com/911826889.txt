@@ -1,0 +1,196 @@
+Login: randy          			Name: Randy Pitchford
+Project:
+
+The game formerly known as Prax War
+
+Plan:
+********
+11/20/98
+
+I know I've already shared this in more detail here, but it came up again
+at RBR in our regular impromptu game theory discussions and I feel it's an
+axiom that should be burned into the mind of every game designer.
+
+The challenge of a puzzle or skill in a game is the sum of the
+difficulty of the skill that's tested and the penalty for failing that
+skill test.  This sum is how reward for success over the challenge is
+determined.  The general rule is that the difficulty of the test should
+be inverserly proportional to the penalty for failure. Also, as the
+game progresses, challenge (the sum of skill difficulty and penalty) is
+gradually increased.
+
+The 'rules' (there are tons more) are always a pretty solid place to
+objectively evaluate what you're doing. But, it's important for us to
+not forget that game design is more often than not the opposite of
+formulaic.
+
+
+Oh, and if the moon was made of cheese, would you eat it?  It's a simple
+question...Would you eat the moon?
+
+I would.
+
+-DuvalMagic
+
+********
+11/12/98
+
+Happy Birthday to Kerry Wilkinson.
+
+
+Other stuff:
+Since we've got two ex-Microprose kids in the house, we tried out
+European Air War last night. Brian was pleasantly surprised to see
+some of his art in the game.  Some of the cool maps he did for "Across
+The Rhine" about a zillion years ago appear in the mission briefing
+screens.
+
+If anyone actually plays EAW, you may think that the Luftwaffe jet planes
+can pretty much smoke anything else, but my P-51d ruled the skies when we
+tried it out.  Yeah, the jets move like a fish, but they steer like a cow.
+
+Oh, and don't get all twisted thinking I'm a converted sim guy... I went
+home last night and played Expert CTF for a couple of hours to recoup :)
+But, if you dig sims go get EAW. But if you're like me, you'd rather
+spend your time with one of the five new 1st person action games.
+
+-DuvalMagic
+
+
+********
+11/10/98
+
+Happy Birthday to Charlie Brown.
+
+
+
+********
+11/06/98
+
+Special thanks to the Ion Storm dudes for being great hosts for the
+finals of the DooM][ All Star tourney we carried over from The Frag2.
+
+I'll send the details of the results to that Doom2 all star tourney
+page on doomnation.com over the weekend.
+
+I think the most fun, though, was playing on Squirrel's deathtag map
+after the tourney - even though me and Squirrel got stomped by Natas
+and Rob 5-3 (or was it 2?).
+
+Anyway, In case you're wondering how the actual tourney went down, it
+played out like this:
+
+1. Mark "Natas" Fletcher [ION]
+2. Rob "Psychology" Heironimus [RBR]
+3. Randy "DuvalMagic" Pitchford [RBR]
+4. Sverre "Sverre" Kvernmo [ION]
+
+I'll make sure the brackets for the whole tourney are posted somewhere.
+I had a blast playing and look forward to more competitions like these.
+It's been literally two years since I've played deathmatch in a real
+competition and all the feelings of nerves and excitement coming back
+during the event were awesome.  Sorry if my cockyness rubbed anyone the
+wrong way, but it makes games more fun for me to get a little worked up
+and talk a little trash. It's all in fun. I completely respected the
+skills of everyone in the tourney...Especially Paradox who's insane
+warm-up is friggin' cool to watch. I also particularly enjoyed Romero's
+match with Blue. Great fun.
+
+I want to give special congrats to my homeboy, Rob, for defeating me in
+the double elim. finals allowing him to face the incredible BFG pimping
+Natas. Natas really knows how to keep his cool in tournament conditions.
+But, Rob truly came out of the booth against me when it counted.  I
+didn't give that one to him...he earned it.  I wanted to win!
+
+And finally, Brian "Astro Chimp" Martel and I are going to get
+hype on Squirrel's deathtag against our practice partners Rob and
+Reichert, so in a couple of weeks you all better beware!
+
+Oh, and don't worry... Dispite all of this DooM action we're still
+working 10+ hours a day on making the game :)
+
+--DuvalMagic
+
+
+********
+10/30/98
+
+Rob, Stephen Palmer and myself will be giving a talk at the Frag2 on
+Saturday at around 2:30pm.
+
+We'll be discussing the future of level design in first person 3d ganes.
+We're bringing some visual materials (screen shots and stuff) to help
+present some of the innovations everyone should expect in next generation
+engines like RBR1. The purpose of the talk isn't to show off the game,
+but to explain and demonstrate the techniques developers are evolving
+towards in world creation.
+
+Arbitrary polygons are cool.  Multipass rendering is cool.  Alpha blending
+is cool. This should be the first real public glimpse of what future 3d
+shooter game terrain meshes will look like.  You'll get to see what life
+is like after the limits of brush geometry, 2d editing and csg construction
+have gone away.
+
+The talk should be good for game fans who want to know what's coming up
+next, for amateur designers to start getting prepared for the next
+generation and for developers who like to steal things (that's not a
+dig... we all do it to some extent.  Learning from each other makes the
+whole industry more powerful.)
+
+Anyway, come on by.  There will be time for Q&A.  And, stick around
+later to watch us win the DooM2 All-Star Deathmatch Tourney. : )
+
+Here's the official talk description:
+
+>>>
+Saturday
+
+2:30 PM  "Level Design for the Next Generation"
+
+                Rebel Boat Rocker
+                Rob Heironimus
+                Randy Pitchford
+                Stephen Palmer
+
+                The level design team from Rebel Boat Rocker will be
+                sharing level design techniques and trends for the future
+                of game technology.  The discussion will include talk of
+                arbitrary polygon construction, curves, multipass lighting,
+                shading and bump mapping, population, animation, LOD
+                and tesselation, and visibility set generation and will
+                compare and contrast with current brush editing
+                paradigms.  This discussion will be interactive and
+                questions are encouraged.
+<<<
+
+
+-DuvalMagic
+
+
+********
+10/19/98
+
+Happy Birthday to Dirk Jones
+
+
+
+********
+10/09/98
+
+
+DooM Wisdom:
+
+In DooM ][ Old Deathmatch set at Skill 5, it is possible to kill a marine
+who has 100% health and zero armor with a single shot from the single
+barrel shotgun.
+
+I have a demo to proove it.
+
+
+Other Stuff:
+
+Greg C., if you're reading, e-mail me.  I miss you, man.  I played Out of
+This World again the other day and it brought back cool memories.
+Remember 'Wachenga, Cahuenga'.  Heh.
+
+-DuvalMagic

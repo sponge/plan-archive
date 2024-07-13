@@ -1,0 +1,33 @@
+Login: seddon         			Name: Chris Seddon
+Office: Vicious Software, 905-xxx-xxxx	Home Phone: 905-xxx-xxxx
+Project:
+RAZOR, Xistence Engine (v2.5)
+Plan:
+The Toronto Maple Leafs played a really crappy game last night, though it
+was time for them to choke and lose the series against New Jersey. It's
+amazing how loyal people in Toronto are to the Leafs considering they
+haven't won the stanley cup in 30+ years.
+
+Now to gaming news! Razor is coming along well. The e3-alpha will be
+pretty cool. I am currently finishing the portal technology to speed
+things up. I decided I needed the portals in the E3 alpha considering I
+hit a nice 5 fps on a crusty old Riva TNT. I am developing the game engine
+around the TNT/G400 to keep performance high on the slower cards in the
+market. Anything below a TNT and well, goodluck! If any IHV's are willing 
+to donate more sophisticated cards to Vicious Software for Developing our 
+games, we will certainly put credit on our website and in the games. I
+added Environment mapping few days ago which hits the fps, however it adds
+some really stunning effects to the game! Carona's were also added a
+few days ago, they look nice but are rather slow in spots. I added
+colourization to them so the mappers can change their colour which is
+kinda nifty. 
+
+E3 is gonna rock! I have several meetings booked with publishers
+regarding Razor. I had another publisher contact me yesterday about 
+Razor so things are looking good. As always pictures will be up soon 
+on the Vicious Software website. If anyone reading this can sneak me into
+any parties at E3, I'll give them some VS propoganda!
+
+Login: tim            			Name: Tim Seddon
+     (messages off)
+No Plan.

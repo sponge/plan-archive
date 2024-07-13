@@ -1,0 +1,174 @@
+
+*** Monolith Production's Finger Server
+
+User name: jeremy
+Plan modified: Mon Nov 30 13:43:27 1998
+
+
+11/30/1998
+----
+Well, I'm back from Portland - I enjoyed my trip - and I've
+just finished digging out from under 900+ e-mail messages.
+Yeesh, I was only gone for four days, folks...
+
+Anyway, a couple Shogo/Lithtech things:
+
+* I'm going to see about releasing Softdib.ren a little
+  later today.  Softdib.ren is a debugging renderer; we
+  usually include it with the Lithtech development kit
+  because it's very useful for machines that don't have
+  remote debugging capability.  It also runs under NT.
+  Softdib.ren is a windowed renderer that doesn't use
+  any DirectX code.  It's NOT so hot performance-wise,
+  so it isn't included with the games.  (Hey, I said it
+  was a DEBUGGING renderer...)
+* Some people are reportedly having problems with sound
+  in the Shogo 2.0 patch.  If you are experiencing odd
+  lockups, snag the SoftSnd.dll replacement I put out when
+  the 1.1a patch was released.  I think GamesNet and 
+  Planetshogo both still have it in their files sections.
+
+Lastly... does anyone out there have a developer contact 
+e-mail for Logitech?  I've been able to get every other
+wheel mouse other than the Logitech MouseMan+ to work with
+Lithtech (and bind correctly to Shogo).  Unfortunately, 
+the Logitech drivers don't seem to handle the wheel 
+properly under DirectInput.  I've tried to contact Logitech
+about this, but the only contact information I have is a 
+fax number for Developer Relations, and I've had absolutely
+no luck getting a reply even after several attempts.  So
+I'm hoping that either someone who knows someone in the
+Developer Relations division of Logitech, or someone who
+works in Logitech's developer relations division, will read
+this .plan file and get in touch with me (jeremy@lith.com)
+sometime soon. :)
+
+--Loki
+------------------
+11/25/1998 - Part 2
+----
+A couple things about the tools release:
+
+* I've had reports of problems with the Photoshop plugin.
+  Please, don't report any more yet.  I'm going to look
+  at the Photoshop plugin to see what might cause this
+  once I get back from my Thanksgiving holiday.
+* There is a known UI quirk in DEdit where if you do
+  'Create New Project', you will always get a message
+  box saying that it can't load OBJECT.DLL.  Ignore this.
+  Close the project, and copy OBJECT.LTO from wherever you
+  unpacked the Shogo resources to into your new directory.
+  However, you might find it easier initially to build
+  within the Shogo project itself.  (Load the RIOT.DEP
+  file that is under wherever you unpacked Shogo to.)
+* VERY IMPORTANT!!  (And this IS in the README, but
+  people have ignored it.)  You need to unpack not only
+  SHOGO.REZ, but ALSO SHOGOP.REZ and SHOGOP2.REZ - either
+  unpack them into the same directory as Shogo itself
+  (better for editing), or unpack them into two directories
+  named SHOGOP and SHOGOP2 under your Shogo root.  Shogo
+  will run either way, but unpacking all into one directory
+  makes it easier to edit.  Once all are unpacked, you can
+  delete them to save space; Shogo will run out of the
+  derez'd directory.
+
+I'm going to be away from a computer for most (if not all)
+of Thanksgiving Day, and I will be out of town visiting
+some friends in Portland most of the rest of the weekend.
+As a result, I will NOT be around to answer e-mails, though
+I will try to at least check in on my lithtech.com address
+to monitor the mailing lists.  But don't expect my more
+usual speed of response. :)
+
+Hope that helps, and happy editing!  And happy Turkey-day,
+too.
+
+--Loki
+------------------
+11/25/1998
+----
+Ok, I can finally detail what exactly will be in the source
+and tools that will be released a little later today. :)
+
+Tools:
+* DEdit, the world editor and general editing environment.
+* ModelEdit, the model tweaking tool.
+* LithRez, the program for rezing and derezing files.
+* A document describing all the Shogo objects and what they 
+  do and how to use them.
+* A sort of general Lithtech .HLP file.
+* A 3DS -> ABC command-line convertor, which takes a 
+  sequence of 3DS files and makes a mesh-deformed ABC 
+  animation.
+* A 3DSMAX plugin allowing you to export from 3DSMAX to ABC.
+* A 3DSMAX plugin allowing you to use Lithtech .DTX texture
+  files directly in 3DSMAX.
+* A Photoshop plugin allowing you to load and save Lithtech
+  .DTX texture files.
+
+Source:
+* The client-side source code.
+* The server-side source code.
+* All necessary headers.
+* The source to the standalone server(!!)
+* A compiled binary of our Gamespy communication library,
+  needed for the standalone server.
+
+Remember, Monolith is not 'officially' supporting this, so
+please don't spam the developers with a lot of 'how do I'
+e-mails.  We DO have the mod author mailing list, which
+Monolith people (mainly me) are on.  Subscribing to the
+mod list is quite easy, and it will let you have a faster
+response time as a fellow mod author might know the 
+answer to your question and reply faster than a Monolith
+person, buried under work, may be able to. :)
+
+To subscribe, simply send a message to listar@lists.lith.com
+with the subject 'subscribe shogo-mod' (without the quotes)
+and it will do it for you.  Or if you're reading this in
+HTML from plans.lith.com, just click on the link below and hit 'send' on the mail message it generates. :)
+
+HTML: Subscribe me to the Shogo mod list!
+
+Enjoy!
+
+--Loki
+------------------
+Old archives are at:
+
+http://www.users.lith.com/~jeremy/plans/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,530 @@
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+// 
+// All personal musings on my part are available at:
+// 
+// http://www.voodooextreme.com/ask/askmenu.html
+// 
+// All GMB related e-mail sent to me at id software will be
+// deleted unread
+
+May 12, 1999, part 8
+--------------------
+
+Oh, one more thing on the GLSETUP stuff: if there are new drivers from
+your accelerator manufacturer that claim to support Q3TEST, then you
+can definitely download those and install them without having to use
+GLSETUP.
+
+GLSETUP is designed to solve a very basic problem that OpenGL developers
+are finding: making sure that up to date drivers are on a user's system.
+If you, the user, can guarantee that you have the latest drivers, and if
+you're savvy enough to download the driver and install them (and I'm sure
+many of you are, but there are MANY people that have no idea what a 3D
+accelerator is, much less what kind they have installed or where to get
+drivers and install them), then by all means do so and skip the GLSETUP
+step.
+
+GLSETUP is not a requirement for Q3TEST, it's simply a helpful tool that
+detects your video card and gives you the latest drivers within the
+GLSETUP package.  In all likelihood, if you're reading this then you're
+Net-wise enough to know what your card is and how to get new drivers for it.
+
+I apologize if this was not made clear enough at the outset and some of you
+wasted a long time downloading something that you didn't need or had 
+already installed.
+
+I do recommend against using OEM (e.g. Diamond, STB, Creative) drivers
+and that you should get up to date drivers directly from the chip
+manufacturers (S3, ATI, NVidia, 3Dfx, etc.).  OEM drivers tend to lag
+behind the chip manufacturer drivers by a fairly significant amount of
+time.
+
+In the future GLSETUP will do minimal kernel download, detect the driver
+needed, then suck the bare minimum necessary for an install.  GLSETUP
+doesn't do that right now since it's still in beta.
+
+May 12, 1999, part 7
+--------------------
+
+Another potential source of confusion may be with those that have 
+installed either the 3Dfx Beta ICD (the older one that predates the
+one in GLSETUP) or, in an unrelated form, have an installation of 
+Quake2 on their system that is somehow causing a conflict.
+
+At this point my recommendations (for maximum safety):
+
+- Quake2 uses the minidriver effectively, so don't mess with that.  Just
+use the latest 3DFX minidriver from 3Dfx and park that in your Quake2
+directory.  Do NOT copy the minidriver into the Quake3 directory and
+attempt to use it!  It will NOT work!
+
+- do not attempt to use the Quake3 certified drivers from 3Dfx with
+Quake2.  I don't believe that 3Dfx has had time to adequately qualify
+those drivers with Quake2, so that may be causing some problems.
+
+- make sure you don't have duplicate OPENGL32.DLL, 3DFXVGL.DLL, or 
+3DFXGL.DLL files floating around.  This may cause conflicts or other
+odd bugs.  There should be a single OPENGL32.DLL (NOT a 3Dfx supplied
+one!) in /windows/system; a 3DFXVGL.DLL in /windows/system; a 3DFXGL.DLL
+in /quake2; and if you have a Voodoo3, a 3DFXOGL.DLL in /windows/system.
+
+- on Voodoo3/Banshee, make sure you are choosing "Default OpenGL", NOT "Voodoo
+OpenGL".  "Voodoo OpenGL" should only be selected if you have a Voodoo
+Graphics, Voodoo 2, or Voodoo Rush installed and wish to use it.
+
+I apologize for any confusion, unfortunately this is the nature of the
+beast when you can have two separate accelerators in your system and,
+even worse, when you have shifting drivers from an IHV that can support
+multiple of their cards depending on the installation.  Anyone that has
+been playing Everquest with a V2/TNT combo probably has seen similar
+type things (with EQ you can use DX6 Primary, DX6 Voodoo 2, or Glide
+Voodoo 2).
+
+May 12, 1999, part 6
+--------------------
+
+Clarification on the GLSETUP issue: since we could not get the 3DFX
+Voodoo Graphics, Voodoo 2, Banshee, and Voodoo Rush drivers integrated
+in time (due to circumstances out of our control), if you are using
+one of those accelerators then you must download the drivers directly
+from www.3dfx.com
+
+However, if you are using Voodoo3 then GLSETUP will work fine, modulo
+any innate broken pieces that may or may not exist in 3Dfx's OpenGL
+driver to begin with.
+
+May 12, 1999, part 5
+--------------------
+
+We still want to support DEC Alpha processors, but we can't find any
+3D accelerators for the AXP that will run Q3TEST well.  If any hardware
+vendors are willing to rev their AXP drivers to support Q3TEST, please
+let me know.
+
+May 12, 1999, part 4
+--------------------
+
+Some IHVs have expressed dissatisfaction with Tom's Hardware Guide's
+numbers, claiming that Tom is both biased (for advertising reasons) and
+also because they don't believe he has been using the most up to date
+drivers available (i.e. the ones in GLSETUP).
+
+I have no opinion on those matters, but thought at least they should be
+shared so that folks can look at the numbers posted a bit more critically.
+
+Benchmarks will be run tomorrow, so you'll be getting the real dirt from
+us Real Soon Now.
+
+May 12, 1999, part 3
+--------------------
+
+Part of the confusion about copying 3DFXVGL to the Q3 directory and renaming
+it to OPENGL32.DLL is that some people don't realize that you can change to
+"Voodoo OpenGL" in the graphics options menu.  For example, some people have
+a Riva128 and a Voodoo 2, and the game, by default, goes with the OpenGL 
+ICD that is installed.  To circumvent this some people have been copying
+3DFXVGL.DLL to OPENGL32.DLL in the Q3 directory.
+
+This will have all kinds of potentially nasty side effects.  It's really
+much easier if you just go do this:
+
+]r_glDriver 3dfxvgl
+]vid_restart
+
+Or select "Voodoo OpenGL" in the Graphics Options menu.
+
+May 12, 1999, part 2
+--------------------
+
+At this point my opinion on the "timedemo" scores being generated by some
+sites is that they should be taken with a lot of salt.  If the results are
+consistent, then hey, they might be valid, but right now we're fairly
+confident that the timedemo code is broken so the results being generated
+may not, in fact, have any validity to them.
+
+On Thursday I intend on running a full set of unbiased benchmarks with
+commentary.
+
+I've had people send me e-mail saying they've HAD to copy their 3Dfx driver
+files to get things to work.  I'll get to the bottom of this and post a 
+summary once I figure out what's going on with that.
+
+May 12, 1999
+------------
+
+SLI seems to work fine.  The system that reported having problems is just 
+having problems in general.  My system wouldn't work because I, like
+a complete and utter dork, forgot to plug-in the pass through cable.  Just
+so you know, I didn't HAVE to admit that to you folks. :-)
+
+There are tearing issues on the Riva128 and RivaTNT because they don't
+properly support synchronizing to vsync.
+
+The 32/16-bit problem (where it gets real slow) on the TNT is due to a 
+driver bug.  You simply cannot change the color bits on the TNT with
+their current driver set.
+
+PLEASE remember to use GLSETUP.EXE to configure the video drivers on your
+system.  A lot of the bugs that are being reported are because people don't
+have up to date video drivers.
+
+If you are a site that is mirroring Q3TEST, you need to also have at least
+a link to the GLSETUP beta.  http://www.quake3arena.com/q3test/glsetup.html
+
+May 11, 1999, part 4
+--------------------
+
+I've had problems trying to get Q3TEST to work on SLI systems.  I've contacted
+3Dfx about this and hope to hear back from this.
+
+If you are using a Rendition V2200 and seeing that tearing problem, enter this
+at the console: "r_swapinterval 1".  It looks like their swapinterval support
+may be busted.  I have an e-mail into them on this also.
+
+May 11, 1999, part 3
+--------------------
+
+Okay, I'm getting support mails from people that are doing some pretty damn
+stupid things, including using Q3CONFIG files from the IHVTEST; editing the
+Q3CONFIG file directly; copying system drivers into the Quake3 directory;
+and similar types of things.
+
+STOP IT.
+
+When you install a set of drivers, just run the installer, and do NOT move
+things around.  You're not going to get any benefit by copying 3DFXVGL into
+your Quake3 directory.  What you WILL get is complete hell when newer
+drivers come out and Q3TEST is still looking at the old one in the local
+directory.  We do NOT load 3DFXOGL directly, we load 3DFXVGL.  If we are
+loading 3DFXOGL, then you are either screwing with something you shouldn't
+be, or Q3TEST is doing something very wrong.
+
+Install the drivers, then leave them alone.
+
+When you install Q3TEST, do NOT mess with the directory structure or the
+files and expect things to continue working.  Do NOT edit the CFG files.
+If you want to change a cvar, just do it in the console.
+
+Some people are having problems because they've installed Q3TEST over
+the IHVTEST, then they have the gall to send me an e-mail about it. *sigh*
+
+If you are having problems, PLEASE do the following:
+
+- download and run GLSETUP to make sure you have the most up to date drivers
+on your system
+- COMPLETELY remove Q3TEST (and the IHVTEST if you have it) from your system
+and reinstall it
+
+RUN THE GAME AND LEAVE ITS FILES ALONE.
+
+To enable stencil buffer shadows (which are available only TNT, TNT2, and
+Rage128 I think), you must be in 32-bit mode.  Then do the following at
+the console:
+
+r_stencilbits 8
+vid_restart
+cg_shadows 2
+
+Do not overclock your system.  We're against it, and I don't care HOW
+rock solid your system is with overclocking, if your system hangs with
+Q3 when overclocked but works fine without overclocking, then it's not
+a rock solid system.  This applies to your video cards and your CPU.
+
+Finally, people are saying you can't see the difference between 16-bit
+and 32-bit.  In some cases, you CAN'T see the difference.  But if you're
+gonna test between the two, crank up a Voodoo2 vs. a TNT in 32-bit mode.
+Look at the skies and places where lots of things are blending on top
+of each other.  Also look for places that have a single, steep color
+gradient.  Foggy areas are a good place, as are skies.
+
+May 11, 1999, part 2
+--------------------
+
+I don't know how Tom of Tom's Hardware got his benchmark scores, but I sent 
+him an e-mail asking him.  I'll post when I find something out.
+
+May 11, 1999
+------------
+
+Turns out that TIMEREFRESH and TIMEDEMO do not work in the build that got
+released due to a bug on our part.  We will have this fixed in the next
+major release, but may be a while (please don't bombard us with e-mail
+about the next release...or at least if you do, send 'em to Graeme :-) ).
+
+I'll try to have benchmark figures up on Thursday night.
+
+May 10, 1999, part two
+------------
+
+I've had repeated e-mails about the state of 3Dfx's drivers under NT, so
+I went ahead and asked what their official stance was.  The best I could
+get from them was along the lines of "We're gonna support it, but we're
+not committing to a specific date".  I'm under the impression that the
+drivers for WinNT aren't that far off.  I don't have any more information
+on this, so please don't send me questions about their drivers.  I suggest
+you contact 3Dfx directly if you have more questions about their driver
+situation.
+
+May 10, 1999
+------------
+
+Some folks have written asking what the deal is with 3Dfx support under
+WinNT.  To be honest, I don't know, and that's something that should be
+taken up with 3Dfx (I'll ask 'em anyway).  One thing we've run into is
+that the 3Dfx WinNT drivers haven't worked too well with any of our newer
+Intergraph workstations (TDZ2000 and GT1).  I haven't tested the 3Dfx
+drivers very well simply because I can't get my V2 to work in my GT1
+(likely the result of the PCI bridge architecture in the GT1).  I do have
+a V2 in my other test machine, but there is a huge amount of difference
+between the exercise a hardware/driver combo sees when installed in a 
+primary development machine vs. a testing machine.
+
+So that's the deal in a nutshell: we haven't had much luck with V2 under
+WinNT during the development of Q3A, and we haven't tested with Banshee
+or V3 at all under WinNT.
+
+May 9, 1999
+-----------
+
+There seems to be some confusion about the difference between an OpenGL
+ICD, a "minidriver" a.k.a. MiniGL, and a "standalone" driver.  So in my
+quest to make everyone in the world less confused about matters OpenGL,
+I'll do my bit.
+
+Snarfle gri moor landi ganillish.
+
+Okay, I needed everyone to be confused first, thus the above.  So anyone
+who wasn't confused better be confused now, at least temporarily.
+
+Okay, you can stop being confused.
+
+Oh...uh, wait, I was saying something.  Oh yeah.
+
+OpenGL drivers.
+
+So here's the deal.  OpenGL is not tied directly to any particular windowing
+system such as Win32 or X or anything like that.  Each operating/window system
+provides what are known as "window system bindings" that act as the system
+dependent interface between an OpenGL application and the underlying window
+system.
+
+Under X, for example, the bindings are part of a library called GLX, developed
+by SGI and/or the OpenGL ARB (I think).  Under Win32, the bindings were
+developed by Microsoft, and are called WGL (pronounced "wiggle") for obvious
+reasons.
+
+These bindings control things like tying an OpenGL application to a specific
+window, swapping buffers, and finding "pixelformats".  In an OpenGL code
+the "core" OpenGL code is completely portable, but the window system code
+(i.e. GLX/WGL stuff) is not.  That small system specific kernel is what
+gets ported between platforms (e.g. from Mac to Linux to PC).
+
+Now, under each operating system you have various "driver interfaces" that
+an OpenGL driver adheres to in order to communicate with the OS and 
+window system efficiently.  Under Win32 there have been two different
+prevalent driver interfaces: the ICD (Installable Client Driver) and the
+MCD (Mini Client Driver).  The latter is dead, but the former still lives
+on.
+
+When an OpenGL driver for Windows is said to be "an ICD", that means it 
+adheres to the Microsoft ICD interface mechanism.  Which means that
+an application that links directly to OPENGL32.LIB and uses OPENGL32.DLL
+and WGL will magically work with that driver with no muss and no fuss.
+
+A "full ICD" is just that -- a complete OpenGL driver implementation that
+supports all of OpenGL and that works with the standard driver interface
+mechanism.  A "full ICD" is the best type of driver we can hope for from
+a vendor.
+
+But, there's a problem: WGL was designed LONG before 3D graphics accelerators
+were prevalent, and WGL definitely was not designed to take into account
+3D-only accelerators such as Voodoo 2.  This means that 3Dfx can NOT write
+an ICD (note: ICD meaning "an OpenGL driver that uses the Microsoft ICD
+mechanism") for the Voodoo 2 since the WGL bindings only understand the
+concept of a single graphics accelerator.  This rears its head as a serious
+problem with systems with, say, a RivaTNT and a V2.  If both accelerators
+had an ICD, which one will an application use?!  Fortunately (or not),
+this isn't a problem since only a single ICD can exist in a system (note:
+Direct3D doesn't have this problem since Microsoft cared enough about D3D to
+support device enumeration.  WGL could easily be revved to support this
+feature, however Microsoft, for obvious reasons, doesn't really care to
+see that happen.)
+
+3Dfx CAN write a FULL OpenGL driver for the V2, however it won't be an
+offical ICD because they can't hose the system's primary display device's 
+ICD.  That would be poor manners.
+
+This puts 3Dfx in the position of having a complete OpenGL driver for 
+Voodoo Graphics and Voodoo2, but that driver is NOT an ICD.  It is what
+we call a "standalone driver".  A standalone driver is simply a full
+OpenGL implementation that does not use the Microsoft ICD driver
+interface mechanism because of technical inadequacies within WGL.
+
+Quake3 only supports one standalone driver -- the 3Dfx Voodoo(2/Rush)
+full OpenGL standalone driver.
+
+Finally, there is the issue of a "minidriver".  A "minidriver" is a
+_partial_ OpenGL implementation designed to support only those OpenGL
+calls that are performed by a few key OpenGL games such as GLQuake
+and Quake2.
+
+To an application, a "minidriver" and a "standalone driver" look
+the same, the difference being that a standalone driver is a FULL
+OpenGL implementation (theoretically suitable for use in any
+OpenGL game, applications, etc.) whereas a minidriver is a PARTIAL 
+OpenGL implementation that is suitable for only a very few games and
+that will likely explode gloriously if asked to do anything but the
+limited subset of operations it is optimized for.
+
+Quake3 does not knowingly or willingly support minidrivers, however
+there is nothing preventing someone from writing one.  But this is
+a moot issue, since to my knowledge no minidrivers exist that can
+support Quake3.
+
+SUMMARY:
+
+OpenGL drivers can be either partial implementations ("minidrivers")
+or full implementations ("compliant" or "conformant").
+
+Win32 OpenGL drivers can support the Microsoft ICD mechanism or may
+be "standalone" drivers.
+
+Quake3 supports "complete OpenGL ICD drivers" and "3Dfx's complete
+standalone driver".  3Dfx's OpenGL driver for V2 is not an ICD,
+however it IS a complete/full OpenGL implementation.  It is a
+standalone driver, NOT a minidriver.
+
+I hope that clears things up.  I have a creepy feeling that the above
+makes sense if you already knew it all, but if you didn't already know
+it, then you're still probably confused.  Either way, I tried.
+
+Later.
+
+May 7, 1999, part deux
+----------------------
+
+Ugh, the e-mails have begun..."how will accelerator XYZ work with 
+Q3TEST?"
+
+Here's a quick run down of accelerators we have tested and that we
+find acceptable or better for Quake3, assuming the most up to date
+drivers are installed (note: up to date drivers for nearly all of
+the following accelerators will be available when Q3TEST is released).
+
+3Dfx Voodoo Graphics
+3Dfx Voodoo2
+3Dfx Voodoo2 SLI
+3Dfx Voodoo3*
+3Dfx Voodoo Rush (tested out of house, but supposedly stable)
+3Dfx Voodoo Banshee
+3DLabs Permedia 2 (ugly, some serious visual artifacts)
+ATI Rage Pro (4MB and 8MB)
+ATI Rage128*!&
+Intel i740
+Matrox G200 &
+NVidia Riva128
+NVidia RivaTNT*!&
+NVidia RivaTNT2*!&
+Rendition V2x00 (not very fast, but it works)
+S3 Savage3 &
+
+* high performance
+! supports stencil volume shadows
+& 32-bit rendering
+
+We have not done significant testing on the following boards simply because
+they were not undergoing full shipment at the time we were wrapping up
+Q3TEST:
+
+3DLabs Permedia3
+Matrox G400
+S3 Savage4
+
+However we do not anticipate any problems with any of the above, since they
+are newer, faster, and should be real nice.
+
+Note that ALL of the above boards are supported through a complete OpenGL
+implementation, NOT through minidrivers of any kind.  And with the 
+exception of Voodoo Graphics, Voodoo 2, and Voodoo Rush, all of the above
+accelerators are supported using the standard Win32 OpenGL ICD driver
+interface (because of limitations in Microsoft's WGL OpenGL specification,
+3D-only cards must be supported by direct loading of their DLL instead of
+using the standard GDI interface).
+
+CPUs that we have tested on and support include:
+
+AMD K6-2
+AMD K6-3
+AMD K7
+Intel Pentium and above
+
+So here's the scoop: if you have a pimped out PIII/500 w/ a RivaTNT2, you're
+gonna be stoked with a sweet looking game running at a very fast clip.  If
+you have an $800 AMD K6-2 w/ a 4MB ATI Rage Pro, we got you hooked up too,
+but it'll run slower and not look quite as good.  But you'll still be able
+to play, and I'm not talking "it'll load up, be happy" -- you'll seriously
+be able to PLAY the game on a $1000 machine.  Q3TEST runs fine on a first 
+generation Voodoo Graphics w/ 4MB (remember those?), and it doesn't look
+half bad either.
+
+Dig this: Intel i740 boards are available at Fry's Electronics for $49.95,
+which is about what a new game costs.  The Intel i740 plays the game
+VERY well, albeit with 16-bit rendering and some other minor visual
+artifacts.  For $59.95 there were some some white box Riva128 boards,
+and those play the game at VERY high performance, but look quite a bit
+worse than the i740.  For $99.95 there was the Creative Graphics Blaster
+w/ RivaTNT, which has to be the best bang/buck ratio in graphics accelerators
+right now.
+
+So that's three boards under $100 that run the game extremely well, for those
+of you looking to upgrade on a budget.
+
+If you've bought your desktop machine in the past year, odds are that you
+will be able to play Q3TEST once you have up to date drivers installed.
+
+Compatibility Issues:
+
+We have seen a lot of problems with some AMD chipsets (specifically,
+ALI) and also the Intel LX chipset used with a lot of PII/333 machines.
+
+These problems are not specific to Quake3, but are usually problems with 
+the chipset drivers or design. They manifest themselves as just strange
+system hangs, and it can happen regardless of the brand accelerator 
+installed.
+
+May 7, 1999
+-----------
+
+There was an internal miscommunication here that resulted in the
+unintentional propagation of incorrect information (gee, how is THAT
+for convoluted?!).  So I'm here to clarify.
+
+In a nutshell, Q3TEST/Win32 WILL support 3Dfx!  There was some internal
+confusion about the matter as we've been wrestling with driver stability
+and distribution issues (across all chipsets, not just 3Dfx).  3Dfx,
+especially Marty Franz and Rob Wheeler, have been highly responsive
+to our needs when it comes to driver robustness, performance, and
+availability.
+
+So to reiterate: there will be support for 3Dfx, and I believe 3Dfx will
+be posting Q3TEST compliant drivers on their Web site over the weekend
+in anticipation of Q3TEST's release.
+
+As an aside, during testing we've found that most of the OpenGL drivers
+have performed quite well and have shown a remarkable amount of stability.
+We are getting excellent performance on low end boards such as the Intel
+i740, NVidia Riva128, Voodoo Graphics, and the ATI Rage Pro.  We're
+extremely encouraged by the solidity of the OpenGL drivers we've seen,
+and we're also proud that Q3TEST scales so well from low end hardware
+all the way up to the biggest and baddest new accelerators such as 
+TNT2 and Voodoo3.
+
+Oh, as a second aside, I installed Red Hat 6.0 on my old test machine,
+and I'm pretty impressed with it.  Some talented engineer out there should
+take up 3Dfx on their job offer to work on Linux OpenGL drivers, since
+Linux + OpenGL = cost effective OpenGL development workstation.

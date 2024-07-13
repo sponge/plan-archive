@@ -1,0 +1,68 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+
+6/8/2000
+
+Ok, so the game is on the shelves now, and everyone here is shifting from
+development mode to support mode.  Its great to go to the mall for lunch
+and see your game on the shelves for the first time.  That's sort of the
+payoff for the whole process.  And better yet, by the time we finished
+lunch the game was no longer on the shelves, so that's nice to see also.
+
+There's one patch already that's just about finished with Activision's QA
+process that is just to address the bandwidth used by games hosted on modem
+servers.  Everyone should get the patch (small) when its released because
+it obviously makes the network protocol more efficient for all users, but
+its specifically designed to help people hosting on 28.8k or 56k modems.
+
+Also, we've been trying to monitor any problems on our own web site forums,
+but they've been really pushed to the breaking point for the last 48 hours.
+So until those forums get out from under the traffic, we'll also be trying
+to monitor other Vampire sites to get information out to people.  I'd 
+suggest trying (in no particular order!)
+
+vampirevault.ign.com
+www.themasquerade.org
+www.planetvampire.com
+vampire.won.net
+
+We can't guarantee support through these channels, but we'll make every 
+attempt to track issues through our own website (when its responding) and
+these forums as well.  If there are more forums out there, please let me
+know.
+
+As a quick FAQ of issues found and solved so far:
+
+- If you have GeForce Detonator drivers, make sure you leave Fog table
+emulation ON (its default).  Otherwise some levels will appear overly-fogged
+- If you have a 5-button explorer mouse, get the newer drivers from 
+microsoft's website, the old drivers have a problem with button3 & DirectX7
+- Some people have reported hangs or a crash with GeForce cards and 
+certain motherboards.  We're still investigating this, but for now best
+advice is to not overclock, use released driver versions, and check your
+motherboard's AGP apeture settings
+- If the AI is using too much blood, make sure you have them on NEUTRAL not
+AGGRESSIVE mode, or turn on "AI use hotkey disciplines only" to give you 
+more control over their use of disciplines
+- You can toggle camera auto-slew on in the control options
+- You can click and HOLD to both move and attack
+- You can hold SPACE to perform actions without moving when possible
+
+Think that covers a lot of the more frequently encountered questions so far.
+
+We are currently working overtime to get the first version of the NOD SDK 
+out to people.  We're still polishing up some of the tools and documentation
+to make sure its a good release.  These tools will be released by us directly
+and not by Activision, as they are not supported tools We're also working to 
+resolve the load problems with our forums.  
+
+Thanks to everyone who purchased the game.  Your first stop for problems
+should of course be http://www.activision.com/support/271.asp and if that
+fails try some of the other fansite forums.
+
+
+

@@ -1,0 +1,99 @@
+Login: shade          			Name: James "Shade" Wilson
+Plan:
+11/4/98
+
+------------
+
+Jay Wilson (Shade)
+shade@lith.com
+Position:  Blood 2 Project Lead / Lead Game Designer
+
+Just wanted to extend a hearty congratulations to Jesse "The Body" Ventura, former Pro Wrestler, who's just been elected governor of Minnesota under the Reformist party.  And remember, "A vote for Jesse Ventura, is a vote for Jesse Ventura!".  He's a bad mutha- shut your mouth!
+
+
+
+
+
+
+
+
+
+
+
+11/2/98
+
+------------
+
+As everyone probably knows, the Blood 2 demo is now available. :)  We're getting pretty positive response overall, but I wanted to do a short update on our status.  First, here's an e-mail alias where you can send bug reports and suggestions about the demo:
+
+b2demobugs@lith.com
+
+Please send all bug reports to that address, and make sure to include info on what type of system you are playing on.  Also, make sure you are using current versions of DX6 and your video drivers.  We'll just be collecting e-mails from this source, so don't expect a response unless we need more info to diagnose the problem.  But rest assured, we'll look at each and every message.
+
+Please don't e-mail me with tech support questions.  I don't have the knowledge or time to be a great help to anyone.  I just make levels and stuff. :)
+
+We have addressed several issues since the demo was released, and I'll briefly touch on the major ones:
+
+Speed: Many people have complained that Blood 2's performance isn't on a level with Shogo's.  I'm happy to say that Mike Dussault has trained his keen engineering eye on B2 and blessed it with speed.  He has greatly improved the performance over the last few days and B2 is now very playable on a much broader range of machines.
+
+Mouselook (lack thereof): Hit 'u'. :)  If that doesn't work, go to the options menu, select controls, and scroll down until you see the option "mouseaimtoggle", and look at what key it is assigned to, or assign it to a key.  If that doesn't work for you please throw us an e-mail on the alias listed above.  Make sure and send us info on your system and what mouse you are using.  We have added mouselook to the "mouse" menu in the options screen so that this will not remain a source of confusion in the final version.
+
+Mouse Sensitivity: Some people have complained about sporatic mouse sensitivity.  The sad truth is that the B2 team got so used to the mouse at that high a level that we didn't even think about fixing it. :)  This has been fixed, and the mouse turning is closer to Shogo's (but you can still crank it, you masochist!).
+
+Crash bugs: As of our latest build all known crash bugs have been squashed.  The game is a LOT more stable now than the demo.
+
+Limb Loss (lack thereof): This feature is actually in there (use the assault rifle and concentrate on a leg, especially while ducking), it's just not frequent enough.  We'll be tweaking and improving this whole system so it is more robust and obvious, and looks a lot better when it happens.  These tweaks will most likely go into the point release, not the version we initially ship.
+
+Blood (not enough): Rest assured that we'll be continuing to work on the gore effects, and will be taking suggestions even after the full version ships.
+
+The levels are too techie, not gothic like Blood: Actually, Blood 2 only has a handful of techie levels, and we just happened to choose one of them for the demo.  Many of the levels are darker and scarier, but we didn't want the whole game to look dark and dreary, so we tried to mix it up with some bright installations.  There are a broad array of environments in the final game, and the demo levels are only one of them.
+
+That's most of the commonly occuring stuff.  I know that doesn't cover every bug people are having, but I just wanted to cover some of the most commonly voiced questions and complaints.
+
+***New, Improved, Blood 2 Demo***
+
+Yes, we will be releasing a new and improved Blood 2 demo, mainly so people can see the speed improvements.  The details are undecided at this point, but we will probably release it shortly after the game goes gold.
+
+***Multiplayer Demo***
+
+For those who only play multiplayer, yes, we will be releasing a multiplayer demo.  We won't release it until we get the updated net code that Shogo is testing out and integrate it into B2's code, which will be the Blood 2 point release, which should arrive in late November, early December at the latest.
+
+***Blood 2 Final***
+
+No, we haven't gone gold yet, but we are very close.  We've frozen all content and are trying to work out the last of the bugs.  That's all I'll say for now. :)
+
+
+
+
+
+
+
+
+
+
+
+
+10/28/98
+
+------------
+
+Just a quick update.  The demo is pretty much done on the content side, and is very cool.  We're just working out a few of the bugs.  Should be released very soon, definitely by the weekend.  We've got an army of GT muscle ready to promote it for us, so once it goes up it should be available from a large number of sources.  That's it. :)
+
+
+
+
+
+
+
+
+
+
+
+10/27/98
+
+------------
+
+Ack!  Too many e-mails!  Must finish Blood 2!
+
+Thanks for all the votes of confidence, I really appreciate it!  But I must now request a moment of silence to get this bad boy out the door. :)
+

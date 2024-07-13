@@ -1,0 +1,252 @@
+IcculusPlan
+
+
+
+I get asked a lot about the process of porting games, so here you go.
+
+
+
+When we were at Loki, we worked out of [CVS][1]. It was Linux-friendly,
+
+obviously, and the price was certainly right. There were other tools out
+
+there, like SourceSafe, but they were out of our reach or impractical. So
+
+CVS it was.
+
+
+
+If you started programming after the beginning of the Subversion epoch, you
+
+might not be aware of an interesting quirk of CVS: it doesn't store atomic
+
+changesets. That is: when you commit to Subversion, Perforce, git, Mercurial,
+
+or any other number of modern tools, you're not committing a bunch of changes
+
+to files so much as you are committing a single unit of work, like "fixed
+
+this bug," or "added this feature," or "changed all the tabs to spaces."
+
+
+
+That wasn't how CVS worked. It kept revisions per-file, and didn't keep much
+
+concept of its relation to other files. As such, some things we take for
+
+granted, like "show me everything we did this week" wasn't as easy as looking
+
+at the shortlog, and things like bisecting were completely out of the question.
+
+
+
+For porting, your single unit of work, at commit time--especially at the
+
+start of the project--is what I refer to as the "BMW." Lots of commits that
+
+touch lots of possibly-unrelated files, all with a commit message that reads
+
+simply "Bunch More Work." I made it through three more files and it took an
+
+hour? Bunch More Work. Reworked all the templates and removed that nasty macro
+
+all over the codebase? Bunch More Work. Ready to go to sleep for the night and
+
+everything is different than it was this morning and you don't even remember
+
+what? That's a *classic* Bunch More Work.
+
+
+
+This isn't normally acceptable practice, but for porting, there isn't usually
+
+a direct set of changes you made precisely--there will be later, when the
+
+thing is mostly working and you're applying spackle to all the cracks--and you
+
+aren't usually working with anyone else anyhow and if you had to look 100
+
+revisions in either direction it's just an unbuildable wasteland anyhow.
+
+
+
+So, between CVS's inability to document complicated changes and our inability
+
+to articulate them, the people I worked most with at Loki had a protocol we
+
+followed: we wrote changelogs by hand, like diary entries.
+
+
+
+This wasn't a new idea at Loki; the GNU project demanded this as protocol for
+
+any contributions they accepted, probably because of CVS's predecessor RCS, or
+
+maybe because of the nothing that predated that. Surely there was a time when
+
+revision control was just Richard Stallman uploading whatever was in his home
+
+directory that day to some FTP server, right?
+
+
+
+GNU changelogs even have a formal protocol, well documented. In practice, they
+
+look like [this][2].
+
+
+
+The GNU form was very succinct: quickly jot down what file you changed and
+
+why, and since you probably did related work on the same day, you get a
+
+reasonable grouping that simulated the Single Unit of Work. But the GNU
+
+project was generally setting out to do a Single Unit of Work on any given
+
+day, so this made more sense for them. At Loki, we were always at the start
+
+of another porting project, and almost everything we did was a big messy pile
+
+of Bunch More Work.
+
+
+
+Bernd Kreimeier was the master of the Loki changelog, and he insisted every
+
+day that I write my own, too, because you can't write it later. That
+
+information evaporates into the air. So I didn't just write what I changed
+
+in the source code, I wrote what I was planning, what my upcoming
+
+concerns were, what I tried that didn't pan out, other things you had to do
+
+on the project outside of revision control, like the time you spent rebuilding
+
+a Win95 box from scratch to see what a game was _supposed_ to be doing.
+
+It would have been a good example of what you'd say at an Agile Scrum Standup
+
+thing, if that was a thing we did.
+
+
+
+If Richard Stallman was a changelog Hemingway, writing terse, direct prose,
+
+I was a changelog Kerouac, writing out stream-of-consciousness on an endless
+
+scroll of paper.
+
+
+
+When I left Loki and eventually started working on Serious Sam, I kept this
+
+habit, even though the CVS repository was just a directory in my home dir.
+
+
+
+Eventually CVS moved off my box to a server on the LAN, then became
+
+Subversion, and then became Mercurial, and then there was no immediate need
+
+to write those massive diary-like changelogs. It's certainly more convenient
+
+now. But blowing the dust off of Serious Sam 15 years later and slamming two
+
+codeforks together, I was grateful to have this document to see what I did
+
+and, crucially, see why I did it.
+
+
+
+I'm posting that changelog now. I consider it to be a nice piece of Linux
+
+gaming history, so I hope you enjoy it, even as dense as it is to read. But
+
+it's also almost 10,000 words about how to port games in the same way that
+
+Zen and the Art of Motorcycle Maintainance is accidentally a manual on how
+
+to debug software.
+
+
+
+Please note that I was 24 when I wrote this, and even though I should have
+
+been a grown-ass man, 24 year olds say a lot of cringey things that we think
+
+we stopped saying at 14. There's definitely moments in here where I'm
+
+certainly scolding Croteam for various design decisions, shaking my fists at
+
+the clouds, while those clouds were just trying to ship a game the best they
+
+could and feed their families. Fundamentalism and righteous frustration are
+
+tones we don't drop until it's way too late. This just happened to be the
+
+hill I died on.
+
+
+
+Also, as a form of autobiography, you can see when I started to sputter out.
+
+I had fixed the big problems, like it not running at all, and was at the
+
+point where every problem would take longer and longer to attack for less and
+
+less return on that investment. And then, I stopped taking notes. You can
+
+see it end after four months of silence, not with a bang but a whimper, on
+
+April 24th, 2002, when I wrote the date, no notes, and left a few sad
+
+wishlist bugs at the bottom, probably never revisted. By this point, all the
+
+notes would have been me banging my head against the wall, trying a million
+
+unsuccessful things, cursing my limited tools and time and skills and maybe
+
+my own mortality, and just eventually saying fuck it.
+
+
+
+So the final unwritten advice at the end of that guide might be: don't give
+
+up, always finish, ask for help, and don't let the work consume you. There
+
+can always be patches later. Learn what you can, check your assumptions, do
+
+better next time and don't beat yourself up too much. Sleep a little sometimes.
+
+
+
+The Serious Sam changelog is over [here][3]. I hope it helps.
+
+
+
+  [1]: https://en.wikipedia.org/wiki/Concurrent_Versions_System
+
+  [2]: https://www.gnu.org/prep/standards/html_node/Style-of-Change-Logs.html
+
+  [3]: https://icculus.org/~icculus/dotplan/SeriousSam-CHANGELOG.txt
+
+
+
+--ryan.
+
+
+
+---------------------------------------------------------------------
+
+When this .plan was written: 2016-04-01 01:22:04
+
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+
+Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
+
+When at first I learned to speak, I used all my words to fight
+
+
+

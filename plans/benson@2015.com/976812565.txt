@@ -1,0 +1,138 @@
+
+*** Welcome to the 2015 Finger Server ***
+
+User name: benson
+Plan modified: Mon Dec 04 10:27:24 2000
+
+E-mail: benson@2015.com
+Handle: elmagoo
+Position: D.O. (Director of Opression), and some level design
+Project: Super secret game that even your momma will love
+
+
+***************************************************************
+***  NOTE: Any views expressed here are personal    		***
+*** and do not reflect the official position of 2015 Inc.	***
+*** -In lamens terms....MY opinion! (and I know my		***
+*** spelling sucks :).							***
+***************************************************************
+
+Plan Modified: Sun Dec 03, 2000 - 11:45pm
+
+************* Laser Arena **********************
+
+Well it's been great to read a lot of the comments about the game so far.
+There's a few questions and comments that I've seen pop up that I wanted
+to give an opportunity to answer for ya'll out there :).
+
+1)  Do we have to give out our Quake engine technology?
+
+-  Yes we purchased a Quake engine license, so we do not have to give
+out our technology.  We debated about doing this, but in the end it
+boiled down to the fact that it took us 5 months total to make the game,
+and that's 5 months of paying employee's salaries to bring the engine up
+to specs for what we needed.  That means that if we gave it out for
+free, any other company choosing to do the same would have a jump start
+that we paid for :(.  This leads me to the next question:.....
+
+2)  Did we use stuff from the internet / mod community?
+
+-  No we did not use any code from the internet mod community.
+Our coders ended up writing all the changes thenselves from scratch.
+An example of this is getting colored fog and additive blending working
+in software.  The bots were written from scratch as well.  Actually, if
+you were to analyze the bots from a technical standpoint, they have a
+much better undertsanding of tactics than both the Q3A or UT bots.
+Also, they do not cheat in any way at all (as in they don't always know
+you're position in the map, they actually have to look for you to find
+you).  The bots actually have a set of virtual senses that they use.  For
+example, each bot has a restricted field of view that they use, and they
+scan around as they move just as a player would.  An interesting thing
+to try is bring down the console, and the command 'becomebot botname'
+where botname is the name of the bot (also don't type the quotes either :).
+This will place you inside the viewpoint of a bot and you can watch it
+play from its perspective.  They are also more 'human' feeling than
+either the Q3A or UT bots.  This stems from putting in many different
+skill parameters that we can tweak to give each bot it's own personality.
+If you have experience in editing quake stuff, if you unpack the pak file,
+under the game/main/bots directory you will find a skills.txt.  This gives
+a listing of all the characteristics the bots have.  Also, every .bot
+file in that directory is a different personality (there's about 75 I
+believe).  There are skills to emmulate how good with a mouse the bot
+is, to his aiming ability, to which powerups he favors and will go
+for over others, his dodging abilities (even to the point of if he's
+an alt+ strafer, emmulating a basic keyboard user), reflex speed, 
+aggressivness, ambush ability, awareness, item respawn prediction
+memory (how good he is at remembering respawn times), etc....  It's
+pretty interesting to watch from a bots point of view :).  Plus, for
+fun, each of us rated a bot to how we actually play, so in a sense
+we're all in the game.  Which leads me to my next comment:......
+
+3)  The bots are too easy / suck / too hard..
+
+-  Before you start a game, there is a bot skill level setting you can
+adjust.  They range from 1 (the default) "hi, I just bought a computer
+and have never played a fps before in my life" bot, all the way to 10,
+"get over here Thresh and I'll own your ass all day" insanity :).  They
+gradually ramp up all the way inbetween, so if a bot is too easy, don't
+just pop it up to 10, go up a few skill levels and see where that's at
+for you.  Also, the bot AI is programed with personalities to round out
+how they play.  So each name you see is a different bot personality :).
+
+Something else to remember is that this was designed to be a non-voilent
+valueware deathmatch game.  It was never meant to be on the same lines
+as Quake3 or Unreal Tournament (both very great games :).  Want to say
+a big thanks for those of you that enjoy the game and like it, we're glad
+you do :).  And for those of you who don't like it, well perhaps our 
+next game will be more to your liking ;)p.
+
+"It's the quite ones you gotta watch out for......but I bet while your
+watching a quite one a noisy one will kill you!!!!"
+- George Carlin
+
+=========================================================================
+
+Plan modified: Sun July 30, 2000 - 6:50pm
+Well, unforntunately there's nothing much I can update on the company end,
+all I can say is we're wrapping up the design phase and starting to work
+on content now.  EA is a great publisher to work with.  They've been very
+helpful with lots of feedback and suggestions, working with us
+colaboratively so the outcome is the best it can be.  The organization
+over there is top notch, and we're all very happy to be working with them.
+
+On a personal plug, for anybody who loves great techno music, you must go
+check out the Boom Boom Satellites, some of the best stuff I've heard in a
+long time.  They encompass many different styles, yet have their own
+distinctive flavor to their music.  I hear they're currently touring with
+Moby.  If anybody knows of their tour dates, or where I can find them,
+could ya drop me a line?  I bought their CD 'Out Loud' back in February,
+and I still listen to it daily.  They've also done the intro track called
+'Fogbound' for Ridge Racer V.  Really great stuff, go buy it!! ;)p.
+
+
+Plan modified: Thu September 25, 2000 - 7:40pm
+****** Warning ******* Personal Rant Here ********* Warning ******
+Mission Impossible 2:
+OK, I'm sick of seeing all the bad press from people that are obviously not
+John Woo fans, or fans of that style of movie.  It's very obvious to tell
+that they aren't when they comment on all the slow motion camera work.
+That's John Woo style, check any of his films.  Even The Matrix had a ton
+of slow-mo in their action sequences.  In fact, if you watch the interview
+with the Wachowski brothers where they ask who are some of their main
+influences, John Woo is at the top of the list.  But the point is simple, 
+if you are wanting to go see MI2, just remember that it is a John Woo film,
+done totally over the top, with total comic book hero style action and 
+stunts.  It's a very entertaining action movie if you like this style, by
+far his best work in the states yet.  If you don't like his style, you 
+probably won't enjoy this movie.  It's a simple plot, has some very well
+filmed twists, and some impressive stuntwork and gun-play.  If you're 
+looking for something deeper, then this isn't for you.
+
+Sorry, I wanted to get an objective opinion out there about this movie then
+just "it sucks my dead uncles rotting left ass cheek, totally lame and I
+didn't like it!!!!!" critiques.  Because obviously these people we're going
+into this movie expecting a lot more then what it was clearly going to
+deliver.
+
+
+

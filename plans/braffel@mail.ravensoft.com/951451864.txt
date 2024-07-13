@@ -1,0 +1,595 @@
+
+Name: Brian Raffel
+Email: braffel@mail.ravensoft.com
+Description: Project Director / Designer
+Project: General
+-------------------------------------------------------------------------------
+Feb 24th 2000
+
+For those of you interested - If you check out GameSpot's Designer Diary of SOF I posted a small story
+on our meeting with John Mullins and what he did to help us on SOF.
+
+Also, check out WWW.Planetsoldier.com and check out the hooded terriorist. 
+
+
+
+
+Feb 16th 2000
+
+Wow wouldn't you know - we are knee deep in trying to go gold with SOF and the S_ _ t hits the fan.
+
+The cover is blow off SOF in the mushroom! Read the article to see what I mean.
+ 
+http://www.themushroom.com/mush0215/soffraud.html
+
+Now John Mullins has seen this and had this to say about it:
+
+"Lee, eh?  You wouldn't happen to know his home address, would you?  Failing that, his license plate 
+number?"
+
+John
+
+Now Chia Chin Lee will not come out from under his desk and we still need to tweek some CTF sounds!
+
+Please submit your sound design resumes to Kevin Schilder c/o Raven Software.
+
+
+
+
+Brian Raffel
+
+
+
+
+
+
+
+
+January 12th, 2000
+
+I just want to let everyone know that when I said the SOF demo should pass by QA on Friday that 
+DOES NOT mean the demo will be out then.  Sorry if that was the conclusion that was made but we will post
+a solid date very soon when we are SURE that it is done.  Meanwhile if you would like you can download an
+SOF desktop background we just finished if you like.  
+
+Thanks!
+
+Download the <a href="http://www.ravensoft.com/files/SOF_baddies.zip">Desktop Wallpaper</a>.
+
+
+
+
+
+
+
+January 10th, 2000
+
+Well, The SOF Demo is looking VERY good and should pass through QA by the end of this week.  We will 
+keep you posted as to when you will be able to down load the demo and from what site.  The Demo will 
+include one single player level and two multiplayer levels.
+
+I am also proud to announce that Raven Software will be doing a Playstation2 title, 
+which will be announce in the near future.  We are very excited about venturing into the 
+console market, particularly on the PX2.  We finally got all of our development systems and they 
+are awesome.
+
+Brian.
+
+
+
+November 8th, 1999
+
+Wow,
+
+We did a little post about people coming to help test the SOF multiplayer OEM and we were over run!
+
+I feel VERY sorry if you were one of the people we had to turn away, but we could only had enough machines for
+30-40 people.
+
+ >>>please email me at braffel@ravensoft.com and I will see that you are put at the top of the list for our 
+next testing session. (be honest!)<<<
+
+we have learned that we will schedule people and not leave it open to first come first serve.  We just didnt think
+that many people would show up.
+
+
+
+For those that did come out THANKS! and email us with any comments of how to improve MP/weapons or any other 
+suggestions you may have.  Remember that what you played was an OEM version and of course only about half of 
+the weapons and items from the final game were there. We also will be testing the other type of game like
+assassin and team deathmatch soon.
+
+Thanks!
+Brian Raffel
+
+
+
+
+
+November 3rd 1999
+
+Hey,
+
+check out the <a href="http://www.avault.com/articles/getarticle.asp?name=sof">AVAULT Review</a> of the SoF OEM!  
+It's very well done and full of great info.
+
+I would like to point out to those concerned about 
+the respawning feature that the OEM is Pre-ALPHA and 
+we are still working out the kinks. Right now we have 
+it set up so enemies only respawn in logical, high-traffic 
+areas and not in dead ends.  They also spawn in ahead of you 
+and not behind you 95% of the time.  In the full version there 
+will be an option to scale this back if it bothers you.
+
+
+Brian Raffel
+
+
+
+
+June 24th 1999
+
+
+ YeeeHAAAAA today is our nine year anniversary of being in business!  My brother Steve and I 
+offically formed Raven Software in 1990 and have been lucky enough to beat the odds and stay in
+business.  I would very much like to thank id software since with out them we would more than
+likely not be here! Also, Activision for allowing us to become part of their great company.
+ Well back to working on Soldier of Fortune, Eric Beissman and Scott Rice are waiting for me
+ in a meeting.
+
+
+brian
+
+PS- Sad to say that once again bob love has fallen to my mighty terran tanks.  I look forward to
+his excuses in his plan file, hmmm, the planets were not aligned correctly or the sun was in my
+eyes. =)
+
+
+
+
+
+
+
+
+
+June 22nd 1999
+
+
+Our new web site is up!
+
+Please check it out at the same old www.ravensoft.com
+
+I have been told that my new picture looks like Mr. Clean.  I guess I need to get
+an ear ring....again.
+
+PS- I have now beaten Bob Love in our Favorite RTS 5-6 times....someone teach him to play.
+
+
+
+
+
+
+
+
+	
+March 8th, 1999
+
+
+
+	I am pleased to announce that Raven Software will be developing a
+Star Trek: Voyager game for Activision.  The title will encompass the 
+attributes of both intense first-person shooter action and team oriented 
+combat, as you play the role of a security officer fighting alongside 
+your fellow security team members. 
+	Drawing from the rich Star Trek universe, we will be focusing 
+our efforts into creating the most amazing first-person shooter yet, 
+with new and intriguing gameplay elements.  We are developing new AI 
+and Scripting systems so that the NPC's and enemies will intelligently 
+react to their surroundings and situation.
+	At this time we are in the early stages of development and more 
+information will be forthcoming.  
+
+Look for us showing this title at E3 in May!
+
+
+***************************************
+
+
+
+
+Dec 15th 1998
+
+IT IS OUT!!!! 
+
+"BLACK CRYPT LIVES"
+
+That is right, we finally put out our first game from the amiga on the PC.
+
+IT was a labor of love working on our first title back in 1988.  It all
+started when my brother and I got our c64's and Amiga's.(I loved the Amiga).
+We meet up with Rick "SuperFly" Johnson and Ben "Guitar Player" Gokey. My 
+Brother Steve and I did all of the Graphics, Maps, and Sound effects!(ok,
+Rick did one for the Skeleton Lord). The 4 of us worked on the game design
+together and put a demo out.  In 3 days we had 6 contract offers! We wisely
+went with EA as the publisher and the rest was history.  One tidbit, at
+the time we made this demo I was a high school computer art teacher and 
+cross country coach....so to speed things along I bought my team pizza to
+in put all of our dungeon maps from paper form into our dungeon editor on the
+school amigas!  Now that was a great labor saver!
+
+So download the game demo at "http://www2.ravensoft.com/crypt"
+
+Remember that it is an old style RPG with mouse driven controls and may be 
+a little clunky...and that we only had a 64 color pal.
+
+Let me know what you think (unless you hate it!)
+
+
+Dec 2nd 1998
+
+>>Heretic II  <<
+
+I want to go on record to say that in my opinion Heretic II is the best 
+game to date by Raven Software!  I am very proud of this title (first 
+since joining forces with Activision) because I feel we delivered a game 
+with solid addictive game play in both single and multi player.  I am 
+also pleased that we took the time to insure that Heretic II was a stable
+ product that includes ALL of the editing tools and source needed to 
+allow buyers to create with it what they wished.
+     It was a tough choice for us to try 3rd person but we really wanted 
+to take a risk and venture out into new territory and I think it was 
+worth it.  It really helps to see all of the top-notch reviews we are 
+getting for the game.  A lot of 9 out of 10's and above! We also got a 
+huge complement from Scott Miller at 3d realms.Thanks Scott!  Now I 
+wonder what John R. thinks of Heretic II?  John?
+	Raven is really striving to push into new areas while staying 
+true to our POV standards.  One of our next titles "Soldier of Fortune" 
+(SOF) is looking awesome!  It is such a blast working with real world 
+weapons in real world settings. Fantasy is my true love but there is 
+something about using a machine gun that can't be beat.  In SOF we have 
+used motion capture for ALL the enemies and created a new technology 
+called "Ghoul" which allows us to mix and match different attributes to 
+enemies so that they each look very different from each other.  I have 
+always hated the cookie cutter feel of a horde of foes all looking like 
+clones coming at you.  It is cool to see 10 different enemies attacking 
+ you in all different sizes and attire.  More on SOF another day and 
+talk of gore zones.
+
+	I cannot wait to announce our third project but it should not 
+be too much longer.
+
+Compliments to Ritual on "Sin" and Valve on "Half Life" Both are Awesome 
+games!!
+
+Brian "Martek" Raffel
+
+
+
+
+
+
+
+October 26, 1998
+
+HERETIC II demo suggestion.
+
+Just wanted to point out what may be obvious to most players but a lot 
+seem to miss this.  Since Corvus always has the Tome of Power with him 
+]he has the ability to power up his weapons at ALL times. To do this 
+requires a large amount of defensive (blue) mana.  So, a good tip is to 
+pick up some blue mana and hit your defense key (usually the enter key) 
+and power up your weapons...I strongly suggest using it with the red rain! 
+
+· Using the Tome of Power also brings you out of being a chicken. 
+  (that or running to a shrine)
+· Use the jump key as a chicken to "fly" away from your foe.
+· Use your bracket keys to switch through your defensive spells of Tome 
+  of Power, Teleport, or Morph Ovum (chicken spell)
+
+Well, that is it ..have fun!
+
+
+
+
+
+
+
+Oct. October 22, 1998
+
+Well, I spent the whole night last night testing the Heretic II demo and 
+I must say that I think this is the best product Raven Software has done 
+to date.  The game feels very tight and smooth and I feel we were able to
+capture the right blend of action and challenge.  The story is implemented
+tightly though out the game with level design, creature design, and in/out
+game cinematics.  Deathmatch is a blast!  It was great last night in on 
+one occasion I telefragged someone in time to grab the phoenix bow , do 
+a somersault of the ledge and fire off a shot into "deer in the headlights" 
+Bob Love. His staggering burning body was a sight to see!.unfortunately,
+someone took their powerup staff and cut off my arms so all I could do 
+is run away spouting blood out of my vacant arm sockets looking for a 
+health shrine...I didn't make it!  DM is where the 3rd person perspective 
+shines.  It is great to see your player switch weapons, dive, roll, tuck,
+die or turn into a chicken.(In certain peoples cases...see their burning
+bodies over and over again!)
+I am glad that we will be including the game editor with the full version
+of the game so gamers can make there own levels right away.  I think it 
+will be great to see what kind of interesting situations the net community
+can come up with for Corvus to encounter.
+I hope people will take the time to download the demo tonight or in the 
+near future and see that 3rd person perspective is a great success!  
+We made sure to make the game as configurable as possible so that players
+can make Corvus and the camera handle the way they want!  Have Fun!
+
+Well, back to hunting down Bob Love and Matt Pinkston!
+
+
+
+
+
+
+April 23, 1998
+
+Ok..Here goes.
+
+John Romero and his mighty band of AOE players (John R, Slicer, DaBug, 
+Seb) destroyed us !(Brian Raffel, Mike Crowns, Dan Kramer, and Jeff Lampo)
+ for the 4th week in a row.   I have lost tshirts, and pride but I still 
+want to challenge them again!!!!  I must confess it is of some comfort 
+to have my troops slaying john's villagers, that is until Slicer swings 
+through and levels my town with helepolis.  Yes there are tears of 
+frustration but in the end will have to win at least one game,right?  
+I mean even a blind squirrel finds a nut once in a while.
+
+Congratulations to Mr. Romero and his great players...for now!
+
+PS-If there are any world class AOE players in the Madison area that 
+would like to work for Raven Software on Wednesday nights at 6:00pm -
+till about 10:00pm please email me. =) (Just Kidding)
+
+
+
+
+
+
+
+
+
+
+
+
+
+April 3rd  1998
+
+Well,  We are all eating great big portions of humble pie today.  John
+Romero and 3 of his Ion storm employees destroyed the Ravenites at AOE 
+last night.  We are sending Ion Storm 4 Raven tshirts as per our bet.
+Now I was not there to play so I hope that John will let us try one rematch
+so I can personally see how good they are.  Hat off to some awesome players.
+	On a better note, we got our copies of the HexenII mission pack so 
+they should be in the stores now or very soon.  We are very proud of the
+mission pack and we feel we did a good job addressing weak spots in the
+original game. Please feel free to email me with your comments good or bad.
+
+Anyway, I have to go, we are piling into the WAR-ROOM to see if/how we can
+win back our pride from Ion Storm in AOE.  AHHHHHHHHH!!  =( (any suggestions?)
+
+
+
+
+
+
+
+
+
+
+March 26th 1998
+
+Well, we finally announce our Heretic II project and we are very excited
+ about it here at Raven. Not surprisingly we have had a few emails and 
+comments about the 3rd person perspective over good old POV.  I want to 
+shed some light on this and give my perspective to our decision to go 
+this route.  I love the Heretic/Hexen world and I felt that it would be
+ great to try a new slant (at least for Raven) on the world and try 
+exploit a new perspective.  It is cool seeing the character casting 
+spells and shooting weapons as well as interacting with the world.  I 
+would still love to do and MAY do a POV sequel to Heretic (Activision/id
+ permitting of course =)) so please give it a chance and see if you like
+ it?  It will be at E3 and we will have more info and screen shots out 
+as we develop. I would think most gamers would want to try something new
+ and different.  We will still be putting out a new POV action game with
+ the quake II engine (best in the world) in 1999 so we like to try new 
+things.
+	I would also like to announce how proud I am of the Hexen II 
+mission pack! The team did a great job with this one and we took into 
+account any feed back we got on the original HexenII and tried to address 
+them.  We also released Hexen World!  RJ (Rick Johnson)and the boys did a
+ great job! RJ loves turtles so send him any pictures or fun stories you 
+have with regards to our friends in the half shell! (please keep it clean!)
+
+Update on my eye - for those who are interested in refractive surgery
+
+I just got back from the eye doctor and I now have 20/20 in BOTH eyes 
+(covered one at a time) and 20/15 when seeing with both eyes! Wow what
+ an improvement.  But I still have dry eyes and have some blurry vision
+ at times. The nurse that checked my eyesight today said she also had it
+ done and it took her about 2 months for her eyes to "settle down".
+ (by the way my surgery cost about $1,500.00 per eye)
+
+Well, feel free to email me with any comments on Heretic II.  I would 
+love to hear them
+
+Brian 
+
+
+
+
+
+
+
+
+
+
+
+
+March 12th 1998
+*************************
+
+Well I am now free from glasses now that I have had refractive surgery.
+
+Pre warning-I will not be writing about games today!)
+Just got back from two days off so I could get refractive surgery for my eyes. I am happy to
+ write that everything went well! Here are how things went:
+
+I had my wife drop me off and I walked in for my surgery.  I was very nervous and didn't
+ quite know how this whole thing was going to go.  It is not everyday you get your eyes
+ cut and with a laser.  They checked me in and made sure I signed all the forms that were 
+necessary to get under way.  I then walked me back to a small room with several recliners.
+  I walked in to see a woman getting drops put in her eyes because she was the next to go 
+in.  She was nice enough to tell me that she had it done before and that she was in to have
+ one of her eyes redone to make it just a tad better. It was good to have someone tell me 
+that it was easy and like a miracle.  That helped ease me a bit.  What really help me was 
+when they game me a sedative!  I felt very relaxed and looked forward to getting this thing
+ going.  When they were ready for me they walked me back into a dentist like chair and sat 
+me down.  I put my head back and they inflated a small pillow type cushion to keep my head 
+in place.  Then I had some numbing drops put in my eye so I would not feel my cornea being 
+cut and vaporized!  I then had my left I covered and had a device put in my eye so that I 
+could not blink (a speculum).  It was not as bad as I though it was going to be and I did 
+not fight it.  I was then told that a small vacuum would be placed over my eye and block out
+ my sight for a small time…not from any damage but due to its total coverage of the eye.  I 
+had to keep my eye looking straight ahead and I did my best not to jerk my eye around.  
+(They were of course cutting my cornea into a flap) Once that had happen they removed the 
+vacuum and I could see a red dot within a green circle.  I was told to focus on the red dot 
+and not to look away.  I saw a forceps coming close to my eye and saw the cornea flap being
+ peeled back. This was weird because I could see it happening and after the flap was moved 
+my vision became blurry.  I was then told that the laser was about to cut and that I need 
+to stare at the red dot and not move away.  I did this for about 30-45 seconds.  That was 
+it, now it was time for clean up.  The cornea flap was place back (My vision became sharp 
+again) and the doctor took a small sponge and brushed my cornea flat to my eye and let dry 
+for about 3 minutes.  Then he removed the speculum that held open my eye and I was done!  
+He moved on to the next eye and repeated the same procedure and I was done…. No pain what 
+so ever!  I had two clear plastic eye protectors taped over my eyes and then they helped me
+ out of my chair and brought me out to my wife.The weirdest thing was as I walked out in 
+the parking lot I saw a delivery truck about 30 yards away and I could read the side of the
+ truck! It was a bit blurry but it was so cool that I could already see so much better.
+I went home and slept and relaxed until the next day and then took off my eye protectors.
+ I could see really well but still had some blurry vision.  
+I went to the doctor this morning and I have 20/20 in one eye and 20/30+ in the other plus 
+it took care of my astigmatism.  I am told that the blurry vision will get better over the
+ next week or so and my 20/30 could get better as it heals.  I take some drops in my eyes 
+and that is about it.  I have had no pain!  I will up date next week to see how and if 
+my vision improves.
+
+
+So that is my experience I hope it helps any of those of you out there thinking about getting
+ this done. (LASIK)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+March 9th 1998
+**********************
+
+Fade Away - XIII
+
+
+It was at that moment that... the voice in my mind screamed "Down!"
+I didn’t need any strange voices telling me that.  I covered my head 
+and dove on the damp cell floor with a smooth roll and tuck.  The 
+door blasted open and the cell was flooded with an intense light 
+that seared deep into my brain like hot needles.  I felt no physical 
+heat but my brain felt like an egg in a frying pan and it must have 
+been ordered scrambled.  The voice jolted me back to a vague sense 
+of reality through the intense pain.  "Run NOW past the light before 
+it begins!"  I could barely comprehend what the voice said let alone 
+act on it but I felt my body rise and dash straight into the light 
+like I was a Green Bay Packer!  As I exploded beyond where I felt 
+the source of the light was, I felt surges of energy enter my body 
+and I saw a vision.  Julie running to me naked and ready for action;
+Yes, there is a god!  Her green eyes glowing brightly as our bodies 
+intertwined, she parts her lips and whispers to me, "Do you have the 
+key, my love?"  Damn, even in my fantasy she wants that damn key!  
+I look into her face and say, "Screw the key I have what you really 
+need."  That is where the vision stopped and the nightmare began.  
+
+I was abruptly reminded of the physical world as I focused on the 
+cold dark stone floor rushing up at me.  "Uggrm" is the only 
+intelligent thing I could say as my face bashed into the ground.  
+I got up quickly and spit the dirt out of my mouth in time to hear 
+that annoying voice spout out "Keep going dreamboat, haul your ass 
+to the door or you’re hamburger helper."  I jerked my head up in 
+time to see a large oak door at the end of the hallway.  I pushed 
+off towards the door when...
+
+
+March 5th  1998
+**********************
+
+Mission Pack looking good! Should be able to hit our deadline (never an easy task). I am
+looking forward to E3 where for the first time there will be 6-7 of us from Raven there to 
+show our projects.  I will have to keep an eye on Rick Johnson and Eric Beissman as well as 
+the likes of Bob Love and Brian Pelletier!  It will be a large task keeping these guys in line.
+    I enjoyed Paul Steeds contest for an offical Quake Crackwhore! I think he chose wisely.
+Well, went in to have my eyes evaluated to see if I was a good canidate for refractive surgery.
+Turns out I am a good canidate and I will be going in on Tue. March 10th for the LASIK surgery.
+I want to thank everyone that was kind enough to email me about refractive surgery.  It helps to 
+hear what other people have heard or have gone through themselves.  So, I am a little nervous
+to think that someone will be peeling away a layer of my eye but I think the reward is worth
+the risk! The good thing is that they will be taking care of both eyes and also my astigmatism(sp?)
+all at the same time.
+
+Well, that is it for now.
+
+Brian 
+
+PS-Please keep those levels and applications coming.  I have been impressed by alot of the 
+resumes,animation and levels people have been sending!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 17th 1998-
+
+**********************
+
+Been working on getting the mission pack done and I am very happy with it!  We have been trying 
+to keep all the things that worked well in HexenII and clean up on areas that fell short in
+the eyes of the public.  We made the puzzles more straight forward will a more restricted hub
+flow (not so much jumping back and forth back and forth back and forth) and we really cut donw 
+on load times!!!! and made sure it is PLAYABLE on a p90 with 16 megs.  It was a much larger 
+jump going to the quake engine from the doom engine than we thought.  GL was the other thing 
+that caught me off guard, with its 2 megs of ram for textures....that is what killed us.  We 
+tried very hard to have lots of great textures and Models and when it came down to it we just
+plain had too much in.  So, the good news is that on a p90 /16megs. average load time was 15 to 
+20 seconds.  Thats about 4 times faster.  We are also working on Hexen2 world and a Hexen II
+multiplayer game (unsupported at this point).
+	One thing I am contemplating is getting refractive surgery for my eyes.  Has anyone out 
+there done it and wish they hadn’t? Is it painful?  I may not even be a good candidate but am going to go in to see if I would be.  It sure would be nice to not have to wear glasses if it worked out that way.  I have had glasses since 3rd
+Grade and so I maybe too nearsighted to have it work to 20/20 I guess right?  Well, I will 
+post my findings as I go.
+
+Until then, I think Eric and his fellow band members should call their band…….
+
+Ericstein and the Little Shavers (oh ya, and bob love too)
+
+Just a thought…

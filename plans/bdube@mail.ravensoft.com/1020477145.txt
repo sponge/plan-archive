@@ -1,0 +1,87 @@
+
+Name: Bryan Dube
+Email: bdube@ravensoft.com
+Description: Programmer
+Project: SoF2 MP
+-------------------------------------------------------------------------------
+5/03/2002
+   Well, this is my first plan update so why not make it a big one.  Since the Sof2 test was
+   release and we have recieved a few hundred emails with suggestions and comments for 
+   improvements.  The following is a list of what has been fixed, changed, and or updated 
+   since the test build was made available.  Note, this does not mean we are releasing a 
+   patch for the test, instead its simply an update to let everyone know what we have been up to.
+
+	- run animations revamped to help eliminate foot sliding
+	- new lean animations added
+	- fixed bug that prevented you from seeing yourself type a chat message
+	- server option to disable specifc votes
+	- now says who killed you above scoreboard after dying
+	- added affirmative and negative radio messages
+	- thermal and nightvision goggles are now visible on players
+	- flags and briefcase show up as icons now in radar
+	- added "knife" keyword to "weaptoggle" command
+	- "weaptoggle" command now accepts a single parameter (ie, weaptoggle primary)
+	- sort columns on server browser fixed
+	- password protected column added to the server browser
+	- server browser screen enlarged to allow more info to be displayed
+	- flashbang cheat fixed
+	- grenade timer reduced from 5 seconds to 3 seconds
+	- flame grenade effect now more accurately represents the damage area
+	- can no longer easily stand on another players head
+	- should not be able to identify enemies in deathmatch through walls
+	- when hitting esc after connecting to a full server you will be placed back into the joinserver screen.
+	- fast weapon switch option added to allow weapon switching without the menu
+	- players in deathmatch now start with full armor
+	- all bullet weapons now do a bit more damage
+	- client command added to switch back to last used weapon (weaplast)
+	- can now lean 25% further
+	- can no longer more forward or backward when leaning (but can still strafe)
+	- footstep sound volume increased
+	- when ghosting you can now see the team identifier icons
+	- server command added to allow admins to cancel a vote (cancelvote)
+	- new lean button added that when held down will allow strafe right and left to act as lean right and left
+	- more gore and an option to control how much
+	- dropped guns dont all point in the same direction now
+	- can now set how many decals are in the world at once (rather than time based)
+	- server side cvars added to help prevent radio spamming
+	- thrown knives no longer stop the helicopter rotors
+	- scoreboard will now come up alot faster
+	- dead status of players on the scoreboard will now update alot faster
+	- option added to have bodies stay around for the entire round in infiltration and elimination
+	- can no longer call vote to kick someone if there is nobody on the server with that name
+	- thrown knives no longer dismember
+	- server side cvar added to turn off additional scoring for ctf and infiltration game modes
+	- no longer switch to dead players when cycling through players to follow
+	- bug which would show zero ammo and the wrong weapon in the hud is fixed
+	- blood effects revamped
+	- anti-teamkill system added
+	- pause that would happen when someone joined a server has been fixed
+	- autorun is turned off when you die now
+	- shadows should no longer clip through walls
+	- dead bodies now have shadows
+	- can now see team scores and fps on the hud at the same time
+	- can no give a reason when using the "clientkick" command
+	- server option added to help prevent vote spamming
+	- barrel bug/cheat on mp_shop rooftop fixed
+	- death messages now have the names color coded for easier idenfication of who died
+	- double briefcase bug fixed
+	- falling through wall bug fixed
+	- can now disable auto-reload
+	- vote yes and vote no are now bindable in the menu
+	- extendtime command added to server
+	- server can no disable all weapons all the way down to just knives
+	- accuracy reduced when jumping
+	- fixed bug that would cause grenades to no alwasy kill you when you hold them too long
+	- fixed bug that would prevent grenades from falling and exploding after being killed one one armed
+	- message of the day should now show up when connecting to a server
+	- added extra clip to M1911A1
+	- players will momentairly catch on fire when hit by a fire grenade
+	- players will have burn marks on them after being hit in a grenade blast
+	- fixed some of the spawn points that were in walls
+	- "escape with briefcase" bug fixed
+	- g_inactivity is now archived
+	- should no longer spawn near the other team in infiltration or elimination
+	- rcon no longer stops working over time
+	- can no longer lean into walls to see through them
+
+	- and more that we couldnt remember....

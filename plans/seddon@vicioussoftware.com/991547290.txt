@@ -1,0 +1,30 @@
+Login: seddon         			Name: Chris Seddon
+Office: Vicious Software, 905-xxx-xxxx	Home Phone: 905-xxx-xxxx
+On since Sat Jun  2 22:56 (EDT) on pts/2 from :0
+   57 days 1 hour idle
+     (messages off)
+Project:
+RAZOR, Xistence Engine (v2.5)
+Plan:
+I had a technical issue before which posted my old .plan file from few
+weeks back, sorry! 
+
+And now for news, gossip, and ownage as CliffyB would say!  Vs is
+back and working on Razor. Literally days before E3, we had tons of bugs
+in Razor and dev problems! The development tools we "were" using for the
+creation of models crapped out, and Visual C++ 6.0 Pro decided it would
+stop working after a detection of linux on my dev system (that is bs, I am
+just annoyed with VC++). Every time I had loaded the workspace a GPF would
+arise, how wonderful is that. After reinstalling it several times,
+spending lots of time doing things, my frustration grew to hate MsVC++.
+
+With all that in mind, I decided to scrap all the modelling utils and add
+all the functionality into Fate needed to create models.
+
+VS has some interesting new things in the works over the next few months,
+stay tuned. BTW, there are no screenshots of RAZOR YET!
+
+l8r
+
+Login: tim            			Name: Tim Seddon
+No Plan.

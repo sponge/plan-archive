@@ -1,0 +1,14 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+
+Mac stuff.
+
+1.29f Mac is 100% compatible with 1.29g, the fixes are almost all WIN32 related input/sound etc.  There are no networking changes, QVM or othersuch evil things we've done in the pass to force everyone to upgrade.  There's a forthcoming build that addresses the 1.29g build and that will be made available on all platforms, but meanwhile there will be nada zip zero no build of 1.29f for the Mac because we've already moved on from 1.29f.
+
+And besides, we're working on DOOM.  :-)
+
+

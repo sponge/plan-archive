@@ -1,0 +1,37 @@
+
+Name: Jake Simpson
+Email: jsimpson@ravensoft.com
+Description: Lead Programmer
+Project: Pretty much everything
+Web Page: <a href="http://www2.ravensoft.com/jakeworld">JakeWorld</a>
+-------------------------------------------------------------------------------
+7/16/01
+
+A couple of things, then a plea for help.
+
+First up, congrats to Mucky Foot on a damn cool game. I picked up StarTopia this weekend, and it ROCKS.
+A definite good first release.
+*UPDATE*
+Like an idiot I didn't check my facts did I? It seems that this is the *second* release for Mucky Foot. Apologies all round.
+Thanks Jonathan Fingas for the heads up.
+*UPDATE END*
+
+Also, congrats go to Remedy and 3DR for finishing up Max Payne. I will wait with interest for this to show
+up in stores.
+
+Lastly, I need a bit of help. I've finished up my screen saver, and I want to release it to the world.
+The issue is finding a decent (free) installer. I have the Install Shield Express installer that comes with
+VC 6.0, but it's been mutilated so it doesn't do all that I need it too. Here's what I specifically need.
+An installer that can handle
+- modifying or creating .ini files
+- the ability to stuff code directly into the windows/system dir
+- the ability for the user to determine where they want data files to go
+- the ability for the user to determine if they want to install the original source code or not.
+and some compression would be nice.
+
+So, anyone out there know of such a beasty? I'm not keen to sink cash into this, since I'm giving the
+saver away free, along with the source code too. And it's a big one - lots of openGL 3d stuff going on.
+Any sci-fi fan will love it. However, it is dependant on getting an installer together.
+Feel free to drop me a line <a href="mailto:jsimpson@ravensoft.com">here.</a>
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/jakeworld">JAKEWORLD!</a>

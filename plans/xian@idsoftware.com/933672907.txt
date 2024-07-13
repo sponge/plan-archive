@@ -1,0 +1,66 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+<font color="white">
+
+<b><u>Aug.03.1999 @ 3:33am</u></b>
+
+ I will make sure to update the official Q3Test mirrors page at 
+www.quake3arena.com tommorow morning when I get in.
+
+ In the meantime, be sure to check out www.bluesnews.com or 
+www.shugashack.com for download locations.
+
+ I also did some tuning on the webserver earlier and it should have fixed
+the slow connections some of you wrote in about (it turned out that GLSetup
+was using HTTP to download drivers, and it was maxing out our webserver at
+160 connections. Oops. It's been fixed now). We also upped the bandwidth 
+from our provider, so connections to our network should be more responsive
+and connections to our gameservers should yield lower pings in general (we
+outgrew our bandwidth cap which was really messing things up connectivity-
+wise)
+
+ Zzzzzz....
+
+ -Xian
+
+
+Stuff: I played on Vallon Zek in EQ briefly today (One of the new racewar
+servers). Started an Erudite Cleric named Achmed as part of the Axiom (my
+guild on Cazic Thule) branch on the racewar server. 130 people in Tox Forest.
+Yeah, right. I'm so used to playing as Haujobb, my level 32 High Elf wizard on
+Cazic Thule, that I've grown used to my inherent night vision granted to all 
+the elven classes. Not being able to see in the dark blows. Tox Forest gets 
+my vote for the worst newbie zone in the entire game. At least Nektulos Forest
+Branches off of Lava Storm and East Commons. Tox branches off to... err... 
+Kerra Isle and... water... You die off Qeynos and you're all the way back in Tox.
+Fun. Not. Decided to call it quits after John Carmack and John Cash witnessed
+me getting my ass handed to me on a plate by a skunk.
+
+ You can't do the sense heading, move forward double bind anymore either =(
+
+ Did I mention how much riding boats sucks ?
+
+<tt>
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, mud slides, forest fire, or projectile (which can 
+include, but not be limited to, arrows, bullets, shot, BB's, paintball, shrapnel,
+lasers, napalm, torpedoes, or emissions of X-rays, Alpha, Beta and Gamma rays,
+knives, stones, etc.). 
+</font>
+---
+</tt>

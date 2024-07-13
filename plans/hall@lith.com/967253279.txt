@@ -1,0 +1,495 @@
+
+*** Monolith Production's Finger Server
+
+User name: hall
+Plan modified: Fri Aug 25 14:43:53 2000
+
+				
+					8/25/2000
+
+After numerous inquiries I will just go ahead and confirm the rumor that indeed, the designer and creator of Microsoft’s Asheron’s Call has joined us and has been working on our (unannounced title) massively multiplayer LithWorld project.
+
+His name is Toby Ragaini and he actually has been here working on things here for a few months. We’ve just been keeping it quiet until now.
+
+Anyhow, we are happy to have him here and look forward to continuing our working relationship with him!
+
+ 
+
+
+
+				
+					8/22/2000
+
+
+Here come some of the free talents that will are becoming available! There are more to come I assure you...
+
+<A HREF=http://www.ebworld.com/ebx/categories/products/product.asp?pf_id=182186&mscssid=F422KD4R6QS12HAJ000GVC6BAXL90EKF target=_top>http://www.ebworld.com/ebx/categories/products/product.asp?pf_id=182186&mscssid=F422KD4R6QS12HAJ000GVC6BAXL90EKF</A>
+
+Some new reviews of Sanity have popped up as well:
+<A HREF=http://www.galactus.org/articles/SanityDemo/ target=_top>http://www.galactus.org/articles/SanityDemo/</A>
+<A HREF=http://www.3dap.com/features/demos/sanity/ target=_top>http://www.3dap.com/features/demos/sanity/</A>
+
+Check it out.
+
+
+				
+					8/22/2000
+
+Just got this in and I wanted to pass it along!
+
+--------
+3DactionPlanet is kicking off three days of Sanity coverage. Today they have
+an interview and in-game screenshots. There is also an all new in-depth review of the Sanity demo available.
+
+Interview: "Sanity: Aiken's Artifact should quiet any doubts that Monolith
+was loosing its edge. In fact, you may wonder if the developers didn't lose
+their minds making this visual stunner. Jason Hall, CEO of Monolith, talks
+about the game, his company, and other juicy bits."
+
+Link: <A HREF=http://www.3dactionplanet.com/features/interviews/jason_hall/ target=_top>http://www.3dactionplanet.com/features/interviews/jason_hall/</A>
+
+Shots: Sanity contains some amazing visual effects, mostly from the colorful
+and splendid "talents". These screenshots were taken from the final version
+of the game.
+
+Link: <A HREF=http://www.3dactionplanet.com/features/screens/sanity/ target=_top>http://www.3dactionplanet.com/features/screens/sanity/</A>
+
+All new demo review: " Monolith combines a lot of action with shades of an RPG in their latest release, Sanity: Aiken's Artifact. Varied and unique, there's a little something in it for everyone. Warzone takes a look at the demo and decides it's definitely worth the download - find out why in this review. "
+
+<A HREF=http://www.3dactionplanet.com/features/demos/sanity/ target=_top>http://www.3dactionplanet.com/features/demos/sanity/</A>
+
+On a different note - Soon we will be releasing more information on our new mech game that has been secretly worked on for quite some time now. Stay tuned! (It is not Shogo 2).
+
+
+
+
+				
+					8/2/2000
+
+This just in:
+
+We're planning some very exciting enhancements to the LithTech engine for supporting persistent worlds, including developing new scalable server technology to support MMP games with thousands of players.   And to prove the new technology LithTech will be developing a five-star MMP persistent-world title (details forthcoming soon).   Of course we expect to have a team of the best talent in the industry working on this.   So if you have the right background and interest level in server development, scalable server technology, distributed objects, fault-tolerant architectures, distributed simulations, high-performance computing, advanced character behavior development, or any other systems-level expertise that you think might be a good fit in our online technology group, send your resume to mailto:engjobs@lith.com.   Be sure to check out our jobs page at  http://www.lith.com/jobs for more details.
+
+
+
+
+				
+					7/29/2000
+
+
+The Monolith Sanity forums are now online at:
+<A HREF=http://www.sanitygame.com/forum/ target=_top>http://www.sanitygame.com/forum/</A>
+
+To reach the Fox Sanity forums go to:
+http://bbs.foxinteractive.com/messages/board-topics.html
+
+
+
+
+
+
+
+
+				
+									
+					7/28/2000
+
+Saw up on www.voodooextreme.com that they put up some new impressions of the Sanity demo.
+
+<A HREF=http://www.voodooextreme.com/#3219 target=_top>http://www.voodooextreme.com/#3219</A>
+
+It is nice to see that all of the hard work is paying off and people are enjoying the demo a lot. Many learned lessons went into the Sanity production, and I'm very glad that the lessons learned were valuable.
+
+If you haven't downloaded the Sanity demo already, I would ask that you give it a try and see what you think. I'd love for gamers to e-mail me their opinions as well!
+
+Here is a link to the download:
+
+<A HREF=http://www.real.com/games/sanity/index.html?src=games-download target=_top>http://www.real.com/games/sanity/index.html?src=games-download</A>
+
+Also: 
+
+I noticed some comments made by Black Isle that really speak VOLUMES about LithTech. See if you can find them:
+<A HREF=http://www.dirty.org/BIS/notes.htm target=_top>http://www.dirty.org/BIS/notes.htm</A>
+
+
+
+				
+									
+									
+					7/26/2000
+
+Check out these Sanity Demo Reviews!!! WHOOOP! I'm excited:
+
+<A HREF=http://www.xtremenetwork.com/reviews/sanity_demo/ target=_top>http://www.xtremenetwork.com/reviews/sanity_demo/</A>
+
+<A HREF=http://www.junkextreme.com/reviews/july2000/sanity/ target=_top>http://www.junkextreme.com/reviews/july2000/sanity/</A>
+
+<A HREF=http://www.ga-rpg.com/article.cfm?id=4439 target=_top>http://www.ga-rpg.com/article.cfm?id=4439</A>
+
+<A HREF=http://firingsquad.gamers.com/games/sanitydemo/ target=_top>http://firingsquad.gamers.com/games/sanitydemo/</A>
+
+<A HREF=http://www.evilavatar.com/EA/Reviews/Demo/M11575/default.htm target=_top>http://www.evilavatar.com/EA/Reviews/Demo/M11575/default.htm</A>
+
+<A HREF=http://www.stomped.com/articles/sandemo/ target=_top>http://www.stomped.com/articles/sandemo/</A>
+
+<A HREF=http://www.gamesxtreme.net/previews/172000114457/ target=_top>http://www.gamesxtreme.net/previews/172000114457/</A>
+
+<A HREF=http://www.thegameden.com/previews/Sanity/index.htm target=_top>http://www.thegameden.com/previews/Sanity/index.htm</A>
+
+<A HREF=http://www.voodooextreme.com/article.taf?articleID=6 target=_top>http://www.voodooextreme.com/article.taf?articleID=6</A>
+
+I think it is unanimous. BIG THANKS to all the websites and people out there who were kind enough to give the demo a try!
+
+Now, on to other matters...
+
+There has been a very important discussion going on across various websites regarding Sanity's "Talent Packs" and the concern that by selling them we are somehow empowering those people with more money with some kind of advantage over other Sanity players that have not purchased or acquired any additional talents.
+
+To answer these types of concerns, I have put up a link of comprehensive questions and answers on this topic that should take any confusion on the Talent Packs "fairness" and "security" out of the equation:
+
+<A HREF=http://www.sanitygame.com/talent_packs/ target=_top>http://www.sanitygame.com/talent_packs/</A>
+
+Please read it. And websites of the world, PLEASE link to it and get your user base aware of this information if you can. I would really appreciate it. Thanks!
+
+---------
+
+Next up - The LithTech and RealNetworks deal.
+
+Yesterday, RealNetworks (a 7 billion dollar internet company) announced a strategic partnership with LithTech Inc. They also announced that they have become one of our newest licensees. Here is a link to that announcement:
+
+<A HREF=http://moneycentral.msn.com/investor/news/allpress.asp?NoTopStories=1&Symbol=rnwk target=_top>http://moneycentral.msn.com/investor/news/allpress.asp?NoTopStories=1&Symbol=rnwk</A>
+
+I am going to attempt to explain with this deal means to LithTech, and to all the game developers out there in layman’s terms:
+
+Essentially, RealNetworks is moving into the business of selling and distributing high quality but small file-sized downloadable games. They have licensed the LithTech engine from us so that they can provide "garage-type" , "shareware-type" , "MOD-type", etc., game developers a high quality and sophisticated 3D engine (that has been modified to fully support electronic software distribution, ESD)to use to produce 3D games with.
+
+Once a developer produces a game with LithTech ESD, Real Networks will sell and distribute and advertise that game to their 100 million plus user base. The revenue will be divided between Real Networks, and the developer. No middle people!
+
+This is a REALLY big deal. Not only did LithTech just do the largest 3D engine license deal in the entire gaming industry, but now more developers than EVER can get their hands on the full version of LithTech 2.0 and start making their game, which will eventually be distributed and sold by Real Networks.
+
+The developer starts seeing royalties on the first sale.
+
+This is a real chance for game developers to finally make some money and not drown in their traditional game advance money that winds up eating all of any game royalty they hoped to see.
+
+So let me paint a scenario for you so that you completely understand how this works -
+
+There are 5 guys who really want to make a game and get into the games business. We'll call them DEVELOPER X.
+
+DEVELOPER X goes to this website,
+<A HREF=http://partner.real.com/isv/index.html?rn=74697710 target=_top>http://partner.real.com/isv/index.html?rn=74697710</A>
+and signs up for the LEVEL 2 partnership program. It costs $495 to get into the program.
+
+DEVELOPER X pays Real Networks the money, and then Real Networks gives DEVELOPER X the LithTech 2.1 binary SDK, the documentation, and an e-mail account for technical support.
+
+DEVELOPER X now has all the technology they need to make a cutting edge 3D game, along with support, and they have a known distribution outlet that they are shooting for.
+
+DEVELOPER X begins to prototype and make a game.
+
+DEVELOPER X, feeling pretty good about their design and prototype, submits their work to Real Networks in the hopes of securing a full distribution deal.
+
+Real Networks looks at DEVELOPER X's work and either a) signs them up or (b) directs DEVELOPER X on what they feel they need to see before they agree to sell and distribute the game.
+
+Once Real Networks has signed up DEVELOPER X's game for distribution, DEVELOPER X moves forward and finishes their game (the entire game production in this scenario is funded by DEVELOPER X).
+
+Upon completion of the game, DEVELOPER X gives the final version of the game to Real Networks, and Real Networks then sells and distributes the game.
+
+Now this description is a simplification of the whole process and there are many tangents that this can go in, but the bottom line is that this is all about DISTRIBUTION, and by using the LithTech engine and the Real Partner program, a small time game developer has a very reasonable chance of making a small but fun game and making a serious amount of money from it.
+
+This is the true beginning of the "Independent Games" industry. 
+
+Without all the associated costs that RETAIL distribution has, ESD can be a very profitable option for game developers to get a foothold, and Real Networks is providing a way to do it.
+
+So now, MOD authors in particular can decide if they want to spend a whole lot of time making a MOD for a game for free, OR if they want to make an impressive 3D downloadable game and actually start a company that could make some money (because the 3D engine LithTech gets provided to you... no more need to use some game's engine to show your stuff for free to later get a deal from some big publisher...) - now MOD makers have access to real distribution that can be monitized! 
+
+Remember, the cost of doing a full featured MOD, is nearly the same as doing a small downloadable 3D game for the Real Networks distribution channel - so if you can make a MOD, you should look at this program more closely. I mean, heck - Real Networks is paying for your LithTech license!
+
+I hope that this all made sense. Please contact Real Networks for more info.
+
+Jace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+					7/22/2000
+
+This is an important update. PLEASE READ
+
+This coming Tuesday (or possibly Wednesday) the full and complete Sanity:Aiken's Artifact DEMO will be made available for download.
+
+The demo will come with a whopping 24 "talent" cards (or "weapons" if you prefer to think of them like that), 2 single player story driven levels, and 2 multiplayer levels. It will also come with the Sanity demo version "stand alone" independent server application.
+
+A few things in particular to note about the demo are:
+
+1) The single player experience of Sanity is very much character and story driven. There are many story elements, plot twists, action and adventure elements that amount to a very unique and awesome experience when playing the full version of the game. 
+We took a team vote at Monolith and we all decided that ABOVE ALL ELSE it was very important to NOT spoil the addictive experience of revelation and accomplishment that is felt when playing the full version by giving away too many story elements in the demo version. (Few things ruin a gameplay experience more than "knowing-what's coming-next...")
+At the same time, we all agreed that it was very important to introduce gamers to the content rich world of Sanity and its X-MEN-like characters, its unique single player/multiplayer gameplay, its expandable talent system, and particularly its unique easy-to-use interface design, in an elegant and intuitive way.
+
+2) Although the demo comes with a full 24 talents, not all of them can/will be used/found in the 2 single player levels provided in the demo. In order to see and use any of the talents that you can not acquire/find in the single player mode provided in the demo, you must play Sanity in multiplayer mode. In multiplayer mode, single player story driven restrictions are lifted and all 24 talents are available for you to access (via your talentbook) and use against others only during a multiplayer deathmatch.
+
+3) In order to demonstrate to the game community how the "talent pack system" works, the demo has been made so that it WILL accept certain special additional talent packs that will be made available on the internet when the demo is released. These special additional talent packs are also compatible with the full retail version of Sanity:Aiken's Artifact.
+
+Here is a full description of the talent pack system taken straight from the demo's readme.txt -
+
+-----
+Sanity is the first pc game to fully embrace the 'booster pack' concept that makes popular card games such as Magic: The Gathering and Pokemon so exciting, fun, and ever-growing.
+
+The Sanity multiplayer gaming experience is fully extendable via all new "Talent Packs", which are collections of new Talents that players can acquire and use against their opponents in a multiplayer game of Sanity. The new Talents found in these "Talent Packs" are not supplied in the demo or standard retail version of the game.
+
+The really cool part is that by getting these "Talent Packs", you are able to acquire new "Talent Cards" that no one else has, and use them against other players in a multiplayer game. The other players in the game will see you using your new Talents and will be affected by them, but if they haven't acquired those Talents, they won't be able use them against you!
+
+NOTE: THESE TALENT PACKS CAN BE INTEGRATED SEAMLESSLY WITHOUT ANYONE NEEDING ANY KIND OF PATCH TO THEIR GAME!!!
+
+With these "Talent Packs" you will truly be able to build a custom deck designed to fit your needs and personal taste in DeathMatch!
+
+All new Talents found in the "Talent Packs" are created, play-balanced, and officially verified by Monolith Productions Inc. to conform to Sanity's "official multiplayer rules".
+
+This ensures that the Sanity multiplayer gaming experience will not become "unbalanced" when new Talents are created and added to the game.
+
+"Talent Packs" are secure data files that are only supported in the multiplayer mode of Sanity. You cannot use Talents from a "Talent Pack" in the single-player mode of the game.
+-----
+
+Anyhow, there will be an additional 10 talents (these 10 talents are unique and are NOT from the retail version of Sanity!!!) out there at the time this demo ships for gamers to get and try out the whole talent pack system. (This means that with the demo and the additional talent packs, you can have a total of 34 talents available to you during multiplay if you want)
+
+4) The Sanity demo contains just enough talents for gamers to begin to work with and understand the various types of strategies and skills that can be employed during a multiplayer game. Sanity multiplayer is definitely not all about "twitch" - quite the contrary, a great deal of high speed strategic thinking is involved (because everything happens in real-time) if you are going to be anything more than mere cannon fodder for the other players on the server. I currently know of no other multiplayer experience that is anything like Sanity, so I can't offer up a comparative experience to help to describe the gameplay. I believe that Sanity multiplayer represents an "all new" type of extendible and secure multiplaying gameplay experience that lands somewhere between Quake 3 and Diablo 2 with "Magic the Gathering" sprinkled in...
+
+It is important to note that the 24 talent cards that the demo contains are also found in the full retail version of Sanity. In addition to those 24, there are 56 MORE talent cards in the retail version, making the total talent set provided in the retail version a complete 80!!!
+
+We are currently creating even more additional secure talent packs that will be made available via various methods by the time the retail version of Sanity hits the shelves. When we are done, there will be a grand total of 20 additional talents out in the world for Sanity multiplayer gamers to collect and use (this is inclusive of the 10 talents that you can get extra for the demo).
+
+So this means that there will be a grand total of 100 talent cards made for Sanity (basically meaning 100 weapons - some offensive, some defensive available).
+
+A few OTHER things in particular to note about this release is:
+
+1) This is the first LithTech game to be released that is NOT a First-Person-Shooter. Sanity will show and prove that LithTech is a very flexible engine, and can certainly handle the "Diablo 2" or "GOD-VIEW" perspective very well. People who are interested in seeing an all new use of the LithTech technology should absolutely download the Sanity Demo.
+
+2) The demo does indeed include ICE-T's voice as the lead character "Cain." 
+
+3) This Sanity demo will be the first official game product Monolith has released in a very long time. We are VERY proud of our work on Sanity and sincerely hope that the game community will see that Monolith has been extremely focused on creating an awesomely fun, top quality and well supported game product. Sanity definitely represents a strong push toward an original, stylistic and new type of game genre, I would like to encourage everyone who has the time and inclination to download this demo, because I assure you that it is quite unlike any game that has come before it.
+
+Here are some links to some Sanity previews if you have not yet heard about this game -
+
+http://www.gamespy.com/previews/sanity_a.shtm 
+http://www.gamespy.com/screens/sanity_a.shtm 
+http://www.gamefan.com/hotinfo.asp?s=6998 
+http://www.gamecenter.com/Peeks/Sanity/index.html?tag=st.cn.sr.gc.1 
+http://www.gamecenter.com/Peeks/Gamegrab/Sanitya
+http://www.gamecenter.com/News/Item/0,3,0-3700,00.html?tag=st.cn.sr.gc.3
+http://www.dailyradar.com/previews/game_preview_718.html
+http://www.zdnet.com/gamespot/filters/products/0,11114,913859,00.html
+http://pc.ign.com/news/20454.html 
+http://pc.ign.com/news/20935.html 
+http://pc.ign.com/games/11237.html 
+http://pc.ign.com/news/20994.html 
+http://www.ga-rpg.com/article.cfm?id=4086
+http://www.ga-source.com/news/mainbits/05+06+2000/0:04:54.shtml
+
+
+
+
+				
+					7/20/2000
+
+This is a VERY good article, if you are interested in knowing what is going into the LithTech 2.5 release.
+
+It is also a good information source to check out and see what technology NOLF is going to offer the gamer.
+
+A good read:
+
+http://www.stomped.com/interviews/nolf3.html
+
+
+
+
+				
+					7/17/2000
+
+A big congrats go out to Third Law! You have made an very fun game to play in a controlled and well executed development cycle. No easy feat, as I know well!
+
+Now where's my complimentary copy of the full version??!!!
+
+:)
+
+Jason Hall
+"King of the MONSTARS!!!"
+
+
+
+
+				
+									
+					7/14/2000
+
+I noticed that there is a fairly thorough preview of Sanity up on IGN. This preview was written by someone who has had hands on experience with the full version of Sanity.
+
+For interested parties:
+http://pc.ign.com/previews/11237.html
+
+
+Other recent previews are:
+http://www.zdnet.com/gamespot/stories/news/0,10870,2603707,00.html
+
+http://www.dailyradar.com/previews/game_preview_718.html
+
+
+
+
+
+
+				
+					7/7/2000
+
+Awesome screenshots of Sanity on:
+
+http://www.gamespy.com/screens/
+
+Demo coming very soon!
+
+
+				
+					6/23/2000
+
+The Multiplayer Sanity Beta Test has begun!
+
+Finally, some new people to frag!!!
+
+
+				
+					6/19/2000
+
+This is it. Today is the 19th.
+
+It is the FINAL day for interested people to sign up for the Sanity Multiplayer Beta Test.
+
+We will be taking down our registration page at Midnight tonight.
+
+Here is the link:
+
+www.lith.com/sanity/betatest
+
+If you are still unsure if you want to participate, make sure you check out the movie on the registration website. That may grab your interest!
+
+
+
+
+				
+					6/17/2000
+
+FYI -
+
+6/20/00 will be the last day of the Sanity Beta Test sign up period!
+
+If you haven't signed up yet and were planning to, make sure you do it by this coming Tuesday!
+
+Here is the link -
+
+http://www.lith.com/sanity/betatest/
+
+
+
+
+				
+					6/6/2000
+
+Quick answer to a common question:
+
+Yes, other game companies and their employees are welcome to sign up for the Sanity beta test for possible selection.
+
+Here is the link:
+http://www.lith.com/sanity/betatest 
+
+The registration list is filling up quickly. If you plan on registering, you may want to do it sooner rather than later.
+
+Good luck.
+
+
+
+
+				
+					6/5/2000
+
+It has been some time since I’ve made a meaningful .plan update. So let's have at it...
+
+First and foremost, I'd like to welcome NonStop Entertainment and Disney Interactive to our happy family of LithTech licensees. It is going to be our pleasure to work with you and offer you both great service! Away we go!
+
+Next up, I'd like to talk about our upcoming closed beta test of Sanity multiplayer. Here is the scoop on that one:
+
+Gamers interested in participating in the beta test may go to http://www.lith.com/sanity/betatest to fill out the entrance form. Once the beta is available, Fox Interactive and Monolith Productions will pick from those signed up to officially test the game.
+
+Here is the kicker - To have a better chance at being accepted into the beta, Fox Interactive and Monolith Productions have started an Internet “Sanity Scavenger Hunt”.  Starting Tuesday, June 6th, five websites will be given four Sanity screenshots each. Over the course of the next two weeks, two random websites will both post a screenshot per day.  Those participating in the “Sanity Scavenger Hunt” must write down the name of the talent being cast in each scene and collect all 20 screenshots. Players must turn in the talent names in chronological order before June 20th.
+
+Websites participating in this event are: Voodoo Extreme, Gaming-Age, PC.IGN, Gamespy and Gamefan.
+
+------
+
+There are some interesting things I'd like to point out about Sanity.
+
+1)Sanity is the first LithTech game to come from Monolith in over 2 years. The final and complete version will be the culmination of many learned lessons. This beta test is a good chance to get a sneak peak at some of what we have been doing.
+
+2)It is really cool to have ICE-T play the main character "Cain". He definitely brings his persona across through the story very well. Since I have been maintaining a dialog with him, I am going to see if I can arrange for one lucky beta test participant to meet him (or at least get a personalized autographed CD from him). This may not actually happen, but it is definitely a thought I'd like to see realized.
+
+3)Sanity has a huge single player component. Although this beta test is only testing the multiplayer aspects, I just wanted to point out that it is not the only type of gameplay offered in the product.
+
+4)Sanity is DEFINITELY a unique and fresh product. I have seen a lot of complaints on the net saying that there are very few original/new games being created, so I want to point out that indeed Sanity is one of the rare few that doesn't quite fit neatly into an already established category. I strongly recommend that you check it out and determine for yourself as to the game-type it is.
+
+5)Please download the Sanity movie and check it out. It does a good job of showing some of the action that is in the game - it does not however, show the puzzle solving, character/card building, and adventure aspects to much extent. It is important that we do not reveal too much at this time - but I would like you to know that it's there and you will see more of it soon.
+
+AND MOST IMPORTANTLY -
+
+6)Sanity was designed to be extendable via "card packs". Much in the same way the card game "Magic the Gathering" has card packs you can get, Sanity has a similar paradigm.
+
+Let me explain:
+
+The full version of the game Sanity comes with 80 Talent Cards. Each card allows your character to do a specific thing. For instance, one card might enable your character to invoke a Fire Shield, while another card may allow your character to become invisible... 
+
+The neat thing is that these cards are represented in a data format that is a small encrypted secure text-type plug-in file. The Sanity game engine takes these files when present and then produces the effect/weapon/whatever and calculates hit/damage in real time. What this means is that although Sanity will already ship with effectively what you would call "80 weapons", we are going to be able to extend those 80 to over 100+ extremely easily.
+
+So what is really cool is that you can have a Talent Card that no one else has, and USE it on other players in a multiplayer game. Other players will see the Talent and be affected by it, but since they haven't acquired that card, they can't use it! So their first question will be, "Where the heck did you get that card from??!!!" 
+
+We will be making information available on how to get new cards as Sanity gets closer to shipping. There will most likely be "card packs" and other things like that that will be distributed online. An example of this would be that we could make a special card for each gaming website to distribute, like a "GameSpot Flaming Hands" card, or a "VoodooExtreme spicy shield" card. Each card would be unique, work flawlessly on all versions of Sanity (without other users having to download anything to see the talent and be affected by it) and perhaps a gamer can get the card if they visit the website enough times to qualify for the download. This is just an idea, but it is stuff like that that Sanity supports. These Talent cards are tradable as well.
+
+Anyhow, enough of that. Check it out, you may like it. 
+
+
+
+
+				
+					 
+				
+				
+				
+				
+				
+				
+				
+				
+
+				
+				
+				
+				
+				
+
+				
+
+				
+				
+
+				
+				
+				
+				
+				
+				
+

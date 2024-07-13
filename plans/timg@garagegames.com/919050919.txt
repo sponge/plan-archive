@@ -1,0 +1,55 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-------------------------------------------------------------------
+User Name: tim.gift     Plan Last Modified: 02/14/1999 15:19:54 PST
+
+Real Name: Tim Gift
+Nickname: Slacker
+Job: Director/Lead
+Project: Starsiege Tribes
+
+1.14.99
+
+Hmm, well I had originally intended to come in this
+weekend and upgrade the Combat and Training server and
+get ready for our next release, but when I got in our
+IRC server was under attack again. Using IRC for our
+chat server has been a major pain in the butt.  We had
+wanted to use it because of it's open architecture.
+Wanted to allow people to connect and chat outside of
+the game, something people were used to using, etc.,
+seemed a lot more flexible and friendly than a writing
+another proprietary chat system. Unfortunately, there
+are quite a few bozos who seem to get a kick out of
+disrupting our chat server, booting people off, or
+otherwise being a nuisances. I've already wasted
+several days getting up to speed on IRC and the MS
+server, and here I am over the weekend doing the same,
+when I could be working on TRIBES. What really annoys
+me about all this is not the hackers themselves. Those
+guys are really funny, bunch of useless dweebs. Love to
+have one here, could laugh in his face, hehe, idiots.
+I'm sure they think they're cool, but the stuff they do
+is kindergarten programming, and most of them are just
+using code written by someone else. What a bunch of
+losers. No, what's annoying is the MS Chat server.
+Documentation for that thing is useless.  I'm sure
+there is some somewhere, but I haven't been able to
+find anything reasonable yet.  All I get is references
+to what a great program this thing is, or a list of
+cool features, but rarely can I find information that
+actually tell's me how to do anything, and when I do of
+course, it's priceless tidbits like how to set up a
+moderated channel for my big sales meeting. Hehe, who
+writes this stuff? Probably would have been better off
+coding up our own server, certainly would be less of a
+problem now. Anyway, this IRC warfare stuff is pretty
+stupid, so here I am wasting away the weekend. As for
+the hackers, they're kind of like little flies buzzing
+around, you'd love to just smack em, but all you have
+is this fancy MS fly swatter with tons of buttons and
+no manual, what I really should do is quit wasting my
+time and roll up a magazine...
+

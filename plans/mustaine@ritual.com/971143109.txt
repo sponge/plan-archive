@@ -1,0 +1,105 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: mustaine
+Plan modified: Mon Oct 09 20:03:18 2000
+
+You've reached Tom "ParadoX" Mustaine @ Ritual Entertainment:
+
+************************************************************************
+* NOTE:  Any views expressed here do not reflect the official position *
+* of Ritual Entertainment.  Yadda yadda blah blah blah                 *
+************************************************************************
+
+--Monday, October 9, 2000
+
+[. Ritual Happenings .]
+
+Going to be a busy month here at Ritual, Robert just dropped on my desk a list of 
+things going on here for the rest of October and early November.  Here we go:
+
+Heavy Metal FAKK2 is working its way over to the MAC.
+
+Sin the Game, also coming to the MAC. (With Gamespy support!)
+
+Sin the animated movie for VHS and DVD, coming Oct 24th! (Very cool!)
+http://www.sinthemovie.com
+
+Heavy Metal 2000 the animted movie on VHS and DVD, for release on Oct 17th. 
+http://http://www.heavy-metal.net
+
+Heavy Metal FAKK2 toys from the game will be in stores soon.
+
+The Heavy Metal FAKK2 Multiplayer Add-on, FAKK2:Arena will be released sometime in
+late October or early November.
+
+Also, the boys over on Blair Witch 3: The Elly Kedward Tale are busy crunching away
+to bring you BW3 in November!
+
+Lots of good stuff keeping us busy!
+
+
+[. FAKK2 Arena - Update .]
+
+FAKK2 arena is coming along nicely!  All of the gameplay functionality is there
+and we are busy going through user submissions finalizing and deciding on the 
+final maps for the release.  Get your maps in soon!  I'd say there is about 
+1 1/2 more weeks before we drop dead user submissions.
+
+Look for some new screenshots soon!
+
+If you missed it the first time, for those wanting to create a map for FAKK2
+Arena, goto http://www.ritual.com/FAKK2/arena.html.
+
+
+[. Other Stuff .]
+
+Elite Forces was a blast.  Great Job to the folks over at Raven!
+
+FRAG4 was quite an event.  Clan battles with coaches was the last thing I 
+expected to see evolve in professional gaming.  Quite a sight to witness,
+large groups of totally serious, hardcore Q3 players screaming and 
+yelling between teammates and their coach.  Very cool.
+
+Also, the Doom2 tourney was most excellent.  Although, my lack of 
+practice got me whacked pretty early, it was still a blast as always!
+Looking forward to the next.
+
+Rush2049 DC rocks =]
+
+Mission to Mars still sucks.
+
+
+
+--Thursday, September 28, 2000
+
+[. FAKK2 Arena - A call for maps .]
+
+We are hard at work putting together FAKK2 Arena for public consumption, but we
+can always use more maps!  Sooo....
+
+Anybody interested in getting their maps put into the official release of
+FAKK2 Arena, please send me your maps.  For specifications on what you need
+to create a map for FAKK2 Arena, check out http://www.ritual.com/FAKK2/arena.html.
+
+Please limit the number of arenas in a single map to 4 unique arenas.  On 
+average, most arenas should have 3-4 battle areas, each with a different weaponry
+choices and themes.
+
+Also, please use textures we shipped with the game. 
+
+Once finished, All I will need is the .map/.scr and other relevant files, we will compile
+the maps here.  
+
+Any questions, email me.
+
+
+[. Doom2 Tourney .]
+
+Wish me luck in my Doom2 ownage at Frag4 tomorrow!
+
+
+"Good. Bad. I'm the guy with the gun!"
+Tom Mustaine
+mustaine@ritual.com
+

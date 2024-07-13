@@ -1,0 +1,19 @@
+Login: aaronb         			Name: Fox Interactive
+Plan:
+We are currently working on an update for NOLF. Extensive testing is being done to ensure that the update will address the following:
+*Note depending on time some or additional issues may be addressed. I'll keep you posted.
+
+Current issues being addressed:
+Crash on exit
+SP to MP crash
+"Memory" errors causing crashing and lag
+Dedicated server boot messages
+PlayerSummary not saving correctly after a Reset Inventory happens.
+Intelligence Item menu
+LPB Vehicle Kills
+Intelligence items can be photographed multiple times 
+Lag when hit by cyanide bullets and other caching issues
+
+One final note: There's also a possibility of additional multiplayer levels!! Keep checking for more updates.
+
+ApB 

@@ -1,0 +1,51 @@
+Login: richard        			Name: Richard Smith
+Directory: /usr/home/richard        	Shell: /usr/local/bin/tcsh
+Last login Tue Mar 17 15:41 1998 (CST) on ttyp0 from 194.168.66.235
+No Mail.
+Mail forwarded to: richard.smith12@virgin.net
+Plan:
+<body bgcolor="#000000" link="#FF0000" vlink="#C80000" text="#ffff00" alink="#C80000" topmargin="0" leftmargin="0">
+<html>
+<font size=2><font face="Arial">
+<br>
+<br>
+<br>
+-----------------------------<br>
+QBS2 - July 11th...<br>
+-----------------------------<br>
+<br>
+<b>26th June 1998</b><br>
+<br>
+Looking at the countdown on the QBS page I see that I only have 14 days and 23 hours left until QBS2 must be<br>
+complete and in the final preparations for upload.<br>
+<br>
+I think it's hitting home just how much has to be done to make this target and how many things I want to have<br>
+ready for the 2.0 release.<br>
+<br>
+Tonight I added a feature that I suddenly thought would be a good idea - emailing pages and plan maintainers straight<br>
+from the lists. Right click - "Send Email to Redwoods 3D News..." or whatever and thats it, email client launched and ready<br>
+to go. Right click "Send Email to John Carmack..." - that works too. Now I just have to add the email addresses of all the<br>
+news pages and its done.<br>
+<br>
+I've also got the options section to finish - a slobbering beast of a section where you control everything about the program.<br>
+Want Customised sounds? Don't want it to make a sound? Don't want it to flash the tray icon? Want to hear different<br>
+sounds depending on who has updated? All possible.<br>
+<br>
+Want to see red icons that work? Want it to automatically tell you about new versions and upgrade to them? New graphics?<br>
+New web site? Registration when you run it for the first time? Stats on the pages you visit? A smart app which can do things<br>
+for you? Such as noticing that you goto Blue everytime he updates and then asking if you want this to happen automatically...<br>
+<br>
+A new download component that works on more machines? A new way for launching pages and browsers for those of you who<br>
+it still doesn't work for?<br>
+<br>
+News headlines from a variety of sources? Entertainment? Faster? Help files? Proper error messages? ZIP file support for faster<br>
+updates?<br>
+<br>
+The list goes on... and on... and on...<br>
+<br>
+and the timer goes down.... and down.... and down... July 11th is coming...<br>
+<br>
+<br>
+Richard
+<br>
+</html>

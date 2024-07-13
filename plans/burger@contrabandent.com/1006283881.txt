@@ -1,0 +1,8 @@
+Account Name:  Bill Heineman
+Email address: burger@contrabandent.com
+----------
+Myth III for MacOS is coming along nicely. 
+Just 1 more OS X compatiblity issue 
+(Networking) and it looks good to go. Of 
+course the MacSoft playtesters will 
+probably break it somehow. :)

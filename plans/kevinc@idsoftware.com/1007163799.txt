@@ -1,0 +1,23 @@
+
+Name: Kevin Cloud
+Email: kevinc@idsoftware.com
+Description: Artist
+Project: 
+-------------------------------------------------------------------------------
+11-30
+
+Wanted to make a quick update on Wolf. I've noticed some online buzz about new mp maps for Wolf. We'll be releasing the multiplayer demo with a new
+checkpoint only map called Trenchtoast. Trenchtoast will also be posted for use with the full game as well. We're staggering the testing so the singleplayer demo will be released first. Expect the multiplayer demo to be out within the next few weeks.
+
+Just to let everyone know, we will be releasing source for the mod teams. It will take some time to pull this together and currently both teams are working on the demos. This will hopefully be released later in December.
+
+We had issues with fog working properly on the Matrox cards with gl_extension on. Matrox has been great about this and is revising their
+drivers to better support Return to Castle Wolfenstein. Matrox users should expect a good performance improvement on Wolf single and multiplayer when this is released.
+
+The online comments have been great, but I think the game clock has caused some confusion in several reviews. This is because the game clock isn't accurately reflecting the actual play time. Depending on how often you save, we found the time reported by the game clock to be anywhere from 25% to 50% of the actual play time ( time in your seat ). For future reference it would be more accurate to not rely on the game clock for actual play time statistics.
+
+Finally, we expect the German version of Wolf to be released sooner than mid-December as reported earlier this week. There was a small problem with the manual that required a reprint. On a related note, unlike previous id titles, the localized versions of Wolf are completely translated, including translated dialog, menus and text. This was a large coordinated effort from Activision. They did a great job. 
+
+That's it for now. Back to DOOM.
+
+

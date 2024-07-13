@@ -1,0 +1,18 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Jedi Knight2
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+Attention JK2 players with a new Matrox card, like the Parhelia.  
+If you are experiencing slow performance you may be able to bring the game back up to speed by allowing GL extensions.  
+By default, extensions are disabled for Matrox cards because the drivers for some older cards would crash otherwise.
+Matrox informs me that the new Parhelia will work fine with extensions on.  You can enable them from the Video menu, or by typing at the console:
+
+r_allowExtensions 1
+vid_restart
+
+enjoy,
+

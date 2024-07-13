@@ -1,0 +1,32 @@
+
+Name: Chris Rhinehart
+Email: crhinehart@humanhead.com
+Description: Programmer
+Project: Rune
+Web Page: <a href="http://www.humanhead.com">Human Head Studios' Web Site</a><h5>This plan file is the opinion of the individual who writes it and does not reflect the opinions of the Human Head Studios.</h5>
+-------------------------------------------------------------------------------
+Non-RUNE Related update (but still game related):
+
+Available from the Human Head website:  A FreeWare game called Super Dueling Minivans.
+Run out to our site (www.humanhead.com) and download it.
+
+What's remarkable about this game?  It was written back in 1996 by three people (Jason Blochowiak, 
+Rowan Atalla, and yours truly).  
+
+It was written in 33 hours.
+
+Back when I was still working at Raven Software, I met up with a few other developers here in Madison,
+Jason and Rowan (who worked for a company known as Argo Games).  They had the idea to try and create
+a game in 24 hours.  So the three of us got together and attempted to write a complete game FROM 
+SCRATCH in only 24 hours.  Well, it took us 33 hours, but we ended up with Dueling Minivans.
+
+Later after some people had tested it, we tweaked it and added a few new weapons to the game, and thus
+Super Dueling Minivans was born.  Both versions are available for free download on the Human Head website.
+
+After having worked on several games before SDMV, and knowing the process that a complete game goes 
+through (from concept, to R & D, to development, to crunch time) it was very interesting to experience 
+the exact same process, only condensed down to 33 hours. 
+
+Go download SDMV, try it out and e-mail me with any feedback or comments (crhinehart@humanhead.com).
+I'm interested in seeing if any other developers out there decide to try and crank out a few 24-hour games.
+

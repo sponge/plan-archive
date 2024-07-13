@@ -1,0 +1,42 @@
+
+*** Ion Storm's Finger Server
+
+User name: noel
+Plan modified: Tue Mar 28 12:00:28 2000
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>NOEL</title>
+</head>
+
+<body bgcolor="#000000" text="#00FF00" link="#FFFF66" vlink="#CC9900" alink="#FFFF66">
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%" bgcolor="#98311F"><font face="Arial" color="#000000"><b>NOEL'S
+      .PLAN UPDATE</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#008080">
+      <p align="right"><b><font face="Arial" color="#000000">MARCH 28th 2000</font></b></td>
+  </tr>
+  <tr>
+    <td width="100%"><font color="#FFFFFF" face="Arial">I have been informed not
+      to post in my .plan file.</font>
+      <p><font color="#FFFFFF" face="Arial">Sorry guys,</font></p>
+      <p><font color="#FFFFFF" face="Arial">N03L</font></td>
+  </tr>
+  <tr>
+    <td width="100%"></td>
+  </tr>
+</table>
+
+</body>
+
+</html>
+

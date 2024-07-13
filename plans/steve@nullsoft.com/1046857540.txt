@@ -1,0 +1,60 @@
+Login: #swoods        			Name: Steve Woods
+No Plan.
+
+Login: steve          			Name: Steve Gedikian
+Project:
+Do things that people tell me I can't do.
+
+<a href="http://genghis.winamp.com/~steve/plan/">Read my archived journals.</a>
+
+<span style="font-size:small;">I forbid anyone from quoting my .plan for use in anything without
+my written concent. Please. For the love of God. Do not quote me.
+
+I maintain this .plan as a collection of my PERSONAL thoughts. They
+do not represent the ideas or beliefs of where I work, or the people
+I work with. Now... Get on with it.</span>
+
+
+Plan:
+March 5, 2003 - 12:25AM
+
+Happy to see that some people actually still read my
+.plan. I got an email from one of you readers out there
+today telling me that he appreciates what we're doing
+and that we still rock, despite the current situation
+with Winamp out there.
+
+That's comforting. He also pointed out how much I sway
+back and forth about how I love and hate my job. How 
+one minute I'm completely bored with it while the next
+minute I'm saying how much I love it. He presumed that
+I probably write what's on mind. With that, he was
+pretty correct. I mean, yes, there's parts of my job
+that I really do hate, and when I'm not happy about 
+something, I tend to write about it because it helps me
+feel better. Other times, there are things that I really
+do love about my job, and those get me so excited that
+I want to share it with you. Don't hold it against me,
+I'm just very much a free flowing individual when it 
+comes to my .plan.
+
+One part that I do hate, is writing requirements 
+documents. I dislike them because all the engineers
+that I work with hate reading them. I presume they hate
+it because they don't want to feel like they're spending
+their time just implementing a list of features rather 
+than coming up with it on their own. I can understand
+that. But that's not what it's about. Writing those 
+documents allows us to keep track of those good ideas
+that we want to put into the product. 
+
+One thing I love about my job is the fact that I get to
+evangelize all the cool shit we're working on. That aspect
+of my job has taken a serious beating over the past year
+for one reason or another. I hope that the shit we're
+working on right now helps resolve that issue.
+
+Anyway, I gotta go to bed, I gotta wake up early tomorrow
+to drive to the city, AGAIN. :/
+
+-s

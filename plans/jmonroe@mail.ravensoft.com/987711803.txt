@@ -1,0 +1,12 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+re: HM Patch 1.20
+i wish i had more time to merge in MORE updates... but as it is i barely had enough time to get in some of the much needed fixes.
+what i did fix is the pure authentication disconnect issue.  that was my main objective and i got it done.  we also got a lot of memory saving enhancements and unlimited sound loading.  (sounds are no longer reloaded each level so map-to-map might be a tiny bit faster now).
+the menu no longer precaches all the weapon models at startup (you can if you want by setting ui_precacheweapons 1) so that loads a bit faster as well. there is now a console cmd to ShowIP and Remote server info, and the scoreboard now tells you the gametypes.  Also, per Mr. Allan's request, i defaulted a bunch of game vars to be included in the ServerInfo request.

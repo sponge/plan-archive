@@ -1,0 +1,1728 @@
+
+*** Monolith Production's IonFingerD Server 1.0 beta
+
+User name: dussault
+Plan modified: Thu Nov 05 17:08:00 1998
+
+11/5/98
+
+If you're interesting on making mods for Shogo and Blood2,
+definitely be sure to check out this article by Ash
+Matheson.  It has a lot of great info on how things work
+in LithTech:
+
+http://www.planetshogo.com/features/lithtech1.shtml
+
+
+
+
+10/26/98
+
+Worthless Lithtech novelty of the day, LASM.  A little 
+programming language for the console.  And when I say 
+worthless I mean it!  I wrote it one day a long time ago 
+when I was feeling particularly lame.  *WARNING* using
+ANY LASM will likely cause a crash, it doesn't check 
+ANYTHING, but I did have it calculating fibonacci sequences
+and doing some cool formatted output into the console.
+
+Type 
+$
+in the console to go into LASM mode, then anything you 
+enter in the console goes to LASM.  Type $ again to get out
+of LASM mode.
+
+Type #  to do a single LASM command when you're
+not in LASM mode, like if you had a function called 'fib' 
+and you wanted to print the value you would type:
+
+# 10 fib() "Value: %d" printf
+
+Here's the 'manual' from lasm.h.  I forget if I ever 
+implemented the daemon function.
+
+If the line starts with -, then it's run as a normal 
+console command.
+
+If // is encountered, the rest of the line is ignored.
+
+Parenthesis are generally ignored except for ().  
+
+Tokens are separated by spaces.
+
+- If a token is followed by (), then it is a function call.
+- If a token is enclosed in quotes (like "Hello"), it's a 
+string.
+- If a token is enclosed in braces (like [Hello]), it's a 
+console variable.  If a new one is referenced, then it's 
+initialized to 0.
+- If a token is followed by a colon (like 1:), it MUST be a 
+number, and defines a jump label.
+- If a token is just normal, if it's an operator, then the 
+operator function is executed, otherwise, it's a local 
+variable.  If the variable doesn't exist, then it's created 
+automatically with value 0.
+- If the token is preceded with a & (like &Hello), then it 
+passes the address of a function in.  When the function 
+variable is referenced, it just calls the function it 
+points to.
+
+Function definition:
+()  
+	
+end
+
+Between a function header and the end keyword, code is not 
+executed, it's just added to the function's data 
+(obviously).
+
+A number followed by a colon defines a label you can jump 
+to with the J operators.
+
+Operators (these are just like normal functions, but 
+variables can't have the same names and they can be 
+executed without the () postfix)
+
+  jz
+  cmp (essentially does val1-val2)
+jnz
+jl
+jg
+jle
+jge
++
+-
+/
+*
+%
+  =
+||
+&&
+|
+&
+++
+--
+  ^	// Raise to the power.
+
+
+Functions:
+
+  printf	// %d, %f, and %s are 
+supported
+
+ run // Parses and runs the string argument.
+
+ return // Pops the LVar off the stack and puts its 
+
+value in the return value slot.
+
+ start // Starts a daemon.. calls the 
+function every frame.
+
+I lost the code for the fibonacci sequence calculator 
+but it was SOMETHING like this:
+
+() fib count
+    count 0 cmp jz 1
+    count 1 - fib count + return
+    1: 
+    0 return
+end
+
+
+
+10/26/98
+
+Ahhh a productive day.  I disabled DirectPlay's TCP/IP 
+driver and replaced it with our own one which gives us a
+lot more flexibility and a lot less game hanging.  Me and
+Gemini were talking about all the cool interface options
+we'll be able to do.. a favorite servers listing, etc..
+
+I'm dedicated to B2 for at least a couple days this week, 
+so there may be an update to the alpha patch as early as 
+Friday or as late as the Friday after (Nov 6).  Please don't
+send email asking about it, the current answer is "When
+it's done, unless it's not done by Nov 6 in which case we'll
+be giving out free Schoolhouse Rock CD's until it's done."
+
+There are currently 238 emails that were filled out on the
+webpage with juicy bugs we'll be killing pretty soon.  
+A BIG thanks to everyone for sending those in!
+
+
+
+
+
+
+10/24/98
+
+Ok one more piece of info.  Sounds like a lot of people 
+didn't read patch.txt (hell I never do!)  The best way to
+improve your performance with the Shogo alpha patch is to
+go into your autoexec.cfg and add these lines at the BOTTOM:
+
+UpdateRate 5
+MaxFPS 30
+
+These make a world of difference for modem play.  
+
+Also, when you're on a server, make sure your ping is
+below 400 (by pressing Tab and look at the highlighted
+player, the ping is in parenthesis).  If it's above 400,
+it will be hard to get a good game going.
+
+Make sure to turn on Saturate by going into the console and
+typing:
+
+Saturate 1
+
+looks awesome on the outdoor levels!
+
+
+
+
+
+
+10/23/98
+
+Yet another update!  The Shogo patch is out and a ton of 
+servers have popped up!  It takes a little while to find a
+server with a reasonable ping but once you do it feels 
+pretty good.  
+
+It has become VERY apparent that the DirectPlay problems
+we're experiencing need to be addressed as soon as possible.
+Pretty much any server that runs gets a 1-2 minute hitch
+if someone crashes or disconnects ungracefully.  This 
+seems to happen every 5 or 10 minutes on a lot of servers.
+But this is what the alpha is for!  I'm glad we found this
+as early as possible.  We'll probably be making one more
+update to the alpha before the final patch on November 15
+to fix this DirectPlay problem.
+
+And don't worry, we will be moving weapon firing to the
+client side!
+
+A couple people have asked what the best way to find servers
+is currently.  Run GameSpy, select Shogo as the game.
+Right-click on GameSpy Network (on the left side of the
+window).  Choose Update.  Then double-click on a server.
+
+A big thanks to everyone who got the alpha and is testing
+and sending feedback!  We'll do our best to get all the
+problems fixed as soon as possible.  
+
+Commands you NEED to use:
+WorldTimeSpeed 
+WorldColorNight ".3 .3 .9"
+
+
+
+
+
+10/23/98
+
+Just so everyone knows, if you have an earlier alpha and 
+were helping us test, you WILL NEED TO DOWNLOAD THE ALPHA
+just like everyone else or else you won't be able to connect
+to any games tonight.
+
+
+10/23/98
+
+The Shogo alpha patch is done!  Should be a matter of hours
+before it's downloadable.  We got a ton of cool little 
+things in there at the last minute:
+
+- GameSpy/Shogosrv player ping viewing
+- Connection time much faster
+- Each client can control the rate they get updates at
+- Updated Shogosrv UI
+- MaxFPS
+- Gamma fixes for PowerVR and Permedia2s
+- Spawn in effects
+
+I have to put some luv out to everyone who helped test the
+new multiplayer stuff.  Our development time for this stuff
+has been (and will continue to be) VERY accelerated due to
+all the great comments, suggestions, and testing.
+
+I want to follow up Jason's disclaimer with my own.  The
+multiplayer optimizations are NOT DONE YET.  They will be
+done by November 15.  Modems with high pings can only 
+handle games with 4-8 players.  The most annoying thing
+is that servers will occasionally get a 1 minute pause due
+to DirectPlay's use of TCP.  This will also be fixed by
+November 15.
+
+Have fun!
+
+
+
+
+
+10/19/98
+
+The PowerVR Revolution guys have come up with a way to get
+the PCX2 running better, check out:
+
+http://pvr.gamestats.com/Shogo.shtml
+
+
+
+10/18/98
+
+Here's a bug people have found.  In the Dock 17 mission
+on the TNT (maybe the 128), the level shows up all blue.
+There will be a fix for this in the first Shogo patch, but
+to get around it for now, check the 'Disable Fog' option
+in the launcher (under the Advanced tab).
+
+
+
+
+
+
+10/16/98
+
+Time for another update.  The Shogo patch is almost done, 
+but we're going to continue to put it through extensive 
+testing as a lot of stuff has changed.
+
+Some cool tweaks have gotten in recently:
+- Time of day.. very cool when it turns to night on a 
+server.
+- Variables to scale damage, tweak missile speeds, tweak 
+respawn rates, etc.
+
+TCP/IP modem games feel great!  You get into the game 
+quickly and you can barely tell you're playing over 28.8.
+
+If there's time, we're going to reenable the 3rd person 
+camera in multiplayer which makes for some cool screenshots.
+
+At this point we're mainly fixing rare crash bugs and video 
+card glitches.  If you're from a video card company and 
+want us to implement a fix, if you could email me 
+(dussault@lith.com), that would be great.  Even if you have 
+already sent it, send it again with something that'll catch 
+my eye like SWF 18, LIKES ENGINE PROGRAMMERS.. there's a 
+flood of email coming in so requests might have gotten 
+lost.  If the fix requires something I can't detect with 
+caps bits, it would _really_ help if you could tell me what 
+to look for in GetDeviceIdentifier.
+
+Also, please don't email about USB mouse problems.  We're
+very aware of these problems and they will definitely be
+fixed in the first patch coming soon!  
+
+
+10/9/98
+
+Our networking gets better day by day..  Today I mainly
+focused on improving our guaranteed delivery.  There are 
+some good reasons for us to just let TCP or DirectPlay do
+our guaranteed delivery protocol, but I really like having 
+all the information so readily available and tweakable.  A
+great example of where this pays off is that we actually
+stop sending updates between clients and servers when a
+computer's queue gets really backed up.  This helps speed
+up recovery so you don't get more and more backed up 
+forever.
+
+Before today, our guaranteed protocol took a long time to
+recover from packet loss and had a couple bugs where under
+certain circumstances it wouldn't ever recover.  Now it
+recovers almost instantly and almost never completely 
+dies.  It can handle packet loss rates up to between 60% 
+and 70%.  After 70 it can't recover so it just gets up to 
+its queue limit and sits there wishing Internet porn wasn't 
+hogging all its bandwidth (hey, even computers get the 
+wrong idea sometimes).
+
+I've been running around in Shogo trying different ping 
+times and drop rates and it's definitely playable with 20-
+30 percent packet loss.  When you get above 40, you can 
+still run around but firing and tractor beaming around 
+become really lagged and inconsistent.  Latency is 
+definitely more annoying than packet loss though.  Your 
+movement still feels fine with lag, but your firing gets
+delayed.
+
+Our client-side movement 'smoothing' kicks ass!  Even if 
+the server is updating at a really slow rate like 5 times
+per second, everything looks like it's being updated
+much faster.
+
+At 'SenatorPerry's request I added ClientUpdateRate, which
+controls how fast the server sends clients updates.  This 
+will be cool for LAN games so you can have the server send
+updates faster so everything is more responsive.
+
+Made more stuff unguaranteed.  It's down to a tradeoff at
+this point - less clogging vs less bandwidth.  For some
+things we save tons of bandwidth by using guaranteed 
+delivery because we only have to send updates when they
+change and lots of things don't change often like doors,
+ladders, and pickup items.  Other things like player and
+projectile movement use unguaranteed delivery since they're
+always moving around.
+
+The majority of the work left for me for this patch is
+testing single player to make sure it still plays well.
+
+
+
+
+
+10/9/98
+
+Only got time for a quick update but we ran our first real
+net stress test on the new-and-improved Shogo networking
+and it went great!  The basic foundation was working 
+perfectly.  The only problems were small things when you
+would start a new level or sometimes respawn outside of
+the world.
+
+Here's a list of what's done (more like 70% down.. still 
+needs to be stress tested in single-player):
+
+- Motion and some collision detection done on client 
+- Container physics on client
+- Elevators carry clients around smoothly
+- Position and rotations sent unguaranteed so they won't
+  clog the client
+- Client and server start dropping low priority packets
+  if a connection gets clogged.. makes recovery much faster
+- Connections time out in 120 seconds instead of 60
+- Added SwitchWorld console command to change the world
+  running on the server
+- Added FragSelf console command (if you get stuck)
+- Fixed tractor beam jitter
+- Added RunSpeed and TractorBeamSpeed server variables
+- Reduced bandwidth a lot
+
+Other stuff
+- Model shadows had the 'overlapping' effect on translucent
+  models (most noticeable when killing things with Red Riot)
+- Screen flashes based on distance and line of sight
+
+
+
+
+
+10/5/98
+
+If you read the BitchX update earlier today, read it again, 
+there's been an update.  I feel obligated to make my 
+intentions with the BitchX business today clear.  The first 
+two paragraphs of the original post contained some very 
+untactful, hurtful, and untrue comments directed at Tim 
+Sweeney.
+
+I respect Tim as an engineer, the man kicks more ass than a 
+donkey, and he's achieved incredible things with the Unreal 
+engine (plus I owe him lunch).  Even if I hated his guts, 
+making personal attacks is unprofessional and far from 
+relevant.  I'm more than willing to take responsibility for 
+anything I say and I'm the first to admit if I'm wrong, but 
+I didn't have any part in the first two paragraphs and 
+don't want the credit for them :)
+
+The thing that's great about this engine stuff is that, 
+just like in the scientific community, every development 
+and piece of technology is under intense scrutiny, so the 
+truth is out there and will eventually be discovered.  My 
+goal with the BitchX post was not to attack anyone 
+personally, but rather to express disagreement with what I 
+considered to be some misleading points in Tim's argument.  
+I fully expect criticism on Lithtech, which has its own set 
+of imperfections like any other engine.
+
+Anyways, 1000 pardons for the misunderstanding.
+
+
+
+9/23/98
+
+Holy $hit!  I can't believe the response Shogo got from
+Beatdown!  Jason brought the CD down there and it went
+through a two day stress test by everyone down there.
+Check out the reviews:
+
+http://www.planetquake.com/reviews/shogopg1.shtm
+http://www.planetshogo.com/features/testify.shtm
+
+
+
+
+
+
+9/15/98
+
+Shogo is done!  After almost 2.5 years, I can say with 
+confidence that it was well worth it.  It's an awesome game 
+I'm proud to have been a part of.  I think people will
+be very impressed by all the cool shit in there.  We almost
+have too much to fill the CD (we're at 98% capacity!) 
+
+There's a huge article in this month's Game Developer that
+John Jack wrote that gives some pretty gory details on
+all the things we went through.  By all reason, we should 
+all just be rotted shells of human beings but everyone is 
+pretty ecstatic and dying to work on the next title.  It's 
+great to know that we couldn't have learned everything a 
+harder way and that we won't make the same mistakes ever 
+again.  I can't even imagine what our next game will be 
+like.
+
+The game and the engine totally exceeded any expectations
+I had for them when we started.  We have some hefty plans
+for Lithtech 2 and I can't wait to get started on it, but
+for the next few months I'm kind of in limbo, helping out
+with Blood 2, doing patches for Shogo, and researching
+stuff for Lithtech 2.
+
+
+
+
+
+8/31/98
+
+Ok, small update to the status of all the cards.  I got a 
+lot of responses to the last update.  They were very 
+helpful.
+
+Someone reminded me about the Permedia 2.  I had tested
+that a long time ago but forgot to test it in the latest
+pass.  This card works pretty well.  It can't do 
+lightmapping the way we want but it runs very fast
+and supports everything else. 
+
+I got an email from ATI's Webmaster, Alan Dang, and he had
+some very useful info.  For some reason my mail wasn't 
+responding to him so thanks Alan :)  I got responses from
+some other people at ATI and it turns out they were busy
+shipping their latest and greatest so I should've checked
+stuff out better before shooting my mouth off.
+
+Lots of people wanted to know if we'll support the TNT.
+This is a definite yes!  
+
+Someone reminded me about the Mystique so that needs to
+be tested as well.  If there's time, I'll try to bang on
+the Rendition V1000 too.
+
+Interestingly, noone responded about the IO Magic Video
+DX 3DDX.
+
+
+
+
+
+
+8/30/98
+
+Ok I have a spare moment (the guards outside my office who
+won't let me go outside, even to the Salvation Army
+Swimming Pool, have gone to sleep). 
+
+Shogo's --almost-- done, after two and a half years it's
+totally kicking ass!  All I'm really doing is hunting
+down bugs and testing various hardware configs and stuff.
+I hope people really get a kick out of it running on so
+many different video cards.  As I test more and more
+cards, the renderer checks more and more stuff so it 
+gets easier and easier.. the past few I've tested, I
+just pop it in and it works right off the bat.  Here's a 
+list of the video cards/chipsets I've tested stuff on:
+
+Rendition V2100 and V2200 - these cards work flawlessly
+but are a little slow.
+
+Voodoo1 - good performance, still our main focus.
+Voodoo2 - even better.
+
+Riva 128 - just recently this got working perfectly, I
+added some stuff so the cracking between polies isn't as
+noticeable on this card so it works pretty well.
+
+Matrox G200 - pretty good card.. I haven't messed around
+with this one enough but it seems somewhere between a 
+voodoo1 and voodoo2.
+
+PowerVR (Matrox M3D) - I really thought this one would 
+suck pretty bad but it wasn't as bad as I thought.  The
+renderer detects and shuts down almost every feature it 
+has to run on this thing but all the alpha still works 
+and it runs at a fairly good rate.
+
+Intel740 2x AGP - This card kicks ass.  It doesn't look 
+quite as good as a voodoo2 but outperforms it in texture-
+heavy areas.  By far the best bang for your biznuck, it's
+what I have at home.
+
+S3 Virge (Diamond Stealth 3D Pro 2000, doesn't that sound
+something like Super Street Fighter Turbo Pro 3?) - This 
+card is a dinosaur from the past.  Not exactly 
+"Outrageously Fast 2D, 3D and Video" like it says on the 
+box but it runs very well at 320x200 with some of the stuff 
+
+disabled.  I actually love running this card in 320x200
+because it reminds me of the dos days of playing 
+mechwarrior 1.
+
+ATI Rage Pro AGP 2x (I think they forgot Turbo Super Duper
+in the name) - This card can be one of the fastest cards
+I've seen if it's got the right drivers.
+
+We went to the store earlier today and picked up some cards
+and we got one I haven't even heard of but I thought it 
+would be worth banging on to see how it is.  It's called
+the IO/Magic Video 3DDX.  It's got a 5 year warranty on it
+which makes me feel all warm and safe inside because I'm 
+sure it'll be so useful in 5 years (maybe you could melt
+it down and make a hat out of it or something). Email me if 
+you have one of these, I'd be interested to see if anyone 
+has one.
+
+By far the biggest problem right now with all these video
+cards is driver support.  Each card has 5 or more drivers
+out there and all but one completely suck.  It's almost 
+like the guys putting the chipset on their card just 
+copied the drivers from some other unrelated card and
+renamed the files.  I'm sure when Shogo is first out there
+will be some craziness working out all the driver issues
+but we're going to ship as many of our 'Lithtech verified'
+drivers on the CD as we can and we'll also have a website
+where you can find our favorite drivers for each card.
+
+We've been working on networking here and there, performing
+little tweaks and stuff.  It's fun to run around a busy
+server and just gib the piles of bodies laying around.
+
+After Shogo I'm going to take an incredible break.  I have
+it all planned out:  I'm going to go home Friday night,
+sleep in Saturday morning, jump off some bridges on Sunday,
+and be back in Sunday night or Monday all refreshed for 
+Blood 2.  I feel like I should be dying right now, there 
+were times during Shogo's development I figured I'd rather 
+change jobs and become a professional panhandler, but now 
+that we're so close to shipping it's a big adrenaline rush 
+(I'm not exactly the picture of health tho.. maybe I'll 
+work in some time to borrow Craig's coveted Richard 
+Simmons videos during my extended weekend vacation, I know
+they helped him 'keep his pecker up' (an actual phrase
+in England I hear) during the hard times.
+
+I've played a couple short MS Motocross MADness games here
+and there and that game is great.  The landscapes are
+beautiful and the face plants are backbreaking.
+
+Not too much else has been going on in this controlled
+MADness here at Lith.  I moved closer to Lith so I can have 
+a nice stroll home at 3am, but I make sure to carry a tazer
+gun, armor, a halberd, a satchel, a girdle, gauntlets,
+a flash of wine, a little dog, 10 rations, and a rod of
++2 goblin summoning because you never know what breed of 
+mommy's-BMW-havin' blue-hat-wearin' tinted, dropped, 
+chromed, EZE-pumpin' sign-flashin' Lords of Kirkland you'll
+run into these days.  
+
+But it's all good, I grew up just outside of this ghetto in 
+a run-down neighborhood called Edmonds where there were no 
+'crakkaz' except me and this old man who lived up the 
+street from me all alone save this one-eyed one-legged pit 
+bull that had a hankerin for gerber's meat sticks.  One 
+time I was walking down the street enjoying some gerbers 
+and it rolled out of the driveway barking up a storm and I 
+was forced to defend myself with a hedgetrimmer.  I still 
+wear that dog's tail around my neck as a reminder that life 
+can be cruel to you if you're a hungry one-legged pit 
+bull.  Eventually the dog forgave me and he, the old man (I 
+called him Daddy), and I would roll around in a 6-4 we won 
+at a Walmart raffle, and I always had a 40 ounce in my lap 
+and it was always freezing my balls.
+
+So Shogo should be on the shelf some time around October
+or November and Blood 2 should be on very shortly after
+and we'll have a very red christmas this year.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6/2/98
+
+This is to the guy who sent me an email about the LithTech
+unlock code today.  It was really ingenious to munge your 
+email address like you did 
+(Aggravated [SMTP:this_is_not_my_real_address@bigfoot.com])
+and I think it's really cool, but I can't send you a 
+response because I don't have your real email address.  
+
+Maybe you should change the fake one to something like:
+
+this_is_not_my_real_address_but_here's_my_real_one_in_case
+you_want_to_send_me_a_response@
+.com
+
+that way it would still impress the chicks and people could
+send you responses.
+
+
+
+6/2/98
+
+Well, what's been happening lately..  I've been getting a 
+really stupid email telling me to update my plan file so
+here it is.  Now I can go back to work.
+
+
+4/21/98
+
+Wow, it seems that I haven't updated my plan in a while,
+and I got an automated email saying I should update it.
+
+Soooooooooooooooooooo.... here's what's happened lately:
+
+Monolith owns The Engine Formerly Known as DirectEngine,
+and has renamed it to LithTech (http://www.lithtech.com).
+The bad news is that all of our prefixes are now LT_
+instead of DE_, so there will be a little confusion.
+
+The engine is coming along very well, faster than I 
+expected!  We're getting more stuff in all the time, but
+we're totally focusing on finishing Riot up (only a few
+months left!)  We're working on all the finishing details
+right now.  The major focus is on networking currently,
+which will be all wrapped up in 3 weeks.  After that,
+we're going to do another optimization session for the
+hardware version.  We'll be optimizing the software version
+all the while, but software is definitely taking a back
+seat to the hardware version.
+
+The next demo **should** be done April 30th.  We're trying
+to wrap everything up this week.  It's much much
+more complete than the last demo - you could come very
+close to shipping a game with it.  I'll be very interested
+to see what people make with it.. people made such amazing
+stuff on the last one, the things they make with the new
+one should be so much cooler!  Just check out 
+http://www.anet-chi.com/~stickle/d_o_v/realtime_baz.htm
+for some samples.  These are shots ONE GUY (known as
+C. Sineni on the LT forum) made in his spare time!
+
+Loki is putting together a much cooler sample than the 
+stupid flythrough we had last time.  I'm going to try to 
+include our ED file reading source in the next demo so 
+people can write MAP->ED converters or 3DS->ED converters.
+
+We've been talking about a client-side special effects manager that could make it really easy to bind 
+together a server object placed in the editor and a client
+object doing the special effects.  It would basically work
+sort of like server objects do right now - if you want to
+include it, just add a cpp and h file and you're good to go.
+The main reason for this is that so many people are making
+cool special effects demos for DE, each person has to bind
+the effects to the client in a different way, so it's a pain
+in the ass to actually get one of these things working
+in your own client shell.
+
+Hopefully, we'll have Phantom Reality's 3DS->ABC file 
+converter in the next demo.  If not, shortly after!
+
+A couple weeks ago, we got deforming meshes in there.  They
+are completely integrated with the rigid models (and can
+be mixed with them), so we can have deforming meshes AND
+limb loss / independent limb rotation!
+
+Here is a list, in no particular order, of some of the new 
+things that will be in the next demo.  This isn't a full 
+list.. that'll have to wait until the actual demo goes out.
+
+A big model FAQ, thanks to Matt Allen, Brian Waite, and
+Jason Pickford.
+
+Lots of speedups and things done to make play smoother.
+
+More video card support.. the previous version didn't
+work well on anything but 3dfx, the next version will.
+
+Better translucency support (on WorldModels).
+
+Container brushes (water, wind, ladders, but NOT lava :>
+
+Programmable surface effects for surface texture vectors
+(pan, scale, warble, etc).
+
+Video playback.
+
+Much better API return values.. the engine doesn't throw
+all those stupid exceptions anymore, it always returns
+with a code.  LT will also make it really apparent if you
+use freed data.
+
+Full support for all sorts of dynamic lighting.  Shadows
+cast by dynamic lights are in but it's more of a test I
+didn't spend more than a few minutes on so it's slow.
+
+Much improved UI in ModelEdit.  Dimensions and translations 
+for models can be edited. 
+
+Physics work much more consistently.  A very cool new 
+function to change the dimensions of an object, which only
+grows as much as the object can (so it doesn't clip through
+things).
+
+Totally redid the READPROP messages.. it's all synchronous
+and there is a GetPropGeneric() function which will perform
+all sorts of translations so you don't have to worry about
+the property data formats.
+
+There's a really cool way to spawn objects at runtime with
+a string passing in property values.  Level designers can
+set string properties like 'Anger 1 ; MainTarget Sanjuro'
+and spawn an instance of something.
+
+Multithreaded world processing is in.  Get a 4x processor
+machine!  The processor itself is MUCH faster now, and
+can be up to twice as fast.
+
+Sky portals!  You can build a section of your level and 
+have portals looking into it from anywhere.  You can make
+it parallax a little bit as well to make the sky look
+very 3D.
+
+PolyGrid texturing!  This makes them look way better.
+
+Tons of sound stuff - the priority system works better,
+streaming sounds (possibly), sound time synchronization
+on the server.  IMA sounds _very_ cool.
+
+User flags associated with textures, accessable at runtime
+(so you can know what kind of surface you shot like metal
+or wood).
+
+Model limb hiding.
+
+Registering console 'programs' so you can have commands
+in the console.
+
+Directional lighting in the preprocessor and and outer 
+color for all lights (so they can fade to a color other 
+than black).
+
+Instant special effect messages - easier to use and more
+efficient than attaching them to objects.
+
+Object attachment.  You can attach one object to another,
+and the engine internally updates the positions on the
+client right before rendering so they more together 
+perfectly.  You can attach things to limbs on models as
+well (like guns in hand).  
+
+Demo recording and playback.  Requires some cooperation
+from the shells.
+
+EVERYTHING enabled in Direct3D.  The Glide version is no
+more because we don't need it.  
+
+'Glow sprites'.
+
+Things to help optimize visibility in DEdit.
+
+Auto deactivation of objects (big optimization for large
+levels).
+
+Direct control of particle positioning.
+
+Property groups and path drawing in DEdit.
+
+Load/Save game.
+
+
+.
+.
+. 
+  
+
+
+A peek into the mind of a sick person - I wouldn't have
+noticed this if Craig hadn't caught me.  We're sitting at
+Denny's eating some grease browns and I'm talking about
+this show on TV, "Caught on Camera".  I had just 
+finished telling about one where this guy tried to bungy 
+jump off of a crane, probably about 4 stories high, and the 
+cord broke, so he just fell.  Then the next sentence was,
+"and the _funniest_ one was where this lady got attacked
+by a polar bear in the zoo."  (Damn was it funny though)
+
+
+
+
+
+
+2/8/98
+
+A word of advice - don't ever use exceptions, then decide
+against it.  Here is the table of contents in my soon-to-
+be-released book titled, "How Not to Handle Error 
+Handling, by Mike Dussault":
+
+1. Early '97 - let's try exceptions in the engine.
+2. Wow, they work pretty well, error handling is easy now -
+   'just throw an exception and it'll be handled'!
+3. _I can return void from all my functions_ 
+   (translation: I should seek help).
+4. Hmmm, these exceptions are getting ugly, and it seems 
+   that you never know what a function might do.
+5. Ok, let's get rid of exceptions.
+6. A retrospective look back at the past ten years of       removing exceptions from the engine.
+  
+
+
+
+12/9/97
+
+I haven't had anything really interesting to post lately, but
+I did a Riot weekly update so I figured I'd post it here so
+my plan file doesn't vanish:
+
+----- snip snip -----
+
+Hi, it's my turn to do the weekly update so I guess I need a 
+theme to talk about.  I think I'll expand my horizons and talk 
+about DirectEngine. :)  Basically, what I do all day is
+work on DirectEngine, which consists of all sorts of things.  
+When people judge an engine nowadays, they seem to 
+focus in on specific areas and forget about all the other 
+things an engine does (or can do).  It's funny because I 
+would say that about 70% of my time is spent on 'the other 
+things' - things like file/resource management, file transfer,
+engine tools, bug fixes, etc..  :)  For example, here is a 
+watered-down version of what I've done for the past week 
+or two:
+
+Direct3D support in DEdit.
+Added object property overriding.
+Brand file (sort of a password protection) for the 
+DirectEngine demo.
+Property-creation macros.
+Setup DEdit to not keep object DLL open.
+Setup the engine to do all palette management instead of 
+the artist.
+Rewrote DEdit's file management code.
+Finished DirectEngine demo engine documentation.
+Reduce packet sizes...
+Got rid of server.dll, now engine is one executable.
+Implemented inactive objects with 
+ServerDE::SetObjectState.
+Added memory status indicators.
+Added matrix setup routines to ServerDE.
+Object serialization for switching between levels and 
+savegames.
+
+As you can see, very little of the above list includes 
+anything extremely enchanting, but when everything fits 
+together into a well designed system, then it's VERY cool.  
+It does take a long time and a lot of patience though!
+
+Our (current) long term goal for DirectEngine is for it to 
+support infinitely scaleable, distributed, but continuous 
+worlds.  By that I mean a huge array of interconnected 
+servers in which a player could potentially run for days
+and not hit a dead end.  Anyone who wants to run a server 
+can get a topological view of the server layout that might
+look something like this:
+
+XOOXOO
+OOOXXO
+OOOOOO
+OOXOXO
+
+A player would be able to view the whole layout and pick a 
+spot to run their world in (like the XXX'd out ones above).  
+Their server would automatically be connected to the 
+adjacent ones and they would be ready to go. 
+
+'Zones' could be defined from clusters of servers, and 
+massive wars could even take place between them.  
+Imagine a territorial war ranging over 20 miles of land, with 
+thousands of players involved!  Which brings us to another 
+thing that will be happening.  There will be different levels 
+of 'awareness' and server functionality existing in the online 
+world.  For example, the current servers are concerned 
+with individual objects, physics, etc.  A 'second level' 
+server would have control over, say, 100 first level servers, 
+and would direct them in a high-level way.  A good 
+example of what a second-level server would control is
+'packs' of NPCs, roaming the land.  There could be a 
+group of 50 AI mechs travelling together attacking players.  
+The second-level server would be directing the entire 
+group where to go, whereas the first-level servers would be 
+working out the details like following terrain, meeting 
+attacks, etc.
+
+Another thing second-level servers would do is control the 
+population in all the areas.  If an area gets empty, the 
+second-level server spawns more things there. 
+If the area gets too full, it starts to direct the packs to 
+spread out.
+
+One of the ideas for the implementation/representation of 
+all this is a fully object oriented model.  EVERYTHING in 
+the online universe is an object, even a server.  Each 
+object is considered an 'executing process', meaning that
+it is a DLL somewhere sitting there telling DirectEngine 
+what to do and how to communicate with whoever it deals 
+with.  Each object has multiple children and one parent.  
+The heirarchy can be changed as the system runs.  Any 
+object in the online universe can be referenced with an IP 
+address looking thing.
+
+So, maybe the heirarchy starts as this:
+
+  Seattle
+ /    |    s1  s2  s3
+
+which is a group of three servers representing the Seattle 
+area, with a City server controlling the high-level variables 
+and such for Seattle.  Then someone wants to add a 
+process to represent the state of Washington.  Their 
+process would control things like weather, precipitation, 
+player limits among all its servers, cash flow, whatever, so 
+now it looks like this:
+      
+           WA
+        /        Seattle	   Factoria
+ /    |     	     |       s1  s2   s3  trash1  trash3
+
+and each server itself has a group of children you can 
+reference, so maybe s1 looks like this (player1 and tank 
+are individual objects inhabiting the world):
+
+       s1
+    /      
+player1  tank1
+
+
+The main thing about this system is that there is a logical 
+place to store all variables, and a logical growth cycle (add 
+a new level to the heirarchy).  Any process in the universe 
+could request information from another process by its 'DE 
+address', so if I wanted to know how many players were in 
+Seattle I could do something like:
+	NumPlayers = pDirectEngine->GetVar("USA.WA.Seattle", NumPlayers");
+
+Which brings us to the idea of DirectEngine serving as a 
+'data manager' for apps.  Basically, it would supply an 
+in-memory or on-disk database for you to track your data in.  
+We came -this- close to implementing a database-ish
+scheme at the object level, which would have provided 
+some advantages, but the execution and coding overhead 
+it would have incurred stopped us.  It would have been 
+pretty lame if most of your structures had this abstraction 
+you had to go thru in order to access them.  Anyways, I still 
+think DE doing some data management at a higher level 
+(like the Seattle or WA) level would provide some 
+advantages, namely:
+	
+Saves the programmer a lot of file IO work.  If you just track 
+certain data (like player accounts) in an on-disk database, 
+you don't have to worry about saving it or losing the data 
+(as much).
+
+If DirectEngine knows where your data is and what it's 
+called, it can handle the sharing of that information 
+between processes and you don't have to worry about it.
+
+Another thing we could have if DirectEngine knows where 
+your data is is a 'data monitor' app, which would let you 
+monitor the state of any process and change the state if 
+you want.
+
+Another cool thing in the near future (and hopefully for Riot 
+if we get time to put it in) is that the person running a server 
+can hop in at any time and have some cool 
+Dungeon-Keeperish tools that they can use to manage 
+their server.  They could do things like look at the player 
+list, activate triggers they've placed throughout the level, 
+place enemies, move players around, etc.
+
+Related to all this is a much more dynamic (and logical) 
+way to represent the gaming world.  (Real) hardware 
+accelerators afford you much more luxury when it comes to 
+fill rates than software rendering allows, which means you 
+can relax your restrictions on the world structure somewhat 
+and shoot for awesome special effects!
+
+Anyways, I hope that rambling seemed at least a little 
+coherent.  In my opinion, today's engines aren't even close 
+to what they will be around the corner.  
+
+- Mike D.
+
+
+
+
+12/1/97 3 am
+
+Brad and I spent the last week going through DirectEngine
+and DirectEditor and getting rid of lots of really annoying
+remnants of old and unfinished features.  We did this 
+because today is the official day for the DirectEngine CD
+to be made.  We hope people like it!  The thing to remember is that the engine IS NOT 'done' or ready to
+make an entire game until Riot ships!
+
+Here are a list of the things that we fixed/added (most of
+these probably won't make sense unless you're using the
+engine :)
+
+- BIG physics optimization (many more to come..)
+- File management redone.. MUCH faster load time.
+- 2 main appheaders you include instead of 10-15.
+- DEdit will render with Direct3D or fall back to software.
+- DEdit has a debug dialog you can type commands into.
+- No more OBJECT_LIST crap with C++ games.
+- Property overriding!
+- PF_HIDDEN flag, which hides properties in DEdit.
+- CF_HIDDEN class flag, which hides classes in DEdit.
+- Better object representation in DEdit.  Before, all objects
+  were drawn as cubes.  Now, the lights have their color
+  drawn in and a radius circle around them.
+- Origin placement in DEdit.. before, it was inferred from 
+  where you last right-clicked in a view.
+- palette.dat is gone!  Now each texture file stores the
+  palette with it so all the palette management is done by
+  the engine now.
+
+
+
+
+
+
+
+
+
+
+
+
+
+11/3/97
+
+Wow, I just caught myself!  I was about to post something
+interesting, but if I do that I might hurt someone's 
+FEELINGS or someone might get the WRONG IDEA and freak out!
+Hmmm, whatever am I to do?  Ok, here's my last disclaimer:
+Pretend everything on my plan file is a complete lie.  
+That way you might not get so upset.
+
+Unless I were to say something like, "If you're reading my 
+plan file and it upsets you, don't go fuck yourself."  
+
+Don't you have better things to do than whine about my 
+plan file?  There are plenty of other self-perpetuating 
+lost causes for you such as Gay Proudness Day, defeatism, 
+FemiNazis, Get Tough On Crime, teenage curfew, veggie 
+burgers, anti-porn-on-the-net, 70's revival, retro 
+anything, anti smoking manifesto, Bill Gates bashing, 
+Exxon, tree killers, and I'm sure you can invent many more 
+stupid P.C. things to whine about if you're creative 
+enough to extrapolate Bad Things from my plan file. 
+Otherwise, mind your own bidness.
+
+
+
+10/21/97
+
+I should write a book titled, "Everything You Always Wanted
+to Know About Glide but Were Afraid to Ask."
+
+Glide is the coolest thing in the world!  I've found so
+many hidden things that it can do I can't believe it.
+
+
+
+
+10/11/97
+
+Right now I am the picture of anger containment.  If one
+more thing happens to piss me off, my head will explode.
+
+
+
+10/11/97
+
+Jesus christ.  I know, let's take a simple template class 
+library and FUCK IT UP SO DEVELOPERS CAN'T COMPILE IT!  Then
+let's make 500 DLLs that go with it but DON'T WORK.
+I am so mad I'm about to go ape shit!
+
+FUUUUUUUUUUUUUUUUUUUCK ATL and FUUUUUUUUUUUUUUCK COM and 
+thanks for wasting so much of my time.  If I ever find the 
+guy who wrote it (or one of the 10 billion people who've
+worked on it), I'm gonna karate chop his ass.
+
+
+
+
+
+
+
+10/7/97
+
+Shit is getting done!  The weapon animations got in today
+and they look incredible!  Check out http://riot.lith.com
+for the latest Riot screenshots!
+
+Allowing texture scaling is a pain in the ass for the 
+preprocessor!
+
+Does anyone know if there are 2 different bands called 
+The Vandals?  I've got a record of some cool punk music
+by The Vandals, and I just bought a CD by The Vandals which
+is half funk / half punk and the singer sounds different..
+hmmmmmmmmmmm...
+
+
+
+
+10/5/97
+
+void AskADirectEngineQuestion(char *question)
+{
+GO_ASK_MIKE:;
+
+    response = DE_FUCK_OFF;
+    goto GO_ASK_BRAD;
+
+
+GO_ASK_BRAD:;
+
+    response = GET_THE_HELL_OUTTA_HERE;
+    goto GO_ASK_MIKE;
+}
+
+=>
+
+
+9/30/97
+
+Not too many exciting occurences have happened lately, but
+things are REALLY starting to solidify, which is a huge
+relief.  For such a long time, we weren't sure what we were
+going to do to solve lots of problems, but now we've either
+solved them or know the answers!
+
+Switching over to compiled code proved to take longer than
+we had originally anticipated.  The engine didn't take very
+long, but Kevin S. is basically rewriting ALL the game code.
+He and I had lots of long conversations last week about the
+architecture that we could use for DirectEngine and Riot.
+We came up with some pretty innovative stuff that should
+make the engine very flexible and powerful in terms of how
+you write, derive, and aggregate objects.
+
+Another awesome thing is that the new architecture will 
+allow us to implement something I've been talking about for
+about a year, but there was no way it was going to happen
+under the old architecture.  I don't want to say what it is
+or talk shit just yet, but if it shows up in DirectEngine,
+believe me, you'll know!
+
+The primary focus on the new way objects work is that it's
+much more object-oriented than anything I've ever seen.  
+It's Grady Booch's (did I spell that right?) dream system.
+No, I'm not smoking pot, and it's not a cosmic C++ Virtual
+Function nightmare that has a 5 billion deep heirarchy and 
+does Virtually Nothing.  
+
+Basically, objects are very walled off from eachother.  It 
+encourages you to use HANDLES to objects rather than 
+pointers to them.  If you want to tell an object to do 
+something, send a message to it.  In lots of cases, the guy
+who wrote the object won't need to handle it - one of the 
+object's aggregates will handle it.. if not, the message
+is simply ignored.
+
+One big advantage of this is that you'll be able to take 
+the objects you write for a DirectEngine game, and with
+a minimum of fuss, get them working inside any other game.
+We'll be releasing a header file with lots of generic 
+message definitions that objects can send back and forth
+(like "damage yourself", "die", "I see you", 
+"you hear this", etc...)
+
+The lighting will be very cool.  Again, I don't want
+to talk shit about it yet, lest I have my balls chopped off
+on the plan file chopping block :)
+
+Models are getting a long-awaited upgrade.  They will stop
+sucking the framerate down so much.  
+
+We're getting together a DirectEngine demo CD that we will
+be giving out to developers pretty soon.  It should prove
+to be very cool.  There will be some sample levels, DEdit,
+client, server, and some docs.  We'll be trying to show off
+DirectEngine doing things to support game types other than
+first-person games.
+
+
+
+
+
+9/15/97
+
+Did I mention that getting rid of DScript will be a
+very good thing?
+
+Also, getting rid of DScript will be a very good thing.
+
+Well, I'm working away, and noticed that getting rid
+of DScript will be a very good thing.
+
+My favorite thing to do in life is to turn into a fly 
+and perch on the wall; become a 'spectator' if you will, 
+and watch Kevin Lambert make a fool of himself.  
+
+Then I laugh my ass off knowing I took the easy road 
+through life, because I'm never going to try anything that 
+will ever make me look or feel out of place.  I want be 
+exactly like everyone else ("Employee #201 reporting for 
+duty sir!")
+
+If you want to be different, go ahead, you can be different
+like everyone else!
+
+(For those of you just joining us on planet Mike, I was
+being sarcastic.)
+
+
+9/14/97
+
+Well, I had a busy week.  I spent half the week figuring 
+out the ramifications of a rearchitecture for DirectEngine, 
+and the other week actually rearchitecting it.  It all
+centered around DScript and the way we were using it.  
+
+
+Basically, when I first was looking to implement plugins in 
+the engine, I came up with several goals I wanted to 
+achieve:
+
+1. Your objects are compiled to portable bytecode files - 
+   one file for each class.  This means that the same 
+   bytecode file will run on any platforms DirectEngine 
+   gets ported to.
+
+2. You can't crash the scripting language.. the language 
+   has automatic garbage collection, and you can't have 
+   objects on the stack.  This makes it impossible to get 
+   a bad pointer.
+
+3. .dsb (DScript Binary) files come with all the type 
+   information in them.  This would allow me to give you a 
+   .dsb file, and you can use some program to look at the 
+   class definition, and import that .dsb into one of your 
+   classes and use it.  You can inherit from my class,
+   but you can't change its implementation.
+
+We met all these goals when we implemented DScript, but the 
+problem was, when programmers who were used to C or C++ (a 
+REAL language) started to use DScript, they saw infinite 
+flaws and details that were missing.  C and C++ have been 
+around for a long time, and have had a long time to evolve, 
+so you can do almost anything in those languages.  We got 
+to a point with DScript where we were either going to spend 
+months of time to implement a debugger and more and more 
+language features, or switch to a real language.
+
+Here is what we gained by getting rid of DScript:
+
+1. A real language.  This is a HUGE plus.  A real language 
+   comes with all the standard math libraries, IO libraries,
+   etc..  DScript came with about 20 or 30 'standard 
+   library' functions.
+
+2. Debugging!  This was the ever-present dichotomy .. have 
+   a language that can crash and you can debug, or have a 
+   language that you can't crash but you can't debug 
+   either.  There are so many things that don't 'crash', 
+   but are still huge bugs, and are VERY hard to debug
+   when it boils down to printf debugging.
+
+3. Speed.  DScript has a LOT of code in there to make sure 
+   that it doesn't crash (not to mention the fact that it's
+   running in a virtual machine).  Things like zero-initting 
+   ALL object and stack memory before DScript touched it 
+   and lots of virtual machine instructions checking for 
+   null pointers were slowing it down.  Also the fact that
+   you can't have objects on the stack causes tons of 
+   inefficiency - say you want to use 10 vectors in a 
+   function; you need to 'new CVector' each and every one.
+
+Another part of this rearchitecture relates to how the 
+engine determines what data gets sent between the client 
+and the server.  The way it was done before, DirectEngine 
+dove into your objects and tried to figure out 1) which 
+pieces of data you want the clients to know about 2) when 
+your data changed.  This is really convenient in some 
+cases because all you need to do is create a variable on the
+client side and the server side, and DirectEngine will keep 
+the client-side variable in sync with the server side one.  
+
+The implementation of this is pretty inefficient and ends 
+up being inconveient to have around.  Basically, 
+DirectEngine was doing too much in some cases and not 
+enough in other cases, causing you to hack your stuff 
+out of its way, lest you lose network bandwidth because 
+it's sending too much.  Now it does exactly what you want.
+
+All in all, I'd say losing DScript and redoing the 
+architecture will double the efficiency with which it deals 
+with objects.  That's not to say the framerate will 
+double; dealing with objects and plugins is only one part 
+of the job.
+
+This is far more efficiency gained than I hear losing 
+QuakeC gained, but DScript was a very very very large 
+language compared to QuakeC (it has classes, virtual 
+functions, garbage collection), and DirectEngine was trying 
+to do WAY too much for people writing plugins.  From what 
+I've seen of QuakeC, it also looks like QuakeC was very 
+tightly integrated with the Quake engine.  DScript is not
+tied into DirectEngine at all, so it is much more general
+(adding slowness..)
+
+Anyway, I hope this rambling explained what we went thru 
+when trying to implement plugins and an 'object standard' 
+for DirectEngine.
+
+To sum up (over the course of about 7 months):
+
+We need plugins for DirectEngine
+
+Let's find an object standard
+
+Let's use COM, Microsoft would drool all over that, right?
+
+Uh oh, COM is inefficient and doesn't do inheritance 
+very well, let's not use COM
+
+Let's make a scripting language.. look at all the advantages
+
+Wow, a scripting language is cool
+
+We're missing lots of math functions in DScript, let's 
+just implement them
+
+Wow, we're missing lots more standard functions in DScript
+
+DScript is getting really cumbersome, Riot is getting 
+slow, and we can't debug it, what ever will we do?
+
+And thus, one night, the new architecture was born.  There 
+would be stories of what happened that night for years 
+afterward, tales passed from mouth to mouth (heheh he said 
+mouth to mouth) that would take on the trappings of legend.  
+They would come from various sources, but all would have 
+their genesis in the glimpses caught by passersby who 
+paused for a momentary look at what was taking place in 
+the bowels of suburbian Bellevue WA.  
+
+They would speak of Mike walking down the hallways to get a 
+Diet Coke and overhearing a conversation, "I fucking hate 
+DScript. Burn it!".  They would then speak of Mike, teary 
+eyed, bellowing, "Blasphemous whores! How darest thou speak 
+of DScript in such a manner! I shall smite thee with my 
+coooooool sword."  There were whispers of Mike wielding a 
+sword of fire, with the letters D S C R I P T engraved
+in its hilt, blazing in the dark, dank, corporate office 
+hallway, cutting down all blasphemers to a one.  Many people
+said his kilt flew up.  Some would even tell of Mike, his 
+"Fuck Corporate Rock" shirt soaked in the Blood of 
+engineers, afterwards, saying, "Hmmm maybe they're 
+right. Fuck DScript."
+
+But I digress..
+
+
+
+
+8/31/97
+
+Blah.
+
+
+8/19/97
+
+If I were Superman, this would be the description of how
+my day has been so far:
+
+Wow! Look, I can fly! This kicks ass! I can go anywhere!
+Louis Lane wants me, AND the preprocessor runs a lot 
+faster! I think I'll go fly to the moon. Here we go, I'm taking 
+off. Wow, the air at 30,000 feet sure smells good. Uh oh, 
+my cape just flew off. Oh shit, I thought I could fly without 
+it! I'm falling! Hellllllllppp!!!! BWAAAAAAAAAAAAAAAAAAAAAA!
+
+SPLAT
+
+
+
+
+8/18/97
+
+All I can say is: go read Brian Hook's plan file.  His open 
+letter is EXACTLY my feeling at reading that damn
+NextGen article. My ass was so chapped (much more than 
+normal) after reading it, I just couldn't find the words. :)
+
+Geez, I should go copy some code out of Curved Surfaces 
+for Dumbshits so my engine can "push 500 to 1000 times" 
+the competition's polygons per second. Maybe I should get 
+a Cray too. Or maybe I should stop smoking crack.
+
+Hey, we're using quaternions in DirectEngine, but don't
+tell anyone, because I'm going to get 5 patents for them
+because I invented them before the 1700's! We're also using this revolutionary technology that we're calling 'polygons', at least 2 years before the "chosen time."
+
+If you want more ranting in the same vein, I wouldn't advise 
+reading any further, because you probably wouldn't find 
+any kind of flammatory material or opinions expressed.
+
+On the DirectEngine front, I found a very cool way to 
+speed up the preprocessor! It speeds up the "Setting up" 
+portion of the processing by an enormous amount, and the 
+algorithm itself is WAY more simple. 
+
+Basically, the "Setting up" portion of the geometry 
+processing is the part where it gets rid of pieces of brushes
+that intersect eachother. It's also the part where people get 
+up and go to lunch, during which they throw darts at 
+posters of Mike, fantasizing the various ways to kill him for 
+his stupidity, all the while thinking "I'm an artist, and I 
+could program the fucking thing faster than he can". This 
+is not wholly unrelated to Cineschmidt's discourse on the L 
+word.
+
+I love how the solutions that work are always 1/5th of the 
+code of the solutions that work but suck.
+
+All I can say is that the L word should go out of
+everyone's vocabulary soon because the turnaround time
+to actually get into a fairly complex level and have 
+the preprocessor remove Certain Things should be under a 
+minute.
+
+
+
+8/16/97
+
+Mainly updating my plan file so the 2 week thing doesn't
+cause it to expire.
+
+Nope, sorry, no movie reviews, no stories about some 
+party I went to.  I do have a big rant though.  What is it
+with headlines (and certain popular gaming personalities)
+saying technology is done with.  That is the most absurd 
+thing I've ever heard of. Obviously, the people touting 
+these claims have very limited imagination.
+
+I can't count the number of times I've heard from some 
+Marketing Asshole (tm) that no new major technological
+developments will occur. Like Marketing Assholes and 
+magazine editors printing these claims would know.
+
+Saying technology in games has reached its pinnacle is
+like saying design in games has reached its pinnacle.
+
+Yep, that's right, no new gameplay will EVER be invented. 
+Everything that you could possibly do in a gaming universe
+has been done.  I can't think of a single new thing that a 
+game could ever come out with.  Now doesn't that sound 
+stupid!?  Someone saying that sounds ridiculous, and so
+does someone making the same claims pointed at 
+technology. 
+
+Tell me, right now, can I jump onto a web of game servers 
+as sophisticated as the Internet itself? Could I, if I wanted 
+to, model the entire solar system in excruciating detail,
+then start a game where players operate space stations 
+and bases on Earth; a game that could evolve entire 
+populations of alien species, which would launch attacks 
+on the space stations? 
+
+Hmmm.. if gaming engines are as sophisticated as they will 
+ever be, why don't you go license the Quake engine and 
+make an all-encompasing game like that, complete with an
+online economy comprised of millions of players? Oh, I 
+guess you just didn't think of games like that before you 
+started spouting your ignorance.
+
+To me, the beauty of games is that the great ones bring art 
+and science together - it's possible for a couple dozen 
+people and as many computers to build an intricate
+world, changing and growing all the time.
+
+Take it from the people bringing you the technology. You 
+don't hear from Looking Glass or Id that technology is done 
+with. There's plenty of new ground to break on the 
+technology frontier.  So, prophets of doom, go retire or 
+something. Revel in your ignorant bliss and leave 
+groundbreaking to the pros. 
+
+
+
+
+
+8/2/97
+
+Mainly just updating so my stupid finger account doesn't
+disappear.  Not too many interesting things have been
+happening so far, except for GWAR and Guttermouth
+concerts in Seattle!  I came home last night soaked in
+blood from severed heads and Oderus Urungus' gub.
+
+We went to an Intel conference in San Fransisco.  The 
+most interesting thing there was their Intel compiler, which
+can optimize your C/C++ code a lot by compiling, profiling,
+then using the profile info and recompiling.  Very cool!  
+Mostly though, it was a big Intel hype-athon. 
+
+It's funny, whenever you see them pitching some new
+graphics technique, it's always a demo of one room - ONE
+ROOM.  Wow, a game with ONE ROOM and some assy
+special effect would be REALLY FUN!
+
+Oh yeah, if you read Jason's plan file, don't believe a word
+he says about his deathmatch skills.  He gets smashed
+like a blind old man trying to drive on the Autobon.
+
+
+
+
+7/23/97
+
+Alrighty, we are now getting things organized internally 
+to Monolith with DirectEngine, which is really good for us.
+We're setting things up so we can share as many
+DirectEngine-related resources as possible between Blood
+II, Riot, and Claw 3d (working title).  What we mainly are
+doing now is having weekly meetings with Jay, Craig, Brad,
+Bill, JT, Greg, and Kevins and Co.
+
+Brad whipped out landscape functionality, so we can now
+have incredible landscapes, and still embed large
+structures in the hillsides.  The outdoor screenshots on
+the Riot page (riot.lith.com) have some samples, but they
+really don't do it justice.
+
+Lately, we've been hitting lots of key implementation 
+issues/flaws in DirectEngine, and having lots of 
+discussions on how to fix them.  It sounds like we'll be able
+to kill a shitload of birds with one stone because we finally
+figured out lots of the details for a major upgrade which will
+make it a way more flexible, stable, and fast engine.  I can't
+wait to start on it!
+
+
+
+
+7/14/97
+
+Letsee, all that's new since Saturday is a new type of
+object we can have in our worlds: TCPTrigger.  This is 
+like a hyperlink to another server, so now we can setup
+little portals that jump into other servers.
+
+There's also a new network optimization in there that cut
+the object creation packet sizes by a factor of 3.
+
+Oh yeah, and some birds, well a lot of birds really, shat on
+my car.
+
+
+
+7/11/97
+
+Let's see, what's been happening on DirectEngine..  Lots
+of miscellaneous little details and bug fixes.  I've been 
+working on lots of miscellaneous things as I try to figure
+out how to implement some REALLY cool stuff we'll 
+be getting in like connected worlds and big changes to 
+the environment like blowing giant craters in the 
+ground.
+
+DirectEngine is starting to become more generalized for
+other types of games while we build demos of upcoming
+titles in it.  It's always a big balancing act though when
+exposing features in the API because you want the
+features in there, but you don't want to expose so much 
+of the internals that the games require the whole world 
+to be structured a certain way so you're stuck with a 
+certain structure.
+
+Phil got an early Pyramid card, so we'll get a bump mapping
+version of the engine running along with the Glide and
+D3D versions pretty soon!  I can't wait for the next
+generation cards like the Pyramid card to come out.  
+Here's my hint for now until the next generation cards 
+come out:  GET A 3DFX CARD (like a Diamond Monster
+3d or Orchid Righteous 3d)!!!  I can't believe how damn
+slow and crappy the other 'hardware accelerators' out
+there are.  It's almost like they wrote some (really) shitty
+software rasterizer and burned it into a chip!  The 3dfx
+chipset is so cool because you can customize the 
+pipeline on the card so much you can do almost anything.
+
+I'm going to be spending some time making it so we 
+can run both compiled code and DScript - our java-like
+scripting language.  DScript is convenient to have 
+around because it's so quick to change and stable, but 
+it because a total pain if you want to actually debug
+anything .. it reduces down to printf debugging. 
+
+I put in some dynamic light stuff that looks totally 
+awesome.  The lights can be any color or radius without
+slowing it down, and they can totally oversaturate.
+
+The Riot website will be up pretty soon now, so we'll finally
+be able to show off all the cool stuff we've got!  I'm hoping
+to have a CTF thing running here so we can really pound on the gameplay and tweak it.
+
+In the news today: some guy in Issaquah shot his
+computer.  That is about the funniest goddamn thing I
+have ever heard in my life.  I can totally see someone 
+getting so frustrated, they just load up a shotgun and
+blow it away!  (Matter of fact, I've run Windows 95 before
+myself...)
+
+
+
+6/23/97
+
+Got back from E3.  It was very cool, and we did lots of cool things.  Everyone we spoke to about DirectEngine and Riot were pretty impressed by it.  I'm more excited now than ever about what DirectEngine will be .. the plan for it has been correct all along and is definitely heading in the right direction!
+
+
+
+
+
+
+
+
+
+*** This is a beta finger server.
+*** Please report problems to natas@ionstorm.com

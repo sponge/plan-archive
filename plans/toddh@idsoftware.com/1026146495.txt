@@ -1,0 +1,40 @@
+
+Name: Todd Hollenshead
+Email: 
+Description: CEO
+Project: 
+-------------------------------------------------------------------------------
+7/8/2002
+
+RTCW Game of The Year Edition for the budget minded shopper: $34.99 this
+week at Circuit City according to yesterday's circular ad.  If you missed
+out on the blitzkrieg last fall, here's your chance to pick up a copy of the
+game on the cheap with lots of extras.  More info on the content can be found
+in the press release here: 
+
+http://www.idsoftware.com/business/home/press/index.php?date=20020626120000
+
+4/30/2002
+
+Good stuff for RTCW fans:
+
+http://www.planetwolfenstein.com/features/dearhelga/dearhelga_02-04-26.shtml
+
+3/4/2002
+
+Congratulations to our RTCW partners Gray Matter and Nerve on the Academy of
+Interactive Arts and Sciences awards for Best Online Game and Computer Action/
+Adventure Game of the Year for Return to Castle Wolfenstein!
+
+12/22/2001
+
+I've had a few questions about the price of private Quake II engine licensing
+now that we have released the source under the GPL.  We're doing the same 
+thing with Quake II that we did with the Quake engine and reducing the price 
+to a flat $10,000 if you want to keep your source code proprietary.  You're not
+required to pay the fee if you abide by the GPL, of course.  But some people
+have been interested in maintaining their own source and not releasing it, so
+we offer this option as an alternative.  The technology licensing page on our 
+website will be updated to reflect this after the start of the new year.
+
+

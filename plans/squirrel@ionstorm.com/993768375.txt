@@ -1,0 +1,76 @@
+
+*** Ion Storm's Finger Server
+
+User name: squirrel
+Plan modified: Thu Jun 28 17:41:31 2001
+
+
+Windows 2000 problems should now be fixed.
+
+QA is beating on the patch now.  It takes
+them a while to do a complete playthrough.
+
+The instability was being caused by an
+extremely subtle and devious buffer
+overrun in the filesystem code.  Win2k
+tends to be more sensitive about this,
+which is why the bug was more apparent
+on that OS.  This means users of ALL
+OSes should download the 1.01 patch when
+it becomes available (probably no sooner
+than friday night):
+
+http://www.anachronox.com/patches.html
+
+Anyone running win2k should (of course)
+install Windows 2000 Service Pack 2.
+
+Also, certain implementations of 3d sound
+have been known to be buggy under win2k
+for a variety of games, so if you're still
+getting crashes on your win2k system (with
+ANY game) after installing the Service Pack
+you might try disabling 3d sound as well.
+
+--------------------------------
+
+Update regarding Anox & Win2k:
+
+We've managed to coerce the win2k crash
+bug to reproduce itself here on my dev box,
+which is good.  I have a theoretical fix
+in the works, but it'll take a few hours
+to finish coding and test it.  After that,
+QA will have a go and we'll see if it passes
+muster.
+
+If everything goes well the fix should be
+in the v1.01 patch, which will be available
+friday-ish at:
+
+http://www.anachronox.com/patches.html
+
+We (the coders) are aiming to make Anox
+win2k-friendly (though still unofficially
+supported, alas) as quickly as possible.
+
+Note that the patch will weigh in at around
+5 MB, so downloading it shouldn't cause
+anyone undue stress.  The patch also fixes
+several minor issues and improves load
+times considerably.
+
+Note also that several people have written
+me with various workarounds which have
+fixed the win2k crash for them.  The ones
+most frequently suggested have been:
+
+- disable 3d sound / EAX
+- change win2k user logins (non-admin, etc)
+
+In the meantime, have some chips and salsa
+and check out the new trailer if you haven't
+already.
+
+http://www.anachronox.com/downloads.asp
+

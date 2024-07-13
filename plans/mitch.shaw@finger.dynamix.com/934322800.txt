@@ -1,0 +1,63 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------
+User Name: mitch.shaw     Plan Last Modified: 08/10/1999 14:02:32 PST
+
+Who am I? Mitch Shaw
+Handle:  Skeet
+Project: TRIBES/TRIBES 2/TRIBES Extreme
+Email: Skeet@dynamix.com
+
+8/10/99
+
+  Wow, business has picked up for me lately.  Getting
+a lot more involved with scripting, and also devoting
+more time to TRIBES Extreme.  But first things first.
+
+  As Nels said in his update the other day, I've written
+a script that provides a new mission type.  It's called
+Freeze (for lack of a better name), and I'll go over the
+rules in a moment.  I'm still in the process of QA'ing
+it, so it might get released later than Rabbit and Hunter.
+Please feel free to join my server whenever you see it
+up and non-passworded, it'll be named "Skeet's Freeze
+Server".  But first, know the rules so you won't be one
+of those folks who joins, has no idea what they're doing,
+and then drops two minutes later amidst a flurry of
+profanity.
+
+  Basic concept: you "freeze" instead of dying.  When
+your health hits zero (or basically close enough to not
+matter), you get knocked into observer mode around your
+(still standing) body. Frozen players have a blue armor
+skin and are stuck in the "using PDA" pose. You randomly
+throw all the ammo you're carrying and lose your pack
+when you get frozen. You remain frozen until one of two
+things happen: your entire team gets frozen (bad) or one
+of your teammates hits the enemy's switch (good). If a
+whole team is frozen, they respawn and the other team
+gets one point. If a teammate hits the switch, everyone
+on that team gets unfrozen and the player who touched
+the switch gets 1 point for everyone who was frozen.
+You get full ammo for every weapon you're holding when
+you get unfrozen, and also receive a repair kit.
+You will take damage for leaving the mission area, just
+like in Deathmatch. All the missions I've converted for
+Freeze play were originally CTF maps, and the switches
+are exactly where the flags used to be (exception:
+Desert of Frost, the new version of Desert of Death, has
+the switches inside the pyramids but not inside the holes
+in the floor.) Unfortunately, the computer I have set up
+to be the Freeze server is also my primary work computer,
+so Skeet's Freeze Server will be up largely (if not only)
+in the evenings.
+
+  Lastly, I'd like to bid farewell to our own Scott
+"ConrBoy!" Youngblood. As he said in his own plan update,
+he is leaving Dynamix at the end of this week for, to
+once again quote Letterman, "another network". Best of
+luck to him, and I'm sorry to see him go (as well as being
+sorry that I didn't stay around to drain the keg the
+other night at the barbecue). Vaya con queso, Scott.

@@ -1,0 +1,39 @@
+
+Name: Timothee Besset
+Email: 
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+Fri Nov 26 11:55:45 CST 2004
+
+Linux Doom III 1.1.1286 build:
+
+There are new GNU/Linux binaries for Doom3 on the ftp[1] and the BitTorrent tracker[2]. This build is compatible with the previous release, brings a number of bug fixes and new sound code. Alsa[2] and multichannel sound output are now supported.
+
+No GUI changes were made in order to remain compatible with the first release, you will need to set some cvars on the command line to configure your sound:
+
+set s_driver to best, alsa or oss. (best will just try alsa and fallback to OSS otherwise )
+set s_numberOfSpeakers to 2 for stereo, 6 for multichannel sound ( whatever your actual number of speakers may be ).
+
+For instance:
+doom3 +set s_driver alsa +set s_numberOfSpeakers 6
+will start doom3 using the Alsa sound backend in multichannel mode
+
+notes about OSS:
+
+The Linux kernel comes with the OSS/Free API, which works great in most cases but lacks multichannel support. You can download a binary OSS/Linux implementation from 4Front Technologies[4]. To sum up, the drivers are 'free for non commercial use'. You can use them to play Doom III. They have great multichannel support, and that's the drivers I used to develop the OSS backend.
+
+Thanks to everyone who helped testing this build .. and thanks for the positive Linux feedback emails we've been getting..
+
+TTimo
+
+[1] ftp://ftp.idsoftware.com/idstuff/doom3/linux/doom3-linux-1.1.1286.x86.run
+[2] http://zerowing.idsoftware.com:6969/
+[3] http://www.alsa-project.org/
+[4] http://www.opensound.com/
+
+==============================
+
+Tue Nov 16 15:52:29 CST 2004
+
+There is a new release of the DOOM3 SDK available. See http://www.iddevnet.com/ for details. This release is compatible with the Linux 1.1 release ( and includes scons build scripts ).

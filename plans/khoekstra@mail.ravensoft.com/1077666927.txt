@@ -1,0 +1,245 @@
+
+Name: Kenn Hoekstra
+Email: khoekstra@ravensoft.com
+Description: Project Administrator
+Project: General
+Web Page: <a href="http://www2.ravensoft.com/users/khoekstra">Kenn's Web Site</a>
+-------------------------------------------------------------------------------
+Tueday, February 24th, 2004 - As a special thanks to everyone 
+in the community for making Star Wars: Jedi Knight - Jedi Academy 
+such a success, the Jedi Academy team is happy to release a new 
+Siege Vehicle Combat map and tutorials to show mod makers how to 
+create their own Siege Maps and Vehicles.
+ 
+Please note, this map and the accompanying tools are released 
+"as is" and are unsupported by Raven Software, Activision or 
+LucasArts.
+
+Thank you for all of your support!  Have fun, and May The Force 
+Be With You!
+
+Sincerely,
+
+The Jedi Academy Team, 
+Raven Software
+
+Siege Destroyer Map:
+
+- <a href="http://www.3dgamers.com/news/more/1077647208/">3DGamers Mirror</a>
+- <a href="http://www.worthplaying.com/article.php?sid=16286">WorthPlaying Mirror</a>
+- <a href="http://www.lucasfiles.com/index.php?s=&action=file&id=439">LucasFiles Mirror</a>
+- <a href="http://filefan.com/sage/files.x?fid=jasiegedestroyerexe">FileFan Mirror</a>
+- <a href="http://www.3ddownloads.com/ravensoft/JediAcademy/BonusMaps/JASiegeDestroyer.exe">3DDownloads Mirror</a> 
+
+Siege Tutorials:
+
+- <a href="http://www.3dgamers.com/news/more/1077647208/">3DGamers Mirror</a>
+- <a href="http://www.worthplaying.com/article.php?sid=16286">WorthPlaying Mirror</a>
+- <a href="http://www.lucasfiles.com/index.php?s=&action=file&id=440">LucasFiles Mirror</a>
+- <a href="http://filefan.com/sage/files.x?fid=siegetutorialszip">FileFan Mirror</a>
+- <a href="http://www.3ddownloads.com/ravensoft/JediAcademy/Tools/siege_tutorials.zip">3D Downloads Mirror</a>  
+
+On another note, the real life John Mullins of Soldier of Fortune
+and Soldier of Fortune II: Double Helix fame has a new fiction book 
+due out shortly.  You can read the <a href="http://www2.ravensoft.com/mullins.html">press release here</a>.
+
+--Kenn
+<a href="http://www.kennhoekstra.com">http://www.kennhoekstra.com</a>
+
+****************************************************************
+
+Wednesday, November 26th, 2003 - Happy Thanksgiving (early)!  
+
+Jedi Academy 1.0.1.0 SDK (MP SOURCE CODE!) available now...
+
+Download Links:
+
+- <a href="http://www.3dgamers.com/dl/games/jediacademy/Thirdparty/jedi_academy_sdk_mp.zip.html">3D Gamers</a> 
+- <a href="http://www.worthplaying.com/article.php?sid=14703">WorthPlaying</a> 
+- <a href="http://www.3ddownloads.com/ravensoft/JediAcademy/Tools/JEDI_Academy_SDK(MP).exe">3D Downloads</a> 
+- <a href="http://www.fileshack.com/file.x?fid=4146">FileShack</a> (Free Registration Required)
+
+Have a safe, happy and healthy Thanksgiving!  Be careful out
+there (as the old saying goes).
+
+Rock and roll!
+
+--Kenn
+<a href="http://www.kennhoekstra.com">http://www.kennhoekstra.com</a>
+
+***************************************************************
+
+Tuesday, November 11th, 2003 - The official 1.01 patch for the
+retail version of Jedi Academy is now available as an 11 MB
+download at the following locations:
+
+- <a href="http://www.3dgamers.com/games/jediacademy/">3D Gamers</a>
+- <a href="http://www.worthplaying.com/article.php?sid=14305">WorthPlaying</a>
+- <a href="http://www.jk2files.com/file.info?ID=20459">JK2Files</a>
+- <a href="http://www.lucasfiles.com/index.php?s=&action=file&id=235">LucasFiles</a>
+- <a href="http://www.3ddownloads.com/ravensoft/JediAcademy/Patches/jkacademy1_01.exe">3D Downloads</a>
+- <a href="http://games.bigpond.com/pc/resources/files/?action=details&id=9261">Big Pond</a> (Australia)
+- <a href="http://www.fileshack.com/file.x?fid=4063">FileShack</a> (Free Registration Required)
+- <a href="http://filecabinet.gamehelper.com/files/413.htm">GameHelper</a>
+
+Updated Win32 and Linux Dedicated Server Utils are also now
+available for download here...
+
+Win32 Dedicated (v. 1.011)
+- <a href="http://www.3dgamers.com/dl/games/jediacademy/jawinded_1.011.zip.html">Win32 At 3D Gamers</a>
+- <a href="http://filecabinet.gamehelper.com/files/414.htm">Win32 At GameHelper</a>
+- <a href="http://www.3ddownloads.com/ravensoft/JediAcademy/WinDed/jaWinDed_1.011.zip">Win32 At 3D Downloads</a>
+- <a href="http://www.fileshack.com/file.x?fid=3653">Win32 At FileShack</a> (Free Registration Required)
+
+Linux Dedicated (v. 1.011)
+- <a href="http://www.3dgamers.com/dl/games/jediacademy/jalinuxded_1.011.zip.html">Linux At 3D Gamers</a>
+- <a href="http://filecabinet.gamehelper.com/files/415.htm">Linux At GameHelper</a>
+- <a href="http://www.3ddownloads.com/ravensoft/JediAcademy/LinuxDed/jalinuxded_1.011.zip">Linux At 3D Downloads</a>
+- <a href="http://www.fileshack.com/file.x?fid=3654">Linux At FileShack</a> (Free Registration Required)
+
+Rock and roll!
+
+--Kenn
+<a href="http://www.kennhoekstra.com">http://www.kennhoekstra.com</a>
+
+**************************************************************
+
+
+Friday, November 7th, 2003 - Creative just released new sound
+drivers for its Audigy 2 cards last night and they resolve the
+issues that some people are having with the EAX/sound in Jedi 
+Academy.
+
+We've received reports of high pitched squealing while running
+the game on Audigy hardware.  These new drivers (EAX enhancements,
+really) fix that problem and several other EAX problems found in 
+many of the newer games out there.  Sound performance, in general,
+seems to be greatly improved.
+
+You can download the new drivers here:
+<a href="http://us.creative.com/support/downloads/">http://us.creative.com/support/downloads/</a>
+
+Have a great weekend!
+
+--Kenn
+<a href="http://www.kennhoekstra.com">http://www.kennhoekstra.com</a>
+
+**************************************************************
+
+Wednesday, October 1st, 2003 - Kenn is officially old today...
+Yep, that's right.  Today Kenn is thirty years OLD.  Kenn is 
+now also talking about himself in the third person.
+
+Hard to believe I was 23 when I started at Raven.  Where the
+hell has all the time gone?  *sigh*
+
+--Kenn
+<a href="http://www.kennhoekstra.com">http://www.kennhoekstra.com</a>
+
+**********************************************************
+
+Wednesday, September 10th, 2003 - Anyone know where I can
+find a copy of <a href="http://www.imdb.com/title/tt0061386/">Batman Fights Dracula</a> on video?
+
+I need this for a friend of mine who will positively flip
+out if I can find it for him.
+
+If you have any leads (other than Ebay, I checked) then
+please <a href="mailto:khoekstra@ravensoft.com?subject=Batman Fights Dracula">drop me a line</a>.
+
+Rock on!
+
+--Kenn
+<a href="http://www.kennhoekstra.com">http://www.kennhoekstra.com</a>
+
+**********************************************************
+
+Tuesday, August 5th, 2003 - Non work-related update today...
+Green Bay Packers fans unite!  Please sign <a href="http://www.southendzone.com/savelambeau/getinvolved/">this petition</a> to 
+save the Lambeau Field name!
+
+I'd sure hate to see Green Bay play in Velveeta Stadium, or
+worse yet...Velveeta Cheese Presents...The Green Bay Packers!
+
+Your support is appreciated...
+
+--Kenn
+<a href="http://www.kennhoekstra.com">http://www.kennhoekstra.com</a>
+
+
+**********************************************************
+
+Monday, July 14th, 2003 - Just a warning about a SOF2 CD Key
+scam that's going on right now...  Some guy calling himself
+"John Novak" is e-mailing people from a hotmail account and
+claiming to be from Raven Software.  He's claiming that we
+(Raven) are gathering defective keys for replacement and asking 
+that you e-mail him your CD Key.
+
+DON'T FALL FOR THIS SCAM!  In fact, DON'T SHARE YOUR CD KEY
+WITH ANYONE!  No one from Raven will ever contact you and 
+ask you for your CD key.  If we do, it's only if you
+contact us first through our website with a tech support 
+request. 
+
+Feel free to <a href="mailto:raven_softwaresof2@hotmail.com">e-mail this guy</a> and let him know what you
+think of his little scam.  ;)
+
+Another thing to beware of, if you're not already aware of
+this, is to watch out for buying used games on Ebay (or
+anywhere else for that matter) that require CD keys.  I've
+seen many people sell their game who continue using the 
+key after the sale.  This causes no end of trouble
+for the buyer and unfortunately we can't issue new keys for 
+used games. Buyer beware...
+
+That is all.
+
+--Kenn
+<a href="http://www.kennhoekstra.com">http://www.kennhoekstra.com</a>
+
+***************************************************************
+
+Wednesday, June 25th, 2003 - It's been a while since my
+last update and I'm not even sure our finger server is
+still working, so this is a bit of a test. At first
+glance, our .plan tracker appears to be hosed... 
+
+I've updated the much outdated <a href="http://www2.ravensoft.com/getajob.htm">"Get A Job In The Industry"</a>
+page.  Mainly I fixed all of the broken links and
+added a few new sections regarding gaming universities
+and other new wave things.  Wheeee....
+
+Raven is also still looking for a High Poly Modeler for
+Quake IV.  Get the details <a href="http://www.ravensoft.com/jobs.html">here</a>.
+
+Oh, and I've re-launched my website at <a href="http://www.kennhoekstra.com">http://www.kennhoekstra.com</a>.
+
+More later...
+
+
+******************************************************************************************
+
+IN LOVING MEMORY - Kenneth Lee Hoekstra (August 26th, 1937 - April 23rd, 1998)
+
+Sunset and evening star.
+And one clear call for me!
+And may there be no moaning of the bar,
+When I put out to sea.
+
+But such a tide as moving seems asleep
+Too full for sound and foam.
+When that which drew from out the boundless deep
+Turns again home.
+
+Twilight and evening bell,
+And after that the dark!
+And may there be no sadness of farewell,
+When I embark;
+
+For though from out our bourne  of Time and Place
+The flood may bear me far
+I hope to see my Pilot face to face
+When I have crossed the bar.				...Alfred Tennyson
+
+********************************************************************************************************

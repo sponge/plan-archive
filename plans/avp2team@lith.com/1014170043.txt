@@ -1,0 +1,78 @@
+
+*** Monolith Production's Finger Server
+
+User name: avp2team
+Plan modified: Tue Feb 19 14:29:41 2002
+
+				2/19/2002
+
+You saw her in single player…
+	You dreamed of being her in multiplayer…
+
+You piloted it in single player…
+	You hoped for it in multiplayer…
+
+Queen versus Exosuit - because you want to be big.
+
+Yes, it is true. 
+
+Winging your way from the kindness of FOX, Sierra, and Monolith, multiplayer update #2 is taking its last turn through Quality Assurance. We've been playing; Queen molting is fun, and Exosuits are a handful. 
+
+Of course, the update isn't only about Exosuit and Queen. We've improved low-bandwidth servers and polished the respawn code considerably along with making a bunch of other less splashy improvements.
+
+Is that all? Not exactly. 
+
+We're also preparing to open our Linux servers to the public for play. These will be indicated by [LXBETA] after the server name. Assuming all goes well, we'll have the Linux servers available a few weeks later. The Linux server will be compatible with 1.0.9.4, so once you've got 1.0.9.4, feel free to stop by the beta servers and play. We've set up an email for Linux bugs: avp2linuxbetabugs@lith.com <mailto:avp2linuxbetabugs@lith.com>. If you see anything that doesn't match our 1.0.9.4 standard servers, use the email to let us know. 
+
+Finally, we'd like to thank the community members who've jumped into the LithTech Talon tools including the tool update. The future of AVP2 is at your command.
+
+Best wishes,
+
+The AVP2 Team
+
+
+				1/25/2002
+
+Winter has fully set in and with the bad weather comes plenty of time to
+play Aliens vs. Predator 2!  We hope you all are continuing to have as good
+a time as we are playing AvP2.
+
+Work continues on our second Aliens Vs. Predator 2 update.  We still can't
+tell you what we have in-store for this update but what we can say is that you
+will not be disappointed.  If all goes well you will have some new toys to
+play with soon, sort of like Christmas all over again!
+
+In addition to the second update, we are hard at work preparing to release
+an updated set of Tools for Aliens vs. Predator 2.  Included with the tools
+is the most complete set of documentation we have ever produced for a tools
+set and from our LithTech friends, improved mesh importing.  We hope the Mod
+community will find the extensive FAQs helpful and thorough and that
+LithTech's Talon tool system is treating you all well. If you haven't
+started maps yet, there are also a number of walk-thru examples included to
+make getting started a snap! 
+
+Check back here for more Aliens vs. Predator 2 updates...
+
+Best wishes,
+
+The AVP2 Team
+
+
+
+				
+					1/11/2002
+Monolith would like to wish the fans of Aliens versus Predator 2 a Happy New Year. We hope you have enjoyed your holidays - and played a lot of AVP2. 
+
+For those of you wondering whether Aliens versus Predator 2 has been put out to pasture, the answer is a definite, "NO!" The rumor that Monolith is working on another multiplayer update is true. We can't tell you what's in it, but we can give a big thanks to FOX Interactive for letting us keep nurturing our little baby. (Okay, it was their baby first, but we still love it so.) We also can't give you an exact date for when it'll be out.
+
+As for the New Year, we have only a few wishes to share:
+... may FOX Interactive never lose its passion for Aliens and Predators. We love this universe.
+... may the AVP2 MP community grow and thrive. We're already seeing maps coming from the LithTech Talon system tools, which gives us great hope for the future.
+... may Sierra / Vivendi / Universal see long and steady sales for our little title. There's nothing like word of mouth to keep sequels alive.
+... may MP Update #2 surprise and amuse us all.
+
+Best wishes,
+
+The AVP2 Team
+				
+

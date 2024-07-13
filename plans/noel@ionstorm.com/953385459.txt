@@ -1,0 +1,71 @@
+
+*** Ion Storm's Finger Server
+
+User name: noel
+Plan modified: Fri Mar 17 20:25:07 2000
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>NOEL</title>
+</head>
+
+<body bgcolor="#000000" text="#00FF00" link="#FFFF66" vlink="#CC9900" alink="#FFFF66">
+
+<table border="0" width="100%" height="75" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%" bgcolor="#4D4D4D" height="19"><b><font face="Arial" size="4" color="#FF0000">NOEL'S
+      .PLAN UPDATE</font></b></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#4D4D4D" height="19"><font face="Arial"><b>Friday
+      March 17th 2000</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%" height="19"><font face="Arial">*sigh*</font>
+      <p><font face="Arial">Been a very long 7 months!&nbsp; Things have become
+      quite different since I first started on this project.&nbsp; During the
+      process of this project I have taken off around 1 week, and most of that
+      time during the 'vacation' I was sick.&nbsp; However, heh, this weekend I
+      am going home to have a nice long 2 day weekend... 2 WHOLE days!!!!!&nbsp;
+      *hint* *hint*</font></p>
+      <p><font face="Arial">So, anyway, the AI has shaped up to be fairly
+      intelligent without being too much of a burden on the CPU as well as the
+      player.&nbsp; There are a million little tiny details that I could get
+      into regarding all of the time and energy that has gone into a good
+      portion of the AI system, but I think I might leave most of that for a
+      later date.&nbsp; </font></p>
+      <p><font face="Arial">During the project, I have been documenting the
+      progress of the AI and world entities.&nbsp; If given permission, I might
+      even post that document somewhere for people to take a gander at so they
+      can see the progress of at least one aspect of making a game.&nbsp; After
+      reading the 55 pages of documentation people will start to understand how
+      MASSIVE Daikatana really is and how much work has gone into this mammoth
+      game!&nbsp; If it is 'ok' to post this somewhere, then I will probably
+      hold off until people have had a chance to play it so they can then relate
+      to the whole process.</font></p>
+      <p><font face="Arial">As far as when the game will be done, well I am
+      taking the weekend off and breaking the 7 day a week schedule, thus we
+      must be VERY close to completion!!!!&nbsp; </font></p>
+      <p><font face="Arial">My bones are tired... fingers are bleeding... and I
+      am happy as a pig in SH!t!!!!</font></p>
+      <p><font face="Arial">So, come Monday I will probably post again to start
+      an update on the progress of the game and you can count on the purtty
+      little britches around your waste that I am going to post when the game is
+      'officially' gold!</font></p>
+      <p><font face="Arial">L8TrZ,</font></p>
+      <p><font face="Arial">N03L</font></td>
+  </tr>
+  <tr>
+    <td width="100%" height="19"></td>
+  </tr>
+</table>
+
+</body>
+
+</html>
+

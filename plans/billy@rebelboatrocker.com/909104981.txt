@@ -1,0 +1,21 @@
+Login: billy          			Name: Billy Zelsnack
+Directory: /home/billy              	Shell: /bin/bash
+Never logged in.
+New mail received Thu Oct 22 20:51 1998 (CDT)
+     Unread since Thu Oct 22 20:47 1998 (CDT)
+Plan:
+
+082098
+
+This is to the gl driver writers out there...
+
+Please check out the following glHint extension..
+
+http://www.opengl.org/Documentation/Version1.2/EXTspecs/clip_volume_hint.txt
+
+My data is designed in nice little units that are easily culled or accepted.
+Right now I only get to take advantage of the cull. The other 90%+ of the 
+data can be accepted so the driver is wasting its time attempting to clip.
+
+Thanks.
+

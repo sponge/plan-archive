@@ -1,0 +1,93 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+
+1/21/2000
+
+Was browsing the web between fist-fights with QA testers, and noticed Mark 
+Allender's Summoner designer diary.  I worked with Mark way back on Descent,
+so it was cool to see that he's working with (fighting against?) some of the 
+same issues that haunt my nightmares, mainly arbitrary path-finding through
+a 3D polygonal world.  Its an interesting topic, for sure, but can be really
+frustrating as well.  So I thought it might be interesting to post a bit 
+of info about how we are dealing with this issue--
+
+Right from the start, we decided not to impose much in the way of restrcitions
+on our level designers, and since we are using an FPS-style editor, we can't 
+really assume much about the geometry we're pathing through except its not 
+likely to flat and its not likely to be easy.. What we attempted to do was
+to take the final geometry exported by Radiant and create a network of pathing
+nodes using the existing floor structure.
+
+Basically the level designers have to tag each brush or brush face as WALKABLE
+if they intend the players to be able to walk on it.  This includes the front
+faces of stairs and whatnot.  Once the export is complete and we have the
+final faces, we build a list of all these walkable faces and try to figure out
+where they join one another.  This is all done off-line in the level export
+tool, so it doesn't matter if its fast, but its nowhere near as intensive as
+lighting, for instance.  So by checking each face edge against all other face
+edges, we can figure out when two edges "adjoin" each other, and that becomes
+a pathing link.  Since the faces are convex, we know that an actor standing on
+face A can walk directly to any point in convex face B by passing through that
+shared edge.
+
+Once we know where faces DO join up, we look at which edges of the face do not
+touch another face, and these become boundary edges.  Since the whole pathing
+system is only concerned with floors, it doesn't normally examine any walls or 
+ledges, so it needs to know which edges of the faces it should not cross or
+come near.  If our pathing system only had to handle 0-radius points, there
+would be no need for this second step, but because we have larger actors
+walking the world, we need to keep them away from un-adjoined edges.  So each
+unadjoined edge becomes a "boundary plane" sort of thing, so actors that are
+walking through that face must stay a certain distance from those planes based
+on their radii.
+
+After the basic network is built, there's a post-processing step where it looks
+at all the resulting nodes and tries to figure out which ones can be merged. 
+Most levels have thousands of floor faces, so anything which can reduce the 
+number of pathing nodes is worthwhile.  It does this by taking two nodes that
+share a link and examining all their boundary planes.  If no vertices of either
+face are outside the boundary planes of the other face (and the other way
+around) it can merge the two faces.  This gets a bit tricky and we're still
+getting some bugs here that I need to work out.  Its an ugly thing to trace
+through, believe me.
+
+Once we've got a fairly optimized network of these nodes, we export that with
+the level data as a simple connected graph.  To find a path through the nodes,
+we use an "A*" or "A-Star" algorithm which iteratively finds the shortest path
+and is generally considered optimal or nearly so for this sort of task.  Once
+we know the shortest path through the node graph, we have to pick valid
+walking points along edge of the links so the actor won't cut through corners 
+of walls or take shortcuts across dangerous gaps, etc.  The path is cached
+so it doesn't have to be re-computed very often.
+
+The advantages of this system are that it doesn't require the designers to
+do any extra work beyond marking the valid walking surfaces.  It is also 
+fairly efficient, I think, requiring minimal storage per node and the 
+computation time to find a path using A* is pretty quick in practice.  The
+downside is that there are about a hundred tricky little problems and bugs
+that need to get fixed.  One of the more annoying ones is that sometimes
+because of the way the faces are aligned, a floor that appears flat to the 
+player might actually be composed of a wild network of pathing nodes, usually
+either because the edges of the room aren't flat and the convexity of the 
+floors has to be maintained, or perhaps the floor of the room isn't flat, so
+you have a lot of small path nodes for varying floor slopes,  In this case,
+its usuaully very easy to get a correct path, but it very often doesn't 
+come out as the perfectly straight line the user might exepect.  To a 
+programmer this isn't a big deal, but to the user who clicked in a room they
+find this very odd and strangely disturbing, so it has to be addressed in
+some way.  The system also requires a fairly strict absence of t-junctions
+in the exported face data.  Also this system assumes that players cannot 
+really jump across gaps, since the node finding phase looks only for faces
+with colinear edges.
+
+I suppose writing all this up is just an excuse for not working on fixing some
+of the aforementioned bugs... Assuming all this gets ironed out in the end,
+you'll never even notice it.  If anyone is working on similar systems and has
+ideas to share, drop me an email.
+
+
+

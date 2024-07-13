@@ -1,0 +1,347 @@
+
+*** Ion Storm's Finger Server
+
+User name: henrik
+Plan modified: Fri Aug 25 15:18:27 2000
+
+3:14 PM 8/25/00
+
+Following my own "Rule #1" beneath, I'd just like to make a public
+statement:
+
+I'm a stupid bitch.
+
+
+Ok, add another point on my list of rules down there:
+
+- When you make an array of your depth sorted entities so that you will
+  be able to draw your translucent alpha entities back-to-front, make
+  damn sure that, when you actually decide to draw them, you use the
+  right number to index into the array.
+
+We've been struggling with a silly issue of world surfaces with alpha 
+that are placed behind entities with alpha in the world are sometimes
+drawn on top of the entities. I _thought_ I fixed this 6 months ago
+but we've had these weird issues from time to time. Now I found the
+error: 
+
+if ( polyZ < zEntDist[zSorted[entity_index]] )
+
+is better than
+
+if ( polyZ < zEntDist[entity_index] )
+
+Trust me. :-)
+
+Thanks. I've just been on a tour of the Anox area of the ION Storm
+offices and told every single member of the team that I'm a 
+stupid bitch. Now it's your turn, dear reader.
+
+Sorry for my rant. I needed to vent... :-)
+
+Your friendly, neighborhood Stupid Bitch,
+/Switz
+
+
+
+------------------------------------------------------------------
+
+4:34 PM 8/18/00
+
+A short lesson in "Things most of you already knew":
+
+As a break from making sure the battle system in Anachronox looks 
+and plays nice, I decided to dig into our rendering code last night,
+as the main model function code looks nasty.
+
+Now, 24 hours later, I look back and I have decided to offer a few pieces 
+of advise to all you programmers out there:
+
+<B>1: Don't be stupid.</B>
+
+It can not be stressed enough. Being stupid will hurt you. Your 
+code will suck and you will end up hating yourself. A good programmer
+should discover in time that he is about to do something very stupid,
+and should get back on the smart track real fast.
+
+<B>2: Examine your problem </B>
+
+When you decide to embark upon a cruisade, make sure you know what
+you are fighting. If I was to take an example out of thin air, I could
+tell you about how 800 lines of code was painfully crafted around one
+and just one principle: Hit the Cache. I could also tell you about
+the trauma of realizing that your 800 lines of cache-hitting code 
+improves performance absolutely ZIPPO. Nada. However, I'm sure nobody 
+would want to read about that, so I'll just say: "Make DAMN sure that 
+your REAL problem is the same problem as the one you are attacking." 
+If it's not, see item 1.
+
+<B>3: So, you think you are Smart? </B>
+
+Sometimes, even the laziest of programmers can realize that "If I do this, 
+this, this and this, I can use this super-neato OpenGL API call to do ALL 
+my work!". That feeling is usually a great one, especially in this day
+and age when graphics hardware does almost everything for you short of 
+folding your clothes. However, when you run the supersmart code on your
+development machine, you realize that there's probably not a whole lot
+of people out there using this "smart" feature, because the frame rate
+just dropped like...something that drops a whole lot real fast.
+In short, use reasonably "common" features of your graphics card and stay 
+away from the fancy and obscure stuff, unless you're really sure that the 
+fancy stuff is nice and fast too.
+
+<B>4: A failed optimization is still an experience </B>
+There's nothing that will improve your edumacation more than trying to 
+understand what the heck you've done wrong. I would like to think that 
+I've learned something during these last 24 hours, but maybe that's just
+trying to cover my ass from the realization that I suck. :-)
+
+<B>5: I *KNEW* I was RIGHT! </B>
+If you're really boneheaded and stubborn, you finally might realize 
+that you're doing something pretty dumb and that most of your performance
+woes hail from the fact that your "smart" code runs through your cache-
+unfriendly data structures TWICE without really needing to. The wonderful, 
+wonderful feeling of FINALLY finding your own dumb, correcting it and see 
+that "YESS! I got a 10 percent speed increase by doing this." That feeling 
+makes it all worth while, and all you now have to do is to apologize to your 
+coworkers for having been a complete dick, for having cursed their moms in 
+lame ways, etc...
+
+Lessons learned:
+
+- Make your inner loops tight.
+- Only rely on API features that you know are usually implemented well in 
+  drivers and hardware.
+- When developing on the PC, an extra 64k of allocation can be a good friend
+  if it boosts performance. 
+- Don't be stupid.
+- Wishing that all card manufacturers implement all OpenGL API calls in a 
+  super-fast and efficient way will not necessarily make it so.
+
+This concludes today's class in "Things most of you already knew".
+
+
+========================================================================
+
+1:36 PM 7/21/00
+
+One hours left until I take off for the Deux Ex release party outside
+of Austin. I'll walk around and say "The machinery is susceptible to 
+dust particles" and "You don't belong down here", my two lines of
+contribution to the Deus Ex project. :-)
+
+Anachronox is indeed a cool project. Expect the unexpected. Even in
+real life, things happen that seem highly unlikely. Like the other
+day, I hear Tom go "Whaaat?!?!". I turn around, and, lo and behold,
+in Tom's office stands Joey Liaw! The boy wonder! Well, ok, not "stands".
+Infact, he was sitting on Squirrel, who had taken a creative, 
+deeply meditative nap on Tom's couch. He will join us for a few more
+months! Good news indeed! (Hehe, he's already taken a couple of
+bugs off my list and attacked them with a feverish frenzy. He
+has missed us all so! ;-)
+
+Other good news on the Anochronox front: After a short step back
+for contemplation, we've rapidly gained new ground with our sweet, sweet
+battle system. The last few days has seen rapid development in the
+areas of battle skills, and most of them are now completely generic,
+only defined in our game object database. Not only will energetic people
+like you, the die-hard Anox fan, be able to create new worlds, populate
+them with your own characters, add in quests and your own battles, you 
+can also construct your own battle skills for your player characters. 
+And here I thought that hard coding was a must at some point in game
+development :-)
+
+Anyhow, that's all for now. Anox is happy.
+
+
+/Henrik
+
+
+---------------------------------------------------------------
+12:14 PM 7/10/00
+
+A swift update on the silly, patriotic, Swedish side. 
+Klaus Lyngeled (of Shiny Entertainment) and I were 
+featured on the IT pages of Aftonbladet, one of Sweden's
+biggest daily newspapers, as "The Swedes behind the
+hottest games". Hehe. Swedes rule! ;-)
+
+Nuff of the "Ego Boost of the Day"...
+
+Anachronox is progressing and the environmental sound effects
+needs some swift whacks with the Debug Hammer (working on 
+that right now). Also, after having installed Windows 2000 
+on my dual machine at home, Anox has undergone some dual-CPU tests 
+and have come up on the winning side. It will run a few notches 
+faster on a dual machine, since a few of the external systems 
+(sounds, DirectMusic, and a few other things) run as separate 
+threads. The main renderer, though, is single-threaded so the 
+leap in FPSs won't scale linearly. Oh well. No surprise.
+
+All in all, life is good in AnoxVille. 
+
+    "My your railgun stand between you and harm in 
+     all the dark places you must go."
+
+
+/Switz
+
+
+--------------------------------------------------------------
+
+1:11 PM 5/17/00
+
+So, E3 is over. The Switz'n'Eva Production team went to E3
+to check things out. There were PLENTY of goodies to look
+at, but to keep intra-team relations at a reasonable level,
+Switz reports that he tried to restrict his oogling to 
+computer related products. Reportedly, he managed to keep 
+the drooling over fine Californian flesh to a minimum. (Yeah,
+right.) 
+
+MGS2 looked downright AWESOME! Oh my god, yes, I want to see
+more of that! I'm also happy that some people rated Anachronox 
+very very high..(Come ON?!? 9.3?!? :-) and it resulted in a
+spontaneous round of applause in our team meeting yesterday.
+
+Unfortionately, due to development complications, Switz'n'Eva's
+Project Tiny has been postsponed. The release date for Project 
+Tiny had to be readjusted. The Team still thinks that a 9 month 
+development cycle will be required, but forces beyond the 
+development team's control resulted in a premature cancellation
+of the project and the already existing code base can not be
+re-used when the development cycle is initiated the next time.
+
+Sounds weird, but apparently, that's how Mother Nature, everyone's
+ultimate Publisher, sets things up.
+
+The development team would like to thank everyone that sent us
+"Good Luck" wishes at the announcement of Project Tiny, and
+we are also sorry to have to make our fan base[1] wait even longer
+for the Projects release. We're both doing ok, so don't worry :-)
+
+Have a great summer, you all!!
+
+/Switz
+
+
+[1] = Mainly parents..;-)
+
+
+
+
+6:29 PM 4/13/00
+
+About 9 weeks ago, Switz'n'Eva Productions Inc, started 
+development on their latest project, Project Tiny. Tiny 
+will feature real-time light reflections, advanced sound 
+output and most likely a highly sophisticated DirectSmell 
+interface. Yours truly also have high hopes for the dynamic 
+and very strong AI functionality that the code base supports.
+
+A spokesperson for Project Tiny say that the estimated 
+development cycle will be 40 weeks, or 9 months and given 
+the current schedule, there is nothing that prevents a 
+timely release. 
+
+An early estimate says that Project Tiny will be going Gold 
+on November 22, 2000. Inspite of demands from the public, 
+there will be no playable demo out before that date. 
+Eventually a few screenshots might be presented to the 
+general public as development continues.
+
+So far, there is nothing in the design that prevents 
+Project Tiny from being a multiplayer game, but this 
+might be subject to change as more is publicly known 
+about the Project.
+
+Also, at this early stage, no base requirements are known. 
+The production team estimates that the game might require 
+a few patches after the initial release, and lets us know 
+that initially the game might require a lot of attention to 
+run smoothly. However, the production company has a firm
+belief that the final result will have a positive result 
+on the global community.
+
+
+:-) 
+
+/Switz
+
+
+-----------------------------------------------------------------------
+8:10 PM 4/5/00
+
+My head hurts. Yesterday, I found a VCR tape in my cube, starring 
+Richard Simmons, called "Dance your Pants Off - An Aerobic Concert". 
+It's featuring such aerobic hits as "Celebration", "She works Hard 
+For The Money", "Total Eclipse of the Heart" and "The Rose". 
+
+Ok, I grant you all that I'm not all that into aerobic workout, 
+but how in the blessed name of Bad Language can you do aerobic 
+workout to "The Rose"? 
+
+Come to think of it... I don't want to know. Do not tell me and 
+do NOT send any pictures or movies showing this off, ok? There's a 
+limit to what I can take. I have one tape showing it already, and 
+I do not intend to watch it.
+
+Someone, somewhere asked me who my favorite smurf is. That's 
+simple: GodSmurf, the Blue Belgian Bastard. Thanks, dude.
+
+To get this mildly on track: Anachronox is exciting. Really exciting. 
+I'm currently working on optimizing the way we load and start up our 
+in-engine cinematics. If we get them to start off just a tad smoother, 
+it might elevate the game experience a few more notches.
+
+The 3D sound system is now operational, with a few more niceness-tweaks
+left to implement, and hardware occlusion will be supported, inspite of
+Aureal's Chapter 11. 
+
+The programming team has hit a wonderfully effective pace and there's
+light at the end of the tunnel, so...
+
+Things will be good and life will be beautiful. 
+
+/Switz
+
+
+
+
+---------------------------------------------------------------------------
+9:04 PM 3/30/00
+
+Ahh... Finally!
+
+After 6..uhm..7.uhm..many months here at ION Storm, the time
+has finally come for me to hammer out my First Ever .plan file.
+
+I am a programmer. I work on Anachronox. I've boldly hacked new 
+holes in the original QuakeII code. I've put in a quite excellent 
+sound library by the name of Miles Sound System (Jeff Roberts 
+rule!), I've put in a flexible and cool game database and hooked 
+it up to the actual stats and inventories of the characters. I've 
+got our in-game music to work through Microsoft's DirectMusic 
+and...uhm...
+
+uhm... 
+
+...Hey, guys, help me out here.. I've done something more, haven't I?
+
+Oh, yeah, I just recently infected everyone in the Anox code-corner 
+with my fantastic cold, I've discovered Reese's (sp?) chocolate-covered 
+peanut butter treats for the first time, ( Yes, that's right. Last 
+Tuesday was the first time I tried one of those. See explanation below) 
+and I do my best to spread the Gospel according to Lemmy at the office. 
+No one around here seem to appreciate Motorhead (the band, not the racing 
+game), though, but my mission is NOT over!
+
+Also, I have to admit, I'm from Forreign. Forreign is a country that 
+lies outside of the Unites States, (and noone ever really heard about, 
+_anyway_, so why bother trying to remember the name of that silly country?) 
+and therefore I go by the name of Switz here. (They don't have Reese's 
+chocolates over there in Switz)
+
+That's all for tonight... Take care.
+
+

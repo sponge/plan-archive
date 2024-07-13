@@ -1,0 +1,81 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+<font color="white">
+
+<b><u>Dec.20.1999 @ 5:11am</u></b>
+
+<u>Map Editing Stuff</u>
+
+I've received a few e-mails from people asking about how to go about
+making rocket arena maps (where everyone spawns in with all the
+items).
+
+1) Create all the entities you wish the player to spawn into the
+world with, and make sure they are somewhere within the world (they
+can be hanging off in space somewhere within the confines of your
+world.)
+
+2) Add a "target_give" entity somewhere in the world.
+
+3) Create all the spawn spots you wish to be in your map.
+
+4) Select the "target_give" entity.
+
+5) Select an entity in the map you placed in step 1 that you wish the
+player to spawn in with.
+
+6) Hit Ctrl-K in the editor to link the two items together.
+
+7) Repeat steps 4 through 6 until the target_give is linked to all
+the entities you wish the player to spawn into the world with.
+
+8) Select a spawn spot
+
+9) Select the target_give entity
+
+10) Hit Ctrl-K in the editor to link the two entities together.
+
+11) Repeat steps 8 through 10 until all the spawn spots are linked to
+the target_give entity.
+
+12) BSP your map
+
+13) Set g_gametype to tournament mode and set fraglimit of 1(Sorry, I
+forget what the number is offhand)
+
+14) Get a bunch of your friends to connect into your server and have
+fun playing a "Rocket Arena" style game =)
+
+ An alternate use of target_give is how I used it in q3dm10 to create the
+"power tube" that gives you health and armour. The tube has a 
+trigger_multiple with a wait of 0.5, linked to a target_give which is linked
+to a small health and an armour shard.
+
+Cheers,
+
+-Xian
+
+<tt>
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, Y2K bug, mud slides, forest fire, or projectile 
+(which can include, but not be limited to, arrows, bullets, shot, BB's, 
+paintball, shrapnel, lasers, napalm, torpedoes, or emissions of X-rays, Alpha,
+Beta and Gamma rays, knives, stones, etc.). 
+</font>
+---
+</tt>

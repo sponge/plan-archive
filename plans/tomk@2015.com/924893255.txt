@@ -1,0 +1,47 @@
+Account Name:  20152
+Email address: tomk@2015.com
+----------
+Welcome to the 2015 Finger Server
+
+User name: Underdog
+Name: Tom Kudirka
+Email: tomk@2015.com
+Occupation: President
+Project: Wages of SiN (SiN Mission Pack)
+
+Plan modified: Fri April 09 10:59:09 1999
+
+***************************************************************************
+  NOTE: Any views expressed here do not reflect the official position
+  of 2015 Inc. They are my own views and should not be confused with
+  those of the company.
+***************************************************************************
+
+
+For those of you that didn't know this, a big part of the plot in Wages of
+Sin changes depending on what YOU do. You will visit levels at different
+times of the day and in a different order. You will see different
+cinematics, even the location of where the hostage is held changes.
+
+If you KILL Dr. Lansing, or leave the room before he gets a chance to talk
+to you (or if you never find him) the order of levels is as follows:
+- Warehouses will be visited in the daytime
+- Shipyards will be visited in the daytime
+- Ship will be visited in the daytime
+- Nightclub will be visited at night
+- Vacant Building will be visited at night
+
+If you listen to Dr Lansing, the order of levels is as follows:
+- Nightclub will be visited during the day
+- Vacant Building will be visited during the day
+- Warehouses will be visited at night
+- Shipyards will be visited at night
+- Ship will be visited at night
+
+Whether you visit a location during the day or night will actually change
+the gameplay. For instance visiting the Shipyards at night makes for a
+stealthier mission since there are fewer workers at night than in the day,
+whereas visiting the Shipyards in the day requires you to keep your gun
+holstered in order to prevent the workers from freaking out. Check it out!
+
+Tom

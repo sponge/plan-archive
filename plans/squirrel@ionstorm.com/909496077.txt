@@ -1,0 +1,87 @@
+
+*** Ion Storm's Finger Server
+
+User name: squirrel
+Plan modified: Tue Oct 27 10:49:40 1998
+
+=================== Tuesday, October 27, 1998, 10:50am ==================
+
+Oh daddy, oh daddy.
+
+I thought the universe had finally gone from Bad to Good the day that
+I got my USB mouse.  I was right.
+
+It just went from Good to Better.
+
+If any of you missed the mention of it on Blue's yesterday, there has
+been a revolutionary breakthrough in the world of mouse performance:
+
+Qizmo.
+
+The latest version of Qizmo (a QuakeWorld proxy) has a feature which,
+among other things, claims to increase the sampling rate of your ps/2
+mouse to values MUCH higher than the normal 40hz.  Would you believe
+100hz?  How about 200hz??
+
+It's absolutely true.  And you can feel the difference immediately,
+as much as you did with a USB mouse.
+
+We've often remarked how dumb it is that serial mice are so slow under
+windoze, and yet their ports have always been capable of much higher data
+transfer rates.  Well, somebody finally wrote a program to right this.
+
+Please, if you have a ps/2 mouse, download this and try it for yourself.
+You'll thank me in the morning.  (This program is the mouse-only portion
+of Qizmo).
+
+<a href="http://www.students.tut.fi/~zibbo/other/ps2rate/ps2rate.zip">http://www.students.tut.fi/~zibbo/other/ps2rate/ps2rate.zip</a>
+
+Kudos and a half to Juha Kujala <jmkujala@cc.jyu.fi> for writing it.
+
+*happy sigh*
+
+-sq
+
+
+================== Thursday, September 10, 1998, 1:56pm =================
+
+Oh daddy.
+
+Being the world's foremost whiner and complainer about all things rotten
+with WinQuake, QuakeWorld, and Quake2's mouse control (and having all but
+refused to play these games due to this problem), I have finally seen
+the light.
+
+I have, of course, heard about USB mice and how great they are for quite
+some time now.  Being the eternal skeptic - and fearing change, as I
+often do - I had not bothered to really look into them or to buy one to
+try it out.  Until now, that is.
+
+As soon as the box arrived in the mail, I hooked it up and ran my little
+mouse sampling-rate test program on it.  Where before mice were showing
+40hz and 44hz sample rates (for ps/2 and serial, respectively), my new
+USB mouse showed a VERY impressive 125hz.  Yow.
+
+For those of you who read my mini-dissertation-rant on why it's BAD to
+have a framerate higher than 40/44hz (and even worse to have a low one),
+the USB mouse is indeed the answer to that problem.  Now it's safe to
+crank up your SLI Voodoo2s and your refresh rate and your cl_maxfps
+and turn off that nasty m_filter.  Your mouse performance will be
+fantastic, a complete turnabout from the previous state of the universe.
+Fast button-to-fire response (because of no more cl_maxfps), 100% accurate
+mouse (because of no more m_filter), and 100% smooth mouse (because of
+120hz, which means fresh mouse data on every client-frame).
+
+I know this is probably old news to a lot of people, but I know for a
+fact that there are still hordes of Doom/DosQuake loyalists out there
+(like me) who haven't yet tasted of USB's sweetness.
+
+Best of all, I can *finally* use WinQuake, and still be able to do the
+super-cool mouse trickiness and consistant rocket-jumping, etc.  And
+Quake2's railgun just got much cooler.  ;-)
+
+*happy sigh*
+
+-sq
+
+

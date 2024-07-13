@@ -1,0 +1,12 @@
+
+Name: Graeme Devine
+Email: 
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+
+Mac Point Release 1.32
+
+2nd Test is up.  Fixed mods, mouse, keypad, and my timedemo on my machine is up from 102fps to 173fps.  You'll need to nuke your old config file.
+
+Graeme.

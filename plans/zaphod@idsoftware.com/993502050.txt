@@ -1,0 +1,13 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+Quick update on Mac OS X
+
+If you run with s_chunksize 2048 you get a noticable framerate improvement over the default.  Please note that I forgot to latch s_chunksize, so you need to quit the game and restart after you've changed the value of that cvar.
+
+Mac OS X 10.0.4 seems a lot snappier to me too.
+
+Graeme.

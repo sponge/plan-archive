@@ -1,0 +1,153 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-----------------------------------------------------------------------
+User Name: dave.meddish     Plan Last Modified: 08/26/1999 10:20:03 PST
+
+<html>
+<head>
+<title>dave.meddish.plan</title>
+</head>
+<body>
+<pre>
+8.24.99
+Don't worry, m'lord, I have a cunning plan...
+<br>
+Or something like that (can you tell PBS is showing old Blackadder episodes again?  Can you 
+also tell I have nothing better to do on Friday nights?  Oh, the pain, the shame...)
+<br>
+Where was I?  Oh yeah, TRIBES Extreme.  Everyone's favorite mission designer/builder has 
+been working hard on cranking out muy missions.  We have a new category called "Balanced 
+Online."  Meaning, you know those OGL games where you fight over which side of Snowblind 
+your team gets to play?  No more.  This particular class is perfectly balanced in environmental
+and physical features.  Both sides are dead even.  So you can't whine about losing to skiing
+heavies on Raindance anymore...
+<br>
+But, fear not, we'll still have plenty of the good old "unbalanced" mission type for those
+who like'em.
+<br>
+Tinman has got me designing a mission or two for his addictively enjoyable "Hunters" deathmatch
+variant.  Those howls of anguish you hear through the offices late at night are from those of 
+us who got disked at the last second while carrying about a gajillion flags.  Hopefully have
+that done in the next few days.  And while I must say Tinman has done a very nice job converting
+existing missions to Hunters, his naming conventions lack that certain je ne se quois, that
+special "smacks of Meddish" sense of hyperbole.  "TheOtherWhiteMeat"?  Perhaps, under my tutelage,
+we can help Tinman make that a little more catchy.  It might be that Canadian upbringing or something
+along those lines.
+<br>
+Speaking of naming conventions, we've been getting a nice steady flow of user-created missions for the
+Extreme Open Call.  By and large, good stuff.  Picking winners isn't going to be easy.  Just remember,
+the deadline is rapidly approaching, so if you've been waiting to send it in, 'twould be advised that 
+you not wait much longer.
+<br>
+Being the Mission Building Guru of TRIBES (well, at least since Scott Youngblood left--his office,
+curiously enough, has not yet been thoroughly looted of its treasures--it's like a holy shrine or 
+something), I would normally say that anyone who has any questions regarding mission building can give
+me an e-holler at dave.meddish@dynamix.com, however, being as we're approaching the crunch for TX, I 
+can't promise anyone when I can get back to them.  But feel free to say hi anyway...it gets very 
+lonely over in this part of the building :-(
+<br>
+We now return you to your regularly scheduled broadcast of "The Adventures of Analog Kid and
+Ban-Me Boy," same Ban-Me time, same Ban-Me station...
+
+6.24.99
+Since everybody else is going on vacation, I figgered I might as well take a few days off
+as well.  Celebrate my last pre-millenial birthday (31? How in the name of all that is holy
+can I be 31?  Criminy, I'm gettin' old...check me into the home...).  The days drag on but 
+the years fly by...
+<br>
+Spiffcat/Hexabolic/Whatever He's Calling Himself These Days and I will be pumping out tons of 
+new TRIBES material for all you would-be writers.  Question: who out there would be interested
+in seeing a TRIBES RPG made?  Starsiege had Rebellion, maybe we can do a roleplayer version
+of TRIBES.  If enough people make noise, maybe we can make it happen.
+<br>
+Okay, that's the news, and I am outta here.  See you on the flip side.
+
+5.4.99
+Hmmm, been a while since I've updated the ol' .plan file.  But that I had something
+to say...
+<br>
+Senor Spiffcat and I have been working on the TRIBES Writer's Guide and the backstory
+and details for the new "BioDerm" race.  Starsiege players should remember the BioDerms.
+Well, they're back and they're really, really angry.  Something about a dead parrot.
+<br>
+The Writer's Guide should be out soon, probably around E3 or so.  For those of you lucky
+enough to see what we've cooked up for TRIBES II...pretty damn spiffy if I do say so 
+myself.  Muy swank.
+<br>
+For those who have asked about the origin of the "Diamondback" moniker: When first playing
+TRIBES, I was either going by my Quake nom du guerre (Count Fragula) or something off the 
+Warren Zevon CDs I was listening to (Excitable Boy, Roland The Headless Thompson Gunner).
+For a demo we were recording, BlakeH suggested that we try and use names that were more
+"tribal."  Hmmm, tribal, I said, stroking my chin.  As fate would have it, I was going over
+baseball scores at espn.com.  Hmmm, Arizona Diamondbacks, "Diamondback" -- works for me.  
+I was going to change it later, but "dBack" kinda caught on, and that's been my TRIBES
+nickname ever since.  And that, my friends, is the rest of the story.
+
+3.2.99
+Nothing worse than scoring a City League career-high sixteen points (4-6 from behind
+the arc too--dBack was "en fuego"), but losing the game.  Drat.  I'm lucky if I 
+score two points, it's too bad when Dave starts posting the big numbers and the
+team can't capitalize...
+<br>
+Far too silent of late, ol' dBack has decided to liven up your days with a guest 
+appearance in the .plan files.  I know, I know, you're lives have been soooo empty
+with the wit and wisdom of David R. here, so I come to appease the masses.
+<br>
+As of now, the Tribes team is starting to ramp up for Tribes II (or 2--personally,
+I prefer the Roman numerals), deciding what we can cram in for the sequel.  We'll
+no doubt have some things that didn't make it in the first game, and some wondrous
+new things as well.
+<br>
+At present, I'm finishing up documentation for the tools that we will be releasing
+to the public sometime soon (and, no, I'm not getting more specific than that).  
+This includes the Mission Editor and ZED, the in-house 3-D art tool that we used to
+create static objects.  The docs are in spiffy .html format with lots of cool 
+pictures and everything!  Very swank if I do say so myself (and I do)...we also
+have tutelage for putting together your own "smack packs" using custom .wav files
+and implementing custom-made skins.  
+<br>
+A big, big holler out to Dr. Jeep!!  You and Qui9 are truly *the men*!!  We'll have
+to slip a little something into Tribes II just for you...we shall be quaffing a 
+great quanity to a certain beverage in the near future thanks to your magnanimousness
+(which may not be a word, but I said it, so it is now).
+<br> 
+And Sifl & Olly is back on the airwaves with brand new episodes!  Huzzah!  Who needs
+a life, I have Sifl & Olly.
+
+1.27.99
+Back to the grind...always good to hear and see the reviews rolling in.  Good Lord, it
+looks like we might have a hit on our hands.  This is much better than my former place
+of work, which shall go nameless, where I think our games sold a combined total of 32
+copies...
+<br>
+So what is ol' dBack up to?  Making all you mod-makers happy soon.  Being writer-guy, 
+I've been put in charge of making documentation for all of our tools that will be 
+soon be released.  That includes the Mission Editor, 3D Art tools, the skin maker...all 
+that jazz.  Not the most exciting stuff in the world, but hey, it pays the bills (and I
+got plenty of those, believe you me).
+
+
+1.4.99
+Tanned, rested and ready (well, at least rested), ol' dBack is back on the case.  
+Tried to keep track of things on the message boards, but this was with my parents on 
+their *shudder* Macintosh.  I love Macs, but a Performa with a 28.8 just don't cut it.  
+Maybe I'll get 'em an iMac for next Christmas.
+<br>
+Trust all had a safe and happy holidays.  Partied like it was 1999 on New Year's with 
+friends at a certain establishment that shall go nameless but involved nubile young women 
+in various states of undress.  Will not elaborate further (since I don't remember that 
+much about it anyway).
+<br>
+First things first: As soon as SymLink gets his sorry butt back from Hawaii or wherever 
+he is, we'll have an OpenGL patch out, as well as fixing our latest little problems.  As 
+for me, I've got design issues to work on, new missions, new races, more writing, etc., 
+etc...
+<br>
+Maybe a Diamond Sword piece.  That's the one tribe I haven't really touched on, so now 
+that I've got a little free time, I'll try and get something out on the enigmatic ones 
+for your reading enjoyment.
+<br>
+Oh, and by the way...WHERE'S THE BEER?  Nobody's mailed us any beer yet!  I am greatly 
+disappointed.

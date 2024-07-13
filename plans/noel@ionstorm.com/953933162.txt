@@ -1,0 +1,134 @@
+
+*** Ion Storm's Finger Server
+
+User name: noel
+Plan modified: Thu Mar 23 11:25:25 2000
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>NOEL</title>
+</head>
+
+<body bgcolor="#000000" text="#00FF00" link="#FFFF66" vlink="#CC9900" alink="#FFFF66">
+
+<table border="0" width="100%" height="75" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%" bgcolor="#4D4D4D" height="19"><b><font face="Arial" size="4" color="#FF0000">NOEL'S
+      .PLAN UPDATE</font></b></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#4D4D4D" height="19"><font face="Arial"><b>Thursday
+      March 23rd 2000</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%" height="19"><p><font face="Arial">Hahaha,<br>
+      I just was reported a very funny bug.&nbsp; It appears that if you stand
+      right next to the exact location of a specific monster and start using a
+      'specific' type of weapon which does an insane amount of damage, the
+      monster will die within the first 10 milliseconds of its existance.&nbsp;
+      A problem?&nbsp; Well... in the case of the person who might have this
+      weapon at this point of the game and who already knows what and where
+      things are going to happen...this could be a problem because these
+      monsters in particular need to 'initialize' themselves before they are
+      killed so other things can be triggered.&nbsp;&nbsp; So, I am fixing this
+      minor bug today along with one other very minor bugs.&nbsp;</font></p>
+      <p><font face="Arial">The good news?&nbsp; Well, those are the two bugs I
+      have left to do.&nbsp; I also know that Shawn has kicked through a good %
+      of his bugs last night.&nbsp; Anyway, I figured, for those of you waiting
+      for Daikatana feverishly, I would let you&nbsp; know the severity level of
+      most of the bugs we are dealing with (obviously the one described above is
+      kind of severe if the moon and sun are aligned just so... but they are not
+      like you start the game and it takes a crap to your desktop level bugs).</font></p>
+      <p><font face="Arial">The bad news?&nbsp; Uh... I can't find a good
+      airline to book a flight to Thailand...speaking of Thailand...has anyone
+      been to Phuket Thailand?&nbsp; *sigh*</font></p>
+      <p><font face="Arial">&nbsp;Back to the grind and I will be updating my
+      .plan sometime tomorrow afternoon.... :)</font></p>
+      <p><font face="Arial">L8TrZ,</font></p>
+      <p><font face="Arial">N03L</font></td>
+  </tr>
+  <tr>
+    <td width="100%" height="19"></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#4D4D4D" height="19"><font face="Arial"><b>Monday March
+      20th 2000</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%" height="19"><p><font face="Arial">We are not yet gold...
+      some people have jumped the gun.&nbsp; We are in the process of finalizing
+      a release candidate.&nbsp; This means test the crap out of the game until
+      your eyes fall out and your pants are sticking to your backside.&nbsp; So,
+      to anyone mislead by various sites saying that DK is gold... *sigh*... not
+      quite yet... but it is closer than it has ever been before.&nbsp; If all
+      goes well then it can be considered... 'Gold'.&nbsp; So far there have
+      been very few reports on major bugs...like very few meaning there are a
+      small quantity... a handful... nothing to worry about.&nbsp;&nbsp;</font></p>
+      <p><font face="Arial">On another note... HAHA!&nbsp; I had a
+      weekend!&nbsp; Wooohooo!&nbsp; Like I went and saw a movie and like slept
+      for longer than 7 hours and I even got a chance to actually wash clothes
+      AND fold them (instead of just using the dryer as my chest of
+      drawers).&nbsp; On top of this I have had a chance to play UT... I must
+      say... *claps hands*... good good job.&nbsp; I like... very much!</font></p>
+      <p><font face="Arial">I just finished tweaking some of the ambient voices
+      for the sidekicks and also some other sounds.&nbsp; All tweaks no
+      additions means no extra bugs.</font></p>
+      <p><font face="Arial">L8TrZ,</font></p>
+      <p><font face="Arial">N03L</font></td>
+  </tr>
+  <tr>
+    <td width="100%" height="19"></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#4D4D4D" height="19"><font face="Arial"><b>Friday
+      March 17th 2000</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%" height="19"><font face="Arial">*sigh*</font>
+      <p><font face="Arial">Been a very long 7 months!&nbsp; Things have become
+      quite different since I first started on this project.&nbsp; During the
+      process of this project I have taken off around 1 week, and most of that
+      time during the 'vacation' I was sick.&nbsp; However, heh, this weekend I
+      am going home to have a nice long 2 day weekend... 2 WHOLE days!!!!!&nbsp;
+      *hint* *hint*</font></p>
+      <p><font face="Arial">So, anyway, the AI has shaped up to be fairly
+      intelligent without being too much of a burden on the CPU as well as the
+      player.&nbsp; There are a million little tiny details that I could get
+      into regarding all of the time and energy that has gone into a good
+      portion of the AI system, but I think I might leave most of that for a
+      later date.&nbsp; </font></p>
+      <p><font face="Arial">During the project, I have been documenting the
+      progress of the AI and world entities.&nbsp; If given permission, I might
+      even post that document somewhere for people to take a gander at so they
+      can see the progress of at least one aspect of making a game.&nbsp; After
+      reading the 55 pages of documentation people will start to understand how
+      MASSIVE Daikatana really is and how much work has gone into this mammoth
+      game!&nbsp; If it is 'ok' to post this somewhere, then I will probably
+      hold off until people have had a chance to play it so they can then relate
+      to the whole process.</font></p>
+      <p><font face="Arial">As far as when the game will be done, well I am
+      taking the weekend off and breaking the 7 day a week schedule, thus we
+      must be VERY close to completion!!!!&nbsp; </font></p>
+      <p><font face="Arial">My bones are tired... fingers are bleeding... and I
+      am happy as a pig in SH!t!!!!</font></p>
+      <p><font face="Arial">So, come Monday I will probably post again to start
+      an update on the progress of the game and you can count on the purtty
+      little britches around your waste that I am going to post when the game is
+      'officially' gold!</font></p>
+      <p><font face="Arial">L8TrZ,</font></p>
+      <p><font face="Arial">N03L</font></td>
+  </tr>
+  <tr>
+    <td width="100%" height="19"></td>
+  </tr>
+</table>
+
+</body>
+
+</html>
+

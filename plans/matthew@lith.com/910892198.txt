@@ -1,0 +1,374 @@
+
+*** Monolith Production's IonFingerD Server 1.0 beta
+
+User name: matthew
+Plan modified: Tue Nov 03 21:08:00 1998
+
+9/29/98
+
+post gold
+
+i've been brought onto to bloodII to help out with some of the ingame design issues (status screen/ menu selection stuff). Kohler ended up doing a wicked cool background illustration that i added some slight modifactions to (cuz schlegel wanted more of a 'necro-techno' feel ... kohler nailed necro ... i added a little techno ... We decided to go with a little more of a 'designy' type of feel, with a san-serif, heavily modified font ... i think its a ton more readable ... but everyone else will be the true judge of that ... Thats currently in the hands of scott pultz and i should be seeing them in game later today ... also completly revamped the in-game status screens/frag bar so it matched the updated menu system. Mr. mattingly has it all but done and im pretty happy with it. Now to just wait for internal reaction to it, and see how it goes. 
+
+I have also been working on one of the audio tracks for the game and Guy is working his mixin' magic on it as we speak. I was completly floored when he asked me to do a track and its been a true labor of love. You learn soooooo much when you have to work within a set way of doing things. It sorta forces you to solve problems you would have just ignored if it was left all up to you. Im pretty happy with the results. Its not eactly what i was hearing in my head ... but in some ways it exceeds the ideas i was originally shooting for. Expect the un-expected ...
+
+and last but not least ... i cant explain to anyone outside of monolith how utterly awesome it is to work in an environment like this ... from the shear adrenelin soaking through craig's wall over to mine to the abilty to work on such a monstrous array of different things ... i get paid to  expand things which i would consider my hobbies, and take them to a new level of competency and coolness. Its this type of atmosphere that drives what we do. You can feel how much fun a game was to make when you play it ... 
+
+awesome
+
+matt   
+
+
+9/11/98
+
+yes ... crunch time for the shogo team
+but i dont have it 1/2 as bad as alot of my teamates
+
+i am currently trying to figure out softimages particle editor so i can drop in some animated sprites for some of the neglected weapon FX ... 
+
+i know alot of the QA guys have been telling you all how awesome the game is ... and im gettin there myself .. ive been able to run it on my 133 with a vodoo2 .. deathmatching against some of 'em.. skills are rustier than some piece of metal thats been left in the rain too long ... but man it looks good ... i really think that our weapons just fell right ... ther's still some balancing stuff ... but its so minor i doubt it will be messed with ... 
+
+now the hard part really starts[in my eyes at least] ... we are about to send out what many of us have been working on for over 2 years ... for alot of us its our first game and so with that comes some anxiety as to how it will be accepted ... how wil lit run on everyones machine ... will it catch on .. will it be anime enough .. will it be fps enough ... will we get shit for mistakes not caught ... often its difficult for me to watch people play who havent before ... the cringe whenever they get popped as soon as they walk into the room (is the AI too tough?) the embarressed blush is the framerate jiggles ... etc etc
+
+i know ive been told by others here that it will go away as soon as its out and it starts to get reviews and that ive watched the game too long to know how cool iot will be to the people who see it for the first time and that im too critical of small things  .. but its that wait i think that will get me more that any crunch time around ..
+
+m.
+
+
+7/23/98
+
+all work and no play make jack a dull boy
+
+
+new cd's:
+
+The knights who say dot
+  crazy new school electro compilation on the dot label ... vocoders rule ... at times gets a little too drill n' bassy but at other times its pure electro driven funk-ified bliss
+
+Cabaret Voltaire: BBC recordings 84-86
+  what can i say? If you dont know who these guys are then you are missing out on a peice of your electronic music history ... CV are the godfathers of what most people call electronic music (kraftwerk being the actual grandparents if you continue the familial thinking) ... This disk covers what alot of folks would consider thier most accesible time period.
+
+cEvin Key: Music for cats
+  The man behind download and skinny puppy (well for the most part) has put together a whole bunch of wierd studio tracks spanning a 4 year period. The music is eerily beautiful and less harsh than what you would expect ... detractions on this disk include way too much genisis p orridge (any is too much in my book) and not enough rythmic fun .. but other than that its quite good
+
+the first basic channel compilation
+  crazy grungy dirt filled techno from a bunch of german guys ... no idea what the tracklist is and the cd case makes it difficult to actually get the disk out ... but thats half the fun
+
+boards of canada: music has a right to children
+  i first heard these guys on the skampler. They have this quirky sense of melody and a big thing about crunchy rythm ... all together an awesome disk ... many of the songs seem to have melodies ripped outta some tv shows i remeber as a kid ... but fucked with ... i dont know its weird to put my finger on it .. but i love this disk
+
+plug reaserach and development
+  another compilation whose tracklisting is made completly illegible by a werid ass font ... the music ranges from some wicked ass digital dub to some very minimal ambient stuff .. its very very cool ... the best tracks coming from Phthalocyanine and low res ... i think this label is in SO Cal .. weirdly cool 
+
+ok enough back to work ... we are currently in Bug fix mode without anything major coming down the pipe ... I have to say though that my hope in this project had been getting dim ... there's really only so much one team can deal with before it cracks ... but we have pulled through and (in my opinion) have created some stuff here that i have never seen done so well ... my jaw has dropped quite a few times seeing stuff that has been put in ... im actually excited to get some outside response once we are done ...
+
+m.
+ 
+
+
+
+
+
+4/21/98
+
+maybe i should post it a fourth time ... just to make sure the damn thing goes through
+
+
+4/21/98
+
+i have been forced (at gun point mind you) to update
+this thing
+
+work:
+basically i have been going through the entire model list 
+from the top. My goal is to have every single moving model
+in the game by the the 15th of may (and its looking like ill 
+hit this goal pretty well) the last 2 weeks were spent 
+modelling, animating and texturing all of the character
+specific models (the admiral, kura, kathryn, toshiro, hank)
+all of them are in and hopefully finished ... i say hopefully because there was a wicked ass crash last friday of the main 3d server (you might have read about it in ernies plan file) everyone over here has felt the mighty sting of the beast known as cluge ... mmm ... to make a long story short ... everything i had done up to two weeks ago is now gone ... save for the exported models that rest on a different server ... for some weird reason i had decided to completly finish these models before exporting them ... now i am extremly thankful i did ... my goal for the next 3 weeks is to finish up the remaining animated ingame models (about 7 of 'em) and begin work on the beauty pass .. basically going in and cleaning up all of the models that are currently in game ... making sure all of their animations are dope ... that they can carry guns .. and that their deaths dont last a millenia ... from there i will be tackling the powerups until we go gold ... and any other things that might come up (character specific animations ... etc.)
+
+play:
+heather and i move into the new house hopefully starting this weekend ... SOON THE STRESS WILL BE GONE! ... what a time to by a house ... prices in seattle are completly ridiculous ... my project is nearing completion .. heather just started a new job ... mmm .. when it rains ... lets see what else ... we have also found a dog (with house comes dog .. rule 1) hes a great dane .. hes goofy and huge .. his name is elliot ... he will move in with us ... he will terrorize our cats ... he will intimidate our neighboors rotweiller ... he will make me proud ... what else ... im not sure i posted this but my musically intake has gone down (i believe i have bought all of 5 cd's since christmas, which is weird since i was doing about that many every 2 weeks) ... but my musical output has gone up ... i have completed 6 pieces ... thanks to a better understanding of my synth and a brand new sampler (yamaha's A3000 .. wicked little blue box) ... local reaction has been good (the style is best described as me trying my best to be some sorta weird mix of jack dangers, richard james and the two guys from autechre ... and failing miserablly .. but these 4 guys are so awesome that even poor attempts to do what they do sound original and are fun to listen to) ... when riot calms down im going to burn a whole shitload of cd's and start sending them to the smaller electronic oriented labels ... 
+
+mmm. what else ... i now understand the rudimentary car uptake that comes with owning a 66 mustang ... things like how to put in a new water pump ... how to diagnose a bad power steering pump and replace that ... and basically a good idea of why things go wrong .. and a little bit of how to fix them ... much thanks to heathers dad .. who knows a tonne and has more tools than god
+
+thats it ... oh and for anyone who cares the mad professor is DA' BOMB ... 
+
+m.   
+
+
+4/21/98
+
+i have been forced (at gun point mind you) to update
+this thing
+
+work:
+basically i have been going through the entire model list 
+from the top. My goal is to have every single moving model
+in the game by the the 15th of may (and its looking like ill 
+hit this goal pretty well) the last 2 weeks were spent 
+modelling, animating and texturing all of the character
+specific models (the admiral, kura, kathryn, toshiro, hank)
+all of them are in and hopefully finished ... i say hopefully because there was a wicked ass crash last friday of the main 3d server (you might have read about it in ernies plan file) everyone over here has felt the mighty sting of the beast known as cluge ... mmm ... to make a long story short ... everything i had done up to two weeks ago is now gone ... save for the exported models that rest on a different server ... for some weird reason i had decided to completly finish these models before exporting them ... now i am extremly thankful i did ... my goal for the next 3 weeks is to finish up the remaining animated ingame models (about 7 of 'em) and begin work on the beauty pass .. basically going in and cleaning up all of the models that are currently in game ... making sure all of their animations are dope ... that they can carry guns .. and that their deaths dont last a millenia ... from there i will be tackling the powerups until we go gold ... and any other things that might come up (character specific animations ... etc.)
+
+play:
+heather and i move into the new house hopefully starting this weekend ... SOON THE STRESS WILL BE GONE! ... what a time to by a house ... prices in seattle are completly ridiculous ... my project is nearing completion .. heather just started a new job ... mmm .. when it rains ... lets see what else ... we have also found a dog (with house comes dog .. rule 1) hes a great dane .. hes goofy and huge .. his name is elliot ... he will move in with us ... he will terrorize our cats ... he will intimidate our neighboors rotweiller ... he will make me proud ... what else ... im not sure i posted this but my musically intake has gone down (i believe i have bought all of 5 cd's since christmas, which is weird since i was doing about that many every 2 weeks) ... but my musical output has gone up ... i have completed 6 pieces ... thanks to a better understanding of my synth and a brand new sampler (yamaha's A3000 .. wicked little blue box) ... local reaction has been good (the style is best described as me trying my best to be some sorta weird mix of jack dangers, richard james and the two guys from autechre ... and failing miserablly .. but these 4 guys are so awesome that even poor attempts to do what they do sound original and are fun to listen to) ... when riot calms down im going to burn a whole shitload of cd's and start sending them to the smaller electronic oriented labels ... 
+
+mmm. what else ... i now understand the rudimentary car uptake that comes with owning a 66 mustang ... things like how to put in a new water pump ... how to diagnose a bad power steering pump and replace that ... and basically a good idea of why things go wrong .. and a little bit of how to fix them ... much thanks to heathers dad .. who knows a tonne and has more tools than god
+
+thats it ... oh and for anyone who cares the mad professor is DA' BOMB ... 
+
+m.   
+
+
+4/21/98
+
+i have been forced (at gun point mind you) to update
+this thing
+
+work:
+basically i have been going through the entire model list 
+from the top. My goal is to have every single moving model
+in the game by the the 15th of may (and its looking like ill 
+hit this goal pretty well) the last 2 weeks were spent 
+modelling, animating and texturing all of the character
+specific models (the admiral, kura, kathryn, toshiro, hank)
+all of them are in and hopefully finished ... i say hopefully because there was a wicked ass crash last friday of the main 3d server (you might have read about it in ernies plan file) everyone over here has felt the mighty sting of the beast known as cluge ... mmm ... to make a long story short ... everything i had done up to two weeks ago is now gone ... save for the exported models that rest on a different server ... for some weird reason i had decided to completly finish these models before exporting them ... now i am extremly thankful i did ... my goal for the next 3 weeks is to finish up the remaining animated ingame models (about 7 of 'em) and begin work on the beauty pass .. basically going in and cleaning up all of the models that are currently in game ... making sure all of their animations are dope ... that they can carry guns .. and that their deaths dont last a millenia ... from there i will be tackling the powerups until we go gold ... and any other things that might come up (character specific animations ... etc.)
+
+play:
+heather and i move into the new house hopefully starting this weekend ... SOON THE STRESS WILL BE GONE! ... what a time to by a house ... prices in seattle are completly ridiculous ... my project is nearing completion .. heather just started a new job ... mmm .. when it rains ... lets see what else ... we have also found a dog (with house comes dog .. rule 1) hes a great dane .. hes goofy and huge .. his name is elliot ... he will move in with us ... he will terrorize our cats ... he will intimidate our neighboors rotweiller ... he will make me proud ... what else ... im not sure i posted this but my musically intake has gone down (i believe i have bought all of 5 cd's since christmas, which is weird since i was doing about that many every 2 weeks) ... but my musical output has gone up ... i have completed 6 pieces ... thanks to a better understanding of my synth and a brand new sampler (yamaha's A3000 .. wicked little blue box) ... local reaction has been good (the style is best described as me trying my best to be some sorta weird mix of jack dangers, richard james and the two guys from autechre ... and failing miserablly .. but these 4 guys are so awesome that even poor attempts to do what they do sound original and are fun to listen to) ... when riot calms down im going to burn a whole shitload of cd's and start sending them to the smaller electronic oriented labels ... 
+
+mmm. what else ... i now understand the rudimentary car uptake that comes with owning a 66 mustang ... things like how to put in a new water pump ... how to diagnose a bad power steering pump and replace that ... and basically a good idea of why things go wrong .. and a little bit of how to fix them ... much thanks to heathers dad .. who knows a tonne and has more tools than god
+
+thats it ... oh and for anyone who cares the mad professor is DA' BOMB ... 
+
+m.   
+
+
+1/27/98
+
+comment:
+
+
+i wake up and come to work ...
+
+thats all i do ... 
+
+im still working ...
+
+im just really confused ...
+
+guess i should come into work later ...
+
+or stay at work later ... 
+
+everything fun happens when im at home sleeping ...
+
+damn my internal clock ...
+
+
+algorithm #45 
+oscilator_1[fixed 100khz] ... input#1 osc1[7] input#2 noise
+oscilator_2[fixed 100khz] ... input#1 osc2[7] input#2 noise
+oscilator_3[fixed 100khz] ... input#1 osc3[7] input#2 noise
+oscilator_4[fixed 100khz] ... input#1 osc4[7] input#2 noise
+oscilator_5[fixed 100khz] ... input#1 osc5[7] input#2 noise
+oscilator_6[fixed 100khz] ... input#1 osc6[7] input#2 noise
+
+FEEDBACK
+
+m.
+
+
+12/11/97
+
+ok i do one of these every month and a half ... and pete arisman has done like 6 in the last hour .. so i have to 
+off my ass (yeah right ... software company) and write something .... lets see ... since my last plan file i moved over to a new office (the prior one i was in .. it was fine and dandy ... but i waas really never there .. mostly i was over here working on the intergraphs .. doing softimage stuff) ... so i decided to move .. so i could check my email without having to walk half a block ... and what do you know as soon as i get over here BLAM! ... i have to draw again (revised charcter concept art .. in a more anime style) ... 
+
+mmm ... whatelse ... i got a 12 channel mackie mixing board for Xmas ... its awesome ... i have my compter at home running into one of the channels and then and output from the mixer running back into the computer ... the amount of cool feedback you can get ... makes me smile just thinking about it ... never let anyone tell you that a tape loop + lowend feedback + 12 channels of a sampled/cut&paste drum loop does not equal music ... or at least hours of non stop fun and neighbor annoying ... add on top of that 64 different oscialators ... and bam ... pure sonic enjoyment 
+
+currently working on:
+
+-- charcter face shots (in the anime style)
+-- charcter full body action shots and face reactions,
+this is basically a body size scale chart and mood face shots
+-- revamping shaterfist (mech shotgun) animations and texture
+-- new interface artwork for dedit (the map editor for the direct engine) ... after recently finishing up a new splash screen for it ... shleg's sez i can use really big icons too so im phsyched ...
+
+
+all this before i go home for vacation next week wednsday ..
+
+yeah ... uhh huh ..
+
+m.
+
+ps ... severed heads rock my world so hard ... if you dont belive me go to www.sevcom.com/haularse.htm ... tom ellard is a fuckin genious .. and anyone who posts a working sketchbook of his next album on the internet (in mpeg3 form for that matter) ... has my vote for coolest musician in the world ...    
+
+
+10/28/97
+
+im not a crack smoker
+
+but i play one on tv
+
+
+9/16/97
+
+a couple of new things neccessary for completing a game
+with your sanity intact:
+
+chiastic slide by autechre.
+this album shows what can be done with a little bit of 
+technology and a whole shitload of creativity. digital 
+rythmic noise, aural soundscapes that loosen the senses
+and transport. awe inspiring ... its too bad the rest
+of the recently dubbed 'electronica scene' doesnt take
+some cues from these guys
+
+matrix by haujobb
+orginally a nominal skinny puppy F242 knockoff indutrial
+band out of middle europe. Then they bought a couple lassigue
+bendthaus cd's ... next thing you know im actually searching
+for their later cd's. great dark techno ... love that german
+accent... reminds me of geography era front 242 updated with
+the atom heart lust for digital supremecy ...
+
+vurt/pollen/automated alice by jeff noon
+i dont know what it is about british sci fi authors but their
+slant on things is just askwed enough to make everything
+seem that much more surreal (i would bank geoff ryhman in here
+as well). Mr. noon's take on a far flung drugged out manchester
+society in this trilogy is awesome. completly unique and a
+whole shitload of fun
+
+m.
+
+
+
+8/4/97
+
+
+legions next plan file
+
+ok .. after much consideration i have decided to forgo
+getting caught into the diabolical rhelm of wwf plan
+files here at monolith ... i just couldnt hack it with
+the big boys .. maybe ill start my own league ... wwc
+
+next ... after even mor consideration i have decided to 
+make my newest game spec public ...
+
+ok here goes .. 
+
+the spec itself is based losely on some recent things i 
+come across and some old art history stuff ...
+
+1. given the state of current engines for 3d games ...
+specifically polygon count and texture size limits
+2. and given some recent semi clothed in game charcter
+designs from a random selection of companies
+
+i have decided to create:
+
+Guernica (c): the cubist 3d shooter ...
+
+for those of you not familiar with Guernica 
+(http://www.grnica.demon.co.uk/index.htm)... its a 
+picasso from the late 30's depicting the horrors of the
+spanish civil war ... 
+
+the reason im looking to go this route is that well ...
+picasso's cubist charcters look right out of many recent
+3d shooters .. its a perfect mix ... and mr. picasso's
+cubist vision would be very easy to mix with any upcoming
+engines ... i could see a whole series of 3d shooters based
+on early modern art:
+
+1. duchamp's shoot the nude descending the stair case (c)
+2. picasso's Les Demoiselles d’ Aviginion ... this would be more of
+an adult title set in a brothel ... somethin like find the 
+whore with the bull's head
+3. braques violin and piture ... not sure how well this one
+would go over cuz you would have to take the place of some 
+very non human objects ... and i dont think the 3d shooter 
+world is ready for this ...
+
+ive got tons more (a whole server based world set on italian
+futurism ... go car go ... a squigly miro based world
+(gotta wait for some really nicely implemented mesh deformation
+for this one)
+
+ahh the world of early modern art waits to be plundered
+
+m. 
+
+
+7/29/97
+legions first .plan update
+
+    'things for texturing mecha'
+               or
+      'boredom at lunch time'
+
+1. a motorcycle that intermitently works ... for that 'ive 
+   just had a horrible morning and im gonna sell my bike'
+   look
+2. Plug's 'drum and bass for papa' ... for that 'life of the
+   mind look'
+3. a neat-o spiffy computer... referred to now on as the box
+   for that 'ive got access to really expensive machinery' 
+   look
+4. a lifetimes supply of tropicana orange juice ... for that
+   'im constanty flushing my system with 1000% the vitamin c
+   i need' look
+5. a long bus ride in the morning (for ideas .. or just to
+   marvel at the fact that bill gates house still isnt done)
+   ... for that 'i wish i was the richest man in the universe
+   look
+6. two boxes(computers) in completly different offices
+   one with all the mech stuff on it one with all your
+   email and .. well ... the rest of the mech stuff ...
+   so you can constantly be going back and forth ... for
+   'i really like the pouring rain' look
+7. cujo's 'adventures in foam' ... for that 'tripped out 
+   drum and bass' look
+8. oh yeah .. softimage ... for that 'softimage' look
+9. a stong will and desire to texture mechs ... for that
+   'strong will and desire to texture mechs' look.
+10. a wacom tablet the intermitently goes in and out for
+   that spradic 'ive had to much coffee' look
+11. photoshop ... and a whole shitload of random textures
+   you did a while ago that you can rape and pillage now ...
+   for that 'ive been randomly doing texture type stuff 
+   6 years now' look
+12. a set of uv mapping tools to take that tiny little
+   texture map and make it look really complicated .. for 
+   that 'make it look really complicated look'
+13. a tiny new kitten that is hell-bent on keeping you
+   up as long as possible ... and two adult cats that will
+   help her do it ... for that 'ive had not enough sleep'
+   look
+14. a taco del mar around the corner from home ... for that
+    'big burrito in the tummy look'
+15. download's 'the eyes of stanley pain' ... for that
+    'jesus ogre really did suck' look
+16. screen shots from other games that re inforce the fact 
+    that you should be working harder ... for that 'i gotta 
+    work harder' look
+17. coffee ... for that 'seattle' look
+
+
+if you dont have all of these things you might want to think
+twice about getting a job texturing mechs. its a dog eat
+dog world out there and im just doing my best to help you get
+a jump ahead of all the rest of them people pounding at our
+(and other companies doors) to texture mechs
+
+m.
+
+ 
+
+
+
+

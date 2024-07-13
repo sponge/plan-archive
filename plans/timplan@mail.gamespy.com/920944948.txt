@@ -1,0 +1,21 @@
+User:   timplan
+Unread: 26
+Plan:
+GameSpy - been getting questions about why GameSpy has trouble launching
+Unreal games.  Found out the way GameSpy launches Unreal is only supported
+with IE4.  Netscape, IE3, or other browsers were out of luck.  Well, I fixed
+it so look for a new release soon.
+
+Linux - last time I stated Gnome and Enlightenment (E) were not ready.
+Looks like it was E.
+KDE has a wierd problem too. I activated the world clock and now every time
+I start KDE, it fires back up.  If someone has a good reason why and a fix,
+I would love to hear it.
+
+Timothy 'CMonster' Cook
+http://www.gamespy.com
+http://www.mindspring.com/~cookti
+
+
+
+

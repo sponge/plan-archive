@@ -1,0 +1,85 @@
+
+Name: Steve Stringer
+Email: sstringer@mail.ravensoft.com
+Description: Producer
+Project: General
+-------------------------------------------------------------------------------
+Tuesday, March 09, 1999
+
+Just to let everyone know, we're still pounding on the EP.  The
+code still has a few bugs, and we're doing our best to test the
+game thoroughly before releasing it.
+
+I understand that many of you have been waiting for the EP for 
+quite some time, but the simple fact is that it's not ready yet.
+I certainly empathize with everyone's dismay at how long this has 
+taken; trust me, no one wants this out more than we do.  But it 
+has to be right.  
+
+We've all been burned in the past by buggy software released 
+prematurely.  I don't want that to happen here.  Not on my watch.
+
+Questions?  Comments?  Flames?  =) 
+
+E-mail me at <a href="mailto:sstringer@activision.com">sstringer@activision.com</a>
+
+<table border="0" width="25%" cellspacing="0" cellpadding="0"><tr><td width="100%"><hr></td></tr></table>
+Tuesday, March 02, 1999
+<h3>More on DirectX 6.1 and Heretic II</h3>
+Just to follow up on my player advisory from Feb 3, we've been 
+looking into reports of DX6.1 incompatibility with <em>Heretic II</em>.
+We have yet to find a replicable incompatibility with DX6.1 and 
+<em>Heretic II</em>.  
+
+Incompatibility with DX6.1 for <em>Heretic II</em> is unlikely in
+any event.  Ht2 uses only one component of DirectX called 
+DirectSound.  This component, when present, allows us to access
+your sound card through this abstraction layer.  However, if 
+DirectSound is absent from your system, the game defaults to a 
+built-in sound engine.
+
+Ht2, as you know, uses OpenGL, and in some cases a specialized
+OpenGL driver that resides in your Heretic II folder.  Therefore,
+it is extremely unlikely that the problems you may be 
+experiencing since you installed DirectX 6.1 cannot be fixed 
+with driver updates or driver reinstallation.  
+
+As always, make sure you have downloaded and installed the
+latest certified drivers from your hardware manufacturer.  Nine
+times out of ten, this will solve your problem.  
+
+<table border="0" width="25%" cellspacing="0" cellpadding="0"><tr><td width="100%"><hr></td></tr></table>
+Friday, February 12, 1999
+Many thanks to Stephanie and Vangie for having me on <a href="http://www.allgames.com/index.asp?showid=84">Lilith and Eve</a>
+tonight.  If you haven't checked out L&E, you should definitely do
+so.  The show rocks.  
+
+A note on the player advisory I issued a week or so ago:  we've
+been tracking down reports the DX6.1 doesn't work and play well
+with Heretic II.  Fortunately, we've been unable to recreate the
+reported problems here in our QA.  So I'd say it's okay to upgrade.
+
+Of course if you do encounter problems, ignore the paragraph above. =)
+No, really, if you do encounter problems, be sure to <a href="mailto:sstringer@activision.com">e-mail me</a> and 
+let me know so I can update my .plan file accordingly.
+
+<table border="0" width="25%" cellspacing="0" cellpadding="0"><tr><td width="100%"><hr></td></tr></table>
+Wednesday, Feb 3, 1999
+<h3>Player Advisory</h3>
+evil avatar just e-mailed us with a post warning that Heretic II
+players <em><strong>should not</strong></em> download and install DirectX 6.1.  
+There are reports that DX6.1 is incompatible with Ht2.
+
+We're looking into it, and I'll report more when we find out.
+
+Here's the full post:
+
+     Agn3D is reporting that DirectX 6.1 is once again available
+     for download <a href="http://www.microsoft.com/windows95/downloads/contents/wuother/directxfoundation/default.asp?site=95&gt;">Here</a>.  I would caution people against downloading
+     DirectX6.1 since it is known to have severe incompatibilities 
+     with certain games. I have talked with people who have found 
+     that they cannot run games like Rogue Squadron, Heretic 2 and 
+     even Quake 2 after installing DirectX 6.1. 
+
+<table border="0" width="25%" cellspacing="0" cellpadding="0"><tr><td width="100%"><hr></td></tr></table>
+<p>I welcome your comments and feedback. Please feel free to e-mail me at <a href="mailto:sstringer@activision.com">sstringer@activision.com</a></p>

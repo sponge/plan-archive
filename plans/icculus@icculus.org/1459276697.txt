@@ -1,0 +1,52 @@
+IcculusPlan
+
+
+
+My Linux work on Serious Sam is now merged. You can grab it [here][1].
+
+
+
+This has a bit to go yet. I had to abandon the file i/o code because it had
+
+changed so much (for the better, although no less incompatible), plus there's
+
+bound to be some mismerges, incompatibilities with newer GCCs and Clangs,
+
+and a dozen other things. The Makefile is attrocious too. But it's a big
+
+big push towards this running on Linux and Mac OS X again.
+
+
+
+I'll accept pull requests, if anyone has any, with the eventual goal of
+
+pulling all this into the official Croteam git repository. When I get a little
+
+time, I'll start pushing it through modern compilers and get this going, but
+
+at least this is out there now. Feels good.  :)
+
+
+
+Thanks to Alen Ladavac for helping get this out there!
+
+
+
+   [1]: https://github.com/rcgordon/Serious-Engine "Ryan's SE1 GitHub clone"
+
+
+
+--ryan.
+
+
+
+---------------------------------------------------------------------
+
+When this .plan was written: 2016-03-29 13:38:17
+
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+
+Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
+
+Another day older and deeper in debt.
+

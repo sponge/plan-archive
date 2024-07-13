@@ -1,0 +1,131 @@
+Login: matts          			Name: Matt Saettler
+Plan:
+6/8/98
+
+I eneter a bunch of stuff and then I get a 'server error'.  Bummer.
+
+
+6/8/98
+
+On the road again...
+
+After a busy CGDC and E3, I'm off for some vacation (gasp).
+
+Lisa is having a show in Mannheim, Germany, and I agreed to go with her and help her set up the show (and, oh yeah, it's a vacation...)
+
+CGDC was the usual maniac fun.  I spoke, attending many of the presentations, and went to some great parties (see my shots in the Lithcam for examples....)
+
+E3 was way loud and way busy.  I did run into some old friends from the early days at Microsoft.
+
+Lisa's sculpture was accepted by the City of Redmond, so now she is worrying about spending the next six to eight months creating the life-size bronze scupltures.   She already has one in Kirkland, but she likes to worry about it anyway.
+
+
+
+
+4/21/98
+
+Sent RC1 of NAM to GT Interactive for testing.  This is a 'realistic' grunt experience in the Viet Nam era.  I did updates to the Duke engine as well as the installers.
+
+NANI/Public PC continues.  We are in final testing. 
+
+CGDC is coming up quickly.  I will be attending this year again.  I started going about, what, 8 years ago...  It was MUCH smaller then...  I will be speaking on Public PCs.  I spoke in about 1991 on "Developing Games for Windows" (when I worked for the Evil Empire(TM)).
+
+Drop-in network for Blood is in alpha testing and should be moving to public Beta soon.  Keep an eye out on the Blood page (http://www.blood.com) for where to sign up.
+
+The Alpha of the 3DFX patch to Blood is basically complete.  I should be starting on the Beta pretty soon.
+
+Been playing lots of StarCraft.  Lots of strategic decisions to be made and discovered.  I still like TA better, but they're pulling even...
+
+Matt
+
+
+9/15/97
+
+Ugh.
+
+Just got back from the CGDC mini-event in San Fran.
+
+This was the first one and it was only an afternoon.  There were about 55 people in attendance.  It was held at Postlinear Entertainment www.postlinear.com.
+
+The next events will be full-day affairs and will be held in Washington, DC, Seattle, WA and Austin (in the Republic of Texas).
+
+We showed our Public PC running the AMOA shell and a couple of games we produced.  One of the games was Captain Claw.
+
+If you are interested in developing for the arcade market, please contact Jason Hall or myself (matts@lith.com).
+
+Blood 1.11 patch is really close to release.
+
+We still haven't gotten any real news from 3Dfx about the port of the Build engine....
+
+Rick from GT is on vacation attending a wedding (not his).  When he gets back, I expect lots of info....
+
+I ran into Alex Dunne again at the mini-event.  We talked about his recent editorial in Computer Game Developer.  It seems that we have already done everything he said 'was coming' for Blood.  We had a 'special edition' for Wal-mart (as well as a couple of other markets).
+
+Oh, and of course, I'm reviewing contracts left and right.
+
+
+
+
+
+8/7/97
+
+BLOOD 
+
+Ah...  Plasma Pak is done and we are now working on preparing the 1.1 patches for Registered and Shareware.
+
+Jason has insisted on recording the demos this time around, so you'll know who is 'behind the wheel' when you see them.
+
+The new weapon modes are awesome.  The alt-fire napalm launcher gives you bouncing balls of joy...  Just make sure they don't come bouncing your way....
+
+And the monsters are pretty interesting, if I do say so myself...  
+
+As was said earlier, Dan left Monolith for a contract job at Microsoft.  He's playing with boring networking stuff.  He does get a trip to Germany, however.  He and Tammy came out to visit again last weekend and we watched some MST3K and ate some heatlthy food (no pizza this time...).
+
+BLOOD II
+
+We've just finalized the Blood II contract with GT, so work can proceed at the correct pace with that.   The team's already more than half-done with the prototype.
+
+Rick's talking about coming up next week to see the secret work we've been doing on Blood II (even though he's officially on travel moratorium to spend time with his new baby).
+
+OTHER
+
+I sent off the Autorun programs to 3D Realms last week for Shareware and Registered Shadowwarrior and also Balls of Steel.
+
+NANI
+
+We had a very important demonstration of the NANI system.  The NANI team did a great job in getting the system ready.  You can download the current DirectArcade SDK from http://www.nani.org 
+
+If you are interested in getting your game in an arcade, contact me or Jason Hall here at Monolith (matts@lith.com).
+
+Matt
+
+
+7/22/97
+
+BLOOD:
+
+The bug fixes continue while we work on getting Plasma finished.  We will be releasing a 1.1 patch that brings all version up to the code level in PLASMA
+
+Dan has moved on the greener (==$) pastures.  He's now contract programming at Microsoft in the SMS group.  We'll miss you, Dan.
+
+BLOOD PLASMA
+
+Nick is putting the finishing touches on the weapons.  You've GOT to see the alt-fire napalm launcher.  I'm working on finishing the AI and other features for Plasma.
+
+BLOOD II
+
+The pitter-pater has started....  I just got the first draft of the contract in my hands.  Bryan is mainly dealing with this as I'm busy with other duties.  We've got the prototype up and running from DirectEngine and are starting to add features.
+
+NANI
+
+We're still debugging the final connection stuff with EDS.  It seems we get one thing fixed and then the next thing in the chain has a problem.
+
+OTHER:
+
+Looks like we might have permanent visitors in building 20.  Should be an intersting combination....
+
+Matt Saettler
+Director of Product Development
+Monolith Productions
+
+

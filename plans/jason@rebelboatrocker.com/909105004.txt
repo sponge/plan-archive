@@ -1,0 +1,33 @@
+Login: jason          			Name: Jason Zelsnack
+Directory: /home/jason              	Shell: /bin/bash
+Never logged in.
+New mail received Thu Oct 22 19:37 1998 (CDT)
+     Unread since Wed Oct 21 07:15 1998 (CDT)
+Plan:
+<FONT SIZE=+1>
+<TABLE BORDER=0 CELLSPACING=0 >
+<TR>
+<TD><IMG SRC="http://rebelboatrocker.com/~jason/Jason_Logo0.JPG" ALT="Jason Logo" WIDTH=63 HEIGHT=74>
+</TD>
+<TD>
+<BR>#define COMPANY  "<a href="http://www.rebelboatrocker.com/main.html">Rebel Boat Rocker, Inc.</a>"
+<BR>#define NAME     "Jason Zelsnack"
+<BR>#define E-MAIL   "<a href="mailto:jason@rebelboatrocker.com">jason@rebelboatrocker.com</a>"
+</TD>
+</TR>
+</TABLE>
+<pre>
+plan(10-12-98)
+{
+ Today I was looking through a 1985 'Transworld Skating' magazine which
+ Randy brought in a couple days ago. (He found it while moving)
+ It had Mark "Gator" Rogowski prominently displayed on the first page.
+ Is he still in prison for murder?
+
+ Flipping through the magazine I noticed that most of the boards had rails,
+ nose guards,and truck guards on them. They also had fat, huge wheels, and
+ not one of the boards pictured was symmetrical.
+ Man skateboards use to suck. At least I didn't see any Simms long boards.
+}
+</FONT>
+</pre>

@@ -1,0 +1,44 @@
+Login: ridah          			Name: Ryan Feltrin
+Plan:
+
+Ryan Feltrin
+<a href="mailto:ridah@frag.com">ridah@frag.com</a>
+
+Technology & AI Programmer, <a href="http://www.xatrix.com/">Xatrix Entertainment</a>
+
+
+25-Aug-99
+----------
+
+Looks like I spoke too soon. It appears even the "big-boys" have caught on now,
+with Creative Labs now offering a "Graphics Blaster RIVA TNT2 Value".
+
+THIS IS NOT A TRUE TNT2 CHIP. It is in-fact a "Riva TNT2 Model 64" chip,
+which (rather confusingly) is actually a lot slower than a TNT2 chip.
+
+I find this a very deceiving marketting ploy, since nowhere on the official
+page (http://www.creative-asia.com/graphics/tnt2-value/) does it say it
+uses the Model 64 chip.
+
+Kudo's to 3Dfx for CLEARLY marking their various products according to
+their performance levels. I think other companies could probably learn a bit
+from them in this department.
+
+
+24-Aug-99
+----------
+
+A word of warning to any unsuspecting gamers looking at purchasing a bargain
+TNT2 card:
+
+If it's very cheap and not a big-brand name (Creative Labs, Diamond, etc),
+make sure it isn't a "TNT2 Model 64" configuration. These are starting to flood the
+stores over here, and are selling like hot-cakes.
+
+There is one problem: they are MUCH slower than the default TNT2 setup. Even
+within the 40%-50% range in some games. This may be plenty for the average
+gamer with a low budget. But for those looking for something faster than
+their old V2 or TNT, they might find it won't gain them much speed at all.
+
+So if the labelling has anything like "TNT2 M64" or "Model 64" mentioned,
+then be aware you are buying an inferior product to a typical TNT2 card.

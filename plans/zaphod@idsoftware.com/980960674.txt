@@ -1,0 +1,25 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+
+Quickie Update
+
+Mac OS 9.1 Quake3Arena.
+
+As many other developers have noticed, there's a little work to be done to make our games compatible with the new 9.1 release of MacOS.  I've yet to address the issues, but will do as soon as I can.  Once those are cleared up I'll release a build.  There's a significant speedup over the current debug build out there.
+
+Mac OS 9.1 Quake3Arena Altivec.
+
+The Altivec version of Q3A is awesome.  Unfortunately there is a bug in the Metrowerks compiler Altivec support which means I'm waiting on the update for the compiler.  Metrowerks is currently QAing a build of their compiler with this fix included.  For those x86 people out there who wonder what the Altivec is, it's the super computer part of the G4 chip that Apple touts in it's commercials.  It really is incredible, and really does make a "super computer power" difference in application that support it.
+
+Mac OS X Quake3Arena.
+
+I'll release it along with the next release of the Mac build.
+
+Dreamcast.
+
+I read today in a news report that the Dreamcast failed to compete with the "more powerful Nintendo 64 and Playstation".  Wow.  I was under the impression the Dreamcast kicked their butts.  The Dreamcast is a great machine, I'm saddened by todays news.
+

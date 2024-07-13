@@ -1,0 +1,73 @@
+
+Name: Paul Jaquays
+Email: paulj@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+
+Skill Portfolio/Background:  See bio on id web page for details
+
+Current projects:   DOOM
+
+**********************************************************************
+DISCLAIMER:  THE FOLLOWING IS THE PERSONAL OPINION OF THE AUTHOR AND DOES
+NOT REPRESENT THE OFFICAL POSITION OF ID SOFTWARE, ITS OWNERS, EMPLOYEES,
+DISTRIBUTORS, OR LICENSEES, (OR ANYONE ELSE FOR THAT MATTER)
+
+**********************************************************************
+January 3, 2001
+**********************************************************************
+
+I’ve seen this on some news pages, but it deserves more than just a mention in passing. Earlier this year, id passed on the maintenance and continuance of the map-making tools for Quake III Arena to a group of dedicated and involved community programmers. Like Robert Duffy before them, who turned id’s Quake 2 editing tool into what became QeRadiant, this group of hobbyists improved on id’s Quake III Arena editing tool, Q3Radiant, worked with mod and plug-in authors to improve its usefulness and versatility and eventually, in conjunction with Lokigames, transformed Q3Radiant into GTKRadiant, a cross-OS tool that would work on WinX and Linux systems.
+
+The package released yesterday, as a public beta test, includes a version of GTKRadiant for WinX systems that will support both Q3A and Quake III: Team Arena ... including the new map area sizes and terrain functions. It also includes a number of support textures, models, manuals, and plug-ins provided by id and a number of 3D game making hobbyists. All in all, it may be one of the best 3D game making tool packages you’ll find anywhere, for any game, for any price. And thanks to the enthusiasm and generosity of the folks involved, that price is only the cost of a download.
+
+Paul
+
+The following is stolen from Timothee Besset’s recent posting on Quake3World’s Level Editing forum:
+
+-------------------------------------------------------------
+
+The latest version of GtkRadiant is available. This new build supports Quake III: Team Arena and contains new editing media from Id. 
+
+The documentation (<a href="http://www.qeradiant.com/manual">http://www.qeradiant.com/manual</a>) has been updated with two new items: the terrain manual 
+(<a href="http://www.qeradiant.com/manual/Terrain_Manual/start.html">http://www.qeradiant.com/manual/Terrain_Manual/start.html</a>) and the Team Arena Mapping Help (<a href="http://www.qeradiant.com/manual/Team_Arena_Mapping_Help/start.html">http://www.qeradiant.com/manual/Team_Arena_Mapping_Help/start.html</a>). We now have everything under HTML format, and the setups contain an offline version.
+
+A few new mapobjects are included in this release:
+- tree models used in TA terrain maps (baseq3/models/mapobjects/tree2)
+- TA spawns (missionpack/models/mapobjects/spawn)
+
+You now have to select the game in the project settings dialog, set it to Quake III Arena or to Quake III: Team Arena depending on what you want to do. GtkRadiant is fairly different from Id's internal 200f Q3Radiant. It doesn't require copying the Team Arena pak file into your baseq3/ directory. Everything is fully documented on the GtkRadiant start page (<a href="http://www.qeradiant.com/gtkradiant.shtml">http://www.qeradiant.com/gtkradiant.shtml</a>).
+
+We are tagging this release as a beta because some elements initially planned for version 1.2 have been added. Regular Quake III Arena editing will be more or less the same, but Quake III: Team Arena editing needs more testing.
+
+We are also looking forward to increase our linux testers team. If you have been using GtkRadiant 1.1 or plan to use this new build on linux, get in touch with Loki: email beta@lokigames.com and check out <a href="http://odin.lokigames.com">http://odin.lokigames.com</a>.
+
+This release will give us the opportunity to open the source for GtkRadiant. Now that we don't have a new release to worry about we will have some time to open the cvs tree, put out some information for new contributors etc. we'll post an update on <a href="http://www.qeradiant.com">http://www.qeradiant.com</a>  when it's ready. I wish to thank everyone involved in this last release, I think it was a great achievement. Lots of good work went into it, from a lot of people.
+
+The main GtkRadiant page is at <a href="http://www.qeradiant.com/gtkradiant.shtml">http://www.qeradiant.com/gtkradiant.shtml</a> 
+
+The primary ftp is at 3ddownloads: <a href="http://www.3ddownloads.com/index.php3?directory=/qeradiant/GtkRadiant/">http://www.3ddownloads.com/index.php3?directory=/qeradiant/GtkRadiant/</a> 
+
+enjoy!
+
+TTimo
+
+
+
+**********************************************************************
+
+The server batch files for Team Arena were accidentally left off the Team Arena disk. They'll be in a future point release, but for now, you can download them here: 
+<a href="http://www.quake3world.com/files/q3ta_serv.zip">q3ta_serv.zip</a>
+
+
+**********************************************************************
+Quake3World Level Editing Forum
+
+<a href="http://www.quake3world.com/cgi-bin/forumdisplay.cgi?action=topics&forum=Level+Editing&number=6">Quake3World Level Editing Forum</a>
+
+**********************************************************************
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+If it's not here, it's vapor.  Check out somebody's archives if you want to read my previous bits of wisdom and flame.

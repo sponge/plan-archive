@@ -1,0 +1,48 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+<font color="white">
+
+<b><u>May.11.1999 @ 1:36pm</u></b>
+
+ I've moved our Quake 3 Test server page to the following location.
+Please updated your bookmarks
+
+ <a href="http://underworld.idsoftware.com/serverlist.html-ssi">http://underworld.idsoftware.com/serverlist.html-ssi</a>
+
+<b><u>May.11.1999 @ 4:41am</u></b>
+
+ Thanks to everyone who responded about the 8 way Xeon systems. I have
+enough information to do some research into it now.
+
+ In regards to Q3Test, if anyone has mirrored it, and would like to be 
+included on our mirrors page, please drop me a line with "Q3MIRROR" in the 
+subject line, along with full URLS to the file locations. I'll be sure
+to add them to the list tommorow when I get into the office.
+
+ Thanks,
+
+ -Xian
+
+<tt>
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, leaky roof, broken glass, mud slides, forest
+fire, or projectile (which can include, but not be limited to, arrows, bullets,
+shot, BB's, paintball, shrapnel, lasers, napalm, torpedoes, or emissions of
+X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.). 
+</font>
+---
+</tt>

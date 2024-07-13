@@ -1,0 +1,57 @@
+Login: ridah          			Name: Ryan Feltrin
+Plan:
+
+Ryan Feltrin
+<a href="mailto:ridah@frag.com">ridah@frag.com</a>
+
+Technology & AI Programmer, Gray Matter Studios.
+
+
+27-03-2000
+-------------
+
+Kingpin:
+
+I've gone and compiled a dedicated Linux Kingpin v1.21 binary set, it
+is available at:
+
+http://impact.frag.com/ridah/kptest/kpded-linux-glibc-i386-v120-to-v121-patch.zip
+
+Since Interplay have locked Kingpin at v1.21, I decided to roll back the changes
+and release a linux v1.21. This should be the final Kingpin release, assuming there
+are no issues with this Linux release.
+
+Why no Linux client release? I didn't have enough time to work on the Linux client since
+v1.20, so considering the only fixes since then are server-side only, it wouldn't
+make sense to release a new Linux client, only to have the existing problems get reported
+again. The v1.20 Linux client should be fully compatible with v1.21 servers, so if it works
+for you, you should be fine.
+
+The other remaining issue, is the lack of Linux compilables in the SDK, for the files
+that were omitted from the game source. I have placed these files, along with an example
+MAKEFILE in the following package:
+
+http://impact.frag.com/ridah/kptest/kingpinSDK-v121-navlib-linux-glibc-i386.zip
+
+The MAKEFILE included is the one I use to build the full source, so you'll need to
+modify it so that it only tries to build the game source.
+
+-------------
+
+In an effort to summarise the current (final?) Kingpin releases, here is a list of
+links to up-to-date versions and releases:
+
+Kingpin v1.21 Patch for Windows (patches any version below v1.21)
+<a href="http://impact.frag.com/ridah/kptest/kingpin_v121_patch.exe">http://impact.frag.com/ridah/kptest/kingpin_v121_patch.exe</a>
+
+Kingpin v1.20 Patch for Linux:
+<a href="http://impact.frag.com/ridah/kptest/kingpin-1.20_glibc-i386-linux2.0.tar.gz">http://impact.frag.com/ridah/kptest/kingpin-1.20_glibc-i386-linux2.0.tar.gz</a>
+
+Kingpin v1.20 for Linux to Kingpin Dedicated Server v1.21 for Linux Patch:
+<a href="http://impact.frag.com/ridah/kptest/kpded-linux-glibc-i386-v120-to-v121-patch.zip">http://impact.frag.com/ridah/kptest/kpded-linux-glibc-i386-v120-to-v121-patch.zip</a>
+
+Kingpin SDK v1.21 for Windows/Linux (Linux requires addition package):
+<a href="http://impact.frag.com/ridah/kptest/Kingpin_SDK_121.zip">http://impact.frag.com/ridah/kptest/Kingpin_SDK_121.zip</a>
+
+Kingpin SDK v1.21 Additional Linux files
+<a href="http://impact.frag.com/ridah/kptest/kingpinSDK-v121-navlib-linux-glibc-i386.zip">http://impact.frag.com/ridah/kptest/kingpinSDK-v121-navlib-linux-glibc-i386.zip</a>

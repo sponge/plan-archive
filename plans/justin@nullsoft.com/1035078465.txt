@@ -1,0 +1,5 @@
+Login: justin         			Name: Justin
+"|IFS=' '&&exec /usr/local/bin/procmail -f-||exit 75 #deadbeef"
+Plan:
+Oct 19 2002:
+http://www.firehose.net/~deadbeef/mobilecam/

@@ -1,0 +1,31 @@
+Hush now.
+
+
+Other stuff:
+
+ ...so a lot of things have happened this year, and exciting things are
+ approaching in the coming months. I hope some day I might document them, but
+ I can feel the appropriate time for all that is slipping away. Twitter kills
+ blogs (.plans?) dead, and I tweet with some frequency because you can burp up
+ 140 characters quickly and still be pleased with the result:
+
+   http://twitter.com/icculus
+
+ ...but I do hope to return to the long form of self-importance at some point.
+
+ In the meantime, I promised Eric Wing that I would post this link awhile ago.
+ He wrote a book about game development on iOS, and asked me to review the
+ OpenAL portions. He spent a great deal of effort making it platform-agnostic,
+ so it can prove to be a useful guide to OpenAL even if you don't care about
+ the iPhone at all.
+
+ Take a look at it here: http://playcontrol.net/iphonegamebook/
+
+--ryan.
+
+--------------------------------------------------------------------
+When this .plan was written: 2010-10-29 03:53:07
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.24 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

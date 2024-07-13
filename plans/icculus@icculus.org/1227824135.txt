@@ -1,0 +1,49 @@
+Rock out.
+
+
+Crysis Wars:
+
+ Linux dedicated server: http://icculus.org/news/news.php?id=4475
+
+
+Offload servers:
+
+ I need them. http://icculus.org/news/news.php?id=4465
+
+
+
+Prey:
+
+ Did I say a few days?  :)
+
+ Here are some updated files for the demo. It fixes all known bugs.
+
+   http://icculus.org/prey/downloads/prey-demo-latest-files.tar.bz2
+
+ Bugs fixed:
+   - Stencil shadows now render.
+   - Updated to SDL 1.2.13.
+   - Uses PulseAudio if available, ALSA if not, OSS if not.
+   - Can do 5.1 surround sound (if your system supports it).
+   - Fixed video memory detection on Nvidia, ATI, DRI drivers.
+   - Fixed problems launching web browser.
+   - Installer can completely run from the command line without
+     interaction, for automation purposes (but it's a self-extracting
+     zip file, anyhow, if you prefer that route).
+   - Installer fully localized to Spanish.
+   - Other l18n fixes, compliments of the fine folks at launchpad.net.
+
+ To install, just unpack and overwrite the appropriate files in your
+  existing install.
+
+ Full game will be out very soon...mostly I just want confirmation that
+  I didn't screw up the ATI video memory detection.  :)
+
+--ryan.
+
+--------------------------------------------------------------------
+When this .plan was written: 2008-11-26 13:48:54
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.21 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

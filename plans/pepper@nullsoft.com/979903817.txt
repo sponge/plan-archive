@@ -1,0 +1,72 @@
+Login: pepper         			Name: Mr. Pepper
+Project: empowering jackasses with broadcastability
+Plan:
+01.19.01=======================
+
+why did i label all the other .plan updates below as 12/01 instead of 1/01?  do i 
+bother changing them to the right date?  of course not.
+
+I HATE ROLLING BLACKOUTS.  i was calmly taking a shower this morning (okay
+I woke up at noon) and in the middle of it the power went out.  it sucks when
+you live with an electric water pump and the power goes out in the middle of
+your shower.
+
+then the power came back on.  things got worse then.
+
+about 4:00 i got to actually start a workday.  i hope pg&e figures the problem
+out before too long because spending four hours every day bringing servers back
+from death from 45 miles away is not my idea of family entertainment.  i used to
+put up with that shit back when winamp was two 300mhz pentium servers in a closet
+in des moines, iowa.  i thought we'd moved beyond that.
+
+speaking of family entertainment i'm investing in solar power.  i didn't realize
+that a scant $10,000 gets you everything you need to run a nominal 1,500 watts of
+power for 20 years.  For those of you who are counting, PG&E would charge about
+$41,000 for the same period.  The really great thing is that the state has a law
+that utilities have to buy any of your excess power back from you.  Not that
+PG&E has any money right now to give to me, but it's the thought that counts.  the
+kicker is that you only have to re-invest another 2 grand 20 years down the road
+for new batteries, too.  hopefully we'll have that whole cold fusion thing sorted
+out long before then.
+
+You should all get solar power.  It rules.  Once it's installed, the Silo becomes
+fully autonomous.  Yep, we roll our own water, power and gas.  About time I start
+collecting my followers, amassing firearms, and waiting for the mothership to land.
+
+why does it say paper jam when there is no paper jam?  i swear to god, one of these
+days i'm going to kick this fucking piece of shit out of the window.
+
+12.15.01=======================
+
+a haiku for you today
+
+sitting on the couch
+with frankel, eating carrots
+and watching free porn
+
+12.7.01========================
+
+do you all really like nsync that much?
+
+this industry really is one of the ugliest, ever.
+
+i'm grumpy.
+
+12.3.01========================
+
+what?  a plan update?
+
+lessee.  optimizing shoutcast to crank out tens of thousands of listeners on
+a single host with gigabit ethernet, reworking winamp radio pages and 
+shoutcast.com site, putting in lots of nifty new metrics to re-do the 
+popular listings in a more fair fashion, working on deploying .net free
+broadcasting up to 128kbps, new dsp with integrated codec and multiple
+broadcasting and me compatibility, unix transcoders, windows port of the
+unix transcoder, and oh yeah all that other top secret stuff too.
+
+busy busy busy busy busy.  you all should be broadcasters.  if not, you
+can be listeners.  people know more about what you want to listen to
+than you do, anyway.
+
+i'll be at mw expo, ready to pick up one of those new apple subnotebooks
+steve will no doubt be hurling into the crowd.  catch ya there.

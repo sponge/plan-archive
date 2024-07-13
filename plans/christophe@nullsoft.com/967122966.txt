@@ -1,0 +1,73 @@
+Login: christophe     			Name: Dirk Diggler
+Plan:
+
+08/24
+-----
+
+Yay! 2 french female friends just arrived at my home for 2 weeks. Gonna be a
+lot of fun.
+
+"Life is what happens to you while you're busy making other plans."
+- John Lennon in Beautiful Boy
+
+08/21
+-----
+
+I was bored on sunday so i played a little with Gecko as we want to use
+it into wa3. Note that it will only use Gecko if you have Mozilla installed,
+we don't want to add 18 megs to the distribution :)
+
+So here is the result : <a href="http://kmeleon.org">K-Meleon</a>. A tiny, fast web browser using the Gecko engine.
+
+Also, I've been working on the new skin package format and i'm including a
+"security" option for you skinners so you'll be able to protect your work.
+Let's hope that will stop all the nasty rippers from stealing your graphics.
+
+08/14
+-----
+
+UPDATE: I'd like to point out that Mr Jonathan Ward just had a haircut. hahaha.
+        Please send him some supporting mail to <a href="mailto:jonathan@winamp.com">jonathan@winamp.com</a>.
+        He needs it.
+
+I'm right now at the office, with my head burning because of a big sunburn right
+on my face. Damn, California sun is evil :/
+
+Steve got a very nice idea that will add a new dimension to the skinning
+community. I'll need some time to make it work, but that's definitly worthy.
+I know you're tired of just hearing that Winamp 3 will kick ass, but I can
+assure you, it really will ... and the release date is pretty soon, so just
+have the patience to wait a little more, it will worth it :)
+
+08/04
+-----
+
+my shoutcast station is now ready <a href="http://www.evildildo.com">here</a>.
+it plays lot of stuff that i like, so you can hear about everything there, from
+alternative rock to indian music to trance to bossa-nova, everything ...
+
+also, i'm pretty happy with my little PHP script that on-the-fly retrieves
+playing infos from the shoutcast XML DNAS page. PHP is so great ...
+
+ok, i got to go back to real work ...
+
+08/02
+-----
+
+these days, i'll be working on the feature that you all asked for wa3,
+which is the winamp 2.x skins support in the new winamp 3 skinning system. yay.
+
+07/13
+-----
+
+i bought a brand new PRS guitar last week, just received my new Dreamcast
+today and my giant 61" Sony TV is coming on friday. joy for me.
+
+on the winamp 3 side, i'm just finishing tweaking the core so the 
+plugins developers will soon be able to get a SDK to play with. also, danny is
+working a lot on documenting that stuff. joy for you.
+
+-AND-
+
+will Steve STOP writing .plans while making a poop ?
+

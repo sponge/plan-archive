@@ -1,0 +1,162 @@
+Name: Paul Jaquays
+
+Email: paulj@idsoftware.com
+
+Description: Level Designer
+
+Project: Quake 3 Arena
+
+-------------------------------------------------------------------------------
+
+
+
+Skill Portfolio/Background:  See bio on id web page for details
+
+
+
+Current projects:   Q3A Missionpack
+
+
+
+**********************************************************************
+
+DISCLAIMER:  THE FOLLOWING IS THE PERSONAL OPINION OF THE AUTHOR AND DOES
+
+NOT REPRESENT THE OFFICAL POSITION OF ID SOFTWARE, ITS OWNERS, EMPLOYEES,
+
+DISTRIBUTORS, OR LICENSEES, (OR ANYONE ELSE FOR THAT MATTER)
+
+**********************************************************************
+
+
+
+**********************************************************************
+
+April 10, 2000  10:10 PM CDT
+
+**********************************************************************
+
+It's been awhile since I posted, mostly because I rarely have anything relevant I can say about company business, and anything I do want to say usually gets said over on the Quake3World Editing Forum. Which is why I'm posting this here. I know there's a lot of people who must be downloading our editing tools and then getting frustrated because they can't get them to work right. Not surprising. A day rarely goes by in which a newcomer to the forum needs to have a basic question or two answered. If you're just getting started in Quake III map making or you're finding that the on-line tutorials aren't providing the specific answers that you need to know, drop in to Editing Forum. Questions get answered and there's usually a lot of great discussion about map making. Sometimes questions are answered by the last mapper who asked the same question. But there are some serious experts in the science and art of mapping, shader programming, texture creation and tool making who hang out on the forum too.
+
+
+
+And did I mention that all this occurs in a nearly flame-free environment that's tends to stay on the topic at hand?
+
+
+
+Stop in for a visit, we think you'll like it there.
+
+
+
+<a href="http://www.quake3world.com/cgi-bin/forumdisplay.cgi?action=topics&forum=Level+Editing&number=6">Quake3World Level Editing Forum</a>
+
+
+
+While I'm at it, I should mention that the Q3Radiant editing tools are also available from Quake3World, as are several versions of the Q3Radiant manual, Eutectic's .def file for Q3Radiant entities, the missing textures files and the clean shaders files for the original id shader scripts and lots of links to level editing resources.
+
+
+
+Paul J.
+
+
+
+
+
+**********************************************************************
+
+February 16, 2000  3:45 PM CST
+
+**********************************************************************
+
+
+
+The Q3Radiant Manual is Done!
+
+
+
+... and it's available for download.  The manual is big ... 163 formatted pages. It's being released in two distinct "flavors." One is an MSWord version (created in Word 2K on the PC, which appears to be very backward compatible with earlier versions of MsWord) and a somewhat "raw" HTML version converted directly from the Word document.  The document contains a number of embedded graphic files and organizational formatting, so ripping it down into a text document didn't appear to be the way to go.
+
+
+
+ Each of the versions is zipped and run just under half a meg each. Unpacked, you'll need 2 megs of drive space.
+
+
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/tools/q3rmanhtml.zip">Q3Radiant Manual (HTML version) on id ftp site</a>
+
+
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/tools/q3rmanpc.zip">Q3Radiant Manual (MSWord version) on id ftp site</a>
+
+
+
+Mirrors:
+
+
+
+<a href="http://www.quake3arena.com/files/q3rmanhtml.zip">Q3Radiant Manual (HTML version) on quake3arena.com</a>
+
+
+
+<a href="http://www.quake3arena.com/files/q3rmanpc.zip">Q3Radiant Manual (MsWord version) on quake3arena.com</a>
+
+
+
+A couple things to note.  
+
+
+
+The document is targetted at version 192 of the Q3Radiant editor, which Robert Duffy is still working on. Some of the things documented in the manual are not in the released versions of the editor.
+
+
+
+Second, if you want to mirror these files on your own site, go ahead. If you want to make a more functional, robust HTML version (one that does not require a full download to view), we (id) want to see it and approve it before you make it available for public viewing. This document is covered by the same EULA that covers our earlier tools releases.
+
+
+
+Licensed developers of Quake 3 Engine product should contact id directly for this manual.
+
+
+
+
+
+Old stuff:
+
+
+
+**********************************************************************
+
+December 29, 1999  3:15 PM CST
+
+**********************************************************************
+
+The Quake III Arena Shader Manual is available for download.
+
+
+
+Yes, Q3A map and model makers, here's the Christmas present that Santa's elves hadn't quite finished yet. It's in the format of an MS word document and has some graphics nested in it, so it's a little large.
+
+
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/tools/Q3Ashader_manual.doc">shader manual</a>
+
+
+
+Paul Jaquays
+
+
+
+
+
+
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+If it's not here, it's vapor.  Check out somebody's archives if you want to read my previous bits of wisdom and flame.
+

@@ -1,0 +1,50 @@
+
+Name: Christian Antkow
+Email: 
+Description: Designer
+Project: 
+-------------------------------------------------------------------------------
+July.11.20022 @ 10:22pm CST
+---------------------------
+
+<b>id's Wolfenstein Server Stuff</b>
+
+Just an FYI to those reading this, and playing on our servers, I've recently
+installed OSP 0.22 on our Tram server, which has resulted in some people not
+knowing how to, or not able to connect.
+
+You can download OSP 0.22 for Wolfenstein at the following location.
+
+http://www.orangesmoothie.com/html-downloads.html
+
+Make sure the files get extracted to wolfosp and you should be good to go.
+
+-Xian
+
+---
+
+ Just a reminder, to those of you who play on our servers, I'm running
+stats and forums at;
+
+<a href="http://underworld.idsoftware.com/wolf">http://underworld.idsoftware.com/wolf</a>
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, leaky roof, broken glass, mud slides,
+forest fire, and/or projectile (which can include, but not be limited to, 
+arrows, bullets, shot, BB's, paintball, shrapnel, lasers, napalm, torpedoes, 
+or emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.)
+</font>
+---
+</tt>

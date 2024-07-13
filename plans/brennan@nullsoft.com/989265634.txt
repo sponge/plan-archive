@@ -1,0 +1,740 @@
+Login: brennan        			Name: Brennan Underwood
+Project:
+Why, none other than architect and head such-and-such for Winamp 3.0.
+Codename Wasabi. Why this fails to get me all the chicks I'll never know.
+
+Plan:
+07-May-2001 10:20 AM
+
+[10:15] <bas> you know, we're not actually competing w/ sonique
+[10:15] <bas> and if they're smart, they'll keep it that way
+
+
+20-Apr-2001 6:04 PM
+
+The rumors are true. I did pay Steve $70 (and Ryan Geiss chipped in $20, plus
+some more contributions totalling $109) to put half an ice-cream-cake down
+his pants and run around the office screaming "I HAVE ICE CREAM CAKE IN
+MY PANTS!" Now, he didn't leave it in for the full hour, but that's only
+because he ate it. STRAIGHT FROM THE CROTCH, like a good boy.
+
+http://genghis.winamp.com/~steve/pics/?path=office%2F4-19-2001
+
+
+19-Apr-2001 1:40 PM
+
+OK, so in creating our API/SDK, I encountered the following problem: I wanted
+to be able to pass real class*'s around between the main exe and loaded
+components, even if they were not all compiled with the same version of the SDK.
+
+And, I wanted to be able to rearrange methods in these classes and have calls
+to them still work (so I couldn't just use a bunch of virtual functions.)
+
+So, after fucking around with it for a few weeks off and on, I finally
+came up with this class, and I'm putting it here so you can give me some
+feedback on it. There's a quickie sample implementation after the header file.
+
+Upsides:
+- Can add new methods without breaking old code
+- Can delete old methods without breaking old code. (The call to _call()
+  includes a default parameter to return if the method doesn't exist)
+- Can rearrange methods without breaking old code
+- Can call methods transparently (don't need to know it's a Dispatchable)
+- Maintains pretty good type safety (all casts are hidden away, and types
+  gotten automatically by the template definition)
+- With an adapter class, C (and other) programmers can call methods manually
+
+Downsides:
+- can't use references as parameters to methods (I think, since you can't
+  have a pointer to a reference)
+- some more overhead, mostly stack usage as we build a list of void*'s and
+  dereference them. We could do a naked fn call and leave the stack where it
+  was, but that's not portable.
+- uses (2) macros
+- hard to use with 2 identically-named methods
+- has to differentiate between void methods and ones that return values. I think
+  I could force an dummy int to be returned on the void ones, tho
+
+Todo:
+- add explicit query for a method being supported?
+- write a preprocessor to generate all support code manually?
+  i.e. class DISPATCHABLE Thing {...}
+
+
+#ifndef _DISPATCH_H
+#define _DISPATCH_H
+
+class Dispatchable {
+public:
+  // this is virtual so it is visible across modules
+  virtual int _dispatch(int msg, void *retval, void **params=NULL, int nparam=0)=0;
+
+protected:
+  // helper templates to implement client-side methods
+  int _voidcall(int msg) {
+    return _dispatch(msg, NULL);
+  }
+
+  template<class PARAM1>
+  int _voidcall(int msg, PARAM1 param1) {
+    void *params[1] = { &param1 };
+    return _dispatch(msg, NULL, params, 1);
+  }
+
+  template<class PARAM1, class PARAM2>
+  int _voidcall(int msg, PARAM1 param1, PARAM2 param2) {
+    void *params[2] = { &param1, &param2 };
+    return _dispatch(msg, NULL, params, 2);
+  }
+
+  template<class PARAM1, class PARAM2, class PARAM3>
+  int _voidcall(int msg, PARAM1 param1, PARAM2 param2, PARAM3 param3) {
+    void *params[3] = { &param1, &param2, &param3 };
+    return _dispatch(msg, NULL, params, 3);
+  }
+
+  template<class PARAM1, class PARAM2, class PARAM3, class PARAM4>
+  int _voidcall(int msg, PARAM1 param1, PARAM2 param2, PARAM3 param3, PARAM4 param4) {
+    void *params[4] = { &param1, &param2, &param3, &param4 };
+    return _dispatch(msg, NULL, params, 4);
+  }
+
+
+  template<class RETURN_TYPE>
+  RETURN_TYPE _call(int msg, RETURN_TYPE defval) {
+    _dispatch(msg, &defval);
+    return defval;
+  }
+
+  template<class RETURN_TYPE, class PARAM1>
+  RETURN_TYPE _call(int msg, RETURN_TYPE defval, PARAM1 param1) {
+    void *params[1] = { &param1 };
+    RETURN_TYPE retval;
+    if (_dispatch(msg, &retval, params, 1)) return retval;
+    return defval;
+  }
+
+  template<class RETURN_TYPE, class PARAM1, class PARAM2>
+  RETURN_TYPE _call(int msg, RETURN_TYPE defval, PARAM1 param1, PARAM2 param2) {
+    void *params[2] = { &param1, &param2 };
+    RETURN_TYPE retval;
+    if (_dispatch(msg, &retval, params, 2)) return retval;
+    return defval;
+  }
+
+  template<class RETURN_TYPE, class PARAM1, class PARAM2, class PARAM3>
+  RETURN_TYPE _call(int msg, RETURN_TYPE defval, PARAM1 param1, PARAM2 param2, PARAM3 param3) {
+    void *params[3] = { &param1, &param2, &param3 };
+    RETURN_TYPE retval;
+    if (_dispatch(msg, &retval, params, 3)) return retval;
+    return defval;
+  }
+
+  template<class RETURN_TYPE, class PARAM1, class PARAM2, class PARAM3, class PARAM4>
+  RETURN_TYPE _call(int msg, RETURN_TYPE defval, PARAM1 param1, PARAM2 param2, PARAM3 param3, PARAM4 param4) {
+    void *params[4] = { &param1, &param2, &param3, &param4 };
+    RETURN_TYPE retval;
+    if (_dispatch(msg, &retval, params, 4)) return retval;
+    return defval;
+  }
+
+  template<class RETURN_TYPE, class PARAM1, class PARAM2, class PARAM3, class PARAM4, class PARAM5>
+  RETURN_TYPE _call(int msg, RETURN_TYPE defval, PARAM1 param1, PARAM2 param2, PARAM3 param3, PARAM4 param4, PARAM5 param5) {
+    void *params[5] = { &param1, &param2, &param3, &param4, &param5 };
+    RETURN_TYPE retval;
+    if (_dispatch(msg, &retval, params, 5)) return retval;
+    return defval;
+  }
+
+  template <class CLASSNAME, class RETVAL>
+  void cb(RETVAL (CLASSNAME::*fn)(), void *retval, void **params, int nparam) {
+    *static_cast<RETVAL*>(retval) = (static_cast<CLASSNAME *>(this)->*fn)();
+  }
+
+  template <class CLASSNAME>
+  void vcb(void (CLASSNAME::*fn)(), void *retval, void **params, int nparam) {
+    (static_cast<CLASSNAME *>(this)->*fn)();
+  }
+
+  template <class CLASSNAME, class RETVAL, class PARAM1>
+  void cb(RETVAL (CLASSNAME::*fn)(PARAM1), void *retval, void **params, int nparam) {
+    PARAM1 *p1 = static_cast<PARAM1*>(params[0]);
+    *static_cast<RETVAL*>(retval) = (static_cast<CLASSNAME *>(this)->*fn)(*p1);
+  }
+
+  template <class CLASSNAME, class PARAM1>
+  void vcb(void (CLASSNAME::*fn)(PARAM1), void *retval, void **params, int nparam) {
+    PARAM1 *p1 = static_cast<PARAM1*>(params[0]);
+    (static_cast<CLASSNAME *>(this)->*fn)(*p1);
+  }
+
+  template <class CLASSNAME, class PARAM1, class PARAM2>
+  void vcb(void (CLASSNAME::*fn)(PARAM1, PARAM2), void *retval, void **params, int nparam) {
+    PARAM1 *p1 = static_cast<PARAM1*>(params[0]);
+    PARAM2 *p2 = static_cast<PARAM2*>(params[1]);
+    (static_cast<CLASSNAME *>(this)->*fn)(*p1, *p2);
+  }
+
+  template <class CLASSNAME, class RETVAL, class PARAM1, class PARAM2>
+  void cb(RETVAL (CLASSNAME::*fn)(PARAM1, PARAM2), void *retval, void **params, int nparam) {
+    PARAM1 *p1 = static_cast<PARAM1*>(params[0]);
+    PARAM2 *p2 = static_cast<PARAM2*>(params[1]);
+    *static_cast<RETVAL*>(retval) = (static_cast<CLASSNAME *>(this)->*fn)(*p1, *p2);
+  }
+
+  // 3 params
+  template <class CLASSNAME, class PARAM1, class PARAM2, class PARAM3>
+  void vcb(void (CLASSNAME::*fn)(PARAM1, PARAM2, PARAM3), void *retval, void **params, int nparam) {
+    PARAM1 *p1 = static_cast<PARAM1*>(params[0]);
+    PARAM2 *p2 = static_cast<PARAM2*>(params[1]);
+    PARAM3 *p3 = static_cast<PARAM3*>(params[2]);
+    (static_cast<CLASSNAME *>(this)->*fn)(*p1, *p2, *p3);
+  }
+
+  template <class CLASSNAME, class RETVAL, class PARAM1, class PARAM2, class PARAM3>
+  void cb(RETVAL (CLASSNAME::*fn)(PARAM1, PARAM2, PARAM3), void *retval, void **params, int nparam) {
+    PARAM1 *p1 = static_cast<PARAM1*>(params[0]);
+    PARAM2 *p2 = static_cast<PARAM2*>(params[1]);
+    PARAM3 *p3 = static_cast<PARAM3*>(params[2]);
+    *static_cast<RETVAL*>(retval) = (static_cast<CLASSNAME *>(this)->*fn)(*p1, *p2, *p3);
+  }
+
+  // 4 params
+  template <class CLASSNAME, class RETVAL, class PARAM1, class PARAM2, class PARAM3, class PARAM4>
+  void cb(RETVAL (CLASSNAME::*fn)(PARAM1, PARAM2, PARAM3, PARAM4), void *retval, void **params, int nparam) {
+    PARAM1 *p1 = static_cast<PARAM1*>(params[0]);
+    PARAM2 *p2 = static_cast<PARAM2*>(params[1]);
+    PARAM3 *p3 = static_cast<PARAM3*>(params[2]);
+    PARAM4 *p4 = static_cast<PARAM4*>(params[3]);
+    *static_cast<RETVAL*>(retval) = (static_cast<CLASSNAME *>(this)->*fn)(*p1, *p2, *p3, *p4);
+  }
+
+  // 5 params
+  template <class CLASSNAME, class RETVAL, class PARAM1, class PARAM2, class PARAM3, class PARAM4, class PARAM5>
+  void cb(RETVAL (CLASSNAME::*fn)(PARAM1, PARAM2, PARAM3, PARAM4, PARAM5), void *retval, void **params, int nparam) {
+    PARAM1 *p1 = static_cast<PARAM1*>(params[0]);
+    PARAM2 *p2 = static_cast<PARAM2*>(params[1]);
+    PARAM3 *p3 = static_cast<PARAM3*>(params[2]);
+    PARAM4 *p4 = static_cast<PARAM4*>(params[3]);
+    PARAM5 *p5 = static_cast<PARAM5*>(params[4]);
+    *static_cast<RETVAL*>(retval) = (static_cast<CLASSNAME *>(this)->*fn)(*p1, *p2, *p3, *p4, *p5);
+  }
+};
+#define CB(x, y) case (x): cb(&CBCLASS::y, retval, params, nparam); break;
+#define VCB(x, y) case (x): vcb(&CBCLASS::y, retval, params, nparam); break;
+
+#endif
+
+// this is the public interface to give to plugins
+class Thing : public Dispatchable {
+// no constructor or destructor
+public:
+  int method(int blah);	// not virtual!
+  void voidmethod();	// not virtual!
+
+  enum {	// these can never change, once published
+    METHOD,
+    VOIDMETHOD,
+  };
+};
+
+// inline helpers
+inline int Thing::method(int blah) {
+  return _call(METHOD, 0, blah);
+}
+
+inline void Thing::voidmethod() {
+  _voidcall(VOIDMETHOD);
+}
+
+// this is the private object that does the real work
+class ThingI : public Thing {
+public:
+  int method1(int blah);
+  void voidmethod();
+
+protected:
+  virtual int _dispatch(int msg, void *retval, void **params=NULL, int nparam=0);
+};
+
+// here's where we recieve the messages and dispatch them to the real methods
+int ThingI::_dispatch(int msg, void *retval, void **params, int nparam) {
+  switch (msg) {	// map msgids back to methods
+#define CBCLASS ThingI
+    CB(METHOD, method);
+    VCB(VOIDMETHOD, voidmethod);
+    default: return 0;
+  }
+  return 1;
+}
+
+p.s. We're STILL looking for leet coders.
+
+
+08-Mar-2001 2:18 PM
+
+Sigh.... still so, so much work to do. And realistically, only I can do it,
+since it's all architectural stuff being finalized for the SDK. Which will rock.
+We're way way past a single .h with comments at this point :)
+
+And speaking of which, we are looking to hire another programmer onto the
+team at this time. You need to be C++-ified and leet and stuff. This new person
+will take over care and feeding of our SDK in addition to general coding on
+WA3/AVS/etc.
+
+This isn't an official job posting so much as a heads-up (the real post will
+appear on winamp.com in a week or two) but you can send me
+resumes/porn/candy now if you want.
+
+
+20-Feb-2001 3:32 PM
+
+I am at work. I am bored. I have been here since 8:30 AM. The people who
+asked me to come in to meet with them are still meeting with each other.
+I don't like being put off like this. I don't think I'm coming in for
+meetings any more.
+
+Plus, this shitty-ass Dell machine takes 8 hours to compile wa3. So I can't
+even get any work done. Right now I just live to hit 'Refresh' and wait for
+the new issue of The Onion to be posted.
+
+
+14-Feb-2001 1:08 AM
+
+Happy Valentine's Day: http://genghis.winamp.com/~brennan/wa3/
+
+Thanks for the suggestions on finding that sound card, but none of them
+have pointed me yet to a place that both sells it and has it in stock. So
+I give up.
+
+
+12-Feb-2001 6:18 AM
+
+Well, I'm wasting all kinds of valuable time on improving the wa3 playlist
+editor. Given the alpha status of the software, it's pretty silly to be
+adding anything anywhere near polish to it, but what the hey.
+After this next alpha though, I think I'm going to hold back on the fun
+component programming stuff long enough to start putting together a pre-SDK
+for component development so everyone else can have fun doing component
+programming too.
+
+As long as you don't mind recompiling along with each alpha you'll be cool.
+If you don't want to do that, hold out for beta 1, which is when we'll be
+freezing the interfaces and marking the SDK as version 1.0, or 0.1, or #1,
+or something.
+
+Anybody know where to buy the Guillemot Maxi Studio ISIS XL online? I can't
+find it anywhere. I wish to make it the centerpiece of my little studio
+setup.
+
+
+08-Feb-2001 3:27 AM
+
+- Last to check in as usual
+- Didn't I just write one of these? Like last week?
+- Playlist editor usability improvements
+- Such as the esoteric "Add files" option
+- I know, I know. Who uses that?
+- Rearranged furniture more
+- Cleared out floor space
+- Combined 2 PCs worth of parts to make 1 uber PC that is almost totally
+silent in operation.
+- Banished big loud alienware machine to closet
+- You can still kind of hear it
+- Played with Reason demo, got excited
+- Bye bye $399
+- But to Propellerheads, which is like a sister Nullsoft, except without
+the selling-out-to-alien-overlords part
+- Played Star Wars Trivial Pursuit w/ ninja girl
+- Started pretending to not know the answers so as to hide geekiness
+last minute
+- Didn't work
+- The worst question was "How many shots were fired at the Millenium
+Falcon when it left Cloud City?" Halfway through her followup joke of "Ok,
+you can use a lifeline for that one" I answer "Three."
+- Yes, I visualized it and counted
+- She loves me anyway (!)
+
+
+28-Jan-2001 11:42 PM
+
+Woohoo! About three-quarters of a million downloads of the Winamp 3 alpha.
+
+I'm just so happy it's OUT. We did it: we gave birth. And people are
+actually *using* it?! Wow!
+
+
+27-Jan-2001 12:15 PM
+
+Good morning! Man, what a beautiful day.
+
+Note: I got the bugzilla address wrong, it should be:
+http://bugzilla.nullsoft.com:3430/
+
+The winamp.com one doesn't work. OK, so go report some bugs!
+
+
+26-Jan-2001 9:58 PM
+
+Our poor little forums are dying as thousands of people click 'refresh' on
+them constantly...
+
+
+25-Jan-2001 1:54 AM
+
+What to write... sucks that so many people got laid off. Nobody in Nullsoft
+got the axe that I'm aware of, though. Not that there's any fat to cut.
+
+We're pushing super hard to release an alpha-test of Winamp 3. We might have
+made our deadline, too, if it hadn't been for those meddling kids. Bugs. Did
+I say kids? Some bugs left still.
+
+Why is this taking so long? Here's why: Winamp 3 is built on a platform.
+That platform is called Wasabi. It is a platform for building players.
+Winamp 3 is just an instance of Wasabi, really. (It also serves to help
+define what APIs and services go into Wasabi.) Anyway, it takes a lot longer
+to build a general platform and an app on top of it than just to make
+the app. But it generally pays off big time. Re: Quake, Unreal,
+3d Studio MAX.
+
+
+17-Jan-2001 7:29 PM
+
+Subject: RE: What have you been up to?
+ 
+- Working
+- Coding
+- Drinking
+- Eating
+- Reading web comics
+- Smoking (not really, mom)
+- Missing ninja girl
+- Kissing ninja girl
+- Missing ninja girl again
+- Actually started participating in the Winamp.com Forums
+- Watched anime
+- Went for a walk
+- Talked to friend I haven't talked to in a year
+- Lives are scarily parallel
+- Between this guy and Tag, I don't need to read my horoscope to know what's upcoming
+- Hmmm, Erin emailed me. Maybe she doesn't hate me any more
+- Interviewing
+- Opinion stating
+- Opinion defending
+- Opinion offending
+- I like the Fillmore
+- TMBG will play there on the 31st
+- Dreaming about how I will have free time someday and the music I will make during it
+- Gave amazon.com $300 in return for lots more CDs for Monkey Radio
+- Re-reading "The Selfish Gene"
+- Conserving power
+- Bought stamps
+- Paid bills
+- Wrote this
+
+
+12-Jan-2001 04:06 AM
+
+Woo, I got the code flow going again. Drawing together lots of disparate
+work I'd done into a coherent whole.
+
+We're not kidding about putting out a preview of Winamp3 this month.
+Probably within 3 weeks. ;) Watch this space. Let's be clear, tho: this
+will be an alpha or a preview or a test release or whatever you want to
+call it. We're not trying to say we've got full functionality or anything,
+but we mostly just need to know the thing runs on hardware other than our
+own. So I wouldn't call it a "beta". An "alpha test" seems more appropriate.
+
+But now, to quote Groo, "It is time to sleep."
+
+
+11-Jan-2001 10:33 AM
+
+From: Brennan Underwood
+Sent: 1/11/01 10:16 AM
+Subject: RE: What have you been up to
+
+- Worked on a bunch of internals stuff you'll never see. Unless you're a
+component developer.
+- Wondered why I waste time on making such pretty code when I could just
+bang out something that would work 90% as good in half the time
+- Eh, I suppose I'll thank me for it in 2002. If I still have a job.
+- Got pissed off. Actually just annoyed. I miss Nullsoft '98.
+- Missed overbooked flight to Vegas
+- Attempted to simulate Vegas by drinking until I fell down
+- Experienced sublime pleasure of someone caring enough about me to take
+care of me until I was better
+- Mental note: do not become too used to this
+- Went to Vegas. Pronounced like Degas. Had to stopover in Phoenix.
+Captain helpfully noted we were passing directly over Vegas on the way.
+- Ate 2 doughnuts
+- Some terrible stuffing too
+- Lost a bunch a money
+- Going back into blackjack training
+- Flew back early. Also stopping over in Phoenix.
+- Waited 3 hours in Phoenix for them to re-seal the cockpit windshield.
+- Wondered if I should offer them some pre-chewed Big Red to use
+instead.
+- Read Maxim, felt manlier
+- Started a journal, dumped out 6 unlined pages of tiny writing in an hour.
+- Brain feels cleaner now.
+- Moved one of my beds into the living room. Makes the living room super
+cozy but now the bedroom feels empty. Maybe I'll put my couch in there
+instead and make it a smoking lounge with 24/7 BlueMars.
+- Tutored girl on making grilled cheese Brennan style.
+- Got combination flower/spatula bouquet from ninja girl (who broke
+previous spatula)
+- Consumed Swanson's Hungry Man Chicken Dinner. Cause I was hungry, man.
+- I think I will go to work today in my pajamas
+- Decided to make this my .plan as well
+- But I don't have SecureCRT on this box
+- So fuck it
+
+-----Original Message-----
+From: Daniel Rubin [mailto:daniel@nullsoft.com]
+Sent: Wednesday, January 10, 2001 5:31 PM
+Subject: What have you been up to
+
+
+Please tell all of amptech all of the luscious things
+you have done with your life on earth in the last 7 days. Tell us all, all.
+
+
+03-Jan-2001 8:45 PM
+
+Yay, 2001. I'm pretty sure we will be able to get Winamp3 out some time
+this year. Assuming Justin doesn't back-port everything into Winamp2, in
+which case I can go home and get some rest.
+
+Anyway, hopefully this month we'll be sneaking out an alpha-test to our
+most devoted fans. Stay tuned. The alphas will fly fast and furious once
+we get rolling.
+
+
+05-Dec-2000 1:50 PM
+
+Wow, a .plan update.
+
+- Going out is expensive. But worth it.
+
+- Sorry about the erraticism of the reports to NSDN. There should be another
+one next week.
+
+- Yes, ML stands for 'media library'.
+
+- Where is Winamp 3? Fuck if I know. At this point we've been stalled so
+much I'm back in "it's done when it's done" mode. On the other hand, this
+time has been invaluable for me to mature the interfaces.
+
+- Got my new Ricochet modem. Supposedly 128kbit. I get maybe 30. Oh well.
+Does anyone else schedule fedex/webvan/kozmo deliveries as a waking up
+device? I find webvan to be the most reliable in timing.
+
+- Someday we'll have bugzilla fully up & running. Today is not that day.
+
+- Damn you Kozmo! $1.99 delivery charge, my ass! I alone should be making
+you profitable enough, what with my constantly running up late fees. That's
+pure profit.
+
+- Microsoft importing Winamp skins, huh? Well, I assume they're already
+aware that they're fucking lame-ass lamo fucks, so I needn't mention it here.
+
+
+09-Oct-2000 12:37 AM
+
+Wow. If you want to know what it would have been like to play Madworld,
+my 3d game I attempted to make while finishing my CS degree, watch
+the opening segment of Cowboy Bebop Episode 20... wow... it blew me
+away to see that. *sob*... well, I guess Winamp 3 is a pretty sexy fallback
+project but... I gotta get that OpenGL port done. Sheet. If you want to
+see how the thing was looking back in 1998 on a P133 w/ Voodoo1, look
+here: http://www.cockos.com/~brennan/pix/?dir=Madworld_Imagery
+
+
+04-Oct-2000 5:47 PM
+
+Here's what's up.
+
+- My birthday party was quite a success. Check out www.pimpin2000.org for
+pics. Sadly, the party was somewhat underdocumented compared to what went
+on, but you'll get some of the flavor. The aftertaste anyway.
+
+- Winamp 3's public beta is being pushed back for a multitude of reasons.
+One is to wait for some licensing to be completed. Another is to let us
+have time to communicate with AOL and Netscape's various departments to
+coordinate the launch, and yet another is to allow Justin time to finalize
+Winamp 2.666, so you 2.x diehards will have one last superduper version to
+hang onto until Winamp 3 wins your hearts.
+
+So since we've got a bit more time to kill :), we're going to spend it
+packing Winamp 3 with yet more wads of gooey goodness, including the
+scripting language which was originally scheduled for 3.1.
+In fact I'm going to try to fit all the 3.1 features into 3.0 now, if only
+to embarrass the Sonique guys as much as possible. ;) I suppose I should
+start in on a 3.14 feature list now just to be safe. :)
+
+So anyway, my current best guess for a private/public beta is now
+mid-November, with a "launch" (read: party ;) in December. Don't worry,
+you'll have it in plenty of time for Christmas.
+
+Gawd, when did I start using :)'s? I'm going soft.
+
+
+14-Sep-2000 6:49 AM
+
+The rumors are true. My birthday party forthcomes. Details will become
+less sparse in the coming weeks.
+
+
+11-Sep-2000 3:48 AM
+
+Wow, it was only about 1 year and 1 month ago that I started working at
+Nullsoft. I got my computer, stole a table from Spinner, sat down,
+and created an empty project in MSVC called 'studio.' My, how it's grown
+since then...
+
+Winamp 3 is...
+
+...a 100% from-scratch rewrite of Winamp. Everything in it or about it is
+next-generation. Less than 1% of code from Winamp 2 has been imported to 3
+(mostly some random win32 shell programming code etc.)
+
+It features
+  - A brand new core playback system by Justin
+  - A brand new skinning system by Christophe
+  - A brand new music database system by Francis
+  - A brand new component-based plugin system architecture by yours truly
+  - An evolved and refined user interface by Steve and me
+
+...going to go into a private beta in a few weeks. This is not the beta
+you may have signed up for, this one has to be kept to a (very) small number
+of people due to software licensing restrictions.
+
+...going to rock butt.
+
+...not finished yet.
+
+...never going to be truly "finished." Instead, it will steadily rock more
+and more butt over time.
+
+...about all I've thought about or worked on for the entire previous year
+of my life (besides the binge drinking, trips to Vegas, bikini models, etc.),
+and so it is very exciting and not a little scary to almost be able to
+present it to you. I can't wait! I hope you like it.
+
+
+05-Sep-2000 5:19 PM
+
+Good morning!
+
+Phun Winamp 3 Phact #1: Nitrane is going bye-bye. We are going to ship a
+version of Fraunhofer's codec with Winamp 3 for MP3/MP2 playback. It might
+end up being magically faster than the stock codec, too.
+
+Phun Winamp 3 Phact #2: I just rewrote the shuffling. Then I spent about
+half an hour with a notepad making tick marks making sure it played every
+file in the playlist once before reshuffling. So if you can get it to
+play the same song twice in a row or just come up too often, I'll give you
+a cookie. I'm thinking of having a global shuffle option too, which makes
+sure you haven't heard any one song in your library more than another,
+even as you switch from playlist to playlist, given the songs in the current
+playlist to choose from.
+
+What else? Lots. But I'm going to go outside now. :)
+
+
+30-Aug-2000 6:57 AM
+
+Whew, a marathon, 16-hour coding session comes to a close. Winamp3's
+usability is growing by leaps and bounds. I love working on the top-level
+interface/usability stuff. It's so much more instantly gratifying than
+low-level architecture stuff. Not that I'm not busting butt to finalize
+that too, 'cause I am. In fact my "Retarded Code To Fix Before Anyone
+Sees It" list is getting nice and short.
+
+I'm sincerely hoping we will get the private beta out in just a couple of
+weeks. We'll see. I especially want to get copies to our Forum Moderators,
+who are all wonderfully patient people, I'm told. ;) Please don't kill me
+if I have to push the date back a few times. And don't worry if you didn't
+make the beta list. We all know some hoser is going to share his copy
+"accidentally" on gnutella or something. Although AOL will probably sue
+them if they do, 'cause they would be violating their NDA. At least it
+would prove gnutella is about file swapping in general, not just mp3/porn
+swapping.
+
+Can it be piracy if it's free software? I dunno. All I know is, this is
+the big push at the end where everything comes together. Bear with us.
+We think you'll like what we're making for you.
+
+
+28-Aug-2000 1:41 PM
+
+Yeah, that inside.com story was pretty interesting. People are finally
+noticing that you never hear from us any more.
+
+
+22-Aug-2000 5:30 PM
+
+Ah, glorious! I recently declared by fiat (under cover of "asking") that the
+Winamp 3 client team works from home Monday through Wednesday.
+
+I am now getting my home office set up and it is great! Well, having to use
+VPN kinda sucks, but that's getting fixed. I have Monkey Radio coming in on my
+big fat speakers in the living room, the whole house is open and being invaded
+with fresh air, there's no one else here to distract me, and I just wandered
+across the street to buy a pint of ice cream...
+
+Ahhh... this is MY Nullsoft.
+
+
+19-Aug-2000 4:40 PM
+
+2 days later and more of the same. Except I can actually close my jaws now.
+That's nice. On the other hand, part of my lip is still numb due to possible
+nerve damage during surgery. That's not so nice.
+
+I have managed to get some work done on the laptop, though. Some old
+design decisions that made sense at the time but then were never updated
+as outside concerns prevailed are now getting cleaned up. All of which
+will make life easier on the component writer.
+
+By the way, my entire life has been stalled by this tooth thing. Sorry.
+I am usually slow to respond (if I ever do :) to emails anyway, and this week
+everything is just halted.
+
+Someone recently emailed asking about support for the blind in Winamp 3.
+Don't worry, it's very important to me that it be as usable by the blind
+as Winamp 2.x was, if not more. That means key bindings, nonmodal
+interfaces, things like that. I'm even trying to avoid colorblindness
+issues (there are probably some anyway; I can't control what people do with
+skins.)
+
+I haven't yet looked into hooking into the screen reader type stuff yet,
+but it's on my to-do list for 3.1. Heck, maybe we'll provide enough hooks
+for someone to write a native reader component.
+
+At some point me and Francis intend to mess around with the
+public speech recognition packages out there and write an interface
+from one of them to the script system. Which would be cool for everyone,
+of course.
+
+"Computer!"
+"Bee-do-boop!"
+"New playlist. Add music, artist DMX Krew. Randomize. Play."
+
+OK, so I doubt public speech recognition is up to this yet, but we'll see. :)
+
+p.s. www.monkeyradio.net
+
+
+----------------------------------------------------------------------
+
+
+17-Aug-2000 3:50 PM
+
+Gawd, my face hurts. I had my wisdom teeth out this past Tuesday. Healing
+seems to be taking much longer than I anticipated. So... lots of soup,
+drugs, and almost no work getting done. :( Oh well, at least I can plan
+what I'll do when I get back.
+
+

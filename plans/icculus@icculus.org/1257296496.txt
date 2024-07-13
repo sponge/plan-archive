@@ -1,0 +1,68 @@
+I've been so damned tired.
+
+
+FatELF:
+
+ Turns out I liked the uncertainty better.
+
+ It looks like the Linux kernel maintainers are frowning on the FatELF patches.
+ Some got the idea and disagreed, some didn't seem to hear what I was saying,
+ and some showed up just to be rude.
+
+ I didn't really expect to be walking into the buzzsaw that I did. I imagined
+ people would discuss the merits and flaws of the idea and we'd work towards
+ an agreeable solution that improves Linux for everyone. It sure seemed to
+ be going that way at first. Ultimately, I got hit over the head with package
+ management, the bane of third-party development, as a panacea for everything.
+
+ After a while it sort of felt like no one was actually understanding a
+ single thing I said. A lot of it felt like willful ignorance, but I suppose
+ I'm biased.
+
+ It's all moot anyhow: the Software Freedom Law Center never replied to my
+ request about the software patent thing. I suppose they still might; it's
+ only been a few days, but for some reason, I fully expect to never hear from
+ them. Based on current feedback, I'd say paying a lawyer to talk about
+ software patents at this point would be like setting money on fire.
+
+ Even if I persuade the kernel people to apply the patch, the next step is
+ getting glibc to accept patches, so FatELF shared libraries could work. I 
+ wonder how Ulrich Drepper would feel about committing those patches? Let's
+ check the crystal ball...
+
+   http://www.redhat.com/archives/fedora-devel-list/2009-October/msg01118.html
+
+ ...my sources say no. Do I really want to go through this twice?
+
+ I'm more than a little discouraged by this endeavor. I think I'll declare
+ FatELF done for now. I'll leave the project page up, but I imagine it'll 
+ only be for archeological purposes.
+
+ I'm surprised by how angry I am about this whole thing. That's life in the 
+ NBA, though. If you don't like it, don't play. I'll definitely think twice
+ before trying to contribute again, especially if it addresses the status quo.
+ Open source is a lot more gratifying when you are working on your own project.
+ Contributing to other projects? Not so much fun, it turns out.
+
+
+UPDATE:
+ Had I checked my mail one more time before posting, SFLC got back to me:
+
+"Ryan,
+
+I refer you to our Legal Guide section on dealing with patents available
+from our website.  I also refer you to our amici brief in Bilski, where
+we argue that patents on pure software are invalid.  If a patent is
+invalid, there's no reason to consider whether it is infringed."
+
+I don't think this would have helped my case, but I would still love software
+patents to go away.
+
+--ryan.
+
+--------------------------------------------------------------------
+When this .plan was written: 2009-11-03 19:56:22
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.23 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

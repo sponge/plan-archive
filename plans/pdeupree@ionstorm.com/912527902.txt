@@ -1,0 +1,269 @@
+
+*** Ion Storm's Finger Server
+
+User name: pdeupree
+Plan modified: Tue Dec 01 13:07:16 1998
+
+12/1/98
+--------
+
+Well, it's been a busy week or two in game playing for me (I took the 5
+business days before Thanksgiving off to get things done around my house).
+It was a pretty wild week here while I was gone.  However, I'm back now
+and everything is going very well here.
+
+In the meantime, while I was gone, I finished off Metal Gear Solid, and
+last night finished playing Grim Fandango (both excellent games).  Now I'm
+working on playing Half-Life and Zelda 64 (got my gold pre-order copy the
+day it hit Toys R' Us).  The way Zelda uses the rumble pack and dynamic
+music are the best I've seen yet for the Nintendo 64.
+
+Regarding the work scene, I've decided to rewrite some code I did before
+for inventory and character data storage and management.  I've got a new
+way of doing this that is VERY dynamic and should make it easy to extend
+the capabilities for possible user mods and for our own use.  It's going
+to be very easy to add new fields of capability to items or characters
+now.
+
+11/3/98
+--------
+
+On the biz side of things, I can now say that I'm adding bugs and garbage
+to my code in Anachronox.  I've got some cool ambient garbage that blows
+around the streets and occasionally gets caught up in swirling eddy's, plus
+a bunch of insects that skitter around the place.  There's also another
+"creature" I've added in that you'll just have to wait to see since I don't
+want to give away the surprise.  :)
+
+With this latest code, and the stuff I put in for ambient movement and action
+definition for the NPC's, the streets of Anachronox should really be coming
+to life soon.  I also added in a bunch of code for the player to interact with
+the environment (run talk animations, open chests, pick stuff up, etc).I can't
+wait to see what the level designers will do with all of this.
+
+On the general game biz front, I picked up Grim Fandango and it's a very cool
+adventure game.  To be honest, I'd been getting somewhat burned out on this
+genre recently, but this game rekindles my faith.  I can't say that there has
+ever been an adventure game Lucas Arts has put out that I didn't like, so they
+are pretty much maintaining a good tradition.
+
+I've also been playing Metal Gear Solid.  Very cool game.  Upon the
+recommendation of others here, I'm also going to pick up Tenchu since I've
+heard that, in ways, its better than Metal Gear Solid so I've got to see
+what it's all about.  It's tough being a game addict.
+
+10/23/98
+--------
+
+I just wanted to say that Klingon Honor Guard is a VERY cool shooter.  I
+don't think I've had as much fun and challenge in a 1st person shooter
+(released or demo) since I played Jedi Knight.  It, unfortunately, has
+inherited some of the early Unreal bugs (they are apparantly working on
+integrating all the Unreal patches into their code base now) so it won't
+work on Cyrix based machines, and has a problem with the SB Live, but
+luckily I have an Intel P400 and havn't installed my SB Live at home yet,
+so it runs great on my system.
+
+I think the thing that impressed me most about the game is the fact that it
+is the first shooter I've ever played that effectively uses close combat
+weapons.  There are places in here where if you try to shoot your way out,
+you will get your ass kicked, but if you break out your trusty Batlif (I
+know I just messed up the spelling for that, but I don't live and breath
+Klingon, so I'm not sure how to spell it) you can kick some serious ass.
+
+So, if you have the horsepower to run it (at the very least I'd say a PII/266
+with a Voodoo2) then I highly recommend this game.
+
+10/12/98
+--------
+
+Here's a buyer beware update that I wanted to post.  This Saturday I bought a
+shrinkwrapped DVD and brought it home.  Upon opening it, I discovered that
+inside was actually a Sound Blaster driver CD with scratches all over it.  I
+went back to the store to return with this fear that they would hassle me,
+since how would they know I didn't make the switch.  It turns out that this
+is becoming more common.  Some idiots out there will actually buy DVD's,
+switch the disk with something less useful, and go to a shrink wrap outfit
+to seal it back up again.  So, the moral of this story is that I will open
+DVD's before I leave the store (after I purchase them of course), so that
+I can ensure I havn't been burned by one of these cretins.  It's idiots like
+these that continue to make it harder and harder for consumers to return
+merchandise to stores.
+
+In the meantime, work progresses on Anachronox.  I'm getting into some really
+cool stuff right now with client animation of models and it has made battle
+mode a LOT easier to manage.  I've got in a bunch of different animations for
+status effects, and for different types of attack and with the exception of
+one little glitch (that appears to be fairly deep in the engine), it all looks
+great.
+
+09/23/98
+--------
+
+On a slightly non-game related subject (though I found out about this thing on
+Gamespot originally), there's a new lego product line out called Mindstorms.
+Basically, for any of you folks out there that, like me, were totally
+fascinated by robotics as a kid, this is almost a dream come true.  It's
+basically the Lego Technics line (gears, axles, differentials, etc) combined
+with a control unit with 3 inputs and 3 outputs that you can program via your
+computer to trigger output based on input and such.  The one thing I'll warn
+is that the "development environment" that comes with the kit is targeted so
+that 12 year old kids can use it, so it's not a "language", but more of a drag
+and drop stack of commands.
+
+However, as with all good inventions, there are folks out there that have been
+good enough to disassemble these units and figure out exactly what the unit is
+expecting.  In addition, the programming tool that comes with the kit seems to
+center around a Windows OCX, so it should be possible for any programmer to write
+their own interface (or language) to communicate with this thing (and there are
+those out there that have already done so).
+
+Check out the following 2 pages if it's of any interest:
+http://www.legomindstorms.com
+http://www.crynwr.com/lego-robotics/
+
+I got the last unit at the Toys R Us by where I live, and the guy that helped
+me out told me that some robotics club in town has been running around buying up
+all the units they could find.  I didn't get any batteries for the thing, so I
+havn't actually been able to use it myself yet, but once I get those batteries
+tonight I have a feeling I won't be getting much sleep.  :)
+
+09/17/98
+--------
+
+OK.  I know I said it a ways back, but given the recent e-mail from the Texas
+Martini Foundation guy, I think it bears repeating.  Please do NOT send me 
+e-mail unless it is relevant to either Anachronox, Ion Storm, or something
+I've posted in this plan file.  An example of good e-mail would be the people
+that responded to my query for finding information on the video arcade game
+I bought.  Another example would be the e-mail I've received asking further
+questions about battles in Anachronox and how they will be handled.  An example
+of bad e-mail is asking if I want to buy a spam e-mail list, asking if I want
+to make $1000 a day without even trying, or asking me to boycott fans sites of
+our (and I mean this in the most general sense of being a game developer) games.
+
+Also, since I don't really want to propegate the e-mail reply's any further, and
+for the general publics information, here's what the TM guy has a problem with.
+He wants to boycott PlanetShogo because the folks behind PlanetQuake and its
+spinoff's have been "leeching off of the success of id Software games for a long
+time now, but this has evolved from a simple one site Quake community into a
+moneymaking machine".
+
+As both a game developer and a consumer, here's my take on this.  Any publicity,
+recognition, or fan base for a game I work on is a good thing.  If the people
+maintaining that publicity, recognition or fan base are making money doing so,
+then that's fine.  It's not like PlanetShogo is going to contain a full version
+of the game that will take away from the sale of the game.  If anything, the
+existence of such a site will build a larger fan base for the game, and it
+doesn't cost Monolith a cent for the promotion of the game they will get from
+that site.  If PlanetShogo did do something that blatantly ripped off the game
+like selling T-Shirts with the Shogo logo or name on it, then I would be behind
+confronting them on the issue.  On the other hand, if they use the money
+received from people that willingly advertise or purchase space on the site to
+maintain said site, then I personally don't see the problem.
+
+Now, back to business.  Anachronox is coming along.  I'm getting status effects
+(e.g. Poison, etc) into battle now so that's pretty cool.  I had to improve the
+monster AI a little so that they will cure status effects if they have something
+to cure it with, and they will now use items a little more intelligently.  Some
+of these guys are going to be fairly tough to fight.  :)
+
+09/04/98
+--------
+
+Whew.  The code is done and the CD should be burning soon for the ECTS demo.
+Battle mode is looking AWESOME now.  Corrinne gave me a mystech effect to use
+that is very cool, and Will made some music that is awesome (though Tom didn't
+have the CD handy, so he put in the Star Wars theme and that worked also).
+There is this map with a good wide open space and we've got a battle set up
+between 3 different enemy types, and 3 party members.  With getting this
+working so that it looks good, flows well, has enemies with some form of
+intelligence, and ends with a flourish it's been quite a month.  In addition
+I got the code for storing inventory for the party and NPC shop keepers, and
+allowing purchase and sales interaction with the shop keepers in there.  We
+don't quite have the interface for this interaction yet, but it's still
+progress.
+
+Now it's off to a restful labor day weekend of getting my butt kicked by a bunch
+of high rank Karate folks.  I can already feel the pain.  :)
+(But it's a good pain.  Honestly.)
+
+08/25/98
+--------
+
+Been busy, busy, busy on Anachronox battle mode stuff.  I've hooked up the
+character animations and sound so that the battle have a lot more life.  It's
+really cool to see the battle play out with sweeping camera movements,
+enemies jumping over to whack your character in the head with the chunk of wood
+they're carrying, and laser beams cutting into your enemy.  We don't quite
+have the Leviathan spell from the Final Fantasy VIII demo yet, but Lee's
+thinking of things.  Even if I've said it before, I'll say it again.  This game
+is going to be very cool.
+
+
+08/03/98
+--------
+
+I've changed my mind.  I'm playing Final Fantasy II instead of Resident Evil
+now.  I picked up the game in an auction a little ways back and I never got
+around to playing it, so now I'm taking the time (late at night) to get my
+money's worth from the game.  To be honest, it's games like that that show
+me that graphics aren't everything.  Since this game is many years old, the
+graphics are obviously very substandard to todays, but I am very absorbed in
+the game because of pure gameplay and plot.  It's also really interesting
+to see just how much of the Final Fantasy series has survived over the years
+(including that silly song that plays when riding a Chocobo).
+
+In addition, my wife and I went to an arcade game auction this Saturday and we
+picked up a pinball machine and two video arcade games that need a little work,
+so I'm breaking out the old soldering iron and getting back into electronics in
+my spare time.  That should be pretty cool.  I have not had a decent electronic
+project since maintaining my Apple II as a kid.  Anyone out there know of a good
+place to get schematics for arcade games that are around 3 years old?
+
+In the meantime, Anachronox is coming along very well.  I spent some time last
+week wandering around in one of our battle test maps and getting my butt kicked
+by the enemies on the map.  I cranked up their stats because they were too easy
+to beat one on one, but then when fighting 3 of them it became a bit tougher
+since they heal themselves and start throwing the big guns at you when they are
+low on health.  So, I think it's time to lower those stats a bit.  I'm also
+working on making things a bit easier for Jake and Tom to import their
+character and item related data into the game.  Ultimately I want to make an
+editor for that data, but right now it's too much fun getting the visuals going.
+
+This game is going to be very cool.
+
+07/24/98
+--------
+
+Well, I finally finished Final Fantasy VII.  I've got a huge stack of games at
+home that I keep intending to finish, but I end up distracted by silly stuff
+like new games that come out.  But I really wanted to finish this one off, so
+I finally did.  Beside which, Tom has a FFVII watch that he told me he would
+give me if I finally finished the game.  :)
+
+I think I'm going to work on finishing Resident Evil next since that's another
+one that got put to the side.  I've vowed not to buy another adventure or RPG
+until I finish some of these, so finish them I will.
+
+Anachronox is getting pretty cool.  I've gotten the battle system core and
+the character stat/inventory system in there so we can have characters
+progressing from battle to battle.  I have to say that after doing engine work
+for quite a while it's going to be a lot of fun to finally just do gameplay
+programming.  I've always been the type that loves to see everything really
+come together in a game or project.  It's also great to get back to doing 3D
+programming since I had been doing 2D stuff for 7th Level and Ion Storm for
+the better part of 3 years.
+
+Now for some non-game related stuff, this is for all those people that are
+scared to drive next to a cement barrier with no shoulder on the highway.  I
+think those fears are justified.  I was on my way north last night and the
+highway was jammed because there was a semi in the right lane with a car
+wedged between it and the cement barrier.  The car was almost literally
+vertical, so it was pinned in there pretty well.  I think it's time they set
+up a no semi policy on that stretch of the highway (like they have with Lake
+Shore Drive in Chicago and the Merit Parkway in Connecticut).  It's pretty
+dangerous to have such wide and long vehicles on a 2 lane stretch with concrete
+on both sides.
+
+

@@ -1,0 +1,56 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+
+2/27/01
+
+Ok, I'll start off by saying this update doesn't contain any information 
+about our next project, so apologies in advance.  We appreciate all the 
+email inquiries and stuff, but its not yet time to discuss that.
+
+I wanted to mention a course that I've been teaching for the past couple 
+years through the UC Berkeley extension campus in downtown S.F.  Its a 5 
+week course that runs evenings from 6:30 to 9:30 on Tuesday starting 
+March 6.  The last couple years the topics were really broad, covering 
+DirectDraw, DirectSound, and all that, but I've decided this year to focus 
+primarily on Direct3D8 and only touch upon the other APIs where its 
+necessary to get a simple game demo up and running.  I've found in the 
+past that the 3D stuff was what people were mainly interested in, and 
+frankly the other APIs are easy enough to learn on your own.  So this 
+year's course will be a little different from before.  The course is 
+geared to people that know C or C++ but haven't written a 3D game before.  
+It also covers some game programming basics like simulation loops, basic 
+dynamics simulation, world representation, visibilitiy, etc.  If anyone is 
+curious about getting into games on the programming side please check it 
+out.  I have a great time doing this each year.  The classes are usually 
+really small, so its a good chance to get 1-on-1 feedback and ideas on 
+your own projects.
+
+The URL for the course info is http://www.unex.berkeley.edu/cat/326801.html
+If you can't make it this semester, I'll probably be doing it again next 
+year (on DX9?)
+
+In other Nihilistic news, I'm happy to report that we've filled our recent 
+job opening for an animator, and we'll have an announcement shortly about 
+the new hire.  Thanks to everyone that submitted demo reels and such, and 
+we'll keep everything on file for any future openings.  We're thrilled 
+with the number and quality of submissions we got.  Thanks to Morgan at 
+gamasutra.com and Daivd@Factor5 for directing us to "highend3d.com" to 
+help spread the word, those ads really got the ball rolling.
+
+Nihilistic folk will be speaking again at the GDC this year.  Designer 
+Jacob Stephens will be hosting a level design panel including Paul J from 
+Id, Dario from Valve, Eric B from Raven, and (listed last because I know 
+how won't mind!) Duncan Brown from LucasArts.  Our lead LD Steve Thoms and 
+artist Yujin Kiem will be doing a roundtable on LD-artist interaction.  
+Anthony Chiang is repeating his highly-rated roundtable from last year on 
+technical artists, and I'll be sitting in on a panel on scripting 
+languages for game engines that includes Tim from Epic, and top guys from 
+Bioware, LucasArts, and Microsoft.  Should be a fun year.  The keynotes 
+should be good too, Iain McKaig from Lucasfilm for art, Wil Wright for 
+game design, and Marivin Minsky for programming, among others.
+
+

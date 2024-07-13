@@ -1,0 +1,29 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------
+User Name: dave.moore     Plan Last Modified: 01/29/1999 11:55:04 PST
+
+Real Name: Dave Moore
+Nickname:  SymLink
+Job: Technology Programmer, Lord High Miscellany
+Project: Starsiege Tribes
+
+  Eek!  I guess some folks are writing their chip manufacturers
+as a result of my .plan.  Please folks, direct all irate comments
+my way.  The folks at nVidia and Matrox (and all the other card
+developers that we deal with) are bending over backwards to help
+out with the port.  In addition, Sim D. at nVidia has made
+a few suggestions since my update that have helped our preformance
+on the TNT considerably.  It's looking more likely than ever that
+I'll have to eat my words here.  Please be patient, as MarkF said,
+it's Real Soon Now.
+
+  Speaking of eating my words, on a completely different subject
+skin designers should ignore my previous instructions.  Please use
+only Palette 3 from the Skin tools for designing custom skins.
+TimG reminded me that all of the damage bitmaps applied to the
+armors are mapped in pal3, and will show up as multicolor splotches
+on an armor mapped to a different palette.  There are (hopefully)
+enough colors in pal3 to keep everybody happy.  My bad.

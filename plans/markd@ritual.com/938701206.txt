@@ -1,0 +1,100 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: markd
+Plan modified: Thu Sep 30 09:21:46 1999
+
+09/30/99
+========
+
+Sin Movie!
+==========
+
+Yester day we received a small package from our good friends ADVFilms
+containing the latest trailer of the Sin Anime.  I can't tell you how cool it
+was for the entire Sin team to sit in the TV room and watch the carnage unfold
+on the screen.  There is nothing quite like Anime when it comes to
+
+08/16/99
+========
+
+Sin Version 1.06
+================
+
+Version 1.06 is out the door and can be found on www.ritualistic.com.  For
+those of you who already have version 1.05, you should use the 1.04->1.06
+patch.  The difference betwen the 1.05->1.06 and the 1.04->1.06 was less than
+10k and since they were functionally equivalent, I decided to release just the
+one patch.
+
+The new version includes a new deathmatch map from Zor called Spool as well as
+speech synthesis support.
+
+07/26/99
+========
+
+SINCTF News
+===========
+
+I fixed the invisibility bug (I think) in Sin.  The new version is running at
+sinctf and debugctf. If anyone can still cheat, please let me know directly.
+
+Version 1.06 should be ready to roll, as long as this bug has been squashed.
+
+05/27/99
+========
+
+I am not pale damn-it!
+
+05/20/99
+========
+
+Camera system in version 1.05
+=============================
+
+If you want to play around with the camera system, add these to your config.
+This is a pretty good setup for working with cameras.
+
+bind INS "cam add"
+bind DEL "cam delete"
+bind PGDN "cam prev"
+bind PGUP "cam next"
+bind HOME "cam loop"
+bind END "cam stop"
+
+There was no real reason for the camera system other than that it was cool,
+and that it would help out in someone's internal side project. Enjoy.
+
+05/19/99
+========
+
+Sin Version 1.05
+================
+
+It should be up on our ftp site shortly, and from there it will probably get
+mirrored to your favorite website.
+
+General
+- An in game camera system has been added similar to the one we were showing
+at E3.
+- Extensive 3DNOW! optimizations have been made to the renderer
+- demos work again
+
+CTF
+- ctf_forcejoin now works correctly.
+- dropped weapons no longer allow you to carry too much ammo
+- the quantum destabilizer is no longer such an unbalanced weapon in CTF.
+
+E3
+==
+
+Thanks to everyone who came and saw the demo we were giving of FAKK 2.  It is
+nice to know that even though our industry is in a moral crisis, people still
+enjoy a FANTASY based on sex, drugs and rock and roll.  The competition looked
+awesome (as always). Vampire, Anacronox, Voyager and Oni all made me want to
+rush back to Dallas so I could continue working. ;)
+
+
+Mark D
+<markd@ritual.com>
+Ritual Entertainment

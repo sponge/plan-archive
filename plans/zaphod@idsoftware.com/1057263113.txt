@@ -1,0 +1,10 @@
+
+Name: Graeme Devine
+Email: 
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+
+The Enemy Territory master server, the RTCW master and auth server will be moving office Monday morning CST.  They will be down for as little time as possible, I would guess no more than 30 minutes each.
+
+Graeme.

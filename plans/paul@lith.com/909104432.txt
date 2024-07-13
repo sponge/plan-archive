@@ -1,0 +1,43 @@
+Login: paul           			Name: Paul Renault
+Directory: /home/paul               	Shell: /bin/bash
+Last login Tue Sep 16 07:58 1997 (PDT) on ttyp0 from 208.8.216.193
+No mail.
+Plan:
+7/11/98
+
+Well we have the weekend crew working on Gruntz. Today Rick is putting finishing touches on the intro movie he needs to finish up so that he can attend Siggraph with a clear conscious.  Then Oscar is busy working on an electrical outlet and some kitchen slime.  Akika is overloaded having to animate 30+ objects that include  Pogo sticks, go-carts, jump ropes and shovels just to name a few.  And then there is the new recruit Dan Davis and he is putting together powerful power-ups and also finishing up a tree fort that reminds me of the Honeycomb Hideout.  Myself I have been working on cockroaches, cigarette butts and a few breakfast items.  Sunday should be more of the same.
+
+
+
+6/18/98
+
+These dayz I have been keeping buzy with Gruntz.  Lets see its iconz 12x12 32x32 static, rotating, and highlighted.  There are power up designz and cut scenez and in game Grunt animationz.  And we have the space ship fort and eye candiez, and explosions, mobile hazardz and static hazardz.
+Also slot machines, tirez, tombstonez, horse pillz, coconutz, gumballz, kitchen sinkz, stovez, steam rollerz.  Anyway that is just todayz taskz. There sure are allot of elementz in creating a world for these Gruntz.
+Carlson and Winter have been doing a great job animating the Gruntz and bringing them to life, it is so funny watching the Gruntz, I cannot imagine anyone not laughing out loud while they watch these guyz (the Gruntz that is).
+
+
+
+4/28/98
+
+My latest efforts have been on the game "Gruntz" I just finished up the storyboards for the ending cutscene, I can't tell you how it ends you will just have to play the game to find out.  The game is looking real good this product will appeal to most age groups.  Our biggest problem to date has been trying to locate a few Gruntz so that we could have a couple of motion capture sessions, I'm sure once the product is completed we will have Gruntz coming out of the wood work.  That's the problem with these Gruntz they appear to be a little on the slow side but they mean well.  I want to send out a thank you to Jason Zeringue for helping out on this product especially during the design phase so "Thanks Jason and best wishes to you on your future project." he really is one talented individual.  All the artist on Gruntz have been doing great work but you guys and gals are still working on the project so I will save my compliments for after completion.  Speaking of completion I have some splash screens to finish up, I will try to keep my plan file updated a little more than every six months, so check back soon.
+
+
+9/8/97
+
+Recently viewed about 10 Demo reels, sure is alot of talent
+out there. We just finished working with Digital Magic 
+magazine, the October issue will have an extensive article 
+on Monolith's development cycle. There was also an article 
+in CGW (computer graphics world) August issue that has 
+information on how different companies selected graphic 
+software and hardware solutions, and Monolith is featured 
+in this article. On the same note we have been looking into 
+Newtek's Lightwave as a secondary 3D software program. 
+Tomorrow we will look at a demonstration of Kinetix 3D Max 2 
+new features at NWTech. Microsoft's SOFTIMAGE is still the 
+tool of choice around here.
+
+
+9/2/97
+
+Currently looking at the integration of Facial animation system.

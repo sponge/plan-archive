@@ -1,0 +1,112 @@
+User:   timplan
+Unread: 16
+Plan:
+GameSpy Java - cool stuff here.  Almost all of the pieces are written. Need
+to put stuff together and begin debugging.  The HTML parser was very easy to
+write in java and works better than GameSpy's.
+
+GameSpy - 2.08 was almost ready then we got a new game to add and started
+looking into why 2.07 was crashing with Unreal.  I can't duplicate the
+problem.  I will say that 220 of Unreal is definately beta because Unreal
+crashed.  I then started cleaning up some of the stuff I had already done in
+2.1.  Also rewrote the HTML parser so it works as well as Java's. Pulled out
+socks and set DirectPlay (DP) up to build in by flagging.
+Speaking of DP, I may look at it for 2.1.  The problem is the DirectX6 SDK
+is 225M compressed.  Sheesh.  I may have to remove a game or two.
+
+WinRoute - continued playing with WinRoute.  Some notes:
+1) Version 3.04 will NOT save the settings if you change them then reboot.
+You need to close WinRoute manually.
+2) Watch out for the autoconnection (dial on demand) setting on any of the
+routers.  I went into the other room last week to watch TV and heard the
+modem start dialing.  A PQ web page I left up in Linux decided it was time
+for a new ad.
+3) Hang up is bad too if the machine acting as the router is also being used
+as a desktop also.  WinRoute does not seem to be smart enough not to hang it
+up if nothing is happening on the protected side.  But this may be related
+to 4...
+4) When using WInRoute, dial within the program and don't use standard
+dialup networking.
+
+Linux 2.2.1 is out.  I may build my first Unix kernel.  Got to get some
+GameSpy stuff out of the way first.
+
+Last plan I stated "5) IPX/SPX.  There are very few things I hate in the
+computer world but
+Novell is one of them.  None of my computers has IPX installed.  That
+seriously helps Windows stability."  I got one email trying to tell me the
+glories of Novell.  Well, I did not back up the statement with some facts
+and my experiences which leads me to say something like that.  Before I do
+that, don't email me trying to convince me I am wrong.  When you see why,
+you will understand.  On with the rant:
+
+I don't have much against the concept of the Netware server.  I have major
+disagreements with the way it is implemented in relation to the client. The
+problem is the client is too bound to the server. When a server goes down,
+for what ever reason, the client OS should never
+stop responding or just crash.  Anytime I have had any dealings with the
+netware client installed, I always have the problem.  Remove netware, the
+problem goes away.  Gives new meaning to the misused phrase "the lan is
+down."
+
+So far I have only had two things that made NT unstable or crash.
+1) Netscape 2.x and 3.x.  Gave up on them after 3.02 and used the really bad
+IE2.  At least it did not crash NT.
+2) Netware.  Connect to the netware share, email for example (cc:mail).  The
+server goes down and NT has spasms.  It may recover (95 is a hard reboot at
+this time).  It will definately need to reboot.  And cc:mail was NOT running
+at the time. Furthermore it happened on several occasions.  If I got far
+warning, I would run a script to disconnect the shares.
+
+Another thing that pisses me off is Netware will pop a share into
+my 95 laptop when creating directories on network share if I have NO netware
+shares or
+drives, just the client is installed.  Obviously it needs thinks I want to
+login.  The part that angers me is the network drive I created the directory
+on is the one replaced by netware.
+
+Another item.  Using your laptop when not connected to a network.  Netware
+insists it can't find a server to verify your login (no sh*t).  But it won't
+give up and will continue to annoy you despite the fact you clicked cancel.
+Definately not good when you are trying to demo for the customer at their
+site.
+
+Every major OS has problems.  I could go into several REALLY DUMB Microsoft
+mistakes. For good measure here is one: Mistype your password in Win95.
+Type it correctly the second time.  MS uses the wrong password when
+reconnecting the shares.  Here is another: enter your password when it is
+expired or wrong when connecting to a domain.  Your only recourse it to
+reboot or enter an invalid domain name if you can't correct the password
+because cancel does not work.
+
+Have not found any in Linux yet but I am still a newbie with it.
+
+The only consistant thing between Microsoft and Netware is they both don't
+know when to take NO (cancel) for an answer.
+
+Some words of wisdom for Microsoft and Netware (and others):
+1) When I say No or Cancel, I mean just that.
+2) If one connection failed to a server because the server is down, don't
+annoy me about the rest of the shares to the same server.
+3) When you have a multithreaded OS, realize I just may be doing something
+else and popping up dialogs because something finished or failed is NOT
+good.  Find another way to let me know.  Blink to task bar or set off sound
+effect.
+4) Splash screens are not a good thing, especially if they don't allow me to
+do something else (ie Outlook).
+5) If I have another window active and I am using it, never force your
+window to the foreground.  The only window I can think of that needs to
+force forward is the UPS letting you know the power is going out and how
+long you have before it dies.  But use your head here too.  ICQ has a good
+model here.
+6) Microsoft - why is there not a "Yes to All" when changing network
+settings?  Also, why are you wanting the Win CD when all of the pieces are
+installed?  Check before asking for CDs.
+
+Finished ranting now.
+
+Timothy 'CMonster' Cook
+http://www.gamespy.com
+http://www.mindspring.com/~cookti
+
+

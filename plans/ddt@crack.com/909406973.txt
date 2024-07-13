@@ -1,0 +1,11 @@
+Login: ddt            			Name: ddt
+Plan:
+Mon October 26, 1998
+
+--------------------
+
+  Anyone know whether 24-bit color framebuffers typically have a padding
+    byte on each pixel?  I'm talking 2D video cards or 2D/3D video cards,
+    but not dedicated 3D accelerators.  I'm looking for confident answers
+    and/or hard numbers.  Thanks!
+

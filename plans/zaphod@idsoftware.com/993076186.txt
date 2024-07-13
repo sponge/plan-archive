@@ -1,0 +1,18 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+
+A new Mac OS X 1.29f Beta is in the process of being posted to the id ftp site.
+
+This fixes some os the issues related to the slow sound code in the first release, many of you had written that timedemos were much faster with sound off than on (more than to be expected).
+
+The filename is quake3-macosx-129f-2.dmg
+
+I'm now working on the Classic release.
+
+Graeme.
+
+

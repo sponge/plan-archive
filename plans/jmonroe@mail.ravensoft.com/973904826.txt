@@ -1,0 +1,14 @@
+
+Name: James Monroe
+Email: jmonroe@mail.ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/Baja/Dunes/6827/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+patch news:  it's still in testing.  we want to be sure that things get fixed, and nothing gets broken.
+
+New Holomatch demo released over at 3ddownloads.com
+<A HREF="http://www.3ddownloads.com/showfile.php3?file_id=107098">stv_efdemo_hm.exe</a>
+
+This new demo of the Holomatch offers all three game play modes of the full game for you to try and enjoy. Several changes were made to Elite Force between the time of its original demo in July 2000 and the release of the game in September 2000. This demo reflects the multiplayer of the shipping version. 

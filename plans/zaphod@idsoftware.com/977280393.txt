@@ -1,0 +1,41 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+
+Thirs update.
+
+I've posted the Mac Team Arena demo up at:
+
+ftp://ftp.idsoftware.com/idstuff/teamarena/mac
+
+---------
+
+Two updates in one day.  Wow.
+
+Elsewhere I posted a beta of the Macintosh point release at:
+
+ftp://ftp.idsoftware.com/idstuff/quake3/mac/mac127beta.bin
+
+This version is compatible with protocol 48 and Team Arena.  I'll provide a second installer for taking a Windows Team Arena CD-ROM and copying the files into your Quake3 directory to enable Team Arena support on the Mac (well, basically, copy the pak0.pk3 file into a directory called missionpack under the application and you're good to go, but the installer will make this even easier).
+
+Like the PC version, you're going to need at least a Rage 128 to play Team Arena.  Regular old Q3A users may need to set their virtual memory settings a little bit higher to play Q3A, but a speed increase over 1.17 should be pretty evident right away.  The difference here is that both the x86 and PPC QVM compilers have been heavily changed to produce much more optimal assembly code for their particular platforms.  Thanks to everyone for the pointers on PPC code, once the light switched on in my head about how to get it done, it proved to be a very elegant platform to code asm for.
+
+----
+
+I've been looking at the auth server pretty much all weekend, going over the logs for those people we specifically deny access to.  In almost every case the original Q3A cdkey is somehow mangled and replaced by "generatedby" (ignoring the crazy haxor keys we get) which is the first few characters of the text we place after we write the cd-key out to the file.
+
+As I see it, the client, or some mod, has erased the cd-key on the client.  We're authorizing around 60k people a day, this is an issue affecting a small number of people.  I apologize if it has affected you.
+
+Before we even write a CD key in Q3A 1.27, we validate it.  We did not do this in 1.17 or 1.25, so the mangling of keys should be decreasing as more people move on to 1.27 and re-enter their valid keys (one more time).
+
+I've paid close attention to Team Arena cdkey entrances, in every case of a "deny" going to the client, there's been a valid Q3A cdkey come through, but no Team Arena cdkey at all.  If you're having problems, check that there is a cdkey displayed in the in game menu system for both Q3A and Team Arena.  Make sure you have started Team Arena directly, and not entered it from either the mods menu or the "Team Arena" menu item in Q3A.  Make sure that the Q3A cdkey is entered in Q3A and the Team Arena cdkey is entered in Team Arena (I've seen swapped keys come in).
+
+MOD authors need to take note of the call UI_usesUniqueCDKEY() and make sure they are returning false unless their product wants to use a cdkey, if this returns true, then a cdkey is written out to that mods directory.
+
+If you're starting your game from Gamespy arcade there were some intermittent problems over the weekend that we've resolved through an update on Gamespy's side of things.
+
+Lastly, I see some servers have mistakingly copied the Team Arena pak file into the baseq3 directory and not the missionpack directory.  I'll be filtering these out of the master server listings today, please make sure you've put the pak files in the right place so users can correctly connect to your servers.
+

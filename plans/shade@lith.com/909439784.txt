@@ -1,0 +1,222 @@
+Login: shade          			Name: James "Shade" Wilson
+Plan:
+10/26/98
+
+------------
+
+Jay Wilson (Shade)
+shade@lith.com
+Position:  Blood 2 Project Lead / Lead Game Designer
+
+Ok, with Blood 2 wrapping up I'm not getting to spend hardly any time on the Blood forum answering questions, so I'm going to answer the most commonly asked questions here.  If you are a forum regular please understand that my absence on the forum is temporary.  Once Blood 2 goes gold (which is imminent) I'll be back.  Also, please avoid sending me e-mails, I have a hard time not answering them, and they are time consuming.
+
+Ok, on with the questions:
+
+
+
+When will Blood 2 be out in the US?
+
+Well, we should go gold sometime this week, which means we should be in stores within two weeks after that, early to mid November.
+
+
+When will Blood 2 be out in other places (UK, for instance)?
+
+I sincerely do not know.  This is GT's area of expertise.  I imagine they'll get B2 to other countries as quickly as possible, but I have no idea how long that takes.  If you live outside the US and you are desperate to get B2 as quickly as possible I would recommend that you pre-order it with a mail order company, or the Lith store.
+
+
+Hey, you said B2 would be out by Halloween!!!  You cowardly, delayin', two-faced bastard!
+
+Actually, we never said this.  There has been some confusion as to the release date mainly because the ads said Halloween.  We, however, always stated "Fall, '98", which we are right on target for.  If you want to consider us delayed because of the ads, that's fine.  But don't ask us why we've delayed, because from our perception we haven't.
+
+
+Are you guys gonna make a demo or what?
+
+Working on one as we speak.  The demo is basically complete and in testing.  It will go out later this week, we don't have a specific day.  We'll get it to you as soon as humanly possible, which could be as early as tonight or as late as this weekend.
+
+
+What's gonna be in the demo?
+
+2 single player levels, about 5 creatures, 6-7 weapons, and since it is single player you can only play as Caleb.
+
+
+Will the demo have multiplayer?
+
+Nope.  We've cut multiplayer out of the demo for size reasons.
+
+
+How big will the demo be?
+
+Last I heard it was around 35 megs.
+
+
+Any other features lacking from the demo?
+
+The character customization features have been disabled.  Load/Save has not been included to save on space and testing time.  That's about it.
+
+
+Exactly how much gore will be in Blood 2?
+
+Anyone got a digital measuring cup?  There is about as much gore as we could choke out of modern processors, which is no small amount.  I'm sure some people will want more, and if that is the case I promise we'll do a 'gore patch' and increase it exponentially, although at this point I don't believe such a thing is necessary.
+
+
+Will Blood 2 be gory?
+
+Um, yes.
+
+
+But will there be a lot of gore?
+
+Yes!
+
+
+You see, I really like gore, and since the name of your game is Blood it should have a lot of gore.  Well?  The name of your game is 'Blood', isn't it?!?
+
+For god's sake, there will be a lot of gore!!!
+
+
+How much gore?
+
+JESUS H. CHRIST ON A BIKE!!!
+
+
+What are B2's system requirements?
+
+P166, 32 megs of ram, probably around 400 mb of hard drive space, D3D accelerator is highly recommended, but not required.
+
+
+But how will it run on those requirements?
+
+Well, they are called "minimum" requirements for a reason.  You can run Blood 2 on that kind of system, and possibly even get pretty decent performance if you tweak your configuration and run the lower detail settings.  I've seen B2 run well on a P166, but I've seen it run fairly poorly as well.  But you should not expect stellar performance on the minimum requirement.  I would recommend a P200-233 with a Voodoo card for optimal performance.  On the upside, B2 runs very well with a Voodoo2 on most machines, and I've seen a P2-300 run it at 1024x768 at high frame rates using a TNT card.
+
+
+How will Blood 2 perform on my P133 clock-doubled to a 266 with an overdrive processor that I over-clocked and a jury-rigged 3D card of my own design?
+
+Ok, the question is sarcastic, but I think you get my point.  I can't even begin to guess what individual system performance will be like.  If you've got the bare minimum requirements or their equivalent than it should run, minimally.  If you've got well over the requirements than it should run great, depending on your expectations.
+
+
+How does B2's performance compare with Shogo's?
+
+We run slightly slower than Shogo, mainly because we use more texture memory with our effects and creatures.
+
+
+Will B2's multiplayer run better than Shogo's?
+
+Not initially.  We will also be doing a point release to improve multiplayer just like Shogo.  Shogo's multiplayer improvements are going very quickly, and will possibly be done before Blood 2 even hits the shelves, but won't be done in time for our going gold.  As a result of the Shogo testing that is going on now our point release will probably come much faster than even Shogo's has come, following our shelf date by only a matter of weeks at most.
+
+
+How much will B2 cost?
+
+I have no idea, probably around $50.
+
+
+What kind of music does Blood 2 have?
+
+Dark, scary music, driving sometimes, ambient others.  It is reminescent of Blood's music only a little more hard-edged.  To hear a sample check out weekly update number 10 on the Blood 2: The Chosen site.
+
+
+Will Blood 2 support 3DNow! out of the box?
+
+No, 3DNow! support will be added in a patch.
+
+
+So if you've got so darn much gore, why haven't I seen a screenshot of it?
+
+Well, given the importance of gore to a horror game we really wanted to get it right.  We've been working on the gore right up to the last minute.  We're still working on it.  We don't want people to jump to conclusions based on shots of un-finalized features.  Some of the shots springing up on web pages have gore in them.
+
+
+Will Blood 2 have co-op, or a mode like ctf?
+
+Not initially.  We'll be releasing a patch that offers co-op play and ctf.
+
+
+
+That's about all I can think of, talk to you soon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/23/98
+
+------------
+
+Hi all.  I said I'd try to keep you updated on the demo status, and here I am.  Bill has busted out the mean level skillz in getting the demo levels ready, and Nathan's been helping with scripting and enemy placement.  The running debate over which weapons and how many of them is raging.  Looking like about 6 weapons, still a good mix, although my favorite didn't make it. :(
+
+The game is starting to wrap up nicely.  I've been working on final details in my final level, as well as doing tweaks to my others.  I've also been spending mucho time playing the game, firing weapons hundreds of times and carefully gauging the results.  Shooting someone and then carefully analyzing the blood.  I was thinking I was going to have to really beef up the creature stats, but then I turned off god mode and found that Schlegel has been doing his job very well, and an across the board increase would probably be excessive . . . so I'm doing it anyway. :)
+
+Did a big weapon balancing pass.  We're probably going to make some of the weapons behave slightly differently in multiplay vs. single play, mainly because players move so fast in multiplay that they are a lot more difficult targets than creatures are.  Mainly the bulleted weapons are getting some serious multiplay beef so that they can compete with the other stuff.
+
+Mike enabled an engine feature that improved the look of all the lighting by a substantial margin, making the brights brighter and the darks darker, and generally giving everything a lot more clarity.  It's amazing what that man can bust out.
+
+All in all, it's coming together 'very' nicely.  The bug list shrinks every day and the speed gets better, so it shouldn't be too much longer before Blood 2 gets the gold treatment and goes out the door, and I get to take a vacation. :)
+
+
+
+
+
+
+
+
+
+
+
+
+10/20/98 (part two)
+
+------------
+
+Ok, Scorpio let the cat out of the bag so I'll go ahead and announce it.  We are working on a Blood 2 demo.  We had originally not planned on working on a demo until the game was finished, but Goble offered his tears, sweat, and 'blood' (pun intended), and given the choice we'll always take offering something sooner rather than later. :)
+
+The current plan is to put it out sometime next week, probably early to mid next week, but I'm not going to speculate on the exact day, so don't ask.  I'll try and keep everyone updated on the status every couple of days through this plan.
+
+The demo will include 2 single player levels, about a half dozen creatures, around 8 weapons, Caleb as the playable character, and a few other surprises.  It will feature most of our gameplay features, like guns akimbo, hit location, and limb loss.  We're still speculating on what the creatures and weapons will be, so again, don't ask. :)  It will be a good mix, though.
+
+The demo will not include multiplayer or save/load.  This is to cut down on the demo size and testing (so we can get it to you sooner).  We will most likely release a multiplayer demo after the game is completed.
+
+The demo's minimum requirements will be similar to the game's requirements, a P166 with 32 megs of ram.  A D3D compatible accelerator is highly recommended.  The demo will most likely run a little slower than the final game, only because of the lack of last minute optimizations that the final game will receive.  The demo size is un-determined at this point, but you can count on it being at least as big as the Shogo demo (40 megs), and possibly bigger.
+
+Finally, let me assure everyone that this demo will not affect Blood 2's release.  The core team is not working on it, and won't be affected by its production.  We're using levels, creatures, and weapons that are pretty much complete, and we've been feature complete for several weeks.
+
+Hope that answers all your questions.  We're in serious crunch mode right now, so I'd like to ask everyone to keep questions about the demo at a minimum.  In other words, don't send me e-mails asking about things I've already said I won't comment on, or about small details (will you be putting the med-kit in the demo?!?). :)  If you have any questions please direct them towards the Blood forum, where I will be keeping my ever-watchful eye. :)
+
+Gettin' close! :)
+
+
+
+
+
+
+
+
+10/20/98
+
+------------
+
+Ok, haven't updated this thing in awhile, now seems as good a time as any.
+
+Blood 2 is officially in Beta testing.  Actually it's been in testing for awhile, but as of last Wednesday we locked the code and are now concentrating on bug fixes, game balancing, and optimizations.  Gold is not too far off!  You'll definitely be playing B2 well before Thanksgiving. :)
+
+The levels are all in place.  Bill, Ben, and myself are working on tweaking and adding details, and really crunching to get all the scipted cut scenes in.  The levels are looking really good, with a broad variety of environments, and good atmosphere.  I actually creeped myself out in one of my levels. :)
+
+The creatures are looking awesome!  The AI is really kicking butt.  The Fanatics pick up power-ups and roll away from gun-fire.  The Shikari hunt you down, follow you most anywhere, and leap around and over you like mad.  And wait until you see the bosses.  Oh my. :)
+
+Many of the creatures need more health, because the weapons are just so damn powerful!  Other than a few minor tweaks and a lot of balancing the weapons are done.  Fire is in, leaving charred corpses in its wake, and wait until you see the re-done Voodoo Doll!
+
+Still plugging away on the interface, but getting close to done.  The new interface graphics are really looking good!
+
+We integrated all the character voices, so the Chosen are ridiculing everything that dares to look sideways at them.  Scorpio (Brian Goble) put in an awesome system that sets up all the character sounds as different types of directories, like kills, death, pain, suicide, etc.  We just fill the directories with sounds and the player plays them.  I'm sure you mod authors can dream up the possibilities.  You'll also be able to create a directly called "taunt", put as many sounds in it as you want and push the "taunt" key to automatically select play one of them. :)
+
+So it is coming together.  It's starting to go from fun to very fun.  Most of the levels are almost completely finished, with music, ambient sounds, and all the bells and whistles. :)  I'm really proud of how Blood 2 has come together.  Well, I've talked enough, back to the levels so we can get this puppy in your hands as soon as possible.
+
+

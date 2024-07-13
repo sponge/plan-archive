@@ -1,0 +1,26 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: grue
+Plan modified: Thu Apr 09 11:08:24 1998
+
+You have reached Beau Anderson's .plan
+beau@ritual.com
+Artist - 3d Modeler/Texture Guy
+
+4/9/98
+
+  Things have come together nicely on the art side of Sin, and the fine tuning has
+begun.  All the screenshots we have released can be considered old news, as we have 
+re-done just about every model -- including weapons, as we have made the switch to 
+the Q2 code.  We finally have a texture mapping method we are happy with.  The 
+lighting model has also changed drastically and things look so much better.  
+Visible weapons in deathmatch rocks - there's nothing like the chill that goes 
+through you when you see a guy sizing you up from long range with a massive gun.  
+Visible weapons isn't as easy as it sounds, you have to account for every weapon type 
+in every run, walk, fire, crouchfire, swim, swimfire, etc.  Blade can shoot rifle 
+style, big gun style, and pistol style.  It adds up to a lot of animating.
+
+
+
+

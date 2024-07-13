@@ -1,0 +1,17 @@
+
+Name: Dave Kirsch
+Email: zoid@idsoftware.com
+Description: Ports
+Project: 
+-------------------------------------------------------------------------------
+Feb 17/2000
+
+Just a note to linux server operators who are putting custom maps on for autodownloading.  The current Linux server binary doesn't check for the file in the basepath, but in the cdpath.  That this means is downloads try to come from $HOME/.q3a/baseq3/<file> and will fail (the client ends up with a zero byte file).  To fix this for now, you can force basepath like this on your server:
+
+	./q3ded +set fs_basepath `/bin/pwd` +exec blah.cfg
+
+Where `/bin/pwd` will expand to the current directory you are running the server from.  You can also explicitly state the path there if you wish.
+
+This will make autodownloading work correctly on Linux servers.  In a future version, we'll make sure that the server checks both base and cdpath.
+
+/// Zoid.

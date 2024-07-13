@@ -1,0 +1,35 @@
+
+*** Monolith Production's Finger Server
+
+User name: craigh
+Plan modified: Sat Jan 09 16:53:03 1999
+
+Name: Craig Hubbard
+Rank: Lead Designer
+Project: Shogo-MAD
+
+1/9/99
+
+Let me try to be perfectly clear, since a couple of people misinterpreted my meaning.
+
+I am not attacking Geoff Keighley--I am attacking a particular question he asked. I am sure Mr. Keighley did not intend the insult to Justin Chin that I perceive, but I strongly believe that journalists must be held to a higher standard of clarity and objectivity than the rest of us. Journalists have automatic credibility deriving from their positions, so the consequences of bias or historical revisionism are inherently more severe.
+
+In this particular case, there are several fallacies that I am taking to task. The first is the suggestion that Half-Life’s rave reviews stem from "emotional hooks such as characters, suspense, and a story that developed from within the game engine." Half-Life succeeds primarily because it is an exceptionally polished, satisfying game. The very nature of its design rules out important structural elements necessary to create a deep, emotionally engaging narrative with strong characters.
+
+For one thing, Valve seems to have deliberately made Gordon Freeman a vessel for the player’s identity. It works beautifully, but it precludes the possibility of developing the hero’s personality at all and limits Freeman’s motives to those of the player: to stay alive long enough to put an end to the alien invasion. That’s certainly enough plot to fill the average horror movie, but it’s no more than Unreal featured back in May.
+ 
+Another factor is that Valve has given the player virtually unlimited freedom of movement (with the exception of the brief cinematic after your capture by the military). This kind of freedom comes at a cost--you can’t rely on the player to be looking in the right place at the right time in order to see important events unfold. You also can’t rely on the player not to kill a supporting character in the middle of saying something that advances the story. Therefore, all the characters are basically extras. They can have personality, but they can’t have significance.
+
+Mind you, I’m not implying that these decisions are WRONG, merely that they have consequences. There are also consequences to using cinematics--namely that they remove players from the action for a given amount of time. It’s all a question of your design goals and implementation.
+
+Keighley also says that Half-Life "ignited the wick" by relying exclusively on the game engine. I’m sorry, but GoldenEye, Unreal, Sin, Shogo, Blood 2, and Metal Gear: Solid (off the top of my head) also rely on the game engine to advance the narrative, establish character, and create suspense. Just because Half-Life is overall a better game than most of these (with the exception of Metal Gear) doesn’t mean the others can be discounted. Half-Life doesn’t ignite the wick so much as raise the bar.
+
+Also keep in mind that while Dark Forces, Outlaws, and Jedi Knight rely to some degree on rendered or animated cinematics, story and character are also revealed during the games themselves. All three use in-game dialogue to build character and advance the narrative. Likewise, the boss fights in these games impact the flow of events because the bosses themselves are woven into the stories.
+
+Finally, there’s the implication that relying exclusively on the game engine adds emotional weight, which is completely misguided. The medium of delivery doesn’t matter nearly as much as the quality of the writing, acting, and storytelling. I think anyone who has played Final Fantasy VII would agree that the pivotal event at the end of the first CD (which occurs in a rendered cutscene) has a far greater emotional impact than anything in Half-Life. Then again, Half-Life is one of the most VISCERALLY engaging games I’ve ever played, so there you have it.
+
+I wouldn’t have made an issue out of Keighley’s question if I hadn’t perceived an insult to Justin Chin, whose work has affected the way I think about story in action games. If you can’t follow my line of reasoning, please at least trust that I’m not taking random potshots at professional journalists, but rather attempting to address statements I find to be contrary to the facts. I am not seeking to take credit away from anybody, merely to make sure it is given where it is due. :)
+
+
+
+

@@ -1,0 +1,28 @@
+
+Name: Mike Gummelt
+Email: mgummelt@ravensoft.com
+Description: Programmer
+Project: Star Trek
+-------------------------------------------------------------------------------
+Wednesday, February 18, 2001
+
+Okay, here are some details of some of the stuff that's been added to multiplayer:
+
+Assimilation - Federation vs. Borg. The Borg have a Borg projectile weapon, a taser weapon and can assimilate Federation members. They also have a short personal transporter ability and adaptive shields. The I-Mod can get through these shields. The object for the Borg is to Assimilate the entire Federation team, the object for the Federation team is to kill the Borg Queen. 
+
+Elimination - Basically, the last man standing wins. In Team Holomatch mode, the first team to be wiped out loses. 
+
+Action Hero (name tentative) - One player starts with all the weapons, the others don't. The person who kills the Action Hero respawns with all the weapons and is the new "Action Hero". 
+Disintegration - All players start with the compression rifle and every hit is a disintegration. This may be used in FFA, Team Holomatch, CTF and Elimination. 
+
+Specialties - Each player chooses a class from 6 available: 
+* Infiltrator (Munro) - Fast, can jump high, has Phaser. Has emergency transporter device. Has no armor. 
+* Medic (Jurot) - Starts with Phaser, Hypo and Medkit. Can heal with hypo or kill with hypo (alt-fire). Has decent armor and regeneration. 
+* Heavy Weapons (Biessman) - Starts with Quantum Burst and Tetrion Disruptor. Is somewhat slower than other classes. Has full armor. 
+* Sniper (Telsia) - Starts with I-Mod and Compression Rifle. Is the only one of the classes that can use zoom feature. Has holodecoy. Has weak armor. 
+* Demolitionist (Chang) - Starts with Scavenger Rifle, Grenade Launcher and Detpack. Has half armor. 
+* Technician (Chell) - Starts with Phaser, Arc Welder and Portable Force Field. Has Seeker as well. Can drop an ammo station and can make someone invisible by "using" them (only once per life). Has half armor. 
+
+Other additions:
+You can now have turrets, breakable brushes and objectives in multiplayer games.
+

@@ -1,0 +1,16 @@
+GarageGames plan resource for Tim Gift
+Posted Wednesday February 7, 2001 at 19:03 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=452
+
+Now that the DNS is pointing to our new server, the finger deamon should be accessible. So I'll make a short update...
+
+(For those of you just tuning in, we are now in episode 4: "The Startup", where Rick Overman and I leave Dynamix and start up a new company with Jeff Tunnell called GarageGames.  Thus far, we've been mainly working on the web site, trying to flesh out the main features.)
+
+More work on the web site, mostly some minor fixes and features.  The site is getting there :) It still needs work of course, but I think we're happy with the way it's coming along. The big activity right now is building some new pages for a press release: a FAQ, screenshots, feature list, etc.  After that's done, I expect I'll be spending more time on the V12 engine. I'll post more details on that after the press release.
+
+CGDC is also coming up fast and we're starting to schedule that out. It should be fun.  Rick, Jeff and I are planning to drive down, about a 9 hour drive, which probably won't be fun. Though... I remember some long school trips where we sang "99 bottles of beer on the wall", so who knows?
+
+For those of you interested in what we're up to, the site is www.garagegames.com.  There is also a recent interview with the three of us on Planet Starsiege:
+http://www.planetstarsiege.com/interviews/gg_interview/gg_interview.shtml
+

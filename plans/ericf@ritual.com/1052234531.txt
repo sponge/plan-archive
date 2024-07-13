@@ -1,0 +1,27 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: ericf
+Plan modified: Wed Jan 15 14:08:00 2003
+
+Jan 15, 2003
+============
+
+Why W-A-S-D?  This is the accepted and now standard keyboard configuration for first person shooters.  I've never used it, because I use E-S-D-F.  
+
+There are several logical reasons why...
+
+A) If you type properly,  your fingers are already on the home row.  This is very useful for games like Everquest where you move and type often.  With WASD you have to shift your hands over between moving and typing.
+
+B) There's more keys around your movement keys.  With ESDF there's extra keys to the left.  This is especially helpful in games where they have "leaning".  I usually bind A and G to lean left and right.  
+
+C) Easier to access the number keys.  In most FPS's you use the numbers to switch between weapons.  ESDF is more central to the keyboard, so you can reach for the numbers easier.
+
+So if you use the default configuration in most games, try out ESDF sometime and see if it works better for you.  It's probably tough to tell the difference when you switch to it... but visa-versa, when I try WASD I feel very cramped on the left side of the keyboard, with less functionality.
+
+That's my rant for the day. :)
+
+
+
+
+

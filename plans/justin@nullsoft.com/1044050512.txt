@@ -1,0 +1,38 @@
+Login: justin         			Name: Justin
+"|IFS=' '&&exec /usr/local/bin/procmail -f-||exit 75 #deadbeef"
+Project:
+Current projects:
+  WASTE
+  NSVate
+  NSVenc Live
+  NSVplay[x]
+  and more!
+
+Projects I plan to start soon:
+  xbox avs/milkdrop/tinyvis/player
+  NullsoFTP
+
+Inactive (but recent) projects (That may get attention sometime):
+  AAS
+  SafeSex
+  Beep
+  NSIS
+  NSVplay
+  Nullsoft AutoClose
+
+Projects I haven't touched in ages, but may someday again:
+  Winamp
+  Shoutcast
+Plan:
+http://support.microsoft.com/?kbid=299598
+I want this for Win2k! I feel cheated. Enable this fucking feature.
+I promise I won't unplug my firewire drives. Ugh I don't want to upgrade
+to XP. I've spent a lot of time with Regmon trying to figure out where
+a potential fix would be, and haven't had any luck. :(
+
+
+--
+
+latest fun project:
+
+http://www.nullsoft.com/ntv/

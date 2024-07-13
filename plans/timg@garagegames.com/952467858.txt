@@ -1,0 +1,104 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-------------------------------------------------------------------
+User Name: tim.gift     Plan Last Modified: 03/07/2000 13:55:19 PST
+
+Real Name: Tim Gift
+Nickname: Slacker
+Title: Technical Director
+Job: Programmer/Designer
+Project: Starsiege TRIBES
+
+3.7.00
+
+Mostly more vehicle work...
+
+- Added separate convex hull collision for the vehicle
+body and wheels.
+
+- Added basic object mounting support.  You can now
+mount players onto vehicles. We'll also use this
+feature to mount other controllable objects, such as
+turrets.
+
+- Resolved some problems with the wheel physics. I've
+switch over to using a tire deformation model to
+produce wheel forces. For a while I was producing
+forces directly off lateral and longitudinal tire slip
+velocities, but this approach would not converge at low
+speeds, causing the vehicle to drift and not come to a
+complete stop (especially on the sides of hills, where
+the sum of all the wheel forces would not exactly
+oppose gravity).  The sliding was very annoying, and I
+wasted a bunch of time trying to get the forces to
+converge :(  Anyway, the new approach works very
+nicely, though I now have two more state variables for
+each wheel (lateral and longitudinal tire deformation).
+I also increased the rate at which tire forces are
+integrated to remove some final suspension and friction
+weirdness: wheels now integrated at 120Hz, though the
+rigid body physics still runs at 30Hz.
+
+I've collected a stack of reference material, but
+the following three were the most usefull:
+
+"A Generic Multibody Vehicle Model for Simulating 
+Handling and Breaking" by Michael W. Sayers and Dongsuk
+Han
+
+"Shear Force Development by Pneumatic Tires in Steady
+State Conditions: A Review of Modeling Aspects" by H.B.
+Pacejka and R.S. Sharp
+
+"A Robust Lumped-Parameter Tire Model Developed for
+Real-Time Simulation" by Peter F. Noronha (SAE paper #
+980243)
+
+I also had some conversations with David Keammer, Chief
+Technology Officer at Papyrus (NASCAR Racing, etc.).
+The approach I'm using now is a little different from
+what they're doing, but he was nice enough to give me
+some pointers :)
+
+- Tested the 6 wheeled tank.  All the suspension and
+new wheel force dynamics seem to work fine with 6
+wheels.
+
+- Added particle emitters to the wheels.  They
+currently emit smoke particles when a tire slips.
+
+- Switched the way the vehicles are controlled.
+Vehicles are Control Objects which have special
+properties; including Soonest-Possible transmission of
+state data to clients, Move processing and
+client-server synchronization. Once you took control of
+a vehicle, you basically dropped control of your player
+"body" (itself a Control Object).  This is how Tribes 1
+works, but for T2, we wanted to add the ability to
+free-look the player's head while controlling a
+vehicle, so I added the ability to control other
+Control Objects through the player. Because of the way
+we process and synchronize client/server Move
+processing, this turned out to be an interesting
+addition :)  The end result is that the client can now
+always control his player, and the player can filter
+the moves it forwards to it's Control Object (though a
+client can still control a vehicle directly). Since the
+player doesn't have to be mounted to an object to
+control it, you can be standing on the side of a hill
+controlling a vehicle down in the valley (an RC racing
+mod comes to mind :)
+
+- Added the player free-look. You can now free-look
+while controlling a vehicle.  The player's head moves
+independently of the body, so you can see pilots
+looking around :)
+
+- Also took a four day weekend trip to Catalina Island,
+CA.
+
+Off to CGDC Thursday.
+
+

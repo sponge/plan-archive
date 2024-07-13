@@ -1,0 +1,235 @@
+
+*** Monolith Production's Finger Server
+
+User name: jeremy
+Plan modified: Wed Jan 27 16:53:41 1999
+
+
+01/27/1999
+----
+Real quick update...the Linux Port information list is up.
+
+To subscribe, send e-mail to:
+lt-linux-request@lists.lith.com with a subject of
+subscribe
+
+Once people are on, I can answer some questions about
+the Linux port or whatever, later this evening. :)
+
+--Loki
+------------------
+01/25/1999
+----
+Time for another .plan file update of sorts...
+
+Most of my time of late has been going to the Blood 2
+v2.0 patch... trying to fix AI quirks and generally
+make things smoother for the patch release.  This has,
+unfortunately, meant a delay in the Linux porting efforts.
+However, I do have the Linux port ALMOST finished on the
+engine 25.5 build (I fell behind one internal build again),
+and will hopefully be able to sit down with Mike next week
+to merge the Linux stuff back in.  As a side effect, this
+would mean that there would be not only a Linux server for
+Shogo (which will be moving to the same engine version for
+v2.2) but also one for Blood 2... and it should really only
+take a couple days after the patch stuff is done.  I'm
+going to really try to allocate a couple days to finish
+that - since I know many people REALLY want it - before
+moving on to the Blood 2 mission pack add-on AI.
+
+Additionally, if I get the ok from PR/marketing, I'm going
+to put up a mailing list for the Linux port, to answer
+questions and give status reports on how it's going. :)
+
+In other news, Jordan ('Civik'), one of the QA testers and
+I were out at lunch today and witnessed a squadron of 
+F-16 fighters streak by overhead, heading in the direction
+of Microsoft main campus.  Several people in the area
+commented that the Justice Department must be getting really
+hot under the collar about Microsoft if they were trying
+punitive air strikes.  The fighters passed over twice,
+in fact, so perhaps they did a second strafing run.  
+Hopefully, if they did air strikes on the Microsoft campus,
+folks like Chris Hedberg (config_guy of Planetshogo, also
+one of the Office QA folks at Microsoft) were off-campus
+at the time. :)
+
+Anyway, back to work on AI stuff... more later.
+
+--Loki
+------------------
+01/12/1999
+----
+I'm ba-ack!  Of course, this prompts the question of
+'But...where have you BEEN, Loki?'
+
+Sorry, I realize I fell behind on the mod community stuff,
+but I'm also the Lithtech developer relations person.
+Suffice it to say I've been here, but I've been REAL
+busy.  As you all know by now, Bloodshot has licensed
+Lithtech (and they're not the only ones, but we can't
+announce the others yet).  So as licensees come up to
+the Seattle area for training, as the developer relations
+person, I end up spending a lot of time with them...
+
+So for the next while, if I suddenly vanish from answering
+my e-mail or appearing on the mod author mailing lists,
+it PROBABLY means we have a licensee in town, and that I'm
+not in my office because I'm working with them. :)
+
+I will give fair warning, I will probably disappear again
+this coming Friday for a while, because of another licensee.
+
+In addition, there've been some really cool things being
+worked on for Lithtech 1.5 (the transition between 1.x and
+2.x).  I think Brad has finished support for a whole bunch
+of new audio stuff... I believe that Blood 2 v2.0 takes
+advantage of it already.  (And yes, that should be ready
+very soon.)  Also some really neat new animation and
+modelling stuff, some of which is being used in another
+internal Lithtech-based game.
+
+The Linux server kind of got buried under other things, but
+since it's mostly done to an older version of Lithtech, I
+just have to eventually clear my schedule for a week, sit
+down, and FINISH it.  Hopefully I'll be able to do that 
+sometime soon. :)
+
+Cool stuff ahead, hopefully I'll have more news for you
+all soon! :)  In the meantime, I'm trying to catch up on
+all the mod author stuff that happened while Bloodshot
+was up here. :)
+
+--Loki
+------------------
+12/23/1998
+----
+First off, Happy Holidays, all.  I don't care what holiday 
+you celebrate; go spend some time with your family and 
+loved ones.
+
+Secondly, thanks to all those who sent in the requested 
+reports of lag on 2.1 - many people sent in very detailed 
+reports, and I have a great deal of new information to work 
+with.  Once the holidays are over, I'm going to be 
+compiling a list of recurring symptoms and 
+hardware/software, and then we'll be looking at that, to 
+try to find the cause.
+
+Thirdly, and what I know many people read my .plan files 
+for (so I'll try not to disappoint)... the current status 
+of the Linux port!
+
+In a burst of coding inspiration last night, I got most of 
+the core ported over.  I now have a very minimal Lithtech 
+server architecture; this is NOT Shogo, however.  
+
+* the Linux port is currently at Lithtech build 21.4, while 
+  the 2.1 patch is a later version.  So I need to update 
+  the code to the newer version.
+
+* the Shogo code itself has not been ported yet; I wrote a 
+  simple test server and client for 21.4, and tested that 
+  way.
+
+* 'ltd' (the Lithtech Daemon, the Linux server) currently 
+  has NO user control method.  It accepts SIGTERM to 
+  shutdown, and that's all.  I'll probably create a network 
+  control method over a network socket, and then create 
+  both a Windows MFC app to control the server, and a Linux 
+  command-line system a'la ctlinnd.
+
+So while it's not quite ready for prime-time yet, the Linux 
+port is chugging along smoothly. :)
+
+Anyway, I'm going to go quiet for a while while I go to be 
+with relatives for the holidays, so let me just sign off 
+with a wish for a happy holiday season and a good new year 
+to everyone out there, as well as special holiday wishes 
+for all the Lithtech developers, my friends and 
+aquaintances out there in the game industry (Tim Sweeny, 
+Christian Antkow, Rick Lambright, John Cutter, Keith 
+Fuller, Ashley Matheson, the staff of Planetshogo, 
+etc...too many to name!), and to everyone on the Shogo mod 
+author mailing list.
+
+Have a good, safe holiday season, everyone, and I'll see 
+you all in 1999! :)
+
+--Loki
+------------------
+12/17/1998
+----
+Ok, I've been buried under Shogo mod community stuff, as 
+well as other work, but I thought I'd do a .plan update to 
+try to fill people in on various things.
+
+First off, the Linux port is coming along, but I haven't 
+had as much time to work on it as I'd like of late.  
+*sigh*  Still, it's not a matter of issues in porting, it's 
+just a matter of finding the time to work on it more, so it 
+is going relatively smoothly.
+
+Secondly, people have been asking about enhanced joystick 
+support.  We -are- committed to getting this in, but the 
+2.1 patch had to be done first to fix the 3Com/USR modem 
+problem.  More on that below.  The 2.2 patch updates will 
+focus on adding support for the Panther XL, SpaceOrb, and a 
+few other things.  It will also incorporate support for EAX 
+and true 3D sound.  And fix any bugs that people report.
+
+Thirdly, I've started hearing reports of people who are 
+lagging on the 2.1 patch as well, in one case even on the 
+3Com/USR modems the fix was targeted at, but I haven't 
+determined any common ground, yet.  If you have a problem 
+with the 2.1 patch, PLEASE report it DIRECTLY to me, with a 
+subject line of 'Shogo 2.1 Lag Problem'.  
+
+Please, only do this if you're experiencing really bad lag 
+on the 2.1 patch.  The forums are NOT the best place to do 
+it because they fill up and we may miss posts (plus, the 
+developers are sometimes too focused on code to read the 
+forums, though we're trying to get back in the habit).
+
+Messages should include a detailed description of the 
+problem, your system configuration, the version of Shogo 
+you're running, any mods you may be running, what 
+configuration Shogo is using (are you using REZ files, or 
+have you unpacked into directories? etc.) and any steps 
+someone can take to reproduce the problem.  (If we can 
+replicate the problem, we stand a much better chance of 
+fixing it).
+
+Also, if you HAD a problem and found a fix for it, report 
+THAT, too.  You might think it was something obvious, but 
+what you find obvious, some other user may not... and if no 
+one has reported it, we may not even know that someone had 
+a problem and found a fix at all! :)
+
+Hopefully, this will allow us to get help and fixes to 
+people much more easily.  
+
+Lastly, I've heard a few reports of people having crashes 
+under the 2.1 patch, but they've all been for the same 
+reason.  I'd like to reiterate that Lithtech must use *all* 
+REZ files, or *all* directories.  This means if you had 
+unpacked the earlier REZ files to do editing, and 
+downloaded the 2.1 patch, you must unpack SHOGOP3.REZ as 
+well... this should help!
+
+--Loki
+------------------
+Old archives are at:
+
+http://www.users.lith.com/~jeremy/plans/
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,476 @@
+
+*** Ion Storm's Finger Server
+
+User name: romero
+Plan modified: Sun Mar 14 02:33:58 1999
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Plan File</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<meta name="Microsoft Theme" content="none">
+<meta name="Microsoft Border" content="none">
+</head>
+
+<body style="background-color: rgb(0,0,0); color: rgb(192,192,192); font-family: Arial">
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">Current project: <font color="#FF0000">Daikatana</font></p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; March 14, 1999</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Late night Daikatana demoing session here at Ion Storm with Blue, Redwood,
+Loonyboi and the Telefragged guys -- we're having a blast!&nbsp;&nbsp; Lots of screaming,
+blood and gibs bouncing happily off the walls...</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">In one month, we will be releasing the Internet/LAN version of Daikatana so
+everyone can bring it to your LAN parties.</p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; March 10, 1999</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">First it was on, then it was off -- The Daikatana Deathmatch Tournament at
+Extreme Annihilation this coming weekend.&nbsp; We've been really busy finishing up the
+MPlayer Tournament version and didn't think we would have enough time to get the systems
+all set up, etc.</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">The Extreme Annihilation team has been severely flooded with angry emails
+about the cancellation of the Daikatana Tournament; apparently, many people are going to
+Extreme Annihilation JUST TO SEE Daikatana!&nbsp; Well, thank you guys very much for your
+interest in our game!</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Well, you guys win.&nbsp; The EA Daikatana Deathmatch Tournament IS BACK ON
+at this weekend's CPL event!&nbsp; :) </p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; February 28, 1999</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">The modem interpolation bug was fixed just a couple hours ago.&nbsp; We're
+finishing off some remaining polish and sending it off to MPlayer for their final testing
+phase.&nbsp; We will be releasing the demo in the Practice Area of MPlayer first (limited
+release), then into the Tournament Area when Practice is through with their testing.
+&nbsp; When it gets into the Tournament Area, everyone can download it and try it out.</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">About a month or so later, we will put up the Internet Deathmatch Demo
+release so you can play over LAN as well and start up your own servers.&nbsp; Just
+remember: this demo is only for the first episode of Daikatana's deathmatch.&nbsp; Each of
+the remaining 3 episodes have their own different deathmatch feel because the weapons are
+all different.&nbsp; It's like 4 deathmatch games in one.&nbsp; (And one single-player
+game in one. :)</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">We've been working hard on getting this demo together and I hope everyone
+likes it.&nbsp; Sure, it's taken us a little longer to get polished, but it will be worth
+the wait.&nbsp; No use releasing a shab demo.</p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; February 4, 1999</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">(Oops, fixed that link...)</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">I'm a real big guitar-music nut and just wanted to tell y'all how badass
+James Grote's &quot;Quantum Rage: Songs for Deathmatch&quot; is -- you don't even need to
+play this CD while deathmatching; I listen to it all the time in my car.&nbsp; Get this CD
+if you are into metal or into doomy-melodic guitar riffs!&nbsp; Samples are available on
+his site....check 'em out.</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left"><a href="http://www.gigadeth.com">http://www.gigadeth.com</a></p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Also, one of the cool features of Daikatana Deathmatch is that, depending on
+the number of maxplayers your server is set for, the map can open up new areas or keep
+them closed off.&nbsp; If you want your DM map to be scalable for 1-4 players, you just
+put in a special wall that blocks off access to the other areas if maxplayers = 4. &nbsp;
+Likewise for the other maxplayer levels (8, 16 and 32).&nbsp; This allows DM mappers to
+create one single map that is good for 2 players to 32 players!&nbsp; You'll see this
+feature in our Daikatana Deathmatch Demo...</p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; January 26, 1999</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">GameStream knows things...</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left"><a href="http://www.gamestream.net/indexfix.cfm?NewsID=410">http://www.gamestream.net/indexfix.cfm?NewsID=410</a></p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">(Internet Explorer only, I'm told)</p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; December 15, 1998</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Today's the 7th birthday of id Software's second Keen creation,&nbsp;
+Commander Keen: Goodbye, Galaxy!. &nbsp; </p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; December 14, 1998</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Today's the 8th birthday of id Software's very first game,&nbsp; Commander
+Keen: Invasion of the Vorticons. &nbsp; </p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; October 30, 1998</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Congratulations to the entire SiN team over at Ritual!&nbsp; Your first full
+game, now gone gold -- it was tough, wasn't it?&nbsp; Heh heh.&nbsp; </p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">I can't wait to play SiN, it totally kicks ass! </p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; August 28, 1998</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Reports of my death are greatly exaggerated.&nbsp; I take full responsibility
+for last night's confusion -- maybe I shouldn't have taken that morbid picture for Texas
+Monthly magazine, because someone apparently called the Dallas PD and heard that a John
+Romero got shot last night.&nbsp; Coupled with the actual picture, you have yourself a
+news story (although a false one).</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">I was out of touch with people up here at Ion for a while last night, so they
+couldn't confirm nor deny the rumors, so Adrenaline Vault ran the story and got the
+&quot;scoop&quot; first.&nbsp; Too bad it was incorrect, eh?&nbsp; Well, don't blame them
+-- I got a call from their writer who told me where and how he got his information and I
+would have run the story myself, so don't slam on them, they were only doing their job.</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">And for all of you who really did care and got upset:&nbsp; I love you all!</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">For the Avault story, go here: <a
+href="http://www.avault.com/news/news_temp.asp?story=8281998-14324">http://www.avault.com/news/news_temp.asp?story=8281998-14324</a></p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; August 25, 1998</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Good luck, Dr. Sleep and Xatrix.&nbsp; The stop was short but fun while it
+lasted.</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Now to find a fast monster of a map designer.&nbsp; Anyone have any leads,
+send 'em my way: <a href="mailto:romero@ionstorm.com">romero@ionstorm.com</a>. &nbsp;
+Thanks. </p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; July 9, 1998</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">It was sad news indeed to hear that Danielle Berry died recently. &nbsp;
+Danielle was going to attend my Apple II Reunion Party, along with Jim Nitchals, who died
+recently as well.&nbsp; This party is becoming dangerous, you think?</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Oh yeah, the name &quot;id Software&quot; was spelled &quot;ID&quot; in the
+beginning, then &quot;Id Software&quot; during Wolf3D, then &quot;id Software&quot; from
+DOOM onwards.</p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; June 26, 1998</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">I can't BELIEVE that someone found out that Carmack and I made up!&nbsp; What
+the hell, are there no more secrets left?&nbsp; Has all this .plan file madness destroyed
+everyone's ability to keep information to themselves?!</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Well I never!&nbsp; I just won't be paying him anymore special visits from
+now on!&nbsp; ;P</p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; June 23, 1998</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Happy Birthday Quake, even if I'm late by one day. :)</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Hoo boy, do I remember developing that title.&nbsp; All I gotta say is
+&quot;The War Room&quot;. </p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; June 19, 1998</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">I'm gonna be having a massive Apple II Reunion Party here in August and there
+are still a few programmers I want to invite that have eluded my investigations.&nbsp; If
+anyone out there has information on their whereabouts, phone numbers or email addresses,
+shoot 'em my way.&nbsp; Thanks!</p>
+<font SIZE="2">
+
+<p><strong>David Schroeder </strong>- Dino Eggs, Crisis Mountain</p>
+
+<p><strong>Tony or Benny (Aik Beng) Ngo</strong> - Drol, Bandits</p>
+
+<p><strong>Paul Stephenson</strong> - Aztec, Swashbuckler</p>
+
+<p><strong>Tony Suzuki</strong> - Alien Rain, Alien Typhoon, Star Blazer</p>
+
+<p><strong>Larry Miller</strong> (Sirius) - Epoch, Hadron, Minotaur</font></p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; June 16, 1998 : Part 2</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Here's the Shockwave screenshot I promised early this morning. :) </p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left"><img src="http://www.johnromero.com/daikatana03.jpg" width="640" height="480"
+alt="daikatana03.jpg (33744 bytes)"></p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; June 16, 1998</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Carmack is totally right about moving as much as possible over to the client
+so as to reduce as much packet traffic as possible.&nbsp; We're doing this right now in
+Daikatana by moving lots of animations over to the client so packet traffic is low.&nbsp; </p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">For example, our Shockwave weapon (a steel ball that blasts out, hits a wall,
+then explodes with tremendous force in an ever-expanding sphere of death and destruction)
+has all the animation on the client side, even the expanding, rotating&nbsp; rings of
+death and all the hit-checking is done on the server with no packets being sent out saying
+which frames need to be drawn.&nbsp; With this BFG-style weapon, that's a good thing
+because there are about 8 massive objects being drawn all at once!</p>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">&lt;picture coming soon&gt;</p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; June 15, 1998</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Quake was released June 22nd, 1996.&nbsp; I was going by the time it took to
+make the next game by the same team.&nbsp; I've received some corrections on my times for
+development from some of the developers mentioned yesterday.&nbsp; Dark Forces really took
+18 months.&nbsp; Duke3D took slightly less time, while Unreal took much longer.&nbsp; At
+least the estimates are very close, small guy crackpimp.<br>
+</p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; June 14, 1998</h6>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none; border-top: 2px; border-bottom: 2px; padding: 0"
+align="left">Damn, I'm overrated.&nbsp; I'm an overrated geek, not a God.&nbsp; An
+overrated rock star AND geek AND not God.&nbsp; Thanks for clearing that up, <a
+href="http://www.gamecenter.com/Features/Exclusives/Overrated/ss01.html">GameCenter</a>!<br>
+<br>
+I don't remember telling everyone what the single-player gameplay was going to be like in
+Quake 2.&nbsp; Too bad GameCenterLoaf didn't like Quake 2; I thought it was a pretty
+badass game.&nbsp; And, hey, there's like hundreds of thousands of people playing it, too.
+&nbsp; If too many people are playing your game, it's overrated.&nbsp; Like me.<br>
+<br>
+And Daikatana's been under development for an entire 14 months now.&nbsp; That's a
+looooooooooong time to people with a 6-month memory.&nbsp; What's the going development
+cycle for a 3D shooter these days?&nbsp; Let's break it down:<br>
+</p>
+
+<table border="1" width="35%"
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255)"
+cellspacing="1" height="189">
+  <tr>
+    <td style="color: rgb(255,255,0)" height="15" align="center">Game</td>
+    <td style="color: rgb(255,255,0)" height="15" align="center">Time in Months</td>
+  </tr>
+  <tr>
+    <td height="15" align="center">Quake</td>
+    <td height="15" align="center">18</td>
+  </tr>
+  <tr>
+    <td height="15" align="center">Quake 2</td>
+    <td height="15" align="center">18</td>
+  </tr>
+  <tr>
+    <td height="15" align="center">Duke 3D</td>
+    <td height="15" align="center">30</td>
+  </tr>
+  <tr>
+    <td height="15" align="center">Dark Forces</td>
+    <td height="15" align="center">30</td>
+  </tr>
+  <tr>
+    <td height="15" align="center">Jedi Knight</td>
+    <td height="15" align="center">30</td>
+  </tr>
+  <tr>
+    <td height="15" align="center">Shadow Warrior</td>
+    <td height="15" align="center">36</td>
+  </tr>
+  <tr>
+    <td height="18" align="center">Blood</td>
+    <td height="21" align="center">36</td>
+  </tr>
+  <tr>
+    <td height="18" align="center">Unreal</td>
+    <td height="21" align="center">36</td>
+  </tr>
+</table>
+
+<p
+style="font-family: Arial; font-size: 12; border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&lt;Achoo!&gt;&nbsp; Am I dead yet?<br>
+<br>
+Rick Johnson is dead on correct.&nbsp; :)<br>
+<br>
+</p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; June 8, 1998</h6>
+
+<p style="font-family: Arial; font-size: 12">An Apple II legend, Jim Nitchals, died last
+Friday night of a brain hemorrhage.&nbsp; I was SO looking forward to finally meeting him
+at the massive Apple II party in August.&nbsp; He will be well remembered. Follow the
+links:<br>
+<br>
+<a href="http://www.dadgum.com/glist/updates.html">http://www.dadgum.com/glist/updates.html</a><br>
+<br>
+<a href="http://pw2.netcom.com/~nitchals/about.htm">http://pw2.netcom.com/~nitchals/about.htm</a>l<br>
+<br>
+<a href="http://www.wired.com/news/news/culture/story/12832.html">http://www.wired.com/news/news/culture/story/12832.html</a><br>
+<br>
+<a href="http://www.ogr.com/dailynews/9806/10apple.html">http://www.ogr.com/dailynews/9806/10apple.html</a><br>
+</p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; May 5,, 1998</h6>
+
+<p style="font-family: Arial; font-size: 12">And to think it was only 6 short years ago
+when Wolfenstein 3D was first unleashed upon the world...<br>
+<br>
+Happy Birthday Wolfy!<br>
+</p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; April 17, 1998</h6>
+
+<p style="font-family: Arial; font-size: 12">Thanks Kevin. Yes, we all know how difficult
+it is to get a name past the trademark office. As for the choice of name and everything
+else that's Dominion, that's completely Todd Porter's game so you can all tell Todd how
+cool his latest game is by emailing him at todd@ionstorm.com. Check out the Dominion Demo
+on our site at www.ionstorm.com! As for what I am personally working on, the game is
+Daikatana. :)<br>
+</p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; April 16, 1998</h6>
+
+<p style="font-family: Arial; font-size: 12">I've been agonizing about how to describe the
+intense feelings within my husk, but there's no nice way of expressing my opinion of the
+importance of other company's game titles.<br>
+<br>
+&quot;Let he who is without sin cast the first stone.&quot; That's what I thought when I
+read both Scott and Kevin's .plans. Scott says Dominion's subtitle is bad then remembers
+his cornucopia of bad game titles and exposes a couple of them.<br>
+<br>
+Good thing Quake 2 wasn't named &quot;Wor&quot; like id originally planned. The main
+character could have been the Wizard of Wor (starring Sylvester Stallone). Created by the
+Wizards of id. Quake III is a good name -- I just can't wait to see where they put that
+third nail.<br>
+<br>
+Coffin Boppin'!!<br>
+<br>
+And all of this stemmed from an argument that had nothing to do with name quality, but
+rather series integrity giving in to marketing greed. <br>
+<br>
+<br>
+</p>
+
+<h6
+style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; March 26, 1998</h6>
+
+<p style="font-family: Arial; font-size: 12">Heretic II. Uh, thanks guys.<br>
+<br>
+Heretic, Hexen and Hecatomb would have been the artistically &quot;right&quot; way to
+preserve the scope and story of the Trilogy of the Serpent Riders. After i left, Hecatomb
+became Hexen II and series integrity went out the window.<br>
+<br>
+&lt;sigh&gt;<br>
+<br>
+The sentence that was originally here was rewritten about 10 times because i'm trying to
+be Politically Correct in stating my feelings for how the whole series lost its focus and
+instead is just using its established brandname to sell copies.<br>
+</p>
+</body>
+</html>
+

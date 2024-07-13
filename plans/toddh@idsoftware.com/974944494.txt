@@ -1,0 +1,66 @@
+
+Name: Todd Hollenshead
+Email: toddh@idsoftware.com
+Description: CEO
+Project: 
+-------------------------------------------------------------------------------
+11/22/2000
+
+Big news:  An early Christmas present from id.  The Team Arena Demo is going 
+up tonight!  We don't have an exact time yet, but I'm expecting it to be
+uploaded and go live in the next 3 hours or so (12 PM on the East Coast/
+9 PM on West).  IGN.com is providing the initial bandwidth for us, so I'm guessing
+their servers are going to have a hangover tomorrow ;-)  We'll have all
+the specific information available about exactly where to download over the
+next couple of hours.
+
+This is the Windows version.  We *expect* to release the Mac and Linux versions 
+next week.
+
+I have a few notes to share with everyone at this time.  First, the Demo
+is stand alone.  You don't need Quake III installed to try it out.  The file
+size is around 120 meg (big, yes, but keep reading).  We are including one 
+level that plays all of the new game types (Harvester, Overload, One-Flag) 
+and CTF.  We are also including 2 models and 2 model heads.  The map contains 
+3 of the 4 new powerups, one of the new weapons and one new holdable item.  
+All of this is explained within the Demo, of course.
+
+Also contained are all of the brand new UI items.  On this, you'll just have
+to trust me that it's cool because I'd have to write a book to tell you about
+everything included.  Mod authors will love what they're going to be able to 
+do with it (I think Duffy is going to make an update about that over the weekend 
+or early next week).  You should definitely play around with this stuff and check 
+out everything we've added.  Menus, orders, team commands, setup options, etc. 
+are all worth checking out because you'll want to save these in new config files 
+for TA.
+
+We realize 120 meg is a large download, so for those of you who have limited
+bandwidth, we are going to release an avi file at a later date (also through
+IGN) containing some of the new maps and features from Team Arena so that you 
+can still check out what it will look like without overloading your modems.
+We'll have more details on this next week.
+
+If you have problems, please check the readme first for answers.  If you don't
+see the solution there, you can email feedback on bugs to bugs@idsoftware.com.
+Please don't email employees directly.
+
+In the meantime enjoy the holiday weekend (if you're in the US) and have fun
+with Team Arena.  I hope to see lots of people on our servers over the weekend.
+
+10/21/2000
+
+http://abcnews.go.com/onair/2020/2020Friday_001020_violence_feature.html
+
+An excellent article  (thanks www.shugashack.com proving sCary *is* good
+for something).  I'm going to get the scientific review and read it myself.  
+As soon as I saw that silly "1,000 studies" claim I knew it would only be 
+a matter of time before someone debunked it.
+
+10/20/2000
+
+If you're a professional or amateur game development team, you should
+take a look at this.  It's a reference document for our technology
+licensing program and contains a ton of information.
+
+http://www.idsoftware.com/corporate/idtech/index.html
+

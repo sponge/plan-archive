@@ -1,0 +1,94 @@
+Travelling Mayonnaise!
+
+
+FatELF:
+
+ Project page is here: http://icculus.org/fatelf/
+
+ I put up a FAQ and prettied up the project page.
+
+ It's interesting to see the comments across the Internet...some people love
+ it, some people hate it. A lot of people misunderstand it. Some seem to
+ irrationally fear it. People on Twitter seem to like it a lot, generally,
+ and people on random tech webforums seem dismissive. Some people are sure
+ it'll be the death of Free Software and a vector for malware, but I'm not
+ sure why. And, apparently, I'm violating two patents held by Apple.
+
+ The kernel mailing list didn't completely ignore it, which I consider a
+ victory in itself. There's been some discussion, revision, and even a
+ competing concept introduced. Alan Cox chimed in on the thread about something
+ unrelated to whether the /idea/ itself is worth exploring, but that still
+ feels like a validation to me that important people might be watching just a
+ little bit. For a list with so much activity and good patches that don't get
+ noticed at all, motion might be as good as progress.
+
+ I'm not really sure where it goes from here. If/when everyone is in agreement
+ about the concept, it still needs to get into a maintainer's tree to start
+ the journey towards Linus's git repository. Who maintains binfmt_elf? Do I
+ just drop this thing on Andrew Morton's desk with a box of candy and a
+ bouquet of flowers and hope for the best? The whole process is extremely
+ intimidating to me. It's like making bargains with God. Let me pass this exam
+ and I'll eat all my vegetables! And if I survive the stress and make it into
+ the mainline, I get to do this again on the glibc list. And the binutils list.
+ And the gdb list. And the FreeBSD list. And so on.
+
+ I've never gotten a response to a project like I'm getting from FatELF. It's
+ hitting news sites all over the place, generating a lot of talk around the
+ Web and in my inbox. It hit Slashdot and Reddit's front pages, and I watched
+ Twitter search results change from English, to Portuguese, to French, German,
+ Russian, hopping countries and cultures about once a day as it spreads around
+ the planet.
+
+ I'm a little surprised that a piece of plumbing, a few hundred lines of
+ kernel patches, generates more buzz than some of the games I've shipped.
+
+ The uncertainty of the thing is what kills me. I'd hate to find out all the
+ effort was for nothing, but I won't know for sure until I know for sure.
+
+
+SDL 1.2:
+
+ 1.2.14 has shipped. Go get it. [1]
+
+ For those that _hate_ PulseAudio being the new default, you can force
+  SDL to use your favorite target instead with an environment variable.
+
+     export SDL_AUDIODRIVER=alsa  # forces ALSA.
+        or
+     export SDL_AUDIODRIVER=dsp   # forces Open Sound System
+
+ (esd, arts, dma, and nas also work.)
+
+ The final straw was our inability to get ALSA to behave everywhere, and that
+  many distros pipe everything through PulseAudio, even when you think you're
+  talking to ALSA (I'm looking at you, Ubuntu!). Basically every target has
+  quiet wrappers that push it back to other targets. With Linux 2.6.32's new
+  CUSE module, even /dev/dsp could just be a userspace driver for whatever
+  else. We decided that Pulse was the sanest default on modern hardware, and
+  we find the current feature set and future roadmap for it compelling.
+
+ Add to this that Lennart Poettering, the Pulse maintainer, personally wrote
+  the SDL PulseAudio target (and helped us with the ALSA code, too!)...Sam and
+  I decided to give PulseAudio our vote of confidence as the default audio
+  target for 1.2.14.
+
+ We're pretty confident that 1.2.14 is a good release and a comfortable place
+  for the 1.2 branch to retire.
+
+
+Other stuff:
+
+ Crunch time.
+
+--ryan.
+
+
+
+     [1] http://www.libsdl.org/
+
+--------------------------------------------------------------------
+When this .plan was written: 2009-10-26 15:55:17
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.23 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

@@ -1,0 +1,41 @@
+Login: justin         			Name: Justin
+"|IFS=' '&&exec /usr/local/bin/procmail -f-||exit 75 #deadbeef"
+Project:
+Current projects:
+  Winamp
+  WASTE
+  NSVate
+  NSVenc Live
+  NSVplay[x]
+  and more!
+
+Projects I plan to start soon:
+  (Very soon) Cody and I will do K04s and port the S4, for some 450hp range love
+  xbox avs/milkdrop/tinyvis/player
+  NullsoFTP
+
+Inactive (but recent) projects (That may get attention sometime):
+  AAS
+  SafeSex
+  Beep
+  NSIS
+  NSVplay
+  Nullsoft AutoClose
+
+Projects I haven't touched in ages, but may someday again:
+  Shoutcast
+Plan:
+14 March 03
+
+happy pi day (heh). I wish I had updated this at 1:59 am or something, but
+I missed that chance.
+
+poor jonathan broke his arm snowboarding a few weeks ago, and had to have
+surgery. poor bastard. send him pron (jonathan@winamp.com).
+
+wa2.9 is coming along nicely, and we should be releasing it around the 26th..
+Mainly waiting for Jonathan and Steve to all be around.. Christophe and I will
+probably put a beta of it on the Winamp.com forums next week, so if you're
+interested keep your eyes open then...
+
+Fun fun fun.

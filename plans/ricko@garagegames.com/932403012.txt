@@ -1,0 +1,33 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-----------------------------------------------------------------------
+User Name: rick.overman     Plan Last Modified: 07/19/1999 08:21:01 PST
+
+//-----------------------------------------------------
+Real Name:  Rick Overman
+Job:        Director/Lead Programmer
+Project:    Starsiege, Core R&D
+E-mail:     rick.overman@dynamix.com
+
+The coding for the OpenGL performance upgrade is
+virtually done.  Because of the extensive changes that
+were required I'm letting QA really pound on this patch
+release.  So far everything looks good. You TNT
+die-hards will be glad to know that I have removed my
+Voodoo2 from my machine and am running exclusively with
+a TNT. Starsige runs great, no more hitching and very
+respectible framerates.  Next plan I'll report on TNT2
+performance.
+
+I've been receiving a few e-mails reguarding Starsiege
+not installing on Win2000 beta.  Yes we goofed.
+Starsiege runs fine but the installer gets a bit
+confused.  We'll have an installer patch available on
+the website soon for those who are interested.
+
+A few more hacks have been confirmed and will be
+addressed in v1.004.
+
+--Rick

@@ -1,0 +1,45 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: joeske
+Plan modified: Sat Nov 21 21:01:35 1998
+
+Who am I?: Joe Selinske
+Where am I at?: Ritual Entertainment
+What do I do?: Witch Doctor & Project Manager for Sin
+Nick: "Skeme" & "Ske"
+Email?: joeske@ritual.com
+
+============================================================================
+ Disclaimer!!!
+ The views expressed here are solely that of my own and in no way reflect
+ the official position of Ritual Entertainment or any other officers of 
+ the company.  Take them to heart as just me spouting off, as I always do.
+============================================================================
+
+
+Saturday, November 21st
+-----------------------
+Well, the patch is out and up on Blue's so everybody can get it and enjoy
+one of the coolest new maps around. Paradox is done by none other than our 
+own Tom 'Paradox' Mustaine. I hope that everyone likes it. We love it. :)
+
+
+Here's a quick breakdown again of some of the bug fixes:
+========================================================
+Long load times are improved. 
+Long reloads after dying are fixed. 
+Sound compatibility issues fixed.. 
+Save game from a compact install now works properly. 
+Multiplayer skin showing up in red is fixed. 
+Autoplay from the CD splash screen is fixed. 
+Manumit, the subway mutant now works correctly. 
+Monster AI has been adjusted. 
+Area 57 crash bug has been fixed. 
+An animation issue with Assault Rifle and HV Chain Gun in Multiplayer has been fixed. 
+Fixed Quantum Destabilizer bug where you could vaporize a character that had an idcard. 
+Case sensitivity for Missile Silo password entry is fixed. 
+A few "wait for player" issues which could effect vehicles and some cinematics have been fixed. 
+A memory leak has been fixed. 
+
+

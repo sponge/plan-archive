@@ -1,0 +1,106 @@
+Account Name:  Bryan Turner
+Email address: bryant@3drealms.com
+----------
+10/06/98 11:15 am
+
+Standard Disclaimer: What you read in this might not be what we would 
+do if you Called Tech Support, This is MY findings, and the opinions
+here are mine and not the Tech Department's, Everything in this Plan
+is examples...  Blah Blah Blah.........
+
+Hummm...  I just received a Call today and I thought that I would share
+it with everyone.
+
+The customer called and was upset because he did not have enough memory
+to run Monster Bash and a few of our other games. Although he had 64
+meg's of Ram in his system.
+
+First computers come with 640k Conventional Memory. And that is what
+these games are looking for. Not RAM.
+
+So when he restarted into MSDOS mode by selecting Start - Shutdown -
+Restart in MSDOS mode, and he typed in MEM <enter> he only had 510k
+free. This is normal, because if you have windows you normally will not
+use dos. (Unless you want to play dos games)
+
+So this is the Fix, but first some definitions:
+
+Right Click - Moving your Mouse over something and Pressing the Right
+              mouse button.
+Desktop     - The area on your windows 95 that has no ICONS, but it is
+              the part that you look at all the time. :)
+Icon        - The thing's that you click to start a Program.
+
+Start up your computer and get to your Desktop. Right Click on your
+Desktop where there is not any ICONS. This will bring up a Dialog box
+with different options.
+
+Select NEW - Shortcut. A box (window) will appear asking you the Command
+line. You want to type in "COMMAND" and press OK. Then it will ask you
+the name for this ICON. (It will have MS-DOS Prompt) you can name it
+anything your heart desires.
+
+Now you will see the ICON on your Desktop. Right Click it and go down to
+Properties.
+
+Ok now is where the fun begins. :) left Click on the Program Tab. then 
+left click on ADVANCED. In the Advanced Program Settings Window, left 
+Click on the little white box next to "MS-DOS Mode"
+
+Then Click on the White Circle that is next to "Specify a new MS-DOS 
+Configuration"
+
+The 2 boxes that were gray will now become White. In the Config.sys 
+box you should only have 2 lines:
+
+DOS=HIGH,UMB
+Device=C:WINDOWSHimem.Sys
+
+and in the Autoexec.bat you will have a lot. :) We do not need them all
+so use your delete Key and delete all the lines.
+
+Now we need to Init your Sound Card. (Actually just the Set 
+Blaster Command, Since I have gone over how to get that in another
+Plan file I will not go over that again in Detail. {Type in SET
+<enter> from a dos prompt and write down the BLASTER= line})
+
+The Format is SET BLASTER=A### I# D# T# (You will need to put in 
+your setting's) 
+
+Then click on OK, when the window Closes click on Apply and then OK.
+
+Now you have an MS DOS Shortcut that will restart your Computer into 
+MS-DOS mode and give you a lot of Memory.
+
+If you need to add any driver's into the configuration (Sound Mouse ect.)
+right click on the Icon and go down to Properties, then Program then 
+Advanced, Just like we did to create this, and if you are adding it into
+the CONFIG.SYS window and the line is something like DEVICE=c:ANSI.sys
+change it to DEVICEHIGH=c:ANSI.sys  this will load it HIGH (leaving you 
+with more conventional Memory) And for the Autoexec.bat if you wanted 
+to add in something (IE: C:MOUSE.COM ) Add it in with the load high 
+command as well:
+
+LH c:mouse.com
+
+Now you should be ready to play! Have fun.
+
+Games that I am playing: 
+Single : NONE!
+Multi  : NONE!
+(I am having a Bad week)
+
+Personal Stuff:
+The POND: I got everything that I needed to finish it and low and behold 
+my Wife (Marla) had a nightmare about our 2 yr old (Brianna) drowning 
+in it. Although I attempted to explain that I would building a "cute"
+fence around it, the pond is no more, and I will be filling my Hole that
+I have been working on for the last 2 months. :(
+
+The Beast: I found out that La Barens Have COOL hood Hinges (Like SAAB's)
+and I will be looking into getting my hands on them and having the Beast's
+hood open Outward's. I have already found some Jeep parts that I will be
+using to make the tailgate open like a Door. (Now all I need is a
+Tailgate) If you have a Spare Nissan Tailgate (87-96) Please let me know
+and I will see if I can meet your Price and pay for Shipping (Depending
+on what the Price is. :) )

@@ -1,0 +1,11 @@
+GarageGames plan resource for Tim Gift
+Posted Wednesday July 25, 2001 at 15:32 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=1194
+
+Boy, this has been a busy past few weeks.  Rick and I have been working hard on the e-commerce side of the site.  Ever since Sierra approved the V12, the pressure has been on to get it all wrapped up so we can release the engine.  Rick's been working on the server: putting in SSL, download metering and a few other things. I've been working on putting in the purchasing pages, database tables and our verisign transaction stuff.  A little different from my usual game programming :)  It's not hard stuff, but lot's of little details and certainly a lot more work than I had originally anticipated.  It's also not the sort of thing you want to goof up.
+
+I uploaded all my current changes to the server yesterday, which included the new "My Garage" tab.  The new tab has the developer home page and will also include all the  "private" sections that a developer has access to (if you purchase the V12 SDK, you get access to a private V12 area).  The purchasing pages are not open to the public yet. I still have a few more changes to make, then we need to do some serious testing with our beta guys.  Getting close though (seems like I've been saying that for a while now). Even though it's been a year since I left Dynamix, it's only been four months since we received our first "T2 final" code drop.  Feels a lot longer than that.
+
+I've fallen behind on the forums, I'll try to do some catch-up over the next few days...
+

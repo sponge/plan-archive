@@ -1,0 +1,19 @@
+
+Name: Marcus Whitlock
+Email: mwhitlock@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+25/01/2000
+
+Just like to say a couple of things about the Soldier of Fortune DEMO and in particular, the predicted view-weapons in Soldier of Fortune:
+
+1) Though we're very pleased with how it turned out, the DEMO is at the end of the say, a snapshot of work in progress. So the final, retail version of SoF will contain many enhancements over what you're playing with now. In line with what I'm working on currently, the predicted view-weapons will be further refined.
+2) A couple of things to note about how the prediction works. The server instructs the client to change weapons (e.g. in response to seeing that you pressed a weapon selection key). The server also instructs the client to reload your weapon's clip (either 'cos you hit the reload key or your clip ran out). And of course, the actual missile / projectile / bullet tracing / hitting something code is also done on the server. Everything else tho' is predicted.
+
+Marcus Whitlock - B.Sc(hons) Computing Systems, aka Scorpio.
+
+Programmer / English geezer - Raven Software Corp.
+
+<a href="http://www.gunhed.demon.co.uk/home.htm 
+">http://www.gunhed.demon.co.uk/home.htm</a>

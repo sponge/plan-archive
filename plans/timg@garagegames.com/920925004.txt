@@ -1,0 +1,53 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-------------------------------------------------------------------
+User Name: tim.gift     Plan Last Modified: 03/04/1999 16:35:10 PST
+
+Real Name: Tim Gift
+Nickname: Slacker
+Job: Director/Lead
+Project: Starsiege Tribes
+
+3.2.99
+
+Patch 1.3 is out. Dave Moore posts an update on OpenGL
+in his plan. We've received a lot of feedback over the
+last few days :) Some of which has has led to
+significant improvements in the performance of our
+driver. OpenGL is starting to look much better.  Soon
+as Dave get's it all sorted out, we'll release a 1.3.x
+beta for more feedback.
+
+We are starting to QA our tool patch today, this will
+probably be included in one of the upcoming betas as
+well. Eventually there will be a Tribes 1.4 release,
+though I don't see any major features being added at
+this point. There are a lot of ideas bouncing around
+for TRIBES, but after 1.4 we'll have to see how many of
+those we want to implement. At some point we'll move into
+more of a support role, fixing and addressing issues
+as they occur, but mainly shifting our focus on to the
+next TRIBES product.
+
+Some of the other issues still being thought about:
+
+	- Australian master server
+	- Expanding our dedicated server base
+	- Dedicated server stability
+	- Scripting/Mod documentation
+	- Better support for mod writers
+	- Better support for dedicated server operators
+	- Linux port
+	- Patch/Update process improvements
+	- A number of improvements to the web site
+
+A lot of it comes down to better community support.
+Comments? Feedback? I can't always answer every email
+that comes in, but ideas are always welcome.
+
+
+
+
+

@@ -1,0 +1,21 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Jedi Knight2
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+Man!  Is it 2002 already?  We're just cruisin' right along.
+
+How would you like more updates from me, Carmack style?
+
+Would anyone care that we added a screenshot picture to the load/save menu?  or that we created a new tc_gen type for overhead fog?
+
+
+-james
+
+quote for the year:
+
+A Buddhist walks up to a hot dog vendor and says:
+  "Make me one with everything."

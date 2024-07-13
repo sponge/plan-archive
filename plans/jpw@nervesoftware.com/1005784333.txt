@@ -1,0 +1,29 @@
+
+Name: Joe Waters
+Email: jpw@nervesoftware.com
+Description: Technical Director
+Project: WolfMP
+Nickname: gunfu
+Web Page: <a href="http://www.nervesoftware.com">Nerve Software's Web Site</a>
+-------------------------------------------------------------------------------
+14 November 01
+==============
+...so I made a big stink about getting a .plan facility turned on 
+for Nerve, so I oughta at least put it to reasonable use so 
+Brandon doesn't feel like I wasted his time --
+
+re: mptest2, you know that thing that came out some days ago
+
+...just for the record, since I've seen a couple comments on different sites about this, as far as I know the mouse code has *not changed* at all.  not a bit.  The only thing that might have changed is the sensitivity setting (we shipped a wolfconfig.cfg with the first mptest, this one has different defaults).  So if you're unhappy with mouse performance, load mptest1, look at your mouse setting, and make the setting the same in mptest2.
+
+There are some graphic oddities with mptest2: when the video mode auto-adjusty winky runs, it might turn off dynamic lights, which are needed (in mptest2) for dynamite status info, so make sure to turn that back on. Also, it may turn on trilinear mipmapping, which
+might be a significant performance hit on some cards; so if it feels slower than mptest1, try setting that back to bilinear filtering.  The rendering architecture hasn't changed substantially ('cept for flamethrower stuff) and neither has the map, so the speed difference should really be negligable.
+
+whee.  look, I'm the first Nerve guy to do a real live useful .plan update
+
+finger me baby
+
+
+8 November 01
+=============
+Yup.  .plan files and everything.

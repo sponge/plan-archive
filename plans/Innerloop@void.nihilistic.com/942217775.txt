@@ -1,0 +1,32 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+
+11/9/99
+
+Just to clarify about the 'trailer' including Vampire footage floating around
+on the net lately..
+
+This video was taken from a Siggraph promotional thing that the folks at
+Alias|Wavefront shot quite a long time ago.  It wasn't intended as a PR
+trailer for Vampire or anything.  It was originally part of a multi-part set
+of loops that were used at the SGI booth at Siggraph, the other ones showing
+various effects houses and stuff using Maya.
+
+We did the trailer because we use Maya and we think its awesome for games,
+not because they paid us for it in any way.  Well, I think they might have
+bought lunch that day.. :) 
+
+Most of the game footage in the video is pretty outdated now, even thought
+the video just started making the rounds on the net (it was shown at Siggraph
+and released on a Maya demo CD quite a while back).
+
+Last we heard, the folks at Activision are working on a 'real' trailer for 
+the game based on a mucn more recent build for release to the net soon. So
+if you're looking for more up-to-date, game-focused footage, keep a lookout
+for it.
+
+

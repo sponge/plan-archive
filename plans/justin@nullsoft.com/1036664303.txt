@@ -1,0 +1,9 @@
+Login: justin         			Name: Justin
+"|IFS=' '&&exec /usr/local/bin/procmail -f-||exit 75 #deadbeef"
+Plan:
+Nov 7, 12:51am
+mmm I love driving in sf in the rain late at night with no other cars on the road.
+oh and with awd.
+hauled ass up hyde st from bay, breaking wheels loose in 1st and 2nd gears when I 
+gave it too much throttle.
+the fact that there were metal cable car tracks helped a bit

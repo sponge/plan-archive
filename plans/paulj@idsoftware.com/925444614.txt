@@ -1,0 +1,37 @@
+
+Name: Paul Jaquays
+Email: paulj@idsoftware.com
+Description: Level Designer
+Project: Quake 2
+-------------------------------------------------------------------------------
+
+Skill Portfolio/Background:  See bio on id web page for details
+
+Current projects:   Quake 3: Arena maps
+
+**********************************************************************
+DISCLAIMER:  THE FOLLOWING IS THE PERSONAL OPINION OF THE AUTHOR AND DOES NOT REPRESENT THE OFFICAL POSITION OF ID SOFTWARE, ITS OWNERS, EMPLOYEES, DISTRIBUTORS, LICENSEES, OR ANYONE ELSE)
+**********************************************************************
+
+**********************************************************************
+January 8, 1999 
+**********************************************************************
+Here I am again, abusing the power and privilege of a public venue for my own personal gain. *sigh* I'll make it quick.  One of my favorite games of all times is Microprose's PIRATES!  I first played it on the C-64, then got a copy that ran on my old black and white Mac SE (or was it my 1984 original Mac?). Those computers are long gone from my inventory ... but the other day I picked up a copy of PIRATES! GOLD for a price so low I am almost ashamed to admit to it. ($0.88 at an Office Depot clearance table). Well, I quickly found out why it was priced to move.  It wouldn't run on my PowerMac 6100 running system 7.5.  Now before anyone beats me up for using a Mac, let me just say that it's the only computer at home that I don't have to fight family members for use time (Not entirely true, I do have a machine dedicated to level design, so when I'm at it, I'm doing work). So, having said that, I need some help:
+
+1. I went looking for a patch on-line and found a listing for one, but the Microprose ftp site that stored it no longer existed (probably has something to do with the Sale to Hasbro/Bradley).
+
+2. I don't know if the patch would allow the game to operate in a system 7.5 environment (system 7.x was not fully backward compatible with a lot of games ... Worldbuilder and Monkey Island to name a couple).  I don't know about OS 8.x, because since coming to id, the Mac has gotten progressively less and less of my attention and I've been too lazy to add the extra RAM needed (at least another 16 meg) to even run operating systems or games made recently.
+
+3. So what am I asking here?  Does anyone know a link to the Mac PIRATES! GOLD v.1.01 patch? (URL number only please.  Don't send me the file. I want to pull it in on a Mac). Or does the patch even make the game System 7.5 compliant.  If not, I don't want to waste my time with it ('Cause it looks like I've already blown 88 cents). 
+
+Quake 3 related stuff
+
+Last week, I was again reminded of why I got into making games in the first place.  My son and three of his friends from school came in (at my invitation ... I knew the guys and was comfortable having them here in the office ... so don't ask ... OK?) and play-tested Q3A and N64 Q2.  They gave us some good feed-back, helped us find a couple bugs in both games, and generally confirmed something that we pretty sure of already. Quake 3: Arena is fun ... and terribly addictive (like potato chips, you start eating them and before you know it the bag is empty and you wonder where they went.)  And that brings me back to my point.  I got into games because what I REALLY enjoy the most is making things that give others pleasure (whether it's D&D game adventure, fantasy paintings, or most recently, 3D FPS game levels).  So while you may think I'm making all this cool stuff for you to have fun ... I'm really being selfish. Because, secretly, I'm doing this for me.
+
+Time to make the levels! :-D
+
+Paul J.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+If it's not here, it's vapor.  Check out somebody's archives if you want to read my previous bits of wisdom and flame.

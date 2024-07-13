@@ -1,0 +1,75 @@
+Login: justin         			Name: Justin
+"|IFS=' '&&exec /usr/local/bin/procmail -f-||exit 75 #deadbeef"
+Project:
+Current projects:
+  Winamp
+  WASTE
+  NSVate
+  NSVenc Live
+  NSVplay[x]
+  and more!
+
+Projects I plan to start soon:
+  (Very soon) Cody and I will do K04s and port the S4, for some 450hp range love
+  xbox avs/milkdrop/tinyvis/player
+  NullsoFTP
+
+Inactive (but recent) projects (That may get attention sometime):
+  AAS
+  SafeSex
+  Beep
+  NSIS
+  NSVplay
+  Nullsoft AutoClose
+
+Projects I haven't touched in ages, but may someday again:
+  Shoutcast
+Plan:
+7 March 03
+
+So we brewed a shitstorm a few weeks (months?) ago, and soon the results
+will be getting to the public. So I want to lay it out for eveerybody here.
+
+
+What is going to happen?
+
+Next week or maybe the week after, we will be releasing Winamp 2.9. The
+expected changes from 2.8 will be:
+  * Video support (Directshow formats and NSV)
+  * Media library support (This rocks! Includes a lot of things including
+    SHOUTcast listing support, CD support, portable device support via plugins
+    and an API (we will release an iPod plugin and Nomad Jukebox plugin to 
+    start))
+  * A _bunch_ of new plugin API/IPC calls for plugins to use. These include
+    things like generic window frame creation for tighter integration.
+  * Digital CD extraction for CD playback
+  * a lot of other fixes and improvements.
+
+This should be happening very soon.
+
+So the question that people might be wondering is, what does this mean for 
+Winamp 2 vs Winamp 3 etc? Well, here is the plan:
+
+  * We release Winamp 2.9 with a lot of the bulk functionality that we have in 
+    Winamp 3 (videoand  media library support being two of them)
+  * We work on integrating some of the Winamp 3 features that we want into the
+    Winamp 2.9 platform, including the hot Winamp 3 skin support. 
+  * We spend a little bit of time adding the features we wanted in Winamp 3
+    into this new version, including CD ripping and burning, which will be very
+    hot. The new media library will enable a lot of this, and make it very easy
+    to integrate.
+  * ?????
+  * We profit.
+ 
+All in all, by this summer, we should have some very interesting product
+(read: something that performs like Winamp2.x, has all the skin support of
+Winamp 3, more features including CD ripping and burning, and is overall
+very solid and functional.) 
+
+And in the next couple of weeks, you will see Winamp 2.9, which will give you
+a good preview of whats to come.
+
+This is what will (hopefully) be happening. We are all tremendously excited,
+stay tuned.
+
+-Justin

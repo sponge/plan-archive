@@ -1,0 +1,22 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+Mac News
+
+UPDATE:
+
+my iTool folder is overloaded!!! Please download the build from:
+
+ftp.idsoftware.com/idstuff/wolf/osx
+
+Thanks!!!
+
+There's a new OS X build of WolfMP up (build b3).  This fixes issues with dual monitors and some ATI Rage cards.  If it goes well I'll make up a full installer and we can get everyone in on the fun.
+
+My heartfelt thanks to everyone out there who downloaded and tested these builds.  The reports and encouragment have been excellent.
+
+Not a single email asking for Classic support though.  I thought that was interesting (I'm sure they will flood in now).
+

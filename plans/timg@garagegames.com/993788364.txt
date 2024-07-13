@@ -1,0 +1,15 @@
+GarageGames plan resource for Tim Gift
+Posted Friday June 29, 2001 at 3:36 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=1095
+
+A little update... I'm heading out tomorrow (Friday 28th) on a short trip up to Seattle, and won't be back until the 4th.  Visiting my girlfriend's family up there as well as some R&R.
+
+Things are looking pretty good on the V12 side.  Rick and I along with our associates and beta team have been making good progress.  David Chait has a Mac server and client running. Win32 can connect to Mac client and vice versa :) Very cool :) Ryan Parker has been working on the linux port and has the linux dedicated server running :) Also very cool :)  The rest of us continue to work on cleaning up the code, getting the shell for our test app together, networking, etc.  We've already released one beta, today we've released the second.  The networking code is all working in this beta, so we'll be doing some multi-player testing with the beta guys :)
+
+The V12 is basically ready to be released.  Long term there is still lots of work to do, especially documentation, but the core features are there, and it runs :) Our major hold up is getting final approval from Sierra.  They get to look at our build to verify that we've removed all the Tribes 2 intellectual property.  We gave them a build two weeks ago and received a reply Tuesday.  We've addressed the issues they brought up and are going to give them a new build tomorrow morning.  Hopefully this one will go through :)
+
+Rick and I have a few things to work out on the site before the launch.  We were going to do those this week but then received the mail from Sierra.  That got us side tracked. Rick will probably start on it this weekend, and I'll get on it when I return.
+
+For those of you monitoring our site (www.garagegames.com) this is probably all old news :) ... Getting close, once we get approval from Sierra we'll be on a short countdown :)
+

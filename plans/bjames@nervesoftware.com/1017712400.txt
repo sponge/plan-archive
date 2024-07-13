@@ -1,0 +1,83 @@
+
+Name: Brandon James
+Email: bjames@nervesoftware.com
+Description: Game Director
+Project: WolfMP
+Nickname: What?
+Web Page: <a href="http://www.nervesoftware.com">Nerve Software's Web Site</a>
+-------------------------------------------------------------------------------
+--------------
+March 28, 2002
+--------------
+
+WolfMP version 1.31 was released last night. The smaller update which updates from 1.3 to 1.31 was released this afternoon. After thorough testing on the servers setup by Xian, Fred, Speakeasy and others, we decided everything was stable and ready for release! The sticking, warping and teleportation issues introduced in version 1.3 have been squashed.
+
+Included in the patch is mp_pakmaps1.pk3, which contains the map, "Ice". The version of "Ice" that is included with version 1.31 is not compatible with the version released in 1.3, due to some bug fixes. To make the world a better place, and to get all players on the same version of the game, I'd strongly suggest everyone upgrade to 1.31. 
+
+People sticking with version 1.3 and trying to play "Ice" will not be able to do so on servers that have properly upgraded to version 1.31.
+
+The auto-update server will be going live soon. We decided to release the full patch to the websites and popular download sites in order to spread out the bandwidth for such a large update. Future auto-updates will take place for smaller downloads, the
+majority of which will be code only.
+
+See you on the battlefield,
+
+-B
+
+-------------
+Older Updates
+-------------
+
+The testing of the latest WolfMP code on Xian and Fred's servers has been going great! There have been some very, very intense matches on Xian's mp_base server, which I was completely addicted to last night.
+
+In addition to Xian and Fred's servers, we've released the code (as talked about in yesterday's update) to a handful of other servers. If you'd like to help test it out, connect to one of the updated servers below:
+
+SPEAKEASY.net - Dallas RTCW - 64.81.127.136:27965
+SPEAKEASY.net - Boston RTCW - 66.92.64.136:27965
+SPEAKEASY.net - Denver RTCW - 64.81.111.136:27965
+SPEAKEASY.net - Seattle RTCW - 63.251.171.135:27965
+SPEAKEASY.net - Chicago RTCW - 64.81.159.136:27965
+SPEAKEASY.net - Atlanta RTCW - 216.27.175.136:27965
+SPEAKEASY.net - Los Angeles RTCW - 64.81.45.136:27965
+SPEAKEASY.net - Philadelphia RTCW - 66.92.224.136:27965
+SPEAKEASY.net - San Francisco RTCW  -  64.81.79.136:27965
+SPEAKEASY.net - New York City RTCW - 216.254.95.136:27965
+SPEAKEASY.net - Washington DC RTCW - 66.92.159.136:27965
+Shack RTCW [CHI] SPEAKEASY.net - 64.81.159.136:666
+Shack RTCW [DFW] SPEAKEASY.net  - 64.81.127.136:666
+Shack RTCW [NYC] SPEAKEASY.net - 216.254.95.136:666
+
+You must have 1.3 installed in order to connect!
+
+Thanks for all the great feedback so far and to the admins running the latest code. See you on-line.
+
+-B
+
+--------------
+March 18, 2002
+--------------
+
+"Medic!"
+
+The WolfMP 1.3 patch has hit the net fixing numerous bugs and exploits while also introducing support for Punk Buster, auto-updates, MP_ICE (which seems to be a hit!) and the groundwork for loading up user-created Mods. While squashing and ridding the world of these bugs, we introduced a new issue that is affecting gameplay..
+
+Most notably, the problems related to reviving and the teleportation, or warping that some have experienced on certain maps. Luckily, these issues are all a byproduct of a fix for reviving players on and around script_mover's (the giant doors in mp_assault). We've been testing the fix for this internally and others have been testing it as well and everything appears to be back to normal. The fix is a server side issue, which can be tested if you connect to one of the servers listed below.
+
+192.246.40.64:27960 - Xians MP_BEACH server 
+192.246.40.45:27960 - Xians MP_DESTRUCTION server
+192.246.40.43:27960 - Xians MP_ICE server
+192.246.40.45:27961 - Xians MP_BASE server 
+192.246.40.66:27961 - Fred's MP_BASE server
+192.246.40.108:27960 - Xians MP_TRENCHTOAST server
+
+Information, stats and forums for Xians servers can be found at:
+http://underworld.idsoftware.com/wolf
+
+If all goes well with this fix, the update will be in your hands after thorough testing. As always, an announcement will be made prior to release.
+
+Detailed bug reports can be sent to: wolfbugs@idsoftware.com and wolfbugs@nervesoftware.com
+
+Most of us involved in the project can be found trolling around Wolfenstein specific sites such as planetwolfenstein.com, wolfensteinx.com and rtcwcentral.com. If there is a concern or bug reported at any of the above, we've seen it.
+
+Big thanks to Fred and Xian at Id for testing this out!
+
+-B

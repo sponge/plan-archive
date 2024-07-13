@@ -1,0 +1,78 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+
+Jan.3.2002 @ 11:50am
+--------------------
+
+ Ok. Both servers mentioned below are back up and running under the
+Win32 1.1 binaries. If people could play on those servers today, it would
+be great to help iron out any possible issues. I will be monitoring the
+servers throughout the day.
+
+ Cheers,
+
+ -Xian
+
+Jan.2.2002 @ 10:50pm
+--------------------
+
+ *sigh* Looks like both servers mentioned below are down... I'll look
+into it in the morning when I get into the office.
+
+ -Xian
+
+Jan.2.2002 @ 7:15pm
+-------------------
+
+ Effective midnight tonight, my popular xian-osx.idsoftware.com WolfMP
+server will be going down. It is being moved to xian-gameserver.idsoftware.com.
+
+192.246.40.45:27960	mp_destruction !!!
+192.246.40.45:27961	Stopwatch Mapcycle
+
+ The server is currently running the WolfMP 1.1 binaries (Thanks Brandon!) 
+which should hopefully be released in the near future. The 1.1 server works 
+just dandy with v1.0 retail clients !
+
+ So, for all you guys that frequent the xian-osx.idsoftware.com server, I would
+greatly appreciate it if you all moved to the new server (which has has it's
+maxclients raised higher than was set on xian-osx...)
+
+ If you encounter any problems with any of the Wolf servers I run (denoted by
+"[id] Xian's *" in the server browser), please don't hesitate to drop me a line
+at xian@idsoftware.com. They should all be running the v1.1 server binaries, and
+I would be interested in hearing about any bugs or issues you encounter while
+playing.
+
+ Also, if people could test out playing on port 27961, this should have the 
+"zombie clients not disconnecting" bug fixed as well.
+
+ Cheers,
+
+ -Xian
+
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, leaky roof, broken glass, mud slides,
+forest fire, and/or projectile (which can include, but not be limited to, 
+arrows, bullets, shot, BB's, paintball, shrapnel, lasers, napalm, torpedoes, 
+or emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.)
+</font>
+---
+</tt>

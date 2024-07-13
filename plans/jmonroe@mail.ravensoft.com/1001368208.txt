@@ -1,0 +1,13 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Jedi Knight2
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+i finally got around to fixing my webcam.  it turns out that win2k sp2 caused a giant BSOD with the camera drivers.  so i found some new drivers and it seems okay again.
+it's mostly boring right now, but it should perk up when we get into crunch time.
+
+http://www.geocities.com/em0r0g/photos/office.html
+

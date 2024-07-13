@@ -1,0 +1,9 @@
+
+Name: Timothee Besset
+Email: 
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+Tue Nov 16 15:52:29 CST 2004
+
+There is a new release of the DOOM3 SDK available. See http://www.iddevnet.com/ for details. This release is compatible with the Linux 1.1 release ( and includes scons build scripts ).

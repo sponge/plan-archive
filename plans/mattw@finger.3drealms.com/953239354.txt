@@ -1,0 +1,24 @@
+Account Name:  mattw
+Email address: mattw@finger.3drealms.com
+----------
+<HTML>
+<body>
+
+<TABLE width=420 BORDER=0 CELLPADDING=0> 
+    <Tr>
+	Nick: rocksockm<br>
+	Position: Interplanetary Robot Pr0n Star (level designer/artist)<br>
+	Project: Duke Nukem Forever<br>
+	Email: mattw@3drealms.com<br>
+	<IMG WIDTH=20 HEIGHT=20 SRC="http://www.classicgaming.com/pac-man/pac-bullet.gif"> * * * * * * * * <br>
+    </Tr> 
+</TABLE>
+
+<br>
+
+<p>Makin' a game, havin' a Bud.
+
+<p>True. True.
+
+</BODY>
+</HTML>

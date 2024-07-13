@@ -1,0 +1,12 @@
+
+Name: Graeme Devine
+Email: 
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+
+Mac Point Release 1.32
+
+Worked through the night on the Mac build.  All performance issues under 10.2 have been fixed.  The final point release will be available today, but while PunkBuster support is final in this client, PunkBuster servers, which are run by Even Balance, need to be updated to allow play.
+
+Graeme.

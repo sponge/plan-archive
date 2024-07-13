@@ -1,0 +1,48 @@
+
+Name: Mike Schulenberg
+Email: mschulenberg@mail.ravensoft.com
+Description: Designer
+Project: Star Trek
+-------------------------------------------------------------------------------
+10-26-99
+
+A month since the last update...
+	I've noticed how some of the other developers do a
+worklog-type thing, so I thought I would try one.
+	Right, off we go...
+
+* Created a brush.  Put a texture on it.  I didn't like the
+texture so I put a different one on it.  It's a much cooler-
+looking brush now, I can assure you...
+
+* Liked the brush so much I cloned it and used it again so that
+now it is two...two...two times the coolness.
+
+* Created a patch mesh.  Bent it and fit the texture on it x2 and
+y2.  Wanted to see what it looked like so I opted to run a BSP.
+
+* A squiggly red line appeared in the editor.  Turns out it was
+caused by a leak.  Dragged an edge, fixed the leak.
+
+* Admired the patch mesh for a while.
+
+* Built a door.  It opens and it closes.
+
+* Created another brush.  Sheared it, clipped it, textured it...
+
+* Placed a light and made it red.  It ended up being too bright
+in the game.  It's fixed now.
+
+*  MRJ liked my brushes so much he stole them all and put a bunch
+of holes in them to start building his level with...vengeance
+will be mine =)
+
+Hmmmm, okay, I admit it.  These worklogs are much more interesting
+when a programmer is doing it =)
+	Seriously, though, work is proceeding nicely on the levels.
+We're in the midst of building the last group of levels for the
+game.  After this, though, the real work begins, as we have to
+start scripting all of them.  So there's still lots of work to do.
+I'm really looking forward to seeing how everything is going to
+shape up.  Everyone's been doing a spectacular job, and I can't
+wait until the game comes together.	

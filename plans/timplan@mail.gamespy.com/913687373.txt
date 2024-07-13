@@ -1,0 +1,33 @@
+User:   timplan
+Unread: 2
+Time:   Mon, 14 Dec 1998 18:02:55 -0800
+Plan:
+Some sad personal news.  On Wednesday night my grandfather died after 88
+years.  Almost made it to 89 because his birthday was Friday.  Consequently,
+I had to go to Alabama for the funeral.
+
+More upbeat.  GameSpy Java.  It is looking good.  Spent a lot of time
+reading.  Got two books. One is the Java Master Reference.  Damn good book
+if you want a reference on the classes (and I did).  It qualifies as a tome.
+The second is Java Network Programming.  I found this fairly useful but
+slightly out of date.  Has lots of snippets showing how to do something.
+The two books together and the online help are helping me design this thing.
+
+GameSpy Java can download a web page and launch a program (ie start quake).
+Can't query anything yet.  Working on understanding and adding the
+serialization for saving and loading the data as well as the design.  The
+design is fairly easy, it is almost like GameSpy but there are occasional
+gotchas.. Also trying to figure out how to draw my own icons in the tree
+control.  The one thing I have not figured out is how to start a web
+browser.  In Win32 it was easy.
+
+GameSpy.  Joe has not sent me the 2.1 drop yet.  Not that it matters much.
+Between the funeral and pneumonia, I have not had much time for anything.
+
+Been playing Halflife.  So far, it is really good. I am at the Blast Pit.
+
+Timothy 'CMonster' Cook
+http://www.gamespy.com
+http://www.mindspring.com/~cookti
+
+

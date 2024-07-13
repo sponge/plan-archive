@@ -1,0 +1,148 @@
+
+Name: Paul Jaquays
+Email: paulj@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+
+Skill Portfolio/Background:  See bio on id web page for details
+
+Current projects:   Quake 3 Team Arena
+	            DOOM
+
+**********************************************************************
+DISCLAIMER:  THE FOLLOWING IS THE PERSONAL OPINION OF THE AUTHOR AND DOES
+NOT REPRESENT THE OFFICAL POSITION OF ID SOFTWARE, ITS OWNERS, EMPLOYEES,
+DISTRIBUTORS, OR LICENSEES, (OR ANYONE ELSE FOR THAT MATTER)
+
+**********************************************************************
+July 22, 2000  8:40 AM CDT --DEADLINE FOR THE QUAKECON MODEL CONTEST
+**********************************************************************
+
+Today is the deadline cutoff for the QuakeCon 2000 Quake III Arena: map_object model contest. Entries must be submitted to the contest by midnight Eastern Daylight Time (in the USA).
+
+The e-mail address for submissions:  contest@polycount.com
+
+I'm looking forward to seeing some fantastic entries.
+
+
+**********************************************************************
+July 17, 2000  4:45 PM CDT
+**********************************************************************
+
+The entry cutoff deadline for the QuakeCon 2000 Quake III: Arena map_object model contest is this coming Saturday, July 22, 2000. Attached is a copy of the rules as they have been amended to allow minors to participate.  Minors (meaning anyone under the age of 18) must include a signed copy of the Acknowledgement and release form with their entry. Since entries are going to be electronic, you'll need to supply a "hard" copy separately, either mailed, or faxed to id. Contact me directly at paulj@idsoftware.com for the address or fax number.
+
+
+
+Map Object Model Contest
+
+What models will get more exposure than even the most scantily clad new player model? What models are almost guaranteed to be used and seen by hundreds of thousands, perhaps even millions of Quake III Arena players? What models don't need to be downloaded separately? What models are Quake III community map and mod makers crying out for?
+
+Map Object Models!  
+
+Here's your chance to not only win valuable prizes, but to make models that will be decorating the next generation of Quake III Arena and Quake III Team Arena community made maps and game mods. 
+
+Together, Polycount, id Software, QuakeCon 2000 and its sponsors are calling for entries in the QuakeCon 2000 Map Object Model contest. Models will be judged by a handpicked panel of game industry professionals (artists, modelers and mappers) and by attendees of QuakeCon 2000 in Mesquite, Texas.
+
+The Map Object Model Contest will be a Judged Show. All qualifying entrants submitted will be presented for evaluation and voting by both the professional judges and "Bring Your Own Computer" attendees of QuakeCon 2000 in Mesquite, Texas. This will be a subjective contest, reflecting the opinions and preferences of the panel of judges and the attendees.
+
+Rules
+
+1. The deadline for Entries is 7/22/00. Models received after that date will not be considered for inclusion.
+2. Fan voting will be limited to the Bring Your Own Computer attendees at QuakeCon 2000 in Mesquite Texas. Except where noted below, members of the panel of judges may not cast votes in the fan voting. Voting will be complete by 10:00 P.M. Saturday, 8/05/00.  Fan voting results will be used to determine awards in several categories separate from those awarded by the panel of judges. In the event of a "tie" in any fan voting category (two or more entries receive equal Votes), a member of the panel of judges will be selected to cast a tie-breaking vote.
+3. Awards will be announced as a part of the QuakeCon 2000 program. Where possible, prizes will be awarded at that time to entrants in attendance at QuakeCon 2000. Other prizes will be shipped to entrants.
+4. The entry must be submitted in the form of a completed .pk3 file (including model skin texture) Quake III Arena compatible map_object model in the .md3 format. A readme file that identifies the creators/entrants responsible for the model and its skin or skins should accompany each model. This readme will be removed from the model when it is submitted for judging.
+5. The readme file must contain contact information for the entrant (or entrants) responsible for the creation of the model and its components, including name, address, phone number and e-mail address. The contest is limited to entrants 18 years or older, or if the entrant is not 18 years of age, the entrant's parent or guardian must execute an Acknowledgment and Release (found below) on the entrant's behalf, and deliver such executed Acknowledgment and Release with the submitted model.
+6. Employees of id Software, licensees of id Software (and their officers or employees), contest officials, contest judges, members of the QuakeCon2000 committee, or members of their immediate families are not eligible to compete in this contest.
+7. Individuals or teams may enter, but only one prize will be awarded per winning entry.  Entries may, at the discretion of the judges and voting QuakeCon 2000 attendees, receive more than one award. One individual on a team must be designated as the contact person for that team and the recipient of the award.
+8. Entrants may submit multiple entries.
+9. All submitted entries must be original and belong to the entrant(s). Contest officials may request proof of ownership if they deem it necessary. Contest officials reserve the right to reject submitted entries, or reclaim awarded prizes, if the entries are deemed to contain material copied from the work of others.
+10. Entries cannot be based on or represent copyrighted or trademarked images belonging to someone other than the entrant. This includes, but is not limited to, characters or objects from motion pictures, games, cartoons, comic books, anime, or works of art not in the public domain. "Statues" using id player or monster models, or models that are only deformations and repositioning of pre-existing id models will be rejected.
+11. Entries cannot be made from models or meshes not originally created by the entrant (including, but not limited to, adaptation of work by other model makers, original id models, or level of detail mesh reductions of commercial models).
+12. Models may be submitted with multiple skin versions. Such models will be considered to be a single submission.
+13. Accepted entries will be compiled into "gallery" maps for review and judging. These maps will be sent to contest judges and made available for download on the QuakeCon 2000 LAN. Useable models will not be distributed until some time after QuakeCon 2000.
+14. Decisions of judges and voting results at QuakeCon 2000 are final.
+15. All entries remain the property of their creators. Entrants agree that their work may be freely distributed and used by others for non-commercial purposes under the terms of the Quake III Arena end user license agreement.
+16. Entries deemed appropriate and suitable (by the judges) will be made available for download by contest officials after the completion of the contest.
+17. Prizes will be determined, and announced, at or about the time of QuakeCon 2000.  Winners are responsible for all taxes and fees associated with their prize awards.
+18. By entering, winners agree to execute (upon request) an eligibility verification confirming compliance with these Rules.  By participating in the contest and/or receiving prizes, each entrant releases id Software, Polycount, QuakeCon 2000 and its sponsors, and each of their employees, from any and all liability for any loss, damage, injury, breach of warranty or other harm arising from or related to the contest or the use of the prizes.  Acceptance of prizes offered constitutes permission to use winner's name and/or likeness for promotional purposes without further compensation. 
+
+
+Judging Guidelines
+The judges will be drawn from professionals working in model-making, texturing, and level design fields who are familiar with the capabilities of the Quake 3 Engine.  They will not be using structured or objective guidelines for judging the entrants. While they will have a set of guidelines to consider during the judging process, we expect their decisions to be subjective ... and final.
+
+
+The subjective criteria for review may include, but not necessarily be limited to:
+* Quality of model mesh
+* Quality and quantity of skin(s) and shader effects
+* Utility of model (how useful to a level designer)
+* Effective use of Special Effects (shader manipulation of skin textures)
+* Efficiency of model: cost vs. utility
+* Compatibility with the overall look and feel of Quake III Arena
+
+
+
+ACKNOWLEDGMENT AND RELEASE
+FOR MINOR ENTRANT
+
+I am the parent or legal guardian of the minor child listed below.  I hereby execute and enter into this Acknowledgment and Release on his or her behalf.  The purpose of this Acknowledgment and Release is to permit such minor's participation in the Map Object Model Contest to be held in conjunction with QuakeCon 2000 in Mesquite, Texas.  This Acknowledgment and Release is given voluntarily with a full understanding of the Contest and all applicable Rules and requirements.
+
+Signature of Parent or Legal Guardian: _______________________		
+Date: ______
+			
+Printed Name: _______________________
+
+
+		
+Name of Minor Child: _______________________
+			        
+            Address: _______________________
+				           
+                     _______________________
+
+
+
+**********************************************************************
+
+I'd like to take just up a fraction of your bandwidth to promote a new specialty store being opened by a friend near Dallas, TX.
+
+If you're a fan of Japanese anime and live or work on the eastern side of the Dallas, Texas metroplex, or anywhere along the HWY 30 corridor in NE Texas, you may want to check out the newly opened FRIED ANT ANIME store.
+
+The store carries a full line of anime videos and box sets, manga, graphic novels, wall scrolls and posters, t-shirts, art books and collectibles. They will also be carrying a limited selection of roleplaying game materials. 
+
+An Anime Fan Club will be starting soon with movie viewings, costume contests, fan art contests and more.
+
+And did I mention that the store also features a selection of limited edition, signed & numbered art prints by yours truly?
+
+
+Store hours are:  M-Thursday 11-7, Fri and Sat 11-9, closed Sunday.
+Phone # is metro (972) 772-4812
+
+     Fried Ant Anime
+     2006 South Goliad (Hwy 205) Suite 222
+     Rockwall, Tx 75087
+
+The store is in the "Hobby Lobby" shopping center, at Exit 68 off Highway 30. Just go a little north when you get off the highway.
+
+I'm told that they will be getting in NightMare Before Christmas merchandise soon ... for those of you who just can't get enough of that.
+
+**********************************************************************
+April 10, 2000  10:10 PM CDT
+**********************************************************************
+It's been awhile since I posted, mostly because I rarely have anything relevant I can say about company business, and anything I do want to say usually gets said over on the Quake3World Editing Forum. Which is why I'm posting this here. I know there's a lot of people who must be downloading our editing tools and then getting frustrated because they can't get them to work right. Not surprising. A day rarely goes by in which a newcomer to the forum needs to have a basic question or two answered. If you're just getting started in Quake III map making or you're finding that the on-line tutorials aren't providing the specific answers that you need to know, drop in to Editing Forum. Questions get answered and there's usually a lot of great discussion about map making. Sometimes questions are answered by the last mapper who asked the same question. But there are some serious experts in the science and art of mapping, shader programming, texture creation and tool making who hang out on the forum too.
+
+And did I mention that all this occurs in a nearly flame-free environment that's tends to stay on the topic at hand?
+
+Stop in for a visit, we think you'll like it there.
+
+<a href="http://www.quake3world.com/cgi-bin/forumdisplay.cgi?action=topics&forum=Level+Editing&number=6">Quake3World Level Editing Forum</a>
+
+While I'm at it, I should mention that the Q3Radiant editing tools are also available from Quake3World, as are several versions of the Q3Radiant manual, Eutectic's .def file for Q3Radiant entities, the missing textures files and the clean shaders files for the original id shader scripts and lots of links to level editing resources.
+
+
+Paul Jaquays
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+If it's not here, it's vapor.  Check out somebody's archives if you want to read my previous bits of wisdom and flame.

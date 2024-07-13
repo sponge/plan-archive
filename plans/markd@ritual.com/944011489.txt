@@ -1,0 +1,64 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: markd
+Plan modified: Tue Nov 30 19:17:34 1999
+
+11/30/99
+========
+
+Ritual CTF Servers
+
+debugctf and sinctf are both back up and running.
+- Sinctf is just running standard Sin CTF.
+- Debugctf is running Wages of Sin CTF.
+
+If you have any requests (map exclusions, that sort of thing) please let me
+know.  Enjoy.
+
+Unreal Tournament
+
+Tim, Cliffy B, James, Steve and the rest of the funky bunch did an amazing
+job.  My hat is off to you guys for creating such a fun and user friendly
+deathmatch experience.  I haven't even gotten online yet because playing
+against the bots are just as much fun and unlike human opponents they actually
+obey your commands. :)
+
+11/02/99
+========
+
+Sin Version 1.10
+
+Check out www.ritualistic.com for the latest Sin patch 1.10.  Here are the
+fixes from the readmes.
+
+- Cheat variable protected a bunch of developer commands
+- fixed CTF flag cheat where you could join the other team while taking the
+flag with you.
+- say_talk spamming fixed
+- various bug fixes
+- added cl_speechdelay - spam control for speech synthesis, defaults to 1000
+- added cl_nospeech - archived cvar that controls whether or not speech is active
+- added ctf_forcejoin as archivable variable.
+- fixed bug with cinematics and Direct X 7.0
+- fixed annoying phantom windows that are left after vid_restarting
+
+I also put out a new source archive which can be found at the same place.  If
+anyone has any problems, please direct them towards sinbugs@ritual.com
+
+10/30/99
+========
+
+As Blade would have said, "Damn, another Sin Anniversary."  Well actually
+today marks the first anniversary of Sin going gold.  Just 12 short
+months ago, the team of Ritual ended 18 months of hard work and shipped the
+final gold master to Activision. After duplication and distribution, it turned
+up on store shelves on November 5th (and promptly be patched two weeks later,
+but we won't talk about that).
+
+Thanks to all our fans for making it worthwhile, long live Blade, Elexis, JC
+and the beautiful city of Freeport.
+
+Mark D
+<markd@ritual.com>
+Ritual Entertainment

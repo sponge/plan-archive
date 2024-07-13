@@ -1,0 +1,154 @@
+
+*** Monolith Production's Finger Server
+
+User name: hall
+Plan modified: Tue Jan 16 14:21:08 2001
+
+				
+					1/16/2001
+
+Haven't updated in a while... so here goes...
+
+NOTE - THIS IS FOR LITHTECH INC. - THIS IS NOT MONOLITH RELATED
+
+New Policy:
+
+Since the LithTech Development System is updated every 3 months (engine, tools, docs, etc.) I am going to start including into my .plan the list of features/functions/etc. that are going into LithTech on a quarterly basis.
+
+This way, the greater community will be able to see the technology grow, and the rate at which it grows at.
+
+There is also a link that you can go to, if you want to see much greater detail about the quarterly update.
+
+The last quarterly update was on Dec. 15th. On that date, here is what was added and distributed:
+
+New Features for Winter 2000
+<A HREF=http://www.lithtech.com/lds/relnotes/WinterRelNotes.asp target=_top>http://www.lithtech.com/lds/relnotes/WinterRelNotes.asp</A>
+Version 2.3 supports the development of games for the Sony® PlayStation® 2 console and for PC games that support Microsoft® DirectX® 8. 
+
+For version 2.3, the LithTech Development System includes the following new features. See the Winter Release Notes for complete descriptions.
+
+Enhancements to the Tools Suite (DEdit, ModelEdit, etc.). This includes overall cleanup of the GUIs, the addition of the FxED special effects editor, and the ability to build and texture worlds in 3D Studio Max.
+
+Bitmapped font support. The first of a series of planned high-level GUI toolkit enhancements. Monospaced and Proportional bitmap fonts can be created and displayed at various sizes and colors. Access is also provided to the individual character polygons to allow custom effects.
+
+Enhancement and Documentation of the .LTA file format. For this release, the .LTA file format becomes the official work format for models and worlds. The .LTA file format is an ASCII format readable by all the tools, and it can be compiled to a binary format for the engine. Documentation describes how models and DEdit files are organized in the format, and how to use the tools and libraries associated with the .LTA exchange file format.
+
+Preview of the Game Objects Library. The preview includes an architecture overview and an inaugural set of components for the Game Objects Library. There is also a sample object demonstrating their use. 
+
+Documentation additions and enhancements. This release includes documentation of the new PS2 support, and enhancements to the LithTech API Reference (now 750 pages), the Game Content Creation Guide and the Programming Guide, at nearly 250 pages each.
+
+Improved sphere env mapping on models. On both rigid and skinned models, the world matrix is now correctly calculated into the u/v equation.
+
+The FlipScreen flag FLIPSCREEN_CANDRAWCONSOLE is now an End3D flag of END3D_CANDRAWCONSOLE. This was done to support drawing the console with 3D only primitives and to eliminate lockscreens. If you are doing multiple Begin3D/End3D blocks, you should only specify the default flag, END3D_CANDRAWCONSOLE, on the last End3D.
+
+The ILTDrawPrim interface is expanded to support more render states and prim types. Many of the function names and the prim structures are changing. Going forward, this will be the primary interface for custom rendering.
+
+Processor now supports selection of an inverse quadratic falloff lighting model. This lighting model matches the D3D and PS2 model lighting equations. If you are using either of these lighting models (D3D TnL is the default model packing format in version 2.3), we recommend that you also switch to this world lighting model. This lighting model generally yields more realistic lighting. Note that if you have built your levels with the older lighting models, your levels will probably appear darker and you will probably need to increase the radius of many of your lights to compensate.
+
+The renderer now statically links to the engine.
+
+New Comm and MPM Libraries
+
+New MaxTerrainExport Option
+
+Texture Image Reloading and Scaling in DEdit
+
+Adjusting Mapping Coordinates in the Worlds
+
+Visibility Sample Demonstrates Hullmakers and Terrain Occluders
+
+--------
+
+If you want to see what was in the previous update before the Dec. 15th drop go to this link:
+
+<A HREF=http://www.lithtech.com/lds/relnotes/FallRelNotes.asp target=_top>http://www.lithtech.com/lds/relnotes/FallRelNotes.asp</A>
+New Features for Fall 2000
+
+For version 2.2, LithTech publishes its API Reference, announces a new exchange file format, enables DEdit hotkey binding, and adds hardware transform and lighting, Lambert lighting and improved Static Sunlight, and spherical collision detection features.
+In addition, version 2.2 includes the following new features. See the Fall 2000 Release Notes for a complete description.
+
+LithTech Publishes API Reference
+
+DEdit Gets Hotkey Binding 
+
+Lambert Lighting and Static Sunlight Behavior on Terrain
+
+Direct3D Render Path Adds Transform and Lighting
+
+New Exchange File Format for Tools
+
+Spherical Collision Detection
+
+Projected Texture Shadows
+
+Changes to vector.h Yield Performance Benefits
+
+Maya Exporter Supports Maya 2.5
+
+New Utility Converts .TGA <=> .DTX
+
+Support for Online Game Services
+
+Beta Release of ClientFX Special Effects and FxED Special Effects Editor
+
+----
+
+The next LithTech quarterly release will be around March 15th! Lot's of neat stuff coming in that one!
+
+
+
+
+				
+									
+					11/7/2000
+
+HAPPY BIRTHDAY TO BILLY "WICKED" WILSON AT VOODOOEXTREME!!!
+
+Much love from myself and Monolith to you man! Thanks for all the love and support, you 27 year old bastard... 
+
+Hope you have a great b-day! I told Apache to send me the invoice for those birthday sheep he got for you. It will be my treat! ENJOY! ;)
+
+Seriously though, we are all fans of your site and want you to know that you have built something special there and appreciate your (and your team's) hard work.
+
+Have a happy birthday.
+
+-Jace
+
+
+				
+					11/1/2000
+
+
+The new LithTech website is up.
+
+More information/webpage tweaks/modifications will be done to it, but if you want to get the gist of the page check it out at:
+
+<A HREF=http://www.lithtech.com target=_top>http://www.lithtech.com</A>
+
+
+
+				
+					10/11/2000
+
+At approximately 8:30 pm on October 10, 2000 (yesterday) something horribly painful happened to me, and I'm not in the best of moods...Here is the scoop:
+
+
+...So I'm at Gold's Gym doing some fairly straightforward free weight flat bench press with 315 pounds and suddenly I feel my left pectoral muscle start to tear itself off of my bone structure (the area where the pec connects to the upper left arm - up above your armpit underneath some of your front shoulder meat).
+
+As the bar moved downward during the press and stretched my pecs wide I could literally feel the fibers and whatnot stretching and snapping underneath my skin on the left side. The process happened so suddenly that I didn't see it coming. One second the weight was moving just fine and I felt completely in control and confident, the next second, I feel the equivalent of a cable or a rope starting to stretch, fray and unravel due to great tension on my left pec and then the realization that I have 315 pounds pinning me to the bench, just resting on my ribcage.
+
+So, there you have it - the "King of Teh MONSTARS" will be unable to hit the gym and work out his upper body for a while. This really sucks because I had been maintaining my body weight around 250 - 255 for quite some time and was getting ready to make my big push to 275, but now there is no way that is going to happen any time soon... The failed goal... :(
+
+That is the part that sucks about working out - you have to maintain all the muscle that you've worked so hard to put on! Now that I can't work out for a while (at least my upper body), I get to watch all that effort go down the tubes...
+
+Truly disappointing... for me anyway...
+
+Well, at least I have the pleasant memory of feeling my bodily tissues tear, stretch, snap, and fray. That's at least worth something from a story telling standpoint. :/
+
+On a different note - 
+If everything continues along smoothly, NOLF may be going gold this week... We will see.
+
+
+				
+				
+

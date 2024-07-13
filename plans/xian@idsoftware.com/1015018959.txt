@@ -1,0 +1,75 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+
+Mar.1.2002 @ 3:00pm CST
+-----------------------
+
+ Well, doesn't look like the large 64 player server was very popular, 
+so in it's place, I've now set up a MP_BEACH server at;
+
+ gameserver2.idsoftware.com (192.246.40.64)
+ [id] Xian's MP_BEACH Server
+
+ Check it if you are a regular on any of our servers. If it becomes
+popular, I'll start keeping stats for it.
+
+ Maxlives are in full effect.
+
+ -Xian
+
+
+Feb.15.2002 @ 12:11am CST
+-------------------------
+
+ For those of you who enjoy playing on my Wolfenstein servers, you will 
+find the following link interesting =)
+
+<a href="http://underworld.idsoftware.com/wolf/wolfstat.html">http://underworld.idsoftware.com/wolf/wolfstat.html</a>
+
+ Stats are updated every hour on the hour.
+
+ Enjoy,
+
+ -Xian
+
+Jan.30.2002 @ 9:14pm CST
+------------------------
+
+ I made some changes to our network configuration this evening (Big thanks
+goes out to Tapper @ <a href="http://www.worldogl.com">WorldOGL</a>).
+
+ To those people who regularily play on our gameservers, I would greatly
+appreciate it if you could drop me a quick line letting me know if your
+game experience on our servers has been better / worse / no difference
+since about 8:30pm CST today.
+
+ Things *SHOULD* be *MUCH* better as a result of the reconfigurations.
+
+ Thanks,
+
+ -Xian
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, leaky roof, broken glass, mud slides,
+forest fire, and/or projectile (which can include, but not be limited to, 
+arrows, bullets, shot, BB's, paintball, shrapnel, lasers, napalm, torpedoes, 
+or emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.)
+</font>
+---
+</tt>

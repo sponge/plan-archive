@@ -1,0 +1,10 @@
+Login: justin         			Name: Justin
+Plan:
+3/25/01 - boredom is freedom
+
+3/30/01
+
+Played around signing NSIS exe's with an Authenticode certificate. Seems to be pretty
+easy (if you turn CRC checking off :).. Just gotta go through the pain of getting a real
+certificate from Verisign..
+

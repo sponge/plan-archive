@@ -1,0 +1,65 @@
+Login: pepper         			Name: Mr. Pepper
+Project: empowering jackasses with broadcastability
+Plan:
+9.28.2000========
+
+*thump thump*  is this thing still on?
+
+
+
+8.25.2000========
+
+yeehaw.  another year older.  quarter-century.  sheesh.  thankfully
+ian's not here this year for my usual email barrage of birthday porn.
+
+susan is kicking ass on being the new SHOUTcast producer.  site changes,
+partnerships, good stuff brewing.
+
+jason is kicking ass on the new SHOUTcast DSP, with integrated codec,
+multiple instances, and other love.
+
+tag is kicking ass on integrating the codec into shoutcast.  auto bitrate
+selection is not far off.
+
+kyle is kicking ass moving the site onto the new db and middleware.
+
+ops is kicking ass installing boatloads of new hardware.
+
+i'm not kicking ass at all.  i'm just watching the wheels of what is
+becoming a well-oiled machine.
+
+
+8.16.2000========
+
+well, gee, let's see.
+
+back from ireland.  lots of green things there, one more in little
+Zoe.  sure was great to get away from things for a week.  my girl's
+the best thing that ever happened to me.  *gush*
+
+back up at the ranch, with new roomies (hi d&e), new disposal went
+in today (who knew dave could be so handy?), patio furniture from the
+weekend and the first pool party of many to come was a smashing success.
+
+um, lessee, paving the road, finishing up the fraunhofer mp3 encoder
+agreement, making new shoutcast stuff work at a new order of magnitude
+or two, redesigning site, trying to make my dss work, and, uh,
+oh yeah getting really pissed off at rector audi in burlingame for
+not fixing my cruise control.  the reason they gave:  "cruise in
+off position".  like i'm that stupid.  *sigh*
+
+7.31.2000========
+
+&lt;bigheadmode&gt;
+
+captainpoopoo (9:54:53 AM): you know, it's hard to rule this much.
+captainpoopoo (9:55:08 AM): i mean, it takes a dedicated effort to not 
+                            spontaneously deify.
+MaxGirth (9:55:45 AM):      Do you sometimes wish everyone could rule so much?
+MaxGirth (9:55:53 AM):      like you could just bottle it and give it away?
+captainpoopoo (9:55:56 AM): frequently.  nothing sours like mediocrity
+MaxGirth (9:55:59 AM):      but no, it doesn't work like that.
+captainpoopoo (9:56:22 AM): man we'd be all star trek and shit if everybody 
+                            could be as leet as i am
+
+&lt;/bigheadmode&gt;

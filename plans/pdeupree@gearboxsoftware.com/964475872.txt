@@ -1,0 +1,62 @@
+Login: pdeupree       			Name: Patrick Deupree
+Plan:
+July 24, 2000
+-------------
+
+Well, the linux server for Opposing Force is finally out there in public
+release.  It's been a long process on that thing.  We had it working with
+Half-Life 1.0.1.6 a while back, except for the WON checking.  This became
+a nightmare since the Half-Life linux server is compiled using Linux
+version 5.2 so that it will be compatible with both that, and later versions.
+However, the WON linux libraries were compiled with Linux 6.2.  So, I could
+never quite get them to work right together.  Then we started getting the code
+for Half-Life 1.1.0.0 and my time was spent on converting over to that,
+plus getting the CTF stuff working.  After all of this was done I revisited
+the Linux version and found a way to make the WON stuff work right, so
+we had a fully working version at that point.  However, I'd since been
+making some changes for our 1.1.0.1 patch, so rather than release the Linux
+version and patch it 2 weeks later, we just held off.
+
+So, after all too long a wait, it's finally out.  We've had it running here
+at the office for quite a while, and I had even been incorporating some of
+the bug fixes and changes into the public Linux server here to test them out.
+
+We've released 2 versions of the linux server.  To be honest, I'm counting on
+the fact that anyone who downloads them knows what they are doing since I
+didn't include a readme file.  The basic instructions are simple.  If you
+download opfor_i386.so.gz, it's basically just the shared library.  This is for people that don't want to download a 35 meg file, and would rather just copy
+the Opposing Force resources from the CD.  Just copy the file into the "dlls"
+directory and unzip it.
+
+The other file (opfor_linux.tar.gz) is everything you need to run an
+Opposing Force server.  Just copy it into your HL dedicated server directory,
+then unzip the file.  After that just run:
+
+tar -xvf opfor_linux.tar
+
+And it will create the gearbox directory with all the stuff you need in it.
+Then just run:
+
+./hlds_run -game gearbox
+
+and you'll have a dedicated server running.
+
+In addition to the linux server, we've released a new patch that should
+address most all the problems people were having with both the single player
+game, and the CTF games.  We've had some pretty lengthy games against the
+Sierra QA guys with probably 16 or more players in them, and things were
+pretty stable.
+
+We've even added 2 notable new features to the game.  When browsing over the
+player with the crosshair, I've added the ability to see the health and shield
+energy of anyone else on your team, or anyone in the game if you are a
+spectator.  We've also added a stats screen at the end of the game that is
+pretty cool.  It covers basic info like who had the most kills, who held on
+to a powerup for the most time, etc.
+
+So, hopefully everyone will have fun playing this now.  We've had a blast
+playing it here at the office, and you can often find a few of us out
+there playing on the public servers.  Personally, I was a huge fan of the
+original Quake CTF and quite a few of us would play that religiously when
+it first came out.  I've had a lot of fun with our mod since it's heavily
+based on the old Quake CTF.

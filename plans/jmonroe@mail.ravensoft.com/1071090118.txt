@@ -1,0 +1,33 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Lead Programmer
+Project: Jedi Academy
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+Happy Holidays!  Bonus maps for Jedi Academy from Raven Software
+ 
+6 New Maps:
+ 
+duel_bonus1 - Coruscant
+ctf_bonus1 - Rift of Shadows
+ffa_bonus1 - Gas Mine
+ffa_bonus2 - The Fortress
+ffa_bonus3 - Conquest of Byss
+ffa_bonus4 - Ord Mantell Canyon
+ 
+Unzip to your Jedi Academy Installation folder.  
+The maps will appear at the top of the map selection menu when you host your own game in multiplayer.
+
+Download here:
+- <a href="http://www.3dgamers.com/dl/games/jediacademy/Missions/jabonusmaps.exe.html">3D Gamers</a> 
+- <a href="http://www.3ddownloads.com/ravensoft/JediAcademy/BonusMaps/JABonusMaps.exe">3D Downloads</a> 
+- <a href="http://www.gamershell.com/news/BJediAcademyBBonusMaps.shtml">Gamer's Hell</a> 
+- <a href="http://www.loadedinc.com/news.php?id=3095">Loadedinc(registration required)</a> 
+- <a href="http://www.worthplaying.com/article.php?sid=14978">Worthplaying</a> 
+
+
+
+These maps are released "as is" and are not supported by Raven Software, Activision, or LucasArts.  
+

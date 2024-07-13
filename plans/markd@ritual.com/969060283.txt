@@ -1,0 +1,112 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: markd
+Plan modified: Fri Sep 15 18:13:06 2000
+
+September 15th, 2000
+====================
+
+Heavy Metal FAKK 2 Tools
+
+We have released the tools and source code for FAKK 2.  Grab them from:
+
+http://www.fakkyou.com/files/fakktools.html
+
+The program and level design team is looking forward to your creations!
+
+August 12th, 2000
+=================
+
+Ritual Entertainment's 4th Anniversary
+
+I cannot believe another year has already flown by, but its true.  Just 4
+short years ago Ritual Entertainment opened up its doors.  4 products later
+(Scourge of Armagon, Sin, Wages of Sin and Heavy Metal FAKK 2), we are still
+going strong.  This fall we'll be scaring you with our action-oriented take
+on the Blair Witch series in Blair Witch Volume 3: The Elly Kedward Tale and
+next year we'll be pushing the gaming envelope once again in some soon to be
+announced titles.  I want to take a moment to thank all of our wonderful fans
+out there for sticking with us during this time.  I know it hasn't always
+been easy to overlook some of our mistakes but I hope our successes and fun
+products have more than made up for them.
+
+Ritual Entertainment is dedicated to delivering top quality entertainment for
+all game platforms, we hope we'll be here for another 4 years to continue our
+mission.  Special Thanks to www.ritualistic.com, www.fakkyou.com and
+www.2015.com, we couldn't have done this without you guys.
+
+
+Heavy Metal FAKK2 Patch
+
+I have gotten some email from people wondering where the patch is now that
+the demo has been released.  I want to make sure that all our customers out
+there don't feel neglected.  We decided to release the demo first before the
+patch so we could make sure we had worked out all the issues on launch.  The
+demo contains the most recent code and serves as the test platform for next
+weeks patch.
+
+
+Heavy Metal FAKK2 Performance (revisited)
+
+I should have been clearer in my earlier update, the demo "demo1" only exists
+in the demo version of Heavy Metal FAKK2
+
+August 11th, 2000
+=================
+
+Heavy Metal FAKK 2 Demo
+
+The demo has been uploaded to Gigex and should be on their site by Midnight
+CST.  We will be releasing a patch for the entire game early next week.  The
+demo consists of:
+
+4 different levels
+3 different Julie Skins
+8 different weapons
+5 different monsters
+
+Grab the demo, you won't be sorry.
+
+
+Heavy Metal FAKK 2 Performance
+
+For those sites that have been looking for a performance evaluation tool for
+FAKK 2, enable timedemo and type "demo demo1"
+
+August 9th, 2000
+================
+
+Voodoo 2 owners
+
+We figured out why some of the voodoo owners out there were having trouble and
+this will definitely be addressed in the upcoming patch.  In the meantime you
+can do the following to run with a vodoo2:
+- delete your config.cfg in your fakk directory, should be c:Program
+FilesRitual EntertainmentHeavy Metal - FAKK2fakkconfig.cfg
+- Either modify your shortcut in the Start menu, create a new short cut or run
+FAKK 2 from the command line.  Add "+set r_colorbits 0" to the shortcut.
+
+There is a problem in the executable that has since been fixed where if the
+colorbits are already set to 16, it will not fail on the last check for
+starting opengl32.dll (the default OGL driver which happens to be software
+only when you have a Voodoo 2 in your machine) and subsequently special Voodoo
+2 code is never executed.
+
+August 8th, 2000
+================
+
+Heavy Metal FAKK 2
+
+Thanks for everyone purchasing Heavy Metal FAKK 2.  I hope everyone out there
+enjoys the heck out of it.  As is often the case with software development, we
+have had reports of lockups and crashes on exit with certain machine
+configurations.  We are working very hard to solve these problems so that
+everyone can enjoy the game.  We will have a patch out for the game this
+weekend.  If you are experiencing any lockup or exit problems with FAKK 2,
+and live in the DFW area, please email me.  Of course every system we tested
+the game on before shipping it did not exhibit any of these problems.
+
+Mark D
+<markd@ritual.com>
+Ritual Entertainment

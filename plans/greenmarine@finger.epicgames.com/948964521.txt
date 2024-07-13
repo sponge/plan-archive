@@ -1,0 +1,201 @@
+Login: greenmarine    			Name: Brandon Reinhart
+   32 minutes 16 seconds idle
+Mail forwarded to brandon@epicgames.com
+Project:
+Unreal Tournament
+Plan:
+January 27, 2000
+
+Enough silly plan updates, lets talk games.
+
+1] Age of Wonders
+
+Even though Epic produced this, try to believe me as unbiased.  I really
+didn't see this game much until just recently.  While Age of Wonders
+was going through its final development, I was busy with UT.  So I stole
+a copy of Age of Wonders from Mark Rein's office two days ago and decided
+to try it out.  Its very cool!
+
+I'm not a big fan of Heroes of Might and Magic.  I think it relies too
+much on the heroes and the magic items.  Age of Wonders is more like
+Master of Magic.  Master of Magic rocked quite a bit with a focus on
+actual military movement and magic research.
+
+If you are into strategy, you should probably give Age of Wonders a look.
+I got into about mission five of the keepers and got my ass kicked.
+Erik showed me a strategy guide in the March 2000 issue of
+"Computer Games Magazine."  Its very helpful.  (There's also a 5/5 star
+review of UT in there! Cool!)
+
+2] Unreal Tournament
+
+UT won the Computer Gaming World "Game of the Year" award.  Last year
+this award was won by Half-Life.  Lemme tell you, NOBODY at Epic expected
+this kind of reaction to UT.  Thanks alot for playing the game and
+showing us you like it :)
+
+3] Infiltration
+
+Check out www.gamespy.com/stats.  Notice that Half-Life has about
+ten thousand players online at any one time (during peak afternoon/evening).  
+That's more than Quake 3 and UT combined.  If you click on Half-Life,
+it'll break the players down by mod.  Counterstrike is always on top
+with approximately 60 to 70% of all Half-Life players (online) playing.
+
+Minh Le, the author of Counterstrike, has effectively more people playing
+his game online at any one point in time than either Quake3 or UT.
+Consider this very closely if you work in the 3D industry.  This is
+important.
+
+I recently spoke on the Unreal Technology Page of a "renaissance" in
+garage game development.  This is no more better demonstrated than by
+what Minh Le has achieved.  His mod, a free product he's designed because
+he loves games, loves Half-Life, and loves the community, is selling
+tens (if not hundreds) of thousands of copies of Half-Life.  (I know
+people who have purchased the game just to play Counterstrike!)
+
+Valve is a smart and fast company.  They've got quite a few kick ass
+mod authors under exclusive contract.  (I won't argue this point, its
+definitely in Valve's favor, but I think that highly successful mod
+authors like Minh Le could demand a very high price.)  If you look at
+the December 1999 PC Data, you'll see that Half-Life is still selling
+strong (as is Op For, the recent awesome addon by Gearbox).  The sales
+numbers for that month are nearly the same.  Now, we know that a bunch
+of people already own Half-Life, so I would expect Half-Life core sales
+to be somewhat lower than the addon.  Clearly Half-Life is still drawing
+in players.
+
+I would argue that a large part of this continued success in sales is
+due to Valve brilliant and unrelenting support of the mod community.
+This is NOTHING NEW to Valve, but quite new to the rest of the industry.
+Valve bought up Team Fortress and gave them their dream: Team Fortress
+with full support, a new look, and Team Fortress 2 a completely new game.
+Valve is supporting Counterstrike too.
+
+id Software did Extremities, but I would argue that the compensation they
+gave the mod authors was quite a bit less than they deserved.  Obviously,
+as professional game developers, we know there is a big difference between
+"deserved" and "financially feasible."  A company goes with what it can
+get.
+
+Here's what I want to say to the companies: Mod authors sell copies of your
+game.  Supporting the mod community, making your game fully extensible,
+releasing programming tool kits, sells copies of your game.  It has the
+_potential_ to sell a LOT of copies of your game.  If you find a kid
+on the net who kicks ass with game content, watch him.  Talk to him.
+Hire him, if you think he's worthwhile.
+
+Epic is built on developers and designers who had the initiative to
+approach the company.  I believe strongly that this has contributed
+to Epic's success as a company.  Make no mistake, we are a very liberal
+company, our hiring process may not be appropriate for all companies.
+That having been said, I feel that the liberal, group driven design
+model is superior to the centrally driven model.  Valve, a relatively
+large company, does it through the Cabal process (rotating teams of
+design groups, everyone participates at least once).  Epic has a smaller
+team, so everyone is effectively on the Cabal.  Cliff, our lead designer,
+focuses the teams creative energies and drives the process.  He's
+the "shit filter."  I have a strong believe that game development teams
+that are closely controlled by a single source (whether it be a developer,
+a publisher, or an investor) suffer IF that team consists of mature
+people.
+
+Here's what I want to say to the mod authors: Remember what I said about
+companies taking what they can get?  They do and they will.  If a company
+offers you some money or a contract, get a lawyer.  Do it right.  Don't
+be afraid to ask what you think you are worth.  You damn well know that if
+a company is seeking you out, you are worth something to them.
+
+The garage mod authoring scene is driven both by groups and individuals.
+Individuals are more likely to find jobs at game companies through their
+work on notable mods.  I think that what Valve has done with Team Fortress
+is probably an exception.  I don't know any of the TF team, what their
+positions are at Valve, or even if all of them are actually working there.
+I do know, however, multiple individual mod authors who have found jobs
+in the industry because of their skill and initiative.  Mods prove to
+game companies that a person has talent and the ability to complete a
+project.
+
+Alright!  So what does this have to do with Infiltration?
+
+Infiltration is a mod for Unreal Tournament.  There was a version of
+Infiltration for Unreal, but I never played it.  Infiltration 2.7 for
+UT has been released and it really kicks ass.
+
+It's a Counterstrike/Rainbow Six style mod.  Realistic weaponry and
+realistic damage.  The current release is in MUTATOR format.  That is,
+it can be played with any gametype.  They add Benelli shotguns, M-16s,
+all the classics.  They also add a "Stand Off" game mode where every
+player has 3 lives.  When you lose all your lives, you are out until
+the game restarts.  With the lowered rate of movement, its pretty intense.
+
+I'm going to be pushing these guys to look into developing a hostage-rescue
+scenario.  Counterstrike is popular for a reason: its fun as hell and
+very intense.
+
+Strike Force is another UT mod under development that's persuing the realistic
+anti-terrorism route.  They've been releasing screen shots and demo
+content.
+
+I want to make a point here as a developer.  This isn't entirely fair to
+the Strike Force team, because they are working hard on putting together
+content.  Infiltration is more than just screenshots.  That means A LOT.
+Here is a mod that I can actually play with and see where its going.
+This is very important to developers and to gamers.  You need to pace
+your development so that people can see what you are doing.
+
+A hard lesson I learned from Skaarj Corps, which was an Unreal mod I never
+released.  Andrew Scheidecker and I wrote a hell of a lot of code for
+Skaarj Corps.  Grenades, gametypes, player code, weapons, tons of freaky
+alien player classes.  None of it was released.  I wanted everything to be
+perfect and as a result, damned the project.
+
+Infiltration is the exact opposite.  They still have a lot of plans for
+the project, but are pacing their releases so that players get to see
+something working each stage of the game.  This is invigorating for
+the project (the members can see their hard work actually go somewhere)
+and exciting for the community (they can play with the current mod,
+contribute ideas, and understand where th project is headed).
+
+This is an important lesson for mod authors!  You are a microcosm of the
+real gaming industry.  You need to work in a similar fashion.  Develop
+a schedule and a sense of direction.  Don't overhype, but make sure people
+know you exist.  Take Blue's News for example.  He doesn't post news
+about mods that aren't finshed.  He does, however, post about mods that
+have been released.  Blue's is a key media node for big mods.
+
+Mod authors with a hot release under their belt are in a unique position.
+They aren't like the guys who sit in their garages, developing a game
+no one ever sees, showing it at E3 and private publisher meetings.  That
+ain't the way to go.  A mod author already has an established user base,
+is already forming a relationship with an established game, and is already
+proving their knowledge of the development process.  Its an incomplete
+knowledge, but an incomplete knowledge making money for someone.  Someone
+who might notice.
+
+When it comes down to it, only a handful of all the mod authors will get
+jobs and only a couple of released mods will become commercial products.
+At the core, its about having fun working with a game you love, not
+trying to get a job or a deal.  I firmly believe that only the mods that
+truly are acts of love will be good enough to make it to that top
+percentile.  I think that both Counterstrike and Team Fortress are proof
+of this.  The hundreds of mimic mods stand as a sort of monument to the
+successes of those who have gone before.
+
+Anyway, I hope that this inspires both mod authors AND game companies
+to new levels of kick-ass-ed-ness.  The mod community is nothing new,
+but it has never been directly and completely recognized by the industry
+for what it really is: a training ground.
+
+Here's the link to Infiltration 2.7: http://www.planetunreal.com/infiltration/
+
+Give it a try.
+
+Oh, one other thing for the game company types reading this: when you
+download and play a mod, don't expect a finished game.  Don't expect
+professional quality work.  If that's how you approach it, you are doing
+it wrong.  Enjoy it for what it is (and if you do find professional
+level work, snatch it up before someone smarter does).  Remember that
+mod authors aren't making their mods because they want your money or
+your praise, they are doing it because they think your game is cool.
+(For the most part, hehehehe...)

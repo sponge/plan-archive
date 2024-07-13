@@ -1,0 +1,508 @@
+Login: francis        			Name: I HATE FreeBSD
+Plan:
+02/26/2001
+
+	19:20
+
+	This afternoon i had a 4h walk in the forest, and it was amazing, i
+	realized the last time i did that was years ago... Don't get me wrong,
+	i've been in a forest quite recently, but it's been like 10 years or
+	so since i had a lonely walk under the trees. Everything there seemed
+	to engage me in happiness... the little paths, the small rivers, the
+	trees, even the unfriendly vegetation i had to go over at one point
+	seemed to wink at me :)
+
+	Thanks to my neo25 i had all my ambient music collection at my disposal
+	=) I selected Biosphere - Substrata, Brian Eno - Ambient, and a few 
+	tracks from Carl Weingarten.
+
+	I have to go to dinner now, they're calling me :) Yumm
+
+------------------------------------------------------------------------------
+02/25/2001
+
+	21:00
+
+	Hellow to you, whoever you are, i already like you because you're
+	reading this and it insanely flatters my ego.
+
+	So here i am, in my mother's house in the Basque country in France. I
+	think i forgot what silence was, it was really a shock to rediscover
+	the meaning of the word... You just have to stand outside by night and
+	listen, and you'll hear... nothing... just plain NOTHING. It is really
+	amazing when you think about it. 
+
+	I am already feeling much better than just a week ago, i so much needed
+	a break that i couldn't realize it. This house is the perfect place to
+	rest.
+
+	I was so glad to see all my friends in Paris... Splif (boxor's author),
+	Six, Fly, Jimbo, Hollow, Jason, Merou, Exxos, etc... (sorry if i forgot
+	you), those people damn rule.
+
+	I'm now feeling quite well! except for a little cloud over my head that
+	i'm trying to forget. Ok, i should not have spoken about that, now it's
+	all i'm thinking about... (i know you have no clue what i'm talking
+	about, lets just say i always make the same mistake, and i did it again).
+	I'll try to talk about it sometimes, but not now, it still hurts too
+	much.
+
+	Oh, i almost forgot to tell you... I met Bastien, my little nephew,
+	he is 4 months old and has a wonderful smile :) He almost never cries,
+	he's just a marvel :)
+
+	I'll be back to work on March 1st, but for now i'm trying not to think
+	about all the stuff i have to do then. 
+
+	Now off to bed, ttl!
+
+------------------------------------------------------------------------------
+02/16/2001
+
+	16:47
+
+	Wooch! Just landed in Paris... The flight was horrible, the guy
+	in front of me took 2 (yes TWO!) seats because he was sooo fat and
+	decided to spend his entire flight with his seat inclined to the max
+	he could. Now that wouldn't have been a problem if the guy behind me
+	wasn't as tall as an NBA player. So the net result of this situation
+	was me, trying to survive for 10 hours squezzed between those two,
+	with the guy behind apologizing every 10mn for his knees kicking
+	my seat and the guy in front of me making it impossible for me to
+	change position whatsoever. And worst of all, he had for like 6 HOURS
+	his dirty arm 3 inches above my screen :(((
+
+	I think he snored, sometimes, the plane's sound is not that bad.
+
+	Anyway, now i'm in France and it's all good, i'm really looking forward
+	to see my familly.
+
+	Ok, i have to go get my mother at the subway station :) Cya
+
+------------------------------------------------------------------------------
+02/14/2001
+
+	12:28
+
+	Winamp 3 Alpha 4 is out, check the forums for an URL
+	Here is a small component, done in about 30mn, it allows wa3
+	to talk to mIRC for instance, so you'll automatically announce the music
+	you're listening to (this can be very obnoxious after a while :). It uses
+	DDE so is able to talk to any DDE application. Get it <a href="http://bluemars.org/irctell.wac">here</a>
+
+------------------------------------------------------------------------------
+02/03/2001
+
+	3:22
+
+	Whoo... Brennan and i just went to a Random Pub(tm) and i was drunk for the
+	first time since about 2 years. Whooo... weird. Brennan !! Bad influence !!
+
+	Now trying to sober up... hmm...
+
+	Just checked my mail, wondered if i pissed Justin off by saying something ...
+	can't remember what it could be.
+
+	Just logged on irc... only idlers there. no good.
+
+	Just started music... good.
+
+	Realized tonight how much i wanna go back to France see my familly.
+
+	Still waiting for my plane tickets.
+
+	Still trying to accept the fact i'm considering changing my policy about being
+	single.
+
+	Still drunk... a little bit.
+
+	Trying to get rid of hickup so i can smoke a cigarette in peace.
+
+	Need to pee.
+
+	Running super low on toilet paper.
+
+	Chilling out now.
+
+	Cya
+
+------------------------------------------------------------------------------
+01/27/2001
+
+	3:31
+
+	Ok, i'm off to bed now , this has been an interresting night, two alpha releases in
+	2 hours, and so much source server problems it'd look like a lie if i told
+	you all about it.
+
+	Anyway, winamp 3 is now a public project, for good and ill. Already a lot of you
+	are reporting bugs, that's cool! We know about a good deal of them, so expect
+	new alpha versions on a regular basis now since it isn't secret anymore, and we
+	will increasingly need you in the future to spot those bugs.
+
+	Same for features, these are exciting times, as winamp 3 comes to a point where
+	big things comes together everyday.
+
+	The next big step for me is to bring the compiler up to a point where i can give it
+	away (it is just not good enough for now), as well as adding more and more classes
+	for you to play with.
+
+	Database code should get some love too, making it more crash-proof.
+
+	I will also keep coordinating with Morgan 'Splif' Thomas, author of the Boxor skin,
+	in order to finalize his skins (yes, more skins from Morgan to come!).
+
+	The last, but not least of what i'll do in the next few weeks will be to ... wait
+	a minute, i can't tell you everything... i have to keep some bullets for future
+	.plan updates!
+
+	Cya, enjoy Winamp 3 <b>alpha</b> 2
+
+------------------------------------------------------------------------------
+01/27/2001
+
+	00:56
+
+	One hour late, wow better than i expected :)
+
+------------------------------------------------------------------------------
+01/26/2001
+
+	11:00
+
+	Thirteen hours and counting.
+
+------------------------------------------------------------------------------
+01/12/2001
+
+	11:55
+
+	Wow, is that a .plan update ? looks like it eheh
+
+	Rob fucking rules, it had to be said.
+
+	I've been working a lot on the skining & scripting stuff, lots of very cool
+	stuff for all you skinners :) All i have to say is.... no need to ask the question
+	about free form skinning in the forums anymore, it is there, and redefines the
+	word 'free' in this instance. 
+
+	I've just spent 20 minutes playing with my friend Splif's latest skin for Winamp3
+	hehehe... it's just so cool :) Btw check out his <a href="http://splif.aegis-corp.org">website</a> !
+
+	I am glad the release date approaches. It puts a bit more pressure on us but
+	if feels good to be serious about a date at which we will give out what we have.
+
+	I'm a bit scared about the fact we don't have any documentation for all that skinning
+	and scripting sutff in the work as of now but anyway, most of you hardcore geks will
+	figure it out with a few good examples ;) And we'll try to have the doc ready when
+	the official beta is out anyay. 
+
+	Oh well, i think i need to go to work now.
+
+------------------------------------------------------------------------------
+11/06/2000
+
+	17:31
+
+	This is my final entry in this .plan, i don't feel like updating it anymore.
+	Stay tuned to http://bluemars.org, i'll probably start a .plan there.
+
+------------------------------------------------------------------------------
+10/31/2000
+
+	4:46
+
+	Today was a great day, my stream ranked #1 ambient stream for 10/15
+	minutes, hit a new peak of 34 listeners, and i keep receiving positive
+	mail about the music i broadcast. It feels very good... Thank you all!
+
+	I spent the day coding a small program that controls my stream winamp
+	so it switches playlist on specific hours, so starting from now, the
+	stream has a special program between 2am and 4am (PST) called "CryoSleep",
+	it is basically 2 hours of zero-beat guaranteed ambient, even more
+	quiet than usual, which seemed difficult at first, but i got a few
+	good CDs :) I hope you'll like it.
+
+	It's now 4:52, i think i'll watch a StarTrek episode and go to sleep :)
+
+------------------------------------------------------------------------------
+10/18/2000
+
+	19:50. 
+
+	My shoutcast stream is now online. If you like ambient music, <a href="http://scastsrv4.shoutcast.com:8010/listen.pls">check it out</a> !
+	Requirements: Winamp + a 96kbps capable internet connection.
+	Notes: This stream is best listen to while under the light of a candle, no
+	immediate business to attend to, and while enjoying whatever it is you enjoy
+	doing while listening to slow and relaxing music.
+
+------------------------------------------------------------------------------
+09/16/2000
+
+	11:58. I'm exhausted.
+
+	I just spent the night coding, it feel so good... I got zillions of things done.
+
+	My eyes are closing against my will so i guess it's time to go sleep a bit. 
+
+	I think i'll watch a Star Trek episode first.
+
+------------------------------------------------------------------------------
+09/06/2000
+
+	22:31. Wow, it has been a long time since i haven't updated this thing... 
+
+	Ok, so what's new ? Wasabi is coming really nicely, i know you're tired of
+	reading that, but eh, it's true. We are working really hard night and day to
+	make it really really, really good. 
+
+	These past days i've been working on reducing the memory footprint, making it
+	faster to load, etc. I've been also working on a small component that does so
+	much with 8k of code... heehee :) Developers are really going to love this version.
+
+	On a side note...
+
+	Q. Will Winamp 3 support video playback ?
+	A. Video ? Let see... Oh, i remember doing that a long time ago for fun :)
+
+	Oh and, by the way... ASF, WMV, ASX, WVX, MPEG, MPG and AVI are all automagically
+	supported by *any* application that uses the Media Player activeX control... so
+	we won't brag about that :)
+
+------------------------------------------------------------------------------
+08/15/2000
+
+	20:04. I just arrived at the office and i'm ready to code for most of the
+	night. I love those nights of code when nobody disturbs you, you end up
+	working ten times faster. I missed that, i'm glad to do it again.
+
+	My appartment is still a good deal empty, i'll have to go to ikea, sometime.
+
+	Ok, yes, i know, you don't care about me nor my apartment, all you want to
+	read about is Wasabi. Ok, ok... so here we are. I'm working again on the
+	database these days, adding and changing stuff. Making it idiot-proof,
+	faster, etc. 
+
+	It *is* coming :) 
+
+	Patience is a virtue, be virtuous.
+
+------------------------------------------------------------------------------
+07/21/2000
+
+	22:41. Just came back at the office to bring back more stuff to my new
+	home. It's so empty there right now, only a bed... :)
+
+	I just found out with Brennan what a cool view of San Francisco i have
+	from the roof! Here are a few pics :) <a href="http://www.quadrants.net/daview/">http://www.quadrants.net/daview/</a>
+
+	Now i need a tv, dsl and some stuff from ikea and i'll be set!
+
+------------------------------------------------------------------------------
+07/20/2000
+
+	20:15. I found my place. It's a nice apartment in the Potrero area of
+	San Francisco, one block away from a friend's place, seven blocks from
+	work, sunny and quiet, in one word: PERFECT :) No i have to fill this
+	empty space with bed, table, chairs, couch, tv, etc. etc. ...
+
+	Whoohoo!
+
+------------------------------------------------------------------------------
+07/15/2000
+
+	00:12. Went to the "Bardo a gogo" club... Bastille night... that was
+	most interresting...
+
+------------------------------------------------------------------------------
+07/14/2000
+
+	19:54. I never imagined it would be such a pain in the ass to find a
+	place to live here in SF :( I keep finding either VERY (read much too)
+	expensive places (wtf ? $2000 for 1 bedroom?!) or already rented ones.
+
+	I think i'll go to the Bastille cafe tonight, just to change my mind...
+	lots of french people are supposed to be there to celebrate the french
+	nationnal day... may turn out to be interresting... i don't expect much
+	tho. 
+ 
+------------------------------------------------------------------------------
+06/26/2000
+
+	15:14. I feel GREAT ! :)
+
+------------------------------------------------------------------------------
+06/25/2000
+
+	16:18. Came to the office, started to code a bit, actually wrote about
+	20 lines of code and decided i was bored. Watched Denny playing Tonny
+	Hawk and achieving scores i can't even dream of. Came back to my desk
+	opened a telnet session to write a finger update.
+
+	Now i'm staring at vi, wondering what the next word i'll type will be.
+
+	I definitly have nothing to say.
+
+	Ok, i'm bored. 
+
+------------------------------------------------------------------------------
+06/22/2000
+
+	23:12. I lost all my illusions. All i can do now is wonder about
+	myself. Was i naive ?
+
+	Peace for men of good will... i used to say that... I'm afraid there
+	are very few on this planet.
+
+	Life goes on as they say... but i'm not sure i want to hear again the
+	words "how you doin'?", or i might actually answer.
+
+	Sometimes i wish i believed in some supreme being, so i could at least
+	ask him "what did i do wrong?" instead of asking myself...
+
+	Of course none of this makes any sense to you, i guess that's fine, i
+	don't want to bother anybody with all that crap... i've never wanted
+	to bother anybody... ever... maybe that's the problem...
+
+	I should probably concentrate on my work, it's the best thing that
+	ever happened to me... 
+
+------------------------------------------------------------------------------
+06/17/2000
+
+	4:27am. I feel tired, i've been coding since we got back from getting
+	drunk with Brennan, Christophe, Justin and friends, but now my eyes are
+	closing against my will. I know they'll eventually win.
+
+	Anyway today was the day we showed our work on Wasabi to people at the 
+	office for the first time. I think it's was a pretty good demo, nothing
+	crashed anyway :)
+
+	Well, i'll be very busy the next few days since i just put some more
+	work on myself, but heh, i can't help it :) Anyway, i think it's better
+	to work more and to do things the right way...
+
+	We're still at the hotel (ron & me) for a few more days and then we
+	should be able to get a place, i'm so sick of those damn hotels who
+	charge like the Ritz Carlton or The Hilton and has no room service, no
+	minibar, no restaurant, and worst of all, no UPN44 (which is the only
+	interresting tv channel for me hehe)... Anyway, i still catch Startrek
+	from the office...
+ 
+	I think it'll not be long till we get back to sleep, feelinnng sleeepppppyyyyy....
+
+	"This is your life, and it's ending one minute at a time." 
+
+	-Fight Club.
+
+------------------------------------------------------------------------------
+06/09/2000
+
+	13:34. Rob's gone... i still can't believe it... :( 
+
+	I'm now staring at my protoculture ball(tm), my stomach fighting
+	against the togo sandwitch i just ate. life is odd.
+	
+------------------------------------------------------------------------------
+05/28/2000
+
+	16:18. I just came back from a weekend at my mother's place in the
+	south of France... very refreshing... calm... Too bad the water in the
+	swimming pool was a bit too cold, but the weather was very nice and
+	overall it was a great weekend. Then i took the plane to go back to
+	Paris, took a few pics thru the window, then got a cab to my brother's
+	place, and dropped my cell phone in the street. When i noticed it was
+	too late :( Now it's not a very big problem since i'm going in the US
+	in a few days now, but still, i had all my contacts in this phonebook
+	:(
+
+	It's now a bit more than an hour ago and my phone line is still active
+	despite the declaration of stealing. Whoever has my phone won't answer
+	(of course), and they even hangup after every first ring.
+
+	I think i'll try to enjoy the remaining of my sunday despite of that...
+	I'll just pretend nothing happened...
+
+------------------------------------------------------------------------------
+05/25/2000
+
+	10:49, I just woke up and finished my coffee cup, then i went to take
+	my mail, and here was it : MY VISA !!
+
+	From today, i am now officially abilited to work in the US for a period
+	of 18 months!
+
+	You probably don't care about it but i thought i could spend a few
+	minutes writing a bit about how i feel presently (kinda Steve-styled
+	.plan today) 
+	
+	It is a bit difficult to explain how i feel, this whole VISA process
+	was taking down on my nerves, generating a big load of everyday stress,
+	and now, it's over. It's like if my stomach was tied for months and just
+	untied this morning.
+
+	Since a few months now, my life has been dramatically changing, flying
+	back and forth between Paris and San Francisco, yet, this longing VISA
+	process was holding the transition.
+
+	There now seems to be nothing holding me back, i'm now really entering
+	a new chapter of my life, without having to stay at the step of the
+	door. I think i only felt this two times before in my life, in fact,
+	each time was a turning point, and each time it turned out to be for 
+	the best. I can't wait to see what this new path will go through, i
+	hope the future will give me the opportunity to spend those 18 months
+	up to my expectations.
+
+	to move, to push farther out;
+	to cause to set out towards.
+
+				K.S.Robinson - Icehenge
+
+------------------------------------------------------------------------------
+04/30/2000
+
+	21:10, Time to wake up... i've been working all the night on GUI code
+	and i eventually did what i wanted... thank you very much microsoft for
+	having implemented custom draw on lists but not on trees... But the
+	cool thing is i now know how windowblinds and co insert a background
+	behind almost everything... the idea behind it very simple, yet although
+	i did a lot of this kind of things in esense, i always wondered about
+	this specific feature. I guess next time i should spend more time reading
+	documentation... :)
+
+	Anyway, now it's sunday night, and what does that mean ? StarTrek !
+	The best way to start a productive night of code !
+
+	Oh, i forgot... If you never heard Biosphere, go buy a CD, they are
+	a bit difficult to find now but you won't regreat it... Get "Patashnik"
+	it's a good start. The best description i have is "Space Ambient"...
+	Just press play, turn off the lights, and relax. 
+
+------------------------------------------------------------------------------
+04/24/2000
+
+	Wahh i just bought the Sony 1600x1200 digital camera, and it's just
+	AWESOME! Now i just need to buy my LX200 telescope, and the adapter
+	to plug the camera, wow i can't wait...
+
+	I'll try to set up a picture section on quadrants.net sometime.
+
+------------------------------------------------------------------------------
+04/22/2000
+
+	Wooch... worked very late yesterday night to finish the first version
+	of avs script, and now i have (as we say in france) my head in my butt...
+	There are still some things that need to be improved but i did my first
+	ass file (!) and i think it does a decent job at giving the idea...
+
+	Anyway, i woke up today at 6pm, and right now, all that defines me is
+	headache, exhaustion, and also sense of dizzyness... nothing unusual. 
+
+------------------------------------------------------------------------------
+04/20/2000
+
+	Feeling sleeepyyy...
+
+	-lone
+
+------------------------------------------------------------------------------

@@ -1,0 +1,64 @@
+
+*** Monolith Production's Finger Server
+
+User name: kevin
+Plan modified: Tue Dec 01 22:29:38 1998
+
+Name : Kevin Lambert
+Alias : Hologram (or |GPFault| on IRC)
+E-mail : kevin@lith.com
+Position : Lead Game Designer / Lead Programmer
+Project : Gruntz
+
+12/1/98
+My mom always said that December 1st was the day that all the truly crazy people came out of hiding and updated their plan files... Uh... okay, so maybe she didn't say that "exactly", but she said something about plan files... or maybe it was something about crazy people?  Hmm... Actually, I think that she was telling me to get my worthless-good-for-nothing butt away from the video game system and do something useful for a change... Yep... see, I was close... :-)
+
+Gruntz is officially gold.  The Gruntz website is almost complete, the Gruntz demo will be available for download in early January, and the retail version will be on the shelvez sometime in Q1 99.  I'm back from vacation and boning up on the LithTech engine by reading "Teach yourself LithTech programming in 21 days" by Kevin Stephens.  If you do read it, be sure to check out Chapter 7 which goes into great detail on what is probably the most important skill that a game programmer can have: Cut & Pasting OPC. (Other People's Code) :-)
+
+Thanksgiving was great.  The only time of year when The Legend of Zelda: Ocarina of Time came out!  After waiting 6 years for this game and being very critical of games of this type, I can honestly tell Zelda fans that it does not disappoint AT ALL!  The game is not perfect, but what game is?  Bottom line, I would say that Zelda64 is the best game that I have ever played period.  I am guessing that it will remain my favorite game until Zelda 64 part 2 comes out in another decade. *sigh* oh well...  Yep Thanksgiving was good this year... oh, and there was some turkey too.
+
+GPF.
+
+
+11/13/98
+Friday the 13th.  The day Gruntz goes gold. *gulp*  The full version and the demo are completely finished!  We're testing the demo today to make sure that there are no showstopperz.  We will be releasing the demo when the Gruntz website goes up in about 2 weekz. (After my vacation)
+
+Where am I goin?  I'M GOIN TO DISNEYLANE!  No, not Disneyland... Disney Lane.  It's just a normal street about 4 hours from Seattle that has a really cool lemonade stand on it.  This kid named Joey is always working there selling lemonade 24 hours a day, 365 days a year...  I don't know how he does it, but for 35 cents, it's well worth the 4 hour drive.  Talk about a vacation!!! Woohoo!  I can hardly wait for that fresh lemonade taste to cover up the horrible stench of all the dead bodies in the graveyard across the street...  and when Joey reminds his mom that it's time to prepare dinner, he calmly places down his sign, slowly turns around as he picks up the megaphone and yells, "FOR THE LOVE OF GOD WILL YOU MAKE ME SOME FOOD WOMAN?!"  Now that's what I call a happy family... It brings a tear to my eye just thinking about it... *sniff*
+
+Anyway, enough about that... I'm outta here!  I'll tell ya more about the Gruntz demo when I get back!
+
+Chow! :)
+
+GPF.
+
+
+10/19/98
+Just finishing up the manual today and getting ready to watch our testing group of "all ages and sexes" come in and play the game.  It will be fun to see the impressions of people who don't really play games very often or at all.
+
+I reserved my copy of Zelda 64 and got my free Zelda 64 T-shirt a few weeks ago and now I am counting down the days until my next project will suff...er... I mean until I can play it.  Some of the store employees at the large software stores managed to get a hold of a different Zelda 64 T-shirt with buttons at the top and the logo on the chest.  They're really nice looking and I'm still trying to get one myself.  Unfortunately for me however, the employees aren't willing to give theirs up, and it's kinda hard to rip the shirt off of an unwilling person's back without damaging it. :(
+
+If you don't have a Nintendo 64 console, and you like action adventure games like Zelda, then I suggest you get the N64 if for no other reason than to play Zelda 64 when it comes out.  I would also suggest that if you have an extra one of those spiffy Zelda 64 T-shits with the logo on the chest, that you please send one to me!!! :)
+
+GPF.
+
+10/7/98
+Gruntz is currently getting some playtesting from people of all ages to make sure that it's fun and appealing.  We should be getting some feedback relatively soon.  I'm starting on the Gruntz instruction manual now which should prove to be a well-needed change of pace.  My goal was to write the entire manual using nothing but the old DOS program "edlin" but unfortunately they never got around to adding the ability to embed pictures into your documents. :)
+
+Only 5 more dayz till my b-day!  Like that actually means anything nowadays though... Last year was the last year where I actually received any sort of benefit for getting older until I become a senior citizen.  How lame.  I think there should be benefits at age 30, every 2 years before age 40, and then every year after that to counteract midlife crisis and depression.  They could be simple benefits like free pizza delivery, free admission into strip clubs, not having to obey the speed limit, legalized drugs, multiple wives, you know... just a few little things like that to remind you that life is worth living. (or the drugs to make you forget that it's actually not) :)
+
+GPF.
+
+------------------
+Old plan filez can be found at:
+
+http://www.users.lith.com/~kevin/plan/
+
+
+
+
+
+
+
+
+
+

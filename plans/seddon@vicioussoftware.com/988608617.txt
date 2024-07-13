@@ -1,0 +1,35 @@
+Login: seddon         			Name: Chris Seddon
+Office: Vicious Software, 905-xxx-xxxx	Home Phone: 905-xxx-xxxx
+Project:
+RAZOR, Xistence Engine (v2.5)
+Plan:
+
+I saw Army of Darkness for the first time on the weekend, and oh my god I
+feel like I was living in a hole! I haven't laughed so hard in a long
+time...It just goes to show you, behind the programming geek there is a
+brute-force maniac wanting to escape...=D
+
+Switching to dev talk for a minute, Razor is coming along at a nice
+speed. We will be will passing out alpha-demos at E3 to potential
+publishers, friendly game companies, and IHV's. A publicly released
+multiplayer demo will appear on the net several weeks later, if we are on
+time.
+
+After long examination of different lighting techniques, I opted for a
+cheaper lightmap painter system. I originally tried Radiosity lighting
+however I abandoned it after the compilation times were too damn
+long. I wrote a console app to do the calculations only to find that a
+visual representation was required to ensure the damn thing was 
+actually calculating the correct formula's, and bouncing properly. I then
+tried several other types of lighting, though I was most impressed with
+the lightmap painting method. For making maps and customization it is fast
+and elaborate. I won't go into details right now, but it looks cool. =D
+
+The Vicious Software website will have some pictures of RAZOR soon, and
+yes I do mean soon! E3 is quickly approaching and the VS team are getting 
+excited. Now it's time for a shameless plug, if you or your company are
+having E3 parties, the VS team would like to go so give me an
+email so I can get the details.
+
+
+seddon@vicioussoftware.com

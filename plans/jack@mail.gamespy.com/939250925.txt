@@ -1,0 +1,10 @@
+User:   jack
+Unread: 5
+Plan:
+10/6/99
+
+Wow, haven't updated in a good six months.  Anyway, I just wanted to follow up on Rick Johnson's .plan update about Voyager and SoF not having Macintosh support.  Well, it'll be hard to give Heavy Metal: FAKK2 Mac support as well without any Macs here as well.  So unless that situation changes we're not going to be able to have mac support either. 
+
+Which is actually pretty sad considering we're using an engine that has Mac cross-compiling built right in and no boxes to do serious testing and development on.  While developers and the dominance of Windows are being blamed for the disparity in number of Macintosh games versus PC games, it's showing that Apple really doesn't seem to care.  We here have been begging for Mac equipment, but apparently it has been into deaf ears.  If Apple is going to pick and choose among five or so companies to support and force everyone else to farm games to dedicated porting houses, I don't see how they're going to even make a dent in the gaming market at home.
+
+So to let Mac Gamers know, this is Apple's misstep, plain and simple.  If Apple would support us in entering the Macintosh market, we would.  If they're gonna ignore our requests, I'm sorry, but we're not going to fight an uphill battle.  If you want games written for your Macintosh, give them a hollar.  Tell them to support developers, and developers will support them.  That's the way it works with every other hardware company we support.

@@ -1,0 +1,16 @@
+
+Name: Eric Webb
+Email: eric@idsoftware.com
+Description: Monkey
+Project: 
+-------------------------------------------------------------------------------
+Hi everyone!
+
+We've been working hard the last few days trying to track down a dedicated server crash. I've got a server running here at Id that should give us a pretty good indication of what's going on next time it goes down, so feel free to hop in and play. This particular server cycles through the Team Arena terrain maps, so you have to have TA installed. Have fun! 
+
+The address: 192.246.40.159
+
+
+Thanks!
+
+-eric

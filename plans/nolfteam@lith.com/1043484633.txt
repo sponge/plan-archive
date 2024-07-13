@@ -1,0 +1,144 @@
+
+*** Monolith Production's Finger Server
+
+User name: nolfteam
+Plan modified: Wed Jun 20 14:50:35 2001
+
+				
+					6/20/2001
+
+The source code for NOLF version 1.003 is now available!  Here’s what’s included:
+
+·	The NOLF Visual C++ 6.0 workspace complete with projects for individual DLLs
+·	All of NOLF’s game-side source files  
+·	LithTech SDK header files and header files for shared Monolith libraries
+
+To build the NOLF source v1.003 you will need:
+
+·	Microsoft Visual C++ 6.0 (with service pack 3 installed)
+·	Microsoft’s DirectX 8 SDK
+·	400MB free disk space
+
+To run your modifications, you’ll need to have NOLF version 1.003 installed. 
+
+For more information on the source code and how to use it, please refer to the readme.txt file that’s included in the download package. 
+
+Enjoy! 
+
+The NOLF Team
+
+
+				
+									
+					5/24/2001
+
+Update #3 is now available! The primary purpose of this update is to prevent modified clients from joining normal servers and vice versa. For more information on this fix and for the complete list of what’s new in version 1.003, please see the list below: 
+
+ *  Fixed a multiplayer exploit that allowed player created add-ons with modified weapon.txt files to be used on normal, non-modified servers. Players using these add-ons will now receive an error message when trying to join a normal server or a server that's running a different add-on. 
+
+   NOTE: This message will also appear if a player with an unmodified version of the game tries to join a modified server. Server operators who wish to use these mods should note the name of the add-on within the server name field. 
+
+*  Fixed a multiplayer bug that sometimes caused players crouching near the terrain to randomly teleport through the map and pick up any weapons or powerups that they came across.
+
+*  Fixed a multiplayer bug that allowed players to activate vehicles while using the zipcord and then fly around the map.
+
+*  Fixed a bug that caused the player to fly up into the air when entering a cloud of sleeping gas from below.
+
+*  Fixed a bug in the multiplayer host menu that caused only 3 of the available bandwidth options to be shown when scrolling through with the right-arrow key.
+
+*  Removed Stun/Sleep Recoils.
+
+*  Fixed a bug in the standalone server wizard that caused certain options to be reset when any slider bar on the same page was moved.
+
+*  Fixed floating ammo boxes and armor powerups in saved games.
+
+We hope you'll enjoy!
+
+-The NOLF Team
+
+
+				
+					3/15/2001
+
+Today we are releasing the new and improved NOLF demo! The demo is not an upgrade of the existing tech demo. Instead, it includes all new levels plus all the new features and improved code found in the 1.001 and 1.002 Updates. The specific levels are:
+
+-The Assignment, Scene 3 (Training Level)
+-Misfortune in Morocco, Scene 1 (Protect the Ambassador)
+-A Tenuous Lead, Scene 5 (Sinking Freighter)
+-Alpine Approach, Scene 4 (Snowmobile)
+-Chillkill_DM (Deathmatch map with snowmobiles)
+-Beaujolis_AM (H.A.R.M. vs. UNITY map with motorcycles)
+
+As an additional bonus, all of the available multiplayer weapons and gadgets from the full version of the game are also included in the demo!
+
+We hope you'll enjoy!
+
+-The NOLF Team
+
+
+				
+					3/2/2001
+
+Update 2 is finally finished! The team has been working very hard on tracking down issues and addressing them, as well as adding some cool new features. We've also created 8 new multiplayer maps (these are described after the list of issues). Much thanks to everyone who helped test the Beta release! It's difficult to test every imaginable configuration possible with the Fox and Monolith test departments, so it is great to have extra feedback from the community!
+
+Below is the list of changes and additions in Update 2:
+
+*  Improved object Interpolation/Extrapolation (helps remove players/rockets "jumping" around bugs)
+
+*  Added server upload throttling code. The server throttling works by turning down the update rates of the clients when too much data is being sent for the connection to handle.  NOTE: You MUST set this option appropriately on your hosted or dedicated server to avoid bandwidth saturation and overflow.  To set this option on a hosted server go to the Host menu and select the "Bandwidth" option. The value you choose (56k,Cable,DSL,T1,T3) should match the maximum number of bytes per second that your connection can upload. If none of the available options match your connection's maximum upload bandwith, then use the "Custom" option to enter the correct value manually.  For step by step instructions for calculating your bandwidth limit and for instructions on using this feature with dedicated servers, please see the serverreadme.txt file in your main NOLF installation folder after installing the update.   
+
+*  Numerous bandwidth optimizations, including: Removed guaranteed userflag updates being sent on object activation and deactivation; Removed guaranteed update of all ammo types when player respawns; Removed guaranteed userflag updates associated with ducking and swimming; and Removed guaranteed update of grenade rotation
+  
+*  Fixed a number of join related bugs (i.e., the endless Loading screen bug and crashes or seemingly endless black screens when switching maps).
+
+*  Added ability to set the server and client ports.  The client port is controlled by the IPClientPort console command which defaults to 0 (which will cause NOLF to use the default IP range of 1024-5000).
+
+*  Auto Ammo Selection option added. If this option is turned on (in the Player menu) and you pick up ammo for the weapon you currently have selected that is better than the ammo type you are currently using, the new ammo type is used.
+
+*  Fixed Auto weapon selection so that a weapon is automatically selected when you are out of ammo and you pick up ammo.
+
+*  Update so best ammo is auto selected instead of the "next" ammo type.
+
+*  Fixed a bug that allowed you to move certain ammo types to other weapons (e.g., move explosive revolver ammo to AK-47).
+
+*  Updated so that all player head/body textures are available in multi-player.
+
+*  Added Elite Guard models to the model selection in multiplayer.
+
+*  Added Target name display options to the Player setup screen.  This allows you to display the name of the person you are currently targeting.
+
+*  Fixed a bug in AmmoBox that caused them to sometimes stop giving out ammo if picked up a bunch of times.
+
+*  Fixed a bug that caused progressive damage (i.e., stun, acid, sleeping) to sometimes be applied even after respawning.
+
+*  Fixed a bug that caused players to not always play the swim animation when swimming.
+
+*  Fixed ducking so it no longer feels lagged.
+
+*  Fixed a bug that caused grenades to sometimes fly endlessly through the world.
+
+*  Fixed a bug that caused projectiles (grenades and rockets) to sometimes disappear on the world.
+
+*  Changed both Blizzard_AM and Beaujolis_AM so that players are now unable to illegally jump up the sides of the terrain, hide, and snipe at other players.
+
+*  Launcher:  Added "Customize" button under the Advance section which allows people to add Add-on .rez files more easily.
+
+*  Stand Alone Server: Added "Customization options" dialogue which automatically appears if there are Add-on .rez files in the Custom folder. This allows Add-on .rez files to be used by the Stand-alone server.
+
+*  Stand Alone Server: Added several command line parameters to allow server operators to bypass the setup wizard.
+
+*  Fixed a bug in the AmmoBox that caused a bunch of unnecessary messages to be sent to the client.
+
+*  Fixed bug with not being able to pick up weapons when "weapon stay" is on.
+
+*  Fixed a bug with PickupItems falling through world models when their MoveToFloor property was set to True.
+
+*  Fixed a bug that caused the level to never end if Frag Scoring was turned off in H.A.R.M. vs UNITY games.
+
+*  Fixed client bugs caused by the dimensions of crouching players. 
+   
+*  Fixed a bug that caused the menu interface to disappear if the menu was left on for about 3 hours.
+
+*  Updated the dedicated server window to display the correct version number.
+
+*  Updated Internet Join and Lan 

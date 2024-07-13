@@ -1,0 +1,51 @@
+
+Name: Pat Lipo
+Email: plipo@ravensoft.com
+Description: Lead Programmer/Prog. Manager
+Project: ?
+Nickname: Vertigon
+Web Page: <a href="http://www2.ravensoft.com/users/plipo">Cyclones Cinematic Shrine</a>
+-------------------------------------------------------------------------------
+------------------------------------------------------------------
+8-2-02 
+By popular request, I put together some basic documentation and
+samples that can be used for weather effects and vertigons
+(surfacesprites) for people making mods and/or maps for JK2 and 
+SOF2.
+
+Rick Johnson's worldeffects system has some calls for creating 
+in-view rain and snow, as well as misty-foggy stuff.  These can
+be added to maps by adding commands to the worldspawn.
+
+My vertigon system is used to add grass, shrubbery, vines, mist,
+and rain splashes to a surface with culling at a distance.  It's 
+really easy to do, it merely requires editing the shader of
+whatever surface you wish to add vertigons to.  The system is 
+pretty cheap for what it does, and we only scratched the surface
+of its potential while making SOF2 and JK2.
+
+Both technologies are more or less synchronized between JK2SP, 
+JK2MP, SOF2SP, and SOF2MP, so the documents and sample shaders 
+are more or less transferable.  The only thing SOF2 has that JK2
+doesn't are some additional directives for gore and the like. 
+Using the improvements you can do sprites on people as well as 
+terrain polygons, such as placing rain-splashes on the dudes with
+the rain slickers (I was a bit too busy with my other project to 
+squeeze that into the liner level, darn it).  
+
+The vertigons were also used in SOF2 for projecting gore on 
+characters.  For some simple examples, SOF2MP mod-makers can add 
+new gore decals (both 2D and 3D) by working with the module
+cg_gore.c.
+
+The file for all this goodness can be found at my goofy little
+<a href="http://www2.ravensoft.com/users/plipo">Cyclones Cinematic Shrine.</a>
+
+For those of you who would rather eat glass than be subjected to 
+the horrors that were the Cyclones cinematics, the direct link to
+the file is <a href="http://www2.ravensoft.com/users/plipo/JK2SOF2 Vertigon and Weather Tech.zip">here</a>.
+
+Happy splattering!  And raining...  And grassing...  And misting...
+
+--Pat
+------------------------------------------------------------------

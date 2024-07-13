@@ -1,0 +1,186 @@
+Name: Paul Jaquays
+
+Email: paulj@idsoftware.com
+
+Description: Level Designer
+
+Project: Quake 3 Arena
+
+-------------------------------------------------------------------------------
+
+
+
+Skill Portfolio/Background:  See bio on id web page for details
+
+
+
+Current projects:   Q3A Missionpack
+
+
+
+**********************************************************************
+
+DISCLAIMER:  THE FOLLOWING IS THE PERSONAL OPINION OF THE AUTHOR AND DOES
+
+NOT REPRESENT THE OFFICAL POSITION OF ID SOFTWARE, ITS OWNERS, EMPLOYEES,
+
+DISTRIBUTORS, OR LICENSEES, (OR ANYONE ELSE FOR THAT MATTER)
+
+**********************************************************************
+
+
+
+**********************************************************************
+
+May 17, 2000  1:40 PM CDT
+
+**********************************************************************
+
+No Mission Pack secrets or a whole lot of E3 chest pounding today (though I did enjoy the opportunity to meet with several fans and old friends at the show). Congratulations to the whole Rogue Entertainment crew for a fine showing of Alice.
+
+
+
+Also congratulations go out to Fatality for his overwhelming victory in the Quake 3 Arena tournament portion of Mplayer's E3 triple threat competition. His opponent, Hakim, put up a valiant fight, but Fatality was in ownership of the arena from the moment the match started, until it ended 14 to -3. 
+
+
+
+**********************************************************************
+
+
+
+I'd like to take just up a fraction of your bandwidth to promote a new specialty store being opened by a friend near Dallas, TX.
+
+
+
+If you're a fan of Japanese anime and live or work on the eastern side of the Dallas, Texas metroplex, or anywhere along the HWY 30 corridor in NE Texas, you may want to check out the newly opened FRIED ANT ANIME store.
+
+
+
+The store carries a full line of anime videos and box sets, manga, graphic novels, wall scrolls and posters, t-shirts, art books and collectibles. They will also be carrying a limited selection of roleplaying game materials. 
+
+
+
+An Anime Fan Club will be starting soon with movie viewings, costume contests, fan art contests and more.
+
+
+
+And did I mention that the store also features a selection of limited edition, signed & numbered art prints by yours truly?
+
+
+
+
+
+Store hours are:  M-Thursday 11-7, Fri and Sat 11-9, closed Sunday.
+
+Phone # is metro (972) 772-4812
+
+
+
+     Fried Ant Anime
+
+     2006 South Goliad (Hwy 205) Suite 222
+
+     Rockwall, Tx 75087
+
+
+
+The store is in the "Hobby Lobby" shopping center, at Exit 68 off Highway 30. Just go a little north when you get off the highway.
+
+
+
+**********************************************************************
+
+April 10, 2000  10:10 PM CDT
+
+**********************************************************************
+
+It's been awhile since I posted, mostly because I rarely have anything relevant I can say about company business, and anything I do want to say usually gets said over on the Quake3World Editing Forum. Which is why I'm posting this here. I know there's a lot of people who must be downloading our editing tools and then getting frustrated because they can't get them to work right. Not surprising. A day rarely goes by in which a newcomer to the forum needs to have a basic question or two answered. If you're just getting started in Quake III map making or you're finding that the on-line tutorials aren't providing the specific answers that you need to know, drop in to Editing Forum. Questions get answered and there's usually a lot of great discussion about map making. Sometimes questions are answered by the last mapper who asked the same question. But there are some serious experts in the science and art of mapping, shader programming, texture creation and tool making who hang out on the forum too.
+
+
+
+And did I mention that all this occurs in a nearly flame-free environment that's tends to stay on the topic at hand?
+
+
+
+Stop in for a visit, we think you'll like it there.
+
+
+
+<a href="http://www.quake3world.com/cgi-bin/forumdisplay.cgi?action=topics&forum=Level+Editing&number=6">Quake3World Level Editing Forum</a>
+
+
+
+While I'm at it, I should mention that the Q3Radiant editing tools are also available from Quake3World, as are several versions of the Q3Radiant manual, Eutectic's .def file for Q3Radiant entities, the missing textures files and the clean shaders files for the original id shader scripts and lots of links to level editing resources.
+
+
+
+Paul J.
+
+
+
+
+
+
+
+**********************************************************************
+
+Manuals
+
+**********************************************************************
+
+
+
+The Q3Radiant Manual is Done!
+
+
+
+Each of the versions is zipped and run just under half a meg each. Unpacked, you'll need 2 megs of drive space.
+
+
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/tools/q3rmanhtml.zip">Q3Radiant Manual (HTML version) on id ftp site</a>
+
+
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/tools/q3rmanpc.zip">Q3Radiant Manual (MSWord version) on id ftp site</a>
+
+
+
+Mirrors:
+
+
+
+<a href="http://www.quake3arena.com/files/q3rmanhtml.zip">Q3Radiant Manual (HTML version) on quake3arena.com</a>
+
+
+
+<a href="http://www.quake3arena.com/files/q3rmanpc.zip">Q3Radiant Manual (MsWord version) on quake3arena.com</a>
+
+
+
+
+
+
+
+The Quake III Arena Shader Manual is available for download.
+
+
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/tools/Q3Ashader_manual.doc">shader manual</a>
+
+
+
+
+
+Paul Jaquays
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+If it's not here, it's vapor.  Check out somebody's archives if you want to read my previous bits of wisdom and flame.
+

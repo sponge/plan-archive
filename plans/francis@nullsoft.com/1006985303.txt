@@ -1,0 +1,37 @@
+Login: francis        			Name: I HATE FreeBSD
+Plan:
+If you like quiet music and peace of mind, check out my <a href="http://bluemars.org">streams</a>.
+If you like neural nets, check out my neural net research <a href="http://bluemars.org/cbp">pages</a>.
+If you like Winamp, check out our <a href="http://www.nullsoft.com">website</a>.
+
+
+.plan:
+
+What's new :
+
+	- Not much, I'm writing this...
+
+What I'm working on right now :
+
+	- Winamp 3's GUI, DB, Script & Skin system
+	- Some CBP research (see url above)
+
+In the back of my mind there is :
+
+	- My family, always
+	- My friends, also
+	- My job, more than I'd sometime like it to
+	- A BPM detection algorithm that uses pulsar detection code
+	- A skinned/scripted shell using the wasabi gui engine
+	- A lot of small ideas for winamp3 scripts
+	- More...
+
+What I ate yesterday :
+
+	- Mr Pizzaman's toasted raviolis cheese + toasted mushrooms
+	- Chips
+	- Cheesecake
+
+Yesterday, I did not poop.
+
+Francis.

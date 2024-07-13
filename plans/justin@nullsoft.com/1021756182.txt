@@ -1,0 +1,18 @@
+Login: justin         			Name: Justin
+"|IFS=' ' && exec /usr/local/bin/procmail -f- || exit 75 #user"
+Plan:
+[we originally got .plans figuring that we'd get ferraris too, like id]
+
+I lub reinventing the wheel, when there are advantages to doing so.
+
+big wheels keep on turning.
+
+I'm in North Carolina with Al for a wedding.
+Reading Neal Stephenson's Cryptonomicon. The part on page 60 or so
+with Randy and his falling out with Andrew, was, well, familiar. Something
+I identified with. Heh. People.
+
+The neat thing about Cryptonomicon is that it is mixing fiction with fact
+so well, that I sometimes can't tell =) I'll do some serious research on
+some of it later to see what really happened.
+

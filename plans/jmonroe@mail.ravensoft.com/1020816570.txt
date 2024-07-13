@@ -1,0 +1,55 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Jedi Knight2
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+The JK2 patch 1.03 has been released! You can download it <a href="http://support.lucasarts.com/patches/jedioutcast.htm" target="_blank" title="get it!">from Lucas</a>!
+
+The dedicated servers for 1.03 can be found <a href="http://www.3dgamers.com/news/more/1020800869/">here.</a>
+BTW, just as you had to install the pak files from the release game to run a dedicated server, you must install the pak files from the patch (above) in order to run a patched server.
+
+
+<b>This update for the game has been modified to:</b> 
+---------------------------------------------
+* Provide EAX® 3.0 and OpenAL support. To enable these options, you will need to enable 3D Sound in the Sound Setup menu.
+At the time of release of this update, EAX 3.0 is only supported on the Creative Labs Inc. SoundBlaster® Audigy(TM) and Extigy(TM) sound cards.
+
+NOTE: This feature is not supported on Aureal® Vortex and Vortex 2 sound cards. Enabling this feature with a card with one of these chipsets may cause the game to lock up.
+
+<b>Multiplayer:</b> 
+-----------
+* Include 4 new Multiplayer Duel levels
+ (duel_bespin, duel_temple, duel_hangar, and duel_training)
+
+-------------
+* Provide Force Feedback for mouse and joystick. (this replaces the limited support in the release version)
+ 
+<b>Corrects:</b>
+-------------------------------------------
+<b>Multiplayer:</b>
+-----------
+* Corrects an issue where players were unable to cycle to detonator packs and trip mines on the “explosives” key unless they also had Thermal Detonators.
+* Corrects an issue that prevented launching a multiplayer game on AMD(TM) dual processor machines.
+* Corrected an exploit to prevent players from using illegal models in the game.
+* Corrected an exploit that allowed players to have force powers outside of what the server rules allow.
+* Added an icon that appears over the player's head when the player is chatting or configuring force powers.
+* Backflip now requires that you double tap the jump button.
+* Lightsaber usage in multiplayer has been modified to work similarly to the way it works in single player levels. This will enable better saber battles up close with your opponent.
+* Lightsabers will do less damage at the very start and very end of a swing. This should prevent kills from just touching an opponent with the tip of your lightsaber.
+* Other players will not see the glow from a player using force absorb until they are attacked.
+* Force Heal and Force Drain have been adjusted to require more force energy to use them.
+* Corrected an issue that prevented lightsaber locking from occurring in duels even if it was enabled by the server.
+* Correct various Duel mode issues, including:
+
+* Reconfiguring force powers will not place your player at bottom of queue.
+* If one player leaves during a match when dueling with more than 1 kill limit, the next person in line will not enter the match with the score of the person who left the match.
+* Changing skins will no longer produce a loss score on HUD that includes fraglimit.
+
+-------------
+* Corrected an issue arising from the third AT-ST on Artus_Topside disappearing which prevented Jan from landing.
+* Corrected an issue that caused enemies not to be alerted by the body of a comrade in their field of vision.
+* Corrected an issue where enemies did not try to avoid thermal detonators that were thrown at them.
+* Corrected an issue that would cause the player to be unable to attack for about thirty seconds if they were force pushed out of a saberlock.

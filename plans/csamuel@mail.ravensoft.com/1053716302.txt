@@ -1,0 +1,88 @@
+
+Name: Clem Samson-Samuel
+Email: csamuel@ravensoft.com
+Description: Designer
+Project: XMen
+-------------------------------------------------------------------------------
+April 19, 2002
+
+It has been a while since I updated so there’s no time better than the present!  One of the first things you will notice is that my name has changed.  Since I last updated I got married.   Being the modern guy I am, I decided to change my name along with my wife.  So now I am Clem Samson-Samuel :)  Let me say for those of you guys who are married or about to go through it, appreciate your wife for changing her name if she does. While changing your name is not a big deal when you get married, it is a tedious process to get everyone else to know that your name has changed: credit cards, DMV and etc... Well enough with the personal stuff let me get down to business.
+
+As most of you already know, the SOF2 MP test was released yesterday.  So far the response has been very positive and it is nice to see people are enjoying the hard work that has been put into it. As mentioned before, SOF2 wasn't originally designed to include MP, and now we have several different game types, 4 of which can be played on with the MP Test.  
+
+As I said above, most people really like this new installment of SOF.  As with most things, there are those who don't like it and I am finding that these people had misconceptions on what the game was going to be like.  While things like this always happen, I wanted to point out that there is additional information to be found on the download pages at <a href=http://www.gamespy.com>Gamespy</a> and <a href=http://www.planetsoldier.com>PlanetSoldier</a>
+
+Although I will let these sites and others explain SOF2 in detail, I want to just mention a couple of things (I will list server commands at the end):
+- Player’s movement speed can be changed on the server.  
+- Grenade weapons like the MM1 and rocket launcher can be turned on or off.
+- Server admins can change the spectator mode so that people are only allowed to follow their own team members.
+- The map called 'The Shop' that was included is an 'indoor' map.  It isn't a jungle or other terrain-type map.
+
+Since I am a level designer I had to say a few other things about the map that was included ... sorry, I couldn't resist.
+
+As mentioned above, the map is an indoor map; an office in fact.  While the choice of this map might seem mundane, trust me when I say that the map may appear simple but it has a lot of depth to it.  The map truly shines with the infiltration game mode, because that is what it was designed for.  So, I highly recommend you find some mates to play with and go hog wild!
+
+While I was going to write a 'Shop 101' and explain in detail how complex the flow of the map is, I decided to let people find out on their own.  I will however,  give a few hints:
+- Use the outside of the building. Believe it or not, but you can walk most every way on the outside of the building.
+- You can climb the cables on the scaffolds.
+- Work as a team.  This may seem obvious, but the attacking team (Blue) really has to work together to succeed.  It isn't completely required, but it sure is a lot of fun when you do!
+- There are MANY routes that the attacking team can take.  While there are only three ways into the room with the briefcase, there are over a dozen ways to get there.  I am serious that there are over a dozen ways!
+- There are at least 9 ways to escape with the briefcase.
+- While crouch jumping (holding crouch shortly after jumping) is not required, it can get you to a lot of place you normally couldn't get to. :)
+
+I leave it there to let you discover everything else on your own.  Hopefully, people will start to put together FAQs and guides to show off the complexity of the entire game. Thank you for testing, and please send any constructive comments to <a href=mailto:sof2mptest@ravensoft.com?subject=SoF2 Multiplayer Test>our feedback address.</a>
+	
+-Clem Samson-Samuel
+Raven Software
+SOF2 Level designer
+
+
+Server commands (Thanks to Bryan Dube aka Apoxol):
+
+movement speed:
+g_speed  - default is 280
+
+grenades
+g_availableWeapons  2222222222200   -  that will turn off the rocket and grenade launcher (each number represents a weapon).  2 means that its available in pickup games (deathmatch) as well as non pickup games (infiltration), 1 means its only available in pickup games, and 0 means not available at all.
+
+g_followEnemy 0  - disallows following of enemies
+g_forceFollow   1  - disallow free float ghost mode
+
+
+g_respawnInvulnerability - defaults to 5, this is the number of seconds you are protected from taking damage after you spawn (providing you haven't shot yet)
+
+g_friendlyFire 1 - turns friendly fire on
+
+
+
+
+
+7 - 10 - 2001
+
+testing, testing ... 
+
+Well this is my first .plan update and I have a few things to say.  First of all I would like to thank 
+Raven for the opportunity to work here.  No matter what bad things people might say, it is truly a great 
+place to work.  Speaking of work, SOF2 is going well, we are making a lot of progress and I am sure 
+people will like it.  The detail in the levels, models and art are amazing and of course the code keeps
+getting better and better.  Trust me when people comment on how life like the characters, they are 
+not kidding. There is something about the eye literally looking at you that makes them feel so real ... it can be creepy.
+
+Enough of work, let me get down to what really inspired me to update my .plan file.
+
+<a href=http://opera.redeemedsoft.com/index.htm>The Opera</a>
+
+Before I was hired at Raven I worked on The Opera, a total conversation of the Half Life engine.  
+About two years I work on this project and it was a great experience.  At first I was a level designer, 
+but then the lead level designer and even helped to lead the project. In the end I wish I could have 
+done a lot more for The Opera.  Before I regress any further I would just like to encourage people 
+to take a look at The Opera and see it for what it is, a fun game. However please keep in mind that this 
+is the <b>first</b> release and it has some bugs in it.  Then again most people who read this know how
+difficult it is to create a game with few bugs.  This fact is more even more clear once you know that the 
+code base for The Opera's is <i>twice</i> that of the original game, Half-Life. In any case don't fear, 
+because the bugs will be squashed and everyone will be able to play to the max.  For more info check 
+out the official web page for <a href=http://opera.redeemedsoft.com/index.htm>The Opera</a> and for the latest review of the game check out <a href=http://www.planethalflife.com>PlanetHalf-Life's</a> 
+<a href=http://www.planethalflife.com/features/motw/opera.shtm>Mod Of The Week</a>
+
+-Clem Golden Samuel II
+SoF2 Designer

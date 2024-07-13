@@ -1,0 +1,27 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-----------------------------------------------------------------------
+User Name: rick.overman     Plan Last Modified: 07/19/1999 13:06:18 PST
+
+//-----------------------------------------------------
+Real Name:  Rick Overman
+Job:        Director/Lead Programmer
+Project:    Starsiege, Core R&D
+E-mail:     rick.overman@dynamix.com
+
+Just wanted to clear up a bit of confusion about my
+plan update this morning.  I was simply trying to
+express my dedication to solving a problem we were
+having with TNT based cards and not showing any
+personal preference as to what card I prefer to develop
+on.
+
+When I'm finished working on the Starsiege patch I'll
+be installing Win2000 with multi-monitor support.
+Each monitor will be driven by a different leading 3D
+accelerator.
+
+
+--Rick

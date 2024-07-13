@@ -1,0 +1,175 @@
+
+Name: Eric Turman
+Email: eturman@mail.ravensoft.com
+Description: Senior Animator
+Project: SoF
+-------------------------------------------------------------------------------
+05-26-99
+Shubat has come up with a cool modeling technique that I definitely want to try
+on the next project. But I have to stay on course so to speak. Speaking of
+"course", I didn't mean to suggest that I wanted "ship" as a theme for the name
+of the null hierarchy, just a name that could have a theme would be the most
+versatile.
+
+Jarrod S. & Joe S. have really been cranking away at transffering male moves on
+to the female and tweaking them out while I've been applying raw female motion
+data, tweaking, and doing some null hierarchy adjustments for Star Trek. To
+that end, we are almost done with all of the animations for SoF. Soon we will
+be able to make a final pass on the animations and work out any last problems.
+
+-->Turmanator
+
+***** A T T E N T I O N !   C O N T E S T ! *****
+Does anyone have a suggestion for a cool name that I could give the animation
+control system that I’ve made?  We'll even send the winner a Raven T-shirt!!!
+***** A T T E N T I O N !   C O N T E S T ! *****
+
+INFO:
+The system supports both FK and IK, motion-capture and hand animation, and is
+geared to bipedal creatures. It has a plethora of cyber-gadgets to accommodate
+any animation task as well. A name that has other names that are linked to it
+would be the most cool (i.e. shipis to carrier, dreadnought, cruiser etc...and
+no, it doesn't need to be a ship name, that was just an example).
+
+RULES:
+The contest will end this weekend (05-31-99) and a name will be chosen and
+announced next week no later than Friday(06-05-99). The winning name will be
+judged by versatility, creativity, and, of course, the biggest factor, coolness.
+Multiple entries are allowed so long as you supply a new cool name(s).
+
+HERE'S HOW TO WIN:
+Just send a cool name along with your name, phone number,
+and snail mail address, by clicking on <a href="mailto:eturman@mail.ravensoft.com?subject=Contest&body=Please do not remove the subject line!  Include your name, phone number, and snail mail address.">THIS LINK RIGHT HERE</a>!
+If yours cool name is chosen, you'll receive a Raven T-shirt!
+
+Good luck!
+-->Turmanator
+
+********************************************************************************
+05-25-99
+Wow! there have been quite a few responses, and a lot of really cool names -too  
+many to post here :). I've defined the rules of the contest further down in
+my .plan file.
+
+Animation is coming along nicely, many of the female’s core animations are
+already completed and ready for the programmers to do their magic. Speaking of
+which, one of the really cool things the animators have at their disposal, that
+GHOUL facilitates, is the ability to effectively eliminate foot sliding in the
+game. For SoF, the animators have more control than ever before as to how the
+animations look in the game.
+
+***** A T T E N T I O N !   C O N T E S T ! *****
+Does anyone have a suggestion for a cool name that I could give the animation
+control system that I’ve made?  We'll even send the winner a Raven T-shirt!!!
+***** A T T E N T I O N !   C O N T E S T ! *****
+
+INFO:
+The system supports both FK and IK, motion-capture and hand animation, and is
+geared to bipedal creatures. It has a plethora of cyber-gadgets to accommodate
+any animation task as well. A name that has other names that are linked to it
+would be the most cool (i.e. ship, carrier, dreadnought, cruiser etc...).
+
+RULES:
+The contest will end this weekend (05-31-99) and a name will be chosen and
+announced next week no later than Friday(06-05-99). The winning name will be
+judged by versatility, creativity, and, of course, the biggest factor, coolness.
+Multiple entries are allowed so long as you supply a new cool name(s).
+
+HERE'S HOW TO WIN:
+Just send a cool name along with your name, phone number,
+and snail mail address, by clicking on <a href="mailto:eturman@mail.ravensoft.com?subject=Contest&body=Please do not remove the subject line!  Include your name, phone number, and snail mail address.">THIS LINK RIGHT HERE</a>!
+If yours cool name is chosen, you'll receive a Raven T-shirt!
+
+Good luck!
+-->Turmanator
+
+********************************************************************************
+
+05-24-99
+Let me start out with a brief correction from my last plan update. GHOUL does
+support the Softimage .XSI file for importing our animations into GHOUL and I
+didn’t get a chance to mention the fact that GHOUL also resides in the game
+code (not just in host package for the processing part).
+
+I was recently watching the DVD version of ANTZ while listening to the
+alternate sound track of the two directors discussing the making of the movie.
+Every time that there was a scene that required physical contact between
+different characters, the directors would comment on how difficult a scene like
+that is to animate because its easy to accidentally *push* a hand through the
+body of the other character. When I saw that I thought, "Wow, they are having
+trouble with that, and we’ve easily eliminated that problem with new null
+hierarchy techniques and modifications."
+
+The Null Hierarchy is being used in its current form for Star Trek Voyager’s
+bipedal creatures. So they have access to SoF’s entire animation library.
+There are a few improvements that I’d like to make to the animation control
+system (Null Hierarchy) when things slow down a little, but they will have to
+wait until such a time presents itself.
+
+***** A T T E N T I O N !   C O N T E S T ! *****
+Does anyone have a suggestion for a cool name that I could give the animation
+control system that I’ve made?  We'll send a Raven T-sirt even send the winner
+a Raven T-shirt!!!
+***** A T T E N T I O N !   C O N T E S T ! *****
+
+INFO:
+The system supports both FK and IK, motion-capture and hand animation, and is
+geared to bipedal creatures. It has a plethora of cyber-gadgets to accommodate
+any animation task as well. A name that has other names that are linked to it
+would be the most cool (i.e. ship, carrier, dreadnought, cruiser etc...). It
+will be cool to hear what everyone comes up with, but please understand that I
+don’t have enough time to respond to every e-mail.
+
+Here's how to win ;). Just send a cool name along with your name, phone number,
+and snail mail address, by clicking on <a href="mailto:eturman@mail.ravensoft.com?subject=Contest&body=Please do not remove the subject line!  Include your name, phone number, and snail mail address.">THIS LINK RIGHT HERE</a>!
+
+Good luck!
+-->Turmanator
+ 
+**************************************************************************************
+
+05-19-99
+There was a lot of work to get the volume of animations into the game and
+working real time and all of the animators busted their @$$ to deliver.
+Jarrod Showers has been cranking out animations like a madman, many of them
+heavily tweaked motion capture in addition to pure hand animation. And Joe
+Sibilski, has had to come aboard and literally learn not only a new animation
+system, but a whole new software package by the seat of his pants, and he’s
+churning out the moves as well. And I have spent a lot of time and energy
+making certain that it would all work by creating a new type of control system
+for the animators (a null hierarchy). Null hierarchies aren’t anything new,
+but the features that I’ve incorporated into this one are.
+More on that another time...
+
+All of the character modeling and animation was done in Softimage|3D, which
+GHOUL currently does not support, and then piped into another package, that
+hosts GHOUL, for processing into the game.
+
+I’ve seen a lot of misconceptions about the animation system being posted on
+the net. Not to undermine the significance of GHOUL, but there is a lot of
+misunderstanding about what it is and isn’t responsible for. Yes, GHOUL is an
+amazing system that gives us a lot of possibilities, and yes we did use motion
+capture.  But GHOUL is NOT responsible for the look of the ANIMATIONS. GHOUL's
+features include, but are not limited to:
+
+Model render system
+Model lighting system
+Special effects
+Skinning tools
+Control over part visibility
+Bolting separate models together
+Etc...
+
+Nor was motion capture the sole reason the animations look the way that they do.
+Granted, the motion data that hOuse of mOves delivered to us was excellent. But
+with animations having to mesh as seamlessly as possible with several each other,
+not to mention motions that don’t look like they are really interacting with
+their environment, there’s a lot more than just taking mocap and *plopping* it
+on to a character.  Then again, if it were easy, our animation would look like
+everyone else’s. ;)
+
+-->Turmanator
+
+**************************************************************************************
+
+

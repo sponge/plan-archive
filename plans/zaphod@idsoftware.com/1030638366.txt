@@ -1,0 +1,9 @@
+
+Name: Graeme Devine
+Email: 
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+
+The Quake 3 Master Server will be going down for an upgrade today at NOON CST.  I don't expect the upgrade process to take longer than 30 minutes.
+

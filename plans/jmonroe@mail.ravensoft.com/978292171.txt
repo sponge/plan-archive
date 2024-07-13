@@ -1,0 +1,19 @@
+
+Name: James Monroe
+Email: jmonroe@mail.ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+Raven website patch snafu.
+OOPs.  we accidentally uploaded a zip file of a pre-release patch.  this is not a valid patch and MUST NOT BE USED!  It will not work with other versions or the server lists.
+
+the bad, Oct 25 patch 1.10 came in a ZIP file called efpatch110.zip. It contains two executables, two DLLs, and a pak1.pk3.
+The good, Nov 10 patch 1.10 came in an EXE file called EliteForcePatch1_1.EXE which automatically installs the new files in the correct place.
+
+i just corrected the raven site, so if anybody downloaded a zip file named efpatch11.zip, please get the correct version immediately.
+
+http://www.3ddownloads.com/?file_id=115884
+
+we apologize for the mix-up.

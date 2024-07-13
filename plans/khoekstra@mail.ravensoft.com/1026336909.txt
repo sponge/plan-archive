@@ -1,0 +1,392 @@
+
+Name: Kenn Hoekstra
+Email: khoekstra@ravensoft.com
+Description: Project Admin
+Project: General
+Web Page: <a href="http://www2.ravensoft.com/users/khoekstra">Kenn's Web Site</a>
+-------------------------------------------------------------------------------
+Wednesday, July 10th, 2002 -  Important Jedi Outcast Info:
+
+LucasArts will be releasing the 1.04 update for Jedi Knight II: 
+Jedi Outcast tomorrow (Thursday) evening on their website at 
+<a href="http://www.lucasarts.com/products/outcast/html/default.htm">http://www.lucasarts.com/products/outcast/html/default.htm</a>.  
+Feel free to download and mirror it once it is available.
+
+The update includes all of the fixes from 1.03, so if you don’t 
+have that update yet, this is the only one you’ll need.  A list 
+of the changes in 1.03 can be found here: 
+<a href="http://support.lucasarts.com/patches/jedioutcast.htm">http://support.lucasarts.com/patches/jedioutcast.htm</a>
+
+The primary focus of 1.04 is multiplayer balance.  
+
+Some of the features/fixes include:
+
+Multiplayer
+-----------
+  * Corrected issue which caused servers to crash in rare
+    instances.
+  * Corrected issue causing damage not to ramp up and down
+    properly when using the backstab move in light saber stance.
+  * Corrected bug allowing players to pivot while executing 
+    backstab moves in all stances.  Players may no longer pivot
+    when executing these moves.
+  * Fixed bug causing force pull to be unblockable by people
+    with equal or greater pull rank.
+  * Adjusted ammo usage of the Imperial repeater alt-fire.
+  * Fixed bug allowing inventory items to be used in FFA saber
+    challenges.
+  * Corrected an exploit which allowed players to fall from
+    large heights at a slow rate.
+  * Corrected issue which caused pain sounds not to play
+    properly when hit by opponents. Pain sounds should now be
+    relative to the amount of damage taken.
+
+New dedicated servers will also be released tomorrow.  We'll send 
+those out to all of the gaming file sites so you’ll be able to get 
+new servers set up immediately.
+
+A few other notes on 1.04:
+
+-  Saved games are unaffected from 1.03
+-  Demos recorded using 1.03 are not compatible with 1.04
+-  Mod makers will have to update their mods to reflect new the 
+   IP protocol introduced in 1.04.  This will be a minor adjustment 
+   to your existing mod stuffs.
+-  Once you upgrade to 1.04, only servers running version 1.04 
+   will be visible in your in game browser.  There may be a short 
+   period of time where there are few 1.04 servers to play on as 
+   server admins update to the new version.
+
+Thanks!  We appreciate your continued support of Jedi Outcast in 
+the online community.
+
+
+*************************************************
+
+
+Friday, May 31st, 2002 - If you're having issues
+with Soldier of Fortune II: Double Helix please 
+e-mail us your problems at our newly created 
+e-mail accounts:
+
+Single Player Issues - <a href="mailto:sof2sp@ravensoft.com">sof2sp@ravensoft.com</a>
+Multiplayer Issues - <a href="mailto:sof2mp@ravensoft.com">sof2mp@ravensoft.com</a>
+
+A bunch of us have been camping out at our new
+message boards to help people directly.  Those
+are located at:
+
+Support Board - <a href="http://204.97.248.99/ib/ikonboard.pl">http://204.97.248.99/ib/ikonboard.pl</a>
+
+Check out <a href="http://www.bluesnews.com/plans/461/">Bryan Dube's recent .plan update</a> to see 
+what issues we're currently working on.
+
+I just integrated the new board into Ravensoft.com,
+so boards for all of our older titles are there, too.
+
+Some other Raven-related news:
+
+- <a href="http://www.insidemacgames.com/news/story.php?ArticleID=5512">Mac Port for Jedi Outcast Announced</a>
+- <a href="http://www.lucasarts.com/press/releases/58.html">X-Box and GameCube Jedi Outcast Announced</a>
+
+Have a great weekend!
+
+******************************************
+
+
+Saturday, May 25th, 2002 - Where to begin?
+
+The Soldier of Fortune II single player demo
+is out there to download an enjoy.  You can
+grab it from <a href="http://www.3dgamers.com/games/soldierfortune2/">3D Gamers Here</a>.
+
+The most common concern seems to be "Why is
+there no blood in the demo?"  The simple 
+answer is, it's off by default.  When you
+launch the game you can go into the Violence
+Lock menu (fourth option down - the Padlock)
+and hit ENTER at the password prompt.  You
+can adjust the settings to your liking and
+create your own password, if you want.  Make
+sure to write it down and don't lose it.
+
+The tools and SDK are also available for SOF2
+at <a href="http://www.3dgamers.com/games/soldierfortune2/">3D Gamers Here</a>.
+
+Support for the full version of Soldier of
+Fortune II is being handled by Activision.
+You can visit their <a href="https://activision.custhelp.com/cgi-bin/activision.cfg/php/enduser/home.php">support page here</a>.
+
+To help out, we've put up a resource page
+at <a href="http://sof2.ravensoft.com">http://sof2.ravensoft.com</a> that includes
+<a href="http://204.97.248.99/ib/ikonboard.pl">brand new forums</a> and a <a href="http://sof2.ravensoft.com/faq.htm">Top Solutions FAQ</a>.
+
+I've been trying to answer as many questions
+as possible on the boards and in the FAQ, so
+that's a good place to start if you're having
+issues with the full version of SOF2.
+
+Of particular interest in the FAQ is probably
+the single player performance guide I put
+together which you can <a href="http://sof2.ravensoft.com/faq.htm#slow">find here</a>.
+
+Keep in mind, too, that CD Keys for SoF2 are
+located INSIDE the CD jewel case and are on
+a sticker pasted on the inside of the back
+cover with the Wolfenstein ad on it.  It's in
+bright red letters.  You can't miss it.  Don't
+throw your CD key or jewel case away.  Keys
+can't be replaced so don't lose them. 
+
+Be sure to check your CDs before you install
+to see that they are clean.  We found a CD
+with goop on it from the factory press and it
+wouldn't install properly.  Check 'em out 
+before you pop 'em in.
+
+All of this info is in the FAQ.
+
+That's all for now...  Thanks for listening!
+Enjoy the game.
+
+*************************************************
+
+Friday, May 17th, 2002 - A few things for
+the weekend:
+
+1. Our master servers for Elite Force and
+Jedi Outcast will be out tomorrow (Saturday)
+morning from 9am CST to approximately 1pm,
+depending on how our network maintenance
+goes.  Just so you know.  Originally it was
+slated for last week Saturday, but had to
+be delayed.
+
+2. For those of you unhappy with the increased
+saber blocking in CTF and FFA modes in the 1.03 
+patch for Jedi Outcast, you can turn off the 
+changes by setting the CVAR g_saberTraceSaberFirst 
+to "0" in your server configs.  Setting this
+to "1" = More Blocking, "0" = Less Blocking. It
+defaults to "1" in 1.03.
+
+Have a great weekend, everyone!
+
+********************************************
+
+Tuesday, May 7th, 2002 - The 1.03 patch for
+Jedi Outcast has been posted over at 
+LucasArts' website.  You can grab the 
+patch here:
+
+- <a href="http://support.lucasarts.com/patches/jedioutcast.htm">Jedi Outcast 1.03 Patch</a>
+
+If you're having problems installing the
+patch and you get the error "Directory is
+Invalid! Target files could not be created"
+
+I have a few suggestions for you:
+
+1. If you're using a pirated copy of the game,
+don't.  :)  That's one cause of the error.
+
+2. IF any of the patched files are marked READ ONLY 
+this message will appear.  Since some people have 
+uninstalled, my guess would be that people have their 
+own assets2.pk3 that doesn’t get uninstalled and it 
+is marked READ ONLY.
+
+3. IF the launcher or JK2 is running, then this will 
+happen.  Re-booting may help
+
+If all else fails, you can uninstall the game,
+re-install it to a custom directory like
+c:jk2 and it will re-write the registry
+entries and the patch will install fine.
+
+Updated Linux and Win32 Dedicated servers
+are also available.  You can get them (or
+will be able to, soon) at:
+
+- <a href="http://www.3dgamers.com/games/jedioutcast/">3D Gamers</a>
+- <a href="http://www.3ddownloads.com/?directory=/ravensoft/JediOutcast/">3DDownloads</a>
+- <a href="http://www.shacknews.com/onearticle.x/20310">ShackNews</a>
+- <a href="http://www.jk2files.com">JK2Files.com</a>
+- <a href="http://www.massassi.net">The Massassi Temple</a>
+- <a href="http://www.jedicenter.com">Jedi Center</a>
+- <a href="http://www.jedi-outcast.com">Jedi-Outcast.com</a>
+
+A list of what's fixed in the 1.03 patch
+can be <a href="http://support.lucasarts.com/patches/jedioutcast.htm">found here</a>.  
+
+The <a href="http://www2.ravensoft.com/jedioutcast/">Jedi Outcast Resource Page</a> will be
+updated soon with new links, awards and new 
+FAQ entries.
+
+*******************************************************
+
+Monday, April 22nd, 2002 - The tools and level editor
+for Jedi Outcast have been released to the public.  The
+4MB download includes:
+
+JK2Radiant - The map editor.
+MD3View - Model viewer for .md3 format models
+ModView - Model viewer for .glm (Ghoul2) format model
+ShaderEd2 - The shader editor/viewer
+sof2map - The map compiler, you will not be using this directly, JK2Radiant uses this.
+
+You can download it from:
+
+- <a href="http://www.fileplanet.com/index.asp?file=87277">FilePlanet</a>
+- <a href="http://www.shacknews.com/files/fileshack2.x?JK2EditingTools.zip">ShackNews</a>
+- <a href="http://www.3ddownloads.com/?file_id=159544">3DDownloads</a>
+- <a href="http://www.jediknightii.net">JediKnightii.net</a>
+
+I expect mirrors will appear shortly at:
+
+- <a href="http://www.bluesnews.com">Blue's News</a>
+- <a href="http://www.jk2files.com">JK2Files.com</a>
+- <a href="http://www.massassi.net">The Massassi Temple</a>
+- <a href="http://www.jedicenter.com">Jedi Center</a>
+- <a href="http://www.jedi-outcast.com">Jedi-Outcast.com</a>
+
+Feel free to download and mirror these files as you see
+fit.  Remember of course that these are released "as is"
+and are unsupported by Raven/Activision/LucasArts.
+
+Another Jedi Outcast fix for you:
+
+If you're getting the CL_ParsePacketEntities error in JK2
+multiplayer, it's likely because you are using the cracked
+executable.  That's the only instance we've seen the error.
+Shame on you.  ;)
+
+
+******************************************************
+
+Friday, April 19th, 2002 - The Soldier of Fortune II 
+multiplayer test is out there!  You can grab it from
+the list of mirrors at:
+- <a href="http://www.bluesnews.com/files/sof2/demos/sof2_test.shtml">http://www.bluesnews.com/files/sof2/demos/sof2_test.shtml</a>
+
+If you want to give feedback or need tech support, 
+go to:
+
+- Email: <a href="mailto:sof2mptest@ravensoft.com">sof2mptest@ravensoft.com</a>
+- Form:  <a href="http://sof2.ravensoft.com/testfeedback/form.htm">http://sof2.ravensoft.com/testfeedback/form.htm</a>
+- Forum: <a href="http://www2.ravensoft.com/cgi-bin/yabb/yabb.pl">http://www2.ravensoft.com/cgi-bin/yabb/yabb.pl</a>
+
+So far it looks like the response is overwhelmingly positive!
+I'm glad everyone is enjoying it.  Our GameSpy chat yesterday
+drew a record number of chatters...more than doubling the
+previous record!  Thanks, all for showing up to rap with us!
+You can find a <a href="http://www.planetsoldier.com/features/interviews/ravenchatapril2002.shtml">transcript of the chat here</a>.  You can also 
+find an <a href="http://www.gamespydaily.com/news/fullstory.asp?id=3298">interview</a> that Rick and I did for GameSpy Daily and 
+read the 3DActionPlanet <a href="http://www.3dactionplanet.com/features/firstlooks/sof2mptest/">MP impressions here</a>.
+
+A few notes:
+
+1. For those who think the speed of the game is slower than
+the original SOF, you can change the speed of the players on
+the server using the g_speed console command.  You can change
+it to whatever you like (for all you speed freaks out there).
+
+2. Those wondering about the gore, keep in mind that there is
+less gore in the MP version of the game because of networking
+concerns.  SOF2 multiplayer will support 64 players.
+
+3. If you're getting an "invalid game version" error message
+when attempting to connect to servers, it's because you're
+using the leaked version.  Shame on you.  ;)  Get the new one!
+
+4. For dedicated servers, +set dedicated 1 is a dedicated LAN.
++set dedicated 2 is a dedicated internet public server.
+
+Happy fragging!
+
+**************************************************************
+
+
+Sunday, February 3rd, 2002 - Today is my Five Year Anniversary
+with Raven Software.  Five years ago today I started work with
+a PPRO 200 with 128 MB of RAM and a 2GB hard drive with a copy
+of Windows 95 and 3D Studio Max 1.2.  I'd never seen the real
+Internet before, only muds and a vax at UW-Whitewater. 
+
+A month or so after I started, Jon Zuk and I got Monster 3D 
+Voodoo1 cards from Best Buy and proceeded to put colored lighting 
+into a Raven title for the first time.  God, has it been that 
+long?  I can hardly believe it...
+
+At that time, we were working on Take No Prisoners, MageSlayer
+and Hexen II for Red Orb, GT Interactive and Activision.  Raven 
+consisted of about 25 people, all of which actually fit around 
+the table and in the chairs of our main conference room.
+
+In the five years since I started, I've watched the building
+expand twice and the team expand to 60 people.  We released
+those three games we were working on, were bought by Activision
+and we went on to produce Portal of Praevus, Heretic II, Soldier 
+of Fortune (+Gold and Platinum), Elite Force, Elite Force Expansion 
+Pack and we're closing in on the completion of Jedi Outcast and 
+Soldier 2 with two more titles waiting in the wings.  
+
+My machine today has upgraded by 10 times the MHZ, 3 processors, 4 
+times the RAM, 40 times the hard drive space, 16 times the video 
+memory, four versions of MAX and five or six OS's.
+
+I had just watched the Packers beat the Patriots in Superbowl XXXI
+and now, five years later, I'm about to go home and watch another
+Superbowl (featuring the Patriots, no less).
+
+It's been a good five years.  Here's looking at five more...
+
+*************************************************************
+
+Friday, December 22nd, 2000 - I posted an article that I
+wrote a while back on our www2 server that may be of interest 
+entitled: <a href="http://www2.ravensoft.com/getajob.htm">How To Get A Job In The Game Development Industry</a>.
+
+If you're bored, you may want to give it a read.  If you 
+know of any websites or insights that are missing, feel
+free to <a href="mailto:khoekstra@ravensoft.com?subject=Get A Job Article Addition/Comment">drop me a line and let me know</a>.  
+
+***********************************************************************************
+
+Wednesday, May 26th, 1999 - A new day has dawned in Kenn's World...  Last night, I
+asked Michele, the love of my life, to marry me.  And she said YES!  Thank you, Michele...
+You've made me the happiest man in the world!  I look forward to spending the rest of
+my life with you...  You are the most wonderful person I have ever known...
+
+Thanks to Rob "Beroge" Gee for ring shopping with me and special thanks to 
+Kim "Lee Majors" Lathrop for giving me the final "get in there, son...we need
+a base runner" speech.  =)  Oh...and thanks to 94.1 WJJO for playing "Rainbow In The Dark"
+during my drive to "the big moment."  I couldn't have done it without all of your help...
+
+Hey Matt!  You're next, buddy...  In the immortal words of "Nature Boy" Ric Flair....WHOOOOOOOOO!
+
+******************************************************************************************
+
+IN LOVING MEMORY - Kenneth Lee Hoekstra (August 26th, 1937 - April 23rd, 1998)
+
+Sunset and evening star.
+And one clear call for me!
+And may there be no moaning of the bar,
+When I put out to sea.
+
+But such a tide as moving seems asleep
+Too full for sound and foam.
+When that which drew from out the boundless deep
+Turns again home.
+
+Twilight and evening bell,
+And after that the dark!
+And may there be no sadness of farewell,
+When I embark;
+
+For though from out our bourne  of Time and Place
+The flood may bear me far
+I hope to see my Pilot face to face
+When I have crossed the bar.				...Alfred Tennyson
+
+********************************************************************************************************

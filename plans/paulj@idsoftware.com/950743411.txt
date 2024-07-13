@@ -1,0 +1,130 @@
+Name: Paul Jaquays
+
+Email: paulj@idsoftware.com
+
+Description: Level Designer
+
+Project: Quake 3 Arena
+
+-------------------------------------------------------------------------------
+
+
+
+Skill Portfolio/Background:  See bio on id web page for details
+
+
+
+Current projects:   ????
+
+
+
+**********************************************************************
+
+DISCLAIMER:  THE FOLLOWING IS THE PERSONAL OPINION OF THE AUTHOR AND DOES
+
+NOT REPRESENT THE OFFICAL POSITION OF ID SOFTWARE, ITS OWNERS, EMPLOYEES,
+
+DISTRIBUTORS, OR LICENSEES, (OR ANYONE ELSE FOR THAT MATTER)
+
+**********************************************************************
+
+
+
+**********************************************************************
+
+February 16, 2000  3:45 PM CST
+
+**********************************************************************
+
+
+
+The Q3Radiant Manual is Done!
+
+
+
+... and it's available for download.  The manual is big ... 163 formatted pages. It's being released in two distinct "flavors." One is an MSWord version (created in Word 2K on the PC, which appears to be very backward compatible with earlier versions of MsWord) and a somewhat "raw" HTML version converted directly from the Word document.  The document contains a number of embedded graphic files and organizational formatting, so ripping it down into a text document didn't appear to be the way to go.
+
+
+
+ Each of the versions is zipped and run just under half a meg each. Unpacked, you'll need 2 megs of drive space.
+
+
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/tools/q3rmanhtml.zip">Q3Radiant Manual (HTML version) on id ftp site</a>
+
+
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/tools/q3rmanpc.zip">Q3Radiant Manual (MSWord version) on id ftp site</a>
+
+
+
+Mirrors:
+
+
+
+<a href="http://www.quake3arena.com/files/q3rmanhtml.zip">Q3Radiant Manual (HTML version) on quake3arena.com</a>
+
+
+
+<a href="http://www.quake3arena.com/files/q3rmanpc.zip">Q3Radiant Manual (MsWord version) on quake3arena.com</a>
+
+
+
+A couple things to note.  
+
+
+
+The document is targetted at version 192 of the Q3Radiant editor, which Robert Duffy is still working on. Some of the things documented in the manual are not in the released versions of the editor.
+
+
+
+Second, if you want to mirror these files on your own site, go ahead. If you want to make a more functional, robust HTML version (one that does not require a full download to view), we (id) want to see it and approve it before you make it available for public viewing. This document is covered by the same EULA that covers our earlier tools releases.
+
+
+
+Licensed developers of Quake 3 Engine product should contact id directly for this manual.
+
+
+
+
+
+Old stuff:
+
+
+
+**********************************************************************
+
+December 29, 1999  3:15 PM CST
+
+**********************************************************************
+
+The Quake III Arena Shader Manual is available for download.
+
+
+
+Yes, Q3A map and model makers, here's the Christmas present that Santa's elves hadn't quite finished yet. It's in the format of an MS word document and has some graphics nested in it, so it's a little large.
+
+
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/tools/Q3Ashader_manual.doc">shader manual</a>
+
+
+
+Paul Jaquays
+
+
+
+
+
+
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+If it's not here, it's vapor.  Check out somebody's archives if you want to read my previous bits of wisdom and flame.
+

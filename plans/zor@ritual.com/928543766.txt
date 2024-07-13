@@ -1,0 +1,25 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: zor
+Plan modified: Fri Jun 04 13:46:12 1999
+
+-- June 4th, 1999 -- 
+
+-1:30pm CST-
+Well.. it's resolved.  
+
+Here's how it went........
+
+I removed every instance of glint, permedia, 3dfx, voodoo, and diamond (just the video parts anyways)
+from the registry.
+installed the creative drivers (same problem)
+Installed the standard VGA driver (again)
+Installed the reference drivers (didnt work at all)
+Installed the standard VGA driver (again)
+Installed the Creative Drivers.
+
+And like magic they worked just fine.
+I don't know what made it work this time but I don't care. :)
+
+Thanks to the many people who wrote in.

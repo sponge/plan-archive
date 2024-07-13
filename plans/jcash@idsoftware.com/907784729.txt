@@ -1,0 +1,48 @@
+Welcome to id Software's Finger Service V1.5!
+
+Name: John Cash
+Email: jcash@idsoftware.com
+Description: Programmer
+Project: Quake Arena
+Last Updated: 10/07/1998 16:25:29 (Central Standard Time)
+-------------------------------------------------------------------------------
+For those of you who have wondered just how often
+people try to hack into a game company's network,
+here's a little factiod to give you an idea.  Over
+a timespan of approximately 16 hours, there were
+59,167 "events" logged by our firewall.  In this
+case, an event is a packet attempting to come in
+through our firewall to a destination which is not
+allowed.  For example, trying to ftp to a machine
+other than ftp.idsoftware.com.  Just to be clear,
+these are certainly not all hacking attempts.
+
+The reason I was watching even more closely than
+normal is that, as many of you noticed, our internet
+connection was down for several hours yesterday.
+As the internet has grown, so has the level of
+router required to connect in at higher levels.  In
+our case, our year old router which was up to the
+task of running BGP when we got it, is no longer
+up to the task.  The routing tables have simply
+gotten too large and we no longer have enough memory
+to handle it.  They have actually been too large for
+a while now, but the router was able to cope with
+it at reduced performance.  But the doo doo hit
+the reciprocating blades yesterday and the router
+went belly up.
+
+Sorry for any inconvenience this may have caused
+you.  We worked out a interim solution with our ISP
+and have things back running, although less than
+optimally as we had to revert to static routing for
+now.  We are mulling over our options and will get
+things back to normal (maybe better) as soon as
+possible.
+
+--------------------
+
+John Cash
+jcash@idsoftware.com
+"Hellrot"
+

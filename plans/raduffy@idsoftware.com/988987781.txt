@@ -1,0 +1,17 @@
+
+Name: Robert A. Duffy
+Email: raduffy@idsoftware.com
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+May.04.01 8.45am
+----------------
+
+We will be releasing a point release beta early next week. This one has taken some time but it addresses quite a few things. Graeme has been very busy with the network stuff and net traffic is now being compressed at about 4:1, this should make a huge difference for modem players. There should be a substantial FPS boost for most people and there are a bunch of fixes/tweaks in place. This release will also contain an auto update system so you can check for new updates at any time. If you get the beta, the final will be offered via the auto update. This addresses all of the  cheats and hacks we know about as well. That is an ongoing battle. This point release will utilize a different protocol as a result of the new network compression.
+
+At the same time, I will finally get the UI stuff release for mod teams. This will allow mod teams to distribute Team Arena style menus/scripts for Quake 3 only mods without violating the EULA.
+
+There are some really nice looking mods going on right now, Urban Terror, Q3F, WFA, Annihilation, Navy Seals are all looking really good. Quake The Movie is also looking really really good, the guys at Tritin were kind enough to send us the first 13 or so minutes and it is amazing stuff. Overall the source changes mod teams will need to integrate are quite small.
+
+Work progresses well on Q3A/TA, Wolf and DOOM.
+

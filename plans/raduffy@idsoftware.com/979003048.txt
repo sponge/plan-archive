@@ -1,0 +1,93 @@
+
+Name: Robert A. Duffy
+Email: raduffy@idsoftware.com
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+
+One other quick note, this will work fine on top of Team Arena and/or 1.27g ONLY. It will not work on top of 1.17 or prior versions. Once we release a full update in a few weeks there will be a complete installer to go from any version to the latest. This update is primarily intended for server admins to address the handicap exploit and it IS a BETA.
+
+We have just put up 1.27h as a BETA. Since there has been mass confusion in the past, I said >>>BETA<<<. This addresses the handicap/guard exploit and fixes a few other issues. It is a .exe only release primarily intended for server administrators but it should be OK for client use as well. We had not intended to release an update until later this month or early next month but the handicap issue warranted a quick update. The issues addressed in this BETA update are:
+
+- Fixed James model bug
+- CD Key read correctly when starting from Q3A vs TA shortcuts
+- Handicap exploit fixed
+- Bot routing bug fixed
+- Potential 20 FPS increase for some clients :-)
+- Sensitivity is back how it was
+
+Please forward any issues or problems to bugs@idsoftware.com
+
+Thanks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here are beta copies of the point release for Linux. They are on ftp.idsoftware.com and should appear on ftp.lokigames.com as well. 
+
+idstuffquake3linuxlinuxq3a-1.27g-beta1.tar.gz
+idstuffquake3linuxlinuxq3ded-1.27g-beta1.tar.gz
+
+Those would be the standard + dedicated and dedicated only.
+
+I am off on vacation starting Sunday for a week or so and will obviously be in-active in the mod forums. I do plan to get active once I get back. I've been looking at as many mods as possible lately, we are starting to ramp up on DOOM pretty quickly but I wanted to sneak some time to see what all was there. The Q3F stuff looks really nice and next month while I am visiting the Wolfenstein guys I hope to hook up with the Urban Terror guys just to see what all they have planned. WFA looks great and Rocket Arena is as usual sucking up a lot of playtime. There are some more single player things that look interesting as well. I still have about 300 to look at but that is all good stuff. 
+
+A FAQ should be going up soon that provides some work arounds for Team Arena and the point release. All in all it has looked really good. We will be releasing a patch at some point to address anything serious that comes up and we also want to provide the ability to allow mod makers to reference an existing fs_game path for mod creation. This will allow mods to be based on Team Arena. 
+
+I wish everyone a happy and safe holiday.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 21.2000 6.22pm
+------------------
+
+The 1.27 game source and the tool source has been put up on our ftp site. This game source contains prebuilt tools in the bin_nt directory but there is not yet a user friendly version of the tool installer done. A tool install that contains additional media for Team Arena creation, entity definitions etc. will be released shortly ( mid January-ish ). Timothee and his crew should be releasing GTKRadiant that WILL be user friendly soon ( next week as I hear it ).
+
+The source for the tools is also available. Graeme is going to be releasing the ROQ endocer today or tomorrow I believe.  Enjoy.
+
+
+1.27 Game Source
+
+idstuffquake3sourceQ3A_TA_GameSource_127.exe
+
+This is the combined source code for Quake III Arena and Quake III: Team Arena. It can be used to build the 1.27g point release or the Team Arena release. It contains buildable project files and all related game source code as well as prebuilt tool executables.
+
+
+
+1.27 Tool Source
+
+idstuffquake3sourceQ3A_ToolSource.exe
+
+This contains the source code for the Quake III Arena and Quake III: Team Arena tools. It contains source code for Radiant, Q3Map, Q3Data, Q3Asm and related support files. It does NOT contain prebuilt executables or end user friendly gizmos. 

@@ -1,0 +1,43 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------
+User Name: dave.moore     Plan Last Modified: 12/22/1999 11:43:04 PST
+
+Burn All .GIFs Day!
+
+Now I'm not going to get up on a soapbox here, but this seems like a good day
+to talk about how Tribes 2 will be making use of .GIF's heir-apparent, the
+.PNG.  We've made the .PNG our preferred texture format, which has simplified
+things around here drastically.  No longer are there 5 different texture
+formats: one for vanilla RGB textures, one for RGBA textures, one for
+lightmaps, etc.  Just .PNGs from now on.  (We'll still support .BMPs as
+drop-ins for RGB textures, but we'll recommend .PNG for all user-created
+textures, skins, logos, etc.)
+
+While we're on the subject, let me put in a few plugs for the people that have
+been working to make PNG a viable new image format or are providing no-cost
+programs to manipulate them.
+
+http://www.cdrom.com/pub/png/          - The PNG Page
+http://www.cdrom.com/pub/infozip/zlib/ - The zlib Page
+
+These guys are doing an amazing public service.  libPNG and zLib are drop-in,
+free libraries that make adding support for .PNG a piece of cake.  (Also,
+we've used zLib to add support for compressed .zip files to Tribes 2.)
+
+http://www.gimp.org - The GNU Image Manipulation Program
+
+For skin/texture artists who can't (or just don't want to) shell out the money
+for a copy of Photoshop, I recommend looking into The Gimp.  This program is
+shaping up as a great alternative for image creation.  The primary development
+is progressing on Linux, so the latest version might not be accessible to Win32
+users, but there are recent ports available that are stable, and fully
+functional, though the user interface might initially seem a bit odd to folks
+who've never used many X11 apps.
+
+http://www.burnallgifs.org - LZW Ideology
+
+Just in case you want to rant and rave about the Unisys patent for awhile.  (We
+all need a good rant now and again...)

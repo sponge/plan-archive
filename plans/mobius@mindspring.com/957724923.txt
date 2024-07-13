@@ -1,0 +1,137 @@
+Login: mobius         			Name: Alan Willard
+Plan:
+
+Legals would have gone here if I had spent many years
+in college to be a lawyer.  As, however, I have not done that, this
+is not a valid statement of Epic Games.
+
+*\____________________________________________________________________/*
+
+5-07-00***
+
+ Tis the day after my fifth anniversary of dating my fiance, Melanie.  She
+complains that I never mention her in my .plan (though she only has a rough
+idea of what one is) so there, I love you honey.
+
+  <a href="http://www.minibosses.com">Minibosses</a> rule!  <a href="http://www.penny-arcade.com">Penny Arcade</a> turned me to them.
+They rock most hard, but you need to be a REALLY big gamer to really enjoy it,
+since the music they play is renditions of old 8-bit gaming console favorites,
+like Contra, Metroid (ahhh yes!), and Castlevania.  Check it out.
+
+ See everyone at E3.
+
+ - Alan
+
+4-24-00***
+
+  (rather stupid note to ut players deleted)
+
+ - Alan
+
+RocketArena UT 0wnez j00 as Cliff would say.
+
+
+
+2-25-00***
+
+ FINALLY!  Its out, after a long testing process :)  The Bonus Pack is out, and
+can be found at your favorite news site by now I hope.  Just a bit of a secret
+got shipped with this... If you rename DM-Cybrosis][ to DOM-Cybrosis][, the map
+will play as a Domination map, with named control points and the works!  I
+figured if I slipped the Control Points in like this, it would save a little
+bit on the download size, so go forth and enjoy.
+
+ - Alan
+
+(p.s. Just noticed I've been putting the wrong year on my updates since the middle
+of January. Duh!)
+
+2-21-00*** 
+
+ Wow :)  Got quite the response there... As an update, I'm still having the same
+problem, so I've decided for the moment to just live with having a PS2 mouse doing
+nothing.  
+
+ On another front, I'm searching for a pet, and I was wondering if anyone out there
+knows where I can find a breeder of African Grey (pref. Congo, not Timneh) that is
+local to Raleigh, NC, who sells hand-weaned baby parrots.  I've been considering this
+for some time now, and I've decided its time for me to get another parrot!  Any 
+reasonable, intelligent replies are much appreciated @ alan@epicgames.com. 
+
+ And yet another question:  Does anyone out there have the correct pinout to connect
+an Adaptive BetaBrite LED sign to a PC using an RJ12 - RS232 9pin cable, and the
+protocol specs to communicate with it?
+
+ - Alan
+
+
+2-16-00***
+
+ Been awhile :)
+
+ Brandon, my girlfriend and I went and saw Chevelle, Dope, Static-X and Powerman 5000
+perform at the Ritz here in Raleigh Sunday, and I have to say, it was one hell of a
+show!  Chevelle was good, Dope was really good, Powerman was damn good, but I'd have
+to say (and I'm sure Brandon would agree) that Static-X stole the show, at least for
+us. They put on an incredible show, played an unreleased song, and in general shook
+the house HARD.  If they happen to be coming anywhere near you, I recommend catching
+the show highly if you're into that type of music.  
+
+ On the office front, several of us just upgraded to Athlon 800s this week, and
+since I'm the one that built the systems, I seem to be the one expected to fix any
+possible problems with them.  The only unexplainable problem I've run into is this:
+
+ I installed Win98 with a PS2 mouse installed, since a USB wouldn't be any good until
+the operating system was up and going, and once I had everything ready, I installed my
+Razer Boomslang 2000.  Now this was great until I rebooted.  Now everytime the system
+boots with just the USB mouse installed, Windows locks up hard before it gets anywhere
+NEAR completion. It locks up so early that I couldn't even get into safe mode or a
+command prompt.  Now I figured out a workaround by having a PS2 mouse attached but
+tossed into a corner, and this has worked on all three systems I built.  I'm wondering
+if anyone out there has had a similar problem, or knows of a workaround or fix that
+doesn't require that I leave this PS2 mouse attached since I'm not using it and it
+seems somewhat silly to have it attached.  Email me @ alan@epicgames.com if you have
+any useful advice.  I have flashed my BIOS to the latest version, which is supposed
+to add Athlon 800 compatibility (wasn't having any other problems before though), and
+I've installed all the custom Motherboard drivers included with the MB (a Microstar
+MS-6167 Irongate), and nothing seems to have made a difference.
+
+  - Alan
+
+
+1-22-00***
+
+ Anticipation grows within me... I sense an evil looming over the horizon,
+bloated and grotesque, and the glow of its red eyes shines down upon a blasted,
+wretched landscape.
+
+ Diablo 2 approaches, and I better damn well get the copy I reserved.  
+
+On a lighter note, Raleigh has been getting tons (relatively) of snow this last week,
+and I'm enjoying it an amazing amount, and I've had more fun watching people fail to
+drive from my office window.  Especially amusing was one van attempting to leave the 
+loading dock Monday morning.  People, don't try to drive up short, steep, curving hills
+in a minivan with no spikes or chains in snowy, icy weather!
+
+ - Alan
+
+1-13-2k***
+
+ATTENTION!!!  The recent 405B patch is NOT a beta!  Apparently people have been getting
+the wrong idea that this is a BETA patch, based on the 'B' in the version number.  This 
+is not so!  This patch is as finalized as the 402 patch was.  While the patches haven't
+gone through the same extremely intensive testing as the release version of the game, we do
+extensively test them both internally and with an external group of beta testers before 
+releasing them. 
+
+And no, don't email me asking how to be a beta tester!!!!!!!!
+
+- Alan
+
+
+
+1-12-00*** And earlier has been.... Annihilated!
+
+ -= Alan Willard   =-
+ -= Level Designer =-
+ -= Epic Megagames =-

@@ -1,0 +1,76 @@
+Login: justin         			Name: Justin
+Plan:
+5/19/03
+damn, it's amazing how fucked up they can make our office network. no mail for
+me since friday. not that i'm complaining, but if you've emailed me and gotten
+rejected, that's why. any day now...
+
+we're gonna do 2.92 next week. some good shit. good shit indeed. mm.
+
+
+-- later on --
+
+woo mail back up.
+so a week ago or so i got one of the new ipods. i really do like the classic
+ipods better, after this week with it. tho apple may change my mind, if they
+update the firmware for the new one. my beefs:
+
++ no firewire port
+  I dont like having to use their special cable. that and, my car charger no
+longer works, so i have to get a new one. I understand the reason for this 
+(saving space, and providing usb 2.0 support).
+
++ the new firmware seems to be lacking a few of the qualities of the old 
+firmware. 
+  this may be from the way I use it (I dont use itunes, I use code based on
+gtkpod to access my itunesdb -- see below for why). 
+
+First, the new ipod includes the "The " in artists/albums when sorting, 
+which is annoying. I had to go retag all of my albums that began with "The " 
+with the appended ", The" instead.
+
+Second, if you put a lot of songs (i.e. > 100) in an album, the new ipod wont
+display all of them. 
+
+Third, the playlist on the go feature is the main reason that I bought a new
+one, but it is lacking. Specifically, if I can't in one easy step clear the
+playlist, add a song to it, and start the playlist playing. This literally 
+takes about 20 seconds to do. Maybe I'm missing something, but I have to go
+back and forth from the playlist to the media back to the playlist to start
+playing it.
+
+
+Now, why don't I use iTunes or MMJB?
+
+iTunes:
+  - iTunes is nearly adequate, except for three things:
+    1) it's only on the mac, and while I have access to macs, it's not the
+      most convenient (and I have to copy all my music to the mac first).
+    2) once the music is on the mac, iTunes's support for guessing metadata
+      from filenames is nonexistant. A lot of my albums I've ripped over the
+      years lack ID3 tags, so I have to hack the files into having tags by 
+      having a little C program that scans and adds. Kinda works. But the
+      Winamp 2.9 library has a nicer system, where it guesses information it
+      doesnt have, and when copying to the ipod, the info goes right along with
+      it.
+    3) once files are on the ipod, editting metadata for those files is slow.
+      iTunes goes and updates all of the ID3v2 tags, so updating say, half the
+      files on the ipod to clean up the data takes a long time. All they really
+      need to do is update the iTunesDB on the ipod itself, which should be
+      nearly instant. (That's what my code does).
+
+MMJB:
+  - I've only spent maybe 30 minutes using the ipod with MMJB. It is slow, 
+    clunky, lacks a lot more than iTunes. Getting usable metadata onto the
+    iPod was even more of a pain. MMJB would even fuck up on valid ID3 tags,
+    putting lots of excess spaces (which some ID3 tags are padded with) at 
+    the end of the artist/album strings, causing them to look pretty fucked
+    up when you browse/play them on the ipod.
+    It's amazing that Apple sells the ipod with MMJB as the client. I mean, it
+    is REALLY REALLY weak. Our ml_ipod plugin that I use is already 100x more
+    usable than MMJB for accessing my ipod.
+
+Anyway, now if only Apple would give us their SDK so we could have good, 
+fully compatible ipod support in winamp 2.9's media library.
+
+

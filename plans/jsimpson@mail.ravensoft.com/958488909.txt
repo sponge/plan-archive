@@ -1,0 +1,82 @@
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+5/16/00
+
+Ahh, the nosiy magnificence that is E3 quietly fades into oblivion. Man, do I wax lyrical early in the
+morning or what? :)
+Anyway, some rants. Some of the post E3 (and mid E3) interviews out there vie for the the "Dumbest questions
+asked" award. Lets apply some common sense to some of these. As an interviewer, what do you really expect some
+one to say when you say to them "Hey, so what was audience reaction to your game?". Let's see, perhaps the 
+interviewee might say "Well, they seemed pretty dissapointed I think... we thought we had a kick ass game, but
+we got our asses kicked by some of the others around here. Back to the drawing board for us". Or maybe even
+"Well, we just suck, there's no doubt about it.". It's hardly likely is it? No, they are going to go on and on
+about how great they are, and how everyone 'loved' the game. What a dumb question. And there are a bunch more
+like it.
+I dunno, maybe it's just me, but it does seem that half the web interviews I see aren't planned out at all. It
+looks suspiciously like these people wander round E3, and if they happen to see someone cool, they try and invent
+questions on the spur of the moment. Come on guys, Be Prepared with some standby questions. Have something
+interesting to ask, or just don't bother. And don't be afraid to put people on the spot. Ask 'em what they think
+of the competition:) Don't just go on and on about CliffyB's wardrobe. That's been done to death, and I'm sure
+Cliff is sick of it. I know I would be.
+And while we are an E3 rant, have you noticed that every game there "looks amazing" ? None are just "ok".
+Apparently lots of people are just taking the PR guys words verbatim these days. It kinda reminds me of looking
+through personal ads (not that I do of course, I'm married. Says so right here, on my tattoo and my handcuffs.). Everyone in 
+personal ads has a 'nice personality" and is 'good looking' or 'attractive'. And all our games are 'revolutionary'
+or 'amazing looking' or 'have great AI' or "Are going to push the genre" etc etc etc.
+Very sad when you think about it. We are worse that Hollywood for hype.
+
+Onto the next rant.
+DaiKatana. Why is *everyone* so intent of ripping both on this and John Romero himself? I played the demo, it was ok.
+I don't think anyone, with the best will in the world, would call this the next half-life killer, but it's far from the
+piece of crap that everyone would have you believe. The implementation is pretty sound, it's an ok game, there are a few
+really nice idea's weapons wise, plus some interesting graphical effects.
+Yes it was late, but it's not like that was intentional. No one goes out and says "Well, lets take 4 years to do this game".
+I truely believe that John R and the rest of the team poured themselves into this game, and I think it's great that they
+completed it. Creating a game from scratch and getting it all the way to the shelves is NO PICNIC, especially when you
+consider the experience that most of that team had.
+The demo wasn't the greatest part of the game it would seem from what we've seen. There are some strange idea's, and a couple
+of wacky story telling premesies, but really, as long as the game is fun, it honestly doesn't matter.
+I get the impression that there are some people who really *want* to see both this game and John fail. And that's just sad
+and wrong. Ion has a bad rep right now, mainly due to the lateness of the game, and all the much publicized email articles.
+Well, lets face it, there isn't a company out there that doesn't have it's share of skeletons in the closet. Most of us don't
+have to deal with them all being exposed though. Ion lost out, but that doesn't automatically make the company losers.
+I dunno, I don't honestly think this is that bad of a game. Just because it may not appeal directly to my taste doesn't mean
+it's a bad game. I don't personally see the attraction of EverCrack myself, but hundreds of thousands of others do, so I'm
+very prepared to believe it's a good game. Ultimately the people you have to impress are the punters who put down their
+50 bucks that they spent a week working for at the grocery store. These are the people that need to get their money's worth.
+Ultimately I say "well done" to John R, KillCreek and the rest of the team. Take a well earned rest, then appply this
+experience to the next project. I look forward to it myself.
+
+It might seem strange to have a competitor say some of this stuff, but really, I believe it's a big world out there. There
+is plenty of room for us all. I don't subscribe to this whole "it is not enough that I succeed, everyone else must fail"
+credo that I'm seeing so much of recently. Microsoft's philiosphy seems everywhere these days.
+
+One last rant.
+Mod community. There are a few threads on the SOF forums that I've been following. And since I'm my mothers son, I'm going to 
+comment on them. The basic thrust of these comments is that we, Raven, as a company, have gone out of our way to make life
+difficult for modders. This is mainly based on the Ghoul Modelling system we implemented. Ghoul uses a hybrid of MAX stuff and
+SoftImage. Now SoftImage is an expensive program, and we are now hearing complaints that it doesn't all work in MAX. Guys - 
+At Raven we try and produce cutting edge games. We (try and) take what others have done and take it to the next level. Be that
+animation, storytelling, graphics, whatever. Sometimes the reasons that others stop at the level they do is that the next leve
+requires much in the way of rebuilding animation systems and so on. When we go that extra step it often requires a ton of new
+code and approaches. Ghoul is this way. We Needed SoftImage to do our animation in, since that's what it is built for, and our
+animators (9 times out of 10) can produce better results that way. If it produces better results, then that is what we do. If we
+need special skeletons to make all the bolt-ons work, then we do it. Our primary focus is not "will the modding community be able
+to do this easily?". It's "Is this the coolest game we can create?". I know that sounds like we don't care, and that's not true, 
+we really do. However, if it comes down to "well, we can't use Softimage cos the modders won't be able to do it" or "We can add
+bolt ons to the models" then it's going to be SoftImage all the way. Rememeber, we aren't just building an multiplayer game here, 
+with 40 animations. We are constructing massive epic single player experiences, and they require a TON of special casing, which
+the animation system requires code and suport for.
+I can personally vouch for the fact that we are doing our damndest to support the mod community, (I personally spent a week rebuilding
+the download functions so they would work properly with downloading Ghoul Models, and making the available in the game), and
+any assertion that we are intentionally making life difficult for modders while we steal idea's is at the best laughable.
+
+Work wise, I can't comment much. I'm not allowed to mention what I'm doing now - in fact I was expressly told not to, I think
+I've been blabbing too much online:). Suffice to say "It looks amazing, and it's going to have great AI and it's going to push
+the genre" etc etc etc.:)
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/users/jakeworld">JAKEWORLD!</a>

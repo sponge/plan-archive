@@ -1,0 +1,69 @@
+
+*** Ion Storm's Finger Server
+
+User name: awelch
+Plan modified: Tue Nov 03 13:06:22 1998
+
+11.03.98
+___________
+
+Hisssssssssssssss.................
+
+
+9.29.98
+___________
+
+Still working on level entity stuff with the map 
+designers.. Puzzles, traps, effects... that kind of
+stuff.  I've also been doing some work on the 
+rendering engine in my spare time.
+
+Jason Hall of Monolith was here yesterday showing us 
+LithTech and Shogo.  The game looks bad ass!  I think
+it's gonna be one of those "must have" games - I can't 
+wait to get myself a copy once it's in the stores.  
+Good job guys..
+
+
+9.02.98
+___________
+
+Been working on the code for all the level entity stuff 
+for Daikatana.  It's a lot of fun - each item only takes
+a few days at the most so it all stays very interesting.
+
+I'd like to say that the Daikatana team is a great bunch
+of guys to work with.  Everyone is very passionate about 
+their work and the game.  
+
+Here's a sampling of what I've been working on over the 
+past couple of months:
+
+* added parent/child entities and bmodels.. allows for 
+  some cool stuff and game play interaction
+* added func_nodetrain... which acts as a normal train
+  but follows our track node system to various desti-
+  nations.. there is a lot that can be done with this
+* added func_dynalight... which can be a dynamic light,
+  a lightflare or a spotlight (with cone).. and can be 
+  linked to a parent entity so it can move/rotate/etc..
+* added various items and power ups into the game
+* numerous bug fixes and Q2 feature merges
+* numerous map editor fixes and features
+
+Current task list:
+
++ add a lightning entity that uses Mike and Adam's 
+  spline based lightning for Dabug's episode.. it looks
+  very cool and will zap the $%#! out of you
++ pseudo shadows on players and monsters
++ various projectile launchers
++ Inmater possession code (input entity stuff)
+
+Oh.. and thanks to Jake for my new handle.. I like it
+better than the one I've used for years.. 'DarkFrog'
+There are so many "dark" entities out there nowadays
+it'll be a nice change.
+
+-Squelch-
+awelch@ionstorm.com

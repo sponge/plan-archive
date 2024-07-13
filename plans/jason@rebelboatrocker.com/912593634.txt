@@ -1,0 +1,250 @@
+Login: jason          			Name: Jason Zelsnack
+Plan:
+<FONT SIZE=+1>
+<TABLE BORDER=0 CELLSPACING=0 >
+<TR>
+<TD><IMG SRC="http://rebelboatrocker.com/~jason/Jason_Logo0.JPG" ALT="Jason Logo" WIDTH=63 HEIGHT=74>
+</TD>
+<TD>
+<BR>#define COMPANY  "<a href="http://www.rebelboatrocker.com/main.html">Rebel Boat Rocker, Inc.</a>"
+<BR>#define NAME     "Jason Zelsnack"
+<BR>#define E-MAIL   "<a href="mailto:jason@rebelboatrocker.com">jason@rebelboatrocker.com</a>"
+</TD>
+</TR>
+</TABLE>
+<pre>
+
+plan(12-2-98)
+{
+ A couple things inspire me writting this.
+ 1. I haven't written a .plan in over a month
+ 2. I've had enough of people bashing Tresspasser
+ 3. The desire to inspire hate
+
+ Landon sent around an e-mail about some tresspasser.avi he had in his network
+ directory. I went and watched it. It was some guy who filmed a little satire
+ of the control system in tresspasser. He tried to put a disk in a computer
+ but just kept slapping it against the front and then he dropped the disk.
+ Then he went and tried to stack some coke cans, using the same retarded motions.
+
+ I thought the thing was funny and so did Landon who likes Tresspasser and
+ played all the way through it. My problem with it was that it's just one more
+ person mocking something they didn't understand.
+
+ Out of all the PC games that have came out in the last year, Tresspasser is
+ the game I played the most. (About 60 minutes. I don't play PC games anymore
+ I will only sit around and watch other people play. Then I'll ask them to show
+ me the cool stuff they've seen and done in the game.) During that time I was
+ very impressed with the physics and I joked a lot about the silly game control.
+ The most fun I had was when I loaded someone's saved game and I came upon a
+ dead raptor. I knealt down and petted the dinosaur on the head. I then went
+ and got a nearby bat and smacked it about and tried to tumble the corpse around.
+ While kneeling down I smacked the raptor on the hind legs and the bat popped
+ out of my hand and shot up the raptor's butt and halfway out its' back. Everyone
+ in the room started laughing there asses off while blood shot from where the
+ bat had penetrated. About fifteen seconds later the bat shot out and disappeared.
+
+
+ Mocking()
+ {
+  Getting back to my point of mocking Tresspasser.
+  For years people have been bitching about how unimaginative games are today.
+  That games offer no game play elements, just visuals. And in the good ole days
+  when there weren't fancy-lad graphics the game designers made these great
+  masterpieces which are now classics today. Out of these classics there are
+  none which I think I could invest anytime in playing. The only old games I
+  could even think of playing are "Dark Castle" on the Amiga, and "Jump Man",
+  "Load Runner", and "Racing Destruction Set" on the C-64. Oh, and of course the
+  fabulous game "Break Street". Umm... there is one "classic" game I can play,
+  "Ms. PacMan" on difficult.
+ }
+
+ Parallel_mania()
+ {
+  There are many parallels in the gaming industry to the movie industry. Both
+  movies and games are getting larger, more spectacular, and more expensive to
+  make. There's a supposed decline in character development and a lack of plot. A total
+  reliance upon visuals over storyline.
+  Guess what?
+  In both industries in the past almost all games and all movies lacked nearly
+  everything. Go whip out some Coleco vision game and try to play it for 14 hours
+  straight. Or go and rent nearly any movie from the 70's. Nearly everything sucked
+  and had no substance of any sort. Now-a-days movies and games with spectacular visuals
+  are accused of leaving out plot and game play because they are unessential as
+  long as you have big explosions. No, the difference here is that now there
+  is at least one decent thing in most new movies and new games. Before when
+  everything sucked about a game or movie, you just said, "Man that sucked!"
+  Instead of going, "Wow, at least that movie looked good even though it had a
+  horrible plot." It's now, "That movie sucked because it relied upon special
+  effects to carry it."
+
+  I personally hated "Godzilla", "Twister", "Jurassic Park", and "Independence
+  Day". But when it comes down to it I can rewatch these movies and enjoy the
+  good parts in them. There are other movies which I liked a lot but there is
+  no way in hell I'll ever rewatch them. The same goes for many games.
+ }
+
+
+ Some_older_classics()
+ {
+  Charlie Chaplin:
+   He is hailed as a comic genius to this day. Yet amazingly I've
+   never laughed at him, nor have I've ever heard or seen anyone else show
+   the slightest amusement in his actions.
+
+  Old school black and white cartoons:
+   Dear god man these things are horrible. There usually some insanely chipper
+   and lame anthromorphosized (that's definately not spelled correctly) animal
+   or bug creature. This whack character then dances around with farm animals
+   and whistles while flailing his or hers spaghetti like unjointed arms about.
+   Then this stupid character will do something "amusing", like "bend" his knees,
+   wiggle his arms, and look left, then right. To make sure you catch this amazing
+   joke it will be repeated not once, not twice, not three times, but four or
+   five times. Just to make sure to annoy you.
+ }
+
+ Evolution()
+ {
+  I'm assuming that those classics were great during there time, but now-a-days
+  there mostly just plain dumb. As time goes on and stuff becomes more sophisticated
+  and advanced, the less amusing the old and more archaic become.
+
+  I've witnessed this change within myself. Almost, every game I played when
+  I was younger I'm incapable of playing today. I've tried and failed.
+  Just like with "old" television shows I watched as a kid. When TBS put the
+  Dukes of Hazards back on I tried to watch a couple episodes. Oh, my gosh
+  it is horrible. Not only is it mind numbing and moronic, it also offends me
+  greatly.
+
+  There are some things which seem to have a much longer shelf-life though.
+  Such as "Leave it to Beaver, "Father Knows Best", "The Donna Reed Show",
+  and "Hogan's Heroes".
+  As for movies, none seem to hold my attention for very long.
+  Same thing is true for games, except for "Ridge Racer", "Virtua Fighter2",
+  and "Marvel SuperHeroes."
+ }
+
+ No_Going_Back()
+ {
+  There is no hope of imagining that anyone will enjoy a video game based
+  solely upon its' gameplay elements, and requiring no visuals.
+  If you were to make the most kick ass game ever on the PC today, but it looks
+  like it was made for an Atari 2600, everyone would laugh at it.
+
+  If you don't want fancy interactive stuff, then you go and make a board-game.
+  Which if designed well will live for hundreds of years. That's kind of longevity
+  will never appear in a continually evolving environment such as the PC.
+ }
+
+ Revolutionary()
+ {
+  Getting back to Tresspasser. It is the most revoltionary and biggest advancement
+  in gaming in years. Sure lots of people hated it and ridicule it, and maybe
+  it is fundamentally a horrible game (which I doubt very much).
+  Games like Tresspasser are the future. It's laid the ground work for essentially
+  what I belive to be a new genre. Physics based interactivity with nearly no
+  limitations on game play. (Like a pile of building blocks to a child)
+  The superficial game play might of faultered, but the core concept is there.
+  This is what everyone has been asking for. More interactivity, more realism,
+  just unfortunately not more fun at the moment.
+
+
+  The problem with Tresspasser from what I've seen and heard about it is that
+  they built the superstructure of a game, and forgot to add the fine details to
+  it. It was launched ahead of its' time. (Maybe they didn't forget the details
+  but were pressured to launch early.)
+
+  I'll make a silly comparison to an aircraft carrier. Let's say that you've
+  built the entire superstructure of a forestal class carrier in 1925. You have
+  no control systems installed, some panels missing on the hull and you've got a
+  powerful turbine, but no propellers. If you launch this ship early it will of
+  course not move no matter how much power it has and of course promptly sink.
+  The sinking of course will be hailed as a giant failure.
+
+  Vice-versa if you tossed all the fine-details into the water without a supporting
+  chasis it will also leave you with a spectacular pile of crap.
+
+  Either way all your impressive and revolutionary work is for naught at the
+  moment.
+
+  Of course everything can be salvaged and be made to work if given the chance.
+ }
+
+
+ The_Future()
+ {
+  The next ground breaking game coming out in the near future is the new
+  "Prince of Persia". It uses the Motion Factory stuff which I've been very
+  impressed by. Hopefully, "Prince of Persia" won't faulter or else "physics"
+  will become a swear word in game industry, and future progress will be
+  obstructed.
+
+  Finally, I see what I've wanted for years on the horizon. Physics fun! Weee!
+  Ever since I saw early SuperScape demos I went, "Yep this is what games are
+  gonna be like soon. Polygons are da biggidy bomb." I also realized that at
+  some point physical simulations will be key to game play in the future. I
+  just didn't think it would take so long.
+ }
+
+
+
+
+ Bitch()
+ {
+  While I'm ranting and acting like an idiot, I'll attempt to piss some people
+  off.
+
+  I've noticed that there are lots of crack smokers out there who think they
+  are some sort of game genius who should be desinging games because they
+  play them so much and know everything about gaming. Obviously if you play
+  games a lot, through pure deductive reasoning, you must be an expert at
+  everything game related.
+  Just like people who sit on their asses all day watching television and movies,
+  obviously would make the best directors, writers, and producers. They're
+  in touch with the common man, hell they're touching themselves right this
+  moment! If they were interested in advertising and marketing they would be
+  at McMann and Tate coming up the same genius ideas which Samantha and Darrin
+  came up with.
+
+
+  Let's assume that some of these game genius had a seemingly good idea.
+  Guess what again?
+  There's a whole hell of a lot of difference between theory and implementation.
+  Maybe, the idea is truly inspired, but it is absolutely infeasible to implement.
+  Or, maybe the "good" idea is actually a really bad idea once brought to
+  fruition. Hmm... the best example of this I can think of is when people were
+  asking for the ability to hack off body parts in multiplayer.
+  Soon after Quake came out there was a patch which did just this. You could
+  have your arms and legs hacked and blown off. Oh, boy it sure is fun hopping
+  around on a single leg at 0.1mph with no offensive ability because you have
+  no arms, the whole time losing health. (This concept was fine, but the actual
+  implementation of the idea showed that it wasn't terribly fun.)
+
+
+  Perhaps if you're one of those frickers who likes to write mean letters to
+  the game magazines about how stupid everything is and how you have all these
+  great ideas, maybe you should look in a mirror and notice that you're a dumb
+  ass yourself. And just maybe these "great" ideas you've thought up, have been
+  tried and just don't work.
+  (Everyday I wake up look in the mirror, flip myself off and say, "F' you! You
+   dumbass." Or something similar. But I end it with a girlish giggle, and move
+   on knowing that I'm just one dumbass in a world full of dumbasses.)
+
+  Some_More()
+  {
+   I don't want to discourage anyone from offering helpful suggestions, or
+   constructive criticism in the future about anything. The consumers should
+   empower themselves and influence the production of what they want.
+
+   1. Suggestions are good.
+   2. Constructive criticism is good.
+   3. Mindless complaints and bitching are BAD.
+  }
+ }
+
+
+
+
+}
+</FONT>
+</pre>

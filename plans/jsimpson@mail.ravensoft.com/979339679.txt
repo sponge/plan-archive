@@ -1,0 +1,102 @@
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+01/12/01
+
+Hey! We're in the "naughties" now! Cool! I mean, I love saying I'm a "naughties guy" as opposed to a "nineties guy".
+
+Anyway, onto this Xbox vs Ps2 thing that I'm seeing so much of on various websites. Now that I've got 5 seconds to
+myself I thought I'd weigh in myself. I've got a reputation for having a big gob, I might as well fufil it.
+
+Everyone seems so concerned about "who will win?" and "Will the PC die?". I dunno, it seems to me sitting here
+that there is more than enough room in the console world for both. The real question in my mind is what's going on
+with Sega and Nintendo. I can totally see that Sega see's the writing on the wall hardwarewise, although this PC card with a 
+dreamcast sitting on it sounds very interesting.
+
+I just wonder about Nintendo in the American market. It will absolutely do great in Japan, but the American and 
+Japanese markets are very different. Given that Sony and MS will have a bit of time to establish themselves I wonder
+at exactly who besides the hardcore gamers are going to buy the gamecube.
+
+Now as for PS2 vs MS, well, I've a few thoughts there. I think it's very interesting the sequence of events we've
+seen over the PS2 and the XBox. When the PS2 was announced, Sony went after PC developers to create content for the
+new machine. At the first Sony Dev conference for the PS2 there were PC developers in abundance. Come the second
+conference, there were less than 15% of the original PC developers there. Why? Because the PS2 requires a lot of
+low level programming to get the best out of it. You can't just plug in Direct X or OpenGL to get stuff up. Most PC
+developers really don't want to be involved in this. Hence lots dropping out.
+It's a bit unfortunate really, since once you have a decent set of VU code to do your rendering, that's it. It's not
+like the hardware is going to change. You can use it again and again with little or no change. But lots of PC
+developers are afraid of that initial "oh I have to learn multi-threaded assembly to get this to work" thing.
+
+Now with the Xbox, it's basically a frozen PC in a box, it comes with an operating system and a graphics / sound API
+and it even uses the same developers tools that PC developers have been using for years. Of course you want to jump 
+on that if you are a PC developer. There is no reason not to.
+
+On the other hand, I think it's going to be very interesting to see what game content comes about. Consoles ARE very
+different from the environment most PC developers are used to. Consoles are about dip games. They are about games
+you use a hand controller for, not a mouse and keyboard. You won't be playing stuff like age of empires on the Xbox
+too much simply because it absolutely sucks playing with a controller for that sort of game. Yes the Xbox has a USB
+(of a sort) on it, and you CAN plug in a mouse keyboard but a) Who is really going to do that on the floor of their
+living room and b) You can't develop a game that requires that stuff. If you do, you limit your purchase base way 
+too much. If you are developing a game that isn't going to require a mouse and keyboard, then it has to be easily
+controllable by a standard controller, in order for people to want to play it. And if you do that, then several
+generes that PC developers love, by and large, get very difficult to implement.
+
+I honestly don't see that either the Xbox or the PSX2 are going to be the new internet appliance for the living room
+until some NEW killer app comes along.
+Quite frankly looking at webpages on you TV sucks. The resolution isn't there, and trying to handle a keyboard when
+sitting on your couch sucks as well.
+I can see it if we could hook up a little web cam and get real time video phones going, or maybe use the Xbox / psx2
+to download MP3's and play them on your stereo, but I don't see it with any of the real internet apps you have now.
+
+It's going to be interesting to see what happens.
+
+As for "will the pc die?", I highly doubt that. No one is really going to want to do the family finances on a PSX2
+or an Xbox. The PC evolves, consoles do not. There is some margin for argument here, since the Xbox is almost a PC, 
+but not really enough to emphatically say it's going to kill another very large computing area.
+
+Besides, this is MS we are talking about here. Where do they get their revenues from? Operating systems. They are
+hardly likely to shoot themselves in the foot by taking business away from either themselves or the Dells and 
+Gateways of this world.
+
+Just my $0.02
+
+Now on to some complaining:) Doing it here always helps me feel calmer afterwards.
+Todays target :- Charter Communications. Or more specifically the Madison office thereof.
+
+For the unitiated, Charter Communications, formerly Bresnan Communications formerly something else are cable TV and 
+cable Modem carriers for the @home network. I get my cable service from them. 
+Well, to cut a long story short, they suck. Normally I don't get that specific, but in this case I will.
+
+Not only do their cable TV and Modem division not actually talk to each other, but they have different billing depts
+too. However, when you get a bill from them, the only contact number you get is for the cable TV dept. Now, we
+cancelled our Cable TV since we already use a DSS dish. However we kept getting bills from them, weird ones. When
+we called to sort it out, the cable TV people said we didn't owe them anything, so disregard it. I think "ok, this 
+is weird since we have a Cable modem, but they are Charter, they must know, so ok". Then I get cut off with my cable
+modem. Great. So I call again to complain, then spend a weekend tracking down what has gone wrong with THEIR billing
+system. Not only will they not admit it's their fault for having a bloody silly billing system, but to add insult
+to injury they want to charge me an addition $35 to reconnect the service. That's bloody cheek where I come from.
+
+And then add to that the fact that the service dies for 3 minutes out of every 5, where I can't talk to any thing
+out side of my local network, which makes playing games or even reading websites out of the question, you can imagine
+how I feel about them. From about 4:30 to after midnight everyday my service is to all intents and purposes useless.
+When I call the tech support, the techs refuse to talk to me because I employ a win2k server at home so I can share
+the IP address they give me with more than one machine. Great. Not only am I not able to complain about the service, 
+but no one at Charter will help me diagnose what's going on, to be sure it's not my system doing it. Something I
+highly doubt anyway, since the problem has been getting worse, and only occurs within set times. Even the tech I've
+spoken with agree's with that. All un-officially of course.
+
+Now can I get DSL in my area? I cannot. Can I go to a competing Cable Carrier? I cannot, there isn't one. So much
+for market forces. What is it with that anyway? Why isn't there a competing carrier? I thought the whole point of
+democracy was to have no monopolies? Why can't I choose from three or four Cable carriers?
+
+Charter Communications are unhelpful, somettimes downright rude, give bad service, and have some incredibly
+draconian rules and regs.
+If you can avoid them, do so. For me, there simply isn't another broadband solution here to go with.
+
+One last thing. If, when watching that new Reality TV show Temptation Island, you listen reaaaaal carefully, you
+can just about hear western civilisation crashing around us. Werd.
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/users/jakeworld">JAKEWORLD!</a>

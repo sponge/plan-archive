@@ -1,0 +1,74 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Veldrin
+Full Name.........Brent McLeod
+Description.......Level Designer
+
+====================================================
+Generic witty disclaimer here.
+====================================================
+
+9.13.98
+
+Hex_'s pimpy new q2 DM level.  If you're checkin this one out, make
+sure to hang around for at least 3.5 minutes... things get pretty hairy
+at that point. :)
+http://www.opcode.org/~hex/Drown.zip
+
+
+9.11.98
+
+(removed just for cass!)
+Dev log for 9.11.98 (just for cass!):
+- Worked on the map for (deleted due to NDA).
+- Had a meeting, where we discussed (deleted due to NDA).
+- Ate lunch.
+- More map stuff...the (deleted due to NDA) is looking really cool!
+
+Enough of that though, for a little fun, run over to:
+http://rpt.yahoo.com/ext/report/toc.html
+And do a search for 'altoids'...
+
+
+9.10.98
+
+http://www.perilith.com/chicken/
+Think of it like a commercial... (Like 'Beef: It's whats for dinner.' or 
+'Pork: The other white meat.')  Alright, maybe it's not that funny, but I 
+liked it.
+
+
+8.23.98
+
+My current desktop (theme courtesy of fluid_):
+http://home.ienet.com/~veldrin/vlitestep.jpg
+
+Allow me to pimp an alternate Win9x/NT shell to anyone who's sick of explorer, 
+or just wants to try something new. What is it?  It's an Afterstep style shell 
+replacement (Wharf, tiles, plugins, etc..).  Keep in mind that it's still in 
+development so not everything is perfect, but there is a dev team constantly 
+working on it.  There's a multitude of plugins available for it to, including
+load monitors, cdplayers, virtual desktops, mixers, clocks, etc...
+
+You can find more info, and download it it at:
+http://litestep.computerheaven.net/
+http://pimpin.net/~floach/
+#litestep on EFNet IRC
+
+If you're wondering about the beOS style title bars, they're provided by a 
+program called "WindowFX", which is part of Stardock's Object Desktop package.
+http://www.stardock.com/products/odnt/
+
+
+But enough of that...i'm stoked to finally be here at Nihilistic (started about 
+2 weeks ago).  Steve and Rob threw a bar-b-que last night at their place which 
+was pretty cool.  I met a lot of cool people from the game industry, ate, drank, 
+and played with fire (strictly for cooking purposes of course).  A friend 
+recently informed me that my Q2 DM level just made #1 on Captain DynaBaul's Multi
+Player Quake2 ("...where you rate the levels!"), which is pretty cool.  Check it
+out and vote on it or send me feedback or something.
+http://www.planetquake.com/ltdan/dynabaul/
+
+Seeing as i've exceeded my UPP (URL per plan) quota, i'll stop now.
+

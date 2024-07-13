@@ -1,0 +1,22 @@
+Login: ridah          			Name: Ryan Feltrin
+Plan:
+
+Ryan Feltrin
+<a href="mailto:ridah@frag.com">ridah@frag.com</a>
+
+Technology & AI Programmer, <a href="http://www.xatrix.com/">Xatrix Entertainment</a>
+
+
+03-Aug-99
+---------------
+
+I'm running a Kingpin server now on a DSL line in Los Angeles, which I am able to use to get
+more useful information than previously. This means the more it gets used, the more chances
+of it crashing or debugging a client that gets overflowed, etc. This also means the patch gets
+done much faster.
+
+So please feel free to drop in and give it a good spanking.
+
+209.55.77.181:31510
+
+-Ridah

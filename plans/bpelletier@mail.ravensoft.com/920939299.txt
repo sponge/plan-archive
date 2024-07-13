@@ -1,0 +1,351 @@
+
+Name: Brian Pelletier
+Email: bpelletier@mail.ravensoft.com
+Description: Project Leader/Art Director
+Project: Star Trek
+-------------------------------------------------------------------------------
+11/17/98
+
+Hmmm, another 20 hour work day yesterday. That has pretty much been the
+norm for some of us here lately. Last week we did major fixes and 
+cleaned up the game a lot. We sent in what we were hoping would be the 
+final code build of the game last thursday. QA testing over the weekend
+found some outstanding issues with the game and it was decided that we
+are too close to greatness, to let these things slide. So back to work 
+we went. We were given about 5-10 outstanding issues, only 2 of them 
+being crash bugs, and 20 lower prioriety bugs. I have to say I am more
+than proud of the Heretic II team; they worked the weekend (again) and
+fixed every single bug we got. We just finished up last night at 5 am.
+It's now at Activisions QA department to be tested. We should get word
+sometime later today on the status of the latest build. If all goes 
+well, it should be the last one and then can go to manufacturing.
+
+We will miss our initial in stores date but we were so close we just
+wanted to make the game as solid as we possibly could. I can tell from
+testing the game for past 20 hours, it is pretty damn solid; no crashes,
+major errors or game stopping bugs. Sure there were a few little 
+anomalies happening but nothing major (they should be fixed now). And 
+that's a testement to our hard work cause there is a lot...and I mean 
+a lot of stuff going on in this game, talk about sensory overload.
+Our game has speacial effects that are going to blow you away!! While 
+playing some of the later levels, I was running around with 3 defensive
+spells going around my character while shooting my powered up Storm Bow
+and being shot at by some spell casting bad guys...it put 4th of july
+fireworks to shame. All that going on and I still couldn't get the
+game to break or crash. Our programmers rock!!!
+
+The few extra days wait will be well worth it. And still in plenty of 
+time for your X-mas list.  I just can't wait to sleep. Not to mention
+I haven't seen my wife for more that 20 hours in the past 3 1/2 weeks.
+I miss her dearly and can't wait to spend time with her. She has been
+great during all of this. She made cookies for all us guys staying 
+late and some popyseed bread and brownies. Thanks for all the support 
+Lisa, Me and all the guys appreciate it so much. I love you...your the 
+best. Can you say Cancun vacation...
+
+Back to testing.......
+Brian
+
+
+**********************************************************************
+11/8/98
+
+We are frantically trying to finish Heretic II. There are just a couple
+outstanding bugs that are holding us up. We also spent the last 2 weeks
+Play-testing and balancing the game and doing any last minute tweaks to
+make the game more fun. Some were minor changes but really added to the 
+gameplay and funfactor.  This team is great and they have been coming up 
+with excellent ideas that I think will really make this game memorable.
+I am really proud of the team and how everyone has contributed ideas 
+and done their share of workload to getting this game done. We are all 
+proud of this game because it was a team effort and everyone on this 
+project can say that a piece of them is in this game.  And because of that
+they want this game to be the best. As I play the game I can say it will
+be the best.
+
+You wouldn't believe the cool stuff going on in this game. The first levels
+are in an elven village and the people are all insane with bloodlust from
+a mysterious plague. But they're not just mindless Zombies, they talk to you 
+and form  groups and gang up on you; they really react to what you do; I walked
+into a room with a few plague elves and one points at me and says "there he
+is, get him" then another guy in the room says "I want to eat his flesh" while 
+the third guy says "I want his liver"! like battling 3 guys isn't hard enough, 
+they have to taunt me... Then as I start throwing spells at them they get 
+hurt, drop their weapons and run away saying "don't hurt me." and "have mercy" 
+I almost don't want to do them in...almost.
+
+In another part of the game I'm in a level fight Harpies, which are the flying
+creatures kind of like a vultures. They swoop down and do a ramming attack that
+knocks me on my back, I bounce back up and search the skies for him. I hear 
+his attacking screech and when I turn to cast my spell at him it's too late;
+he rams into me but this time with his claws and he rips my head right off. 
+My headless body slumps to the ground as I watch the beastie fly away with
+my head in his talons...literally. Now I usually don't like dying but this 
+time for some reason I cheered. I just don't get sick of playing this game,
+something new and different happens all the time.
+
+I do the game no justice by telling you all the cool things that happen to me
+while I play this game. You might not even believe some of this stuff...
+You'll just have to play it for yourself to see.
+
+Only a few more weeks. Sit tight, it's well worth it.
+
+Brian
+
+*********************************************************************
+10/23/98
+
+Hi all, It's been a while since I've written a .plan, but that's only 
+because I've been sooo busy making and cooridinating the game that most 
+of you have been playing the demo of. I'm the Project Leader and it's my 
+job to be in charge of every single aspect of Heretic II.  The Heretic II
+Team is the best, most dedicated team I have ever worked with. Talk about
+talent. I'm writing now to talk about the demo and the game.  I figured I
+wouldn't speek up again until the public has seen and played Heretic II.
+
+The Demo consists of 2 levels of the game. The first level, and 11th level
+of the game, plus 2 deathmatch levels and a training level to get you 
+accustumed to the player controls. Most of your configs will work for 
+movement but there are 2 more buttons you need. An "action", and a "creep" 
+key. The final version of the game will have double tap configures and 
+hotkey confugures; so you can put together all kind of speacial moves 
+easily. I have a double tap for back flip and when I am being chased there
+is nothing more rewarding than quickly back-flipping over my chaser and now
+I can attack them from behind. That is just 1 example of many cool moves 
+you can do. There is definately more combat statagey going on in Heretic II.
+
+The Demo is only a little sampling of what Heretic II has to offer. If you 
+like it now or don't like it; keep in mind there is plenty more coming.
+You still haven't seen the other 3 weapons and their powerups or the 3 other
+defensive spells. That's "9" new spells yet to be seen! Deathmatch will be 
+AWESOME!!! The single player game will be just as fun. There are 8 different 
+area looks with all their own texture sets and fantastic creatures.  The
+cinematic scene that you saw in the demo was just the first scene that sets
+up the unfolding story. There are over 10 more cinematic scenes like that 
+throughout the game.
+
+We still have a long way to go in such a short time. We are supposed to have
+the game finalized by Nov 1st so you can get the game by mid November. That 
+leaves us only 9 days to finish this whole game. We will be pouring our heart
+and soul into finishing this game for you on time. We have been working non-stop
+and will continue to do so up to completion. So if you don't here much
+from the Raven team in the next week or so, you'll know why. We are making 
+for you the best action game ever!!!
+
+Thank you,
+Brian Pelletier
+Art Director / Project Leader: Heretic II
+
+
+**********************************************************************
+4/3/98
+
+Great...we lost to Romero and his crew at Age of Empires. I just want to
+make a statement now, that the rest of the Raven staff, myself included,
+should not be compared to those losers who shamelessly represented us.
+I can expect to see more games of AOE being played at the office to come 
+up with better game strategies. Like they didn’t play enough already!
+
+Heretic 2:
+We are getting great feedback from everyone out there, so keep it coming, 
+we read it all. Another tidbit, is that I’ve been working with the Fantasy artist Brom who is designing most of our characters and monsters for
+the game. You can see his work at www.cale.com/brom/ or pick up his
+book Darkwerks at your local book store. A great showcase of his work.
+And you can expect to see some of the coolest creatures you’ve ever seen
+in a game. 
+When we started designing this game way back when. We always made 
+reference to Brom style artwork for the feel of the game. So we decided,
+hell, why not go to the source. We’ve been friends with Brom since he 
+did the Heretic cover back in ’94. We’ve always kept in touch, So Steve
+Raffel twisted Brom’s arm into working with us on Heretic 2. Brom worked 
+with us during the initial design phase and we came up with a lot of cool ideas.
+(He had the idea of the plague!) He and I then went to work designing most
+of the races and creatures of the game. The rest of our Awesome art staff 
+Did tons of other conceptual drawings. But we wanted Brom’s vision for
+the races of the Heretic world.
+I just talked with Brom yesterday and he is really stoked about all the excitement
+with Heretic 2. We will start posting some conceptual artwork in the near future.
+I will keep you updated on that. 
+
+Time to look at the progress of the levels. We’ve got a bunch of guys doing 
+levels and they are all looking very cool. The level’s not the guys!
+
+I’ll continue at another time and let you get back to playing games. Raven games!!!
+
+
+********************************************************************
+4/1/98
+
+I will continue from last time with:
+
+What we're thinking 2:
+
+For more insight to the camera system and story line see Dan Freed's plan.
+
+Targeting system:
+We will be handling this a few ways so people will have a choice of
+how they want to play. 
+First off, there is no auto targeting like Tomb raider. (there was a 
+great discussion of this on our messageboard) One targeting method 
+will be just like the original Heretic, Doom and Hexen 2, where there 
+will be a cone of influence. Projected out in front of the player will be 
+this range. If a monster is in this range the shot will go toward him. 
+We need to do this because our camera can be at many different angles and 
+we want our character to shot in front of him not where the camera's looking. 
+Again, it works just like the Doom system, so there "is" skill involved.
+Second: You shot where the camera is looking. just like Quake 2 and Hexen 2.
+As Dan mentioned in his plan we have a free look camera and there will be a
+crosshair option to help aim.
+The third system we are still playing around with. All of these will involve a
+lot of playtesting to make sure they work really awesome.
+
+Deathmatch:
+There are ideas of doing different models for choosing deathmatch characters.
+But right now this option looks to be very difficult. Our character will
+have close to a thousand frames of animation, so to translate all these to a whole new
+character will be tough.
+Because it looks like there will be only one model we will have different skins to 
+choose from. Not just different colors.
+
+Why only third person:
+Cause I said so!!! Heh, I’m just kidding. Right now the biggest reason is because of 
+our schedule. We want the game out for a x-mas release and we are only in the 
+second month of our production. We have only 2 levels complete and we don’t even
+have our new character model in the game yet. The model you saw on the screen 
+shot was the old version.
+Another reason is that first and 3rd person games are very different from one another.
+So it will be like making 2 games. Jedi is really a first person game with a 3rd person
+option. That’s why 3rd person in jedi looks goofy, and is not as fluid as other 3rd 
+person games.
+
+Hope that answers some of the questions floating around out there.
+I will add more to this topic as we progress with the game.
+
+Later
+
+
+**************************************************************
+3/30/98
+
+I have been reading a lot of the talk on our message board, and 
+I am glad to see such great ideas and responses. I've also gotten
+some e-mails on the topic. It seems people are interested to find 
+out what we're thinking.
+
+Well here it goes...
+
+Why the name: 
+	The story of Heretic 2 directly follows the events in Heretic.
+The reason Hexen wasn't named Heretic 2 was because the story 
+didn't directly follow Heretic. Heretic, Hexen and Hexen 2 followed
+the story of the 3 Serpent Riders. Hexen took place 1000 years(or so)
+after Heretic and on an all together different world. 
+	
+Heretic 2 now goes back to tell the tale of what happened to our 
+hero after he defeated D'Sparil. And bring you back to reintorduce 
+you to the world of Heretic. Heretic 2 seemed to be the name that 
+fit the best. 
+
+How the game came to be:
+	Steve Raffel (one of Raven's founders) Came up with the idea
+to do Heretic 2 a couple years ago. And to do it from a 3rd PP.
+This was before Tomb Raider came out. Steve and I played around with 
+the idea of bringing you back to the Heretic world and really making
+it a believable world that our character has his quest in. We wanted 
+to do it 3PP because that would make it a challange for us. We are
+creative people here at Raven and because of that we like to challange
+ourselves creatively. THis job would bet real boring if every game we
+made was a FPS. So what we wanted to do was try something new and 
+give the gamer a new playing experience. So we got the OK to do the
+game and I was given the lead to take to completion. 
+
+To be honest, I thought most gamers would like the change of an action
+game from a 3PP. We all know the market is flooded with FPS, Half life,
+Unreal, Diakatana, Hexen 2, Quake 2, and others to be announced. 
+So why not try action from 3PP. My whole goal is to keep the integrity
+of an action game. Which we all love. But son-of-bitch, I'm getting 
+sick of seeing it in only one form! I love FPS games and will continue
+to make them with Raven, but I envision a fast paced high action game
+where I can see my character shooting his weapon and see him getting 
+hit. Watching him interact with the world and enjoying the action 
+taking place besides just being the action.
+
+That's it for now. 
+
+I will continue with "What we're thinking" on my next plan where I 
+talk about:
+	The targeting system
+	Why "only" 3rd person
+	Deathmatch!
+
+Later.
+
+*********************************************************
+
+3/26/98
+
+Hey All,
+
+As you all heard by now Raven is making Heretic II. My name is
+Brian Pelletier and I am the Project leader of this game so it 
+is under my control and direction. With the Awesome team we have 
+and all the the great ideas they have, we promise you a kick ass 
+game. I will get into that shortly.
+
+Before I get into Heretic II, it will help you to know who I am.
+I am an Artist and I have been with Raven for over 5 years now.
+I am the most senior employee here. At one point in Raven's history 
+it was just Brian Raffel, Steve Raffel and Myself, making the games.
+Now the 
+company is pushing 50 employees. Besides being the Art Director 
+and being in charge of all the artist, I have been involved in all
+of Raven's game designs, Including Heretic, Hexen and Hexen II. And 
+now I'm leading up Heretic II.
+
+So with that out of the way, you now know that I have a little experience
+in making awesome games. So I assure you that with the team I have, we 
+will make Heretic II a $#@&ing kick ass game! 
+
+Since the Heretic II press release we have been getting feedback from
+our fans that they are dissapointed that Hereitc II is a 3rd Person 
+Perspective (3PP) game. If your finding this out for the first time...
+Yes, Heretic II will be 3PP. Not first person like the original. We did
+this to give action game fans a different twist on action. We all know 
+there is a flood of first person shooters out there so we thought we'd
+offer up something different. There have been concerns that the game
+will be Tomb Raider. WRONG!! Lets get things straight right now! Heretic II
+is an "action" game. My goal is to retain the flavor and gameplay of Heretic.
+
+Hexen and Hexen II started straying from the the hard core action but we 
+wanted to give the player a different playing experience. But now we want
+to go back to Heretic and bring back the action...but with a twist. Why the
+twist? Because Raven is always trying new things in order to offer YOU the 
+gameplayer something different than Doom and Quake! We are in a difficult 
+possition as an action game developer. When we make a FPS, gamers bitch cause
+we're just making a clone of Doom or Quake. So we try and offer different 
+things for gameplay (see Mike Werckle,s plan). But when we do this, those same
+gamers bitch that the gameplay isn't like Doom or Quake. There is never going
+to be innovations in games if we don't try, and you the gamer will suffer.
+ 
+ 
+You've all probably seen Romero's comments about the Heretic/Hexen franchise.
+He is entitled to his opinion. But I have learned a lot from when John worked
+with us on Heretic. And I plan on reverting back to those gameplay philosophies.
+After all we are making this game for the people who love Heretic. So by all 
+means we want to meet their expections. This isn't some obscure 
+game that we put the Heretic lable on. This is a sequel, and we plan
+on bringing back a lot of things that made Heretic so fun. We are 
+bringing back the morph ovum so you can turn the enemies and your 
+deathmatch friends into chickens again. We are also bringing back
+some of the weapon spells. And finally we are doing the game in 3rd person 
+cause it looks frickin' cool. We want to give you the action gamer
+a new action gaming experience. I hope this calms your fears and I 
+think you will be pleased with the gameplay.
+
+We are making the game for you, so please give us your feedback.
+
+OK, I'm done.
+
+For now.
+
+

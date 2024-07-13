@@ -1,0 +1,56 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Lead Programmer
+Project: Jedi Academy
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+Happy Thanksgiving.
+Jedi Academy 1.0.1.0 SDK (MP SOURCE CODE!) available now.
+
+Download Links (more soon):
+
+- <a href="http://www.worthplaying.com/article.php?sid=14703">WorthPlaying</a> 
+- <a href="http://www.3ddownloads.com/ravensoft/JediAcademy/Tools/JEDI_Academy_SDK(MP).exe">3D Downloads</a> 
+
+
+Jedi Academy public SDK and tools release
+11/26/2003
+
+These tools are released "as is" and are unsupported by Raven Software, Activision or LucasArts.
+
+Star Wars® Jedi Knight® : Jedi Academy™: 
+
+© 2003 LucasArts Entertainment Company LLC. © 2003 Lucasfilm Ltd. & TM or ® as indicated. 
+All rights reserved. Used Under Authorization. LucasArts and the LucasArts logo are registered 
+trademarks of Lucasfilm Ltd. Any use of any of the materials on this site other than for private, 
+non-commercial viewing purposes is strictly prohibited. 
+
+
+
+When you extract this archive, you'll find these programs and docs in TOOLS:
+
+ShaderEd2 - the shader editor/viewer
+MD3View - model viewer for .md3 format models
+ModView - model viewer for .glm (Ghoul2) format model
+carcass - the glm model compiler (uses car files) converts root.xsi to model.glm
+(note carcass requires no spaces in your path so you may have to move the files to build a model!)
+Assimilate - edits car files
+EffectsEdEffectsEd.exe - the editor we used to create EFX files.
+EffectsEdUsing_EffectsEd.doc
+BehavEd.exe   - the editor we used to create Icarus scripts.
+IBIZE.exe     - the Icarus script compiler (Note: the ICARUS compiler used in JKA is the same as the JK2 version, but the BehavEd.bhc file has changed.)
+roq.exe       - tool to compile images into a RoQ video.
+and JAscripts.zip - all the scripts from JKA as reference.
+JKA_Game_Source_License.htm - The code license file. You must comply with this to use the source code.
+Disclaimer-JediAcademy-Tools.htm - Legal disclaimer reguarding this release
+
+It will also extract the game source folders:
+(!! YOU MUST HAVE the 1.0.1.0 Patch installed to use the source !!)
+CodeMP   - all the source code for the MP game DLLs.  (see CodeMPMakeAMod_readme.txt for more info)
+ui       - ui code header
+docs     - sample files describing NPC and saber creation
+
+
+NOTE: These tools are released "as is" and are unsupported by Raven Software, Activision or LucasArts.

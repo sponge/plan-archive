@@ -1,0 +1,54 @@
+
+*** Ion Storm's Finger Server
+
+User name: henrik
+Plan modified: Mon Oct 30 20:56:03 2000
+
+
+
+Time to update!
+
+Good things that have happened since last time:
+
+- Anachronox is looking awesome now. We got the bulk of the Battle Skills
+  and Mystech scripts for Planet done, as Jake has done some outstanding work.
+  Sounds are in, and totally making Battle come alive. There's all kinds of cool
+  stuff to do with Planet with regards to sounds. You get complete volume and 
+  pitch control, so once Anox is out, it would be cool to see/hear the first
+  SoundTracker MOD made with Planet! ;-)  The format won't be compatible, ofcourse,
+  but it's completely possible now to make complete music tracks from within 
+  Anachronox. ;-)
+
+- I have read a bunch of good books: Simon Singh's "The Code Book" is outstanding!
+  (I know, I'm the last person on earth to read it :-), Neal Stephenson's "Cryptonomicon",
+  which was so-so... Good but slow. A book called "The Feynman Processor" about Quantum
+  computers and a bunch of other ones.
+
+- I wrote a stupid program to generate pseudo-random text from a parsed-in source file.
+  So, basically, when I fed the program Neal Stephensons "In the Beginning was the Command Line",
+  the output looked like this:
+
+  "And because it because they are "advanced," find a lot of connecting to the thrill  
+   just like a PR disingenuous position that operating systems. Unlike most normal sense 
+   to explain how to spend money. As new wires and so vast ocean important thing wrong 
+   with keys in the Microsoft engineer"
+
+  Complete garbage, ofcourse, but fun in a way. :-)
+
+- Eva, my better half, is 3.5 months pregnant. In case anyone remembers, I wrote about
+  Project Tiny a long while back, which didn't go very far. However, we're trying again,
+  and this time, things seem a lot better! So far, so good! :-)
+
+And, as always, The Anachronox Ping Pong League:
+
+China vs Sweden (aka, Joey vs Henrik) 
+games:  7-11
+
+Oh, how I rule! ;-)
+
+Toodles.
+
+/Henrik
+
+
+

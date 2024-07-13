@@ -1,0 +1,11 @@
+GarageGames plan resource for Rick Overman
+Posted Wednesday April 18, 2001 at 13:13 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=826
+
+okay, I am back from my wedding and honeymoon and am ready to get working on wrapping up the V12 and getting it shipped.  Looks like the GarageGames forums have been very active while I was in Kauai, there were over a thousand new posts when I got back.  I skimmed through them but I am not even going to attempt to read them all.  If there are any dangling technical V12 questions that you need answered just send me an e-mail with a link to the thread and I will get to them as quickly as possible.
+
+My immediate V12 tasks will be integrating the recent Tribes2 patches to the V12 code base and making any necessary changes to get get the V12 up and compiling with VC++.
+
+--Rick
+

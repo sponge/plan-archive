@@ -1,0 +1,33 @@
+
+*** Ion Storm's Finger Server
+
+User name: cnorden
+Plan modified: Wed Oct 28 14:41:06 1998
+
+Well, we *finally* got the latest version of the Unreal source (v218)
+integrated into Deus Ex.  What a pain...this was easily the most
+difficult merge yet.  But the upshot is that the editor and the game
+load a lot faster and use significantly less memory.  Next, I'm going
+to clean up some of our old augmentation and skill code and convert
+them to take advantage of some new object functionality that Tim has
+added.  Then, I'll be coding all of the real-world weapons for the game.
+I'm going to try to talk a little about some of the weapons as I get
+them in the game, so keep checking my .plan.
+
+My new Sony 36" XBR Wega should be delivered this week...a friend of mine
+just recently got his, and I must say it looks amazing.  Can't wait to
+play Metal Gear Solid and Zelda 64 on it...
+
+Speaking of Metal Gear Solid, if you haven't played this game, you must
+get it.  It's got to be the best Playstation game yet -- very cinematic
+and immersive.  It's got all the gameplay of the original Metal Gear
+series and then some.  If only the Playstation's graphics hardware had
+more vertex precision and perspective texture mapping...that jittering
+drives me nuts!
+
+It sure is nice to finally be writing game code again.  No more merging
+and no more fixing other people's bugs.
+
+-cnn
+
+

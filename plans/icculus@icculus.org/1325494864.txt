@@ -1,0 +1,149 @@
+Dog days are over.
+
+
+(Various game updates returning soon.)
+
+Other stuff:
+
+ We try to get at least a /little/ open source out of every Humble
+ Bundle. Sometimes it's epic--like a big pile of games--and sometimes
+ it's bits and pieces, like the engine underneath Hammerfight.
+
+ It's something we push for.
+
+ This time the big winner was Shank [1], which spawned several new open source
+ tools.
+
+
+ * *MojoShader: now with Effects!*
+
+ MojoShader is at http://icculus.org/mojoshader/ ...
+
+ Shank uses HLSL shaders, which isn't unusual, and wraps these shaders
+ in Microsoft's Effects Framework files, which is not unusual either. The
+ usual answer here, for non-Windows platforms, is to point Nvidia's Cg at it.
+
+ Cg is sort of awful to work with for several reasons.
+
+ My personal gripes about the library aside, Cg can parse Effect files in
+ source code form, but not the compiled versions that Microsoft's fxc.exe can
+ spit out. This isn't unreasonable in itself: the compiled file format isn't
+ officially documented, and a good portion of it is just blocks of Direct3D
+ shader bytecode anyhow, which Cg doesn't grok at all, because they wouldn't
+ make much sense to care about on, say, Linux. Unless you're me, then you
+ care about them a lot.
+
+ Naturally, most Windows games that use Effects ship them precompiled with the
+ offline shader compiler; why shouldn't they? It's faster, smaller, more
+ locked-down, and removes the need to /compile a bunch of shaders/ on
+ every gamer's machine for crying out loud.
+
+ Since MojoShader already deals with shader bytecode, turning it into GLSL
+ or whatever on the fly, it made sense to extend the library to support
+ compiled Effects, too. How hard could that be, anyhow?
+
+ Turns out: pretty hard. It took some time to reverse engineer the file
+ format, and led to an awful discovery: Effect files can have what are called
+ "preshaders," which are programs that run on the CPU to remove redundant
+ work from the shaders handed to the GPU. This turns out to be a totally
+ different virtual machine from the shaders themselves, with different
+ opcodes. Also: you have to write the code to run those opcodes yourself.
+
+ That being said, that all works now, which is pretty hot.
+
+ MojoShader still has some work to be done to fully support Effects...right
+ now it parses them pretty well, but you still have to do a lot of work in the
+ app itself. Eventually, we'll add a more formal API to handle the appropriate
+ OpenGL state changes, leaving the app to just say "start pass X of
+ technique Y in Effect Z," but all the hard, undocumented stuff is in there,
+ and Shank is using it right now.
+
+
+ * *TheoraPlay*
+
+ Shank uses Scaleform for a lot of the game's UI: the menus, the HUD, and,
+ notably: the cut scenes. "Scaleform Video," as it is called, is not actually
+ owned by Scaleform; it's a codec licensed from a company called CRI, and
+ unlike the rest of the library, the video code has not been ported to Linux,
+ which made it a non-starter for a Humble Bundle title.
+
+ We had no choice but to rip it out. We talked about reencoding the movies to
+ Bink, but decided it was silly to spend money on that when Ogg Theora
+ appears to be a fine video format and we were going to have to write a lot
+ of code to make the game think it was still talking to Scaleform Video
+ anyhow.
+
+ Plus, anyone that's used libvorbisfile knows that dropping Vorbis support
+ into a project is /dirt simple/, so how hard could Theora be...right?
+
+ Turns out there isn't an equivalent to libvorbisfile! You have to get
+ down and dirty all the way to the Ogg bitstream level...packets, pages,
+ and yes, even Vorbis decoding without the elegance of a single ov_read()
+ call.
+
+ Since I had to write all that integration code anyhow, I abstracted it into
+ a simple API for other apps to use.
+
+ I call it "TheoraPlay" ... http://icculus.org/theoraplay/
+
+ The benefits of this library are:
+   - It's simple to use.
+   - You don't need to know anything about Ogg Theora to pull video
+     and audio out of an .ogv file.
+   - It decodes on a background thread, behind the scenes, so you can get a
+     performance boost on multicore CPUs.
+   - It supports output in various video formats (YV12, IYUV, RGB, RGBA).
+   - It can decode from a filename, or from an i/o callback you provide.
+   - It's one .c source file and two .h headers that you drop right into
+     your project (plus libogg, libvorbis, and libtheora).
+   - It's zlib-licensed, which is even more liberal than the Theora license!
+
+ Once all the heavy lifting to write TheoraPlay was done, the actual
+ integration into Shank was quite pleasant. It's a few more steps than
+ libvorbisfile (because streaming video+audio is harder than audio by itself),
+ but it's pretty pleasant to use.
+
+
+ * *MojoDDS*
+
+ Shank isn't the first game to use .DDS files (which, strictly speaking,
+ means "DirectDraw Surface" even though they're often used with Direct3D),
+ but it was the first time /I/ had run into them.
+
+ DDS files are useful for two reasons: they care about DXTC (or what OpenGL
+ calls "S3TC") compression, and they care about mipmaps, so they can often
+ be a better answer than something more common, like a .jpg or .png file.
+ The format is actually well-documented by Microsoft, but I couldn't find a
+ decent drop-in piece of code to handle DDS files, so I cobbled something
+ together myself.
+
+ I call it "MojoDDS" ... http://icculus.org/mojodds/
+
+ This library is just a fragment of what I want it to be at the moment; it
+ kind of stumbles through a DDS file and spits out the pertinent bits, but
+ I'd really like this to much more feature rich: "here's a buffer,
+ figure out what it is, and load all its mipmaps into a texture," or maybe
+ "give me an RGBA version of this thing," or "do the right thing if this
+ system doesn't have S3TC support," which is sadly still a desirable
+ attribute in the patent-adverse world of Linux GPU drivers.
+
+
+ MojoShader, TheoraPlay, and MojoDDS are all zlib-licensed, which means you
+ can do almost anything you want with them, including drop them wholesale
+ into your commercial, closed-source project.
+
+ Thanks to Jamie Cheng from Klei Entertainment, who was very patient while
+ I built big pieces of tech for Shank! Happy new year!
+
+--ryan.
+
+
+
+     [1] http://www.shankgame.com/
+
+--------------------------------------------------------------------
+When this .plan was written: 2012-01-02 03:11:15
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.24 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

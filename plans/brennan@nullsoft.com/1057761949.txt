@@ -1,0 +1,34 @@
+Login: brennan        			Name: Brennan Underwood
+Project: blah blah Winamp3 blah blah
+Plan:
+13-jun-2003
+
+<a href="http://www.badmotherfucker.org/hl/">HackLife</a>: my new blog. Read it or don't.
+
+10-mar-2003
+[edit]
+
+  Lemme elaborate. Winamp 2.x is getting developed more. Justin & Christophe are
+taking the good ideas they liked in Winamp3 and putting them in Winamp 2.x,
+in 2.x style, coded to the win32 metal and super tight.
+  They are also going to *use* Wasabi to enable Winamp3 skin support, because they
+like it, and that's the most mature and robust part of Wasabi. This is cool, this is
+fine. Wasabi exists to get used. I wish more apps would enable Wasabi, even.
+That's why I wrote it, to get used.
+  As for Winamp3, it's still getting worked on and developed. Both players will use
+Wasabi. One player will be more of a crazy abstract development platform written
+more directly in Wasabi and one will be Winamp 2.x-ish with freeform skinning +
+other sexy playery features. And both will use Wasabi.
+  Everybody wins! If you like Brennan-style ultimate program flexibility, use
+Winamp3. If you prefer Justin-style hardcore minimalist player features, use
+Winamp 2.x, unless you're on Linux, in which case you're stuck with Winamp3.
+
+[/edit]
+
+Wasabi development is not over nor dead. Think of it more as Winamp 2.x is getting Wasabified!
+If we do things right you'll be able to load your Winamp3 components into Winamp
+right alongside your Winamp 2.x plugins, while still being able to just install Winamp 2.9 if
+you prefer that, or just Winamp3 if you prefer that. Basically, you'll be able to run
+Winamp 2.x skins in their native skin engine, and Winamp3 skins in theirs.
+
+Should be pretty cool. ;)

@@ -1,0 +1,33 @@
+
+*** Ion Storm's Finger Server
+
+User name: jerry
+Plan modified: Fri Jan 08 10:37:40 1999
+
+Jerry O'Flaherty
+Plan file update:  01-08-99
+
+	We dropped in the new graphics for the main interface last night.  BAD-ASS job by Rick Kohler renovating that beast into a slick piece of bitmap candy.  We still have numerous tweaks and fixes(working with Dustin) to get it just right but the major part of the visual overhaul is done.
+	Speaking of Rick maybe I should run down the new team of artists on the DK project so everyone out there knows who's aboard.
+	Eric Smith:	Art Direction and Lead Artist.  Responsible for making this baby sing in all things visual.  He came in fresh with great ideas on how to up the show in a lot of areas.  Currently getting said upage done.
+	Jim Daly:  The conceptual boy for most of ION now.  We have Arnie if we need but Jim is doing whatever needs to be done on the conceptual end.  Right now he's working on the set designs for the cinematics.
+	Chuck Crist:  Chuck's finishing all the E2 texture and Sky work before he cruises to Austin to work on Deus Ex starting Feb 1.  
+	Trent Martinez:  Determined to hire the entire Martinez clan, Trent comes into the texture gig with two of his brothers already at ION cranking on levels.  He's doing mop-up texture work on E1 right now.
+	Arnie Jorgenson:  Arnie is putting his hand to all things environmental right now.  All the little detail stuff that Eric and I want to get into the levels to make them rock.  He'll pull duty as a conceptual guy when needed, as his background is the comic gig.  He's applied himself amazingly to the 3D side of things and now the 2D PhotoShop gig as well.
+	Matt Cox:  Matt is on the Weapon effects like a madman.  He's going to bring those bad boys up to hyper-bad-ass speed before he's done.  We have a lot of weapons so he has his work cut out for him on this one.    
+	Gene Kohler: Gene arrived right after the new year after a stint at Dream Forge(fellow Forgers Josh and Rick already here).  Joining his brother on the team he's digging into Uview right now and will be skinning away in no time.
+	Chris Perna:  Speaking of skins.  Anyone who has even the remotest doubt that our skins(post-Ken) will be kick-ass has only to see this man at work.  His stuff is amazing and he's fast.  However he is on loan to DK from Anox and will return to his primary product when he finishes the skins for DK.  He's also a great texture monkey as well.
+	Niqui Wright:  Back into the texture gig she goes.  Niqui is back at the texture gig after a brief stint in the high-poly world that was the DK cinematics.  She's doing mop-up work on E1 textures right now and she and Trent are sharing the job of new texture creation whenever the level designers need.
+	Bill Daly:  Bill was heading up the high-poly cinematics team until the recent days.  His animation skills are now being plied to the in-game character animations.  Many redoes and tweaks to be done.  He's on it.
+	Rick Kohler:  As mentioned above Rick just got done with the major revamp of the main interface.  He's tweaking now and will also be getting us the new and improved in-game interface before too much longer.  After that he'll be kicking ass helping us get the textures in line.
+	Rayfield Wright:  He's been reworking the power ups in recent days.  He's a solid modeler(was also working on the high-poly cinematics until recently) and has been getting familiar with the level editor.  He'll most likely be on Cinematic level creation here pretty soon.
+	Ludovic Texier:  Currently working on getting his happy French ass back from France, where word has it he is stuck without the proper visa paperwork.  More on Ludo when we see his smiling face back at the office(He's not officially due back from Christmas vacation until the 15th).  Chances are we'll throw him onto the Weapon animation fixes and Cinematic Level creation.
+
+That pretty much rounds out the Team as of right now.  We have several of these guys on loan for now but as people finish tasks and the final polishes are applied it will all be well worth it.
+
+Jerry O'Flaherty
+Executive Art Director
+Executive Vice President
+ION Storm
+
+

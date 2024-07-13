@@ -1,0 +1,39 @@
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+9/22/00
+
+As Elite Force hits the shelves and everyone here takes a breather, I just wanted to take some time to say congratulations
+to my work mates here at Raven. Some astonish effort and talent have been displayed here by everyone involved since I joined
+two and a half years ago. Three games have been released in that time period, and I'm more than a little impressed with both
+the titles themselves, and the ability shown by the people here to get it done.
+Raven is without doubt the best job I've ever had, and I'm damn glad to be working among these people. It certainly makes you
+reach into yourself to pull out your best when everyone else around you is doing the same.
+Oh, everyone except Bob Love of course. But that goes without saying:).
+
+We are not sitting around on our laurels though. Work has already commenced on my PSX2 project, and as I reported a bit ago, we
+are starting to see some real results. Much thought and deliberation has gone into some of the new tech we've been building, and
+without going into details I can say the results are looking better than we expected. We are definitely after the code nirvana of
+reusable blocks, with the plan being to reuse several objects of code not just in what I'm doing, but in what the SOF team does
+next, and what the Elite Force Team does next. This is a boon for everyone since everyone profits, artists, modellers, designers
+and everyone use the same set of tools and can swap from project to project as needed, which happens alot at Raven.
+
+I'm thinking of doing an update to Jakeworld, revamping it a bit, adding a few girls, doing a few more rants, and adding an
+editorial section too. This would enable me to do my little political rants without dragging Ravens name into the mix. It's not
+fair on them or Acvitision.
+
+I did an interview for GameSpy where we were talking about 10 years down the road. I made this glorious statement - 
+"Given Moores law of cpu's doubling in complexity every 18 months that means we will have processors 6.6 times more complex
+than we have now". I defend this bloody stupid statement on the grounds that I had a temperature of 102 at the time when I wrote
+it. The correct cpu multipler answer is, of course, actually 2 to the power of 6 which is 64. So we are looking at processors 64
+times more complex than we have now. Thank you every one that saw what an idiot I was.
+
+One last thing. Jeff K. does seem more juvenile than I had originally imagined. It was hard to stop him ranting off for pages and
+pages over Fagots and other stuff of this ilk. How does this man manage to surivive day to day I wonder? Why hasn't he bitten his
+own hands off yet?
+My sympathy for poor Cliffy B. expands daily.
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/users/jakeworld">JAKEWORLD!</a>

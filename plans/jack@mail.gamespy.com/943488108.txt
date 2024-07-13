@@ -1,0 +1,12 @@
+User:   jack
+Unread: 16
+Plan:
+10/26/99
+
+Whoops, I forgot to make an update here after all the Raven guys did :-)
+
+We are now happy here with Apple's level of support.  It turns out that there were mostly just misunderstandings about urgency between us and Apple which seem to have been cleared up now.  I'm very happy that this got resolved so quickly and without any real battle scars :-)
+
+I also want to extend a special thank you to one Mac gaming website - www.macledge.com.  While most of the press emails were just asking me to answer questions about Apple's level of support (of which I didn't answer any because I just wanted the situation sorted out), www.macledge.com was the only one to actually extend a hand to *help* my situation asking for nothing in return.  While I ended up not needing their help, I still want to mention them, as these people really surprised the hell out of me.  I don't see selflessness from web sites like this too often and I just wanted to point it out.
+
+Oh, regarding Mac releases for FAKK, I'll pretty much echo what Jake Simpson at Raven said.  We're not going to guarantee anything, but we will _try_ to get Mac and PC releases as close to each other as possible.  All of our custom code is in ANSI C and C++ (and believe me, there is a lot of it..  UI, game, and a chunk of the renderer).  We should be getting a Mac compiler today to try a build it with and it theoretically should just work, but, well, we know how theory sometimes works :-)

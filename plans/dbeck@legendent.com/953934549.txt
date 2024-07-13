@@ -1,0 +1,45 @@
+If you're a <A HREF="http://www.wizards.com/magic/">Magic: the Gathering&trade;</A> player or collector, take a look at <A HREF="http://customers.doubled.com/~dbeck/">my collection</A>.  You can also <A HREF="http://wazmo.dhs.org/cgi-bin/search.cgi">search</A> my collection.  If you have any comments or suggestions, <A HREF="mailto:dbeck@doubled.com">e-mail me</A>.  I'm looking to sell or trade the <A HREF="http://customers.doubled.com/~dbeck/foil.html">foils</A>.
+
+2000-03-10
+====================
+Today I moved all our WoT servers over to a dedicated connection.  Hopefully that will resolve any issues relating to bandwidth.
+Unfortunately, the IP addresses for all the servers had to change.  Legend WoT servers are now at the following addresses.
+    38.204.39.2:7777
+    38.204.39.2:7780
+    38.204.39.3:7777
+    38.204.39.4:7777
+    38.204.39.5:7777
+There will probably be two or three more servers added soon.
+
+Wheel of Time multiplayer tip:
+Lightning does massive damage to anyone nearby when used in water.  If you use an elemental shield (fire, air, or water) to protect yourself from lightning, you can kill several players in a water zone quickly without taking any damage yourself.
+Be warned, however, that some players who don't understand how this works may think you're cheating because it kills so quickly.
+
+
+1999-12-30
+====================
+Happy New Year.
+
+Wheel of Time multiplayer tip:
+If the only ter'angreal you have is Freeze, you can use Air Pulse to kill someone while they're frozen.  You have to get right up next to them.
+Dart doesn't do any damage to someone who's frozen.
+
+
+1999-12-06
+====================
+You can run a Wheel of Time multiplayer server without the CD.<UL><LI>Run Wheel of Time and set up the server options using the Multiplayer menu, but don't launch the server. You'll need the CD for this step, but you only have to do it when you want to change the server settings. Alternatively, you can edit your WoT.ini file and change the settings manually.</LI>
+<LI>Exit the game.</LI>
+<LI>Open the MS-DOS prompt and change to your WheelOfTimeSystem directory.</LI>
+<LI>Type <B>ucc server Arena_01.wot?game=WoT.giMPArena</B> for an Arena server, or <B>ucc server Battle2_01.wot?game=WoT.giMPBattle</B> for a Citadel server.
+<LI>To shut down the server, select the UCC window and press Ctrl-C.</LI>
+</UL>You can change the map name in the command to the map you want to start with. The Battle2_*.wot series are two-team maps, Battle3_*.wot are three-team, and Battle4_*.wot are four-team maps.
+
+
+1999-11-24
+====================
+For those in the USA, Happy Thanksgiving.
+
+I finished up <A HREF="http://www.legendent.com/cgi-bin/fingerlist.pl">Legend's dynamic finger page</A> today.
+
+Wheel of Time multiplayer tip:
+Be sure to pick up bags dropped by killed players.  Often enough, you'll get a fistful of ter'angreal.  When that happens, I usually take a moment to select the most useful in each hand, so they'll be at the ready in the heat of battle.

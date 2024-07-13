@@ -1,0 +1,43 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+<font color="white">
+
+<b><u>Dec.14.1999 @ 9:21am</u></b>
+
+ A frustrating part about reading reviews on Q3A, is how reviewers don't
+state the correct facts sometimes. 98.2% of the reviews I've read state that Sonic
+Mayhem did the background music for Q3A. This is only 50% true =) There are 12 
+background tracks in the game. 6 were indeed done by Sonic Mayhem, and the 
+remaining 6 were done by Bill Leeb and Chris Petersen of Front Line Assembly / 
+Delerium fame.
+
+ If you view the PAK file with WinZip under baseq3/music, you'll see 6 sonic*.wav
+tracks and 6 fla*.wav tracks (Some of the FLA tracks were broken up into two parts
+for an intro and a repeating loop part)
+
+ -Xian
+
+<tt>
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, mud slides, forest fire, or projectile (which can 
+include, but not be limited to, arrows, bullets, shot, BB's, paintball, shrapnel,
+lasers, napalm, torpedoes, or emissions of X-rays, Alpha, Beta and Gamma rays,
+knives, stones, etc.). 
+</font>
+---
+</tt>

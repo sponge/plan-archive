@@ -1,0 +1,188 @@
+Login: ridah          			Name: Ryan Feltrin
+Plan:
+
+Ryan Feltrin
+<a href="mailto:ridah@frag.com">ridah@frag.com</a>
+
+Technology & AI Programmer, <a href="http://www.xatrix.com/">Xatrix Entertainment</a>
+
+----------------
+05-Jul-99
+
+
+Server Ops: If you are running Kingpin Bagman (Teamplay) on your server,
+I recommend turning off team-damage. Just open up the server.cfg to
+see how easy it is to do this. This has a significant effect on gameplay.
+
+Also please notify if you are experiencing server crashes. I've noticed a
+few servers going up and down today, if this is due to our code, I'd like to
+know.
+
+
+Players: If you are experiencing pauses or slowdowns in Kingpin multiplay, please
+report it to me, along with your system specs, and any possible work-around's
+you've found to work (this will help me fix it). I've heard of several people
+experiencing frequent pauses and other strange occurances during network play.
+I've been told changing the connection speed to modem in the player config menu
+solves problems for some, let me know if this is/isn't the case for you also.
+
+The network code has been re-worked from the Quake2 engine, to provide
+for better performance on low bandwidth (modem) connections. I also worked the
+directional lighting such that the server actually calculates which lights are
+touching you, and sends them as index pointers through the network stream. The
+traffic created by this is negligible (maybe a few bytes per second) and is
+all in the interests of keeping the client frame-rates as high as possible.
+
+So as you can see, I am definately interested in making sure Kingpin multiplay
+is everything it can and should be. If you are experiencing problems, I'd like
+to hear from you.
+
+
+----------------
+04-Jul-99
+
+First, the response to Kingpin Deathmatch and Teamplay (BagMan) has been great.
+However, this has caused a severe shortage of servers, so I have been working
+feverishly on the linux dedicated server port, which I'm happy to say is ready
+for small-scale testing.
+
+So, the first six server ops running Linux glibc 2.1 to come forward willing to test
+out this early build, will be put on my short beta testing list. Hopefully this
+first stage of testing will go smoothly and if so, the linux server will be just
+a few days away.
+
+--
+
+Now, another "possible" solution to the long CD loads (again, I can't test these out,
+since none of our machines exhibit the problem). This courtesy of <a href="http://www.rcook.com">Randy Cook</a>.
+
+1) Save your current game in the Save Game menu.
+
+2) Exit Kingpin
+
+3) Put the Kingpin CD in the tray, but leave the tray open.
+
+4) Start Kingpin
+
+5) At the main menu, select "Game" then "Load Game". Do not start game yet.
+
+6) Close the CD tray.
+
+7) Select your saved game, and begin playing.
+
+Hopefully this will help things out, but again, I have no idea if this will work.
+
+
+----------------
+02-Jul-99
+
+Well it turns out not having the CD in the drive doesn't help much at all, since
+the CD check will abort the game if the CD isn't there. It does seem as if
+the problems are isolated to certain machines, exactly what configuration
+is causing it is unknown at this stage. They certainly don't seem to be
+surfacing on our machines, which would explain why it slipped through QA.
+
+The best I can offer at this stage, is for anyone experiencing problems,
+to report them to Interplay. If enough people come forward, they will give it
+a higher priority, and will be more likely to release a work-around, or if
+required, ask us to release a patch.
+
+I've been checking out various Kingpin servers the last few days, and managed
+to put together a short list of improvements. If you have experienced any
+problems with your net play, or noticed anything strange, make sure to
+report it to Interplay. If they get enough reports, then we will be
+given the all clear to release a patch to fix up any remaining issues.
+
+
+----------------
+01-Jul-99
+
+Problem:
+Really long level loads
+
+Possible Solution:
+Make sure the CD is not in the drive when you load up Kingpin. I haven't
+checked this, but I'm told it eliminates the slow loads. FYI, a normal
+level load is between 2 - 10 seconds, depending on size of level.
+
+
+Problem:
+Jittery performance in multi-player
+
+Solutions:
+- Options menu -> shadows = AUTO
+- Options menu -> fireworks = first tick from left
+- Visuals menu -> texture details = left most setting
+
+
+It's funny how so many people could have the same CD key.
+
+
+-----------------
+30-Jun-99
+
+I've had a few emails regarding tech support type questions for Kingpin.
+
+Firstly, do not email me if it doesn't work, unless you cannot get a working
+solution from Interplay tech support. Your Kingpin documentation has the number
+for you to call should you have any problems. I don't respond to tech support
+questions individually, however if I get enough of the same problem, I may
+post solutions here. Make sure to include your CD serial number when emailing,
+otherwise it will be deleted, for obvious reasons.
+
+Now, that being said, I've had a few problems from people that seem to be
+getting stuck at a light-brown screen on load-up, using TNT/2 cards. This
+MAY be due the existance of an old glide2x.dll in your system directory, from
+and old 3Dfx installation. Since the game will first try to initialize
+the 3Dfx minidriver, this will crash under the above circumstance.
+
+The solution is to delete this file, ONLY if you do not have a 3dfx brand
+card in your system.
+
+Another possible solution is to start the game with:
+
+kingpin +gl_driver opengl32
+
+The reason we try the minidriver first, is many have installed the Q3 OpenGL
+ICD for 3dfx cards, which are not compatible with Kingpin.
+
+
+Linux update:
+
+We are chasing down one major crash, otherwise it's looking good.
+Hoping to have it out the door by the end of the week. See how we go.
+
+
+
+---------------
+18-Jun-99
+
+Kingpin is done. Phew. It was a long 13 months, but I'm proud of the result.
+
+Server Ops:
+
+A linux port is currently in the works, and if things go according to plan,
+will be available by the time the game hits the stores.
+
+Gamers:
+
+If you've been looking for something new to play on-line lately, let me introduce
+you to "Bag Man". It might sound odd, but it's actually very addictive, and
+intense. Take CTF, mix it with Mobsters. Stir.
+
+The result, is a game revolving around cash. Both teams have a safe. Somewhere in
+the center of the map exists a Cash spawning location (counterfitting machine outlet,
+if you must..). The object being, to collect as much cash as possible, then return
+to your base and lock it in the safe.
+
+But, as the game progresses, it becomes highly rewarding to steal from the enemy
+safe, hence the term "Bag Man". Anyone that has stolen from the enemy safe, has
+a big sack over their shoulder, and can be carrying up to $200 in the sack, plus
+whatever cash they've put in their pockets (picked up along the way). This makes
+them prime targets for the enemy, and highly valuable friends.
+
+At the end of the game, the team with the most Cash wins. Simple as that.
+
+Kingpin ships with THREE BagMan maps, and FIVE deathmatch levels.
+
+Enjoy.

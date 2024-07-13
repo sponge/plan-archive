@@ -1,0 +1,32 @@
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+6/19/00
+
+I find myself in a stupid situation. Recently software house Dataplus announced they were going to provide an
+OpenGL middleware layer for the playstation 2. Now I need to contact these people, but I can't find any reference 
+to them on the web, or on any of the news pages out there. Does anyone have a contact there that they could forward
+to me? 
+Thanks.
+
+On another note I'd like to take this opportunity to say a big Thank You to Brian and Steve Raffel. For those that
+aren't aware, the 24th of June is the 10th anniversary of Raven Software. Without Brian and Steve deciding to start
+this software house up, I wouldn't have a job. So a big thanks goes to them, as well as a congrats to everyone that
+makes this place such a fun place to work.
+
+So what else is new? I appear to have my fingers in many pies at the moment - almost all of which I can't talk about.
+It's pretty frustrating on this end, since I tend to use my .plan file to talk about what I'm doing and why, and since 
+I can't mention anything, it tends to make for short updates.
+
+For those that are interested I've echoed my C tutorials that I'm doing on my own JakeWorld website. VoodooExtreme gets
+them first, but they will appear there soon afterwards.
+Also, the last part of the three articles I was doing for Loonygames is also up on my website. The first two, The Anatomy
+of a video game and Networking 101 were published, and apparently Looniboi has the third ready to go, but since the site
+hasn't been updated in a while I went ahead and stuck the third article up on my site. It's called "Game Philosphy - Make
+'em play". It's basically a ramble on thoughts developers should bear in mind when developing titles.
+
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/users/jakeworld">JAKEWORLD!</a>

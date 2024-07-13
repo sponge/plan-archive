@@ -1,0 +1,11 @@
+
+Name: Eric Turman
+Email: eturman@mail.ravensoft.com
+Description: Animator
+Project: SoF
+-------------------------------------------------------------------------------
+2/11/99 8:53 AM
+
+I'm getting really psyched about the animations.  We've all seen game enemies get shot, blown up, and blasted.  But imagine blowing the leg off at the knee, blood gushes out, and the enemy falls to the floor.  Not dead yet, writhing in pain and screaming in agony, it clutches at its wound trying to stop the jets of blood that stream forth from its dismembered joint. Walking up to it, you empty the remainder of your clip into its head, putting it out of its misery.  The lifeless body shakes and twitches as you pump in a few more slugs (just to make sure it really is dead).  Its body, however, doesn't gib yet.  But it is starting to have an unsettling resemblance to hamburger you ate for lunch.
+
+-->Turmanator

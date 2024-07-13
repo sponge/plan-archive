@@ -1,0 +1,12 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+
+The installer for Mac OS X Quake 3 1.30 went up this morning.  Been a super busy day so sorry for the lack of plan file update.
+
+Generally, of course, I advise upgrading to 10.1 for everyone asap.  Those with a Powerbook and desktop machines with PCI Rage 128 cards will need at least 10.0.4 to play due to a bug in OpenGL on earlier versions.
+
+Under 10.1 this version will always go faster than the Classic build on the same machine.

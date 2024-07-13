@@ -1,0 +1,25 @@
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+1/11/00
+
+Hey - I was just wondering if any of you Windows ME fanatics out there could give me a hand. I have some very cool USB 
+speakers - decidely phallic, but that's apple for you:) - anyway, they are great and sound terrific. However, I just got a
+shiny new USB logitech QuickCam - and by the way, thanks a ton Logitech for sending us all this great USB stuff, the 
+vibrating mice are WAY cool - and it interfers with my speakers something chronic. I'm guessing there is only so much USB
+bandwidth to go around, even though I don't get any "out of bandwidth" messages come up on boot, as I've seen before. Anyway
+the effect is that my sounds get a ton of interference in them when the cam is operating. I'm using the default microsoft USB
+sound drivers, (which don't appear to work properly anyway, the different volume sliders don't affect anything, except the main
+one), and it's getting very depressing that I can't use the cam to update Jakeworld.
+Anyone out there got any idea's?
+
+Thanks for all the responses on the modding tutorials. I'm gonna get started on them as soon as I get done finishing my basement.
+Look for them soon.
+
+Oh, and by the way, go see Pay It Forward. It's a great movie. Why can't life be more like that? Except for the last
+10 minutes of course.
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/users/jakeworld">JAKEWORLD!</a>

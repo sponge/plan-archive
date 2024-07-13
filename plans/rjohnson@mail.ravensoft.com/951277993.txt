@@ -1,0 +1,330 @@
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: SoF
+Nickname: Superfly
+Web Page: <a href="http://www2.ravensoft.com/users/rjohnson">Rick's Web Site</a> <a href="http://www2.ravensoft.com/users/rjohnson/turtlecam.asp">TurtleCam!</a> <a href="http://www2.ravensoft.com/users/meatwagon">mEATwagon Cult</a>
+-------------------------------------------------------------------------------
+2/22/2000
+   We've released the patch for the SoF Demo.  This patch mainly represent things we felt were important to
+      fix or adjust in the demo, but only if we could easily merge it back into the demo codebase (as the main
+      game has changed considerably).  Below represents my crude notes of items we addressed.  Most of these
+      items were QA'd through the low-violence demo release (for the UK), but as a whole, this has not been
+      QA'd.  You can still connect to servers running the original version, but you may notice view height
+      discrepencies (such as when you crouch, you're practically eating dirt).  This is only a problem if the
+      server has not been patch.
+
+   The patch is available at <a href = "http://www.sofnews.com/downloads.html">SoF News</a>.  It is slightly
+      over 1 meg.  Feel free to mirror.
+
+SoF Demo 0.57 Changes
+---------------------
+	-Run speed for DM in menus
+	-LAN Only option in multiplayer config
+	-No rocket launcher dm flag in menus
+	-Scoreboard display / sorting problem fixed
+	-Fixed obit filter cvar problem
+	-Current map name in info list
+	-Dedicated console talking is now in purple
+	-Remote IP determination
+	-Fixed SOCKS5 support
+	-Added "exit" command to console (in addition to "quit")
+	-Remove cl_nodelta cvar
+	-Player height raised
+	-Fix for going to the web pages for NT
+	-Player corpses are shootable after respawning
+	-Added no_won cvar (for LAN only play)
+	-Chase cam for spectator works better now
+	-A3D bug fixes and upgrade to 3.0
+	-Fix for random crash
+	-Fix for Invisible players in DM
+	-Added g_movescale
+	-DM flag for no rocket launchers
+	-Added sv_suicidepenality
+	-Crash fix for default sound / a3d in multi-player
+	-Smoother movement for spectator
+	-Fix for public server checkbox not working
+	-Longer delay for intermission and only fire button to move on
+	-New sniper rifle behavior
+	-Blood fixes
+
+2/20/2000
+   So what do developers do at 2:00AM after putting in a 16 hour day?  We Play <a href="http://www2.ravensoft.com/users/jscott/sof/snow1.jpg">King of the Hill!</a>
+      Jersey "Back Stabber" Hughes was quoted as saying "Cheap shots are the only way I could get him [Rick] off 
+      of the Hill!"  I tackled Matt "Pummel Me" Pinkston, who was severely injured.  The paramedics were heard saying,
+      "Wussssss".  Eric "Baby" Biessman couldn't handle Matt and Pat "Strong-Arm" Lipo, as he was
+      <a href = "http://www2.ravensoft.com/users/jscott/sof/snow4.jpg">thrown</a> from the hill.
+
+2/15/2000
+   Am I the only one wondering what America / our culture has become?  Specifically, this show on FOX tonight
+      "Who wants to marry a multi-millionaire?".  If you aren't familiar with the this show, 50 women are competiting
+      to marry some multi-millionaire whom they have never met.   Basically, the women want his money, and he'll
+      probably pick the prettiest one.  Has our society really become this shallow?
+
+   Now, onto something game related.  This whole discussion about licensing engines and all of that.  Someone please
+      tell me what a "Game Operating System" is?  Most of my experience with licensed engines are with the Quake
+      series.  Generally, we are given a complete drop of their development system (code, tools, assets), and we
+      go from there.
+
+   I would certainly like to see Unreal from a license point of view.  If for nothing else, to see how their 
+      approach is to a major engine compared to id's.
+
+2/8/2000
+   Check out the latest SoF DM Team character set, The Meat Wagon at <a href="http://www.evilavatar.com">Evil Avatar's</a> site!
+
+2/4/2000
+   At some point in the near future, I'll be releasing a patch for the SoF demo to address some of the issues
+      that have come.  A few of the more popular items / fixes that will be include in the patch are:
+      * Raised player height
+      * g_movescale cvar to scale the multiplayer move speed
+      * A3D sound updated to 3.0, fixed some crash issues / speed
+      * Fix for Default Sound / A3D crash in certain multiplayer circumstances
+      * Fix for invisible players in DM
+      * Better spectator movement
+      * and a bunch of other things
+
+   The demo code is still very separate from the main product now, so that we are only bringing over select
+      changes.  No ETA on when I'll release this demo patch (a 'non-violent' demo is being QA'd with these 
+      changes, so I'll see if anything further comes back), but I will be updating the Raven servers later 
+      this evening.
+
+1/25/2000
+   Whomever said we don't listen...
+
+   Based upon feedback of the DM players, we are going to add a cvar which controls (on the server) how fast
+      movement rates are.  So you can scale down the movement rates to whatever rate you desire.  Few other things
+      we are going to add:  cvar to allow you to set a frag penality if you kill yourself and a dm flag to say that
+      you only want bullet weapons in a level.
+
+   Sometime this evening, I'll bring up a demo server with the slower movement rates, so that you can judge it
+      for yourself.
+
+   --- <b>Update</b> ---
+   I set up 3 servers here.  
+      Raven-Speed-0.60 - player speed set at 60%
+      Raven-Speed-0.70 - player speed set at 70%
+      Raven-Speed-0.75 - player speed set at 75%
+
+   This is completely setable by the server operator, so in the end, you can pick whatever speed you desire...
+
+1/24/2000
+   <b>SoF Demo News</b>
+
+   The demo can be downloaded from <a href = "http://www.gamespot.com/action/sof/index.html">GameSpot</a>.  It is 95.1 megs.
+
+   Quick Note about Drivers:
+      If you play SoF on 3dfx hardware, you may experience a few driver bugs.  On the DX7 Beta drivers, when the screen flashes
+      to indicate you are hit, you may get random colors.  Other cards / drivers may experience complete texturing problems (though
+      SoF should disable those features in Gl which cause these problems).  <b>NOTE that these bugs are within the 3dfx 
+      GL drivers themselves, and are NOT SoF bugs!</b>  3dfx is aware of these bugs, but I'm not sure when they will be able to
+      address them.
+
+   --- <b>Update</b> ---
+   With the demo being out now, we would love to hear your <a href="mailto:SoF-Demo@ravensoft.com">Comments</a>.  Either Positive or Negative, just
+      be descriptive, as one line comments don't really help us too much.  For general questions, comments, etc, go to the <a href="http://sof.ravensoft.com">SoF Message Board</a> 
+      on that page.
+
+1/22/2000
+   <b>SoF Demo News</b>
+
+   The Demo will be officially released Monday.  It got delayed until then mainly because QA
+      found another crash bug Thursday (in the same function, ironically, but different area).  Friday, I 
+      decided I wanted to try and address a 3dfx driver related bug.  On certain drivers (kinda a mix of
+      processor and OS), texturing would completely screw up.  I changed the code so that on 3dfx, the game
+      would not enable a specific rendering feature.  This took a bit to QA today (to track down a related
+      problem that got by me).  I just got done talking to Mike Denny, who is in charge of QA for SoF.
+      We have their blessing to release the demo (finally)...  But because of "outside influences" it was
+      decided to hold up until Monday.
+
+   Just to give you a brief rundown of the Demo features:
+      4 single player maps (a tutorial level, 2 full playable levels, plus a cinematic level)
+      2 deathmatch maps
+      12 different deathmatch models / skins representing 3 teams
+      In game server browsing
+      and a ton of custom options (including custom game settings (such as disabling spawning))
+
+   The demo will weigh in at a hefty 95 megs, but should fit on zip disk.
+   
+1/19/2000
+   SoF Demo News
+
+   The Demo is currently in final release testing (i.e. a 2nd QA group who has never touched the product before
+      hammers on it for a day).  They came across one crash bug, which we've identified and corrected.  They
+      are now verifying the fix.  The demo would have been out tonight or early Thursday morning if it wasn't 
+      for this last minute bug.  In other words, very soon...   Bake me an SoF!
+
+1/17/2000
+   With the demo being extremely close to being released, followed by the full game, I'm looking for feedback
+      in this area.  Currently, you need to have a copy of 3DS MAX 2.0 in order to create GHOUL models.
+      This may be of inconvience to some people, so I've left in support for Quake2 models.  This code
+      hasn't been used in well over a 16 months, and may not even work with all of our networking changes.
+      Should I leave in Quake2 model support?  Is that worth-while for MOD makers?  Or should I remove it
+      and go on with life?  Or if someone has done a Quake3 model viewer for the Quake1 source code, should
+      that be placed in?  (given the author gives me permission, as I just can't plop in Q3A source code 
+      into our project).  Send me an <a href="mailto:rjohnson@ravensoft.com">email</a> with your thoughts.  Please put a subject of "Q2M", so that my
+      filter will move it into a folder for me.
+
+1/10/2000
+   For all of those who are interested in the whole Violence and Video Games issue, please particpate in
+      this <a href="http://www.vote.com/vote/1733953/">Vote!</a>
+
+1/6/2000
+   With the release of the Quake 1 source code, it has been asked about the possibility of Hexen2 / Hexenworld
+      source code being released.  Since a version of Hexen2 was just recently released to some Asian markets
+      a month ago, at this time we cannot release the source code.  This is not saying that we will never 
+      release the source code, but currently, the timing is not appropriate for us to do so.
+
+   Update:
+   Check out this <a href = "http://www.combatworld.com/reviews/sof/">SoF MP</a> review!  SoF went into limited
+      public beta testing of the demo today.  Probably going to be putting up a big comparison chart of what
+      the SoF Engine has versus other engines tomorrow...
+
+1/5/2000
+   If anyone knows how to update a .DLL that is always in use by NT, I would appreciate the feedback.   
+      Speficially, I want to update the imagehlp.dll on our NT machines to the latest version, but since
+      the OS always has it in use by the time you log in, you can't update it.
+
+   Update:
+   Some people got me pointed in the right direction, so I did some more searching on Microsoft's help sight
+      and discovered this program called <a href = "http://support.microsoft.com/support/kb/articles/Q228/9/30.ASP">inuse</a>.  Seems to be a win32 console app which calls MoveFileEx().
+      Thanks everyone!
+
+12/28/99
+   I received this SPAM email today.  I think I'll phone in my Master in Computer Gaming Science degree today!
+
+<i>   UNIVERSITY DIPLOMAS
+
+   Obtain a prosperous future, money earning power,
+   and the admiration of all.
+
+   Diplomas from prestigious non-accredited
+   universities based on your present knowledge
+   and life experience.
+
+   No required tests, classes, books, or interviews.
+
+   Bachelors, masters, MBA, and doctorate (PhD)
+   diplomas available in the field of your choice.
+
+   No one is turned down.
+
+   Confidentiality assured.
+
+   CALL NOW to receive your diploma
+   within days!!!</i>
+
+12/19/99
+   Just a note, that all of those "Previews with hands on copy" are using the Razer OEM version, which is about
+      3 months old.  No one outside of Raven has seen the full version yet...  and especially with all of the
+      changes we've been making.
+
+12/15/99
+   Well, I got a whole ton of responses over the IPX.  About 65% of the people said to drop IPX.  People who
+      wanted IPX in were mainly those who run LAN parties a lot and find IPX easier to configure and get going.
+      So with that, SoF will support IPX.  I brought over the bug fixes I did for Heretic2 and we'll do some 
+      testing on it to make sure it works.  So once the demo is released, please let me know if there are
+      any issues with IPX that need to be addressed for the final game...
+
+   There's no announced date yet for the demo (learned that lesson from the past...) but once we complete it
+      and get it QA'd, we'll pick a date for it to be released...
+
+12/13/99
+   We're getting close to putting out a public demo of SoF.  While we are busy working on that, along with
+      finishing up the main game, we've also been working hard on networking and various DM games / modes.
+      My question to everyone is, how important is IPX support?  Does anyone really use this anymore (i.e.
+      can we drop support for it in SoF)?  Let me know...
+
+11/29/99
+   You know, it has been more than <b>6 months</b> since <b>BitchX</b> has last updated?  I'm sure I can
+      speak for <b>Jack Mathews</b> in saying that he'll truely miss her!  I'm still kinda curious on what
+      happened to <b>her</b>.  Anyone know?  
+
+11/24/99
+   Hope all of you have a good Thanks Giving...  I'm going to be taking a little break from the Hectic work
+      schedule of SoF and play a little Unreal Tournament and some Warcraft, maybe even a little Doom 2.
+
+11/15/99
+   For those of you who have "acquired" a version of the OEM, you may have noticed rendering glitches with the
+      fog.  This is because the source of the version you "acquired" it from was mucking around with console
+      variables and saved them in a bad state.  To fix this, you should either delete the config.cfg file
+      in the user directory where you "installed" the game, or edit the config.cfg file, and change the
+      following console variables to these values:
+
+      set gl_fogmode "0"
+      set gl_offsetunits "0.0"
+      set gl_offsetfactor "-1.0"
+
+   Also, please <a href="mailto:sof-oem@ravensoft.com">Email</a> us your comments about the OEM (praise, criticism, likes, dislikes, etc) 
+      so that we can take your feedback to improve the final game.
+
+11/12/99
+   <a href = "http://www.activision.com/games/sof/">Download</a> the long awaited SoF AVI!  It's about 24 megs...
+
+11/6/99
+   So you're waiting for the SoF AVI?  Well, here's something to wet your appetitie.  This 
+      <a href = "http://www.ravensoft.com/files/SoFSong.zip">Song</a> was an impromptu recording by the actor that plays John Mullins in
+      SoF.  This was just a little fun thing that Chia-Chin Lee had him record.  This isn't actually 
+      going to be included in the game...  Enjoy!
+
+   <b>Please note that this song is intended for mature audiences.  Parental discretion is advised.</b>
+
+11/3/99
+   The comments about playing it for a brief try were not directed towards the avault article at all.  
+      The article as a whole is very fair, and actually is very favorable towards SoF.  The reviewer
+      did play the OEM extensively and walked away not fully liking our difficulty settings.  That's fine, and
+      this is already address for the final product.  What frustrates developers the most is when
+      people dislike options without either trying it or just playing it "for a bit".  Most of the time,
+      features will grow upon you.
+
+   --------
+
+   I hate it when people make assumptions about games prior to ever playing it or just giving it a brief 
+      try.  Open up your minds, otherwise you'll be stuck with the same game play forever :)
+
+   The guys respawn...  They spawn out of logical places where more enemies would naturally flow in.
+      They also respawn based upon the amount of "noise" you are generating.  If you use louder weapons,
+      you'll attract more attention to yourself.  Quieter weapons, you'll attract less attention, and you
+      won't see as many people.
+
+   Limited saves...  It does add very much to the realism.  People were skeptical here, but turned out it that
+      it made you in the game more "mortal" and tightened up your senses.
+
+   But, having said that, one option which did NOT make it into the OEM is a customizable difficulty setting,
+      where you can control the number of saves (or unlimited), no respawning, AI difficulty, etc.  So if you
+      don't like our defaults for the standard difficulties presented to you, you can always do your own custom
+      settings.  This was always planned since day 1.  I'm a big fan of limited saves, but there will always be
+      people with different tastes...
+
+11/1/99
+   ** Big SoF News **
+
+   There is going to be a Linux port of both the client and server.  Unfortunately, because of the 
+      lateness of this decision, it will not be ready by the time the game ships, but will be available 
+      to download as soon as it is available (hopefully within a month of release).
+
+   We have completed a major AVI and will be releasing it very soon.
+
+   ---
+
+   Little clarification, is that I guess the Linux version will be a separate retail product.
+
+
+10/30/99
+   Happy Halloween!
+
+   Check out what the Avault <a href = "http://www.avault.com/the_frag3/">had to say</a> about their hands on experience with SoF at the Frag3.
+      It is at the 1:00PM Time in the article.  Sounds like they only played the first level though...
+
+   Monday I should have some important news about SoF...
+
+10/27/99
+   We're just about to go gold on one of the OEM versions of SoF (for <a href = "http://www.razerzone.com">Razer Mice</a>).
+      This version contains 4 Single Player levels.  This is by far, Raven's best game ever.  Finishing the full 
+      game is just around the corner.
+
+   Limited beta testing will probably start next week for SoF DM.  With the SP OEM out the door, most of us
+      can concentrate on DM.  
+
+   During the low times in the last few weeks, a few of us here have been playing zDoom and the mega.wad.
+      I forgot how much fun these levels were, and just getting back to some classic doom DM.

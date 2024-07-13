@@ -1,0 +1,47 @@
+
+*** Ion Storm's Finger Server
+
+User name: squirrel
+Plan modified: Wed Jun 27 21:02:19 2001
+
+
+Update regarding Anox & Win2k:
+
+We've managed to coerce the win2k crash
+bug to reproduce itself here on my dev box,
+which is good.  I have a theoretical fix
+in the works, but it'll take a few hours
+to finish coding and test it.  After that,
+QA will have a go and we'll see if it passes
+muster.
+
+If everything goes well the fix should be
+in the v1.01 patch, which will be available
+friday-ish at:
+
+http://www.anachronox.com/patches.html
+
+We (the coders) are aiming to make Anox
+win2k-friendly (though still unofficially
+supported, alas) as quickly as possible.
+
+Note that the patch will weigh in at around
+5 MB, so downloading it shouldn't cause
+anyone undue stress.  The patch also fixes
+several minor issues and improves load
+times considerably.
+
+Note also that several people have written
+me with various workarounds which have
+fixed the win2k crash for them.  The ones
+most frequently suggested have been:
+
+- disable 3d sound / EAX
+- change win2k user logins (non-admin, etc)
+
+In the meantime, have some chips and salsa
+and check out the new trailer if you haven't
+already.
+
+http://www.anachronox.com/downloads.asp
+

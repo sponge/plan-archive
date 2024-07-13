@@ -1,0 +1,10 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Lead Programmer
+Project: ?
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+Kenn Hoekstra (formerly) at Ravensoft, had released the original Player model animation source files for Elite Force. But I forgot the .ase and .ask files that we used for the root and heads.  so here's <a "http://www.3ddownloads.com/ravensoft/Voyager:%20Elite%20Force/EF_Tools"> yet another archive for ya with those files</a>.
+I threw in carcass.exe to the new ase zip as well, since i'm not sure which archive had it.  (this is the tool which processes those .car files.) {theoretically, i haven't messed with this stuff in a Loooong time.}

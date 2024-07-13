@@ -1,0 +1,67 @@
+
+Name: Christian Antkow
+Email: 
+Description: Designer
+Project: 
+-------------------------------------------------------------------------------
+Apr.3.2002 @ 12:00pm CST
+------------------------
+
+ <b>Wolfenstein Multiplayer Stuff</b>
+
+ I am currently testing the new Dedicated Only Server, (Win32) that should 
+hopefully be released in the near future, on my MP_BASE and MP_DESTRUCTION
+Servers.
+
+ This will be a relatively small 27mb download for people who wish to run Wolf
+Servers without having to copy the entire game directory onto a server machine.
+
+ Furthermore, I'm working with Tony Ray of Even Balance (Punkbuster) to 
+implement server administration tools via a web browser.
+
+ Right now, it only allows kicking and banning of users remotely, but if it
+takes off, server admins should be able to change any settings on their 
+servers via a webpage. I'm currently testing the new Punkbuster stuff on both
+my Base and Destruction servers. If it ends up working well, it will more than
+likely make it's way into a future release of Punkbuster !
+
+ We would <b>*GREATLY*</b> appreciate it if people could bang on the servers for
+the next day or so to see if any bugs crop up. If it's stable for the next 24
+hours or so, I'll go ahead and update my Beach, Ice and Trench Toast Servers.
+
+ The two servers currently being tested with the new stuff are at;
+
+ 192.246.40.45:27960 - Xian's MP_DESTRUCTION Server
+ 192.246.40.45:27961 - Xian's MP_BASE Server
+
+ Stats and Forums for my servers are available at;
+
+<a href="http://underworld.idsoftware.com/wolf">http://underworld.idsoftware.com/wolf</a>
+
+ If anyone encounters any problems with both those servers, please email me at 
+xian@idsoftware.com with any issues.
+
+ Thanks !
+
+ -Xian
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, leaky roof, broken glass, mud slides,
+forest fire, and/or projectile (which can include, but not be limited to, 
+arrows, bullets, shot, BB's, paintball, shrapnel, lasers, napalm, torpedoes, 
+or emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.)
+</font>
+---
+</tt>

@@ -1,0 +1,25 @@
+User:   jack
+Read:   0
+Unread: 1
+Time:   Thu, 22 Oct 1998 20:45:29 -0700
+Plan:
+<b>DISCLAIMER: MY WORDS DON'T REPRESENT 3DFX INTERACTIVE INC, DAMMIT.
+
+10/9/98 - 12:57pm</b>
+
+What people will do for a couple of frames...  I really recommend you don't
+copy the Half Life OEM's minidriver into your Quake or Quake 2 directories
+that 3Fingers is sending around.  That miniGL was built specifically for
+Half Life, and even tho it might get you a couple more frames/sec (can't
+think of why...) if you alt tab out of Quake or Q2 while this is running,
+you'll be introduced to a fun hard lock a lot of the time.  That's why those
+drivers will never be released for Quake/Q2.  However, they work fine in
+Half Life.  When there are newer drivers available, they will be available
+for download immediately from the 3Dfx website (the one with the big green
+monkey).
+
+Of course, for those of you that just absolutely need those extra 2
+frames/sec that your monitor won't even update because your vsync is off,
+have at it.  But I really don't recommend it.  I wish people would just wait
+till drivers are actually released before putting them in our customers'
+hands.

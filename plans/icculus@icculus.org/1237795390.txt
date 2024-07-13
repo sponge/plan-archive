@@ -1,0 +1,82 @@
+I'd love to turn you on.
+
+
+PhysicsFS:
+
+ 1.0.2 and 2.0.0 released! http://icculus.org/news/news.php?id=4514
+
+
+icculus.org:
+
+ CVS, your days are numbered! We are pulling the plug on cvs.icculus.org on
+  March 31st!  http://icculus.org/news/news.php?id=4508
+
+ I take back what I said about CloudFront...if you need to push 3 terrabytes
+  a month, you're looking at hundreds of dollars a month so strangers can play
+  Postal 2 and Prey for free.
+
+ Sadly, no one else seems better. Sony charging publishers 16 cents/gigabyte
+  for DLC makes a lot of sense now...it's one cent cheaper than Amazon's base
+  rate.  :(
+
+ What does one do, when one gives out gigabytes of free shit? At least when
+  someone buys a game based on a demo, those 16 pennies seem like a darn good
+  investment. But if my attach rate for these big-ass servers, demos, and
+  installers was 100%, it would still gain me zero bucks, not counting the
+  400 bucks a month spent on bandwidth.
+
+ Man, I need a sugar daddy at Akamai so badly.
+
+
+Other stuff:
+
+ My rant from yesterday [1] stands, but I wanted to add some notes:
+
+ - There is apparently a freedesktop thing [2], but looking aside the 
+   infuriating need to stick "XDG" on everything, I'm not sure I dig on the
+   idea of using environment variables. I'd rather this have to call a piece of
+   system-controlled code that can set policy, and handle things like creating
+   directories, etc, so every app that needs to be changed needs extremely
+   minimal changes, and reduce their ability to get things wrong. Granted,
+   that system code could respect these XDG_* variables if that makes sense.
+   Even looking beside that: dude, it's 2009, can we stop using environment
+   variables and shell scripts for everything? Is it heresy to ask that?
+   Honest to god, though: how'd that $BROWSER thing work out?
+
+ - My code example wasn't meant to be a locked down API. I'd change things in
+   it already.
+
+ - Someone pointed out GoboLinux [3]. That's sort of what I'd like to see, but
+   I'm not really concerned with /bin and friends all that much, and the
+   symlink soup they do is kind of nasty...but it still proves this is a
+   feasible thing. I think Mac OS X might have that more or less done right:
+   /bin, /usr, /etc (etc!) all still exist and have things you'd expect, and
+   the Unix Goodness is there...but they also have an /Applications directory
+   for all the bundled apps that the end user (not the Unix command line guru)
+   cares about. For that, it's possible that klik [4] is moving in the right
+   direction. I'm not sure, though. I think there's a lot of hostility to the
+   idea of Application Bundles, since the primary beneficiary might be
+   closed-source software. This is probably why there's no pleasant equivalent
+   of OS X .dmg files, either. But that's not the hill I want to die on right
+   now, so we'll fight that fight another day.
+
+ - Fundamentally, the hurdle is not designing a solution. That takes ten
+   minutes. The hurdle is patching, and patching, and patching.
+
+--ryan.
+
+
+ 
+
+
+     [1] http://icculus.org/cgi-bin/finger/finger.pl?user=icculus&date=2009-03-21&time=23-40-17&section=otherstuff
+     [2] http://www.freedesktop.org/wiki/Specifications/basedir-spec
+     [3] http://www.gobolinux.org/index.php?page=at_a_glance
+     [4] http://klik.atekon.de/
+
+--------------------------------------------------------------------
+When this .plan was written: 2009-03-23 03:44:22
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.22 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

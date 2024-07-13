@@ -1,0 +1,17 @@
+
+Name: Eric Webb
+Email: eric@idsoftware.com
+Description: Monkey
+Project: 
+-------------------------------------------------------------------------------
+Wow! We got some really positive feedback. Most of those that emailed me sent along clear, concise, and to the point bug reports. MANY THANKS!
+
+Based on your feedback, we feel that a large part of this problem was/is related to people running several different versions of Q3. We had some internal problems with the master and authentication servers during the weekend and the first part of this week that could have been causing some problems as well. These are now resolved. 
+
+If you are one of those that is still having problems, be aware that we're still looking into it. VERY little changed in the net code from version 1.29f to 1.29h, so we're pretty confident this should be resolved for you guys. 
+
+There's one last thing that I'm curious about. Can those of you that are not upgrading to the beta (waiting for the FULL release) try connecting to a server that you POSITIVELY KNOW is running the same version as you and let me know the results?
+
+Thanks again!
+
+-eric

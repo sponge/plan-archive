@@ -1,0 +1,27 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+
+Quick update!
+
+You need to have all the current pak files to use this update (pak0->pak5), if you're at all concerned about whether or not you have them, or don't know what to look for, then please wait for the installer version.
+
+MacStuff.
+
+I've been a bit preoccupied with the Tokyo keynote demo this last month.  But I have made a new Classic build today.  It's located at:
+
+	http://homepage.mac.com/graemedevine/FileSharing.html
+
+I love how iDisk is integrated into OS X!!
+
+What's done.  This is using the new Metrowerks compiler which seems excellent.  It should run as well as or better than previous builds.
+
+What's not done.  The sound code is still taking up more CPU time than it should, this is a Quake code issue I'll resolve quickly.
+
+What's not there.  The altivec enhanced version and the OS X build.  I've not had time yet to build those and update them.  The OS X work done for the keynote address demo in Tokyo pulls directly across to the OS X Q3A build, so it should be very straightforward.
+
+Given the beta hardware, daily builds of OS X, hourly patch dumps for the GF3 OpenGL driver, and content/code changes from id, the keynote build ran exceptionally well.  We did not have time to completely optimize for PPC or OS X, as I understand more and more about PPC and Altivec programming, I'm seeing more and more opportunities.
+

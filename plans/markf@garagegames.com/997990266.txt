@@ -1,0 +1,9 @@
+GarageGames plan resource for Mark Frohnmayer
+Posted Thursday August 16, 2001 at 19:01 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=1304
+
+Well, it was a great vacation while it lasted, but all good things must come to an end... so I'm back! And what do I get to do first? Documentation... ugh. So I'm cooking up an overview doc of the V12 - and it'll probably end up being pretty big (200,000 lines of code is a fair chunk of functionality to cover :) 
+
+We'll be putting pieces up in the SDK area as they are finished, so stay tuned.
+

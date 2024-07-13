@@ -1,0 +1,36 @@
+Login: richard        			Name: Richard Smith
+Plan:
+
+------------------
+14th November 1998
+(I don't need a time, because it tells you that above ;))
+
+Here I am helping to run one of the fastest growing plan tracker systems on the internet,
+along with the super RonSolo, and I don't update my own plan for five months.
+
+As Miss Morissette would say - "isn't it ironic?"
+
+Actually she'd probably prattle on about needing knives instead of spoons. I'd quite like to
+use a knife 10,000 times on her.
+
+Its nice to see that people are adopting our system with open arms, and we're happy to
+help anyone who wants a plan tracker on their webpage. Since we're not running it as
+just another service out of a broad range of others (such as PQ or Stomped) we can
+dedicate everything to it. So it stands to reason that ours will be best.
+
+Doesn't it?
+
+We like to think so anyway. :)
+
+I'll be spending this weekend upgrading all our services to be even better. I'm going to get
+the polls going in Webdog again (we seemed to lose them somewhere on the road from QBS)
+as well as upgrade our search system. Since I'm also going to fully adopt SSI for all our pages
+to make them easier to update, you'll probably notice the design change a little as well.
+
+How much it changes depends on how much new stuff I have to fit in.
+
+I'm coming up with a list of additions to our service right now, if you want to throw some ideas
+into the melting pot - throw them my way. richard@square8.com.
+
+
+- Richard

@@ -1,0 +1,58 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: info
+Plan modified: Tue Aug 04 18:07:48 1998
+
+
+Last updated:  August 4th, 6pm CDT
+
+
+
+-[ Sin Demo ]-
+
+It's out folks!!  You must have a Pentium 150 with 32megs of RAM to play. 
+A 3D accelerator isn't required, but the demo has support for 3Dfx, Rendition
+PowerVR, and NVidia.  
+
+Look for it at our website:
+
+http://www.ritual.com/
+
+<a href="http://www.ritual.com/">Ritual Web</a>
+
+
+
+-[ Sin Demo Problems ]-
+
+Go read the Mini-FAQ for a short list of common problems with the demo and 
+their solution.
+
+http://www.ritual.com/news/SinMiniFAQ.html
+
+<a href="http://www.ritual.com/news/SinMiniFAQ.html">Sin Mini-FAQ</a>
+
+
+
+
+-[ Sin Demo Bugs ]-
+
+Yes, we know the game has bugs.  If you think you've found one, head on over
+to the Bug Reporting page over at Activision:
+
+http://www.activision.com/games/sin/bugs.asp
+
+<a href="http://www.activision.com/games/sin/bugs.asp">Report Sin Bugs</a>
+
+
+
+-[ Sin Full Release Date ]-
+
+The official date is "When it's done."  Software developement isn't an exact
+science, so we can't pinpoint a date.  We're working hard and it shouldn't
+be too long now.
+
+
+
+
+

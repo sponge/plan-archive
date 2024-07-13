@@ -1,0 +1,49 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-------------------------------------------------------------------
+User Name: tim.gift     Plan Last Modified: 03/15/1999 15:15:36 PST
+
+Real Name: Tim Gift
+Nickname: Slacker
+Job: Director/Lead
+Project: Starsiege Tribes
+
+3.15.99
+
+Off to CGDC tomorrow. I will be gone for the rest of
+the week. Scott is back from Extreme Annihilation. It
+Sounds like that went pretty well.  He's heading back
+off to CGDC with me tomorrow. With Mark & Dave there as
+well, and Nels on vacation, it's going to be a quite
+week here for the rest of the TRIBES team.
+
+Soon as we get back from CGDC, we'll be about ready to
+ship a beta patch.  This will include some changes to
+OpenGL and the integrated mission editor. The mission
+editor changes are in preparation for our tools release
+which should follow soon after.  There are some  server
+side fixes in the beta as well, but I'm not clear on
+how we'll upgrade the servers.  We'll sort that out as
+when we get back.
+
+There have been a number of "upgrades" to our CA Exodus
+site that have caused problems in the last week with
+IRC and the master servers, hopefully these are over.
+The site is managed by a different division and
+sometimes these changes come as a surprise :)
+
+Jeff commented that my last interview for Warzone
+seemed a little negative about TRIBES. I didn't mean it
+to come across that way. I think TRIBES is a great
+game, the best one I've ever worked on. But, like 
+anybody who ships a product, I see all the things that
+are missing or features that we could have done better.
+Every once and a while I'll be playing, or see some
+screenshot, and think "Man, this game rocks!". But most
+of the time, I find I'm a little more critical :)
+
+
+
+

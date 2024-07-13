@@ -1,0 +1,58 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-----------------------------------------------------------------------
+User Name: rick.overman     Plan Last Modified: 06/22/1999 13:39:37 PST
+
+//-----------------------------------------------------
+Real Name:  Rick Overman
+Job:        Director/Lead Programmer
+Project:    Starsiege, Core R&D
+E-mail:     rick.overman@dynamix.com
+
+As a secondary project we have been working on
+additional OpenGL engine changes for Starsiege and
+Tribes. The rendering pipeline is fairly optimal as of
+Starsiege patch v1.002 but we are still not seeing the
+FPS we should be because of poorly written drivers.
+
+The only option remaining to us is to take as much
+texture management responsibilities from the driver as
+possible.  This is a good and bad thing.  The good is
+that it looks like we'll get a generous FPS boost by
+micro-managing textures.  The bad is there is no reason
+we should have to do this.  Most the hardware available
+today can handle many times over the textures we
+typically download but the drivers just cannot keep up.
+It's sad, there is a lot of great silicon out there
+that will never live up to it's potential.  So
+micro-managing textures will compensate for driver
+inadequacies but will eliminate the possibility of ever
+really being able to push the cards to their limit.
+
+So why all this rambling about drivers all of a sudden?
+Because I'm thinking of holding onto patch v1.004 for
+another week or so and rolling in the OpenGL engine
+changes now rather than doing yet another patch.
+v1.003 seems very solid and adding the OpenGL changes
+to v1.004 will make it a nice package for everyone to
+look forward to.
+
+Starsiege Telnet! So there is a little undocumented
+feature in Starsiege (and Tribes) that many of you may
+be very interested in.  Starsiege supports remote
+telnet sessions.  To enable telnet just add the
+following lines to your autoexec.cs it's that simple.
+
+$telnetPort = 15000;       // port number
+$telnetPassword = mypass;  // password
+
+You can use this for a variety of things: Remote
+Administration, write your own ladder monitoring tools
+or even extend Starsiege in ways I've never considered.
+Have fun if you come up with a unique application send
+me some mail and let me know.
+
+
+--Rick

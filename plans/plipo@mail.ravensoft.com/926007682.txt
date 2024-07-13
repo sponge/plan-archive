@@ -1,0 +1,69 @@
+
+Name: Pat Lipo
+Email: plipo@mail.ravensoft.com
+Description: Lead Programmer/Prog. Manager
+Project: Heretic II
+Nickname: Vertigon
+-------------------------------------------------------------------------------
+------------------------------------------------------------------
+May-6-99
+
+   Hey all:
+
+   I've been a busy beaver, really getting involved in our next
+project in the past weeks.  It's been a real rollercoaster of 
+writing up proposals, fleshing out ideas, and getting feedback
+from all interested parties.  It's new territory for some, old hat
+for others, but I almost guarantee it's not what you think.  I've 
+been involved to a small extent in Heretic II's version 1.05, but 
+Jake has really taken the brunt of the task.  He's been really 
+great at coordinating with testers and handling all the little 
+issues that have cropped up, thanks mate.
+
+   Well, the reason I'm here, however, is that Jake is on vacation
+this week and I wanted to make sure everyone was up to speed with 
+what's going on with Heretic II as well.  With the release of 
+v1.05 there arose a bug with downloading and dedicated servers.
+This bug had been hiding there for a long time, but for some 
+reason it got really aggrivated with this most recent release.  
+The problem occurs when clients try to connect to a dedicated 
+server with all the download options on, causing a crash.  All 
+downloading did work properly with a listen server, so 
+unfortunately this issue slipped through the QA process.
+
+   Many people attributed this to old versions like v1.04 being 
+allowed to connect to v1.05 servers.  We had left the two versions
+able to network together because the fixes we made were largely
+server side.  There were a couple of client fixes, but there was
+nothing which would prevent a v1.04 client and v1.05 server from
+working together, or a v1.05 client on a v1.04 server.  We figured
+that not forcing the upgrade would make the transition easier.
+
+   However, it seems that folks that put up servers would rather
+be certain that their players have the new version.  So, with the
+new version, v1.06, an upgrade will be required to play on a v1.06
+server.  In addition, I also fixed the dedicated downloading 
+problem (coordinating a client-server architecture can be a bitch
+sometimes).  QA is almost ready with testing this new version,
+and we will be getting it to you as soon as possible.  
+
+   In addition to the full patch and the EP-to-1.06 patch, I have
+also updated the full Toolkit patch, and made a new EP-to-1.06
+Toolkit patch (although if you are using the EP-to-1.05 patch 
+already, you shouldn't need more than a couple fo files from 
+this).  
+
+   Finally, as an additional "peace offering", I asked Jon Zuk 
+to pick four of the .MAP files from our deathmatch maps for novice 
+map-makers to look at and learn from:
+   DMCLOUD (by Matt Pinkston, from the Retail Version)
+   DMCITADEL (by Greg Barr, from the Xmas Map Pack)
+   DMJERSEY (by "Jersey" Jim Hughes, from the Enhancement Pack)
+   DMLIGHT (by Jeremy Statz, from the Enhancement Pack)
+
+   Anyway, we are getting everything together, so you can expect 
+this release within a few days.  Thanks for your patience.
+
+Later,
+Pat
+------------------------------------------------------------------

@@ -1,0 +1,96 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+------------------------------------------------------------------------
+User Name: nels.bruckner     Plan Last Modified: 07/31/1999 05:46:43 PST
+
+Real Name: Nels Bruckner
+Nickname: Nailz
+Job: Manager
+Project: Tribes 2, Tribes Extreme, etc.
+E-Mail: nels.bruckner@dynamix.com
+
+[7/30]
+     Tribes 1.7 patch should be up as of this
+afternoon.  Other than a few bug fixes, the main
+issue that was addressed was the texture bug that we
+inadvertantly introduced in 1.6.  Man, that's
+embarassing. :)
+
+     Anyway, I would encourage everyone to get 1.7,
+especially server ops (since several server-side
+bugs did get addressed) and people who were affected
+by the 1.6 texture bug.
+
+     On the Tribes Extreme front things are
+progressing nicely.  We have a lot of new missions
+that are getting fleshed out and they look totally
+cool!  It is really neat to see some new visual
+twists on the Tribes stuff.  I think these new
+missions will really excite the veteran Tribes
+players who are getting tired of the original
+missions.
+
+
+[7/12]
+     I believe our open call for user-submitted
+missions is going out today.  I can't wait to see
+what people come up with!  This should be an
+excellent forum for Tribes editing community to
+show their stuff.  We should also be posting our
+WorldCraft converter today as well as the player
+model tools. All you Tribes editors should keep your
+eyes on the Tribes site!
+
+     [Subliminal message - Nailz is a project
+manager, Nailz is not a programmer, Nailz is a
+project manager, Nailz is not a programmer...]
+
+[7/9]
+     I know many of you are anxiously awaiting our
+OpenGL friendly patch (Tribes 1.6).  Here is a quick
+update - We've been working closely with nVidia to
+make the next version of Tribes run well on TNTs and
+TNT2s.  So far this is going really well (with
+appropriate kudos going out to nVidia for their
+support and to our own graphics layer guru, Dave
+Moore) and we are getting very promising results.
+nVidia's new drivers (I believe they are up to
+version 2.08) seem to be a big step forward and the
+code that we have been modifying over the last few
+weeks gives complimentary performance increases. The
+end result will hopefully be that no one with a
+TNT-based accelerator will have to run Tribes in
+software mode (yeah!).  In fact, initial reports from
+our QA department indicate that the TNT performance
+is now very comparable to the Glide performance in
+earlier versions.  Performance on other
+manufacturer's cards is a mixed lot, depending quite
+heavily on the state of their drivers (tell me when
+this starts to sound familiar).  One notable standout
+is the S3 Savage4, which is also performing very well
+with the latest drivers.
+
+
+
+--Nailz
+
+
+[Now Playing:]
+Death Angel - Act III
+
+[Top 5 Bands:]
+Black Sabbath (forever, man)
+Corrosion of Conformity (Deliverance,Wiseblood,Blind)
+Mercyful Fate
+Overkill (a consistantly awesome band)
+Metallica
+
+[Car Lust:]
+McLaren F1 (duh)
+Ferrari F355 F1
+Lamborghini Diablo (any flavor, with the new
+headlights!)
+...maybe a Hummer or something 4WD... for
+the snow.

@@ -1,0 +1,28 @@
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+13/11/99
+
+Thanks for the help on the USB problem I had. It turned out that the MS drivers tend to 'slop' a bit when it comes to the USB
+bus being flooded. Oh well. The solution was to slap a new USB card into my PC, put the speakers on the board USB and the cam on
+the card USB and all is fine and dandy.
+
+I'm going to have a quick rant on the subject of the HandSpring Visor PDA. I bought one of these about 3 months back after doing
+some research and I came to the conclusion this was the best item for me. 3 months appears to be the time it takes before the
+'indispensable' critical mass is achieved. Now it has my life in it, and of course now is when it starts going on the blink. When
+ever I try and use it, the screen flickers. If I shake it at all, the screen flickers. It's incredibly annoying. So I took it back
+to Best Buy where I got it - "Do you have your receipt?" "No" "We don't want to know then, talk directly to HandSpring". Great. So
+I do, and guess what? Unless you buy your machine directly from Handspring over the web, they don't want to know either. So what am
+I to do? I tried contacting people about a repair, but everyone either laughs, or tells me it would cost more to repair it than to
+just replace it.
+
+I guess I can't blame Best Buy for their policy - perhaps I should have kept the receipt - but HandSprings behavior is seems deplorable
+in this case. I really really wanted to like the Visor - I even bought the 8 meg version - but now it appears I'm left with a defective
+machine that is only 3 months old. *sigh*, I guess it's time to look at the Palm 5..
+
+Work wise we are doing lots of stuff. Details to follow at 10.
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/users/jakeworld">JAKEWORLD!</a>

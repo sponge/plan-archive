@@ -1,0 +1,45 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Lead Programmer
+Project: Jedi Academy
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+Getting ready for the Jedi Academy Launch:
+
+And now, the Dedicated servers!  (these binaries are just for running a server, you will need a full RETAIL copy of the game to use them.)
+
+http://www.3dgamers.com/games/jediacademy/ 
+
+http://www.worthplaying.com/article.php?sid=13028
+
+
+PLEASE NOTE!
+You must have the RETAIL version of the game.  If you happen to have a pre-release or evaluation version, please take it down today as it will NOT work with the actual retail version.
+Thanks,
+
+
+past releases:
+---------------------
+
+Introducing JEDI_ACADEMY_ModelsAndAnimation.zip
+
+ 
+This archive contains files that may benefit you in creating your own custom models and skins for Star Wars:Jedi Knight:Jedi Academy.
+ 
+contents:
+A models and skinning guide from JK2 with a new introduction for JA.
+
+Unpainted skins for many of the models.
+
+Modview.exe to view models.
+
+Skeleton information for the main humanoids and other creatures and ships.  (this is really only useful to the l33t modelers who have figured out our crazy gla files. :)  but it should help by declaring the bone names and hierarchy.)
+
+
+http://www.3ddownloads.com/ravensoft/JediAcademy/Tools/JEDI_ACADEMY_ModelsAndAnimation.zip 
+
+http://www.3dgamers.com/games/jediacademy/
+
+Hang on, there will be more mirrors soon!

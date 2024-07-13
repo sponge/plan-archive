@@ -1,0 +1,42 @@
+--== December 21, 2000 ==--
+
+Warning - Save game design rant ahead.. nothing here about Unreal 2 or Legend this time...
+
+I can't believe it. For the second time this year one of the best games I have played in
+a LONG time is ruined by a terrible save game feature! When will people learn that limiting
+the way a player can save a game totally ruins that game for those without copious amounts of
+spare time.  First Diablo 2 sucked me in and had me hooked like a bad drug habit. But after
+fighting my way through the last quests in the 2nd act I was fed up with having to play for hours
+at a time because if I quit the game I would have had to repeat everything I had done in the current
+quest all over again. The game was fun but there was a LOT of hacking and slashing and making me repeat sizeable chunks of the game again because I had to go deal with real life is just wrong! 
+When a quest takes 2+ hours to finish this is not my idea of a good time. If I could have saved
+anywhere I would have played on and surely finished Diablo 2, instead I stopped playing at the start of Act 3 and never went back. 
+
+Now Giants has arrived and totally consumed my game playing time.. This game is A BLAST, I have been telling everyone I know to buy a copy....  Except now I have made it to the base building
+missions with (Limited) resource gathering and a bit of strategy and the mission takes a long time
+to complete. This is fine if I can finish the mission and move on or save and come back when I need to, but you can't. The game only saves your progress after each mission is complete. But in Giants you can die instantly if you get hit by certain enemies when your not looking or even if you are.  Why would anyone want to spend an hour or more trying to complete a mission only to die instantly and have to start all over?  Who thought this was fun? Granted it leaves the buildings you have completed intact but you still have to start all over collecting resources, killing off enemies and their gun turrets, rebuilding walls that were destroyed while you were out gathering food etc.  And if you die several times (which is easy to do), well thats a lot of back and forth doing the same thing over and over again.  After playing the first 4 levels (15-20+ missions), some challenging and others not, the game has come to a screeching halt because I have no desire to play the same mission again, for another 45+ Mins knowing I may die instantly if I make a mistake.  I tried it twice, once when I didn't know what I was doing and the crash to desktop bug existed (1 1/2 hours wasted) and then again last night after the patch was released... another 1 1/2 hours and still no joy.  So a game that I would have easily placed as a Game of the Year contender probably won't ever get booted up again.. 
+What a huge let down!
+
+It's really very easy, most people don't have hours and hours a day to dedicate to playing a game. People want to play in small or large chunks of time, depending on what is happening in life at that moment.  If I know a game is going to take at least an hour everytime I boot it up that severely limits the amount of times I play the game and my enjoyment level and I would bet there are alot of other people out there in the same situation.
+
+Looks like it's back to Unreal Tournament or Shenmue for me.
+
+
+
+--== October 30, 2000 ==--
+
+If you can't find the patch at the Infogrames site, we have posted a local copy
+here <A href="http://www.legendent.com/patches/napali/unrealrtnppatch.exe">http://www.legendent.com/patches/napali/unrealrtnppatch.exe</A>
+
+Once again, sorry for the problems with this patch getting released.  Things shouldn't be this bumpy in the
+future.
+
+
+===================================
+Craig Lafferty
+QA Manager/Associate Producer
+Legend Entertainment
+
+Current Projects:
+- Unreal 2
+====================================

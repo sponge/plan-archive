@@ -1,0 +1,39 @@
+Login: ridah          			Name: Ryan Feltrin
+Plan:
+
+Ryan Feltrin
+<a href="mailto:ridah@frag.com">ridah@frag.com</a>
+
+Technology & AI Programmer, <a href="http://www.xatrix.com/">Xatrix Entertainment</a>
+
+
+16-Jul-99
+----------------
+
+A full Linux client port of Kingpin is now available.
+
+I have not tested this extensively, so please don't treat
+this as a full-blown release. If there are major bugs, I'd
+like to hear about it. I will try and fix any problems in
+what little time I have outside normal work.
+
+I am very much behind the linux cause. Although for many it
+can be a love-hate relationship at times, when it does work,
+it's a dream to use. I've only been using it now for about a
+week, in which time I've developed a strong desire to see
+this platform succeed. Thus, I have devoted a lot of effort
+towards getting this client working.
+
+At this time, it is limited to Linux glibc, and REQUIRES A
+3D ACCELERATOR, which is compatible with Linux (most 3DFX and
+TNT/2 cards).
+
+Please sure to read the README file before attempting to contact me.
+
+<a href="http://impact.frag.com/ridah/kp_linux/kingpin-1.09beta_glibc-1.i386.rpm">Linux Kingpin v1.09beta - RPM Installation (recommended).</a>
+(use 'rpm -i --nodeps kingpin-1.09beta_glibc-1.i386.rpm' to install with TNT/2 cards)
+
+<a href="http://impact.frag.com/ridah/kp_linux/kingpin-1.09beta_glibc-i386-unknown-linux2.0.tar.gz">Linux Kingpin v1.09beta - TAR Archive.</a>
+
+Note: some non-Linux browsers are known to corrupt downloads
+of these files. Best use your Linux browser, and do a shift-click.

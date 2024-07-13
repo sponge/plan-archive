@@ -1,0 +1,62 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+
+Jan.30.2002 @ 9:14pm CST
+------------------------
+
+ I made some changes to our network configuration this evening (Big thanks
+goes out to Tapper @ <a href="http://www.worldogl.com">WorldOGL</a>).
+
+ To those people who regularily play on our gameservers, I would greatly
+appreciate it if you could drop me a quick line letting me know if your
+game experience on our servers has been better / worse / no difference
+since about 8:30pm CST today.
+
+ Things *SHOULD* be *MUCH* better as a result of the reconfigurations.
+
+ Thanks,
+
+ -Xian
+
+Jan.30.2002 @ 5:30pm CST
+------------------------
+
+ For those of you who love playing WolfMP on high maxclients servers like the
+Happy Penguin server (64 clients), you'll be pleased to know that I'm now
+running a high maxclients server here at id !
+
+192.246.40.64:27960 - [id] Xian's BUST-A-CAP Rotation !
+
+ It's rotating through all the maps (except Castle) in stopwatch mode (4 rounds
+per map) with friendly-fire turned off.
+
+ We hope to see you there !
+
+ Cheers,
+
+ -Xian
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, leaky roof, broken glass, mud slides,
+forest fire, and/or projectile (which can include, but not be limited to, 
+arrows, bullets, shot, BB's, paintball, shrapnel, lasers, napalm, torpedoes, 
+or emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.)
+</font>
+---
+</tt>

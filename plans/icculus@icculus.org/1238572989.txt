@@ -1,0 +1,312 @@
+A free-standing landing pad, held together by choir claps.
+
+
+                                        
+              /**************************************************
+              |  Looking for hot local LUG chicks?               |
+              |  Put on your wizard hat and robe!                |
+              |  finger adsense?advertid=38493706@icculus.org    |
+              *********************************Ads by Gooogle***/
+
+
+
+
+
+icculus.org:
+
+ cvs.icculus.org has passed on from this world after a long battle with
+  obsolescence. He was seven.
+
+ cvs.i.o died in the comfort of his rackmount server, colocated in Chicago [1],
+  in the early hours of March 31st. He was employed as a revision control
+  manager, serving thousands of open source developers.
+
+ He is survived by his children: Subversion [2], Mercurial [3], and Git [4].
+
+ The family has requested that a donation be made to charity [5] in lieu of
+  flowers.
+
+
+
+Other stuff:
+
+ This is a really really long, boring post about mailing lists. If your dog is
+  whining, you should walk him before sitting down to read this, or he's gonna
+  mess on the carpet by the time you're done.
+
+ Good boy. [13] [6]
+
+ So, we have a new mailing list manager now. We were using ezmlm (specifically,
+  ezmlm-idx), and it sucked for a lot of reasons. Now we've got GNU Mailman,
+  which resolves all my complaints with ezmlm, and adds a bunch of really nice
+  features I didn't even know I wanted at the time.
+
+ I waited a long time to do this conversion, because I thought it would be
+  really painful. It turns out, it wasn't, so for the sake of the next poor
+  soul that googles for "migrate ezmlm to mailman," here's some information
+  they might stumble upon.
+
+ First, I thought I'd have to ditch qmail. I didn't. Dropping qmail would be
+  way more painful than dropping ezmlm. The integration with qmail was dirt
+  simple.
+
+ Basically, I just installed Mailman, from source, following the directions
+  in the manual. Ultimately, you end up setting up a few .qmail files per-list,
+  and reserve some URL space on your webserver ("/mailman" and "/pipermail",
+  to be exact). Sane people will just "apt-get install mailman" or something,
+  but this broken-ass system didn't have that luxury (we're solving that with
+  a nice, clean install of Ubuntu in the near future, thank you very much).
+
+ Building lists is automated with a shell script [7]. It creates the list from
+  the Mailman command line interface, updates /etc/aliases, tweaks some
+  default list settings to my liking, and sets up the .qmail files, so 
+  incoming mail for the list goes to Mailman for consideration. This works
+  nicely for my setup, but of course you can build lists from the web interface,
+  too.
+
+ Please be careful, though: it will delete too many .qmail files in one case:
+  we had quake3@icculus.org and quake3-bugzilla@icculus.org lists, and after
+  converting the buzilla one ("rm .qmail-quake3-bugzilla*"), we lost some
+  .qmail files on conversion of the main list ("rm .qmail-quake3*").
+
+ The real fun comes from migrating the existing mailing lists. First, we need
+  to migrate existing subscriptions.
+
+ To limit end-user confusion about the migration, I would send a note to each
+  list before the move, explaining what was about to happen. Some of them I
+  had to subscribe to before doing so, so the message wouldn't bounce. After
+  about 10 iterations of this, I decided to automate it with a hacky script.
+
+ Yes, it's a shell script that calls a perl script. It uses ezmlm command
+  line tools to manage subscribing me for one post, if necessary, and
+  qmail-inject to send the message. I'm not proud. It's messy.
+
+ Get m.sh [8] and m.pl [9], *EDIT THEM FIRST* so they don't email me, chmod +x,
+  and then run "./m.sh $listname" ... consider everyone notified.
+
+ Now, it's time to make the move. Build the Mailman list, as above. A side
+  effect of the script is that it wipes out the existing .qmail files that
+  tossed mail to ezmlm. Once that is done, the new list is accepting mail, and
+  will bounce any incoming email from existing subscribers until you migrate
+  them with this simple shell script.
+
+    #!/bin/sh
+    ezmlm-list /var/qmail/alias/$listname >/tmp/$1.subscribers
+    /usr/local/mailman/bin/add_members -r /tmp/$1.subscribers -w y -a y $1
+    rm /tmp/$1.subscribers
+
+ This sends every email address on the list a note with the new list details,
+  as if they had just subscribed, and then a list of all email addresses to
+  the list owner (presumably, you). The note to the subscribers tells them
+  where to find the list's management page and their login details. It's all
+  the pertinent info, which they'll probably delete without reading. This is
+  why Mailman resends a reminder once a month by default.
+
+ At this point, subscribers continue to use the list as before at the same
+  email address, except they now have a nicer web interface for managing
+  their subscription.
+
+ You aren't done with the subscribers yet. Almost certainly you have some
+  undesirables in there.
+
+ Spammers and scammers tend to send email from "joe job" (that is, fake)
+  addresses. If you ever saw your friend's email address on a spam addressed
+  to you, this is what happened. Most of my mailing lists had addresses from
+  PayPal, eBay, and Amazon (plus other spammier-looking things).
+
+ What happened is a slimeball of some caliber sent a joe-job email to a
+  mailing list from, say, support@paypal.com. Not someone that works for
+  PayPal, mind you; that's a different kind of slimeball.
+
+ Ezmlm manages subscriptions through virtual addresses: if you wanted to be
+  on physfs@icculus.org's mailing list, you'd send an email (ANY email!) to
+  physfs-subscribe@icculus.org and it'd get you set up...namely, it'd tell you
+  "just reply to this email so we know it's really you and we'll start the
+  subscription." Yeah, you can see where this is going already.
+
+ Joe-job comes from support@paypal.com to physfs-subscribe@icculus.org. It's
+  just a spam email, but ezmlm doesn't care what's in your initial email at
+  all (we eventually started spam-filtering the *-subscribe addresses, but
+  SpamAssassin still gets a percentage of false negatives anyhow). Ezmlm
+  responds to joe-job by replying to support address, even
+  though it didn't /really/ originally come from there, with a helpful
+  message like, "okay, just to make sure your friend isn't playing a prank on
+  you by subscribing you to the list, just reply to this email without
+  changing the subject line, okay?"
+
+ It was a noble intention, and largely, it keeps out joe-jobbers and pranking
+  friends. In normal cases, this is the end of the conversation: for prankers,
+  the person would just delete the email. For joe-jobbers, likewise, if the
+  address even existed. Otherwise, ezmlm handles the bounce fine.
+
+ Some addresses, like dear support@paypal.com, however, would autoreply to the
+  ezmlm response with a "Thank you for contacting PayPal support! Your
+  business is important to us, so sit tight until we get to your email!!!!!!1"
+
+ ...and they would leave the subject line intact.
+
+ Ezmlm would see this definite non-bounce with the magic subject line and
+  subscribe a bogus email address to the list. Not only can spammers now use
+  this address to post spam to the list (in practice: rare, even before we
+  spam-filtered all incoming list traffic, subscriber or otherwise), but now
+  you might have every posting going to paypal, to which it replies
+  KTHX4WRITING!!!  ...and now you have a feedback loop.
+
+ Or worse, you don't have one. Now there are bogus addresses on the list no
+  one notices. Until they do.
+
+ I didn't automate this, I just went through every list and deleted email
+  addresses that looked suspicious (and a few that were questionable; if you
+  didn't look like a human chose your email address, you probably deserve to
+  realize one day that your subscription quietly vanished). But 9/10ths of
+  the culprits could be found by grepping for "amazon", "ebay" or "paypal".
+
+ At least the Mailman web interface made this easy enough to clean up by hand.
+
+ Okay, now you're functional! You can quit here if you don't care about the
+  mailing list archives. But I did.
+
+ Converting them to Mailman archives was easy:
+
+    #!/bin/sh
+    ezmlm2mbox.pl --archive /var/qmail/alias/$1/archive --mbox /tmp/$1.mbox
+    /usr/local/mailman/bin/arch --wipe $1 /tmp/$1.mbox
+    rm /tmp/$1.mbox
+
+ I don't remember where I got ezmlm2mbox.pl, but here [10] is my copy of it.
+  It just builds an mbox file from your ezmlm archives. Then we use a standard
+  Mailman tool to import the mbox file. Done!
+
+ Now, I have to confess something about myself: I am completely OCD about
+  preventing broken URLs. If I move something, I try to find some way to
+  keep the old URL redirecting to the new one if possible.
+
+ ezmlm has a cgi-bin program for web access to mailing list archives. It's
+  ugly, and did I mention it's some nasty C code that requires cgi-bin?
+  It's completely awful in every way. But there are a lot of direct links to
+  various list postings out there, and I didn't want them all to break. I
+  briefly considered making any ezmlm URL just point to
+  http://icculus.org/mailman/listinfo and let the user try to dig out what
+  they wanted, but a trivial Google search showed there were too many people
+  saying "this was an interesting comment over here: _link!_" without any
+  context. Which list do you go to on the page full of lists?
+
+ I also considered just leaving the cgi-bin program in place. It would keep
+  all the URLs functional, but at the cost of gigabytes of disk space (since
+  all the ezmlm archives would have to remain, despite another copy existing
+  for Mailman) and having it looked like all conversation ceased the day we
+  migrated...and having it look like ezmlm-cgi's output. This would not do.
+
+ So I wrote some code. Now legacy URLs still work, but redirect to the correct
+  posting in the new Mailman archives. There is a small PHP script that parses
+  the URL, and does a look up in a 2 megabyte SQLite database, saving me
+  gigabytes of disk space.
+
+ Here's the gist. I wrote a script in Python (please don't laugh, it's my
+  first!), since Mailman "pickles" their archive indexes, and I had to use
+  Python to pull the data out...then I just figured, why switch programming
+  languages, even if the rest is all regex stuff that Perl would excel at?
+
+ Here it is: ezmlm-dump.py [11]
+
+ Put it in /usr/local/mailman/bin and run it like this:
+
+   ./dump.py listname1 listname2 listnameN >/tmp/ezmlm-mappings.txt
+
+ What it eventually spits out is a lot of SQL. It looks up the Message-Id
+  in the Mailman archive indexes, which is fast and good about being unique
+  per message, then it has to read your entire mailing list archives to find
+  the same post in ezmlm's archives. Disk bandwidth is your enemy here, but I
+  couldn't find a way to do this faster without losing reliability and writing
+  a lot of nasty heuristic code. Once it knows where one archive maps to the
+  other, it builds database INSERTs that store this information.
+
+ We only had a few hundred emails that didn't have Message-Ids; some crappy
+  email clients neglect to supply one. Mailman generates one for you in this
+  case when importing the archives, but there won't be a match in the ezmlm
+  pile. I felt that just dropping that email was acceptable, as it was a low
+  percentage of the total content. Your mileage may vary. I wasn't interested
+  in trying to compare message bodies to find the missing emails.
+
+ Now, take ezmlm-mappings.txt and build an SQLite database:
+
+    sqlite ezmlm-mappings.sqlite </tmp/ezmlm-mappings.txt
+
+ (Protip: do things like this in one big transaction with SQLite. Tens of
+  thousands of INSERTs took 5 minutes to run, but wrap it all in one
+  BEGIN TRANSACTION and COMMIT TRANSACTION, and it takes 4 seconds.)
+
+ sqlite3 produced a file that was 25% smaller, fwiw, saving half a megabyte,
+  but I didn't want to bother reading the PHP manual for the cutesy
+  object-oriented database interface, so I used version 2. This could be
+  upgraded fairly easily, and I probably will do that work at some point.
+
+ Now, put this PHP script somewhere your web server can get it, put the
+  SQLite database in there with it, and tell Apache that the old ezmlm-cgi
+  URL should run this script [12] instead.
+
+ The Apache configuration change looks like this, here:
+
+   Alias /cgi-bin/ezmlm/ezmlm-cgi "/webspace/icculus.org/ezmlm/ezmlmremap.php"
+
+
+ Now old broken promises like this...
+
+    http://icculus.org/cgi-bin/ezmlm/ezmlm-cgi?64:mss:57:pcgggfcpkhbeledipkkh
+
+ ...will automatically redirect to the updated URL...
+
+    http://icculus.org/pipermail/ut3/2007-October/000057.html
+
+ ...and you're good to go.
+
+
+ Now you're done. Test it out, make a backup of your ezmlm archives, just in
+  case, and delete them. Update anything you can with new subscription
+  information: I intentionally didn't set up listname-subscribe addresses,
+  since it's begging for abuse. It was best to have those break. Things out
+  in the wild: READMEs in source tarballs, Tweets, forum posts...they'll just
+  have to deal with the fallout. Update the canonical sources, like project
+  webpages, and move on with your life.
+
+ Otherwise, everything should be going smoothly now.
+
+
+ In summary: this didn't suck as much as I expected. I thought there'd be a
+  lot of pain, and some unfortunate tradeoffs I'd have to accept, but besides
+  some time spent poking around with scripting languages, it all worked out.
+  The next person, after reading this, will have an even better time than I
+  did, I think. I hope.
+
+ As email administration of any kind is sort of an unrewarding drain, next
+  time I migrate mailing lists, I may wire everything up through Google Groups
+  and call it a day. But since I'm managing my own server and lists, I feel
+  like moving to Mailman made my life, and my users' lives about an order of
+  magnitude better. Hopefully this will encourage someone else to make the
+  switch, too.
+
+--ryan.
+
+
+
+
+     [1] http://www.chinetworks.com/
+     [2] http://svn.icculus.org/
+     [3] http://hg.icculus.org/
+     [4] http://git.icculus.org/
+     [5] http://icculus.org/sysinfo/donations.html
+     [6] http://www.flickr.com/photos/cochal/3324641284/
+     [7] http://icculus.org/~icculus/dotplan/makelist.sh.txt
+     [8] http://icculus.org/~icculus/dotplan/m.sh.txt
+     [9] http://icculus.org/~icculus/dotplan/m.pl.txt
+     [10] http://icculus.org/~icculus/dotplan/ezmlm2mbox.pl.txt
+     [11] http://icculus.org/~icculus/dotplan/ezmlm-dump.py.txt
+     [12] http://icculus.org/~icculus/dotplan/ezmlmremap.php.txt
+     [13] http://icculus.org/~icculus/dotplan/finn-at-19-weeks.jpg
+
+--------------------------------------------------------------------
+When this .plan was written: 2009-03-31 05:39:01
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.23 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

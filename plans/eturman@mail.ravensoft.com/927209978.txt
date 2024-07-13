@@ -1,0 +1,28 @@
+
+Name: Eric Turman
+Email: eturman@mail.ravensoft.com
+Description: Senior Animator
+Project: SoF
+-------------------------------------------------------------------------------
+05-19-99
+There was a lot of work to get the volume of animations into the game and working real time and all of the animators busted their @$$ to deliver.  Jarrod Showers has been cranking out animations like a madman, many of them heavily tweaked motion capture in addition to pure hand animation.  And Joe Sibilski, has had to come aboard and literally learn not only a new animation system, but a whole new software package by the seat of his pants, and he’s churning out the moves as well.  And I have spent a lot of time and energy making certain that it would all work by creating a new type of control system for the animators (a null hierarchy).  Null hierarchies aren’t anything new, but the features that I’ve incorporated into this one are.  More on that another time...
+
+All of the character modeling and animation was done in Softimage|3D, which GHOUL currently does not support, and then piped into another package, that hosts GHOUL, for processing into the game.
+
+I’ve seen a lot of misconceptions about the animation system being posted on the net.  Not to undermine the significance of GHOUL, but there is a lot of misunderstanding about what it is and isn’t responsible for.  Yes, GHOUL is an amazing system that gives us a lot of possibilities, and yes we did use motion capture.  But GHOUL is NOT responsible for the look of the ANIMATIONS.  GHOUL's features include, but are not limited to:
+
+Model render system
+Model lighting system
+Special effects
+Skinning tools
+Control over part visibility
+Bolting separate models together
+Etc...
+
+Nor was motion capture the sole reason the animations look the way that they do.  Granted, the motion data that hOuse of mOves delivered to us was excellent.  But with animations having to mesh as seamlessly as possible with several each other, not to mention motions that don’t look like they are really interacting with their environment, there’s a lot more than just taking mocap and *plopping* it on to a character.  Then again, if it were easy, our animation would look like everyone else’s. ;)
+
+-->Turmanator
+
+**************************************************************************************
+
+

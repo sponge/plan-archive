@@ -1,0 +1,562 @@
+IcculusPlan
+
+
+
+
+
+So I was messing around with networking in [UT99/emscripten][1], just to see
+
+if I could get it to work.
+
+
+
+Unreal uses UDP packets, usually on port 7777, between a client and server.
+
+All the players talk to a server, which updates all the other players with
+
+relavant information. It's not peer-to-peer. If you don't have a dedicated
+
+server, one of the players will start a "listen server," which is to say
+
+they'll be both a server for everyone else, and a client of that server.
+
+
+
+Emscripten, believe it or not, will compile and run C code that creates a
+
+datagram (UDP) socket, but it doesn't work quite like you'd expect. For one
+
+thing, there isn't any UDP support available to Javascript in web browsers,
+
+so by default Emscripten will wire this up to a WebSocket.
+
+
+
+UDP, for those that don't know, sends _unreliable_ packets. That is, you give
+
+it some bytes to send and a destination, and that packet of data blows off
+
+in the wind. All the packets you send are self-contained (it's not a stream
+
+of bytes like a TCP connection) and any given packet may or may not arrive, 
+
+or a series of packets may arrive in a different order than you sent them.
+
+The sender does not know the final result in any case. This is why most
+
+things opt for a _reliable_ transmission system like TCP, where everything
+
+arrives in order, lost packets are retransmitted transparently on your behalf,
+
+etc. The downside of TCP is that if something gets lost, your app gets 
+
+_nothing_ until the system sorts it out, resends, and gets you the next thing
+
+that was supposed to arrive. UDP can't make networks transmit packets better,
+
+but has _the opportunity_ to avoid TCP's stalls, for programs that can just
+
+carry on without the dropped data. Not every program has that luxury (your
+
+web browser can't go on if pieces of a page's HTML just sort of didn't show
+
+up, for example), and the ones that do need significantly more engineering to
+
+solve the problem, but the problem is at least solvable.
+
+
+
+There are other tradeoffs, of course. There are also concerns about firewalls
+
+and proxies, for example, but I won't bore you too much. 
+
+
+
+If you want to hear about a really well-done system built on top of UDP, 
+
+Quake 3 Arena is open source and well-documented. You should definitely read
+
+[Fabien Sanglard's explanation][2] of Q3A's networking model for the details
+
+and check out [ioquake3][3] for the source code.
+
+
+
+Unreal also uses UDP, and its own state replication system.
+
+
+
+WebSockets are almost nothing like UDP; they are a reliable stream, built
+
+on top of TCP, and they even start out looking like HTTP/1.1 requests! Unlike
+
+HTTP, though, once the initial headers are sent, it's a bidirectional protocol
+
+that sends data in frames, so if you're willing to treat all the potential
+
+stalls that reliable TCP can suffer from as lost packets, you can at least
+
+build something that _smells_ like UDP on top of it.
+
+
+
+(Details on WebSocket protocol are [here][4].)
+
+
+
+The actual C++ changes to Unreal were pretty small: the networking code was
+
+already compiled in (and failing, of course), so I just had to make what was
+
+there work.
+
+
+
+A handful of things got #ifdef'd: you can't set SO_BROADCAST on a datagram
+
+socket in Emscripten (there is no such thing as a broadcast WebSocket, of
+
+course, so this would always fail), but this was only necessary for LAN
+
+discovery, I think, so I could just turn it off. Also, you can't bind() a
+
+socket to a specific port (which Unreal needs to do for servers, but 
+
+erroneously does for clients, too). There is TCP code in there for a few 
+
+things, like querying the Master Server, and that's still broken for now.
+
+My goal was to be able to connect directly to a server ("open 
+
+xxx.xxx.xxx.xxx:7777" in the game's console), so I haven't messed with that.
+
+
+
+After that, the real plan came into play:
+
+
+
+When you try to send on a UDP socket in Emscripten, it'll do one of two
+
+things:
+
+
+
+- By default, it'll try to open a websocket to the IP address and port
+
+you asked to send a UDP packet to. Obviously, this isn't going to fly,
+
+because Unreal servers don't offer a WebSocket server on (TCP!) port 7777.
+
+- You can, at runtime or link time, force a URL that Emscripten will use
+
+for these connections. This is where the magic happens.
+
+
+
+The plan looks like this:
+
+
+
+- Get something that handles WebSocket connections on my server.
+
+- The game connects a WebSocket to my server when it needs a UDP socket.
+
+- It sends UDP packets over this WebSocket connection, which my server
+
+retransmits over actual UDP.
+
+- Incoming UDP packets land on the server from the outside world, and
+
+the server sends them back down the WebSocket to the game.
+
+
+
+In effect, my server becomes a UDP proxy for the web browser.
+
+
+
+UDP has one more interesting quirk: unlike TCP, which makes a single 
+
+connection, a UDP socket can send to any address/port, and any address/port
+
+can send data to it. I intended to reuse this for the master server 
+
+browser, which wants to "ping" dozens of servers on a single UDP socket,
+
+so this added a complication: one WebSocket connection needs to send details
+
+about where packets are going and where they came back from. If I wanted to
+
+just talk to a single server, I could have probably just passed that info
+
+as a URL parameter and had no other C++ changes. It's something to consider
+
+for your own work.
+
+
+
+Since I wanted this to work with any address/port, I needed to get that 
+
+information in each WebSocket frame sent. So you might have an #ifdef like
+
+this for your sendto() call...
+
+
+
+    // want to send Count bytes of Data to RemoteAddr.
+
+    #ifdef __EMSCRIPTEN__
+
+      char *buf = (char *) alloca((Count + 6));
+
+      memcpy(buf, &RemoteAddr.sin_addr, 4);
+
+      buf[4] = RemoteAddr.sin_port & 0xFF;
+
+      buf[5] = (RemoteAddr.sin_port >> 8) & 0xFF;
+
+      memcpy(buf + 6, Data, Count);
+
+      sendto( Socket, buf, Count + 6, 0, (sockaddr*)&RemoteAddr, sizeof(RemoteAddr) );
+
+    #else
+
+      sendto( Socket, (char *)Data, Count, 0, (sockaddr*)&RemoteAddr, sizeof(RemoteAddr) );
+
+    #endif
+
+
+
+...and a recvfrom() like this...
+
+
+
+    BYTE *BufferPtr = Buffer;
+
+    int Count = recvfrom( GetSocket(), (char*)Buffer, ARRAY_COUNT(Buffer)-1, MSG_NOSIGNAL, (sockaddr*)&FromAddr, &FromSize );
+
+    #ifdef __EMSCRIPTEN__
+
+        assert(Count >= 6);
+
+        Count -= 6;
+
+        BufferPtr += 6;
+
+        memcpy(&FromAddr.sin_addr, Buffer, 4);
+
+        FromAddr.sin_port = ((INT)Buffer[4]) | (((INT)Buffer[5]) << 8);
+
+    #endif
+
+    // BufferPtr has Count bytes of data now.
+
+
+
+The gist is that everything sent over the WebSocket has the address and port
+
+where the packet is to be sent (or where it came from) appended.
+
+
+
+You'll note that this has 6 bytes hardcoded: 16 bits for the port, 32 for
+
+the address. Sorry: UnrealEngine 1 is hardcoded for IPv4. It was 1999, folks.
+
+
+
+Now that's good to go, time to figure out the server side.
+
+
+
+First, we know if you can download the game, you can talk to the same server
+
+over port 443 (https://) already, and I didn't want to set up a second IP
+
+address just for this silly little experiment, so I wanted to see if I could
+
+get the existing Apache install to cooperate with me. Turns out, I could. Just
+
+make sure mod_proxy_wstunnel is enabled, and Apache will accept WebSocket
+
+connections and forward them to an actual WebSockets server process. Added
+
+benefit: Apache will speak SSL for you (for wss:// connections), so the thing
+
+it's going to proxy to, on localhost, just has to look at plaintext and not
+
+mess around with certificates and such.
+
+
+
+The apache config looked like this:
+
+
+
+    # WebSockets proxy for UT99/emscripten...
+
+    SSLProxyEngine on
+
+    ProxyPass "/mysocket/" "ws://localhost:8348/"
+
+
+
+"SSLProxyEngine on" is necessary to have Apache deal with SSL on your behalf.
+
+"ProxyPass" says "when someone connects to "wss://icculus.org/mysocket/",
+
+proxy it to "ws://localhost:8348/" on the Apache server. Note that both
+
+ws:// and wss:// connections are accepted by Apache and will do the right
+
+thing here in either case.
+
+
+
+Now we just need something to listen on localhost:8348.
+
+
+
+This is what I came up with. I googled for something about WebSockets and UDP,
+
+and came across [Dimitris Fousteris's post][5] about proxying UDP packets, in
+
+a similar way to what I was looking for. He used node.js, which I wasn't 
+
+super-comfortable with, but having looked at [libwebsockets][6], I decided the
+
+lower resource use I could achieve in C wasn't worth the time to write it,
+
+especially as a test case. This code is a little different, but it was
+
+originally based on Dimitris's code.
+
+
+
+    var Buffer = require('buffer').Buffer;
+
+    var dgram = require('dgram');
+
+    var WebSocketServer = require('ws').Server;
+
+
+
+    function verifier(info) {
+
+        // BUG: "info.req.ip" is undefined. FIXME
+
+        console.log("connection from " + info.req.ip + ", origin='" + info.origin + "'");
+
+        return ((info.origin === 'https://icculus.org') || (info.origin === 'http://icculus.org'));
+
+    }
+
+
+
+    var wss = new WebSocketServer({port: 8348, verifyClient: verifier});
+
+    wss.on('listening', function() {
+
+        console.log("WebSocket server is ready.");
+
+    });
+
+
+
+    wss.on('connection', function(ws) {
+
+        var udp = dgram.createSocket('udp4');
+
+
+
+        // message from UDP socket; put source into the packet and send it over WebSocket.
+
+        udp.on('message', function(msg, rinfo) {
+
+            //console.log("incoming UDP packet from " + rinfo.address + ":" + rinfo.port + ", " + rinfo.size + " bytes.")
+
+            var a = rinfo.address.split('.');
+
+            var addr = new Buffer(6);
+
+            for (var i = 0; i < 4; i++) {
+
+                addr.writeUInt8(a[i], i);
+
+            }
+
+            addr.writeUInt8((rinfo.port >> 8) & 0xFF, 4);
+
+            addr.writeUInt8(rinfo.port & 0xFF, 5);
+
+            ws.send(Buffer.concat([addr, msg]));
+
+        });
+
+
+
+        // message from WebSocket client; extract actual destination and send UDP packet there.
+
+        ws.on('message', function(message) {
+
+            //console.log(JSON.stringify(message, null, 2));
+
+            //if (typeof (message) !== 'object') { console.log("message was not object"); ws.close(); return; }
+
+            //console.log(message.type);if (message.type !== 'Buffer') { console.log("message type was not buffer"); ws.close(); return; }
+
+            var addr = [ message.readUInt8(0), message.readUInt8(1), message.readUInt8(2), message.readUInt8(3) ].join('.');
+
+            var port = (message.readUInt8(5) | (message.readUInt8(4) << 8));
+
+            //console.log("outgoing UDP packet to " + addr + ":" + port + ", " + (message.length-6) + " bytes.");
+
+            udp.send(message, 6, message.length - 6, port, addr);
+
+        });
+
+
+
+        ws.on('close', function() {
+
+            console.log("closing");
+
+            udp.close();
+
+        });
+
+    });
+
+
+
+Pretty straightforward: make sure the connection is valid, make a UDP socket
+
+for it, when something comes from the client, send it out into the world as
+
+a UDP packet, and when a UDP packet comes in from the world, send it to the
+
+client. Tap dance a little to add and remove the IP address/port info from the
+
+packets as they pass through. On client disconnect, close the UDP socket.
+
+
+
+That's all!
+
+
+
+It's worth noting that this, as it stands, totally works as an open relay
+
+for UDP packets. That's bad. It does reject connections from sockets that
+
+don't claim icculus.org as an origin, but that's easy to fake. You will
+
+want to lock this down more (maybe some unique identifier on the URL
+
+or a password for users or something). This isn't actually running on my
+
+server at the moment, so I'm not too concerned about locking it down. :)
+
+
+
+(Also, this Node.js script is listening on all ports; the Internet can 
+
+talk to it directly. You'll definitely want to limit it to localhost.)
+
+
+
+To get this working, just put that file in a directory, run "npm install ws"
+
+to get the WebSocket support, and "node myproxy.js" to run it.
+
+
+
+Now, if everything worked out, your Emscripten game will talk to your
+
+server, which will talk to this proxy, which will talk to the Internet.
+
+Your game thinks it's working over UDP--and it is, in a roundabout way.
+
+
+
+I was able to talk to a native Unreal Tournament server with a reasonable
+
+ping. Granted, UT99 had to work with 28.8k dialup modems, so is this the
+
+recommended way to build modern games? Probably not.
+
+
+
+In a perfect world (and when you can control what your game servers do),
+
+it could make sense to allow the server to talk over UDP _and_ something
+
+else, like WebSockets or WebRTC, and other than some protocol-specific
+
+processing, just treat all the clients as otherwise-equal. Or just have
+
+them all use WebSockets or WebRTC by default, whether they are actually
+
+running in a web browser or not.
+
+
+
+Note that WebRTC is probably the more "correct" way to have implemented this, 
+
+as it can do unreliable packets, unlike WebSockets, but that will also require
+
+a proxy in any case, but also had concerns like firewalls that I didn't want 
+
+to deal with...and Emscripten was talking to WebSockets for the existing BSD
+
+Sockets code, so that's what I went with.
+
+
+
+Anyhow, just like the rest of the UT99/emscripten project, it was just for
+
+fun, and I don't plan to ship it to the general public anyhow. As a proof
+
+of concept, though, it was a definite success.
+
+
+
+<img alt="UT99/emscripten multiplayer screenshot"
+
+     width="100%"
+
+     src="https://icculus.org/ut99-emscripten/screenshot-multiplayer.png" />
+
+
+
+  [1]: https://icculus.org/ut99-emscripten/
+
+  [2]: http://fabiensanglard.net/quake3/network.php
+
+  [3]: https://ioquake3.org/
+
+  [4]: https://en.wikipedia.org/wiki/WebSocket#Protocol_handshake
+
+  [5]: https://dimitrisfousteris.wordpress.com/2014/12/07/websocket-udp-proxy-with-node-js/
+
+  [6]: https://libwebsockets.org/
+
+
+
+--ryan.
+
+
+
+---------------------------------------------------------------------
+
+When this .plan was written: 2017-05-06 02:14:33
+
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+
+Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
+
+Here's to the ones that dream, foolish as they may seem.
+
+
+

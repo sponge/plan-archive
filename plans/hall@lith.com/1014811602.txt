@@ -1,0 +1,393 @@
+
+*** Monolith Production's Finger Server
+
+User name: hall
+Plan modified: Fri Oct 19 18:46:04 2001
+
+				
+					10/19/2001
+
+Thank you all for downloading the Aliens vs. Predator 2 MP demo!!! 
+
+A potential issue that some of you may have already experienced, is our in-game server finder interface can sometimes crash when it is faced with a large number of available servers. 
+
+We apologize for this inconvenience. 
+
+Our engineers are working on a fix already. This is not a complicated issue and we'll be releasing a small patch very soon to fix this. 
+
+Meanwhile, for those experiencing the problem, you may find some success playing the AVP2 MP demo through GameSpy Arcade or through the LAN. Again, please accept our apology for the inconvenience this is causing.
+
+Jace
+
+
+
+
+
+
+				
+									
+					8/16/2001
+
+Note:
+
+I've been receiving quite a number of e-mails asking me about the CEO transition stuff, so I figured that a .plan update would be the best way to clear up any confusion.
+
+I'm not going to delve into any future LithTech Inc. specific details. From here on out it is no longer my place to do that and furthermore, Jeff Hutt is more than capable of handling and communicating the company's vision and strategy with the public.
+
+Speaking of Jeff Hutt, I am personally very excited about his new role at LithTech. The fact that he has managed the development of numerous games and understands what it takes to develop a quality product makes him a great fit for the position that he is in. 
+
+Now, about the recent transition as it relates to me:
+
+LithTech Inc. and Monolith Productions Inc. have been, and still are, two entirely separate companies. They have different board of directors, different revenue targets, different corporate cultures, etc. The bottom line is that they are not one in the same.
+
+I've noticed that a lot of times in various articles, people either don't realize this, or they simply forget about it. They use the company names interchangeably as if there were no difference between the two.
+
+I have been CEO of both companies since March of last year. It has been a lot of work, but it has also been necessary. I am very proud of what the people at LithTech have accomplished so far: we have built a business, grown the technology, licensed many times over what had been accomplished by Monolith previously (before LithTech was formed), etc. and now with all of the basics covered (docs, support system, new architecture, etc.), it is finally time to really hunker-down and move the technology forward in a big way.
+
+This requires a tremendous amount of attention from the CEO and everybody else at LithTech. Simultaneously, Monolith has a number of gigantic productions underway which of course require a tremendous amount of attention from its CEO and everybody else at Monolith.
+
+At this point, it simply does not make good business sense for me to remain as CEO of LithTech - particularly when I have someone, who can do a better job serving the company than me, available to take command.
+
+In any case, I am continuing on as Monolith's CEO and I will be giving Monolith my full attention from here on out.
+Jeff Hutt will be giving LithTech Inc. his full attention.
+
+As a licensee, Monolith will work closely with LithTech Inc., and we are very excited about continuously adopting the all new LithTech features into our internal codebase to further enhance our products.
+
+The new strategy that Jeff and his crew are employing is going to give Monolith (and other licensees) an unprecedented ability to now fully create graphically cutting-edge games that hopefully even the most discriminating, hardcore, graphics junkie will appreciate.
+
+(Quick explanation: LithTech's technology code base has attained a sufficient enough critical mass that it is now possible to significantly enhance the WAY it is developed going forward without sacrificing much of its supportability or its ability to "go broad." New feature development and tool progress is now specifically focused on high end graphical game features and tied closely a specific game. This yields a better, faster, more timely and "game demonstrable" feature set along with enhanced tools, etc.)
+
+It is a gourmet chef situation. ;)
+
+This is a very exciting time for us, and NOLF's sequel will be the first to benefit from these changes.
+
+If you are an interested potential licensee, or are from the media and need to talk to Jeff Hutt he can be reached at jeffh@lithtech.com
+
+
+
+
+				
+					8/15/2001
+
+
+Wednesday, August 15, 2001	
+
+LITHTECH APPOINTS NINTENDO VETERAN AS CEO
+
+KIRKLAND, WASHINGTON — LithTech, Inc., a leading developer of licensable technology, today announced the appointment of Jeffery Hutt as its chief executive officer replacing Jason Hall, who will remain CEO of Monolith Productions. Hutt, who held several senior product development and planning positions at Nintendo of America, is a 14-year veteran of the interactive entertainment industry. 
+
+The appointment coincides with the unveiling of an aggressive strategic plan, which will synchronize LithTech’s technology development staff with the production of premium, cutting-edge games. The upcoming sequel to The Operative: No One Lives Forever, which was the Action Game of the Year for 2000, will be one of the first products to take advantage of this approach. 
+
+This new, content-oriented methodology will grant LithTech’s licensees unprecedented and timely access to market-driven features, tools and technologies. In addition, LithTech will provide thousands of lines of game code, which enables developers to quickly leverage the capabilities of the LithTech Development System. 
+
+“This strategy will arm developers with superior technology and usable game code that will enable them to spend more time on the elements that make their games stand out in the marketplace,” said new LithTech CEO Jeffery Hutt. “It is clear that major game production drives the evolution of powerful game development technology. Our goal is to leverage alliances with specific game teams to continuously upgrade our product’s feature set and usability at a rapid, but sustainable pace.” 
+
+“I am very excited about Jeff’s vision for LithTech,” said Monolith Productions CEO Jason Hall. “Jeff is an industry veteran and understands the difficulties that game developers face every day. The time he has spent at both Looking Glass Studios and Nintendo will serve him well in his new position. I look forward to continuing our work with LithTech.” 
+
+LithTech also announced today that the company will reduce its staffing by eleven positions. “By allowing our engineers to be more closely involved in the production of games, we have actually increased the number of engineers contributing to the development of new tools and technologies for Lithtech,” said Hutt. “However, it has unfortunately created some overlapping responsibilities, particularly on the content creation side. While I am confident that this move will make LithTech stronger, I regret that these individuals will be leaving LithTech.”
+ 
+
+Based in Kirkland, Washington, LithTech, Inc. is dedicated to providing its licensees with superior technology and unparalleled support. The versatile and powerful LithTech Development System is a comprehensive set of technologies and tools that empowers developers of 3D games and applications to focus on content creation rather than technology development. For the latest news and information on LithTech, Inc. and the LithTech Development System, visit: http://www.lithtech.com. 
+###
+
+©LithTech, Inc. All Rights Reserved. 
+
+LithTech, Inc. 10516 Northeast 37th Circle Kirkland, Washington 98033   425.739.1500
+
+
+
+
+				
+					8/8/2001
+
+Many thanks to all of you who sent me links to the "Lord British Murder" event!
+
+For those who are interested here are some of those links (These sent in by Glen Jackson) -
+
+His name was Rainz:
+<A HREF=http://www.samurai.com/lists/uo/0065.html target=_top>http://www.samurai.com/lists/uo/0065.html</A>
+ 
+found through this forum thread: 
+<A HREF=http://www.samurai.com/lists/uo/0063.html target=_top>http://www.samurai.com/lists/uo/0063.html</A>
+ 
+This was the original page I saw the screens on:
+<A HREF=http://www.ogr.com/specials/rainz_interview.shtml target=_top>http://www.ogr.com/specials/rainz_interview.shtml</A>
+ 
+An article about the event:
+<A HREF=http://www.villagevoice.com/issues/9738/lee.php target=_top>http://www.villagevoice.com/issues/9738/lee.php</A>
+ 
+Finally..just now I found them here with the interview on another page!
+<A HREF=http://privat.schlund.de/u/uo_cso/ultima/recent/rec1.htm target=_top>http://privat.schlund.de/u/uo_cso/ultima/recent/rec1.htm</A>
+ 
+pic: <A HREF=http://privat.schlund.de/u/uo_cso/images/dbrit1.jpg target=_top>http://privat.schlund.de/u/uo_cso/images/dbrit1.jpg</A>
+
+This one sent in by quite a few people:
+<A HREF=http://home.earthlink.net/~hugh10/ultima/history2.html target=_top>http://home.earthlink.net/~hugh10/ultima/history2.html</A>
+
+There are a bunch more, but these pretty much cover the event.
+
+
+				
+					8/7/2001
+
+A long time ago when UO was still in beta testing, there was an incident where a user exploited a bug in the game and actually killed Lord British.
+
+Does anyone out there still have screenshots of that event?
+
+
+
+				
+					7/3/2001
+
+http://www.lithtech.com/lds/media.asp
+
+<A HREF=http://www.lithtech.com/lds/media.asp target=_top>http://www.lithtech.com/lds/media.asp</A>
+
+
+
+				
+					7/2/2001
+
+To those that are interested:
+
+We will be shipping a free DVD video this week to nearly 4,000 game developers, software publishers and creators of 3D simulation applications.  The DVD, which includes a special behind-the-scenes look at the LithTech Development System, was created as an exclusive overview of the company's software, services and philosophy.
+
+The video is approximately 20 minutes long and features high level profiles of LithTech's tools and technologies, including the newly enhanced networking module, DEdit, ModelEdit, FX Editor and the RenderStyles Editor, as well as the company's dedicated support services. Exclusive demo footage of various LithTech games (some released, some still in production) is also included for some sneak-peak action.
+
+Compressed, downloadable, full-length copies of the DVD video presentation have been created and placed into an FTP site for news websites to grab and then offer as a download if they choose to. The ftp site location and password has been sent out already. A variety of file formats and sizes have been created to meet various needs (sizes range from 10 to 50 Megs, but each individual file is a full-length version of the DVD.
+
+Note: If you have a website (and did not receive a link already) and you would like to gain access to this video so that you can post it, please e-mail danw@lithech.com for further info.
+
+The DVD release comes on the heels of the launch of the LithTech Development System Version 3.1 earlier this month.  
+
+News Flash:
+In the upcoming weeks LithTech, Inc. will be releasing an exclusive preview demo of the forthcoming LithTech Development System Version 4.0.   If you would like to receive a special copy of this demo and a chance to see the future of the LithTech Development System,  please let me know.  
+
+
+
+				
+									
+					6/15/2001
+This is a LITHTECH INC. update.
+-NOT MONOLITH RELATED-
+
+Hey all.
+
+For those that are interested in more granular detail about the lastest LithTech release and licensing details, you can find more information at www.lithtech.com
+
+Here is a quick summary of the main things that just got added for this last quarter:
+
+BTW - All the features listed below are cross-platform (PC and PS2), except for DX8 sound which is only available for PC.
+
+Object Directory
+In the last release the default implementation of the distributed object system provided a highly C++-specific mechanism for declaring distributed objects and setting distributed item attributes. In this release, distributed game objects can be built from simple source text that describes the game object with LithTech's Object Definition Data (ODD), a format that is C++-programmer-friendly but language-independent. The new implementation will include a tool to read objects described in ODD and compile them to C++ objects, ready to use in a LithTech project. Future releases will expand upon this idea to create a language independent database of game objects- an object directory.
+
+Packet Processing Agendas
+The current engine provides no support for applying basic packet-modification algorithms such as encryption and compression to outbound and inbound packets.  A new packet processing agenda mechanism in the 3.1 release will provide this capability.  These agendas provide STREAMS-style support for user-selectable modules that are called at the appropriate time in the inbound and outbound packet pathways.   These modules can be applied on a per-connection basis to create a processing item list that acts upon the entire packet before the packet reaches the engine proper for inbound packets and after the packet leaves the engine proper for outbound packets.
+
+Improvements to firewall support
+The 3.1 engine will support a configurable client port range which can be utilized to force the client to bind within a limited range of ports which can be documented as “needs to be opened” to support firewalls.  
+
+Continued enhancements to Physics 
+A variety of fixes and enhancements will be added to the new Physics system Released in Version 3.0, including:
+
+·	Accurate collision detection between collision primitives (except for mesh-mesh)
+·	Oriented cylinders added to available set of collision primitives
+·	Ability to selectively ignore objects or contacts reported by the collision manager
+·	Collision/intersection with world models returns valid object handles
+·	Various bug fixes
+
+MAYA World Exporter 
+The Maya exporter allows the creation and texturing of terrain and brushes within Maya 3.  Texture files can be assigned per-face within Maya, and the equivalent .dtx texture will be used within DEdit.  Mapping coordinates assigned to vertices in Maya will also be preserved in the conversion to the LithTech format.  Geometry can be exported as terrain, or as brushes as long as the rules for valid brushes aren't broken within Maya.
+
+MAX 4 Skin Support
+Skeletally animated models can now be created using the Skin modifier included with 3DS Max 4.  Character Studio is no longer required for doing skeletal animation within Max.
+
+
+NUMEROUS DEdit Enhancements
+Several significant enhancements have been made to DEdit (not all are listed here), Including:
+
+·	Improved tab system and icons
+·	The ability to view textured models
+·	Thumbnail views of textures
+·	Curved surface support
+·	Selectable input modes similar to both Max and Maya
+·	More hot-keys and remappable commands
+·	New extrusion and polygon manipulation abilities
+·	Referential prefabs
+·	Improved rendering performance
+·	Icon representation of objects
+·	Support for detail textures
+·	More control over lighting and shadow casting
+
+
+Referential Prefabs 
+Referential Prefabs now allows level designers to fully utilize the prefab system in DEdit. It allows them to create more complex primitives and place them throughout their levels. In addition they can simply update the prefab and upon processing the level, all instances of the prefab will be updated to reflect those changes. So now instead of dealing with hundreds of instances of a primitive, they can now deal with a single instance and simply use references.
+
+
+RenderStyles Viewer
+A stand-alone application for viewing RenderStyles is now available.  Artists can quickly and easily use the RenderStylesViewer to preview RenderStyles while programmers can still use the RenderStylesEditor to create them.
+
+
+Support for DX8 Sound  
+The sound system in LithTech now uses DirectX 8 for its default sound implementation on the PC instead of the Miles Sound System.  The sound API from the application developers perspective has not substantially changed.  The Miles Sound System can still be used, but it is no longer shipped with the LTDS and is not enabled by default.
+
+
+2D Window Tool Kit
+This release expands the available user-interface classes that allow licensees to spend less time implementing a UI framework and more time designing the UI . 
+
+The following new widgets can be created and manipulated through the CUIWidgetManager:
+
+·	Slider
+·	Progress Indicator
+·	Check Boxes/Radio Buttons  
+·	List Boxes  
+·	Scrollbar
+·	Drop-Down lists
+
+
+
+
+				
+					1/16/2001
+
+Haven't updated in a while... so here goes...
+
+NOTE - THIS IS FOR LITHTECH INC. - THIS IS NOT MONOLITH RELATED
+
+New Policy:
+
+Since the LithTech Development System is updated every 3 months (engine, tools, docs, etc.) I am going to start including into my .plan the list of features/functions/etc. that are going into LithTech on a quarterly basis.
+
+This way, the greater community will be able to see the technology grow, and the rate at which it grows at.
+
+There is also a link that you can go to, if you want to see much greater detail about the quarterly update.
+
+The last quarterly update was on Dec. 15th. On that date, here is what was added and distributed:
+
+New Features for Winter 2000
+<A HREF=http://www.lithtech.com/lds/relnotes/WinterRelNotes.asp target=_top>http://www.lithtech.com/lds/relnotes/WinterRelNotes.asp</A>
+Version 2.3 supports the development of games for the Sony® PlayStation® 2 console and for PC games that support Microsoft® DirectX® 8. 
+
+For version 2.3, the LithTech Development System includes the following new features. See the Winter Release Notes for complete descriptions.
+
+Enhancements to the Tools Suite (DEdit, ModelEdit, etc.). This includes overall cleanup of the GUIs, the addition of the FxED special effects editor, and the ability to build and texture worlds in 3D Studio Max.
+
+Bitmapped font support. The first of a series of planned high-level GUI toolkit enhancements. Monospaced and Proportional bitmap fonts can be created and displayed at various sizes and colors. Access is also provided to the individual character polygons to allow custom effects.
+
+Enhancement and Documentation of the .LTA file format. For this release, the .LTA file format becomes the official work format for models and worlds. The .LTA file format is an ASCII format readable by all the tools, and it can be compiled to a binary format for the engine. Documentation describes how models and DEdit files are organized in the format, and how to use the tools and libraries associated with the .LTA exchange file format.
+
+Preview of the Game Objects Library. The preview includes an architecture overview and an inaugural set of components for the Game Objects Library. There is also a sample object demonstrating their use. 
+
+Documentation additions and enhancements. This release includes documentation of the new PS2 support, and enhancements to the LithTech API Reference (now 750 pages), the Game Content Creation Guide and the Programming Guide, at nearly 250 pages each.
+
+Improved sphere env mapping on models. On both rigid and skinned models, the world matrix is now correctly calculated into the u/v equation.
+
+The FlipScreen flag FLIPSCREEN_CANDRAWCONSOLE is now an End3D flag of END3D_CANDRAWCONSOLE. This was done to support drawing the console with 3D only primitives and to eliminate lockscreens. If you are doing multiple Begin3D/End3D blocks, you should only specify the default flag, END3D_CANDRAWCONSOLE, on the last End3D.
+
+The ILTDrawPrim interface is expanded to support more render states and prim types. Many of the function names and the prim structures are changing. Going forward, this will be the primary interface for custom rendering.
+
+Processor now supports selection of an inverse quadratic falloff lighting model. This lighting model matches the D3D and PS2 model lighting equations. If you are using either of these lighting models (D3D TnL is the default model packing format in version 2.3), we recommend that you also switch to this world lighting model. This lighting model generally yields more realistic lighting. Note that if you have built your levels with the older lighting models, your levels will probably appear darker and you will probably need to increase the radius of many of your lights to compensate.
+
+The renderer now statically links to the engine.
+
+New Comm and MPM Libraries
+
+New MaxTerrainExport Option
+
+Texture Image Reloading and Scaling in DEdit
+
+Adjusting Mapping Coordinates in the Worlds
+
+Visibility Sample Demonstrates Hullmakers and Terrain Occluders
+
+--------
+
+If you want to see what was in the previous update before the Dec. 15th drop go to this link:
+
+<A HREF=http://www.lithtech.com/lds/relnotes/FallRelNotes.asp target=_top>http://www.lithtech.com/lds/relnotes/FallRelNotes.asp</A>
+New Features for Fall 2000
+
+For version 2.2, LithTech publishes its API Reference, announces a new exchange file format, enables DEdit hotkey binding, and adds hardware transform and lighting, Lambert lighting and improved Static Sunlight, and spherical collision detection features.
+In addition, version 2.2 includes the following new features. See the Fall 2000 Release Notes for a complete description.
+
+LithTech Publishes API Reference
+
+DEdit Gets Hotkey Binding 
+
+Lambert Lighting and Static Sunlight Behavior on Terrain
+
+Direct3D Render Path Adds Transform and Lighting
+
+New Exchange File Format for Tools
+
+Spherical Collision Detection
+
+Projected Texture Shadows
+
+Changes to vector.h Yield Performance Benefits
+
+Maya Exporter Supports Maya 2.5
+
+New Utility Converts .TGA <=> .DTX
+
+Support for Online Game Services
+
+Beta Release of ClientFX Special Effects and FxED Special Effects Editor
+
+----
+
+The next LithTech quarterly release will be around March 15th! Lot's of neat stuff coming in that one!
+
+
+
+
+				
+									
+					11/7/2000
+
+HAPPY BIRTHDAY TO BILLY "WICKED" WILSON AT VOODOOEXTREME!!!
+
+Much love from myself and Monolith to you man! Thanks for all the love and support, you 27 year old bastard... 
+
+Hope you have a great b-day! I told Apache to send me the invoice for those birthday sheep he got for you. It will be my treat! ENJOY! ;)
+
+Seriously though, we are all fans of your site and want you to know that you have built something special there and appreciate your (and your team's) hard work.
+
+Have a happy birthday.
+
+-Jace
+
+
+				
+					11/1/2000
+
+
+The new LithTech website is up.
+
+More information/webpage tweaks/modifications will be done to it, but if you want to get the gist of the page check it out at:
+
+<A HREF=http://www.lithtech.com target=_top>http://www.lithtech.com</A>
+
+
+
+				
+					10/11/2000
+
+At approximately 8:30 pm on October 10, 2000 (yesterday) something horribly painful happened to me, and I'm not in the best of moods...Here is the scoop:
+
+
+...So I'm at Gold's Gym doing some fairly straightforward free weight flat bench press with 315 pounds and suddenly I feel my left pectoral muscle start to tear itself off of my bone structure (the area where the pec connects to the upper left arm - up above your armpit underneath some of your front shoulder meat).
+
+As the bar moved downward during the press and stretched my pecs wide I could literally feel the fibers and whatnot stretching and snapping underneath my skin on the left side. The process happened so suddenly that I didn't see it coming. One second the weight was moving just fine and I felt completely in control and confident, the next second, I feel the equivalent of a cable or a rope starting to stretch, fray and unravel due to great tension on my left pec and then the realization that I have 315 pounds pinning me to the bench, just resting on my ribcage.
+
+So, there you have it - the "King of Teh MONSTARS" will be unable to hit the gym and work out his upper body for a while. This really sucks because I had been maintaining my body weight around 250 - 255 for quite some time and was getting ready to make my big push to 275, but now there is no way that is going to happen any time soon... The failed goal... :(
+
+That is the part that sucks about working out - you have to maintain all the muscle that you've worked so hard to put on! Now that I can't work out for a while (at least my upper body), I get to watch all that effort go down the tubes...
+
+Truly disappointing... for me anyway...
+
+Well, at least I have the pleasant memory of feeling my bodily tissues tear, stretch, snap, and fray. That's at least worth something from a story telling standpoint. :/
+
+On a different note - 
+If everythin

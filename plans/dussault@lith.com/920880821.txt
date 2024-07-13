@@ -1,0 +1,520 @@
+
+*** Monolith Production's Finger Server
+
+User name: dussault
+Plan modified: Sun Jan 10 16:09:40 1999
+
+1/9/99
+
+Just wanted to make a quick update about the Bloodshot team 
+licensing Lithtech.  These guys are P_A_R_T O_F  the former 
+Daikatana team.  Bouwman and I went to lunch with them 
+yesterday and I'm totally excited now.  These guys are 
+experienced and definitely know their stuff.  I can't wait 
+to see what they produce!
+
+I'm currently working on Certain Things for Certain People
+which I'll Certainly elaborate on at a Certain Later Date.
+
+More goodness soon...
+
+
+
+12/12/98
+
+I've gotten a lot of email about people getting a
+'Connection Rejected' message when they try to connect to 
+the servers.  A bug slipped through into the patch, but
+we'll be putting an updated server.dll on
+www.planetshogo.com that the servers can get to fix this
+problem.  It should be up within an hour or two.
+
+
+
+12/12/98
+
+If you've been getting this message on your server:
+
+Server: Error in SUB_ACK: missing requested packet 12370
+
+you can get rid of it temporarily by adding this line to
+your Shogosrv.cfg file:
+
+TransportDebug -1
+
+This message will be fixed soon :)
+
+
+
+12/12/98
+
+The 2.1 patch is done!  We spent the last couple days 
+working with QA to get ugs fixed and it should be up soon.
+The networking is now MUCH more efficient - the packets are 
+smaller and fewer.  I have a feeling that even a pro armed 
+with a sniffer couldn't decipher our protocol.  Every 
+packet sent out has a different combination of stuff in it 
+in different orders so it would be pretty tricky.
+
+I finished reviewing the Lithtech docs written by Ash 
+Matheson today.  They're almost as long as a book!  They 
+should be totally helpful - they're full of information and 
+code samples.
+                         
+I finally found something useful on ebay!  I did a search 
+on Waits and won an auction for some old tapes and videos 
+of Tom Waits shows in Europe (not from Big Time).  I'm what 
+you could call a Tom Waits nut.  If he ever tours again, 
+you might find me in front with all the other wackos 
+yelling "WHERE YA BEEN?"  Now if I could just find some 
+gamers at Epitaph to trade his new CD for some copies of 
+Shogo...                                                            
+Other cool shows I got to see this year were The 
+Toy Dollz, Bend Sinster, Guttermouth, Rancid, NOFX, Bad 
+Religion, The Queers, Frank Black, The Vandals, Firewater, 
+Blues Explosion, Frank Black (again), and The Queers 
+(again).  The Toy Dollz definitely put on the best show 
+with The Queers as a close runner-up, but I think NOFX 
+would have been the best if they had played for longer than 
+30 minutes (DAMN YOU WARPED TOUR!!)  
+
+My New Year's Resolutions are:
+1) to make Lithtech twice as good
+2) to see even more shows
+3) to not to get bitten on the eyebrow or booted off the 
+stage again
+4) to ask out more chicks that work at CD stores
+
+I can't wait for Shogo CTF! 
+
+
+
+11/5/98
+
+If you're interesting on making mods for Shogo and Blood2,
+definitely be sure to check out this article by Ash
+Matheson.  It has a lot of great info on how things work
+in LithTech:
+
+http://www.planetshogo.com/features/lithtech1.shtml
+
+
+
+
+10/26/98
+
+Worthless Lithtech novelty of the day, LASM.  A little 
+programming language for the console.  And when I say 
+worthless I mean it!  I wrote it one day a long time ago 
+when I was feeling particularly lame.  *WARNING* using
+ANY LASM will likely cause a crash, it doesn't check 
+ANYTHING, but I did have it calculating fibonacci sequences
+and doing some cool formatted output into the console.
+
+Type 
+$
+in the console to go into LASM mode, then anything you 
+enter in the console goes to LASM.  Type $ again to get out
+of LASM mode.
+
+Type #  to do a single LASM command when you're
+not in LASM mode, like if you had a function called 'fib' 
+and you wanted to print the value you would type:
+
+# 10 fib() "Value: %d" printf
+
+Here's the 'manual' from lasm.h.  I forget if I ever 
+implemented the daemon function.
+
+If the line starts with -, then it's run as a normal 
+console command.
+
+If // is encountered, the rest of the line is ignored.
+
+Parenthesis are generally ignored except for ().  
+
+Tokens are separated by spaces.
+
+- If a token is followed by (), then it is a function call.
+- If a token is enclosed in quotes (like "Hello"), it's a 
+string.
+- If a token is enclosed in braces (like [Hello]), it's a 
+console variable.  If a new one is referenced, then it's 
+initialized to 0.
+- If a token is followed by a colon (like 1:), it MUST be a 
+number, and defines a jump label.
+- If a token is just normal, if it's an operator, then the 
+operator function is executed, otherwise, it's a local 
+variable.  If the variable doesn't exist, then it's created 
+automatically with value 0.
+- If the token is preceded with a & (like &Hello), then it 
+passes the address of a function in.  When the function 
+variable is referenced, it just calls the function it 
+points to.
+
+Function definition:
+()  
+	
+end
+
+Between a function header and the end keyword, code is not 
+executed, it's just added to the function's data 
+(obviously).
+
+A number followed by a colon defines a label you can jump 
+to with the J operators.
+
+Operators (these are just like normal functions, but 
+variables can't have the same names and they can be 
+executed without the () postfix)
+
+  jz
+  cmp (essentially does val1-val2)
+jnz
+jl
+jg
+jle
+jge
++
+-
+/
+*
+%
+  =
+||
+&&
+|
+&
+++
+--
+  ^	// Raise to the power.
+
+
+Functions:
+
+  printf	// %d, %f, and %s are 
+supported
+
+ run // Parses and runs the string argument.
+
+ return // Pops the LVar off the stack and puts its 
+
+value in the return value slot.
+
+ start // Starts a daemon.. calls the 
+function every frame.
+
+I lost the code for the fibonacci sequence calculator 
+but it was SOMETHING like this:
+
+() fib count
+    count 0 cmp jz 1
+    count 1 - fib count + return
+    1: 
+    0 return
+end
+
+
+
+10/26/98
+
+Ahhh a productive day.  I disabled DirectPlay's TCP/IP 
+driver and replaced it with our own one which gives us a
+lot more flexibility and a lot less game hanging.  Me and
+Gemini were talking about all the cool interface options
+we'll be able to do.. a favorite servers listing, etc..
+
+I'm dedicated to B2 for at least a couple days this week, 
+so there may be an update to the alpha patch as early as 
+Friday or as late as the Friday after (Nov 6).  Please don't
+send email asking about it, the current answer is "When
+it's done, unless it's not done by Nov 6 in which case we'll
+be giving out free Schoolhouse Rock CD's until it's done."
+
+There are currently 238 emails that were filled out on the
+webpage with juicy bugs we'll be killing pretty soon.  
+A BIG thanks to everyone for sending those in!
+
+
+
+
+
+
+10/24/98
+
+Ok one more piece of info.  Sounds like a lot of people 
+didn't read patch.txt (hell I never do!)  The best way to
+improve your performance with the Shogo alpha patch is to
+go into your autoexec.cfg and add these lines at the BOTTOM:
+
+UpdateRate 5
+MaxFPS 30
+
+These make a world of difference for modem play.  
+
+Also, when you're on a server, make sure your ping is
+below 400 (by pressing Tab and look at the highlighted
+player, the ping is in parenthesis).  If it's above 400,
+it will be hard to get a good game going.
+
+Make sure to turn on Saturate by going into the console and
+typing:
+
+Saturate 1
+
+looks awesome on the outdoor levels!
+
+
+
+
+
+
+10/23/98
+
+Yet another update!  The Shogo patch is out and a ton of 
+servers have popped up!  It takes a little while to find a
+server with a reasonable ping but once you do it feels 
+pretty good.  
+
+It has become VERY apparent that the DirectPlay problems
+we're experiencing need to be addressed as soon as possible.
+Pretty much any server that runs gets a 1-2 minute hitch
+if someone crashes or disconnects ungracefully.  This 
+seems to happen every 5 or 10 minutes on a lot of servers.
+But this is what the alpha is for!  I'm glad we found this
+as early as possible.  We'll probably be making one more
+update to the alpha before the final patch on November 15
+to fix this DirectPlay problem.
+
+And don't worry, we will be moving weapon firing to the
+client side!
+
+A couple people have asked what the best way to find servers
+is currently.  Run GameSpy, select Shogo as the game.
+Right-click on GameSpy Network (on the left side of the
+window).  Choose Update.  Then double-click on a server.
+
+A big thanks to everyone who got the alpha and is testing
+and sending feedback!  We'll do our best to get all the
+problems fixed as soon as possible.  
+
+Commands you NEED to use:
+WorldTimeSpeed 
+WorldColorNight ".3 .3 .9"
+
+
+
+
+
+10/23/98
+
+Just so everyone knows, if you have an earlier alpha and 
+were helping us test, you WILL NEED TO DOWNLOAD THE ALPHA
+just like everyone else or else you won't be able to connect
+to any games tonight.
+
+
+10/23/98
+
+The Shogo alpha patch is done!  Should be a matter of hours
+before it's downloadable.  We got a ton of cool little 
+things in there at the last minute:
+
+- GameSpy/Shogosrv player ping viewing
+- Connection time much faster
+- Each client can control the rate they get updates at
+- Updated Shogosrv UI
+- MaxFPS
+- Gamma fixes for PowerVR and Permedia2s
+- Spawn in effects
+
+I have to put some luv out to everyone who helped test the
+new multiplayer stuff.  Our development time for this stuff
+has been (and will continue to be) VERY accelerated due to
+all the great comments, suggestions, and testing.
+
+I want to follow up Jason's disclaimer with my own.  The
+multiplayer optimizations are NOT DONE YET.  They will be
+done by November 15.  Modems with high pings can only 
+handle games with 4-8 players.  The most annoying thing
+is that servers will occasionally get a 1 minute pause due
+to DirectPlay's use of TCP.  This will also be fixed by
+November 15.
+
+Have fun!
+
+
+
+
+
+10/19/98
+
+The PowerVR Revolution guys have come up with a way to get
+the PCX2 running better, check out:
+
+http://pvr.gamestats.com/Shogo.shtml
+
+
+
+10/18/98
+
+Here's a bug people have found.  In the Dock 17 mission
+on the TNT (maybe the 128), the level shows up all blue.
+There will be a fix for this in the first Shogo patch, but
+to get around it for now, check the 'Disable Fog' option
+in the launcher (under the Advanced tab).
+
+
+
+
+
+
+10/16/98
+
+Time for another update.  The Shogo patch is almost done, 
+but we're going to continue to put it through extensive 
+testing as a lot of stuff has changed.
+
+Some cool tweaks have gotten in recently:
+- Time of day.. very cool when it turns to night on a 
+server.
+- Variables to scale damage, tweak missile speeds, tweak 
+respawn rates, etc.
+
+TCP/IP modem games feel great!  You get into the game 
+quickly and you can barely tell you're playing over 28.8.
+
+If there's time, we're going to reenable the 3rd person 
+camera in multiplayer which makes for some cool screenshots.
+
+At this point we're mainly fixing rare crash bugs and video 
+card glitches.  If you're from a video card company and 
+want us to implement a fix, if you could email me 
+(dussault@lith.com), that would be great.  Even if you have 
+already sent it, send it again with something that'll catch 
+my eye like SWF 18, LIKES ENGINE PROGRAMMERS.. there's a 
+flood of email coming in so requests might have gotten 
+lost.  If the fix requires something I can't detect with 
+caps bits, it would _really_ help if you could tell me what 
+to look for in GetDeviceIdentifier.
+
+Also, please don't email about USB mouse problems.  We're
+very aware of these problems and they will definitely be
+fixed in the first patch coming soon!  
+
+
+10/9/98
+
+Our networking gets better day by day..  Today I mainly
+focused on improving our guaranteed delivery.  There are 
+some good reasons for us to just let TCP or DirectPlay do
+our guaranteed delivery protocol, but I really like having 
+all the information so readily available and tweakable.  A
+great example of where this pays off is that we actually
+stop sending updates between clients and servers when a
+computer's queue gets really backed up.  This helps speed
+up recovery so you don't get more and more backed up 
+forever.
+
+Before today, our guaranteed protocol took a long time to
+recover from packet loss and had a couple bugs where under
+certain circumstances it wouldn't ever recover.  Now it
+recovers almost instantly and almost never completely 
+dies.  It can handle packet loss rates up to between 60% 
+and 70%.  After 70 it can't recover so it just gets up to 
+its queue limit and sits there wishing Internet porn wasn't 
+hogging all its bandwidth (hey, even computers get the 
+wrong idea sometimes).
+
+I've been running around in Shogo trying different ping 
+times and drop rates and it's definitely playable with 20-
+30 percent packet loss.  When you get above 40, you can 
+still run around but firing and tractor beaming around 
+become really lagged and inconsistent.  Latency is 
+definitely more annoying than packet loss though.  Your 
+movement still feels fine with lag, but your firing gets
+delayed.
+
+Our client-side movement 'smoothing' kicks ass!  Even if 
+the server is updating at a really slow rate like 5 times
+per second, everything looks like it's being updated
+much faster.
+
+At 'SenatorPerry's request I added ClientUpdateRate, which
+controls how fast the server sends clients updates.  This 
+will be cool for LAN games so you can have the server send
+updates faster so everything is more responsive.
+
+Made more stuff unguaranteed.  It's down to a tradeoff at
+this point - less clogging vs less bandwidth.  For some
+things we save tons of bandwidth by using guaranteed 
+delivery because we only have to send updates when they
+change and lots of things don't change often like doors,
+ladders, and pickup items.  Other things like player and
+projectile movement use unguaranteed delivery since they're
+always moving around.
+
+The majority of the work left for me for this patch is
+testing single player to make sure it still plays well.
+
+
+
+
+
+10/9/98
+
+Only got time for a quick update but we ran our first real
+net stress test on the new-and-improved Shogo networking
+and it went great!  The basic foundation was working 
+perfectly.  The only problems were small things when you
+would start a new level or sometimes respawn outside of
+the world.
+
+Here's a list of what's done (more like 70% down.. still 
+needs to be stress tested in single-player):
+
+- Motion and some collision detection done on client 
+- Container physics on client
+- Elevators carry clients around smoothly
+- Position and rotations sent unguaranteed so they won't
+  clog the client
+- Client and server start dropping low priority packets
+  if a connection gets clogged.. makes recovery much faster
+- Connections time out in 120 seconds instead of 60
+- Added SwitchWorld console command to change the world
+  running on the server
+- Added FragSelf console command (if you get stuck)
+- Fixed tractor beam jitter
+- Added RunSpeed and TractorBeamSpeed server variables
+- Reduced bandwidth a lot
+
+Other stuff
+- Model shadows had the 'overlapping' effect on translucent
+  models (most noticeable when killing things with Red Riot)
+- Screen flashes based on distance and line of sight
+
+
+
+
+
+10/5/98
+
+If you read the BitchX update earlier today, read it again, 
+there's been an update.  I feel obligated to make my 
+intentions with the BitchX business today clear.  The first 
+two paragraphs of the original post contained some very 
+untactful, hurtful, and untrue comments directed at Tim 
+Sweeney.
+
+I respect Tim as an engineer, the man kicks more ass than a 
+donkey, and he's achieved incredible things with the Unreal 
+engine (plus I owe him lunch).  Even if I hated his guts, 
+making personal attacks is unprofessional and far from 
+relevant.  I'm more than willing to take responsibility for 
+anything I say and I'm the first to admit if I'm wrong, but 
+I didn't have any part in the first two paragraphs and 
+don't want the credit for them :)
+
+The thing that's great about this engine stuff is that, 
+just like in the scientific community, every development 
+and

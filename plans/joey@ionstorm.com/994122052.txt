@@ -1,0 +1,57 @@
+
+*** Ion Storm's Finger Server
+
+User name: joey
+Plan modified: Mon Jul 02 19:56:21 2001
+
+2001-07-02
+
+Patch 1 is released.  Download and install please.  Fixes
+many random crash problems.
+
+Graphical fixes in the patch not in the patch readme:
+
+- Environment mapping supported on low-end cards with
+  sorry drivers (glTexGen calls replaced with own
+  calculations).
+
+- Polygon z-fighting problems on models, on certain cards
+  (especially TNT/TNT2) fixed.
+
+Also, there is a _dramatic_ speedup on map file loading 
+times (can be up to 1000% on some systems).
+
+----------
+
+2001-06-30
+
+Well, well.  First plan file update in several YEARS.
+
+Anyways, we are done with the patch, but Eidos will not
+complete testing until Monday.  My apologies to those
+of you who have bought Anachronox but are suffering from
+instability issues.  Please bear with us; we don't want
+to release a buggy patch.
+
+In the meantime, here are some things you might try, if
+you are having problems getting past the initial logo
+cinematic:
+
+- If running win2k, install service pack 2.  This is 
+  available as an automatic download from Windows Update.
+
+- If running win2k, disable EAX or any other 3D sound.
+  You can do this without running Anachronox by running
+  SETUPANOX.EXE from the Anachronox install dir.
+
+- If using a voodoo2 or voodoo3 card, make sure that 
+  wickedGL's opengl32.dll is copied to the Anachronox
+  install dir.
+
+- Install the application under windows 95B or 98 if at
+  all possible.
+
+Also, core team members regularly visit the official
+Anachronox BBS at www.anachronox.com as well as the
+forum on www.planetanachronox.com.  The demo will be
+ready sometime after the patch is released.

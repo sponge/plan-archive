@@ -1,0 +1,404 @@
+
+*** Ion Storm's Finger Server
+
+User name: lee
+Plan modified: Thu Jun 11 11:51:28 1998
+
+Lee Perry "eepers"
+Lead Artist, Anachronox
+lee@ionstorm.com * gabnlee@ix.netcom.com
+
+June 11, 1998
+*************************************************
+I'm not going to give my impressions of E3, largely because if you know enough
+to locate this plan file, I'm sure you've had more than your share of wrap-ups.
+I did get to see the Final Fantasy 8 demo in the back of the booth though,
+and it was damn sharp.  Later someone sent me the video I saw there, so I've
+been staring at it a while now.  Good luck to my buddies Joe Black, who's just
+leaving Square to work at Westwood, and Nick and Kseniya Hoppe, who are out
+of Square to work at Digital Domain on superno... oh, I'm not supposed to
+know that, nevermind.  Also Tin Chung, lucky bastard who worked with Moebius!
+
+Anox was recieved very well at E3, especially since we showed it to a handful
+of press people behind closed doors and left them to make their own decisions
+of what they thought of the title so far.  Anyone who gives me the "ION is
+over-hyping Anox" line can smooch my lily white hiney, all showings were private
+and any and all press recieved had nothing to do with us "hyping" it up. The title
+is excellent so far, and it's merits speak for themselves.  Thanks for all you
+late workers for bangin that bad-boy out.
+
+We're down to only about 50 creatures left to model! Yipee! Can't
+wait to have a facet of the game actually "completed" so early, barring
+revisions later of course.  Anyway, catch you guys later, back to modeling!
+
+
+May 14, 1998
+*************************************************
+Hey guys and gals, if any of you are (or know anyone who is) looking for an
+animation position let me know.  Anox could use another after we've
+started the process of expanding our animations considerably in the game.
+We're using Lightwave by the way, but any package can be utilized if the
+skills are there...
+
+send any questions or info to me (lee@ionstorm.com) as soon as possible.
+
+Thanks!
+
+
+February 10, 1998
+*************************************************
+Hey all you Quake2ers out there! I've wrapped up Rectangular Death (rec.bsp) and
+it is ready to be painted with fresh layers of organic matter! It's an arena
+best played with 3 to 6 players (6 is frantic enough, more is just loony!).
+
+It can be downloaded at:
+ftp://cdrom.com/pub/idgames2/quake2/levels/deathmatch/p-r/rec.zip
+
+(might take an hour or two to update, check back if it's not there)
+
+enjoy! And watch those grenades!
+
+
+
+February 5,1998
+*************************************************
+Happy birthday/year (?) for all you 23/35 year olds in the Year of the Tiger!!
+
+Well, We are in fact in the super-cool (really, it's DAMN cold) penthouse now of
+the Texas Commerce Bank Building (or chase or whatever the hell it is this week).
+The Space is really rockin, but it needs some work on a few issues of great
+importance such as glare on screens, temperature, and a few people seem to be
+bugged by the noise level and the accoustics of the joint.  Other than that it is
+an absolute palace and I'm damned glad to be here!
+
+I've worked my new deathmatch map (hehe... RECTANGULAR DEATH) to about a 97% complete
+level.  If any of you were really big fans of Circular death you should REALLY enjoy
+this one as well.  E-mail me and I'll send it to you for you to give me a bit of
+feedback on.  Also is a new version of Cir called Dual Circular Death specifically
+intended for capture the flag, team play, and larger player number deathmatches.
+
+A note about my design of the arena series I call "geometric death":  I love many
+many complex maps, and I applaud good ones to no end.  The arena maps I've made are
+specifically designed for when you've got 2-5 players in a game and are a bit tired
+of maps where you run through HUGE areas and can't find anyone to combat enough to
+feel like you're playing an action game.  Also, I give this series a specifically
+simple and usually symetrical geometry in an effort to limit the advantage people
+tend to weild when they know a complex map like the back of their hand and wipe
+newby ass everytime they play it.  I like to emphasize the actual gameplay over the
+act of memorizing a map.  A lot of people might like a break from corridor hunting
+and get down to a frantic-as-hell death shootout, and not everyone has 16 players
+around to game at any one time.  I hope these maps fill a bit of that void, and I
+hope people above all enjoy a more "leveled" playing field now and then.
+
+I love good map designs and I'm still very very new to it (with tons to learn) so
+if you've got cool ideas lemme know and I might be able to incorporate it in an
+arena in the future...
+
+Circular Death can be found here:
+ftp://cdrom.com/pub/idgames2/quake2/levels/deathmatch/a-c/cir.zip
+(and rectangular death should be finalized by Friday...)
+
+I also picked up Final Fantasy Tactics this weekend, coming from an ex-square artist
+let me just say "HOLY SH*T" I love the art style of the characters in this game.
+Square once again pulled off a beauty and for anyone who enjoyed Vandal Hearts on
+the PSX (but might of thought it too easy) will surely enjoy the hell out of
+FFTactics... buy it, play it, rent it!  BUT IT'S STILL ABSOLUTELY NOTHING COMPARED
+TO XENOGEARS!!! We have GOT to get this RPG state-side, best damn RPG engine yet
+and a truely fantastic game, simply amazing...
+
+Many of my old friends at Square are shoving off to the Honolulu office this week
+to work on a certain project I turned down to come to the Anachronox team. The project
+is unannounced but let's just say it's a very well known series from Square and it
+comes with a number greater than 7 after it.  I wish you gus well, say hey to Akata
+for me!
+
+On the Anachronox side.  We've cranked out another 45 characters last month for
+Anox and are already more or less through the 40 for this month's deadline.  I'm
+VERY pleased with how they're coming along and can't wait for the HUGE amount of
+assets in this title to get to the public.  Still no screenshots available so knock
+off all that begging.  We've got a real treat in the works here, be patient, you
+don't want this title half-baked I assure you.
+
+Later for now!
+
+
+January 1, 1998
+*************************************************
+Well, I've got some funky ideas for a few deathmatch levels to kick out since I've
+caught a serious case of the level making bug.  My first map ever is named circular
+death (cir.bsp) and is available at:
+
+ftp://cdrom.com/pub/idgames2/quake2/levels/deathmatch/a-c/cir.zip
+
+I'd love to hear any feedback from people, bearing in mind it's quite a different feel
+than most maps have and you really need to play it with several people to really crank
+into it. Enjoy!
+
+Also, GO SEE TITANIC!!!
+
+December 11, 1997
+*************************************************
+Anyone unfamiliar with an RPG from Square called Xenogears, it's a PSX RPG and I know from
+seeing it running while I was working there that it's a work of art that makes FFVII look
+pretty stagnant.  Anyway they're not too hip on the importing Idea because it's got some
+"questionable religous material" in it.  Yeah well, I couldn't care less, it's not as
+if games with slightly out of bounds material don't do well over here.  I know if I had
+to clear every game I play with a Southern Baptist preacher I'd have a damned boring
+array of games about now.
+
+Anyway, if you care about sending a message that we want more great imports, I implore
+anyone who reads this (and anyone you might forward it to) to go and sign this psuedo
+petition Square has set up in order to get feedback on this issue.
+
+http://www.square.net/
+
+Thanks, and believe me, if it gets over here you wont regret it.
+
+
+
+December 5, 1997
+*************************************************
+Just to reiterate, we are looking for some badass texture and skin people for anachronox!
+Check out the IonStorm web page under info/jobs and click the anachronox logo for details
+and a group of textures in the game that give something of a cross section of what we're
+looking for.  Please send Jpegs or Gifs, or just mail them, all the info's on the page.
+
+December 4, 1997
+*************************************************
+Been too long since I've updated.  The team is cranking along as usual, we're going
+through a quick change session by getting several of our modelers and texture people
+into each other's roles.  We've got some really hip creatures in the pipe right now
+I'm working on one of the first (god I hate this term) "Boss" characters so it
+should be a good test of how the engine will handle some huge detail FFVII-ish
+effects and big ass creatures.
+
+WE NEED SKIN & TEXTURE PEOPLE!!!  If you are a competent photoshop type, please feel
+free to send me a few samples, or if you know anyone who might fit the role do them
+a favor and let them know we're looking. My address is (shocker) lee@ionstorm.com.
+3D is not a requirement for the texture positions, assuming you're solid enough to
+create render-quality art without 3D.  Give it a shot, what can you lose but a bit
+of your time (and it might lead to something really cool!)
+
+November 6, 1997
+*************************************************
+Movie Review: Gattaca
+
+Freakin well done movie in my opinion.  I've been waiting for so long for someone to
+take a solid story, put it in a sci-fi environment, and let the sci-fi aspects
+take a back seat to the story, well here it is.  Well concieved, nicely written,
+extremely nice cinemetography and design, and an excellent performance all around by
+a well picked cast.  I'm a crtical bastard when it comes to movies and I am hard
+pressed to find a serious flaw with this film.  The scenes were a classic almost 40's
+style, which lent a nice change to the concept that in a few decades everything is
+going to be made out of stainless steel, crome, and neon.  Ethan Hawke, who I've been
+quite down on since a few recent crap trendy grunge-movies, did an excellent job in 
+the lead and made me remember why I thought he did such an excellent job in swing kids
+and dead poets society.  Uma Thurman, who I've never found particularly atractive
+(although I did get to sit next to her at an LA screening of "Crash" [dont see it!])
+was absolutely stunning in the style of this movie, and generally turned my opinion
+of her around 180 degrees.
+
+Bottom Line: very solid movie, brings to mind several well written books (such as 
+Squirrel and I's favorite "Ender's Game" series and the about to be slaughtered
+great storyline of Starship Troopers) that I'd like to see this team turn into films.
+
+Well, our demo for Anox is off to Eidos, and was very solid for such an early alpha stage
+in the games production.  I hope to hear solid remarks from Eidos on it upon Jake's
+return.  As a gamer I'm looking forward to what this title will accomplish, it's going to
+be great fun and hopefully a real trendsetter.
+
+November 3, 1997
+*************************************************
+Did the wedding thing this weekend with Pmack from Rogue.  My brother's buddy Steve
+married my brother's sister (who's not my sister... don't ask, your head will explode)
+so now his best friend is his brother in law... odd.  They had a Karaoke reception, I
+knocked off a killer solo rendition of Elvis's Suspicious Minds, my bro did a bang up
+job with Minnie the Moocher, lot's of fun!
+
+Went to Waco (wee, Davidians everywhere, get em off me!) for the wife's homecoming at 
+Baylor.  Some fun to be had there.  Saw an old friend who plays Warhammer 40K a bit,
+and he had just picked up the series of lead miniatures called "the Sisters of Battle".
+Check these out if you get a chance!  Most of them a chicks in powered armor, some with
+jet-packs, and they all have a very militant-nun kind of look about them that is hard to
+describe, but trust me, they are very hip. They're some of the sharpest figures made for
+the game in my opinion, and yet another example of Games Workshop's amazing work in
+the field of non-computer gaming.  It's too bad these guys have a bad reputation with
+most distributers and shop-keepers, they are an amazing group of talented gamers...
+
+Well, Anox is getting some VERY cool functions emplemented that I can't fully discuss
+right now, but they're definitely some of the things that will make this engine 
+usable for our RPG needs.  Catch you guys later!
+   
+
+October 22, 1997
+*************************************************
+A correspondence with Tom Hall, submitted for your dissapproval:
+
+ME: (to our game addicts list) Is Ghost in the shell out yet?
+TOM: The game?  If you're wondering if you missed the film, man, you are BEhind
+  the times
+ME: No, I meant the game.  I was wondering cause a few web sites were posting
+  codes, but I was pretty sure it wasn't out yet... odd.
+TOM: The Breakfast Cereal?  (OK, this is where it all just went awry)
+ME: No, that was O's in the shell, wait, or was it choco-ghost-in-the-shellula with
+   real mar-Shirow-mallows?
+TOM: Whoops, I meant the Breakfast Serial-- the TV show shown at 7 a.m. Each show ends
+   with some hot robot chick falling through the air slow, saying something dumb about
+   "the Net".
+ME: What? There's a Saturday morning version?
+TOM: Wait, I meant the Breakfast Serial Bus, which takes early morning downtime to
+   upload.
+ME: AARG! I'M SOOO CONFUSED!! There was no bus in Ghost in the shell was there? And
+   I think cyborgs eat Oil-O's for breakfast out of a pan, I might be wrong on that
+   one though.
+TOM: Oh, No, I mean a Break-Faster reel, which allowed a runaway kite to be curtailed
+   Sometimes, the reel could be used with Oil-O's, which is how you can oilpanfish.
+   I think I've gone way off into the area of half-puns, so though I thought my ideas
+   were vast, I found they were half-vast.
+ME:  (After realizing the subject was now "Shows in the gel") I prefer the patented
+   Popeil Pocket Rocket Fisher Launcher to the reel of which you speak, it makes jerky
+   too and still makes Julian Fries in just nano-seconds!
+TOM: How did you know I just ate jerky?  You are a vision in the chamber, you are the
+   wizard in the keep, you are the... Ghost in the Shell!  Stick a fork in the f**ker
+   it's duuuuuun.  Ah Ron Popeil, Show me again how to spray paint my head
+ME:  Slim Jims are just wrong, though they contain lactic acid, something your body
+   needs anyway...
+TOM:  Ever try "Fat Jims"? They're really wrong.  Then the "Way the hell obese jims"
+   go too far.
+
+At this point I must break off, Tom revealed the meaning og the universe to me and I
+can't just go around spouting that off can I?  I'm so confused now...
+	
+
+October 8, 1997
+*************************************************
+Weekly game update: The Anachronox D&D game has moved to the apartment of Indigo and
+Deadhorse (thanks muchly guys).  Much fun was had Monday night by most of the party
+(those who could actually attack without dropping their weapons).  I'll be running the
+adventure as soon as we finish off the local ruffians, got fun stuff planned!
+
+Anachronox is moving along briskly, workin hard to get everything together by the end
+of the month to show the big wigs at Eidos.  Code is beginning to be merged and we're
+finally going to start seeing the fruits of all these animations.  I'm really really
+excited with all the possibilities of our title based on the flexibility of our game.
+I've hardly been able to sleep the past few nights because new ways of implementing
+cool shit just keeps flooding my brain!  Man, this is going to be soooo cool!
+
+October 1, 1997
+*************************************************
+D-Day... dum dum duuuuum!
+
+Welp, several people on the team are out of whack with various illnesses (illni?) which
+makes it a bit more difficult on the Eidos deadline, I can hardly bitch though when I
+was out last Monday as well and having had several days in the past few weeks where I got
+out of bed, felt like taking the plunger to my nose so I might actually be able to breath
+through this Sinus nightmare of Dallas.  Nevertheless there's still quite a few things
+to do, including one of the main characters who is exponentially difficult to animate due
+to a large amount of hair all over his body, so I'm going to let this go and get the hell
+back to animating.
+
+On a side note the Champions game went well last night even if running later than usual.
+My little martial artist had quite a fight on his hand taking down an opposing brick with
+relatively minor injuries in the melee.  The highlight of my evening was my little asian
+kid walking up to the game equivalent of the Hulk with a large sledgehammer and knocking
+the weapon (which I'm not even strong enough to lift) from his hands.  Of course after
+he retrieved the tool, the majority of my time was spent dodging my ass off so as not to
+get thumped by it, but it still felt good to overpower a brick with a str 15 character.
+(anyone who plays the heros system can surely empathize)
+
+One of the construction workers for our upstairs office renovations chatted in the lobby
+with a few of us about how well everything was going.  Most of the walls are up and being
+"textured" as we speak.  I hope they vis the thing well I don't want to get any slowdown 
+when cruising to the watercooler. Apparently we might just be getting in the cool new
+suite a bit earlier than previously thought. WooHoo!
+
+September 29, 1997
+*************************************************
+In the last stretch of the mass deadline so this will be short and sweet:
+
+Found a cool mag (The official US playstation magazine) with an oh-so catchy title, ahem
+yeah... anyway, it comes with a cool PSX demo disc on it (which is a first for the PSX)
+including a demo of Parappa the Rappa (which is SOOOOO hip it is not to be believed!) and
+a demo of another rockin little puzzle game called Intelligence Cube (Which we had as a
+japanese version back at Square but I never played it, bummer) which I highly reccomend
+as well.  Fighting Force looks pretty cool if you're into slug-fest titles as well.
+
+Played D&D Sunday at Toms again and basically it amounted to us sitting around for some
+6 hours counting gems (after the guys discovered my handy appraisal skill) and realising
+for some reason we weren't 1st level anymore!  It was altogether a waste of a playing
+session, but I did get to roust an old man so it wasn't a total loss of that special brand
+of Lee charcater humor.
+
+Last Tuesday my Champions game ran late supposedly because my bro was "making maps for the
+adventure".  The joke came later when we realized quite quickly that all the enemies were
+strickingly similar to the cast of FFVII and his idea of map research basically came down
+to getting into FFVII and not wanting to stop to play the champs game.
+
+Welp, I'm back on the job, later!
+
+
+September 15, 1997
+*************************************************
+Well we're in the midst of animation hell about now. I can think of a few things I enjoy
+a bit more than deadlines, like root canals, frontal lobotomies, getting to be cell-mates
+with a man named bubba...
+
+Had an amusing game of D&D this Sunday, we wound up with the entire party beaten like a
+red headed step-child in the middle of a large lair (we're only first level for the most
+part) and were actually given the choice of wether we wanted to just create new characters
+or deal with the consiquences of being beaten unconcious and locked in what amounts to a 
+Rancor mosters pit.  We chose to continue and woke up completely stripped of all our
+goods, except tattered loin clothes (those generous kobolds, wee!).  It was great fun
+about the time we had to start binding wounds with the only cloth we had... I won't get
+into that though.
+
+It wrapped up with two loin-clothed guys escaping from the lair, hauling my naked gnomish
+ass and our heavy duty fighter's as well on their back while the remaining kobolds shot
+volleys of crossbow bolts at us from behind... luckily I make a nice shield and absorbed
+a great deal of the bolts... I was pleased at a job done well, I'm considering strapping
+some leather to my butt and changing my character class to "light shield" :-P
+
+September 5, 1997
+*************************************************
+Yeomans log:  oh, wait that's not right...  The artnachronox modelers have had a rockin
+week.  With a horde of character models we've managed (in a week and a half) to produce
+easily 3 times the characters most games use in their entire title.  Not to mention they
+are some of the coolest models and designs I've ever had the pleasure of working with.
+And hell, we're only about 15% or so through the design document... er bible.
+
+Next week will begin the first massive animation effort as we begin to breath life into
+the ungodly massive hordes of polys that lay before us.  Wee hee!  I think I can safely
+say we've pulled off a level of productivity I've never seen at Square.
+
+As a sidenote: I played FFVII until about 1:30 last night, and let me say DAMN! That's a
+smokin game! Lookin forward to playing FFVII all weekend, well except D&D at Toms House
+of Horror all day Sunday.  Should be a hoot, especially after my Tuesday night Champions
+game with my Bro, Pmack over at Rogue, and a cast of regular playing buds fell through
+due to unforseeable circumstances.  I'm Jonesin for RPGs BABY!
+
+September 3, 1997
+*************************************************
+Been a busy little monkey!  Saw a page of my images from Square in this months GameFan
+on page 112.  Apparently I'm destined to be buried with that damn monkey/mechabo image.
+I'm not sure where they got the story information though, they claimed Square was running
+our Chocobo De Battle game at 80 million polys a second (Hey! A monkey flew out my ass!)
+when the most we ever optimistically expected was 5 million a sec.  Not to mention that
+was on a 1.25 million dollar Onyx2 SGI with some 2 gigs of RAM, it would be ungodly hard
+(not to mention cost prohibitive) to get performance like that in an arcade anytime soon.
+
+On the Anachronox side, well, Tom & Jerry (if you'll forgive the pun) have picked a lead
+artist for Anachronox and apparently it would be me.  I hope to get a load of rockin high
+res images of the type Square was using for Chocobo De Battle, but for now we've got a
+Chicken McShitload of poly models to get done ASAP, so high res will be on hold for a bit.
+
+Final Fantasy VII, early released should be available today if you kiss the right ass, so
+all you pre-ordered junkies get on the phone and start pestering for an early copy NOW!
+
+August 28, 1997
+*************************************************
+Introduction: Lee Perry, I've been with IonStorm for around 2 months now.  I'm fresh from
+SQUARE USA in the LA R&D division, and prior to that I worked at Black Ops Entertainment in
+Santa Monica. I guess it's about time I do my part to clog the ungodly number of plan file
+sites, and since it's my B-day today, what better gift can there be but a shiny new file?
+I'll be updating pretty regularly in the future, giving away lots of industry secrets...
+oops... wait that's not right!

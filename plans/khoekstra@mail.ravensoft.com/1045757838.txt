@@ -1,0 +1,176 @@
+
+Name: Kenn Hoekstra
+Email: khoekstra@ravensoft.com
+Description: Project Administrator
+Project: General
+Web Page: <a href="http://www2.ravensoft.com/users/khoekstra">Kenn's Web Site</a>
+-------------------------------------------------------------------------------
+Monday, February 17th, 2003 - Anyone have a line on a
+good corporate SPAM filter?  We were using X-Wall, which
+was working fantastically well, but we were losing some
+legit mail in the process.  Now we're exploring our 
+options again for some new software...  
+
+We're using MS Exchange 5.X, if that helps.  Thanks 
+for any insight into our little problem.  If you've
+got something, <a href="mailto:khoekstra@ravensoft.com?subject=New Spam Software">e-mail me here</a>.
+
+I left for two days and had 500 SPAM e-mails in my inbox.
+That's up a bit from the 5 or so that were getting through
+when we had our X-Wall turned on.  *sigh*
+
+******************************************************
+
+The following positions have recently opened at Raven Software:
+
+Console Tech Programmer:
+Raven Software is seeking a talented programmer to 
+play an important role in a triple-A console title 
+currently in development.  We are looking for an 
+experienced technology guru who can integrate with a 
+capable development team and make a great game even 
+better.  Responsibilities include working with technology 
+designed to work cross-platform for the Playstation 2, 
+Gamecube and Xbox.
+
+The ideal candidate would have:
+--Minimum of five years of programming experience in 
+  game development or real-time graphics applications, 
+  with at least two shipped products.
+--Full mastery of C++ and working with as well as creating 
+  object-oriented systems.
+--Excellent oral and written communications skills.
+--Proven technical expertise with at least one console 
+  platform such as Playstation 2, Xbox or Gamecube.
+
+Additional strong assets:
+--Bachelor’s Degree or better in Computer Science, 
+  Engineering, or Mathematics.
+--Experience and comfort with low-level assembly and 
+  hardware API’s.
+--Skills with cutting-edge graphics work such as advanced 
+  rendering techniques, animation, or optimization.
+--Previous experience with developing a cross-platform 
+  product.
+--Experience with game-oriented graphics technology such 
+  as Renderware, Intrinsic Alchemy, or NetImmerse.
+
+Character and Combat Programmer:
+Raven Software is seeking an inspired programmer to help 
+refine a triple-A console title currently in development.  
+We are looking for a game coder with a keen eye who can 
+take a game character and hone the look and feel of movement 
+and hand-to-hand combat to perfection.  Responsibilities 
+include working with and fleshing out an established game 
+design and working directly with an animator in creating the 
+proper moves.
+
+The ideal candidate would have:
+--Minimum of four years of programming experience in game 
+  development, with at least two shipped products.
+--Full mastery of C++ and working with object-oriented 
+  systems.
+--Excellent oral and written communications skills.
+--Experience with implementation of character animation 
+  and control in a previous game product.
+
+Additional strong assets:
+--Proven experience with at least one console platform 
+  such as Playstation 2, Xbox or Gamecube.
+--Previous experience with developing a cross-platform 
+  product.
+--Strong passion for console games, including fighting 
+  games and action RPG’s.
+--Knowledge of and/or passion for martial arts or 
+  cinematic-style fighting.
+
+Game Programmer:
+Raven Software is seeking an enthusiastic programmer to 
+assist in the completion of a triple-A console title currently 
+in development.  We are looking for a self-driven game coder 
+who can integrate with a strong, experienced programming team 
+and help make a game the best it can be.  Responsibilities 
+include taking on specific game systems and seeing them to 
+completion without constant supervision.
+
+The ideal candidate would have:
+--Minimum of two years of programming experience in game 
+  development or in another professional environment.
+--Strong grasp of C++ and object-oriented systems.
+--Excellent oral and written communications skills.
+--At least one shipped game product or completed independent 
+  game project, such as a demo or mod.
+
+Additional strong assets:
+--Previous experience with developing a cross-platform 
+  product.
+--Strong interest in console games, including fighting 
+  games and action RPG’s.
+--Experience with character motion or game character AI.
+--Strong knowledge of mathematics and physics.
+--Demonstrable drive to work on a major game product.
+
+These positions are available to be filled as soon as the 
+proper candidate is selected.  They are full-time positions 
+that require relocation to Raven Software offices located 
+in Madison, Wisconsin. 
+
+Please send materials to <a href="mailto:programming@ravensoft.com?subject=Raven Programming Openings">programming@ravensoft.com</a> or via snail mail to:
+
+Raven Software
+Attn: Michael Crowns
+Three Point Place, Suite 1
+Madison, WI  53719
+
+Rock and roll!
+
+
+*************************************************************
+
+Friday, December 22nd, 2000 - I posted an article that I
+wrote a while back on our www2 server that may be of interest 
+entitled: <a href="http://www2.ravensoft.com/getajob.htm">How To Get A Job In The Game Development Industry</a>.
+
+If you're bored, you may want to give it a read.  If you 
+know of any websites or insights that are missing, feel
+free to <a href="mailto:khoekstra@ravensoft.com?subject=Get A Job Article Addition/Comment">drop me a line and let me know</a>.  
+
+***********************************************************************************
+
+Wednesday, May 26th, 1999 - A new day has dawned in Kenn's World...  Last night, I
+asked Michele, the love of my life, to marry me.  And she said YES!  Thank you, Michele...
+You've made me the happiest man in the world!  I look forward to spending the rest of
+my life with you...  You are the most wonderful person I have ever known...
+
+Thanks to Rob "Beroge" Gee for ring shopping with me and special thanks to 
+Kim "Lee Majors" Lathrop for giving me the final "get in there, son...we need
+a base runner" speech.  =)  Oh...and thanks to 94.1 WJJO for playing "Rainbow In The Dark"
+during my drive to "the big moment."  I couldn't have done it without all of your help...
+
+Hey Matt!  You're next, buddy...  In the immortal words of "Nature Boy" Ric Flair....WHOOOOOOOOO!
+
+******************************************************************************************
+
+IN LOVING MEMORY - Kenneth Lee Hoekstra (August 26th, 1937 - April 23rd, 1998)
+
+Sunset and evening star.
+And one clear call for me!
+And may there be no moaning of the bar,
+When I put out to sea.
+
+But such a tide as moving seems asleep
+Too full for sound and foam.
+When that which drew from out the boundless deep
+Turns again home.
+
+Twilight and evening bell,
+And after that the dark!
+And may there be no sadness of farewell,
+When I embark;
+
+For though from out our bourne  of Time and Place
+The flood may bear me far
+I hope to see my Pilot face to face
+When I have crossed the bar.				...Alfred Tennyson
+
+********************************************************************************************************

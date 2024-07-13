@@ -1,0 +1,480 @@
+
+Name: Kenn Hoekstra
+Email: khoekstra@ravensoft.com
+Description: Project Admin
+Project: General
+Web Page: <a href="http://www2.ravensoft.com/users/khoekstra">Kenn's Web Site</a>
+-------------------------------------------------------------------------------
+Monday, April 22nd, 2002 - The tools and level editor
+for Jedi Outcast have been released to the public.  The
+4MB download includes:
+
+JK2Radiant - The map editor.
+MD3View - Model viewer for .md3 format models
+ModView - Model viewer for .glm (Ghoul2) format model
+ShaderEd2 - The shader editor/viewer
+sof2map - The map compiler, you will not be using this directly, JK2Radiant uses this.
+
+You can download it from:
+
+- <a href="http://www.fileplanet.com/index.asp?file=87277">FilePlanet</a>
+- <a href="http://www.shacknews.com/files/fileshack2.x?JK2EditingTools.zip">ShackNews</a>
+- <a href="http://www.3ddownloads.com/?file_id=159544">3DDownloads</a>
+- <a href="http://www.jediknightii.net">JediKnightii.net</a>
+
+I expect mirrors will appear shortly at:
+
+- <a href="http://www.bluesnews.com">Blue's News</a>
+- <a href="http://www.jk2files.com">JK2Files.com</a>
+- <a href="http://www.massassi.net">The Massassi Temple</a>
+- <a href="http://www.jedicenter.com">Jedi Center</a>
+- <a href="http://www.jedi-outcast.com">Jedi-Outcast.com</a>
+
+Feel free to download and mirror these files as you see
+fit.  Remember of course that these are released "as is"
+and are unsupported by Raven/Activision/LucasArts.
+
+Another Jedi Outcast fix for you:
+
+If you're getting the CL_ParsePacketEntities error in JK2
+multiplayer, it's likely because you are using the cracked
+executable.  That's the only instance we've seen the error.
+Shame on you.  ;)
+
+
+******************************************************
+
+Friday, April 19th, 2002 - The Soldier of Fortune II 
+multiplayer test is out there!  You can grab it from
+the list of mirrors at:
+- <a href="http://www.bluesnews.com/files/sof2/demos/sof2_test.shtml">http://www.bluesnews.com/files/sof2/demos/sof2_test.shtml</a>
+
+If you want to give feedback or need tech support, 
+go to:
+
+- Email: <a href="mailto:sof2mptest@ravensoft.com">sof2mptest@ravensoft.com</a>
+- Form:  <a href="http://sof2.ravensoft.com/testfeedback/form.htm">http://sof2.ravensoft.com/testfeedback/form.htm</a>
+- Forum: <a href="http://www2.ravensoft.com/cgi-bin/yabb/yabb.pl">http://www2.ravensoft.com/cgi-bin/yabb/yabb.pl</a>
+
+So far it looks like the response is overwhelmingly positive!
+I'm glad everyone is enjoying it.  Our GameSpy chat yesterday
+drew a record number of chatters...more than doubling the
+previous record!  Thanks, all for showing up to rap with us!
+You can find a <a href="http://www.planetsoldier.com/features/interviews/ravenchatapril2002.shtml">transcript of the chat here</a>.  You can also 
+find an <a href="http://www.gamespydaily.com/news/fullstory.asp?id=3298">interview</a> that Rick and I did for GameSpy Daily and 
+read the 3DActionPlanet <a href="http://www.3dactionplanet.com/features/firstlooks/sof2mptest/">MP impressions here</a>.
+
+A few notes:
+
+1. For those who think the speed of the game is slower than
+the original SOF, you can change the speed of the players on
+the server using the g_speed console command.  You can change
+it to whatever you like (for all you speed freaks out there).
+
+2. Those wondering about the gore, keep in mind that there is
+less gore in the MP version of the game because of networking
+concerns.  SOF2 multiplayer will support 64 players.
+
+3. If you're getting an "invalid game version" error message
+when attempting to connect to servers, it's because you're
+using the leaked version.  Shame on you.  ;)  Get the new one!
+
+4. For dedicated servers, +set dedicated 1 is a dedicated LAN.
++set dedicated 2 is a dedicated internet public server.
+
+Happy fragging!
+
+*************************************************************
+
+Thursday, April 18th, 2002 - Back in action, rested and ready
+after my vacation.  I think I've gotten back to just about
+everyone at this point.  If not, it will happen soon.
+
+The Jedi Outcast resource page I've been maintaining has been
+updated with help for joystick users, dual AMD users, people
+who are stuck in the game and need a walkthrough, etc.  Drop
+by <a href="http://www2.ravensoft.com/jedioutcast/">http://www2.ravensoft.com/jedioutcast/</a> for the latest 
+updates about Jedi Outcast.
+
+Direct link to the top solutions faq:
+<a href="http://www2.ravensoft.com/jedioutcast/faq.htm">http://www2.ravensoft.com/jedioutcast/faq.htm</a>
+
+****************************************************************
+
+
+Tuesday, April 2nd, 2002 - I'm headed out to San Francisco for
+a Soldier of Fortune 2 press event and then I'll be on vacation
+from April 5th through the 15th.  I have my out of office assistant
+turned on, so if you e-mail me, you'll get the scoop on what to
+do and where to go for assistance.  See you when I get back!
+
+--Kenn
+
+
+
+**************************************************************
+
+Thursday, March 28th, 2002 - I just pre-ordered my collector's
+edition of Jedi Outcast from EBWorld.  In most cases, it's $59.99
+but EBWorld has a painless $10 mail-in rebate.  Not bad!  One of
+the guys bought a collector's edition today and I must say it's
+pretty sweet stuff.  You can get one <a href="http://www.ebgames.com/ebx/categories/products/product.asp?pf_id=216704">here</a>.
+
+I haven't had chance to put together a FAQ yet for Jedi Outcast
+but here are some support tips for you right off the bat:
+
+1. If you get the "Could Not Open GL Subsystem" error, it's 
+because either your video card isn't 100% open GL compatible
+or because you need new drivers.  If you have any card released
+in the last two years (GeForce anything, Radeon etc.) and you
+get the error, it's driver related.  For a great list of drivers,
+check out: <a href="http://www.voodooextreme.com/hw/Binaries/drivers.html">http://www.voodooextreme.com/hw/Binaries/drivers.html</a>.
+
+2. I've seen some performance-related issues pop up on the
+message boards as well.  The most likely cause of this is the
+tendency of people to crank things up as high as they will go
+just because they can.  Don't worry, I do this too...  My
+recommendations for improving performance in Jedi Outcast:
+
+a) Update all of your video, sound and directX drivers to
+make sure you have the latest, greatest versions.  There's a
+list of all supported hardware as well as the tested drivers in
+C:Program FilesLucasArtsStar Wars JK II Jedi OutcastInstall	rouble.rtf
+
+b) Turn off all background applications including e-mail, ICQ,
+and especially virus scanners.  Some virus scanners really do
+check everything and this can kill load times and performance.
+
+c) Don't play in resolutions higher than 800X600 on anything
+short of "uber hardware."  JK2 is a hardware intensive game and
+if you crank everything as high as it will go, you can overheat
+your video card and/or your processor.  That will cause lock-ups
+and performance problems.  Taking the side of the case off for
+extra ventilation is another option to avoid this.  Be careful
+with AMD machines, though.  Sometimes taking the case off makes
+matters worse depending on how ventilation is set up.
+
+3. Load times...  I've seen some people mentioning problems with
+load times.  The key here is to be objective in analyzing your
+system's capabilities before cranking everything up.  To check
+this, we did the following test analysis:
+
+All tests were run from the release copy, and dropping out of the 
+executable and re-running for each graphic setting change (and 
+waiting for any hard drive accessing to cease before starting next 
+test). The only settings we altered were choosing the 4 predefined 
+video settings at the top of the video screen. Nothing else was 
+touched at all.
+
+All tests stopwatched from console command "map kejim_base" to 
+seeing "datapad updated" onscreen.
+
+P3 / 1GHZ / 512MB / GeForce3 64MB
+
+VideoSetting	Load time	Reload Time (same timing method)
+=================================================
+HighQuality	1:15		0:04
+Normal		0:38		0:04
+Fast		0:31		0:03
+Fastest		0:29		0:03
+
+P2 / 300MHZ / 128MB / TNT1 16MB  (low-end machine, but for comparison)
+
+HighQuality	6:00		0:55	
+Normal		2:55		0:42
+Fast		1:52		0:20
+Fastest		1:45		0:15
+
+Ram is the biggest helper for load times as is video memory.
+If you have 256MB of RAM or more and a 32MB or 64MB video
+card, load times shouldn't be an issue at all.
+
+If I see any other issues, I'll try to address them.  In the
+meantime, Jedi Outcast has some of the most comprehensive help
+files and diagnostic tools I've ever seen in a game, courtesy
+of Activision and LucasArts.  Use them!  You can find the help
+files in: C:Program FilesLucasArtsStar Wars JK II Jedi OutcastInstall
+and as part of the launcher screen.
+
+If you have issues, be sure to visit "Yoda's Help Desk" over at
+LucasArts.com as they are handling support for the game.  I will
+try to put support things here and I plan to make a FAQ soon to
+collect all of the info.  I'll keep you posted.  In the meantime,
+<a href="http://support.lucasarts.com">http://support.lucasarts.com</a> is the place to go!
+
+Thanks for the outpouring of positive feedback we've gotten so
+far!  I'm glad everyone is enjoying the game!
+
+**************************************************************
+
+Monday, March 25th, 2002 - Raven has just released a Linux
+Dedicated Server for Jedi Knight 2: Jedi Outcast.  I've sent
+word to various news and file sites out there who are putting
+up mirrors of the file as we speak.  
+
+You can download the Linux Dedicated Server for JK2 at:
+
+* <a href="http://www.3dgamers.com/games/jedioutcast/">http://www.3dgamers.com/games/jedioutcast/</a>
+* <a href="http://www.bluesnews.com/files/jedioutcast/jk2linuxded.shtml">http://www.bluesnews.com/files/jedioutcast/jk2linuxded.shtml</a>
+
+Update: The file is also now up at <a href="http://www.shacknews.com">ShackNews</a> (FileShack)
+
+Please note that this is an unsupported release.  Please see
+the readme file and disclaimer inside the .zip file.  LucasArts'
+help desk and CS department will not take calls about these
+Linux utilities.
+
+Enjoy!
+
+Obligatory Oscars Observation:
+Does anyone else think that Blackhawk Down winning best film
+editing over Memento is a big joke?  ;)
+
+
+**************************************************************
+
+
+Sunday, February 3rd, 2002 - Today is my Five Year Anniversary
+with Raven Software.  Five years ago today I started work with
+a PPRO 200 with 128 MB of RAM and a 2GB hard drive with a copy
+of Windows 95 and 3D Studio Max 1.2.  I'd never seen the real
+Internet before, only muds and a vax at UW-Whitewater. 
+
+A month or so after I started, Jon Zuk and I got Monster 3D 
+Voodoo1 cards from Best Buy and proceeded to put colored lighting 
+into a Raven title for the first time.  God, has it been that 
+long?  I can hardly believe it...
+
+At that time, we were working on Take No Prisoners, MageSlayer
+and Hexen II for Red Orb, GT Interactive and Activision.  Raven 
+consisted of about 25 people, all of which actually fit around 
+the table and in the chairs of our main conference room.
+
+In the five years since I started, I've watched the building
+expand twice and the team expand to 60 people.  We released
+those three games we were working on, were bought by Activision
+and we went on to produce Portal of Praevus, Heretic II, Soldier 
+of Fortune (+Gold and Platinum), Elite Force, Elite Force Expansion 
+Pack and we're closing in on the completion of Jedi Outcast and 
+Soldier 2 with two more titles waiting in the wings.  
+
+My machine today has upgraded by 10 times the MHZ, 3 processors, 4 
+times the RAM, 40 times the hard drive space, 16 times the video 
+memory, four versions of MAX and five or six OS's.
+
+I had just watched the Packers beat the Patriots in Superbowl XXXI
+and now, five years later, I'm about to go home and watch another
+Superbowl (featuring the Patriots, no less).
+
+It's been a good five years.  Here's looking at five more...
+
+
+******************************************************************
+
+
+
+
+Friday, January 4th, 2002 - Happy New Year!  
+
+Thanks for the Windows XP help!  Several people sent me this link
+to the <a href="http://www.microsoft.com/windowsxp/home/howtobuy/choosing2.asp">comparison between XP Home and XP Professional</a>.
+Apparently I'm either too lazy or too slow to find things
+like this on Microsoft's home page.  :)
+
+Rock and roll!
+
+Oh...and if you have a moment, check out <a href="http://www.thundarr.com">Thundarr.com</a>.
+
+My New Year's Resolution to achieve total fanboy geekdom, I'm 
+happy to say, was a smashing success.  :)
+
+*************************************************************
+
+
+
+
+
+Saturday, December 15th, 2001 - For someone who doesn't like
+travel, I sure end up traveling quite a bit...  ;)  Yes, I'll
+be out in L.A. for the next five days.  If you e-mail me, I'll
+get back to you in the order the mail was received.  Thanks 
+for your patience.
+
+Saw this <a href="http://actionvault.ign.com/features/intelligence/sof2.shtml">interesting summation of Soldier of Fortune II</a> the
+other day...  It's pretty cool!  A nice, comprehensive overview
+of just about every aspect of the game.  
+
+My favorite line of the article is this one: 
+
+"Project Administrator Kenn Hoekstra has repeatedly stated that 
+winter is when the game is expected to be complete. More recently, 
+Lead Programmer Rick Johnson has given a release date of the first 
+quarter of 2002."
+
+What people don't realize is that in Wisconsin, the first quarter 
+of 2002 is still "Winter."  ;) I've got something in my head that
+Obi Wan once said...  Something about a "certain point of view?"
+Heh...  Anyway, I thought it was kind of funny.  
+
+Thanks, by the way, for signing my <a href="http://www.petitiononline.com/thundarr/petition.html">"Bring Thundarr To DVD"</a>
+petition.  Thundarr.com is coming soon...  Muwahahahaha!
+
+Have a great weekend, peeps.
+
+--Kenn
+
+
+
+***********************************************************
+
+Thursday, December 13th, 2001 - Nothing work-related today.
+I just want to say that I'm about to embark on the biggest
+geek-mission of my 28 year long geek life.  I'm in the
+process of securing a domain name and server setup for my
+first ever fanboy Internet page dedicated to... <drumroll> 
+THUNDARR THE BARBARIAN!  
+
+Yes, that's right.  It was one of my fave cartoons as a kid 
+(along with other gems like Spider Man and his Amazing Friends, 
+He-Man and Thundercats) and I'm disappointed that there's 
+so little information about it on the Internet.  I want to
+create THE comprehensive place to go for Thundarr info.  I'm
+also bitter that there's no way to get the series on video
+or DVD anymore.  I contacted Ruby-Spears Entertainment about
+it and they told me the rights belong to AOL/Time Warner and
+the Cartoon Network.  Surprise!  They don't accept any input
+or suggestions through their websites, so there's no way for
+me to even SUGGEST they put it out on DVD.
+
+So, to make a long story short, stay tuned for my Thundarr
+haven on the web.  First up is going to be a petition to
+release all 21 episodes of its glory on DVD.  And I expect
+each and every one of you to <a href="http://www.petitiononline.com/thundarr/petition.html">SIGN THIS BAD BOY!</a> ;)
+
+It will be one of the corner stones of the site...  Stay
+tuned for more geek info and a geek link to Kenn's geek
+page.  :)  Thanks for signing, if you sign...
+
+Take care,
+
+--Kenn
+
+
+
+
+************************************************************
+
+Wednesday, November 21st, 2001 - I guess it's been a while
+since I last updated so I have a bit to catch up on.  Let's
+get started, shall we?
+
+First of all, the official <a href="http://www.lucasarts.com/products/outcast/">Jedi Outcast website</a> is live over
+at LucasArts.com.  The content there coupled with last night's
+<a href="http://www.mgon.com/articles.phtml?id=112760">Jedi Outcast chat transcript</a> should go a long way in answering
+most questions people have about the game.  In the coming weeks
+and months we'll be beefing up the content of the website, 
+updating the FAQ and grabbing commonly asked questions from
+various message boards to answer and add to the FAQ.
+
+As you're probably aware, Soldier of Fortune II is now going
+to ship with multiplayer.  We released some screenshots the
+other day to accompany the <a href="http://www.stomped.com/published/big1006198921_1_1.html">press release</a>.  Most websites only
+carried five of them but you can see <a href="http://www.bluesnews.com/screenshots/games/sof2/20011119/">all eight here</a> if you're
+interested.  We're really excited to be able to offer single 
+player, the random scenario generator and now multiplayer.  
+
+Congrats to id, Gray Matter, Nerve and Activision for finishing
+and shipping Wolfenstein!  Nothing says "we're gold" like women
+in spike heels and leather pants sitting on a pile of gold bars.
+That's what I always say...  ;)  
+
+Oh, and congrats to "the Romero" and Co. on their <a href="http://www.monkeystone.com/news.php">new digs</a>...
+
+Other non-work stuff:
+
+I know I've talked about quitting smoking here in the ol' .plan
+before at least twice.  Well, this time I mean it.  I'm five
+days into quitting using a little thing called Zyban to help
+me.  So far, so good.  I may have finally exorcised the demon.  ;)
+
+Raven took us to see Harry Potter yesterday.  It was pretty good.
+Not surprisingly, however, the book is much better.  Sadly, there's 
+only so much you can do with a movie.  I wonder what all of the
+smiling parents at the theater would think if someone told them
+that Harry Potter is basically *gasp* a Dungeons & Dragons module?
+If they knew that, they'd probably be just like <a href="http://www.exposingsatanism.org/harrypotter.htm">these people</a>.  Huh?
+
+I picked up the KISS boxed set yesterday.  Even if you're a RABID
+KISS fan I'd recommend against the "collector's edition" of the 
+set.  I don't think a cheesy guitar case and a hardcover version of
+the cd book is worth a hundred bucks.  The regular edition, however,
+is worth the $50.  The thirty unreleased songs are quite cool.  
+
+I'm going to ask Santa for a GameCube this Christmas.  I'm very
+much looking forward to Resident Evil, some incarnation of the
+Metroid series and the other games that are due out soon.  I think
+the GC looks solid all around.  I think it's the system that will
+make me break my console draught of three years...
+
+Okay, I guess I've droned on long enough.  Have a happy Thanksgiving!
+Back to work on manual stuff etc. etc. etc.
+
+*************************************************************
+
+Wednesday, September 26th, 2001 - I just finished compiling a 
+list of all of the Soldier of Fortune II: Double Helix info I
+could find on the Internet.  If you're interested in seeing a
+list of everything that's available, you can <a href="http://sof2.ravensoft.com/press.html">check it out here</a>.
+
+If you notice anything missing from the list, <a href="mailto:khoekstra@ravensoft.com?subject=SoF2 Press">drop me a line</a> and
+let me know.  I'll be sure to add it directly...
+
+***********************************************************
+
+Friday, December 22nd, 2000 - I posted an article that I
+wrote a while back on our www2 server that may be of interest 
+entitled: <a href="http://www2.ravensoft.com/getajob.htm">How To Get A Job In The Game Development Industry</a>.
+
+If you're bored, you may want to give it a read.  If you 
+know of any websites or insights that are missing, feel
+free to <a href="mailto:khoekstra@ravensoft.com?subject=Get A Job Article Addition/Comment">drop me a line and let me know</a>.  
+
+***********************************************************************************
+
+Wednesday, May 26th, 1999 - A new day has dawned in Kenn's World...  Last night, I
+asked Michele, the love of my life, to marry me.  And she said YES!  Thank you, Michele...
+You've made me the happiest man in the world!  I look forward to spending the rest of
+my life with you...  You are the most wonderful person I have ever known...
+
+Thanks to Rob "Beroge" Gee for ring shopping with me and special thanks to 
+Kim "Lee Majors" Lathrop for giving me the final "get in there, son...we need
+a base runner" speech.  =)  Oh...and thanks to 94.1 WJJO for playing "Rainbow In The Dark"
+during my drive to "the big moment."  I couldn't have done it without all of your help...
+
+Hey Matt!  You're next, buddy...  In the immortal words of "Nature Boy" Ric Flair....WHOOOOOOOOO!
+
+******************************************************************************************
+
+IN LOVING MEMORY - Kenneth Lee Hoekstra (August 26th, 1937 - April 23rd, 1998)
+
+Sunset and evening star.
+And one clear call for me!
+And may there be no moaning of the bar,
+When I put out to sea.
+
+But such a tide as moving seems asleep
+Too full for sound and foam.
+When that which drew from out the boundless deep
+Turns again home.
+
+Twilight and evening bell,
+And after that the dark!
+And may there be no sadness of farewell,
+When I embark;
+
+For though from out our bourne  of Time and Place
+The flood may bear me far
+I hope to see my Pilot face to face
+When I have crossed the bar.				...Alfred Tennyson
+
+********************************************************************************************************

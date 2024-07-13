@@ -1,0 +1,266 @@
+Login: john           			Name: John Jack
+Plan:
+9/2/98
+
+Since I'm doing a fresh get on SourceSafe on 2 machines in my office and this takes about 37.5 hours (depending on the tides), I figured I'd pass the time by updating my .plan.
+
+So what's new.  ModelEdit.  Say it with me.  MODEL. EDIT.  You get to EDIT MODELS.  With MODEL EDIT.  Over and over.  The same ones.  Sometimes different ones.  Until you screw something up.  Then you get to do them again.  And again.  The joys.  I'm almost done.
+
+Besides exploring the joys of ModelEdit, I'm happy to say that Shogo's currently in beta, which is cool. New build goes to QA tomorrow ...we're getting closer...
+
+
+Login: stjohn         			Name: Aaron St. John
+Plan:
+10/30/98
+
+    To give a full update on what's gone on since my last 
+plan update would probably take several pages of text and would only end in frustration because after all that I still couldn't tell you all about Monolith's newest and different game that I've been working on. For a hint though you can look in the November issue of PCGames pg.36, and wait for a nifty press release from our marketing department. I'll tell you this though the team's been working hard and kicking butt since I last updated, and it's going to show when we're ready to go public...
+Stay tuned for further updates by me on our progress.
+
+
+P.S. Blood2 Rockz, Blood2 deathmatch Rockz double... 
+
+
+6/29/98
+
+       To some up what all happened this week I would say simply. Shit happened. We had some pretty good shit, but then we reevaluated our current shit and decided it could be much prettier and more functional shit than it was now. We had a couple of meetings to examine the shit we had, then got together and made some more shit. We like the new shit quite a bit although some of the team was pretty attached to the old shit. Karen (our project manager) has been gone, but sheM-^’ll be back this week so sheM-^’ll be able to examine our shit and give us her thoughts on it. In the coming weeks a lot more shit needs to happen........
+
+			....I also dyed my hair green.....
+
+
+
+
+
+
+6/1/98
+
+ K, this'll be a quik update. MB is doing great. We've got our first milestone set, and we're all going full steam. Garrett's going to be my texture artist for awhile, I think he's got some slick ideas about our enviornments. We're planning to have some working game stuff by the end of this month including levels (gotta do that..heehee), some enemies and game elements. I wish I could talk about this stuff in less ambigous terms, but then I'd have to have everyone who read this sign NDAs. Besides what fun would the game development process be if there was no mystery for the consumer. Karen got really excited at our meeting today, because she got to set a real "milestone" for the team, and John didn't say the words "It's just not possible" once during the whole meeting, so basically we're on track and everything is going to be awesome.
+
+  The Air St.John project is progressing nicely. I've been walking around with socks full of sand tied around my ankles and waist for the past week as part of my training regim. Israel's also haveing me jump off the balcony in our office twice a day. He says it's so I get used to "air time", but I think he just likes to watch me fall down. He also helped me make a logo for the campaign. I think we might make a limited edition T-shirt series based on it.
+
+Here it is...
+
+and if your not looking at this through plans.lith.com
+http://users.lith.com/~stjohn/AirStJohn.gif
+
+
+
+
+5/29/98
+      Jason Hall, Monolith CEO is 6M-^’6M-^”. Assuming his arms are at least as long as mine 2.5ft (though IM-^’m sure theyM-^’re twice as long) , that gives him an overall standing reach of 9M-^’1M-^”.  A regular basketball hoop is 10ft tall, that gives it a dunking height of 10ft 10 inches, to account for the height of the ball...In order to dunk on a hoop that tall Jason Hall needs to jump about 19 inches or a 1ft 7inches.
+    I am 5M-^’11M-^”. With arms, my standing height is 8M-^’4M-^”. In order to make a dunk of 10M-^’10M-^” I need approximately 2M-^’6M-^” of air between the court and I. 
+           My current jumping height is 19 inches, almost 1 foot short from my goal. It is therefore my plan to go into a 3 month long training session at the end of which I will not only be able to slam dunk but I will be able to play defense on Jason Hall to the hoop. Already IM-^’ve started intensive training. My conditioning coach Isreal Evans is putting me on a M-^“Grape nutsM-^” and rubber bands (for springiness) diet and taking me to the gym ever day for Squats, leg presses, jumping jacks and calf raises. Then ItM-^’s to the courts to meet my M-^“Slam DunkM-^” Coach the beautiful Sandra Watanabe. Her specially designed M-^“dunkM-^” training course is one of the most rigorous in the world. SheM-^’ll teach me not only how to dunk, but how to dunk with style. Everyone knows that getting it to the hoop is only the first part of dunking, it also involves good facial expressions, in air posing,  tongue coordination and of course her specialty M-^“how to look good hanging from the hoopM-^”. At the end of this training cycle I will be a veritable M-^“Slam Dunk MachineM-^”. In fact I am actually going to change my name from plain old M-^“Aaron St.JohnM-^”, to M-^“Air St.JohnM-^”, just so people will think twice before they ask to play hoops with me. I will of course update the progression of my training right here as it proceeds. And at the end of 3 months I will make an official challenge to Jason Hall for a game of M-^“Dunk onlyM-^” one on one...may the best dunker win (me of course). After winning that IM-^’ll probably be busy for awhile choosing shoe endorsement contracts. Until that happens however IM-^’ll be working on MB, which is going to be the other topic of this plan.
+	 Things have been a little slow here at the beginning of this gameM-^’s production. Most of our people resources have to fluctuate back and forth between this project and doing odd jobs on other projects that are closer to shipping.  Steve has been working on stuff for Shogo and probably will be for the next couple of weeks. Meaning primarily M-^“no original texture artM-^”. In order to build levels, IM-^’ve been sneaking into source safe late at night and ripping off Blood2 textures, which are incidentally pretty awesome (thnkz to Kevin Kilstrom, and his skillz with the scanner). Israel whoM-^’s been doing interface art gets stolen periodically by Gruntz. Right now our engineer LaCasse is working on some in game save feature for Gruntz. Which is fine really thereM-^’s plenty of other stuff that needs to be done as far as game spec-ing and level design (me and Nick) until our team gets rolling. Besides we want to give all of our outgoing games as much support as they need, I know weM-^’ll have our day not too far in the future. So far weM-^’ve got a client running with a great model by Ms. Kobayashi, inside the shell of a pretty cool level. We also have some interface that pops up and down (Nick Newhard ladies and gentlemen). By the way the interface we have planned is pretty freakinM-^’ slick and the mocks IsraelM-^’s been doing are awesome. Think M-^“City of Lost childrenM-^” or M-^“Dark CityM-^”. GarrettM-^’s working his tight little bunz off on concept drawings for Characters to give to Seiko. We lost him for a couple of weeks because he was doing marketing art for E3. Man you wouldnM-^’t believe some of the freeky characters that we have in store for this game. Multi and Single player meet in a fantastic story line and ....well, maybe I should keep my mouth shut, at least for awhile longer. Needless to say IM-^’m pretty pumped for this game.
+
+
+
+5/19/98
+
+   A moment of silence please for my dead fish ghetto. He lived well. At least as well as a little black bug-eyed fish could. He was buried at sea at 5:46 pm today May 19
+1998, he will be missed. He almost looked happy there, floating upside down in the toilet, as if he already knew he was bound for a better place. What follows is the plan
+file I was going to submit a week ago about ghetto, I place it here now in his honor.
+         I was sitting in my office watching my fish and thinking how incredibly dumb fish are. Basically a fishM-^’s brain only has the horsepower to remember like 20 seconds of past time. So basically he just has to sit in the middle of his tank and make a 90 degree turn every 20 seconds, and heM-^’s having a pretty good time, because heM-^’s seeing stuff heM-^’s never seen before. The other really cool thing my fish does is float right at one of the corners of his bowl and stare at it. Every few minutes he tries swimming at the corner bumps his head then sits and stares at the corner some more as if heM-^’s trying to figure out why swimming at it didnM-^’t work. Then I think he forgets that he couldnM-^’t swim that way, tries again, bumps his head then stares at it some more. HeM-^’ll do this for hours on end, then swim to another corner and do it there for a few hours. The really awesome thing about how dumb my fish is, is that no matter what dumb thing heM-^’s doing heM-^’s totally amused and excited by it, because everything heM-^’s doing as long as itM-^’s separated by 20 second intervals is all new to him. The really cool thing is that you know heM-^’s having a really exciting life because his eyes bug out of his head all the time. As far as my fish is concerned, I probably am living a pretty meaningless existence because IM-^’m not in a constant state of surprise and bewilderment like he is. Right now heM-^’s being really excited about sucking on the rocks at the bottom of his tank, and all I can feel is jealousy.
+
+I'm too greif stricken to talk about work in this plan file. Check my next update for more info on MB...
+
+
+5/1/98
+        Please help.... I think my thumb is rotting off.... ItM-^’s very dry and very gross looking, I donM-^’t know why. My other thumb is fine and healthy looking as are both my hands, just the thumb on my right hand looks like itM-^’s slowly deteriorating. Please mail me if you have any idea as to how I can fix my thumb, I am very scared. I also have a painful lump in my nipple, IM-^’m not as worried about that as I am my thumb, but if you have any ideas about that please send mail about that too.
+      Aside from this slight case of leprosy, good things are happening, the production cycle for MonolithM-^’s next wup-ass LithTech title MB is just getting started. Right now the game is absolutely top secret, so I canM-^’t say anything about it or Senora Gant will M-^“Get MedievalM-^” on my ass. But first and foremost you should know that the demented and creative force behind M-^“BloodM-^”M-^’s game design Nick Newhard is working on this title, so you know itM-^’s going to make waves. HereM-^’s a quick breakdown of our team.
+
+Project Manager (The most important Job):
+Karen (captain hook) Burger
+
+Game Design:
+         Nick Newhard
+         Me...(Aaron St.John)
+
+Engineering:
+        John LaCasse
+        Scott (Bunz) Pultz
+        Brian Goble
+        Nick Newhard
+        Brian Bouwman 
+
+Art:
+       Steve Lee
+       Israel Evans
+       Seiko Kobayashi
+       Garrett Price
+
+Level Design
+       Me again....
+
+Sound:
+      Guy Whitmore
+
+          As for what the game is... Well itM-^’d be no fun if I told you right away, but look for more and current information right here baby. What you can expect... A whole new experience in video game play, and thatM-^’s no hype. If youM-^’re familiar with any of these folks, youM-^’d get at least a slight impression of this gameM-^’s magnitude, very talented, very creative (except for me of course, IM-^’m just along for the ride :) ). Watch for updates, and send me mail about fixing my thumb. I canM-^’t make freekinM-^’ levels if I donM-^’t have a thumb to hold onto the damn mouse with.
+
+
+
+
+4/21/98
+
+      Yeah ! uhm... hookinM-^’ up the plan file nM-^’ shit...... yea... ok.... Well I was up a little late last night, ok...IM-^’m still up late from last night. MB in full effect here, I got freekinM-^’ meetings to go to all day, but goddamit IM-^’m prepared for emM-^’.  You wanna know about interface .... BAM !! I got the color-coded-flow- chart-mock-up-spread- sheet-nM-^’-shit I made last night, yeah!!.... What! you wanna know about the  system ? ....BAM I got that shit too, in the holographic-rendermorphic-graphic-layout-nM-^’-shit...ooh.oh, whatchoo gotta say now, huh! punk, yeh...yeh!!!  ok..... yeah... IM-^’m tired... a bird pooped on my car....yeh...um, nM-^’ shit...maybe I can take a nap before my first meeting...yeh...
+
+
+4/16/98
+
+    In our last episode our intrepid and dashingly handsome hero Aaron St. John was learning the ancient art of M-^“Engineer InternM-^” Kung-fu, with a little bit of M-^“Unscrew-joysticks-and-cut-holes-in-wood-styleM-^” mixed in.  He learned well and grew stronger as his years of training passed by, and the Monks who had rescued him naked and crying from the evil clutches of a M-^“liberal artsM-^” degree looked upon their pupil and said to him.  
+     M-^“Grasshopper, you have done well in your training...well you did pretty good....ok, you didnM-^’t mess up too bad...yeah...So we feel it is time that you learn a new kind of Kung-fu. And that will be the Kung-Fu of Video Game Design...M-^”
+
+     And they took him from the sacred temple of M-^“engineeringM-^” which was known as building 13/14. And brought him to a new temple that he had never seen before. The monks in this temple seemed strange to the young Grasshopper, they all wore loose clothing and smelled funny and had action figures in their offices. The monks told him it was called the M-^“Temple of ArtM-^”, or M-^“Building 11/12M-^”. He noticed that the halls of this temple where much quieter than the halls of engineering, the monks said that it was because this temple didnM-^’t have a web-department, and Aaron understood . :)   They led him up some stairs to a room.
+
+     M-^“This will be your new office, please donM-^’t mess it up like you did to your last one.M-^”
+
+     A man came from the room next door, he was mumbling something under his breath about a new patch for UO, but he stopped when he saw the monks.
+
+    M-^“And this will be your new Sensei, his name is Nick Newhard, he is a master in the art of M-^‘Video -Game-Design-Kung-FuM-^’, do as he says or you will be beaten severelyM-^”
+
+    Then the big, tall, goofy-looking, bald monk in sweat-pants with the thin ankles looked down on him and said.
+     
+     M-^“Make me a game, and make it quickly. If it doesnM-^’t sell better than a game that wasnM-^’t made quickly, I will kill you with my chromed motorcycle, at least when it gets done, which might not be for awhile so donM-^’t sweat it...M-^”
+
+    He then raised his fingers, and pushed apart his eyelids to make his eyeball look really big, stared at Aaron for moment like this, then turned and left with the rest of the monks.  
+
+    So Aaron and Nick set to work on MonolithM-^’s next big blockbuster title....
+
+ To be continued...
+
+Other important Stuff:
+     
+    I got a new car and a new goldfish...not in that order, the carM-^’s name is the M-^“Booty WagonM-^”, and the goldfishM-^’s is M-^“GhettoM-^”...cool huh?! 
+
+
+
+9/8/97
+
+A month and a half or so ago (whenever it was I found myself
+at Monolith), I got a peice of e-mail (oh cursed e-mail)that
+said something along the lines of :
+  
+ "If anyone knows someone with experience 
+   in electronics, and carpentry there are some
+   odd jobs that the NANI crew needs done, probably
+   20-30 hrs of work."
+
+At the time there was a violent thrust throughout most of
+engineering to get Captain Claw shipped. My Manager
+Brian Goble (sometimes known as Dr.Smiley :))had written 
+the engine that Claw was based on, so at the time I showed
+up looking for work, he was noticably stressed out.He didn't
+seem to noticed as I stepped into his office, some of the 
+veins on his forehead might have throbbed a little more, 
+and I think some smoke came out of his nostrils. As I was 
+admiring the number of holes he had apparently punched 
+through the walls of his office I gently mentioned to him 
+that I was probably qualified to do that work that NANI 
+needed, and wouldn't mind giving them a hand at least until
+ Claw was shipped. He drooled a little froth in 
+contemplation , then paused to adjust the intravenous 
+in his arm (apparently connected to a  coffee pot)and 
+said that would probably be a good idea.
+   I left Goble's office relieved that I was still walking,
+and at the same time dubious as to wether I would be any
+help to the NANI folks. In reality the only experience I'd
+had with electronics was I was thrown out of an electronics
+class for shorting the schools power table thingy (It made
+a really cool blue flame though),and I tried to build some
+robots with my math professor's children. I lost mine and 
+the kids finished theirs by themselves. As for carpentry I 
+was an assistant in an elementry carpentry class, which 
+meant I helped kids get wood glue out of their hair and 
+kept them from bonking eachother with the hammers. 
+Anyway that was a really long way of saying that I've been
+pretty much spending all my time on NANI stuff. I'm 
+Executive-manager in charge of rewiring Microsoft Sidewinder
+gamepads to arcade style console joysticks and buttons
+(by default this makes me Secretary-general-of-inhaling- 
+unhealthy-amounts-of-saughter-fumes). And I'm Editor-in-
+chief-of-boring-holes-through-particle-board-with-
+primitive-hand-tools.I'm not actually all those big titles,
+they're just a fancy way of saying "NANI Bitch" which is
+what I'm lovingly called around the office. 
+  Anyways,NANI is apparently doing well, Pultz stoically
+jams through the coding part (yesterday he showed me how
+he could climb up a sheer wall using purely the muscles in
+his buns), Jeremy's job is to stare at his computer and look 
+frazzled (jeremy puts up with a lot from EDS, our partner 
+company for NANI apparently run by trained monkeys). 
+There's also some guy who showed up and he looks important
+and says important stuff like "marginal costs". And Karen's
+job is to try as hard as possible not to kill us all, and 
+get through this whole NANI buisness at the same time.
+   I've also started workining on a Captain Claw screen
+saver, but I'll save that for my next installment, I'll
+also reveal the secret past of Scott Schlegal and his
+ongoing infatuation with the little green men. 
+
+
+
+8/19/97
+
+Dammit, this plan stuff is hard. I think I just made 
+a blank one right before this. Oh well what can you
+expect from a dumb intern. I woke up this morning 
+(11:00pm yesterday)on Mike Dussalt's futon, picked up
+my "couch condom",which was a white sheet placed between 
+myself and mikes futon, to prevent me from contaminating
+mike's new couch with one of my many diseases, and
+to catch drool (mike is very particular when it comes to
+sleeping on his couch). 
+Confident that I had practiced "Safe Sleep", I headed to 
+the Monolith men's lockerRoom(commonly reffered to as 
+the kitchen). There I found the die-hard engineering staff 
+in uprourious conversation. Apparently Jason Hall(CEO)was 
+making a $25,000 wager that Scott Pultz 
+(Engineer/grizzly bear wrestler) could kick Scott 
+Schlegal's(Engineer/Bearded Lady) ass in arm wrestling.
+As I walked in these two men-beasts, were just squaring
+off for battle. Schleg's had his sleeve rolled up, 
+displaying his taught,bulging,tattoo scarred arm(The 
+tattoos are rumored to be an artifact from an alien
+abduction, Schlegs doesn't talk about it much though).
+Jason was prepping his champion, wispering last minute
+advice into the champs ear while massaging his hulking
+shoulders. Pultz sat in the vinyl kitchen chair puffing
+and flexing his massive biceps(incidently Pultz is the only
+monolith employee who can pick up his office chair with his
+buns). The harsh flourescent light mixed with the rabid 
+tension that had been building caused all watching to break 
+into cold sweat. Schlegs and Pultz clasped echother's fists
+in the center of the table. Their intertwined white knuckles
+looked like an oddly shaped Muss melon. Jason looked at both
+competitors and yelled "GO!". At this point I left. The 
+kitchen already smelled like rancid pizza, and the 
+collective scent of eight sweating engineers did not have 
+a positive effect on the odor, besides I had work to do.
+    
+    Currently I'm writing a Direct Play Service Provider
+for Engage, which will eventually mean that Captain Claw
+will be available for network play over Engage.
+    Also I've been drilling, and cutting and hammering
+and screwing the NANI machine (a big ol'arcade game) we
+have at the office, so a bunch of big important folks
+can look at it then give us all their money.
+   Eventually I'll be writing some code for said NANI
+machine, but I'll probably say more about that later.
+
+By the way I heard that Monster-man Pultz beat Wild- Scott
+Schlegal in the initial round, but the game was thrown out
+because it was discoverd Pultz had been mixing anabolic
+steroids in his mountain dew. The match was set to a later
+date.
+
+
+
+
+
+8/19/97
+
+
+
+
+
+
+

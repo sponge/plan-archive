@@ -1,0 +1,13 @@
+GarageGames plan resource for Rick Overman
+Posted Friday December 14, 2001 at 2:16 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=1840
+
+A minor site update for GarageGames.com tonight and probably a few more behind the scenes updates before the evening is over.  I have integrated a few of the comments we received after the last update - most notably the resizing window for MakeGame is back, yeah!  
+
+I will be more actively developing on the site for the near future so if you have any suggestions, feature requests or find bugs, please let me know.
+
+So why all the changes to the site lately you ask?  Well we are flushing out the PlayGames section of the site for a launch early next year.  PlayGames is the game e-commerce side of GarageGames.com focused on game players and selling your indie game titles.  More on that very soon.
+
+--Rick
+

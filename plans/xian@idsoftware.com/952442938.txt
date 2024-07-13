@@ -1,0 +1,52 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+<font color="white">
+
+<b><u>Mar.7.2000 @ 9:15am</u></b>
+
+ Thanks to everyone who e-mailed me about anti-spam resources. For the 
+curious, here are the three most popular URL's that were provided.
+
+http://www.orbs.org
+http://www.mail-abuse.org/
+http://maps.vix.com/rbl/
+
+
+<b><u>Mar.6.2000 @ 11:55pm</u></b>
+
+ Does anyone know of a somewhat official list, that is actively updated, that
+contains IP's of known mail relays which spammers exploit. I know that some
+ISP's make use of IP blocks to prevent their customers from recieving spam,
+and I'm looking to implement something similar in-house.
+
+ On a Q3A related note, if you haven't checked out the Hulk mod yet, it's
+pretty neat. Myself and a bunch of the people from the Old Man Murray forums
+have been playing it over the last few evenings, and it's a lot of fun =)
+
+ Check it: <a href="http://www.reactivesoftware.com/projects/hulk/hulk.html">http://www.reactivesoftware.com/projects/hulk/hulk.html</a>
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, Y2K bug, mud slides, forest fire, or projectile 
+(which can include, but not be limited to, arrows, bullets, shot, BB's, 
+paintball, shrapnel, lasers, napalm, torpedoes, or emissions of X-rays, Alpha,
+Beta and Gamma rays, knives, stones, etc.). 
+</font>
+---
+</tt>

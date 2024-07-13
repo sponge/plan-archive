@@ -1,0 +1,167 @@
+
+Name: John Scott
+Email: jscott@mail.ravensoft.com
+Description: Programmer
+Project: SoF
+-------------------------------------------------------------------------------
+Nick: Pagan
+Project: ?
+
+Disclaimer - The opinions expressed herein are personal and
+in no way represent that of Raven Software or Activision.
+
+12/3
+
+We're all working hard here.. I'm not allowed to say on what =(
+
+It is a happy day in Madison; looking out my window I can
+see more grass than snow! (or more to the point, more dead
+looking brown sodden grass like stuff).
+
+22/1
+
+<work stuff>
+
+</work stuff>
+
+<rant>
+"The joy of Tech Support"
+
+I've had a cable modem for just over a year now and for
+the most part it has been great. However, for the past
+6 weeks I have not been able to get online for more than
+about 30 seconds at a time. Every time I rang Charter Tech
+support the welcome message said there were connectivity 
+problems in Madison; I thought this was the problem and let
+it ride. 
+
+After about 3 weeks I decided to hold and talk to someone. 
+When the operator said "Your wait time may be longer
+than 20 minutes" they weren't kidding. After 80 minutes on
+hold I got to pick my OS and then had to hold for another
+35 minutes before someone answered.
+
+After going thru all the standard TCP/IP checks, the TS
+guy decided my modem had "slipped" and had to be "pushed".
+After about an hour, everything was great again; this lasted
+about 48 hours.
+
+OK, I thought, I've got a ticket number now, I should be able
+to leave a message. Every 5 minutes the operator stated "Press
+1 at any time to leave a message". They were lying, pressing
+1 does nothing when the music is playing; you have to wait
+until the recorded message plays. This put me through to a 
+real life person who asked me to hold (doh!). After a couple
+of minutes I got thru to another person who didn't have a
+clue what cable modems even were. I gave up this line of
+inquiry.
+
+Second attempt. I'll go to work and email them. No problem,
+I just need to find their email address on the support pages
+and write an explanation with the ticket number. I found the
+@Home support pages can only be accessed from home.com domains.
+Can someone send me the @Home tech support email address please?
+(That is if they don't auto reject all emails that don't end in
+home.com). Any reason why you can't log on to the site with
+your @Home username and password?
+
+A friend of mine had similar problems, after 2 months he found
+out that they had given his IP to someone else. As soon as he
+got a new one, everything worked fine. What wonderful 
+organisation.
+
+I suppose I'll have to waste another 2 hours on hold tonight =(
+
+Here are my attempts to get DSL.
+
+<praise>
+Provider #1 - TDS Metro
+
+"My address is xxxx Blah Lane, can you give me a DSL connection?"
+"You'll need out local phone service which you can get by
+the 22nd of this month, but you are 5.3 miles from the exchange
+so we cannot supply you with DSL I'm afraid."
+
+I'd go with these guys if I could. Straight answers to easy
+questions.
+</praise>
+
+Provider #2 - Midplains (and the only other) attempt #1
+
+"My address is xxxx Blah Lane, can you give me a DSL connection?"
+"What's your phone number there?"
+I was keeping the same number as at my apt, so gave them that.
+"That's scheduled to move at the end of the month, we can only
+do a DSL availability check at it's current location."
+"I have the phone numbers of the people either side of my
+new location; can you tell me if it completely out of the
+question or not?"
+"No, sorry".
+
+Ho hum. I had to stick with cable.
+
+Attempt #2
+
+"My phone number is xxx xxxx, can you give me a DSL connection?"
+"It'll take a couple of days to check, we'll get back to you."
+
+That was 11 days ago, no news at all. They do not offer any
+webspace either and only 1 email address.
+
+
+
+The bottom line is that cable is my *only* broadband solution
+and their TS sucks royally. I can't even find out who to email
+to complain. There must be a better way.
+
+</rant>
+
+7/1
+
+What ex Ravenites get up to!
+
+http://www.atomfilms.com/default.asp?film_id=1217
+
+14/11
+
+Please upgrade to the new HM demo code if you have not
+already done so. We'll be taking the master server down for
+the OLD demo next week sometime to reduce our support needs
+and free up some resources on the master server machine.
+The new demo uses the retail master server.
+
+10/11
+
+The winner of the poster and box is Thomas from Mansfield
+in the UK. He should be receiving them shortly!
+
+28/9
+
+More CD key fun. It seems there was an anomaly when printing
+out the CD keys (read: someone screwed up and is going to get
+shouted at), and '0's were not printed.
+
+The format of the key is XXXX-XXXX-XXXX-XXXX-HH where HH is
+a hex number and the only place where '0's can occur.
+So, if you seem to be missing a digit at the end, put a '0'
+in its place.
+
+This will be fixed in future duplication runs.
+
+Apologies for the inconvenience.
+
+24/9
+
+Just a reminder, do NOT send your CD Key to anyone. No one 
+at Raven or Activision will EVER ask for it. Any request for
+your CD Key is a ploy to steal it from you.
+
+Treat the key as you would your car keys.
+
+26/8/99
+
+The Raven SETI team....
+
+http://setiathome.ssl.berkeley.edu/stats/team/team_6644.html
+
+ 

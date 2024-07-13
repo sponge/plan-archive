@@ -1,0 +1,33 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+--------------------------------------------------------------------------
+User Name: mark.frohnmayer     Plan Last Modified: 01/27/1999 11:28:44 PST
+
+Real Name: Mark Frohnmayer
+Nickname: Got Milk?
+Job: Lead Programmer
+Project: Tribes
+
+1.26.99
+
+Well it's been about 6 months since I updated last so I thought
+I'd do it again.
+
+We're putting the finishing touches on our first major patch,
+dealing mostly with gameplay/interface tweaks and server stability.
+We should have it out in a day or two.
+
+The OpenGL patch hasn't been delayed - Dave's wrapping up the
+functionality and testing it with various configurations -
+it should be available Real Soon Now.  We're working with Riva to
+improve the the TNT performance.
+
+What I'm listening to right now:
+Dave Matthews and Tim Reynolds Live at Luther College
+
+
+
+
+

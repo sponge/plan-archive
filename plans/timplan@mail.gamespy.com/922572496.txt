@@ -1,0 +1,60 @@
+User:   timplan
+Unread: 0
+Plan:
+3-27-99
+Back from a fun filled week in Allentown Pennsylvania learning how to develop web sites with Visual InterDev. Going to learn the Linux way too.
+
+The interstates and road ways are definately different. In the south, I-275 is a bypass. In PA, it just might be a turnpike with tolls. Interstates and state highways run together, at least for a time.  Some places do not allow left turns.  To turn left, turn right and circle around.
+
+Much colder up there but that was expected. The weather people kept threatening snow but I am not certain they knew what was going on.  I just did not want it to snow on Friday for my trip home.  Fortunately, it was a nice sunny day.
+
+I know where the Keebler elves are now. Right up the street from the where hotel I was staying.
+
+GameSpy - merged my development gamespy into the "working" gamespy.  Not through fixing the problems there.  It took about two hours to merge the changes in one of the files. Gamespy 2.08 actually has some of the changes but they did not look the same.
+
+The LinkSys PCMCIA ethernet adapter for my Toshiba laptop has developed a wierd problem.  It will just stop working under heavy load like trying to copy gamespy to it so I can merge the code. After the load
+goes away, it resumes working. I reloaded the drivers twice but that was no help. I can't say I recommend can recommend the card because after talking with one of the Gamespy team, he has had problems with that
+model adapter too. The 133 desktop has had an ISA one for a few years with no problems. For warranty work they want my original receipt.  I need my receipt for tax purposes, thank you.  The warranty is good for five years and I know they have not made this card for five years.  Sometimes people make no sense.
+
+
+
+
+
+3-20-99
+GameSpy - not much done on it this week.  I was taking a class Creating and
+Managing Web Servers using IIS 4 class at night.  By Friday, my butt was
+dragging.  Lessons learned:
+1) Site Server Express is pretty cool.
+2) The indexer does not work when you only have 2M free on the disk.  It
+complains about not having enough disk space.  Go figure...
+Next week is the InterDev class.
+
+Got my linux machine running ip masq.
+
+If you are planning on heading toward central florida or points south via
+I-75, change your plans for the next few weeks.  A truck hit an overpass and
+took out 3 out of 4 lanes somewhere near Gainesville.  Needless to say, it is a mess.
+Go I-95 or travel with fresh engine coolant.
+
+In the you-just-gotta-love-microsoft department.  Thursday IE5 was announced
+and I went to try and download it from Microsoft. Clicked the download link
+from the page extolling all the IE5 virtues and it says "You are running IE
+4.01 which is the latest version."  I could download the small version off
+Tucows but I could not get it from Microsoft.  Turns out to be a good thing
+because there are reports that IE5 does not play well with Visual Studio and
+MS will address those issues on a service pack this spring.  I guess that
+laptop with the screwed up IE4 installation is going to get reinstalled.
+
+Another one.  The Visual Studio which supports Win2K will not be out until
+about six months after Win2k is released.  Good plan folks.  Question, with
+what tool are you building it?
+
+
+
+
+
+
+        
+
+
+        

@@ -1,0 +1,34 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------
+User Name: dave.moore     Plan Last Modified: 03/01/1999 18:27:24 PST
+
+Real Name: Dave Moore
+Nickname:  SymLink
+Job: Technology Programmer, Lord High Miscellany
+Project: Starsiege Tribes
+
+  A couple of clarifications to my earlier
+.plan update.  I omitted mention of the
+Permidia3 and the Rage 128.  Both of these
+seem quite promising for TRIBES, and as
+soon as I have boards, I'll make a status
+update on them.
+
+  Also, I've received a passel of eMails
+that have convinced me that I need to
+reiterate that we are NOT blaming id for our
+current problems.  As I noted in an earlier
+.plan, were it not for them, we'd be doing
+all this in DirectX 3, and I would be
+contemplating how to remove the Thermopane
+windows from my office for the quick trip to
+ground level.  My apologies to id for not
+making this clear enough before.
+
+  Late breaking developments re: OpenGL
+make it look like we'll have some sort of
+decision on our final direction for TRIBES
+wide card support within the week, stay tuned.

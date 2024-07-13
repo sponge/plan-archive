@@ -1,0 +1,76 @@
+
+*** Monolith Production's Finger Server
+
+User name: jeremy
+Plan modified: Thu Dec 17 16:16:08 1998
+
+
+12/17/1998
+----
+Ok, I've been buried under Shogo mod community stuff, as 
+well as other work, but I thought I'd do a .plan update to 
+try to fill people in on various things.
+
+First off, the Linux port is coming along, but I haven't 
+had as much time to work on it as I'd like of late.  
+*sigh*  Still, it's not a matter of issues in porting, it's 
+just a matter of finding the time to work on it more, so it 
+is going relatively smoothly.
+
+Secondly, people have been asking about enhanced joystick 
+support.  We -are- committed to getting this in, but the 
+2.1 patch had to be done first to fix the 3Com/USR modem 
+problem.  More on that below.  The 2.2 patch updates will 
+focus on adding support for the Panther XL, SpaceOrb, and a 
+few other things.  It will also incorporate support for EAX 
+and true 3D sound.  And fix any bugs that people report.
+
+Thirdly, I've started hearing reports of people who are 
+lagging on the 2.1 patch as well, in one case even on the 
+3Com/USR modems the fix was targeted at, but I haven't 
+determined any common ground, yet.  If you have a problem 
+with the 2.1 patch, PLEASE report it DIRECTLY to me, with a 
+subject line of 'Shogo 2.1 Lag Problem'.  
+
+Please, only do this if you're experiencing really bad lag 
+on the 2.1 patch.  The forums are NOT the best place to do 
+it because they fill up and we may miss posts (plus, the 
+developers are sometimes too focused on code to read the 
+forums, though we're trying to get back in the habit).
+
+Messages should include a detailed description of the 
+problem, your system configuration, the version of Shogo 
+you're running, any mods you may be running, what 
+configuration Shogo is using (are you using REZ files, or 
+have you unpacked into directories? etc.) and any steps 
+someone can take to reproduce the problem.  (If we can 
+replicate the problem, we stand a much better chance of 
+fixing it).
+
+Also, if you HAD a problem and found a fix for it, report 
+THAT, too.  You might think it was something obvious, but 
+what you find obvious, some other user may not... and if no 
+one has reported it, we may not even know that someone had 
+a problem and found a fix at all! :)
+
+Hopefully, this will allow us to get help and fixes to 
+people much more easily.  
+
+Lastly, I've heard a few reports of people having crashes 
+under the 2.1 patch, but they've all been for the same 
+reason.  I'd like to reiterate that Lithtech must use *all* 
+REZ files, or *all* directories.  This means if you had 
+unpacked the earlier REZ files to do editing, and 
+downloaded the 2.1 patch, you must unpack SHOGOP3.REZ as 
+well... this should help!
+
+--Loki
+------------------
+Old archives are at:
+
+http://www.users.lith.com/~jeremy/plans/
+
+
+
+
+

@@ -1,0 +1,175 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-------------------------------------------------------------------
+User Name: tim.gift     Plan Last Modified: 07/21/2000 10:29:28 PST
+
+Real Name: Tim Gift
+Nickname: Slacker
+Title: Technical Director
+Job: Programmer/Designer
+Project: Starsiege TRIBES
+
+7.21.00
+
+Always lots of things to work on, though the past few
+months I've been mainly working on new collision and
+physics engines. This will be the third collision
+engine for Tribes 2, and it's second Physics engine.
+
+The first collision engine used a form of CSG. It would
+basically calculate the intersection of a convex volume
+with a BSP tree.  The shape, terrain and interior
+geometry engines constructed localized (or optimized)
+BSP trees against which the volume was clipped. This
+was actually pretty interesting, and I was happy with
+the way the CSG algorithm turned out (based on an idea
+by Mark Frohnmayer). You could cruise around the world
+and the debugging code would render intersecting
+volumes of space, kind of cool :)  There were two main
+problems with it though; it returned the volume of
+intersection, which wasn't really what I wanted (I
+wanted surface contacts) and it was a little slow.  I
+could have extracted the surface contacts after
+collision had been detected, but it seemed like a waste
+of time to calculate the intersecting volume just to
+through it away.
+
+Next I went to polygon clipping. The CSG was
+interesting, but maybe just a conceptually more
+straight forward approach would work well enough.
+Functions were added to the shape, terrain and interior
+engines to feed polygons within a given region of space
+to an abstract PolyList class. This actually turned out
+to be pretty useful for a number of things and we now
+use different PolyList "filter" classes for tasks
+ranging from collision detection to object shadows,
+decals and path planning.  For collision testing a
+filter is used to clip the polygons against a polytope,
+thus returning the polygons inside the convex shape.
+
+I was closer to having the collision contact features I
+wanted, but it was still too slow.  For single queries
+against the world the PolyList filtering works great,
+and as I said, we use it for a number of things but
+collision detection required something a little faster.
+The main problem is that the rigid body dynamics needs
+both an accurate time of impact as well as accurate
+contact information to work correctly.  Since I use an
+iterative approach to finding the time of impact the
+intersection calculations have to be very fast.  Like
+the previous CSG algorithm, this clipping approach was
+not very time coherent and didn't perform well.  I'm
+sure I could have done some caching gotten it to
+perform reasonably, but that didn't really appeal to
+me.
+
+So I decided to try again.  I looked around a little to
+see what everyone else was up too and finally decided
+on the GJK algorithm.  I'll cut this part short... it
+finally came down to be either V-Clip or GJK, and I
+finally settled  on GJK, mainly because it would be
+easy to implement, be a lot less code, and I was
+impressed with G. Van Den Bergen's optimizations [11].
+
+Shoot, this plan is getting long... Well, to cut to the
+chase, the new collision engine now uses a three level
+approach.  I use the spatial database to detect when
+the bounding box of convex shapes overlap (it's always
+done this part).  I then maintain a state structure for
+each pair of possibly colliding shapes and use
+iterative calls to GJK to calculate the closest point
+(and time) of impact (with GJK's time coherency and
+runs pretty fast, see [11]).  Once I find the time of
+impact, I extract the vertices, edges and faces on the
+collision plane from each convex shape (Barraff [6],
+using the GJK closest vector for the plane) and then
+calculate and return all vertex->face and edge->edge
+collisions.
+
+Collision with the terrain is handled by having the
+terrain engine construct and cache temporary convex
+structures.  Collision with the interiors is done by
+colliding against the convex CSG brushes used to
+construct the building.  Both geometry engines process
+queries as part of the spatial database and only return
+convex structures that overlap the moving shape's
+bounding box.
+
+Well, I was going to talk about how the new collision
+engine is used in the new physics engine, but this is a
+little much for one plan update.  I'll go ahead a list
+some of the physics papers though :) I was going to
+list all the papers that I thought were interesting,
+but the list turned out to be longer than the rest of
+the plan, so I pared it down to a few of the more
+useful ones.
+
+I should mention that the new collision and physics
+engines are not fully integrated into the all T2 game
+code, the Item, Player and Vehicle classes need to be
+ported over.  With today being my last day at Dynamix
+Mark Frohnmayer and Dave Moore will have to finish the
+integration.  It shouldn't be hard for them to do
+though, being the programming studs they are :)
+
+My departure from Dynamix has been planned for a while
+now and this is by no means a sudden move.  Though I
+didn't quite wrap up everything I would have liked too,
+my time was up.  As opposed to Tribes 1, I've actually
+had little to do with either the design of Tribes 2 or
+the running of the team, so I don't expect that my
+leaving will adversely affect the project.  Tribes 2 is
+in good hands and I expect it to be a great game :)
+
+I'll be involved with a number of projects, one of
+which is GarageGames.Com. New email:
+timg@garagegames.com
+
+...
+
+[1] Brian Mirtich "Impulse Based Dynamic Simulation of
+Rigid Body Systems" Ph.D. Thesis, UC. Berkeley,
+December '96
+
+[2] Brian Mirtich, John Canny "Impulse-based Simulation
+of Rigid Bodies" Proceedings of the ACM Interactive 3D
+graphics conference, '95
+
+[3] Brian Mirtich "V-Clip: Fast and Robust Polyhedral
+Collision Detection" ACM Transactions on Graphics, July
+'98
+
+[4] Chris Hecker "Physics" series, Part 1-4 Game
+Developer Magazine, Oct/Nov '96 through June '97
+
+[5] David Barraff "Fast Contact Force Computation for
+Non-Penetrating Rigid Bodies" SIGGRAPH, '94
+
+[6] David Barraff "An Introduction to Physically Based
+Modeling" Course notes Parts I and II Carnegie Mellon
+University
+
+[7] Ming C. Lin, Stefan Gottschalk "Collision Detection
+between geometric models: a survey" University of North
+Carolina (Can't remember were I found this one)
+
+[8] T. Hudson, M. Lin, J. Cohen, S. Gottschalk 
+"V-COLLIDE: Accelerated Collision Detection for VRML"
+VRML '97
+
+[9] Jonathan Cohen, Ming C. Lin, Dinesh Manocha, Madhav
+Ponamgi "I-Collide: An Interactive and Exact Collision
+Detection System for Large-Scale Environments"
+Proceedings of the ACM Interactive 3D graphics
+conference, '95
+
+[10] Stephen Cameron "Enhancing GJK: Computing the
+Minimum and Penetration Distances between Convex
+Polyhedra" Int. Conference Robotics & Automation, April
+'97
+
+[11] Gino Van Den Bergen "A Fast and Robust GJK
+Implementation for Collision Detection of Convex
+Objects" Journal of Graphics Tools, Vol 4, No. 2, '99

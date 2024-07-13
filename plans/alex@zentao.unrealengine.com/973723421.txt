@@ -1,0 +1,263 @@
+Login: alex                            Name: Alex Redman                             
+No project.
+Plan:
+Alex "Cybermind" Redman
+CEO, Project Director
+
+Zen Tao Interactive  -  http://zentao.unrealengine.com 
+
+Email: alex@zentao.unrealengine.com
+Projects: Extreme Wing Chun VR for Unreal/UT
+	  Black Dragon Fists for UT
+
+-
+
+Tuesday, Nov 8th, 2000
+
+
+I recently took some time out to read both Sean Middleditch's
+affirmative article written for PlanetUnreal, as well as
+Monstro's opposing views on the subject. Both are well written
+and I suggest reading them both if you have any interest in the
+subject just head over to http://www.planetunreal.com for that. 
+
+I'm not going to write a novella on the whole thing, just share
+some of my thoughts. First I'll skim over the main points both
+Sean and Monstro covered since you might not many of us have
+time to read 3 articles in one swoop.
+
+-
+
+Sean's affirmations on the subject of open source:
+
+Sean expressed his dream "that the mod community will see the
+light of open source, and by doing so allowing mod development
+to go where mod development has never gone before." He makes a
+very valid point that open source development may well allow
+developers to interact in ways that they can't in a closed 
+source environment, and result in more value for the gamers
+who play their mods. Finally, he calls on us to take a step
+into "the new path of software (and mod) development." 
+
+Here's another snippet from Sean's affirmation, word for word:
+
+"Mod developers are faced with a different situation. Mod
+developers aren't making a profit off of their mod. They
+release their mods for free! What advantage do they gain
+from keeping their mod closed source? None! Keeping a mod
+closed source, and the development secreted away among the
+Chosen Few helps no one. If anything, it's hurting the
+Chosen Few!"
+
+He goes on to express his thoughts on the possible reasons
+why we're not seeing open sourced mods in the community:
+
+"Perhaps the developers are afraid that their secrets will
+be stolen, and someone will make a similar mod"
+
+"Perhaps the mod developers are fond of the closed source
+model, and believe open source leads to bugs and low
+security."
+
+"Maybe mod developers don't think the average developer
+could be trusted to make quality contributions to their
+mod unless they made a blood oath to join the development
+team."
+
+"More than likely, however, most mod developments are
+unaware of the open source development model, or hadn't
+thought of applying the model to mod development."
+
+-
+
+Cyber's take on this:
+
+I think anyone reading this .plan knows that EWC is a
+-tightly- closed source project, and that Zen Tao takes
+it's proprietaries very seriously. A lot of his expression
+on why we're not seeing the open source development model
+applied, rings true for EWC (save for the last, which I'll
+expound on in a future .plan update).
+
+However, Nikki and I don't necessarily feel that the model
+we're using for EWC development is "the way to do all
+things, all projects" for Zen Tao Interactive. 
+
+I totally agree with Sean's affirmations, and although I
+believe there are some holes to the logic behind his
+analysis of why commercial projects are rarely open sourced
+during development, I'd have to agree that the model is a
+solid one for mod makers in the UT community, and will
+result not only in a lot more development activity, more
+experience working with others, and amount to an excellent
+value for gamers in the long run.
+
+-
+
+Monstro's opposing views on the subject of open source:
+
+Monstro expressed his opinion that "the reason that mod
+developers do not normally open source is not because
+they're not aware of how it can help their mod, it is
+because there are people with marginal skills and dubious
+intent that will rip what they can and call it their own
+because they can. They have nothing to lose. Precisely
+because it's a so-called costless and profitless effort,
+people take advantage of that and do what they want."
+
+Here's another group of snippets from Monstro's opposing
+views, word for word:
+
+"It's not protection of code, it's protection of idea.
+People take this stance EXACTLY BECAUSE it's costless
+and profitless - no profit can be made, no damages can
+be claimed - and you can only say 'it was my idea and
+this is what I did with it' and if some schmoe takes your
+idea and goes his way and dishonestly claims it as his,
+it makes it that much more difficult to make your mark.
+
+"The second point is that the reason Linux and Netscape
+(and even much smaller deals like CrystalSpace 3d) work
+in an open-source environ is because the development
+undertaking is well beyond the scope of one or four
+people. A TYPICAL game mod isn't. Therefore, it's much
+more likely that someone can attempt to lay that claim
+and actually get away with it."
+
+"Now I know these last 2 paragraphs sound like paranoid
+rantings and TBH they are. People in general, gamers
+especially, continue to confirm my suspicions that some
+will lie/cheat/steal to get what they want, mod stealing
+is just a different way of doing it. Yeah it's a pretty
+pessimistic outlook, but based on my experience it
+happens. And the best way to avoid it is to develop
+your mod close to the chest."
+
+-
+
+Cyber's take on this:
+
+Monstro says "because there are people with marginal
+skills and dubious intent that will rip what they can
+and call it their own because they can", and I know
+this to be true from experience, so I have to agree
+with that, and he's not paranoid at all.
+
+As far as how difficult it is to "make a mark" - in my
+opinion that's a direct function of what one puts into
+their work and how one presents it. It's not dependant
+on what some fool with an itchy ripping finger does.
+
+Fact is, I don't believe anyone "with marginal skills
+and dubious content" could undermine a project that
+reflects hard work and diligence. Besides, gamers for
+the most part aren't dumb, the majority of them can
+smell quality and value in a mod a mile away and won't
+support someone who's ripping content from devs they
+respect.
+
+Although I'm not going to slap the face of reality by
+saying that there aren't a large number of gamers that
+"lie/cheat/steal to get what they want". That's a 
+fact, like it or not. It's like that with anything
+and everything, and I won't disagree with it at all. 
+
+Monstro's logic, although rough, makes a razor sharp
+point that can't be denied. Still, I think it all
+comes down to the aspirations of the developer(s).
+I see a lot of gray here, as there could be a
+bazillion motivations for creation of a mod. Here
+are two examples that may be shared as goals between
+both devs, just keep in mind 'motivation always rules
+priority':
+
+- The developers of said mod are motivated by the
+primary goal of furthering themselves in terms of
+a career leading to financial gains, which IMHO
+can only be done if credit for their work is ensured
+and unchallenged. These are admirable goals, and
+their work may well be a great contribution to their
+market. 
+
+Note that these fellows above -are- going to meet a
+lot of people in this business who will "lie/cheat
+and steal to get what they want" and it may well
+impede their goals. There's no fault in keeping
+their work "close to their chest" as Monstro put it
+so gracefully, it's just good business to protect the
+value of their product and preserve it's uniqueness
+by guarding it.
+
+- The developers of said mod are motivated by the
+primary goal of making a significant and lasting
+contribution above all else. For them it's about
+-creation-, and the value it creates for others. 
+This doesn't mean they forsake the possibility or
+goal of career or financial gain, or credit for
+that matter. What it means for them is, first 
+things come first.. and that means gamers.
+
+-
+
+Cyber's final thoughts:
+
+I'm sure it's obvious to you all that it's just
+two sides of a single coin. It's yin and yang.
+There's a duality with drastically different
+faces yet an undeniable and integral common
+element. It's also obvious that an open source
+development model would invariably work for some,
+and not for others. There is no universal
+decision, or movement that need take place IMHO.
+The beauty of the debate (as it were) is that new
+questions are being raised, and awareness is being
+furthered, and THAT in itself is refreshing and
+valuable to us all.
+
+A bit on balance:
+
+I guess I would have to say that balance in this
+case would be a state of equilibrium where both
+needs are in synch, neither being evidently
+stronger than the other, even in full contrast.
+
+Where will balance in all this be found? ;)
+
+
+Cyber
+
+-
+
+"and weigh thy words in a balance, and make a door and bar
+for thy mouth."
+
+- Ecclisiasticus: 25
+
+"The greatest offense against virtue is to speak ill of it."
+
+- Sketches and essays (1839) on Cant and Hypocracy
+
+-
+
+It should be noted that the views expressed in this .plan file
+are my own, and should not necessarily be construed as those
+of Zen Tao Interactive, it's staff, investors, sponsors or
+anyone else for that matter! If you don't agree with me or
+take offense to what I say here... it's your problem. ;)
+
+
+"Work like you don't need the money, love like you've never
+been hurt, and dance like nobody's watching."
+
+- Indi on ICQ
+
+"If a man hasn't discovered something that he will die
+for, he isn't fit to live." 
+
+- Martin Luther King, Jr.
+
+".. do your work, and I shall know you. Do your work, and you
+shall reinforce yourself."
+
+- Excerpt from Ralph Waldo Emerson's essay on Self Reliance
+No public key.

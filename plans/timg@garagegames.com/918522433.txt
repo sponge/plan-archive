@@ -1,0 +1,43 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-------------------------------------------------------------------
+User Name: tim.gift     Plan Last Modified: 02/08/1999 11:33:48 PST
+
+Real Name: Tim Gift
+Nickname: Slacker
+Job: Director/Lead
+Project: Starsiege Tribes
+
+1.8.99
+
+Looks like we had a few problems with the 1.2 patch.
+The 1.2 patch had a number of changes, some of them we
+considered pretty critical.  We were pushing to get
+the patch out, but as with anything that is rushed, 
+problems creep in and are not caught. We'll correct
+those over the next few days and get a revised 1.2
+patch out, which will actually bump the number to 1.3.
+
+Version numbering. Just so everyone doesn't get
+confused. TRIBES uses three numbers in it's version:
+"1.2.3".  The first number indicates client/server
+compatibility (hopefully something we won't have to
+break, a 1.x.a client can always connect to 1.y.z
+server).  The second number indicates a major patch
+which we encourage everyone to download.  These major
+releases will not have a third number, 1.1, 1.2 or 1.3,
+etc. The third number is used for internal testing or
+beta releases.  The last beta was 1.1.7, the OpenGL
+beta will probably be 1.3.1.  We may go through several
+beta releases, 1.3.2, 1.3.3, etc.  Once everyone is
+happy with a beta, we bump the second number up and
+encourage everyone to download it. In the OGL case this
+will probably be 1.4.
+
+Right now the code base for the client and server is
+the same and we do not make a distinction between
+client and server as far as releases go.  Though some
+patches may include more server or client oriented
+changes.

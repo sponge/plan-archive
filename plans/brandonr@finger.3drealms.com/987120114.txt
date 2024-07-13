@@ -1,0 +1,17 @@
+Account Name:  brandonr
+Email address: brandonr@finger.3drealms.com
+----------
+Holy cow.  I was on my way back from the bathroom and I nearly tripped over Al.  He was passed out in the hallway mumbling something about Levelord and broomsticks in his sleep.  What a guy.  I think all this game development is getting to him.
+
+Anyhow, I figured it's been a while since I posted a worklog and let everyone in the world know what kind of programmerish things we do here at 3D Realms.  So, here it is my worklog for April 12, 2001:
+
+- Woke up this morning and serialized a box of Fruit Loops.
+- Made fun of people on the Unreal Engine Programming support list.
+- Found that in a lot of the numbers in the Unreal engine there were these little f's.  I removed all the little f's because everyone knows that f isn't a number.
+- Helped Jess find a problem in the skeletal evaluation of a creature he was working on.  Turns out he wasn't properly malloc'ing his DWORD.
+- Fixed a bug where the rasterizer wasn't properly swizzling the mip-map.
+- About 1:00 pm I went to the bathroom and...ah...deallocated my buffer.
+- Swizzled the mip-map some more.
+- Did some work on "CodeSwitcheroo()" because that's a funny function name.
+
+So anyway, that's what my day has looked like so far.  Now maybe you can understand how this game programming job is so much work!

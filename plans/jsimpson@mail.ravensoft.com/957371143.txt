@@ -1,0 +1,44 @@
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+5/3/00
+Man, Americans have a really weird way of putting days. In England we do it day/month/year. Here they do it
+month/day/year. Did that ever give me trouble when I first got here. A bunch of checks (and that's spelt Cheques
+by the way) kept coming back cos they were dated wrong. I still can't get it right first time. 
+
+Anyway. Back to the Mac stuff. Voyager Holomatch now works correctly on the iMac. We figured out the last virtual
+machine bug, and now it's all just peachy. (Actually, we didn't strictly speaking fix the bug, we just worked around
+it until I can get my hands on a good PPC assembly book. Anyone know of one?)
+As it stands right now, there is still some too-ing and fro-ing going on about who is actually going to do the 
+developing of the single player game. I've got the multiplayer version going mainly because we wanted to see how easy
+it would be to do. Activision has final call on how it's all handled, and there are still discussions going on there.
+
+On the SOF front, I am working with the people from Aureal to update the A3D code in SOF so it recognizes the Montego
+II A3D sound card. For some reason, between beta and release we broke the detection, and we aren't sure how. Aureal
+is looking at it now, and we should see it in the next patch.
+While we are talking about sound stuff I should mention that we've seen some activity on the SOF forums concerning EAX
+support. I feel I ought to take this opportunity to explain what happened with the last patch (1.04). Creative Labs 
+sent us an EAX update because they were about to release a version of the Eagle product on the market for developers
+(for the un-initiated Eagle is the sound mapping tool that we use to create map sound environments). However, it's .eal
+map files that it produced weren't compatible with the version of Eagle we had used during development. Creative offered
+to update our code so we could read in new .eal files and re-generate all our .eal files we used in the game. So we
+took them up on the offer. However, after trying the rtPatch program we use to update our pak files, we found it barfed
+on these files when operating under win98. Now this wasn't the only update Creative had applied to our codebase. They
+also touched some file searching alogrithms, and the autodetection code, if memory serves. When we found that rtPatch
+vomited on the .eal files, Rick removed the entire update, although I think the new detection code was still there.
+Hence some of the EAX problems people are seeing. I'm pretty sure that's what's going on here. The next patch should
+fix that, as soon as rtPatch gets back to us with the fixes. Rick is out this week, so it's hard to know exactly what
+is going on.
+
+On other topics, I updated Jakeworld and added the last of the three game developer articles that up til now where 
+running on Loonygames. Jason has the last article, but for some obscure reason, Loonygames hasn't been updated in a
+while. I'm reliably informed that when it does get updated, the article will be there too. So if you can't wait,
+check out JakeWorld and go to the articles section, and if you can, wait for Loonygames (Jason does do a much better
+job of presentation than I could ever do;))
+For those that are interested, the last article is called Game Design Philosophy - Make 'Em play. It's just notes on
+design hints, and also ways to make those hints work in a development environment.
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/users/jakeworld">JAKEWORLD!</a>

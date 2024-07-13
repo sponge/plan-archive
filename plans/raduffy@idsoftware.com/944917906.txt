@@ -1,0 +1,104 @@
+
+Name: Robert Duffy
+Email: raduffy@idsoftware.com
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+
+A couple of things. First, things look like they are still good to go on getting the editor and map building tools out early next week. I am shooting for Tuesday sometime but that can change based on a variety of things. In any event it should be soon. Secondly, the editor and shader manuals will not be available right then but will follow shortly after. The shader manual probably within a few days of the tool release, the editor manual a bit after that. 
+
+At this point, the tools should ship with three sample maps ( all from the game ) and the additional shader textures and "mapobject" models required to build those three maps. The maps represent a nice cross section of shader and entity functionality for everyone to digest. 
+
+We have been using a P2-300 running Win98 with a variety of cards for testing. To produce a production level map ( full vis and -extra light ) it takes 36 minutes for Q3DM1. Fast vis and normal light takes about 4 minutes on the same map. That should give some idea on requirements but your results will vary.
+
+As always, everything here is subject to change ( timing and content ) but this is the current plan and I do not foresee any changes.
+
+
+Recent changes to the tools. 
+
+Q3Radiant
+-Project info dialog sucks less
+-Properly handle long path names ( embedded spaces mainly ) when calling q3map.
+-Better bsp execution, output is piped to dos window and console
+-Q2/Q3 Pref handling works
+-Finished Installation 
+-Better defaults all around
+-Better window resizing, defer'd decision to default to floating window resizing.
+-Fixed crash on loading new projects
+-Seperated block allocator and actual size allocator to reduce memory overhead
+-Failed textures only try to load once
+-Failed MD3's only try to load once
+-Cleaned up shader loading
+-Editor loads without requiring information from the user the first time ( assuming it was installed in the right place )
+-Fixed case comparision problems with some PK3 file contents
+-Fixed allocation bug when cleaning out PK3 files on project reload
+
+q3map
+-Fixed MD3 load failure
+
+Todo
+-Add bspc to bsp list
+-Finish GL card testing
+-Fix MD3 path load from dialog ( misc_model attach )
+-Decide on multiple PAK files ( multiple PK3's work fine )
+-Mirroring curves needs to invert the texturing as well
+-Mirroring embedded models needs to work properly
+-Need default layout for floating window mode ( sticky windows as well maybe )
+-New artwork into install
+-Finish readme
+-More stuff
+
+
+
+
+
+
+
+12.07.99 05:02pm
+----------------
+
+The editor and map building tools should be available in about a week. This will include a prebuilt editor, q3map, and additional support files to get you going with map design and construction. There will also be some sample maps and shader examples. 
+
+I'm in the process of running the editor against various GL configurations and making sure it runs well on Win98 machines. I'll post a list of confirmed GL setups that I found to work, with the release. If it runs on a driver set installed by GLSetup I'll call it good. 
+
+The tool and game source will follow sometime after this release. A few things still need done in that area but it should follow reasonably soon after the binaries.
+
+The "about a week" time frame estimate is just that. An estimate.
+
+Recent changes to the tools.
+
+Q3Radiant
+-PK3 Support
+-JPG Support
+-Plugins can now load files from pk3 files ( transparent to the plugin )
+-Shaders can now load from pk3 files
+-Failed shaders no longer load a "notexture" image
+-Shaders are loaded from shaderlist.txt instead of *.shader
+-Shader texture loading is deferred based on All, Common or None rules. New Pref based on this.
+-Models can now load from pk3 files
+-Fixed Win98 Copy/Paste bug
+-Fixed Win98 BSP execution bug
+-q3map supports 'Quake...anything...' instead of just Quake2 or Quake3 as a base
+
+q3map
+-PK3 Support
+-JPG Support
+
+General
+-Lib'd several things to make code sharing a bit easier
+
+ToDo
+-Finalize Q2/Q3 pref handling
+-Auto window resizing, default to floating window mode
+-Project info dialog sucks
+-Only try loading MD3's once per session
+-Verify no maps path is ok ( auto create paths ) 
+-Set default tex window scale to 50%
+-Install
+-Auto fill prefs if can find quake3.exe and baseq3
+-Add bot bsp option to bsp choices
+-Run all paths through a path cleaner
+-GL compatibility testing per driver set as required
+
+
+

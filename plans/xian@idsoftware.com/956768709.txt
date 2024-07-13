@@ -1,0 +1,47 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+<font color="white">
+
+<b><u>Apr.26.2000 @ 10:30pm</u></b>
+
+ I'm looking for a Win32 port of the unix top command. We're phasing out
+our IRIX box, and top was a way we could tell if anyone else is BSPing on
+the machine. Since moving to Win2k for our main BSP-cruncher, we've sort of
+lost the ability to accurately tell who is bsping on the machine or what
+processes are running remotely, short of running to the server room and
+bringing up the graphical task manager.
+
+ I've tried using various ports of ps for Win32, but they just don't work all
+that well.
+
+ If anyone can offer some suggestions or point me in the right direction for
+remote process management under Win2k, I'd greatly appreciate it (A cursory 
+search of the web didn't come up with very much)
+
+ Thanks.
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, Y2K bug, mud slides, forest fire, or projectile 
+(which can include, but not be limited to, arrows, bullets, shot, BB's, 
+paintball, shrapnel, lasers, napalm, torpedoes, or emissions of X-rays, Alpha,
+Beta and Gamma rays, knives, stones, etc.). 
+</font>
+---
+</tt>

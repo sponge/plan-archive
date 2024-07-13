@@ -1,0 +1,22 @@
+User:   jack
+Unread: 1
+Plan:
+1/15/99 - 11:22pm
+
+Well, I was diving into some DDraw coding to work on some stuff, when I
+realized how much the DDraw returns sucked.  They return these *really ugly*
+nebulous negative numbers, that I didn't feel like dealing with.  Now my
+friend Rod at 3Dfx told me a trick of anding them by 0xFFFF and grepping
+them in ddraw.h, but I thought eh, screw that, so I wrote a little proggy to
+deal with it for me.  It's a useful little gem (that Microsoft
+*******REALLY******* ought to have in the DX SDK) that I coded up really
+quick.  Anyone doing DirectX development should find it semi useful.  It's
+called dxerror, and you give it a DDraw error number, and it looks in
+DDraw.h for you and gives you the error constant and the comments preceding
+it.  It's free, have a party:
+
+http://www.gamespy.com/extras/jack/dxerror.zip
+
+Oh, and has anyone got the Tribes networking spec laying around?  I'd like
+to put it into GameSpy already :).  Actually, I was at a LAN party and saw
+someone had a cool port snooper, anyone got one lying around?  Thanks.

@@ -1,0 +1,134 @@
+
+Name: Mike Gummelt
+Email: mgummelt@mail.ravensoft.com
+Description: Programmer
+Project: Star Trek
+-------------------------------------------------------------------------------
+12:42 PM Tuesday July 13, 1999
+
+Alright, I'm going to go off-topic here and
+make a request:
+
+Does anyone know where I might get an
+interface box for a SD series Wacom tablet?
+I have the pen and tablet, but I am missing
+the little box the Wacom plugs into (the
+box has a DB9 9 pin serial cable coming
+out of it that plugs into the computer)...
+
+This tablet has been out of production for
+six years and they don't make or sell it or
+the parts anymore.  So does anyone have one
+of these boxes for trade/sell that they're not
+using or know where I can get one?
+
+Thanks!
+
+cut here:
+8<================================================
+
+11:31 AM Friday June 18, 1999
+
+In a temporary respite from Voyager News,
+this from Phoebus here at Raven:
+
+"We're releasing the public beta of the 
+long-awaited HexenWorld CTF mod today!
+Here's a sneak peek at the online readme: 
+http://www.hexenworld.com/hwctf/hwctfdoc.shtml
+
+The mod is a top-notch accomplishment, and
+I'm especially glad to have lead this project!  :-)"
+
+On a related note, Chris' finger mentioned
+the possibility of doing a "Siege"-type
+multiplayer mode for Star Trek, meaning that
+we would do something like the Siege mod
+we released for HexenWorld over a year ago
+(that I have yet to see anyone else try to
+make).  The basic idea is that you have
+different player classes with different
+weapons, strengths, speeds, abilities and
+spells.  There and two teams with two vastly
+different objectives, attackers who must breach
+the defenses of the fortress and get through
+progressive objectives- like crossing a moat
+that's full of pirahna, using catapults,
+digging tunnels, etc; and defenders- who's
+job it is to watch all possible entrances and
+weaknesses of the fortress and keep the attackers
+out of the throne room, including using ballistas,
+imprisoning attackers, sealing off areas,
+releasing were-jaguars, hiding or protecting
+the key to the throne room, using a secret
+weapon, defending the spiral staircase in the
+center tower, etc, etc, etc.  
+
+Obviously, these concepts would be translated
+into Star-Trekky terms.  We could do some cool
+stuff since the HoloMatch allows us to create
+any setting and maintain believability within
+the setting of the show.
+
+Any comments?
+
+cut here:
+8<================================================
+
+11:19 AM Thursday June 16, 1999
+
+I've seen a few interviews and previews of our
+game Star Trek: Voyager on the net and some of
+them have a few things wrong, so maybe we should
+be talking about this game more than we have been.
+
+Here's the general concept of the game:
+
+Since Voyager is pretty much alone, with no chance
+of getting any re-enforcements (aside from the stray
+interstellar hitchhiker or two they've picked up),
+Tuvok has decided to personally train some specialists
+to hand the assignments that have the potential to be
+the most dangerous encounters and hazardous of conditions.
+
+You play a member of the Hazard Team, an "elite force"
+of security personnel each cross-trained with specific
+skills.  There's:
+Lt(jg) Les Foster - the team leader.
+Ensign Alexander Munro - the scout and second in command of the Hazard Team(you).
+Ensign Telsia - the Orion female sniper/scout (your love interest).
+Crewman Rick Beissman - the heavy weapons specialist.
+Crewman Austin Chang - the demolitionist.
+Crewman Sitar - the female Vulcan medic.
+Crewman Chell - the Bolian technician.
+Plus plenty of "redshirts".  As the game progresses,
+your character becomes more and more important in both
+duties and in the plot.
+
+While you don't actually play any of the main characters,
+you will interact constantly with the main characters of
+the TV show in a series of in-game cinematics and even
+on a couple of the missions.  The plan is to have the
+actors from the show do provide the voices for their
+characters.
+
+The idea for the gameplay now is to have the missions
+have a variety of gameplay styles, some pure action,
+some more focused on teamwork, some stealth, and a couple
+you're pretty much on your own.  Each mission will be
+a few levels and between each mission there are the main
+cinematic events on Voyager where you see the progression of
+the story and your character's development in respect to
+his importance and his relationship with the other team
+members and crew.  There are also in-game cinematic moments
+in the game at key points of gameplay.
+
+The game has a strong plot and well-developed, well-defined
+characters, both from the show and newly introduced in our
+game.  At the same time, the gameplay is exciting, fun, and
+innovative.  I honestly think people are going to have fun watching
+the story unfold as well as going through the missions and
+blowing stuff up!
+
+cut here:
+8<================================================

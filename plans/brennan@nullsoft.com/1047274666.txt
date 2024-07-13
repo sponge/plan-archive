@@ -1,0 +1,10 @@
+Login: brennan        			Name: Brennan Underwood
+Project: blah blah Winamp3 blah blah
+Plan:
+Wasabi development is not over nor dead. Think of it more as Winamp 2.x is getting Wasabified!
+If we do things right you'll be able to load your Winamp3 components into Winamp
+right alongside your Winamp 2.x plugins, while still being able to just install Winamp 2.9 if
+you prefer that, or just Winamp3 if you prefer that. Basically, you'll be able to run
+Winamp 2.x skins in their native skin engine, and Winamp3 skins in theirs.
+
+Should be pretty cool. ;)

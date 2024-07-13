@@ -1,0 +1,52 @@
+Login: brucel         			Name: Bruce Lewis
+Plan:
+29 October, 1998
+
+Alpha testing is proceeding with far fewer problems
+that before.  Some of the issues have been put to bed
+allowing me to focus on some of the less important
+issues.
+
+There will be a public showing of glDoom at The Frag 2
+this weekend.  Hanif Jhaveri will be showing the program
+for me.  I won't be there.  We may set up and ICQ or
+IRC connection so that I can field questions. That's
+undecided, as yet.
+
+I sent copies of glDoom to John Carmack and John Romero
+Tuesday evening. John Carmack's remarks were generally
+favorable.  John Romero has not made any remarks about
+the program, yet.
+
+/me goes back to work...
+
+7 October, 1998
+
+The alpha testing of glDoom is going relatively well.
+There have been some problems with Windows98 and some
+driver incompatibilities that we're working on ironing
+out.
+
+I did some work on the light attenuation code today. I
+put the fog code back in (black fog) and have tweaked it
+some.  I also put a cvar in to control whether it tries
+to use that.  The cvar gl_fog 0/1 will turn it off and
+on.  I did this because some cards either don't support
+it at all or don't do it right. (very strange looking)
+
+5 October, 1998
+
+Well, what do you know.  My very own .plan file...
+
+glDoom went into alpha testing today.  I'm as nervous as
+a cat.  I've never taken someone else's software (especially
+not as popular as Doom) and made such drastic changes to
+it before.
+
+I really don't know what to expect from the testers at this
+point.  All I know about how it will fare is how well it works
+on my systems.  Still, I've got high hopes for it.
+
+I should know in a day or two how things are progressing.
+
+Stay tuned...

@@ -1,0 +1,292 @@
+
+Name: Kenn Hoekstra
+Email: khoekstra@ravensoft.com
+Description: Project Admin
+Project: General
+Web Page: <a href="http://www2.ravensoft.com/users/khoekstra">Kenn's Web Site</a>
+-------------------------------------------------------------------------------
+Friday, September 14th, 2001 - Gamers and Game Companies Unite!
+<a href="http://www.gamerankings.com">GameRankings</a> is sponsoring a fundraiser to help the victims of
+Tuesday's tragic events, whereby they are taking games and
+related materials donated by game companies and auctioning them
+off on Half.com and Ebay. All proceeds to go to the relief fund 
+in the name of gamers everywhere.
+
+Check out <a href="http://www.gamerankings.com">GameRankings.com</a> for details.  I hope everyone
+can pitch in and try to offer some help in this time of
+crisis and need...  
+
+*********************************************************
+
+*** UPDATE ***
+
+File Mirrors now available at FilePlanet:
+
+- <a href="http://www.fileplanet.com/index.asp?file=64076">Soldier of Fortune Platinum Map Pack</a> (3.5MB)
+- <a href="http://www.fileplanet.com/index.asp?file=62316">Official Soldier of Fortune 1.07 Patch</a> (2MB)
+
+*** UPDATE ***
+
+*********************************************************
+
+Tuesday, August 28th, 2001 - Soldier of Fortune Platinum
+should be making its way to retail outlets today.  As with
+Gold, we're releasing everything that's a part of Platinum
+free to those who bought a previous version of Soldier of
+Fortune.  The first part of that can be found here:
+
+- <a href="http://www.3ddownloads.com/?file_id=151653">Soldier of Fortune Platinum Map Pack</a> (3.5MB)
+- <a href="http://www.3ddownloads.com/?file_id=149506">Official Soldier of Fortune 1.07 Patch</a> (2MB)
+
+The map pack contains five MP maps...four by Kevin Pochron,
+now of Raven and one map that I did back when I was a designer
+for Soldier.  Kevin touched it up for me and added all of the
+startspots and weapons, etc.  So, for all intents and purposes,
+you can heap your praise on Kevin for the new maps.  ;)  There
+are instructions for installing the map pack in the readme.  
+
+The 1.07 patch is essentially the same as Rick's 1.07f beta
+patch, minus all documentation references to the word "beta."
+If you have the beta patch, there's no need to update to 
+this one as functionally they are identical.  If you have 1.06
+or earlier, the upgrade is recommended.  As I noted in a prior
+.plan udate, the 1.06 Gold Patch is needed before applying this
+one.  Confusing, I know...
+
+Feel free to download and mirror the patch and map pack
+freely.  If you have the earlier 1.07 patch, which was
+flawed or the 1.07f beta patch on your servers, please take
+them down and replace them with this official version.
+
+I'll keep you posted on the Soldier 2 trailer and the 
+strategy guide and let you know when they will be available.
+
+Totally off the subject, I have a question for you net-savvy
+types out there:
+
+I have a friend here in Madison who's a small business
+owner.  He just registered a top-level domain name through
+register.com and he wants to put up a website purely for 
+informational purposes.  He doesn't need a lot of bandwidth
+and doesn't plan to use the site for product ordering.  A
+corporate e-mail address or two would be nice and simple
+uploading and administration tools are essential.
+
+That said, what hosting method or service do you recommend?
+This site will be pretty small, so server space is not a
+big deal.  What do you think is the best, most inexpensive
+service out there?  I know register.com offers one for $15 a
+month for example.  Anyone using that?
+
+Send your recommendations to me at <a href="mailto:khoekstra@ravensoft.com?subject=Website Hosting">khoekstra@ravensoft.com</a>. 
+
+Thanks in advance!
+
+****************************************************************
+
+Thursday, August 16th, 2001 - Soldier of Fortune Platinum
+Edition has Gone Gold!  Or...um...Platinum, as the case
+may be.  Soldier of Fortune Platinum is:
+
+- Soldier of Fortune Full Retail Game
+- Gold Edition Maps/Mods/Enhancements
+- 1.07f Patch Adding GameSpy Support To Multiplayer
+- 5 New Multiplayer Maps
+- Brady Games Strategy Guide (penned by me) In .pdf Format
+- Preview Trailer of Soldier of Fortune II: Double Helix
+
+This edition of the game is meant for those who haven't
+purchased Soldier of Fortune in any form to date.  As with
+the Gold Edition, the Platinum Edition updates and features
+will be freely available for download soon to those of you
+who own Soldier of Fortune or Soldier of Fortune Gold.  
+
+As soon as the Platinum Pack is available for download, 
+I'll send out an announcement and make an update here.
+
+If you want to order Soldier of Fortune Platinum, you can
+do so through the <a href="http://store.activision.com/dr/v2/Ec_Main.entry24?SP=10023&PN=1&V1=332590&xid=9685&search_id=4769012&doc_id=3&DSP=&CUR=840&CACHE_ID=0">Activision Store here</a> for a mere $29.99.
+
+*************************************************************
+
+August 7th, 2001 - I’m off to QuakeCon. I’ll be showing SoF2
+at the Activision booth all weekend with guest appearances by
+Rick Johnson, Brian Raffel and Jim Hughes. Hopefully I’ll 
+actually get to SEE some of the events going on. 
+
+As it turns out, LucasArts and Activision will be showing 
+the E3 demo of Jedi Knight 2 at QuakeCon. Check in at 
+<a href="http://www.quakecon.org">Quakecon.org</a> for more information as it is available.
+
+See you there...
+
+**************************************************************
+
+August 3rd, 2001 - Just wanted to send out thanks and congrats
+to Crave Entertainment for the superb job they did making 
+<a href=" http://www.ebgames.com/ebx/categories/products/product.asp?pf_id=184388&mscssid=&ref=1&PromoCode=&site=&siteID=">Soldier of Fortune for the DreamCast</a>.  When they sent us an 
+advanced copy of the game and we checked it out in our main 
+conference room, some of us (myself included) nearly shed the
+proverbial "single manly tear."  It's a fine translation of 
+a PC game to a console format.  Great job, guys!
+
+************************************************************
+
+July 26th, 2001 - Almost a month since my last update...  Is
+that some sort of record?  I think it just may be!  ;)
+
+I've been working on finishing up the script for Soldier of
+Fortune 2: Double Helix.  It's going well...  I just need to
+add dialogue for the tutorial mission, add a few more generic
+phrases and make up some guard conversations for the Hong Kong
+and Kamchatka missions.  Should be ready to go soon, on track
+for voice recording at the end of August.  Yay!  
+
+We just finished up our builds of SoF2 and JK2 for upcoming
+trade shows like Activate and QuakeCon.  I guess Raven won't
+be at GenCon this year, though.  Bummer...  =(
+
+I'm headed to QuakeCon this year, by the way...  It will be my 
+first ever trip there.  Rick Johnson and I will be showing Soldier 
+of Fortune 2, so stop by and say "hi" if you're in the 
+neighborhood.  No word yet on whether or not JK2 will be making 
+an appearance at QuakeCon, so don't ask.  LucasArts still hasn't 
+made that call yet.  I'm sure they'll make an announcement if they
+decide to attend...
+
+Raven just ordered 21 new Dell PCs...P4 1.7GHZ with 512 MB RAM
+and GeForce3 cards.  I'm setting them all up now.  I wish I 
+could say it was fun, but I think there's a special ring of hell
+reserved for people who set up PCs.  I'm there now...  ;)
+
+More later...maybe next month.  If you're bored, I've also found
+time to re-launch the <a href="http://www2.ravensoft.com/users/khoekstra/">"Kenn's World"</a> website.  Just a skeleton
+right now, but maybe someday it will be cool...
+
+Rock and roll!
+
+--Kenn
+
+****************************************************************
+
+July 6th, 2001 - The long-awaited 1.07 patch for Soldier of 
+Fortune is here!  The patch removes WON support from the game 
+and exchanges it for GameSpy browser support.  (CD Keys no 
+longer required to play online)  There are also a number of other 
+minor bug fixes included.
+
+This patch requires that Soldier of Fortune be patched up to 1.06, 
+first, which means if you have the Soldier of Fortune Gold Edition, 
+this is the only patch you need.  If you have the standard Soldier 
+of Fortune, you need the <a href="http://www.3ddownloads.com/?file_id=116666">1.06 Gold Patch</a> first and then this one.
+
+- <a href="http://www.fileplanet.com">1.07 Patch Download (Approx: 2MB) at FilePlanet</a> (Free Registration Required)
+- <a href="http://www.3ddownloads.com/?file_id=149506">1.07 Patch Download Mirror at 3DDownloads</a>
+
+Enjoy!
+
+**************************************************************
+
+June 22nd, 2001 - All this talk of Quake's five-year anniversary
+reminded me that this Sunday is Raven Software's eleven-year
+anniversary!  In 1990, five men and one computer in a basement 
+started Raven Software with a vision: to create an RPG for the
+Amiga.  That game was Black Crypt.  Eleven years and fourteen 
+titles later, Raven Software has expanded to more than 50 
+employees and is working on not one, but three game titles.
+Pretty cool stuff...
+
+Congrats to Brian and Steve Raffel and all of the "old timers"
+who've been here longer than I have.  I'm looking forward to 
+the next eleven years. 
+
+On a personal note, my ten-year high-school class reunion
+is this weekend.  Big fun, big prizes, big danger...  =)
+
+Wish me luck!  Have a great weekend, everyone.
+
+********************************************************
+
+May 10th, 2001 - The Elite Force Expansion Pack has been
+spotted in stores!  The local Software Etc. had one copy
+left when we visited at lunch today.  Best Buy will likely
+have it next week since they get new product on Tuesdays.
+
+If you're interested in ordering the Expansion Pack online,
+there's a good deal over <a href="http://www.gamestop.com/product-detail.jsp?origin=sear&sku=644515">at GameStop</a>.
+
+You can also get the original Elite Force and the Expansion
+bundled together <a href="http://www.gamestop.com/product-detail.jsp?origin=gpckHOME&sku=B643897">at GameStop for $39.98</a>.
+
+***********************************************************
+
+May 5th, 2001 - The 1.20 patch for Star Trek: Voyager -
+Elite Force has been released!  The patch includes all
+of the 1.1 patch fixes in addition to new fixes, new
+multiplayer skins, compatibility functionality with the
+upcoming Expansion Pack and the Jeri Ryan speech pack,
+which puts Jeri Ryan's (Seven of Nine's) voice into the
+original game.  You can get the patch at:
+
+- <a href="http://www.3ddownloads.com/?directory=/ravensoft/Voyager:%20Elite%20Force/Patches/">3DDownloads</a> 
+- <a href="http://www.voyagereliteforce.com/files.asp?dir=/official&file=eliteforcepatch1_2.zip">VoyagerEliteForce.com</a> 
+- <a href="http://www.fileplanet.com/index.asp?section=0&file=59845&download=1">FilePlanet</a> 
+- <a href="http://www.activision.com/downloads/333.asp">Activision</a> 
+
+James Monroe has also uploaded the 1.2 version of the
+Linux Server for Elite Force.  You can download that at:
+
+- <a href="http://www.3ddownloads.com/?directory=/ravensoft/Voyager:%20Elite%20Force/Linux_Server/">3DDownloads</a>
+- <a href="http://www.voyagereliteforce.com/files.asp?dir=/official&file=stvefLinuxDedicated120.zip">VoyagerEliteForce.com</a>
+
+Enjoy.
+
+***********************************************************
+
+Friday, December 22nd, 2000 - I posted an article that I
+wrote a while back on our www2 server that may be of interest 
+entitled: <a href="http://www2.ravensoft.com/getajob.htm">How To Get A Job In The Game Development Industry</a>.
+
+If you're bored, you may want to give it a read.  If you 
+know of any websites or insights that are missing, feel
+free to <a href="mailto:khoekstra@ravensoft.com?subject=Get A Job Article Addition/Comment">drop me a line and let me know</a>.  
+
+***********************************************************************************
+
+Wednesday, May 26th, 1999 - A new day has dawned in Kenn's World...  Last night, I
+asked Michele, the love of my life, to marry me.  And she said YES!  Thank you, Michele...
+You've made me the happiest man in the world!  I look forward to spending the rest of
+my life with you...  You are the most wonderful person I have ever known...
+
+Thanks to Rob "Beroge" Gee for ring shopping with me and special thanks to 
+Kim "Lee Majors" Lathrop for giving me the final "get in there, son...we need
+a base runner" speech.  =)  Oh...and thanks to 94.1 WJJO for playing "Rainbow In The Dark"
+during my drive to "the big moment."  I couldn't have done it without all of your help...
+
+Hey Matt!  You're next, buddy...  In the immortal words of "Nature Boy" Ric Flair....WHOOOOOOOOO!
+
+******************************************************************************************
+
+IN LOVING MEMORY - Kenneth Lee Hoekstra (August 26th, 1937 - April 23rd, 1998)
+
+Sunset and evening star.
+And one clear call for me!
+And may there be no moaning of the bar,
+When I put out to sea.
+
+But such a tide as moving seems asleep
+Too full for sound and foam.
+When that which drew from out the boundless deep
+Turns again home.
+
+Twilight and evening bell,
+And after that the dark!
+And may there be no sadness of farewell,
+When I embark;
+
+For though from out our bourne  of Time and Place
+The flood may bear me far
+I hope to see my Pilot face to face
+When I have crossed the bar.				...Alfred Tennyson
+
+********************************************************************************************************

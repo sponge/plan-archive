@@ -1,0 +1,777 @@
+
+*** Ion Storm's Finger Server
+
+User name: noel
+Plan modified: Sun Jan 14 13:20:48 2001
+
+<html>
+ 
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>May 24th 2000</title>
+</head>
+
+<body bgcolor="#000000" text="#41E218" link="#E7F167" vlink="#C0CE8A" alink="#C0CE8A">
+
+<table border="0" width="640" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%">
+      <p align="center"><font color="#FFFFFF" face="Arial" size="1"><b>Disclaimer<br>
+      Everything you Read here is my own opinion and in no way, shape, or form
+      represents the opinion of ION Storm or any other associated entity.</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#6C614F"><font face="Arial" size="2" color="#FFFFFF"><b>January
+      14th&nbsp; 2000</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <blockquote>
+        <p><font face="Arial" size="2">So,<br>
+        There is this movie...Crouching Tiger Hidden Dragon.&nbsp; I have to
+        admit, it is probably one of my all time favorite 'Kung Fu' flicks of
+        all time.&nbsp; Even though it is sub-titled, which can sometimes force
+        one to have to watch a movies a few times in order to get the entire
+        gist of the ordeal, this one was quite pleasant.&nbsp; If you haven't
+        already seen it, then I would highly recommend it.&nbsp; For those of
+        you who have seen it, I have a good question:</font><p><font face="Arial" size="2">If
+        Jen is the 'hidden dragon' who is the crouching tiger?</font>
+        <p><font face="Arial" size="2">Until
+        next time!</font><p><font face="Arial" size="2">-N03L</font>
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#6C614F"><font face="Arial" size="2" color="#FFFFFF"><b>December
+      20th&nbsp; 2000</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <blockquote>
+        <p><font face="Arial" size="2">Ok,<br>
+        Now I get this email from Luke and Tom screaming and yelling at the top
+        of their keyboard lungs!&nbsp; Chrono Trigger PSX-2 they say!&nbsp; The
+        images of high-poly rendered chrono trigger characters start flowing
+        like a river of chocolate milk through my mind.&nbsp; The thought raises
+        the hair on the back of my neck.&nbsp; Yes... Squaresoft is looking to
+        the people of the community to determine if there is a market for Chrono
+        Trigger... if you never played Chrono Trigger then you have definitely
+        missed out on one of the better games of the 90's.&nbsp; So, if you are
+        a fanatical RPG future-fantasy buff like myself then you need to jot out
+        a quick email to Squaresoft and tell them that you would be interested
+        in something like this... even if you aren't really sure but you might
+        even consider it I would send them an email... Where do you send an
+        email to ?</font><p><font SIZE="2"><a href="mailto:support@squaresoft.com">support@squaresoft.com</a></font><p><font face="Arial" size="2">So,
+        send it off... get them all pumped up... and maybe... just maybe ... we
+        will see one of the better games get even BETTER!</font><p><font face="Arial" size="2">Oh
+        yeah... have one of those Merry Type Christmas times with all that
+        present tearing, food filling, family gathering type stuff... and if I
+        don't get to the ol' .plan file before the new year.&nbsp; Everyone have
+        a good time... but for God's sake be smart about your 'partying' and
+        keep safe.</font><p><font face="Arial" size="2">Hmmm, and on another
+        note... there was a minor save game issue that I was just made aware of
+        concerning Daikatana and Wyndrax.&nbsp; It appears that there is a
+        possible 'time' that you can save the game on the Wyndrax level (right
+        before you get to him) that can get corrupted.&nbsp; This will cause the
+        game to crash if you try to fight him from a load game... and I say this
+        with extreme caution ... because I need to take a much closer look at
+        the problem.&nbsp; If I get a chance, after the New year, I will see
+        what can be done.&nbsp; For now, if you have been running into this
+        problem and have a save game before the Wyndrax level then load that and
+        try to play through the Wyndrax level without a save... hahaha... hey it
+        makes it that much more of a challenge!&nbsp; :)</font><p><font face="Arial" size="2">Until
+        next time!</font><p><font face="Arial" size="2">-N03L</font>
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#6C614F"><font face="Arial" size="2" color="#FFFFFF"><b>October
+      5th&nbsp; 2000</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <blockquote>
+        <p><font face="Arial" size="2">Ok,<br>
+        So there is this rumor going around that I am a tad bit paranoid.&nbsp;
+        This is completely ridiculous!&nbsp; If there is anyone out there who
+        seems to agree then let me know who you have been talking to... I need
+        to talk to them as well!&nbsp;&nbsp;<br>
+        <br>
+        On another note, today has been a very good day.&nbsp; Switched over my
+        ISP and got almost twice the speed as my old ISP...and they even screwed
+        up the account&nbsp; information so I could only log in at 64k.&nbsp;
+        Tonight I get both channels... so if you happen to be playing Quake III
+        or UT and see a QIGONG running around stomping your head in... then it
+        is very possibly me.&nbsp;&nbsp;<br>
+        <br>
+        Let's see, I am turning 31 years old tomorrow.&nbsp; It is really
+        funny... no seriously.... it is.&nbsp; You see, if you are younger than
+        me then sooner or later you will be hitting the same marker and will
+        think back to yourself and say &quot;Wow, I am getting
+        older...&quot;&nbsp; You really don't think much about it until you get
+        there.&nbsp; Either case, I am still going to keep the same 'kid'
+        approach with everything I do.&nbsp; I like being a kid.. it is just
+        down-right fun.</font><p><font face="Arial" size="2">Anyway, I think I
+        am going to do something crazy this weekend, but as of right now I
+        haven't figured out what it is.&nbsp; I was going to go Wake Boarding
+        but that is out due to the stupid A$$ weather (too cold).&nbsp; So, if
+        you live in the Dallas area and know of anything crazy happening this
+        weekend then send me an email and let me know... if you happen to be a
+        gorgeous chick with a good attitude then let me know... hell if you
+        happen to have a heart beat let me know.&nbsp; *grin*</font><p><font face="Arial" size="2">So,
+        with all of this said, I am back to working on the 'project'.</font><p><font face="Arial" size="2">Ya
+        ya ya... badda da da da... *boing*</font><p><font face="Arial" size="2">-N03L</font>
+      </blockquote>
+      <p>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#6C614F"><font face="Arial" size="2" color="#FFFFFF"><b>September
+      27th&nbsp; 2000</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <p><font face="Arial" size="2">It seems there has been a little confusion
+      with the patches and what they do fix and what they do not fix.&nbsp;
+      There was a little bit of confusion due to the fact that we released a
+      U.S. 1.0 to 1.1 patch and then realized that we might as well just release
+      the 1.0 to 1.2 for the foreign versions due to the latency between
+      releases.&nbsp; Thus, if you have the U.S. version then both the 1.0 to
+      1.1 and the 1.1 to 1.2 will contain all of the below fixes.&nbsp; If you
+      have any other version and you obtain a patch for it then all of the below
+      fixes will be in that one patch.&nbsp; (i.e. UK, Italian, French, German,
+      Spanish)<br>
+      <br>
+      </font><font face="Arial" size="2"><span style="mso-bidi-font-size: 10.0pt">Daikatana
+      Patch<o:p>
+      </o:p>
+      Fixes (&lt;1.0 to 1.1 &amp; 1.1 to 1.2 US&gt; &lt;1.0 to 1.2 all
+      others&gt;)</span></font></p>
+      <p style="margin-right:286.2pt;tab-stops:297.0pt"><span style="mso-bidi-font-size: 10.0pt"><font face="Arial" size="2">Here's
+      the list of Bug Fixes and Additions to Daikatana that are contained in
+      this patch.<span style="mso-spacerun: yes">&nbsp; </span>To apply this
+      patch, you must have a FULL INSTALL of Daikatana in place.<br>
+      &nbsp;============<span style="mso-spacerun: yes"><br>
+      &nbsp; </span>BUG FIXES:<br>
+      ============<br>
+      <font color="#00FFFF"><b>&lt;All foreign versions 1.0 to 1.2 start
+      here&gt;</b></font><b><font color="#FF0000"><br>
+      &lt;U.S. 1.1 to 1.2 only starts here&gt;</font><br>
+      </b></font></span><font face="Arial" size="2">Power of two texture
+      problems corrected on the following maps:</font></p>
+      <font SIZE="2">
+      <p><font face="Arial" size="2">Introcine<br>
+      E1dm2<br>
+      E1dm2a<br>
+      E1dm3<br>
+      E2dm5<br>
+      E3dm1<br>
+      E2ctf2<br>
+      E1dt1<br>
+      E1dm1</font></p>
+      <p><font face="Arial" size="2">World.dll crash when asking Sidekicks to
+      follow up a ladder is now fixed.<br>
+      Game locks when the Page Up key is hit with the console down is now fixed.<br>
+      Game crashes when loading an autosave is now fixed.<br>
+      Special case e1m1c autosave crash is now fixed.<br>
+      E4M6c final cinematic no longer has two superfly bodies.<br>
+      Floating torches in E2-Cicle of Death now fixed.<br>
+      E4m6A Sidekicks not showing up is now fixed.<br>
+      q1Dm3 Teleporter does not work is now fixed.<br>
+      q1Dm2 health kits placed in the floor now fixed.<br>
+      Wyndrax unable to open bookcase now fixed.<br>
+      Getting the 5th level free after going up to 4th level is now fixed.<br>
+      Episode 2: Hade's Hammer disappearing when someone is killed using it is
+      now fixed.<br>
+      E2M1c: In coop mode the door that was supposed to open by the horn now
+      actually opens.<br>
+      E4M1a: In coop mode if both players die there was no way to finish the
+      map...now fixed.<br>
+      E1M4a: Large vis error by the door at the end of the map is now fixed.<br>
+      Gibs in episode 1 not displaying the proper textures is now fixed.<br>
+      E4M4b: In coop mode the server limited the players to the pistol in the
+      shooting range is now fixed.<br>
+      E4M4B: In coop mode the lift and grate were out of synch, this is now
+      fixed.<br>
+      Item pickup displaying duplicate messages is now fixed.<br>
+      When the console is set to 0 there was no server errors being displayed.
+      *fixed*<br>
+      No way for the player to return to the main menu after selecting an
+      invalid server is now fixed.<br>
+      E1M3A: missing texture in the floor is now fixed.<br>
+      E2Dm1: missing texture at the rooftop near the hammer is now fixed.<br>
+      Sidekicks now use hosportals and fountains.<br>
+      Dedicated server requiring a CD no longer requires a CD.<br>
+      Under Windows 2K, loading maps caused memory allocation errors. *fixed*<br>
+      Graphics glitches if the player is in the menu while the level is loading
+      is now fixed.<br>
+      After defeating Nharre, the grate to allow Superfly carrying mikiko never
+      opened... now it does.<br>
+      Servers now have a configurable message of the day (MOTD).<br>
+      Servers crashing in multiplayer if the player joining has no name. *fixed*<br>
+      Spanish version freezing in e1m4c is now fixed.<br>
+      Servers now have Cvars that allow map lists:</font></p>
+      <p><font face="Arial" size="2"><u>cvars:</u><br>
+      maps_dm<br>
+      maps_ctf<br>
+      maps_deathtag</font></p>
+      </font>
+      <p><font size="2"><font face="Arial">to set them from the console
+      line--&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>example:</i>&nbsp;&nbsp;&nbsp;&nbsp;
+      &gt; maps_dm &quot;e1m1b e1dm1&quot;<br>
+      this will rotate the deathmatch maps between e1m1b and e1dm1.<br>
+      <br>
+      E1M7A: Industructable fan prevents access to vents is now fixed.<br>
+      With unlimited saves turned on screenshots were not showing up. *fixed*<br>
+      Death taunts were not always correct. *fixed*<br>
+      E2M4e: The iron gates did not close behind the players when they entered
+      the cerberus area. *fixed*<br>
+      Mishima guards kept opening locked doors to get to the player. *fixed*<br>
+      E2M5e: Clip error at door on level exit is now fixed.<br>
+      E4M1B: Light floating in the air is fixed.<br>
+      Episode 1 crash: Sidekicks crashing the game when issuing the command for
+      them to 'get' a hosportal is now fixed.<br>
+      E1M1B: Slaughterskeets not coming out of their holes is now fixed.<br>
+      Screen flashes like it is being lit improperly when the player gets hit is
+      now fixed.</font></font><span style="mso-bidi-font-size: 10.0pt"><font face="Arial" size="2"><br>
+      <b><font color="#FF0000">&lt;U.S. 1.1 to 1.2 only ends here&gt;</font><br>
+      </b><br>
+      <b><font color="#FF0000">&lt;U.S. 1.0 to 1.1 only starts here&gt;</font></b></font></span><font size="2"><b></b><font face="Arial"><span style="mso-bidi-font-size: 10.0pt"><b><br>
+      </b>* Multiple graphic cards are selectable within the game, including
+      Voodoo cards<span style="mso-spacerun: yes">. </span>If you are having
+      problems with Daikatana running slow with your Voodoo, after<span style="mso-spacerun: yes">&nbsp;
+      </span>applying this patch, run Daikatana, go to the VIDEO menu and at the
+      top of the<span style="mso-spacerun: yes">&nbsp; </span>screen you'll see
+      a pull-down menu.<span style="mso-spacerun: yes">&nbsp; </span>Pull it
+      down and select &quot;Voodoo Mini ICD&quot;<span style="mso-spacerun: yes">&nbsp;
+      </span>and click on Apply Changes.</span></font></font></p>
+      <p style="margin-right:286.2pt;tab-stops:297.0pt"><span style="mso-bidi-font-size: 10.0pt"><font face="Arial" size="2">&nbsp;*
+      Fixed sidekicks not spawning between level changes and savegames (where
+      you<span style="mso-spacerun: yes">&nbsp; </span>couldn't finish the game)&nbsp;<o:p>
+      </o:p>
+      </font></span></p>
+      <p style="margin-right:286.2pt;tab-stops:297.0pt"><span style="mso-bidi-font-size: 10.0pt"><font face="Arial" size="2">*
+      Added unlimited saves option.<span style="mso-spacerun: yes">&nbsp; </span>If
+      ON when starting a level, SaveGems will<span style="mso-spacerun: yes">&nbsp;
+      </span>not<span style="mso-spacerun: yes">&nbsp; </span>spawn. Save
+      function will no longer reference the save count when attempting<span style="mso-spacerun: yes">&nbsp;
+      </span>to save unless the option is turned back off.</font></span></p>
+      <p style="margin-right:286.2pt;tab-stops:297.0pt"><font size="2"><span style="mso-bidi-font-size: 10.0pt"><font face="Arial">*
+      Texture size problem with Voodoo cards<br>
+      * All map bugs have been fixed<br>
+      * All Windows 2000 bugs have been fixed (including level loading)<br>
+      * Fixed sidekick speaking and pathing problems<br>
+      * Froginators and RoboSkeets have been changed per skill level<br>
+      * Removed CD copy protection check<br>
+      * Demo recording and playback works<span style="mso-spacerun: yes">( </span>Use
+      the standard Quake II commands)</font></span><font face="Arial"><span style="mso-bidi-font-size: 10.0pt"><br>
+      * Fixed crash when changing your name during a multiplayer game<br>
+      * Fixed crash after a COOP game restore<br>
+      * Fixed memory leaks<br>
+      * You cannot save on moving platforms anymore (which caused a bug)<br>
+      * Fixed multiplayer Mikiko Speed Boost bug (after dying, her Speed wasn't<span style="mso-spacerun: yes">&nbsp;
+      </span>setting correctly)<br>
+      * Default value for RATE cvar is now 25000<br>
+      * Cannot apply skill points to skills which are already at 5<br>
+      * The autoload slot should no longer show up in the save menu<br>
+      <br>
+      ===============<span style="mso-spacerun: yes"><br>
+      &nbsp; </span>NEW FEATURES:<br>
+      ===============<br>
+      * User-typed messages appear in a larger typed font in the message history<br>
+      * Added dedicated server &quot;message of the day&quot; cvar (motd).<span style="mso-spacerun: yes">&nbsp;
+      </span>This is echoed to<span style="mso-spacerun: yes">&nbsp; </span>clients
+      when they connect.<span style="mso-spacerun: yes">&nbsp; </span>The pipe
+      symbol '|' may be used to separate lines in<span style="mso-spacerun: yes">&nbsp;
+      </span>the message.<span style="mso-spacerun:
+yes">&nbsp; </span>Example: motd &quot;Extreme Destruction Server | Prepare to
+      die!&quot;<o:p>
+      </o:p>
+      <br>
+      * Incorporated advanced joystick axis support<br>
+      * Skin color in COOP now works<br>
+      * You can toggle Deathmatch Taunts (&quot;Took the Hardwood&quot;, etc.)<br>
+      * In COOP mode, Boss monsters change their difficulty based on number of<span style="mso-spacerun: yes">&nbsp;
+      </span>players<br>
+      * Added double click to multi-player join menu<br>
+      * Added death mp3 files for killing by telefrag and daikatana<br>
+      * Added CTF and DeathTag messages for flag/bomb capture.<span style="mso-spacerun: yes">&nbsp;
+      </span>You can toggle<span style="mso-spacerun: yes">&nbsp; </span>them in
+      the Options menu by choosing &quot;CTF/DT hints&quot;.<br>
+      * Incorporated new weapon selection menu to the multi-player menu,
+      allowing<span style="mso-spacerun: yes">&nbsp; </span>selection of
+      individual weapons, rather than slots.<br>
+      * Episode 3 water is no longer freezing in deathmatc<br>
+      <br>
+      * &quot;Instagib&quot; mod added for Deathmatch, CTF and DeathTag.<span style="mso-spacerun: yes">&nbsp;
+      </span>You randomly start with a different weapon when you respawn.<span style="mso-spacerun: yes">&nbsp;
+      </span>Each episode has two weapons to choose from.<span style="mso-spacerun: yes">&nbsp;
+      </span>They are:<span style="mso-spacerun: yes"><br>
+      &nbsp;</span>E1: Ion Blaster, Sidewinder<span style="mso-spacerun: yes"><br>
+      &nbsp;</span>E2: Venomous, Trident<span style="mso-spacerun: yes"><br>
+      &nbsp;</span>E3: Bolter, Ballista<span style="mso-spacerun: yes"><br>
+      &nbsp;</span>E4: Slugger, Kineticore<br>
+      <br>
+      * Map rotation is now set with CVARs, depending on the type of multiplayer
+      mode<span style="mso-spacerun: yes">&nbsp; </span>you're in.<span style="mso-spacerun: yes"><br>
+      &nbsp; </span>maps_dm &quot;&lt;map1&gt; &lt;map2&gt; ...&quot;<span style="mso-spacerun: yes"><br>
+      &nbsp; </span>maps_ctf &quot;&lt;map1&gt; &lt;map2&gt; ...&quot;<span style="mso-spacerun: yes"><br>
+      &nbsp; </span>maps_deathtag &quot;&lt;map1&gt; &lt;map2&gt; ...&quot;<span style="mso-spacerun: yes"><br>
+      &nbsp; </span>(example: maps_dm &quot;e1m1b e1dm1 e1dm1a&quot;)<br>
+      <br>
+      =================<span style="mso-spacerun: yes"><br>
+      &nbsp; </span>IMPORTANT NOTE:&nbsp;<br>
+      =================<o:p>
+      </o:p>
+      </span></font></font></p>
+      <p style="margin-right:286.2pt;tab-stops:297.0pt"><span style="mso-bidi-font-size: 10.0pt"><font face="Arial" size="2">Your
+      savegames will NOT work after installing this patch.<span style="mso-spacerun: yes">&nbsp;
+      </span>To resume gameplay AS CLOSE to where you were, you'll need to play
+      that level over from the beginning.<span style="mso-spacerun: yes">&nbsp; </span>If
+      you're close to the beginning already, there's almost no difference.<span style="mso-spacerun: yes">&nbsp;
+      </span>If you are pretty far into the level, this means you'll have to
+      play over from the beginning of the level.<span style="mso-spacerun: yes">&nbsp;
+      </span>To do this, follow these steps:<br>
+      <br>
+      (1) Make sure you have &quot;+set cheats 1 +set console 1&quot; set in the
+      Daikatana<span style="mso-spacerun: yes">&nbsp; </span>shortcut
+      properties.<br>
+      <br>
+      (2) Run Daikatana and find your most recent savegame.<span style="mso-spacerun: yes">&nbsp;
+      </span>Remember the name of<span style="mso-spacerun: yes">&nbsp; </span>the
+      level.<br>
+      <br>
+      (3) You will need to load up that level directly by typing &quot;map
+      &lt;name&gt;&quot; where<span style="mso-spacerun: yes">&nbsp; </span>&lt;name&gt;
+      matches the list below:<o:p>
+      </o:p>
+      </font></span></p>
+      <p style="margin-right:286.2pt;tab-stops:297.0pt"><span style="mso-bidi-font-size: 10.0pt"><font size="2"><span style="mso-spacerun: yes"><font face="Arial">&nbsp;</font></span><font face="Arial">e1m1a
+      - Marsh<span style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span>e1m2a - Sewer System<span style="mso-spacerun: yes"><br>
+      &nbsp;</span>e1m3a - Solitary<span style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span>e1m4a - Crematorium<span style="mso-spacerun: yes"><br>
+      &nbsp;</span>e1m5a - Processing<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span>e1m6a - Icelab<span style="mso-spacerun: yes"><br>
+      &nbsp;</span>e1m7a - The Vault<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span>e2m1a - Lemnos Isle<span style="mso-spacerun: yes"><br>
+      &nbsp;</span>e2m2a - Catacomb<span style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span>e2m3a - Athens<span style="mso-spacerun: yes"><br>
+      &nbsp;</span>e2m4a - Acropolis<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span>e2m5a - Lair of Medusa<span style="mso-spacerun: yes"><br>
+      &nbsp;</span>e3m1a - Plague Village<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span>e3m2a - Passage<span style="mso-spacerun: yes"><br>
+      &nbsp;</span>e3m3a - Dungeon<span style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span>e3m4a - Wyndrax Tower<span style="mso-spacerun: yes"><br>
+      &nbsp;</span>e3m5a - Crypt of Nharre<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span>e3m6a - Gharroth's Throne<span style="mso-spacerun: yes"><br>
+      &nbsp;</span>e4m1a - Alcatraz<span style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span>e4m2a - Beneath the Rock<span style="mso-spacerun: yes"><br>
+      &nbsp;</span>e4m3a - Tower of Crime<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span>e4m4a - Mishima Labs<span style="mso-spacerun: yes"><br>
+      &nbsp;</span>e4m5a - Mishima's Hideout<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;
+      </span>e4m6a - SEAL Training Facility<o:p>
+      </o:p>
+      </font></font></span></p>
+      <p style="margin-right:286.2pt;tab-stops:297.0pt"><span style="mso-bidi-font-size: 10.0pt"><font face="Arial" size="2">You
+      will start with the proper sidekicks in tow and have no inventory (which
+      is normal).<span style="mso-spacerun: yes">&nbsp; </span>The last thing
+      you need to do is give yourself the proper weapons.<span style="mso-spacerun: yes">&nbsp;
+      </span>You must use the cheat &quot;weapon_give_#&quot; where # is the
+      number of the weapon you wish to give yourself (the value is from 1 to 6).<span style="mso-spacerun: yes">&nbsp;
+      </span>This chart will tell you which weapons you need to give yourself
+      based on which map you're cheating to:<o:p>
+      </o:p>
+      </font></span></p>
+      <p style="margin-right:286.2pt;tab-stops:297.0pt"><span style="mso-bidi-font-size: 10.0pt"><font face="Arial" size="2">e1m2,
+      e2m2, e3m2, e4m2: 1-2<br>
+      e1m3, e2m3, e3m3, e4m3: 1-3<br>
+      e1m4, e2m4, e3m4, e4m4: 1-4<br>
+      e1m5, e2m5, e3m5, e4m5: 1-5<br>
+      e1m6, e3m6, e4m6: 1-6<br>
+      e1m7: 1-6<o:p>
+      </o:p>
+      </font></span></p>
+      <p style="margin-right:286.2pt;tab-stops:297.0pt"><span style="mso-bidi-font-size: 10.0pt"><font face="Arial" size="2">For
+      example, if you were resuming play on Wyndrax Tower, you would type (at
+      the console):
+      &quot;weapon_give_1;weapon_give_2;weapon_give_3;weapon_give_4&quot; and
+      press Enter.<span style="mso-spacerun: yes">&nbsp; </span>Then you'll be
+      back as close as possible to where you left off, weapon-wise.<br>
+      <b><font color="#FF0000">&lt;U.S. 1.0 to 1.1 only ends here&gt;</font></b><font color="#00FFFF"><b><br>
+      &lt;All foreign versions 1.0 to 1.2 end here&gt;</b></font></font></span><font face="Arial" size="2"><span style="mso-bidi-font-size: 10.0pt"><b><br>
+      </b></span></font></p>
+      <p><font face="Arial" size="2">So that is about as comprehensive a list as
+      it will come.&nbsp; These are all of the fixes.&nbsp; There are some
+      memory allocation corrections for windows 2000, but all in all the above
+      list is the skinny... the deal... its the jig.&nbsp; If you have questions
+      or problems finding things relating to the patches please feel free to
+      email me.</font></p>
+      <p><font face="Arial" size="2">*boing*</font></p>
+      <p><font size="2" face="Arial">-N03L</font></p>
+      <p>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#6C614F"><font face="Arial" size="2" color="#FFFFFF"><b>September
+      25th&nbsp; 2000</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <p><font face="Arial" size="2">Anyone who has worked on Unreal or done any
+      modifications feel free to write to me and let me know what you have
+      done.&nbsp; I am always up for discussion as to what are better methods to
+      doing something or reading other people's opinions.&nbsp;&nbsp;&nbsp;</font></p>
+      <p><font face="Arial" size="2">Ok, now for my political rants and
+      raves.&nbsp; I thought of an idea that might help us come to a middle
+      grounds with the whole FDA testing process and death row/prisons.&nbsp; Why don't
+      we just turn people who are on death row into cases for the FDA to be
+      able to run tests on new products under question?&nbsp; Along these same
+      lines, we all know the infamous white lab rat-mice who showed signs of
+      cancer when being exposed to saccharin products (i.e Sweet &amp; Low,
+      etc...) , so we come to find out that only the lab rat-mice react to it in the
+      manner that they did and that it does not have the same effects on
+      humans.&nbsp; Why don't we just bypass this whole rat thing and start
+      running tests on food products through the prisons?&nbsp; Not only would
+      food processing companies get a plethora of test cases, but our cost to
+      supplying goods like food, clothing, soaps, etc.. would be cut down.&nbsp;
+      The companies could use this as a tax write off and the prisons could
+      redirect the funds towards helping rehabilitate prisoners.&nbsp; I know
+      this sounds cruel, but then again most people that are in prisons are
+      there because they did something completely wrong and they are paying the
+      price for it...or are they?&nbsp; You see, we pay the taxes thus we pay
+      for them to hang out in prison.&nbsp; If we are paying to have them there
+      then why can't they do something in return as favor towards a society who
+      is paying to keep them alive?&nbsp; If they use themselves as test platforms for new products
+      (etc..) then they can not only make amends for their illegal activities
+      but they could possibly help someone who isn't a thief or a murderer&nbsp;
+      live a longer healthier life.</font></p>
+      <p><font face="Arial" size="2">I don't think this is the ultimate plan,
+      but I do think we need to start looking at other more radical solutions to
+      our current everyday sociological problems.&nbsp; I realize these methods
+      sound radical and almost 'nazi', however there are problems that we are
+      coming to in the near future that I don't think most Americans
+      realize.&nbsp; Most Americans feel that we should try preserving life at
+      whatever cost possible.&nbsp; Even if the one life has taken several lives
+      from its own actions we still find people wanting to preserve that one
+      life.&nbsp; The only 'pro' I can see from this attitude is
+      'pro-murder'.&nbsp; Sure, in effect what we are doing is no better than
+      the person's crime itself if we support death row or even the theory
+      introduced above, but the other way to look at it is all of the lives that
+      will be saved by sacrificing the one.&nbsp;&nbsp;</font></p>
+      <p><font face="Arial" size="2">If anyone has any thoughts on this I am
+      open for discussion (when I have time so if you don't get a reply it
+      probably means I am a little busy).</font></p>
+      <p><font face="Arial" size="2">L8TRZ</font></p>
+      <p><font size="2" face="Arial">-N03L</font></p>
+      <p>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#6C614F"><font face="Arial" size="2" color="#FFFFFF"><b>July
+      25th 2000</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <p><font face="Arial" size="2"><br>
+      I have been working on the foreign version of the patches.&nbsp; We are
+      next to complete on these as they need to be tested and approved.&nbsp;
+      Once this is done they should be posted for download.&nbsp; Along these
+      same lines, the 1.1 English version to the 1.2 English version patch
+      should come out around the same time... perhaps a little earlier due to
+      the fact that the differences between 1.1 to 1.2 are so minor it shouldn't
+      take as long to test.&nbsp;</font></p>
+      <p><font face="Arial" size="2">Now for the dirty stuff!&nbsp; &gt;:)</font></p>
+      <p><font face="Arial" size="2">Ok, ION Austin is a party group.&nbsp; No
+      let me re-state this... ION Austin is a bunch of animals that you can hold
+      a highly intelligent conversation with... uh... that is if you are not too
+      blasted to understand them.&nbsp; Yes, this all can mean one thing: I went
+      to the ION Austin party and was very much impressed.&nbsp; Not only did I
+      get to see Warren sing, but I also got a chance to kick it with Satan's
+      Cheerleaders.&nbsp; Those girlZ are a nasty bunch... and I do mean that in
+      a very good way.&nbsp;&nbsp;</font></p>
+      <p><font face="Arial" size="2">Ok, so I am not going to give away a URL,
+      but I imagine that sooner or later Killcreek is gonna send out the URL to
+      her collection of 'pictures' from the party.&nbsp; I would like to take
+      this time to post a disclaimer about a particular picture of me...&nbsp;</font></p>
+      <p><font face="Arial" size="5">yes it is that big.&nbsp; :P</font></p>
+      <p><font face="Arial" size="2">With all of that said, I would like to
+      thank the Austin team for not only one of the most kick ass games but for
+      one hell of a good time... and I do mean I had a good time!&nbsp; Hey, it
+      isn't every day that you get to Wake board all day, hang out on a house
+      boat, kick it at a bar with Satan's Cheerleaders, and then finally end the
+      evening with a small little party over at Chris Robert's 'little house'...
+      OMG it is HUGE!&nbsp; (if you ever go there watch out for attack trained
+      cats with no tails... MEOW!)</font></p>
+      <p><font face="Arial" size="2">Oh yeah... Russ.. next time you try to jump
+      your boat off of a rock make sure there is WATER on the other side... it
+      helps.&nbsp; :)&nbsp; (Really though... we are all glad you didn't kill
+      yourself... )</font></p>
+      <p><font face="Arial" size="2">GWOG... too bad we didn't get more time to
+      chat but the bar keeps were busy filling me with shots... ;)</font></p>
+      <p><font face="Arial" size="2">BAR KEEP MORE WINE!</font></p>
+      <p><font face="Arial" size="2">L8TRZ</font></p>
+      <p><font size="2" face="Arial">-N03L</font></p>
+      <p>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="100%"></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#6C614F"><font face="Arial" size="2" color="#FFFFFF"><b>June
+      26th 2000</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <font SIZE="2"><font face="Arial">Where should I start?</font>
+      <p align="center"><font face="Arial"><u><b>Things to do with a Mike Wilson
+      when you have him held captive for a can of Spam and a Half Eaten Twinkie:</b></u></font></p>
+      <p></font><font face="Arial">&quot;<font SIZE="2">I'm in dallas, where can
+      I make the drop? One can o' spam and one 1/2 eaten</font> <font SIZE="2">twinkie,
+      that's the deal right?&quot;<br>
+      </font>*<font SIZE="2">rubs hands together and grins*</font></font><font size="2" face="Arial" color="#FF0000"><br>
+      Guess he has some Mike Wilson fetish?</font></p>
+      <p><font face="Arial"><font size="2">&quot;Take away all of his movies of
+      pigs &amp;$@!* guys, freak porn, and strange</font> <font size="2">death
+      photos.&quot;</font></font><font size="2" face="Arial" color="#FF0000"><br>
+      This guy must have known him real well... hmmm.</font></p>
+      <p><font size="2" face="Arial">&quot;Have him publish only sport hunting
+      games.&quot;</font><font size="2" face="Arial" color="#FF0000"><br>
+      Hell...I kind of like taking a gun to Bambi's head.</font></p>
+      <p><font face="Arial">&quot;<font SIZE="2">Put his cage ( I imagine he is
+      in a gimp cage, right? ) in John Romero's office with the old 'John Romero
+      will make you his bitch' add.&nbsp; Have an</font> <font SIZE="2">admission
+      fee to see this.&quot;</font></font><font size="2" face="Arial" color="#FF0000"><br>
+      Hmmm, I see we must like Pulp Fiction?</font></p>
+      <p><font size="2" face="Arial">&quot;Strip him naked and leave him in
+      Greenville. Still in the cage.&quot;</font><font size="2" face="Arial" color="#FF0000"><br>
+      Same person, must have a fetish for cages and guys with long hair?</font></p>
+      <p><font size="2" face="Arial">&quot;Keep him, fund raising is in
+      process...&quot;<br>
+      <font color="#FF0000">Did I mention that Mike and I were gonna split
+      this?&nbsp; &gt;:)</font></font></p>
+      <p>&quot;<font face="Arial" size="2">Chain him to a wall and make Hilda
+      the 230lb nun teach Mike the proper use of the Lord's name.</font>&quot;<br>
+      <font face="Arial" color="#FF0000" size="2">I wasn't to sure what to think
+      about this one... *yikes*</font></p>
+      <p><font face="Arial" size="2">&quot;Let him go man!&nbsp; How else will
+      we have crawfish boils!?&quot;<br>
+      <font color="#FF0000">Good point...</font></font></p>
+      <p><font face="Arial" size="2">So, after much debate, I have decided to
+      let him go... yes it was a tough choice, but I think in the end we all
+      know that it was the best thing to do...besides think of all the free
+      Crawfish I will be getting out of the deal!&nbsp; It beats the hell out of
+      Spam and a half eaten Twinkie!</font></p>
+      <p><font face="Arial" size="2">So anyways on the other side of town...</font></p>
+      <p><font face="Arial" size="2">I got a great chance to wake board this
+      weekend.&nbsp; I might have to add that I had a complete and total
+      blast!&nbsp; Wake boarding is one of those sports that once you start it
+      kind of digs its claws into your spine until you can't stop thinking about
+      it.&nbsp; Anywho, I did much better this last time.&nbsp; Once I can start
+      catching good air I might have some pictures taken and post them up!&nbsp;
+      I should get some of Mark Fletcher so you can see his Silver Surfer style
+      jumping, but I will let him decide if he wants the public to see him... he
+      is kinda shy like that.&nbsp;&nbsp;</font></p>
+      <p><font face="Arial" size="2">Everything else is going great and is right
+      on track.&nbsp; Until next time...&nbsp;</font></p>
+      <p><font size="2" face="Arial">-N03L</font></p>
+      <p>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="100%"></td>
+  </tr>
+</table>
+
+<table border="0" width="640" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%" bgcolor="#6C614F"><font face="Arial" size="2" color="#FFFFFF"><b>June
+      21st 2000</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <font SIZE="2">I'm in dallas, where can I make the drop? One can o' spam
+      and one 1/2 eaten
+      <p>twinkie, that's the deal right?</p>
+      <p>/me rubs hands together and grins</p>
+      </font>
+      <p>&nbsp;</p>
+      <p><font face="Arial" size="2">Okies then,</font></p>
+      <p><font face="Arial" size="2">As most of you know by now, I have
+      kid-napped Mike Wilson.&nbsp; I am currently holding him hostage for a can
+      of Spam and a half eaten Twinkie... hey I would even take money, but that
+      would constitute different terms.&nbsp; We can work this two ways, someone
+      can give me a couple hundred million dollars and I promise not to let him
+      loose onto our community again...or I can get my Spam and my half eaten
+      Twinkie and Mike can go free..&nbsp; Either way, I would be interested to
+      hear from people as to what I should do with him...while he is at my mercy.&nbsp;</font></p>
+      <p><font face="Arial" size="2">Muahahahahahahahahaha!&nbsp; &gt;:)</font></p>
+      <p><font face="Arial" size="2"><br>
+      Until Next time,</font></p>
+      <p><font face="Arial" size="2">-N03L</font></p>
+      <p>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="100%"></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#6C614F"><font face="Arial" size="2" color="#FFFFFF"><b>June
+      19th 2000</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%"><font face="Arial" size="2">First off, I would like to say:
+      &nbsp;<a href="http://jihad.50megs.com/">http://jihad.50megs.com/<br>
+      <br>
+      </a>Enough said...</font>
+      <p><font face="Arial" size="2">As far as this weekend, I would like to
+      thank Adrian C. for his warm open hospitality... we all had a great time
+      and well I haven't gotten out too much lately so I would like to say
+      thanks again:</font></p>
+      <p><font face="Arial" size="7" color="#00FFFF"><b>Thanks! ;)</b></font></p>
+      <p><font face="Arial" size="2">&nbsp;On another note, I am going to start
+      investing in pain killers of one form or another... got up on a wake board
+      this weekend thanks to Mark Fletcher's kick ass boat and both Mark and
+      Bill's good advice.&nbsp; However, I think yesterday and today I have come
+      to realize the actual amount of pressure exerted upon one's arms when
+      being pulled up out of the water... my arms are toasted.&nbsp; It is like
+      a challenge to type and stuff... grrr.&nbsp; Welp, just means I need to
+      work out more...*sigh* but I will tell you what, getting up on a wake
+      board is a pretty kick-ass feeling!</font></p>
+      <p><font face="Arial" size="2">Anyway, 'things' are progressing very well
+      and everything looks right on track.&nbsp;</font></p>
+      <p><font face="Arial" size="2">Until Next time,</font></p>
+      <p><font face="Arial" size="2">-N03L</font></p>
+      <p>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="100%"></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#6C614F"><font face="Arial" size="2" color="#FFFFFF"><b>June
+      2nd 2000 (part II)</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%"><font face="Arial" size="2">Ok ok...&nbsp;<br>
+      &nbsp;&nbsp;&nbsp; Perhaps my little 'blurb' on the Mark Fletcher thing
+      was taken the wrong way.&nbsp; While I know there are TONS of people out
+      there that are extremely great level designers, programmers, and artists
+      which have all helped in creating the Doom2 community, I also know that
+      there is one angle that a lot of people forget when they think of the
+      Doom2 community.&nbsp; This would be the people who played the game to the
+      point of perfection.&nbsp; You know, how Thresh started his virtual
+      athlete career( He would also be a good source to pull from).&nbsp; For
+      those of you who relate Thresh to Quake his real virtual athlete career
+      started with the&nbsp; Deathmatch 95 tournament in Redmond Washington at
+      the Microsoft campus grounds where he beat Merlock.<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; So, my point being that if they want to capture the
+      true Doom feel they should also pull from the very best Doom 'competitors'
+      in the community.&nbsp; The best, just proven at the last Doom Deathmatch
+      contest, is obviously Mark Fletcher, and I would bet that Mark (although I
+      don't speak for him directly) would be more than happy to show any poor
+      sod what playing Doom or Doom2 is all about.&nbsp; He is, by far, the
+      absolute best player in the community and has the best idea of what the
+      next generation Doom should feel and play like from a player's
+      perspective.<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; In any case, there are tons of people who I am sure
+      will all be very willing and ready to help id Software re-capture that
+      something special that Doom contains and still does contain to this very
+      day.&nbsp;&nbsp;</font>
+      <p><font face="Arial" size="2">-N03L</font></p>
+      <p>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="100%"></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#6C614F"><font face="Arial" size="2" color="#FFFFFF"><b>June
+      2nd 2000</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%"><font face="Arial" size="2">Today is a good day...it is
+      Friday...although I am quite sore from my Kung Fu class last night( I
+      would bet that Shawn is feeling the same way).&nbsp;&nbsp; Yes, I am
+      attempting to recover my body muscle tissue after the 7 day a week, 14
+      hour a day, 9 month death schedule.&nbsp; It is amazing what kind of
+      freaked out stances our instructor can get us into.&nbsp; Last night was a
+      transfer from the Arrow stance to the Cat stance.</font>
+      <p><font face="Arial" size="2">As far as the Doom 2000 thing... I sure do
+      hope John C. plans on picking Mark Fletcher's brain COMPLETELY while
+      making the game.&nbsp; Mark is, and I am sure that the community will
+      agree, THE MAN to go to if you want to make the next generation Doom
+      2000.&nbsp; I think the rest of the Doom community will definitely say
+      that while Quake and all of the predecessors are great games, none ever
+      matched the quick 'twitch' play of Doom or Doom2.</font></p>
+      <p><font face="Arial" size="2">On a final note, I would like to send out a
+      major thanks to Bioware for making MDK 2.&nbsp;&nbsp; I just had to say
+      that I have been playing that game on the Dreamcast for almost a month now
+      (perhaps a little longer) and have had a complete blast!&nbsp; You guys
+      did a great job!&nbsp; If you haven't played MDK 2, and you like hard core
+      action, cool puzzles, and whacked out humor... then you are gonna spring
+      w00d with MDK 2.</font></p>
+      <p><font face="Arial" size="2">-N03L</font></p>
+      <p>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="100%"></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#6C614F"><font face="Arial" size="2" color="#FFFFFF"><b>May
+      24th 2000</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%"><font face="Arial" size="2">Well now,</font>
+      <p><font face="Arial" size="2">Daikatana has hit the shelves!&nbsp; Along
+      with this comes the inevitable... the dreaded patch.&nbsp; However, never
+      fear too much regarding this.&nbsp; ChalreZ, Shawn, and of course myself
+      have been working on fixes for things that we have come to discover since
+      the demo release on the code side, and I know the mappers have been adding
+      some fixes and a few extra goodies to make the patch that much more
+      welcome when it is released. </font></p>
+      <p><font face="Arial" size="2">As far as Shawn and Charles are concerned,
+      I know they have both been working in their 'areas' as I have been working
+      on AI, World, and of course Sidekick related issues.&nbsp; Some of the
+      windows 2000 issues that have been solved are relating to level
+      transitions and I know Shawn is working on one particular load game issue
+      under Win2k.&nbsp; So, if you are running 2000 and have had some crashes
+      when transitioning from one level to the next, don't freak too much... the
+      fix is coming soon.</font>&nbsp; <font face="Arial" size="2">As for things
+      relating to the Sidekicks, well one of the additions that I have added is
+      the ability for them to use those nifty health trees, medical kits
+      (episode 4), and of course the various forms of the hosportal (in episode
+      2 it is the fountain of life). </font></p>
+      <p><font face="Arial" size="2">On another note, things have been quite a
+      change in pace and I think everyone is just 'adjusting' back to a normal
+      schedule.&nbsp; It is times like these that make me understand the whole
+      game developer's cycle and why there are times of complete chaos and then
+      there are times of nice peaceful bliss.&nbsp; Either way, it is one
+      fantastic ride.</font></p>
+      <p><font face="Arial" size="2">I am sure there will be a good handful of
+      bugs sent our way once Daikatana gets into full circulation.&nbsp; As for
+      when the patch is going to be released?&nbsp; Can't say... because it is
+      really a matter of how many more bugs pop up between now and the next few
+      weeks.</font></p>
+      <p><font face="Arial" size="2">Also, I would like to send out a special
+      thanks to the entire Daikatana community for being so patient in waiting
+      for Daikatana.&nbsp; I hope that we have made all of your waiting worth
+      while.&nbsp; Enjoy!&nbsp; </font></p>
+      <p><font face="Arial" size="2">-N03L</font></p>
+      <p>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <p align="center"><font color="#FFFFFF" face="Arial" size="1"><b>Disclaimer<br>
+      Everything you Read here is my own opinion and in no way, shape, or form
+      represents the opinion of ION Storm or any other associated entity.</b></font></td>
+  </tr>
+</table>
+
+</body>
+
+</html>
+

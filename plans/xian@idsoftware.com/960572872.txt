@@ -1,0 +1,63 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+<font color="white">
+
+<b><u>Jun.09.2000 @ 12:15pm</u></b>
+
+Ugh. Ok. As Todd and Graeme mentioned in their .plans, we're moving our
+offices starting today, and over the weekend.
+
+Due to circumstances beyond our control, which I don't really want to get into
+at this time, we will more than likely have a serious disruption with our
+network.
+ 
+I am making it my highest priority to get the Quake 3 authentication servers
+transitioned to the new office seemlessly by tommorow evening. I am hoping
+that there will be little to no disruption with the Q3A authentication
+servers.
+
+Our webserver, FTP server, Mail, and more than likely, DNS server will be 
+inactive for an indeterminate amount of time starting at approximately 11am 
+CST on Saturday, June 10th. I'm am going to try to find a solution over the 
+weekend to get mail limping along.
+
+Again, this is a situation beyond our control. Through this experience, I've
+put ISP's and Phone Companies somewhere a few points higher than lawyers on my
+"scum scale rating" (previously, lawyers held a commanding lead on this scale)
+
+I am hoping that our service will resume, in full, by Friday, June 16th. If 
+not, someone at SouthWest Bell, Savvis, and MFS are going to have hell to 
+pay...
+
+Again, I apologize for any disruption that you may experience with connecting
+to Quake III servers over the next few days. This situation is entirely out
+of our hands, and I'm going to try my best to make this as painless as possible
+for you.
+
+ -Xian
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, Y2K bug, mud slides, forest fire, or projectile 
+(which can include, but not be limited to, arrows, bullets, shot, BB's, 
+paintball, shrapnel, lasers, napalm, torpedoes, or emissions of X-rays, Alpha,
+Beta and Gamma rays, knives, stones, etc.). 
+</font>
+---
+</tt>

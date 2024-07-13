@@ -1,0 +1,29 @@
+Login: jimm           			Name: Jim Molinets
+Directory: /usr/users/jimm          	Shell: /usr/local/bin/tcsh
+Last login Wed Oct 14 21:00 (CDT) on ttyp0 from slagathor
+New mail received Thu Oct 22 23:15 1998 (CDT)
+     Unread since Thu Oct 22 19:35 1998 (CDT)
+Mail forwarded to: "|exec /usr/local/bin/procmail"
+Plan:
+Disclaimer:  The opinions expressed here are not the views of Rogue 
+Entertainment Inc, just those of the author.
+
+10-14-98
+
+Work related:
+
+We are getting a lot of support mail concerning missing entities or entities
+that act unusual.  Almost all of these have been caused by a misplaced .dll 
+file in the root of your Quake2 directory.  If you have a gamex86.dll in the 
+root of your Quake2 directory and are having problems with the pack, delete 
+that .dll.  It shouldn't be there and all it is going to do is mess with 
+running either of the packs, or most of the Mods out there.
+
+Non-work related:
+
+THE BLACHAWKS RULE!!!
+
+Yes, they lost to the Stars last night, but one loss does not a Dallas fan 
+make!  They'll be back on January 13th, and I'll be there.  Great fun was had 
+by all and to Don "Enforcer" MacAskill: Probert ROCKS!!!
+

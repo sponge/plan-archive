@@ -1,0 +1,176 @@
+
+*** Ion Storm's Finger Server
+
+User name: pdeupree
+Plan modified: Tue Dec 22 21:05:09 1998
+
+12/22/98
+--------
+
+A few final parting words for this year since the office is shutting down for
+maintenance and this will be my last plan update for 1998.
+
+If you're a Southpark fan, buy the Chef Aid album.  It is hilarious.
+I don't think you'll find a more messed up assortment of artists on one
+album, with music that is actually pretty damn good.  Hell, it's worth it
+just to hear the voice of Eric Cartman singing the Styx song "Come Sail Away".
+Trey Parker must have gargled a jug of saltwater to sooth his throat after
+singing that one.
+
+I hope everyone has a great Christmas and new year.  I wonder how
+many copies of the Prince album with the song "1999" will be selling this
+season.  :)  Heck, I wonder if the Sci-Fi channel or someone will be running
+a Space 1999 marathon.  It's interesting to see how behind the times a lot of
+estimates were for how far along we'd be technologically.  Some how, I don't
+think we'll reach the technology of HAL and the Discovery come 2001.
+
+I'm outta here for the year.
+
+12/11/98
+--------
+
+Here's a freaky little coincidence.  The picture of Freeman that Half-Life
+displays on the screen when you're loading a game looks a LOT like me, with
+the exception of the glasses.  It is very weird seeing that face displayed
+every time I load a game.
+
+I've only been able to dedicate about an hour a night to playing Half-Life,
+but I think I'm about 2/3 through the game.  There was a truly awesome
+scene I went through last night that really shows the way this game puts
+you in an action movie.  I don't want to give it away, but simple as it was,
+this part of the game really impressed me.
+
+My weekends I've been dedicating to Christmas parties and Zelda 64.  I'm
+probably half way through Zelda and it continues to be very cool (and getting
+very hard also).  Again, I don't want to give anything away by saying where
+I'm at, but I am so glad I pre-ordered this game.  I almost didn't because of
+money issues, but was finally beaten into submission by Jake.
+
+Anyhow, I repeat my recommendation of these games.  Half-Life, Zelda 64 and
+Metal Gear Solid are the first games in about a year that have really
+compelled me or are compelling me to play until I'm finished.
+
+12/1/98
+--------
+
+Well, it's been a busy week or two in game playing for me (I took the 5
+business days before Thanksgiving off to get things done around my house).
+It was a pretty wild week here while I was gone.  However, I'm back now
+and everything is going very well here.
+
+In the meantime, while I was gone, I finished off Metal Gear Solid, and
+last night finished playing Grim Fandango (both excellent games).  Now I'm
+working on playing Half-Life and Zelda 64 (got my gold pre-order copy the
+day it hit Toys R' Us).  The way Zelda uses the rumble pack and dynamic
+music are the best I've seen yet for the Nintendo 64.
+
+Regarding the work scene, I've decided to rewrite some code I did before
+for inventory and character data storage and management.  I've got a new
+way of doing this that is VERY dynamic and should make it easy to extend
+the capabilities for possible user mods and for our own use.  It's going
+to be very easy to add new fields of capability to items or characters
+now.
+
+11/3/98
+--------
+
+On the biz side of things, I can now say that I'm adding bugs and garbage
+to my code in Anachronox.  I've got some cool ambient garbage that blows
+around the streets and occasionally gets caught up in swirling eddy's, plus
+a bunch of insects that skitter around the place.  There's also another
+"creature" I've added in that you'll just have to wait to see since I don't
+want to give away the surprise.  :)
+
+With this latest code, and the stuff I put in for ambient movement and action
+definition for the NPC's, the streets of Anachronox should really be coming
+to life soon.  I also added in a bunch of code for the player to interact with
+the environment (run talk animations, open chests, pick stuff up, etc).I can't
+wait to see what the level designers will do with all of this.
+
+On the general game biz front, I picked up Grim Fandango and it's a very cool
+adventure game.  To be honest, I'd been getting somewhat burned out on this
+genre recently, but this game rekindles my faith.  I can't say that there has
+ever been an adventure game Lucas Arts has put out that I didn't like, so they
+are pretty much maintaining a good tradition.
+
+I've also been playing Metal Gear Solid.  Very cool game.  Upon the
+recommendation of others here, I'm also going to pick up Tenchu since I've
+heard that, in ways, its better than Metal Gear Solid so I've got to see
+what it's all about.  It's tough being a game addict.
+
+10/23/98
+--------
+
+I just wanted to say that Klingon Honor Guard is a VERY cool shooter.  I
+don't think I've had as much fun and challenge in a 1st person shooter
+(released or demo) since I played Jedi Knight.  It, unfortunately, has
+inherited some of the early Unreal bugs (they are apparantly working on
+integrating all the Unreal patches into their code base now) so it won't
+work on Cyrix based machines, and has a problem with the SB Live, but
+luckily I have an Intel P400 and havn't installed my SB Live at home yet,
+so it runs great on my system.
+
+I think the thing that impressed me most about the game is the fact that it
+is the first shooter I've ever played that effectively uses close combat
+weapons.  There are places in here where if you try to shoot your way out,
+you will get your ass kicked, but if you break out your trusty Batlif (I
+know I just messed up the spelling for that, but I don't live and breath
+Klingon, so I'm not sure how to spell it) you can kick some serious ass.
+
+So, if you have the horsepower to run it (at the very least I'd say a PII/266
+with a Voodoo2) then I highly recommend this game.
+
+10/12/98
+--------
+
+Here's a buyer beware update that I wanted to post.  This Saturday I bought a
+shrinkwrapped DVD and brought it home.  Upon opening it, I discovered that
+inside was actually a Sound Blaster driver CD with scratches all over it.  I
+went back to the store to return with this fear that they would hassle me,
+since how would they know I didn't make the switch.  It turns out that this
+is becoming more common.  Some idiots out there will actually buy DVD's,
+switch the disk with something less useful, and go to a shrink wrap outfit
+to seal it back up again.  So, the moral of this story is that I will open
+DVD's before I leave the store (after I purchase them of course), so that
+I can ensure I havn't been burned by one of these cretins.  It's idiots like
+these that continue to make it harder and harder for consumers to return
+merchandise to stores.
+
+In the meantime, work progresses on Anachronox.  I'm getting into some really
+cool stuff right now with client animation of models and it has made battle
+mode a LOT easier to manage.  I've got in a bunch of different animations for
+status effects, and for different types of attack and with the exception of
+one little glitch (that appears to be fairly deep in the engine), it all looks
+great.
+
+09/23/98
+--------
+
+On a slightly non-game related subject (though I found out about this thing on
+Gamespot originally), there's a new lego product line out called Mindstorms.
+Basically, for any of you folks out there that, like me, were totally
+fascinated by robotics as a kid, this is almost a dream come true.  It's
+basically the Lego Technics line (gears, axles, differentials, etc) combined
+with a control unit with 3 inputs and 3 outputs that you can program via your
+computer to trigger output based on input and such.  The one thing I'll warn
+is that the "development environment" that comes with the kit is targeted so
+that 12 year old kids can use it, so it's not a "language", but more of a drag
+and drop stack of commands.
+
+However, as with all good inventions, there are folks out there that have been
+good enough to disassemble these units and figure out exactly what the unit is
+expecting.  In addition, the programming tool that comes with the kit seems to
+center around a Windows OCX, so it should be possible for any programmer to write
+their own interface (or language) to communicate with this thing (and there are
+those out there that have already done so).
+
+Check out the following 2 pages if it's of any interest:
+http://www.legomindstorms.com
+http://www.crynwr.com/lego-robotics/
+
+I got the last unit at the Toys R Us by where I live, and the guy that helped
+me out told me that some robotics club in town has been running around buying up
+all the units they could find.  I didn't get any batteries for the thing, so I
+havn't actually been able to use it myself yet, but once I get those batteries
+tonight I have a feeling I won't be getting much sleep.  :)
+

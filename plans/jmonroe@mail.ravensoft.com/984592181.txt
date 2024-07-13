@@ -1,0 +1,10 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Star Trek
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+Holomatch server outage today.
+I am finally moving the Master Server into my office today.  I expect it to be down for 10 to 20 minutes tonight, around 6:00pm CST.

@@ -1,0 +1,74 @@
+
+Name: Josh Weier
+Email: jweier@mail.ravensoft.com
+Description: Programmer
+Project: Project 3
+-------------------------------------------------------------------------------
+[PANTHER XL UPDATE]
+
+Panther XL users rejoice!  John Scott was kind enough to take a look at the problems you were experiencing with the
+joysticks (namely, the inability to look up and down with the track ball) and has fixed them for Heretic 2.  
+I believe they are now supported in full!  
+
+Check out http://www.fpgaming.com/a3d/games/heretic2.htm for some configs and info about this joystick.
+
+Song of the Day: "Crush", Dave Matthews Band (Before These Crowded Streets)
+And: "IZ-US", Aphex Twin (Come to Daddy)
+
+I swear it's been these two CD's for days now...
+
+[PANTHER XL USERS]
+
+I finally got the Panther XL up and running now (it was having trouble with certain sound cards apparently) 
+and I'm going to start looking into the problems people have been having with the track ball directions.  I'll
+also work out a basic configuration for the game to include on the menu to save you time (like the game pads).
+So many buttons!  If you had any other comments or concerns with this joystick and Heretic 2, let me know.
+
+
+[DOUBLE-JUMPS AND DOUBLE-TAPS]
+
+Some people have commented that the side flips seem visually off.  Here's why:
+
+I implemented a sort of double jump system for the player.  The flips are cool, but
+functionality-wise, flipping through the air doesn't really lend itself for firing or 
+trying to grab a ledge.  To fix this, I broke up the jumps into two steps.  When you
+first jump, you're in a normal jump.  You can fire, grab, or do anything you want with your
+upper torso.  If you do not fire or hold down action and are still holding the jump 
+key a few moments after the initial jump, you will preform a flip in the direction of your
+jump.  This serves to give you a slight boost in distance, but not too much.  The animations
+will be tweaked fully for the final game of course, so you won't notice this visually.  So if
+you want to jump and shoot, just hold down your fire button!
+
+Also, now that the demo is out, I should remind everyone once more about the double tapping
+and command shifting abilities.
+
+To bind an action to a double-tap, do this:
+
+bind_double [key] [action]
+
+So if you wanted to bind defensive spells to a double tapped mouse key, it would look like this:
+
+bind_double mouse1 +defend
+
+That's it.  Works just like a normal bind.  There is also command shifting.  Think of this as a shift key 
+for your bound keys.  While holding the command shift key (which you must assign, be patient) all 
+keys can serve as different actions off a single tap.  Here's the setup:
+
+bind [key] +command
+bind_command [key] [action]
+
+So if you wanted SHIFT to be your command key, and a command shifted 'W' to jump:
+
+bind SHIFT +command
+bind_command w +moveup
+
+When you hold down SHIFT and W, you'll jump.
+
+Follow that?  If not <jweier@mail.ravensoft.com> or I'm sure a friendly fan page would be happy to help.
+
+Enjoy!
+
+=-
+
+As always, check out my site at http://www2.ravensoft.com/users/jweier for my latest 
+music and ramblings.  

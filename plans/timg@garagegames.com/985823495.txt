@@ -1,0 +1,17 @@
+GarageGames plan resource for Tim Gift
+Posted Wednesday March 28, 2001 at 23:41 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=727
+
+A little GDC recap, let see... drove down with Rick and Jeff Wednesday, and then back on Saturday afternoon.  A lot of driving, but well worth it. Since we were booked with meetings pretty much the whole time, we only got floor passes which worked out fine. (I did buy a copy of the proceedings, which I always get more out of than the sessions anyway.)
+
+Met with a number of independent developers interested in the v12.  These all went very well, there seems to be quite a bit of excitement about the whole thing.  We even got stopped just walking around the floor as developers recognized the GG logo on our sporty shirts :)  Did a few interviews, and spent quite a bit of time talking with our hardware and vender contacts.
+
+Met with Microsoft DirectX guys to talk a little about DX9.  Talked to AMD about new hardware, including the new x86-64 technology.  Met with ATI, we didn't get a chance to go over their new accelerator, but they're going to make a trip down to Eugene later to discuss it. Should be interesting :) Met with NVidia to talk about the GForce 3 and see some of the demos.  Missed Matrox at the show, but I just exchanged email with our contact there and he's faxing over a new NDA so we can see what they're up too.  Talked to Creative about new sound technology and OpenAL, we'll be getting that back up and running with the V12. Looks like there is lots of interesting stuff on the horizon :)
+
+Also met with Discreet about making the GMax available for the V12, but that doesn't look very promising.  Their license is product based and quite expensive.  They seem vaguely interested in the idea of GG licensing GMax for all V12 developers, but it was pretty clear that this wasn't going to happen anytime soon.
+
+We had a number of other meetings with developers such as NaN, WildTangent and GameSpy. Most of these we're just to get an idea of what other people are up too and exploring options.
+
+So far this week I've been catching up on emails, following up on GDC meetings, etc.  Started working again on the V12 as well, but I'll only get a few days work in on it.  Rick Overman is getting married this weekend in SF and I'm driving back down there.  I'll be leaving Friday and back on Tuesday.  After that it should be the V12 release or bust!
+

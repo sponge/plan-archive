@@ -1,0 +1,81 @@
+
+*** Ion Storm's Finger Server
+
+User name: cbruce
+Plan modified: Mon Feb 26 16:40:42 2001
+
+Christopher L. Bruce - Lead Animator
+Ion Storm - cbruce@ionstorm.com
+Project: Game X
+-------------------------------------
+ANYTHING EXPRESSED IN THIS FILE DOES NOT NECASSARILY REPRESENT THE VIEWS OF ION STORM OR ANY OF IT'S OTHER EMPLOYEES
+-------------------------------------
+
+Feb 26, 2001
+-------------------------------------
+Had to trim a few things from my plan as they were inappropriate...goes along with my need for the "Plan files for Dummies" book's Chapter 2, "What NOT to put in your plan"
+
+Well, I now have a plan file viewable from the web; joy, rapture.
+
+A big thanks to Richard Smith and Adam Coyne for adding it to the finger searches at webdog.org and planetquake.
+
+Anachronox continues to progress at it's staggering pace, and the team is VERY close to being able to fully play through the game.  The content has been there for a while, it's just being all stitched together.  I'm looking forward to being able to play through it myself, I've always been a big fan of the Square RPGs and Anachronox seems to have a very similar flair to it, but with a very Western attitude.
+
+I continue to explore the wonderful world of patch modeling in 3DS Max, I'm really going to push for full patch model support for GameX, as I think it's the absolute ideal solution for game geometry.
+
+Feb 25, 2001
+-------------------------------------
+Makin' a plan file's not as easy as I first thought it might be.  Sure, this typing stuff up part's a snap.  It's just a text file in a folder on one of our network machines...but after that, there seems to be some mysterious process involved in letting people on the web know it's there for them to read through.  And where the hell are the ".plan Files for Dummies" books?
+
+I've been playing around with patch modeling in Max, and I must say it is exactly how I envision the ideal modeling solution for game art, especially using splines and the surface modifier.  Many years ago when I was first hearing about NURBS, I hoped they would work like spline modeling does now.  Unfortunately, they don't quite work that way.
+
+My only complaint about the surface modifier is its inability to generate a patch surface using any number of points instead of needing to make a 3 or 4 sided patch.  I understand why it needs to, but still something that I would really like to see happen someday.  That and some better bezier manipulation tools for 3D spline shapes (which aren't terribly bad now, just a bit confusing at times) would make for an incredibly nice way of making models.  I highly recommend 3D artists take a look at patch models.
+
+On a side note, the mysterious "Max crashes when loading some scenes" mystery has been solved.  It seems some strange option had gotten turned on in the preferences of the OpenGL display driver that the Matrox card did not like at all.  Whenever it would try to display a texture in a viewport, Max would crash to the desktop...so loading a scene that had a texture set to visible in viewports would naturally crash Max.  I turned of the silly thing and it works all fine and dandy now.
+
+
+Feb 22, 2001
+-------------------------------------
+I'm sure a lot of people have seen the GForce 3 video, demonstrating its power at work on the Doom3 code.  I've seen some of the more basic stuff before, when I was down for my interview here at Ion.  They've taken it even further since I saw it a mere 2 or 3 weeks ago.  I really believe that this type of graphic engine for games is going to revolutionize the way that developers approach creating them.  We're going to need people who have experience doing movies, set designers, lighting designers...outside of the level designer we have now.  It will be an interesting thing to see the game industry make that bridge between a game and a movie, since it will now be possible to create a visual experience that is for all practical purposes, cinematic work.  I've seen this sort of revolution coming to the industry for a while, but to be honest, it's happening much sooner than I once thought.  The game industry will very soon be going head to head against the Hollywood motion picture, and I honestly believe that we can take them.  We're capable of giving the audience a much more impressive experience, that's already a given...what's been keeping us from really hitting with the mainstream is the visual quality of that experience.  This new tech shows that graphic limitations will soon be a thing of the past.  And once this hurdle is overcome, we'll be able to go far beyond the scope of any movie...we can do things in the computer that are impossible to create in reality.
+
+Very, very exciting stuff!
+
+I'd like to give my congratulations to the most talented group of people in the industry over at id Software.  You guys are an inspiration to us all.  Only one question remains...
+
+Where can I pre-order Doom3?
+
+
+Feb 12, 2001
+-------------------------------------
+First off, Happy B-Day to Ryan Butts (MrRogers) over at Sunstorm Interactive.  Mr. Butts turns a health 22 today I believe.
+
+Mrs. Wrath and myself saw "Hannibal" this weekend, and I believe we are deeply entrenched in the "hated it" group of people.  The movie was extremely disappointing, I'm sorry to say.
+
+
+Feb 5, 2001
+-------------------------------------
+Moved in to the new pad this morning...Mrs. Wrath and myself realized that 99% of our furniture is cheap crap and we're now looking to replace all of it with lovely new furniture that wasn't bought from a store with the word "mart" in it's name.
+
+Max 4 has some very nice new features.  The most obvious, to me anyway, is the complete overhaul of the IK system.  Being a character studio fanatic, I have never used Max bones before and very rarely did I make my own IK skeleton using some boxes, heirchal linking, and a lot of fiddling about with Max's former IK.  From the very brief look at the new system, it seems much nicer.  The skin modifier has a very nice morph angle deformer that allows you set morph targets for parts of a mesh based on bone angles.  That gives you ultimate control of the shape of geometry, which is extremely cool.  That deformer on top of you standard bulge angle deformer and joint angle deformer makes for some very powerful and still very simple deformation setup.  Ton of other additions and changes to the package...for more info visit http://www2.discreet.com/products/d_products.html?prod=3dsmax
+
+A big congrats to Alphawolf over at Ritual, some of his Q3 models are included in the Discreet demo stuff on the Max 4 CDs.  Though for some odd reason, the scene with Shek causes Max to crash to desktop whenever I try to open it.
+
+Character Studio has gotten a few nice things, namely the selectable IK pivots for the feet and hands.  It makes freeform animations with IK blends for the feet much more flexible as well as allowing animating quadrupeds using a biped extremely easy and precise.  Haven't looked to much at the crowd feature, as I'll probably never use it, but it's closely tied to the new motion flow, which is still not done the way I'd like to see it done, but that's also something I very rarely use.
+
+Character Studio has gotten a few nice things, namely the selectable IK pivots for the feet and hands.  It makes animating quadrupeds using a biped extremely easy.  Haven't looked too much at the crowd feature, as I'll probably never use it.  Motion flow is still not done the way I'd like to see it done, but that's also something I very rarely use.
+
+And finally, they were apparently filming something downstairs.  I was informed that Elizabeth Hurley and Matthew Perry were outside the chase towers earlier this afternoon.  I had to have walked right past them coming in, I was so busy gawking at all the cables and equipment everyone trying to figure out what was going on that I didn't even see them.
+
+
+Feb 2, 2001
+-------------------------------------
+Finally getting settled in here at Ion, arrived in the very large city of Dallas, Texas last Friday with Mrs. Wrath
+
+Very sad to leave Sunstorm, a lot of very talented folks hiding out there and I hope one day they'll get the chance to really shine.  I am extremely excited to be working at Ion, I think the companies poised to move out of it's somewhat dark history and really take center stage in the industry...something that you can see from Dues Ex and will soon see from Anachronox, which are both very fine games.
+
+Congrats to id Software on their 10 year anniversary.  I too, of course, was a big fan of all the id titles way back to Castle Woflenstein 3D all the way through Q3: Team Arena...played them all, loved them all.  I got a peek at some of the new tech that sick, sick bastard John Carmack is working on for Doom3 and it is going to be simply INCREDIBLE.  Couple that tech with the amazing pool of talent they have in their art department and there is absolutely no way they can lose.
+
+I am officially assuming the title of "3DS Max Guru" for Ion Storm, just got my copy of Max4 installed and am currently running through some of the new tutorials and such to find out what's really new, and what they just re-named and moved to a different menu.  One big thing I've noticed is that when importing older versions of CS files, the physique data is all fuxored, forcing you to re-initialize.  Hopefully there will be a workaround that little quirk I hope.
+
+And finally, a quick shout out to my peeps.  Meester John Sheffield, formerly of Ion now working with Legend for passing my goodies along to the appropriate people here.  Thanks again.  R13 and the rest of the Polycount gang for being such a cool group of people, professional and not-yet-pros.  Ryan Butts (MrRogers), Jeramy Cooke (Agent/ook), Jason Smith (Frosty), Dave Manuel, Darren, Matt G, Ed/Dan, Kenneth, Pepper, Dustin (Monkeygod), Dave E (NPherno), and all the other chaps at Sunstorm.  And finally, my most perfect wife, Jessica...who is currently in the process of trying to become a serving wench for Medieval Times.  She left the University of Indianapolis and a whole gaggle of friends to come down here with me, and I love her dearly for being her.
+

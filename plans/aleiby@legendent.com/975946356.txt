@@ -1,0 +1,128 @@
+aleiby@legendent.com
+http://www.cs.rit.edu/~arl8258
+
+Current Project: Unreal 2
+
+
+// 2000.12.04 : 09:16
+
+Without fail, whenever I step foot inside a Barnes and Noble I leave $50 to $60 poorer.  
+
+I started reading The Mists of Avalon (again).  Del Rey just released a new beautifully bound hardcover copy, and I couldn't resist.  The first time I read it, I had borrowed a copy from a friend, so I never had a copy of my own to collect dust on my bookshelves.  And for some strange reason, I felt a strong desire to read it again.  I almost never re-read books.  I generally remember it all too well to get any enjoyment out of it the second time through.  Besides, there's so many other books out there that I haven't read, why waste my time re-reading the same material?  But it's been six years since I first read it, so I thought I'd give it another round.
+
+So far, I've not been disappointed.  This book really moved me the first time I read it - I wanted to cry when it was all over, not because it was a sad ending, but simply because it moved me so.  No other book has had that profound an impact on me.  It was as though a spell had been cast over me, and I didn't want it to end.  But alas, all good things must come to a close.  And now it's starting anew, and this time I'm picking up on many of the details I had missed (or at least forgotten) the first time.
+
+I'd recommend everyone read it, but I imagine the majority wouldn't get nearly as much out of it as I have.  Don't take me wrong - I don't mean that as a bad thing - I've just been living on the assumption that my tastes are quite different from most, and have come to accept that as truth.  I just don't want anyone coming back and telling me it sucks, because in your eyes it very well may.
+
+Note of trivia: This is the source of my online handle 'Taliesin', which I've been using ever since.
+
+Also among my purchases was a copy of Ilse Witch - Terry Brook's latest (and first) installation of his new Voyage of Jerle Shannara series.  The cover alone was worth the purchase, but I've always had a sweet spot in my heart for the world of Shannara.  Hardcover once again.  I've come to only buy hardcover it available.  Maybe I'm spoiled, but I find it much easier and enjoyable to read from a nicely bound book, than to struggle with a softcover.  
+
+In other news, I'm still trundling along through Final Fantasy IX.  It's a great game - the most fun I've had in a console RPG to date.  Square has really out done themselves this time.  I've been taking my time.  I'm 40 hours in, and most of my characters are nearing level 40, but I'm still only just a little ways into disc 3.  I vowed to finish FF9 before starting The Mists of Avalon, but I'm already 50 or so pages in. 
+
+I just ordered a FF9 art book through eBay, and it should be arriving in a couple days - it has to come from Hong Kong.  You've got to love eBay - it'll be the death of us all.  Scott just got something really cool through it, but I won't steal his fanfare.  And with that, I'd better get back to work.
+
+
+// 2000.09.15 : 04:12
+
+One of our developers sent out an email after having finished <a href=http://www.amazon.com/exec/obidos/ASIN/0735605971/o/qid=969004296/sr=8-1/ref=aps_sr_b_1_3/103-7826219-9606239>Debugging the Development Process</a> (which if you're a programmer and haven't this read yet, shame on you).  
+Being the nice guy and all that I am, I thought I'd share my response with the rest of the class here.
+Enjoy... or not.  Master your own destiny.
+
+> p. 26-27 If you want to stay in control of your project, one of your concrete
+> goals must be to never have any outstanding bugs. ... the worst problem [leaving
+> bugs until the end of the project causes] is making it impossible to predict
+> when the product will be ready.  It's too hard to estimate the time it will take
+> to fix bugs that remain at the end of the project, to say nothing of the new
+> bugs programmers will introduce as they fix old ones.  And of course fixing one
+> bug inevitably exposes latent bugs because the first bug obscures them.
+>
+
+The majority of // Fix ARL statements I leave in my code is stuff that in a perfect world should be fixed, but are usually things I never really intend to fix - unless I find I've run out of things to do (which has never ever happened... not once).
+
+There have been cases where I've tracked down a bug and have found a Fix ARL statement next to it, but that only happens maybe 3 times a year.  And it's actually kind of cool because it means I've already thought of a possible solution.  Having fixed it in the first place instead of waiting till it became a visible problem probably would have saved me a little bit of time, but I would end up spending much more time fixing all the Fix ARL cases than I would just fixing the ones that become real problems.
+
+> p. 51 Don't waste time working on the wrong problem.  Always determine what the
+> real problem is before you try to make a fix.
+>
+
+Amen brother.  See above.
+
+> - Size
+> - Speed
+> - Maintainability
+> - Robustness
+> - Simplicity
+> - Safety
+> - Testability
+> - Reusability
+> - Portability
+> [I pushed Maintainability above Robustness, because I would rather have code
+> that is easy to read, than have a "robust architecture" that is impossible to
+> decipher.  And, I pushed Simplicity above Safety and Testability because I think
+> Simplicity is a key step to making code safe and testable.  How would you change
+> the ordering, and why?]
+>
+
+I try to put Performance first.  I guess that includes both Size and Speed, but I usually favor Speed over Size (except in the cases where Size drives Speed - which happens often).  But I'm constantly balancing this against readability and such.
+
+I'd like to put Usability next (even though it's not on the list).  If I make something and it never gets used because it's simply too difficult for anyone but me to know how to use it, then what's the point?
+
+I think Simplicity comes next.  Simple code tends to be faster, smaller, easier to understand (and thus more maintainable).  By focusing on simplicity, it means I can spend less effort focusing on these other issues since they sort of fall out of it automatically.  Also, I find I have a simple mind.  I don't like having to keep track of billions of assumptions and side-effects.  I like to hide details in a simple, well defined interface, and forget about the under-the-hood guts of the thing.  A function should do what it says it does, do it well, and nothing more.  I find that's the only way to build complex systems -- one layer at a time.  Do it well, forget about it, then move on to the next layer.
+
+The rest I actually rarely even think about.  I'm not even sure what exactly is meant here by Robustness.  Does that mean how easy it is to add something new to your architecture?  I usually try to think way down the road to all the possible things I might want to do within a specific architecture - because I know that adding something new that the architecture doesn't support usually takes a lot of effort and introduces a ton of new bugs to fold into the design - and it usually ends up getting labeled as a hack.  The biggest key to robustness that I find is to simply model your components as closely to what they resemble in the real-world as possible - that's what OOP is all about.  When I do that, everything else usually falls into place, and later down the road I find things that I had never even thought about are supported by the design simply by nature because things are modeled as they would be in real-life.
+
+Testability - I would love for every line of code I write to be provably testable, but for a lot of the stuff I've been doing lately, that's not always possible.  I generally put asserts in anywhere I have to make assumptions, but I often find myself removing these because they cause more of a productivity hindrance to the LDs (like if it results in crashing the editor) than it's worth proving that something is wrong.  In such cases, I find myself making "safe code", rather than "provably correct or provably wrong code".  As a simple example, if I have a function that expect the texture to be set (non-NULL), instead of failing if it's not set, I'll just make it silently return.
+
+Looking from a different perspective however, my code is littered with little testing procedures that I'll use while developing the code - like I have a routine that prints out all the particle settings immediately after they're all linked up for specific effect.  This was invaluable when I first wrote the code to quickly validate its correctness, but I doubt I'll ever need it again.  What I've been doing in such cases is to include these types of things in a NOTE macro.  By default anything in a NOTE block will get removed at compile time.  You can easily change it to NOTE1 to enable specific debug blocks as needed.  I've found this very helpful when I get some really wacky bug where I have no clue what's going on.  I'll enable all the NOTE debug code, run a test level, and spew out a 90MB log file to sift through.  So far, this has done me well.
+
+Reusability - I used to be real big on this, but I think my position on this subject has matured quite a bit over the past two years.  Writing reusable code does NOT come free.  It always takes longer to write something that can be reused (correctly) and it often results in slower code (although the resultant code usually ends up being "cleaner").  If you set your architecture up correctly, though, you'll end up reusing code automatically by way of inheritance.
+
+I find there are basically two types of reusability.  Component reusability - like a DebugManager or a LineManager that's good at doing a single thing a bunch of different ways and stuff like that, and then there's the anti-cut-and-paste type reusability - where you write a function (or group of functions) that is/are structured so you don't need to be cutting-and-pasting like crazed art teacher [armed with scissors and a plastic jar of that white stuff].  // Fix ARL: Remove stoopid joke.
+
+The first is nice and all, but often your beautiful component never gets used simply because there's no demand for it - and often in our industry it's simply not practical (at least for stuff shared across products - people want something new, not a rehashed version of last year's hit title).  
+
+The second I find is a must.  I very, very, very, VERY rarely try to solve a problem by cut, paste, modify.  This *always* leads to less maintainable code.
+
+Usually if I write something that's a good candidate for generalization, but would be too much work to do - especially if it never got reused - I'll flag it with a comment, and then go on my merry way.  Later, if I find I need to reuse it for something else, I'll then spend the time to generalize it.  But if it's going to take any significant time to generalize it in the first place, I usually like to wait until I have 2 or more concrete use cases for it before spending the time that might otherwise end up wasted.
+
+Portability - Since I don't even know how to write portable C++ I'm not in much of a position to write it.  (I know it's possible, but I don't know which keywords, etc. are taboo on other systems.)  Besides, we're not in the business of porting games, so it's not really been an issue.  I know there are other types of portability besides simply moving from platform to platform, but since I can't think of any off the top of my head, that probably means I don't give them too much thought on a day to day basis as I program.  Maybe I do, but I just don't associate the word "portability" with it.
+
+> p. 154 I'd toss out the existing task-list-driven schedule.  [I agree with Steve
+> to the extent that he's referring to task lists being used to set deadlines.
+> The purpose of a task list should be 1) to clearly define detailed goals, 2)
+> define the relative priority of those goals, 3) provide a "best guess" estimate
+> of the time required.  As soon as the estimates, milestones, relative
+> performance become the focus of the task list, there's a problem brewing. The
+> sort that Steve says he would "toss out."]
+>
+
+I try not to simply pull up my tasklist and say, "Ok, what's next on the list to tackle?"  Instead, I've been setting game oriented goals - like, "We need to make xxx cooler." and then derive a list of tasks that will get me to that goal.  I've found the key is to always keep focus on the goal.  If you realize later that task #29 isn't really going to meet the goal as you intended, then chuck it and replace it with a task that will, or don't replace it at all if it's not needed.
+
+I guess it's just common sense.  Tasks-lists in and of themselves may be evil, but they're a necessary means to an ends.  As long as they are used as a tool to meet your goals they're priceless, but as soon as they become your driving force, something's wrong - you need to step back and put your priorities back in order.  I really agree with him that you need project oriented goals to drive your day to day work.  And task-lists are the tools that allow us to break those goal into achievable chunks.  But using task-lists for the sake of tasks-lists is wrong.
+
+----
+
+If you got this far, you deserve a cookie.  I've reserved one for you at your local 7-11 - go pick it up now.  Don't forget to grab some milk while you're there.
+
+
+On a completely unrelated note, Edward Scissorhands recently came out on DVD, so I picked up a copy and watched it last night.  All I got to say is Tim Burton is da man.  So is Danny Elfman.
+
+
+And on a final note, Grant recently introduced me to Neon Genesis Evangelion.  I'm hooked.  In fact I even tried to get some vanity plates with Eva-00 on them - unfortunately someone beat me to it.  We've been watching it all in Japanese with English subtitles.  [rant] There's nothing worse than a bad dub job.  I'd much rather listen to the original voice acting and read subtitles than be tortured by the voices of second rate actors.[/rant]  
+
+We've been watching a lot of anime lately (in Japanese with English subtitles of course) and as a result I'm really starting to recognize the language.  I don't expect to learn how to speak Japanese though watching anime, but it's cool that it no longer just sounds like a bunch of gibberish and nonsensical sounds.
+
+Which reminds me of the discussion we started earlier this evening.  Something I've often wondered is how much language affects how we think.  How much of Japanese culture is from their language?  Or conversely, how much of their culture is in the language?  Does it make them better at certain things because they are better equipped to express it in their language.  This obviously goes for any language, not just Japanese or English.  
+
+I really wish my parents had the faculty to teach me several different languages when I was little.  I learned Spanish in high-school, but I was never immersed in the language, so I never became fluent in it.  I can remember times back in high-school when I'd be out mowing the lawn and suddenly I'd realize I was talking to myself (thinking in my head) entirely in Spanish.  If I had 13 different languages with which to express my thoughts, how would that affect my ability to reason and act?  I know in Greek there's three or four completely different words for love - each with there own specific meaning.  In English we're forced to use "Love" for all of them.  How does that warp our perception?  
+
+With today's insane rate of technology, we're reusing words left and right to describe every new thing that gets developed.  What is that doing to our language?  
+
+And then I consider other non-spoken languages.  How does math fit into the whole scheme of things?  You can think in it, you're doing that every time you balance your checkbook or figure the tip at a restaurant.  You can even communicate - quite effectively - in mathematical terms.  Mathematics may be one of the greater influences on how people perceive their world.  What about C++ and other programming languages?  How does proficiency (or lack thereof) in these languages change our outlook?  It's pretty sick when you start thinking of a relationship with a friend in terms of programming patterns - or is it?  I solve these types of problems day in and day out - in software form.  I can only see being able to associate other problems with ones you're familiar with solving as a marked advantage.
+
+Feel free to drop me an email with your thoughts on this.  (I usually don't solicit email, but I like philosophical discussions like this - God only knows I wade through enough email a day as it is.)
+
+Oh, and check out <a href=http://www.guardimpact.com>www.guardimpact.com</a>.  It's a great (fairly new I think) site devoted to all things Soul Calibur.  It's really amazing how few good Soul Calibur sites there are out there.  I still love it after having played it for hours and hours on end - now over a year.  I've gotten my money's worth back a thousand times over - ok, maybe just 50 times over (I did have to buy a dreamcast just to play it).
+
+

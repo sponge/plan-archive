@@ -1,0 +1,164 @@
+
+Name: Paul Jaquays
+Email: paulj@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+Skill Portfolio/Background:  See bio on id web page for details
+
+Current projects:   DOOM
+                    
+
+**********************************************************************
+DISCLAIMER:  THE FOLLOWING IS THE PERSONAL OPINION OF THE AUTHOR AND DOES
+NOT REPRESENT THE OFFICAL POSITION OF ID SOFTWARE, ITS OWNERS, EMPLOYEES,
+DISTRIBUTORS, OR LICENSEES, (OR ANYONE ELSE FOR THAT MATTER).
+**********************************************************************
+
+**********************************************************************
+November 12, 2001
+**********************************************************************
+<b>THE FORUMS AT MAPCENTER ARE BACK UP AND RUNNING</b>
+<a href="http://mapcenter.digitalarenas.com/">http://mapcenter.digitalarenas.com/</a>
+
+If you were participating in the MapCenter Texture Challenge #1, the new deadline is Thursday, Nov. 15 for final submission. If you had already submitted entries and would like some more time to work or rework them, feel free to resubmit.
+
+The contents of the original forum's challenge thread are gone, so you may want to repost image links for critique.
+
+
+**********************************************************************
+November 8, 2001
+**********************************************************************
+MAPCENTER HAS MOVED
+If you are are regular visitor to MapCenter, AstroCreep's Level Editing site, take note that it has moved. You can now find the main site page at <a href="http://mapcenter.digitalarenas.com/">http://mapcenter.digitalarenas.com/</a>. You won't find the old site or the accompanying forums on Telefragged any more, as the whole MapCenter site has been evicted and deleted.
+
+If you were participating in the MapCenter Texture Challenge #1, stay the course and complete them. Depending on how long it takes for the forums to get up and going again, I may extend the deadline a bit.
+
+
+**********************************************************************
+October 12, 2001
+**********************************************************************
+THREEWAVE CTF MOD
+If you like Capture the Flag style team play action ... if you ever thought that the Classic Threewave version of CTF was the end-all and be-all of CTF gaming and all else merely imitators ... or if you just want a boatload of polished maps for Q3A AND Q3:TA Get the <a href="http://www.threewave.com">Threewave mod</a> for Quake III Arena AND Quake III: Team Arena NOW. Mirrored Sites are standing by, waiting for your call. Have some bandwidth ready.
+
+A CLASS-ACT MAP MODEL DOWNLOAD SITE 
+Bill Brooks, one of the regulars on the Quake3World and MapCenter forums has set up what is hands down the best site in the world for downloading map models for Q3A map making. He has most all the models from the first two QuakeCon model contests AND ... to the best of anyone's knowledge ... every map model that has been released for general public use by the Q3A map making community. And if that's not enough, Bill has been putting up models just about as fast as they are released. Models aren't reviewed and there are minimal descriptions, but that's hardly a downside. The accompanying picture shows most of what you need to know. If you're a mapper looking for models, or a modeler looking for a place to get your new Q3A map model out to the world, I can't think of a better place to go than the <a href="http://fps.brainerd.net/">F.P.S.</a> model links pages. Thanks Bill!
+
+MAPCENTER LIVES!
+Speaking of Class Acts, AstroCreep has given his Q3A mapping page <a href="http://mapcenter.digitalarenas.com/">MapCenter@qeradiant</a> and the <href="http://mapcenter.digitalarenas.com/">accompanying forums</a> a major facelift. MapCenter focuses on Q3A and Q3:TA map content creation. Anyone familiar with the Quake3World level editing and modeling forums will find a few familiar names here among the moderators and the forum regulars. The content focuses on Quake III Arena right now, but expect to see some Return to Castle Wolfenstein support in the future as development tools become available for the game.
+
+GTKRadiant v1.1.1
+Ttimo and his volunteer crew of talented toolmakers have updated the Quake 3 ARena editing tool, GTKRadiant to a full release version. This tool is slowly becoming THE tool to use for Q3A map making, as it can easily switch between vanilla Q3A, Q3:TA AND mods for editing. Get the latest version <href="http://www.3ddownloads.com/index.php3?directory=/qeradiant/GtkRadiant">here</a>. Comes in WinX version only right now. Linux flavor <href="http://www.3ddownloads.com/index.php3?directory=/qeradiant/GtkRadiant">here also</a>.
+
+
+**********************************************************************
+August 15, 2001
+**********************************************************************
+QUAKECON 2001 MAP OBJECT MODEL WINNERS ANNOUNCED
+
+The final results from the QuakeCon 2001 Model Contest were announced Sunday, August 12th at QuakeCon 2001. The contest, sponsored by Discreet, NVidia, Linksys, id Software, and Polycount challenged model makers around the world to produce models which could be used as the centerpieces of maps; models which would demand that maps be built to house them; models which would literally knock the contest judges’ socks off.
+
+The contest was announced first on the www.polycount.com website and the models will be displayed and made available for download there. Discreet, NVidia and Linksys provided a generous selection of their products as prizes.
+
+The 18 model makers, who entered submitted 22 separate models or suites of models, comprised of over 50 individual model components. “The contestants really outdid themselves this year. The talent they exhibited was overwhelming,” said contest coordinator Paul Jaquays of id Software. “I can’t wait to see these models start appearing in game maps.”
+
+Prizes
+First Place: 
+From Discreet: the 3D Studio Max suite (3DS Max r4, Character Studio, Reactor)
+From NVidia: GeForce 3 graphics accelerator card in distinctive metal case
+From Linksys: prize to be announced later
+
+Second Place:
+From Discreet: 3D Studio Max r4
+From NVidia: GeForce 3 graphics accelerator card in distinctive metal case
+From Linksys: prize to be announced later
+
+Third Place:
+From Discreet: Lightscape
+From NVidia: GeForce 3 graphics accelerator card in distinctive metal case
+From Linksys: prize to be announced later
+
+Judges’ Choice Awards: 
+From id Software: Signed copy of  Team Arena
+
+----------------
+
+Model contest winners
+First Place: The Engine by Boris “Karloff” Munser
+
+Second Place: Odium by Bill and Mike “The Brothers Grimm” Jukes and Jason “Dark Horizon” Sallenbach
+
+Third Place: Punishment by  Daniel “smeg” Vogt
+
+Judges’ Choice Awards
+Most Utilitarian:	Model most likely to appear in many maps	
+Oak-Tree	by Krischan "GrimReaper" Makowka
+
+Best Overall Skin:     Model that made the best combined use of art and shaders
+The Engine  	by  Boris “Karloff” Munser
+
+Best Mesh:     Model who design stands apart, even without the skin.
+Hand		Tim “tpe” Evison
+
+Best Skin:  Model with the best example of skin painting.
+Odium 	by Odium by Bill and Mike Jukes “The Brothers 
+                        Grimm” and Jason “Dark Horizon” Sallenbach
+
+Best SFX: Model whose use of shader-based special effects sets it apart
+The Engine	By Boris “Karloff” Munser
+
+Most Unexpected Choice of Subject Matter:  
+Televised by Martin “Naz” Staubli and Richard “Fluffy_gimp” Jolly
+
+
+----------------
+The map containing the contest entries can be downloaded from:
+<a href="ftp://ftp.idsoftware.com/idstuff/teamarena/misc/map_gallery2_qc2k1.zip">QuakeCon 2001 Model Contest Gallery Map</a>
+
+NOTE: This version of the map is for display only. It does NOT contain the .md3 files necessary to use the models. They will be released separately.
+
+
+
+**********************************************************************
+TA Team Creation Document
+**********************************************************************
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/misc/html_q3ta_teams.zip">HTML Format version of Team Arena Team Creation Document</a>
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/misc/rtf_q3ta_teams.zip">RTF Format version of Team Arena Team Creation Document</a>
+
+**********************************************************************
+TA Map Packs
+**********************************************************************
+Mirrors for Team Arena Map Pack 2
+<a href="http://www.fileplanet.com/index.asp?file=60226">File Planet Mirror</a>
+<a href="http://www.bluesnews.com/files/idstuff/teamarena/map_paks/ta_mappak2.shtml">Blues news Mirror</a>
+<a href="http://www.3dgamers.com/dl/games/quake3arena/Missions/ta_mappak2.zip.html">3DGamers.com Mirror</a>
+<a href="ftp://ftp.cdrom.com/pub/idgames/idstuff/teamarena/map_paks/TA_mappak2.zip">CDROM.com Mirror</a>
+<a href="http://www.3ddownloads.com/?file_id=146845">3D Downloads Mirror</a>
+
+Mirors for Team Arena Map Pack 1 updates
+
+<a href="http://www.q3arena.net">Q3arena.net </a> Mirrors
+<a href="http://www.q3arena.net/files/?id=1509&download=1">hal9000_b_ta</a>
+<a href="http://www.q3arena.net/files/?id=1510&download=1">TA_mappak1b</a>
+
+<a href="http://www.xgr.com">X-Treme Gaming Radio</a> Mirror
+<a href="http://www.xgr.com/downloads/hal9000_b_ta.zip">hal9000_b_ta</a>
+
+<a href="http://www.bluesnews.com">Blue's News </a> Mirrors
+<a href="http://www.bluesnews.com/files/idstuff/teamarena/map_paks/hal9000_b_ta.shtml">hal9000_b_ta</a>
+
+<a href="http://www.bluesnews.com/files/idstuff/teamarena/map_paks/ta_mappak1b.shtml">TA_mappak1b</a>
+
+<a href="http://www.planetquake.com/lvl/">lvlworld.com (..::Lvl)</a> Mirror
+<a href="http://dl.fileplanet.com/dl/dl.asp?lvl/g-l/hal9000_b_ta.zip">hal9000_b_ta</a>
+
+
+**********************************************************************
+Team Arena Model Mesh Art
+**********************************************************************
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/tools/Q3Tools_EditorSupport.exe">Team Arena Skin Meshes</a>
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+If it's not here, it's vapor.  Check out somebody's archives if you want to read my previous bits of wisdom and flame.

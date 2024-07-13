@@ -1,0 +1,70 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+<font color="white">
+
+<b><u>Nov.15.1999 @ 9:28pm</u></b>
+
+ Fixed.
+
+<b><u>Nov.15.1999 @ 9:18pm</u></b>
+
+ Yes. We know there are problems with the Q3Demo authorization and 
+masters servers at the moment. We're working on the issues and should
+hopefully have things resolved later this evening.
+
+ Please do not send further e-mails on the matter. We are well aware of
+the problems.
+
+<b><u>Nov.15.1999 @ 12:05am</u></b>
+
+ Got about 50 e-mails over night with various insights into possible DNS
+resolution issues with authorize.quake3arena.com. I just made a few changes
+to the DNS records, Tim restarted the nameserver, and lets see if this 
+doesn't get better in the next 24 hours or so.
+
+
+<b><u>Nov.15.1999 @ 3:25am</u></b>
+
+ Ok, known issues so far;
+
+<ul>
+<li>Server browser is fux0red. Will look into that tommorow</li>
+<li>Problems binding and using the mousewheel</li>
+<li>Can't resolve authorize.quake3arena.com. God only knows why. I've been losing my mind 
+over this. Some people can resolve it fine, others can't. If someone can e-mail me with a 
+definitive reason why this isn't resolving for some people, I'll be ever so greatfull. I've done 
+digs off of various nameservers and most can resolve this just fine. *sigh*</li>
+</ul>
+
+ Zzzz.....
+
+
+
+<b><u>Nov.15.1999 @ 1:56am</u></b>
+
+<a href="http://www.quake3arena.com">www.quake3arena.com</a>. Enjoy =)
+
+<tt>
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, mud slides, forest fire, or projectile (which can 
+include, but not be limited to, arrows, bullets, shot, BB's, paintball, shrapnel,
+lasers, napalm, torpedoes, or emissions of X-rays, Alpha, Beta and Gamma rays,
+knives, stones, etc.). 
+</font>
+---
+</tt>

@@ -1,0 +1,110 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Lead Programmer
+Project: ?
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+Ahh, the age of the autoresponder.
+
+I've been being bombarded with email from Netflix over the past several weeks, with subjects like "UNDELIVERED (was Incoming message)", "UNDELIVERED (was Re: Incoming Fax)", and "UNDELIVERED (was I'm a sad girl...)", etc.
+(I am not currently a member of Netflix, so i do not have an account there.)  The emails appear to be coming from an autoresponder catch-all for bad addresses at Netflix.
+I'm guessing that some spammer (or virus) is sending out mail to Netflix faking my address, so when they get it, they bounce back a "helpful" auto-response to me with links for more info on my account or Customer Service.
+
+It doesn't seem to be stopping, so i sent an email to customer service explaining this theory, and included samples of the spam i've been getting from them.  
+I suggested that they might check for faked mx or check incoming messages for known spam or viruii, or at least look into all the mail they're sending me!
+here is the reply:
+
+Hello,
+
+Thanks for your message. I was unable to find a Netflix account 
+associated with your email address. In order to best assist you, I will 
+need more information regarding this issue. Please reply with the email 
+address you use to Log In at Netflix as well as your full name and 
+shipping address. 
+
+Please do not hesitate to contact us if you have any further questions 
+or concerns.
+
+Thanks,
+Lisa
+Netflix Customer Service
+
+To view the terms of your Unlimited Rental Service Subscription please 
+click on the following link; http://www.netflix.com/Terms
+
+
+
+Original Message Excluded: 
+--------------------------
+
+
+
+okay,... now i'm thinking they're using an auto responder for customer service and didn't actually read my complaint.
+
+frustraed, i reply:
+i don't have an account.  that is the point.  if you re-read the original email i sent, you will see that i was not referring to an account issue but a system failure on your part.
+
+Netflix's reply:
+
+Greetings, 
+
+Thank you for contacting Netflix.com Customer Service.  We will 
+personally reply to your message as quickly as possible.  Please do not 
+reply to this email unless pertinent information was missing from your 
+original message.  Duplicate correspondence may delay our ability to 
+respond to your inquiry. 
+
+Did you know that you can check your order status and history directly 
+through the Your Account link located at the top of each page?  
+http://www.netflix.com/ShippingStatus
+
+Also, if you have other customer service questions, please check our new
+Customer Service Center at http://www.netflix.com/CustomerService
+
+We greatly appreciate any feedback or comments you may have regarding 
+your experience with Netflix.com
+
+Again, thank you for contacting Netflix.com Customer Service.
+
+Sincerely,
+
+The Netflix.com Team
+
+
+
+and then 2 minutes later, this one:
+
+Hello,
+
+Thanks for your message. 
+
+To receive all mailings in a specific format, or to be removed our 
+mailing lists, you can easily edit your preferences on our site. To do 
+so, follow the link below:
+
+http://www.netflix.com/EmailSubscription
+
+1) Login using the email address and password used to sign up.
+
+2) Select the option you would like, and click the "update 
+subscriptions" bar.  
+
+Please do not hesitate to contact us if you have any further questions 
+or concerns.
+
+Thanks,
+
+Netflix Customer Service
+
+To view the terms of your Unlimited Rental Service Subscription please 
+click on the following link; http://www.netflix.com/Terms
+
+
+
+Original Message Excluded: 
+--------------------------
+
+
+okay, the "personally reply" sounds encouraging.  i'll just wait patiently in the meantime.

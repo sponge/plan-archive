@@ -1,0 +1,45 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+<font color="white">
+
+<b><u>Jul.09.1999 @ 7:10pm</u></b>
+
+ <i>Programming stuff...</i>
+
+ Under Windows NT Server, there is a utility called Server Manager, which 
+brings up a list of all files currently open on the server, and it allows
+you to close those files/resources.
+
+ We're looking to do this ourselves for an in house app, so if anyone can
+point me in the direction of what API calls to use to get that list, how to
+close those open files/resources, or any sample code to accomplish this, I'd
+greatly appreciate it.
+
+ Thanks,
+
+ -Xian
+
+<tt>
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, mud slides, forest fire, or projectile (which can 
+include, but not be limited to, arrows, bullets, shot, BB's, paintball, shrapnel,
+lasers, napalm, torpedoes, or emissions of X-rays, Alpha, Beta and Gamma rays,
+knives, stones, etc.). 
+</font>
+---
+</tt>

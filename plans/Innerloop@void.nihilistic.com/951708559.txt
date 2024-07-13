@@ -1,0 +1,95 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+
+2/27/2000
+
+I noticed some other web page posted a list of GDC conference sessions they
+were looking forward to or recommending to people, and that seemed like a 
+pretty cool idea.  The hardest part of the conf. each year is picking the
+right session to go to at a given time, it always seems like after a session
+you talk to people and they saw something awesome that you just missed.  So
+I figured I'd take a shot at what I want to try to check out this year.  I'm
+personally mostly into Programming and Design, so that's what I'm going to
+cover..
+
+Programming:
+
+First off, this year I'm giving my talk about the NOD engine's modeling system
+in the much-sought-after (ahem) 9am slot on the first day.  But despite that,
+I'd definitely recommend Ming Lin's talk "Fast Proximity Queries for Large 
+Game Environments".  It says intermediate but it sounds rather advanced, and
+collision detection of complex and curved objects is a big big issue going
+forward, and something a lot of games could do better.  
+
+Real-Time Cloth by Dean Marci sounds cool.. I really want to learn more about
+physical modeling of stuff like cloth for games.  I don't know the speaker,
+but he's with Intel Architecture labs which has a good track record for well-
+organized topics and speakers, so I'm hoping for a thorough discussion of a 
+cool topic for both PC and nextgen console games.
+
+Interaction with Groups of Autonomous Characters by Craig Reynolds should be
+cool, his talk last year was great and on a similar topic.  Craig is one of 
+the top "mad scientists" over at Sony's graphics R&D lab, and he has a good
+track record of speaking at Siggraph as well as GDC.  Hell, he even won an
+Academy Award for his graphics research work.  I only know one other guy in
+the game industry who can say that.
+
+"Fast Code, Game Programming, and Other Thoughts From 20 (Minus 2) Years in 
+the Trenches" by Michael Abrash.  Ok, your guess is as good as mine as to what
+this will ACTUALLY be about, but hey, its Michael Abrash, one of the most
+consistently interesting and entertaining speakers at the show.  
+
+The Tribes Engine Network Architecture by Mark Frohnmayer and Tim Gift should
+be interesting.. Anyone who's played Tribes knows that its got great network
+code that really hides lag well and scales well to many clients, so I'm
+interested to find out a trick or two from these guys.  
+
+The Benefits of a Microprogramable Graphics Architecture by Dominic Malinson.
+Ok, disguised by this fairly dry title is a pretty important talk, the 
+architecture in question here is the PSX2 and the speaker is the head of
+Sony's American graphics R&D.  
+
+Tricks of the Programming Trade by Jon Bentley.  I've never met this guy or 
+heard him speak, but I've got a good feeling about this.  This guy's books are
+some of the best, and its one of the few sessions that just focuses on good
+old fashioned programming.  No specific technique or algorithm, but just the
+core 'art' of programming itself.  
+
+New Pioneers at the Graphics Frontier by Kurt Akeley.  Ok, so I'll admit I'm
+judging more by the speaker than the topic here, since the topic is typical
+keynote-type fare, probably not a lot of hard-core usable code will be pre-
+sented, but hey, this guy is the CTO and co-founder of SGI.  His resume is
+longer than Nihilistic's Coke bill, including co-designing OpenGL and 11 patents.
+
+Design:
+
+Character Case Studies   
+
+Tim Schaffer is giving a talk entitled, "Character Case Studies" which doesn't
+tell you a while lot, but if you know Tim, you know its a safe bet.  Tim is the
+designer from Grim Fandango, Full Throttle, and Day of the Tentacle, and Tim
+also happens to be a hilarious guy.  
+
+Everquest Post Mortem by apparently the entire EQ team :)  Love it or hate it
+(and I tend to switch off between those two extremes) Everquest is a great 
+example of the right design at the right time, and I love hearing these sort
+of case-studies presented at the conference. 
+
+Metagames by Richard Garfield.  Again, gotta go with the speaker here, Richard
+designed Magic the Gathering, the non-computer version of Crack cocaine (EQ
+being the computer version, naturally).
+
+Using the Evolution of Black & White As an Example of Next Generation Develop-
+ment Ethos by Peter Molyneux.  Peter is right up there with Tim and Sid in my
+person game design pantheon, and Black & White looks groundbreaking, so what
+else do you need?
+
+The Role of Reality in Epic Game Creation by Yu Suzuki.  Its always cool to 
+get an idea of how the Japanese design their games.  Its such a different 
+process and aesthetic, we can all learn a lot from these guys.  
+
+

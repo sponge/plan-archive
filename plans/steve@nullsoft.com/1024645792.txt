@@ -1,0 +1,32 @@
+Login: steve          			Name: Steve Gedikian
+"|IFS=' ' && exec /usr/local/bin/procmail -f- || exit 75 #user"
+Project:
+Do things that people tell me I can't do.
+
+<a href="http://genghis.winamp.com/~steve/plan/">Read my archived journals.</a>
+Plan:
+June 21, 2002 - 12:17AM
+
+Okay, so I hate LA. Really really bad. I'm here again. 
+We laid my grandma to rest yesterday afternoon and I'm
+gonna be here till Monday morning dealing with family 
+shit. I really don't wanna be here anymore. First off,
+it's incredibly boring. There's absolutely nothing to
+fucking do here.
+
+I'm gonna try to head down to San Diego over the 
+weekend to see Justin's house. I've been meaning to 
+head down there but I never seem to have any time when
+I'm in LA to do anything unless it's at night. I think
+I might have to just take a special trip straight to
+SD to make something like that happen if I can't pull 
+it off during this trip.
+
+I miss Sharon. So much. You know, it's nice waking up
+next to a warm body every morning. I'll be back soon
+enough.
+
+-s
+
+Login: swoods         			Name: Steve Woods
+No Plan.

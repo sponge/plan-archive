@@ -1,0 +1,35 @@
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+8/21/00
+
+Well. Since Keith Fuller has revealed his shocking news that he actually mowed his lawn for the first time this weekend, I guess
+it's ok that I reveal the exclusive news here that I put up some shelves this weekend. Not only that, I mowed my lawn too! Only not
+for the first time, so it's probably not so shocking as Keiths news.
+Now, I expect this to headline at Blues News, Evil Avatar, Stomped, ShugaShack and VoodooExtreme to name just a few news sites. Most
+of my recent .plan updates have failed to make all the news sites, and I'm starting to doubt my newsworthyness here. Either I'm not
+putting the right information in my .plans, or I'm just as boring as soft smelly brown stuff. You make the call:)
+And no emails on that thank you;)
+
+On more work related stuff, Voyager is in the final round of bug crashing. Everyone is eagerly anticipating the large booze up that
+will inevitably accompany the cries of "it's Gold, It's Gold! Thank god. Now I can sleep".
+
+SOF gold is tracking down a couple of leagacy crash bugs, to do with A3D. It's become apparent that there are a couple of MSDEV
+optimization tricks that we weren't completely cognisant of, which resulted in the aforementioned crash.
+
+Design is going well for project Y (not be confused with project X, which is what I'm doing"). Keith Fuller touched upon some of this
+in his latest SOF center Designer Diary.
+Project X - well, there's not much I can say about this. Or rather there is lots I could say, but then I'd have to kill you. Best I
+don't say anything really isn't it? John Mullins has enough to do without me giving him more work:)
+
+I'd like to say thank you to everyone that sent me usbmouse.irx, which I was looking to get my hands on elsewhere. I have it now, so
+thanks.
+
+Here's a question for all you potential PSX2 buyers out there. If USB keyboard and mouse support were available in a given product,
+would that prompt you to go and buy them? I'm looking for answers from primarily console players rather than PC players that are
+going to give the PSX2 a shot.
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/users/jakeworld">JAKEWORLD!</a>

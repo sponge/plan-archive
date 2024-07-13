@@ -1,0 +1,12 @@
+
+*** MumboJumbo's Finger Server
+
+User name: andrew
+Plan modified: Fri Sep 14 18:36:50 2001
+
+
+Walking into the office today I passed an Eddie Bauer Limited Edition Ford Explorer with huge Limp Bizkit sticker on the rear window and a license plate holder that read, "Bad Girl". Irvine, California is a very strange place.
+
+The game is coming together really, really well. It hasn't seemed like progress has been that dramatic because we're mostly just joining together all the parts we've made over the last 10 months and then polishing the seams, but today I had occasion to grab a build from two weeks ago to try to track down when a certain bug was introduced. Looking at it beside today's build I was absolutely astounded at the cumulative difference in style and playability all our minor changes have made in such a short time.
+
+

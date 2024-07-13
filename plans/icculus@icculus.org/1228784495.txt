@@ -1,0 +1,77 @@
+Any of a hundred styles.
+
+
+Prey:
+
+ Full retail version, and updated demo installer, good to go!
+   http://icculus.org/news/news.php?id=4487
+
+ I'm gathering some notes here, for everyone's benefit:
+
+ STEAM UPDATE: apparently preykey doesn't store the last two characters of the
+  key...I'm looking into this still. Buying a physical disc is safer for now
+  while I sort this out. Also, my understanding is that you can put your
+  physical CD key into Steam later and it adds it as a "purchase" to your
+  game list, letting you have both for the price of one; this was a leftover
+  from Triton's collapse. Can anyone confirm this still works?
+
+ Those installing from a Steam download: your CD key is in a text file
+  installed with the game. Look at:
+
+   C:Program FilesSteamsteamappscommonpreyasepreykey
+
+ The game will prompt you for a CD key when you first start it. Use that one.
+ Also, if you're on Win64, "Program Files" will be "Program Files (x86)".
+
+ Also, if the game crashes on startup, and had written this to the terminal...
+
+    GL_VENDOR: NVIDIA Corporation
+    GL_VERSION: 1.4 (2.1.2 NVIDIA 177.82)
+
+ ...then your drivers are misinstalled. The red flag there is the "1.4" string.
+ The current nvidia drivers should look like this...
+
+    GL_VENDOR: NVIDIA Corporation
+    GL_VERSION: 2.1.2 NVIDIA 177.82
+
+ ...almost universally, the problem is multiple OpenGL libraries residing on
+ the system, and usually it's because you installed the closed-source Nvidia
+ drivers from a distro-provided package. My current guess is that the X server
+ package is installing a generic, Mesa-based GL, and the Nvidia package 
+ installs another.
+
+ In all cases, it appears that installing the drivers from nvidia.com--using
+ their installer--fixes it, probably because part of the installation process
+ is cleaning out old and incorrect libGL.so's that might be laying around your
+ filesystem. The downside is that your distro will no longer be able to
+ automatically maintain the package for you...but you're still using the same
+ binary-only driver at the end of the day, either way.
+
+ Some people have mentioned that the problem went away when updating the
+ distro-provided package, for various distros. I haven't done much research
+ into the specific causes and solutions; this is all anecdotal guesswork.
+
+ As for Intel GPU users, it looks like the video drivers are just wanged for
+ your hardware at the moment. Sorry, the game just isn't working at all from
+ what I've heard. I'm not certain this game is going to be playable on GMA*
+ chipsets anyhow, but you should probably talk to the x.org developers about 
+ it if you want to dig deeper.
+
+
+Crysis Wars:
+
+ Linux dedicated server: http://icculus.org/news/news.php?id=4475
+
+
+Offload servers:
+
+ I need them. http://icculus.org/news/news.php?id=4465
+
+--ryan.
+
+--------------------------------------------------------------------
+When this .plan was written: 2008-12-08 20:02:00
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.21 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

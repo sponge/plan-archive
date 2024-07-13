@@ -1,0 +1,25 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Lead Programmer
+Project: Jedi Academy
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+We are in the process of switching DNS entries for the JK2 Master Server.  You may experience a
+Disruption for a few days until the DNS changes propagate.
+
+We have already issued the request for the DNS change.  The master server at raven will still be running as will the new one at our co-lo.  As the DNS propegates some people will be talking to one master server and some to the other.  This means that you may not be seeing the whole list of servers for a bit while they propegate to the new DNS.  However, you should still be able to connect to any of the servers on your favorites list.
+
+DNS usually takes 24-48 hours to propegate but can take up to a week sometimes for some providers.  We ask for everyones patience during this move.
+
+If you run a server, you will most likely need to restart the server for it to recognize the dns change.
+
+thanks,
+
+
+p.s.
+if you ping masterjk2.ravensoft.com and see this:
+Pinging masterjk2.ravensoft.com [63.146.124.53]
+
+your DNS is updated.

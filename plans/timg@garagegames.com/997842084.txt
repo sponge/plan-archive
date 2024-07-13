@@ -1,0 +1,11 @@
+GarageGames plan resource for Tim Gift
+Posted Wednesday August 15, 2001 at 1:37 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=1291
+
+Well, the V12 engine has been released, and so far things seem to be going very well. Developers seem pretty excited about it, and we've already got a few mods going :)  It's been a long haul though, over 2 years since we started the ball rolling, and over a year since Rick and I left Dynamix.  Jeff left about a year and half ago, and Mark Frohnmayer... about 3 months :)  It's been a lot of work.  Not much of it has really been on the engine itself though, we've spent most of time on the site, e-commerce, servers, etc.  Been interesting :)
+
+Our current plan now is to support the growing V12 community. This includes documentation, examples scripts, objects, etc.  This is going to keep us busy for a while, but will be critical in getting some momentum going.  Once the ball is seriously rolling on development we'll start concentrating on the player site. There are still a number of issue to resolve there.
+
+Overall I'd say I'm pretty happy with the way things turned out.  There is certainly a fair amount of code in the engine that I'm not happy with, but when I jump into a multi-player session with a couple other guys... it's just fun :) There's a lot of stuff there... and it won't take much to turn it into any number of games. Certainly way easier than starting over, or writing my own...
+

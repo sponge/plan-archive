@@ -1,0 +1,132 @@
+
+Name: John Carmack
+Email: johnc@idsoftware.com
+Description: Programmer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+12/29/99
+--------
+
+I have been playing a lot of Q3 on a 28.8 modem for the last several days.
+
+I finally found a case of the stuck-at-awaiting-gamestate problem that
+turned out to be a continuous case of a fragment of the gamestate getting
+dropped.  I have changed the net code to space out the sending of the
+fragments based on rate.
+
+Note that there have been a few different things that result in stuck
+at gamestate or stuck at snapshot problems.  We have fixed a few of them,
+but there may well still be other things that we haven't found yet.
+
+You can still have a fun game on a 28.8 modem.  It is a significant
+disadvantage, no question about it, but you can still have a good game if
+you play smart.  If there is someone that knows what they are doing on a
+server with a ping in the low 100s, there won't usually be much you can
+do, but a skilled modem player can still beat up on unskilled T1 players...
+
+Make sure your modem rate is set correctly.  If you have it set too high,
+large amounts of data can get buffered up and you can wind up with multiple
+seconds of screwed up delays.
+
+Only play on servers with good pings.  My connection gives me a couple dozen
+servers with mid 200 pings.  56k modems often see servers with sub 200 pings.
+If you ignore the ping and just look for your favorite map, you will probably
+have a crappy game.
+
+If you have a good basic connection to the server, the thing that will mess
+up your game is too much visible activity.  This is a characteristic of the
+number of players, the openness of the level, and the weapons in use.
+
+Don't play on madhouse levels with tons of players.  None of the normal Q3
+maps were really designed for more than eight players, and many were only
+designed for four.
+
+Don't play in the wide open maps unless there are only a couple other
+players.  Four very active players in a wide open area are enough to bog
+down a modem connection.
+
+I just implemented "sv_minPing" / "sv_maxPing" options so servers can restrict
+themselves to only low ping or high ping players.  This is done based on the
+ping of the challenge response packet, rather than any in-game pings.  There
+are a few issues with that -- a LPB may occasionally get into a HPB server
+if they happen to get a network hiccup at just the right time, and the number
+used as a gate will be closer to the number shown in the server list, rather
+than the number seen in gameplay.  I would reccomend "sv_minPing 200" as a
+reasonable breakpoint.
+
+
+
+12/25/99
+--------
+
+There are a number of people upset about the Quake 1 source
+code release, because it is allowing cheating in existing games.
+
+There will be a sorting out period as people figure out what directions
+the Quake1 world is going to go in with the new capabilities, but it
+will still be possible to have cheat free games after a few things get
+worked out.
+
+Here's what needs to be done:
+
+You have to assume the server is trusted.  Because of the wau quake
+mods work, It has always been possible to have server side cheats
+along the lines of "if name == mine, scale damage by 75%".  You have
+to trust the server operator.
+
+So, the problem then becomes a matter of making sure the clients are
+all playing with an acceptable version before allowing them to connect
+to the server.  You obviously can't just ask the client, because if it
+is hacked it can just tell you what you want to hear.  Because of the
+nature of the GPL, you can't just have a hidden part of the code to do
+verification.
+
+What needs to be done is to create two closed source programs that act
+as executable loaders / verifiers and communication proxies for the
+client and server.  These would need to be produced for each platform
+the game runs on.  Some modifications will need to be done to the
+open source code to allow it to (optionally) communicate with these
+proxies.
+
+These programs would perform a robust binary digest of the programs they
+are loading and communicate with their peer in a complex encrypted
+protocol before allowing the game connection to start.  It may be
+possible to bypass the proxy for normal packets to avoid adding any
+scheduling or latency issues, but it will need to be involved to some
+degree to prevent a cheater from hijacking the connection once it is
+created.
+
+The server operator would determine which versions of the game are to
+be allowed to connect to their server if they wish to enforce proxy
+protection.  The part of the community that wants to be competetive
+will have to agree to some reasonable schedule of adoption of new
+versions.
+
+Nothing in online games is cheat-proof (there is allways the device
+driver level of things to hack on), but that would actually be more
+secure than the game as it originally shipped, because hex edited patches
+wouldn't work any more.  Someone could still in theory hack the closed
+source programs, but that is the same situation everyone was in with
+the original game.
+
+People can start working on this immediately.  There is some prior art
+in various unix games that would probably be helpfull.  It would also
+be a good idea to find some crypto hackers to review proposed proxy
+communication strategies.
+
+
+12/21/99
+--------
+
+The Q3 game source code is getting pushed back a bit because we had to do
+some rearranging in the current codebase to facilitate the release, and
+we don't want to release in-progress code before the official binary point
+release.
+
+We still have a Christmas present for the coders, though:
+
+http://www.idsoftware.com/q1source/
+
+Happy holidays!
+
+

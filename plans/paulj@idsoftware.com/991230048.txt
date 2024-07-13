@@ -1,0 +1,135 @@
+
+Name: Paul Jaquays
+Email: paulj@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+Skill Portfolio/Background:  See bio on id web page for details
+
+Current projects:   DOOM
+                    
+
+**********************************************************************
+DISCLAIMER:  THE FOLLOWING IS THE PERSONAL OPINION OF THE AUTHOR AND DOES
+NOT REPRESENT THE OFFICAL POSITION OF ID SOFTWARE, ITS OWNERS, EMPLOYEES,
+DISTRIBUTORS, OR LICENSEES, (OR ANYONE ELSE FOR THAT MATTER).
+
+**********************************************************************
+May 30, 2001
+**********************************************************************
+
+Every so often, I bump into something that reminds me of the degree of influence that a book, a movie, or even a game can have on people. Today is one of those days. If you've got the time, check out the gallery of wallpaper art at <a href="http://members.es.tripod.de/ssaammwweell/index.htm">Spain Quake3Arena</a>
+
+The collection of Quake 3 Arena inspired art in this on-line gallery simply amazes me. It's not often that something on the web gives me such a feeling of awe and wonder, and yet at the same time humbles me, reminding me that we have some of the greatest (and most talented) fans in the world.
+
+
+To the artists, just ... wow. I'm impressed by your devotion and talent.
+
+To Blue, thanks for mentioning this page in your news.
+
+To the guys at Spain Quake 3 Arena, Muchos Gracias. That's quite a collection. Thanks for taking the effort to put those pages where we all can see and enjoy them.
+
+-Paul
+
+
+**********************************************************************
+May 14, 2001
+**********************************************************************
+Three months to the day after releasing Team Arena Map Pack 1, we're proud to announce the release of a second map pack for the Quake III Arena game expansion, Quake III: Team Arena. As before, this id-approved map pack contains the work of four mappers from the on-line gaming community. This time, three are conversions of previously released Quake III Arena Capture the Flag maps (Dynatron by Ned Man, Courtyard Conundrum by Casey of Threewave, and Smear Campaign by riscchip). The fourth map (PYRmageddon)is an original map, created for Quake III: Team Arena. These maps have be modified and updated to work with the four Team Arena game types: Capture the Flag, One Flag CTF, Overload, and Harvester.
+
+These maps are an exciting addition to the growing number of maps available for Quake III: Team Arena and will make a great addition to the map rotation on any server.
+
+You can download the TA_mappak2 at id's ftp site. 
+
+<a href="ftp://ftp.idsoftware.com/idstuff/teamarena/map_paks/TA_mappak2.zip">Team Arena Map Pak 2</a>
+
+File size is 17.35 mg. Other download mirrors will be announced here as they become available.
+
+Paul Jaquays
+
+Mirrors for Team Arena Map Pack 2
+<a href="http://www.fileplanet.com/index.asp?file=60226">File Planet Mirror</a>
+<a href="http://www.bluesnews.com/files/idstuff/teamarena/map_paks/ta_mappak2.shtml">Blues news Mirror</a>
+<a href="http://www.3dgamers.com/dl/games/quake3arena/Missions/ta_mappak2.zip.html">3DGamers.com Mirror</a>
+<a href="ftp://ftp.cdrom.com/pub/idgames/idstuff/teamarena/map_paks/TA_mappak2.zip">CDROM.com Mirror</a>
+<a href="http://www.3ddownloads.com/?file_id=146845">3D Downloads Mirror</a>
+
+
+**********************************************************************
+May 7, 2001
+**********************************************************************
+If you're into making game mods (and not just for id games), then you ought to be aware of a the buzzwords "Intellecutal Property" also known as IP and how they may affect you. Ever since Fox forced a Quake mod based on the Aliens movies to shut down (hence the term "foxxing" for shutting down a mod), mod makers have become a bit more aware that the owners of popular culture copyrights and trademarks may not be amused by game conversions of their properties. Instead of saying "Thanks for the support" to these devoted fans of their game, cartoon character, or movie, they move to shut down the mod and demand it no longer be worked upon or distributed. Not a fun thing if you love the subject of the mod and have put countless hours into creating it.
+
+If you are making mods, or are planning to make a mod based on something out of popular culture (a game, a movie, anime, cartoon characters, etc.), you owe it to yourself to read Caryn "Hellchick" Law's essay on the topic over at 3dActionplanet.
+
+<a href="http://www.3dactionplanet.com/features/editorials/q3dmhellchick5/">Q3DMHellchick: Your Chocolate In My Peanut Butter</a>
+
+
+Paul
+
+**********************************************************************
+February 19, 2001
+**********************************************************************
+Mirors for Team Arena Map Pack 1 updates
+
+<a href="http://www.q3arena.net">Q3arena.net </a> Mirrors
+<a href="http://www.q3arena.net/files/?id=1509&download=1">hal9000_b_ta</a>
+<a href="http://www.q3arena.net/files/?id=1510&download=1">TA_mappak1b</a>
+
+<a href="http://www.xgr.com">X-Treme Gaming Radio</a> Mirror
+<a href="http://www.xgr.com/downloads/hal9000_b_ta.zip">hal9000_b_ta</a>
+
+<a href="http://www.bluesnews.com">Blue's News </a> Mirrors
+<a href="http://www.bluesnews.com/files/idstuff/teamarena/map_paks/hal9000_b_ta.shtml">hal9000_b_ta</a>
+
+<a href="http://www.bluesnews.com/files/idstuff/teamarena/map_paks/ta_mappak1b.shtml">TA_mappak1b</a>
+
+<a href="http://www.planetquake.com/lvl/">lvlworld.com (..::Lvl)</a> Mirror
+<a href="http://dl.fileplanet.com/dl/dl.asp?lvl/g-l/hal9000_b_ta.zip">hal9000_b_ta</a>
+
+
+**********************************************************************
+January 15, 2001
+**********************************************************************
+Team Arena Model Mesh Art
+
+The link below will download the installer (with EULA) for the wire mesh art used to create the character skins for the Team Arnea models. Included are the mesh layouts for the two team models (male and female), all 11 character heads, and the mesh layouts for Pi and Fritzkrieg, the two tourney models.
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake3/tools/Q3Tools_EditorSupport.exe">Team Arena Skin Meshes</a>
+
+
+**********************************************************************
+January 3, 2001
+**********************************************************************
+
+The latest version of GtkRadiant is available. This new build supports Quake III: Team Arena and contains new editing media from Id. 
+
+The documentation (<a href="http://www.qeradiant.com/manual">http://www.qeradiant.com/manual</a>) has been updated with two new items: the terrain manual 
+(<a href="http://www.qeradiant.com/manual/Terrain_Manual/start.html">http://www.qeradiant.com/manual/Terrain_Manual/start.html</a>) and the Team Arena Mapping Help (<a href="http://www.qeradiant.com/manual/Team_Arena_Mapping_Help/start.html">http://www.qeradiant.com/manual/Team_Arena_Mapping_Help/start.html</a>). We now have everything under HTML format, and the setups contain an offline version.
+
+A few new mapobjects are included in this release:
+- tree models used in TA terrain maps (baseq3/models/mapobjects/tree2)
+- TA spawns (missionpack/models/mapobjects/spawn)
+
+You now have to select the game in the project settings dialog, set it to Quake III Arena or to Quake III: Team Arena depending on what you want to do. GtkRadiant is fairly different from Id's internal 200f Q3Radiant. It doesn't require copying the Team Arena pak file into your baseq3/ directory. Everything is fully documented on the GtkRadiant start page (<a href="http://www.qeradiant.com/gtkradiant.shtml">http://www.qeradiant.com/gtkradiant.shtml</a>).
+
+
+The main GtkRadiant page is at <a href="http://www.qeradiant.com/gtkradiant.shtml">http://www.qeradiant.com/gtkradiant.shtml</a> 
+
+The primary ftp is at 3ddownloads: <a href="http://www.3ddownloads.com/index.php3?directory=/qeradiant/GtkRadiant/">http://www.3ddownloads.com/index.php3?directory=/qeradiant/GtkRadiant/</a> 
+
+**********************************************************************
+
+The server batch files for Team Arena were accidentally left off the Team Arena disk. They'll be in a future point release, but for now, you can download them here: 
+<a href="http://www.quake3world.com/files/q3ta_serv.zip">q3ta_serv.zip</a>
+
+**********************************************************************
+Quake3World Level Editing Forum
+
+<a href="http://www.quake3world.com/cgi-bin/forumdisplay.cgi?action=topics&forum=Level+Editing&number=6">Quake3World Level Editing Forum</a>
+
+**********************************************************************
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+If it's not here, it's vapor.  Check out somebody's archives if you want to read my previous bits of wisdom and flame.

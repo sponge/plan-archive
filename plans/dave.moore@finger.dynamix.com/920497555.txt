@@ -1,0 +1,62 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------
+User Name: dave.moore     Plan Last Modified: 03/03/1999 13:13:46 PST
+
+Real Name: Dave Moore
+Nickname:  SymLink
+Job: Technology Programmer, Lord High Miscellany
+Project: Starsiege Tribes
+
+  I'd like to talk briefly about the virtues of a loud
+and public statement of views.  The downside is if some of
+what you say is demonstrably wrong, you'll get a lot of
+flames, and you run the risk of looking like an idiot.  The
+upside is, if you look like an idiot, more thoughful and
+well-reasoned responses from someone who knows better ensure
+you don't remain ignorant for long.  Something like this has
+happened over the last few days.  I've received a tremendous
+volume of helpful eMail in response to my 2/26 update. (Also
+a tremendous volume of unhelpful eMail, but that's what the
+bit bucket is for...)  Thanks to all who sent assistance
+over the past few days.  I stand by a lot of what I said, we
+need to keep watching out for overspecialization in OpenGL
+drivers, but a lot of my data was incorrect.
+
+  A thank you and a request to TRIBES fans who have been
+(loudly!) lobbying their graphics card manufacturers to
+better support TRIBES.  Thanks for the support, but please,
+make your voices heard in feedback or support forums for
+your card. Emailing people directly in the company only
+takes up their time, and makes 'em grumpy when we call.
+
+  I left a teaser in my .plan the other day, here's the
+follow-up.  We've been working very closely with nVidia over
+the past couple of days to correct the problems we've been
+having on the TNT.  Both Sim Dietrich, and Nick Triantos
+@nVidia has been immensely helpful in getting us the
+internal performance numbers we needed to optimize TRIBES.
+I don't want to give the impression that all our problems
+are over, but playing TRIBES in OpenGL has gotten at least
+300% better over the past 2 days.  It's looking more and
+more like we won't have to switch to DirectX for TRIBES.
+
+  Note that we are _not_ going to delay the 1.3 patch to
+wait for this work to complete.  I'd suggest you view the
+beta OpenGL support included in 1.3 as a way to make sure
+you have the correct drivers for your video card, but then
+wait for the short period of time that it's going to take
+for us to incorporate this new codebase into the official
+version, and make a few more optimizations.
+
+  Tim and our web crew are working on a status page that
+will show you what we're working on, and expected completion
+dates, but until that's up and running, I'll try to keep my
+.plan updated with what I'm working on re: OpenGL.  For now,
+I'll be doing further optimizations for the TNT and similar
+cards, and making sure that the Rage 128 works with TRIBES.
+Once that's done, the next order of business is
+re-optimizing the terrain and the interiors for single pass
+cards like the G200 and the i740.  I'll keep you posted.

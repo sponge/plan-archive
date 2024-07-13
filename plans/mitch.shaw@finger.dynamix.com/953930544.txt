@@ -1,0 +1,38 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------
+User Name: mitch.shaw     Plan Last Modified: 02/24/2000 15:09:22 PST
+
+Who am I? Mitch Shaw
+Handle:  Skeet
+Project: TRIBES/TRIBES 2
+Email: Skeet@dynamix.com
+
+2/24/00
+
+ Okay, I guess it must be about time for an update. First and
+foremost, goodbye and best of luck to Nels. Like I said, I hope
+we work together again sometime in the future.
+
+ On to TRIBES 2. I've been working on two mission scripts: the
+T2 successor to the Defend and Destroy game type, and a new,
+as-of-yet secret game type. The name of this game type is still
+tentative; I expect there will be a lot of info released about
+the T2 mission types around E3 time. The new and improved T2
+scripting language is going to make things MUCH easier for you
+aspiring (and perspiring) modmakers out there. And I think
+there's gonna be a lot of praise out there for the new and
+improved mission editor too.
+
+ I'd like to take a little time to thank all the sites that have
+been supporters of TRIBES -- and not just the news sites like
+PlanetStarsiege and Tribes2.dk, but also the humor sites who
+throw in a reference now and then, like Tycho and Gabe over at
+Penny Arcade (http://www.penny-arcade.com) and Zach from
+Etherlife (http://etherlife.gamesmatrix.com). Check 'em out...
+hey, if you didn't have a little spare time on your hands, you
+wouldn't be reading my plan file, right???
+
+

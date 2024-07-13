@@ -1,0 +1,24 @@
+Login: pdeupree       			Name: 
+Plan:
+8/2/99
+
+Working in C++ again in the Half Life game code is very, very cool.  I've
+been working on the characters in the game.  I started by putting in the
+friendly grunts.  We have a test map Randy talked about in his .plan
+update with 3 friendly grunts next to you that you can use, plus 3 in
+another room that repel down from the ceiling.
+
+If you use them they follow you and you can enter a room with 12 enemies
+and at that point all hell breaks loose.  I don't want to give away too
+much, but suffice it to say there are grenades, green goo, and
+electricity everywhere (and eventually dead bodies).  Recently I got the
+medic in there also which is cool.  The one Randy saw didn't quite have
+the code in yet to heal other squad members, but I've got that in now.
+
+Now I'm working on a sub-boss that I won't say anything about, but this
+guy should be pretty cool.
+
+On the somewhat personal front, the new Gearbox office we just moved to a
+few weeks ago is about 5 minutes from my house as opposed to the 30 minute
+drive I had to make to downtown Dallas.  I have to say that I do NOT miss
+driving down the Central Expressway every day to get to and from work.

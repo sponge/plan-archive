@@ -1,0 +1,39 @@
+
+Name: Eric Biessman
+Email: ebiessman@ravensoft.com
+Description: Prime Minister
+Project: SoF2
+Web Page: <a href="http://www2.ravensoft.com/users/ebiessman">The Waste</a>
+-------------------------------------------------------------------------------
+6-5-02
+DESIGNER SEARCH
+
+Raven Software is looking for talented individuals to work on 
+AAA-quality next generation console and PC titles.  Applicants 
+must have a strong background in gaming, with experience in a 
+3D modeling or animation package, preferably Lightwave, Maya, 
+or 3DS Max.  Along with a strong artistic side, experience with 
+QERadiant and programming / technical expertise is a large plus.  
+
+We're also looking for people that know the ins and outs of 
+QERadiant and Quake 3.  Technical expertise and experience 
+with Lightwave, Maya, or 3DS Max will be beneficial to this 
+position.
+ 
+The positions are in-house and full time, requiring the applicant 
+to be able to move to Madison, WI.  At this time we are looking 
+for individuals that can begin working as soon as possible. 
+Applicants requiring work visas should provide proof that they 
+already have one in hand.  To apply, please send your résumé and 
+any submissions (preferably a quake engine based map and art 
+samples) to <a href="mailto:design@ravensoft.com?subject=Designer Search">design@ravensoft.com</a>.
+
+Please make the subject line "Designer Search."  We're starting this 
+hiring fresh, so if you have previously applied please reapply 
+at this time.
+
+Thanks, and good luck!
+
+*************************************************************************
+The opinions expressed in this mail are mine and mine alone.  
+

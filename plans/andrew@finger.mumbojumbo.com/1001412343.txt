@@ -1,0 +1,83 @@
+
+*** MumboJumbo's Finger Server
+
+User name: andrew
+Plan modified: Tue Sep 25 01:59:31 2001
+
+
+
+Monday, August 24
+-----------------
+
+build 99
+
+* win32 monitor resolutions and depths are detected rather than made up
+* overbrightening
+* prologue and epilogue screens
+
+
+Sunday, August 23
+-----------------
+
+When you're wearing an old Prong T-shirt featuring an eyeball being removed
+with a fork, khaki pants that you got in 9th grade in a failed bid to fit
+in with the preppies who harrassed you, and a pair of never-worn socks
+received for Christmas 1999 that say "2000" in festive letters, you know it's
+time to take on the laundry that's been piling up since the alpha milestone.
+
+
+Saturday, August 22
+-------------------
+
+build 98
+
+* internal ability to set each model's alpha independently
+* your own units get a slight transparency when underwater to indicate
+invisibility to others
+* easier/better clicking of underwater terrain and objects
+* selection rings/bars are faded out by model's alpha
+* water texture resolution is not reduced
+
+
+build 97
+
+* always re-lookup logo index in client table on incoming player data
+packets
+* always sets limited visibility on net maps
+* write debugging info on network queue failure
+* changed selection bars at designer request to make top more obvious
+* monsters on opposing teams completely under water are not drawn
+* monsters at edges of visibility are rendered transparent
+* clicking on ground passes through media
+* don't compute environment map coordinates for models with no
+environment map
+* ignores media coverage map and simply tests media height against land
+height to determine if a point is underwater
+* monsters which float use higher of land height and media height
+* fixed crash with sound source markers
+
+
+build 96
+
+This fixes the crash introduced in build 94 when the warlock dies. Let's
+play -- we need test coverage on the new pathfinding.
+
+
+build 95
+
+* fix fisj crash when playing back a skelanim with only 1 frame
+* SSE lighting fixed
+
+
+build 94
+
+* final optimizations of SSE code
+* fixed monsters getting stuck inside impassable cells
+* textures detail control now works
+* fixed crashes and out-of-syncs when playing sounds via map actions
+when volume is 0
+* film playback is fixed yet again. sigh.
+* logos and colors are now inherited by gibs, animated attachments,
+detachments, attack projectiles, and just about everything else
+
+

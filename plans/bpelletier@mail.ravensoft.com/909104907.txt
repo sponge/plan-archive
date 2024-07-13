@@ -1,0 +1,234 @@
+Welcome to Raven Software's Finger Service V1.6!
+
+Name: Brian Pelletier
+Email: bpelletier@mail.ravensoft.com
+Description: Project Leader/Art Director
+Project: Heretic II
+Last Updated: 04/03/1998 13:28:04 (Central Standard Time)
+-------------------------------------------------------------------------------
+4/3/98
+
+Great...we lost to Romero and his crew at Age of Empires. I just want to
+make a statement now, that the rest of the Raven staff, myself included,
+should not be compared to those losers who shamelessly represented us.
+I can expect to see more games of AOE being played at the office to come 
+up with better game strategies. Like they didn’t play enough already!
+
+Heretic 2:
+We are getting great feedback from everyone out there, so keep it coming, 
+we read it all. Another tidbit, is that I’ve been working with the Fantasy artist Brom who is designing most of our characters and monsters for
+the game. You can see his work at www.cale.com/brom/ or pick up his
+book Darkwerks at your local book store. A great showcase of his work.
+And you can expect to see some of the coolest creatures you’ve ever seen
+in a game. 
+When we started designing this game way back when. We always made 
+reference to Brom style artwork for the feel of the game. So we decided,
+hell, why not go to the source. We’ve been friends with Brom since he 
+did the Heretic cover back in ’94. We’ve always kept in touch, So Steve
+Raffel twisted Brom’s arm into working with us on Heretic 2. Brom worked 
+with us during the initial design phase and we came up with a lot of cool ideas.
+(He had the idea of the plague!) He and I then went to work designing most
+of the races and creatures of the game. The rest of our Awesome art staff 
+Did tons of other conceptual drawings. But we wanted Brom’s vision for
+the races of the Heretic world.
+I just talked with Brom yesterday and he is really stoked about all the excitement
+with Heretic 2. We will start posting some conceptual artwork in the near future.
+I will keep you updated on that. 
+
+Time to look at the progress of the levels. We’ve got a bunch of guys doing 
+levels and they are all looking very cool. The level’s not the guys!
+
+One final note: if you use the taunts in Hexenworld, the ones I did were:
+"Oh my God, they killed Kenny" and "Bite me fan boy" 
+
+One other final note: I picked up some comic books yesterday (my weekly fix), 
+and the "X-men Wildcats the Dark Age" is out and the artwork is really 
+awsome. Matt Broome is an excellent artist and he did a great job with a 
+book called Defcon 4 a year or so ago. 
+Speaking of comics, I recently did a cover for Image’s "Badger" comic, but 
+unfortunately the book was cancelled. My friend Mike Baron (Badger writer) 
+is really bumbed. Mike Baron and Jeff Butler created the Badger back in the 
+early 80’s and it just so happens that Jeff Butler is working for Raven now.
+He did the artwork for the comic book movie adaptation of Jurassic Park.
+
+Holy shit, am I rambling or what? There is just so much to be said.
+
+I’ll continue at another time and let you get back to playing games. Raven games!!!
+
+
+********************************************************************
+4/1/98
+
+I will continue from last time with:
+
+What we're thinking 2:
+
+For more insight to the camera system and story line see Dan Freed's plan.
+
+Targeting system:
+We will be handling this a few ways so people will have a choice of
+how they want to play. 
+First off, there is no auto targeting like Tomb raider. (there was a 
+great discussion of this on our messageboard) One targeting method 
+will be just like the original Heretic, Doom and Hexen 2, where there 
+will be a cone of influence. Projected out in front of the player will be 
+this range. If a monster is in this range the shot will go toward him. 
+We need to do this because our camera can be at many different angles and 
+we want our character to shot in front of him not where the camera's looking. 
+Again, it works just like the Doom system, so there "is" skill involved.
+Second: You shot where the camera is looking. just like Quake 2 and Hexen 2.
+As Dan mentioned in his plan we have a free look camera and there will be a
+crosshair option to help aim.
+The third system we are still playing around with. All of these will involve a
+lot of playtesting to make sure they work really awesome.
+
+Deathmatch:
+There are ideas of doing different models for choosing deathmatch characters.
+But right now this option looks to be very difficult. Our character will
+have close to a thousand frames of animation, so to translate all these to a whole new
+character will be tough.
+Because it looks like there will be only one model we will have different skins to 
+choose from. Not just different colors.
+
+Why only third person:
+Cause I said so!!! Heh, I’m just kidding. Right now the biggest reason is because of 
+our schedule. We want the game out for a x-mas release and we are only in the 
+second month of our production. We have only 2 levels complete and we don’t even
+have our new character model in the game yet. The model you saw on the screen 
+shot was the old version.
+Another reason is that first and 3rd person games are very different from one another.
+So it will be like making 2 games. Jedi is really a first person game with a 3rd person
+option. That’s why 3rd person in jedi looks goofy, and is not as fluid as other 3rd 
+person games.
+
+Hope that answers some of the questions floating around out there.
+I will add more to this topic as we progress with the game.
+
+Later
+
+
+**************************************************************
+3/30/98
+
+I have been reading a lot of the talk on our message board, and 
+I am glad to see such great ideas and responses. I've also gotten
+some e-mails on the topic. It seems people are interested to find 
+out what we're thinking.
+
+Well here it goes...
+
+Why the name: 
+	The story of Heretic 2 directly follows the events in Heretic.
+The reason Hexen wasn't named Heretic 2 was because the story 
+didn't directly follow Heretic. Heretic, Hexen and Hexen 2 followed
+the story of the 3 Serpent Riders. Hexen took place 1000 years(or so)
+after Heretic and on an all together different world. 
+	
+Heretic 2 now goes back to tell the tale of what happened to our 
+hero after he defeated D'Sparil. And bring you back to reintorduce 
+you to the world of Heretic. Heretic 2 seemed to be the name that 
+fit the best. 
+
+How the game came to be:
+	Steve Raffel (one of Raven's founders) Came up with the idea
+to do Heretic 2 a couple years ago. And to do it from a 3rd PP.
+This was before Tomb Raider came out. Steve and I played around with 
+the idea of bringing you back to the Heretic world and really making
+it a believable world that our character has his quest in. We wanted 
+to do it 3PP because that would make it a challange for us. We are
+creative people here at Raven and because of that we like to challange
+ourselves creatively. THis job would bet real boring if every game we
+made was a FPS. So what we wanted to do was try something new and 
+give the gamer a new playing experience. So we got the OK to do the
+game and I was given the lead to take to completion. 
+
+To be honest, I thought most gamers would like the change of an action
+game from a 3PP. We all know the market is flooded with FPS, Half life,
+Unreal, Diakatana, Hexen 2, Quake 2, and others to be announced. 
+So why not try action from 3PP. My whole goal is to keep the integrity
+of an action game. Which we all love. But son-of-bitch, I'm getting 
+sick of seeing it in only one form! I love FPS games and will continue
+to make them with Raven, but I envision a fast paced high action game
+where I can see my character shooting his weapon and see him getting 
+hit. Watching him interact with the world and enjoying the action 
+taking place besides just being the action.
+
+That's it for now. 
+
+I will continue with "What we're thinking" on my next plan where I 
+talk about:
+	The targeting system
+	Why "only" 3rd person
+	Deathmatch!
+
+Later.
+
+*********************************************************
+
+3/26/98
+
+Hey All,
+
+As you all heard by now Raven is making Heretic II. My name is
+Brian Pelletier and I am the Project leader of this game so it 
+is under my control and direction. With the Awesome team we have 
+and all the the great ideas they have, we promise you a kick ass 
+game. I will get into that shortly.
+
+Before I get into Heretic II, it will help you to know who I am.
+I am an Artist and I have been with Raven for over 5 years now.
+I am the most senior employee here. At one point in Raven's history 
+it was just Brian Raffel, Steve Raffel and Myself, making the games.
+Now the 
+company is pushing 50 employees. Besides being the Art Director 
+and being in charge of all the artist, I have been involved in all
+of Raven's game designs, Including Heretic, Hexen and Hexen II. And 
+now I'm leading up Heretic II.
+
+So with that out of the way, you now know that I have a little experience
+in making awesome games. So I assure you that with the team I have, we 
+will make Heretic II a $#@&ing kick ass game! 
+
+Since the Heretic II press release we have been getting feedback from
+our fans that they are dissapointed that Hereitc II is a 3rd Person 
+Perspective (3PP) game. If your finding this out for the first time...
+Yes, Heretic II will be 3PP. Not first person like the original. We did
+this to give action game fans a different twist on action. We all know 
+there is a flood of first person shooters out there so we thought we'd
+offer up something different. There have been concerns that the game
+will be Tomb Raider. WRONG!! Lets get things straight right now! Heretic II
+is an "action" game. My goal is to retain the flavor and gameplay of Heretic.
+
+Hexen and Hexen II started straying from the the hard core action but we 
+wanted to give the player a different playing experience. But now we want
+to go back to Heretic and bring back the action...but with a twist. Why the
+twist? Because Raven is always trying new things in order to offer YOU the 
+gameplayer something different than Doom and Quake! We are in a difficult 
+possition as an action game developer. When we make a FPS, gamers bitch cause
+we're just making a clone of Doom or Quake. So we try and offer different 
+things for gameplay (see Mike Werckle,s plan). But when we do this, those same
+gamers bitch that the gameplay isn't like Doom or Quake. There is never going
+to be innovations in games if we don't try, and you the gamer will suffer.
+ 
+ 
+You've all probably seen Romero's comments about the Heretic/Hexen franchise.
+He is entitled to his opinion. But I have learned a lot from when John worked
+with us on Heretic. And I plan on reverting back to those gameplay philosophies.
+After all we are making this game for the people who love Heretic. So by all 
+means we want to meet their expections. This isn't some obscure 
+game that we put the Heretic lable on. This is a sequel, and we plan
+on bringing back a lot of things that made Heretic so fun. We are 
+bringing back the morph ovum so you can turn the enemies and your 
+deathmatch friends into chickens again. We are also bringing back
+some of the weapon spells. And finally we are doing the game in 3rd person 
+cause it looks frickin' cool. We want to give you the action gamer
+a new action gaming experience. I hope this calms your fears and I 
+think you will be pleased with the gameplay.
+
+We are making the game for you, so please give us your feedback.
+
+OK, I'm done.
+
+For now.
+
+

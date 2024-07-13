@@ -1,0 +1,15 @@
+
+Name: Marcus Whitlock
+Email: mwhitlock@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+02/07/2000
+
+One thing I'd like to point out regarding the SoF demo patch (which has no firm release date yet - you'll hear from RJ when it's ready, be assured)... most likely, it won't incorporate the improvements to client prediction that I recently made (BTW - thanks for lending me your ears Jake, Pat & James).It's quite phenomenal - how you can loose sight of the wood for the trees... when you're toiling away so close to a problem - you can get stuck in this thought loop and don't realize you're stuck in it until someone else points out the obvious that you just fail to see! Predicted in-view weapons are now very stable, without the oddities and artifacts that are present in the SoF demo. Needless to say, I'm sleeping a lot better now too. More generally, we are all feeling pretty freaking good about the way things are looking on SoF - it's really come together and will be our best game yet for sure.
+
+Marcus Whitlock - B.Sc.(hons) Computing Systems
+Programmer / English geezer - Raven Software
+mwhitlock@ravensoft.com
+<a href="http://www.gunhed.demon.co.uk/home.htm 
+">http://www.gunhed.demon.co.uk/home.htm</a>

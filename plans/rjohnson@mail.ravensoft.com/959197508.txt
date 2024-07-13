@@ -1,0 +1,52 @@
+
+Name: Rick Johnson
+Email: rjohnson@mail.ravensoft.com
+Description: Ld. Programmer / Network Admin
+Project: SoF
+Nickname: Superfly
+Web Page: <a href="http://www2.ravensoft.com/users/rjohnson">Rick's Web Site</a> <a href="http://www2.ravensoft.com/users/rjohnson/turtlecam.asp">TurtleCam!</a> <a href="http://www2.ravensoft.com/users/meatwagon">mEATwagon Cult</a>
+-------------------------------------------------------------------------------
+4/21/2000
+   The SoF V1.04 BETA patch will be out shortly.  Unfortunately, there was a last minute problem patching
+      the main PAK file, so I had to remove those changes as well as the EAX changes (which required new data).
+      RTPatch seems to crash on Win98 machines when I included that PAK file - I have to wait until Monday to
+      get technical support from the people who make RTPatch.
+
+   Remember that this version is a beta patch.  It mainly addresses DM server crashes.  We haven't done that
+      much testing on this yet.
+
+   This is the included readme file with the patch:
+
+SoF V1.04
+April 20, 2000
+--------------
+   * Fixed crash in EAX sound code when playing old sounds
+   * Fixed crash in DM when getting killed by standing over a flaming body
+   * Fixed crash in DM for Arsenal caused by weapon switching / inventory bug
+   * Added a check for invalided saved game files in the menu code
+   * Changed the "Error during Initialization" dialog to report the specific error
+   * Added view height change for MOF
+   * Fixed a bug in detection of remote IP address for systems with multiple IPs
+   * Circumvented W2K bug in SetProcessWorkingSetSize().  This call would basically 
+     not allow various GL implementations to initialize under W2K.  Removed the call 
+     to that function.
+   * Re-organized CD copy protection
+   * Made it so that the winsock error WSAECONNRESET doesn't drop you to the console 
+     during DM server browsing
+   * Fixed problem where people had difficulty connecting to servers
+   * Fixed an issue with spectator mode
+   * Fixed an overflow issue with demo playback
+   * Fixed CTF issue with force join
+   * Added "ainame" worldspawn over-ride to specify the enemy set for user mods
+   * Added a "-nostart" command line option, so that dedicated servers won't 
+     automatically start dedicated.cfg
+   * Fixed irqctf1 where players could get in bad spots
+   * Fixed scripting problem in KOS3 where killing the helicopter 
+   * EAX performance optimizations
+   * Server Browers updates info when bringing up the status of a particular server
+   * Automatic account login for dedicated servers
+   * Clients connecting to dedicated servers no longer need a CD
+
+Note: This patch should be considered BETA software and has not been fully tested.  
+      You should re-install the game if you need to return to V1.03.
+

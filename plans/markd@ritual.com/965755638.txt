@@ -1,0 +1,23 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: markd
+Plan modified: Tue Aug 08 12:00:06 2000
+
+August 8th, 2000
+================
+
+Heavy Metal FAKK 2
+
+Thanks for everyone purchasing Heavy Metal FAKK 2.  I hope everyone out there
+enjoys the heck out of it.  As is often the case with software development, we
+have had reports of lockups and crashes on exit with certain machine
+configurations.  We are working very hard to solve these problems so that
+everyone can enjoy the game.  We will have a patch out for the game this
+weekend.  If you are experiencing any lockup or exit problems with FAKK 2,
+and live in the DFW area, please email me.  Of course every system we tested
+the game on before shipping it did not exhibit any of these problems.
+
+Mark D
+<markd@ritual.com>
+Ritual Entertainment

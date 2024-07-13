@@ -1,0 +1,14 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+
+Where is the Mac build!
+
+I've been getting a bunch of emails on this lately.  I was waiting on Apple to publicly release OpenGL 1.2.1 on www.apple.com/opengl and through software update, but it looks like that's going to be a bit, so I'm reverting back to linking with OpenGL 1.1.2.  Both the Team Arena demo and the final point release will be released for Mac OS 8.6/9.04 and Mac OS X PB.
+
+The Mac OS X build really shows off the new OS nicely.  Building between Classic and X is really really easy.
+
+I'm finalizing the QVM compiler now for the PPC.  My recent battle cry at the office has been pretty much several four letter words followed by "PPC assembly code sucks".  If anyone has some good pointers on books or websites besides my coffee stained "PPC Assembly for Intel programmers" and the tortured Motorola Specs I'd appreciate it.

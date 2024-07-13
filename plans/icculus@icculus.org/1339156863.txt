@@ -1,0 +1,37 @@
+Build that wall and build it strong.
+
+
+Psychonauts:
+
+ Now shipping in Humble Indie Bundle #5! This version is now on Steam, too!
+ Humble Bundlers should grab the update if they haven't; it fixes several
+ crash bugs. Steam users get it automatically. More fixes coming soon!
+
+Super Meat Boy:
+
+ The Linux version that was just added to Humble Indie Bundle #5 has
+ several good fixes, and is available to those that purchased
+ Humble Indie Bundle #4, too. If you want just the updated files
+ instead of the whole download, here they are:
+
+   http://treefort.icculus.org/smb/smb-build2-changed-files.tar.bz2
+
+Other stuff:
+
+ I'm speaking at Southeast Linuxfest on Saturday, June 9th 2012
+ (that's tomorrow!) at 4pm. If you're near Charlotte, North
+ Carolina, come visit!
+
+ I'll be talking about being a freelance open source developer.
+ The talk is largely non-technical.
+
+  http://www.southeastlinuxfest.org/
+
+--ryan.
+
+--------------------------------------------------------------------
+When this .plan was written: 2012-06-08 04:46:59
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.24 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

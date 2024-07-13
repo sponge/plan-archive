@@ -1,0 +1,111 @@
+
+Name: Brian Pelletier
+Email: bpelletier@mail.ravensoft.com
+Description: Project Leader/Art Director
+Project: Star Trek
+-------------------------------------------------------------------------------
+10-27-00
+
+Here is a question I got from a German magazine and I thought it would
+be interesting to share.
+
+(German mag) Most of the Elite Force consumers say that the game was 
+a bit to short. What do you think about this? Why is the game so short? 
+Are there any concrete reasons?
+
+(Me) In my opinion, there are two possible reasons, and here is the 
+first one:
+Most of the consumers you're hearing from are hard-core FPS players 
+and most of them are playing on Normal difficulty, which wasn't suppose 
+to be the desired difficulty setting for them. This setting is actually 
+the easy mode with challenging being the medium difficulty and what 
+experienced players were intended to play. There is a HUGE difference in 
+difficulty between Normal and Challenging. This is our fault in our use 
+of terminology, as we originally only had 3 difficulties (Normal, 
+Challenging and Hard, easy to figure out that Challenging is medium since 
+there are only 3) and then we added the easy difficulty in the last month of 
+the game development, which was basically an effortless difficulty mode. 
+We left the terminology the same assuming most experienced players would 
+play a game in a mode called challenging, but in hindsight if I saw a 
+game that had a mode called normal, that's what I would play. This again 
+is our fault for trying to be cleaver with our naming and also make the 
+inexperienced gamer Star Trek fan (who wanted to play the game) feel like 
+a "normal" game player.
+From my experience with the game testers we had come into Raven, along with 
+our internal testing and feedback we get from other average game players is 
+that it will take well over 15 hours to play the single player storyline 
+game for a casual gamer. The hard core FPS gamer takes a lot shorter to play 
+because of the nature of how they play shooter games, which is fast, furious 
+and running through the levels to get to the next. Average gamers are much 
+slower and not as good, and since we are also creating a game for the average 
+player and Star Trek fan, we didn't want to make it too hard for them. So 
+because the game is a little easier to play for hardcore players on top of 
+the fact that they are playing on easy difficulty, made for one of the 
+reasons why I believe the game was short for those types of gamers.
+
+
+I'll post reason number 2 on Monday which is more of a development and
+technical issue and in my opinion the real reason of why it is shorter
+to play than we wanted it to be.
+
+Brian
+
+
+***********************************************************************
+
+10-24-00
+
+About Elite Force's teammates.
+
+We all know everyone has their own opinions and we have heard that 
+Elite Force's teammates are revolutionary and surpass any teammates 
+done for other games and we also heard that the teammates were nothing 
+new and they had problems and didn't really work that great. I would 
+have to disagree with the later and say that the teammates could have 
+easily been a hindrance to the gameplay and now I know why no other 
+company has ever tried to make a FPS game with up to five teammates 
+Working alongside you at one time. At one point in the final stages of 
+developing the teammates, I wasn't sure if they were going to work out, 
+they just had so many problems and every time we would fix something 
+another problem would crop up. Just getting them to follow you was not 
+an easy task and something we tweaked with all the way up to the final 
+days. Sure we could get them to follow you but the game took place in 
+tight hallways and small rooms so you would be bumping into them, they 
+wouldn't get out of your way, they would constantly get stuck on each 
+other and they followed the player like a heard of sheep. Also making 
+them always follow the player everywhere caused problems with them 
+feeling like real intelligent characters so sometime we had to have 
+them stand their ground or take up a position while the player went 
+exploring. Then we had the consistent problems of the team not even 
+following you and you might need one of them to open a door for you to 
+later on and when we did get it to work someone eventually found a new 
+way to break a level with a teammate. Plus with elevators and teleporters 
+there were always problems with how a teammate could get left behind. 
+It was getting to a point where we weren't even certain if we could get 
+them to walk through an entire level and we might have to do something 
+drastic. Luckily it never came to that and we were able to get them 
+working in the levels. They may have ran funny to catch up to the player 
+or jumped down long elevator shafts to stay in formation, but at least 
+they stayed with the player through the whole level no matter what kinds 
+of crazy stuff they player was doing. Then came the problem of trying 
+to balance the combat with the teammates. We started getting our enemies 
+in the levels and the teammates were so good they killed most of the 
+enemies leaving not much for the player to do. So we didn't have them 
+shoot as often but then THEY were constantly being attacked instead of 
+the player, and the game combat became shoot the aliens attacking your 
+teammates, which was not fun. So we had to balance the combat so the 
+player still felt threatened by enemies attacking them and teammates 
+helped but not to the point where they did all the work and eventually 
+we got something that felt really fun for the player. It's funny now 
+when I hear people say that the teammates were stupid because they hardly 
+killed any enemies or that the enemies always attacked the player but 
+hardly the teammates; If they only knew how not fun the gameplay would 
+have been had we not balanced it out the way we did.
+
+
+Brian Pelletier
+- Project Leader: Star Trek Voyager Elite Force 
+
+
+*************************************************************************
+

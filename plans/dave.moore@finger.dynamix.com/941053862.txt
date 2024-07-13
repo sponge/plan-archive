@@ -1,0 +1,79 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------
+User Name: dave.moore     Plan Last Modified: 10/27/1999 11:46:28 PST
+
+  Whew.  It's been a hectic few months.  Work on T2 is absolutely
+flying along.  We hit one of our internal milestones last week,
+which means our Interior artists are finally able to start working
+with the real game rather than with the hacked-up version of Tribes
+that they've been using to date.
+  Mod-makers will have a much easier time of it in T2.  Rick was
+just discussing the changes he's making to the terrain
+generating/texturing process (interview <a http://www.avault.com/news/displaynews.asp?story=10271999-9020>here</a>, check it out), I've
+been working on the global rendering process, and the Interior
+engine.  Folks who want to add custom Interiors are going to have a
+MUCH easier time.  We've ditched Zed ("and there was much
+rejoicing"), and are using WorldCraft 2.1 with Morian, a custom
+back-end that John Folliard and I are working on.  (Though you should
+be able to use any tool that outputs .MAP format files instead of
+WorldCraft if you so desire.) What this means to you the "Interior
+Designer":
+
+1. Faster processing times - Maximum final processing time of a
+few minutes.  The longest I've seen so far is about 4 minutes, but
+that's likely to get a little longer as the artists get tricky with
+the lighting.
+
+2. Absolutely solid BSP generation - Last time we were working with
+a list of polygons output by Zed's CSG engine, which was a very shaky,
+error-prone process.  We've switched to doing the BSP construction
+concurrent with the CSG process in the back-end, which is much less
+sensitive to numerical precision problems.  The goal is never to
+produce a bad Interior, regardless of input.
+
+3. Much better debugging modes in the engine.  Since working in raw
+OpenGL makes it absolutely trivial to add new rendering modes, we
+currently have 11 different debug rendering modes that will help you
+spot problems, or areas for improvement.  (To be honest, only 6 or 7
+of those are likely to be useful, the others are just data integrity
+checks.)
+
+4. Detail brushes.  This was a "well, duh" addition.  Should help you
+keep the poly count and lightmap space down.
+
+5. Visibility culling with portals.  Another obvious change.  Most of
+the speed up in the tool has been from dumping the PVS calculation.
+We do ours a little differently from, say, Unreal, since our Interiors
+are open rather than closed, and must co-exist with other portalized
+objects, but MarkF and I have worked out a cool global rendering
+control system that should allow us to do some really interesting
+stuff.  Watch this space for more later.  WorldCraft actually makes
+this process a little less than completely smooth; since it outputs
+Quake 1 format .MAPs, it can't assign flags to individual brushes.
+You have to tie a Portal brush to a Portal entity.  (We're going
+to add support for Quake 2 format .MAP files before shipping, it'll be
+easier if you're using an editor that outputs Q2 .MAPs.)
+
+6. Doors and elevators can be placed directly in WorldCraft (or
+whatever you happen to use).  No more tedious lining up of objects in
+the mission editor.  They'll all just drop right into place.
+
+7. Lots of miscellaneous stuff: texture sizes up to 512x512 (possibly
+larger), support for non-isometric scaling of Interiors in the mission
+editor, multi-vertex primitives (all Interior surfaces are triangle
+strips), polygons are no longer split if they span more than 256 texels,
+improved T-Junction fixing, etc, etc.
+
+  There are a few negative trade-offs, but they're pretty minor.
+WorldCraft and other Quake .MAP editors have fairly poor support
+for negative brushes (read: carving) compared to Zed, for instance.
+That's pretty much the worst of it though.  The artists have been
+really happy with the new stuff, and are turning out some absolutely
+stunning shapes.
+
+  I'll be keeping this .plan up-to-date as new stuff gets completed.
+PS: a no-prize to the first person who can tell me the connection
+between (5.) and the name of the back-end tool.

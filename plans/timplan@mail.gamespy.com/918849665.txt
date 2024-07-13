@@ -1,0 +1,26 @@
+User:   timplan
+Unread: 19
+Plan:
+GameSpy -
+    2.08 - There will be another build of 2.08 released shortly.  Found a
+few mistakes in Tribes and added a couple things for HalfLife and Jack.
+    2.10 - Combined 2.08, my 2.10, and Jack's 2.10 then cleaned up a lot of
+the headers.  Incremental builds are really fast now. And 2.10 will not be
+2.10.  I am pushing for 3.0 because of the number of changes.  We will see.
+    Java - no progress.  Working on the above.
+
+Web Site - finally finished my web site redesign. Learned a lot about HTML
+and FrontPage Express.  I don't like it too much but it is not that bad
+either.  The bad part is you must edit the HTML manually to fix things like
+image paths. As for editting text and the format, it works rather well.  I
+don't like FrontPage or InterDev at all because they insist on you having a
+web server with FrontPage extensions. InterDev requires IIS also which means
+NT.  Talk about overkill.  All I want to do is edit a simple web site on a
+disk.  I have to find a good editor for the site.
+
+Timothy 'CMonster' Cook
+http://www.gamespy.com
+http://www.mindspring.com/~cookti
+
+
+

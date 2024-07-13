@@ -1,0 +1,307 @@
+
+Name: Jon Zuk
+Email: jzuk@mail.ravensoft.com
+Description: Lead Designer
+Project: Heretic II
+-------------------------------------------------------------------------------
+3-25-99
+
+A lot of people have mailed me saying that they can't get HereticEd to run on their machine. 
+It usually turns out that they have an ATI Rage Pro.  Someone by the name of Dark Templar 
+sent me info that to get it to work you need to install software OpenGL drivers to your
+system directory.  The hardware drivers for this card will not work with the editor.  
+
+THANKS DARK!
+
+********************************************************************************************
+
+2-10-99
+
+Kenn?  Pat?  You realize that most of your co-workers don't even know what's going on.
+Probably don't care either.  It was an interesting read though.
+
+You know what I'm talking about.
+
+*******************************************************************************************
+
+12-11-98
+
+So you want to build a statue to the Raven gods?
+
+If you’re heavily into modifying games once you get them, this is for you.  This tutorial will explain to you how to export models from Max to our game format.  What you do with them from there is your business. You’ll need a copy of Heretic II and a copy of 3DS Max 2 or later, plus our plugin for exporting models.  Obviously, this leaves many people out as Max 2 isn’t cheap.  But, if you’re a diehard or have access to it, it can be worthwhile.
+
+Now before we get into the explanation, let me clarify a few things. 
+
+Corvus and all the monsters were created and animated in Softimage.  Therefore, you won’t be able to do anything with them in Max 2.  We used Max 2 only for building static, or simply animated objects for the game.  Almost everything in the editor with "obj_" before it was built in Max.
+
+So, how do we make a model and get it into the game?  Before you open Max, copy the vmdexp.dlo plugin into your Max plugins directory.  (You can get this from hereticii.com for starters, but I hope it gets passed all over.)  This is the actual exporter.
+
+Now, you have to build the model.  Keep the poly count very low as this will be an issue in the game.  I’m not going to explain how to build a model as you should have working knowledge of Max to do this.  But Jeff Lampo was nice enough to provide some explanation here.
+
+1. Make your model (lets say you make a toolbox)
+
+2. After the model is made, go to the "Modify Stack", and select "Edit Mesh".
+
+3. Break apart your object by selecting faces and detaching them.
+You have to basically flatten your object, so think ahead on how you want it laid out.
+Don't move anything, just detach the faces you want to work with.  This is a tedious, but necessary step for the base page later.
+ 
+4. After you detach everything, now take the objects and re-attach them back together
+
+5. When finished, save your max file as toolbox
+
+6. export as poly.htr
+
+(This is also where you would save your animations if you added any.)
+
+Thanks, Jeff.  As he said, after the model is done, save it, then export it as a .htr file.  Name the file poly.htr.  We set up a directory structure where each model was in its own directory.  Every model was named poly.htr but in a unique directory.  Create a directory in your Heretic II base called models.  For example:  c:programfileshereticiiasemodels.  Within models, create a separate directory for each model you create.  Example: c:programfileshereticiiasemodelsox.  If you check your directory box, you’ll now see poly.htr.  
+
+(For the rest of the explanation, I’ll use box as the object I’m making.)
+
+Next, you’ll have to make a base page for it.  Here’s Jeff again.
+
+To make your base page
+
+1.  Resave your Max file as (toolbox_base)
+
+2. Make a box shape that is 50 wide, and 100 tall.  (The box can really be any size, but it always has to be half as wide as it is tall.)
+This will be deleted later, but it will serve as your template to place all your object faces inside.
+
+3. Now go back to "Edit Mesh", select "face" mode. and select the faces you detached earlier, you should be able to move them freely.
+
+Start laying them out flat , so you can see them in the front viewport.   When everything is flattened, lay them inside your 50X100 box you made.
+(Now what happens, is when you qdata your base page, the one you made as 50X100,,, it takes the back side of it also, and lays it out, so you end up with a perfect square, or a 128X128 page.)
+
+So, when you are placing your faces inside the 50X100 pattern, you can also turn some around, to fill up the back side.
+(You might need to turn on shaded mode to see what’s going on)
+
+4.  You can now delete your template box (the 50x100 one in this case).
+
+5 . After everything is laid out perfectly, re-save the file (toolbox-base), and export as base.htr
+
+(If this is all to confusing, you can hire me and Jon on the weekends, we charge 200 per object) 
+
+Thanks again Jeff.  As he said in his last step, export this as base.htr into the same directory.
+
+Now, you want to create a .pcx file for your base page so you can put a texture on it.  From the dos prompt, change to the directory where your new .htr’s are stored.  Type in the path for "qdata" and qdata the base.htr with the flags -ignoreuv and -genskin.  The specifics are as follows:
+
+C:PROGRA~1HERETI~1asemodelsox>C:progra~1hereti~1	oolkitdesignerqdata -ignoreuv -genskin skin.pcx 128 128.
+
+The flags I used are -ignoreuv and -genskin.  Ignoreuv is used as we have newer tools at Raven, but aren’t releasing them.  Ignoreuv is the old way we made skin pages.  The -genskin flag actually creates a .pcx from the .htr file.  The two numbers are the size of your skin page.  If you have a big model and want lots of detail, make a bigger skin page.  
+
+Once you’ve finished painting your skin page (saved in the same directory), you’ll want to combine it with the poly into a .fm file.  This is our format for models in the game.  To do this, return to a command line.
+
+First you have to make the .qdt file.  This is a text file that contains the data for making the .fm.  From your command prompt return to the directory your model is in and type the following:
+
+C:PROGRA~1HERETI~1asemodelsox>C:progra~1hereti~1	oolkitdesignermakeqdt -nogen -fm box.qdt
+
+The flag -nogen stops -makeqdt from running "qdata" again.  You don’t have to include this, but you’ll get an apparent error.  The .fm is the model format.  Our original (and no longer used format) was .md2.  For simplicity sake, name your .qdt the same as the directory you’re in.
+
+You’re almost done.  We just have to qdata it one more time to make the .fm.  Before we do that though, there’s one change that needs to be made.  Open the .qdt file in a text editor and get rid of the .pcx extensions after "skin".  Save this, return to the command prompt, and type the following:
+
+C:PROGRA~1HERETI~1asemodelsox>C:progra~1hereti~1	oolkitdesignerqdata -ignoreuv -oldskin box.qdt
+
+This creates a tris.fm and a tris.h as well as a skin.m8.  If you open this tris.fm in "QMView" (which is on the CD), you’ll see your model skinned and ready to be put in the game.
+
+That’s all there is to it!  Simple huh?  
+
+To summarize
+
+- Create a poly model and a base page model and export them as .htr files.
+- Run "qdata" on the base.htr to get your .pcx.
+- Run "makeqdt" to create a .qdt file for your model.
+- Run "qdata" on the .qdt file to create your .fm .h, and .m8 files.
+
+As Rick Johnson is fond of saying, Any questions can be directed to that brick wall.
+
+****************************************************************************************************************************
+
+
+12-10-98
+
+I've had a few questions about creating puzzles.  So here's an explanation on how to do it.
+*******************************************************************************************
+Making Heretic II Puzzles: Puzzled?
+
+So you’re making a level and want to know how to insert a puzzle into your map.  
+Follow these step by step instructions and pretty soon you’ll be able to lock 
+everyone inside your map.
+
+1. Create the objects that will need the puzzle.  This can be as simple as 
+a locked door, or as complex as placing a piece to trigger a cinematic. 
+Let’s keep it simple and talk about doors.
+
+2. In front of the locked door, create a trigger_playerusepuzzle.  
+It is a brush entity, so you can resize it to your specifications.
+
+3. Create a trigger_puzzle also.
+
+4. Target the trigger_playerusepuzzle to the trigger_puzzle, 
+and target the trigger_puzzle to the door.
+
+5. Select the trigger_puzzle and enter "item" in the key field, 
+and the puzzle piece in the value field.  
+For example: Key item, value item_puzzle_tavernkey.
+
+6. Now hide the key in an appropriate place on the map.
+
+
+A trigger_playerusepuzzle is a trigger that simply acts as a field for Corvus.  
+While he is standing in the trigger, if the player presses "Use", Corvus will 
+attempt to use the target of the trigger.  There are extra flags for this trigger.  
+The notes in the editor explain them, as does the documenation I provided with the game. 
+
+Basically though, you can set these flags to use your inventory items without the player 
+hitting "use" and to not remove them.  The reason we implemented this was for 
+the Healer cinematic in andhealer.  After the first cinematic, there were two other 
+cinematics that could possibly play.  One played if you didn’t have both ingredients, 
+while the other played if you did.  We placed a trigger outside of his room so that you 
+had to go through it and it would automatically check without the players knowledge.  
+If you had both pieces, there was a pause while a new cinematic loaded.  
+
+The "no inventory" flag checks for a piece and uses it, but never shows the inventory bar.  
+This is to hide the check from the player.  
+
+The other flag, "don’t remove", is to make the trigger itself not remove.  Therefore, 
+if you are using it to check for multiple pieces and you have only one, the trigger won’t 
+remove itself so you can still use it for other pieces.
+
+A trigger_puzzle gets used by the trigger, but only uses its targets if Corvus has 
+the specified puzzle piece in his inventory.   There is a "No take" flag if you don’t 
+want the piece removed from inventory.  Thus, if you want the tavern key to open 
+every door in a level, use this flag.
+**************************************************************************************************
+
+Also, look for our contest, coming real soon!
+
+**************************************************************************************************
+
+12-8-98
+
+I'm glad to see the responses we're getting for our little contest contest.  Everyone will know sometime Thursday which lucky site will be chosen to host our contest.  It'll be a fun one!  
+
+BTW, everyone should check out Jeremy Statz's plan if they're interested in editing.  He brings up a very important point about entities.
+
+Also, I saw an article at http://defrag.evilavatar.com/ with Raven mentioned near the bottom.  Hmmm... very interesting.  Heretic II in fact took about 12 months.  The first couple of months though are writing a design doc and getting a feeling for the project, so we were in production for only about 10 of those.
+
+*******************************************************************************************
+
+December 7th, 1998 -  We've got a little contest going!  Here are the details...
+
+Greetings From Raven Software,
+
+	We at Raven are considering sponsoring a contest for Heretic II modifications.  We would supply 
+the prizes and judge the entries, but we need to find a suitable website to host 
+the contest itself.  If you are a web master and are  interested in hosting this 
+upcoming Heretic II competition, please contact Jon Zuk (jzuk@mail.ravensoft.com) 
+or Kenn Hoekstra (khoekstra@mail.ravensoft.com) by Wednesday, December 9th at 
+5pm CST.  After all bids are received, we will choose a website to host the contest 
+and we will post the details and contest rules.
+	Thank you for your time and consideration in this matter.  We look forward 
+to hearing from you.
+
+Sincerely,
+
+Jon Zuk
+Heretic II Lead Designer
+Raven Software
+
+Kenn Hoekstra								
+Project Administrator
+Raven Software
+
+*******************************************************************************************
+
+12-1-98
+
+I've had some questions on maps and creating your own stuff.  One thing that is confusing is creating your own textures.  We've written a program called qdata for converting .pcx's to .m8's but apparently we neglected to give any examples.  So, here is an example.
+
+A .qdt file is simply a text file for clipping textures, skies, and sprites.  If you want to do this, open a new text file in Notepad.  Following is an example of what needs to be in there:
+
+$mipdir General           	(Needed dir; in this case General)
+
+;=================================================
+; BRICKS AND STONES       	(Semicolon lines are comments and don't get used)
+;=================================================
+
+$load art/gfx/textures/general/final/teleport.pcx
+$mip	teleport   0	0	128	128	stone
+
+(This is to clip one texture.  The first line is to load a pcx from the specified path.  The second line after $mip is the name you want for the texture in the editor, its starting x and y values in the actual pcx [(0 0) is the upper left], the size of the texture, and its default sound.  You can also specify default surface flags such as transparency, water, sky, etc.)
+
+Save the file as "name.qdt", "name" being what you want your texture set to be called.  (Note:  If you create your own texture set, you have to modify your heretic2.qe4 file so that the editor will see it.)
+
+From the command line, go to the directory where the tools are installed and type "qdata name.qdt" to clip your textures.  Remember to give the appropriate path for the .qdt's location.
+
+This should get you started.  Again, if you have questions, feel free to email me.
+
+11-30-98
+
+It's great to see the positive response for Heretic II out there.  I just got back from
+a one week vacation to nowhere.  I stayed home and slept mostly.  But I also played Sin and
+Half Life.  I'm not quite done with Half Life yet, but I'm very near the end.  This game
+is really cool!  Other than that, it was nice to get a break after 14 months of crunch.  I
+went right from the Hexen 2 Mission Pack right to Heretic II without a break.  That's a long
+time to go without a vacation. 
+
+If anyone has any map making questions, feel free to email me.  We're going to try and put
+up a webpage of some sort to deal with design questions.  I'll post something here if we get
+that up and running.  The documentation should answer most questions, but I probably missed
+some things in the last few weeks.
+
+10-26-98
+
+Burning the late night oil again... still.
+
+I've been browsing the 'net while waiting for a map to vis and I checked out the reviews
+of our demo.  I have to say without a doubt, this is the best reception I've seen to one
+of Raven's games.  Everyone who has previewed or reviewed has been most favorable in their
+responses.  Thanks!  Just remember, the demo is just a demo!  Wait until the real thing.
+
+I've already been getting questions about making maps for the game.  Fear not!  Our
+wonderful (OK, passable) editor will ship with the game.  I've also written a manual to 
+explain the inner workings of all our stuff.  Right now, the manual is at 66 pages, and
+that's without the pictures.
+
+In the meantime, enjoy the demo and we'll finish the game up for ya.  Remember, bugs can
+be sent to heretic2bugs@mail.ravensoft.com.
+
+Suggestions that are not bugs can be sent to heretic2suggestions@mail.ravensoft.com.
+
+See ya soon!
+
+
+10-23-98
+
+Well, the demo is out.
+
+Sorry about the lateness of it, but some things were unforseen.  We had to make sure the 
+demo was as solid as possible and wouldn't re-format your HD or something.  
+
+It was nice to get on IRC (I was a newbie), and chat with some of the fans.  I think
+that my .plan file is a little safer... and slower.  I was having trouble keeping
+up with the constant changes in conversation.
+
+I hope everyone enjoys the demo.  If you have any problems (or praise), mail 
+heretic2bugs@mail.ravensoft.com.
+
+Now, we just have to get to Gold!
+
+
+
+10-22-98
+
+D-Day!
+
+Today is Demo Day for Heretic II.  As everyone knows, it'll be out sometime tonight.
+
+But, the real reason I've decided to update this thing after three months is to give out
+a huge thanks.  This thanks is to the whole Heretic team in general, and the programmers
+specifically.  They have worked their asses off this week to make sure this demo is complete,
+solid, and fun.  This game has the funnest deathmatch I've played in a long time.  
+
+Now that the sincerity is over with, remember to get on IRC tonight to chat with some of us
+Heretic guys.  For info, check www.hereticii.com, a new (and cool) page dedicated to all 
+things Heretic II.
+
+See ya in deathmatch.  I'll be Shifty. 

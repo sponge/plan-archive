@@ -1,0 +1,42 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+
+9/5/2000
+
+Hi there.  Still not time to release word on Nihilistic's next project, 
+but there are a few other things I'd like talk about.
+
+First off, since the GD postmortem I've gotten a lot of email about how we 
+integrated the Java stuff into our engine, and I replied to the first few 
+and then got burnt out typing the same thing all the time, so if I haven't 
+replied to a question along those lines, its because I've decided to 
+writeup an article about it in more detail for Gamasutra, so assuming its 
+good enough (and assuming I finish it soon), it should show up 
+there eventually.
+
+Also, if there are other folks out there who have done interesting things 
+with scripting language (Java, LUA, roll-your-own, etc.) I'm trying to 
+organize a panel discussion for GDC2001 on this very important (but often 
+overlooked) topic.  So if you have an interesting war story to tell about 
+scripting languages in a commercial title (positive or negative) email me 
+at innerloop@nihilistic.com so we can pull together and share that info.
+
+Along similar lines, I'd like to encourage anyone in the biz to check out 
+the GDC 2001 submissions page, its that time of year again and we're 
+anxious to get some great submissions and hopefully a lot of first-time 
+speakers this year to keep things fresh.  The suggested topics should give 
+some idea of where the conference is headed next year.  The page is at 
+http://www.gdconf.com/speakers
+
+The next conf isn't until March 2001, but the submission deadline ends in 
+less than a month.
+
+Thanks.  I promise the next update will contain some actual info about 
+Nihilistic and our next project (maybe..)
+
+
+

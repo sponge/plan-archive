@@ -1,0 +1,13 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+Master stuff.
+
+The wolf master is going down for some work, I expect a 30-60 minute downtime.
+
+Mac stuff.
+
+The OS X dedicated server and client //should// be done today, there was a bunch of changes to the general codebase before the test went out, and it seemed wiser to allow that hubbub to settle down a bit.

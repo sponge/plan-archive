@@ -1,0 +1,19 @@
+GarageGames plan resource for Rick Overman
+Posted Thursday November 1, 2001 at 18:23 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=1633
+
+I have been in and out of town quite a bit these last two weeks visiting relatives in San Francisco and attending a couple weddings.
+
+We are quickly wrapping up the code for the Demo and are somewhat in a holding pattern waiting for art to be completed so we can put the finishing touches on the Demo.  In the mean time I have been revisiting documentation.  Many of you may have noticed I recently posted [url=http://www.garagegames.com/mg/v12sdk/doc/sample/index.php]sample documentation[/url] for non-Torque owners and also updated 1,952 pages of Doxygen [url=http://www.garagegames.com/mg/v12sdk/doc/engine/]Torque docs[/url] for the 1.1.0 code release (viewable only by Torque owners).
+
+The last couple days I have been doing a total re-write of the Getting Started Docs using Doxygen.  The new docs are much more streamlined and contain lots of pictures to help guide you though setting up your compiler and getting the Torque to compiled for the first time.  
+
+Any Torque Game Engine owners out there who would be interested in reviewing the docs for accuracy and providing feedback please send me an email.  There are a couple operating systems and compiler versions I do not have access to at the moment so your help is appreciated.  I am looking for people with the following systems:
+
+Windows 95/98/XP users
+Visual C++ Standard or Enterprise Edition users 
+
+Thanks,
+--Rick
+

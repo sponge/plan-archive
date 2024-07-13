@@ -1,0 +1,127 @@
+Login: ridah          			Name: Ryan Feltrin
+Plan:
+
+Ryan Feltrin
+<a href="mailto:ridah@frag.com">ridah@frag.com</a>
+
+Technology & AI Programmer, <a href="http://www.xatrix.com/">Xatrix Entertainment</a>
+
+
+11-Jul-99
+----------------
+
+Here is a list of the notable changes in the upcoming Kingpin v1.1 patch:
+
++ Fixed long level loads
++ Fixed pauses during multiplay
++ Fixed erratic mouse during multiplay
++ Optimized support for Vertex Arrays, significant rendering gains on supported cards
++ Allow access to consol while in multiplayer game
++ Only play intro once
++ Optimized scoreboard, fits more players
++ Fixed invalid model causing a thug model with sewer rat skin during teamplay
++ Fixed gibbing characters in single player mode causes character to dissapear
++ Completely disallowed alt-tab, causes several video drivers to hang the system
++ Added "maxrate" setting for servers
++ Pain skins on buddies in single player
++ Allow for multiple CD drives
+
+Why am I posting this here and now? Well, in the interests of making the patch
+as complete as possible, if anyone knows of any other problems that aren't mentioned
+here, then send them to me, and I'll try and roll them into this patch.
+
+The linux server release seemed to go down without a hitch, which is encouraging.
+Therefore, consider last week's release out of beta. I will make sure an updated
+server is available along with the updated clients, since they will not be backwards
+compatible.
+
+
+----------------
+06-Jul-99
+
+The Linux Kingpin dedicated server is now available.
+
+This is considered a BETA release, although it may not be marked as such,
+we have only tested it for about 16 hours on a half-dozen servers.
+
+There are currently two packages available.
+
+<a href="http://impact.frag.com/ridah/kp_linux/kingpin-dedicated-pack.tar.gz">Dedicated server PACK</a>. This includes all maps and player models required
+to run a dedicated server only. (10.5mb)
+
+<a href="http://impact.frag.com/ridah/kp_linux/kingpin-dedicated-glibc-i386-unknown-linux.tar.gz">Intel386 Linux glibc 2.0.7 binaries</a>. (0.5mb)
+
+Make sure to read the kp_linux_readme.txt for installation and usage notes.
+
+Please report any bugs to me asap. I'm new to Linux development, so be as
+informative as possible with any reports.
+
+Ridah
+ridah@frag.com
+
+
+----------------
+05-Jul-99
+
+
+Server Ops: If you are running Kingpin Bagman (Teamplay) on your server,
+I recommend turning off team-damage. Just open up the server.cfg to
+see how easy it is to do this. This has a significant effect on gameplay.
+
+Also please notify if you are experiencing server crashes. I've noticed a
+few servers going up and down today, if this is due to our code, I'd like to
+know.
+
+
+Players: If you are experiencing pauses or slowdowns in Kingpin multiplay, please
+report it to me, along with your system specs, and any possible work-around's
+you've found to work (this will help me fix it). I've heard of several people
+experiencing frequent pauses and other strange occurances during network play.
+I've been told changing the connection speed to modem in the player config menu
+solves problems for some, let me know if this is/isn't the case for you also.
+
+The network code has been re-worked from the Quake2 engine, to provide
+for better performance on low bandwidth (modem) connections. I also worked the
+directional lighting such that the server actually calculates which lights are
+touching you, and sends them as index pointers through the network stream. The
+traffic created by this is negligible (maybe a few bytes per second) and is
+all in the interests of keeping the client frame-rates as high as possible.
+
+So as you can see, I am definately interested in making sure Kingpin multiplay
+is everything it can and should be. If you are experiencing problems, I'd like
+to hear from you.
+
+
+----------------
+04-Jul-99
+
+First, the response to Kingpin Deathmatch and Teamplay (BagMan) has been great.
+However, this has caused a severe shortage of servers, so I have been working
+feverishly on the linux dedicated server port, which I'm happy to say is ready
+for small-scale testing.
+
+So, the first six server ops running Linux glibc 2.1 to come forward willing to test
+out this early build, will be put on my short beta testing list. Hopefully this
+first stage of testing will go smoothly and if so, the linux server will be just
+a few days away.
+
+--
+
+Now, another "possible" solution to the long CD loads (again, I can't test these out,
+since none of our machines exhibit the problem). This courtesy of <a href="http://www.rcook.com">Randy Cook</a>.
+
+1) Save your current game in the Save Game menu.
+
+2) Exit Kingpin
+
+3) Put the Kingpin CD in the tray, but leave the tray open.
+
+4) Start Kingpin
+
+5) At the main menu, select "Game" then "Load Game". Do not start game yet.
+
+6) Close the CD tray.
+
+7) Select your saved game, and begin playing.
+
+Hopefully this will help things out, but again, I have no idea if this will work.

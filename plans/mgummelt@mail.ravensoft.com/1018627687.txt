@@ -1,0 +1,115 @@
+
+Name: Mike Gummelt
+Email: mgummelt@ravensoft.com
+Description: Programmer
+Project: Jedi Knight2
+-------------------------------------------------------------------------------
+4/11/02
+
+Well, in addition to www.jediknightii.net and www.massassi.net, we now
+have a new archive for file downloads - www.jk2files.com!  Between these
+three great sites, you should have no problem finding any JK2 files or
+mods you've heard about...
+
+Here's the e-mail he sent us about it.  Go on and give it a visit, they
+have a great start on skins, and the "ladder" map I mentioned in my
+last plan update (see below).  More downloads and maps should be coming
+pretty soon, too... 
+
+
+
+From JK2Files.com:
+
+I just wanted to let all of you know that we've just launched!
+I think the name says it all. THE Jedi Knight II download repository.
+
+We've done mini-reviews for quite a few skins so be sure to check yours out!
+
+Some of you might already be familiar with our other sites RTCWFiles, 
+SoFFiles, EliteForceFiles, BridgeCommanderFiles, Warcraft3Files and 
+AvP2Files, if so, you know that JK2Files.com will be good! :)
+
+Anyways I just wanted to let you folks know this, especially now that one 
+of the biggest JK2 sites, jkii.net seems to be swamped with traffic, this 
+will be a nice site for you all to visit!
+
+I've spent the last 5 days digging through forums and a good amount of 
+websites. I'd like to say thanks to Massassi.net, JediKnightII.net and 
+Jedi-Outcast.com for the files I found there :D
+We still have about 10 skins to add, which we'll do in the coming hours.
+
+If you have a new or updated file, send it to us at files@jk2files.com
+If you got news, send it to news@jk2files.com
+
+Oh and here's an overview of what we currently have online:
+
+Archive Size: 83.97 MB
+Files: 76:
+Bots - 8 Files
+Maps - 6 Files
+Mods - 8 Files
+Media - 6 Files
+Skins - 34 Files
+Models - 1 File
+Utilities - 2 Files
+Official Releases - 2 Files
+
+Finally, if you have a website, feel free to add your link to our site (if 
+it's not already there) at http://www.jk2files.com/file.links The "add 
+link" is at the top!
+
+Sincerely,
+
+Jos "Pro-Filer" Jongejan
+JK2Files.com
+
+*************************************************************
+
+4/8/02
+
+Wow, been a long time since I updated my .plan file...
+
+Just wanted to say a couple things about JK2...
+
+I see the mod community is very eager to get started
+making mods and we are working on getting all the
+tools ready for release.  As soon as we're sure they
+work 100%, we'll release them - we don't want to release
+them only to have to release them a few more times
+if people have problems with them... please be patient... :)
+
+There are a few mods out there, already, that I've seen...
+There are some skins (I've seen an alternate MotS-era 
+Kyle, an alternate Luke, a Darth Maul and a few others 
+already) and I see there are a good number of maps waiting 
+to be BSPed for JK2.  A couple people have responded to my
+open invitation to BSP any maps that are ready for release
+(in retrospect, that was a much larger task than I anticipated
+because of some of the changes between Elite Force and JK2, 
+but, hopefully, we'll see some maps coming out soon).
+
+One map that is out that I recommend is the "Ladder" map, 
+it's a single-player map that basically starts you out 
+with full force powers fighting one Reborn in an arena-like 
+room (similar to one of the JK2 multiplayer duel maps).  
+After taking him out, you fight 2 of them, then move up to 
+the next hardest Reborn, etc, etc, up through something like 
+50+ Reborn... basically, a non-stop saber-combat fest.  
+Since it seems like that was one of the favorite parts of 
+JK2 for a lot of people, I suspect you'll like this first 
+SP mod map.  The music isn't quite Star Wars-y, but it's fun 
+and, if you don't want it, there's even a 500K or so download 
+for the map without music.
+
+Anyway, just a heads up and a big thanks to the JK2 community...
+
+BTW - you should be able to find and download these mods at
+
+www.JediKnightII.net - Click on "Home" under the "Files" section
+in the menu on the left.
+
+And:
+
+www.Massassi.net - look at the "Downloads" part of the menu
+on the left (note that they have downloads for the 1997 original
+Jedi Knight game as well as some for Jedi Knight II: Jedi Outcast).

@@ -1,0 +1,146 @@
+
+Name: Chia Chin Lee
+Email: cclee@mail.ravensoft.com
+Description: Sound / Music
+Project: General
+-------------------------------------------------------------------------------
+1/12/99
+
+A few months ago, I wrote a brief essay on sound and immersion
+while collecting my thoughts.  I hope that it may be of interest
+to others.
+
+***
+Sound and Immersion 
+
+In order for us to study audio in games, we must look at a similar
+medium, film sound.  There has been a lot of books and scholarly articles
+written about film sound.  We can enrich our knowledge by studying an
+established field while appending our own game experience to form another
+skill set.
+
+I chose game audio as a profession because it is a field in constant
+flux...future advances would likely occur in leaps.  Truly exciting stuff!
+A lack of standard can be perceived as a good thing, in my humble opinion.
+Because there are no set way to do things, experimentation with different
+technologies and aesthetics thrive.
+
+In the film world, the artistry of sound design and composition will
+continue to progress and refine itself, but established methods have
+generally been agreed upon.  The present state of game audio is akin to the
+beginning of sync sound in film.  Game developers remain confused as to how to
+properly use sonic elements to enhance the software.  Sound is neglected and
+dismissed because it is misunderstood or misused.
+
+In films, sounds can be used to create more immersion than image 
+because of three reasons:
+
+1) Physical
+Sound can be *felt*, literally.  Extreme low frequencies can cause nausea,
+and extreme highs can cause restlessness.  A constant sound pressure can be
+maintained to manipulate the audience's physical sensation.  Go watch a
+sci-fi thriller in a movie theatre with a good speaker system.  Listen for
+that "low rumble"when unspeakable horrors lurk around the corner.  The low
+rumble is meant to physically stimulate the audience (subliminally, of
+course) into feeling anticipation and nervousness.  Hitchcock was very fond
+of this technique.
+
+In *games*, the physical nature of sound is lost, mostly due to the low bit
+and rate of the samples.  Added on top of the lost frequencies of sounds,
+the audio usually emanate from little multimedia speakers that muffle and
+distort the output.
+
+2) Sound Enclosure
+In a movie theatre, sound envelopes the theatre through the speakers.
+Although the picture is confined to a screen, the sound is not confined to
+the speakers, but rather the entire theatre.  The audience is watching a 2
+dimensional screen, but they *exist* within the three dimensional auditory
+space!  Sound erases the barrier of pictures and belief by enclosing the
+viewers in a real, physical space.  Sound can create spatial relationships,
+establish locale, and cover up the lack of visual details.  The viewers are
+sharing the same auditory world as the characters on-screen.
+
+In *games*, rarely are the speakers set up optimally, thus disabling the
+player's ability to "exist" within a sound enclosure.  Immersion cannot be
+introduced because few players do not have the hardware capability to exist
+in a sonic bubble.
+
+3) Sound as Language
+The usage of sound can be overt or covert, triggering physical and culturally
+ingrained responses.  The careful interplay between image and sound gives
+the sound designer a repertoire of speech conventions similar to those found
+in the literary world.  Sound can invoke irony (laugh track in a horror
+movie stabbing scene), foreshadow events (slow, deep drones warns the
+viewers of the ensuing tension before it transpires), create a simile (a
+man is stabbed in a train, and his scream is intertwined with the shrill
+train whistle), and so forth.  However, to effectively use sound as
+language alongside with visuals, it needs to build itself around the
+structure of *preplanned* image.
+
+Furthermore, when audio exists with visual, three relationships can occur:
+
+a) picture and sound of equal dominance.  Example: an intense car chase,
+pounding music accentuating action, along with screeching tires.
+
+b) sound as master, picture as slave.  Example: a dimly lit space where the
+viewer can't see anything, but low foreboding music and echoey drips of
+water outline the situation and location of the characters.
+
+3) picture as master, sound as slave.  Example: man stabbing woman
+violently, no music and complete silence... The lack of any sound makes the
+viewer focus intently on the disturbing events.
+
+These three relationships are essential for creating immersion, because
+they help direct the attention of the viewer.
+
+In *games*, the effective usage of sound as language is much more difficult
+to accomplish due to technological limitations and the dynamic freedom
+found in the medium.   In the film world, coherence in sonic language is
+easier to achieve because the audio track is composed for a predictable,
+linear medium...  In the game world, the audio remains the linear
+component, while the image becomes dynamic!
+
+Think of games and the way in which music and sound effects fit in.   Most
+sound effects are triggered in games by the players' actions (press 'x' for
+gunshot...bang!) or other pre-determined circumstances (when player reaches
+the steam tunnel, play a 3 second looping ambience file until the player is out of
+range).  The problem lies in the static nature of these triggered sound
+bites.  One way to make up for "canned" sound is to provide some variety of
+the same sound, picked randomly by the game when it is triggered.  However,
+there still exists a finite set of sonic possibilities for an almost
+infinite set of situations created by the players.
+
+The same dilemma applies to the game musical score.  A looping musical
+score is the greatest sin of all.  It has no correlation with the game
+whatsoever.  When looping music is set to the game, it is as if two people
+are talking to each other without reference to what the other person just
+said.
+
+Along the same line, looping fragments of music that change in accordance
+to the players' actions is only marginally better.  Although the score does
+attempt to talk to the picture, it does so in a limited and "canned"
+fashion.  Back to the analogy of two people holding a conversion... This
+time one person asks a question, while the other person responds in the
+most rudimentary fashion, always using the same phrase to answer it.  The
+point is made, but the execution is boring and extremely predictable.
+
+Many tools are available or are being developed to create true dynamic
+music.  However, many of these tools are based on the GM/XG, MOD, or DLS
+ideal.  While I praise these formats for their effort, currently I will
+choose my 128 Meg samplers to create redbook or interactive looping wave
+files any day!  The paradox is clear:  Should we use poor quality, 1 to 2
+meg GM, MOD, or DLS banks to create a dynamic score, or a humble
+interactive music system with sounds limited only by your studio gear?  I
+choose the latter, because I firmly believe that anything of bad sound
+quality, regardless of its cutting-edge dynamic attributes, will be turned
+off or laughed at by callused players.  It is the greater of two evils at this 
+point in time.
+
+If we want game audio to progress, we need the cooperation of the
+developers and *players* to create the ideal aural experience.  Programmers
+need to allocate more resources for audio, while players need to
+upgrade their soundcards and speakers.  I'm eagerly awaiting the day when games
+perfectly weave graphics and sound into one inseparable component...  After
+all, can you imagine watching THX1138 without any sound, or listen to its
+soundtrack without seeing the image?
+***

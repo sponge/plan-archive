@@ -1,0 +1,11 @@
+GarageGames plan resource for Tim Gift
+Posted Tuesday May 8, 2001 at 16:30 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=922
+
+Well, things aren't going all that well here.  I posted last time that I pulled a muscle in my lower back...  For a while it was getting better, but now something else is going on and my back is getting worst.  I finally made an appointment to visit my Dr. which I was reluctant to do while I thought it was just a pulled muscle.  I see him tomorrow morning, and hopefully I'll find out what's going on. The bad part is that I'm not getting any work done at all. I just can't seem to find a sitting position which doesn't hurt like hell after a few minutes.
+
+As it stands Rick is really the only one working on the V12 engine, which is going to cause some delay.  We had originally quoted the "end of April" as the release date, but we did that before we had a real chance to review all the code and scripts source.  This was also before I had my injury.  Instead of trying to estimate another fixed date, we're going to post weekly progress reports which should be a little more informative. Rick posted one last week on in the V12 tech forum, but we'll put together a status page or something so that they are easier to find.
+
+I can't tell you how frustrating this back problem is getting.  I could deal with it at first... catch up on some reading and movies etc., but now I'm getting really tired of it. This is almost the longest stretch of time in which I haven't done any programming.
+

@@ -1,0 +1,112 @@
+
+*** Ion Storm's Finger Server
+
+User name: montague
+Plan modified: Wed Apr 14 13:45:32 1999
+
+99.04.14
+--------
+
+Right now my life consists of work, hockey, EverQuest and a new Rottie
+puppy who I get next month.  You'll be hearing a lot more about him.  Sorry. ;)
+
+First, I have a new interview up at PlanetDaikatana.  
+http://www.planetdaikatana.com/interviews/mikem-01.shtml
+
+In this article I failed to mention anything about A3D which caused a flood of
+email.  We currently do support A3D 1.0.  Soon we will have support for A3D 2.0
+as well.  Anyone with a card that supports A3D, D3D, or EAX and has a set of 4.1
+or 5.1 speakers will have an awesome sound experience!  At the time of the 
+interview I was working strickly with the EAX features of the SoundBlaster Live!
+I now have a test computer with a Live! and one with an MX-300 so I can test
+equally and they both sound great!
+
+My tasks lately have been: Fixing sound problems in the engine, working on the save
+and load routines, and tweaking monster behaviors and weapons.
+
+We are showing single player stuff at E3.  Stay tuned.
+
+99.01.28
+--------
+
+Gifts in the mail!  Aureal sent us the SDK for A3D 2.0 today.  So that will
+be my first priority after the DeathMatch demo is done.  They also sent a
+new Diamond MonsterSound MX300.  Same Vortex chip as the old one, but the
+board is slightly different.
+
+I'll try and get my surround speakers all setup and test both the Creative
+Labs Live! and the Diamond MonsterSound MX300.  I'm still waiting on Creative
+to send me my new 5.1 speakers ...
+
+DeathMatch demo is looking awesome, you guys are going to love it.  We've
+added new character animations, new weapon effects, and some other goodies
+for y'all to play with.
+
+"THIS GAME IS ROCK HARD." - Eric Smith
+
+
+99.01.05
+--------
+
+Polished off the sound code today.  Some of you might be interested to know
+that Daikatana will be using MP3s for the cinematic audio.  Aren't we just
+technology hounds?
+
+3D sound is in and is sounding excellent.  I've tested everything on a Creative
+Labs Sound Blaster Live and its a great card.  I'll be testing on a Diamond 
+Monster Sound also, so all you Diamond owners will be covered.
+
+This rest of this update is rants.  Feel free to ignore me.
+
+I got a Creative Labs Riva TNT card the other day.  For $99 you can't beat
+this card.  Forsaken looks excellent, Quake/Quake2 just rock, and Half-life
+looks good as well.  If you are looking for an excellent 2D/3D card at an
+excellent price go buy one.
+
+Also, today I got an email from Origin.  Basically they told me to piss off.
+I guess I'm waiting for Everquest now.  Too bad Ion Storm isn't doing an
+online RPG.
+
+
+99.01.04
+--------
+
+Happy New Year Everyone!  Two years to the millenium!
+
+Today I've got two things and they aren't related to Daikatana or Ion Storm.
+
+First, is my bitch.  Ultima Online needs to fix their Player Killer problem.
+That's all I'm saying for now, but be prepared to hear more about this.  Also,
+feel free to email and bitch about my opinion on this topic.
+
+Second, the Diamond Rio kicks much ass!  John bought us all Rio's and they
+are like the greatest things on earth.  (THANKS JOHN!)  The hardest thing
+about having one is picking out the 8 songs I want to keep on it.  (At 128k
+you can hold about 8 songs.  At 64k though you can hold 16, thus the 60
+minutes of music.)
+
+Hopefully Diamond will make larger memory cards than 16MB.  (And drop the 
+price!)
+
+
+98.12.22
+--------
+
+Okay, I'm here I might as well tell y'all what I'm doing.
+
+Sound Engine - I took over all the sound code stuff.  I ripped apart the 
+original Quake 2 code and made it work with the Miles audio engine.
+If anyone wants to add sound to any game I highly recommend it.
+(http://radgametools.com). 
+
+I am currently in the process of adding some cool 3D audio stuff so
+that all you people with SB Lives will have a kick ass game to play. 
+If you don't have one yet.  Go buy one.
+
+Other cool things to be added:  
+* Streaming Audio - For cinematic audio streaming off CD
+
+Also, thanks to me our viewthings now play their sounds with their
+animations.  Totaly useless to y'all, but it's progress. :)
+
+

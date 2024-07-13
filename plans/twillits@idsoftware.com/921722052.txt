@@ -1,0 +1,21 @@
+
+Name: Tim Willits
+Email: twillits@idsoftware.com
+Description: Designer
+Project: Quake Arena
+-------------------------------------------------------------------------------
+
+New Quake 1 map
+
+I had an old Quake 1 map lying around so I thought I would release it.
+
+This map was originally built for the Quake 1 arcade game, a conversion
+of "The Edge" for Quake2. I added some teleporters to it in hopes of speeding up
+gameplay and help prevent camping. 
+
+For those of you who like to play Quake 1 I hope you enjoy this.
+
+Thanks, Tim
+
+ftp://ftp.idsoftware.com/idstuff/quakeworld/maps/q1edge.zip
+

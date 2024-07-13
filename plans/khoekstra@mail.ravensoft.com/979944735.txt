@@ -1,0 +1,323 @@
+
+Name: Kenn Hoekstra
+Email: khoekstra@mail.ravensoft.com
+Description: Project Admin
+Project: General
+Web Page: <a href="http://www2.ravensoft.com/users/khoekstra">Kenn's Web Site</a>
+-------------------------------------------------------------------------------
+Friday, January 19th, 2001 - Good Lord...  Nineteen days into
+2001 and this is my first update.  What happened to the old me?
+Heh...
+
+Question for you artist types out there :
+
+Our artists are having a problem with Photoshop 6.0 and the PNG 
+file format. The PNG file format is discarding the alpha channel 
+when attempting to save. This seems to be an inconsistent error.  
+Opening the same PNG file will result in different results. 
+Photoshop 6.0 has two PNG file formats listed in saving PNG8 
+and PNG24, but they are not marked so you can tell which is which.  
+It really comes down to a crapshoot on if it will work or not. Any advice 
+or solutions to this headache are greatly appreciated.
+
+Thoughts?  <a href="mailto:khoekstra@ravensoft.com?subject=Photoshop 6.0 Solution">Drop me a line</a>. 
+
+Thanks in advance!  
+
+I've finished the revamp of Ravensoft.com and added a page for
+each of our classic games from Black Crypt through the present.
+If you are interested in a Raven Software history lesson, visit
+<a href="http://www.ravensoft.com/frameset.html">http://www.ravensoft.com</a> (Flash Required) and click on the
+Raven Games tab in the left column.  Each game description has
+a link in it to the individual game pages.  Nif-tay...
+
+Have a great weekend!  All the best...
+
+--Kenn
+
+**************************************************************
+
+Thursday, December 28th, 2000 - Raven Software has re-launched
+its homepage at <a href="http://www.ravensoft.com">http://www.ravensoft.com</a>.  The new site was
+developed by <a href="http://www.meltmedia.com">MeltMedia</a> with news update software and hosting 
+by <a href="http://www.telefragged.com">Telefragged</a> and Artwork and Art Direction by Raven's own 
+Robert Gee.
+
+Comments on the Artwork?  <a href="mailto:rgee@ravensoft.com?subject=Ravensoft.com Re-Design Comment">Drop Rob Gee a line</a>. 
+Comments on the Design?  <a href="mailto:brandon@meltmedia.com?subject=Ravensoft.com Re-Design Comment">Drop Brandon at MeltMedia a line</a>. 
+Rather tell me?  <a href="mailto:khoekstra@ravensoft.com?subject=Ravensoft.com Re-Design Comment">Drop me a line</a>. 
+
+Happy New Year, everyone!  You ain't seen nothin' yet...
+ 
+
+
+***********************************************************
+
+Friday, December 22nd, 2000 - I posted an article that I
+wrote a while back on our www2 server that may be of interest 
+entitled: <a href="http://www2.ravensoft.com/getajob.htm">How To Get A Job In The Game Development Industry</a>.
+
+If you're bored, you may want to give it a read.  If you 
+know of any websites or insights that are missing, feel
+free to <a href="mailto:khoekstra@ravensoft.com?subject=Get A Job Article Addition/Comment">drop me a line and let me know</a>.  
+
+I plan on making this an ongoing thing.  Mostly it's a reference 
+guide for Raven to hand out to children's groups, interested 
+parties and guys and gals who need resources for school projects.
+
+If you find it useful, feel free to pass along the link to
+those who will inevitably ask the questions:
+
+1. How Do I Get A Job In The Games Industry?
+2. I Have A Great Idea For A Game...How Do I Get It Made?
+3. I Have A Report Due Tomorrow...Will You Help Me?
+
+Happy Holidays, everyone!  Drive safe and be safe...
+
+
+
+*********************************************************
+
+Tuesday, December 19th, 2000 - Nothing like another nine
+inches of snow to warm the cockles (is that a word?) of
+your heart.  Gotta love Wisconsin weather...  =)
+
+Aspyr has released the MacIntosh demos for Elite Force.
+There is a single player demo that weighs in at 115MB
+and a multiplayer demo that weighs in at 30MB in size.
+Both are available for <a href="http://www.macgamefiles.com/detail.taf?item=14928">download at this link</a>.
+
+Mirrors are available at:
+- <a href="http://www.3ddownloads.com/?directory=/ravensoft/Voyager:%20Elite%20Force/Mac_Demos/">3DDownloads.com</a>
+- <a href="http://www.voyagereliteforce.com/files.asp?dir=/official">VoyagerEliteForce.com</a>
+
+System Requirements:
+- Apple G3 266 mhz processor or higher or
+- iMac (Revision B) or higher
+- 64 MB of Memory
+- 3D-accelerated PCI or AGP video card w/at least 6MB 
+  VRAM and Apple OpenGL version 1.1.2 (or higher) support
+- Virtual Memory required (at least 128 MB)
+- MacOS 
+
+In other related news, Elite Force was awarded "Action
+Game of the Year" <a href="http://www.gamespy.com/articles/december00/goty2000/indexaction.shtm">by GameSpy </a> and by the <a href="http://www.3dactionplanet.com/features/articles/goty2000results/index2.shtml">GameSpy Readers' Choice Poll</a>
+as well as by the German print magazine "PC Player."  
+
+The game also claimed "Video Game of the Year" honors from the 
+(aptly named site) <a href="http://www.videogameoftheyear.com">VideoGameOfTheYear.com</a>.
+
+How cool is that?
+
+***********************************************************
+
+Thursday, December 14th, 2000 - Did you hear about the
+snowstorm that rocked the midwest recently?  How bad
+was it, you ask?  Well <a href="http://www.writersofthelostark.com/ravenhoth1.jpg">check THIS out</a>...
+
+We're having some trouble adapting the speeders to the cold... =)
+
+Have a great weekend!
+
+
+**********************************************************
+
+Wednesday, November 22nd, 2000 - Raven and Activision are
+off Thursday through Monday, so have a safe and happy
+Thanksgiving weekend, everyone!  Be careful out there if
+you're traveling...
+
+Talk to you all soon...
+
+********************************************************
+
+Friday, November 10th, 2000 - Well, I'm back for good and
+the wedding was a blast!  The biggest adjustment?  Typing
+with a ring on my left ring finger...  *laughs*  Other than
+that, things are peachy and married life is grand.  =) I'm
+all caught up on the unbelievable amount of e-mails I 
+received, too.  Sorry if anyone had to wait too long for a
+response.  Thanks for your patience...  I hope to post some
+wedding pictures soon!  Stay tuned...
+
+As you probably read, we just released the Hexen II Source
+Code!  You can read the <a href="http://www.ravensoft.com/announcements.shtml">announcement here</a> and grab the
+<a href="http://www.3ddownloads.com/showfile.php3?file_id=107009">source code here</a>.
+
+As far as the Presidential election goes, how's this for
+<a href="http://evilavatar.com/EA/News/M15830/pictures.htm?imgID=2300">funny</a>?  <a href="http://evilavatar.com/EA/News/M15830/pictures.htm?imgID=2301">Or this?</a>? =)  Now that it's over, I can tell 
+you that I voted for George W. Bush.  At this point, though, 
+I don't care who wins.  I just hope one of them is man enough 
+to step down and let the country (and the stock market) move 
+on...  Nixon did it...Al or G.W. should, too.
+
+My two (or three) cents...
+
+*********************************************************
+
+Monday, November 6th, 2000 - Though I'm not due back to
+work until Wednesday, I felt it was important to come in
+and make this update:
+
+Tomorrow is election day.  George W. Bush and Al Gore 
+are running for President of the United States and it's 
+time to get out and vote.  There are also numerous other 
+state and federal offices up for grabs and your vote DOES 
+make a difference.  The Presidential race is especially 
+important because the winning candidate will likely shape 
+the face of the law for the next forty years with his 
+selection of several Supreme Court Justices.  The latest
+polls show a dead heat this election, so now more than
+ever your vote can make a big difference.
+
+Many men and women have fought and died over the years for 
+your right to vote and you should honor them by exercising 
+that right.  It's a simple thing that takes very little
+time.  Just do it...
+
+I'd love to use this forum as an opportunity to endorse a
+candidate, but I won't.  I'd rather point you to some
+resources to read more about each candidate so you can 
+make an informed decision.  Here are the most useful
+sites on the 'net that I've seen so far:
+
+* <a href="http://www.georgewbush.com">GeorgeWBush.com</a>
+* <a href="http://www.algore.com">AlGore.com</a>
+* <a href="http://www.cnn.com/ELECTION/2000/resources/where.they.stand/">Where The Candidates Stand On The Issues</a>
+* <a href="http://www.mtv.com/nav/intro_chooseorlose.html">Choose Or Lose</a>
+* <a href="http://www.rockthevote.com">RockTheVote.com</a>
+
+Thanks for listening...  Get out there and VOTE!!!!
+
+
+***********************************************************
+
+
+
+Friday, October 27th, 2000 - This is my last .plan update
+as a "free man."  I'll be off next week to get married on
+a cruise down in the Virgin Islands.  Michele and I are
+tying the knot on Halloween in St. Thomas.  As a result,
+I will not be back at Raven until November 7th.  
+
+Take care, everyone.  I'll talk to you all when I get back...
+All the best,
+
+--Kenn
+
+
+
+
+*************************************************************
+
+Tuesday, October 24th, 2000 - As you may have noted in
+James Monroe's .plan file, the Elite Force Dedicated
+Linux Server is <a href="http://www.3ddownloads.com/showfile.php3?file_id=103589">available for download over at 3DDownloads</a>.
+
+RE: Joystick Code in Elite Force
+
+Many joystick users complained about the joystick code in the 
+Elite Force demo, so we changed it for the full version.
+Now the joystick users who weren't complaining are complaining 
+about the new joystick code and configuration options.  The 
+solution?  The upcoming patch for Elite Force will allow users 
+to choose between the demo setup and the original full version 
+setup.  This should solve a lot of the problems that you've
+been having.  We sent the patch to Activision for QA testing,
+but I have no idea when we're going to release it.  Thank you
+for not asking...  Maybe now both sides can be happy?  =)
+
+I noticed in this week's Best Buy circular that they're having
+a huge sale on KISS - Psycho Circus: The Nightmare Child!  You
+can get the full version for $9.99 and the Collector's Edition
+(which I highly recommend) for a mere $17.99.  This is a solid
+first-person shooter and I recommend grabbing it if you don't
+own it already.  I'll be grabbing another CE tonight...
+
+Only 7 more days until my wedding.  And they say the only 
+thing we have to fear is fear itself...  *laughs*
+
+***************************************************************
+
+Tuesday, October 17th, 2000 - Well, all the "T's" have been
+crossed and the "I's" have been dotted.  The Mac port of 
+Elite Force is a done deal.  Check out <a href="http://www.westlakeinteractive.com/news0175.html">this press release</a>
+from Westlake Interactive.  The Mac port is being developed
+by <a href="http://www.aspyr.com">Aspyr Media</a> and they're in production now.  I don't know
+when it will be ready to ship, but it is in the works.
+
+It's nice to finally be able to "officially" announce 
+something once legal does its thing.  =)
+
+On another, completely unrelated note, I am convinced that
+judgment day is upon us.  In the immortal words of Indiana
+Jones: "Don't look, Marion.  Keep your eyes shut!"  Can
+you believe a film studio <a href="http://ramhurl.film.com/smildemohurl.ram?file=filmcom/media/trailers/2000/rv8/vampi_newli_trail_176x132_vss100.rm">would do this to vampires</a>? 
+(Note: RealPlayer required to view "the horror.")
+
+I've lost all faith in the human condition...  =(
+
+********************************************************************
+
+
+Tuesday, April 18th, 2000 - For those of you having trouble finding
+Soldier of Fortune in Canada, check out <a href="http://www.dragon.ca">this site</a>.  Here you can
+find <a href="http://www.dragon.ca/games/action/soldieroffortune.htm">SoF for a reasonable price</a> and, more importantly, with a reasonable
+shipping cost.  If you're interested, you can also <a href="http://www.dragon.ca/games/adventure/starvoyagereliteforce.htm">pre-order Elite Force</a>.
+
+As Brian Raffel pointed out in his .plan, you can e-mail John F. Mullins
+at <a href="mailto:johnfmullins@hotmail.com">johnfmullins@hotmail.com</a> if you'd like to say a few words to  
+our illustrious Soldier of Fortune consultant.
+
+In addition, you can receive an autographed copy of John F. Mullins' book
+"Days of Fire," a novel of the Vietnam War by sending $6.00 (U.S currency
+and shipments only please) to:
+
+Buford Books
+PMB 105
+1509 N. Main
+Altus, OK  73521
+
+I guess that's enough .plan p1mpage for one day...  Back to the grind
+of Elite Force.  Expect big things soon...
+
+
+***********************************************************************************
+
+Wednesday, May 26th, 1999 - A new day has dawned in Kenn's World...  Last night, I
+asked Michele, the love of my life, to marry me.  And she said YES!  Thank you, Michele...
+You've made me the happiest man in the world!  I look forward to spending the rest of
+my life with you...  You are the most wonderful person I have ever known...
+
+Thanks to Rob "Beroge" Gee for ring shopping with me and special thanks to 
+Kim "Lee Majors" Lathrop for giving me the final "get in there, son...we need
+a base runner" speech.  =)  Oh...and thanks to 94.1 WJJO for playing "Rainbow In The Dark"
+during my drive to "the big moment."  I couldn't have done it without all of your help...
+
+Hey Matt!  You're next, buddy...  In the immortal words of "Nature Boy" Ric Flair....WHOOOOOOOOO!
+
+******************************************************************************************
+
+IN LOVING MEMORY - Kenneth Lee Hoekstra (August 26th, 1937 - April 23rd, 1998)
+
+Sunset and evening star.
+And one clear call for me!
+And may there be no moaning of the bar,
+When I put out to sea.
+
+But such a tide as moving seems asleep
+Too full for sound and foam.
+When that which drew from out the boundless deep
+Turns again home.
+
+Twilight and evening bell,
+And after that the dark!
+And may there be no sadness of farewell,
+When I embark;
+
+For though from out our bourne  of Time and Place
+The flood may bear me far
+I hope to see my Pilot face to face
+When I have crossed the bar.				...Alfred Tennyson
+
+********************************************************************************************************

@@ -1,0 +1,68 @@
+Nihilistic Software
+www.nihilistic.com
+
+User Name.........Innerloop
+Full Name.........Robert Huebner
+Description.......Lead Programmer
+
+8/28/99
+
+Haven't done an update in a while (other than to whine about our email crash,
+which has been healed nicely, thanks for all the cards and letters of support..
+
+We've been pretty much putting our heads down and cranking out a lot of gameplay
+elements in the last few week, which is pretty exciting stuff, actually.  I've
+been having some fun with networking and AI, and we're getting tons of new art,
+models, and interface screens in every day.  One of these days we need to snap
+some shots specifically of the UI -- its gorgeous.  And the new skies for the
+modern day levels will floor you, trust me.  We were driving to go see "The 13th
+Warrior" tonight, and when I saw the full moon out, I couldn't help thinking, 
+"Ours looks better than that"...
+
+I've also been working a bit on the side on a presentation I'm doing for the
+Game Developer's mini-conference in LA next month.  When I signed on for this
+it seems like years away, and now its like exactly one month from today, so 
+as usual I'm cramming.  It should be interesting though, I'll be talking about
+the entire life-cycle of our character modeling system.  Character modeling
+systems aren't particularly unique or anything -- every game has one -- but I
+thought it would be interesting to talk about the different phases ours went
+through and how it constantly got improved and morphed along the way.  For 
+example, we started with a real basic closed-mesh system like we used in Jedi
+Knight, because it was what I was familiar with in the past.  Well, after about
+1 day of that the artists the ability to do proper soft-skin meshes, so we 
+added that.  Then we heard from some friends that Requiem was doing WEIGHTED
+soft-skin meshes, so after playing with the math a bit, we added that, too.
+And so it went, feature by feature, until now we've got this huge thing with
+continuous automatic LOD, shadow volume rendering, material shaders, skeleton-
+attachments, etc.  Its interesting to take a step back and see how lots of 
+tiny, incremental improvements got us from where we started over a year ago
+to where we're at today.  Hopefully other people will find it interesting, too.
+
+The title of the talk is "Breathing life into the undead" or something like 
+that.  Hopefully anyone who's down in LA will have time to come check it out,
+its always fun to hear other people's ideas on this stuff.  Most times I start
+to talk shop with other programmers I end up getting a few new cool ideas.  The
+LA show is in Orange County (but they still call it LA) on September 27th.
+I'm also planning to give the same talk right here on our home turf at the 
+Marin (San Francisco) conference later this year (like December-ish).  Probably
+the Marin one will be the more polished performance, but it seems everyone other
+game developer up here has already stopped by for lunch to see this stuff...
+Check out www.gdconf.com and look for the "roadtrips" link.  Its like $90 for
+the day, and it would suck to give this talk to like 5 people I already know..
+
+Also, they're starting up another session of the UC Berkeley extension class in the
+city, which is more of an intro-level game programming thing than the Roadtrip
+deal, but its still fun.  Last semester's went really well and a couple of 
+people ended up landing cool new jobs.  The UCB extension in the City (and there
+is only one City, as you well know) has moved to a new location, so hopefully the
+traffic getting in is better.  This semester's class is 5 weeks on Tuesdays, 9/14
+to 10/12 from 6:30pm for 3 hours.  The URL for Berkely extension is 
+www.unex.berkeley.edu.  The course is something like "Game programming in Windows"
+(catchy, huh?).  
+
+Which reminds me, I'm dying to buy a new laptop to drag with me to the class.
+Anyone have any comments, pro or con about those slick Sony Vaio mini-notebooks?
+Serious techno-lust is setting in.  Email me.
+
+
+

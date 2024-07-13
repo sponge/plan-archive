@@ -1,0 +1,353 @@
+IcculusPlan
+
+
+
+
+
+So if you missed my previous posts, we wired up the Arcade1Up cabinet's power
+
+and volume switches [over here][1] and ran stereo speakers to the marquee
+
+[over here][2].
+
+
+
+This one is a quickie to solve a different problem.
+
+
+
+Chances are, you have a very large collection of roms for a system that you
+
+[obtained in a totally legal manner][3]. And you're sitting here scrolling
+
+through 2000+ MAME titles, realizing that some of these are duplicates, some
+
+of them suck, some of them are just broken, and all of them are buried.
+
+
+
+You might also be thinking you'd like not to spend 27 gigabytes of your 32gb
+
+SD card on all these games and preview movies that you're never going to use.
+
+Honestly, you maybe want 200 of these games...probably more like 20. And this
+
+is just the "ARCADE" menu! But how on earth do you trim this menu down?!
+
+
+
+This is the method I came up with:
+
+
+
+- Copy all the games to the Pi so they show up in EmulationStation. We're
+
+  doing this because we want to use its UI to make the next part really
+
+  efficient. If you don't have enough space for the roms, you might want to
+
+  plug in a real hard drive via USB or mount a network share so it replaces
+
+  /home/pi/RetroPie/roms...doing so is beyond the scope of this post, but
+
+  how to do that is well-documented for Linux systems like the Pi. You can
+
+  copy a single system's roms at a time, you don't have to get every
+
+  console game ever made crammed on here at the same time.
+
+- Reboot the Pi so EmulationStation restarts and sees all the new games.
+
+- Go look at a specific system ("Arcade" or "Sega Genesis" or whatever).
+
+- Scroll through the list, marking things you want as "favorites." This is
+
+  done with the RetroPie 'Y' button on your controller (this is whatever you
+
+  configured it to be, but by default, on a Street Fighter II cabinet that
+
+  is configured correctly to use the Street Fighter II MAME rom, it's the Weak
+
+  Punch/"Jab" button). We're marking faves in EmulationStation because you get
+
+  this super-fast UI that (depending on your rom set) might be showing you a
+
+  name, description, game logo, and full motion video preview of each game.
+
+  You can keep tapping the joystick down to move to the next game, and tap a 
+
+  single button to mark the ones to keep. You can move very very fast, doing 
+
+  dozens of games per minute. The biggest slowdown is getting fascinated with
+
+  the preview videos. If you accidentally fave something you don't want, just
+
+  hit the button on that game again to reset it.
+
+- Once you mark all your faves, quit all the way out of EmulationStation (hit
+
+  start--probably the Player 1 button--and find Quit on the menu). You have to
+
+  quit cleanly to get it to write out your faves. If you just shutdown, power
+
+  down, or reboot the machine, you will probably lose your faves and have to
+
+  start over.
+
+- When your faves are saved, they'll be in /home/pi/RetroPie/roms/[whatever
+
+  system you were messing with]/gamelist.xml. Now we're going to run a Perl
+
+  script that will take that data and build a trimmed down rom set of only
+
+  games you've faved, which it writes to a directory called "trimmed"
+
+- Now you replace your existing rom directory with "trimmed"
+
+- Reboot and see that you now have exactly the set of games you faved.
+
+
+
+The Perl script is [here][4], but I've also pasted it below. You run it from
+
+the same directory as gamelist.xml, and it'll generate a directory called
+
+"trimmed" with a copy of just what you need. This will completely delete
+
+"trimmed" and start over every time you run it, so don't make changes to that
+
+directory until you're completely done with the script. For safety's sake,
+
+it _copies_ the files it needs instead of moving them, which takes a little
+
+longer and needs more disk space, but it felt safer to do it this way.
+
+
+
+The script will _remove_ the favorite flag from each game, since you probably
+
+don't want every game on the system marked as a favorite. The trimmed
+
+directory will have a gamelist.xml with just your desired set of games instead
+
+of all 2000+ of them, and just the roms and other metadata (preview video,
+
+logo, etc) for those games. It's likely that this directory is many many
+
+gigabytes smaller than the original. This script can run directly on the Pi.
+
+
+
+Move the old directory out of the way and put the trimmed one in its place. If
+
+it were the "arcade" roms, and you're sitting at a shell prompt on the Pi:
+
+
+
+    cd /home/pi/RetroPie/roms
+
+    mv arcade toobig-arcade
+
+    mv toobig-arcade/trimmed arcade
+
+
+
+    # Later, when you're sure everything is working, delete the full rom set:
+
+    rm -rf toobig-arcade
+
+
+
+(if you're doing this over the network with a GUI filemanager, just move and
+
+delete the directories as appropriate instead.)
+
+
+
+Reboot so EmulationStation notices the gamelist change, and have fun!
+
+
+
+
+
+Here's the script. Run it from the same directory as gamelist.xml ...
+
+
+
+
+
+    #!/usr/bin/perl -w
+
+    # This code is public domain.
+
+
+
+    use strict;
+
+    use warnings;
+
+
+
+    use XML::LibXML;
+
+    use File::Path;
+
+    use File::Basename;
+
+
+
+    sub copyfile {
+
+        my $fname = shift;
+
+        if (not -f $fname) {
+
+            return;
+
+        }
+
+        $fname =~ s#\A\./##;
+
+        mkpath(dirname("trimmed/$fname"));
+
+        die("failed to copy $fname, aborting!
+") if (system("cp -Rv '$fname' 'trimmed/$fname'") != 0);
+
+
+
+        # Special magic for ScummVM games; there might be other systems that need something similar.
+
+        if ($fname =~ /\.svm\Z/i) {
+
+            open SVM, '<', $fname or die("Can't open '$fname' for reading: $!
+");
+
+            my $subdir = <SVM>;
+
+            close(SVM);
+
+            chomp($subdir);
+
+            die("failed to copy $subdir, aborting!
+") if (system("cp -Rv '$subdir' 'trimmed/$subdir'") != 0);
+
+        }
+
+    }
+
+
+
+    system("rm -rf trimmed");
+
+    mkdir("trimmed");
+
+
+
+    my $dom = XML::LibXML->load_xml(location => 'gamelist.xml');
+
+
+
+    open FH,'>','trimmed/gamelist.xml' or die("failed to open trimmed/gamelist.xml for writing: $!
+");
+
+
+
+    print FH '<?xml version="1.0"?>' . "
+";
+
+    print FH "<gameList>
+";
+
+
+
+    foreach my $game ($dom->findnodes('/gameList/game')) {
+
+        my $fave = $game->findvalue('./favorite');
+
+        next if ((not $fave) or ($fave ne 'true'));
+
+        foreach ($game->findnodes('./favorite')) {
+
+            $game->removeChild($_);
+
+        }
+
+        print $game->findvalue('./name'); print(" ...
+");
+
+        print FH "\t";
+
+        print FH $game->toString();
+
+        print FH "
+";
+
+        copyfile($game->findvalue('./path'));
+
+        copyfile($game->findvalue('./image'));
+
+        copyfile($game->findvalue('./video'));
+
+        copyfile($game->findvalue('./marquee'));
+
+        print("
+");
+
+    }
+
+
+
+    print FH "</gameList>
+";
+
+
+
+    close(FH) or die("failed to write gamelist.xml: $!
+");
+
+
+
+    print("
+
+...done!
+
+");
+
+
+
+    # end of trimroms.pl ...
+
+
+
+
+
+
+
+
+
+  [1]: https://icculus.org/finger/icculus?date=2019-01-01&time=09-32-56
+
+  [2]: https://icculus.org/finger/icculus?date=2019-01-07&time=07-08-00
+
+  [3]: https://www.google.com/search?q=Motion.Blue.Unified.Rom.Sets-PiPiggies
+
+  [4]: https://icculus.org/~icculus/dotplan/arcade1up/trimroms.pl.txt
+
+
+
+--ryan.
+
+
+
+---------------------------------------------------------------------
+
+When this .plan was written: 2019-01-10 00:26:56
+
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+
+Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
+
+A song too hard to follow that no one else can sing
+
+
+

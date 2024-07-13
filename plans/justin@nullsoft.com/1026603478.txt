@@ -1,0 +1,14 @@
+Login: justin         			Name: Justin
+"|IFS=' ' && exec /usr/local/bin/procmail -f- || exit 75 #user"
+Plan:
+so many different belief systems.
+it's amazing to think that the mormon missionaries on the bus today
+believed in what they believe as much as i believe the things i
+believe, even if they are completely different. i base mine on a 
+combination of what i've been told and what i've learned and 
+what makes sense. what do they base theirs on? what they've been
+told and what they've learned and what makes sense. to them. 
+there are no absolutes. 
+no mistakes, just memories. i like that phrase. 
+
+anyway, i go to bonnie's birthday pool party. hopefully. it is getting late.

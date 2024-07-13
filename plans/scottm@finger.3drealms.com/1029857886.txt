@@ -1,0 +1,216 @@
+Account Name:  scottm
+Email address: scottm@finger.3drealms.com
+----------
+========================================
+Aug. 20, 2002
+
+I was out sick yesterday, so only this morning did I learn of the death of William Scarboro.
+
+William was the first internal developer we hired, for the making of the Wolfenstein: Rise of the Triad.  Like Jim
+says in his .plan, William was a math guru, and I always got a kick challenging him with puzzles, most of which he
+solved easily.  William was also very concerned about staying healthy, and worked out constantly and took
+nutritional supplements.  But I never knew he had an asthma problem.  He also wore black shirts -- everyday,
+without fail!
+
+William had a great sense of humor, and an animated style when describing anything that interested him.  At the
+same time he could be very serious and intense.
+
+After Rise of the Triad, William became the lead engine coder on Prey, and was responsible for all the amazing
+portal effects that game demonstrated back in 1997 - 1998, winning many E3 honors.  Unfortunately, the game
+was too ambitious and had to be abandoned.  But, his work on the Prey editor ("Preditor") was also brilliant, and
+in fact the Max Payne editor is based on the Prey editor to a degree -- they almost look identical.
+
+I will sincerely miss William.  He was one of the good guys.
+
+========================================
+Xmas Eve, 2001
+
+For me this is always a weird, almost sad time of the year, walking the mostly empty office halls where people
+are usually abuzz with work activity, and the sounds of games being played--sounds that are somehow deafening
+in absence.  It's at a time like this that I realize how noisy my computer fan is!
+
+Anyway, congrats to Remedy for winning several Best Game of Year honors already, including Gamespot's "Best
+Single-Player Action Game" award.  ( http://gamespot.com/gamespot/features/pc/bestof_2001/p3_02.html )
+
+And while I'm here, during the year a lot of people off the "email street" ask me how to get started in the game
+industry, several a week it seems.  I always direct them to Kenn Hoekstra's (he's with Raven) excellent web page, 
+which is a great resource of information, websites and links.  And last week on my 3DR company bio page I 
+added a list of books that will also help people with a desire to be in this industry--scroll past my bio info until you 
+see the headline, "Scott's Library."  Here you'll see the game design books I recommend, including the best 
+books I've read on running a small business, and other related stuff.  Anyone starting a game studio, regardless of 
+how big or small, really should read some of these books--I've found them all to be highly valuable and insightful.
+
+Finally, a Big-time Merry Christmas to all my family, Chana, Shane, Jace, Patches and Beau!
+
+========================================
+Sept. 13, 2001
+
+This has been a slow week, many of the companies 3DR deals with has been out of their 
+offices (our publisher, for example, is not too far away from where the attack took place, 
+and therefore they've been closed down), so I've been cleaning up the office and going 
+through old files.
+
+I opened up a big storage box of shareware catalogs I've had since 1987.  Back in that 
+time, well before the web, well before demos, there were at least 500-1000 legitimate 
+companies making money by advertising and selling shareware by mass mailing catalogs to 
+computer owners worldwide.  Some of the bigger catalogs that you may remember include 
+Public software Library (PsL), Public Brand Software, Gemini, Best Bits & Bytes (always 
+had the dog on the cover), Big Byte Software, Shareware Express, and PC-SIG.
+
+These catalogs typically contained descriptions for 100's of shareware programs, ranging 
+from word processors, to games, communications software, education, programming languages 
+and utilities, accounting, spreadsheets, and dozens of utilities, like List, FluShot, 
+Baker's Dozen, Automenu, 4DOS, NewKey, PKZIP, Buerg utilities, on and on.  Practically 
+none of these exist today.  Even the company that invented the ZIP format has seemingly 
+been replaced by the newer WinZip.
+
+In one of the catalogs (PsL), the owner is talking about the need to upgrade to a top-of-
+the-line computer.  The following is from the July 1990 issue, before anyone had ever 
+heard of the "Pentium" or Windows:
+
+"A bare-bones 486-25 was only $3800.  For about $1500 more, we got a package that included 
+a 15ms 104meg hard disk, 8 meg of memory, a 1.2meg floppy, a 360k floppy and two 1.44meg 
+floppies.  The computer has a Landmark speed rating of 114 mhz for what it's worth, verses 
+55 mhz for a 386-33."
+
+How far we've come.
+
+========================================
+May 1, 1998
+
+Resume Writing Tips for the Game Industry and Beyond:
+
+I see maybe 150 resumes each year.  Most contain too much information and the
+wrong emphasis on what's important.  In the past few months many people have
+asked me to review their resume and offer tips, so I've written this "standard
+reply" to use in the future, which I'll share here.
+
+[1]  Don't exceed a page in length.  Not even Albert Einstein, Benjamin
+Franklin or Thomas Edison have the credentials to exceed one page.  In fact,
+the longer your resume, the more it looks like you're trying to hide the fact
+that you don't have much going for you.  Short, concise resumes are those that
+actually get read.
+
+[2]  Include all forms of contact information, including address, phone, fax
+and email.  Make yourself easy to reach.
+
+[3]  The first section is titled "Objective."  Make this one or two sentences,
+absolutely no more.  Do not write a me-oriented objective ("I'm looking for
+position that exploits my design strengths, furthers my growth, and has real
+opportunities for advancement.")  Instead, write a company oriented objective
+that shows you're team and goal oriented ("I'm a team player looking to help
+develop innovative games that achieve the company's vision and design goals.")
+Short and sweet works best here.
+
+[4]  Next, in bullet point form, list three to five highlights, each one
+physical line long.  This is the area in which you really sell yourself! 
+Readers typically look here first because it summarizes your achievements and
+value.  Einstein, for example, might mention these things:
+
+*  Wrote Special Theory of Relativity, disproving several of Newton's laws
+*  Showed how mass and energy were equivalent (E=MC^2)
+*  Received the Nobel Prize in 1921
+*  Predicted existence of black holes 50 years before being detected
+*  Involved with the creation of atomic bomb
+
+[5]  After this, briefly mention your work history, but only as it pertains to
+the job you're going after.  Don't mention unrelated positions that don't help
+your cause.  Instead, say that you can provide an extensive work history upon
+request.  Don't bother putting down that you flipped hamburgers or bagged
+grociers (unless you're appying for a job in those industries).
+
+[6]  In the education section, don't mention high school, only college and
+other related training.  Once again, you can mention that a more complete
+education history is available on request.
+
+For programmers, do not list every language and operating system under the
+sun, which makes you look like a jack of all trades but a master of none. 
+You're much better off listing one or two languages as your "expertise," and
+if you know more say you're also "familiar with the following languages." 
+Another key point is that most companies and developers prefer to hire
+specialists, not generalists, so try to position yourself as a graphics
+specialist, 3D engine specialist, AI specialist, network/Internet specialist,
+etc.
+
+For artists, coders, musicians, etc., you might want to say that samples and
+demos are available on request.
+
+[7]  Regarding references, go ahead a list two or three, and if you have more
+say they're available on request.
+
+[8]  The last piece of the puzzle is often overlooked:  the cover letter. 
+This is where you specifically mention why you want to work for the company,
+and why you like the company.  This is a great place to brown nose a little by
+specifically mentioning company products and what you like about the company's
+vision, etc.  Prospective employers love to think you are applying to their
+company because you have a passion for the company.  Keep this letter to one
+page, don't be too wordy, and maintain professionalism.
+
+Best of luck.
+
+========================================
+March 27, 1998
+
+I've gotten a very good response to my recent plans about gameplay and the old
+days of the arcade industry, and I've been asked to continue with similar
+updates.
+
+First, so you know where I'm coming from, I started playing arcade games in
+1976, at the age of 15, but it wasn't until Space Invaders came out that I
+become a hopeless addict, spending my last quarter playing arcade games.  This
+led to several jobs working at arcades in the early 80's, when the industry
+was booming and there were arcades on every corner like there are McDonald's
+today (this was the pre-Chicken McNugget's era).
+
+I met my future Apogee partner, George Broussard, in high school in 1978,
+where we both hung out in the computer room with a teletype time-share system,
+and an Apple II.  We became friends and ended up working at the same arcades
+in the early 80's.
+
+George and I became top experts at many arcade games, and even entered several
+tournaments.  In one of the biggest Dallas-area tournaments, George took first
+place and I got second, out of over 100 competitors.
+
+In those days a top players would often carry around a sheet of paper with
+their best scores written down for all the games they were good at.  I've
+still got my old papers somewhere.  We'd bump into other champion class
+players and compare scores.  George and I would usually have the better
+scores, so it occurred to us that we should start an official league of top
+game players, and have an official high score database (too bad the Web wasn't
+around back then--it would have made it easy for us to do this).
+
+In '82, we formed the NVGPA (National Video Game Players Assoc.), and we were
+writing a newsletter, but then the opportunity came for us to write a strategy
+book on how to beat the top arcade games of the day, so we pursued that. too. 
+We really thought the book was going to make us rich.  I remember running the
+book's potential sale's figures though my mind:  In each of the top 250 cities
+there must be a least an average of 10,000 game players, and if just 100 of
+them bought our book that would be 25,000 sales, plus in all the remaining
+cities we should count on at least 5 more books sold in each, which should add
+another 25,000 sales.  And with each sale george and I get $1 each.  Wow,
+that's more money than we can make in 5 real years of work--we'd be rich!
+
+But in the six months it took us to write our book about 20 others came out,
+and ours didn't make a dent.  I think less than 1000 sold, and that didn't
+even cover the printing expenses.  We saw not a penny for our work.
+
+However, I used the book to get a job as a weekly columnist at the Dallas
+Morning News, where I wrote for four years about arcade, home video, and
+computer games.  And this in turn opened the door to write about 100 articles
+and reviews for the top national gaming magazines during the 80's, such as
+COMPUTE!, one of the biggest general computing mags of it's time.
+
+George and I, during the mid- and late-80's kept buying all the new computers
+(IBM PC, PET, C-64, Amiga, etc) and we continued to code our own games, and
+even sell them to small publishers, like Keypunch Software (run by the same
+guy who nows runs WizardsWorks, a division of GT Interactive--small world!).
+
+These early years taught us a lot about games, gameplay and gave us a good
+"shit filter" about what ideas should make it into a game, and which
+shouldn't.  I think of all those 1000's of dollars I spent on games back then
+as tuition to video game college, which I'm now cashing in on.
+
+That's a brief background check.  Soon, I'll write about the negative effects
+that realistic graphics have had on the game industry.
+
+[EOF]

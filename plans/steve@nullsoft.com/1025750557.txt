@@ -1,0 +1,26 @@
+Login: steve          			Name: Steve Gedikian
+"|IFS=' ' && exec /usr/local/bin/procmail -f- || exit 75 #user"
+Project:
+Do things that people tell me I can't do.
+
+<a href="http://genghis.winamp.com/~steve/plan/">Read my archived journals.</a>
+Plan:
+July 3, 2002 - 7:30PM
+
+Now that I'm back, just when I think that my life
+is finally getting back to normal, it's not. it's 
+doing just the opposite in fact. People are weird,
+you know... Sometimes you wonder what they someone
+is thinking when they do something, but you can't 
+ever know.
+
+I'm a little bummed about something that I'm not
+going to say anything when I've confirmed that 
+there is indeed something to be bummed about first.
+
+I'll get back to you as soon as I know...
+
+-s
+
+Login: swoods         			Name: Steve Woods
+No Plan.

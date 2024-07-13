@@ -1,0 +1,37 @@
+
+*** Monolith Production's Finger Server
+
+User name: craigh
+Plan modified: Sun Jan 10 17:00:14 1999
+
+Name: Craig Hubbard
+Rank: Lead Designer
+Project: Shogo-MAD
+
+1/10/99
+
+The inevitable followup to my last followup.
+
+First off, yes, the tone of my initial update was unnecessarily abrasive. That’s the consequence of writing in the first flush of righteous indignation. I apologize to Geoff for that. He’s been very patient and courteous in his emails. I stand by my opinion, but there was no need for me to be such a prick about it. I loathe that kind of childishness in others, so there’s no reason I should tolerate it in my own behavior.
+
+Anyway, my other motive for this update is to explain what I mean by narrative structure. This isn’t intended as a defense of my argument, merely as a definition of terms, since several people have expressed confusion about the distinctions I’m drawing.
+
+Though it’s tempting to write an essay on story structure, I’ll try to stay focused. :)
+
+Most story-driven games rely on a linear structure out of necessity, primarily because a story is linear by definition. I wasn’t suggesting that the events in Dark Forces change the flow of the game, but they DO affect the flow of the narrative. Pretty much every level in Dark Forces, Outlaws, and Jedi Knight contains some sort of discovery or reversal that advances the storyline. Kyle’s first encounter with a dark trooper is a major event in Dark Forces. The boss fights in Outlaws bring Marshall James Anderson closer to the man who killed his wife. In one Jedi Knight mission, Kyle has to find his father’s data disk in order to locate the Valley of the Jedi, which eventually leads him to the final confrontation with Jerec. There are plenty of other examples.
+
+In each of these cases, the protagonist has a short term objective that is a facet of the larger goal that fuels the central conflict. When the hero meets or fails to meet one of these objectives, the story advances. Whether or not failure is even an option in the context of the game is irrelevant. I’m not talking about gameplay, but about story.
+
+At its most basic, a story is a conflict between a protagonist and antagonist with competing goals. Think of these roles as forces rather than individuals. Most stories rely on a human or personified non-human to fill the protagonist’s shoes, simply because that’s what we relate to as human beings. The antagonist, on the other hand, can take any number of forms. It can be anything from abiding grief over the death of a loved one to an elusive white whale to bloodsucking aliens from the planet Bob. In a really good story, the antagonistic force is multi-faceted, with emotional, situational, and physical components.
+
+Obviously, if the antagonistic force isn’t menacing enough, the story stagnates because you stop taking the conflict seriously. In fact, the antagonist usually has to seem far more powerful than the protagonist in order to keep your interest. Think of the Empire in Star Wars, for example. Same goes for Sauron’s forces in Lord of the Rings, the shark in Jaws, the asteroid in Armageddon, the bandits in The Seven Samurai, Sephiroth in Final Fantasy VII, or Liquid Snake and his cohorts in Metal Gear Solid.
+
+If the motives of the protagonist and antagonist are never fully developed, the narrative withers, which can be fatal in a movie or a novel, but generally makes no difference at all in a game. Ultimately, all that matters is that the PLAYER has a motive to keep playing.
+
+Personally, I tend to gravitate toward games with a strong narrative structure, but I don’t discriminate as long as I’m having fun. Shigeru Miyamoto’s games are about deep gameplay rather than elaborate storytelling, but they’re still among the richest, most satisfying gaming experiences you can have.
+
+Anyway, this long-winded explanation just scratches the surface of story structure, but hopefully it clarifies my meaning. I expect I’ll hear about it if not. :)
+
+
+
+

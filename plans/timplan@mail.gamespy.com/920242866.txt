@@ -1,0 +1,44 @@
+User:   timplan
+Unread: 22
+Plan:
+GameSpy -
+2.08 is out and that is (hopefully) the last of that series.
+Next version (aka 2.10) - in progress. Been working on the monitor. I
+redesigned it to look like the monitor we studied in Dr. Butler's Operating
+Systems class at UNF.  This design is not far from being able to run
+distributed.  All you would need is a thousand computers and a T1 network
+then GameSpy could finish in about 3 seconds. Of course if you dedicated
+that kind of resources to the problem, you should seek some help. Quake just
+is not that important. ;-)
+Java - been working on the above.  'nuff said.
+
+Linux - updated to KDE 1.1 and Redhat 5.2.  Still learning about adding
+non-rpm apps to it.  Next big project, building the 2.2.2 kernel.
+
+HalfLife - almost finished. Kind of broke the keyboard space bar on my Dell
+during one of those stupid jumping puzzles. Come on people, surely we can
+build better puzzles than a test of keyboard skills that passes as a jumping
+puzzle.  Of all of the things about first person shooter games, jumping
+puzzles irritate me the most.
+
+Installed Visual Studio 6 today.  Microsoft needs to learn how to install
+software without rebooting.  It required at least five (5) reboots to
+install. First for IE 4.01 update.  Just gotta have IE. Next for DCOM 98.
+Another to uninstall VS 5. Another reboot after actual installation of VS6.
+MSDN installs without a reboot. But SP2 for VS6 requires one more.  If you
+have J++ you have one more before installation.
+
+I know it is possible to install software without rebooting because Linux
+can do it.  I was changing Samba's configuration and restarted it several
+times without rebooting once.  Try mucking with Windows network setting and
+you almost guaranteed to reboot. Still have not figured out how to create a
+share yet.  I think I know but need some time.
+
+Learned something else.  LinkSys PCMCIA network cards can't run for a week
+without cooling off.  Of course, it may be just going bad.
+
+Timothy 'CMonster' Cook
+http://www.gamespy.com
+http://www.mindspring.com/~cookti
+
+

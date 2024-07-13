@@ -1,0 +1,40 @@
+Login: francis        			Name: I HATE FreeBSD
+Plan:
+If you like quiet music and peace of mind, check out my <a href="http://bluemars.org">streams</a>.
+If you like neural nets, check out my neural net research <a href="http://bluemars.org/cbp">pages</a>.
+If you like Winamp, check out our <a href="http://www.nullsoft.com">website</a>.
+
+
+.plan:
+
+What's new :
+
+	- Not much, I'm writing this...
+
+What I'm working on right now :
+
+	- Winamp 3's GUI, DB, Script & Skin system
+	- Some CBP research (see url above)
+
+In the back of my mind there is :
+
+	- My family, always
+	- My friends, also
+	- My job, more than I'd sometime like it to
+	- A BPM detection algorithm that uses pulsar detection code
+	- A skinned/scripted shell using the wasabi gui engine
+	- A lot of small ideas for winamp3 scripts
+	- More...
+
+FAQ :
+
+	- What the heck is a <a href="http://muetdhiver.org/">guru meditation</a>?
+	- Who/What is <a href="http://www.aegis-corp.org">AEGiS</a>?  > A bunch of friends really, we used to have BBSes long ago (ahh nostaligia) and we were very productive in these days. Now this URL and #aegis/IRCnet are our permanent HQs.
+	- What are you reading these days ?  > <a href="http://www.u.arizona.edu/~chalmers/book/tcm.html">The Counscious Mind</a> by David Chalmers. This book is literally an event in my life. 
+	- Are you a trekkie or a trekker ?  > Neither, I'm just a star trek fan.
+	- Why are your hair girlie ?  > Why not ? 
+	- Where do you come from in France ?  > Many places, my familly lives in the Basque Country, but I lived many years in Paris, and before that Montpellier and Niort.
+	- Do you still participate in Litestep ?  > No, the entire merit goes to the Litestep Dev Team which took the project when I abandonned it and rewrote all of it. 
+	- Why didn't you answer my mail ?  > Well, I'm very busy, and maybe I forgot, what about you try again ? :) 
+	- Why are you writing a FAQ about yourself exactly ?  > Coz I'm highly egocentric. You see, people have webpages about themselves, I only have a .plan, so I guess it's not so bad.
+

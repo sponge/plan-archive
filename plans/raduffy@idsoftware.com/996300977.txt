@@ -1,0 +1,12 @@
+
+Name: Robert A. Duffy
+Email: raduffy@idsoftware.com
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+July 28.2001.early.am
+---------------------
+
+I have seen a few reports of the full Win32 installer not properly installing the latest PAK3 files. Looking into this now, if there is an there is an issue, I'll get more info/fixes up tomorrow ( Saturday ). 
+
+

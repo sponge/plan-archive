@@ -1,0 +1,17 @@
+
+Name: Chia Chin Lee
+Email: cclee@mail.ravensoft.com
+Description: Sound / Music
+Project: General
+-------------------------------------------------------------------------------
+For the users who have reported problems with the audio in the Soldier of Fortune demo
+(game crashing with certain sound cards, "muffled sound", weird audio attenuation issues,
+etc...), please follow these two guidelines for a quick fix:
+
+1) Make sure you have the *latest* drivers for your soundcard.
+
+2) If problem persists, go into the audio configuration menu and change the sound setting from
+"Auto Detect", "EAX", or "A3D" to "Default".  Please make sure to press "Apply Changes" after
+making the re-adjustment.
+
+Thanks for your time.  I appreciate all your feedback concerning the demo.

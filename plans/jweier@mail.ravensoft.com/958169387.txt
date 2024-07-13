@@ -1,0 +1,17 @@
+
+Name: Josh Weier
+Email: jweier@mail.ravensoft.com
+Description: Programmer
+Project: Star Trek
+-------------------------------------------------------------------------------
+I've noticed in a few recent articles that there seems to be misconceptions 
+about our team and normal NPC AI.  We are not using any bot code from 
+Quake 3 in our single player game; that's been gone for awhile.  The bots 
+in our multiplayer game are direct descendants from Q3, but our single player 
+AI is a totally new breed.  This was necessary because AI and behaviors for 
+multiplayer differ drastically from single player, both in the guts of the 
+code and in how the player perceives things.  The AI system has been tailored 
+to work directly with ICARUS, and to allow us to pull off the team behavior.
+
+Just wanted to calm any fears that our single player NPCs would be deathmatch 
+bots.

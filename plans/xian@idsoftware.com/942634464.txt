@@ -1,0 +1,46 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+<font color="white">
+
+<b><u>Nov.14.1999 @ 8:46pm</u></b>
+
+ Ok. For the curious, it's looking like...
+
+<pre>
+ 11/14/99  07:34p            52,123,258 q3DemoTEST.exe
+</pre>
+
+ We're doing final testing now. Sandpiper has been called and they are aware
+that we're planning on a release tonight. The file will simultaneously be
+made available on our FTP site (heh) and Sandpipers distribution network through
+<a href="http://www.quake3arena.com">www.quake3arena.com</a>.
+
+ Ok Quake Community... Lets show Sandpiper what we're made of and really stress
+out their network =)
+
+ "soon"
+
+<tt>
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, thieving lawyers, crazy ex-girlfriends, 
+leaky roof, broken glass, mud slides, forest fire, or projectile (which can 
+include, but not be limited to, arrows, bullets, shot, BB's, paintball, shrapnel,
+lasers, napalm, torpedoes, or emissions of X-rays, Alpha, Beta and Gamma rays,
+knives, stones, etc.). 
+</font>
+---
+</tt>

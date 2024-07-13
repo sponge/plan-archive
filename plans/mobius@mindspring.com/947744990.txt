@@ -1,0 +1,226 @@
+Login: mobius         			Name: Alan Willard
+Plan:
+
+Legals would have gone here if I had spent many years
+in college to be a lawyer.  As, however, I have not done that, this
+is not a valid statement of Epic Games.
+
+*\____________________________________________________________________/*
+
+1-12-2K***
+
+  Anyone who's interested in a new/old way to play Unreal/UT should check out this:
+
+http://unreal.eavy.de/
+
+Eavy's DarkMatch is a REALLY cool way to run around in the dark hoping you'll kill
+someone :)
+
+Remember, not being seen is as important as seeing!
+
+ - Alan
+
+1-11-2k***
+
+ The new UT patch (405b) was released today, pick it up at your favorite UT website.
+It is COMPLETELY network compatible with previous versions of UT, so never fear, if
+you don't download it and your favorite server does (or vice versa) you will still 
+be able to connect and play!
+
+ - Alan
+
+1-10-2k***
+
+  Rather than make a long boring post about some lame thing I found on the web,
+I'll just say this:
+
+ The long wait for the release of those free maps we mentioned awhile back
+WILL BE worth it.  
+
+ 'Nuff said.
+
+ - Alan (who will be making sporadic appearances on the Etherlife T3 server
+                            (128.208.47.165)
+
+1-7-2k***
+
+Scientist proved today that 90% of Brandon's neural network has been replaced
+by complex caffeine molecules.
+
+ - Alan
+
+
+12-28-99***
+
+ Happy birthday to Ross K. Jacobs, who turned 25 today.
+
+ Having read some of the recent reviews of UT and Q3A, I have noticed one 
+fairly serious misconception which has been floating around for quite
+awhile now...
+
+ Ping, the latency between two computers on a network, either WAN (internet)
+or LAN, is a measurement of network connection response, NOT of the efficiency
+of a program's network code (other than TCP/IP itself).  The correct measurement
+of a game's network code is in how well it deals with high or low pings.  The
+game in no way causes high or low ping, it is totally dependent of your connection
+to the internet, the server's connection to the internet, and all the systems between
+you (the client) and the server.
+
+ This means that if you play any game on a server with a ping over 250 or so, and it plays
+well, that game has good network code.  If you play a game on a server with the same ping,
+but the gameplay is laggy, stutters, or is downright unplayable due to connection
+problems, the netcode for that game is not quite up to snuff.
+
+ Also, some games calculate ping differently (don't ask me how, I ain't no programmer!)
+so even that simple number is really only a general idea of how good your CONNECTION TO
+THE INTERNET is.
+
+ - Alan
+
+12-25-99***
+
+ Merry Christmas to all!  In honor of the holiday, I just wanted to throw out
+a quick line of cheer and goodwill to all.
+
+Or as my mother would say (and often has):
+
+ Remember, the bigger the pile, the brighter the smile!
+
+ - Alan
+
+12-19-99***
+
+ I've been reading alot of online comics lately, and I just wanted to complement
+the author/artists who do them!  
+
+www.etherlife.net > Zach Stroum, really blows my mind... *groan*
+
+www.penny-arcade.com > If you've never been there, you're truly missing out!  I
+ am totally looking forward to their Christmas Carol interpretation!
+
+www.sluggy.com > Oh god, sheer mayhem!  This is one of the strangest and most oddball
+ comics I've read ever... A mini-lop with a switchblade?
+
+www.herdthinners.com > Much fun to read, more along the lines of traditional 
+ newspaper comics.  Innocent and funny.
+
+Happy Holidays to everyone!
+
+ - Alan
+
+12-11-99***
+
+Playing Planescape:Torment, and I have to say, the story is very very good. I've 
+been an RPG'er for a long time now, pen and paper, digital, whatever, and this one
+has a very good feel to it.
+
+ - Alan
+
+
+12-3-99***
+
+ Ok, so I'm looking for something.  I have a Laser FX(tm) Light show thingy, one of
+those things that does a pattern on the ceiling/wall that responds to music. I got it
+as a gift quite a few years ago, and I know it was purchased at Spencer Gifts.  Now,
+what I am looking for is the upgraded model, which has 2 light array thingys on a 
+single pedestal and can take a stereo input.  Any info anyone can dig up on this
+would be greatly appreciated. There is a tag on the bottom of mine that says it was
+manufactured by the Samil Enterprise Co., LTD: part # SF-102.
+
+Anyone who can find me the upgraded version will be my best friend :)
+
+Email anything you can find to alan@epicgames.com
+
+
+11-17-99***
+
+UT being done and all, I thought I'd leave a quick message here and thank all
+the people who put faith in me and taught me the skillz I use today.
+
+In no specific order:
+
+Jay D. for being very patient with someone who forgot to add startpoints to Doom maps!
+
+Ross J. for all those late night co-op Doom games :)
+
+Kevin F. Viva!
+
+My parents, for letting me live in the garage for some months being a bum and sitting
+at the computer 24-7
+
+Melanie B. though I know she'll probably never see this, for putting up with me without
+a job
+
+Doran G. for running that bad boy
+
+id Software for making level design-able games
+
+Shane C. for making an offer in an airport. (get your mind outta the gutter.)
+
+Cliff B. for putting up and only very occasionally shutting up!
+
+Tim S. for being a genius
+
+Brandon R. for being angry :)
+
+If I forgot anyone, I'm sorry. If you didn't want to be on this list, I'm sorry.  If
+you demand to be on this list, go to hell.
+
+
+Holy S**t, we did it...
+
+10-22-99***(EARLY morning)
+
+  James Green, Jack Porter, and myself went down to the loading dock and played
+some 'street' style hockey... Alright, I wasn't wearing rollerblades, and we
+didn't play for a score or anything, but I am nice and sore and out of breath (quitting
+smoking three months ago is the only reason I even survived tonight!), but we had
+a good time acting like complete fools in front of the security camera.  In more
+directly work related news, the programmers are squashing bugs like madmen, and 
+the level designers are finished with all their known stuff.  While it feels 
+REALLY nice to be at the end of this project, I can't seem to relax yet, and I
+don't think I'm going to until I actually SEE it for myself in stores.
+
+  Those of you who have been to Epic's offices here would truly NOT recognise the
+place at the moment... Cliff and I share an office, and we've been going a little nuts
+decorating it this week (not for Halloween or anything, just finally got up the energy
+to go and do what we've been talking about for awhile) and now our office is very...
+ummm eccentrically lit.  The disco balls are interesting, but I think the 
+blacklites and the fog machine really give it that extra 'Umph'.  Think I'm kidding?
+Take a look. <a href="http://www.mindspring.com/~mobius/officepic.jpg">Here.</a> Its been awhile since I've done any html, so forgive
+me if this is badly done. Our little corner of the world now looks like a bad club.
+
+A very bad club.
+
+
+Listening to:
+
+Type O Negative: World Coming Down (GREAT album, Creepy Green Light rules!)
+Various: Mortal Kombat Sountrack
+Delerium: Karma
+Creed: Human Clay
+Crystal Method: Vegas
+
+ - Alan
+
+
+09-17-99***
+
+  WE NEED SERVERS :) We have more players than servers right now, so EVERYONE who can
+run servers!  (obviously the higher your bandwidth, the better!)
+
+
+  Cliff Bleszinski is a punk ass bitch.  He apparently doesn't feel it necessary to
+mention all the SMACK DOWNS he's received in Insta-Gib... He can't Shock Rifle
+to save his narrow ass 8}
+
+Listening to:
+
+Fear Factory: Obsolete
+Stabbing Westward: Darkest Days
+
+07-02-99*** And earlier has been.... Annihilated!
+
+ -= Alan Willard   =-
+ -= Level Designer =-
+ -= Epic Megagames =-

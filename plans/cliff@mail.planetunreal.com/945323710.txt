@@ -1,0 +1,470 @@
+User:   cliff
+Unread: 1
+Plan:
+---------------------------------------------------
+Home Page: www.cliffyb.com (seldom updated)
+email: cliff@epicgames.com (rarely answered)
+Cat-Scan Contest: www.cat-scan.com (always illegal)
+Tales From The Hellmouth: www.hellmouth.org
+---------------------------------------------------
+
+[PIMP HAT ON]
+
+Brandon Reinhart is maxing and relaxing in NYC with Pseudo online. Check it out! I mean, the guy flew up there and dealt with all sorts of crazy flight delays to please his fans. :)
+
+http://www.allgames.com/gametime
+
+Also, Phase 2 is beginning soon of the "Make Something Unreal" Contest. Make cool stuff for UT and make cash!
+
+www.unrealcontest.com
+
+Who'd have thought?
+
+Next up we have an online beating that Epic and DE handed out to our publishers GT Interactive in UNREAL TOURNAMENT to be aired on the 22nd on Pseudo. 
+
+BOW DOWN!
+
+Oh, and dig this:
+
+http://ifraggedcliffyb.homepage.com/
+
+(Sheah, like anyone can frag me.)
+
+
+[PIMP HAT OFF]
+--------------------
+I enjoy perusing the forums where UT gamers get to 
+voice their opinions. I consider it part of my job as well.
+
+However, I feel the need to clarify some confusion that 
+I've noticed in regards to the maps that we chose to ship 
+with in UT.
+
+Give me a chance to address some of these concerns, and 
+use my plan file for Good.
+
+1. "Just because you make a spaceship or a boat doesn't 
+mean it plays well!"
+
+You seem more Old School. I'd suggest playing the 
+following maps then:
+
+DM-Zeto
+DM-Deck16][
+DM-Grinder
+DM-Codex
+DM-Curse][
+DM-Turbine
+DM-Liandri
+DM-Pressure
+DM-Tempest
+
+These are maps that were made just for the gameplay, the 
+architecture is dictated by the gameplay. These maps are 
+more traditional, mazey DM.
+
+2. "These maps are bland! I don't want a cramped mazey 
+bland area; been there done that! Show me something new!"
+
+I'd suggest playing the following maps then:
+
+DM-Gothic
+DM-Hyperblast
+DM-KGalleon
+DM-Peak
+DM-Barricade
+DM-Phobos
+DM-Morpheus
+DM-Conveyor
+
+The Unreal Engine handles interior and exterior 
+spaces extremely well and maps like Peak and 
+Hyperblast really take advantage of this. These 
+maps are original, you get to frag in really 
+exquisite environments. Sure, they may not be 
+the ones you play in a tourney, but they sure 
+have that "wow" factor.
+
+3. "These CTF maps aren't symmetrical! These 
+CTF maps are too tight!"
+
+The issue of symmetry is something we really 
+beat ourselves up over when making the UT maps. 
+At the end of the day we went with a mixed 
+selection; some maps were symmetrical while 
+others weren't. The asymmetrical maps required 
+a ton of testing and we feel that they're pretty 
+well balanced. For instance, in CTF-Command the 
+blue base has a slow lift and long ramp to get 
+to the flag, but there's a back entrance you can 
+access fairly easily if you're good with the 
+translocator. In CTF-November there's a long 
+winding staircase to the blue base, but once you 
+get the flag you can just drop right out of it. 
+In the red base there's a long pipe leading to 
+the flag that you have to run through to get in 
+and out of the base.
+
+If you'd prefer more open CTF maps then I'd suggest:
+
+CTF-Face and CTF-LavaGiant
+
+These maps also play extremely well in low-gravity 
+mode. Remember, dodging is very useful in low-grav. 
+You can zip around maps easily using it.
+
+Oh, also, server admins: Please don't run TURBO 
+assault servers. It kind of kills the point of the 
+game where you can destroy the assault target in 8 
+seconds flat. :P
+
+One of the reasons we wound up with over 50 maps in 
+UT (besides having some really hard working level 
+designers) is because we wanted to make sure we 
+appealed to the broadest audience possible. Some 
+people like the gimmicky maps, others like the more 
+traditional DM maps, others prefer to fight in realistic 
+locations. It's all there! If you don't like playing 
+one kind of map then give the game a minute as the server 
+will cycle to one you probably dig.
+
+Hard to please all of the people some of the time or some 
+of the people all of the time.
+
+p.s. Dig this:
+
+www.cliffyb.com/hockey.jpg
+
+
+------------------------------------------
+
+Something is really distressing me when I browse the server
+list in Ubrowser in UT.
+
+Many server admins think that just because a map shipped 
+with the game that it is ok for dozens of players to play
+at once.
+
+Deathmatch maps like "Fractal," "Oblivion," and "Stalwart" are TINY and
+are meant for one on one, no more. When you run a server with
+a 32 player limit and add these maps to your cycle list you're
+just ruining the play experience for those who are trying to 
+find a good local server.
+
+CTF maps like "Niven" are meant for 2 on 2 or 3 on 3 CTF, 
+nothing more. They're not even in the default map list, this
+is for a REASON!
+
+So, please, don't cycle these maps unless you're keeping your
+max players very low.
+
+Thanks
+
+------------------------
+http://www.unreality.dk/showpic.asp?pic=shotoftheday_big.jpg
+
+A lot of people have asked me where I got my p1mp necklace.
+
+Clay from QVT made it for me, custom job!
+
+We're considering having Clay make more depending on demand.
+
+[I thought it never rained in Dallas BTW.]
+
+---------
+Updated UT demo is out.
+
+http://www.fileplanet.com/index.asp?file=29108
+
+PATCH from last version:
+http://www.fileplanet.com/index.asp?file=29107
+
+In addition to oodles of misc. improvements, 
+(new pulse skin, menu changes, optimizations, etc...)
+Steve has also increased the player's drawscale 
+slightly as well as their ambient brightness.
+
+Notice how much easier players are to see now.
+
+In other news, check out the addition to my office:
+
+http://www.cliffyb.com/inferno.jpg
+
+Burn baby burn! Disco inferno!
+
+Also...
+
+http://www.cdnow.com/cgi-bin/mserver/SID=1213847350/pagename=/RP/CDN/FIND/album.html/ArtistID=MENZEL*IDINA/itemid=582373
+ 
+Idina Menzel...great stuff. She played Maureen in "Rent"
+on Broadway and boy can that girl carry a tune.
+
+
+------------------------------------
+I don't know whether or not I'm more excited or disturbed by the fact
+that Blue and Loonyboi are ahead of me in NGworldstats.
+
+http://ut.ngworldstats.com
+
+
+
+
+------------------------------------
+
+Yes, you too can run an Unreal Tournament Demo Server!
+
+http://unreal.epicgames.com/DemoServers.htm
+
+We're bottlenecking on servers out there... the servers that are up are
+spilling over with gibbage... host a game! Be a l33t UT p1mp! Help us
+out! I'll let you touch my shiny shirt at e3 next year! =)
+
+For those of you who are curious- you can adjust the gamespeed to crank
+up the action in UT. You can also adjust the amount of Air Control...
+
+These features are great to add variety to your game!
+
+
+
+--------
+Okay, here are a few gameplay related notes on the demo that should help 
+you whup ass like I do around here. :)
+
+Weapons
+-------
+-Translocator
+	This is on by default in CTF and Domination. If you want, you 
+can turn it on for deathmatch when you start a server or a practice 
+session. You can use it to get to hard to reach spots, telefragging 
+opponents, or you can just leave it in a spot you want to return to 
+later. Once you translocate, you can switch back to your previously 
+selected weapon by doing the following: When you hit ALT FIRE to 
+translocate, keep it held down. While it is held, you'll translocate, 
+then hit regular fire again. You'll switch back to your last weapon 
+right away.
+
+-Impact Hammer
+	The Melee weapon. The regular fire charges up as you hold it. 
+Simply keep the button held and walk up to and touch someone (while 
+still holding the button, it takes 2-3 seconds to get to a full 
+charge.) This will cause serious damage. If they're wounded or are 
+lacking armour, chances are you'll kill 'em. You can use the regular 
+fire to "impact jump" to higher areas at the risk of some damage. 
+Simply charge the tool, look down, jump and release.
+	The alt fire can deflect non-trace (hitscan) projectiles if 
+you time it right. It also damages foes but is more useful for 
+defense rather than offense.
+
+-Enforcer(s)
+	It is a handgun. (duh) Regular fire is slower but more accurate, 
+alt fire is less accurate but faster. You can get 2 of them for John 
+Woo action. They suddenly become VERY useful at that point.
+
+-Shock Rifle
+	Similar to the ASMD- the gun is INSTANT HIT, even though the 
+effect sears the air after the shot fires through. Regular fire does a 
+good amount of damage and imparts a LOT of momentum on foes. If you are 
+playing DM-MORPHEUS, it is very useful for knocking people off the 
+skyscrapers. Alt-fire shoots slower moving plasma balls. You can combo 
+this like in Unreal1 by shooting the alt fire blob with the regular fire.
+
+
+-Minigun
+	Regular fire- more accurate, slower, alt fire- less accurate, 
+faster. Eats up a lot of ammo. Pretty useful when you have the Damage 
+Amp. ("Udamage.")
+
+
+-Pulse Gun
+	Regular fire- fast firing plasma balls. Very strong, but you 
+have to lead your targets. Alt fire- Lighting shaft of plasma. Has a 
+limited range but is very useful, especially with the Udamage. It is 
+like a knife through butter when you have the Udamage and use the 
+altfire.
+
+-Rocket Launcher
+	Regular fire- fires rockets, hold button for up to 6, at which 
+point it auto-releases. Alt fire lobs grenades, you can hold the 
+button on this mode as well. IMPORTANT- If you are one of those who do 
+not like this feature, you can turn it off now under 
+OPTIONS-PREFERENCES-INPUT. However, bear in mind that those who learn 
+and get used to the way the gun works will probably smear you. If you 
+keep your crosshair on a foe then it will turn red and a beep will 
+sound. Your rocket(s) are now homing, so let em fly. Finally, if you 
+start loading up regular rockets and you hit the alt fire button while 
+you're doing this your rockets will be released in a tight pattern 
+instead of fanning out.
+
+Gameplay
+--------
+
+-Dodging defaults to on. You can easily turn it off. I'd suggest 
+getting used to it. It took me a couple of months during Unreal1's 
+development, and now that I'm used to it I don't fall into lava or 
+dodge accidentally. I use it well and I'm able to escape attacks quickly.
+Bear in mind that dodging in low gravity will give you great momentum,
+it is an easy way to zip around. Also, Dodging forward will make you 
+flip forward.
+
+-Feigndeath is bind-able in the regular menus. When you are faking, 
+your name will not show up on other people's HUD's when they have their 
+crosshairs on you. Oh, and remember, feigning death with the shieldbelt 
+on is just dumb.
+
+-Throw weapon is very useful in team games. You can bind this in the 
+menus as well. When you hit this key you'll throw your current weapon 
+out... use it to hook up your buddies with guns. It also has other 
+interesting functions- one time in a firefight Alan was coming after me 
+and I threw my gun into his hand (the Flak Cannon, it has a longer 
+weapon switch time than many of the other guns) and I was able to blast 
+him while he was confused and switching. It was like an action movie 
+where one guy throws his gun to the other guy, says "catch" and shoots 
+him. :)
+
+-Weapon Prioritization is in the main menus and is very easy to 
+navigate. Just drag your fav gun to the top, and the gun you like the 
+least to the bottom. You can prioritize the translocator and impact 
+hammer as well. I'd suggest making use of the SWITCH BEST WEAPON binding 
+option, as this will switch to your highest priority weapon in your 
+priority list when you press it. Very useful. [This is also another 
+way to put the translocator away once you teleport.]
+
+MAPS
+----
+
+-Map cycle lists
+The default deathmatch map cycle list cycles Phobos and Turbine. 
+Morpheus is a wide open low grav map that may not run as well as 
+the other 2 maps online, and if you want to cycle it you'll need to
+modify the map list when you're starting your server/practice session.
+
+Phobos
+
+-Jump boots are extremely useful in this space station map. 
+-The central courtyard is one big clusterfuck, and if you go for the 
+hidden shieldbelt down there you'll need those boots to high tail it 
+to a higher level. 
+-There are another pair of jump boots out near the armour/health 
+vials/minigun, and you can use those to jump up on the outside of the 
+space station and surprise foes. 
+-Also, remember that you can "lift jump" in UT. It works like this- 
+when riding a lift, and it is almost at the top, hit JUMP and you'll 
+catch a lot of extra air. 
+-If someone is controlling the tower in Phobos where the Damage Amp 
+is, you can lift jump over them and spray down hot lead as you're 
+falling towards them, they'll never know what hit them.
+-Phobos CAN be played one on one, but you may spend a fair amount 
+of time hunting.
+
+Turbine
+
+-The Amp can only be accessed by impact jumping. Yes, the bots will 
+go for it. :) 
+-There is a great camper spot up high somewhere near the highest 
+minigun/health/armour.
+-The shieldbelt is hidden behind a shootable wall in this map.
+-Make sure you use audio cues in this map. They'll give away your 
+foes' locations all over the place. :)
+-Turbine can be played one on one without feeling too large.
+
+Morpheus
+-The Shock Rifle's regular fire is damned useful on this map. You 
+can knock people off the buildings easily.
+-Beware of combo-move monkeys on this map that hang out in the 
+middle level.
+-Impact jumping will give you a hell of a vertical edge on your 
+foes. Try impact jumping and unloading rockets like mad on your 
+foes as you're coming down.
+-Pulse gun is very useful on this map. The alt fire will work 
+wonders on a floating target.
+-Morpheus can be played one on one without feeling too large.
+
+That's about it for now. Make sure you play with the mutators; 
+low grav instagib CTF is pretty nuts. :)
+
+
+
+
+--------------
+WE'RE ALL GONNA DIE!!!
+
+hee hee
+
+In other news, check this out:
+
+http://members.tripod.com/a-c-s/
+
+Let's spam this poll in favour of the contest!
+
+Also, in UT demo news... the cool people over at 
+Gamekey have set up an alert system for the demo.
+
+http://www.filekey.com/key.php?filekey=utpredemo1
+
+
+
+------------------------------
+
+On Monday I'm speaking at the GDC Raleigh.
+
+If you're in the area and have 90 bucks to spare, the GDC roadshows are
+worth checking out.
+
+http://www.gdconf.com/1999/roadtrips/raleigh.htm
+
+Also...
+
+http://www.cliffyb.com/trophy.jpg
+
+How damned cool is that?
+
+--------------
+http://www.cliffyb.com/decals.jpg
+
+Can you say "MCNASTY?"
+
+I think you can.
+
+-----------------------------
+Dan Sarkar, artist supreme, created this little "motivational" image 
+for all you developers out there.
+
+http://www.cliffyb.com/violence.jpg
+
+Enjoy.
+
+=)
+
+----------------------------------------
+
+I'd like to welcome James Green to the Epic team!
+
+James is a great modeler/animator/artist who has cool hair and a cool
+attitude.
+
+Plus, he hates the sunlight just like the rest of us. He'll fit in well
+at Epic.
+
+You can check out his previous work at:
+
+http://www.perilith.com/james/
+
+ROCK!
+
+
+--------------------------------
+
+I never played the first System Shock, but I really enjoyed the second
+one. Some great storytelling, pacing, and detail in it. Like Brandon,
+I disliked the end as well. No one should try organic levels until we
+have tons of polys/nurbs/real curves/etc... :)
+
+Anyways, I had to mention that Tracie Spencer is a talented foxy lady.
+
+Her CD is rockful.
+
+In other news, finding someone to marry you who won't put all sorts of 
+religious crap in your ceremony in the South is like trying to find a 
+needle in a haystack.
+
+--------------------------------------

@@ -1,0 +1,216 @@
+Login: christophe     			Name: Dirk Diggler
+Plan:
+
+02/03
+-----
+
+New <a href="http://www2.deskmod.com/wa3/wa3install_alpha3.exe">Winamp3 alpha</a>.
+New <a href="http://download.sourceforge.net/kmeleon/kmeleon021-010126.exe">K-Meleon build</a>.
+New <a href="http://phpgraphy.sourceforge.net/">phpGraphy</a>.
+New <a href="http://evildildo.com">Evildildo</a> songs.
+
+01/24
+-----
+
+We're almost ready for the wa3 public beta! oh wait... it's not beta, it's
+mostly very alpha actually... Anyway, we are planning on releasing it
+tomorrow or near this weekend if we can sort out all the current major
+bugs so stay tuned :) 
+
+and listen to <a href="http://www.evildildo.com">Evil Dildo</a>.
+
+12/04
+-----
+
+Just went back from Chicago. I went there to see the last 2 shows from
+the Pumpkins and we really had a wonderful time there. 
+
+As Billy said at the end of the show, "God bless the Smashing Pumpkins".
+
+Chicago is a really nice city, I would even want to live there if it
+wasn't so COLD... but we did meet lots of nice and crazy people and my
+french accent never had so much success. Greets to everyone we met and loved.
+
+Well, today, I'm gonna give some love to the skin thing as requested by Splif.
+need to improve/add some more functionality to the XML reader.
+
+11/20
+-----
+
+Wow, haven't updated this since nearly one month... well, not much happened
+except that i'm just about to be done with moving all my stuff to my
+new appartement in the center of gayland. well, i think i'll just have
+to get used to see male people going hand in hand on the street. otherwise,
+the appartment is bright, sunny, clean and with an awesome view from the
+living room. i'm happy.
+
+also, as i'm moving, my dsl connection is dead so evildildo.com and 
+ronography.com won't be accessable until several weeks (why does it
+take so long to get dsl in a such cyber city as San Francisco?)
+
+i'm right now working on putting all that windac code into a nice wa3
+plugin. for impatient ones, justin will probably integrate windac for
+winamp 2.x in some days... i'm thinking about rewritting some code in
+wa3 playing core, not that i don't like it the way it is but i hate
+to see all this synchronysm code behaving so strangely...
+
+hmm, my head hurts... been moving too much boxes today... me goto sleep
+
+10/21
+-----
+
+I wish to meet the Devil and I want it to be Elizabeth Hurley.
+
+...oh and hello Sonique guys, hope you enjoyed the show tonight. too bad
+i didn't have any popcorn, that'd have been good projectiles...
+
+10/13
+-----
+
+well, i'm off to vegas... before i leave, i corrected/improved some id3v2
+stuff in in_mp3. grab the latest one (alpha 16) <a href="http://genghis.winamp.com/~christophe/porn/in_mp3_260_alpha16.zip">here</a>.
+
+changes:
+  * [a16] corrected crash/bug in id3v2 genre reading
+  * [a16] corrected id3v2 comment editor to support multiple lines :)
+  * [a16] new "stop track" button in id3v2 editor so you don't have to retype everything
+          when id3v2 can't be updated because file is locked
+  * [a16] added track number id3v2 field
+  * [a16] id3v2 warnings no more appear under id3 tag editor
+
+oh also, yesterday we went to that Wired Readers Rave party as Justin was
+a nominee for the best Rebel or Renegade attitude. too bad he lost :(
+anyway, beck was there and a lot of us were drunk. photo report <a href="http://ronography.com/?dir=Parties%2FWired%20Readers%20Rave%20party%20-%20featuring%20Beck%20-%2010-12-00%20-%20SF">here</a>.
+ok, i'm gonna grab some prostitutes now.
+
+10/12
+-----
+
+i've released more free stuff ... this time is the little script that powers
+my picture collection page. <a href="http://phpgraphy.sourceforge.net">check it out</a>
+
+also, check out the new in_mp3 decoder <a href="http://evildildo.com/shit/in_mp3_260_alpha15.zip">here</a>. 
+it contains a new rad id3 v1/v2 editor and if all goes well, it's gonna be the
+new decoder for winamp 2.666. so grab it, test it a LOT and report bugs to
+christophe@nullsoft.com and justin@nullsoft.com.
+
+love.
+
+10/09
+-----
+
+i'm very kind with you today; here's a <a href="http://tofz.org/?display=San%20Francisco%2Ffriends%2F0801-05.jpg">shot</a> featuring myself and Winamp 3 !
+
+10/07
+-----
+
+spent the 3 latest days playing/working with winamp 3 linux port. looks good
+so far, i hope i'll be able to post a screenshot in the following days ...
+
+09/28
+-----
+
+I've received my new Nomad Jukebox player yesterday and i can tell you that
+this little device owns. There is some downsides but in general, i love it.
+Well, here is my little pros/cons review :
+
+pros:
+- 6gb hard drive. that's a LOT of space.
+- i love the futurist look
+- very light
+- comes bundled with 2 set of 4 rechargable batteries.
+- infrared port present. not used by present.
+- eax is kinda nifty. environmental stuff is probably not very worthy, but
+  it's cool.
+cons:
+- you're not able to transfer back files from the device to your machine.
+  but you can cheat it by sending zip files renamed to .wav and you have
+  a 6gb portable storage device. also, i hope that someone will hack the
+  firmware or the (bad) creative software to allow both ways transfers.
+- the HD has to spin up at the beginning of every mp3s. why don't they spin
+  up the drive when you're at like 75% of the currently playing mp3 ? dumbasses.
+- it takes about 25secs to boot.
+- parametric EQ could be a lot better. why only 3 bands ?
+
+tomorrow, we're gonna set fire at brennan's house for his birthday. i'm
+thinking about inviting some prostitutes there. should be a lotta fun.
+
+09/01
+-----
+
+PLACEBO - Black Market Music is a very good album. I'd recommend you to buy
+it but as it's not out yet, try to get it in some other way :)
+
+Didn't do much today, just implemented id3v2 reading in the new in_mp3.dll for
+the upcoming Winamp 2.666 ...
+
+08/24
+-----
+
+Yay! 2 french female friends just arrived at my home for 2 weeks. Gonna be a
+lot of fun.
+
+"Life is what happens to you while you're busy making other plans."
+- John Lennon in Beautiful Boy
+
+08/21
+-----
+
+I was bored on sunday so i played a little with Gecko as we want to use
+it into wa3. Note that it will only use Gecko if you have Mozilla installed,
+we don't want to add 18 megs to the distribution :)
+
+So here is the result : <a href="http://kmeleon.org">K-Meleon</a>. A tiny, fast web browser using the Gecko engine.
+
+Also, I've been working on the new skin package format and i'm including a
+"security" option for you skinners so you'll be able to protect your work.
+Let's hope that will stop all the nasty rippers from stealing your graphics.
+
+08/14
+-----
+
+UPDATE: I'd like to point out that Mr Jonathan Ward just had a haircut. hahaha.
+        Please send him some supporting mail to <a href="mailto:jonathan@winamp.com">jonathan@winamp.com</a>.
+        He needs it.
+
+I'm right now at the office, with my head burning because of a big sunburn right
+on my face. Damn, California sun is evil :/
+
+Steve got a very nice idea that will add a new dimension to the skinning
+community. I'll need some time to make it work, but that's definitly worthy.
+I know you're tired of just hearing that Winamp 3 will kick ass, but I can
+assure you, it really will ... and the release date is pretty soon, so just
+have the patience to wait a little more, it will worth it :)
+
+08/04
+-----
+
+my shoutcast station is now ready <a href="http://www.evildildo.com">here</a>.
+it plays lot of stuff that i like, so you can hear about everything there, from
+alternative rock to indian music to trance to bossa-nova, everything ...
+
+also, i'm pretty happy with my little PHP script that on-the-fly retrieves
+playing infos from the shoutcast XML DNAS page. PHP is so great ...
+
+ok, i got to go back to real work ...
+
+08/02
+-----
+
+these days, i'll be working on the feature that you all asked for wa3,
+which is the winamp 2.x skins support in the new winamp 3 skinning system. yay.
+
+07/13
+-----
+
+i bought a brand new PRS guitar last week, just received my new Dreamcast
+today and my giant 61" Sony TV is coming on friday. joy for me.
+
+on the winamp 3 side, i'm just finishing tweaking the core so the 
+plugins developers will soon be able to get a SDK to play with. also, danny is
+working a lot on documenting that stuff. joy for you.
+
+-AND-
+
+will Steve STOP writing .plans while making a poop ?
+

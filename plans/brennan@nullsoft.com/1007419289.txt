@@ -1,0 +1,63 @@
+Login: brennan        			Name: Brennan Underwood
+Project: blah blah Winamp3 blah blah
+Plan:
+03-Dec-2001
+
+Yes, monkeyradio.net is gone. Taken. Sucky.
+
+But, monkeyradio.org is still live! Tell your friends!
+
+
+
+14-Oct-2001 [Addendum 9:30 pm pst]
+
+Having read yet more comments, I think you guys are totally missing something:
+
+Our open-fucking-source SDK. It's 1.5 megabytes of C++ code, zlib-type
+licensed, mostly debugged, pretty portable, and happens to comprise about 90%
+of the *exact same code* we use to build Winamp3 itself.
+
+Do you see the point now?
+
+Do I have to fucking spell it out for you?
+
+
+14-Oct-2001
+
+Dear /.
+
+We ported it to Linux because we *like* Linux. Calm down.
+
+Sincerely,
+Brennan
+
+
+03-Oct-2001
+
+http://www.monkeyradio.net/pimpin2k1/
+
+
+04-Aug-2001
+
+Well, I'm back, goddammit.
+
+The layoffs didn't really hit home until I had to move all those names in AIM from
+the "Gaybags" group to the "Ex-Gaybags" group. It's getting crowded in there.
+
+Eh, fuck.
+
+
+11-Aug-2001
+
+Wow, I haven't written a .plan update in forever. Does anyone even read these
+any more?
+
+I'm now past my 2-year anniversary of starting at Nullsoft... how things
+have changed.
+
+I kinda miss the bizarre idealism of 1999... The idea that we could actually
+change the world with a network. Instead, corporatism encroaches and life
+gets marginalized. Remember when it was a sick joke to say "Hey! They're only
+trying to make money!" instead of it being accepted as a reason for fucking
+people over? Or was it always like this and I only now notice?
+

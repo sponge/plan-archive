@@ -1,0 +1,83 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: BoBo_the_seal
+Plan modified: Sat Mar 30 19:32:40 2002
+
+03/30/2002
+=================
+
+Well it's been a while. I just wanted to pass along a fun little project that a couple of us here at ritual are working on in our spare time (what little we have).
+Check out my website for details of a model I'm working in collaboration with James Hawkins (one of our concept artist).
+
+http://www.bobotheseal.com
+
+BoBo
+
+
+
+07/30/2001
+=================
+
+QuakeCon 2001 Workshop
+
+I will be conducting a two-part workshop this year at QuakeCon. The workshop will be focused around head replacement models for team Arena. Part one will cover concepting and modeling while part two will move on into unwrapping and skinning. I currently have a head-pack in production and hope to coincide its release with QuakeCon. I am greatly looking forward to this years festivities and will be around the BYOC area for most of the event.
+
+BoBo the seal
+
+
+07/11/2001
+=================
+
+Well Ritual just got back from watching the Final Fantasy movie. Overall I thought it was a great film but was slow in a few places. I really enjoyed the underlying story. My only qualm is that it did not feel like it belonged in the Final Fantasy world. Other then that I would highly recommend it.
+
+
+03/12/2001
+=================
+
+I spent the weekend playing the Gore demo from 4drulers
+http://www.4drulers.com
+This is a game that has a lot of potential but in the end falls short.
+
+The Good:
+Some of the features where really nice and they are obviously trying to do something a bit different. The use of Stamina adds a lot to the game play. As someone who likes to jump and continually keep moving I found it interesting that my character ran out of breath and his performance was greatly affected to an almost paralyzing state. You constantly have to pick up additional stamina or simply stop and let it build back up. This was a new twist on death match that I found very enjoyable until I ran out of stamina trying to flee from someone. :)
+Another feature that I thought added to gameplay was the ability to blow up items and weapons. If you have someone on the ropes and they are trying to get to that extra health you can shoot it and it not only disappears but it causes damage too.
+The weapons capabilities have a lot of potential. I am a big fan of alternate firing weapons. The rocket launcher/grenade launcher combinations worked great on the first map while on the second floor. I could peg people from across the room and at the same time drop grenades down to the second level. The Flamethrower was great while trying to defend. The “cocktail bomb” style secondary fire was great. If someone was on my tail I could quickly create a wall of fire between us. The energy style weapon was great. The primary fire did not seem very useful but the secondary fire was surprising. It seems to engulf its victim. Very nice. :)
+The use of class-based characters is a great idea in conjunction with the stamina aspect but does fall a bit short.
+They are claiming that it is easily modable over at the Skindom forums.
+Over all I had fun.
+
+The Bad:
+The graphics where not as good as they could be and many of the effect where not visually pleasing. I know this is a beta but I think they have a lot of work to get it visually as nice as it is fun to play. The fire needs a lot of work. The movements of the characters did not always seem very smooth. The Rocket launcher, although quick firing, did not seem very powerful. It seemed to take several hits on a person to nock them out. I am a big fan of rocket launchers in FPS’s so I hope they play with it a bit more. The class-based characters, although a great idea, did not seem as effective as it could be. In a death match scenario, and on such small maps, I did not see enough of a difference.
+
+The Verdict:
+Knowing it is a beta and has a lot of work to go, I am looking forward to it. I really think it has a lot of potential. Based on the demo and if it were to ship tomorrow as a value game at $24.99 I would pick it up in a heartbeat do to the modability and the fun factor of it. If it were priced any more then I would have to pass it by.
+I give it a 70% score
+
+
+03/08/2001
+=================
+
+Well hell, It seems 3dpalette is in the process of switching servers, so that means my game editing website is down until they get things working again. I will try and have http://www.bobotheseal.com up and running sometime this weekend. I have concepts for three games that I would like to create one day and will be posting several conceptual art pieces to that site.
+
+The head pack that I am working on for Team Arena is getting close to being complete. I just have two more to go. I am using it as a means to learn more about shaders and possibly pick up a few new techniques along the way.
+
+
+03/02/2001
+=================
+
+Just wanted to take this opportunity to introduce myself. I go by the online name BoBo the seal and am the newest artist at Ritual. I have been bumming around the mod community for the past year learning to skin and model. You can find some of my work at http://www.3dpalette.org/~bobo and I will soon have http://www.bobotheseal.com up and running. Ritual brought me on to do skins, concept, models, 2d menu art, sweeping floors, getting coffee, etc…. You name it and I will probably do a little of it. 
+
+I am extremely pumped about this first project I am working on. It’s a FPS for EA and let me just say, damn the stuff I have seen looks tight. It’s one hell of a project to be my first and I can’t wait to start playing it. I also have the great opportunity to work with ALPHAwolf who I have known from the Quake community for a while now. Let me just say this guy is a machine. He is doing some amazing stuff with his characters. 
+
+I can’t say much about the game yet so I will probably use this as a forum to voice my opinions on gaming, the mod community and entertainment in general. I plan to continue my involvement in the community. In fact, I am working on a head pack for Quake 3 Team Arena and a number of skins and models for 
+http://www.q3f.com and http://www.savageuniverse.com/tribalctf  
+I also hope to be a factor in the moding of future Ritual games.
+
+Well that's it for my first plan. I hope to post more in the future. 
+
+Oh yea, just a word to the people in the community: keep at it, hone your skills, ask questions, and check out great websites like: 
+http://www.polycount.com
+http://www.3dpalette.org
+http://www.skindom.com
+These three sites helped me more than anything.

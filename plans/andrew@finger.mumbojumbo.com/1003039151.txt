@@ -1,0 +1,16 @@
+
+*** MumboJumbo's Finger Server
+
+User name: andrew
+Plan modified: Sat Oct 13 22:19:26 2001
+
+
+delete_local_projectile()
+arctangent()
+monster_identifiers_to_monster_indexes()
+movement_command_action_proc()
+
+Your sins shall not pass unremarked.
+
+
+

@@ -1,0 +1,15 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Lead Programmer
+Project: Jedi Academy
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+GtkRadiant 1.3.12 released - Jedi Academy support 
+
+http://www.qeradiant.com
+
+GtkRadiant 1.3.12 is available. The big new thing is support for Raven Software's Jedi Knight: Jedi Academy. 1.3.12 has gone through more testing, many bugs have been fixed, and we also added support for Quake II editing. 
+
+Thanks TTimo!

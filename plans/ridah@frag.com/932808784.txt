@@ -1,0 +1,142 @@
+Login: ridah          			Name: Ryan Feltrin
+Plan:
+
+Ryan Feltrin
+<a href="mailto:ridah@frag.com">ridah@frag.com</a>
+
+Technology & AI Programmer, <a href="http://www.xatrix.com/">Xatrix Entertainment</a>
+
+
+24-Jul-99
+---------------
+
+By now you should start seeing the v1.1 patch popping up at various
+destinations.
+
+I have prepared v1.1 linux client/server binaries for immediate
+release.
+
+This version breaks cross-version compatibility, so the faster we
+get new servers up, the better.
+
+Please be sure to read the README file before attempting to contact me.
+
+Thanks.
+
+<a href="http://impact.frag.com/ridah/kp_linux/kpded-1.10beta_glibc-i386-unknown-linux2.0.tar.gz">Linux Kingpin Server v1.10beta - TAR Archive.</a>
+(note: this is just a cut down client package, so make sure you start with '+set dedicated 1' in the command line)
+
+<a href="http://impact.frag.com/ridah/kp_linux/kingpin-1.10beta_glibc-1.i386.rpm">Linux Kingpin v1.10beta - RPM Installation (recommended).</a>
+(use 'rpm -i --nodeps kingpin-1.10beta_glibc-1.i386.rpm' to install with TNT/2 cards)
+
+<a href="http://impact.frag.com/ridah/kp_linux/kingpin-1.10beta_glibc-i386-unknown-linux2.0.tar.gz">Linux Kingpin v1.10beta - TAR Archive.</a>
+
+Note: some non-Linux browsers are known to corrupt downloads
+of these files. Best use your Linux browser, and do a shift-click.
+
+
+20-Jul-99
+---------------
+
+The patch is almost done, just chasing down the "S_Update: overflow"
+client disconnects, then we're done. Here's an updated list of
+fixes/changes for the curious:
+
+Kingpin v1.1 Fixes/Changes:
+---------------------------
+
++ Fixed long level loads
++ Fixed pauses during multiplay
++ Fixed erratic mouse during multiplay
++ Optimized Vertex Array support
++ Allow access to consol while in multiplayer game
++ Only play intro once
++ Optimized scoreboard, fits more players
++ Fixed invalid model causing a thug model with sewer rat skin during teamplay
++ Fixed gibbing characters in single player mode causes character to dissapear
++ Completely disallowed alt-tab, causes several video drivers to hang the system
++ Added "maxrate" setting for servers
++ Pain skins on buddies in single player
++ Player ID display
++ Disappearing View Weapons on linux servers
++ Reduced network traffic on startup, causing overflowed client drops
++ Holster weapon, select weapon without ammo, can't raise weapon
++ Added "dm_realmode", allows only pistol, shotgun & tommygun, with 4x damage
++ Fixed dial-up connection dialing unnecessarily after selecting Begin Game in Gangbang menu
++ Allow for multiple CD drives
++ disable sound quality option for 64mb systems
+= Crouching shotgun, won't reload automatically
++ play animation properly after respawn
++ Color coded Player ID (green = friend, red = enemy)
++ Added use of (audible) talk keys during multiplay, accompanied by a random jesture
++ Automatically scale maxfps with rate setting, if cl_maxfps is higher than current setting can handle
++ Prevent safe blockers
++ New seperate text/chat display
++ Easier to hit switch in Bagman
+
+Notice the addition of "dm_realmode". This is something I thought
+would be cool, so I threw it in and it turned out to be great
+for 1on1 battles. I'll include a demo showing this mode in action
+with the patch, so you can see the way it changes the game for
+yourself. I think it takes the game back the roots of movie-esque
+action sequences, reminds me a lot of the very cool Action Quake
+mod for Quake2.
+
+So what the hell is it? Well basically it reduces the game to
+the three basic weapons, Pistol, Shotgun and TommyGun. However,
+damage is multiplied by 4, and armor is removed. Survive a pistol
+shot and consider yourself extremely lucky. Hence the term 
+"Real Mode".
+
+Also note the addition of the talk keys during multiplay. In teamplay
+mode, you can use them to give orders, or let others know what you're
+doing. "Stay here", "Let's go", etc. Or you can just shoot the breeze
+while you wait for the enemy to show up.
+
+Also, Kung "I like 'em tough" Fu from PlanetKingpin is working on
+a set of VERY cool map addition for Bagman. We tested one of these
+at an 11 player lan the other night, much yelling and cussing was
+heard. They'll make a great addition, and will scale much better
+to games with fewer players, as well as being much easier to find
+your way around.
+
+
+16-Jul-99
+----------------
+
+UPDATE: Server ops, the below binaries will not be compatible
+with current win32 clients. So best wait until the patch has
+been released (which will be simultaneous win32/linux) before
+upgrading your binaries.
+
+The patch is undergoing final testing, and should be out soon.
+
+---
+
+A full Linux client port of Kingpin is now available.
+
+I have not tested this extensively, so please don't treat
+this as a full-blown release. If there are major bugs, I'd
+like to hear about it. I will try and fix any problems in
+what little time I have outside normal work.
+
+I am very much behind the linux cause. Although for many it
+can be a love-hate relationship at times, when it does work,
+it's a dream to use. I've only been using it now for about a
+week, in which time I've developed a strong desire to see
+this platform succeed. Thus, I have devoted a lot of effort
+towards getting this client working.
+
+At this time, it is limited to Linux glibc, and REQUIRES A
+3D ACCELERATOR, which is compatible with Linux (most 3DFX and
+TNT/2 cards).
+
+Please sure to read the README file before attempting to contact me.
+
+<a href="http://impact.frag.com/ridah/kp_linux/kingpin-1.09beta_glibc-1.i386.rpm">Linux Kingpin v1.09beta - RPM Installation (recommended).</a>
+(use 'rpm -i --nodeps kingpin-1.09beta_glibc-1.i386.rpm' to install with TNT/2 cards)
+
+<a href="http://impact.frag.com/ridah/kp_linux/kingpin-1.09beta_glibc-i386-unknown-linux2.0.tar.gz">Linux Kingpin v1.09beta - TAR Archive.</a>
+
+Note: some non-Linux browsers are known to corrupt downloads
+of these files. Best use your Linux browser, and do a shift-click.

@@ -1,0 +1,18 @@
+
+*** Ion Storm's Finger Server
+
+User name: jake
+Plan modified: Sun Jun 10 03:49:52 2001
+
+Anachronox is days away from being finished. I can hardly fathom it. Sometime next week we should be gold.
+
+Joey implemented a completely new model lighting system that is absolutely beautiful. It's a shame that all out screenshots don't show any new stuff. Joey, He's smart but he sucks at Ping-Pong.
+I was finally able to complete the Lighting pass on all cinematics, the last step in signing off on them. So for fun I wrote down the times of all of them. Anachronox has roughly 100 in-engine story cines. A total time length of 2 hours and 28 minutes. About 10 minutes of stuff is optional, to see that stuff you have to
+
+
+
+
+
+
+
+

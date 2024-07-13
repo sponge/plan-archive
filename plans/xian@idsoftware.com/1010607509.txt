@@ -1,0 +1,43 @@
+
+Name: Christian Antkow
+Email: xian@idsoftware.com
+Description: Level Designer
+Project: 
+-------------------------------------------------------------------------------
+
+Jan.9.2001 @ 2:15pm
+-------------------
+
+ We're currently testing the release candidate for Wolf 1.1 (will be released 
+in "two weeks"). I'm running the latest server code on all my servers, so if 
+people could play on them for a few days, and forward any bugs/issues they 
+encounter to xian@idsoftware.com, we would greatly appreciate the feedback.
+
+xian-gameserver.idsoftware.com:27960 - mp_destruction
+xian-gameserver.idsoftware.com:27961 - mp_base stopwatch
+192.246.40.108:27960 - mp_trenchtoast
+
+ Thanks,
+
+ -Xian
+
+<tt>
+
+---
+<font size="2">
+*** Disclaimer: Opinions are my own and in no way reflect those of id Software
+
+This disclaimer does not cover misuse, accident, lightning, flood, tornado,
+tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God,
+neglect, incorrect line voltage, improper or unauthorized use, broken antenna
+or marred cabinet, missing or altered serial numbers, removal of tag, 
+electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer
+adjustments that are not covered in this list, and incidents owing to an
+airplane crash, ship sinking or taking on water, motorvehicle crashing, 
+dropping the item, falling rocks, leaky roof, broken glass, mud slides,
+forest fire, and/or projectile (which can include, but not be limited to, 
+arrows, bullets, shot, BB's, paintball, shrapnel, lasers, napalm, torpedoes, 
+or emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.)
+</font>
+---
+</tt>

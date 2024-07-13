@@ -1,0 +1,73 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Lead Programmer
+Project: Jedi Academy
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+Jedi Academy 1.0.1.0 patch out now!
+
+!server admins! you also need the 'assets3.pk3' from the retail patch installed on your server else people trying to connect will get client/server mismatch errors.
+
+
+##############################################################
+
+Star Wars(TM) Jedi Knight(TM) : Jedi Academy(TM) Update ReadMe
+Version 1.01
+10/29/2003
+
+##############################################################
+
+Thank you for downloading the Jedi Academy(TM) Update.
+
+Global
+
+Fixed dynamic glow for new ATI drivers (if you are 
+experiencing low framerate, go into Setup - More Video and 
+change dynamic glow to off).
+Updated EAX 4.0 sound support.
+
+Single Player fixes
+
+Force feedback defaults to off (if you are experiencing hiccupping 
+while playing, especially during lightsaber battles, go into 
+Controls - Mouse/Joystick and set force feedback to "No").  
+Note:  Gravis gamepad users should turn force feedback to off.  
+Gravis drivers aren’t compatible with Jedi Academy and will 
+cause the game to crash.
+Patch will work around manufacturing defect which causes 
+single player not to run.
+Resetting defaults in game will no longer reset your skill level.
+Fixed bug allowing player to select a force power that had already 
+been maxed out.
+Fixed animation issue if enemies force push you while executing a 
+special move.
+Ragdoll fixes.
+
+Multiplayer fixes
+
+Fixed bug causing Internet servers to time out too early on master 
+server list.
+Fixed bug causing various movement sounds not to play consistently 
+(footsteps, rolling, etc.).
+Fixed bug regarding turning off of second saber.
+Fixed bug preventing camera shake if hit by explosive.
+Fixed roll animation.
+Fixed exploit allowing for illegal character models.
+Fixed bug allowing rocket launcher lock-on after death.
+Various exploit fixes.
+
+***************************************************************
+Please note: Server admins must update their servers to the new 
+1.01 code.  This may take a few days and 1.01 multiplayer games 
+may be scarce until all servers upgrade to 1.01.
+
+##############################################################
+
+© 2003 LucasArts, a division of
+Lucasfilm Entertainment Company Ltd.
+P.O. Box 10307
+San Rafael, CA 94912
+
+##############################################################

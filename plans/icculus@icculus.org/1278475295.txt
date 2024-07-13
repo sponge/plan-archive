@@ -1,0 +1,41 @@
+IcculusFinger v2.1.23
+
+
+Aquaria:
+
+ Source code is available now!
+   http://infiniteammo.ca/blog/aquaria-source-released/
+
+
+Steam Tags:
+
+ The Steam UI beta could, briefly, assign games to multiple categories.
+  I spent an hour or so assigning all my games: TODO, First Person Shooters,
+  Finished, Worth Playing, Indie, etc. It satisfied some deep OCD in me or
+  something.
+
+ Shortly before the beta ended, this functionality was removed...games could
+  be assigned to categories you define, but only one at a time. There's
+  probably a good reason for this change, but I don't understand it. Most
+  games defy simple categorization.
+
+ Some blanket categories are built it ("Mac Games", "Favorites", "Recently
+  Played"), but it's not the way I think about my games, and the way I want
+  to find them on a whim.
+
+ So I built a tool to solve this.
+
+    http://steamtags.icculus.org/
+
+ Basically, you go there, you tag your games, and then you can filter them
+  by those tags. Click the game to launch Steam and install/play the game.
+  Tags follow you from computer to computer. It's that simple.
+
+--ryan.
+
+--------------------------------------------------------------------
+When this .plan was written: 2010-07-06 20:51:14
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.23 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

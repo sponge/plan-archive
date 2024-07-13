@@ -1,0 +1,88 @@
+Login: randy          			Name: Randy Pitchford
+Project:
+
+Prax War
+
+Plan:
+********
+10/30/98
+
+Rob, Stephen Palmer and myself will be giving a talk at the Frag2 on
+Saturday at around 2:30pm.
+
+We'll be discussing the future of level design in first person 3d ganes.
+We're bringing some visual materials (screen shots and stuff) to help
+present some of the innovations everyone should expect in next generation
+engines like RBR1. The purpose of the talk isn't to show off the game,
+but to explain and demonstrate the techniques developers are evolving
+towards in world creation.
+
+Arbitrary polygons are cool.  Multipass rendering is cool.  Alpha blending
+is cool. This should be the first real public glimpse of what future 3d
+shooter game terrain meshes will look like.  You'll get to see what life
+is like after the limits of brush geometry, 2d editing and csg construction
+have gone away.
+
+The talk should be good for game fans who want to know what's coming up
+next, for amateur designers to start getting prepared for the next
+generation and for developers who like to steal things (that's not a
+dig... we all do it to some extent.  Learning from each other makes the
+whole industry more powerful.)
+
+Anyway, come on by.  There will be time for Q&A.  And, stick around
+later to watch us win the DooM2 All-Star Deathmatch Tourney. : )
+
+Here's the official talk description:
+
+>>>
+Saturday
+
+2:30 PM  "Level Design for the Next Generation"
+
+                Rebel Boat Rocker
+                Rob Heironimus
+                Randy Pitchford
+                Stephen Palmer
+
+                The level design team from Rebel Boat Rocker will be
+                sharing level design techniques and trends for the future
+                of game technology.  The discussion will include talk of
+                arbitrary polygon construction, curves, multipass lighting,
+                shading and bump mapping, population, animation, LOD
+                and tesselation, and visibility set generation and will
+                compare and contrast with current brush editing
+                paradigms.  This discussion will be interactive and
+                questions are encouraged.
+<<<
+
+
+-DuvalMagic
+
+
+********
+10/19/98
+
+Happy Birthday to Dirk Jones
+
+
+
+********
+10/09/98
+
+
+DooM Wisdom:
+
+In DooM ][ Old Deathmatch set at Skill 5, it is possible to kill a marine
+who has 100% health and zero armor with a single shot from the single
+barrel shotgun.
+
+I have a demo to proove it.
+
+
+Other Stuff:
+
+Greg C., if you're reading, e-mail me.  I miss you, man.  I played Out of
+This World again the other day and it brought back cool memories.
+Remember 'Wachenga, Cahuenga'.  Heh.
+
+-DuvalMagic

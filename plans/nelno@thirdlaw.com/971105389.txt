@@ -1,0 +1,116 @@
+
+*** Third Law Interactive 
+
+User name: nelno
+Plan modified: Sun Jul 09 21:44:15 2000
+
+<HTML>
+<BODY BGCOLOR=#000000 TEXT=#FFAF00 LINK=#FFFFFF ALINK=#7F0000 VLINK=#CF0000>
+<TABLE WIDTH=75% BORDER=0>
+<TR BGCOLOR=#7F009F>
+<TD>
+<FONT COLOR=#FFFFFF><B>July 9th, 2000</B></FONT>
+</TD>
+</TR>
+<TR>
+<TD>
+Yes, KISS Psycho Circus: The Nightmare Child really is gold.  We will have
+a demo out shortly (before the game hits the shelves), because we know how 
+important it is to give people a chance to see this game before they buy it.  
+We're going to spend a little extra time taking out any extraneous data so 
+that we can get the demo as small as possible, while still representing all 
+the game has to offer.  That way there won't be any excuse for not downloading 
+it and trying it out. :)
+</TD>
+</TR>
+</TABLE>
+<BR><BR>
+<TABLE WIDTH=75% BORDER=0>
+<TR BGCOLOR=#7F009F>
+<TD>
+<FONT COLOR=#FFFFFF><B>May 2, 2000</B></FONT>
+</TD>
+</TR>
+<TR>
+<TD>
+Third Law is looking for another programmer to complete our team.  Because 
+many of us here got our start making and/or designing our own games in the dark 
+of night for no reason other than we loved doing it, we think it's a good 
+thing to tap the gaming community for talent.  If you like to play games,
+and love to create them, you may have what we're looking for.<BR>
+<BR>
+Candidates should be able to meet these general requirements:<BR>
+<BR>
+<LI>Several years of programming experience in the game industry, or as a hobby.</LI><BR>
+<LI>Minimum of two years experience using C/C++ (C++ experience is a bonus).</LI><BR>
+<LI>Working knowledge of 3D mathematics.</LI><BR>
+<LI>Willing to work long hours because you love coding games.</LI><BR>
+<LI>Prior experience working with a major 3D engine is a big plus.</LI>
+<LI>Able to relocate to the Dallas, Texas area.</LI><BR>
+<LI>Must be a resident of the United States (sorry, but immigration stuff is a HUGE hassle).</LI><BR>
+<BR>
+Please note that these are only general requirements. We don't want to scare
+talented individuals away, but there are some baselines that must be met before you will
+be considered. Note, however, that examples of work will carry a lot of
+weight.<BR>
+<BR>
+If you are interested and qualified, send some of your work and a resumé to 
+<A HREF = "mailto:jobs@thirdlaw.com">jobs@thirdlaw.com</A>.<BR>
+</TD>
+</TR>
+</TABLE>
+<BR><BR>
+<TABLE WIDTH=75% BORDER=0>
+<TR BGCOLOR=#7F009F>
+<TD>
+<FONT COLOR=#FFFFFF><B>April 7, 2000</B></FONT>
+</TD>
+</TR>
+<TR>
+<TD>
+I just want to make a quick clarification for Steve Lynch over at 
+<A HREF="http://hypothermia.evilavatar.com">http://hypothermia.evilavatar.com</A>.
+I gave him an "exclusive" screen shot to go with my interview that he put up 
+earlier this week.  As it turns out, someone not-from-Third Law grabbed that same
+screenshot from the directory and sent it to at least one other site on the
+same day, ruining the whole "exclusive" thing and causing Steve to get several
+emails telling him he was a liar and a fraud.
+<BR><BR>
+Well, he's not. It wasn't his fault and it was just a screwup on our part.  So,
+in order to fix the situation we've given Steve two REALLY exclusive screen shots
+from KPC's Earth Realm.  So head on over to <A HREF="http://hypothermia.evilavatar.com">Hypothermia</A> to check them out.
+And if you sent Steve nasty email, you should send him another one telling him you're sorry for doubting him.
+</TD>
+</TR>
+</TABLE>
+<BR><BR>
+<TABLE WIDTH=75% BORDER=0>
+<TR BGCOLOR=#7F009F>
+<TD>
+<FONT COLOR=#FFFFFF><B>August 31, 1999</B></FONT>
+</TD>
+</TR>
+<TR>
+<TD>
+Wow... it's been awhile.  Things are going very well here at Third Law.
+We're currently finishing up everything that will be in the demo for
+ECTS.  From what I understand, Gathering isn't showing any of it's products
+on the floor at ECTS, so this will be a backroom, press-only showing.
+The feedback we received from our E3 demo last May was extremely positive,
+with a number of people simply blown away, so we're hoping that the content
+we've added to the game since then will be even more impressive.  I must
+admit, though, it's easier to impress when you're the underdog.  People
+(especially hardcore gamers) tend not to expect much from a KISS game, but
+we're pouring our hearts into this and making a game we really want to play.
+There should be some more screenshots showing tons of gameplay action
+(absolutely real -- no faking here) and a new, improved video showing even
+more sometime after ECTS (or perhaps even sooner), so stay tuned -- I think 
+some people will be surprised by what they see. 
+</TD>
+</TR>
+<TR>
+<TD>
+</TABLE>
+</BODY>
+</HTML>
+*** Please report problems to nelno@thirdlaw.com

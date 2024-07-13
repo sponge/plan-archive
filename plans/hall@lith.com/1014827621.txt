@@ -1,0 +1,58 @@
+
+*** Monolith Production's Finger Server
+
+User name: hall
+Plan modified: Fri Oct 19 18:46:04 2001
+
+				
+					10/19/2001
+
+Thank you all for downloading the Aliens vs. Predator 2 MP demo!!! 
+
+A potential issue that some of you may have already experienced, is our in-game server finder interface can sometimes crash when it is faced with a large number of available servers. 
+
+We apologize for this inconvenience. 
+
+Our engineers are working on a fix already. This is not a complicated issue and we'll be releasing a small patch very soon to fix this. 
+
+Meanwhile, for those experiencing the problem, you may find some success playing the AVP2 MP demo through GameSpy Arcade or through the LAN. Again, please accept our apology for the inconvenience this is causing.
+
+Jace
+
+
+
+
+
+
+				
+									
+					8/16/2001
+
+Note:
+
+I've been receiving quite a number of e-mails asking me about the CEO transition stuff, so I figured that a .plan update would be the best way to clear up any confusion.
+
+I'm not going to delve into any future LithTech Inc. specific details. From here on out it is no longer my place to do that and furthermore, Jeff Hutt is more than capable of handling and communicating the company's vision and strategy with the public.
+
+Speaking of Jeff Hutt, I am personally very excited about his new role at LithTech. The fact that he has managed the development of numerous games and understands what it takes to develop a quality product makes him a great fit for the position that he is in. 
+
+Now, about the recent transition as it relates to me:
+
+LithTech Inc. and Monolith Productions Inc. have been, and still are, two entirely separate companies. They have different board of directors, different revenue targets, different corporate cultures, etc. The bottom line is that they are not one in the same.
+
+I've noticed that a lot of times in various articles, people either don't realize this, or they simply forget about it. They use the company names interchangeably as if there were no difference between the two.
+
+I have been CEO of both companies since March of last year. It has been a lot of work, but it has also been necessary. I am very proud of what the people at LithTech have accomplished so far: we have built a business, grown the technology, licensed many times over what had been accomplished by Monolith previously (before LithTech was formed), etc. and now with all of the basics covered (docs, support system, new architecture, etc.), it is finally time to really hunker-down and move the technology forward in a big way.
+
+This requires a tremendous amount of attention from the CEO and everybody else at LithTech. Simultaneously, Monolith has a number of gigantic productions underway which of course require a tremendous amount of attention from its CEO and everybody else at Monolith.
+
+At this point, it simply does not make good business sense for me to remain as CEO of LithTech - particularly when I have someone, who can do a better job serving the company than me, available to take command.
+
+In any case, I am continuing on as Monolith's CEO and I will be giving Monolith my full attention from here on out.
+Jeff Hutt will be giving LithTech Inc. his full attention.
+
+As a licensee, Monolith will work closely with LithTech Inc., and we are very excited about continuously adopting the all new LithTech features into our internal codebase to further enhance our products.
+
+The new strategy that Jeff and his crew are employing is going to give Monolith (and other licensees) an unprecedented ability to now fully create graphically cutting-edge games that hopefully even the most discriminating, hardcore, graphics junkie will appreciate.
+
+(Quick explanation: LithTech's technology code base has attained a sufficient enough critical mass that it is now possible to significantly enhance the WAY it is developed going forward without sacrificing much of its supportability or its ability to "go broad." New feature development and tool progress is now specifically focused on high end graphical game features and tied closely a specific game. This yields a

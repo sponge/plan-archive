@@ -1,0 +1,47 @@
+Login: ddt            			Name: ddt
+Plan:
+Sat November 7, 1998
+
+--------------------
+
+  I've just accepted a job with Transmeta.  Thanks to all of those who
+    sent me the great job leads.
+
+Thu October 29, 1998
+
+--------------------
+
+  I may be hard to reach for a few days, depending on how painful it is to
+    connect back up to the net.  We're moving to a friend's apartment
+    temporarily.  If you're a phoner & you get "# has changed," just
+    dial the new number.  Will try to find some way to check my e-mail.
+
+Wed October 28, 1998
+
+--------------------
+
+  I'll be in Dallas today.  If leaving voice or e-mail, plz be
+    patient.  I'm already a day behind.  :P
+
+Mon October 26, 1998
+
+--------------------
+
+  Nevermind the TV show question.  I see now that you have to write the
+    production company to ask for a tape.
+
+  If you miss a TV show aired on a broadcast network, is there a service
+    out there you can order from to get a tape of the show?  Seems like half
+    the time I program our VCR, I suffer from some kind of brain fart which
+    results in recording at the wrong time or getting the wrong channel.
+    Thanks.
+
+  Thanks for the replies on the 24-bit color question.  It seems most
+    cards support a 32-bit padded byte mode, which is a very good thing,
+    though it appears the S3 Virge line doesn't.
+
+  Anyone know whether 24-bit color framebuffers typically have a padding
+    byte on each pixel?  I'm talking 2D video cards or 2D/3D video cards,
+    but not dedicated 3D accelerators.  I'm looking for confident answers
+    and/or hard numbers.  Thanks!
+

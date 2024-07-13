@@ -1,0 +1,15 @@
+Login: rob            			Name: Rob Heironimus
+Plan:
+
+01-28-99
+
+Hmmm...Looks like someone found themselves a pot of fool's gold.  I just want
+everyone to know a few things about the screenshots that recently got 
+"released".  All the content in the shots is actual Prax War content
+(i.e. map geometry, models, textures) that appears as it would in
+the actual game.  However, the arctic scenes were not rendered in the game
+engine, but were 3DS Max renders that I had done for my own personal portfolio,
+which was sitting on our local linux box.  I gave Jobe (boatrocker.com) the OK
+to post them once they got out since I didn't feel it would do any harm, but I
+do apologize for any confusion that has resulted. 
+

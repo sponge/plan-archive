@@ -1,0 +1,66 @@
+
+Name: Tim Willits
+Email: twillits@idsoftware.com
+Description: Level Designer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+
+I would like to take this opportunity to thank everyone for the positive comments I have received 
+concerning Quake 3. Every morning my inbox is full of great positive emails. I would like to 
+address a couple of issues that have come up in emails.
+
+==============================================================
+
+Many people want to know which level designer designed which map. This is not exactly an easy 
+question to answer. Unlike previous id games the designers are not separate individuals working 
+on "their" maps without cooperation from anyone else. In order for a company to create truly 
+great maps all the designers must learn to work together. The team of designers we have now is 
+by far the best team originated group that has ever worked at id. There are no maps in Quake3 
+that were developed by only one person. Some maps were touched by as many as four different 
+people. Expect this design trend to continue and look forward to id creating some of the best 
+maps around. 
+
+=============================================================
+
+I have noticed that people don't fully understand the power of our bots. The bots in Quake 3 
+represent some of the most advanced bots in any game today. Our bots are capable of 
+understanding and performing well over 50 different commands in the team deathmatch and CTF. 
+Using combinations of commands, it's probably well over that. The in-game menu only 
+represents a extremely small set of commands which bots understand. They are the BASIC 
+commands. For a more complete list check out the "bot commands" document in your Quake 3 
+start menu. Here are some examples of the things you can do with bots.
+
+[Grunt and visor patrol from rl to rg for 5 mins]
+Grunt and Visor will patrol from the rocket launcher to the railgun for 5 minutes.
+   
+Or you can group them in teams and give team commands
+   
+[Grunt and visor are in team beta]
+[Beta defend quad forever]
+
+Grunt and visor will team up and defend the quad for the entire game.
+
+If you are lost have grunt help you
+[grunt lead the way]
+[grunt get the plasma]
+
+Grunt will find you, and then lead you to the plasma gun. If you get out of his view he will come 
+back for you.
+
+Experiment with the commands, set up a skirmish with the bots in a team game and have some 
+fun.  
+
+Also, try chatting with the bots about anything, see what they will say. Our bots have 
+approximately 200 pages of chats are responses. They might surprise you.
+
+===============================================================
+
+Don't forget to get your very cool Quake 3 Arena jersey.  Wear it while you play or wear it 
+around town.  You can order them online at.
+
+http://www.minnesotaproshop.com/actionimprints/quakiiiarjer1.html
+
+
+
+
+

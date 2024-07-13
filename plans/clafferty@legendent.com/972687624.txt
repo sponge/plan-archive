@@ -1,0 +1,33 @@
+--== October 27, 2000 ==--
+
+OK, just in time for the weekend we have finally gotten the sign off on the Na Pali patch.
+It should be showing up at the link below within the next few hours (hopefully sooner rather
+than later).
+
+<A href="http://www.ina-support.com/faq/unrealnapali_pc.asp#patch">http://www.ina-support.com/faq/unrealnapali_pc.asp#patch</A>
+
+Remember, this patch is for Return to Na Pali _ONLY_ (The Unreal add-on pack by Legend). This brings 
+the Na Pali code base up to Unreal 226 along with the UT Interface. There is no need to use this patch
+on Unreal Gold as it already contains the latest code. Thanks for your patience with us while getting this out,
+unfortunately it was a bit out of my hands but for Na pali fans it is well worth the wait.
+
+
+--== October 26, 2000 ==--
+
+And from the "hey, it's only a game console" department comes this story on 
+dailyradar about people getting out of control trying to get a PS2 from
+Wal-Mart (and it happens to be in the town where I live). Must be getting close
+to the holiday season.
+
+
+<A href="http://www.dailyradar.com/news/game_news_5538.html">www.dailyradar.com/news/game_news_5538.html</A>
+
+===================================
+Craig Lafferty
+QA Manager/Associate Producer
+Legend Entertainment
+
+Current Projects:
+- Unreal 2
+- Fist fights at Wal-Mart for a PS2!
+====================================

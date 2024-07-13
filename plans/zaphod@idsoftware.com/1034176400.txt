@@ -1,0 +1,25 @@
+
+Name: Graeme Devine
+Email: 
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+
+Mac Point Release 1.32
+
+Okay!  Got tons of input!  Punkbuster support requires additional files from Even Balance before it will enable.
+
+ - mods don't boot.
+ - KP_ENTER wont bind.
+ - no icon (I knew that)
+ - mouse acceleration
+ - mouse event timer wrong
+ - missed a pak file
+ - holding down toggle console does bad things
+ - performance is down a bit (although that may be 1.32 in general)
+ - alt-tab / cmd-h glitches
+
+Okay, thanks for the test run.  Let me zoom through these and update you all asap.
+
+ - oh and if anyone wants to make a pass at a splash screen, go right ahead.
+

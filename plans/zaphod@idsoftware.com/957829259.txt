@@ -1,0 +1,1465 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Some Guy
+Project: 
+-------------------------------------------------------------------------------
+5/8/00
+
+Well, E3 is coming right on up!
+
+John Cash departed from id last Friday to a new position at Blizzard.  I'll let him
+fill you in on what he's doing there, but we miss his CTF skills already!  We wish
+John all the best, and id looks forward to the forthcoming Diablo II beta copies..
+
+:)
+
+Had to throw that in.
+
+5/5/00
+
+The mission pack CD will actually have builds for Mac, Linux and Win32.  We'll see
+if we can stick some OS/X action in there as well..
+
+5/3/01
+
+50 million MOTD messages since the beginning of the year!
+
+Okay, so if I have the math right, that's around 5 game startups per second 24/7!
+
+This is one thing that disturbs me about stats.  Churn through in games like Q3A is
+obviously huge, but gameplay time is obviously smaller than other games like Everquest,
+so how do we measure?
+
+Merge 93.3 was here the other morning, of course, we destroyed them in deathmatch, but
+since then I've listened to them online a bunch (www.merge933.net) and feel the need
+to plug.
+
+4/5/99
+
+id has a Q3F server up at 192.246.40.127, id is red, world is blue.
+
+3/21/98
+
+Okay.  X-Files back on track.
+
+I've been thinking a lot about this whole idea of giving out degrees in game
+design, and it seems that thereÕs a genuine need to be pro active in bringing
+new people into the community and teaching them some of our mysterious ways.
+What I'd like to look at doing for those people not enrolled in game design
+courses at school (who teaches those anyway?) is to start a small skunk works
+inside id that has active ongoing support from a few people here, a small
+budget, and actively encourages and teaches our trade.
+
+A lot of us (myself included) started out coding in the bedroom and things like
+game design documents, schedules, and team coordination were not exactly things
+we looked at making or doing because back then no one did.  Nowadays if you want
+to make it in the commercial biz of games you've got to be very savvy at
+producing a game design that's coherent, conveys the message clearly and
+concisely to the team, and has set goals that can scheduled.
+
+Anyway, I'd like to propose that our new skunk works helps out by helping the
+game design process, looking at maps, looking at code, and communicating
+directly between us, other developers, and the community at large.  It's only in
+our best interests to pass on knowledge, get input and give input on what we're
+doing, and help make this industry grow.
+
+Thoughts?
+
+2/28/97
+
+X-Files.  I like X-Files.  I didn’t like the episode last night -- in fact it 
+was awful.
+
+Mr. Gibson, if you want to come down to id and hang out and see how a real
+developer makes games you are most welcome.  Heck, you can even help out
+on id’s next game thereby staying here long enough to get our culture.
+
+2/17/96
+
+The pre-release of the alpha for the forthcoming beta of the pre-build of the
+next point release should be out tonight.  Details to follow from Robert Duffy.
+
+2/09/97
+
+Doing a real .plan thing.
+
+I'm looking for a video sequence of high resolution lossless digital images that
+we can use in some experiments we've got going here at id.  Up until now we've
+been using the in-house rendered stuff, which is great, but I've previously used
+some nice standard sources that really test things out like compression and 
+color
+space conversion issues.  Any pointers would be appreciated.
+
+2/03/1009999e+7
+
+id vs. the world ctf at 192.246.40.223.  id is red, world is blue.
+
+1/21/97
+
+Just read the PQ article.  Yes, that was an awesome game, I think it was a 
+little
+closer than the score indicated.  We're itching for a rematch!  I've never had
+a game with so many excellents and impressives over my head, and for it to
+take a full 50 minutes was something else, it was truly riveting.
+
+BTW, I didn't mean we're not going to play CTF vs. anyone anymore, just that
+we're not playing right now.  We have to do some work sometimes!
+
+1/21/98
+
+Okay, we're not playing CTF anymore.
+
+1/20/98
+
+id vs. the world ctf at 192.246.40.223.  id is red, world is blue.
+
+1/17/99
+
+Mr Elusive just put together some bot editing documents, the file is available
+on our ftp server:
+
+ftp://ftp.idsoftware.com/idstuff/quake3/tools/Q3ABotEdit.zip
+
+We've been following the whole DLL vs. VM debates, and id is firmly on the side
+of using VMs for game mods.  We will be addressing the "auto swap" VM
+depending on which server you go to quickly (this was a bug) but I think we
+will be strict on saying that people should use VMs over DLL files.  The next
+executable release will probably have a warning screen come up that you will
+need to agree to and click through if the game is about to load a DLL.
+
+1/14/99
+
+Okay.  I see a lot of people with “awaiting CD Key authorization” questions.
+
+In almost all cases, this is due to the IP address of the authorize server
+being wrong because the hosts file on the client has somehow been altered.
+You can test to see if this is your problem by going to a DOS prompt and
+typing the following:
+
+ping authorize.quake3arena.com
+
+If you get the following, then your system has an invalid entry somewhere
+redirecting the authorize requests to the wrong IP address.
+
+Reply from 127.0.0.1: bytes=32 time<10ms TTL=32
+Reply from 127.0.0.1: bytes=32 time<10ms TTL=32
+Reply from 127.0.0.1: bytes=32 time<10ms TTL=32
+Reply from 127.0.0.1: bytes=32 time<10ms TTL=32
+ 
+If you’re running Windows 95/98, then in almost every case editing the file
+called “hosts” which resides in your c:windows (or wherever you’ve installed
+windows) directory and removing any lines that mention
+authorize.quake3arena.com can fix this.
+
+Various cracks and CD key gen utilities (none of which actually work) appear
+to be the culprit, adjusting your hosts file without your knowledge or
+consent.
+
+1/12/99
+
+I just finished making the Macintosh point beta release.  It'll be on the usual 
+mirrors
+soon.
+
+12/21/99
+
+Here's the cliffnotes version of most of the bugs we're looking at.  I'll make
+the actual feature database available as HTML at somepoint soon so
+everyone can take a look as to what issues we're addressing.
+
+- New scoreboard.
+- New team scoreboard
+- Voting can change the gametype if the new map doesn’t support the current 
+gametype
+- Misc icon fixes
+- Team overlay tidied up
+- Spectators can go through doors
+- Late player start on screen score display fixed
+- Re-add mouselook
+- Callvote nextmap
+- Extra/different pakfile disconnect bug fixed
+- Packetloss on the scoreboard
+- Delay deferred loading of players until after death
+- Server browser remembers “show full”/’show empty” status
+- Server browser will not refresh on stopped lists
+- Show IP address in server browser
+- Compressed sound support
+- JPEG from disk support
+- Cache filefind results so we do not requery the filesystem every load
+- Make 10.x.x.x and other public addresses not use auth server
+- Protect CD key into a different file
+- Improve overall error reporting to user
+- Make sure everyone can command the bots
+- Load/Save config re-added
+- Bots don't start kill, hitnokill, or hitnodeath chats when there are nearby 
+enemies
+- Awaiting snapshot/gamestate issues resolved
+
+12/21/99
+
+While I've been out with the rest of the world trying to get a Barbie Cash
+Register for my daughter, I have actually been doing a bit of work!
+
+Activision's release QA process found two bugs in the Mac build that I felt
+important enough to fix.  One bug was in the client, and the other in the
+installer.
+
+I fixed them both last night and Activision has a new master candidate.
+
+I've heard sporadic reports that the Mac demo has problems, but I've yet
+to be able to repeat that issue here.
+
+I'll update my plan file today with the [long] list of things we're addressing
+for the point release (yes, we've fixed the scoreboard).
+
+12/16/99
+
+Mac demo will be out tonight.  Mac full version is also complete.
+
+12/14/99
+
+Churn time.  We define “Churn” as the number of unique people that authorize
+in a five-minute period.  At peak now we’re at around 1700 people in a five-
+minute
+period, and at off peak we’re at 500.  Peak is around 5pm-11pm and off-peak is
+8am until about noon.  As we get more international I expect this to level out.
+
+We’ve been testing Q3A for Y2K compliance.  Here’s the results:
+
+1.	Power failed due to Y2K glitch.
+
+Q3A does not run if the power has failed because of a Y2K glitch.  Multiple
+attempts to bring the computer on using a series of car batteries and two lines
+of tin Q3A boxes did bring the computer up for a second, but the resulting fire
+and damage to the building did not allow us to recommend this solution.  We
+apologize to Rogue for using their office and cars to test this.
+
+2.	Computer has crashed because of a Y2K glitch.
+
+Q3A does not run if the computer has failed.  Installation of a different OS 
+could be
+the recommended solution, but the Y2K glitch had caused the computer to 
+unrepentantly
+jump out the window in a vain attempt to continue crashing.  We apologize to 
+Rogue for
+using their computers to complete this test.
+
+3.	The world’s nuclear arsenal goes off because of a Y2K glitch.
+
+Q3A does not survive a nuclear war, although the authorize server will continue 
+to run.
+Actually, we were unable to test this.  We’re just guessing.  We really don’t 
+want to test
+this out, so we’ll just it as golden that we’d be in big trouble if this 
+happened.
+
+4.	The Internet fails because of a Y2K glitch.
+
+Q3A continues to run single player just fine, however, multi-player over the 
+Internet could
+not startup due to a general TCP/IP error.  With Ebay failing because of this as 
+well the
+entire US economy would freefall into the cold Atlantic Ocean allowing the alien 
+race hiding
+on the dark side of the moon to finally begin their insidious campaign of 
+marketing 366 days
+until 2001 memorabilia.
+
+5.	The coffee machines around the world fail because of a Y2K glitch.
+
+There is no possible worse scenario than this, the lack of Java in the world 
+would seriously
+undermine the Sun and cause the Earth to plummet into the cold and freeze the 
+entire planet.
+Starbucks would continue to thrive on selling everything else it produces and 
+actually become
+more profitable since there would be more throughput at the cash register, but 
+since all the
+customers would be dead they would relocate to a parallel dimension that voted 
+to keep the
+date 1999 for “just a few more years”.
+
+6.	John Carmack fails because of a Y2K glitch.
+
+We have 200 John Carmack clones hidden at secure sites around a small Idaho 
+potato
+farm (potatoes are considered Y2K compliant by all except the French, who insist 
+that potatoes
+will spontaneously explode at 4:31am, 1-1-00 ).  Don’t worry.  We’ve covered 
+this base.
+
+12/10/99
+
+Okay.  I’m now officially overloaded on email.
+
+We’re looking to get the tools out there very soon for creating Q3A 
+modifications.
+We’ll probably do a point release on the product before we release anything, and
+we’ve been busy writing (gosh) documentation for the editor, shaders, etc.  I’m
+really looking forward to seeing what you guys do with Q3A!
+
+We’re now cracking down on people using key generators.  We stop accepting input
+for a period of time from addresses that spam different keys to the 
+authentication
+server.  I see a lot of people running key generators right now; I’ve yet to see 
+a single
+one make a correct key.
+
+We will also probably alter the key generation scheme on subsequent runs of the
+product so we can verify mistyped keys within the client.  This remains our 
+biggest
+issue and if we can cure it right at the input step, then we’ll go a long way 
+towards
+easing this up.
+
+12/08/99
+
+Cracked servers are no longer listed through the master.  We're tracking these 
+servers.  We
+know your IP address, so if you have one running, I strongly suggest you take it 
+down immediately.
+
+12/06/99
+
+Okay.  First off, don't run crack executables on your client!  All it's likely 
+to do is grab
+your CD key and send it off somewhere.  Authorization is server side, not client 
+side.  We will
+pursue and close down cracked servers with all available resources.
+
+Secondly, CD keys are "leased", so if you log on through a dialup, play, then 
+disconnect your
+modem and log right back on, your CD key will have to timeout on your previous 
+IP before you
+can play again.  This timeout period is currently set at 5 minutes.
+
+12/06/99
+
+Okay.  Hacker attempts with invalid keys are outnumbering real keys by a factor 
+of 2:1 or so.
+
+Obviously this is somewhat validating the use of CD keys.
+
+So far I've seen issues with the servers being able to see the auth server and 
+clients using
+IP forwarding not having the correct setup on the IP forwarding server.  If it's 
+a Linux IP
+forwarding machine use something like:
+
+modprobe ip_masq_quake ports=26000,27000,27910,27960,27950,27951,27952
+
+Modulating characters within a key sequence will not work.  It appears to work 
+because when
+you've validated your IP with an authentic CD key you've "leased" that IP 
+address for a period
+of time.  Even if you enter a junk string, that will work because your IP 
+address is still valid.
+
+The actual algorithm is a 64 bit DES key encryption method open to a very small 
+window.  The
+chances of coming up with a real valid key is in the range of billions and 
+billions to one.  A random
+pass through the available keys shows no sign of repeating sequences, it looks 
+like good old chaos
+(in fact, statisical math proves this).
+
+The client has no idea if your key is really valid or not, it just checks on the 
+correct characters
+being entered.  
+
+12/03/99
+
+Why do I get booted back to the main menu?
+
+It's because you've got a 1.11 client and you're trying to join a 1.09 (demo 
+test) pure server.
+Since the protocol # is exactly the same, you see all the 1.09 servers in the 
+browser,
+but when you try and join the game you get booted because you aren't "pure".
+
+We'll switch off support for 1.09 listings in the browser once 1.11 demo is out 
+for the
+Mac and Linux.  Meanwhile there's not much I can do since I can't tell from the 
+client
+side if you're a 1.09 or 1.11 client asking for list of available servers.
+
+12/03/99
+
+IMPORTANT!!!!!
+
+You MUST enter your CD key in lower case letters.  If you do this through the 
+menu
+it's automatic, but if you set it from the console, upper case letters will not 
+work.
+
+IMPORTANT!!!!!
+
+12/03/99
+
+If you get a CD Key error, please check to make sure you have the CD Key 
+correctly
+entered.  I've seen a few people go by and be denied on what looks like a valid 
+key
+that's just been typed in wrong.
+
+12/03/99
+
+The demo has gone final and will be available through Sandpiper in a few hours.
+
+I've gotten a lot of feedback from people regarding the use of authentication 
+servers. 
+Yes, John Carmack has a nice car from his hard work, but unfortunately software 
+piracy
+has become such a serious issue that we need to use schemes such as CD keys to 
+protect
+our future sales.  Games cost large sums of money to make and market, and if you 
+want to
+have software developers continue to develop games then piracy, understanding 
+it, and
+addressing it, needs to be part of the development process.
+
+Digital satellite receivers each ship with a little crypto card to uniquely 
+number the
+machine – Dish Network and DirecTV make sure they get their money every month!  
+DVD
+encryption swayed Hollywood to produce high quality digital content that we as 
+nerds
+lavished our money on, piracy of DVDs has not been an issue because of such 
+encryption,
+but now this has been broken and may affect the future of DVD, already it’s 
+reported that
+DVD Audio has been delayed.  When Intel introduced a software accessible serial 
+number
+with the Pentium III it was quickly disabled because of public backlash, yet 
+it’s very function
+was to protect against piracy and allow security.
+
+So with computers we’re stuck with freedom, which isn’t all that bad.  How many 
+of us (Linux
+crowd hush please) run 100% piracy free machines?  Does occasional use count?  
+If I only
+used it once to repartition my drive do I have to pay for Partition Magic?  
+Isn’t Winzip part
+of Microsoft?  We’re hypocrites if we cheer the Government ruling against 
+Microsoft for including
+so much software free in their OS that we otherwise would use and never pay for.  
+Then again,
+I love Java, Macs and OpenGL.  There are corporations out there who work hard to 
+make sure
+I’m a minority.
+
+Is piracy of id products the only way the community has prospered, grown and 
+sustained itself
+all these years?  It’s true a certain number of you will always pirate a game 
+and never make the
+purchase.  But a whole bunch of you are raving, fanatical loyal id fans with 
+money in one hand
+and EB on speed dial in the other to see if Q3A is in stock.  If you help the 
+community by helping
+to stamp out piracy, then I think you’ll see that the community will be just 
+fine and who knows,
+software prices might fall, Doom 2000 might come out, or the Y2K bug may not 
+burn us all.
+
+So yes.  Use a SOCKS server (we will authenticate multiple CD Keys off a single 
+IP), open up those
+ports on your firewall (you can resolve master.quake3arena.com and just use that 
+IP address),
+but please don’t belie our intentions.  We’ll work extremely hard, 24 hours a 
+day, to make
+everything in Q3A work flawlessly for you, but we’ll also work on another game 
+with the money
+we get from sales of Q3A, and by the time it’s done we may be able to release on 
+DVD-ROM and
+piracy will be a non-issue.  But alas, I fear, if it’s there, it will be copied.
+
+These are my views, although I think id also frowns at piracy.
+
+12/02/99
+
+In preparation for the full release.
+
+The motd/master/auth servers run on ports 27950, 27951, 27952.  The default game 
+server
+is on port 27960.  If you’re firewalled against these ports you’ll need to get 
+unfirewalled to
+play the game.  If we work on the servers from now on we’ll notify the community 
+and schedule
+the maintenance for the slowest period of the day (currently around 6am Dallas 
+time).
+
+We have what we consider a “gold” build of the demo.  We’re putting it through 
+the final push
+of QA at Activision before releasing it since this build is going to be more or 
+less prevalent
+throughout the known universe.
+
+11/23/99
+
+Activision has asked to test the full authorize server, so it's now up and 
+running.  I can quite
+understand this.  I'm working to get the full demo out the door as quick as 
+possible.
+
+11/23/99
+
+I’m working on updating the full demo today.  We’ll bash on it a bit and get it 
+out there over
+the next few days.  Once it’s out there I’ll be updating the cdkey authorize 
+server to the final
+version.  Unfortunately this is not compatible with the demo test, so you’ll 
+need to upgrade to
+either the full version of Q3A (woo hoo!) or download the new demo.
+
+Oh, and I'm going to finish Homeworld darn it.
+
+11/20/99
+
+We're at RC2.  Life is good.
+
+11/18/99
+
+I'm debugging some stuff on the authorize server (and using you guys as testers 
+on it).
+If you can't authorize for the next few hours please be patient!
+
+11/17/99
+
+Okay, the Macintosh Test build is going up real soon now.  It's all built and 
+working well.  I'm
+really happy with the way we're working on the Mac.  I've been building the new 
+id servers
+on a G3 using Java and it's been a real nice change from the PC.
+
+You'll need the newest version of OpenGL for the Macintosh, which came out 
+today.  It's
+available at http://asu.info.apple.com/swupdates.nsf/artnum/n11545.  Go download 
+that
+while we're coordinating on getting the Mac build out there through Sandpiper.
+
+BTW.  There's been over 1 million downloads of the Win32 build!!!
+
+11/16/99
+
+We've got a debug server up on 192.246.40.115, if people could connect to it and 
+bash on it
+that would be great.
+
+11/15/99
+
+It's out there.  We're aware of some issues which are documented in the readme, 
+otherwise
+I expect a lot of you to be missing many hours of sleep tonight!
+
+11/14/99
+
+Quake 3 Arena demo test should be out tonight.  Watch the skies!
+
+Just so we’re all sure.  This isn’t the general demo.  If all goes well we’ll
+upload the general demo in a few days.
+
+The demo contains four maps (q3dm1, q3dm7 (q3test1), q3dm17 (q3test2)
+& q3tourney2 (q3tourney) and six characters (Sarge, Visor, Major, Grunt,
+Daemia, & Stripe).  Bots are in there on five difficulty settings (from “I can 
+win!”
+to “nightmare!”).
+
+11/6/99
+
+I asked everyone to come up with Tips Of the Day for Q3A, it was a serious 
+endeavor
+to get some cool tips into the product (a fun game is trying to match the id 
+employee
+with the quote).
+
+Here are some gems from the masters:
+
+Often there are secrets hidden below the hellfog.
+
+Every map has a special exit. Chat with the bots to find it.
+
+If you get negative 10000 frags something cool happens.
+
+Save money by calling our tech support from the office phone. 
+
+To open secret level press the reset button immediately after completing Tier 5.
+
+Run over the armor backwards to obtain optional armor pants.
+
+Ain't nothin' like four bare feet in a bed. Unless you have five bare feet in a 
+bed in
+which case one belongs to an amputee not a freak with three feet.
+
+Save water. Shower with a friend.
+
+Never eat spinach with a stranger.
+
+You call me Francis, I'll kill ya.
+
+Don't look at the glass eye.
+
+Try and keep Klesk from getting the railgun on q3tourney3
+
+Q3A ownz jooo!
+
+Strafe to the right, strafe to the left... now everybody jump around, jump 
+around.
+
+Monkey thinks bandannas more ripe at top of the tree.
+
+Take the blue pill; you aren't the one.
+
+Complain a lot about lag, LPBs, and packet loss; you'll still lose, but you'll 
+sound
+smarter.
+
+Bind forward to control, jump to alt, and attack to delete.  Then amaze everyone
+with your running jump shots!
+
+When about to lose a big game, throw the Big Red Switch then come back on
+and bitch about your ISP.
+
+Always hit your enemy and never let them hit you.
+
+Never tell Adrian that you hit his Viper.
+
+The Red Fog is bad for your health.
+
+11/2/99
+
+The MOTD server and master server will be up and down over the next few days, if 
+you don't
+get a response that's probably the reason why.
+
+9/29/99
+
+Ah, grappling hook hoopla – when I read about the hoopla over UT grapple CTF I 
+knew we’d
+have a similar impact (BTW, believe it or not, there is room for both games in 
+the universe!). 
+The grapple code is still going to be in Q3A (through bot reachability and so 
+forth), it’s just
+not on the maps we’re shipping with the product.  The CTF maps we have in there 
+are designed
+for non-grapple use.  CTF and grapple are not tied implicitly together.
+
+Mr. Elusive (aka Jan Paul) is over here from The Netherlands helping finalize 
+the game.  He is
+of course the famed author of the Gladiator bot for Quake II.  As some of you 
+have been
+guessing he’s been working with John Cash on the bots in Q3A.  We’re very 
+pleased to have
+Jan’s expertise on Q3A.
+
+9/25/99
+
+A few of you have asked about the message of the day text.  It’s giving you your 
+exe
+startup number since last Monday.  So basically, we’ve had over 2 million Quake 
+3 Arena
+games start worldwide since 9/20/99.  That works out to around 4 games every 
+second.
+
+9/2/99
+
+I see a lot of people are playing with nude reptiles!
+
+We are not doing a Matrix game.  When we finish Q3A we'll start on the next
+project.  We will try and fit the words "welcome to my underground lair" into
+the next game, mostly because we think Steed would be good at making fembots.
+
+Okay, that's more of a suggestion than a truth.  We'll probably do something
+completely different based on stories of the Quake 3 Bus and the Nevada desert.
+
+9/1/99
+
+Some of you have commented on the master server being a bit odd right now.
+It's actually running just fine, it's just responding to queries for protocol
+41, which is not entirely compatible with protocol 40.  Only servers with
+people on there will actually show up.  You can force showing the empty
+servers with the keyword "empty", but this isn't so useful since in 1.08 you
+can't combine that with game types (e.g. you can't say "empty tourney").  For
+completeness's sake, you can also say "full".  But heck, if you type in "nude
+reptiles", you can scan that too and get exactly zip.
+
+All of this is of course fixed in the new test and browsing gametypes,
+keywords, and so forth is easier than ever.  You'll swoon.  Trust me.
+
+For those of you, and there's a bunch of you, who believe that our previous
+efforts had better network support than 1.08, we've set up servers here for
+you to get side to side experiences.  Go try them and let me know.
+
+Q3test 1.05			-		192.246.40.68:27961
+Q3test 1.08			-		192.246.40.68:27960
+Quake 2 version  3.20		-		192.246.40.68
+QuakeWorld version   2.30	-		192.246.40.68
+Quake version  1.09		-		192.246.40.68
+
+We're pretty confident you'll be seeing things our way pdq.
+
+Eric, our in house live human, bet Tim that he couldn't make a fun map in under
+an hour.  Tim, being Tim, took him up (the exact nature of what was bet remains
+somewhat fuzzy, but it may have involved lunch).  Forty-five minutes later we
+had "fun", which has remained interestingly addictive throughout the last week
+to the entire company (of course, listening to Tim tell this story, it's down
+to thirty-five minutes while he had no power, and the mouse was disconnected
+from his machine).
+
+The lesson from all this is either that Tim really values something fuzzy to do
+with lunch, or that Quake 3 is so darn cool you can toss together maps in less
+than an hour.  Okay, maybe knowing what Tim knows helps, so we're going to 
+dissect
+his brain for science and get him working as our own personal AI (John swears 
+it's
+possible) churning out 24 levels a day 24/7 until some odd Y2K bug causes him to
+make every telephone in the world ring at once.  Oh wait, that was Lawnmower 
+Man.
+
+
+8/13/99
+
+BTW.  You can search for Q3A Internet Servers using the keywords "ffa",
+"tourney", "deathmatch", "team" and "tournament" in the Internet game
+browser screen to only show specific types of maps.
+
+8/3/99
+
+Q3Test 1.08!!!  Go bring down your favorite Internet site.
+
+Because it's once again a full download, we've included a new model
+(Sarge) with this version of the test as a consolation prize.  You need
+to select him from the console using the "model sarge" command.
+
+7/21/99
+
+Mac Users!  We're not ignoring you, we're just having a slight technical
+problem with the Macintosh build right now.  BTW, I'm in love with that
+new iBook!  When they ship that's going to be /the/ portable.
+
+7/20/99
+
+1.07 is out there.  Please try and find cheat exploits and report them to us!
+
+Also, keep in mind that this is a test, and not the final product.  There's a 
+lot
+in the test which is very temporary, so while we've taken great pride in
+putting out very solid test releases, we're still working hard on the final
+product and very much appreciate your feedback (q3feedback@idsoftware.com)
+in getting this product right for you - the players -
+
+I get a bunch of feedback from people wanting this product to be more like
+Quake 1 or Quake 2, while others look for us to innovate and make something
+brand new.  Quake 3 is arcade deathmatch, nothing more and nothing less.  It's
+not Quake 1 nor Quake 2, but does nod it's head in the direction of the online 
+DM
+version of both those products (and apparently pissing off both parties at the
+same time).
+
+Look to the next id product to give you the "brand new" gameplay and world.
+Quake 3 Arena will keep basically with what you've seen and read about up
+until now and it's now time to put this one to bed.
+
+7/19/99
+
+Not tonight.  We're fixing the cheat exploits.  Users who downloaded the current
+build should expect a 3-5 meg update (so you don't have to download the
+whole thing).
+
+7/19/99
+
+Okay.  More.  Must Sleep Soon.
+
+We're testing a new version of the build right now that has some new stuff in 
+it:
+
+- the ; key now remains bound (for all you lefties)
+- the timescale exploit has been plugged (again, actually this was in the last
+  version of the test and a lot of people were silently using it)
+- LAN servers display properly
+- IPX is working
+- the enabling cheat exploit has been fixed
+- CPU time for servers should be nicer
+- an exploit in the tourney map has been filled
+- joystick support (there is no conspiracy here, but this might require more 
+time
+  to fix than just tonight)
+
+We're looking to get win32/Macintosh out there, hopefully tonight, but probably
+tomorrow by the time we're through checking all this out.
+
+BTW, I finished DK2 (with Adrian screaming at me most of the time to build a 
+bigger
+torture chamber).
+
+THAT GAME ROCKED!
+
+7/19/99
+
+SOCKS Proxy Support
+
+There are five cvars that control it. They are only settable from the at init
+time (from the OS command line).
+
++set net_socksEnabled 1
++set net_socksServer 
++set net_socksPort 
++set net_socksUsername
++set net_socksPassword
+
+Please note that you use the address (name or IP number) of the SOCKS server
+(firewall machine), NOT a Q3ATEST server. The port number defaults to 1080,
+you should not need to change this.
+
+It supports no authentication and username/password authentication method
+(RFC-1929); it does NOT support GSS-API method (RFC-1961) authentication.
+
+7/17/99
+
+Some variable things we missed or are hard to find in the readme:
+
+g_gametype
+
+A value of 0 here indicates classic “Free For All”, a value of 1 indicates
+“Tournament Play” and a value of 2 indicates “Team Deathmatch”.
+
+So, to start a dedicated server in tournament mode, you would use:
+
+quake3 +set dedicated 2 +set sv_zone tournaments +set g_gametype 1 +map 
+q3tourney
+
+The warmup time for tournament play is set with g_warmup.  A tournament
+game is implicitly a one on one match, and further players are automatically
+entered as spectators (note, when the game starts, all clients, including the
+spectators respawn).  You can follow the players by using “team follow1”,
+“team follow2”, and you can be a scoreboard by using “team scoreboard”.
+
+We appear to have broken joystick support somewhat between the first IHV
+drop and the final release of the test.  We’ll address that (so don’t start the
+email bombardment on it!).
+
+Expect the master server to be up and down over the weekend, now we have
+protocol 38 servers out there in large numbers we’re able to tune that stuff so
+it works a wee bit better.
+
+Thanks for the support!
+
+7/16/99
+
+Okay, it's there (as I'm sure you all know).
+
+I'll update tomorrow on how to set up servers in zones so you can easily
+find/check/get to servers in groups.  It's a nifty new feature.  Until then
+I'm sure you'll all be slamming each other down on Xian's excellent new
+tournament map.
+
+As usual, send bugs to q3feedback@idsoftware.com
+
+7/16/99
+
+A new build of q3test (win32) has been constructed in your workshop.
+That's a little DK2 joke there...
+
+We're hacking on it a bit before it's public, but it's looking good to go!  I'll
+update my plan file once it's out and fill you all in on what's new.
+
+Good bug find by Sherman Archibald today for all you Riva 128 owners.
+
+7/16/99
+
+You can all go to sleep.
+
+7/9/99
+
+So who’s the best at id?
+
+We were playing Xian’s new tourney map (it will be in the next release of
+q3test) within the company and Tim decided it would be a hoot to have a mini
+id “tournament”.  We huddled in the observation room watching (and shouting
+a great deal) match after match unfold in the new spectator modes until the 
+final
+game.  Everyone at id played and when they weren’t playing, they were watching
+and cheering intently.
+
+So who’s the best?
+
+John “The Terminator” Carmack won quite handily, convincing us all further that
+there really is some code in there that says “If (player==Alloy)”.  Second place
+went to our esteemed CEO Todd “Hold Still Dammit While I Frag You” Hollenshead.
+The rest of us where suitably humbled…(but we all claimed it’s because we work
+so much).
+
+It was a good test of the tournament code and great fun.  We will be doing the
+same thing in-house again soon since the method led to some good changes.  Next
+time however, there will be a few changes.  The emergency phone call to Todd 
+from
+Activision is already planned, and we’re thinking the arrival of a new Ferrari 
+catalog
+mid game for John will throw him off for the required microseconds to remove the
+ball from his mouse.
+
+So where’s that darn test?
+
+Like the Great Prophet Zarquon said, “all sorts of things popped up”.  It’s 
+still “soon”.
+We need to merge code, test, and do a drop to IHVs to make sure everything is
+hunky-dory with them.  The tourney map needs a wee bit more tweaking, and some
+of the tourney code needs a little bit more work and testing.  There’s a lot of 
+new
+stuff in there!
+
+BTW, Dungeon Keeper 2 is one of the best games I’ve played in a long time.  It's 
+not
+delayed the test at all.  Honest.
+
+6/21/99
+
+We had the Ion Storm guys over last week to play a little deathmatch, and while
+I won’t say who won between Romero and Killcreek, I can tell you it wasn’t the
+male of the species.  But boy, can those Ion guys talk smack.
+
+The reason we asked them over was to have them check in on the status of our
+tournament map, which we hope to get out there soon with the next version of the
+test (to give you all time to practice on it before QuakeCon, you are going to
+QuakeCon right?).  We’re also looking at a /lot/ of bug fixes, changes, and 
+tweaks
+so we’re gearing up for your feedback.  I’ll let Chris Hecker speak for glsetup,
+but we’re looking to get that updated and support for 3Dfx in there.
+
+Soon can be defined as soon.  And that’s probably not this week.
+
+6/05/99
+
+Mailbombs suck.  They can cause delays and make it hard to find the meaningful
+emails from the noise.  Please stop.  I can't even read the language the email 
+is
+in to know what it says!
+
+Okay.  A series of misunderstandings between id and Tom's Hardware has led
+to a "vs." benchmark war.  We're cool with Tom, and he's cool with us.  We're
+both going to move on and start over afresh.
+
+I just don't understand why my Riva 128 isn't more popular...
+
+6/03/99
+
+Okay.  Wow.  The Linux community has far exceeded any kind of expectations
+I had on feedback!  I've been blown away.
+
+Mike Warfield and Mark Hazen helped me out on the Samba timestamp problem.
+It seems RH 6.0 is compiled with a special fix for mounting Win95 drives,
+but that causes issues with NT and Win98 drive mounts.  The solution is to
+recompile the kernel.
+
+Several people helped me out with the compile of smbmount.c, and in the end
+I got that going by adding a #define NR_OPEN 1024 at the beginning of that
+code.
+
+On the email front, and I think this is one of the ongoing gating issues to
+true corporate use of Linux.  A lot of people use VMWare to run Win32 apps
+that have no equivalent in Linux land yet.  Out of them all, XEmacs + VM
+seems to be the most stable/complete solution, and perhaps that will make
+it's way to my desktop, but I don't see that making it way onto everyones.
+
+It seems to me that if someone wrote a bunch of Java apps using the Swing
+UI we could have very nice cross platform tools that worked in every
+OS we had to boot in the office.
+
+More than anything, I'm just blown away by how positive the community is.
+
+Q3Test answers.
+
+Yes, it should have SMP support, there are some issues with it (on some
+drivers), so it's not enabled by default.
+
+Joystick support is mostly there, but John is still working on a couple of
+the more interesting flavors.
+
+6/02/99
+
+We're working on a new Q3Test update, no schedule other than "soon", but the
+fixes are almost all internal.  We've still got a few issues we want to get
+going internally at id (notably multi-network machines).
+
+Brian is leaving, and I just want to wish him well.  He shall be missed.  We're
+not going to be bringing anyone else in during Quake3 development.
+
+I'm a bit behind on feedback email and it's all Lilith and Eve's fault.  I
+went to watch their show over the weekend and Realplayer said I needed to
+upgrade, so I did, and since then I've been toast.  I'm sure it's not
+Realnetwork's fault, there's simply too much beta about my Windows install
+to make it safe for things like DLL files.
+
+Since then I've shifted to Linux (RedHat 6.0) as my major desktop.  No more
+Win32!  My questions to the techies amongst you are:
+
+	- we've had issues with Linux machines randomizing timestamps on Win32
+	  filesystems when we use smbmount to mount NT servers.  How do we fix
+	  this?  I'm unable to get smbmount to compile in the Samba 2.04b (it
+	  errors out with a bad identifier -- NR_OPEN).
+
+	- the email client situation is not quite on par with Win32.  Netscape
+	  seems the nicest, but KMail, Balsa, and others I've looked at seem
+	  to be in active development and not quite ready for solid use.  Is
+	  this the case?  I like Outlook type interfaces over Pine type 
+	  interfaces.
+
+I looked online, usenet, and other misc. mailing lists, but wanted to see
+what real world people out there are using and doing.
+
+5/12/99
+
+Off to E3.  I'm the point on q3feedback, so the soonest I'll be picking up
+email is Sunday, so don't expect a response the next few days!  You can
+catch us at the Activision booth if you want to let me know in person just
+how long you had to wait for the Win32 test.
+
+Anyone with tapes of last weeks X-Files?
+
+The main issues we're seeing are:
+
+3Dfx drivers seem to be pretty darn difficult.  About 50% of the emails
+comprise of 3Dfx issues including BSOD on NT, crashing during level changes,
+and crashing due to in game mode changes.  We're working with 3Dfx on this.
+
+The next biggest problem is that people run the game without running GLSETUP
+to update their drivers.  Arrgh.  Arrgh.
+
+People claim that the TNT slows to a crawl when you in-game change the video
+color depth to 32bpp, but it's fine after a restart.
+
+There's a "lag trap" quirk of firing the plasma gun 12 times at a wall, as
+people approach it the overdraw slows their systems and makes them
+vulnerable to hits.
+
+There's a lot of people trying to run the game with 32mb of RAM.
+
+Setting everything to "highest" (highest resolution, color depth, etc.)
+causes artifacts on the TNT.
+
+Alt-TAB on a Matrox G200 causes the system to crash.
+
+A lot of people wrote to let us know that they just love the game.
+
+The main game feedback seems to be:
+
+1. the new railgun sucks / and / or is / awesome.
+2. the game is too slow / too fast.
+3. make it more like quake 1 / quake 2.
+4. the rockets are too slow / too fast.
+5. people die too slow / too fast.
+6. the graphics are awesome / too cartoony.
+7. don't touch a thing / change everything.
+
+5/10/99
+
+Here (at long last for most of you) is Q3Test version 1.05.  We've worked long
+and hard to get this to you and we look forward to your feedback on what's
+right and what's wrong with it.
+
+There's one known issue with the Linux dedicated server taking up way too much
+CPU time.  As other known issues come to light we'll try to keep you all in the
+loop.  Please try and email q3feedback with a good sensible subject line, 
+mention
+what sort of system/OS you have, and remember that humans read all the feedback.
+
+GLSetup will have it's own press release sometime later this evening, but we're
+very excited to be part of this venture.  But I'll let Chris Hecker tell you all
+about it.
+
+5/10/99
+
+IMPORTANT!
+
+You must completely nuke your old Q3TEST install before installing the update.
+The config files from the old build are BAD voodoo.
+
+You can also type "exec democycle" to watch a bunch of id people play the map.
+
+
+5/10/99
+
+Q3Test 1.05 is DONE!
+
+New Linux/Mac versions are going up right now, and we're finishing up the 
+installer
+for the Win32 version.
+
+If all goes well, the Win32 version will follow in a few hours (few == six or 
+so).
+
+5/9/99
+
+We're getting closer, but I think it'll be tomorrow before we're out.
+
+Internally we're bashing on the new maps, code, servers, and clients.  There is 
+a
+/lot/ of new stuff in there and we want to bang on it for a bit before we 
+release.
+
+We are building installers, pak files, and so forth, so our confidence level is 
+good,
+but since it's only been 15 minutes since the last bug fix (which was a doozy of 
+a
+find BTW) and the new maps are still being bsp'd.  All of this makes a release 
+tonight
+seem like a bit of a risk.
+
+If all goes well we will bash on it tonight and tomorrow, and once John gets in
+tomorrow we'll be ready to go.
+
+5/7/99
+
+We're looking to release Q3Test for Win32 on May 19th.
+
+Just kidding.
+
+We're approaching what we consider a good build on Q3Test for Win32, and our 
+current
+estimate, barring any problems, is that we will release it on Sunday evening.  
+We will
+release Q3Test updates for Mac and Linux a few hours before Win32 to check for 
+any
+bonehead issues.
+
+There will be completely new data for this version of the test, old versions 
+will not
+be compatible with the new version, and old and new servers do not mix.
+
+If things change I'll let you all know.  But this is the current plan.
+
+5/1/99
+
+Rent day and I need to pay!
+
+I see several people are going for the master server right now.  That's fine, 
+but
+we're changing the format of the server pretty radically over the next few days 
+so
+the packet size will be nice and small and queries can be more detailed.  If 
+you're
+a hacker out there and you want to email me with suggestions, that's cool.
+
+We will be publishing the specs to the master server and MOTD server really 
+soon, we're
+anxious for people to look over that stuff.
+
+4/30/99
+
+The G3 firmware update is at:
+
+http://asu.info.apple.com/swupdates.nsf/artnum/n11361
+
+4/29/99
+
+We're about to update (tonight) the executables to 1.03 of q3test, there is a
+seperate download for win32 and mac that just contains the updates, and the
+main files have been updated as well.  Win32 is still only available as a
+dedicated server.
+
+We're also releasing the Linux version of q3test, this will available as a RPM
+and as .tar.gz.
+
+If you have a G3 system, I highly recommend the new firmware update from Apple,
+that gave us a noticeable (to humans) framerate improvement.
+
+Here's the update list:
+
+
+Mac specific
+------------
+improved networking stability
+improved device scanning
+improved speed
+improved memory checking
+improved sound latency
+
+Generic
+-------
+global motd/update server
+added drop shadow to field characters and fixed scrolling
+fixed edge-of-bounce-pad misprediction error (server side)
+removed broken weapon-stay dmflag
+made menu gfx never picmip
+cheat protect r_lightmap
+cheat protect r_nocurves
+clear sound buffer before any file IO
+continuous scoreboard / ping update when tab is down
+put version number on menu background
+dim out behind floating menus
+fixed server crashing string bug
+adjusted scoreboard for 8 players
+show hostname on connection screen
+fixed null model warning on startup
+more space for hostname on local servers screen
+sv_privateClients, sv_privatePassword
+"server is full" message on connect screen
+archive handicap in config file
+
+
+4/26/99
+
+Here's the most common bugs we're getting.  The first two bugs account for
+75% of all the bugs we're getting.  After that, the texture corruption bug
+seems to be the most common, and then the rest are noise or install related.
+
+Generally, unless the detail is clear, I've waited to get a bug twice before
+reporting it.
+
+If you get a crash, and it's repeatable, the Macsbug app syslog would be
+greatly appreciated!
+
+Graeme.
+
+Macintosh:
+
+--
+
+Turning up everything to the highest level of detail makes Mac crash on
+loading level.  This is by far the most common bug (50% of bugs).
+
+--
+
+This one is about 25% of the bugs:
+
+Rage Pro with 6mb of RAM on iMacs boots out with "need 4mb" error.  Works
+fine on G3 systems.  Others with G3 systems report that they are getting the
+"need 4mb" error as well.
+
+Someone did narrow this down to:
+
+If you try to use an ADB mouse rather than a USB mouse, Q3 bails out with an
+error that says "you must have at least 4MB of video memory."
+
+--
+
+Apparently after going through the underground area (that you must flip the
+switch to open), certain curved surfaces (such as arched ceilings) draw with
+garbage textures, as do a few other (flat) surfaces.
+
+May be related to:
+
+When running in 32-bit color depth, lighting effects (such as from a weapon
+firing) cause the affected textures to temporarily turn to garbage.
+(System:  Blue tower G3)
+
+--
+
+MacQuake3 test on a B&W G3/400.  When I try to run the app it refuses to run
+with the error "InterfaceLib--AddDurationToAbsolute could not be found."
+
+--
+
+random crash (but with Macsbug syslog)
+
+  Sys_GetPacket: OTLook 64
+  Sys_GetPacket: OTRcvUDErr 27547436
+
+I was then dropped into Macsbug inside CalcC_LerpVertexes.
+
+--
+
+G3 Global Village modem overrides game display with "connected" status bars.
+
+--
+
+Every time I try to go through the silvery warp portal when playing on your
+server (does not occur on local game) I crash (q3test1)
+
+--
+
+Exit game crash (but with Macsbug syslog)
+
+--
+
+Installation of the OpenGL driver from Apple breaks their DVD player
+software.
+
+--
+
+Players running around as axial models (null models).
+
+--
+
+There is a flaw in the Mac OS.  It thinks 800x600 at 120Hz will work with my
+monitor, but it doesn't.  Since the OS thinks this refresh rate will work,
+Quake also thinks it.  Therefore, when I switch to 800x600, my monitor
+blacks out and could possibly be damaged.
+
+In the options, Quake should show ALL possible monitor configurations with
+ALL refresh rates.  That way, the user can pick the one that will work best
+with his setup.
+
+--
+
+Running on a powermac 8600/300 96mb (vm to 120), ATI Rage 8mb.  More or less
+any changes I make in graphics display options causes the game to crash as
+it loads a map.
+
+--
+
+I have both an ATI Rage 128 and a Voodoo3 plugged in to my system for
+development work.  If the V3 is in the 66Mhz slot and the ATI in any other
+PCI slot, Quake3 will fire up on the ATI just fine.
+
+However, if the ATI is in the 66Mhz slot and the Voodoo3 in a PCI slot, I
+get an error message that says "Could not initialize OpenGL".  This appears
+to happen after the video mode change.
+
+--
+
+When screen resolution is 640x480 or 800x600 on the PowerBook G3 Series
+(with a built-in ATI Rage Pro, I think), the background is all white instead
+of the QUAKE3ARENA TEST graphic.  This may be related to the fact that the
+3D card has support for stretching those resolutions to fill the actual flat
+screen hardware resolution of 1024x768.  It is particularly hard to ignore
+this effect since much of the setup UI is white on a white background.
+
+--
+
+NT 4.0 server bugs:
+
+--
+
+The 'toggle' command can toggle write protected cvars. Example: "toggle
+fs_restrict"
+
+The 'wait' command with a negative parameter causes an infinite wait.
+Example: "wait -1; echo foo"
+
+
+
+4/23/99
+
+The test is not coming out tonight, but we do have a Macintosh candidate ready 
+to go.  If all goes
+well tonight, it will be out over the weekend.  The Linux/Win32 builds are not 
+yet ready.
+
+The test version of Quake 3 Arena is just that, a test, and as such we here at 
+id software need
+to have some controls over it as we start to test it out publicly.  Without 
+these controls we
+cannot actively track and improve the product in a manageable manner.
+
+We wanted, and are eager to be completely "out there" on all platforms, but the 
+OpenGL drivers
+the product needs for all the platforms are not yet finalized.  By launching on 
+the Mac first it
+gives the various 3D board manufacturers some time to get their Win32 OpenGL 3D 
+drivers certified
+with Microsoft.  We're using, and depend on, the latest and greatest drivers and 
+want to be able to
+distribute those drivers for the Win32 platform.
+
+The Macintosh market is smaller than the Win32 market, and has less 
+configuration options than the
+Linux market.  There is only a single OpenGL driver, and the hardware is 
+essentially always the same.
+This is an ideal "controlled" environment for the initial testing.  Basically, 
+if there is a huge
+issue with the initial release we're exposing a smaller audience to it.  This 
+turns out to be a good
+thing.
+
+The plan is to release the Macintosh version first, followed by the Linux 
+version, followed by the
+Win32 version.  We will release on the other platforms as soon as possible.  We 
+will rev the other
+platforms as we make new releases.
+
+I hope you understand and agree with this decision/process.  It is a good step 
+towards a timely
+release of the full demo and retail product.
+
+4/23/99
+
+No news is good news they say!  We're still working hard to get the test out.  
+If you could refer
+questions to me (zaphod@idsoftware.com) regarding the test I'd appreciate it, 
+everyone else here
+is plenty swamped.  Obviously if it's just "when?" then that is pretty hard to 
+answer, because "when"
+will be as soon as it's done!
+
+But watch this space and remember to follow the white rabbit.
+
+4/14/99
+
+We're getting closer to releasing the test version of Quake 3 Arena.  It's worth 
+going
+over our expectations from the test vs. the world's expectations from the test.  
+I appreciate
+all the voice mails, faxes, and emails with suggestions, death threats, and 
+comments, and I
+do read each and every one of them.  I try to respond to a lot of them, but 
+obviously I can't
+respond to them all.
+
+At this point, we still have no release date on the test.  We're testing builds 
+here and at
+Activision and continuing to go through cycles.  As soon as feedback from both 
+internal testing
+and our testers at Activision dies down, we'll be ready, but while this is 
+providing heavy
+reports, as it still is today, we're still not ready to come out with the public 
+test.
+
+There will be two maps in the test; these maps will also be in the final 
+product.  The feedback
+we're looking for is specific to the technology in the test.  We're pretty happy 
+with the design,
+and feedback on things like weapon switch times, models, gibs, and so forth are 
+not things we'll
+pay as much attention to as real issues with the technology.  We're looking 
+closely at modem, ISDN,
+and cable play to see how our new network code works, and how that works when a 
+bunch of different
+connections are playing together on the same server.  We're anxious to gauge 
+server load and use
+with the maps we have to see how the server works under heavy use, and to make 
+sure we've got a lot
+of the new client/server communication working reliably and securely.
+
+That said, we do and will watch you play, read the message boards, and try to 
+gauge feedback.  But
+the main thing to remember is that this is a test technology build, not a demo, 
+there will be a
+demo, we plan on a demo, but this is a test.  A lot of you will want to wait on 
+the demo rather than
+playing the test.
+
+The test will be on all three platforms, Mac, Linux and Win32.  We're still 
+working on minimum and
+recommended specs.  There are no bots in the test.  We do plan on revving the 
+test once it's out at
+regular intervals to get fixes out there.
+
+There is no spoon.
+
+3/28/99
+
+I know a lot of you are looking at the end of the month as a fixed date for 
+q3test,
+but we're probably looking to be within a few weeks of that date rather than 
+exactly
+on it.  We're working on it; I just want to keep expectations in line with 
+reality.
+
+This is a test of Quake 3:Arena, not the demo.  With this test we're looking to 
+see
+how well the brand new networking and graphics code works, and while we've run 
+this
+through a QA process here and at Activision, this is not code that is of release
+quality in speed or gameplay.  Please do not look upon this as the "demo" of 
+Q3A.
+
+Thanks.  I now return you to your regular programming.
+
+3/2/99
+
+Xian says I need to put something new here.
+
+It's been a busy two weeks, and I've yet to get any furniture.
+
+Thoughts later.

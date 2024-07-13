@@ -1,0 +1,76 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: ericf
+Plan modified: Tue Aug 22 10:40:56 2000
+
+Aug 22, 2000
+============
+
+First I'd like to point out that Southwestern Bell sucks.  I put in my order for DSL
+at my apartment about a month and a half ago.  They still haven't done anything.
+
+Anyway, looks like the big bad crash bug in FAKK2 has been finally wiped out.
+It's the strangest thing I've ever seen.  Normally a bug like that SHOULD crash
+every system, but for some reason, through the entire testing session at Ritual,
+we never encountered it.  Scott ran across it yesterday for the first time, and
+that's all it took to track it down.  You can now get the patch 1.02a and it should
+fix the crash bug, and a few slow down problems introduced in 1.01.
+
+Aug 14th, 2000
+==============
+
+Gonna update my plan file for once.  First of all... Ritual rocks.
+
+Second, I have to make "special mention" of some cool people. These are in no
+particular order, so don't bitch at me if you're not first on the list!
+
+Iceheart - Neat person.  Just beat Diablo.  Kinda goofy.
+BaDmAn - Total sheep fetish.  Always wants Sally autographed and mailed to him (don't ask)
+bass2496 - the "World Famous Programer of BassMod" (sounds dumb, but he wanted me to put that)
+Iceheart - (again) because he's a pest and wants me to include him twice for some reason.
+
+Anyway, all these wonderful *ahem* people are on IRC on the Enterthegame servers.
+Just join the #ritual channel... but don't get disturbed if BaDmAn references sheep often.
+
+
+Here's an example of the action in the channel shortly after I updated
+this plan file :)
+
+[BaDmAn] I like sheep.
+[Iceheart] you spelled programmer wrong
+[ArchV] DOH!
+[Iceheart] "world Famous Progammer of BassMod"
+[bass2496] Or Pro Gamer
+[Iceheart] "these wonderful *ahem* people "
+[Iceheart] You're funny Arch
+[ArchV] I know.
+[Iceheart] =)
+[BaDmAn] You should be shot.
+[ArchV] hehe.
+[BaDmAn] :D
+[Iceheart] who? me or Arch?
+[BaDmAn] Both.
+[Iceheart] eek!
+* Iceheart runs
+
+
+Aug 1st, 2000
+============
+Well, I'm here at 9:35am... my usual time.  The place is utterly deserted. That's a wonderful thing knows that the people that have been busting their asses on FAKK2 all this time are probably home alseep!  Me?  I got stuff to do... sorta.  I just want to say the FAKK2 team did an awesome job and lots of hard work and hard hours.  I guess I know what I have to look foward to!
+
+On a side note, I've been hanging out alot on IRC on irc.enterthegame.com on the #Ritual channel.  Lots of cool people there... Drop by some time!
+
+July 25th, 2000
+===============
+I defeated Diablo last night.  He's a pretty tough bastard.  Now I'm
+halfway through Act I on Nightmare mode.  It's much much tougher. 
+I'm really scared about Hell mode, if I can even make it there.
+
+
+July 20th, 2000
+===============
+Been playing Dialbo II in my spare time. That's a pretty
+awesome game.  If you need something to suck up all your
+time and cause you not to eat for hours on end, play Diablo II.
+

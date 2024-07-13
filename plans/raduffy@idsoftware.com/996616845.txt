@@ -1,0 +1,54 @@
+
+Name: Robert A. Duffy
+Email: raduffy@idsoftware.com
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+July 31.2001
+------------
+
+The 1.29h point release is up. You can auto-update to it from 1.29f or 1.29g or grab the whole sha-bang from our ftp. The Linux version will be up asap. This is STILL a beta, we plan to go final with it after QuakeCon.
+
+Changes
+
+- Fixed Server exploit
+- Fixed Mouse wheel 
+- Fixed NT 4.0 Sound
+- FPS Boost
+- in_mouse set to -1 will provide 1.17ish sensitivity, in_mouse set to 1 will provide current sensitivity
+
+Thanks.
+
+
+
+
+
+
+July 30.2001
+------------
+
+Point Release status. 
+
+We have made the fixes we wanted to make to the latest version, including having the proper pak files in the full installer. We did not make any input code changes between 1.29f and 1.29g, but we did link with a different version of Directx ti get NT Sound functioning properly. This fixed NT 4.0 sound but produced an FPS loss on some systems and changed the way input was working as well which allowed in_mouse == -1 to work like some folks like but causes mouse wheel problems under some versions of Intellipoint. We have since done the following:
+
+-Re-linked to a later version of DirectX.
+-Set Directx up to use sound compatible with Directx 3 
+-Made one small tweak to the input code which allows in_mouse to function correctly when set to -1 ( old sensitivity ) this should make both input camps happy.
+-Fixed a potential server crash.
+
+We are testing this now and should release it in the am.
+
+Thanks.
+
+
+
+
+
+
+July 28.2001
+------------
+
+There is an issue if you download the full ( 25MB ) 1.29g install and apply it on top of 1.29f. The installer does not overwrite the existing baseq3pak6.pk3 and missionpackpak1.pk3. AUTO-UPDATE works just fine so if you have 1.29f it is best to do that anyway as the update is much smaller. The installer also works fine on any version prior to 1.29f. Most people will have just ran auto-update but for those that cannot or don't like auto-updaters can remove the above pak files before running it and it will work fine. 
+
+The game will run either way as the .exe is compatible with either set of pak files. Our install/setup person is out of town until tomorrow night. Once he is back we will get an updated setup that works properly.
+

@@ -1,0 +1,72 @@
+
+Name: Chris Foster
+Email: cfoster@mail.ravensoft.com
+Description: Lead Designer
+Project: Star Trek
+-------------------------------------------------------------------------------
+_____________________________
+		   
+Christopher Foster   (Winter)   
+Lead Designer : Star Trek Voyager
+ICQ# 10890163
+____________________________
+send me mail!   
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--------
+6/15/99
+--------
+
+Now, that I'm out from under the shadow of scheduling and planning for a day or so I
+thought I'd update this thing.
+
+We're currently halfway through production on the Scavenger Base areas.  I've nearly
+completed the exterior portion of my airlock level, where Munro and others will hopefully
+get the chance to utilize their Starfleet vac suits for a short spacewalk.
+
+Most of the areas of Voyager have been completed in their raw form, just waiting to be 
+realistically roughed up and damaged.  
+
+Our design team is doing a terrific job of fitting the extremely complex areas from Voyager
+into the sometimes restrictive limitations of a game engine.  Quake3 is the only
+engine that I would even want to try this in!
+
+Any questions?  Mail me!
+
+
+
+
+
+--------
+5/27/99
+--------
+Things progress smoothly on our Star Trek: Voyager game...
+Levels are looking great, and we're in the final planning stages for June's production.
+
+Also, the scripting interface is nearing completion, so those of us who are not heavily
+into programming can make the game do what we want.
+
+
+
+
+--------
+3/26/99
+--------
+Well, long time no write.
+
+I'm sure most of you have heard the announcement...we're doing a Star Trek: Voyager game for Activision!
+
+We'll let you know more as soon as we are ready.
+
+I'm still recovering from the deluge of info I gained from the GDC in San Jose.
+Saw a number of really good lectures on game design as well as some very poor ones.
+
+On the bright side I met a lot of really cool people in the industry!
+
+I'd like to thank the people from NAD in Montreal (Ian, Eric, Luc, Danielle and JF) for wandering around with us, the guys from the Babylon 5 team for ditching the Microsoft party with us, and the gentlemen from Firaxis for hanging out with us.
+
+The most interesting lectures I attended were actually not all that directly related to what my
+actual job is.  I did attend a lecture on Puzle Game Design by Scott Kim and Alexey Pajitnov (hope I spelled that right) which was great, as well as a panel on The future of 3D Level Design which was anything but great; but my favorite lecture/tutorial was Storyplaying (using stories and characters effectively in a game) by Lee Sheldon.  It was an 8-hour tutorial (whew) in which I mostly verified my own ideas on story and character use.  Nice knowing that a one-time TV script writer and I think alike...
+
+More on all of this later...I have work to do!

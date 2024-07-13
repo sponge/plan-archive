@@ -1,0 +1,53 @@
+Login: pdeupree       			Name: Patrick Deupree
+   3 minutes 19 seconds idle
+Plan:
+2/28/2000^?
+^?
+Last week I was looking for some stuff on http://www.imdb.com and^?
+decided to goof around and enter "Deupree" in there.  I figured I'd^?
+see if anyone in the family was ever involved in a film or^?
+something of the sort.  Much to my surprise, I found myself listed.^?
+It turns out that a game I worked on about 4 years ago, "Monty^?
+Python and the Quest for the Holy Grail" is listed in IMDB.  While^?
+jobs such as programmers aren't in the credits, I was also listed as^?
+one of the designers in the credits for the original game.  So there^?
+I am, listed as a "Production Designer" on the game (sharing the list^?
+with Eric Idle).  To be honest it's pretty damn cool to be in a list^?
+of credits including the Monty Python crew since I've been a fan of^?
+their stuff since I was a kid.  While Grail might not have been the^?
+best title as far as gameplay goes, I must admit that I really^?
+enjoyed working on it.  Even after hearing the line "bring out your^?
+dead" over 100 times, I still really enjoy the film.^?
+^?
+You never can tell where your name might pop up these days.^?
+^?
+2/23/2000^?
+^?
+One clarification on the WON verification in the dedicated server.^?
+Our game will work the same way that Half-Life works.  A dedicated^?
+server doesn't require a WON ID.  The support I have to add for^?
+WON is checking to ensure that the people connecting to the dedicated^?
+server have been verified through the WON service.  So never fear, you^?
+can still play and run dedicated server at the same time.^?
+^?
+2/22/2000^?
+^?
+A while back we talked about releasing a Linux dedicated server version^?
+of Half Life: Opposing Force.  I wanted to post an update on how that's^?
+going.  We've had the "port" done for quite a while now and it's been^?
+tested and works just great.  The only problem is that, since we're a^?
+commercial add-on, we need to put WON net support into the Linux^?
+dedicated server.  This is turning out to be a harder to deal with^?
+issue than I originally anticipated.  Some changes to the WON libraries^?
+since we released Opposing Force, plus the basic differences between the^?
+Windows and Linux versions have been delaying the Linux dedicated server.^?
+^?
+I'm still working on the Linux version when I can and I would like to get^?
+it released ASAP, but unfortunately I have to resolve these WON issues^?
+before I can get any farther.^?
+^?
+On the brighter side of things, it looks like Sierra has dropped the price^?
+of Opposing Force.  The product description on their web page store has it^?
+listed at $29.95, and the current weekend ad flyer for Best Buy has it^?
+listed for $24.99.^?
+^?

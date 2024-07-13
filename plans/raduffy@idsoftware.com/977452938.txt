@@ -1,0 +1,24 @@
+
+Name: Robert A. Duffy
+Email: raduffy@idsoftware.com
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+The 1.27 game source and the tool source has been put up on our ftp site. This game source contains prebuilt tools in the bin_nt directory but there is not yet a user friendly version of the tool installer done. A tool install that contains additional media for Team Arena creation, entity definitions etc. will be released shortly ( mid January-ish ). Timothee and his crew should be releasing GTKRadiant that WILL be user friendly soon ( next week as I hear it ).
+
+The source for the tools is also available. Graeme is going to be releasing the ROQ endocer today or tomorrow I believe.  Enjoy.
+
+
+1.27 Game Source
+
+idstuffquake3sourceQ3A_TA_GameSource_127.exe
+
+This is the combined source code for Quake III Arena and Quake III: Team Arena. It can be used to build the 1.27g point release or the Team Arena release. It contains buildable project files and all related game source code as well as prebuilt tool executables.
+
+
+
+1.27 Tool Source
+
+idstuffquake3sourceQ3A_ToolSource.exe
+
+This contains the source code for the Quake III Arena and Quake III: Team Arena tools. It contains source code for Radiant, Q3Map, Q3Data, Q3Asm and related support files. It does NOT contain prebuilt executables or end user friendly gizmos. 

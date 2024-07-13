@@ -1,0 +1,21 @@
+--== March 23, 2000 ==--
+
+It's been a while since I last updated. I've been working on various U2 things
+I cannot talk about and trying, desperately, to get versions of the 
+Wheel of Time International patches that can have our Q/A Stamp of Approval.
+With all the various (but minor) differences between the US and Intl versions of
+WOT this is turning out to take much longer than I had expected.  We _should_ 
+have International versions ready to send to GT QA by Friday.
+
+What do you think of the cool new U2 Image on the main page? 
+
+
+--== January 24, 2000 ==--
+
+The Wheel of Time v333 patch has been released. You can grab it
+from http://www.gtisonline.com/ftppages/wheeloftime_ftp.html. There
+are several cool new features including player id and voting.  We are
+also going to be releasing 2 new Arena maps today. One is the new map
+that was included in the demo and the other is a brand new map created
+by the Wheel of Time level designers.
+

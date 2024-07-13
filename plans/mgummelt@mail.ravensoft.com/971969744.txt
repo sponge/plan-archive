@@ -1,0 +1,161 @@
+
+Name: Mike Gummelt
+Email: mgummelt@mail.ravensoft.com
+Description: Programmer
+Project: Star Trek
+-------------------------------------------------------------------------------
+Wednesday, October 18, 2000
+
+Okay, time to go off-topic a little bit and dicuss
+voting.  It seems an alarming number of people are
+not going to vote, especially younger people.  They
+seem to think that voting doesn't matter or they're
+just too lazy.  They think, perhaps, that by not
+voting they're staying out of the system altogether.
+They're wrong, here's why:
+
+If you're one of these people who aren't voting, some
+candidates are probably *counting* on you to not vote.
+They know a lot of people are cynical and that the last
+election had the lowest voter turnout ever.  They know
+that older people are more likely to vote than younger
+people (hence all the talk about social security and
+medicare).  They're counting on the cynicism and/or
+laziness of young people to stop them from voting.  By
+*not* voting for the candidate you believe in, you're
+not only relinquishing control of your country to those
+who do vote, but you're virtually voting for the
+candidate who disagrees with your views.  Everyone has
+a say in this election, it can be either passive or active,
+but every vote not cast has as much impact as every vote
+cast.
+
+With all this having been said, there's a great website
+that can help you find who you might want to vote for.
+If you think you should vote but have no idea where anyone
+stands on anything, this is a great site.  You simply
+answer questions on the issues themselves- with no idea
+as to where each candidate stands on the issue.  After
+answering maybe 20 questions, it will give you a list of
+each candidate, ranked from top to bottom in order of
+whose platform your answers agree with more.  I tried it
+myself and, while I was not surprised by the results,
+I found it very interesting and educational.  
+
+Here's the link:
+
+<a href="http://www024.aolsvc.personalogic.aol.com/news/presidentmatch/pl.qanda;coHoqg85YkfzbqaPVTvNqkp1LaQ1a_RwB70FZiN$olORKuwBa_VXttME2gL1w1kgtzXMsEV3rQubbViOcnvZvDu_auSx43SXN1upncN6K5NKQu3IF3kE_hcT5Eazmt34f2xWLolwEAdEJhEBBSeQqvYitzwkxzAWEke4Pg47QkY95l3GU$0fuV5d9IAEJxJ">Personalogic President Match</a>
+(click on the "Find" option)
+
+If value the life you have and want some kind of input
+into the life you will have in the future, vote.  If
+you don't vote, you forfeit your right to complain about
+(or take credit for!) anything that happens in the next
+four years (not to mention the permanant laws and 
+decisions handed down by newly appointed supreme
+court justices over the next 50 years or so).  That means
+if there are new laws passed that, say, censor TV, movies 
+and video games or they ban your favorite handgun or
+you don't think the tax system is fair- you don't really 
+have the right to complain.  If you're not voting because 
+you think special interests rule government, not people, 
+then vote for the candidate that is most likely to enact 
+campaign finance reform (a distinct possibility now more 
+than ever).
+
+America is the single most influental country in the 
+world: we are the leaders of democracy, we have one 
+of the world's most important economies and many 
+other countries look to us as a model- even if they 
+hate us at the same time.  Voting is the essence of 
+democracy, it is what makes America America.  
+It is every American's duty to vote.
+
+
+cut here:
+8<------------------------------------------------------
+
+Tuesday, October 10, 2000
+
+About Elite Force load times:
+
+Our guy here who implemented the load/save system and
+optimized it says that all load times on his machine
+are between 10 and 30 seconds.  In fact, Activision had
+a strict time limit on the load times- we'd be told to
+fix the level/load code if any level took longer than 
+a certain amount of time to load (not sure what it was, 
+but it was nowhere near what some people are reporting).
+
+Overall, I haven't heard much about load times, but
+a few people on our messageboard and even a couple
+reviewers claim that their loading times have been
+long.  Sometimes, I suppose, this could be due to having
+a fragmented hard drive or other problems, but 
+overwhelmingly, these long load times are due lack of RAM
+causing the hard drive to thrash while loading.  A friend of
+mine had this problem and we tried a few things to fix
+it.  In the end, the problem was he simply didn't have
+enough system/video RAM to run the game at the resolution
+and detail level he was trying to.  If you want to run
+the game at 1024x768 in 32 bit color with all the detail
+settings at "very high" with high quality sound- you
+better have at least 128MB of system RAM and 64MB RAM
+on your video card.  Even then, EF by default allocates
+56MB of RAM to loading the map, sounds, models, etc.
+
+Short answer:  If you're having long loading times, you're
+pushing your system too hard- drop your resolution/detail
+settings.
+
+
+cut here:
+8<------------------------------------------------------
+
+Monday, September 25, 2000
+
+As many people have been asking about Elite Force
+source code and tools, here's the status and plans:
+
+We've released so far:
+
+The ICARUS Pack:
+All our original, uncompiled ICARUS scripts.
+ibize - the script compiler.
+BehavEd - the graphical script writing tool 
+(it will call the ibize.exe to compile the script you write).  
+This tool should be used to view all our scripts 
+as in straight text form they will be unreadable.
+
+The GUI Pack:
+shaderEd - The tool used to make shader entries.
+md3view - The tool we used to view our models.
+
+Next we will release the Radiant Pack:
+Q3Radiant (The map editor), the entities def file 
+and the textures (some of these are available now I think).
+
+Next, I believe, will be the Holomatch source code for 
+the game, client game and menu DLLs.
+
+I will also talk to James about releasing our external 
+data files (used for NPCs, weapons, items, objectives, 
+animations, animsounds, subtitles, etc.) and a readme.txt 
+explaining how to use them.
+
+I will also release the ICARUS manual when I 
+finish updating it.
+
+At this time, I do not think we will be releasing 
+Single Player source code.  The game was designed 
+so that you can modify it significantly through 
+scripting, maps and the external data files- without 
+having to touch any actual code.
+
+I am going to try to help and support the mod community
+as much as I can.  Anyone with questions about modding
+can e-mail me at mgummelt@ravensoft.com or ICQ me at
+14310759.
+
+cut here:
+8<------------------------------------------------------

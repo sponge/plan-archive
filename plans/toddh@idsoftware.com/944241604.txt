@@ -1,0 +1,198 @@
+
+Name: Todd Hollenshead
+Email: toddh@idsoftware.com
+Description: CEO
+Project: 
+-------------------------------------------------------------------------------
+12-3-1999
+
+The demo that goes live today is The Demo.  That means that magazines
+can put it on coverdisks (please do!), and that physical media distribution
+is now generally permitted.  Please note that if you want to put the Demo
+on a CD (or other physical media) and _sell_ it to someone or otherwise
+commerically exploit the demo, you will need to enter into a 
+separate agreement with us.  All of this is detailed in the EULA, of course.
+
+I look forward to seeing a bunch of you online today playing FULL VERSION
+Q3A maps in all their glory =)
+
+12-2-1999
+
+Shelf date update (Windows version only)!
+
+Q3A was shipped today and you should expect Babbages and EB to have it
+as early as tomorrow (I think they may have paid extra for expedited
+shipping).  Please understand that not all of these stores may actuall
+stock the game on shelves tomorrow and some of them may already be "sold 
+out" due to the huge pre-order response (in fact, Q3A is #1 for these stores 
+before even hitting the shelves).  CompUSA, Best Buy, Wal-Mart, etc. are
+all getting copies as well, but they probably won't show up on shelves before
+the "official" US date of December 5th.
+
+Just like with Quake II, we won't have any copies for sale from 
+1-800 idgames before the retailers (retail outlets are our first
+priority for shipping).  I'll let everyone know once we get some here
+so you can order direct from us.
+
+UPDATE:  Linux Shelf Date
+
+We have just announced with Loki Software (our Linux distributor) that 
+we should be on shelves by December 27th in the limited edition tin box.
+
+11-25-1999
+
+Happy Thanksgiving everyone!
+
+Great news for Linux users:  I just received word that the Linux 
+version of Q3A *will* use the limited edition tin box that everyone 
+has been clamoring for.  We should have an announcement on Monday 
+with the expected availability date.
+
+11-22-1999
+
+Thanks for the mountain of congratulatory email.  As of this very
+moment, I don't have a confirmed shelf date or availability date
+from 1-800 idgames.  I'll post that information here just as soon
+as I get confirmed dates for you guys and girls.  As John indicated,
+it may be a few extra days before we get confirmation on Linux and
+Mac due primarily to logistics.
+
+11-17-1999
+
+We just received a report that tells us that there have already been
+at least 1,000,000 downloads of the demo test in less that 3 days.  WOW!
+A tremendous thanks to the Quake III Arena (or soon to be) community.
+
+11-14-1999
+
+Demo Test notes:
+
+As Graeme indicated, this is a preliminary release.  We are
+retaining the prohibition on physical media distribution until we
+release the final or "gold" demo.  That means that magazines will
+NOT be allowed to distribute this version of the demo on coverdisks.
+This is marked all over the test, however I would appreciate it if
+all of the Quake 3 and game site webmasters that are mirroring or 
+covering the release would lend me a hand and make sure our friendly 
+neighborhood game and computer magazines understand this.
+
+Rest assured, we will allow physical media distribution of the final 
+demo, once it is released, but not yet.
+
+Second, although the 1-800-idgames number is on the screen, we (id) aren't
+accepting orders yet.  Also, please remember that number is not for 
+technical support for Quake III Arena, the demo test, or any other id
+game.  Feedback, bugs, etc., in the demo test should still be sent to 
+feedback@quake3arena.com
+
+Finally, before the crazy speculation starts, we aren't done with the
+game yet.  We will be finished "when it's done!"  Again, anyone besides
+id claiming to have the official release date is just pulling your chain.
+
+Enjoy!
+
+11-05-1999
+
+There hasn't been a formal announcement about this that I'm aware of, so
+I wanted to make sure that everyone knew that several retailers are
+running Quake III Arena pre-order programs with the limited edition
+tin box.  There will be less than 30,000 of the tin box editions 
+available world-wide, so if this is something you want you probably
+need to get your order in ASAP.  I don't have a picture to post, but
+if you were at QuakeCon and saw the metal box in the black display
+case, you know what the box looks like.
+
+Just to clarify a few things that may be confusing:
+
+We won't be selling these direct from id - it's purely a retail promotion.
+There is no difference in the game content, only the box is different.
+Some retailers are charging more for the tin box, and some are charging
+the same price.  The actual retail price of the game is something that
+is out of our direct control, but we aren't charging the retailers more
+for the limited edition box.  I don't have a full list of all of the
+retailers world-wide, but in the U.S. EB, Babbages, and CompUSA are
+all participating at a minimum.  Availability may vary by store, however.
+The release date for Quake III Arena is, as you know, "When it's done!"
+Retailers are notorious for posting "official" release dates, but unless
+it comes directly from id, it's just speculation.
+
+10-19-1999
+
+Activision just informed me that Quake II for the Playstation made its
+debut on the UK PSX charts at No. 5.  The game was primarily developed
+by a UK company called Hammerhead which did just a tremendous job on the
+game.  They had a ton of assistance from us primarily via Tim Willits.
+The official UK Playstation Magazine (UK OPM?) gave the game a rating 
+of 10 out of 10!  If you have a Playstation this is a must-have game.
+
+10-15-1999
+
+To put this rumor quickly to rest, we don't have any tracks from Nine Inch
+Nails in the current Q3A soundtrack.  Trent spent most of his time this 
+year completing his latest album (you can still call them that, right?),
+and is now preparing for touring, if he's not already doing it.
+
+As far as what is really in the soundtrack, I'm going to wait until it's
+finalized to go into details, but we have some great music from names
+many people will recognize.
+
+9-14-1999
+
+If you have a copy of the new October CGW, turn to pages 14-15 to see
+my nomination for "Game Ad of the Year".
+
+8-26-1999
+
+In the aftermath of the Ottawa Sun article, I was forwarded the link
+below by Bernd Kreimeier:
+
+http://www.salon.com/tech/feature/1999/05/06/game_violence/index.html
+
+This is an excellent article that addresses how Grossman misrepresents 
+the scientific data.  It's not a new article, but it's worth a read if 
+the subject interests you.
+
+
+8-25-1999
+
+Well we've all seen the brilliant journalism of the Ottawa Sun (or
+whatever it is).  If you'd like to email them your thoughts on
+fairness and accuracy in reporting, the address (from their page)
+is oped@sunpub.com.  After taking a look at the pounding they were
+getting from many of you over on sCary's messageboard, I sent the
+editor the following:
+
+Mr. Oliver:
+
+I'm sure you're getting a mountain of email from people angry about
+the number of factual inaccuracies in the story, so I'll just trust
+that you'll fix that tomorrow.  I wanted to let you know that you can
+email me directly if you would like to fact check articles that discuss 
+our games in the future.  
+
+And if this hasn't been made painfully clear to you already, Grossman's
+contention that Quake III Arena has been pulled from the market is no
+more accurate than any of his other assertions about id Software or our
+games.  We're looking forward to an enormously successful launch of 
+Quake III Arena later this year.  You can see what we're working on for 
+yourself at http://www.quake3arena.com .
+
+Regards,
+
+Todd Hollenshead
+CEO
+id Software, Inc.
+
+Now if only someone could get Grossman's email address!
+
+Update:  I didn't think it would take all you HaX0rZ long =) 
+
+Behold! The email for the ring leader of the campaign to spread inaccuracy 
+about video games so that he can sell more copies of his books to unwitting
+law enforcement officials and yellow journalists (from numerous sources):
+
+LtColDaveG@aol.com
+
+I don't know if it's active.  And remember, while the Ottawa Sun certainly
+failed to conduct even a rudimentary fact check, it's Grossman making the
+comments that are quoted.

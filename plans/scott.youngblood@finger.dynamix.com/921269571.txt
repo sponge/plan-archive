@@ -1,0 +1,112 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------------
+User Name: scott.youngblood     Plan Last Modified: 03/12/1999 11:57:17 PST
+
+<p>Real Name: Scott Youngblood
+<br>Nickname: CornBoy!
+<br>Job: Lead Designer
+<br>Project: Starsiege Tribes</p>
+
+<h6	style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; March 11, 1999</h6>
+
+<p>
+Ok, well it seems that the votes have started to dwindle down to a trickle.  Here is what 
+I expect to be almost the final standings:</p>
+<p>
+NO  - 306</P>
+<p>
+YES - 147</p>
+
+<p>
+So, with about a 2-1 margain the old Broadside version will be put back for the next 
+patch release.  I will re-release the latest version of broadside as well for those 
+people that requested it remain as a different named map.  Ok!  Now time for a contest:</P>
+<p>
+Name the new broadside map game!</p>
+<p>
+Send me your best name for the new map... </p>
+<p>
+The winner will get their name included with the new map description.  Here is your chance
+to be immortalized and get your 15 seconds of fame.</p>
+
+
+<h6	style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; March 8, 1999</h6>
+
+<p>
+Woo Woo!  We got Beer!  After months of pleading for beer to arrive in 
+the mail we've finally got some!  A special Thanks to DR Jeep, Qui9 and the public
+beta team.  DR Jeep sent us some $$$ so we could buy some good local brews, 
+Qui9 and the public beta team actually sent us a boatload of Rogue ale brews.</p>
+
+<p>
+THANKS!</p>
+
+<p>
+The Voting continues: Update as of 2:43pm pst.</p>
+
+<p>
+Yes votes - 134 in favor of the new map</P>
+<p>
+No votes - 297 against the new map</p>
+
+Keep the votes and comments flowing in.
+
+I'll be out on Thurdsay - Sunday attending Extreme Annihilation in Dallas.  I'll
+do a plan update on Monday the 15th with the final vote count.</p>
+
+
+<h6	style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; March 4, 1999</h6>
+
+
+Ok, 
+
+I'm the 'Sissy Nancy Boy' that changed the Broadside map. :)  I and other 
+dev team members felt that there were way too many stalemates happening
+on the original version of Broadside.  So I changed it to be a little 
+easier to grab the flag.  It seems that are a few vocal voices out there
+who do NOT like the new map.  So... I'll leave it up to YOU the community
+to decide the ultimate fate of that map.
+
+Email me with your vote with your preference in the subject line:
+(only 1 vote per person please)
+
+YES - you like the new map
+NO  - you DON'T like the new map
+
+If I receive a resounding majority of people who want that map changed back 
+I'll change it.
+
+Voting ends in 1 week on Thursday the 14th of March.
+
+CornBoy!
+
+
+<h6	style="font-family: Arial; font-size: 12; background-color: rgb(0,0,128); color: rgb(255,255,255); border-left: 10px none rgb(0,0,128); border-top: 2px; border-bottom: 2px; padding-left: 0; padding-right: 0; padding-top: 5; padding-bottom: 05"
+align="left">&nbsp;&nbsp; January 27, 1999</h6>
+
+
+The response I received from people on my request for feedback was great!
+Thanks for taking the time to send in your comments, they will help us
+shape future patches and even our feature list for Tribes 2.  Your 
+comments are greatly appreciated.
+
+If you have any additional comments feel free to send them to me at:
+
+scott.youngblood@dynamix.com
+
+P.S. I know many people really really want the OpenGL update NOW!  Don't 
+worry, we're working on it... as soon as we have a version that is ready
+to be pounded on we will let you have it.
+
+Also, if you have any specific mission criticisms or ideas let me know 
+and I may be able to fix them for the next patch release.  I've already
+tweaked many of the missions that had play balance problems, but I would
+like to hear what you have to say.
+
+Scott

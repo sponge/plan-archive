@@ -1,0 +1,16 @@
+
+*** MumboJumbo's Finger Server
+
+User name: andrew
+Plan modified: Sun Sep 30 01:27:57 2001
+
+
+I installed MacOS 10.1 today. It is, in fact, everything promised. I'd been neglecting our MacOS builds in the hope that Apple would put out a version of X that wasn't painful to use by the time we had to put together a Mac version of Myth 3. With 10.1 and a copy of CodeWarrior 7, it looks like they just barely made it.
+
+Because of the transitional state of MacOS, for the last few months my Mac had been used mostly as a CD player. While it's now back in action as a development box, the first thing I did after getting 10.1 up was fire up iTunes and drop in a Krisiun CD. Imagine my pleasant surprise on discovering that the database that Apple has provided for iTunes was already familiar with this delightful little album:
+
+http://www.krisiun.com.br/images/bfd_capa.jpg
+
+With an inverted pentagram dripping in blood and not one but FOUR upside-down crosses, you really can't pack much more Satan onto one album cover. I'd like to commend Steve Jobs not only for designing a user interface that looks so good I want to lick it, but for making it Lucifer-ready right out of the box. Go Apple!
+
+

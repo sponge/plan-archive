@@ -1,0 +1,30 @@
+
+Name: Jon Zuk
+Email: jzuk@ravensoft.com
+Description: Lead Designer
+Project: SOF2
+-------------------------------------------------------------------------------
+2-25-02
+
+I just wanted to finally update this thing to let everyone know about our SoF2 contest.  
+
+Details can be found at:
+
+http://www.activision.com/games/soldieroffortune/contest/skin.html
+
+We're working hard to make SoF2 as mod-friendly as possible.  Eventually we'll release docs and tools for everything.  But skinning is fairly independent of everything else and something good to get started with.  Things in SoF2 that can be modded without any coding:
+
+Maps
+Skins
+NPCs
+Weapons
+ConfusEd entities (our custom world model system)
+Effects
+Scripts
+RMG
+MP game types
+
+There's probably more that I'm forgetting, but you can see why it will take us a bit to get docs for all of it.
+
+3-25-99 - apparently the last time I updated this thing!!
+

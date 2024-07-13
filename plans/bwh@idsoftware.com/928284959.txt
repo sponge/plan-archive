@@ -1,0 +1,46 @@
+
+Name: Brian Hook
+Email: bwh@idsoftware.com
+Description: Programmer
+Project: Quake 3 Arena
+-------------------------------------------------------------------------------
+// 
+// All personal musings on my part are available at:
+// 
+// http://www.voodooextreme.com/ask/askmenu.html
+// 
+// All GMB related e-mail sent to me at id software will be
+// deleted unread
+
+June 1, 1999 (part 2)
+---------------------
+
+June 1, 1999
+------------
+
+Ahhhh, a new month, a new beginning.
+
+Okay, about the Tom's Hardware stuff.  I'm a little burned out when it
+comes to getting in another pissing match over the stuff, so I'll just
+stick to the facts:
+
+- irrespective of legal issues pertaining to his possession of the IHVTEST,
+it is not a valid benchmark program since the code in it is radically
+different than the code used in Q3TEST.  So if you want to know how fast
+your card runs with IHVTEST, then use his numbers.  If you want to know 
+how fast your card will run with Q3TEST, use ours.
+
+- the reason we do benchmarking is because A.) we know our software, and
+are thus aware of what likely bottlenecks will exist and how to properly
+measure the contribution of those bottlenecks; B.) we have no advertising
+affiliation when we post benchmarks, and do not need advertiser revenue
+(from sources that pose a significant conflict of interest when it comes
+to objectivity) to sustain ourselves; C.) we are engineers, and we understand
+how the basic underlying principles of the scientific method work.
+
+We don't like it when other sites run benchmarks in a suspect manner, and
+in the past Tom's numbers, methodologies, and motives have all been 
+suspect.
+
+That's all I have to say on the matter, I'll let others argue the finer
+points.

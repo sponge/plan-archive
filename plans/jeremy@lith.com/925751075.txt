@@ -1,0 +1,130 @@
+
+*** Monolith Production's Finger Server
+
+User name: jeremy
+Plan modified: Mon May 03 09:50:50 1999
+
+				
+04/30/1999
+----
+Ok, it's come to my attention that some people are feeling
+that there's no support for mod authors.
+
+* Please, understand that in addition to supporting
+  mod authors, I support the engine licensees -and-
+  prospective licensees.  This eats a fair amount of
+  time.  I'm also finishing off the Linux server port.
+
+* Due to the time constraints of the above tasks, I do
+  not have the time to really track any of the forums.
+  Trying to ask about mod stuff on the FORUMS is not
+  likely to get you a quick reply, if it gets a reply
+  at all.  The mailing lists, or e-mailing me, is far
+  far more likely to get a reply.  I have said this before.
+
+* I've heard a lot of feedback that some of the external
+  tools are 'unusable' and that we don't care about the
+  mod authors at all.  If this was the case, we would not
+  have taken our new LT1.5 MAX exporter, written in-house,
+  and made an LT1.0 version for the mod authors.  
+
+If people just complain off where I can't see them, I can't
+DO anything about it.
+
+Folks, I'm here to try to help you and work with you, but if you don't ask for that help, don't complain when it doesn't materialize on its own!  And do remember that I am one human being, handling a LOT of Lithtech support stuff.  
+
+I've asked before, if people think the mod author support
+is lacking, tell me what's wrong and how you think it could
+reasonably be fixed.  No one gave me any feedback, so I
+feel somewhat frustrated to be told that people are griping
+that there's no support...
+
+I think that's the first time I've ever ranted in a .plan
+file... at least it was mild.
+
+--Loki
+------------------
+04/18/1999
+----
+Back from Mexico.  Enjoyed the trip.  (Anyone who has
+a chance, see the ruins at Uxmal.  They are unbelievable.)
+Enjoyed 104 degree heat and 3 hour drives between sites in
+a car with no air conditioning somewhat less.  Seattle
+natives don't do well in heat. ;)
+
+Anyway, I'll write up a big trip journal and post it to
+my webpage sometime later, but in the meantime, I have a
+LOT of work to dig out from under.  Bear with me for the
+next few days as I try to catch up.  If you haven't heard
+from me by next week and you have a request or something
+in, ping me again, it might have gotten lost in transit. :)
+
+Good to be back, see you all around after I dig out from
+under the Scary Pile Of E-Mail.
+
+--Loki
+------------------				
+04/05/1999
+----
+Ok, I'll admit it.  I've been bad... I haven't updated
+my .plan file since about the last ice age.  (Well,
+actually, since January, but the last ice age sounds
+more dramatic.)
+
+So, some updates.  I've done a lot more work on the Linux
+port, and hopefully I'll have more good news soon.  I've
+tried to keep the code relatively clean, but I haven't
+tried compiling it under FreeBSD or SunOS lately, so I
+can't swear I still compile perfectly under them.  I'm
+still going to try to keep the UNIX port fairly clean
+so it should compile on more than just Linux.  One
+unfortunate thing; I'm not sure that I'll be able to get
+access to a DEC Alpha box to produce AXP binaries.  I will
+do my darndest, but offering me a DEC Alpha box to access
+will probably not work well since I suspect our admin types
+might kinda freak at having the source code to Lithtech
+uploaded somewhere outside the company to be recompiled. :)
+
+Let's see, any other interesting things... well, I blew
+any chance at having an April Fool's .plan update - ah,
+well.  Probably a good thing; people tend to take April
+Fool's information way too seriously at times.
+
+In other interesting news, it's been one year now since
+Lithtech (then DirectEngine) was first released for outside
+developers to play with, and boy has it come a long way.
+Still, I kind of miss some of the early days of the old
+DE Pioneers group... anyway, Mike's been working away on
+Lithtech 2 stuff, and some of the latest stuff is REALLY
+impressive, especially the new model animation stuff.
+
+Lastly, I'm going to be out of the office from April 8th
+to April 17th.  For the first time in my two years here at
+Monolith, I'm actually going to take a significant vacation.
+My father and I are going to head down to the Yucatan 
+Peninsula in Mexico, and go visit Mayan ruins.  (Yes, one
+of my deep, dark secrets - I used to want to major in
+archaeology.)
+
+However, this means I will be totally unreachable, for
+both mod community folks -and- Lithtech licensees.  This
+is somewhat unfortunate, since it appears that the Blood 2
+source and tools will probably be released while I'm gone.
+However, I will be back and on the job after the 17th, so
+just be patient. :)  Licensees, in the meantime, should
+contact support@lithtech.com (whom they should be mailing
+anyway, instead of me directly), and Matt Saettler and
+Bryan Bouwman will field questions while I'm gone.  Anything
+non-vital can probably be saved up, anything vital, they
+should be able to field.
+
+Anyway, there.  I've updated my .plan file. :)
+
+--Loki
+------------------
+Old archives are at:
+
+http://www.users.lith.com/~jeremy/plans/
+
+
+

@@ -1,0 +1,14 @@
+GarageGames plan resource for Rick Overman
+Posted Monday June 11, 2001 at 15:52 GMT
+Use the link to see the HTML version of the plan along with any posted
+comments: http://www.garagegames.com?sec=mg&mod=resource&page=view&qid=1045
+
+It's long past time for a .plan update.  Tim and I have been prepping the V12 code for its first release for several weeks now and it looks like we are about done.  The scripts have been reworked to support our new mod'ing architecture and boiled down to their essence.  For those just getting into the V12 scripting language it will be much easier to dig in, get started and understand how this engine ticks.  Aside from the mod'ing changes and the removal of Tribes2 IP (Intellectual Property), the code has remained relatively unchanged.  It still shows signs of the shipping crunch but with the assistance of the GarageGames community it will not take long to whip it into shape.
+
+We will be sending off a build to Sierra in the next day or two so they can verify that all Tribes2 IP has been properly removed.  Then off to duplication!  We appreciate everyone's patience and look forward to continued development on the V12 with our community.
+
+I have been looking for an OpenSource/Shareware Installation program for the V12.  I would like to avoid using a commercial package and support an independent developer if possible -- that's what GarageGames is all about.  There are a few nice Java based installers but they all depend on the JDK being installed.  While I like the whole idea of a Java installer I just cannot live with the dependency that if the JDK is not installed that the installer doesn't work. :(  I have also looked at several native win32 installers including WinAmp's NSIS installer, very simple, brute force and Z-Up Maker.  If anyone has any experience with a package that they have liked, please send me an email at ricko@garagegames.com.  Thanks for you help.
+
+Rick Overman
+www.GarageGames.com
+

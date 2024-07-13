@@ -1,0 +1,160 @@
+Login: ddt            			Name: ddt
+Directory: /home2/ddt               	Shell: /usr/local/bin/bash
+On since Fri Oct 23 09:30 (CDT) on ttyp1, idle 1:27, from 207.207.50.252
+On since Fri Oct 23 10:12 (CDT) on ttyp4, idle 0:01, from 207.207.50.169
+New mail received Fri Oct 23 04:03 1998 (CDT)
+     Unread since Thu Oct 22 23:03 1998 (CDT)
+Plan:
+Fri October 23, 1998
+
+--------------------
+
+  Site crashing... need mirrors.  Help.
+
+Thu October 22, 1998
+
+--------------------
+
+  To those of you grabbing the source, you only need golgotha_src.zip
+    to get started.  Also, we goofed on the music name, it's
+    "Helsinki, Finland", not "Helsinki, Sweden".  *blush*
+
+  Okey doke.  Sending out the big press release now.  Should take a few
+    hours to get out to everyone on the mailing list.  The two-sentence
+    abreviated news is at:
+             http://www.crack.com/golgotha_release
+
+Wed October 21, 1998
+
+--------------------
+
+  Wow.  Sometimes, e-mail is just too good to keep to yourself:
+
+> Date: Wed, 21 Oct 1998 11:51:42 -0500
+> From: Chao-Hsiang Wang <seanwang-521@ou.edu>
+> Reply-To: wang7006@ou.edu
+> To: webmaster@crack.com
+> Subject: Crack
+> 
+> Can you tell me a good place where I can buy some crack? Crank will do,
+> but I really need a good hit of crack right now. Have you ever seen the
+> monkeys? They have all the crack they want. Also, do you have the
+> catalog to order some Twinkle-Twat? I am running low on my supply and my
+> crack is becoming inflamed.
+> 
+> Best crack,
+> 
+> Me
+
+
+Tue October 20, 1998
+
+--------------------
+
+  Got a friend at a game company looking for a web designer and a web
+    programmer.  Got a friend of a friend looking for a contract 3d
+    programmer.  E-mail me at ddt@crack.com if interested.
+
+  Woah there, nelly.  Do me a favor.  If you're writing about that web
+    site designer position, send me a list of URL's of sample work.
+
+Mon October 19, 1998
+
+--------------------
+
+  It's my second wedding anniversery.  Yay!  I'm still madly in love
+    with my sweetie, still just as excited about our future together,
+    and I still think I got the last good one.  Woohoo!
+
+Fri October 16, 1998
+
+--------------------
+
+  BitchX, take the Genesis 3D engine seriously.  It's cool.  It may not be
+    GPL'd, but it really is free.  Not to worry about the licensing
+    agreement.  A little bird told me that Eclipse is in excellent
+    financial health.  Think of their engine as a "loss leader".  Their
+    revenue comes in through very different avenues.
+
+Thu October 15, 1998
+
+--------------------
+
+  Can anyone get on www.chipanalyst.com?  Haven't been able to read
+    the Merced, K7, and M3 details.  I understand there are reports
+    on there?  Someday when I grow up, I'm gonna attend Microprocessor
+    Forum like a real man!
+
+Wed October 7, 1998
+
+--------------------
+
+  I recently had the privilege of doing a design review and technical
+    design review of a game in early development stages, a game that I
+    had great hopes for, a game fully backed by a strong publisher & a
+    strong development team, groomed to be a flagship product.
+
+  The design was incredibly scary, mostly on technical grounds.  It was
+    a feature list gone horribly, horribly wrong.  It was attemping to
+    compete in arenas that the company didn't even have a ticket to
+    attend as a spectator.  And despite being two inches thick, it
+    didn't have a single paragraph about how to tackle the immense
+    software engineering and asset management challenges brought on by
+    the stupendous feature list, which unchecked, would threaten to
+    create one of those famous, undead 5-year monster projects.  And
+    no mention of 99% of the actual content, for which there is an
+    elaborate technical design... created in a vacuum.  Arrrrrrgh!
+
+  As always with horribly confidential information, I can't say squat
+    about it, which is incredibly frustrating in this case, because I am
+    morally certain that I am not only alone in my analysis, but that my
+    counter-proposal is what the public actually wants.  And they're
+    going to ignore all the most important parts.  I just know it.
+    Truly, truly frustrating.  Never fall in love with a game!  Eh.
+    Maybe it'll rock.  What do I know?
+
+  Nevertheless...
+
+  Today is a day whose beauty is one of the few to approach my wedding
+    day.  It's sunny and cool and perfect, so I opened my doors to let
+    in the wonderful air.  At 4:37pm, a very large roach crawled into my
+    front door.  I was apalled.  It crawled onto my rug, so I stomped on
+    it with my boot.  Pushed down hard but didn't want to twist as I didn't
+    want roach guts on my carpet.  Lifted up, and of course it scurried off
+    in a panic, under my manilla folder labelled "Health Insurance."  I
+    didn't care so much about said folder, so I stomped on the folder, this
+    time really hard.  The rat bastard was still alive, limping a little
+    but running like crazy now.  He went under Carly's desk and paused.
+    That was my opportunity.  I lept into the kitchen like a panther, grabbed
+    a teacup, and pounced back.  My prey sat motionless hoping to escape
+    notice, but the teacup won.  Yes!  I folded up a piece of paper, slid
+    it under the teacup, and walked the trap out to our balcony where I
+    simultaneously removed the paper and arced the cup in an effort to toss
+    him out of my house.  It was one of those flying mutant roaches!  He took
+    flight halfway down and alit in a tree.  Then to my horror, I heard
+    movement in the tree and realized the bastard was preparing to fly back
+    in.  But I was mistaken.  It was a bluejay.  It was pursuing the roach.
+    The roach fell to the ground.  The bluejay followed, then snatched it
+    up and made a proper mess of it with its deadly bill.  Bluejays rock.
+    Today is simply beautiful.
+
+Wed September 30, 1998
+
+--------------------
+
+  [NOTICE] Seeking Engine Programming Laboratory contributors
+
+    I need representatives from 2D video card (or chipset)
+    manufacturers, 3D video card (or chipset) manufacturers, sound
+    card (chipset) & joystick/controller manufacturers, and CPU
+    manufacturers to attend open forums at the Engine Programming
+    Lab on November 16 in Austin.  It's a session where a bunch
+    of, well, game engine programmers are going to overwhelm you
+    with opinions and wish-lists for future features and optimizations
+    for your products.  Plz contact me ASAP at ddt@crack.com if
+    you work at one of these types of companies and would like to
+    attend.
+
+  Long time, no chat.  Sorry about that.  Got some fairly, oh, big news
+    coming up real soon, though.
+

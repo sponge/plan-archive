@@ -1,0 +1,153 @@
+
+*** Monolith Production's Finger Server
+
+User name: dussault
+Plan modified: Tue Apr 20 10:47:58 1999
+
+				4/19/99
+
+Lithtech2 development is proceeding far faster than I 
+expected.  At this point, it's like night and day compared 
+to where it was a few months ago.  Cool features are 
+getting added every day.  What's cool is that the R&D will 
+continue for at least the next few months.
+
+It's interesting to see the Lithtech API evolve over time.  
+We've experimented with so many styles and ways of 
+structuring things that the API has looked very different 
+at different times.  As it moves on, I can see it steering 
+a course between speed, complexity, usability, and 
+consistency.
+
+Our Lithtech2 E3 demo is looking AWESOME.  It's very 
+outdoors-ish.  It's already looking much better than I had 
+envisioned.  While not "2 years before its chosen time", 
+this demo will pump fear.
+
+I'm psyched to see 3rd Law's (Bloodshot's) game at E3.  
+From what I've seen so far, it's looking great.  It has 
+been great working with these guys, it's obvious they have 
+a lot of experience and know their shit.  Their game will 
+kick ass so keep an eye on it.
+
+A few of the new developments...
+
+Skeletal animation is working great so far.  Each model can 
+now have multiple textures assigned to it as well.  M.A. is 
+pimping out models with shared animation sets.
+
+Support for 32-bit textures and screen surfaces has been in 
+for a while.  I'm very happy with the way it's structured.. 
+all the color conversion code was strewn out before but now 
+it is cenralized, clean, and simple.  It's definitely 
+better to be using 32-bit textures and a 16-bit screen than 
+16-bit textures and a 32-bit screen.
+
+The TNT2 owns me.  It's very interesting to be working in 
+this paradigm where the card isn't the bottleneck anymore.  
+The bottleneck is much more on the processor and data 
+structure side.  The biggest overall change in Lithtech2 
+will be to support the kind of rich environment that we can 
+now render in the networking, tools, and physics.
+
+We have a SoftImage terrain exporter now.  This is a huge 
+leap over the previous way we made terrains.  It's much 
+faster and easier to texture and manipulate the terrains in 
+Soft.  
+
+There are some new tricks the preprocessor does to optimize 
+the terrains.  It can sometimes strip out 65% of the polies 
+on the terrain with no noticeable difference.
+
+Detail textures really enhance the look of our terrain.  It 
+really makes the texture on the terrain look larger and 
+more detailed.  The goods...
+
+The model lighting is much more accurate now.  Models can 
+be lit accurately from lights placed in the environment, so 
+you can get nice subtle bits of light all over them.
+
+We're playing around with different blending modes that 
+work well for things like the sun and clouds passing 
+overhead.  I'll describe this better later.
+
+We've got some cool time of day effects going in.  The 
+entire world gets lit directionally as the sun passes 
+over.  Model lighting and shadows tilt around as the sun 
+moves.  The entire terrain gets lit as well.
+
+There's a new type of object called a Canvas that allows 
+the game to render polies directly.  
+
+This allows for some cool effects like lightning, fire, 
+glass shattering, etc..
+
+Pultzar hasn't been messing around at all.  DEdit is 
+getting friendlier and friendlier all the time.  The node 
+names in the node view can be set to show the class name or 
+object name.  You can mirror brushes.  There are sphere and dome primitives.  There are browse dialogs for filenames, 
+etc..
+
+Bouwman's been working on improving the visible surface 
+determination for Sanity.  There have been major speed 
+improvements on that game already and he's not even done 
+yet.
+
+Countdown to Mule Variations: 8 days
+
+
+
+
+				
+3/13/99
+
+Just finishing up the implementation of skeletal animation 
+for Lithtech 2. This will REALLY help our games have more 
+models with better animation. There are several key 
+advantages of skeletal animation we'll be using extensively
+in our LT2 game:
+                     
+Shared animation sets - Models with the same skeleton can 
+share animation sets.  This will save the animators TONS of 
+time in exporting and tweaking animations.  This also 
+allows us to change the geometry of the character very 
+easily without changing the animation. 
+                                        
+Memory savings - Skeletal animation itself cuts the memory 
+requirements of model animation down by a factor of 2-3.  
+Using shared animation sets should halve it again.  
+Basically, animation memory will NOT be a problem!
+
+Rotatable nodes at runtime - This will allow us to move 
+character heads, eyes, limbs, and mouths independent of the 
+animation they're playing.  One thing we might experiment 
+with is a 'ragdoll' mode a model can be put into where 
+their bones use realistic physics without any specific 
+animation being played for infinite variety in the 
+character deaths and recoils.
+                                                            
+The attachment system is being reworked to allow MUCH more 
+flexibility. Attachments points on models used to be 
+geometry nodes in the model.  This took up lots of memory 
+for the extra animation data.  Now, the 'sockets' will 
+simply be a position and rotation offset from a bone in the 
+model.  This means we can have MANY more attachment points 
+for free and they can be repositioned inside ModelEdit very 
+easily.
+
+Other than that, LT2 is proceeding very nicely.  There are 
+new optimizations in the preprocessor that help reduce the 
+final poly count a LOT.
+
+Pultzar is on DEdit now - the new DEdit is kicking butt.
+
+We now have model exporters for these modeling packages: 
+SoftImage, 3DSMAX, Lightwave, and Maya.   
+
+The next few months are going to be heavy graphics R&D.  
+I'll describe the specifics of the features we're doing 
+later (doing want to speak too soon :).
+
+
+				
+

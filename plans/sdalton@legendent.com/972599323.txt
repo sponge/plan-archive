@@ -1,0 +1,585 @@
+Current Project : Unreal 2
+
+"Something kind of sad about the way that things have come to be...
+Desensitized to everything... what's become of subtlety?" - Tool
+
+10-20-2000 2:31 PM
+---
+
+Seanbaby - I love you.
+
+<a href="http://www.seanbaby.com/news/nike.htm">http://www.seanbaby.com/news/nike.htm</a>
+
+
+9-24-2000 3:03 AM
+---
+
+Well, I've seen it reported incorrectly on three sites now, so I figured I should post a note.  
+
+Chris Hargrove is not working in North Carolina at Epic.  He's actually here at Legend Entertainment in Virginia.
+
+Yes, he's working away with us on Unreal 2.  He's originally from this area, and we've been working with him on and off since he came back in August, although he officially began at the beginning of this month.  
+
+He's fitting right into the team here, and has been able to jump right into working on the project full speed.  And we've got a fresh fighter in our Soul Calibur ritual. :)
+
+I guess this has turned into a "Welcome to the Team, Chris!" .plan update, but anyway, those are the facts. 
+
+I finished ChronoCross this afternoon...  
+
+Back to work I suppose.   Speaking of work - I'm working to finish up some levels for testing and use with some various gameplay programming stuff.  I'll be working with Mark get it all going, now that he's finished up all his Unreal Gold work and fully back onto Unreal 2 stuff.  I'd go into more detail if I could, but that'd be a no-no.  A new Legend website should be going up pretty soon though - perhaps there will be something to wet some appetites.  Geoff, our one off-site LD is coming in next week so that we have a chance to meet him in person.  
+
+As long as I've got a convenient segue to travel, I'd might as well mention I'm heading to Japan for a little bit of down time in a few weeks.  Its been several years since I came back, so I'm looking forward to visiting again.  I'll be heading to Osaka and Kobe this time around.  While I've visited places all around Honshu, I haven't been to either of these cities before - it should be an adventure.
+
+
+9-22-2000 1:01 PM
+---
+
+The brutal truth comes out!
+
+
+
+<a href="http://www.gamespy.com/asp/image.asp?/articles/september00/cmps2ut/WarrenMarshall.jpg">we see Warren, sitting at his desk, hard at work...   don't we?</a>
+
+
+<a href="http://www.legendent.com/~sdalton/images/Warren2.jpg">Now for the harsh reality.</a>
+
+
+Warren has been thrown down the stairs once too many, and his killer has craftily replaced him.  My ninja-spy network has captured the truth on film, but how long will it take to bring his killer to justice?
+
+
+
+8-29-2000 11:42 AM
+---
+
+I'm really excited about DirectX 8's new features - in particular, DirectCrate - check out this info :
+
+About DirectCrate
+DirectCrate® is the component of the DirectX® application programming interface (API) that allows you to directly manipulate storage containers, the hardware crate acceleration, and extended ExplodoCrate® support. DirectCrate provides this functionality while maintaining compatibility with existing Microsoft® Windows®-based applications and device drivers.
+DirectCrate® is a software interface that provides direct access to storage devices while maintaining compatibility with the Windows storage device interface (SDI). It is not a high-level application programming interface (API) for graphics. DirectCrate provides a device-independent way for games and Windows subsystem software, such as three-dimensional (3-D) graphics packages to gain access to the features of storage containers.
+DirectCrate® works with a wide variety of display hardware, ranging from simple SVGA monitors to advanced hardware implementations that provide hardware P&B (pushing and breaking), advanced fragment effects, multi-object dispense iteration, and recursive storage support (crates withing crates). The interface is designed so that your applications can enumerate the capabilities of the underlying hardware and then use any supported hardware-accelerated features, such as CrateStacker®, CrateClimber®, or CrateJumper® technologies. Features that are not implemented in hardware are emulated by DirectX.
+DirectCrate® provides device-dependent access to cubic-crates, oblong-crates, barrels (horizontal or vertical), exploding crates, sludge barrels, and even cybercrates in a device-independent way. Essentially, DirectCrate® manages storage containers. Your application need only recognize some basic device dependencies that are standard across hardware implementations, such as Crate and Barrel storage formats. You need not call specific procedures to use the storage or manipulate registers to move them. Using DirectCrate®, you can manipulate storage containers with ease, taking full advantage of the pushing and stacking decompression capabilities of different types of display hardware without becoming dependent on a particular piece of hardware.
+DirectCrate® provides excellent game crates on computers running Windows 95 and later and Windows NT® version 4.0 or Windows 2000.
+Built on Monday, August 28, 2000
+
+
+8-16-00 9:02 PM
+---
+
+Okay, I'm game...  I saw the 5 Cube Contest up (Check CliffyB's .plan as well) - so I went ahead and whipped something up really fast.
+
+Its pretty fun to work under that kind of constraint, and definately makes for some creative use of brushes.
+
+check out http://www.planetunreal.com/teamvortex/5cubes/ for more info (Mine's DM-5Cubes-DrRig.unr)
+
+Been playing the hell out of Card Fighters Clash for the NeoGeo Pocket Color recently, its really too bad that SNK has pulled out of the games biz.  I'll always hold a special place in my heart for them.  Still, I hope the migration of their people to Capcom means we'll see their talents reflected in future Capcom games.
+
+I also grabbed Chrono Cross today, I can't wait to jump into that... 
+
+"That which does not kill you postpones the inevitable."
+
+
+7-13-00 1:20 PM
+---
+
+Ahh...  gloating over someone admitting that they were wrong and you were right...  how good it feels...  After poking him in the arm some 2948 times a day for  several weeks saying "go get Deus Ex, its really fun" Grant finally succumbed and realized what a great game it is.  I guess I hadn't mentioned it in my .plan previously but this is the best game I've played since system shock 2.  Everyone should go buy it and play it.  Right now.  Everyone on that team deserves a big cookie - way to go guys!  
+
+
+5-3-00 8:30 PM
+---
+
+We just had some great games of CTF vs Epic.  Some big-ol' 8 on 8 matches, it was a blast. A couple weeks back we played a bunch of the Anachronox Ion Storm guys.  Just wanted to send thanks out to all the guys at Epic and Ion for the matches, everyone had lots of fun.  We're definately going to have to do it again after E3 madness is behind us.   
+
+We don't usually get together and all play as a team here, so its really cool to be able to go hang out and chat with the rest of the team after the games over - something I'd been missing from the old i9 days. :)
+
+time to get up and go to work.
+
+"The two most important tools an architect has are the eraser in the drawing room and the sledge hammer on the construction site." -- Frank Lloyd Wright
+
+3-3-00 3:10 AM
+----
+
+     I woke the same as any other day
+     Except a voice was in my head
+     It said seize the day, pull the trigger
+     Drop the blade, and watch the rolling heads
+
+     The day I tried to live
+     I stole a thousand beggar's change
+     And gave it to the rich
+
+     The day I tried to win
+     I dangled from the power lines
+     And let the martyrs stretch
+     Singing
+
+     One more time around might do it
+     One more time around might make it
+     One more time around might do it
+     One more time around
+     The day I tried to live
+
+     Words you say never seem
+     To live up to the ones inside your head
+     The lives we make never seem
+     To ever get us anywhere but dead
+
+     The day I tried to live
+     I wallowed in the blood and mud with
+     All the other pigs
+
+     I woke the same as any other day you know
+     I should have stayed in bed
+
+     The day I tried to win
+     I wallowed in the blood and mud with
+     All the other pigs
+
+     And I learned that I was a liar
+     Just like you
+
+
+
+-- soundgarden - the day i tried to live
+
+2-25-00 4:17 PM
+---
+
+As of late I've been working on level design documents, level prototypes, ambient creature concepts, and various other goodies.  I'd tell more, but I don't want to give anything away about the story or gameplay, especially not at this early date...  My efforts in these areas have been hampered recently (although hampered in a welcomed good way) by my girlfriend Masako coming to the US again from Japan.  She's just found the wonders of Soul Calibur, and her Seung Mina is quickly becoming a force to be reckoned with.  
+
+Ahh, and here we have a shot from the soon to be released U2Ed.  Warren Marshall (LD here at Legend and also a programmer when he's feelin' randy) has been totally overhauling the old UnrealEd.  U2Ed is 100% C++ and has all sorts of added goodies over the already formidable UnrealEd.  We've taken our favorite features from a variety of different editors and combined them into one.
+
+In this shot you can see the blue clipmarkers creating the red 3-point brush clipping plane, a very useful feature similar to intersection but easier and more versatile for quick clipping jobs.  Also, check out the surface properties dialog - one of my favorite new little convenience features is the ability to quickly scale selected surface textures by a relative amount, as in this case they'll be scaled down 95% of whatever they were.  This is my work setup, my home setup (where my monitor res is much higher) has the windows in a different layout to better take advantage of the additional space.
+
+Just for anyone who's wondering how I edit with just 2 windows, I've got a couple of keys bound to change 2d view and change 3d view, which cycle through those views in the current viewport (a lot like qe4 style)...  I suppose we'll probably include an .ini with our various helpful hotkeys for those who are interested (center viewports on select actor, transform permanently, reset scale/rot, clipping, mode switching, etc. etc.) with the upcoming editor release, as we all use keyboard shortcuts religiously. 
+
+<a href="http://www.legendent.com/~sdalton/images/U2Ed_02.jpg"><img src="http://www.legendent.com/~sdalton/images/u2ed_02sm.jpg" border="0"></a>
+- click on the thumbnail for a full-sized image
+
+Did I mention that I'm still bummed about the mutant apocalypse and my subsequent rise to power in the post-millenium wasteland not really panning out?  Now some say that theres still a chance as the "millenium" really doesn't start until jan 1, 2001, but the y2k thing was a real let down.  I frankly have little faith that any religious rapture-like millenium event will result in a lot of muties running around eating brains, nor my resultant shotgun executions of these foul beasts...  I guess that means either finding a way to exaust all fossil fuels or begin some sort of nuclear or biological holocaust...  bummer.
+
+12-20-99 2:13 AM
+---
+
+Well, we're getting awfully close to that great day when 92.3% of the human population will be instantly converted into leather-clad muties for the post-apocalyptic wasteland in which the rest of us will have to habitate with only our lead pipes, shotguns, and can openers to keep us alive.  I personally welcome the day, as while I've never fired a gun in real life, the great Col. Grossman assures me that my years of heavy practice in "Murder Simulators" will ensure that I'm the Mad Max of tomorrow.  Lucky for me, as well, that I've spent my entire life feeding off of wholy unnatural foods and conditioned my body to be readily acceptant of the super-processed, overly preserved, and completely devoid of nutritional value foodstuffs that will doubtless be the only things to survive the apocalypse.  So prepare yourself, future muties, 'cause my brains aren't about ready to be a light afternoon snack to you bastards.  I'll be waiting, can of EZ-CheeZ in one hand, shotgun in the other, to circle-strafe dispatch you lumbering mutated gimps like so many Doom imps.  Bring on the millenium!
+
+"Some say the end is near
+some say we'll see armageddon soon
+I certainly hope we will
+I sure could use a vacation from this bullshit."
+-- Tool Aenima
+
+11-12-99 4:51 PM
+---
+
+Gotta run soon (gonna go visit my ol' buddy P-Chan, and his SO Jennifer in NYC this weekend), so this is gonna be short.  I wrote up <a href="http://www.legendent.com/~sdalton/WoTParticle.htm">a little primer on Particle Systems.</a>  Particle Systems are used on just about all of the effects in WoT, from ter'angreal, to blood, to fountains, torches, splashes, etc.  These guys were extra versatile and powerful, and we just scratched the surface (Although we've got a list of major improvements we're considering for Unreal 2).  In anycase, these allowed the LDs to create some great effects in the levels, and they're quite versatile, so <a href="http://www.legendent.com/~sdalton/WoTParticle.htm">this doc</a> should help to get you started.  There's still a lot more to be covered here, so I might write up something about how we created various effects, but this should get you enough to be able to experiment.  For the next installment, I'll probably write up something on ActorRotators and their various uses (we often used them in conjunction with particle sprayers for effects).  Well, gotta run...  BTW - sorry there's like no real HTML in this doc, like I said, I just wrote it up really quick, so I'll actually hypertext and link it and stuff when I've got a bit more time.
+
+ 
+
+10-27-99 10:34 AM
+---
+
+With WoT out the door, I've had some time to play some games!  So I dusted off Homeworld (that, as well as FF8 have been sitting unopened for many weeks), and gave it a spin.  Its freakin' great.  Bringing a true 3D aspect to the RTS genre is very cool, and the battles look like something drawn straight out of Robotech anime (hundreds of ships ranging from tiny fighters to gargantuan cruisers all fighting it out in these huge swarms - ion beams and contrails going everywhere - its really visually impressive).  I highly recommend it.
+
+The mouse control in the 3d interface is very similar to UnrealEd.  So much so, in fact, that after a long session of playing it and then jumping right into UnrealEd, I found myself hitting the spacebar in hopes of going to an overall map view.  I may have to rebind my align camera to actor function in unrealed to middle mouse button, so it'll more closely follow the near identical focus command in Homeworld. :) 
+
+
+WoT multiplayer tip - Never underestimate the power of Air Shield.  Not only can it protect you from being harassed by some whirlwind user, it also protects not only against darts but seekers as well.
+
+Another WoT multiplayer tip - When reflecting seeking projectiles - one strategy is to avoid these as long as humanly possible, the longer you stall, the faster they'll go.  The trick here is to get them going so fast that your opponent has no time to react once he realizes whats coming after him.
+
+9-15-99 3:33 PM
+---
+
+WoT isn't, nor ever was, an RPG.  As such, we've never ever ever said it was an RPG.  Wackily enough, since the earliest days of development such notions have also been dismissed in the readily available FAQ at http://www.wheeloftime.com/faq/main.html.  If you're still not satisfied, you might try hitting yourself in the head with a ballpene hammer until you are either a> satisfied, b> unconcious and bleeding profusely, or c> all of the above.
+
+Thank you, drive through.
+
+
+8-27-99 5:16 PM
+---
+
+I was checking out our CNET preview last week and saw that they had up a really crusty old editor shot (the only one we've released I think)...  I took some a couple a few months back, so I scrounged around on my HD and dug them up.
+
+This shot is rather huge (I have a mission to make myself go blind - if you can read the text, its too big).  I decided to sacrifice a bit of image quality 'cause I didn't think anyone would wanna spend an hour getting the .bmp, so its in .jpg format. - click on the thumbnail for a full-sized image
+
+<a href="http://www.legendent.com/~sdalton/images/editor.jpg"><img src="http://www.legendent.com/~sdalton/images/editorsm.jpg" border="0"></a>
+
+This is a shot from Mission 5, with an above view in the 2d window...  The apples you see in 3d view are highly tasty, which is what keeps our monsters roaming about the levels.  
+
+(Yes, I actually do run at this res on my home machine...  The wonders of a v3 and a viewsonic P817, highly recommended if you've got some sort of resolution fetish...)
+
+Uh...  yeah, aren't editor shots neat?  
+
+
+they're sorta like an ingame shot...  
+
+
+but different...  
+
+
+
+and stuff... 
+
+
+uh...
+
+
+
+well...
+
+
+
+
+
+GO AWAY ALREADY! 
+
+
+8-12-99 10:36 AM
+---
+[AWESOME JOB OPPORTUNITY]
+
+Look no further. A once-in-a-lifetime opportunity for someone
+'out there' (and we mean waaay out there)to join the Yeti Scalp 
+Hunter team, one of the most talented development teams in the 
+entire industry.  Hell, we're one of the most talented teams of 
+anything in the entire freakin' universe.  We'll take you on a 
+basketball, or nuclear science, or synchronized swimming, 
+and we'll kick your freakin' ass!
+
+Yeti's been under cover for a while, but expect wild and amazing
+things when we start showing the game to the world. People
+that have seen a demo of this game shake their heads in disbelief, 
+disgust, and confusion, often resulting in drool on our carpet, and they 
+jabber things like, "Weirdest freakin' thing I've ever seen," and "What
+kinda drugs are you wacko's on?"
+
+WHO ARE WE LOOKING FOR?
+
+We're looking to add a 3rd programmer to the team to help
+little Ricky and ANNIHILATOR[G45] with the workload. This will 
+be a variety packed position, and we'll discuss the exact tasks to be
+done during the interview. We'll be updating the "Get Hired" section 
+on our web site as soon as we get a web site, but for now, here are 
+the relevant details, in order of preference.
+
+MAJOR REQUIREMENTS (In order or preference)
+
+* Professional experience with the LOGO engine preferred. If you 
+are working on an LOGO engine game now, and you've figured out how 
+to get that little turtle bastard to draw a bezier patch, contact us. I bet we 
+can work something out. You'd be surprised how flexible we are, I for one
+can do the splits across two chairs and kick a quarter out of mid-air a full 
+two feet above my head.  Even if you've never touched or smelled a real
+Yeti Scalp before and when you think about it you feel all funny inside
+and kinda tingly in your naughty bits, you owe it to yourself to 
+consider exploring these parts of your psyche and delving into your dark side. 
+After all, what could look better on your  resume than Yeti Scalp Hunter, 
+a sure blockbuster and easily one of the most anticipated games of all time.
+
+* Professional experience on a major 2D engine, or having
+worked with a turtle before (zoo experience or even a pet box turtle experience
+considered). 
+
+* User Community experience, working on grumpy moods for Yurtle, RickyFighter, 
+Mario Bros.,or other major games. The grumpier the mood,  the better. If you're 
+the new up and comer, give us a shout.
+
+BASIC REQUIREMENTS
+
+* Knowledge of COBOL, Win 3.1, 2D programming, and a hackish 
+immature coding style required.  
+
+* Sasquatch Experience.  Must have basic casts of footprints, blurry
+8mm footage, and excrement samples.
+
+* Must be 18 years old, US citizen, and willing to relocate to 
+a forest. Also must be willing to use leaves for toilet paper.
+
+
+BENEFITS
+
+* First and foremost you share in the profits generated from the
+game. We expect to sell copies to all of our family and friends. You 
+get this in addition to a salary (minimum wage). And with Yeti Scalp 
+Hunter(tm), you can reasonably expect this game to get finished.
+Some day....
+
+* Signing bonus available for anyone with professional 2D game 
+experience (bonus based on experience, turtle handling and
+sexual favors).
+
+* Full medical / dental insurance for the turtle, wouldn't want our
+little drawin' buddy to get sickly.
+
+* Accidental Death and Dismemberment.  Our workstations are perched
+perilously below large threshing machines that seem to come on at random.
+
+* No publisher. Your only pressure comes from 
+working with a highly depraved team of people that demand
+you drink your own urine. We don't have to worry about publishers 
+telling us when to ship, what to ship, or dangling milestone checks over 
+our heads.  This is very different than with most developers.
+
+* Access to a somewhat stocked NORMAL SIZED refrigerator and 
+freezer with mass amounts of asundry goodies (cokes, mtn. dew, diet 
+dr. pepper, an old hi-c juice box, a mostly empty jar of mustard, some 
+reddi-wip(tm) dairy desert topping, somebody's tupperware container 
+that we're all too scared to open, a ketchup packet no doubt plundered 
+from a nearby fast food resturant, a Del Monte Peach Cup(tm), an almost 
+exploded bulged out coke can, some seltzer water from when Steve was here, 
+some Hot-n-Spicy Salsa, and a tub of Whipped and Salted Butter!)
+Our man Joe Regan brings us all this and more (coffee!) once a month 
+and we stock up!  And of course, it's all FREE!
+
+CONTACT
+
+E-mail me at "AbSnowman@yetiscalphunter.com". We will sort through
+the interested people and go from there. Include relevant info 
+in the email like:
+
+* Current sitting position and projects you'd like to work on if you had a job.
+* Salary requested (so we can laugh at it)
+* What's the first 5 games you played?  Why?
+* Tell us about yourself as a General.  Like if you were Napolean, what 
+nations would you conquer first?  Would you invent a time machine so you
+could travel through time to defeat your most dire enemies?  Why or why not?
+
+Don't let this opportunity pass you buy. And don't let YSH go 
+out and sell a bajillionzillioncajillionmillion copies without you sharing in the 
+revenue and having your name on it, in big golden shiny letters right at the top of
+the box. You'll kick yourself forever, or until you get a really bad bruise and
+decide its best to stop, for passing that up.
+
+Someone will get this job soon, other people will eat a pastrami sandwhich soon,
+while yet others decide that they need to go and get some WD-40 and fix that
+squeeky place on the garage door. Which will you be?
+
+
+7-15-99 3:51 PM
+---
+
+Got the new Mr. Bungle album, California, last night.  This album totally kicks ass.  As is Mr. Bungle's way, this album bears almost no resemblance to anything they've done in the past.  
+
+There are a lot more "softer" sounding songs with melodies and such.  Overall it seems to be the most coherent thing they've done to date.  Initially this set me back a little, the songs almost sounded normal.  Yet they're classic Bungle, "Auditory Art" as one of my friends calls it.  The songs are interesting and the more you listen to them the more their complexities come through.  After some dozen loops through the CD last night, my favorite song on the album had changed as many times.
+
+Mr. Bungle is definately one of those bands you either totally love or utterly detest.  Most people I know had to be strapped to a table with their first album on loop until something snapped and they found the light.  Not mainstream music by any means, but for any Bungle fans out there, pick this album up and listen to it a few times through, its a winner.
+
+
+
+
+5-27-99	8:46 AM
+---
+I've got a few minutes during this rebuild, so I guess I'll get in an update...
+
+everyone else on the planet has done their e3 musings, so I won't bore anyone with another one.  Nice to see a lot of old friends and acquaintances at e3...
+I got my hair cut (it had been about 12 years or so since my last one) just prior to e3, consequently many of my old friends who had never known me with short hair were pretty suprised...  
+Rather than losing my laid back hippy demeanor, I chose to think of it as gaining a cleancut corporate sellout demeanor.  I guess that's just my eternal optimism shining through.
+
+On a side note Jess Crable has reached a state of near breakdown due to his obsessive fascination with Jar Jar Binks.  Besides coating his office with jar jar plush toys, collectors cards, action figures, posters, mugs, and the like he has a Jar Jar cap with attached ear flaps, and Jar Jar pajamas (the single piece kind with built in sock-feet) that he wears to work every day.  He's constantly listening to Jar Jar sound clips so he can better emulate his voice, and its become somewhat difficult to understand what he's saying, besides the incessant "exsqueeze me?"  We're considering getting him professional help because, while it was funny at first, it has begun to interfere with his work.  And when we're having a developers lunch and he tries to steal someones food with his tongue...  its just... well...  disturbing.
+
+New Fugazi album out (I believe its live/b-sides type stuff... I've ordered it, but it hasn't arrived yet).  Also ordered fantomas (a "weird music" group consisting of Mike Patton, Trevor Dunn, Dave Lombardo, Buzz Osborne of FNM, Mr. Bungle, Slayer, and Melvins respectively...) - each song on the album is a musical rendition of each page in a comic book.  Recently while i work i've been listening to some Rammstein Matt loaned me, NakedCity - Radio (Jazz-punk music), and FNM Album of the Year...
+
+Well, um... yeah...  another pointless .plan update...  nothing to see here, move along...
+
+
+4-23-99 1:21 PM
+---
+Well, I really wanted to avoid posting anything relating to this, but what I read on salon.com seemed appropriate, so here are a few thoughts of my own in addition to the link...
+
+
+http://www.salon.com/media/col/poni/1999/04/22/kneejerk_mafia/index.html
+
+has anyone considered the fact that these kids (as evidenced by what survivors have said in interviews) were outcasts that were ostracized, made fun of, and socially abused by their classmates as the reasons behind their horrible acts?
+Does that in any way excuse or shift blame away from these two?  No...  I think its a sad thing that people seem to no longer accept personal responsibility for anything...  Something else always made me do it or caused it to happen.  
+But what's a more likely motivator to go on a rampant killing spree at your school?  That you were picked on and made fun of by your classmates, or web pages and computer games made you evil?  
+
+reminds me of jeremy by pearljam
+
+Obviously no one thing can ultimately drive someone to this sort of horrible act, and the playing of violent games, as well as violence in other medias, doubtless served to desensitize these two.
+However, the mere suggestion that these two could be so mentally weak in will and the ability to distinguish between fantasy and reality that by playing a game they would just arbitrarily decide to act out such carnage in real life for no other reason is insulting to me as a fellow human.
+
+
+On a related note - as long as we're grasping at random straws for what causes shooting sprees, why hasn't the government put warning labels on all mail and postal packages, as they're likely the cause of the rash of post-office shootings a few years back.  Not to mention McDonalds food, as evidenced by the strings of shooting-suicides a few years before that.
+
+
+/
+At home, drawing pictures of mountain tops with him on top
+Lemon yellow sun, arms raised in a V
+And the dead lay in pools of maroon below
+
+Daddy didn't give attention
+Oh, to the fact that mommy didn't care
+King Jeremy the wicked...oh, ruled his world
+Jeremy spoke in class today
+
+Clearly I remember pickin' on the boy
+Seemed a harmless little fuck
+Ooh, but we unleashed a lion
+Gnashed his teeth and bit the recess lady's breast
+How can I forget?
+
+And he hit me with a surprise left
+My jaw left hurtin' - dropped wide open
+Just like the day...oh, like the day I heard
+
+Daddy didn't give affection, no
+And the boy was something that mommy wouldn't wear
+King Jeremy the wicked...oh, ruled his world
+Jeremy spoke in class today
+
+Try to forget this...
+Try to erase this...
+From the blackboard
+/ "Jeremy" - Pearljam
+
+
+4-13-99 1:16 AM
+---
+
+hi
+
+yay.  new mr. bungle album this summer.
+
+hmmm, i wish i could give some fun secrets into the game, but i actually don't like spilling beans before they're fully cooked and ready to be savored in their entirety.
+
+I'm looking forward to trying out the new lightning behavior...  
+
+Got some new books recently...  Several new architecture books including a great 1700 page monster on the history of architecture, as well as Goedel, Escher, Bach - a great book about all sorts of stuff.  Haven't had much time to get far into any of them, but thats what caffeine was invented for.
+
+If people are good only because they fear punishment, and hope for reward, then we are a sorry lot indeed. -- Albert Einstein
+
+
+2-12-99 11:15 AM
+---
+
+Been ages since my last update...  Mainly because I've been directing all of my energies towards getting this game done, as a result of which my brain has shriveled into a .planless peanutty mass with chewy caramel and an outer coating of sweet milk chocolate.
+
+Don't worry, this installment will be every bit as worthless as all of the rest.
+
+The game is really coming together, a big thanks to everyone on the team who is working endless hours to get it going.  Nothing much else to say really, I basically felt like I'd neglected this poor little text file too long and had to give it a little lovin.
+
+The new office game since screwloose became too boring (we had to find something more Xtr33m) is called "Chloroform my coworker and throw him from the roof of the building ablaze."  Its pretty fun, and has given us endless inspiration for in game fun.  If we're feeling particularly frisky, we "SLAM" some Dew (tm) and make some games.  Some have debated the xtr33mliness of such competing drinks as Surge, Kick, Nitro, and Crackcocaine, but don't fall for these Fighting-in-the-rain-at-the-bottom-of-a-mud-pit-to-reach-that-ultra-mega-uberly-rewarding-lone-can-of-super-xtr33m-soda posers.  Choose the drink of snowboarding bungeejumpers, choose mountain dew (tm).  
+
+Since my last update we have a couple new LD's, Matt and Dave.  They're both from some excellent backgrounds and are contributing a lot to Legend.  They're slaving away at the Unreal Mission pack currently...  Look for it soon.
+
+
+11-24-98 1:04 AM
+---
+
+Half Life + Zelda 64 + Thanksgiving = 0 nightime productivity.
+
+CURSE YOU!
+
+11-20-98 2:28 PM
+---
+
+Half Life is one damn amazing game.  I've been waiting for this game for quite some time now (seeing it at e3's past has been tormenting me), and it managed to live up to everything I was expecting from it.  Definately a must have for any action gamer.  I could go on and on about everything that this game does right, but that's what review sites are for.  Just wanted to send out congratulations and especially thanks to Valve for making such a kick ass game.
+
+On the home front, I want to send out more congratulations to another team here at Legend.  They just finished up the Blackstone Chronicles, an old-school adventure game based on novels by John Saul.  Its creepy and moody as I understand the books are (haven't read them myself), and has some beautiful visuals (in a dark, morbid sort of way).  Its just reaching stores now, and receiving rave reviews.  After having my next door neighbor Duane testing out the foreign language versions for the past couple weeks, I feel I have a good command of the German and French languages, well at least as far as the essential subjects of torture and madness are concerned.  Congrats guys!
+
+11-8-98 12:49 am
+---
+
+Making games is a lot like being in a cult.  There are the long days without sleep bowing before the glowing one who delivers all knowledge, slaving away at your work towards the ultimate end.  Family, friends, and all trappings of your former life must be left behind, for this holy quest is something on which they cannot accompany you.  With your new family, you must become one with your mission, for it is all that can save you from damnnation.  You must wear special shoes, drink the blood of goats, stockpile automatic firearms, and work towards each milestone as if it were the last in preparation for the day of reckoning.  The ritual castration is optional, but I hear its growing in popularity amongst developers, libido can be horrible distraction.  We have much work that must be accomplished on this worldly plane before we are complete, but rest assured, the heavily armed ATF agents will have to drag our burned corpses from our workstations before we give up our path to the golden land.
+
+10-28-98 12:43 am
+---
+
+Finally got ahold of Metal Gear Solid US last weekend.  I didn't get a chance to play it until about 1 am Sunday night for a little bit, so I didn't get much further than the demo I'd played before...  Still its as great as I expected it to be, and having it in easy to digest English is pretty good.  
+
+Todays stuff:
+
+* Spend most of the day doing Whitecloak optimization, tuning, and organization
+* Also spent some time working on and planning several citadels
+* Skipped breakfast/lunch today and substituted large amounts of high sugar coffee
+* Finally getting an ISP and the first new modem I've had since my 14.4 about 6 years ago.  (cable and ISDN don't count :)
+* Discussed stuff with Jim on trap optimization
+* Did a bit of angreal testing with Aaron/Jim's new code
+* Discussed a few new ideas for citadel editor enhancements with Mark
+* Got the ps2rate.exe mouse speed accelerator.  It not only makes games input smoother, but helps me out quite a bit in my eye-destroying 1600x1280 resolution...  those little vertices and lines can be hard to pinpoint when your mouse is sampling slow.
+* Listened to : NIN Broken, NIN PHM, PJ Harvey, Pixies at the BBC
+
+Mark's been putting in all sorts of great new stuff in which is going to help us out (both editor and engine changes)...  I await the next build of goodies.
+
+
+10-22-98 10:07 pm
+---
+
+I heartily suggest checking out the serpentine mod.  James, Warren and I had a blast trying this out on some won.net servers tonight, and spanked some people down.  Its very different from standard unreal DM, the weapons are all pretty cool.  Nice jobs guys...
+
+The more I get from our texture art team, the more impressed I am.  I really feel lucky to be able to work with this caliber of artists, and I think when people see this game in action they will really see what I mean.  
+
+This week I've been working on optimizations for the whitecloak areas, and creating some new stuff there as well.  James has been cooking up some really cool stuff on his latest SP map, its got a lot of cool atmosphere.  
+
+After a long hiatus I talked to my good old friend P-Chan the other night.  It was good to hear from him after his months of solitary exile in the wild west frontier lands of california.  
+
+That's all for now, I've gotta get some more work done before the night is through.
+
+
+10-06-98 9:33 pm
+---
+
+There's a favorite line thread up on the WoT Message board, I figured I'd contribute mine...
+
+
+"The mountain can grow awfully heavy sometimes.  When do you find a chance to put it down awhile?"
+
+"When you die," Lan said simply.
+
+10-04-98 1:49 pm
+---
+
+check out : http://www.planetquake.com/editorials/ads1.shtm
+
+Is it just me, or is this guy on crack?  First off - the product hasn't been released, so who is to say what will be in it until you actually see it?  Moreover, id created this genre.  Until you played wolf 3d, there was no such thing as a "traditional" singleplayer (or until doom, a multiplayer) game.  If it doesn't fit the traditional mold they created that doesn't mean its any less valid.  Has every fighting game in history lied to us because they said their games offered single and multiplay?  Man, all this time when I was playing Streetfighter 2 against the computer, I was being lied to by The Man!  That was actually multiplayer, and I just fell for their malicious lies.  Warcraft 2!  Man, what a lie!  It was just multiplayer all along.  
+Okay, sarcasm aside...  If you get an enjoyable experience from playing a game -alone- then what is the problem?  Are you playing with other people?  No.  Add up the players...  Looks like 1 to me, or a "single player."  Hmmm, go figure... 
+
+
+9-27-98 9:54 pm
+---
+<Entropy9>    <moogle> Love is like a snowmobile flying across the tundra
+<Entropy9>    [20:52:10] -              and then it flips over, pinning you beneath.  At
+<Entropy9>    [20:52:10] -              night, the ice weasels come.
+
+hmmm  yeah.
+
+
+9-16-98 12:57 am
+---
+Its been a day full of all kinds of goodness.  I worked on organizing and compiling our collections of sounds into coherent sound packages.  During my lunch break I picked up Rainbow Six, and while I got a chance to play the first mission, I haven't really gotten into the meat of setting up all the team coordination or anything yet, but I'm looking forward to playing this game with a group of people.  But back to sounds - 
+We got in some SB Live cards today...  They're pretty damn cool.  I tried out Unreal SE for a while this evening, and the 3d effect is really nice, particularly on stuff like the razorjack where you can really make out the doppler and its relation to you in space...  In addition its got some stuff I've been looking for in my next sound card, namely digital inputs and outputs.  Having my CDROM hooked up digitally to the sound card seems to bring out better sound in my CDs, and I'm really looking forward to finally being able to record digitally on my MD.
+I got a chance to check out Robert's latest batch of kickass models, which I'm already finding places for in my current level...  Speaking of which, back to work on that...  
+
+9-12-98 12:35 am
+---
+
+Mark Poesch is a freakin' god.  
+
+9-2-98 11:28 am
+---
+
+That's right folks!  Straight from Artist-Architect Extrodonaire Paul Mock is the first exclusive screenshot of a creature so hideous, so unfathomable that it has been shrouded in secret up until just last week.  This hideous monstrosity?  The chicken headed trolloc.  It strikes terror into all who are hapless enough to come upon it.  Behold!
+
+<img src="http://www.wheeloftime.com/sonofachickenhead.jpg" border="0">
+
+
+8-30-98 4:22 pm
+---
+
+In anticipation of buying the new Fugazi album "End Hits" (Lets hope this isn't the end, although I've been anticipating a breakup ever since in on the killtaker), heres a bit of fugazi goodness...
+
+"Life is what you want it to be
+So don't get tangled up trying to be free
+And don't worry what the other people say
+
+It's nothing" -- Fugazi Song Number One
+
+
+8-29-98 1:21 am
+---
+
+Just racing our amazingly fast automobiles around the Legend Raceway has become a bore as of late.  So we've begun a new game.  It's called "Screw Loose"...  When we take our cars down to the raceway mechanics, while we go into the viewing booth and have a couple cold ones, the mechanics pick a viehicle at random and loosen all of the lug-nuts on two of the tires.  The game is to see who can get the fastest track times without leaving the raceway in a bucket.  The whole two tires thing makes James a bit nervous, as while he tends to mop us up on the speed runs, his bike only has two... :)  
+
+The IRC chat hosted by 3dgaming.net was a lot of fun this evening...  My thanks to them for hosting it and to everyone for showing up.  For now I'd better get back to hiding the chicken-headed trollocs in the levels...
+
+"mimi kara yubi tsukkonde okuba gata gata iwashitaruzo!" - me

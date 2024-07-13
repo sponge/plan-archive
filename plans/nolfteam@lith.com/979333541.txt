@@ -1,0 +1,277 @@
+
+*** Monolith Production's Finger Server
+
+User name: nolfteam
+Plan modified: Fri Jan 12 12:26:40 2001
+
+				
+					1/12/2001
+
+Finally! The NOLF Tools are ready to go. We’ve spent a lot of time on documentation, level samples and other items to make the process as easy for you as possible. When you download the tools, here’s what you’ll get:
+
+- DEdit, the NOLF world editor (also contains texture and sprite utilities). 
+- ModelEdit, the NOLF model editor.
+- LithRez, a command-line program for packing and unpacking NOLF .REZ (Resource) files.
+- Softimage 3.7 exporters.
+- Sample level files.
+- NOLF Prefabs, including skies, furniture and other useful cut and paste items that can make your levels look nicer.
+- Documentation (including step by step instructions for using DEdit and ModelEdit).  We’ve also updated the Dedit help system to give you information about various objects and their properties.
+- Links to on-line resources
+
+We’ve also created a Level Editing and Design forum at http://www.the-operative.com/forum/ and you can also visit: http://www.nolfnews.com/mods/.
+
+Enjoy!
+
+The NOLF Team
+
+
+				
+					12/22/2000
+
+We have just released a new all languages, International version of Update #1. It is the same as the original North American only version, except we have added multiple language support for UK, German, Spanish, Swedish and French customers. From this point forward, NOLF Updates will be International and support all languages which will make things much easier for overseas customers.
+
+If you have already downloaded and installed the North American Update for No One Lives Forever, you DO NOT have to install the International Update.
+
+We have also released Map Pack #1 which contains 3 new multiplayer maps: Highlands, UNITY and Hydro. We hope you enjoy them! We are already working on another set of maps to release after the holidays! We are also continuing work on the NOLF networking code and other known issues.
+
+Finally, we have been working on getting the NOLF Tools ready for release, and these should be ready soon after the New Year.
+
+Happy Holidays from the NOLF Team!
+
+
+				
+					12/8/2000
+
+Below is the complete Readme from NOLFUpdate001 for your convenience.
+
+==========================================
+
+NO ONE LIVES FOREVER
+Update to Version 1.001
+December 07, 2000
+
+==========================================
+
+
+I.       INSTALLATION INSTRUCTIONS
+II.      FIXES AND ADDITIONS
+III.     FOR ADDITIONAL HELP AND INFORMATION 
+
+This release will update the English version 1.0 of No One Lives Forever (NOLF) to version 1.001.  A future International Update will be released to update non-English versions of NOLF 1.0 to version 1.001.  All updates contain a combination of bug fixes and new features, which are outlined in their respective Readme docs.
+
+In addition, a separate Content Update which includes new multiplayer maps will be released shortly.  In order to insure the new maps play as intended, you will need to first download the base Update. 
+
+*PLEASE NOTE* Save games from version 1.0 will NOT work after this update is installed.  However, it will be possible to restart the last mission completed.
+
+I.        INSTALLATION INSTRUCTIONS
+
+To install the update, click on the archive and extract the files to a temporary directory of your choosing.  The default path is c:NOLFUpdate.  Once the extraction is complete, explore to the directory and click on setup.exe.  Finish the installation wizard to complete the update.    
+
+
+II.      FIXES AND ADDITIONS
+
+* Fixed a potential crash on exit bug as well as crashes that sometimes occur when moving between Singleplayer and Multiplayer.
+
+* Fixed memory fragmentation issues which may have caused crashes and slow downs after playing for long periods of time.
+
+* Fixed a bug where the player inventory was not always saved correctly after being knocked out.  This insures if you go back to play a level, that you have all available weapons/gadgets that you have collected.
+
+* Added the ability to review Intelligence items you have collected via a new Intelligence Gallery (by popular request!).
+
+* Fixed a bug in single player where shooting an unalert enemy twice, even with silenced weapons, could alert other AI in the vicinity to your presence. This bug was making stealth missions more difficult than intended. In this update, silenced shots which hit and kill an unalert AI never alert other AI in the area making stealth easier and more intuitive for many players.
+
+* Fixed a bug that allowed the coin to fall through many surfaces in the game, thereby making it impossible for the player to retrieve. This bug should be 100% fixed on flat surfaces, but the coin may still "trickle down" certain ramps and disappear.
+
+* Fixed an unreachable Intelligence item on the space station, which prevented players from getting a perfect score in every level.
+
+* The Body Remover can now be mapped to a weapon hotkey.
+
+* Changed the "Always Run" Toggle to toggle default movement (Run or Walk) and changed the "Run" key to toggle the opposite of the default.  This will allow players who choose "walk" as their default movement mode to run when the button is held down, and vice-versa.  The names of these controls in the options menu have also been changed for clarity.  "Run" is now "Toggle run/walk", and "Run/walk toggle" has been changed to "Toggle Always Run."
+
+* Added better caching of weapon special fx to cut down on stuttering (e.g. when hit by a cyanide bullet, game pauses while loading floating goats).
+
+* Added more informative "Disconnected from Server" messages.
+
+* Fixed a bug where double clicking on the arrows to scroll through available servers in the multiplayer "join" menu would join the server that's currently highlighted. 
+
+* Added the server's IP address and version number to the game option section of the multiplayer "join" menu. 
+
+* Fixed a bug that allows low ping players to photograph Intelligence items multiple times.
+
+* Fixed a multiplayer bug that sometimes caused a player's armor display to not show up correctly.
+
+* Fixed a bug that allows low ping players to score multiple kills when they run over someone on the snowmobile or motorcycle. 
+
+* Added a dialogue box that appears when a player attempts to join a server that's running a different version of the game. 
+
+* A "View Options" command has been added to multiplayer escape menu.  This will allow clients to see all of the current server's settings. 
+
+* Added a dialog box to indicate that a server is no longer available.  This will come up when you try to join a server that has been shut down since the last time you used the "refresh server" option.  
+ 
+* Fixed a bug where players in a multiplayer game could use the Escape key to "Teleport" across the map after grabbing a weapon or powerup.
+
+* Attempted to fix game freezes with players using the Diamond MX300 (Aureal Vortex2 Chipset).  Unfortunately, we have determined this is a DirectX and/or driver issue. We're working with Microsoft on a solution.  In the meantime, players who encounter this bug can still play the game by turning off DirectMusic in the Advanced options section of the launcher.   
+
+* Chat text in multiplayer now word-wraps.
+
+* Other long messages now also word wrap.
+
+* Fixed bug with Weapon Stay weapons only giving you the default ammo (not the ammo specified by the level designer).
+
+* Updated weapon powerups so you can pick up the ammo in them (if you run out of that ammo type) even if you have the weapon.
+
+We'd like to extend our heartfelt thanks to those gamers who are helping each other by answering support questions on the forum, particularly those hard to track down hardware and driver issues that plague all PC games!
+
+
+III.     FOR ADDITIONAL HELP AND INFORMATION 
+
+For the latest news, technical support and information on future updates, please visit the following websites.
+
+     The Official Site
+     http://www.the-operative.com
+
+     The Official Community Site
+     http://www.nolfnews.com
+
+     FOX Interactive
+     http://www.foxinteractive.com
+
+     Monolith Productions
+     http://www.lith.com
+
+For the latest news on compatibility issues and successful workarounds, please check out the FAQs at http://www.the-operative.com and http://www.nolfnews.com.  
+
+As work progresses on future updates, we'll be updating the NOLF Team Plan file at http://www.lith.com.  Thanks for playing and we'll see you online!
+
+
+EXTRA NOTE: The 0 ping bug listed in previous PLAN files did not pass testing, so we'll be looking into this for the next update which will be focused on multiplayer.
+
+Thanks!
+
+The NOLF Team
+
+
+
+
+				
+					12/4/2000
+
+We’ve been working hard on the first Update for the game, in addition to taking a bit of time off to enjoy turkey dinner!  We anticipate the first update will be released in a day or so.  For the most part, our efforts have been spent on stability issues such as crashes and memory fragmentation. These fixes should benefit the majority of our customers. 
+
+Once Update #1 is complete, our next priority will be to improve the multiplayer networking code!  To that end, we may be contacting players who have posted on the forum or contacted Tech support. Thanks in advance to anyone who helps!
+
+Below is the revised list of major issues addressed in Update #1:
+
+-Fixed a potential crash on exit bug as well as crashes that sometimes occur when moving between Singleplayer and Multiplayer.
+
+-Fixed memory fragmentation issues which may have caused crashes and slow downs after playing for long periods of time.
+
+-Fixed a bug where the player inventory was not always saved correctly after being knocked out. This insures if you go back to play a level, that you have all available weapons/gadgets that you have collected.
+
+-Added more informative "Disconnected from Server" messages.
+
+-Fixed a bug that allows low ping players to photograph Intelligence items multiple times.
+
+-Fixed a multiplayer bug that sometimes caused a player's armor display to not show up correctly.
+
+-Fixed a bug that allows low ping players to score multiple kills when they run over someone on the snowmobile or motorcycle. 
+
+-Added the ability to review Intelligence items you have collected via a new Intelligence Gallery.
+
+-Fixed a bug in single player where shooting an unalert enemy twice, even with silenced weapons, could alert other AI in the vicinity to your presence. This bug was making stealth missions more difficult than intended. In this update, silenced shots which hit and kill an unalert AI never alert other AI in the area making stealth easier and more intuitive for many players.
+
+-Fixed a bug that allowed the coin to fall through many surfaces in the game, thereby making it impossible for the player to retrieve.  This bug should be 100% fixed on flat surfaces, but the coin may still “trickle down” certain ramps and disappear.  
+
+-Fixed an unreachable Intelligence item on the space station which prevented players from getting a perfect score in every level.
+
+-The Body Remover can now be mapped to a weapon hotkey. 
+
+-Added a dialogue box that appears when a player attempts to join a server that’s running a different version of the game. 
+
+-A “View Options” command has been added to multiplayer escape menu.  This will allow clients to see all of the current server’s settings. 
+
+-Changed the “Always Run” Toggle to toggle default movement (Run or Walk) and changed the “Run” key to toggle the opposite of the default.  This will allow players who choose “walk” as their default movement mode to run when the button is held down, and vice-versa.
+
+-Added a dialog box to indicate that a server is no longer available.  This will come up when you try to join a server that has been shut down since the last time you used the “refresh server” option.  
+ 
+-Fixed a bug where players in a multiplayer game could use the Escape key to “Teleport” across the map after grabbing a weapon or powerup.
+
+-Fixed a bug where player pings in-game always read “0” if you are playing a low speed Internet connection.
+
+-Attempted to fix game freezes with players using the Diamond MX300 (Aureal Vortex2 Chipset).  Unfortunately, we have determined this is a DirectX and/or driver issue. We’re working with Microsoft on a solution.  In the meantime, players who encounter this bug can still play the game by turning off DirectMusic in the Advanced options section of the launcher.   
+
+-Chat text in multiplayer now word-wraps.
+
+-Long messages now also word wrap.
+
+-Added better caching of weapon special fx to cut down on stuttering (e.g. when hit by a cynanide bullet, game pauses while loading floating goats).
+
+-Fixed bug with Weapon Stay weapons only giving you the default ammo (not the ammo specified by the level designer).
+
+-Updated weapon powerups so you can pick up the ammo in them (if you run out of that ammo type) even if you have the weapon.
+
+-We also have some new multiplayer maps almost ready to go, including a new terrain Deathmatch map.  The Content Update will be released separately from the base patch so that people who don’t want to get the new levels don’t have to.
+
+We’d also like to thank those gamers who are helping each other by answering support questions on the forum, particularly those hard to track down hardware and driver issues that plague all PC games!
+
+Thanks!
+
+The NOLF Team
+
+
+
+
+
+				
+					11/13/2000A quick note from the NOLF team:
+
+First, we'd like to thank everyone for their feedback over the past couple of  weeks. The initial response has been overwhelmingly positive, and we're very appreciative of those that have been spreading the good word.
+
+Secondly, for those overseas, you will be happy to hear we are just finishing localization! Check your local stores for upcoming availability. We are now turning our attention to the first NOLF Update. 
+
+Each NOLF Update will contain bug fixes as well as new features and possibly new Multiplayer maps. Below is a very short list of some of the problems we are already looking into. Over the next few days, we'll be working with Fox Tech Support to compile a list of additional issues. We anticipate the first NOLF Update to be available within a few weeks.
+
+Issues addressed in the first NOLF Update:
+
+-Fixed a potential crash on exit bug as well as crashes that sometimes occur when moving between Singleplayer and Multiplayer.
+
+-Fixed memory fragmentation issues which may have caused crashes and slow downs after playing for a while.
+
+-Fixed a bug where player inventory was not always saved correctly after you are knocked out. This insures if you go back to play a level, that you have all available weapons/gadgets that you have collected.
+
+-Added more informative "Disconnected from Server" messages.
+
+-Fixed a bug that allows low ping players to score multiple kills when they run over someone on the snowmobile or motorcycle. 
+
+-Fixed a bug that allows low ping players to photograph Intelligence items multiple times.
+
+-Fixed a multiplayer bug which sometimes caused player's armor display to not show up correctly.
+
+-By popular request, we are adding the ability to review Intelligence items you have collected.
+
+-The update will include new multiplayer maps as well.
+
+This is just a partial list which we'll be expanding in the next few days. While we do try and take time to monitor both the Fox and Monolith forums linked from http://www.the-operative.com/, please make sure you officially register your issues and suggestions by clicking on the Support link at http://foxinteractive.com or e-mailing directly to fox_support@aqinc.com. 
+
+Also we occasionally contact people directly to collect additional info.  Thanks to anyone who has already helped with this! We also monitor any fixes that players may discover and post on our forums, such as driver fixes, etc. so thanks for your posts!
+
+Lastly, to keep you apprised of our progress, we have started up a NOLF Team Plan File at http://www.lith.com. We'll use this space to let you know which issues we're addressing as well as other tidbits over time.
+
+Again, thank you for your support!
+
+The NOLF Team
+
+
+
+
+
+				
+					
+
+				
+				
+				
+				
+				
+				
+

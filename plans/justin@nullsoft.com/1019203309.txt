@@ -1,0 +1,8 @@
+Login: justin         			Name: Justin
+"|IFS=' ' && exec /usr/local/bin/procmail -f- || exit 75 #user"
+Plan:
+http://www.1014.org/media/index.phtml?path=incoming&img=jump1.jpg
+
+hee hee
+
+video of that (and many other things) comes soon. well in a month or two.

@@ -1,0 +1,77 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+-------------------------------------------------------------------
+User Name: tim.gift     Plan Last Modified: 02/10/2000 11:17:50 PST
+
+Real Name: Tim Gift
+Nickname: Slacker
+Job: Programmer/Designer
+Project: Starsiege TRIBES
+
+2.10.00
+
+Hmm... well I can't say this has been the most
+productive past few weeks. Finished the CGDC
+article and worked a few other misc. things, but
+the vehicle class has been my main focus. 
+
+So far on the vehicles:
+
+- Rigid body dynamics.
+
+- Wheel suspension, including springs, shock
+absorbers and anti-sway bars.
+
+- Engine & brake torque.
+
+- Longitudinal & lateral slip forces with basic
+static & kinetic friction.
+
+- Animations: wheels rotate, suspension goes up and
+down, etc.
+
+- Basic client side prediction
+
+Left to do:
+
+- A few issues to resolve: some problems with the
+frictional forces, and maybe a problem with the
+suspension (does some weird things occasionally).
+
+- More accurate vehicle body collision, I'm currently
+just using a box.  Neal, the artist working on the
+scout, just added in a convex collision hull for the
+body. I'll start using that next week.
+
+- Mounting players on to vehicles.
+
+- Test and resolve any issues with the other ground
+vehicles such as the assault vehicle, which
+has 6 wheels.
+
+- Wrap up client side prediction
+
+- Other misc. details like plugging in particle
+emitters, sounds, brake lights, etc.
+
+At this point you can drive around in the scout
+vehicle. It has four wheel drive and independent
+suspension. It handles pretty well, though at high
+speeds it tends to under-steer. Have to be a little
+careful going fast on the uneven ground or you can end
+up upside down. Vehicles are going to be pretty fun :)
+
+All the engine, suspension and tire parameters are
+specified in the datablock. The number of wheels, which
+ones steer, and suspension travel is all extracted from
+the shape file. It should be fairly easy for mod
+authors to build and customize new vehicles.
+
+Tim
+
+
+
+
+

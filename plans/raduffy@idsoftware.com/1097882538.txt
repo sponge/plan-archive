@@ -1,0 +1,698 @@
+
+Name: Robert A. Duffy
+Email: 
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+Oct.15.2004
+-----------
+The DOOM 3 SDK is now available. It can be downloaded from http://www.iddevnet.com/
+
+
+Enjoy.
+
+
+Sept.07.2004
+------------
+
+We have released the first update for DOOM 3 as a beta and on a limited scale ( it is only available on the File Shack at www.shacknews.com ). We don't anticipate any issues with it but felt it best to get it into the hands of a few thousand people rather than the entire customer base in case we missed something. We will release the update through our update server for wide release once we have verified there are no problems with it.
+
+We will be releasing another update in the near future that will include Punk Busters cheat protection functionality for DOOM III.
+
+The SDK is also ready to go and as soon as the update is out in non beta form the SDK will be made available for download.
+
+The Linux Dedicated server is also ready to go and will also be available as soon as the update is non beta.
+
+The DOOM 3 demo is also coming in a few days, it is finishing the last stages of QA. It should give everyone waiting to buy the game a taste of what DOOM 3 is all about. It contains 3 levels of the game and is single player only.
+
+Here is a list of the issues fixed in this update:
+
+GENERAL
+- Querying a cvar (typing name with no value on the console) now also prints out help text
+- Updated some cvar docs
+
+STABILITY
+- Fixed desktop crash when loading a QuickSave made when during influence in EPD Lab in Alphalabs 1
+- Fixed game freezing if in-game MP menu is opened just after a change map vote
+Passes and just before the map changes.
+- Fixed duplicate player names shutting down a server during map changes
+
+INTERFACE
+- Fixed scrolling lists with arrow keys while holding control crashing game
+- Added toggle functionality to movement commands (i.e. toggle crouch as opposed to holding the button down) - Added in_togglecrouch, in_togglerun, & in_togglezoom
+- Added dialog to multiplayer video settings menu telling user that changes require exiting game before they'll take effect
+- Fixed remote password field only displaying 3-4 characters at a time.  - Fixed g_voteFlags so that spectator and nextmap could be individually toggled  - Made print screen bindable.
+- Made Alt-Gr (right alt) bindable separately for European versions.  For english
+versions, right alt and left alt both bind as "alt" so that US users who currently  have something bound to right alt don't have their config affected by the update.
+- Added mouse wheel scrolling to server list (gui list boxes).
+
+NETWORKING/MULTIPLAYER
+- Bumped damage up on rocket jumping in multiplayer
+- Decreased damage from chaingun to 25 in multiplayer
+- Exploding barrels to full damage to attacker in multiplayer
+- Increased height for falling damage in multiplayer
+- Made r_skipNewAmbient, r_skipSpecular, r_skipBump, and r_shadows cheat protected
+- Made g_fov modifiable in mutiplayer from 90 to 110
+- Changed server protocol version from 1.33 to 1.34
+- Changed idEntity::SetName to allow entities to be named after startup during network games
+- Changed idClass::PostEventArgs to allow script threads to post events during network games
+- Changed net_allowCheats to allow cheat commands during network games
+- Fixed projectile launched from wrong position when player exits teleporter while holding fire
+- Fixed rocket launcher dealing no splash damage to player at certain angle in Edge 2
+- Fixed light from flashlight remaining after player is killed.
+- Fixed frags going negative when over 64.  Maxfrags now at 100.
+- Fixed -1/1 ammo count while dropping weapon in multiplayer
+- Fixed no rockets in view-model rocket launcher when first picked up  - Exploding barrels now give credit for kills to the player who damaged the barrel in multiplayer
+- Fixed chaingun flickering on/off when spectating another player in Tourney  - Fixed no "You lose" message being played for loser in Last Man Standing.
+- Added join messages when players join an MP game.
+- Fixed players stuck spectating when no spectators vote is passed.
+- Added chat and connection interrupted icons - Fixed Frag Chamber doors killing player if they're moving towards them just as they
+open (kill trigger was turned off too late in the script).
+- Added build for a dedicated server executable (DooM3Ded.exe) on Win32.
+- Fixed problems with server list:
+- wrong server being joined when sorting
+- wrong server being joined when filtering
+- server list not being sorted initially by ping.
+- Chat text no longer converts high-ASCII chars to periods
+- Fixed problem with players logging on and being stuck in spectator mode, yet not really spectating
+- Fixed Incorrect scoring information appears on scoreboard - Fixed backpack secret exploit on d3dm5 "Lights Out"
+- Added chat/lag icons
+- Elevators now return to their home position even if someone is standing on them
+
+RENDERING
+- r_aspectRatio now uses 0, 1, or 2 (4:3, 16:9, 16:10)
+- Fixed in-game videos disappearing if you go to the menu and return
+- Fixed inconsistent worldview of players exiting teleporter. SOUNDS
+- Fixed weapon sounds always playing the first sound in a sound shader instead of randomly picking one.
+- Fixed bullet ricochet sound when punching glass.
+
+LOCALIZATION
+- Localized key names in bind menus
+- Localized multiplayer text
+* warmup text
+* spectator text
+- "QuickSave" name in save / load menu is now localized
+- Fixed key binding issues with European (Italian, French, Spanish) keyboards
+* all keys should be bindable now
+* this includes modifying scan tables
+- Fixed pickup items not being localized.  Not fixed in MP, as this would require
+including the .map files in the update.  Any user maps created with update code  should have the correct string id required for localization, however.
+- Fixed "General Access" not being localized on PDAs.
+- Added pure exclusions for all files that were causing pure server connection  problems between mixed languages.
+- Localized "Press any key..." in binding menus.
+- Localized messages that client receives from the server when kicked or the server
+shuts down.
+- Localized "Server Full" message.
+- Fixed Huffman encoding in decl manager so all characters have a minimum frequency
+of one.  This allows an optimal bit code length and fixes a memory overrun assert
+and crash when loading Russian decls.
+- Map names in Save / Load menu are now localizable.
+- Removed hard coded english text from "Player is ready" message in MP.
+- Fixed Italian accented i showing up as ^ and vice versa
+
+
+
+
+
+
+
+
+July.26.2004
+------------
+
+I've seen quite a few posts in the forums about "Ultra" quality and why we don't set this by default out of the box. I thought I would clarify a few of the reasons and also take the time to mention some of the hardware and software we found incredibly useful during the development of DOOM 3. 
+
+To put things in perspective, most production levels in DOOM 3 contain more media assets than all of Quake 3: Arena. When we started working on the memory foot print, our goal was a 256MB system. In most cases loading up an area of the game on a 256MB system works fine, the problems arise when you start to transition from one area to the next ( successive map loads ). Memory fragmentation starts to really work against us and it ultimately made it just not feasible for a reasonable play experience to support 256MB. 
+
+Two basic options make up the quality levels, sound diversity and image fidelity. 
+
+Sound diversity is effectively how many sounds we support per sound shader for a given "sound". There may be for instance, 7 different "bullet striking the wall" sounds for a given bullet. In low quality, we only use one sound for this vs randomly choosing between one of the seven available. When we started on memory optimization, most levels used between 80 and 100 megabytes of sound data. We made the choice to move to .OGG for quite a few sounds which effectively removed the problem for us.
+
+Image fidelity is dependent on what quality level we load the textures at.
+
+In Ultra quality, we load each texture; diffuse, specular, normal map at full resolution with no compression. In a typical DOOM 3 level, this can hover around a whopping 500MB of texture data. This will run on current hardware but obviously we cannot fit 500MB of texture data onto a 256MB card and the amount of texture data referenced in a give scene per frame ( 60 times a second ) can easily be 50MB+. This can cause some choppiness as a lot of memory bandwidth is being consumed. It does however look fantastic :-) and it is certainly playable on high end systems but due to the hitching that can occur we chose to require a 512MB Video card before setting this automatically. 
+
+High quality uses compression ( DXT1,3,5 ) for specular and diffuse and no compression for normal maps. This looks very very close to Ultra quality but the compression does cause some loss. This is the quality that for instance the PC Gamer review was played in. 
+
+Medium quality uses compression for specular, diffuse, and normal maps. This still looks really really good but compressing the normal maps can produce a few artifacts especially on hard angled or round edges. This level gets us comfortably onto 128MB video cards. 
+
+Low quality does everything medium quality does but it also downsizes textures over 512x512 and we downsize specular maps to 64x64 in this mode as well. This fits us onto a 64MB video card. 
+
+One thing of note on the normal map compression is that generally speaking if you DXT a normal map you get really crappy results. NVIDIA hardware supports palettized compression which yields good compression and normal maps retain hard and round edges really well. Unfortunately this compression does a poor job in other cases and you end up getting splotchy areas. ATI does not support the palettized compression so we needed a better solution. ATI had done some research on various methods of normal map compression and we ended swapping the red and alpha ( which is zero in the case of a normal map ) channels. This effectively allows the compression to do a much better job and is just one extra instruction in the fragment program to move the alpha channel into the red channel. The bottom line on what happens on each card is as follows.
+
+All modern NVIDIA and all ATI hardware use the compressed normal maps in Medium and Low qualities with the swizzled components.
+NV10/20 hardware ( GF4MX and GF3 ) uses palettized normal maps in Medium and Low qualities.
+
+Another question I have had multiple emails about, yes the game is capped at 60fps for normal game play. For render demos, like what was used for the HARD OCP stuff, we run those at full tilt which is why you will see > 60fps. 
+
+
+For the curious, here is a list of software/hardware we found useful during the development of DOOM 3.
+
+Incredibuild by Xoreax.
+Visual Assist by Whole Tomato Software
+Alienbrain by Avid ( formerly NXN )
+Visual Studio by Microsoft
+
+DOOM 3 was developed mostly on Dell and/or Alienware computers. Falcon also sent us a kick ass system that has been Tim's primary play system through most of the project. 
+
+The art team used a wide variety of tools ( they probably use other stuff too but this is what comes to mind ) 
+
+Maya
+Lightwave
+ZBrush
+3D Max
+Photoshop
+
+We saw a few bumps in the road during the project, we had a multiple ( simultaneous ) drive failure in our primary development server which effectively trashed the raid system and was not recoverable. This resulted in building a two IDE drive raid system on a Saturday morning so the team could keep working. So all of DOOM 3 development was housed in an old dev system with a $79 RAID card driving two 100GB drives for about a week. The end result of this was we went ahead and built two identical RAID 1/0 systems ( about a half a terabyte each ). This has been the configuration for the last 18 months or so. 
+
+We made the move to Alienbrain about two thirds into the project. It was a big change for everyone as no one but the programmers were used to having to "check something out" to work on it. Overall this was a big win for the project as it centralized everything into one application from an asset/code standpoint. Alienbrain like any major software system has a few gotchas but has performed very well and sustained our RAID running entirely out of drive space multiple times. 
+
+
+I hope everyone enjoys the game.
+
+
+
+
+
+
+
+
+April.30.2004
+-------------
+
+We are looking for a Tools Programmer. The position will be full time and will require relocating to the Dallas Texas area. Responsibilities will include the design and implementation of a wide variety of tools for game creation. Specific focus will be on level editing capabilities and game design and implementation mechanics. You will be required to work closely with the programming, design and art teams on the design of tools for DOOM 3 tech as well as future tech. 
+
+Requirements:
+-At least 5 years of extensive C and C++ experience. 
+-Extensive OpenGL experience.
+-Demonstrable experience with tool creation on a recent or current game. 
+-Excellent overall technical and communications skills. 
+-MFC experience is a plus but not strictly required.
+
+-International applicants will need to have a 4 year degree.
+
+Interested parties please send a cover letter and resume to raduffy@idsoftware.com
+
+
+
+
+
+
+April 4.0.2003
+--------------
+
+The Enemy Territory master server is down. ETA is a few hours before it is back up.
+
+
+
+
+September.9.2003
+----------------
+
+
+Updated setups for Q3 Linux 1.32 and RTCW Linux 1.41 are available in the anonymous ftp ( ftp://ftp.idsoftware.com ) and on the BitTorrent tracker ( http://zerowing.idsoftware.com/BT/ ).
+
+6eb06cb2c21f075f8cd63901d43ba7a3  linuxq3apoint-1.32b-2.x86.run 6edf02471da704ad4e9e365e474bcbc8  wolf-linux-1.41-2.x86.run
+
+IMPORTANT: This is NOT a new release, this is an update of the installer code to fix recent bugs related to text mode installation on glibc 2.3 systems. If you already have Q3 1.32b or RTCW 1.41 working on Linux, you don't need to download, the game binaries are strictly the same.
+
+
+
+
+November.21.2002
+----------------
+There is a new Linux Q3A 1.32b on the ftp. This is Linux client side only and is fully compatible with 1.32
+
+Changes:
+
+- Text mode install broken on glibc 2.3 (Debian Sid) http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=165358
+Current Debian Sid's glibc package break backwards compatibility with binaries compiled on older glibc and statically linked. This will cause the text mode setup to segfault.
+
+For now you can either:
+ - find a solution to run the graphical gtk-based setup
+ - roll back to glibc 2.2
+ - use an updated setup binary:
+   run the linux setup once, with the --keep option
+     (this will exand all the files to setup.tmp/)
+   get this updated setup file:
+     http://zerowing.idsoftware.com/linux/165358/setup
+   replace setup.tmp/setup.data/bin/Linux/x86/setup by the new one
+   cd to setup.tmp/ and run setup.sh 
+
+
+- Current NVidia drivers don't officially support glibc 2.3 systems This affects Debian Sid in particular, causing crashes during vid_restart The issue is related to the SMP build depending upon libpthreads 1.32b has both SMP and non-SMP binary. Use quake3-smp to launch the SMP version if you want to use it.
+
+
+- SMP and non-SMP builds:
+Default quake3 shortcut will spawn a non-SMP build. Use quake3-smp for an SMP-enabled run. From the feedback we got after the 1.32 release, 
+the SMP support as designed in the Quake III Arena technology isn't so much relevant anymore. It was designed for much lower CPU frequencies and lower AGP throughputs. Modern systems won't benefit from SMP. Since it didn't make much sense to remove the SMP binary, we have both now.
+
+
+- Fixing broken mouse on Suse:
+Starting with XFree 4.2, the event timestamps returned by the X server 
+are no longer matching gettimeofday. And there is currently no API in X 
+to provide easy synchronisation. 1.32 introduced improved event timing 
+by correcting event time with X server event timestamp (sub-frame timing). This worked fine with XFree 4.1, and no longer does. 1.32b adds a safe check to work again with XFree 4.2, but basically the input timing is back to 1.31 quality.
+
+Some new cvars related to the mouse control:
+in_dgamouse - not new, but be sure to have it set to 1 on any recent system in_subframe - completely disables sub-frame timing. If XFree 4.2
+  in_subframe 1 won't hurt, but it won't do anything either.
+in_nograb   - for mod developers. Set to 1 and run windowed, Q3 won't be
+  grabbing your mouse pointer (useful for debug breaks)
+
+
+
+
+October.24.2002
+---------------
+
+The Quake 3 Arena and Quake 3 Team Arena sdk's are up on our ftp.
+
+In idstuff/quake3/source
+
+Win32 - Q3A_TA_GameSource_132.exe
+Linux - linuxq3a-sdk-1.32.x86.run
+
+
+
+
+October.7.2002
+--------------
+
+The new Quake 3 Arena and Quake 3 Team Arena point release is up. Thanks to Timothee for getting all the fixes in and Tony and the crew at Even Balance for getting Punk Buster support in. A beta version of the Mac point release will be up soon but it will not authenticate properly with Punk Buster for a couple of weeks. 
+
+The release should be appearing on mirrors soon but here are the locations on our ftp. The auto-update system is also updated so you can auto-update or grab it here.
+
+
+ftp://ftp.idsoftware.com/idstuff/quake3/win32/q3pointrelease_132.exe
+ftp://ftp.idsoftware.com/idstuff/quake3/linux/linuxq3apoint-1.32.x86.run
+
+Here is a list of the general updates/fixes. 
+
+CHANGES 1.32
+
+
+General:
+
+- new network protocol, 68
+
+- network code:
+
+  improved fragmented messages handling
+
+  map change while client loads map no longer causes an 'Invalid .PK3' error
+
+  map_restart while client loads map no longer causes a reload
+
+  fixing donedl being ignored after autodl if map_restart'ed
+
+- the demo command has a list of compatible protocols, it will loop through 66 67 68
+
+  you can do '/demo four' and it will try four.dm_66 four.dm_67 four.dm_68
+
+  or you can explicitely give a '/demo demoname.dm_??'
+
+ 
+
+- added mousewheel support in the console: 
+
+  wheel to scroll, ctrl+wheel to scroll faster, shift+wheel to scroll history
+
+ 
+
+- UI in baseq3/ and missionpack/ for PunkBuster configuration
+
+  punkbuster server in server creation dialog (sv_punkbuster)
+
+  punkbuster client in server browser (cl_punkbuster)
+
+  added PB Yes/No to the browsers
+
+- removed obsolete MPlayer UI stuff
+
+- bumped server browser to handle up to 4096 servers
+
+ 
+
+- IP maintained in userinfo
+
+- cl_guid in userinfo (as part of PB integration)
+
+- printing ports as unsigned ints, no longer printing negative port numbers
+
+- cleaned up the legacy IP banning code
+
+  use * for IP pattern matching now instead of 0 (fixes some confusion)
+
+    ex: 192.246.12.*
+
+  made it safe from overflowing and crashing
+
+  NOTE: using PunkBuster's banning system is advised instead though
+
+- rcon: some fixes to the buffering to avoid overflowing and dropping parts of the message 
+
+- rcon: now supports quoting /rcon g_motd "foo bar"
+
+- added SVF_CLIENTMASK (0x00000002), works only with <= 32 players
+
+      set bitmask of players to which send entity
+
+- pushed cl_maxpackets upper limit to 125
+
+- added [skipnotify] from RTCW, use to display in the console only, but not on client screen
+
+      (also fixes pb_msgprefix and pb_sv_msgprefix)
+
+ 
+
+- new cvar sv_lanForceRate (defaults 1):
+
+  forces LAN clients to the maximum rate instead of accepting client setting
+
+  (1 is the default behaviour, backward compatible)
+
+ 
+
+- new cvar sv_strictAuth (defaults 1):
+
+  server side variable to control wether strict CDKEY auth should be performed with the auth server
+
+  this is required if you want reliable cl_guid for the server (for users tracking)
+
+ 
+
+- filesystem:
+
+  client re-orders it's pk3s according to the order given by server
+
+  (fixes some 'Invalid .PK3 files referenced' situations
+
+ 
+
+- fixed invisible entities/players bug (thanks goes to Rick Johnson / Raven for this one!)
+
+- update x86 VM code (better and safer optimisations) (Richk Johnson / Raven too)
+
+- clearing client gentity before GAME_INIT call
+
+- failing vote if there's only one voting client (fixes exploit on 2-player server where one player votes then disconnects, forcing vote to pass)
+
+ 
+
+- added trap_FS_Seek
+
+ 
+
+- renderer fix:
+
+  if client game code registers a shader after drawsurfaces are generated but before frame is rendered
+
+  had a one-frame visual glitch (shader indexes messed up)
+
+- renderer fix:
+
+  r_roundImagesDown 0 + map q3dm1 -> crash (buffer overflow fix)
+
+- renderer fix:
+
+  fixed a crash in widescreen displays (q3dm11)
+
+- renderer fix:
+
+  MAX_SHADERS up to 2^12  
+
+- renderer fix:
+
+  moved screenshot from frontend to backend, fixes broken r_smp 1 screenshots
+
+ 
+
+- TA fixes:
+
+  MOD_KAMIKAZE MOD_JUICED logging properly to games.log
+
+  fixed bot taunt spamming
+
+- fixed typo in scripts/models2.shader (shader error Ursula head)
+
+ 
+
+Win32 specific:
+
+ 
+
+- fixed the DirectInput mouse init procedure
+
+- rcon:
+
+  fixed rcon not working on NT/2000/XP workstations that have a long uptime
+
+ 
+
+Linux specific:
+
+ 
+
+- no longer trying to load libMesaVoodooGL.so
+
+  obsolete code, was confusing when trying to setup correct OpenGL acceleration
+
+- SMP support in the renderer. Detects CPU count, r_smp 1 default if available. (thanks to Gareth Hughes for contributing this)
+
+- changed default GL driver from libGL.so to libGL.so.1
+
+  see LSB 1.2 spec: http://www.linuxbase.org/spec/refspecs/LSB_1.2.0/gLSB/libgl.html
+
+- Handle Ctrl and Space key together correctly (Ctrl was disabling Space)    
+
+- sub-frame timing of input events (key/mouse) (input timing quality now equivalent to win32)
+
+ 
+
+ 
+
+
+
+July.29.2002
+------------
+
+Just a quick note on future releases for Quake 3 Arena. We will be releasing a new point release in the relatively near future which includes a handful of fixes and updates and also includes full Punk Buster integration to combat cheating. No firm date on when this will be out but it should not be too far off.
+
+
+
+
+
+
+March.16.2002
+-------------
+Timothee has the Linux Wolf 1.3 update ready, it is on our ftp under wolf/linux/wolf-linux-1.3.x86.run  Enjoy.
+
+
+
+
+
+Jan 19.2002
+-----------
+To clear up a bit of confusion, what we released yesterday was the level editing tools and not the full SDK for Wolfenstein. Everything is there to create both single-player and multi-player maps. Also included is Escape ( from single-player ) and Beach ( from multi-player ) for reference.
+
+The source code will be available soon.
+
+
+
+
+Nov.12.2001
+-----------
+Somewhere out there I am sure a 3DFx Glide 2 SDK exists. I am in need of one if anyone has the original download let me know. I'm also looking for the latest Glide 3 SDK but can do without that. Thanks!
+
+
+
+
+Nov.5.2001
+------------
+
+The Wolf MP Test 2 client installs for Linux are now available ( Thanks to TTimo ). THe smaller version does NOT have media so you will need the Win32 setup if you get it. The larger version has everything you need. 
+
+Grab them here ftp://ftp.idsoftware.com/idstuff/wolf/linux/
+
+
+
+
+
+
+
+
+
+Oct.21.2001
+-----------
+
+The Q3A Master Server will be back up ASAP. We are having some issues with the hardware at the moment. 
+
+
+
+
+Sept.22.2001
+------------
+
+The client installs for Linux are now available. THe smaller version does NOT have media so you will need the Win32 setup if you get it. The larger version has everything you need. 
+
+Grab them here ftp://ftp.idsoftware.com/idstuff/wolf/linux/
+
+
+
+
+
+Sept.16.2001
+------------
+
+The dedicated Linux server installs for Linux are now available. THe smaller (2 MB) version does NOT have media so you will need the Win32 setup if you get it. The larger (65MB) version has everything you need. In general server commands are very similar to Q3A if not identical. 
+
+Grab them here ftp://ftp.idsoftware.com/idstuff/wolf/linux/
+
+
+
+
+
+
+Sept.15.2001
+------------
+It appears that GameSpot did not update to the latest build we sent them. The correct file is WolfMPTEST0915.exe.
+
+Both versions will work but you will want the later one for some compatibility, performance and other issues.
+
+
+
+
+Wolf Notes.
+
+I thought I'd share a bit of information about the Wolf MP Test. Basically some strategies and techniques we use around here.
+
+The key to Wolf MP is teamwork, you need good class balance to perform the objectives. There is no health on the map, and no ammo either. You will need a Medic to supply health and a Lieutenant to supply ammo. Here is a quick run down on some stuff. More info is in the readme that will accompany the test but this will get you started. Wolf MP was designed to have friendly fire on, you can turn it off but it is much more fun on. 
+
+All classes carry a knife, pistol, 2-handed weapon, grenade(s).
+
+Soldier - Can carry any two handed weapon. ALL classes are limited to one 2 handed weapon at a time. You can drop your weapon and pick up a different one. When you are wielding one of the heavier weapons, Venom, Panzerfaust, you move sllloooww.. but you can move at normal speed if you have your knife or pistol out.
+
+Engineer - Carries half the normal ammo initially can pick up more but starts out with half. Carries dynamite and tools, can defuse dynamite and fix the MG42 mounted guns. 
+
+Medic - Carries half the normal ammo initially and only 1 grenade. Can produce health packs based on the charge bar. All the class charge bars are on the right of the hud, the left hand bar is stamina. Also carries a syringe ( with 5 charges ) that can revive fallen comrades. You will see a revive icon over them if it is possible. When you die you can choose to go straight to limbo ( press jump ) or wait for a medic. PAY attention to the reinforcement timer on the scoreboard so you know when to jump to limbo.  Medic's also give a health bonus to your team up to 120, just having 2 medics alive on your team means you spawn in with 110 health instead of 100. Medics are your friend.
+
+Lieutenant - Carries smoke grenade which calls in an airstrike, ammo pack ( recharge system like the medic ) and binoculars for calling in artillery. The latter is particularly useful for erradicating enemy snipers that are hard to find. 
+
+You can change classes when you are in limbo and/or change weapons as a soldier. This is important as roles evolve based on what is going on during the game play. 
+
+If you are on the allied team, initially you are going to need an engineer, some snipers, a medic to help get the engineer up the beach. Once you have blown the door and the wall you do not need any more engineers unless you just like blowing stuff up in a major way. If you can capture the forward spawn point in the bunker you will mostly reinforce in there so at this point snipers become less critical. You will want soldiers and at least one medic and lieutentant. It is usually a fight down to the war room and then up to the radio room. 
+
+The axis team is going to want a lieutenant and a sniper or two to start out with. You will want to man the MG42's ASAP so you can chew the beach up and keep the door and wall up as long as possible. You can even get sneaky and have an engineer jump over the wall to defuse the dynamite if you can keep him covered well enough. Once they are inside the base you will want keep a group in the war room and in the radio room. A medic is handy near the radio room to keep people alive during the last push. A good Axis sniper can dominate the beach in the beginning.
+
+That is just a taste of what is coming your way from a game play perspective. The map is even fun one on one you just have to change classes to win! 
+
+Oh yeah, USE the SPRINT key, it is really helpful getting your butt outta bad places. Also don't forget the voice chats, called "Quick" chat in the menu system.
+
+For server ops the .script file in the maps directory ( outside the pak file ) contains mission time etc.. 8 Minutes is a good place to start. 
+
+
+Have fun!
+
+
+
+
+
+
+
+Aug 9.2001
+----------
+QCon 2 on 2 SMACK DOWN.
+
+Last year Tim and I had an open challenge in the nVIDIA booth in 2 on 2 CTF. The prizes were T-shirts for the winners. We only lost one out of about 25 matches. This year, we have some great prizes as we figure it is time for us to whip everyone's butt again in 2 on 2 CTF courtesy of nVIDIA and all the QuakeCon sponsers and volunteers.
+
+Here are the details:
+
+This year we will have two id teams, Tim and myself and Todd and Marty. We will take on any and all 2 person teams in 2 on 2 CTF. Matches will probably be to either 6 or 8 with a 5 minute time limit. This will happen Saturday afternoon and will take place in the nVIDIA booth. If you feel like getting your butt whipped in 2 on 2 CTF, grab a friend and get in line.
+
+We have some cool prizes this year for everyone.
+
+The first team that beats one of the id teams gets their choice of either Two GameBoy Advances ( and a game ) or Two GE-Force 3 cards. The 2nd team that wins gets whatever the first team did not choose. The next two winning teams will get framed and signed prints of Team Arena and we will also have T-Shirts and other gizmos and stuff on hand to reward great play and other winning teams.
+
+Good luck!
+
+
+
+
+
+
+Aug 2.2001
+----------
+
+Linux 1.29h is up on our FTP.
+
+
+
+
+
+
+Aug 1.2001.early.evening
+------------------------
+
+The 1.29h source is up on our ftp under quake3source. I don't anticipate many if any changes before the 1.30 final.
+
+
+
+
+Aug 1.2001
+----------
+
+I am going to get the latest source up for mod teams later today ( it might be late tonight ) but it should appear soon. There should be minimal changes if at all before this turns into a non-beta 1.30.
+
+
+
+
+
+July 31.2001
+------------
+
+The 1.29h point release is up. You can auto-update to it from 1.29f or 1.29g or grab the whole sha-bang from our ftp. The Linux version will be up asap. This is STILL a beta, we plan to go final with it after QuakeCon.
+
+Changes
+
+- Fixed Server exploit
+- Fixed Mouse wheel 
+- Fixed NT 4.0 Sound
+- FPS Boost
+- in_mouse set to -1 will provide 1.17ish sensitivity, in_mouse set to 1 will provide current sensitivity
+
+Thanks.
+
+
+
+
+
+
+July 30.2001
+------------
+
+Point Release status. 
+
+We have made the fixes we wanted to make to the latest version, including having the proper pak files in the full installer. We did not make any input code changes between 1.29f and 1.29g, but we did link with a different version of Directx ti get NT Sound functioning properly. This fixed NT 4.0 sound but produced an FPS loss on some systems and changed the way input was working as well which allowed in_mouse == -1 to work like some folks like but causes mouse wheel problems under some versions of Intellipoint. We have since done the following:
+
+-Re-linked to a later version of DirectX.
+-Set Directx up to use sound compatible with Directx 3 
+-Made one small tweak to the input code which allows in_mouse to function correctly when set to -1 ( old sensitivity ) this should make both input camps happy.
+-Fixed a potential server crash.
+
+We are testing this now and should release it in the am.
+
+Thanks.
+
+
+
+
+
+
+July 28.2001
+------------
+
+There is an issue if you download the full ( 25MB ) 1.29g install and apply it on top of 1.29f. The installer does not overwrite the existing baseq3pak6.pk3 and missionpackpak1.pk3. AUTO-UPDATE works just fine so if you have 1.29f it is best to do that anyway as the update is much smaller. The installer also works fine on any version prior to 1.29f. Most people will have just ran auto-update but for those that cannot or don't like auto-updaters can remove the above pak files before running it and it will work fine. 
+
+The game will run either way as the .exe is compatible with either set of pak files. Our install/setup person is out of town until tomorrow night. Once he is back we will get an updated setup that works properly.
+

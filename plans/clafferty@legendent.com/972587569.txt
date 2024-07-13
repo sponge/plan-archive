@@ -1,0 +1,26 @@
+--== October 26, 2000 ==--
+
+Barring any unforeseen problems, the patch for Return to Na Pali should
+be released sometime later today. All that is left is the official sign off
+(literally) from Infogrames test dept. This patch brings Return to Na Pali,
+the official mission pack for Unreal developed here at Legend, up to version
+226, adding the latest D3D support and the UT interface as the new user
+interface among other things! I will post a link once I know it is live.
+
+
+And from the "hey, it's only a game console" department comes this story on 
+dailyradar about people getting out of control trying to get a PS2 from
+Wal-Mart (and it happens to be in the town where I live). Must be getting close
+to the holiday season.
+
+<A href="http://www.dailyradar.com/news/game_news_5538.html">www.dailyradar.com/news/game_news_5538.html</A>
+
+===================================
+Craig Lafferty
+QA Manager/Associate Producer
+Legend Entertainment
+
+Current Projects:
+- Unreal 2
+- Fist fights at Wal-Mart for a PS2!
+====================================

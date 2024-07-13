@@ -1,0 +1,72 @@
+I hate to turn up out of the blue uninvited
+
+
+This has been a busy month.
+
+Humble Indie Bundle #4:
+
+ ...is now live! Get seven (Seven!) games, DRM-free, Mac/Linux/Windows,
+ with Steam keys, for any price you feel like paying. You decide where your
+ money goes, including to charities.
+
+ This certainly isn't the /first/ bundle, but I happen to think it's
+ the best so far. You are a flat-out sucker if you don't get a copy.
+
+ All of the games are quite good; I did the Shank and Super Meat Boy ports,
+ but I've fallen in love with all of them.
+
+ Please be gentle: all seven of these games are brand new Linux ports!
+
+
+Shank:
+
+ The biggest complaint thus far seems to be that the first boss fight seems
+ to take a massive performance hit. We're looking into this.
+
+ We're collecting bug reports at https://bugzilla.icculus.org/ and will
+ do another patch before the Bundle is over, I hope.
+
+
+Super Meat Boy:
+
+ Your Linux save games are in ~/.local/share/SuperMeatBoy. You can do some
+ limited key and joystick rebinding with the buttonmap.cfg file in the
+ game's installation directory.
+
+ We're collecting bug reports at https://bugzilla.icculus.org/ and will
+ do another patch before the Bundle is over, I hope.
+
+ Correction about a previous note: this game will /possibly/ work on 
+ old Intel GPUs, if  you force it to low detail and wait for my fixed version.
+ Low detail mode is enabled with -lowdetail on the command line. There's
+ also a bug that prevents the game from working with the open source
+ video drivers, which I'm fixing...stupid mistake on my part.
+
+
+Killing Floor:
+
+ The Twisted Christmas Event is going on now! If you want to shoot Zeds with
+ a little holiday cheer, you have until January 4th to do so.
+
+ If you've been getting crashes since upgrading your Mac to Lion, these should
+ be fixed in the latest builds, which Steam will give you next time you try to
+ play.
+
+
+Other Stuff:
+
+ I've been having an internal struggle about whether I should be using an
+ iOS or an Android phone. I've got a Nexus One and a 3Gs here. I waffle
+ daily about which I like better, and constantly switch the SIM card between
+ them. I have some complaints about both. I wonder what two major versions
+ better of Android would do for my attitude. iOS 5 was certainly an
+ impressive upgrade.
+
+--ryan.
+
+--------------------------------------------------------------------
+When this .plan was written: 2011-12-20 22:34:03
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+Powered by IcculusFinger v2.1.24 (http://icculus.org/IcculusFinger/)
+Stick it in the camel and go.
+

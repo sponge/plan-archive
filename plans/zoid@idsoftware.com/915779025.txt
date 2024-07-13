@@ -1,0 +1,54 @@
+
+Name: Dave Kirsch
+Email: zoid@idsoftware.com
+Description: Programmer
+Project: 
+-------------------------------------------------------------------------------
+
+Jan 7th, 1999
+
+A new release of Quake2 CTF is now available.  This and is an official 
+release of the previous 1.09 beta that was made available earlier and
+also includes three new maps.
+
+What this adds is:
+
+- Full timed competition mode
+- Voted admins who can change maps/kick players
+- Three new maps
+- Full VWep support
+- More server adminstrative functions such as sv_maplist, IP banning, etc.
+
+The new maps are:
+
+q2ctf6 - Borders Canyon
+  Original map by Zoid in base style without side canyons.
+q2ctf7 - Boxed In
+  Based off a Rogue: Ground Zero dethmatch level of the same name.
+  Original map by Jim Molinets, CTF version by Zoid.
+  Warehouse style map with many paths and twisting cooridors.
+q2ctf8 - The Hangar Scenario
+  Original map by Mike "]BC]Casey" Goodhead.
+  Large open map with large hangar rooms to fight in.
+
+***NOTE:  The additional maps come in a pak1.pak that go into your CTF
+directory.  If you already have a third party addon in your Quake2/CTF
+directory, you will have to rename it to pak2.pak or a higher number since
+the Quake2 CTF 1.50 installers will overwrite any existing pak1.pak (with
+confirmation).
+
+Quake2 CTF 1.50 is now available from ftp://ftp.idsoftware.com/ (check other
+major Quake news sites for mirrors later on in the evening):
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake2/ctf/q2ctf150.exe">Q2CTF 1.50 Windows 95/NT Full Client Installer</a>
+<a href="ftp://ftp.idsoftware.com/idstuff/quake2/ctf/q2ctf150.zip">Q2CTF 1.50 Full Client ZIP manual install</a>
+<a href="ftp://ftp.idsoftware.com/idstuff/quake2/ctf/q2ctf150upgrade.exe">Q2CTF 1.50 Windows 95/NT 1.50 Upgrade Installer</a>
+<a href="ftp://ftp.idsoftware.com/idstuff/quake2/ctf/q2ctf150upgrade.zip">Q2CTF 1.50 Upgrade ZIP manual install</a>
+
+<a href="ftp://ftp.idsoftware.com/idstuff/quake2/ctf/unix/q2ctf150-glibc-axp-unknown-linux.tar.gz">Q2CTF 1.50 Game shared library for Linux Alpha</a>
+<a href="ftp://ftp.idsoftware.com/idstuff/quake2/ctf/unix/q2ctf150-glibc-i386-unknown-linux.tar.gz">Q2CTF 1.50 Game shared library for Linux i386 (glibc systems)</a>
+<a href="ftp://ftp.idsoftware.com/idstuff/quake2/ctf/unix/q2ctf150-i386-unknown-linux.tar.gz">Q2CTF 1.50 Game shared library for Linux i386 (libc5 systems)</a>
+<a href="ftp://ftp.idsoftware.com/idstuff/quake2/ctf/unix/q2ctf150-sparc-sun-solaris2.5.1.tar.gz">Q2CTF 1.50 Game shared library for Sun Sparc Solaris 2.5.1</a>
+
+/// Zoid.
+

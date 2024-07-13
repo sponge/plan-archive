@@ -1,0 +1,19 @@
+
+Name: Graeme Devine
+Email: zaphod@idsoftware.com
+Description: Designer / Project Manager
+Project: 
+-------------------------------------------------------------------------------
+
+The Quake 3 Master Server
+
+Due to an ongoing flood attack on the authorize server the
+master server got super slow on responding.  For a few weeks
+we've noticed that it was less than solid, but it wasn't
+until investigation that the cause was found.  Apologies for
+this.
+
+I'm working on the issue right now, so the master server may
+appear down today for a few hours starting right about now.
+
+Graeme.

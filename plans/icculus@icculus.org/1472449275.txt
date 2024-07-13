@@ -1,0 +1,102 @@
+IcculusPlan
+
+
+
+
+
+A long-standing TODO item for SDL was audio capture: the ability for your app
+
+to record sound from a microphone. We designed it into the API for 2.0.0, but
+
+it didn't exist _at all_ beyond that. Not only was it not implemented in any
+
+of the backends, the higher-level infrastructure was missing in the library
+
+core too, so trying to open an audio device for recording would always fail.
+
+
+
+No longer! Now you can record audio from your SDL2-based programs.
+
+
+
+A fundamental difficulty with SDL--for me at least--is that adding a new
+
+feature to the audio subsystem means implementing it _twenty-three_ times.
+
+There are three different audio APIs on Windows, _seven_ on Linux, not to
+
+mention Android, iOS, macOS, Emscripten, and various other Unix variants and
+
+miscellaneous fringe targets. It took some effort to support as many of
+
+these as possible! Overall, we did okay; all of the major platforms have
+
+support: Windows (winmm, DirectSound), Linux (ALSA, OSS, PulseAudio), macOS,
+
+iOS, Android, and Emscripten. Some of the others are beyond my reach (XAudio2
+
+on Windows doesn't support capture at all, and I don't have an AIX install,
+
+for crying out loud!), but I'll definitely welcome external patches to fill
+
+any gaps.
+
+
+
+Using the new capture support should be very familiar to those that have used
+
+SDL's usual audio APIs. You enumerate and open capture devices the same way.
+
+The familiar audio callback fires regularly, as you'd expect, although you
+
+read data in the callback instead of writing it. If you want a simpler
+
+interface, there's also an equivalent of 2.0.4's SDL_QueueAudio() API to
+
+grab samples from the device at your leisure.
+
+
+
+This is in revision control now, and will officially ship with SDL 2.0.5.
+
+
+
+Want to see it in action? Fire up a web browser that supports recording from
+
+a microphone, and point it [here][1]. That's a C program, compiled with
+
+Emscripten, that uses SDL's new audio capture support.
+
+
+
+Or you could enjoy these videos of Olive demonstrating the feature on both
+
+[iOS][2] and [Android][3].
+
+
+
+  [1]: https://icculus.org/~icculus/emscripten/capture/testaudiocapture.html
+
+  [2]: https://twitter.com/icculus/status/760878687155806208
+
+  [3]: https://twitter.com/icculus/status/763938691299495936
+
+
+
+--ryan.
+
+
+
+---------------------------------------------------------------------
+
+When this .plan was written: 2016-08-29 00:41:15
+
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+
+Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
+
+Pulitzer might own The World but he don't own us!
+
+
+

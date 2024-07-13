@@ -1,0 +1,892 @@
+
+*** Monolith Production's Finger Server
+
+User name: goble
+Plan modified: Wed Dec 16 19:18:58 1998
+
+12/16/98
+
+Attention all game programmers looking for a
+job!  Monolith may have one or more positions
+opening up in January!  Email me your resumes
+and/or demos!  email: goble@lith.com
+
+Even if you've sent me a resume earlier in the
+year, please email me with your latest version
+(this will also put you back near the top of
+the pile  :)
+
+I often get swamped with resumes in addition to
+all the other work I gotta get done, so I 
+apologize in advance if it takes me a little
+longer to get back to you.
+
+In a nutshell, experience I like to see should
+include at least two of: C/C++, DirectX, game
+programming, LithTech, AI, assembly language,
+optimizing, MFC, tools development, and of
+course, cool demos.  :)
+
+
+
+
+12/14/98
+
+The Blood2 stand-alone server should be converted
+over to the new LithTech code-base by tomorrow.
+Greg is getting all of the game stuff (weapons,
+movement, etc.) moved over to the client side.
+So far, so good.  :)
+
+The Shogo multiplayer demo got the green light from
+QA late this afternoon!  However, it turns out
+that marketing has some big release plans in the
+works for the Shogo demo--so they're not going to
+release it until Tuesday or Wednesday (hopefully
+Tuesday).  I'm not exactly sure what all is
+involved, so stay tuned.  I strongly suggest that
+you pick up a copy of the full version of Shogo
+while you're waiting.  ;)
+
+The Shogo 2.1 patch is out and I keep having these
+cravings to jump on a server and get some frags
+(which of course I give in to every time).  It's
+soooo much fun!  :)
+
+
+
+12/9/98
+
+The Shogo 2.1 patch update is almost ready--it's
+in final testing right now, and should be ready
+for a release on Friday evening!  We had a big
+test game going the other day and I was on fire!
+I was unstoppable on the on-foot levels! It was
+a blast--especially since it's kinda rare for me
+to come out on top of the frag count :)
+
+The Shogo 2.1 demo (with multiplayer!) is almost
+ready to go as well.  It should be out by Monday!
+
+I added some new console variables to ShogoSrv so
+people could specify if they are hosting servers
+running mods via the gamemode and gametype GameSpy
+server info values.  Should be useful now that mods
+are starting to appear.  :)
+
+The Blood2 multiplayer patch work has already
+started.  Greg already has all of the game
+compiling under the new engine code...except for
+the module that I am responsible for...so I better
+get back to work!  :)
+
+
+
+12/3/98
+
+First, I want to apologize for jumping the gun
+on the release of the Gruntz demo.  The demo is
+done and ready to go, but marketing has a big
+event planned for the beginning of January and
+the demo will be released as part of that event.
+So, sorry to start your mouth watering and then
+take away the juicy steak from your plate.  :)
+
+Next, I want to let you know that the new Shogo
+demo with multiplayer is basically ready to go
+(as well as the 2.1 update for the full version)
+except that we are still banging our heads
+together (it feels so good when we stop) trying
+to figure out this high-ping problem with some
+modems (mostly 3Com).  :|
+
+Lastly, I want to let everyone know that there
+will be a Blood2 server page (like the Shogo
+server page) up in a week or so.  Spen is swamped
+right now and we are also busy on the multiplayer
+patch for Blood2.  It will be worth the wait tho.
+
+:)
+
+
+11/24/98
+
+I just gave a build of the new Shogo demo (with
+multiplayer!) to QA for testing.  There's a few
+minor (t)issues and we are also still working on
+a fix for the "high-ping" problem.  The new Shogo
+demo has two multiplayer levels (one OF and one
+MCA), includes a stand-alone server, and supports
+GameSpy.  The MCA level is a good-sized one, so
+get ready for some big games.  :)
+
+While you're waiting for the new Shogo demo to
+be released, be sure to buy the full version!  :)
+
+We are also finishing up a small single-player
+patch for Blood2 that contains some minor fixes,
+features and optimizations.  Rumor has it that
+some stores already have Blood2...so we're hoping
+to have this small (but useful) patch available
+very soon (possibly even on Wednesday).  Oh yeah,
+this new patch also makes the game even more
+bloody.  :)
+
+With the small single-player patch basically out
+of the way, we can now start on the big multiplayer
+patch for Blood2.  This will greatly improve
+multiplayer over the internet, just like it did for
+Shogo.  We also have a few other multiplayer
+surprises up our sleeves...more info soon...  :)
+
+I played what is now (I believe) the gold version
+of Gruntz over the weekend.  And, I think the Gruntz
+demo is going to be available in a few weeks! 
+This game is a ton of fun (it's practically two
+games in one) as well as full of "Monolith-style"
+humor.  Stay tuned...  :)
+
+I leaked a few more Claw cheats to the Claw forum.
+If you're a Claw fan, be sure to check em out.
+There's actually only a few more left for me to
+give out!
+
+If you have created any levels for GM using the
+editor, please email them to me...I'd like to get
+some user created levels posted for others to
+download and play.  Thanx!  :)
+
+goble@lith.com
+
+
+
+11/18/98
+
+I'm back!  :)
+
+The Shogo patch was released just a few hours after
+I got back!  I know we were a couple days late, but
+although this was supposed to be mainly a multi-
+player patch, we ended up throwing in a bunch more
+single player stuff too.  We actually ended up doing
+a lot more than we originally planned--but I think
+it was well worth the extra effort!  Thanks to 
+everyone who provided us with feedback, bug reports,
+helped us test the patch, and generally supported us
+by sending positive vibes our way.  We really 
+appreciate your patience as well. :)
+
+I almost forgot about a cool Blood2 feature that is
+available in both the demo and the full version.
+Here's the scoop for...
+
+Adding Custom Blood2 Sounds!!!
+
+I set things up in Blood2 (full and demo) such that
+even the non-modder can easily add a few custom sounds
+for The Chosen characters.  Here's all you gotta do:
+
+Create a folder in your Blood2 install directory
+called "Custom" (full version does this for you).
+
+Make a sub-folder under "Custom" called "Caleb" (or
+"Gabriella", "Ishmael" or "Ophelia").  Note that the
+demo only supports Caleb.
+
+Under the "Caleb" folder (or "Gabriella", "Ishmael"
+or "Ophelia"), you can then make one or more of the
+following sub-folders:
+
+Idle
+BigGib
+Pain
+Kill
+Death
+Burning
+Powerup
+Spawn
+Suicide
+Weapon
+Taunt
+Jump
+
+Each of the above folders is a sound "group". Stick as
+many .WAV files as you want (any format) in one or more
+of the folders.  If a folder is empty, the game will
+use the regular game sounds.  If a folder has .WAV
+files inside, it will randomly pick from these sounds
+instead!
+
+For the demo, you need to specify "-rez custom" on
+the command-line.  You can have the demo launcher
+automatically do this by adding it in the advanced
+options (be sure to check the "Always specify..."
+check box).
+
+Hope that all makes sense.  Enjoy!  :)
+
+
+
+
+11/12/98
+
+I will be out of the office until Wednesday
+November 18th.  They're gonna hafta release
+the Shogo patch without me!  :)
+
+The Shogo patch is looking awesome.  We did
+some testing with a few external people tonight
+and everyone seems to love all the new server
+options and the new DM levels!  (there's 8
+new ones, I think)  I think the game is running
+even faster with the new tcpip driver.
+
+We made the "short" list for the Blood2 patch
+that will be available right around the time
+Blood2 hits the stores.  There's a few things
+we want to tweak and I think we have some
+ideas for a few more speed optimizations.
+After that, will be putting all the new internet
+multiplayer code in for a multiplayer patch.
+
+I played a little Gruntz multiplayer with the
+Gruntz demo today.  It was a blast!  I saw
+the Gruntz box art during lunch and it's coming
+along really well.
+
+Remember, if you send me an email and I don't
+respond...it's not cuz I'm ignoring you, it's
+cuz I'm out of the office until 11/18.  Bye! :)
+
+
+
+11/6/98
+
+Lot's of game news...
+
+Blood2 has gone Gold and the game is awesome!
+Everything really came together in the last few
+weeks!  I finally played through the whole thing
+and the story is really cool (and gory) and it
+is definitely a ton of fun.
+
+We made some great optimizations that really 
+improved performance and the level designers
+worked their magic with the in-game cutscenes
+once again.  This game is bursting at the seams
+with content...I think the CD has less than 9
+meg of free space!  Now that's a lot of content!
+
+As promised, I rebuilt the Blood2 demo using all
+the new code.  Jace has been doing some tests
+and the new build of the demo is WAY faster. 
+Plus, it has all the new mouse tweaks that make
+it "feel" better.  QA is currently pounding on
+the demo...so it should be available any day now.
+Stay tuned!  :)
+
+Shogo has got some new goodies too.  The patch
+is coming along well.  Mike and Stephens added
+some cool new multiplayer options to LithTech
+and Shogo and I recently updated the ShogoSrv and
+Shogo wizards to make many of them available to
+the user.  I won't explain what they all are right
+now (most of them are self-explanatory) but take
+a look at one of the new options dialogs:
+
+http://users.lith.com/~goble/jpgs/options.jpg
+
+The world/day/night/skycolor stuff that Mike added
+is awesome, BTW.  :)
+
+Gruntz is in it's very final stages and should be
+going Gold on Monday!  The team has been fine-tuning
+some of the puzzles and perfecting the multiplayer
+gameplay.  I haven't been able to play one of the
+more recent builds...but I'm looking forward to it
+now that I have a little more free time.  The intro
+movie is still one of the best we've ever done IMO.
+
+As many of you know there are only a few cheat codes
+in the Blood2 demo.  I think a few of them are known.
+Wouldn't it be nice if there was a cheat code to skip
+to the second level so you could watch the cool intro
+cinematic again?  Do you think there might be a cheat
+code in there to do this?  Wouldn't that be SUPER? I
+think it would be SUPER.  But if there wasn't, my only
+response would be: "ZUG".  As in "ZUG" (just something
+I say occasionally).
+
+Have fun... ;)
+
+
+
+
+11/2/98
+
+The full version of Blood2 could go Gold any hour
+now!  We are so close!  We have made so much progress
+over the past few days.  With Mike's help, we made
+some significant speed improvements as well as
+reduced the memory overhead.  The low and medium
+detail settings will now make a much bigger/better
+impact on the speed of the game--even high detail is
+running a lot smoother!
+
+It's kind of funny how some of the best improvements
+and optimizations always find their way into a game
+at the very last second.  The Blood2 demo is already
+out there, and it doesn't have all of these great
+improvements.  So, we will most likely release an
+updated demo (and/or patch file) that includes all
+this great new stuff.  If things go smoothly, we 
+can probably have it ready a few days after the full
+version officially goes gold.  :)
+
+I just finished playing through the entire full
+version of Blood2 (using cheats, of course) and the
+game is absolutely incredible.  As a programmer,
+you often play only a few of the levels, or even
+a single test level where you test all your new
+code--so you rarely get to see all the levels. But,
+since we are so close to going Gold, I needed to
+help verify that you can get all the way through 
+the game--poor me.  :)
+
+I think most of you already know that I hate spiders.
+Yes, Blood2 made me yell a few times...there are
+some really spooky levels that were getting to me
+at 2am last night...the sounds and music didn't help
+either.  Plus, now there's creatures in there that
+are worse than the spiders!  Ack!
+
+We're going to try to put out another *ALPHA* version
+of the Shogo patch to help get more feedback. I've
+been focused on Blood2 this past week, but I hear
+things are still going well.  I should have more info
+in a couple of days.
+
+
+
+10/30/98
+
+The Blood2 Demo will be released tonight at 9pm
+pacific time!  Check out http://www.blood2.com
+and http://www.the-chosen.com for more info!
+
+The demo is another hefty one...weighing in at a
+gory 36 Meg.  It's got 2 levels, 6 weapons, some
+good baddies, and even a few cheat codes--but I'm
+not telling what they are... :)
+
+The full version of Blood2 is oh-so-close to being
+done and it is looking really good...the in-game
+cinematics are awesome!  Being able to play any
+one of The Chosen characters is really cool too.
+
+After Blood2 ships, I'll take a quick break and
+then add all of the new Shogo multiplayer options
+into the wizards.  Mike and I are hoping to add
+some cool new connection features too.
+
+Enjoy the Blood2 demo!  :)
+
+
+10/24/98
+
+I just sent out a build of the Blood2 demo to the
+whole team!  I am still waiting on a couple of level
+tweaks from billv and one more splash screen from
+gforce...but it's getting really close now.  The
+second level's intro cinematic is incredible!
+
+The zip file for the Blood2 demo is probably going
+to be right around 34 Meg. Look for it early this
+coming week!  :)
+
+If you don't have Shogo or the Shogo demo, grab it
+now so that you can make sure your 3D card's driver
+is working properly with DirectX6.  LithTech uses
+all the new 3D features in DirectX6, so a driver
+update is usually required (gee, I feel like I've
+typed that before)
+
+We are learning tons from the alpha of the Shogo
+patch we released!  I played in a bunch of big games
+last night and it was a blast!  There were also some
+server issues (hey, that's why it's an alpha :) and
+I am going to have to make some tweaks to ShogoSrv.
+
+Mike and I talked about some network code changes
+we can make that will help fix a bunch of the current
+issues.  I will be helping out as much as I can but
+my number one priority right now is Blood2.  :)
+
+I've seen mostly positive feedback regarding the
+alpha patch's affect on Shogo single-player.  The
+AI tends to kick your butt during cinematics on the
+harder difficulty settings...but other than that,
+I haven't heard anything too major.  If you've been
+playing Shogo single-player with the alpha version
+of the patch, please send us some feedback!  :)
+
+
+
+10/23/98
+
+I'm back on the late night schedule...so you know
+we're in full-tilt crunch mode over here.  :)
+
+Blood2 is looking incredible!  This game is so
+bloody and gory, yet it can be so darn funny at
+times too!  There is so much awesome dialog in
+the game!  Not too mention max gibbage!  :)
+
+The Blood2 demo is actually almost done.  The
+hardest part has been deciding which weapons to
+put in.  I really started to like some of them
+and it's hard to decide what to do.  Part of me
+wants to put them in the demo because they are
+so awesome...and part of me thinks we shouldn't
+spoil all of the fun in the full version.
+Decisions Decisions...
+
+I did lobby hard for the assault rifle because
+I really like that one (I think I can hear Shade
+yelling in the other building as I give out more
+info without telling him) The DeathRay is just
+so awesome now...is it going in the demo?  I'm
+not telling.  :P
+
+The alpha version of the Shogo patch is right on
+schedule (don't you just love us :) and should 
+be available tomorrow evening!  I couldn't resist
+and jumped into a few of the bigger multiplayer
+games (using GameSpy, which makes it sooo easy
+now).  I could not really tell who had the fast
+connections and who had the slow ones.  But, with
+16 people playing, there wasn't a lot of time to
+think about it.  :)
+
+Mike and I just coded in some ping info into
+ShogoSrv and we also send it to GameSpy now.
+Stephens said he played through a bunch of the
+single player levels and only encountered some
+minor problems.  It's still an alpha version of
+the patch, however, so I'm sure there are still
+some problems.  Be sure to read the readme!
+
+
+
+10/20/98
+
+Both Shogo and Rage of Mages are in stores!
+Buy a copy today! http://store.lith.com
+
+Shogo is doing great but we're still busting
+our bunz working on making it even better.
+The patch is coming along well and I'm really
+hoping we can have it out *before* the November
+15th deadline!  Mike is adding more player
+info stuff (ping times, connect time, etc.)
+so I will add that to ShogoSrv soon.  My todo
+list is growing, but Blood2 has priority for
+me currently.  Read on...
+
+Over the weekend, I some how volunteered
+myself to lead the task of putting together
+the Blood2 demo.  That's right, there will be
+an awesome Blood2 demo coming your way soon!
+Should be out early next week at the latest.
+(once I get something into QA's hands, I'll
+have a better idea--it could be sooner)
+
+This wouldn't be so bad except that we're
+also going to be putting together the gold
+master CD for the full version of Blood2 this
+weekend as well!  There's Blood everywhere!
+
+Now that I've been programming on Blood2 for
+a little while, I am totally blown away by 
+the fact that we are putting out two AAA
+game titles within a few short weeks of each
+other.  The more I work with LithTech, the
+more I am convinced that there's going to be
+a lot more cool games using it in the future.
+
+I've been trying to help out the tech support
+guys by keeping up on the forums.  Actually,
+I've gotten kind of addicted to the forums
+lately.  I try to help people when I can and
+I've gotten a bunch of emails saying "thanks!",
+"you guys rock!", etc. etc. and I just wanted
+to say that those emails mean a lot to me. We
+know our products aren't perfect but we really
+do try to help people and continue to improve
+our games.  Your support is very much
+appreciated.  We also listen to feedback from
+other gamers...so don't be shy!  :)
+
+
+
+
+
+10/13/98
+
+Rage of Mages is out!  This game is incredible.
+Check it out at: http://www.rageofmages.com
+
+Then, buy a copy at: http://store.lith.com  :)
+
+Shogo is doing pretty darn well.  We're getting
+some really good reviews and there's less than a
+week until it hits the stores!
+
+I've got about a dozen items to do for the Shogo
+patch that we're working on.  Most of them are
+minor tweaks to the launcher and some new options
+to the stand-alone server (tractor beam stuff,
+run speed adjustments, etc.)
+
+In my last plan update, I mentioned that the 
+GameSpy support was in, but I forgot to give a
+big "thanx!" to the GameSpy guys!  Supporting
+GameSpy was actually pretty darn easy--by I did
+have a few questions and they were always quick
+to respond with helpful info.  Thanks again 
+guys!  :)
+
+I put in a bunch of the voice sounds into Blood2
+for the four "chosen" characters.  The "taunts"
+are awesome.  You can also customize the various
+sound groups with your own wave files if you 
+like--this made Rick *really* happy.
+
+
+
+
+
+10/7/98
+
+The Shogo demo is out!  In general, people seem
+to really be enjoying it.  There are a few small
+problems, of course--but we are taking care of
+those issues as quickly as we can.
+
+I've been spending most of my time on answering
+questions on the Shogo forums and helping out
+on Blood2.  Thanks to Stephens, I can now be
+even more helpful as a member of the (elite)
+Blood2 engineering team.  :)
+
+Blood2 is really moving along now--we're in full
+super-duper-extra-deluxe-twin-turbo-intercooled
+crunch mode.  Wasn't I just here...oh wait, that
+was Shogo.
+
+Blood2 is really interesting because it's a LithTech
+game (which is impressive in itself, that LithTech
+can release a second game a month or so after the
+release of it's first game) yet it has a totally
+different atmosphere.  This game has actually scared
+me a couple of times already.  And those spiders!
+I hate spiders!  They freak me out!  But, they're
+in Blood2 and I had to test some AI stuff...so I
+had to "man it" and deal with the spiders.  Life
+is rough sometimes.  :)
+
+Rage of Mages will be in stores on October 12th and
+Shogo hits the shelves on the 19th.  This is a
+really exciting time for Monolith and I can't wait
+to see how our games do!  Thanks to everyone out
+there for all there support! :)  
+
+Last week, I finished up GameSpy support for both
+Shogo and Blood2.  Blood2 will ship with GameSpy
+support out-of-the-box and the new stand-alone Shogo
+server will be ready for downloading on Shogo's
+release date.  People seem to really like the
+multiplayer setup wizard in Shogo...which makes me
+happy since I was a little worried about how that
+would be received by other gamers.
+
+Well, my big compile is done and I have all the new
+Blood2 resourdces...gonna check out some new stuff
+now...
+
+
+
+
+10/1/98
+
+Yes!  We are still on target for releasing
+the Shogo Demo at 12:01am (west coast time)
+on Friday (so basically, late Thursday night).
+
+I just finished playing what very may well
+be the final Shogo demo.  We only had to
+make a few tweaks to it this week so QA will
+hopefully give us the green light on Thursday
+afternoon.
+
+The Shogo demo has two playable levels--one
+mecha and one on-foot.  About 1/3 of the
+weapons are available and there's tons of
+stuff to blow up and you'll also get a taste
+of how the story gets conveyed and how the
+NPC interaction works.  It's really quite
+awesome and Shogo never ceases to impress
+me whenever I play.  I wish more of my code
+was in there.  :)
+
+The demo is 39.8 Meg and it does include
+some music so you will get to hear how IMA
+works (dynamic music based on what's going
+on in the game).  It really is an awesome
+audio addition to a game.  I think you'll
+really like it.
+
+Blood2 is also coming along really well.
+I've been helping out on some programming
+odds-and-ends now that we are getting closer
+to completion.  GameSpy support (this goes
+for Shogo too) is so very close to being
+done.  I just one or two more things to
+iron out.  The GameSpy guys are great and
+have been really helpful.
+
+Ok, I managed to sneak in a few vehicle
+updates for those who care.  Here's a quick
+summary and some links...
+
+A local shop now has a dyno so I gave it a
+spin and pumped out 287.6hp at the rear
+wheels!  This equates to around 335ish hp
+at the flywheel (stock is 255).  Ignition
+amplifier is next.  Check out some pics
+and vids at:
+
+http://www.users.lith.com/~goble/rx7/dyno.html
+
+I've had the micron pipe on the motorcycle
+for a couple months now and I finally made
+the "after" video.  I also took a couple
+more pictures of my new gear.  This stuff
+is now on my web site.  Check it out at:
+
+http://www.users.lith.com/~goble/goof/index.html
+
+Oh yeah, I updated the credits for Blood2
+today and the winning "one-liners" from the
+contest are a combination of "hilarious"
+and "totally awesome"! :)
+
+
+9/24/98
+
+Wowzers!  The buzz on the net and the
+gaming mags is that Shogo is a mega hit!
+I don't disagree either. :) I am really
+impressed with this game and can't wait
+for it to hit the shelves!
+
+Check out what the Quake/2 lovers had to
+say about Shogo after seeing it and playing
+it themselves:
+
+http://www.planetquake.com/reviews/shogopg1.shtm
+http://www.planetshogo.com/features/testify.shtm
+
+I am almost finished with adding GameSpy
+support into both Shogo and Blood2 (in the
+stand-alone servers).  This is going to be
+really cool and was actually fairly easy
+to add.  I set things up so all of our 
+future games can support GameSpy with only
+a few lines of code.  :)
+
+Starting tomorrow I am 97% on Blood2.  Yeah,
+management has fallen to about 3% of my time.
+but fortunately, everyone has too much work to
+do to really need anything or be causing any
+problems.  :)
+
+Tobez got a new motorcycle jacket today...and
+I rode in as well...so we cruised the strip a
+couple times today.  The dual Micron pipes
+sounded real good.  :)
+
+Played the NeedForSpeed3 demo briefly today.
+Hmmm...
+
+
+
+9/13/98
+
+Practically the entire company is busting bunz on
+Gruntz, Blood2, and Shogo.  All of our sleep schedules
+are completely screwed up and our diets have definitely
+fallen below FDA standards I'm sure.
+
+However, the games are looking and playing awesome and
+that's what's important, right?  :)
+
+I built the stand-alone server for Blood2 and now
+multiplayer BloodBaths have become a nightly ritual.
+
+Get Medieval continues to get more great reviews.
+Check out the review AND interview (with yours truly)
+on Gamer's Alliance:
+
+
+http://www.gagames.com/news/interviews/getmedieval.html
+
+http://www.gagames.com/games/reviews/getmedieval.html
+
+Lastly, I just wanted to say that we all really
+appreciate all the great emails we've been receiving
+recently, supporting us in our efforts to put the
+finishing touches on our upcoming games.  So far, no
+one has had to go to the hospital--although Bouwman
+is clearly losing his mind.  Thanks again for all
+your support!  :)
+
+
+9/10/98
+
+No sleep and my neck is killing me.  But Shogo
+is looking incredible and I'm even getting started
+on some Blood2 gramming.
+
+Gruntz is going to be done in a few days...but they
+don't seem to need much from me these dayz.  :)
+
+We released the Get Medieval demo and the editor
+today.  The editor is kind of "pre-release" because
+we plan on making a bigger help file and releasing
+more template levels for each dungeon set.  However,
+the editor is fairly easy to use--so I think we'll
+be seeing some cool new GM levels very soon.  :)
+
+There was an interesting article in this month's
+PC Gamer magazine on Monolith.  Check it out if you
+haven't already.
+
+Well, not much else is going on...just been working
+a ton...Shogo, then Blood2, then relax.
+
+
+8/27/98
+
+Get Medieval is out!  The game is getting great
+reviews!  It's fun!  It's funny!  It's fast!  Buy
+a copy today!  :)
+
+We're in super-duper-extra-crunch mode on Shogo.
+Things are really coming together.  We're feature
+complete now so we're focusing on bugs, balancing,
+and tweaks.
+
+My efforts on the network interface and stand-alone
+server are almost done.  I'll still help out with
+playtesting and bug fixes...but I'm getting ready
+to dive into Blood2 stuff in a couple of days.
+
+The Blood2 team is working just as hard as the Shogo
+team.  Basically, the whole company is working like
+crazy trying to get our games out to the world.  It's
+a lot of work...but it's worth it.  :)
+
+The Gruntz team has been working incredible hours as
+well and I think we've really got a unique game on
+our handz.  
+
+After Blood2, the late nights should end and I can
+take a breather. (you've probably noticed that I
+haven't been talking about car stuff lately...no time
+right now  :|
+
+It's really exciting that Get Medieval is out and 
+doing well.  I hope you go out and buy it and have
+as much fun playing GM as we had making it.  We want
+to keep making great games for everyone to play!  :)
+
+Gotta fix a ShogoSrv bug now...   :)
+
+
+8/27/98
+
+Get Medieval is out!  The game is getting great
+reviews!  It's fun!  It's funny!  It's fast!  Buy
+a copy today!  :)
+
+We're in super-duper-extra-crunch mode on Shogo.
+Things are really coming together.  We're feature
+complete now so we're focusing on bugs, balancing,
+and tweaks.
+
+My efforts on the network interface and stand-alone
+server are almost done.  I'll still help out with
+playtesting and bug fixes...but I'm getting ready
+to dive into Blood2 stuff in a couple of days.
+
+The Blood2 team is working just as hard as the Shogo
+team.  Basically, the whole company is working like
+crazy trying to get our games out to the world.  It's
+a lot of work...but it's worth it.  :)
+
+The Gruntz team has been working incredible hours as
+well and I think we've really got a unique game on
+our handz.  
+
+After Blood2, the late nights should end and I can
+take a breather. (you've probably noticed that I
+haven't been talking about car stuff lately...no time
+right now  :|
+
+It's really exciting that Get Medieval is out and 
+doing well.  I hope you go out and buy it and have
+as much fun playing GM as we had making it.  We want
+to keep making great games for everyone to play!  :)
+
+Gotta fix a ShogoSrv bug now...   :)
+
+
+8/15/98
+
+Still working on network stuff for Shogo.  The game
+is so awesome.  We're shooting for having a really
+good build for Monday.  I've got the stand-alone
+server working and now I'm working on adding support
+for DirectPlayLobby--it's almost working.  I'll be
+on Portal a bunch so logon and say "hi"!  :)
+
+We released a beta build of Gruntz to the company
+yesterday.  The game just needs a little tweaking
+and balancing and the remaining final sounds and it
+should be done!  There was this really interesting
+bug that kevin, tobez, and blong were hunting down
+for a few hours.  It turned out to be a really subtle
+bug relating to multiplayer out-of-syncs and timing
+when starting a level.  It turned out that all they
+need to do was read the WAP manual and they would
+have quickly...oh wait, there is no WAP manual.  Well,
+they added some really good debugging aids so if any
+other out-of-syncs pop up, they should be able to find
+them instantly.  :)
+
+In less than 3 weeks, "Get Medieval" should be on
+the shelves!  I can't wait!  We added a "reviews"
+section to the GM site...so check out what the 
+reviewers are saying (summary: fast funny fun)  :)
+
+http://www.getmedieval.com
+
+
+Well, I gotta get back to work on Shogo...wait, what's
+that over the horizon...it's Blood2!  :)
+
+
+
+
+

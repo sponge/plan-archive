@@ -1,0 +1,14 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Ld. Programmer
+Project: Jedi Knight2
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+As many of our Trek fans are aware, for the past couple of weeks, we've been releasing the source .map files from Star Trek Voyager: Elite Force to:
+
+http://www.3ddownloads.com/?directory=/eliteforce/official/Map%20Files/
+
+In case you've been busy with other things, now you know they're out!
+If you've always wondered how we managed to make the "awesome swinging pendulums(tm)" or wondered about the finer points of scripting NPCs, grab these files now, and examine away!

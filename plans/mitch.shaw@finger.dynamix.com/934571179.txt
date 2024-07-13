@@ -1,0 +1,77 @@
+Message of the Day:
+
+Welcome to the Dynamix Finger Server!
+be sure to check out http://www.dynamix.com
+---------------------------------------------------------------------
+User Name: mitch.shaw     Plan Last Modified: 08/13/1999 11:03:45 PST
+
+Who am I? Mitch Shaw
+Handle:  Skeet
+Project: TRIBES/TRIBES 2/TRIBES Extreme
+Email: Skeet@dynamix.com
+
+8/13/99
+
+  Wow, I think the Freeze mission type is almost ready
+to be released!  It looks like my server didn't crash
+at all last night.... I'm getting all teary, it's like
+the first time your baby sleeps the night through.
+*sniff*  Thanks for the comments and suggestions people
+have given me on how to improve the game.  There are
+a few more minor points I want to fix as well as some
+gameplay issues I'm still undecided on.  But first,
+I guess I need to announce the changes that I've made
+to Freeze over the last few days.
+
+- Reduced number of ammo boxes that people spew when
+  they get killed to try to prevent big frame hits.
+  Did this by doubling the amount of ammo in each box.
+  Also, if you have a repair kit when you get frozen,
+  you throw that too.
+- Placed a * in front of frozen players' names on the
+  score screen. (did I mention that last time?)
+- Fixed a problem with people starting a new mission
+  in frozen state.
+- Took out some turrets in a few missions.
+- After someone hits the switch, unfrozen players are
+  invulnerable for 2 seconds (helps counteract people
+  getting hemmed in with turrets).
+- Corrected some messages ("Your team has 1 players
+  frozen!" Me fail English? That's unpossible!)
+- When you get unfrozen, any weapon you had selected
+  now gets reselected. Also, you get a repair kit.
+- You can now observe other people while you're frozen,
+  but be careful... it might take you a while to
+  realize if you're suddenly unfrozen.
+- Also, you can now tell who you're observing instead
+  of always getting a "You have been FROZEN!" label.
+- You can't change teams to unfreeze yourself. If
+  you change teams, you are automatically frozen.
+- Cut down on the incidence of turrets firing at you
+  when you're frozen.  Can't completely eliminate
+  it though by the looks of it.
+- When a player gets frozen, you observe your own
+  body for 3 seconds before you can switch to other
+  players.
+- Added better explanation of mission type on
+  objectives screen.
+
+A few of the bugs that I know are still present:
+
+- When an enemy player looks at you while you're
+  frozen, most turrets will still fire at you.
+- Occasional respawning-as-observer bug at beginning
+  of new mission.
+- Occasional failure to load next mission, which
+  causes the "neverending mission" problem.
+
+Please e-mail me if you experience any bugs not on
+this list.
+
+Lastly, I'm a little torn whether or not to implement
+a change that a few people have suggested: when a team
+is all frozen, both teams respawn instead of just the
+frozen one.  This would prevent people from camping
+out at respawn spots and freezing people as soon as
+they appear, which can obviously get pretty boring
+for the frozen people.  Thoughts?

@@ -1,0 +1,15 @@
+
+Name: James Monroe
+Email: jmonroe@ravensoft.com
+Description: Lead Programmer
+Project: ?
+Nickname: Emorog
+Web Page: <a href="http://www.geocities.com/em0r0g/index.html">James' Web Site</a>
+-------------------------------------------------------------------------------
+Hey Raven Seti team, as you've probably noticed by now Seti@home classic is shutting down, so you'll have to upgrade to the new Open Infrastructure client now:  <a href=""http://boinc.berkeley.edu/">BOINC</a>
+
+I've been meaning to update our seti team page for some time now, so i've finally done it:
+<a href="http://setiathome.berkeley.edu/team_display.php?teamid=60">Raven Software Seti Team</a>
+A big "Thank You" to all the active members out there.  It's FUN to participate in science!  :)
+
+If Seti is not your favorite interest, the new BOINC system has many other science projects in which you can participate.  You can even join all of them and set time shares ratios to limit how much CPU time you want to give up for each project.  It's very cool.  Best of all the new clients are much more configurable now, so you can set up time of day restrictions as well as network connection restrictions.  Check it out.

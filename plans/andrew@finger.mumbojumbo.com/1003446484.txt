@@ -1,0 +1,37 @@
+
+*** MumboJumbo's Finger Server
+
+User name: andrew
+Plan modified: Thu Oct 18 15:31:25 2001
+
+
+Street Date
+-------------------------------------
+The PC version of Myth III is in duplication right now, and is expected on store shelves on October 25. Ship times to individual stores may vary, of course. There are two extra multiplayer maps that will be available on a bonus CD to those who pre-order at Electronics Boutique. One of them, Pepper Heights, is actually one of my favorite maps to play, and I'm hoping lots of people get it so I have more people to play against. :) We're working on a way for Mac players to get them as well.
+
+
+Mac Version
+-------------------------------------
+The Mac version is not yet final due to some compatibility issues under MacOS 9. Honestly, the OpenGL performance under MacOS 10.1 is so good that I'd recommend that everyone playing any sort of 3D game on a Mac upgrade if they have the RAM, and to get the RAM if they don't, but we've got to make sure it works for the hold-outs too. This week Bill Heineman (Aliens v. Predator, Zork, and Sin), Chris Jacobson (Baldur's Gate II and Sin), and I (FAKK2 and *sigh* Half-Life) are all working on the Mac version, which is probably something like 20% of the people who've done full-time professional Mac game programming in recent years. :) We'll get this thing out in short order.
+
+
+Rankings
+-------------------------------------
+We simply need more records of more actual games played by more real-world players to figure out exactly what our metrics should be and the relative weights to assign to them. Games played in ranked rooms are being reported to the master server and your stats will be tracked from day one, and hopefully within a few days of the game's street date we'll have enough raw data to figure out the best way to condense all of that data into a single number for each player. Then in a month we'll probably re-think it again. :) Once you get the III on the end of the name you realize that this is something that can be around for the long haul, and we understand that means being responsive to the community. The split of the rank tree into pure and open ladders is part of that, and the decision to hide the rankings for the first few days while we tune them based on empirical data is part of that too.
+
+
+Editing Tools
+-------------------------------------
+We wanted to include a full package with some raw art assets from one of our own levels as an example of how everything gets put together, but it just wouldn't fit on the CD. Look for a download to be put up as soon as we hear that the game is on shelves. Our tools are cross-platform for both Windows and MacOS, so this means the Mac tools could potentially be available before the Mac game is. I'm not sure if that's a good thing or a bad thing.
+
+
+Demo
+-------------------------------------
+As soon as the Mac version is final.
+
+
+Other Features
+-------------------------------------
+There were some not-so-cool things that we thought would be cool until we actually put them into the game and subjected them to the harsh reality of playtesting. A few of those things were mentioned publicly early in the game's development, and some people who thought those things were just as cool as we did at the time may feel disappointed that they aren't in the game. We made the decision to have every feature in the game play well rather than have twice as many features that played poorly, and looking at the finished game I don't regret that decision at all. Overall I'm quite proud of what's been put together by a team and company that didn't even exist a year ago today.
+
+

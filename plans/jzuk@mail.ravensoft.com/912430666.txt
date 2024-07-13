@@ -1,0 +1,76 @@
+
+Name: Jon Zuk
+Email: jzuk@mail.ravensoft.com
+Description: Lead Designer
+Project: Heretic II
+-------------------------------------------------------------------------------
+11-30-98
+
+It's great to see the positive response for Heretic II out there.  I just got back from
+a one week vacation to nowhere.  I stayed home and slept mostly.  But I also played Sin and
+Half Life.  I'm not quite done with Half Life yet, but I'm very near the end.  This game
+is really cool!  Other than that, it was nice to get a break after 14 months of crunch.  I
+went right from the Hexen 2 Mission Pack right to Heretic II without a break.  That's a long
+time to go without a vacation. 
+
+If anyone has any map making questions, feel free to email me.  We're going to try and put
+up a webpage of some sort to deal with design questions.  I'll post something here if we get
+that up and running.  The documentation should answer most questions, but I probably missed
+some things in the last few weeks.
+
+10-26-98
+
+Burning the late night oil again... still.
+
+I've been browsing the 'net while waiting for a map to vis and I checked out the reviews
+of our demo.  I have to say without a doubt, this is the best reception I've seen to one
+of Raven's games.  Everyone who has previewed or reviewed has been most favorable in their
+responses.  Thanks!  Just remember, the demo is just a demo!  Wait until the real thing.
+
+I've already been getting questions about making maps for the game.  Fear not!  Our
+wonderful (OK, passable) editor will ship with the game.  I've also written a manual to 
+explain the inner workings of all our stuff.  Right now, the manual is at 66 pages, and
+that's without the pictures.
+
+In the meantime, enjoy the demo and we'll finish the game up for ya.  Remember, bugs can
+be sent to heretic2bugs@mail.ravensoft.com.
+
+Suggestions that are not bugs can be sent to heretic2suggestions@mail.ravensoft.com.
+
+See ya soon!
+
+
+10-23-98
+
+Well, the demo is out.
+
+Sorry about the lateness of it, but some things were unforseen.  We had to make sure the 
+demo was as solid as possible and wouldn't re-format your HD or something.  
+
+It was nice to get on IRC (I was a newbie), and chat with some of the fans.  I think
+that my .plan file is a little safer... and slower.  I was having trouble keeping
+up with the constant changes in conversation.
+
+I hope everyone enjoys the demo.  If you have any problems (or praise), mail 
+heretic2bugs@mail.ravensoft.com.
+
+Now, we just have to get to Gold!
+
+
+
+10-22-98
+
+D-Day!
+
+Today is Demo Day for Heretic II.  As everyone knows, it'll be out sometime tonight.
+
+But, the real reason I've decided to update this thing after three months is to give out
+a huge thanks.  This thanks is to the whole Heretic team in general, and the programmers
+specifically.  They have worked their asses off this week to make sure this demo is complete,
+solid, and fun.  This game has the funnest deathmatch I've played in a long time.  
+
+Now that the sincerity is over with, remember to get on IRC tonight to chat with some of us
+Heretic guys.  For info, check www.hereticii.com, a new (and cool) page dedicated to all 
+things Heretic II.
+
+See ya in deathmatch.  I'll be Shifty. 

@@ -1,0 +1,36 @@
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+4/26/00
+
+Well, for those that are interested I just played the first multiplayer game of Voyager on a Mac. One of the ones kindly donated
+by Apple in fact - an purple iMac:) Note though that right now you will need 128 megs rather than the 64 that the machine comes
+with in order to play the game. That may or may not stay the same - we are making huge memory gains with using the skeletal
+animation system as opposed to the mesh based one, but it's tough to say what our eventual memory footprint is going to be. More 
+than likely it will remain at the 128 level for the iMac, but you never know.
+
+Anyway, I just wanted to take a moment to say a big Thanks to the guys at id - Specifically Graeme Devine for giving me a helping
+hand, and also John Carmack for making the code so extremely easy to port in the first place.
+
+Of course, there are still some Virtual Machine compile errors to fix, but for the most part, Holomatch is up and working using 
+the same Virtual Machine game files that the PC game uses. Gotta love that portability:) We had some fun playing Mac vs PC, but
+I'll be honest and say that playing any kind of FPS with that weird puck mouse thing on the new Macs is really an aquired taste.
+
+For those that will ask, the frame rate on the iMac was just fine, and it looked great on the ATI card that's in the machine. I'm
+not going to post any numbers right now, since we are too much in development for them to mean anything. Suffice to say it was nice
+to see the game running on an iMac;)
+
+Now it's time to start thinking about the single player game. Now THAT is going to be fun to port, with all that C++ and STL:)
+
+*UPDATE**
+
+I got some email asking flat out if this means we are doing a Mac Release. At this point, I have to do some obligatory tapdancing
+here, and say that I'm involved in doing the port so we know it can be done. This doesn't mean we are announcing a mac release, 
+just that it's possible. Activision and Project Lead Brian Pelletier are discussing the implications and all that good stuff, so 
+look for an announcement from them once the dust settles. Now that we are done with dancing around the issue, you can draw your
+own conclusions as to what the likelyhood of a release is, based on the fact that we are doing all this at all:)
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/users/jakeworld">JAKEWORLD!</a>

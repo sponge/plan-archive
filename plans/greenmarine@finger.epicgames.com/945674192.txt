@@ -1,0 +1,109 @@
+Login: greenmarine    			Name: Brandon Reinhart
+   9 minutes 50 seconds idle
+Mail forwarded to brandon@epicgames.com
+Project:
+Unreal Tournament
+Plan:
+December 20, 1999
+
+Happy birthday to Blake Reinhart, after whom the first
+bot in Unreal Tournament is named.  Boom chik chak.
+
+--
+
+As you know, I am working with CRT on Rocket Arena for UT.
+I'm the lead programmer on the project along with c0mpile
+from Unloaded.  CRT is in charge of design, management, and
+getting level designers.  I'm leaving for Christmas tomorrow
+but I'll be taking the Rocket Arena code with me.
+
+I am collaborating with CRT because he felt he really wanted
+to develop a Rocket Arena for UT, but was very stressed with
+work and the Quake3 version of the mod.  Epic feels it is
+very important that UT develop a strong mod community, so I am
+able to contribute my time to the project.
+
+Hopefully, the first release of RA:UT will be in early or mid
+January.  The game will include full bot support, all the classic
+RA gametypes, and some new stuff to boot.  In addition, Epic will
+be adding some professional quality visual and audio content.
+
+--
+
+I still plan to open source the Linux port.  I was looking into
+setting up a Linux UT bugzilla, but have not had time.  I would
+also like to set up a public RCS of some sort, instead of
+releasing a tarball.  Perhaps I should just release the tarball
+and then worry about the fancy stuff.  Either way, I won't be
+able to look into this until after Christmas.  I get back from
+visting my parents on the 27th.
+
+--
+
+I finished Planescape: Torment.  This is one of the best RPGs
+I have ever played.  It took me somewhere in the vicinity of
+45 hours to complete.  This game has some incredible character
+development and party interaction.  I would easily rate it
+above Baldur's Gate and Fallout.  The Black Isle/Bioware collaboration
+in the best thing to happen to role playing games.
+
+The Planescape setting is excellent, the story telling top notch.
+My only complaint is the ending: perhaps I missed something, but
+I never found out who the Nameless One really was.  I was never
+able to activate the burnt out Sensory Stone and I do not
+understand the final movie.  Did the Nameless One regain his
+mortality?  Did he run off to join the Blood War, perhaps to die?
+
+Perhaps most frustrating was the fact that I was only allowed to save
+the life of one companion and that there was no heart wrenching
+interaction resulting from the choice.  (As was the case with many
+other critical decisions during the course of the game).
+Either way, I am very pleased with the experience the game had to
+offer.
+
+The role of the character was unique and a hell of a lot of fun.  Instead
+of being some annoying kid on a quest to ride dragons and save the
+princess, I was a tormented soul seeking only death...only release.
+I wish more role playing games would experiment with tragic,
+Moorcockian characters like this.  In addition, the companions where
+excellent...these weren't a happy band of friendly bards and
+enlightened wizards.  These were daemons, fiends, undead, and the
+forsaken.  Each drawn to follow you because of their own torments.
+Each hoping that through you they might shed some of their own
+pain.
+
+I can't wait for the next game to come from Black Isle and Bioware.
+Neverwinter Nights, Shadows of Amn, and Icewind Dale.  What a revolution
+in AD&D!  I can easily say that Planescape: Torment is the best
+and most enthralling AD&D campaign I've ever played.  All due
+props to the old school, but this is the way to play.  I can wait
+for Neverwinter Nights, when I will be able to create my own 
+campaigns.
+
+TSR really needs to focus on this.  There is so much more market
+potential for a generic computerized AD&D rules set than any
+fourth edition.  They should release an online gaming kit for
+managing and running campaigns with terrain editors, full rules
+support, map editors, rules editors and the works.  Then focus
+their design team on releasing modules, new monsters, and all
+sorts of low cost expansions.  That would kick ass.  Imagine,
+you buy an insert to your monstrous manual and get a CD with all
+those monsters ready to be added to your dungeon.
+
+Well...its a dream.  But perhaps closer than you think?  Massively
+multiplayer gaming is cool and all, but what about focusing on
+small groups of cooperative players? 
+
+WotC/TSR has definitely made some smart choices with this game
+series and Black Isle/Bioware have the elite talent to pull it off.
+Maybe WotC/TSR will get smart and focus their money on electronic
+gaming instead of dumping it into the blind ally that has become
+Magic the Gathering.
+
+Anyway, I really hope that somebody picks up on the roleplaying
+game with periodic expansion sets idea.  With a smart object
+oriented engine you could easily release next generation tech
+that still supported the old content (after the existing tech
+become outdated).
+
+Enough rambling though, I gotta go do some laundry.

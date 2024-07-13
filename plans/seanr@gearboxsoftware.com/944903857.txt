@@ -1,0 +1,57 @@
+Login: seanr          			Name: 
+Project:
+
+Shhh
+
+
+Plan:
+  Ok.  My first angry plan update.
+
+  But before I get to that, let me congratulate the makers of 
+Counter Strike.  It has quickly become an office favorite, even over
+Q3.  Especially over the lan.. there is nothing quite like a good 5
+on 5 with everyone in the office.
+  But it has a problem, and that's why I'm angry.  Lamers.  People who
+thrive off of the attempt at ruining the fun of others.  In Counter
+Strike it's exceedingly easy to spawn, buy a grenade, and toss it
+at a friendly.  If the grenades didn't inflict team damage, they 
+would be less real, and might lessen the game play experience, but
+the alternative, where any chump can easily kill his own team mates,
+is pretty harsh.  And a death in CS is worse than other online FPS 
+games... a death in TFC for example, means you automatically respawn.  
+A death in CS, means you wait for the end of the match.
+  You might wonder why I'm complaining, since there is a built in
+voting mechanism.  But my feeling is that the voting mechanism
+(in concert with the easy to inflict team damage) actually encourages
+this behavior.  Having a voting system means that these losers can
+actually have a goal.  Rather than just getting taunted and yelled at
+in the console, they have a real attainable goal.... something to
+strive for.
+  In TFC, someone can spam and be in general a lame player.  But it 
+doesn't get them anywhere.  A lamer may piss someone off, get called
+a few names, but that's the extent of it.  Eventually they tire of it
+and move on.
+  But in CS, they have a goal.  And so they work (hard) at reaching
+that goal.  I've seen a guy who delights in being voted out.. he
+gets voted out, changes his name slightly, joins back in, gets voted
+out, changes his name slightly, joins back in, etc.
+
+  Maybe there could be some heuristic to it.  Like, keep track of the
+amount of team damage each player has inflicted and weight it so that
+those who have done lots of team damage get kicked easier (fewer
+percentage of votes).  Just don't display this weight!!  We don't want 
+people having such direct feed back.. a lamer would use it as a score 
+of sorts.
+  Maybe the number of times a particular cd-key has been voted out
+can be kept track of, and when that number reaches X, the cdkey
+is revoked.  Or maybe servers can be set up so that only players
+that have been voted out < Y number of times are allowed to join.
+  But, I think, the real way to fix this problem in CS, is to remove
+grenade friendly damage.  Or at least decrease it radically.
+
+  I don't mean to be negative towards CS.  CS has given me lots of
+great game experiences.  I mean no disrespect to the CS creators, who
+no doubt have pondered this very issue for far longer than I.
+
+  I just wanted to vent.
+

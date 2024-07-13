@@ -1,0 +1,25 @@
+Login: justin         			Name: Justin
+"|IFS=' '&&exec /usr/local/bin/procmail -f-||exit 75 #deadbeef"
+Plan:
+04 04 03 (ooh next year will be fun)
+
+With the launch of winamp 2.90, we will patent our new Non-Linear Versioning
+Process. NLVP removes all of the common versioning-space issues, and prevents 
+users from determining which version of a program is right for them. Once we
+receive the patent from the patent office, we will agressively pursue any
+company that makes the mistake of using NLVP. Consider yourself warned. It
+is only a matter of time.
+
+Fritz also had these words to share:
+"I'm also giving informational lectures about the cheese hat, holding still 
+life watercolor courses with the cheese hat as the subject, and taking the 
+cheese hat around to Children's Hospitals so that disadvantaged and sick 
+children can appreciate its might and glory.  Mostly just bummed and vagrants 
+show up to the weekly series of informationals and lectures, but last week, 
+Ricardo Montalbon  happened to be in Santa Cruz and he has some very 
+enlightening ideas about how the cheese hat, if the cheese were real, could 
+feed his extended family now living in Columbia."
+
+Well put.
+
+[ update: see http://genghis.winamp.com/~steve/archive/pictures/random/cheeseheadllama.gif ]

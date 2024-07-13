@@ -1,0 +1,74 @@
+IcculusPlan
+
+
+
+
+
+Irritatingly, MySQL 8 reserves (but does not use) the keyword "groups,"
+
+so if you happened to have something like this:
+
+
+
+    SELECT name FROM groups where user=5;
+
+
+
+Then as soon as you upgraded to MySQL 8, your query would be a syntax error.
+
+
+
+This will work, though:
+
+
+
+    SELECT name FROM `groups` where user=5;
+
+
+
+Naturally, Bugzilla has a table named "groups", so this broke.
+
+
+
+Ubuntu started shipping MySQL 8 in 2019, and there was never a Bugzilla
+
+5.0.7 release to fix this (the unreleased 5.2 branch supposedly has this
+
+fixed, but I'm not sure).
+
+
+
+If you, like me, just updated your old Ubuntu server and
+
+found--surprise!--that the stable Bugzilla release no longer works, here's
+
+[a patch to 5.0.6 to fix it][1].
+
+
+
+I can't say this is correct, complete, or sane, but it got the bug tracker
+
+up and running again here.
+
+
+
+  [1]: https://icculus.org/~icculus/dotplan/bugzilla-5.0.6-mysql8.diff
+
+
+
+--ryan.
+
+
+
+---------------------------------------------------------------------
+
+When this .plan was written: 2020-05-18 12:16:35
+
+.plan archives for this user: finger icculus?listarchives=1@icculus.org
+
+Powered by IcculusFinger v2.1.27 (https://icculus.org/IcculusFinger/)
+
+Stick it in the camel and go.
+
+
+

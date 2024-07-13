@@ -1,0 +1,42 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: markd
+Plan modified: Wed Aug 09 18:55:48 2000
+
+August 9th, 2000
+================
+
+Voodoo 2 owners
+
+We figured out why some of the voodoo owners out there were having trouble and
+this will definitely be addressed in the upcoming patch.  In the meantime you
+can do the following to run with a vodoo2:
+- delete your config.cfg in your fakk directory, should be c:Program
+FilesRitual EntertainmentHeavy Metal - FAKK2fakkconfig.cfg
+- Either modify your shortcut in the Start menu, create a new short cut or run
+FAKK 2 from the command line.  Add "+set r_colorbits 0" to the shortcut.
+
+There is a problem in the executable that has since been fixed where if the
+colorbits are already set to 16, it will not fail on the last check for
+starting opengl32.dll (the default OGL driver which happens to be software
+only when you have a Voodoo 2 in your machine) and subsequently special Voodoo
+2 code is never executed.
+
+August 8th, 2000
+================
+
+Heavy Metal FAKK 2
+
+Thanks for everyone purchasing Heavy Metal FAKK 2.  I hope everyone out there
+enjoys the heck out of it.  As is often the case with software development, we
+have had reports of lockups and crashes on exit with certain machine
+configurations.  We are working very hard to solve these problems so that
+everyone can enjoy the game.  We will have a patch out for the game this
+weekend.  If you are experiencing any lockup or exit problems with FAKK 2,
+and live in the DFW area, please email me.  Of course every system we tested
+the game on before shipping it did not exhibit any of these problems.
+
+Mark D
+<markd@ritual.com>
+Ritual Entertainment

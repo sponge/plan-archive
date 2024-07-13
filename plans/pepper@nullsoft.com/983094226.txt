@@ -1,0 +1,8 @@
+Login: pepper         			Name: Mr. Pepper
+Project: empowering jackasses with broadcastability
+Plan:
+2.25.01================================
+
+everyone give steve a round of applause.  today he mastered his first php
+script (a .plan rotator) and cron, all in an hour.  not bad for a web monkey.
+

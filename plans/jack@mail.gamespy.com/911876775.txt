@@ -1,0 +1,40 @@
+User:   jack
+Unread: 159
+Time:   Mon, 23 Nov 1998 22:07:43 -0800
+Plan:
+11/23/98 - 11:59pm (est, for anyone who cares)
+
+(3 part update...  Mad props, and a GSpy/Half Life update)
+
+First off, congrats to the Florida State Seminoles, who beat down the
+Florida Gators 23-12 on Saturday (a game which I happily attended :) ).
+Kick ASS!  A few former co workers (who happen to be Gators) will be getting
+some goodies from the game :)  I'll also be posting up some pictures as soon
+as I get back to Dallas and get my computer up to speed.
+
+Also, *big* congrats to 3Dfx on getting the Voodoo 3 to Comdex.  Last I knew
+it was getting tight, but they really brought it up and got it out there
+pretty flawlessly and surprised a load of people.
+
+For anyone who's wondering, Tim's plan update may have sounded a bit
+bitter...  Basically, we (Valve and Spy Software) just figured out wtf was
+going on tonite or so :) In a nutshell, everyone took vacations, and not
+everyone knew :)  After Half Life came out, we had gotten written about Half
+Life support from the Valve guys.  However, at that same time, me and Tim
+were going on separate vacations leaving Joe to hold the fort, and I was in
+the process of moving (TEMPORARILY) to Dallas right before that.  By the
+time we had tried to get back to the Valve guys about the specifics of
+support, THEY had gone on vacation.  Joe, Tim, and Mark had come to the
+conclusion we were being ignored, I knew something was awry but couldn't
+write email (and was busy drinking in Tallahassee) and the Valve guys were
+doing god knows what in Mexico :).  So there's your mixup.  Fun huh?
+
+If you're wondering why we didn't just reverse engineer support in there,
+it's because a) none of us had picked up the game yet, b) Tim was away, and
+c) We don't want to make guesses that make us release incremental updates
+four days in a row.  GameSpy is used by millions of people, and we're really
+trying to put out solid product every release now.
+
+As for how GameSpy got on the HL box, hell if we know :-)
+
+

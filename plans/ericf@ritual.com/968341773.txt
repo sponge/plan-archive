@@ -1,0 +1,29 @@
+
+*** Ritual Entertainment's Finger Server
+
+User name: ericf
+Plan modified: Thu Sep 07 10:48:42 2000
+
+September 7, 2000
+=================
+Reading my plan below, I can now add that Southwestern Bell totally sucks.
+I can't get DSL for my apartment because SWB has "repair issues" in my area.
+
+Anyway, if you want to chat and hangout with a bunch of Ritual fanatics, come by IRC
+on the Enter the Game servers (irc.enterthegame.com), and join the #ritual channel.
+Just watch out for BaDmAn, he's one crazy beotch.
+
+Aug 22, 2000
+============
+
+First I'd like to point out that Southwestern Bell sucks.  I put in my order for DSL
+at my apartment about a month and a half ago.  They still haven't done anything.
+
+Anyway, looks like the big bad crash bug in FAKK2 has been finally wiped out.
+It's the strangest thing I've ever seen.  Normally a bug like that SHOULD crash
+every system, but for some reason, through the entire testing session at Ritual,
+we never encountered it.  Scott ran across it yesterday for the first time, and
+that's all it took to track it down.  You can now get the patch 1.02a and it should
+fix the crash bug, and a few slow down problems introduced in 1.01.
+
+

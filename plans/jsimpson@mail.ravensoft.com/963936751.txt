@@ -1,0 +1,55 @@
+
+Name: Jake Simpson
+Email: jsimpson@mail.ravensoft.com
+Description: Programmer
+Project: Heretic II
+-------------------------------------------------------------------------------
+17/7/00
+
+I'm a supremely happy man. This weekend I finally got some friends together and we zipped down to Chicago to
+pick up a couple of the Arcade Machines that I had languishing in a friends dusty basement. My Revolution X and
+WWF Wrestlemania are now sitting in my basement;) And to cap it off, I picked up the Robotron 2048 arcade machine
+that I bought from Steve Raffel too. I Remember playing the hell out of that game when I worked at Midway - with
+out any doubt my all time favorite game. I even got Eugene Jarvis - and old friend from Midway - to sign the 
+marquee, much to the amusement of others I used to work with there. They don't seem to realise that an authentic
+Eugene signature on one of his games adds a substantial amount of value to the machine. Not that I'd sell it any
+way - I did have one once that I did sell and it was the stupidest thing I've ever done.
+Once I started playing again last night I realised what a hole there had been in my life since I last played. 
+aahhhhh, nostalgia.
+
+In other news, I've been playing a bit of Dark Reign 2. What a great game! The visuals are especially impressive.
+I know that Pandemic are another Activision company, but still, this is a vastly under-rated game. I'm surprised it
+hasn't been picked up and play tested by more gaming websites out there. You would be doing yourself a favor if you
+are into RTS's and you picked this one up.
+
+Congrats to Third Law on the Kiss demo. Quite honestly I don't think the Kiss part of the licence does the game too 
+many favors - there are only so many Kiss fans out there - but the game is pretty sweet by itself. It has certainly
+made me more impressed with what Lithtech is capable of. And that's just lith 1.5 too:).
+
+Things are starting to hot up here at Raven as Voyager launches into major crunch mode. What with SOF GOLD in QA at
+the same time there is always plenty to do here. GOLD is in the last stages of bug squashing - I'm not entirely sure
+what happens next, or what the release date is, so don't email and ask.
+For Voyager, there are pretty much two teams working on it, split into single player and multiplayer. I'm helping out
+with the multiplayer stuff right now, since there is much to do. Many new game objects and effects to be played with:)
+For those that played the demo, I'd have to say that the demo is very much the 'tip of the iceberg' as far as Voyager
+Elite Force content is concerned. Perhaps 10% - 15% of the game experience is represented here. From our perspective
+here demo's should wet your appetite, not quench it. So look for much more when the game hits the shelves.
+As it stands right now we are trying to get a first pass Release Candidate together real soon. I can't be more specific
+than that since anyone that's in this industry knows how things go, once you announce anything like that:)
+
+QuakeCon. I shall be attending this year, as I did last year. This year Rick Johnson (SOF lead programmer) and Joe
+Koberstein (SOF Lead artist - sorry Eric!) will be accompanying me. We will be demonstrating the 
+full version of Voyager : Elite Force on 4 PC's set up there. You will be able to get hands on on the complete single
+player and multiplayer experience. If we can set it up, we may even try and get a small CTF tournament going. We'll
+see:)
+I'm also doing a talk on Voyager on Saturday Morning, before John C's talk. I'll be demo'ing Voyager, and discussing
+all that we had to do to the Quake III engine to bring you the single player experience. If you are in the Dallas
+Mesquite area, do drop in. I hate talking to an empty room.
+
+By the way, I finished up the C tutorials on Jake World. Billy at VoodooExtreme has the files, he just hasn't posted
+them yet. I'm sure they'll be done soon.
+
+Next up, a couple of articles about AI. I've been thinking about it a lot, and reading more than a few articles on the
+subject, so look for that.
+
+If your bored, take a trip around <a href = "http://www2.ravensoft.com/users/jakeworld">JAKEWORLD!</a>

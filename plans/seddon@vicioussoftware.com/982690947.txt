@@ -1,0 +1,23 @@
+Login: seddon         			Name: Chris Seddon
+Office: Vicious Software, 905-xxx-xxxx	Home Phone: 905-xxx-xxxx
+On since Tue Feb 20 12:28 (EST) on pts/0 from 142.204.244.46
+   6 minutes 8 seconds idle
+Project:
+RAZOR: A Sadness That Can't Be Silenced, Xistence 2.5 Engine
+Plan:
+Date: Feb 20, 2001
+
+Just a quick update...Game now exceeds 1,000,000 per second on a Riva TNT
+1 (asus v3400). Thats pretty cool I thoughth considering full texture
+detail is on, with animated environmental effects.
+
+L8r.
+
+
+Date: Feb 5, 2001
+
+With the current agenda and tasks at hand we will be having a beta session
+for the internal group on the weekend, provided everything goes well...
+
+
+
