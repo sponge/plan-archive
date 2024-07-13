@@ -46,7 +46,12 @@ const App: Component = () => {
 
   // list of all domains that plans have came from
   const domains = createMemo(() => plans()
-    .map(plan => plan.by.split('@')[1])
+    .map(plan => {
+      // chop off one level of subdomain (mail.*, finger.*, but leave longer in place
+      const host = plan.by.split('@')[1];
+      const parts = host.split('.');
+      return parts.length == 3 ? parts.slice(-2).join('.') : host;
+    })
     .filter((value, i, array) => array.indexOf(value) == i)
     .sort((a, b) => a.localeCompare(b))
   );
@@ -64,8 +69,7 @@ const App: Component = () => {
     .map(domain => [
       domain,
       users()
-        .filter(user => user.endsWith('@' + domain))
-        .map(user => user.replace('@' + domain, ''))
+        .filter(user => user.endsWith(domain))
     ])
   );
 
@@ -128,7 +132,7 @@ const App: Component = () => {
                 <ul>
                   <li><a href='#' onClick={[setCurrentUser, domain[0]]}>All</a></li>
                   <For each={domain[1]}>
-                    {user => <li><a href='#' onClick={[setCurrentUser, `${user}@${domain[0]}`]}>{user}</a></li>}
+                    {user => <li><a href='#' onClick={[setCurrentUser, `${user}`]}>{user.split('@')[0]}</a></li>}
                   </For>
                 </ul>
               </details>}
