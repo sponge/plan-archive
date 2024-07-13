@@ -30,3 +30,9 @@ article .added {
   background-color: var(--pico-color-green-900);
   color: var(--pico-color-green-50)
 }
+
+@media (min-width: 1000px) {
+  dialog article {
+    min-width: 960px;
+  }
+}

@@ -32,6 +32,7 @@ const App: Component = () => {
   const [currentUser, setCurrentUser] = createSignal<string>(''); // current user (or company)
   const [searchTerm, setSearchTerm] = createSignal<string>(''); // search body for this term
   const [displayType, setDisplayType] = createSignal<DisplayType>(DisplayType.Full); // how you want to view the plans
+  const [showHelp, setShowHelp] = createSignal(false); // show the help text
 
   // grab the static plans file
   const fetchPlans: ResourceFetcher<true, PlanFile[], unknown> = async () => {
@@ -92,7 +93,7 @@ const App: Component = () => {
     if (displayType() != DisplayType.Full) {
       const prevIdx = plansByUser()[plan.by].findIndex(test => test === plan) - 1;
       const prevStr = plansByUser()[plan.by][prevIdx]?.contents ?? '';
-      diffs = diffLines(prevStr, plan.contents, {ignoreWhitespace: true});
+      diffs = diffLines(prevStr, plan.contents, { ignoreWhitespace: true });
 
       // filter out additions, however if it's empty (plans are identical) just use the whole array
       let additions = diffs.filter(d => d.added);
@@ -118,7 +119,6 @@ const App: Component = () => {
       <Suspense fallback={<span aria-busy="true"></span>}>
         <aside>
           <nav>
-            <h2>Users</h2>
             <For each={usersByDomain()}>
               {domain => <details>
                 <summary>{domain[0]}</summary>
@@ -146,11 +146,12 @@ const App: Component = () => {
               </li>
             </ul>
             <ul>
+              <li><a href="#" onClick={[setShowHelp, true]}>what is this?</a></li>
               <li><a href="#" onClick={[setPlansVisible, true]}>open all</a></li>
               <li><a href="#" onClick={[setPlansVisible, false]}>close all</a></li>
               <li>
                 <select onChange={ev => setDisplayType(ev.target.value as DisplayType)} value={displayType()}>
-                  <option value={DisplayType.Trimmed}>trimmed (very WIP!)</option>
+                  <option value={DisplayType.Trimmed}>trimmed</option>
                   <option value={DisplayType.Full}>full</option>
                   <option value={DisplayType.Diff}>diff</option>
                 </select>
@@ -163,6 +164,71 @@ const App: Component = () => {
           </For>
         </main>
       </Suspense>
+
+      <dialog open={showHelp()} onClick={[setShowHelp, false]}>
+        <article>
+          <header>
+            {/* @ts-expect-error its wrong! */}
+            <button rel="prev" onClick={[setShowHelp, false]} />
+            <p>
+              <strong>The .plan Archive</strong>
+            </p>
+          </header>
+          <p>Created by <a href="https://erysdren.me/">erysden</a> and <a href="https://d8d.org">sponge</a></p>
+          <h2>What is this?</h2>
+          <p>
+            These things called .plan files are the name for a file that users, often on a Unix system, would write in order to tell
+            others what they were doing, where they were, or anything at all. They were served through
+            the <a href="https://en.wikipedia.org/wiki/Finger_(protocol)">Finger protocol</a> to other users on
+            the early Internet. If you knew someone's username and what server they were on, you could see what
+            that person was working on, where they were located, or anything else they thought useful. Widespread
+            expansion of the Internet, and eventually the World Wide Web would render Finger largely obsolete by the
+            early 90s.
+          </p>
+          <p>
+            For some reason, however, id Software would begin distributing updates and news about their games
+            through this protocol. Then, around 1996, John Carmack would start posting his work logs to his .plan file,
+            and eventually sharing his thoughts on hardware, programming, id's upcoming games, and more. Even more
+            inexplicably, other developers would follow Carmack's lead, and start publishing their own .plan files.
+            Despite the existence of web browsers, this creaky old protocol that was used to spread one of the first
+            Internet worms in the 1980s would become the primary source for what was going on inside PC gaming among
+            early home Internet users.
+          </p>
+          <p> 
+            Because the Finger protocol existed outside of the Web, these updates were largely inaccessible
+            to most users who were not running shell accounts on Unix systems. Enterprising fans and early game
+            journalists would take this as an opportunity to create websites that would track developers and
+            give you up to the minute feeds on the latest posts. Demos were released, new features were talked
+            about, and games going gold and getting ready to be distributed were all announced through these
+            loosely connected systems.
+          </p>
+          <p>
+            These posts were written by the developers themselves, and were first-hand accounts of their work
+            and their games, but also their personal lives. Nowadays, we would just call these "blogs." For
+            better or for worse, late 90s game development news and drama unfolded in these .plan files. Many
+            of them read like personal journals, even though multiple sites had sprung up around covering them.
+            Game developer beefs about competing games, combined with an immature industry filled with lots
+            of unnecessary aggression led to plenty of regrettable statements being made through .plan files.
+          </p>
+          <p>
+            Despite claims to the contrary, the internet does forget. Often, it forgets very easily.
+            The transient nature of Finger meant that there is largely no record of these updates. Once the
+            user changed the file or deleted the old content, it was gone for good. Websites would track previous
+            updates, but over 25 years later, only one site that tracked these updates is still online: the
+            venerable <a href="https://www.bluesnews.com">Blue's News</a>.
+          </p>
+          <p>
+            Because the Wayback Machine's coverage of pre-2000s websites tends to be spotty, these updates
+            are split across a lot of long-gone gaming sites, with most links leading to dead-ends. This
+            archive is an attempt to consolidate everything that remains, make it readable in a chronological
+            format, and provide some enhancements to the reading experience. With thousands of .plan files so far,
+            and an unknown amount of thousands that have been lost for good, there will likely always be
+            large gaps in availability. However, we think what's here currently provides a unique insight
+            to a very fast-moving point in PC gaming history. At minimum, it is at least an entertaining look
+            back at a time of the "rockstar gamedev" era.
+          </p>
+        </article>
+      </dialog>
     </main>
   );
 };
