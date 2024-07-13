@@ -97,10 +97,8 @@ const App: Component = () => {
       // filter out additions, however if it's empty (plans are identical) just use the whole array
       let additions = diffs.filter(d => d.added);
       if (!additions.length) additions = diffs;
-      largest = additions.reduce((a, b) => (a.count ?? 0) > (b.count ?? 0) ? a : b).value;
+      largest = additions.map(diff => diff.value).join('\n').trim();
     }
-
-    console.log(diffs);
 
     return {
       ...plan,
@@ -151,7 +149,7 @@ const App: Component = () => {
               <li><a href="#" onClick={[setPlansVisible, true]}>open all</a></li>
               <li><a href="#" onClick={[setPlansVisible, false]}>close all</a></li>
               <li>
-                <select onChange={ev => setDisplayType(ev.target.value as DisplayType)}>
+                <select onChange={ev => setDisplayType(ev.target.value as DisplayType)} value={displayType()}>
                   <option value={DisplayType.Trimmed}>trimmed (very WIP!)</option>
                   <option value={DisplayType.Full}>full</option>
                   <option value={DisplayType.Diff}>diff</option>
