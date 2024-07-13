@@ -13,6 +13,8 @@ interface PlanFile {
 }
 
 const App: Component = () => {
+  const [currentUser, setCurrentUser] = createSignal<string>('');
+  const [searchTerm, setSearchTerm] = createSignal<string>('');
 
   const fetchPlans: ResourceFetcher<true, PlanFile[], unknown> = async () => {
     const resp = await fetch('/plan-archive/plans.json');
@@ -68,10 +70,6 @@ const App: Component = () => {
       return [plansByUser()[plan.by][prevIdx], plan]
     })
   })
-
-
-  const [currentUser, setCurrentUser] = createSignal<string>('');
-  const [searchTerm, setSearchTerm] = createSignal<string>('');
 
   createEffect(() => {
     console.log(prevCurrentPlanPairs());
