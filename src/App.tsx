@@ -119,6 +119,8 @@ const App: Component = () => {
       <Suspense fallback={<span aria-busy="true"></span>}>
         <aside>
           <nav>
+            <h2>Users</h2>
+            <p class="help"><a href="#" onClick={[setShowHelp, true]}>what is this?</a></p>
             <For each={usersByDomain()}>
               {domain => <details>
                 <summary>{domain[0]}</summary>
@@ -146,7 +148,6 @@ const App: Component = () => {
               </li>
             </ul>
             <ul>
-              <li><a href="#" onClick={[setShowHelp, true]}>what is this?</a></li>
               <li><a href="#" onClick={[setPlansVisible, true]}>open all</a></li>
               <li><a href="#" onClick={[setPlansVisible, false]}>close all</a></li>
               <li>

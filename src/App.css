@@ -8,7 +8,7 @@ body {
 }
 
 main.container {
-  padding-top: 1em;
+  padding-top: 0.5em;
   display: grid;
   grid-template-columns: auto 1fr;
   grid-template-rows: 1fr;
@@ -29,6 +29,19 @@ article .removed {
 article .added {
   background-color: var(--pico-color-green-900);
   color: var(--pico-color-green-50)
+}
+
+aside nav h2 {
+  margin-bottom: 0;
+  line-height: 1;
+}
+
+aside .help {
+  --pico-typography-spacing-vertical: 0.5em;
+}
+
+aside .help a {
+  text-decoration: none;
 }
 
 @media (min-width: 1000px) {
