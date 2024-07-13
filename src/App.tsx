@@ -41,8 +41,15 @@ const App: Component = () => {
     });
 
     const params = new URLSearchParams(document.location.search);
-    setCurrentUser(params.get('user') ?? '');
-    setCurrentTime(parseInt(params.get('time') ?? '0'));
+    if (params.size) {
+      setCurrentUser(params.get('user') ?? '');
+      setCurrentTime(parseInt(params.get('time') ?? '0'));
+      console.log('repalcestate');
+      history.replaceState({
+        user: currentUser(),
+        time: currentTime(),
+      }, '');
+    }
   });
 
   // grab the static plans file
