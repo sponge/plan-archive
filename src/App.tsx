@@ -59,18 +59,22 @@ const App: Component = () => {
     const resp = await fetch('/plan-archive/plans.json');
     let plans: PlanFile[] = await resp.json();
     // sort by time here so we can depend on this in any further operations
-    return plans.sort((a, b) => a.time - b.time);
+    return plans
+      .map(plan => {
+        // chop off one level of subdomain (mail.*, finger.*, but leave longer in place
+        const user = plan.by.split('@')[0];
+        const host = plan.by.split('@')[1];
+        const parts = host.split('.');
+        plan.by = user + '@' + (parts.length == 3 ? parts.slice(-2).join('.') : host);
+        return plan;
+      })
+      .sort((a, b) => a.time - b.time);
   }
   const [plans] = createResource(fetchPlans, { initialValue: [] });
 
   // list of all domains that plans have came from
   const domains = createMemo(() => plans()
-    .map(plan => {
-      // chop off one level of subdomain (mail.*, finger.*, but leave longer in place
-      const host = plan.by.split('@')[1];
-      const parts = host.split('.');
-      return parts.length == 3 ? parts.slice(-2).join('.') : host;
-    })
+    .map(plan => plan.by.split('@')[1]) 
     .filter((value, i, array) => array.indexOf(value) == i)
     .sort((a, b) => a.localeCompare(b))
   );
