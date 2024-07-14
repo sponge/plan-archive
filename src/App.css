@@ -7,6 +7,11 @@ body {
   overflow-y: scroll;
 }
 
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
 main.container {
   padding-top: 0.5em;
   display: grid;
@@ -36,12 +41,12 @@ aside nav h2 {
   line-height: 1;
 }
 
-aside .help {
-  --pico-typography-spacing-vertical: 0.5em;
+aside nav li {
+  cursor: pointer;
 }
 
-aside .help a {
-  text-decoration: none;
+aside .help {
+  --pico-typography-spacing-vertical: 0.5em;
 }
 
 @media (min-width: 1000px) {
