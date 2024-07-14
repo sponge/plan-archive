@@ -38,16 +38,18 @@ const App: Component = () => {
     addEventListener('popstate', (ev:PopStateEvent) => {
       setCurrentUser(ev.state.user);
       setCurrentTime(ev.state.time);
+      setDisplayType(ev.state.view);
     });
 
     const params = new URLSearchParams(document.location.search);
     if (params.size) {
       setCurrentUser(params.get('user') ?? '');
       setCurrentTime(parseInt(params.get('time') ?? '0'));
-      console.log('repalcestate');
+      setDisplayType(params.get('view') as DisplayType ?? DisplayType.Full)
       history.replaceState({
         user: currentUser(),
         time: currentTime(),
+        view: displayType(),
       }, '');
     }
   });
@@ -118,6 +120,10 @@ const App: Component = () => {
       const prevStr = plansByUser()[plan.by][prevIdx]?.contents ?? '';
       diffs = diffLines(prevStr, plan.contents, { ignoreWhitespace: true });
 
+      if (diffs.length == 1 && !diffs[0].added && !diffs[0].removed) {
+        console.warn('possible dupe!', plansByUser()[plan.by][prevIdx], plan, diffs);
+      }
+
       // filter out additions, however if it's empty (plans are identical) just use the whole array
       let additions = diffs.filter(d => d.added);
       if (!additions.length) additions = diffs;
@@ -137,22 +143,40 @@ const App: Component = () => {
       .forEach(dom => { if (dom instanceof HTMLDetailsElement) dom.open = show })
   }
 
+  const buildURLParams = () => {
+    const params = new URLSearchParams();
+    if (currentUser().length) params.set('user', currentUser());
+    if (currentTime() > 0) params.set('time', currentTime().toString());
+    if (displayType() != DisplayType.Full) params.set('view', displayType());
+    return params.toString();
+  }
+
   const clickNav = (user: string) => {
     setCurrentUser(user);
     setCurrentTime(0);
     history.pushState({
+      ...history.state,
       user,
       time: 0,
-    }, '', `?user=${user}`);
+    }, '', `?${buildURLParams()}`);
   }
 
   const clickPerma = (user: string, time: number) => {
     setCurrentUser(user);
     setCurrentTime(time);
     history.pushState({
+      ...history.state,
       user,
       time,
-    }, '', `?user=${user}&time=${time}`);
+    }, '', `?${buildURLParams()}`);
+  }
+
+  const changeDisplayType = (val: string) => {
+    setDisplayType(val as DisplayType);
+    history.pushState({
+      ...history.state,
+      view: displayType(),
+    }, '', `?${buildURLParams()}`);
   }
 
   return (
@@ -192,7 +216,7 @@ const App: Component = () => {
               <li><a href="#" onClick={[setPlansVisible, true]}>open all</a></li>
               <li><a href="#" onClick={[setPlansVisible, false]}>close all</a></li>
               <li>
-                <select onChange={ev => setDisplayType(ev.target.value as DisplayType)} value={displayType()}>
+                <select onChange={ev => changeDisplayType(ev.target.value)} value={displayType()}>
                   <option value={DisplayType.Trimmed}>trimmed</option>
                   <option value={DisplayType.Full}>full</option>
                   <option value={DisplayType.Diff}>diff</option>
