@@ -4,11 +4,13 @@ import { For, Match, ResourceFetcher, Show, Suspense, Switch, createEffect, crea
 import _ from 'lodash';
 import linkifyStr from 'linkify-string';
 import { Change, diffLines } from 'diff';
+import MiniSearch from 'minisearch';
 
 type UserByDomainEntries = [string, string[]][];
 
 // this is what comes from the browser response
 interface PlanFile {
+  id: number
   by: string
   time: number
   contents: string
@@ -33,6 +35,11 @@ const App: Component = () => {
   const [searchTerm, setSearchTerm] = createSignal<string>(''); // search body for this term
   const [displayType, setDisplayType] = createSignal<DisplayType>(DisplayType.Full); // how you want to view the plans
   const [showHelp, setShowHelp] = createSignal(false); // show the help text
+  const [searchDisabled, setSearchDisabled] = createSignal(true);
+
+  const miniSearch = new MiniSearch<PlanFile>({
+    fields: ['contents']
+  });
 
   onMount(() => {
     addEventListener('popstate', (ev:PopStateEvent) => {
@@ -60,17 +67,28 @@ const App: Component = () => {
     let plans: PlanFile[] = await resp.json();
     // sort by time here so we can depend on this in any further operations
     return plans
-      .map(plan => {
+      .map((plan, i) => {
         // chop off one level of subdomain (mail.*, finger.*, but leave longer in place
         const user = plan.by.split('@')[0];
         const host = plan.by.split('@')[1];
         const parts = host.split('.');
         plan.by = user + '@' + (parts.length == 3 ? parts.slice(-2).join('.') : host);
+        plan.id = i; // for minisearch
         return plan;
       })
       .sort((a, b) => a.time - b.time);
   }
   const [plans] = createResource(fetchPlans, { initialValue: [] });
+
+  // update search index
+  createEffect(async () => {
+    setSearchDisabled(true);
+    if (plans.loading) return;
+    miniSearch.removeAll();
+    miniSearch.addAllAsync(plans()).then(() => {
+      setSearchDisabled(false);
+    })
+  })
 
   // list of all domains that plans have came from
   const domains = createMemo(() => plans()
@@ -101,11 +119,12 @@ const App: Component = () => {
   const filteredPlans = createMemo(() => {
     if (!currentUser().length && !searchTerm().length) return [];
     const isUser = currentUser().includes('@');
+    const searchResults = miniSearch.search(searchTerm(), { fuzzy: 0.3 });
+
     return plans()
       .filter(plan => isUser ? plan.by == currentUser() : plan.by.endsWith(currentUser()))
       .filter(plan => currentTime() > 0 ? plan.time == currentTime() : true)
-      // FIXME: half-assed text search. look into fuse.js
-      .filter(plan => plan.contents.toLowerCase().includes(searchTerm().toLowerCase()))
+      .filter(plan => !searchTerm().length ? true : searchResults.find(res => plan.id == res.id))
       .sort((a, b) => a.time - b.time);
   })
 
@@ -181,6 +200,11 @@ const App: Component = () => {
     }, '', `?${buildURLParams()}`);
   }
 
+  const clickReset = () => {
+    setSearchTerm('');
+    setCurrentUser('');
+  }
+
   return (
     <main class="container">
       <Suspense fallback={<span aria-busy="true"></span>}>
@@ -210,6 +234,7 @@ const App: Component = () => {
                   <Show when={currentUser().length || searchTerm().length}
                     fallback={`${plans().length} total plans`}>
                     {filteredDisplayPlan().length} {filteredDisplayPlan().length == 1 ? 'plan' : 'plans'}
+                    &nbsp;(<a onClick={clickReset}>Reset</a>)
                   </Show>
                 </strong>
               </li>
@@ -224,7 +249,15 @@ const App: Component = () => {
                   <option value={DisplayType.Diff}>diff</option>
                 </select>
               </li>
-              <li><input type="search" placeholder="Search" onChange={ev => setSearchTerm(ev.target.value)} /></li>
+              <li>
+                <input
+                  disabled={searchDisabled()}
+                  type="search"
+                  placeholder={searchDisabled() ? 'Indexing...' : 'Search'}
+                  onChange={ev => setSearchTerm(ev.target.value)}
+                  value={searchTerm()}
+                />
+              </li>
             </ul>
           </nav>
           <For each={filteredDisplayPlan()}>
