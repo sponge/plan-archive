@@ -80,7 +80,6 @@ const App: Component = () => {
   );
 
   // list of all users
-  // FIXME: store the full email so we can do stuff like collapse mail.ravensoft.com/ravensoft.com into one?
   const users = createMemo(() => plans()
     .map(plan => plan.by)
     .filter((by, i, array) => array.indexOf(by) == i)
@@ -91,8 +90,7 @@ const App: Component = () => {
   const usersByDomain = createMemo<UserByDomainEntries>(() => domains()
     .map(domain => [
       domain,
-      users()
-        .filter(user => user.endsWith(domain))
+      users().filter(user => user.endsWith(domain))
     ])
   );
 
