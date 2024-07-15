@@ -276,6 +276,7 @@ const App: Component = () => {
             </p>
           </header>
           <p>Created by <a href="https://erysdren.me/">erysden</a> and <a href="https://d8d.org">sponge</a></p>
+          <p><a href="https://github.com/sponge/plan-archive">source code and plain-text .plan source</a></p>
           <h2>What is this?</h2>
           <p>
             These things called .plan files are the name for a file that users, often on a Unix system, would write in order to tell
